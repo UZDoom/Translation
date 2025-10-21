@@ -3,6 +3,7 @@ import re
 import polib
 import os
 
+
 def to_gettext(sheet, page):
 	print(f"read {sheet}/{page}")
 
@@ -55,29 +56,40 @@ def to_gettext(sheet, page):
 		os.makedirs(output_dir)
 		print(f"mkdir {output_dir}")
 
-	for lang_col_name in lang_cols:
-		output_lang_code = mapping[lang_col_name] if lang_col_name in mapping else lang_col_name
+	def to_gettext_file(in_name, out_name):
 
-		print(f"  in: {lang_col_name}")
+		print(f"  in: {out_name or 'Template'}")
 
 		po_trans = polib.POFile()
+		po_trans.header = "UZDoom translation file"
 		po_trans.metadata = {
 			'Project-Id-Version': '1.0',
 			'Content-Type': 'text/plain; charset=utf-8',
-			'Language': output_lang_code,
-			'HeaderCode': lang_col_name,
+			'MIME-Version': '1.0',
 		}
+
+		if out_name:
+			po_trans.metadata['Language'] = out_name
+			po_trans.metadata['HeaderCode'] = out_name
 
 		for _, row in data.iterrows():
 			entry = polib.POEntry(
 				msgid=str(row[key_col]),
-				msgstr=str(row[lang_col_name]) if pd.notna(row[lang_col_name]) else '',
+				msgstr=str(row[in_name]) if pd.notna(row[in_name]) else '',
 				tcomment=str(row[comment_col]) if pd.notna(row[comment_col]) else ''
 			)
 			po_trans.append(entry)
 
-		po_trans.save(os.path.join(output_dir, f"{output_lang_code}.po"))
-		print(f"  out: {output_lang_code}")
+		out_name = f"{out_name}.po" if out_name else "template.pot"
+
+		po_trans.save(os.path.join(output_dir, out_name))
+		print(f"  out: {out_name}")
+
+	to_gettext_file('default', None)
+
+	for lang_col_name in lang_cols:
+		output_lang_code = mapping[lang_col_name] if lang_col_name in mapping else lang_col_name
+		to_gettext_file(lang_col_name, output_lang_code)
 
 def to_csv(sheet, page):
 	print(f"read {sheet}/{page}")
