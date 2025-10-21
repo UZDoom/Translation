@@ -2,10 +2,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"Language: es-MX\n"
+"Language: es_MX\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"HeaderCode: es-MX\n"
+"HeaderCode: es_MX\n"
 
 msgid "NIGHTMARE"
 msgstr ""

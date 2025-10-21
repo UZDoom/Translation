@@ -17,37 +17,39 @@ def to_gettext(sheet, page):
 	source_lang_code = 'en_US'
 
 	mapping = {
-		"default": "en_US",
-		"eng enc ena enz eni ens enj enb enl ent enw": "en_GB",
-		"by": "be",
-		# cs
-		# da
-		# de
-		# el
-		# eo
-		# es
-		"esm esn esg esc esa esd esv eso esr ess esf esl esy esz esb ese esh esi esu": "es-MX",
-		# fi
-		# fr
-		# hr
-		# hu
-		# it
-		"ja jp": "ja",
-		# ko
-		# nl
-		"no nb": "no",
-		# pl
-		"pt": "pt-BR",
-		"ptg": "pt",
-		# ro
-		# ru
-		# sr
-		# sv
-		# tr
-		# uk
-		# bg
-		# ba
+		# ba: # !!! Bashkir
+		# bg: # !!! Bulgarian
+		"by": "be_Latn", # Belarusian
+		# cs: # !!! Czech
+		# da: # Danish
+		# de: # German
+		"default": "en_US", # American English
+		# el: # Greek
+		"eng enc ena enz eni ens enj enb enl ent enw": "en_GB", # British English
+		# eo: # Esperanto
+		# es: # Spanish
+		"esm esn esg esc esa esd esv eso esr ess esf esl esy esz esb ese esh esi esu": "es_MX", # Mexican Spanish
+		# fi: # Finnish
+		# fr: # French
+		# hr: # Croatian
+		# hu: # Hungarian
+		# it: # Italian
+		"ja jp": "ja", # Japanese
+		"jp": "ja", # Japanese
+		# ko: # Korean
+		# nl: # Dutch
+		"no nb": "nb_NO", # Norwegian
+		# pl: # Polish
+		"pt": "pt_BR", # Brazilian Portuguese
+		"ptg": "pt", # Portuguese
+		# ro: # Romanian
+		# ru: # Russian
+		# sr: # Serbian
+		# sv: # Swedish
+		# tr: # Turkish
+		# uk: # Ukrainian
 	}
+
 	ignored_cols = ['Identifier', 'Remarks', 'Filter']
 
 	lang_cols = [col for col in data.columns if col not in ignored_cols]
