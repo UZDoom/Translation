@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: fr\n"
 
-# Doom Episode names
-msgid "nan"
-msgstr ""
-
 msgid "TXT_D1E1"
 msgstr "Plongé dans la Mort"
 
@@ -40,14 +36,6 @@ msgid "TXT_TNT_EP"
 msgstr ""
 
 msgid "TXT_CHEX_EP"
-msgstr ""
-
-# Level names
-msgid "nan"
-msgstr ""
-
-# Doom 1
-msgid "nan"
 msgstr ""
 
 msgid "HUSTR_E1M1"
@@ -172,10 +160,6 @@ msgstr "E4M8: A un Homme cruel"
 msgid "HUSTR_E4M9"
 msgstr "E4M9: Terreur"
 
-# Doom 2
-msgid "nan"
-msgstr ""
-
 # Note that the "LEVEL" part of the string will be stripped so it shouldn't be
 # translated
 msgid "HUSTR_1"
@@ -287,10 +271,6 @@ msgstr ""
 msgid "HUSTR_33"
 msgstr "NIVEAU 33: Trahison"
 
-# No Rest For The Living
-msgid "nan"
-msgstr ""
-
 msgid "NHUSTR_1"
 msgstr "NIVEAU 1: La Base Terrienne"
 
@@ -317,10 +297,6 @@ msgstr "NIVEAU 8: Tombe Maléfique"
 
 msgid "NHUSTR_9"
 msgstr "NIVEAU 9: Marche des Démons"
-
-# Plutonia
-msgid "nan"
-msgstr ""
 
 msgid "PHUSTR_1"
 msgstr "NIVEAU 1: Congo"
@@ -420,10 +396,6 @@ msgstr "NIVEAU 31: Cyber-Antre"
 msgid "PHUSTR_32"
 msgstr "NIVEAU 32: Go 2 It"
 
-# TNT: Evilution
-msgid "nan"
-msgstr ""
-
 msgid "THUSTR_1"
 msgstr "NIVEAU 1: Système de Contrôle"
 
@@ -520,10 +492,6 @@ msgstr "NIVEAU 31: Pharaon"
 
 msgid "THUSTR_32"
 msgstr "NIVEAU 32: Caraïbes"
-
-# Heretic
-msgid "nan"
-msgstr ""
 
 msgid "HHUSTR_E1M1"
 msgstr "Les Docks"
@@ -660,10 +628,6 @@ msgstr "Les Champs du Jugement"
 msgid "HHUSTR_E5M9"
 msgstr "L'échevaux de D'Sparil"
 
-# Strife
-msgid "nan"
-msgstr ""
-
 msgid "TXT_STRIFE_MAP01"
 msgstr "ZONE 1: Sanctuaire"
 
@@ -778,10 +742,6 @@ msgstr "ZONE 37: Zone de Chasse"
 msgid "TXT_STRIFE_MAP38"
 msgstr "ZONE 38: Chaos Ordonné"
 
-# Hexen
-msgid "nan"
-msgstr ""
-
 msgid "TXT_HEXEN_MAP01"
 msgstr "Chambre de la Séparation"
 
@@ -875,10 +835,6 @@ msgstr ""
 msgid "TXT_HEXEN_MAP40"
 msgstr "Creuset Sombre"
 
-# Hexen Deathkings
-msgid "nan"
-msgstr ""
-
 msgid "TXT_HEXDD_MAP41"
 msgstr "Village en Ruines"
 
@@ -956,10 +912,6 @@ msgstr "Trou d'Egout"
 
 msgid "TXT_HEXDD_MAP38"
 msgstr "La Rose"
-
-# Intermission texts
-msgid "nan"
-msgstr ""
 
 # Doom Ep.1
 msgid "E1TEXT"
@@ -1662,10 +1614,6 @@ msgstr ""
 msgid "TXT_HEXDD_WIN3MSG"
 msgstr "\\n...Et d'autres joueurs attendent."
 
-# Hexen script texts
-msgid "nan"
-msgstr ""
-
 msgid "TXT_ACS_MAP01_5_THEDO"
 msgstr "Cette porte est verouillée."
 
@@ -1805,10 +1753,6 @@ msgstr "Etes vous suffisamment fort"
 
 msgid "TXT_ACS_MAP35_14_TOFAC"
 msgstr "pour faire face à vos maîtres?"
-
-# Hexen: Deathkings script texts
-msgid "nan"
-msgstr ""
 
 msgid "TXT_ACS_MAP33_6_YOUDA"
 msgstr "Vous osez faire escarmouche dans la salle de préparation?"
@@ -2037,10 +1981,6 @@ msgstr "Le chemin vers la tour est ouvert."
 
 msgid "TXT_ACS_MAP60_3_THEWA"
 msgstr "Le chemin est ouvert."
-
-# Strife dialogue
-msgid "nan"
-msgstr ""
 
 # MAP01: Beldin.
 msgid "TXT_DLG_SCRIPT01_D0_IDONT"
@@ -6298,10 +6238,6 @@ msgstr "J'aime entendre ça."
 msgid "TXT_DLG_SCRIPT34_D31836_WELCO"
 msgstr "Bievenue, notre ami!"
 
-# Random dialogue
-msgid "nan"
-msgstr ""
-
 msgid "TXT_RANDOM_PEASANT_01"
 msgstr "S'il vous plaît, laissez-moi tranquille."
 
@@ -6488,10 +6424,6 @@ msgstr "Merci, au revoir!"
 
 msgid "TXT_RANDOMGOODBYE_3"
 msgstr "A plus tard!"
-
-# Strife logs
-msgid "nan"
-msgstr ""
 
 # MAP33: After getting the hidden com unit in the tavern.
 msgid "TXT_ILOG1"
@@ -7075,10 +7007,6 @@ msgstr ""
 "maître d'armes et ils pourront vous préparer pour ce qu'il va suivre. Vous "
 "pouvez faire le tour de la base si vous le souhaitez."
 
-# Strife characters
-msgid "nan"
-msgstr ""
-
 msgid "TXT_SPEAKER_ORDER_SERGEANT"
 msgstr "Sergeant de l'Ordre"
 
@@ -7271,10 +7199,6 @@ msgid "TXT_SPEAKER_BOWYER"
 msgstr ""
 
 msgid "TXT_SPEAKER_DERWIN"
-msgstr ""
-
-# Strife subtitles
-msgid "nan"
 msgstr ""
 
 # Menu's intro.
@@ -8193,10 +8117,6 @@ msgid "TXT_SUB_LOG237"
 msgstr ""
 "J'aurais adoré être de l'autre côté de cette porte.. Mais il faut que je "
 "reste sous terre. Il est temps que tu rencontre notre leader, Macil."
-
-# Blackbird's remarks embedded in other conversations
-msgid "nan"
-msgstr ""
 
 # MAP02: Mourel.
 msgid "TXT_BBSUB_SCRIPT02_D57608_IFIKN"

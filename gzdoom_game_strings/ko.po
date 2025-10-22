@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: ko\n"
 
-# Doom Episode names
-msgid "nan"
-msgstr ""
-
 msgid "TXT_D1E1"
 msgstr "끝없이 밀려오는 죽음"
 
@@ -41,14 +37,6 @@ msgstr "TNT: 이블루션"
 
 msgid "TXT_CHEX_EP"
 msgstr "첵스 퀘스트"
-
-# Level names
-msgid "nan"
-msgstr ""
-
-# Doom 1
-msgid "nan"
-msgstr ""
 
 msgid "HUSTR_E1M1"
 msgstr "E1M1: 격납고"
@@ -172,10 +160,6 @@ msgstr "E4M8: 잔혹한 자에게로"
 msgid "HUSTR_E4M9"
 msgstr "E4M9: 공포"
 
-# Doom 2
-msgid "nan"
-msgstr ""
-
 # Note that the "LEVEL" part of the string will be stripped so it shouldn't be
 # translated
 msgid "HUSTR_1"
@@ -287,10 +271,6 @@ msgstr "레벨 32: 킨"
 msgid "HUSTR_33"
 msgstr "레벨 33: 배반"
 
-# No Rest For The Living
-msgid "nan"
-msgstr ""
-
 msgid "NHUSTR_1"
 msgstr "레벨 1: 지구 기지"
 
@@ -317,10 +297,6 @@ msgstr "레벨 8: 증오의 무덤"
 
 msgid "NHUSTR_9"
 msgstr "레벨 9: 악마들의 행진"
-
-# Plutonia
-msgid "nan"
-msgstr ""
 
 msgid "PHUSTR_1"
 msgstr "레벨 1: 콩고"
@@ -420,10 +396,6 @@ msgstr "레벨 31: 사이버소굴"
 msgid "PHUSTR_32"
 msgstr "레벨 32: 함 해 봐"
 
-# TNT: Evilution
-msgid "nan"
-msgstr ""
-
 msgid "THUSTR_1"
 msgstr "레벨 1: 시스템 제어시설"
 
@@ -520,10 +492,6 @@ msgstr "레벨 31: 파라오"
 
 msgid "THUSTR_32"
 msgstr "레벨 32: 카리브해"
-
-# Heretic
-msgid "nan"
-msgstr ""
 
 msgid "HHUSTR_E1M1"
 msgstr "항구"
@@ -660,10 +628,6 @@ msgstr "심판의 평야"
 msgid "HHUSTR_E5M9"
 msgstr "드'스파릴의 타래"
 
-# Strife
-msgid "nan"
-msgstr ""
-
 msgid "TXT_STRIFE_MAP01"
 msgstr "구역 1: 성소"
 
@@ -778,10 +742,6 @@ msgstr "구역 37: 살육의 전장"
 msgid "TXT_STRIFE_MAP38"
 msgstr "구역 38: 정돈된 혼란"
 
-# Hexen
-msgid "nan"
-msgstr ""
-
 msgid "TXT_HEXEN_MAP01"
 msgstr "바람 회관"
 
@@ -875,10 +835,6 @@ msgstr "사육장"
 msgid "TXT_HEXEN_MAP40"
 msgstr "어두운 고난"
 
-# Hexen Deathkings
-msgid "nan"
-msgstr ""
-
 msgid "TXT_HEXDD_MAP41"
 msgstr "파괴된 마을"
 
@@ -956,10 +912,6 @@ msgstr "하수도"
 
 msgid "TXT_HEXDD_MAP38"
 msgstr "장밋빛"
-
-# Intermission texts
-msgid "nan"
-msgstr ""
 
 # Doom Ep.1
 msgid "E1TEXT"
@@ -1416,10 +1368,6 @@ msgstr ""
 msgid "TXT_HEXDD_WIN3MSG"
 msgstr "\\n...그리고 다른 도전자들이 기다리고 있다."
 
-# Hexen script texts
-msgid "nan"
-msgstr ""
-
 msgid "TXT_ACS_MAP01_5_THEDO"
 msgstr "문이 잠겨 있다"
 
@@ -1558,10 +1506,6 @@ msgstr "네 놈은 주인들을 대면할 힘이..."
 
 msgid "TXT_ACS_MAP35_14_TOFAC"
 msgstr "진심으로 있는 것인가?"
-
-# Hexen: Deathkings script texts
-msgid "nan"
-msgstr ""
 
 msgid "TXT_ACS_MAP33_6_YOUDA"
 msgstr "감히 준비의 방에서 전투를 벌이다니..."
@@ -1790,10 +1734,6 @@ msgstr "탑으로 가는 길이 열렸다"
 
 msgid "TXT_ACS_MAP60_3_THEWA"
 msgstr "길이 열렸다"
-
-# Strife dialogue
-msgid "nan"
-msgstr ""
 
 # MAP01: Beldin.
 msgid "TXT_DLG_SCRIPT01_D0_IDONT"
@@ -5691,10 +5631,6 @@ msgstr "좋은 마음가짐입니다."
 msgid "TXT_DLG_SCRIPT34_D31836_WELCO"
 msgstr "어서오세요, 친구여!"
 
-# Random dialogue
-msgid "nan"
-msgstr ""
-
 msgid "TXT_RANDOM_PEASANT_01"
 msgstr "목숨만은 살려줘."
 
@@ -5853,10 +5789,6 @@ msgstr "그렇군요. 그럼 안녕히!"
 
 msgid "TXT_RANDOMGOODBYE_3"
 msgstr "다음에 봐요!"
-
-# Strife logs
-msgid "nan"
-msgstr ""
 
 # MAP33: After getting the hidden com unit in the tavern.
 msgid "TXT_ILOG1"
@@ -6293,10 +6225,6 @@ msgstr ""
 "축하해! 우리 모두 너에게 고마워하고 있어. 의무관과 무기 담당관을 찾아가면 너에게 보답을 할 준비를 할 거야. 그 후엔 기지를 마음껏 "
 "돌아다녀 봐!"
 
-# Strife characters
-msgid "nan"
-msgstr ""
-
 msgid "TXT_SPEAKER_ORDER_SERGEANT"
 msgstr "오더 장교"
 
@@ -6490,10 +6418,6 @@ msgstr "보여"
 
 msgid "TXT_SPEAKER_DERWIN"
 msgstr "더윈"
-
-# Strife subtitles
-msgid "nan"
-msgstr ""
 
 # Menu's intro.
 msgid "TXT_SUB_INTRO1"
@@ -7219,10 +7143,6 @@ msgstr "이 어리석은, 멍청한, 짜리몽땅한 말미잘 얼간이! 우리
 msgid "TXT_SUB_LOG237"
 msgstr ""
 "저 문 앞에서 내가 기다리고 있었으면 얼마나 좋을까... 하지만 난 지하에서 임무를 수행해야 해. 마실 사령관을 만날 준비를 해."
-
-# Blackbird's remarks embedded in other conversations
-msgid "nan"
-msgstr ""
 
 # MAP02: Mourel.
 msgid "TXT_BBSUB_SCRIPT02_D57608_IFIKN"

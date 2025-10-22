@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: fi\n"
 
-# Doom Episode names
-msgid "nan"
-msgstr ""
-
 msgid "TXT_D1E1"
 msgstr "Polvia myöten vainajissa"
 
@@ -41,14 +37,6 @@ msgstr "TNT: Paholuutio"
 
 msgid "TXT_CHEX_EP"
 msgstr "Chex-seikkailu"
-
-# Level names
-msgid "nan"
-msgstr ""
-
-# Doom 1
-msgid "nan"
-msgstr ""
 
 msgid "HUSTR_E1M1"
 msgstr "E1M1: Lentoalushalli"
@@ -172,10 +160,6 @@ msgstr "E4M8: Armottomalle"
 msgid "HUSTR_E4M9"
 msgstr "E4M9: Pelko"
 
-# Doom 2
-msgid "nan"
-msgstr ""
-
 # Note that the "LEVEL" part of the string will be stripped so it shouldn't be
 # translated
 msgid "HUSTR_1"
@@ -287,10 +271,6 @@ msgstr ""
 msgid "HUSTR_33"
 msgstr "Taso 33: Petä"
 
-# No Rest For The Living
-msgid "nan"
-msgstr ""
-
 msgid "NHUSTR_1"
 msgstr "Taso 1: Maatukikohta"
 
@@ -317,10 +297,6 @@ msgstr "Taso 8: Pahantahdon hauta"
 
 msgid "NHUSTR_9"
 msgstr "Taso 9: Demonien marssi"
-
-# Plutonia
-msgid "nan"
-msgstr ""
 
 msgid "PHUSTR_1"
 msgstr "Taso 1: Kongo"
@@ -420,10 +396,6 @@ msgstr "Taso 31: Kyberpesä"
 msgid "PHUSTR_32"
 msgstr "Taso 32: Iske kii"
 
-# TNT: Evilution
-msgid "nan"
-msgstr ""
-
 msgid "THUSTR_1"
 msgstr "Taso 1: Järjestelmäohjaamo"
 
@@ -520,10 +492,6 @@ msgstr "Taso 31: Faarao"
 
 msgid "THUSTR_32"
 msgstr "Taso 32: Karibia"
-
-# Heretic
-msgid "nan"
-msgstr ""
 
 msgid "HHUSTR_E1M1"
 msgstr "Satamat"
@@ -660,10 +628,6 @@ msgstr "Tuomion kenttä"
 msgid "HHUSTR_E5M9"
 msgstr "D'Sparilin vyyhti"
 
-# Strife
-msgid "nan"
-msgstr ""
-
 msgid "TXT_STRIFE_MAP01"
 msgstr "ALUE 1: Pyhäkkö"
 
@@ -778,10 +742,6 @@ msgstr "ALUE 37: Tappotanner"
 msgid "TXT_STRIFE_MAP38"
 msgstr "ALUE 38: Järjestynyt kaaos"
 
-# Hexen
-msgid "nan"
-msgstr ""
-
 msgid "TXT_HEXEN_MAP01"
 msgstr "Viskaussali"
 
@@ -875,10 +835,6 @@ msgstr "Vivaario"
 msgid "TXT_HEXEN_MAP40"
 msgstr "Pimeä tulikoe"
 
-# Hexen Deathkings
-msgid "nan"
-msgstr ""
-
 msgid "TXT_HEXDD_MAP41"
 msgstr "Rauniokylä"
 
@@ -956,10 +912,6 @@ msgstr "Viemärimonttu"
 
 msgid "TXT_HEXDD_MAP38"
 msgstr "Ruusu"
-
-# Intermission texts
-msgid "nan"
-msgstr ""
 
 # Doom Ep.1
 msgid "E1TEXT"
@@ -1600,10 +1552,6 @@ msgstr ""
 msgid "TXT_HEXDD_WIN3MSG"
 msgstr "\\n...ja muut pelaajat odottavat."
 
-# Hexen script texts
-msgid "nan"
-msgstr ""
-
 msgid "TXT_ACS_MAP01_5_THEDO"
 msgstr "Ovi on lukittu"
 
@@ -1742,10 +1690,6 @@ msgstr "Olet riittävän vahva"
 
 msgid "TXT_ACS_MAP35_14_TOFAC"
 msgstr "kohtaamaan omat mestarisi?"
-
-# Hexen: Deathkings script texts
-msgid "nan"
-msgstr ""
 
 msgid "TXT_ACS_MAP33_6_YOUDA"
 msgstr "Kuinka kehtaat taistella valmistautumishuoneessa?"
@@ -1974,10 +1918,6 @@ msgstr "Tie tornin luo on auki"
 
 msgid "TXT_ACS_MAP60_3_THEWA"
 msgstr "Tie on auki"
-
-# Strife dialogue
-msgid "nan"
-msgstr ""
 
 # MAP01: Beldin.
 msgid "TXT_DLG_SCRIPT01_D0_IDONT"
@@ -6196,10 +6136,6 @@ msgstr "Niin sitä pitää."
 msgid "TXT_DLG_SCRIPT34_D31836_WELCO"
 msgstr "Tervetuloa, ystävä!"
 
-# Random dialogue
-msgid "nan"
-msgstr ""
-
 msgid "TXT_RANDOM_PEASANT_01"
 msgstr "Pyydän, älä vahingoita minua."
 
@@ -6382,10 +6318,6 @@ msgstr "Kiitos, hei!"
 
 msgid "TXT_RANDOMGOODBYE_3"
 msgstr "Nähdään!"
-
-# Strife logs
-msgid "nan"
-msgstr ""
 
 # MAP33: After getting the hidden com unit in the tavern.
 msgid "TXT_ILOG1"
@@ -6953,10 +6885,6 @@ msgstr ""
 "asekouluttajan luona, ja he valmistavat sinut tuleviin koitoksiin. Saat "
 "vapaasti kulkea tukikohdan sisällä."
 
-# Strife characters
-msgid "nan"
-msgstr ""
-
 msgid "TXT_SPEAKER_ORDER_SERGEANT"
 msgstr "Veljeskunnan kersantti"
 
@@ -7149,10 +7077,6 @@ msgid "TXT_SPEAKER_BOWYER"
 msgstr ""
 
 msgid "TXT_SPEAKER_DERWIN"
-msgstr ""
-
-# Strife subtitles
-msgid "nan"
 msgstr ""
 
 # Menu's intro.
@@ -8046,10 +7970,6 @@ msgid "TXT_SUB_LOG237"
 msgstr ""
 "Kunpa olisin voinut olla sinua ovella vastassa, mutta minun on pysyttävä "
 "maan alla. Sinun on aika tavata johtajamme, Macilin."
-
-# Blackbird's remarks embedded in other conversations
-msgid "nan"
-msgstr ""
 
 # MAP02: Mourel.
 msgid "TXT_BBSUB_SCRIPT02_D57608_IFIKN"

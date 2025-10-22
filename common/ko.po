@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: ko\n"
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "PRESSYN"
 msgstr "Y키 또는 N키를 누르시오."
 
@@ -64,10 +60,6 @@ msgstr ""
 msgid "TXT_QUITENDOOM"
 msgstr "아무 키를 누르거나 아무 곳이나 클릭하면 종료됩니다."
 
-# Savegame
-msgid "nan"
-msgstr ""
-
 msgid "NEWSAVE"
 msgstr "<새로운 게임 저장>"
 
@@ -94,10 +86,6 @@ msgstr "파일 없음"
 
 msgid "MNU_DELETESG"
 msgstr "저장된 게임을 정말로 삭제하시겠습니까?"
-
-# General
-msgid "nan"
-msgstr ""
 
 msgid "OPTVAL_OFF"
 msgstr "끔"
@@ -161,10 +149,6 @@ msgstr "네트워크 설정"
 
 msgid "OPTMNU_REVERB"
 msgstr "울림 환경 편집기"
-
-# Customize controls
-msgid "nan"
-msgstr ""
 
 msgid "CNTRLMNU_SWITCHTEXT1"
 msgstr "바꿀려면 ENTER키, 지울려면 BACKSPACE키를 누르시오"
@@ -420,10 +404,6 @@ msgstr "게임 종료"
 msgid "CNTRLMNU_ADJUST_GAMMA"
 msgstr "감마 조정"
 
-# Mouse
-msgid "nan"
-msgstr ""
-
 msgid "MOUSEMNU_ENABLEMOUSE"
 msgstr "마우스 사용"
 
@@ -489,10 +469,6 @@ msgstr "시스템 커서"
 
 msgid "OPTVAL_DEFAULT"
 msgstr "기본 설정"
-
-# Controller
-msgid "nan"
-msgstr ""
 
 msgid "JOYMNU_TITLE"
 msgstr "컨트롤러 구성"
@@ -569,10 +545,6 @@ msgstr "반전"
 
 msgid "OPTVAL_NOTINVERTED"
 msgstr "반전되지 않음"
-
-# Player Menu
-msgid "nan"
-msgstr ""
 
 msgid "TXT_COLOR_BLUE"
 msgstr "청색"
@@ -673,10 +645,6 @@ msgstr "자동 조준"
 msgid "PLYRMNU_ALWAYSRUN"
 msgstr "달리기 토글"
 
-# Display
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_SCREENSIZE"
 msgstr "화면 크기"
 
@@ -716,10 +684,6 @@ msgstr ""
 msgid "MSGMNU_MESSAGESCALE"
 msgstr ""
 
-# Automap
-msgid "nan"
-msgstr ""
-
 msgid "MNU_COLORPICKER"
 msgstr "색상을 고르시오"
 
@@ -740,10 +704,6 @@ msgstr "미니맵 색상 설정"
 
 msgid "MAPCOLORMNU_DEFAULTMAPCOLORS"
 msgstr "기본 색상으로 복구"
-
-# Sound
-msgid "nan"
-msgstr ""
 
 msgid "SNDMNU_SNDENABLED"
 msgstr ""
@@ -1239,10 +1199,6 @@ msgstr ""
 msgid "OPTVAL_1024K"
 msgstr ""
 
-# Postprocessing
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_UNCHARTED2"
 msgstr ""
 
@@ -1332,10 +1288,6 @@ msgstr "방사형"
 
 msgid "OPTVAL_STANDARD"
 msgstr "기본"
-
-# Texture options
-msgid "nan"
-msgstr ""
 
 msgid "GLTEXMNU_TEXFILTER"
 msgstr "텍스쳐 필터 모드"
@@ -1535,10 +1487,6 @@ msgstr ""
 msgid "OPTVAL_OPENGLES"
 msgstr ""
 
-# Miscellaneous Options
-msgid "nan"
-msgstr ""
-
 msgid "MISCMNU_MERGEKEYS"
 msgstr "양쪽 ALT/CTRL/SHIFT키 합병"
 
@@ -1593,10 +1541,6 @@ msgstr "고급"
 
 msgid "OPTMNU_LANGUAGE"
 msgstr "언어"
-
-# Reverb editor
-msgid "nan"
-msgstr ""
 
 msgid "TXT_UNDOCHANGES"
 msgstr "변경 사항 취소"
@@ -1750,10 +1694,6 @@ msgstr "파일 이름"
 msgid "REVMNU_Environments_to_save"
 msgstr "저장할 공간"
 
-# Vulkan
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_VKOPT"
 msgstr "벌칸 설정(실험적)"
 
@@ -1779,10 +1719,6 @@ msgstr "이 설정을 적용하려면 게임을 재시작해야 합니다."
 msgid "VKMNU_DEVICESELECT"
 msgstr "벌칸 장치를 고르시오"
 
-# Texture scaling
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_SCALENX"
 msgstr ""
 
@@ -1801,10 +1737,6 @@ msgstr ""
 msgid "OPTVAL_OLD_NXBRZ"
 msgstr "구형 xBRZ"
 
-# Option Search
-msgid "nan"
-msgstr ""
-
 msgid "OS_TITLE"
 msgstr "옵션 검색"
 
@@ -1819,10 +1751,6 @@ msgstr "검색 결과 없음."
 
 msgid "OS_LABEL"
 msgstr "검색:"
-
-# Blood Bath Announcer
-msgid "nan"
-msgstr ""
 
 msgid "TXT_OBITUARY1"
 msgstr "%k 은(는) %o 의 뼈를 발랐다."
@@ -1964,10 +1892,6 @@ msgstr "저장된 게임 찾아보기"
 msgid "MOUSEMNU_SWAPBUTTONS"
 msgstr "마우스 버튼 바꾸기"
 
-# Additional menu texts
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_ONLYMODIFIED"
 msgstr "수정된 것만"
 
@@ -2009,10 +1933,6 @@ msgstr "외형"
 
 msgid "DSPLYMNU_ADVANCED"
 msgstr "고급 디스플레이 옵션"
-
-# IWAD/Game picker
-msgid "nan"
-msgstr ""
 
 msgid "PICKER_SELECT"
 msgstr "실행할 게임 파일을 선택합니다."
@@ -2069,10 +1989,6 @@ msgstr "이 컨트롤러 활성화"
 
 msgid "CNTRLMNU_OPEN_MAIN"
 msgstr "메인 메뉴 열기"
-
-# New content
-msgid "nan"
-msgstr ""
 
 msgid "MODMNU_REPLAYER"
 msgstr ""

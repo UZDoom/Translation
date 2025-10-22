@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: ro\n"
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "PRESSYN"
 msgstr "Apasă Y sau N."
 
@@ -64,10 +60,6 @@ msgstr "Vorbește:"
 msgid "TXT_QUITENDOOM"
 msgstr "Apasă orice tastă sau apasă click oriunde în fereastră pentru a ieși."
 
-# Savegame
-msgid "nan"
-msgstr ""
-
 msgid "NEWSAVE"
 msgstr "<Salvare Nouă>"
 
@@ -94,10 +86,6 @@ msgstr "Niciun fișier"
 
 msgid "MNU_DELETESG"
 msgstr "Vrei să ștergi salvarea?"
-
-# General
-msgid "nan"
-msgstr ""
 
 msgid "OPTVAL_OFF"
 msgstr "Pornit"
@@ -161,10 +149,6 @@ msgstr "Setări Rețea"
 
 msgid "OPTMNU_REVERB"
 msgstr "Editor de reverb"
-
-# Customize controls
-msgid "nan"
-msgstr ""
 
 msgid "CNTRLMNU_SWITCHTEXT1"
 msgstr "ENTER pentru modificare, BACKSPACE pentru ștergere"
@@ -420,10 +404,6 @@ msgstr "Ieși din Joc"
 msgid "CNTRLMNU_ADJUST_GAMMA"
 msgstr "Ajustează gamma"
 
-# Mouse
-msgid "nan"
-msgstr ""
-
 msgid "MOUSEMNU_ENABLEMOUSE"
 msgstr "Activare mouse"
 
@@ -489,10 +469,6 @@ msgstr "Cursor simplu"
 
 msgid "OPTVAL_DEFAULT"
 msgstr "Implicit"
-
-# Controller
-msgid "nan"
-msgstr ""
 
 msgid "JOYMNU_TITLE"
 msgstr "Configurare Controller"
@@ -569,10 +545,6 @@ msgstr "Inversat"
 
 msgid "OPTVAL_NOTINVERTED"
 msgstr "Neinversat"
-
-# Player Menu
-msgid "nan"
-msgstr ""
 
 msgid "TXT_COLOR_BLUE"
 msgstr "Albastru"
@@ -673,10 +645,6 @@ msgstr "Autoțintire"
 msgid "PLYRMNU_ALWAYSRUN"
 msgstr "Fugă în permanență"
 
-# Display
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_SCREENSIZE"
 msgstr "Dimensiune ecran"
 
@@ -716,10 +684,6 @@ msgstr "Afișare Mesaje Pulsante"
 msgid "MSGMNU_MESSAGESCALE"
 msgstr "Scară Mesaje"
 
-# Automap
-msgid "nan"
-msgstr ""
-
 msgid "MNU_COLORPICKER"
 msgstr "Alege o Culoare"
 
@@ -740,10 +704,6 @@ msgstr "Personalizare culori hartă"
 
 msgid "MAPCOLORMNU_DEFAULTMAPCOLORS"
 msgstr "Revenire la culorile implicite"
-
-# Sound
-msgid "nan"
-msgstr ""
 
 msgid "SNDMNU_SNDENABLED"
 msgstr "Sunet activat"
@@ -1239,10 +1199,6 @@ msgstr ""
 msgid "OPTVAL_1024K"
 msgstr ""
 
-# Postprocessing
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_UNCHARTED2"
 msgstr ""
 
@@ -1331,10 +1287,6 @@ msgid "OPTVAL_RADIAL"
 msgstr "Circular"
 
 msgid "OPTVAL_STANDARD"
-msgstr ""
-
-# Texture options
-msgid "nan"
 msgstr ""
 
 msgid "GLTEXMNU_TEXFILTER"
@@ -1535,10 +1487,6 @@ msgstr ""
 msgid "OPTVAL_OPENGLES"
 msgstr ""
 
-# Miscellaneous Options
-msgid "nan"
-msgstr ""
-
 msgid "MISCMNU_MERGEKEYS"
 msgstr "Combină Alt/Ctrl/Shift stânga+dreapta"
 
@@ -1593,10 +1541,6 @@ msgstr "Îmbunătățit"
 
 msgid "OPTMNU_LANGUAGE"
 msgstr "Limbă"
-
-# Reverb editor
-msgid "nan"
-msgstr ""
 
 msgid "TXT_UNDOCHANGES"
 msgstr "Anulează Modificările"
@@ -1750,10 +1694,6 @@ msgstr "Nume fișier"
 msgid "REVMNU_Environments_to_save"
 msgstr "Medii de salvat"
 
-# Vulkan
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_VKOPT"
 msgstr "Setări Vulkan (În curs de testare)"
 
@@ -1779,10 +1719,6 @@ msgstr "Aceste setări necesită o repornire pentru a putea fi aplicate"
 msgid "VKMNU_DEVICESELECT"
 msgstr "Selectare Dispozitiv Vulkan"
 
-# Texture scaling
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_SCALENX"
 msgstr ""
 
@@ -1801,10 +1737,6 @@ msgstr ""
 msgid "OPTVAL_OLD_NXBRZ"
 msgstr "Vechiul xBRZ"
 
-# Option Search
-msgid "nan"
-msgstr ""
-
 msgid "OS_TITLE"
 msgstr "Căutare Setări"
 
@@ -1819,10 +1751,6 @@ msgstr "Niciun rezultat găsit."
 
 msgid "OS_LABEL"
 msgstr "Caută:"
-
-# Blood Bath Announcer
-msgid "nan"
-msgstr ""
 
 msgid "TXT_OBITUARY1"
 msgstr "%k l-a dezosat pe %o ca pe un pește"
@@ -1964,10 +1892,6 @@ msgstr "Caută Salvările"
 msgid "MOUSEMNU_SWAPBUTTONS"
 msgstr "Inversează Butoanele Mouse-ului între Ele"
 
-# Additional menu texts
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_ONLYMODIFIED"
 msgstr "Doar modificat"
 
@@ -2009,10 +1933,6 @@ msgstr "Aspect"
 
 msgid "DSPLYMNU_ADVANCED"
 msgstr "Setări de Afișare Avansate"
-
-# IWAD/Game picker
-msgid "nan"
-msgstr ""
 
 msgid "PICKER_SELECT"
 msgstr "Selectați ce joc să rulați."
@@ -2069,10 +1989,6 @@ msgstr "Activează acest controller"
 
 msgid "CNTRLMNU_OPEN_MAIN"
 msgstr "Deschideți meniul principal"
-
-# New content
-msgid "nan"
-msgstr ""
 
 msgid "MODMNU_REPLAYER"
 msgstr "Modul repetitor"

@@ -5,10 +5,6 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "PRESSYN"
 msgstr ""
 
@@ -49,10 +45,6 @@ msgstr ""
 msgid "TXT_QUITENDOOM"
 msgstr ""
 
-# Savegame
-msgid "nan"
-msgstr ""
-
 msgid "NEWSAVE"
 msgstr ""
 
@@ -78,10 +70,6 @@ msgid "MNU_NOFILES"
 msgstr ""
 
 msgid "MNU_DELETESG"
-msgstr ""
-
-# General
-msgid "nan"
 msgstr ""
 
 msgid "OPTVAL_OFF"
@@ -145,10 +133,6 @@ msgid "OPTMNU_NETWORK"
 msgstr ""
 
 msgid "OPTMNU_REVERB"
-msgstr ""
-
-# Customize controls
-msgid "nan"
 msgstr ""
 
 msgid "CNTRLMNU_SWITCHTEXT1"
@@ -405,10 +389,6 @@ msgstr ""
 msgid "CNTRLMNU_ADJUST_GAMMA"
 msgstr ""
 
-# Mouse
-msgid "nan"
-msgstr ""
-
 msgid "MOUSEMNU_ENABLEMOUSE"
 msgstr ""
 
@@ -473,10 +453,6 @@ msgid "OPTSTR_SYSTEMCURSOR"
 msgstr ""
 
 msgid "OPTVAL_DEFAULT"
-msgstr ""
-
-# Controller
-msgid "nan"
 msgstr ""
 
 msgid "JOYMNU_TITLE"
@@ -553,10 +529,6 @@ msgid "OPTVAL_INVERTED"
 msgstr ""
 
 msgid "OPTVAL_NOTINVERTED"
-msgstr ""
-
-# Player Menu
-msgid "nan"
 msgstr ""
 
 msgid "TXT_COLOR_BLUE"
@@ -658,10 +630,6 @@ msgstr ""
 msgid "PLYRMNU_ALWAYSRUN"
 msgstr ""
 
-# Display
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_SCREENSIZE"
 msgstr ""
 
@@ -701,10 +669,6 @@ msgstr ""
 msgid "MSGMNU_MESSAGESCALE"
 msgstr ""
 
-# Automap
-msgid "nan"
-msgstr ""
-
 msgid "MNU_COLORPICKER"
 msgstr ""
 
@@ -724,10 +688,6 @@ msgid "MAPCOLORMNU_TITLE"
 msgstr ""
 
 msgid "MAPCOLORMNU_DEFAULTMAPCOLORS"
-msgstr ""
-
-# Sound
-msgid "nan"
 msgstr ""
 
 msgid "SNDMNU_SNDENABLED"
@@ -1224,10 +1184,6 @@ msgstr ""
 msgid "OPTVAL_1024K"
 msgstr ""
 
-# Postprocessing
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_UNCHARTED2"
 msgstr ""
 
@@ -1316,10 +1272,6 @@ msgid "OPTVAL_RADIAL"
 msgstr ""
 
 msgid "OPTVAL_STANDARD"
-msgstr ""
-
-# Texture options
-msgid "nan"
 msgstr ""
 
 msgid "GLTEXMNU_TEXFILTER"
@@ -1520,10 +1472,6 @@ msgstr ""
 msgid "OPTVAL_OPENGLES"
 msgstr ""
 
-# Miscellaneous Options
-msgid "nan"
-msgstr ""
-
 msgid "MISCMNU_MERGEKEYS"
 msgstr ""
 
@@ -1577,10 +1525,6 @@ msgid "OPTVAL_YES_ENHANCED"
 msgstr ""
 
 msgid "OPTMNU_LANGUAGE"
-msgstr ""
-
-# Reverb editor
-msgid "nan"
 msgstr ""
 
 msgid "TXT_UNDOCHANGES"
@@ -1735,10 +1679,6 @@ msgstr ""
 msgid "REVMNU_Environments_to_save"
 msgstr ""
 
-# Vulkan
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_VKOPT"
 msgstr ""
 
@@ -1764,10 +1704,6 @@ msgstr ""
 msgid "VKMNU_DEVICESELECT"
 msgstr ""
 
-# Texture scaling
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_SCALENX"
 msgstr ""
 
@@ -1786,10 +1722,6 @@ msgstr ""
 msgid "OPTVAL_OLD_NXBRZ"
 msgstr ""
 
-# Option Search
-msgid "nan"
-msgstr ""
-
 msgid "OS_TITLE"
 msgstr ""
 
@@ -1803,10 +1735,6 @@ msgid "OS_NO_RESULTS"
 msgstr ""
 
 msgid "OS_LABEL"
-msgstr ""
-
-# Blood Bath Announcer
-msgid "nan"
 msgstr ""
 
 msgid "TXT_OBITUARY1"
@@ -1949,10 +1877,6 @@ msgstr ""
 msgid "MOUSEMNU_SWAPBUTTONS"
 msgstr ""
 
-# Additional menu texts
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_ONLYMODIFIED"
 msgstr ""
 
@@ -1993,10 +1917,6 @@ msgid "DSPLYMNU_APPEARANCE"
 msgstr ""
 
 msgid "DSPLYMNU_ADVANCED"
-msgstr ""
-
-# IWAD/Game picker
-msgid "nan"
 msgstr ""
 
 msgid "PICKER_SELECT"
@@ -2053,10 +1973,6 @@ msgid "JOYMNU_JOYENABLE"
 msgstr ""
 
 msgid "CNTRLMNU_OPEN_MAIN"
-msgstr ""
-
-# New content
-msgid "nan"
 msgstr ""
 
 msgid "MODMNU_REPLAYER"

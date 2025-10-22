@@ -375,9 +375,6 @@ msgstr ""
 "\n"
 "그래... 자넨 이제 혼자야."
 
-msgid "nan"
-msgstr ""
-
 msgid "TXT_HACXMAP01"
 msgstr "ZONE 1: 진엠프 주식회사 본부"
 

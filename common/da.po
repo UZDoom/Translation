@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: da\n"
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "PRESSYN"
 msgstr "Tryk på Y eller N."
 
@@ -66,10 +62,6 @@ msgstr ""
 "Tryk på en vilkårlig tast eller klik et vilkårligt sted i vinduet for at "
 "afslutte."
 
-# Savegame
-msgid "nan"
-msgstr ""
-
 msgid "NEWSAVE"
 msgstr "<Nyt gemmer spil>"
 
@@ -96,10 +88,6 @@ msgstr "Ingen filer"
 
 msgid "MNU_DELETESG"
 msgstr "Ønsker du virkelig at slette det gemte spil?"
-
-# General
-msgid "nan"
-msgstr ""
 
 msgid "OPTVAL_OFF"
 msgstr "Fra"
@@ -163,10 +151,6 @@ msgstr "Netværksindstillinger"
 
 msgid "OPTMNU_REVERB"
 msgstr "Reverb editor"
-
-# Customize controls
-msgid "nan"
-msgstr ""
 
 msgid "CNTRLMNU_SWITCHTEXT1"
 msgstr "ENTER for at ændre, BACKSPACE for at slette"
@@ -422,10 +406,6 @@ msgstr "Afslut spil"
 msgid "CNTRLMNU_ADJUST_GAMMA"
 msgstr "Juster Gamma"
 
-# Mouse
-msgid "nan"
-msgstr ""
-
 msgid "MOUSEMNU_ENABLEMOUSE"
 msgstr "Aktiver mus"
 
@@ -491,10 +471,6 @@ msgstr "Systemcursor"
 
 msgid "OPTVAL_DEFAULT"
 msgstr "Standard"
-
-# Controller
-msgid "nan"
-msgstr ""
 
 msgid "JOYMNU_TITLE"
 msgstr "Konfigurer controller"
@@ -571,10 +547,6 @@ msgstr "Omvendt"
 
 msgid "OPTVAL_NOTINVERTED"
 msgstr "Ikke omvendt"
-
-# Player Menu
-msgid "nan"
-msgstr ""
 
 msgid "TXT_COLOR_BLUE"
 msgstr "Blå"
@@ -675,10 +647,6 @@ msgstr ""
 msgid "PLYRMNU_ALWAYSRUN"
 msgstr "Altid løbe"
 
-# Display
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_SCREENSIZE"
 msgstr "Skærmstørrelse"
 
@@ -718,10 +686,6 @@ msgstr "Pulserende meddelelser Visning"
 msgid "MSGMNU_MESSAGESCALE"
 msgstr "Skala for meddelelser"
 
-# Automap
-msgid "nan"
-msgstr ""
-
 msgid "MNU_COLORPICKER"
 msgstr "Vælg farve"
 
@@ -742,10 +706,6 @@ msgstr "Tilpas kortfarver"
 
 msgid "MAPCOLORMNU_DEFAULTMAPCOLORS"
 msgstr "Gendan standard brugerdefinerede farver"
-
-# Sound
-msgid "nan"
-msgstr ""
 
 msgid "SNDMNU_SNDENABLED"
 msgstr "Lyd aktiveret"
@@ -1241,10 +1201,6 @@ msgstr ""
 msgid "OPTVAL_1024K"
 msgstr ""
 
-# Postprocessing
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_UNCHARTED2"
 msgstr ""
 
@@ -1333,10 +1289,6 @@ msgid "OPTVAL_RADIAL"
 msgstr "Radial"
 
 msgid "OPTVAL_STANDARD"
-msgstr ""
-
-# Texture options
-msgid "nan"
 msgstr ""
 
 msgid "GLTEXMNU_TEXFILTER"
@@ -1537,10 +1489,6 @@ msgstr ""
 msgid "OPTVAL_OPENGLES"
 msgstr ""
 
-# Miscellaneous Options
-msgid "nan"
-msgstr ""
-
 msgid "MISCMNU_MERGEKEYS"
 msgstr "Flette venstre+højre Alt/Ctrl/Shift"
 
@@ -1595,10 +1543,6 @@ msgstr "Forbedret"
 
 msgid "OPTMNU_LANGUAGE"
 msgstr "Sprog"
-
-# Reverb editor
-msgid "nan"
-msgstr ""
 
 msgid "TXT_UNDOCHANGES"
 msgstr "Fortryd ændringer"
@@ -1752,10 +1696,6 @@ msgstr "Filnavn"
 msgid "REVMNU_Environments_to_save"
 msgstr "Miljøer, der skal gemmes"
 
-# Vulkan
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_VKOPT"
 msgstr "Vulkan-indstillinger (eksperimentelt)"
 
@@ -1781,10 +1721,6 @@ msgstr "Disse indstillinger kræver en genstart for at få effekt."
 msgid "VKMNU_DEVICESELECT"
 msgstr "Vælg Vulkan-enhed"
 
-# Texture scaling
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_SCALENX"
 msgstr ""
 
@@ -1803,10 +1739,6 @@ msgstr ""
 msgid "OPTVAL_OLD_NXBRZ"
 msgstr "Gamle xBRZ"
 
-# Option Search
-msgid "nan"
-msgstr ""
-
 msgid "OS_TITLE"
 msgstr "Mulighed Søgning"
 
@@ -1821,10 +1753,6 @@ msgstr "Ingen resultater fundet."
 
 msgid "OS_LABEL"
 msgstr "Søg:"
-
-# Blood Bath Announcer
-msgid "nan"
-msgstr ""
 
 msgid "TXT_OBITUARY1"
 msgstr "%k udbenede %o som en fisk"
@@ -1966,10 +1894,6 @@ msgstr "Gennemse gemte spil"
 msgid "MOUSEMNU_SWAPBUTTONS"
 msgstr "Udskift museknapper"
 
-# Additional menu texts
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_ONLYMODIFIED"
 msgstr "Kun ændret"
 
@@ -2011,10 +1935,6 @@ msgstr "Udseende"
 
 msgid "DSPLYMNU_ADVANCED"
 msgstr "Avancerede visningsindstillinger"
-
-# IWAD/Game picker
-msgid "nan"
-msgstr ""
 
 msgid "PICKER_SELECT"
 msgstr "Vælg, hvilket spil du vil spille"
@@ -2071,10 +1991,6 @@ msgstr "Aktivér denne controller"
 
 msgid "CNTRLMNU_OPEN_MAIN"
 msgstr "Åbn hovedmenuen"
-
-# New content
-msgid "nan"
-msgstr ""
 
 msgid "MODMNU_REPLAYER"
 msgstr "Modulafspiller"

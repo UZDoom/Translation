@@ -227,11 +227,6 @@ msgstr "첵스 시티의 공포"
 msgid "M_EPI3"
 msgstr "대침공!"
 
-# Note: chex3.wad currently does not have Tag properties defined for the
-# following! Added for completeness' sake (or for mods to utilize)
-msgid "nan"
-msgstr ""
-
 msgid "TAG_GOGGLES"
 msgstr ""
 

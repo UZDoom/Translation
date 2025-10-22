@@ -387,9 +387,6 @@ msgstr ""
 "\n"
 "Você...está sozinh@[ao_ptb]."
 
-msgid "nan"
-msgstr ""
-
 msgid "TXT_HACXMAP01"
 msgstr ""
 

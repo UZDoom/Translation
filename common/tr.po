@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: tr\n"
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "PRESSYN"
 msgstr "Y veya N tuşuna basın."
 
@@ -66,10 +62,6 @@ msgstr ""
 "Çıkmak için herhangi bir tuşa basın veya pencerede herhangi bir yere "
 "tıklayın."
 
-# Savegame
-msgid "nan"
-msgstr ""
-
 msgid "NEWSAVE"
 msgstr "<Yeni Oyun Kaydet>"
 
@@ -96,10 +88,6 @@ msgstr "Dosya yok"
 
 msgid "MNU_DELETESG"
 msgstr "Gerçekten kayıt oyununu silmek istiyor musunuz?\n"
-
-# General
-msgid "nan"
-msgstr ""
 
 msgid "OPTVAL_OFF"
 msgstr "Kapalı"
@@ -163,10 +151,6 @@ msgstr "Ağ Seçenekleri"
 
 msgid "OPTMNU_REVERB"
 msgstr "Reverb ortam düzenleyicisi"
-
-# Customize controls
-msgid "nan"
-msgstr ""
 
 msgid "CNTRLMNU_SWITCHTEXT1"
 msgstr "Değiştirmek için ENTER, silmek için BACKSPACE"
@@ -422,10 +406,6 @@ msgstr "Oyundan Çık"
 msgid "CNTRLMNU_ADJUST_GAMMA"
 msgstr "Gama Ayarlama"
 
-# Mouse
-msgid "nan"
-msgstr ""
-
 msgid "MOUSEMNU_ENABLEMOUSE"
 msgstr "Fareyi etkinleştir"
 
@@ -491,10 +471,6 @@ msgstr "Sistem imleci"
 
 msgid "OPTVAL_DEFAULT"
 msgstr "Varsayılan"
-
-# Controller
-msgid "nan"
-msgstr ""
 
 msgid "JOYMNU_TITLE"
 msgstr "Denetleyiciyi Yapılandırma"
@@ -571,10 +547,6 @@ msgstr "Ters çevrilmiş"
 
 msgid "OPTVAL_NOTINVERTED"
 msgstr "Ters Çevrilmemiş"
-
-# Player Menu
-msgid "nan"
-msgstr ""
 
 msgid "TXT_COLOR_BLUE"
 msgstr "Mavi"
@@ -675,10 +647,6 @@ msgstr ""
 msgid "PLYRMNU_ALWAYSRUN"
 msgstr "Daima Koş"
 
-# Display
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_SCREENSIZE"
 msgstr "Ekran boyutu"
 
@@ -718,10 +686,6 @@ msgstr "Titreşimli mesaj Ekranı"
 msgid "MSGMNU_MESSAGESCALE"
 msgstr "Mesaj Ölçeği"
 
-# Automap
-msgid "nan"
-msgstr ""
-
 msgid "MNU_COLORPICKER"
 msgstr "Renk Seçiniz"
 
@@ -742,10 +706,6 @@ msgstr "Harita Renklerini Özelleştirin"
 
 msgid "MAPCOLORMNU_DEFAULTMAPCOLORS"
 msgstr "Varsayılan özel renkleri geri yükleme"
-
-# Sound
-msgid "nan"
-msgstr ""
 
 msgid "SNDMNU_SNDENABLED"
 msgstr "Ses etkin"
@@ -1241,10 +1201,6 @@ msgstr ""
 msgid "OPTVAL_1024K"
 msgstr ""
 
-# Postprocessing
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_UNCHARTED2"
 msgstr ""
 
@@ -1334,10 +1290,6 @@ msgstr "Radyal"
 
 msgid "OPTVAL_STANDARD"
 msgstr "Standart"
-
-# Texture options
-msgid "nan"
-msgstr ""
 
 msgid "GLTEXMNU_TEXFILTER"
 msgstr "Doku Filtresi modu"
@@ -1537,10 +1489,6 @@ msgstr ""
 msgid "OPTVAL_OPENGLES"
 msgstr ""
 
-# Miscellaneous Options
-msgid "nan"
-msgstr ""
-
 msgid "MISCMNU_MERGEKEYS"
 msgstr "Sol+sağ birleştirme Alt/Ctrl/Shift"
 
@@ -1595,10 +1543,6 @@ msgstr "Geliştirilmiş"
 
 msgid "OPTMNU_LANGUAGE"
 msgstr "Dil"
-
-# Reverb editor
-msgid "nan"
-msgstr ""
 
 msgid "TXT_UNDOCHANGES"
 msgstr "Değişiklikleri Geri Al"
@@ -1752,10 +1696,6 @@ msgstr "Dosya adı"
 msgid "REVMNU_Environments_to_save"
 msgstr "Kurtarılacak ortamlar"
 
-# Vulkan
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_VKOPT"
 msgstr "Vulkan Seçenekleri (Deneysel)"
 
@@ -1781,10 +1721,6 @@ msgstr "Bu seçeneklerin etkili olması için yeniden başlatılması gerekecekt
 msgid "VKMNU_DEVICESELECT"
 msgstr "Vulkan Aygıtını Seçin"
 
-# Texture scaling
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_SCALENX"
 msgstr ""
 
@@ -1803,10 +1739,6 @@ msgstr ""
 msgid "OPTVAL_OLD_NXBRZ"
 msgstr "Eski xBRZ"
 
-# Option Search
-msgid "nan"
-msgstr ""
-
 msgid "OS_TITLE"
 msgstr "Seçenek Arama"
 
@@ -1821,10 +1753,6 @@ msgstr "Sonuç bulunamadı."
 
 msgid "OS_LABEL"
 msgstr "Ara:"
-
-# Blood Bath Announcer
-msgid "nan"
-msgstr ""
 
 msgid "TXT_OBITUARY1"
 msgstr "%o, %k tarafından balık gibi kemirildi."
@@ -1966,10 +1894,6 @@ msgstr "Kaydedilen Oyunlara Gözat"
 msgid "MOUSEMNU_SWAPBUTTONS"
 msgstr "Fare düğmelerini değiştirme"
 
-# Additional menu texts
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_ONLYMODIFIED"
 msgstr "Yalnızca değiştirilmiş"
 
@@ -2011,10 +1935,6 @@ msgstr "Görünüş"
 
 msgid "DSPLYMNU_ADVANCED"
 msgstr "Gelişmiş Görüntüleme Seçenekleri"
-
-# IWAD/Game picker
-msgid "nan"
-msgstr ""
 
 msgid "PICKER_SELECT"
 msgstr "Hangi oyunu oynayacağınızı seçin"
@@ -2071,10 +1991,6 @@ msgstr "Bu denetleyiciyi etkinleştirin"
 
 msgid "CNTRLMNU_OPEN_MAIN"
 msgstr "Ana Menüyü Aç"
-
-# New content
-msgid "nan"
-msgstr ""
 
 msgid "MODMNU_REPLAYER"
 msgstr ""

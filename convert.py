@@ -75,12 +75,13 @@ def to_gettext(sheet, page):
 			po_trans.metadata['HeaderCode'] = out_name
 
 		for _, row in data.iterrows():
-			entry = polib.POEntry(
-				msgid=str(row[key_col]),
-				msgstr=str(row[in_name]) if (out_name and pd.notna(row[in_name])) else '',
-				tcomment=str(row[comment_col]) if pd.notna(row[comment_col]) else ''
-			)
-			po_trans.append(entry)
+			if pd.notna(row[key_col]):
+				entry = polib.POEntry(
+					msgid=str(row[key_col]),
+					msgstr=str(row[in_name]) if (out_name and pd.notna(row[in_name])) else '',
+					tcomment=str(row[comment_col]) if pd.notna(row[comment_col]) else ''
+				)
+				po_trans.append(entry)
 
 		out_name = f"{out_name}.po" if out_name else "template.pot"
 

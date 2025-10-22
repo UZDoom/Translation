@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: sr\n"
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "PRESSKEY"
 msgstr "Притисните било који тастер."
 
@@ -85,10 +81,6 @@ msgstr "Само могуће у регистрованој верзији"
 
 msgid "DOSY"
 msgstr "(Притисните Y да завршите)"
-
-# Quit messages
-msgid "nan"
-msgstr ""
 
 msgid "QUITMSG1"
 msgstr ""
@@ -231,16 +223,8 @@ msgstr ""
 "Прави Чекс ратници не\n"
 "би одустали тако лако!"
 
-# Pickups
-msgid "nan"
-msgstr ""
-
 msgid "TXT_DEFAULTPICKUPMSG"
 msgstr "Покупили сте нешто"
-
-# Locks
-msgid "nan"
-msgstr ""
 
 msgid "PD_ANY"
 msgstr "За отварање потребан је било који кључ"
@@ -263,10 +247,6 @@ msgstr "За активирање потребна су свих шест кљу
 msgid "PD_ALLKEYS"
 msgstr "Потребни су сви кључеви"
 
-# Chat
-msgid "nan"
-msgstr ""
-
 msgid "HUSTR_MSGU"
 msgstr "[Порука непослата]"
 
@@ -287,10 +267,6 @@ msgstr "Лудите..."
 
 msgid "HUSTR_MESSAGESENT"
 msgstr "[Порука послата]"
-
-# Cheats
-msgid "nan"
-msgstr ""
 
 msgid "STSTR_MUS"
 msgstr "Промена музике"
@@ -468,10 +444,6 @@ msgstr "Шта желите да убијете ван игре?"
 msgid "TXT_NOT_FROZEN"
 msgstr "Смрзнути играчи искључени"
 
-# Automap
-msgid "nan"
-msgstr ""
-
 msgid "AMSTR_FOLLOWOFF"
 msgstr "Праћење ИСКЉУЧЕНО"
 
@@ -495,10 +467,6 @@ msgstr "Означено место"
 
 msgid "AMSTR_MARKSCLEARED"
 msgstr "Ознаке избрисане"
-
-# Multiplayer
-msgid "nan"
-msgstr ""
 
 msgid "TXT_FRAGLIMIT"
 msgstr "Фраг-лимит достигнут."
@@ -540,10 +508,6 @@ msgstr "Ултра убиство!"
 msgid "MULTI5"
 msgstr "Монструозно убиство!"
 
-# Scoreboard
-msgid "nan"
-msgstr ""
-
 msgid "SCORE_BONUS"
 msgstr "Бонус"
 
@@ -577,10 +541,6 @@ msgstr "Укупно"
 msgid "SCORE_LVLTIME"
 msgstr "Време нивоа"
 
-# Level Summary
-msgid "nan"
-msgstr ""
-
 msgid "TXT_IMKILLS"
 msgstr "Непријатељи"
 
@@ -605,10 +565,6 @@ msgstr "Следећи ниво"
 msgid "WI_ENTERING"
 msgstr "Следећи ниво:"
 
-# HUD
-msgid "nan"
-msgstr ""
-
 msgid "AM_MONSTERS"
 msgstr "Чудовишта:"
 
@@ -617,10 +573,6 @@ msgstr "Тајне:"
 
 msgid "AM_ITEMS"
 msgstr "Предмети:"
-
-# Obituaries
-msgid "nan"
-msgstr ""
 
 msgid "OB_SUICIDE"
 msgstr "%o самоубиства."
@@ -685,10 +637,6 @@ msgstr "%k осваја фраг за други тим."
 
 msgid "OB_FRIENDLY4"
 msgstr "%k је изгуби@[ao_1_sr] још једног пријатеља."
-
-# Pickup
-msgid "nan"
-msgstr ""
 
 msgid "GOTARMOR"
 msgstr "Покупили сте панцир."
@@ -816,10 +764,6 @@ msgstr "Купите зли скиптар."
 msgid "BETA_BONUS4"
 msgstr "Купите несвету библију."
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "PD_BLUEO"
 msgstr "Треба вам плави кључ да би активирали овај предмет"
 
@@ -874,10 +818,6 @@ msgstr "Треба вам црвена лобања да би отворили �
 msgid "PD_YELLOWS"
 msgstr "Треба вам жута лобања да би отворили ова врата"
 
-# Cast call names
-msgid "nan"
-msgstr ""
-
 msgid "CC_ZOMBIE"
 msgstr "Зомби"
 
@@ -930,10 +870,6 @@ msgstr "Сајбердемон"
 
 msgid "CC_HERO"
 msgstr "Наш херој"
-
-# Actor tag names
-msgid "nan"
-msgstr ""
 
 msgid "FN_SHOTGUN"
 msgstr "Водник"
@@ -994,10 +930,6 @@ msgstr "Ракете"
 
 msgid "AMMO_CELLS"
 msgstr "Енергетске ћелије"
-
-# Obituaries
-msgid "nan"
-msgstr ""
 
 msgid "OB_STEALTHBABY"
 msgstr "%o мисли@[ao_1_sr] да је виде@[ao_1_sr] паукотрона."
@@ -1143,14 +1075,6 @@ msgstr "%o је убијен@[adj_1_sr] од играча %k."
 msgid "OB_MPBFG_MBF"
 msgstr "%o је изгоре@[ao_1_sr] од ВЈП играча %k."
 
-# Heretic
-msgid "nan"
-msgstr ""
-
-# Pickup 
-msgid "nan"
-msgstr ""
-
 msgid "TXT_GOTBLUEKEY"
 msgstr "Плави кључ"
 
@@ -1262,10 +1186,6 @@ msgstr "Шипка феникса"
 msgid "TXT_WPNGAUNTLETS"
 msgstr "Рукавице призивача духова"
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NEEDBLUEKEY"
 msgstr "Треба вам плави кључ да би отворили ова врата"
 
@@ -1274,10 +1194,6 @@ msgstr "Треба вам зелени кључ да би отворили ов�
 
 msgid "TXT_NEEDYELLOWKEY"
 msgstr "Треба вам жути кључ да би отворили ова врата"
-
-# Actor tag names
-msgid "nan"
-msgstr ""
 
 msgid "FN_CHICKEN"
 msgstr "Кокошка"
@@ -1340,10 +1256,6 @@ msgstr "Штап"
 
 msgid "TAG_GOLDWAND"
 msgstr "Вилењачки штапић"
-
-# Obituaries
-msgid "nan"
-msgstr ""
 
 msgid "OB_CHICKEN"
 msgstr "%o је искљуцан@[adj_1_sr] до смрти."
@@ -1453,14 +1365,6 @@ msgstr "%o је изгоре@[ao_1_sr] шипком феникса играча 
 msgid "OB_MPPMACE"
 msgstr ""
 "%o је смрвљен@[adj_1_sr] од стане огромном сферско буздована играча %k."
-
-# Hexen
-msgid "nan"
-msgstr ""
-
-# Pickup
-msgid "nan"
-msgstr ""
 
 msgid "TXT_MANA_1"
 msgstr "Плава мана"
@@ -1630,10 +1534,6 @@ msgstr "Део Жезла утвара"
 msgid "TXT_BLOODSCOURGE_PIECE"
 msgstr "Део Крвавог бича"
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NEED_KEY_STEEL"
 msgstr "За отварање је потребан челични кључ"
 
@@ -1666,10 +1566,6 @@ msgstr "За отварање је потребан мочварни кључ"
 
 msgid "TXT_NEED_KEY_CASTLE"
 msgstr "За отварање је потребан кључ од замка"
-
-# Actor tag names
-msgid "nan"
-msgstr ""
 
 msgid "FN_FIREDEMON"
 msgstr "Африт"
@@ -1848,10 +1744,6 @@ msgstr "Месинганoгвожђени зупчаник"
 msgid "TAG_ARTIPUZZGEAR4"
 msgstr "Сребрномесигани зупчаник"
 
-# Obituaries
-msgid "nan"
-msgstr ""
-
 msgid "OB_FIREDEMON"
 msgstr "%o је окуси@[ao_1_sr] Афритов огањ."
 
@@ -1950,14 +1842,6 @@ msgstr "%o је прими@[ao_1_sr] шокантно откриће играч 
 
 msgid "OB_MPMWEAPBLOODSCOURGE"
 msgstr "%o је обрисан@[adj_1_sr] са лица свемира од Крвавог зла играч %k."
-
-# Strife
-msgid "nan"
-msgstr ""
-
-# Pickups
-msgid "nan"
-msgstr ""
 
 msgid "TXT_METALARMOR"
 msgstr "Покупио си метални оклоп."
@@ -2187,10 +2071,6 @@ msgstr "Мора урадити нешто..."
 msgid "MSG_TALISMANPOWER"
 msgstr "Имаш супер снагу!"
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NEEDKEY"
 msgstr "Немаш кључ"
 
@@ -2241,10 +2121,6 @@ msgstr "Треба ти пехар!"
 
 msgid "TXT_NEED_OPASS"
 msgstr "Треба ти Пророкова пропусница!"
-
-# Actor tags
-msgid "nan"
-msgstr ""
 
 msgid "TAG_PUNCHDAGGER"
 msgstr "Бодеж"
@@ -2549,10 +2425,6 @@ msgstr "Зелени талисман"
 msgid "TAG_TALISMANBLUE"
 msgstr "Плави талисман"
 
-# Obituaries
-msgid "nan"
-msgstr ""
-
 msgid "OB_ACOLYTE"
 msgstr "%o је ревносно упуцан@[adj_1_sr] од стране секташа."
 
@@ -2643,10 +2515,6 @@ msgstr "%o је брутално испари@[ao_1_sr] од стране игр
 msgid "OB_MPSIGIL"
 msgstr "%o је одклекну@[ao_1_sr] сировој моћи %k Сигила."
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "TXT_STRIFE_EPI"
 msgstr "Потрага за Сигил"
 
@@ -2704,14 +2572,6 @@ msgstr "Нађи помоћ"
 # As in for %u amount of money.
 msgid "TXT_TRADE"
 msgstr "за %u"
-
-# Chex Quest
-msgid "nan"
-msgstr ""
-
-# Pickups
-msgid "nan"
-msgstr ""
 
 msgid "GOTCHEXARMOR"
 msgstr "Покупио си Чех оклоп."
@@ -2803,10 +2663,6 @@ msgstr "Добио си мега зорчер!"
 msgid "GOTMINIZORCHER"
 msgstr "Покупио си мини зорчер!"
 
-# Actor tags
-msgid "nan"
-msgstr ""
-
 msgid "TAG_SPOON"
 msgstr "Кашика"
 
@@ -2878,10 +2734,6 @@ msgstr "%o је постао жртва %k ЛАЗ уређаја."
 
 msgid "OB_MPBFG_SPLASH"
 msgstr "%o је ЛАЗ-овао %k."
-
-# Miscellaneous
-msgid "nan"
-msgstr ""
 
 msgid "CHUSTR_E1M1"
 msgstr "Е1М1: Зона слетања"
@@ -2999,14 +2851,6 @@ msgstr "Погонски зорч пуњач"
 
 msgid "AMMO_CELLS"
 msgstr "Фазни зорч пуњач"
-
-# Menus
-msgid "nan"
-msgstr ""
-
-# Main Menus
-msgid "nan"
-msgstr ""
 
 msgid "MNU_NEWGAME"
 msgstr "Нова игра"
@@ -3167,10 +3011,6 @@ msgstr "Костурница"
 
 msgid "MNU_DEMESNE"
 msgstr "Стагнирајући домени"
-
-# Gameplay menus
-msgid "nan"
-msgstr ""
 
 msgid "GMPLYMNU_TEAMPLAY"
 msgstr "Тимска игра"
@@ -3499,10 +3339,6 @@ msgstr "Нема вертикалног гурања од експлозија"
 msgid "CMPTMNU_EXPLODE2"
 msgstr "Користи оригнално Doom понашање за експлозије"
 
-# player
-msgid "nan"
-msgstr ""
-
 msgid "PLYRMNU_RED"
 msgstr "Црвева"
 
@@ -3531,10 +3367,6 @@ msgid "PLYRMNU_SEEBACK"
 msgstr "да видите позади"
 
 msgid "PLYRMNU_VERTSPREAD"
-msgstr ""
-
-# controls
-msgid "nan"
 msgstr ""
 
 msgid "CNTRLMNU_ZOOM"
@@ -3605,10 +3437,6 @@ msgstr "Покрет мишем"
 
 msgid "MOUSEMNU_LOOKSTRAFE"
 msgstr "Стрејф мишем"
-
-# Map colors
-msgid "nan"
-msgstr ""
 
 msgid "MAPCOLORMNU_BACKCOLOR"
 msgstr "Позадина"
@@ -3691,10 +3519,6 @@ msgstr "Провидни читови"
 msgid "MAPCOLORMNU_PORTAL"
 msgstr "Провидни портали"
 
-# Messages
-msgid "nan"
-msgstr ""
-
 msgid "MSGMNU_TITLE"
 msgstr "Поруке"
 
@@ -3739,10 +3563,6 @@ msgstr "Детаљно сачуване поруке"
 
 msgid "MSGMNU_DEVELOPER"
 msgstr "Поруке девелопера"
-
-# Automap
-msgid "nan"
-msgstr ""
 
 msgid "AUTOMAPMNU_COLORSET"
 msgstr "Боје за мапу"
@@ -3813,10 +3633,6 @@ msgstr "Постави ознаку"
 msgid "MAPCNTRLMNU_CLEARMARK"
 msgstr "Уклони ознаку"
 
-# Scoreboard
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_SCOREBOARD"
 msgstr "Табеларне подешавања"
 
@@ -3843,10 +3659,6 @@ msgstr "Детмеч подешавања"
 
 msgid "SCRBRDMNU_TEAMDEATHMATCH"
 msgstr "Тимски детмеч подешавања"
-
-# Alt HUD
-msgid "nan"
-msgstr ""
 
 msgid "ALTHUDMNU_TITLE"
 msgstr "Алтернативни HUD"
@@ -3938,10 +3750,6 @@ msgstr "Боја назива статистика"
 msgid "ALTHUDMNU_STATSCOLOR"
 msgstr "Боја статистика"
 
-# Display (game related)
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_CAPFPS"
 msgstr "Интерполација рендеринга"
 
@@ -4032,10 +3840,6 @@ msgstr "Тресење камере током неактивности"
 msgid "DSPLYMNU_BOBSPEED"
 msgstr "Брзина трсења оружја"
 
-# Scaling
-msgid "nan"
-msgstr ""
-
 msgid "SCALEMNU_TITLE"
 msgstr "Подешавања размере"
 
@@ -4068,10 +3872,6 @@ msgstr "Проширење преко целог екрана"
 
 msgid "SCALEMNU_ADAPT"
 msgstr "Прилагоди размери екрана"
-
-# HUD
-msgid "nan"
-msgstr ""
 
 msgid "HUDMNU_TITLE"
 msgstr "HUD подешавања"
@@ -4120,10 +3920,6 @@ msgstr "Покажи IWAD дијалог за избор"
 
 msgid "MISCMNU_ALLCHEATS"
 msgstr "Омогући читове од свих игара"
-
-# Option Menus
-msgid "nan"
-msgstr ""
 
 msgid "MISCMNU_ENABLESCRIPTSCREENSHOTS"
 msgstr "Омогући прављење скриншотова по скрипти"
@@ -4799,10 +4595,6 @@ msgstr "Претрага:"
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Увек приказуј кључеве"
 
-# Newly added content
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NO_TEAM_CHANGE"
 msgstr "Мењање тима је искључено!"
 
@@ -5300,11 +5092,6 @@ msgstr ""
 msgid "PAUSE_STRING"
 msgstr ""
 
-# New Doom item Tags for GZDoom 5.0. The names used here are taken from the
-# Doom manual (Doomwiki was referenced)
-msgid "nan"
-msgstr ""
-
 msgid "TAG_BACKPACK"
 msgstr ""
 
@@ -5366,10 +5153,6 @@ msgid "TAG_YELLOWSKULL"
 msgstr ""
 
 msgid "TAG_REDSKULL"
-msgstr ""
-
-# Chex Quest item tags
-msgid "nan"
 msgstr ""
 
 msgid "TAG_GLASSOFWATER"

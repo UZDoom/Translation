@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: it\n"
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "PRESSYN"
 msgstr "Premi Y oppure N."
 
@@ -65,10 +61,6 @@ msgid "TXT_QUITENDOOM"
 msgstr ""
 "Premi un qualunque tasto o fai un click ovunque nella finestra per uscire."
 
-# Savegame
-msgid "nan"
-msgstr ""
-
 msgid "NEWSAVE"
 msgstr "<Nuovo Salvataggio>"
 
@@ -95,10 +87,6 @@ msgstr "Nessun file"
 
 msgid "MNU_DELETESG"
 msgstr "Vuoi veramente cancellare il salvataggio?"
-
-# General
-msgid "nan"
-msgstr ""
 
 msgid "OPTVAL_OFF"
 msgstr "Disattivo"
@@ -162,10 +150,6 @@ msgstr "Opzioni Network"
 
 msgid "OPTMNU_REVERB"
 msgstr "Editor ambiente reverb"
-
-# Customize controls
-msgid "nan"
-msgstr ""
 
 msgid "CNTRLMNU_SWITCHTEXT1"
 msgstr "INVIO per modificare, BACKSPACE per ripulire"
@@ -421,10 +405,6 @@ msgstr "Esci dal gioco"
 msgid "CNTRLMNU_ADJUST_GAMMA"
 msgstr "Aggiustamento Gamma"
 
-# Mouse
-msgid "nan"
-msgstr ""
-
 msgid "MOUSEMNU_ENABLEMOUSE"
 msgstr "Attiva il mouse"
 
@@ -490,10 +470,6 @@ msgstr "Cursore di sistema"
 
 msgid "OPTVAL_DEFAULT"
 msgstr "Predefinito"
-
-# Controller
-msgid "nan"
-msgstr ""
 
 msgid "JOYMNU_TITLE"
 msgstr "Configura il controller"
@@ -570,10 +546,6 @@ msgstr "Invertito"
 
 msgid "OPTVAL_NOTINVERTED"
 msgstr "Non invertito"
-
-# Player Menu
-msgid "nan"
-msgstr ""
 
 msgid "TXT_COLOR_BLUE"
 msgstr "Blu"
@@ -674,10 +646,6 @@ msgstr "Mira automatica"
 msgid "PLYRMNU_ALWAYSRUN"
 msgstr "Corri sempre"
 
-# Display
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_SCREENSIZE"
 msgstr "Dimensione della schermata"
 
@@ -717,10 +685,6 @@ msgstr "Mostra messaggi pulsanti"
 msgid "MSGMNU_MESSAGESCALE"
 msgstr "Dimensioni Messaggi"
 
-# Automap
-msgid "nan"
-msgstr ""
-
 msgid "MNU_COLORPICKER"
 msgstr "Scegli il colore"
 
@@ -741,10 +705,6 @@ msgstr "Personalizza i colori della mappa"
 
 msgid "MAPCOLORMNU_DEFAULTMAPCOLORS"
 msgstr "Reimposta i colori personalizzati al default"
-
-# Sound
-msgid "nan"
-msgstr ""
 
 msgid "SNDMNU_SNDENABLED"
 msgstr "Abilita gli effetti sonori"
@@ -1240,10 +1200,6 @@ msgstr ""
 msgid "OPTVAL_1024K"
 msgstr ""
 
-# Postprocessing
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_UNCHARTED2"
 msgstr ""
 
@@ -1332,10 +1288,6 @@ msgid "OPTVAL_RADIAL"
 msgstr "Radiale"
 
 msgid "OPTVAL_STANDARD"
-msgstr ""
-
-# Texture options
-msgid "nan"
 msgstr ""
 
 msgid "GLTEXMNU_TEXFILTER"
@@ -1536,10 +1488,6 @@ msgstr ""
 msgid "OPTVAL_OPENGLES"
 msgstr ""
 
-# Miscellaneous Options
-msgid "nan"
-msgstr ""
-
 msgid "MISCMNU_MERGEKEYS"
 msgstr "Unisci sinistra+destra Alt/Control/Maiusc"
 
@@ -1594,10 +1542,6 @@ msgstr "Migliorata"
 
 msgid "OPTMNU_LANGUAGE"
 msgstr "Lingua"
-
-# Reverb editor
-msgid "nan"
-msgstr ""
 
 msgid "TXT_UNDOCHANGES"
 msgstr "Revocare le modifiche"
@@ -1751,10 +1695,6 @@ msgstr "Nome del file"
 msgid "REVMNU_Environments_to_save"
 msgstr "Ambienti da salvare"
 
-# Vulkan
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_VKOPT"
 msgstr "Opzioni Vulkan (Sperimentale)"
 
@@ -1780,10 +1720,6 @@ msgstr "Queste opzioni richiedono il riavvio per avere effetto."
 msgid "VKMNU_DEVICESELECT"
 msgstr "Seleziona il Dispositivo Vulkan"
 
-# Texture scaling
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_SCALENX"
 msgstr ""
 
@@ -1802,10 +1738,6 @@ msgstr ""
 msgid "OPTVAL_OLD_NXBRZ"
 msgstr "Vecchio xBRZ"
 
-# Option Search
-msgid "nan"
-msgstr ""
-
 msgid "OS_TITLE"
 msgstr "Opzioni di ricerca"
 
@@ -1820,10 +1752,6 @@ msgstr "Nessun risultato trovato."
 
 msgid "OS_LABEL"
 msgstr "Trova:"
-
-# Blood Bath Announcer
-msgid "nan"
-msgstr ""
 
 msgid "TXT_OBITUARY1"
 msgstr "%k ha dissossato %o come un pesce"
@@ -1965,10 +1893,6 @@ msgstr "Apri i Giochi Salvati"
 msgid "MOUSEMNU_SWAPBUTTONS"
 msgstr "Inverti i comandi del mouse"
 
-# Additional menu texts
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_ONLYMODIFIED"
 msgstr "Solo modificato"
 
@@ -2010,10 +1934,6 @@ msgstr "Aspetto"
 
 msgid "DSPLYMNU_ADVANCED"
 msgstr "Opzioni di visualizzazione avanzate"
-
-# IWAD/Game picker
-msgid "nan"
-msgstr ""
 
 msgid "PICKER_SELECT"
 msgstr "Selezionare il file di gioco da eseguire."
@@ -2070,10 +1990,6 @@ msgstr "Attiva questo controller"
 
 msgid "CNTRLMNU_OPEN_MAIN"
 msgstr "Apri il menu principale"
-
-# New content
-msgid "nan"
-msgstr ""
 
 msgid "MODMNU_REPLAYER"
 msgstr "Module replayer"

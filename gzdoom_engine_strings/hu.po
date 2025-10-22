@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: hu\n"
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "PRESSKEY"
 msgstr "Nyomjon meg egy gombot."
 
@@ -87,10 +83,6 @@ msgstr "Csak a teljes verzióban érhető el"
 
 msgid "DOSY"
 msgstr "(Nyomj Y-t a kilépéshez.)"
-
-# Quit messages
-msgid "nan"
-msgstr ""
 
 msgid "QUITMSG1"
 msgstr "Kérlek ne lépj le, sok démon vár még arra, hogy felaprítsd!"
@@ -219,16 +211,8 @@ msgstr ""
 "Az igazi Chex(R) Harcos \n"
 "nem adná fel ilyen gyorsan!"
 
-# Pickups
-msgid "nan"
-msgstr ""
-
 msgid "TXT_DEFAULTPICKUPMSG"
 msgstr "Felvettél egy tárgyat."
-
-# Locks
-msgid "nan"
-msgstr ""
 
 msgid "PD_ANY"
 msgstr "Bármilyen kulcs kinyitja ezt az ajtót."
@@ -251,10 +235,6 @@ msgstr "Mind a 6 kulcs kell, hogy aktiváld ezt az objektumot."
 msgid "PD_ALLKEYS"
 msgstr "Az összes kulcsra szükséged van."
 
-# Chat
-msgid "nan"
-msgstr ""
-
 msgid "HUSTR_MSGU"
 msgstr "[Üzenet nincs elküldve]"
 
@@ -275,10 +255,6 @@ msgstr "Eldobod az agyad..."
 
 msgid "HUSTR_MESSAGESENT"
 msgstr "[Üzenet elküldve]"
-
-# Cheats
-msgid "nan"
-msgstr ""
 
 msgid "STSTR_MUS"
 msgstr "Zene Váltás"
@@ -458,10 +434,6 @@ msgstr "Mit tudnál megölni játékon kívül?"
 msgid "TXT_NOT_FROZEN"
 msgstr "Fagyasztott játékos tulajdonságai kikapcsolva"
 
-# Automap
-msgid "nan"
-msgstr ""
-
 msgid "AMSTR_FOLLOWOFF"
 msgstr "Követés mód KI"
 
@@ -485,10 +457,6 @@ msgstr "Megjelölt hely"
 
 msgid "AMSTR_MARKSCLEARED"
 msgstr "Összes jelölés törölve"
-
-# Multiplayer
-msgid "nan"
-msgstr ""
 
 msgid "TXT_FRAGLIMIT"
 msgstr "Fraghatár elérve."
@@ -529,10 +497,6 @@ msgstr "Ultra gyilok!"
 msgid "MULTI5"
 msgstr "Szörnyű gyilkolás!"
 
-# Scoreboard
-msgid "nan"
-msgstr ""
-
 msgid "SCORE_BONUS"
 msgstr "Bónusz"
 
@@ -566,10 +530,6 @@ msgstr "Összesen"
 msgid "SCORE_LVLTIME"
 msgstr "Pályaidő"
 
-# Level Summary
-msgid "nan"
-msgstr ""
-
 msgid "TXT_IMKILLS"
 msgstr "Áldozatok"
 
@@ -594,10 +554,6 @@ msgstr "Következik"
 msgid "WI_ENTERING"
 msgstr "Következik:"
 
-# HUD
-msgid "nan"
-msgstr ""
-
 msgid "AM_MONSTERS"
 msgstr "Szörnyek:"
 
@@ -606,10 +562,6 @@ msgstr "Titkos helyek:"
 
 msgid "AM_ITEMS"
 msgstr "Tárgyak:"
-
-# Obituaries
-msgid "nan"
-msgstr ""
 
 msgid "OB_SUICIDE"
 msgstr "%o öngyilkos lett."
@@ -674,10 +626,6 @@ msgstr "%k szerez egy frag-et a másik csapatnak."
 
 msgid "OB_FRIENDLY4"
 msgstr "%k elveszít egy másik barátot."
-
-# Pickup
-msgid "nan"
-msgstr ""
 
 msgid "GOTARMOR"
 msgstr "Felvettél egy páncélt."
@@ -805,10 +753,6 @@ msgstr "Felvettél egy gonosz jogart."
 msgid "BETA_BONUS4"
 msgstr "Felvettél egy istentelen bibliát."
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "PD_BLUEO"
 msgstr "Egy kék kulcs szükséges az tárgy aktiválásához."
 
@@ -863,10 +807,6 @@ msgstr "Ez az ajtó egy piros koponyával nyílik."
 msgid "PD_YELLOWS"
 msgstr "Ez az ajtó egy sárga koponyával nyílik."
 
-# Cast call names
-msgid "nan"
-msgstr ""
-
 msgid "CC_ZOMBIE"
 msgstr "Zombi"
 
@@ -919,10 +859,6 @@ msgstr "A Kiberdémon"
 
 msgid "CC_HERO"
 msgstr "Hősünk"
-
-# Actor tag names
-msgid "nan"
-msgstr ""
 
 msgid "FN_SHOTGUN"
 msgstr "Őrmester"
@@ -983,10 +919,6 @@ msgstr "Rakéták"
 
 msgid "AMMO_CELLS"
 msgstr "Energiacellák"
-
-# Obituaries
-msgid "nan"
-msgstr ""
 
 msgid "OB_STEALTHBABY"
 msgstr "%o azt hitte, hogy látott egy póktront."
@@ -1132,14 +1064,6 @@ msgstr "%o beleállt %k lézerébe."
 msgid "OB_MPBFG_MBF"
 msgstr "%k hamuvá égette %o testét BFG-vel."
 
-# Heretic
-msgid "nan"
-msgstr ""
-
-# Pickup 
-msgid "nan"
-msgstr ""
-
 msgid "TXT_GOTBLUEKEY"
 msgstr "Kék kulcs"
 
@@ -1251,10 +1175,6 @@ msgstr "Főnix Rúd"
 msgid "TXT_WPNGAUNTLETS"
 msgstr "Halottidéző Páncélkesztyűi"
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NEEDBLUEKEY"
 msgstr "Az ajtó nyitásához szükséged van egy kék kulcsra"
 
@@ -1263,10 +1183,6 @@ msgstr "Az ajtó nyitásához szükséged van egy zöld kulcsra"
 
 msgid "TXT_NEEDYELLOWKEY"
 msgstr "Az ajtó nyitásához szükséged van egy sárga kulcsra"
-
-# Actor tag names
-msgid "nan"
-msgstr ""
 
 msgid "FN_CHICKEN"
 msgstr "Csirke"
@@ -1329,10 +1245,6 @@ msgstr "Bot"
 
 msgid "TAG_GOLDWAND"
 msgstr "Elf pálca"
-
-# Obituaries
-msgid "nan"
-msgstr ""
 
 msgid "OB_CHICKEN"
 msgstr "%o halálra lett csípve."
@@ -1441,14 +1353,6 @@ msgstr "%o elégett %k Főnix Botjának által."
 
 msgid "OB_MPPMACE"
 msgstr "%o össze lett nyomva %k hatalmas buzogány gömbje által."
-
-# Hexen
-msgid "nan"
-msgstr ""
-
-# Pickup
-msgid "nan"
-msgstr ""
 
 msgid "TXT_MANA_1"
 msgstr "Kék Mana"
@@ -1618,10 +1522,6 @@ msgstr "Darab a Bosszúbotból"
 msgid "TXT_BLOODSCOURGE_PIECE"
 msgstr "Darab a Vérkorbácsból"
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NEED_KEY_STEEL"
 msgstr "Az Acél Kulcsra van szükséged"
 
@@ -1654,10 +1554,6 @@ msgstr "A Mocsár Kulcsra van szükséged"
 
 msgid "TXT_NEED_KEY_CASTLE"
 msgstr "A Kastély Kulcsra van szükséged"
-
-# Actor tag names
-msgid "nan"
-msgstr ""
 
 msgid "FN_FIREDEMON"
 msgstr ""
@@ -1836,10 +1732,6 @@ msgstr "Vas és Réz Felszerelés"
 msgid "TAG_ARTIPUZZGEAR4"
 msgstr "Ezüst és Réz Felszerelés"
 
-# Obituaries
-msgid "nan"
-msgstr ""
-
 msgid "OB_FIREDEMON"
 msgstr "%o megkóstolta a Tűz Szellem parazsát."
 
@@ -1938,14 +1830,6 @@ msgstr "%o kapott egy sokkoló relevációt %k-tól/től"
 
 msgid "OB_MPMWEAPBLOODSCOURGE"
 msgstr "%o ki lett törölve az univerzumból %k Vérkorbácsának köszönhetően."
-
-# Strife
-msgid "nan"
-msgstr ""
-
-# Pickups
-msgid "nan"
-msgstr ""
 
 msgid "TXT_METALARMOR"
 msgstr "Felvetted a Fémpáncélt."
@@ -2175,10 +2059,6 @@ msgstr "Valamit kell hogy csináljon..."
 msgid "MSG_TALISMANPOWER"
 msgstr "Tied a Szuper Erő!"
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NEEDKEY"
 msgstr "Ehhez nincs kulcsod."
 
@@ -2229,10 +2109,6 @@ msgstr "A Kupára van szükséged!"
 
 msgid "TXT_NEED_OPASS"
 msgstr "Az Orákulum Engedélyére van szükséged!"
-
-# Actor tags
-msgid "nan"
-msgstr ""
 
 msgid "TAG_PUNCHDAGGER"
 msgstr "Tőr"
@@ -2537,10 +2413,6 @@ msgstr "Zöld Talizmán"
 msgid "TAG_TALISMANBLUE"
 msgstr "Kék Talizmán"
 
-# Obituaries
-msgid "nan"
-msgstr ""
-
 msgid "OB_ACOLYTE"
 msgstr "%o-t buzgó módon le lett lőve egy Oltárszolga által."
 
@@ -2631,10 +2503,6 @@ msgstr "%o elpárolgott %k által."
 msgid "OB_MPSIGIL"
 msgstr "%o fejet hajtott %k Pecsétje ereje előtt."
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "TXT_STRIFE_EPI"
 msgstr "A Pecsét felkutatása"
 
@@ -2692,14 +2560,6 @@ msgstr "Keress segítséget"
 # As in for %u amount of money.
 msgid "TXT_TRADE"
 msgstr "%u számára"
-
-# Chex Quest
-msgid "nan"
-msgstr ""
-
-# Pickups
-msgid "nan"
-msgstr ""
 
 msgid "GOTCHEXARMOR"
 msgstr "Felvettél egy Chex(R) páncélt."
@@ -2791,10 +2651,6 @@ msgstr "Felvetted a Mega Zorkert!"
 msgid "GOTMINIZORCHER"
 msgstr "Felvettél egy Mini Zorkert."
 
-# Actor tags
-msgid "nan"
-msgstr ""
-
 msgid "TAG_SPOON"
 msgstr "Kanál"
 
@@ -2866,10 +2722,6 @@ msgstr "%o prédául lett ejtve %k LAZ készülékével."
 
 msgid "OB_MPBFG_SPLASH"
 msgstr "%o el lett lazzázva %k által."
-
-# Miscellaneous
-msgid "nan"
-msgstr ""
 
 msgid "CHUSTR_E1M1"
 msgstr "E1M1: Leszállópálya"
@@ -2995,14 +2847,6 @@ msgstr "Hajtómű töltet"
 
 msgid "AMMO_CELLS"
 msgstr "Fázisszörcsölő töltet"
-
-# Menus
-msgid "nan"
-msgstr ""
-
-# Main Menus
-msgid "nan"
-msgstr ""
 
 msgid "MNU_NEWGAME"
 msgstr "Új játék"
@@ -3163,10 +3007,6 @@ msgstr "Csontkamra"
 
 msgid "MNU_DEMESNE"
 msgstr "A pangó birtok"
-
-# Gameplay menus
-msgid "nan"
-msgstr ""
 
 msgid "GMPLYMNU_TEAMPLAY"
 msgstr "Csapatjáték"
@@ -3495,10 +3335,6 @@ msgstr "A robbanásnak nincs függőleges lökése"
 msgid "CMPTMNU_EXPLODE2"
 msgstr "Eredeti Doom robbanás mechanika használata"
 
-# player
-msgid "nan"
-msgstr ""
-
 msgid "PLYRMNU_RED"
 msgstr "Piros"
 
@@ -3528,10 +3364,6 @@ msgstr "Hátra Nézni"
 
 msgid "PLYRMNU_VERTSPREAD"
 msgstr "Vertikális fegyver szórás"
-
-# controls
-msgid "nan"
-msgstr ""
 
 msgid "CNTRLMNU_ZOOM"
 msgstr "Ráközelítés fegyverrel"
@@ -3600,10 +3432,6 @@ msgid "MOUSEMNU_LOOKSPRING"
 msgstr ""
 
 msgid "MOUSEMNU_LOOKSTRAFE"
-msgstr ""
-
-# Map colors
-msgid "nan"
 msgstr ""
 
 msgid "MAPCOLORMNU_BACKCOLOR"
@@ -3687,10 +3515,6 @@ msgstr "overlay csaló mód"
 msgid "MAPCOLORMNU_PORTAL"
 msgstr "Portál overlay-ek"
 
-# Messages
-msgid "nan"
-msgstr ""
-
 msgid "MSGMNU_TITLE"
 msgstr "Üzenetek"
 
@@ -3735,10 +3559,6 @@ msgstr "Részletes mentési információ"
 
 msgid "MSGMNU_DEVELOPER"
 msgstr "Fejlesztői üzenetek"
-
-# Automap
-msgid "nan"
-msgstr ""
 
 msgid "AUTOMAPMNU_COLORSET"
 msgstr "Pálya térkép szín séma"
@@ -3809,10 +3629,6 @@ msgstr "Jelzés beállítása"
 msgid "MAPCNTRLMNU_CLEARMARK"
 msgstr "Jelzések törlése"
 
-# Scoreboard
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_SCOREBOARD"
 msgstr "Eredményjelző beállítások"
 
@@ -3839,10 +3655,6 @@ msgstr "Deathmatch Beállítások"
 
 msgid "SCRBRDMNU_TEAMDEATHMATCH"
 msgstr "Team Deathmatch Beállítások"
-
-# Alt HUD
-msgid "nan"
-msgstr ""
 
 msgid "ALTHUDMNU_TITLE"
 msgstr "Alternatív HUD"
@@ -3934,10 +3746,6 @@ msgstr "Statisztika név szín"
 msgid "ALTHUDMNU_STATSCOLOR"
 msgstr "Statisztika szín"
 
-# Display (game related)
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_CAPFPS"
 msgstr "Render animáció simítás"
 
@@ -4028,10 +3836,6 @@ msgstr "Fegyver mozgása egy helyben"
 msgid "DSPLYMNU_BOBSPEED"
 msgstr "Fegyver mozgás sebesség"
 
-# Scaling
-msgid "nan"
-msgstr ""
-
 msgid "SCALEMNU_TITLE"
 msgstr "Méretezési Beállítások"
 
@@ -4064,10 +3868,6 @@ msgstr "Teljes képernyőre arányítás"
 
 msgid "SCALEMNU_ADAPT"
 msgstr "Képernyő mérethez alkalmazkodik"
-
-# HUD
-msgid "nan"
-msgstr ""
 
 msgid "HUDMNU_TITLE"
 msgstr "HUD beállításai"
@@ -4116,10 +3916,6 @@ msgstr "IWAD kiválasztó ablak mutatása"
 
 msgid "MISCMNU_ALLCHEATS"
 msgstr "Minden játék csaláskódja érvényes"
-
-# Option Menus
-msgid "nan"
-msgstr ""
 
 msgid "MISCMNU_ENABLESCRIPTSCREENSHOTS"
 msgstr "Szkriptek is készíthetnek képernyőképet"
@@ -4795,10 +4591,6 @@ msgstr "Keresés:"
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Kulcsokat mindig mutat"
 
-# Newly added content
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NO_TEAM_CHANGE"
 msgstr "Csapatváltás letiltva"
 
@@ -5297,11 +5089,6 @@ msgstr ""
 msgid "PAUSE_STRING"
 msgstr ""
 
-# New Doom item Tags for GZDoom 5.0. The names used here are taken from the
-# Doom manual (Doomwiki was referenced)
-msgid "nan"
-msgstr ""
-
 msgid "TAG_BACKPACK"
 msgstr ""
 
@@ -5363,10 +5150,6 @@ msgid "TAG_YELLOWSKULL"
 msgstr ""
 
 msgid "TAG_REDSKULL"
-msgstr ""
-
-# Chex Quest item tags
-msgid "nan"
 msgstr ""
 
 msgid "TAG_GLASSOFWATER"

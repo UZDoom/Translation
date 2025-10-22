@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: uk\n"
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "PRESSKEY"
 msgstr "Натисніть будь яку клавішу."
 
@@ -83,10 +79,6 @@ msgstr "Доступно только в полной версии"
 
 msgid "DOSY"
 msgstr "(Натисніть Y для виходу)"
-
-# Quit messages
-msgid "nan"
-msgstr ""
 
 msgid "QUITMSG1"
 msgstr "Будь ласка, не йди - тут ще купа демонів!"
@@ -193,16 +185,8 @@ msgstr "Не покидай Міжгалактичну Федерацію Пла
 msgid "QUITMSG29"
 msgstr "Справжній воїн Chex(R) не здається так швидко!"
 
-# Pickups
-msgid "nan"
-msgstr ""
-
 msgid "TXT_DEFAULTPICKUPMSG"
 msgstr "Ви щось підібрали"
-
-# Locks
-msgid "nan"
-msgstr ""
 
 msgid "PD_ANY"
 msgstr "Будь який ключ відкриє ці двері"
@@ -225,10 +209,6 @@ msgstr "Вам потрібні всі шість ключів, щоб акти�
 msgid "PD_ALLKEYS"
 msgstr "Потрібні всі ключі"
 
-# Chat
-msgid "nan"
-msgstr ""
-
 msgid "HUSTR_MSGU"
 msgstr "[Повідомлення не відправлено]"
 
@@ -249,10 +229,6 @@ msgstr "Як сумно..."
 
 msgid "HUSTR_MESSAGESENT"
 msgstr "[Повідомлення відправлено]"
-
-# Cheats
-msgid "nan"
-msgstr ""
 
 msgid "STSTR_MUS"
 msgstr "Зміна музики"
@@ -438,10 +414,6 @@ msgstr "Що, хочеш вбивати в реальності?"
 msgid "TXT_NOT_FROZEN"
 msgstr "Властивості замороженого гравця вимкнено"
 
-# Automap
-msgid "nan"
-msgstr ""
-
 msgid "AMSTR_FOLLOWOFF"
 msgstr "Прив'язка до гравца ВВІМК."
 
@@ -465,10 +437,6 @@ msgstr "Позначка"
 
 msgid "AMSTR_MARKSCLEARED"
 msgstr "Усі позначки стерто"
-
-# Multiplayer
-msgid "nan"
-msgstr ""
 
 msgid "TXT_FRAGLIMIT"
 msgstr "Досягнуто ліміт фрагів."
@@ -509,10 +477,6 @@ msgstr "Безмежне вбивство!"
 msgid "MULTI5"
 msgstr "Монструозне вбивство!"
 
-# Scoreboard
-msgid "nan"
-msgstr ""
-
 msgid "SCORE_BONUS"
 msgstr "Бонус"
 
@@ -546,10 +510,6 @@ msgstr "Разом"
 msgid "SCORE_LVLTIME"
 msgstr "Час рівня"
 
-# Level Summary
-msgid "nan"
-msgstr ""
-
 msgid "TXT_IMKILLS"
 msgstr "Вороги"
 
@@ -574,10 +534,6 @@ msgstr "Заходимо"
 msgid "WI_ENTERING"
 msgstr "Просуваємось до:"
 
-# HUD
-msgid "nan"
-msgstr ""
-
 msgid "AM_MONSTERS"
 msgstr "Монстри"
 
@@ -586,10 +542,6 @@ msgstr "Схованки:"
 
 msgid "AM_ITEMS"
 msgstr "Предмети:"
-
-# Obituaries
-msgid "nan"
-msgstr ""
 
 msgid "OB_SUICIDE"
 msgstr "%o самовби@[adj_2_ua]."
@@ -654,10 +606,6 @@ msgstr "%k відда@[adj_1_ua] фраг іншій команді."
 
 msgid "OB_FRIENDLY4"
 msgstr "%k втрати@[adj_1_ua] ще одного друга."
-
-# Pickup
-msgid "nan"
-msgstr ""
 
 msgid "GOTARMOR"
 msgstr "Взято броню."
@@ -785,10 +733,6 @@ msgstr "Взято скіпетр зла."
 msgid "BETA_BONUS4"
 msgstr "Взято нечестиву біблію."
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "PD_BLUEO"
 msgstr "Вам потрібна синя ключ-карта, щоб активувати цей об'єкт"
 
@@ -843,10 +787,6 @@ msgstr "Вам потрібен червоний череп, щоб активу
 msgid "PD_YELLOWS"
 msgstr "Вам потрібен жовтий череп, щоб активувати цей об'єкт"
 
-# Cast call names
-msgid "nan"
-msgstr ""
-
 msgid "CC_ZOMBIE"
 msgstr "Зомбі"
 
@@ -899,10 +839,6 @@ msgstr "Кібердемон"
 
 msgid "CC_HERO"
 msgstr "Наш герой"
-
-# Actor tag names
-msgid "nan"
-msgstr ""
 
 msgid "FN_SHOTGUN"
 msgstr "Зомбі-сержант"
@@ -963,10 +899,6 @@ msgstr "Ракети"
 
 msgid "AMMO_CELLS"
 msgstr "Енергетичні батареї"
-
-# Obituaries
-msgid "nan"
-msgstr ""
 
 msgid "OB_STEALTHBABY"
 msgstr "Арахнотрон мелькнув перед очима %o."
@@ -1112,14 +1044,6 @@ msgstr "%k прониза@[adj_1_ua] %o наскрізь."
 msgid "OB_MPBFG_MBF"
 msgstr "%o спалило БФГ %k."
 
-# Heretic
-msgid "nan"
-msgstr ""
-
-# Pickup 
-msgid "nan"
-msgstr ""
-
 msgid "TXT_GOTBLUEKEY"
 msgstr "Синій ключ"
 
@@ -1231,10 +1155,6 @@ msgstr "Жезл Фенікса"
 msgid "TXT_WPNGAUNTLETS"
 msgstr "Рукавиці Некроманта"
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NEEDBLUEKEY"
 msgstr "Вам потрібен синій ключ, щоб відкрити ці двері"
 
@@ -1243,10 +1163,6 @@ msgstr "Вам потрібен зелений ключ, щоб відкрити
 
 msgid "TXT_NEEDYELLOWKEY"
 msgstr "Вам потрібен жовтий ключ, щоб відкрити ці двері"
-
-# Actor tag names
-msgid "nan"
-msgstr ""
 
 msgid "FN_CHICKEN"
 msgstr "Курка"
@@ -1309,10 +1225,6 @@ msgstr "Палиця"
 
 msgid "TAG_GOLDWAND"
 msgstr "Посох Ельфів"
-
-# Obituaries
-msgid "nan"
-msgstr ""
 
 msgid "OB_CHICKEN"
 msgstr "%o задзьобано до смерті."
@@ -1421,14 +1333,6 @@ msgstr "%o згорі@[adj_1_ua] через жезл фенікса %k."
 
 msgid "OB_MPPMACE"
 msgstr "%k розчави@[adj_1_ua] %o велитенською вогняною сферою."
-
-# Hexen
-msgid "nan"
-msgstr ""
-
-# Pickup
-msgid "nan"
-msgstr ""
 
 msgid "TXT_MANA_1"
 msgstr "Синя мана"
@@ -1598,10 +1502,6 @@ msgstr "Частина Символу Мари"
 msgid "TXT_BLOODSCOURGE_PIECE"
 msgstr "Частина Кривавої Кари"
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NEED_KEY_STEEL"
 msgstr "Вам потрібен сталевий ключ"
 
@@ -1634,10 +1534,6 @@ msgstr "Вам потрібен болотний ключ"
 
 msgid "TXT_NEED_KEY_CASTLE"
 msgstr "Вам потрібен ключ від фортеці"
-
-# Actor tag names
-msgid "nan"
-msgstr ""
 
 msgid "FN_FIREDEMON"
 msgstr "Африт"
@@ -1816,10 +1712,6 @@ msgstr "Латунно-залізна шестерня"
 msgid "TAG_ARTIPUZZGEAR4"
 msgstr "Срібно-латунна шестерня"
 
-# Obituaries
-msgid "nan"
-msgstr ""
-
 msgid "OB_FIREDEMON"
 msgstr "%o скуштува@[adj_1_ua] вогню Африта."
 
@@ -1918,14 +1810,6 @@ msgstr "%k розкри@[adj_1_ua] для %o шокуючу істину."
 
 msgid "OB_MPMWEAPBLOODSCOURGE"
 msgstr "%o було стерто з лиця всесвіту за допомогою Кривавої Кари %k."
-
-# Strife
-msgid "nan"
-msgstr ""
-
-# Pickups
-msgid "nan"
-msgstr ""
 
 msgid "TXT_METALARMOR"
 msgstr "Взято Металічну броню."
@@ -2155,10 +2039,6 @@ msgstr "Воно повинно мати якесь призначення..."
 msgid "MSG_TALISMANPOWER"
 msgstr "Ви отримали суперсилу!"
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NEEDKEY"
 msgstr "У вас немає ключа"
 
@@ -2209,10 +2089,6 @@ msgstr "Вам потрібна чаша!"
 
 msgid "TXT_NEED_OPASS"
 msgstr "Вам потрібен пропуск Оракула!"
-
-# Actor tags
-msgid "nan"
-msgstr ""
 
 msgid "TAG_PUNCHDAGGER"
 msgstr "Кинжал"
@@ -2517,10 +2393,6 @@ msgstr "Зелений талісман"
 msgid "TAG_TALISMANBLUE"
 msgstr "Синій талісман"
 
-# Obituaries
-msgid "nan"
-msgstr ""
-
 msgid "OB_ACOLYTE"
 msgstr "Адепт пристрелив %o."
 
@@ -2611,10 +2483,6 @@ msgstr "%k безжалісно розсія@[adj_1_ua] %o."
 msgid "OB_MPSIGIL"
 msgstr "%o покори@[adj_2_ua] Сігілу %k."
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "TXT_STRIFE_EPI"
 msgstr "В пошуках Сігілу"
 
@@ -2672,14 +2540,6 @@ msgstr "Знайди допомогу"
 # As in for %u amount of money.
 msgid "TXT_TRADE"
 msgstr "за %u"
-
-# Chex Quest
-msgid "nan"
-msgstr ""
-
-# Pickups
-msgid "nan"
-msgstr ""
 
 msgid "GOTCHEXARMOR"
 msgstr "Взято Chex(R) броню."
@@ -2771,10 +2631,6 @@ msgstr "Ти отримав Мега Зорчер!"
 msgid "GOTMINIZORCHER"
 msgstr "Ти отримав Міні Зорчер."
 
-# Actor tags
-msgid "nan"
-msgstr ""
-
 msgid "TAG_SPOON"
 msgstr "Ложка"
 
@@ -2846,10 +2702,6 @@ msgstr "%o па@[adj_1_ua] жертвою LAZ девайсу %k."
 
 msgid "OB_MPBFG_SPLASH"
 msgstr "%k LAZну@[adj_1_ua] %o."
-
-# Miscellaneous
-msgid "nan"
-msgstr ""
 
 msgid "CHUSTR_E1M1"
 msgstr "E1M1: Зона висадки"
@@ -2973,14 +2825,6 @@ msgstr "Заряд Прискорювача"
 
 msgid "AMMO_CELLS"
 msgstr "Заряд фазового Зорчера"
-
-# Menus
-msgid "nan"
-msgstr ""
-
-# Main Menus
-msgid "nan"
-msgstr ""
 
 msgid "MNU_NEWGAME"
 msgstr "Нова гра"
@@ -3141,10 +2985,6 @@ msgstr "Склеп"
 
 msgid "MNU_DEMESNE"
 msgstr "Володіння стагнації"
-
-# Gameplay menus
-msgid "nan"
-msgstr ""
 
 msgid "GMPLYMNU_TEAMPLAY"
 msgstr "Командна гра"
@@ -3473,10 +3313,6 @@ msgstr "Вибухи не відкидають по вертикалі"
 msgid "CMPTMNU_EXPLODE2"
 msgstr "Використовувати ванільну поведінку вибухів з Doom"
 
-# player
-msgid "nan"
-msgstr ""
-
 msgid "PLYRMNU_RED"
 msgstr "Червоний"
 
@@ -3506,10 +3342,6 @@ msgstr "Перегляд ззаду"
 
 msgid "PLYRMNU_VERTSPREAD"
 msgstr "Вертикальне розсіювання куль"
-
-# controls
-msgid "nan"
-msgstr ""
 
 msgid "CNTRLMNU_ZOOM"
 msgstr "Зум зброї"
@@ -3579,10 +3411,6 @@ msgstr "Рух мишкою (в просторі)"
 
 msgid "MOUSEMNU_LOOKSTRAFE"
 msgstr "Стрейф мишкою"
-
-# Map colors
-msgid "nan"
-msgstr ""
 
 msgid "MAPCOLORMNU_BACKCOLOR"
 msgstr "Фон"
@@ -3665,10 +3493,6 @@ msgstr "Оверлей чіт режим"
 msgid "MAPCOLORMNU_PORTAL"
 msgstr "Портали в оверлей-режимі"
 
-# Messages
-msgid "nan"
-msgstr ""
-
 msgid "MSGMNU_TITLE"
 msgstr "Повідомлення"
 
@@ -3713,10 +3537,6 @@ msgstr "Детальні повідомлення про збереження"
 
 msgid "MSGMNU_DEVELOPER"
 msgstr "Режим повідомлень для розробників"
-
-# Automap
-msgid "nan"
-msgstr ""
 
 msgid "AUTOMAPMNU_COLORSET"
 msgstr "Кольори автокарти"
@@ -3787,10 +3607,6 @@ msgstr "Поставити позначку"
 msgid "MAPCNTRLMNU_CLEARMARK"
 msgstr "Зняти позначку"
 
-# Scoreboard
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_SCOREBOARD"
 msgstr "Табло"
 
@@ -3817,10 +3633,6 @@ msgstr "Параметри бою на смерть"
 
 msgid "SCRBRDMNU_TEAMDEATHMATCH"
 msgstr "Параметри командного бою на смерть"
-
-# Alt HUD
-msgid "nan"
-msgstr ""
 
 msgid "ALTHUDMNU_TITLE"
 msgstr "Альтернативний інтерфейс"
@@ -3912,10 +3724,6 @@ msgstr "Колір імен в статистиці"
 msgid "ALTHUDMNU_STATSCOLOR"
 msgstr "Колір статистики"
 
-# Display (game related)
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_CAPFPS"
 msgstr "Інтерполяція візуалізації"
 
@@ -4006,10 +3814,6 @@ msgstr "Покачування камери при стоянні на місц�
 msgid "DSPLYMNU_BOBSPEED"
 msgstr "Швидкість покачування зброї"
 
-# Scaling
-msgid "nan"
-msgstr ""
-
 msgid "SCALEMNU_TITLE"
 msgstr "Налаштування масштабування"
 
@@ -4042,10 +3846,6 @@ msgstr "Масштабувати на весь екран"
 
 msgid "SCALEMNU_ADAPT"
 msgstr "Адаптувати до розміру екрану"
-
-# HUD
-msgid "nan"
-msgstr ""
 
 msgid "HUDMNU_TITLE"
 msgstr "Налаштування інтерфейсу"
@@ -4094,10 +3894,6 @@ msgstr "Показувати вибір IWAD при запуску"
 
 msgid "MISCMNU_ALLCHEATS"
 msgstr "Використовувати чіти з усіх ігр"
-
-# Option Menus
-msgid "nan"
-msgstr ""
 
 msgid "MISCMNU_ENABLESCRIPTSCREENSHOTS"
 msgstr "Дозволити робити знімки екрану через скріпти"
@@ -4773,10 +4569,6 @@ msgstr "Пошук:"
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Завжди показувати ключі"
 
-# Newly added content
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NO_TEAM_CHANGE"
 msgstr "Зміна команди була вимкнена!"
 
@@ -5271,11 +5063,6 @@ msgstr ""
 msgid "PAUSE_STRING"
 msgstr ""
 
-# New Doom item Tags for GZDoom 5.0. The names used here are taken from the
-# Doom manual (Doomwiki was referenced)
-msgid "nan"
-msgstr ""
-
 msgid "TAG_BACKPACK"
 msgstr ""
 
@@ -5337,10 +5124,6 @@ msgid "TAG_YELLOWSKULL"
 msgstr ""
 
 msgid "TAG_REDSKULL"
-msgstr ""
-
-# Chex Quest item tags
-msgid "nan"
 msgstr ""
 
 msgid "TAG_GLASSOFWATER"

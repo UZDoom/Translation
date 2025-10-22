@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: sr\n"
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "PRESSYN"
 msgstr "Притисните Y или N."
 
@@ -65,10 +61,6 @@ msgid "TXT_QUITENDOOM"
 msgstr ""
 "Притисните било који тастер или кликните било где на екрану да одустанете."
 
-# Savegame
-msgid "nan"
-msgstr ""
-
 msgid "NEWSAVE"
 msgstr "<Нова сачувана игра>"
 
@@ -95,10 +87,6 @@ msgstr "Нема фајлова"
 
 msgid "MNU_DELETESG"
 msgstr "Да ли стварно желите да избришете сачувану игру"
-
-# General
-msgid "nan"
-msgstr ""
 
 msgid "OPTVAL_OFF"
 msgstr "Искљ."
@@ -162,10 +150,6 @@ msgstr "Мрежа"
 
 msgid "OPTMNU_REVERB"
 msgstr "Уредник одјека у околини"
-
-# Customize controls
-msgid "nan"
-msgstr ""
 
 msgid "CNTRLMNU_SWITCHTEXT1"
 msgstr "ENTER за промену, BACKSPACE за чишћење"
@@ -421,10 +405,6 @@ msgstr "Изађи из игре"
 msgid "CNTRLMNU_ADJUST_GAMMA"
 msgstr "Подесите осветљење"
 
-# Mouse
-msgid "nan"
-msgstr ""
-
 msgid "MOUSEMNU_ENABLEMOUSE"
 msgstr "Укључи миш"
 
@@ -490,10 +470,6 @@ msgstr "Системска стрелица"
 
 msgid "OPTVAL_DEFAULT"
 msgstr "Подраз."
-
-# Controller
-msgid "nan"
-msgstr ""
 
 msgid "JOYMNU_TITLE"
 msgstr "Конфигурација контролера"
@@ -570,10 +546,6 @@ msgstr "Обрнуто"
 
 msgid "OPTVAL_NOTINVERTED"
 msgstr "Не обрнуто"
-
-# Player Menu
-msgid "nan"
-msgstr ""
 
 msgid "TXT_COLOR_BLUE"
 msgstr "Плава"
@@ -674,10 +646,6 @@ msgstr "Аутоматско циљање"
 msgid "PLYRMNU_ALWAYSRUN"
 msgstr "Увек трчи"
 
-# Display
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_SCREENSIZE"
 msgstr "Величина екрана"
 
@@ -717,10 +685,6 @@ msgstr ""
 msgid "MSGMNU_MESSAGESCALE"
 msgstr ""
 
-# Automap
-msgid "nan"
-msgstr ""
-
 msgid "MNU_COLORPICKER"
 msgstr "Изабери боју"
 
@@ -741,10 +705,6 @@ msgstr "Промени боју мапе"
 
 msgid "MAPCOLORMNU_DEFAULTMAPCOLORS"
 msgstr "Врати уобичајене разне боје"
-
-# Sound
-msgid "nan"
-msgstr ""
 
 msgid "SNDMNU_SNDENABLED"
 msgstr ""
@@ -1240,10 +1200,6 @@ msgstr ""
 msgid "OPTVAL_1024K"
 msgstr ""
 
-# Postprocessing
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_UNCHARTED2"
 msgstr ""
 
@@ -1333,10 +1289,6 @@ msgstr "Радијално"
 
 msgid "OPTVAL_STANDARD"
 msgstr "Стандардно"
-
-# Texture options
-msgid "nan"
-msgstr ""
 
 msgid "GLTEXMNU_TEXFILTER"
 msgstr "Текстурни филтер мод"
@@ -1536,10 +1488,6 @@ msgstr ""
 msgid "OPTVAL_OPENGLES"
 msgstr ""
 
-# Miscellaneous Options
-msgid "nan"
-msgstr ""
-
 msgid "MISCMNU_MERGEKEYS"
 msgstr "Споји лево+десно Аlt/Ctrl/Shift"
 
@@ -1594,10 +1542,6 @@ msgstr "Побољшани"
 
 msgid "OPTMNU_LANGUAGE"
 msgstr "Језик"
-
-# Reverb editor
-msgid "nan"
-msgstr ""
 
 msgid "TXT_UNDOCHANGES"
 msgstr "Поништи промене"
@@ -1751,10 +1695,6 @@ msgstr "Назив фајла"
 msgid "REVMNU_Environments_to_save"
 msgstr "Окружења за чување"
 
-# Vulkan
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_VKOPT"
 msgstr "Vulkan подешавања (експериментална)"
 
@@ -1780,10 +1720,6 @@ msgstr "Морате поново покренути GZDoom да би проме
 msgid "VKMNU_DEVICESELECT"
 msgstr "Изаберите Vulkan уређај"
 
-# Texture scaling
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_SCALENX"
 msgstr ""
 
@@ -1802,10 +1738,6 @@ msgstr ""
 msgid "OPTVAL_OLD_NXBRZ"
 msgstr "Стари xBRZ"
 
-# Option Search
-msgid "nan"
-msgstr ""
-
 msgid "OS_TITLE"
 msgstr "Претрага"
 
@@ -1820,10 +1752,6 @@ msgstr "Нема резултата."
 
 msgid "OS_LABEL"
 msgstr "Претрага:"
-
-# Blood Bath Announcer
-msgid "nan"
-msgstr ""
 
 msgid "TXT_OBITUARY1"
 msgstr "%k је очистио %o као рибу"
@@ -1965,10 +1893,6 @@ msgstr ""
 msgid "MOUSEMNU_SWAPBUTTONS"
 msgstr "Замените дугмад миша"
 
-# Additional menu texts
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_ONLYMODIFIED"
 msgstr "Само модификовано"
 
@@ -2010,10 +1934,6 @@ msgstr "Изглед"
 
 msgid "DSPLYMNU_ADVANCED"
 msgstr "Напредне опције приказа"
-
-# IWAD/Game picker
-msgid "nan"
-msgstr ""
 
 msgid "PICKER_SELECT"
 msgstr "Изаберите коју датотеку игре желите да покренете."
@@ -2070,10 +1990,6 @@ msgstr "Омогућите овај контролер"
 
 msgid "CNTRLMNU_OPEN_MAIN"
 msgstr "Отворите главни мени"
-
-# New content
-msgid "nan"
-msgstr ""
 
 msgid "MODMNU_REPLAYER"
 msgstr ""

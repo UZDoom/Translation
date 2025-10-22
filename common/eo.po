@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: eo\n"
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "PRESSYN"
 msgstr "Premu Y aŭ N."
 
@@ -64,10 +60,6 @@ msgstr "Diri:"
 msgid "TXT_QUITENDOOM"
 msgstr "Premu ajnan klavon aŭ alklaku ie ajn en la fenestro por forlasi."
 
-# Savegame
-msgid "nan"
-msgstr ""
-
 msgid "NEWSAVE"
 msgstr "<Nova konservota ludado>"
 
@@ -94,10 +86,6 @@ msgstr "Neniu dosiero"
 
 msgid "MNU_DELETESG"
 msgstr "Ĉu vi vere volas forigi la konservitan ludadon?"
-
-# General
-msgid "nan"
-msgstr ""
 
 msgid "OPTVAL_OFF"
 msgstr "Malŝaltita"
@@ -161,10 +149,6 @@ msgstr "Agordo de reto"
 
 msgid "OPTMNU_REVERB"
 msgstr "Redaktilo de resona medio"
-
-# Customize controls
-msgid "nan"
-msgstr ""
 
 msgid "CNTRLMNU_SWITCHTEXT1"
 msgstr "ENEN por ŝanĝi, RETROPAŜO por forigi"
@@ -420,10 +404,6 @@ msgstr "Mallanĉi ludon"
 msgid "CNTRLMNU_ADJUST_GAMMA"
 msgstr "Agordi gamaon"
 
-# Mouse
-msgid "nan"
-msgstr ""
-
 msgid "MOUSEMNU_ENABLEMOUSE"
 msgstr "Ebligi muson"
 
@@ -489,10 +469,6 @@ msgstr "Musmontrilo de la sistemo"
 
 msgid "OPTVAL_DEFAULT"
 msgstr "Defaŭlta"
-
-# Controller
-msgid "nan"
-msgstr ""
 
 msgid "JOYMNU_TITLE"
 msgstr "Agordi ludregilon"
@@ -569,10 +545,6 @@ msgstr "Inversigita"
 
 msgid "OPTVAL_NOTINVERTED"
 msgstr "Ne inversigita"
-
-# Player Menu
-msgid "nan"
-msgstr ""
 
 msgid "TXT_COLOR_BLUE"
 msgstr "Blua"
@@ -673,10 +645,6 @@ msgstr "Celasisto"
 msgid "PLYRMNU_ALWAYSRUN"
 msgstr "Ĉiam kuri"
 
-# Display
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_SCREENSIZE"
 msgstr "Ekrangrando"
 
@@ -716,10 +684,6 @@ msgstr "Montri mesaĝojn pulsante"
 msgid "MSGMNU_MESSAGESCALE"
 msgstr "Skalo de mesaĝoj"
 
-# Automap
-msgid "nan"
-msgstr ""
-
 msgid "MNU_COLORPICKER"
 msgstr "Elektu koloron"
 
@@ -740,10 +704,6 @@ msgstr "Adapti kolorojn de mapo"
 
 msgid "MAPCOLORMNU_DEFAULTMAPCOLORS"
 msgstr "Restaŭri defaŭltajn adaptitajn kolorojn"
-
-# Sound
-msgid "nan"
-msgstr ""
 
 msgid "SNDMNU_SNDENABLED"
 msgstr "Sono ebligita"
@@ -1239,10 +1199,6 @@ msgstr ""
 msgid "OPTVAL_1024K"
 msgstr ""
 
-# Postprocessing
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_UNCHARTED2"
 msgstr ""
 
@@ -1332,10 +1288,6 @@ msgstr "Radiusa"
 
 msgid "OPTVAL_STANDARD"
 msgstr "Norma"
-
-# Texture options
-msgid "nan"
-msgstr ""
 
 msgid "GLTEXMNU_TEXFILTER"
 msgstr "Reĝimo por Teksturfiltrado"
@@ -1535,10 +1487,6 @@ msgstr ""
 msgid "OPTVAL_OPENGLES"
 msgstr ""
 
-# Miscellaneous Options
-msgid "nan"
-msgstr ""
-
 msgid "MISCMNU_MERGEKEYS"
 msgstr "Kunigi maldekstran kaj dekstran Alt/Ctrl/Shift"
 
@@ -1593,10 +1541,6 @@ msgstr "Bonigita"
 
 msgid "OPTMNU_LANGUAGE"
 msgstr "Lingvo"
-
-# Reverb editor
-msgid "nan"
-msgstr ""
 
 msgid "TXT_UNDOCHANGES"
 msgstr "Malfari ŝanĝojn"
@@ -1750,10 +1694,6 @@ msgstr "Dosiernomo"
 msgid "REVMNU_Environments_to_save"
 msgstr "Medioj por konservi"
 
-# Vulkan
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_VKOPT"
 msgstr "Agordoj por Vulkan (Eksperimenta)"
 
@@ -1779,10 +1719,6 @@ msgstr "Ĉi tiuj agordoj bezonos relanĉon por efikiĝi."
 msgid "VKMNU_DEVICESELECT"
 msgstr "Elekti Vulkan-aparaton"
 
-# Texture scaling
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_SCALENX"
 msgstr ""
 
@@ -1801,10 +1737,6 @@ msgstr ""
 msgid "OPTVAL_OLD_NXBRZ"
 msgstr "Malnova xBRZ"
 
-# Option Search
-msgid "nan"
-msgstr ""
-
 msgid "OS_TITLE"
 msgstr "Serĉi agordojn"
 
@@ -1819,10 +1751,6 @@ msgstr "Neniu trafo."
 
 msgid "OS_LABEL"
 msgstr "Serĉi:"
-
-# Blood Bath Announcer
-msgid "nan"
-msgstr ""
 
 msgid "TXT_OBITUARY1"
 msgstr "%k senostigis %o kiel fiŝon"
@@ -1964,10 +1892,6 @@ msgstr "Foliumi konservitajn ludadojn"
 msgid "MOUSEMNU_SWAPBUTTONS"
 msgstr "Permuti musbutonojn"
 
-# Additional menu texts
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_ONLYMODIFIED"
 msgstr "Nur modifitaj"
 
@@ -2009,10 +1933,6 @@ msgstr "Aspekto"
 
 msgid "DSPLYMNU_ADVANCED"
 msgstr "Altnivelaj ekran-agordoj"
-
-# IWAD/Game picker
-msgid "nan"
-msgstr ""
 
 msgid "PICKER_SELECT"
 msgstr "Elektu lanĉotan ludon."
@@ -2069,10 +1989,6 @@ msgstr "Ŝalti ĉi tiun ludregilon"
 
 msgid "CNTRLMNU_OPEN_MAIN"
 msgstr "Malfermi ĉefan menuon"
-
-# New content
-msgid "nan"
-msgstr ""
 
 msgid "MODMNU_REPLAYER"
 msgstr "Legilo de moduloj"

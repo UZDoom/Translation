@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: fi\n"
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "PRESSYN"
 msgstr "Paina Y tai N."
 
@@ -62,10 +58,6 @@ msgstr ""
 "Paina mitä tahansa näppäintä tai napsauta minne tahansa ikkunaa "
 "lopettaaksesi."
 
-# Savegame
-msgid "nan"
-msgstr ""
-
 msgid "NEWSAVE"
 msgstr "<Uusi tallennettu peli>"
 
@@ -92,10 +84,6 @@ msgstr "Ei tiedostoja"
 
 msgid "MNU_DELETESG"
 msgstr "Haluatko varmasti poistaa tallennetun pelin "
-
-# General
-msgid "nan"
-msgstr ""
 
 msgid "OPTVAL_OFF"
 msgstr "Pois"
@@ -159,10 +147,6 @@ msgstr "Verkkoasetukset"
 
 msgid "OPTMNU_REVERB"
 msgstr "Kaikutilaeditori"
-
-# Customize controls
-msgid "nan"
-msgstr ""
 
 msgid "CNTRLMNU_SWITCHTEXT1"
 msgstr "Aseta ENTERILLÄ, tyhjennä ASKELPALAUTTIMELLA"
@@ -418,10 +402,6 @@ msgstr "Lopeta peli"
 msgid "CNTRLMNU_ADJUST_GAMMA"
 msgstr "Säädä gammaa"
 
-# Mouse
-msgid "nan"
-msgstr ""
-
 msgid "MOUSEMNU_ENABLEMOUSE"
 msgstr "Ota hiiri käyttöön"
 
@@ -487,10 +467,6 @@ msgstr "Järjestelmän osoitin"
 
 msgid "OPTVAL_DEFAULT"
 msgstr "Oletus"
-
-# Controller
-msgid "nan"
-msgstr ""
 
 msgid "JOYMNU_TITLE"
 msgstr "Peliohjainasetukset"
@@ -567,10 +543,6 @@ msgstr "Käännetty"
 
 msgid "OPTVAL_NOTINVERTED"
 msgstr "Ei käännetty"
-
-# Player Menu
-msgid "nan"
-msgstr ""
 
 msgid "TXT_COLOR_BLUE"
 msgstr "Sininen"
@@ -671,10 +643,6 @@ msgstr "Automaattitähtäys"
 msgid "PLYRMNU_ALWAYSRUN"
 msgstr "Jatkuva juoksu"
 
-# Display
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_SCREENSIZE"
 msgstr "Näytön koko"
 
@@ -714,10 +682,6 @@ msgstr "Sykkivät viestit"
 msgid "MSGMNU_MESSAGESCALE"
 msgstr "Viestien skaalaus"
 
-# Automap
-msgid "nan"
-msgstr ""
-
 msgid "MNU_COLORPICKER"
 msgstr "Valitse väri"
 
@@ -738,10 +702,6 @@ msgstr "Värien mukautus"
 
 msgid "MAPCOLORMNU_DEFAULTMAPCOLORS"
 msgstr "Palauta oletusvärit"
-
-# Sound
-msgid "nan"
-msgstr ""
 
 msgid "SNDMNU_SNDENABLED"
 msgstr "Ääni päällä"
@@ -1237,10 +1197,6 @@ msgstr ""
 msgid "OPTVAL_1024K"
 msgstr ""
 
-# Postprocessing
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_UNCHARTED2"
 msgstr ""
 
@@ -1330,10 +1286,6 @@ msgstr "Säteittäinen"
 
 msgid "OPTVAL_STANDARD"
 msgstr "Normaali"
-
-# Texture options
-msgid "nan"
-msgstr ""
 
 msgid "GLTEXMNU_TEXFILTER"
 msgstr "Pintakuviointien suodatustapa"
@@ -1533,10 +1485,6 @@ msgstr ""
 msgid "OPTVAL_OPENGLES"
 msgstr ""
 
-# Miscellaneous Options
-msgid "nan"
-msgstr ""
-
 msgid "MISCMNU_MERGEKEYS"
 msgstr "Yhdistä vasen ja oikea Alt/Ctrl/Vaihto"
 
@@ -1591,10 +1539,6 @@ msgstr "Paranneltu"
 
 msgid "OPTMNU_LANGUAGE"
 msgstr "Kieli"
-
-# Reverb editor
-msgid "nan"
-msgstr ""
 
 msgid "TXT_UNDOCHANGES"
 msgstr "Peruuttaa muutokset"
@@ -1748,10 +1692,6 @@ msgstr "Tiedostonimi"
 msgid "REVMNU_Environments_to_save"
 msgstr "Tallennettavat tilat"
 
-# Vulkan
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_VKOPT"
 msgstr "Vulkan-asetukset (kokeellinen)"
 
@@ -1777,10 +1717,6 @@ msgstr "Nämä asetukset vaativat uudelleenkäynnistyksen astuakseen voimaan."
 msgid "VKMNU_DEVICESELECT"
 msgstr "Valitse Vulkan-laite"
 
-# Texture scaling
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_SCALENX"
 msgstr ""
 
@@ -1799,10 +1735,6 @@ msgstr ""
 msgid "OPTVAL_OLD_NXBRZ"
 msgstr "Vanha xBRZ"
 
-# Option Search
-msgid "nan"
-msgstr ""
-
 msgid "OS_TITLE"
 msgstr "Asetushaku"
 
@@ -1817,10 +1749,6 @@ msgstr "Ei tuloksia."
 
 msgid "OS_LABEL"
 msgstr "Etsi:"
-
-# Blood Bath Announcer
-msgid "nan"
-msgstr ""
 
 msgid "TXT_OBITUARY1"
 msgstr "%k perkasi %o paran kuin kalan"
@@ -1962,10 +1890,6 @@ msgstr "Selaa tallennettuja pelejä"
 msgid "MOUSEMNU_SWAPBUTTONS"
 msgstr "Vaihda hiiren painikkeita"
 
-# Additional menu texts
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_ONLYMODIFIED"
 msgstr "Vain muunneltu"
 
@@ -2007,10 +1931,6 @@ msgstr "Ulkonäkö"
 
 msgid "DSPLYMNU_ADVANCED"
 msgstr "Näytön lisäasetukset"
-
-# IWAD/Game picker
-msgid "nan"
-msgstr ""
 
 msgid "PICKER_SELECT"
 msgstr "Valitse suoritettava pelitiedosto."
@@ -2067,10 +1987,6 @@ msgstr "Aktivoi tämä ohjain"
 
 msgid "CNTRLMNU_OPEN_MAIN"
 msgstr "Avaa päävalikko"
-
-# New content
-msgid "nan"
-msgstr ""
 
 msgid "MODMNU_REPLAYER"
 msgstr ""

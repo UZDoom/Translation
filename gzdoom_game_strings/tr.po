@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: tr\n"
 
-# Doom Episode names
-msgid "nan"
-msgstr ""
-
 msgid "TXT_D1E1"
 msgstr "Ölüme Diz Boyu"
 
@@ -40,14 +36,6 @@ msgid "TXT_TNT_EP"
 msgstr ""
 
 msgid "TXT_CHEX_EP"
-msgstr ""
-
-# Level names
-msgid "nan"
-msgstr ""
-
-# Doom 1
-msgid "nan"
 msgstr ""
 
 msgid "HUSTR_E1M1"
@@ -172,10 +160,6 @@ msgstr "E4M8: Zalimlere Karşı"
 msgid "HUSTR_E4M9"
 msgstr "E4M9: Korku"
 
-# Doom 2
-msgid "nan"
-msgstr ""
-
 # Note that the "LEVEL" part of the string will be stripped so it shouldn't be
 # translated
 msgid "HUSTR_1"
@@ -287,10 +271,6 @@ msgstr "Seviye 32: Keen"
 msgid "HUSTR_33"
 msgstr "Seviye 33: İhanet"
 
-# No Rest For The Living
-msgid "nan"
-msgstr ""
-
 msgid "NHUSTR_1"
 msgstr "Seviye 1: Dünya Üssü"
 
@@ -317,10 +297,6 @@ msgstr "Seviye 8: Kötülük Mezarı"
 
 msgid "NHUSTR_9"
 msgstr "Seviye 9: Şeytanların Yürüyüşü"
-
-# Plutonia
-msgid "nan"
-msgstr ""
 
 msgid "PHUSTR_1"
 msgstr "Seviye 1: Kongo"
@@ -420,10 +396,6 @@ msgstr "Seviye 31: Siber'in ini"
 msgid "PHUSTR_32"
 msgstr "Seviye 32: Devam Et"
 
-# TNT: Evilution
-msgid "nan"
-msgstr ""
-
 msgid "THUSTR_1"
 msgstr "Seviye 1: Sistem Kontrolü"
 
@@ -520,10 +492,6 @@ msgstr "Seviye 31: Firavun"
 
 msgid "THUSTR_32"
 msgstr "Seviye 32: Karayipler"
-
-# Heretic
-msgid "nan"
-msgstr ""
 
 msgid "HHUSTR_E1M1"
 msgstr "Rıhtım"
@@ -660,10 +628,6 @@ msgstr "Yargı Alanı"
 msgid "HHUSTR_E5M9"
 msgstr "D'sparil Çileği"
 
-# Strife
-msgid "nan"
-msgstr ""
-
 msgid "TXT_STRIFE_MAP01"
 msgstr "ALAN 1: Sığınak"
 
@@ -778,10 +742,6 @@ msgstr "ALAN 37: Öldürme Alanları"
 msgid "TXT_STRIFE_MAP38"
 msgstr "ALAN 38: Düzenli Kaos"
 
-# Hexen
-msgid "nan"
-msgstr ""
-
 msgid "TXT_HEXEN_MAP01"
 msgstr "Ayrılma Salonu"
 
@@ -875,10 +835,6 @@ msgstr ""
 msgid "TXT_HEXEN_MAP40"
 msgstr "Karanlık Pota"
 
-# Hexen Deathkings
-msgid "nan"
-msgstr ""
-
 msgid "TXT_HEXDD_MAP41"
 msgstr "Yıkık Köy"
 
@@ -956,10 +912,6 @@ msgstr "Kanalizasyon Çukuru"
 
 msgid "TXT_HEXDD_MAP38"
 msgstr "Gül"
-
-# Intermission texts
-msgid "nan"
-msgstr ""
 
 # Doom Ep.1
 msgid "E1TEXT"
@@ -1614,10 +1566,6 @@ msgstr ""
 "\\n...ve diğer oyuncular bekliyor.\n"
 "\n"
 
-# Hexen script texts
-msgid "nan"
-msgstr ""
-
 msgid "TXT_ACS_MAP01_5_THEDO"
 msgstr "Kapı kilitli"
 
@@ -1756,10 +1704,6 @@ msgstr "Yeterince güçlü müsün?"
 
 msgid "TXT_ACS_MAP35_14_TOFAC"
 msgstr "Kendi efendilerinizle yüzleşmek için mi?"
-
-# Hexen: Deathkings script texts
-msgid "nan"
-msgstr ""
 
 msgid "TXT_ACS_MAP33_6_YOUDA"
 msgstr "Hazırlanma odasında savaşmaya mı cüret ediyorsun?"
@@ -1988,10 +1932,6 @@ msgstr "Kuleye giden yol açık."
 
 msgid "TXT_ACS_MAP60_3_THEWA"
 msgstr "Yol açık"
-
-# Strife dialogue
-msgid "nan"
-msgstr ""
 
 # MAP01: Beldin.
 msgid "TXT_DLG_SCRIPT01_D0_IDONT"
@@ -6125,10 +6065,6 @@ msgstr "İşte ruh bu."
 msgid "TXT_DLG_SCRIPT34_D31836_WELCO"
 msgstr "Hoş geldin dostum!"
 
-# Random dialogue
-msgid "nan"
-msgstr ""
-
 msgid "TXT_RANDOM_PEASANT_01"
 msgstr "Lütfen bana zarar verme."
 
@@ -6301,10 +6237,6 @@ msgstr "Teşekkürler, güle güle!"
 
 msgid "TXT_RANDOMGOODBYE_3"
 msgstr "Sonra görüşürüz!"
-
-# Strife logs
-msgid "nan"
-msgstr ""
 
 # MAP33: After getting the hidden com unit in the tavern.
 msgid "TXT_ILOG1"
@@ -6863,10 +6795,6 @@ msgstr ""
 "ziyaret edin, onlar sizi ileride olacaklara hazırlayacaktır. Üs içinde "
 "dolaşmaktan çekinmeyin."
 
-# Strife characters
-msgid "nan"
-msgstr ""
-
 msgid "TXT_SPEAKER_ORDER_SERGEANT"
 msgstr "Emir Çavuşu"
 
@@ -7059,10 +6987,6 @@ msgid "TXT_SPEAKER_BOWYER"
 msgstr ""
 
 msgid "TXT_SPEAKER_DERWIN"
-msgstr ""
-
-# Strife subtitles
-msgid "nan"
 msgstr ""
 
 # Menu's intro.
@@ -7927,10 +7851,6 @@ msgid "TXT_SUB_LOG237"
 msgstr ""
 "Keşke o kapının arkasında seni bekliyor olsaydım... ama yeraltında "
 "kalmalıyım. Liderimiz Macil ile tanışma vaktin geldi."
-
-# Blackbird's remarks embedded in other conversations
-msgid "nan"
-msgstr ""
 
 # MAP02: Mourel.
 msgid "TXT_BBSUB_SCRIPT02_D57608_IFIKN"

@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: eo\n"
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "PRESSKEY"
 msgstr "Premu klavon."
 
@@ -86,10 +82,6 @@ msgstr "Nur havebla en la komercaĵa versio"
 
 msgid "DOSY"
 msgstr "(Premu Y por forlasi)"
-
-# Quit messages
-msgid "nan"
-msgstr ""
 
 msgid "QUITMSG1"
 msgstr ""
@@ -231,16 +223,8 @@ msgstr ""
 "La vera Chex(R)-batalisto\n"
 "ne rezignus tiel rapide!"
 
-# Pickups
-msgid "nan"
-msgstr ""
-
 msgid "TXT_DEFAULTPICKUPMSG"
 msgstr "Vi trovis aĵon"
-
-# Locks
-msgid "nan"
-msgstr ""
 
 msgid "PD_ANY"
 msgstr "Iu ajn ŝlosilo povas malfermi ĉi tiun pordon"
@@ -263,10 +247,6 @@ msgstr "Vi bezonas ĉiujn ses ŝlosilojn por aktivigi ĉi tiun objekton"
 msgid "PD_ALLKEYS"
 msgstr "Vi bezonas ĉiujn ŝlosilojn"
 
-# Chat
-msgid "nan"
-msgstr ""
-
 msgid "HUSTR_MSGU"
 msgstr "[Mesaĝo ne sendita]"
 
@@ -287,10 +267,6 @@ msgstr "Vi freneziĝis..."
 
 msgid "HUSTR_MESSAGESENT"
 msgstr "[Mesaĝo sendita]"
-
-# Cheats
-msgid "nan"
-msgstr ""
 
 msgid "STSTR_MUS"
 msgstr "Muzikŝanĝo"
@@ -470,10 +446,6 @@ msgstr "Kion vi volas mortigi ekster ludo?"
 msgid "TXT_NOT_FROZEN"
 msgstr "Atributoj de movhaltitaj ludantoj malŝaltitaj"
 
-# Automap
-msgid "nan"
-msgstr ""
-
 msgid "AMSTR_FOLLOWOFF"
 msgstr "Sekvigreĝimo MALŜALTITA"
 
@@ -497,10 +469,6 @@ msgstr "Loko Markita"
 
 msgid "AMSTR_MARKSCLEARED"
 msgstr "Ĉiuj Markoj Forigitaj"
-
-# Multiplayer
-msgid "nan"
-msgstr ""
 
 msgid "TXT_FRAGLIMIT"
 msgstr "Ludmurdo-limo trafita."
@@ -541,10 +509,6 @@ msgstr "Ekstremaj mortigoj!"
 msgid "MULTI5"
 msgstr "Monstraj mortigoj!"
 
-# Scoreboard
-msgid "nan"
-msgstr ""
-
 msgid "SCORE_BONUS"
 msgstr "Bonuso"
 
@@ -578,10 +542,6 @@ msgstr "Tuto"
 msgid "SCORE_LVLTIME"
 msgstr "Daŭro de Nivelo"
 
-# Level Summary
-msgid "nan"
-msgstr ""
-
 msgid "TXT_IMKILLS"
 msgstr "Mortigoj"
 
@@ -606,10 +566,6 @@ msgstr "Enirante"
 msgid "WI_ENTERING"
 msgstr "Nun enirante:"
 
-# HUD
-msgid "nan"
-msgstr ""
-
 msgid "AM_MONSTERS"
 msgstr "Monstroj:"
 
@@ -618,10 +574,6 @@ msgstr "Sekretoj:"
 
 msgid "AM_ITEMS"
 msgstr "Objektoj:"
-
-# Obituaries
-msgid "nan"
-msgstr ""
 
 msgid "OB_SUICIDE"
 msgstr "%o sinmortigis."
@@ -686,10 +638,6 @@ msgstr "%k gajnas ludmurdon por la alia teamo."
 
 msgid "OB_FRIENDLY4"
 msgstr "%k perdis alian amikon."
-
-# Pickup
-msgid "nan"
-msgstr ""
 
 msgid "GOTARMOR"
 msgstr "Vi trovis armaĵon."
@@ -817,10 +765,6 @@ msgstr "Vi trovis malbonan sceptron."
 msgid "BETA_BONUS4"
 msgstr "Vi trovis malsanktan biblion."
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "PD_BLUEO"
 msgstr "Vi bezonas bluan ŝlosilon por aktivigi ĉi tiun objekton"
 
@@ -875,10 +819,6 @@ msgstr "Vi bezonas ruĝan kranion por malfermi ĉi tiun pordon"
 msgid "PD_YELLOWS"
 msgstr "Vi bezonas flavan kranion por malfermi ĉi tiun pordon"
 
-# Cast call names
-msgid "nan"
-msgstr ""
-
 msgid "CC_ZOMBIE"
 msgstr "Zombio"
 
@@ -931,10 +871,6 @@ msgstr "La Ciberdemono"
 
 msgid "CC_HERO"
 msgstr "Nia heroo"
-
-# Actor tag names
-msgid "nan"
-msgstr ""
 
 msgid "FN_SHOTGUN"
 msgstr "Serĝento"
@@ -995,10 +931,6 @@ msgstr "Raketoj"
 
 msgid "AMMO_CELLS"
 msgstr "Energiĉeloj"
-
-# Obituaries
-msgid "nan"
-msgstr ""
 
 msgid "OB_STEALTHBABY"
 msgstr "%o pensis, ke @[pro_eo] vidis elektraraneon."
@@ -1144,14 +1076,6 @@ msgstr "%o estis traborita de la elektropafilo de %k."
 msgid "OB_MPBFG_MBF"
 msgstr "%o estis bruligita de la BFG de %k."
 
-# Heretic
-msgid "nan"
-msgstr ""
-
-# Pickup 
-msgid "nan"
-msgstr ""
-
 msgid "TXT_GOTBLUEKEY"
 msgstr "Blua ŝlosilo"
 
@@ -1263,10 +1187,6 @@ msgstr "Feniksvergo"
 msgid "TXT_WPNGAUNTLETS"
 msgstr "Fergantoj de la Nekromancisto"
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NEEDBLUEKEY"
 msgstr "Vi bezonas bluan ŝlosilon por malfermi ĉi tiun pordon"
 
@@ -1275,10 +1195,6 @@ msgstr "Vi bezonas verdan ŝlosilon por malfermi ĉi tiun pordon"
 
 msgid "TXT_NEEDYELLOWKEY"
 msgstr "Vi bezonas flavan ŝlosilon por malfermi ĉi tiun pordon"
-
-# Actor tag names
-msgid "nan"
-msgstr ""
 
 msgid "FN_CHICKEN"
 msgstr "Koko"
@@ -1341,10 +1257,6 @@ msgstr "Bastono"
 
 msgid "TAG_GOLDWAND"
 msgstr "Elfa Sorĉbastono"
-
-# Obituaries
-msgid "nan"
-msgstr ""
 
 msgid "OB_CHICKEN"
 msgstr "%o estis bekita ĝis morto."
@@ -1453,14 +1365,6 @@ msgstr "%o torĉiĝis de la feniksvergo de %k."
 
 msgid "OB_MPPMACE"
 msgstr "%o premiĝis de la grandega klubsfero de %k."
-
-# Hexen
-msgid "nan"
-msgstr ""
-
-# Pickup
-msgid "nan"
-msgstr ""
 
 msgid "TXT_MANA_1"
 msgstr "Blua Manao"
@@ -1630,10 +1534,6 @@ msgstr "Segmento de Fantomkruc'"
 msgid "TXT_BLOODSCOURGE_PIECE"
 msgstr "Segmento de Sangskurĝ'"
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NEED_KEY_STEEL"
 msgstr "Vi bezonas la Ŝtalan Ŝlosilon"
 
@@ -1666,10 +1566,6 @@ msgstr "Vi bezonas la Marĉ-Ŝlosilon"
 
 msgid "TXT_NEED_KEY_CASTLE"
 msgstr "Vi bezonas la Kastel-Ŝlosilon"
-
-# Actor tag names
-msgid "nan"
-msgstr ""
 
 msgid "FN_FIREDEMON"
 msgstr "Afrito"
@@ -1848,10 +1744,6 @@ msgstr "Latuna Fera Dentrado"
 msgid "TAG_ARTIPUZZGEAR4"
 msgstr "Arĝenta Latuna Dentrado"
 
-# Obituaries
-msgid "nan"
-msgstr ""
-
 msgid "OB_FIREDEMON"
 msgstr "%o gustis la fajron de Afrito."
 
@@ -1950,14 +1842,6 @@ msgstr "%o recivis teruran revelacion de %k."
 
 msgid "OB_MPMWEAPBLOODSCOURGE"
 msgstr "%o disdetruiĝis el la universo de la Sangskurĝ' de %k."
-
-# Strife
-msgid "nan"
-msgstr ""
-
-# Pickups
-msgid "nan"
-msgstr ""
 
 msgid "TXT_METALARMOR"
 msgstr "Vi trovis metalan armaĵon."
@@ -2187,10 +2071,6 @@ msgstr "Ĝi devas fari ion..."
 msgid "MSG_TALISMANPOWER"
 msgstr "Vi havas superan forton!"
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NEEDKEY"
 msgstr "Vi ne havas la ŝlosilon"
 
@@ -2251,10 +2131,6 @@ msgid "TXT_NEED_OPASS"
 msgstr ""
 "Vi bezonas la paspermeson\n"
 "de la Orakolo!"
-
-# Actor tags
-msgid "nan"
-msgstr ""
 
 msgid "TAG_PUNCHDAGGER"
 msgstr "Ponardo"
@@ -2559,10 +2435,6 @@ msgstr "Verda Talismano"
 msgid "TAG_TALISMANBLUE"
 msgstr "Blua Talismano"
 
-# Obituaries
-msgid "nan"
-msgstr ""
-
 msgid "OB_ACOLYTE"
 msgstr "%o fervore pafiĝis de Akolito."
 
@@ -2653,10 +2525,6 @@ msgstr "%o estis brutale vaporigita de %k."
 msgid "OB_MPSIGIL"
 msgstr "%o kliniĝis antaŭ la plena potenco de la Sigelo de %k."
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "TXT_STRIFE_EPI"
 msgstr "Serĉado por la Sigelo"
 
@@ -2718,14 +2586,6 @@ msgstr "Trovu helpon."
 # As in for %u amount of money.
 msgid "TXT_TRADE"
 msgstr "kontraŭ %u da oro."
-
-# Chex Quest
-msgid "nan"
-msgstr ""
-
-# Pickups
-msgid "nan"
-msgstr ""
 
 msgid "GOTCHEXARMOR"
 msgstr "Prenis la Chex(R)-kirason."
@@ -2817,10 +2677,6 @@ msgstr "Vi prenis la Grandegzorĉilon!"
 msgid "GOTMINIZORCHER"
 msgstr "Prenis Zorĉileton."
 
-# Actor tags
-msgid "nan"
-msgstr ""
-
 msgid "TAG_SPOON"
 msgstr "Kulero"
 
@@ -2892,10 +2748,6 @@ msgstr "%o iĝis predo de la LAZ-aparato de %k."
 
 msgid "OB_MPBFG_SPLASH"
 msgstr "%o estas LAZ-ita de %k."
-
-# Miscellaneous
-msgid "nan"
-msgstr ""
 
 msgid "CHUSTR_E1M1"
 msgstr "E1M1: Surterejo"
@@ -3021,14 +2873,6 @@ msgstr "Zorĉpropulsilo-ŝarĝo"
 
 msgid "AMMO_CELLS"
 msgstr "Fluktuantzorĉilo-ŝarĝo"
-
-# Menus
-msgid "nan"
-msgstr ""
-
-# Main Menus
-msgid "nan"
-msgstr ""
 
 msgid "MNU_NEWGAME"
 msgstr "Nova ludado"
@@ -3189,10 +3033,6 @@ msgstr "La Ostejo"
 
 msgid "MNU_DEMESNE"
 msgstr "La Senmova Posedaĵo"
-
-# Gameplay menus
-msgid "nan"
-msgstr ""
 
 msgid "GMPLYMNU_TEAMPLAY"
 msgstr "Teamludado"
@@ -3521,10 +3361,6 @@ msgstr "Neniuj vertikalaj puŝoj de eksplodoj"
 msgid "CMPTMNU_EXPLODE2"
 msgstr "Uzi originalan konduton de Doom por eksplodoj "
 
-# player
-msgid "nan"
-msgstr ""
-
 msgid "PLYRMNU_RED"
 msgstr "Ruĝo"
 
@@ -3554,10 +3390,6 @@ msgstr "por vidi vian malantaŭon"
 
 msgid "PLYRMNU_VERTSPREAD"
 msgstr "Vertikala Kugla Disvastiĝo"
-
-# controls
-msgid "nan"
-msgstr ""
 
 msgid "CNTRLMNU_ZOOM"
 msgstr "Armilzumo"
@@ -3627,10 +3459,6 @@ msgstr "Rigardsalto"
 
 msgid "MOUSEMNU_LOOKSTRAFE"
 msgstr "Rigardturnmovo"
-
-# Map colors
-msgid "nan"
-msgstr ""
 
 msgid "MAPCOLORMNU_BACKCOLOR"
 msgstr "Fono"
@@ -3713,10 +3541,6 @@ msgstr "Surmeto-Tromp-Reĝimo"
 msgid "MAPCOLORMNU_PORTAL"
 msgstr "Portalo-Surmetoj"
 
-# Messages
-msgid "nan"
-msgstr ""
-
 msgid "MSGMNU_TITLE"
 msgstr "Mesaĝoj"
 
@@ -3761,10 +3585,6 @@ msgstr "Detalaj konservmesaĝoj"
 
 msgid "MSGMNU_DEVELOPER"
 msgstr "Reĝimo de mesaĝoj por programistoj"
-
-# Automap
-msgid "nan"
-msgstr ""
 
 msgid "AUTOMAPMNU_COLORSET"
 msgstr "Mapkoloro-agordaĵo"
@@ -3835,10 +3655,6 @@ msgstr "Meti markon"
 msgid "MAPCNTRLMNU_CLEARMARK"
 msgstr "Forigi markon"
 
-# Scoreboard
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_SCOREBOARD"
 msgstr "Poentotabulo-Agordoj"
 
@@ -3865,10 +3681,6 @@ msgstr "Mortmaĉo-Agordoj"
 
 msgid "SCRBRDMNU_TEAMDEATHMATCH"
 msgstr "Teamo-Mortmaĉo-Agordoj"
-
-# Alt HUD
-msgid "nan"
-msgstr ""
 
 msgid "ALTHUDMNU_TITLE"
 msgstr "Alternativa HUD"
@@ -3960,10 +3772,6 @@ msgstr "Koloro de la statistika nomo"
 msgid "ALTHUDMNU_STATSCOLOR"
 msgstr "Koloro de statistiko"
 
-# Display (game related)
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_CAPFPS"
 msgstr "Bildigo-Interpolado"
 
@@ -4054,10 +3862,6 @@ msgstr "Ekrana balanciĝo dum halto"
 msgid "DSPLYMNU_BOBSPEED"
 msgstr "Rapido de armila balanciĝo"
 
-# Scaling
-msgid "nan"
-msgstr ""
-
 msgid "SCALEMNU_TITLE"
 msgstr "Skalo-Agordoj"
 
@@ -4090,10 +3894,6 @@ msgstr "Skali al tutekrano"
 
 msgid "SCALEMNU_ADAPT"
 msgstr "Adapti al ekranamplekso"
-
-# HUD
-msgid "nan"
-msgstr ""
 
 msgid "HUDMNU_TITLE"
 msgstr "HUD Agordoj"
@@ -4142,10 +3942,6 @@ msgstr "Montri elektodialogon de IWAD"
 
 msgid "MISCMNU_ALLCHEATS"
 msgstr "Ebligi trompojn el tutaj ludoj"
-
-# Option Menus
-msgid "nan"
-msgstr ""
 
 msgid "MISCMNU_ENABLESCRIPTSCREENSHOTS"
 msgstr "Ebligi faradon de ekrankopioj per skriptoj"
@@ -4821,10 +4617,6 @@ msgstr "Serĉi:"
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Ĉiam montri ŝlosilojn"
 
-# Newly added content
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NO_TEAM_CHANGE"
 msgstr "Teamŝanĝiĝo estas malvalidigita!"
 
@@ -5323,11 +5115,6 @@ msgstr "Pro interago de la ludomondo"
 msgid "PAUSE_STRING"
 msgstr "Paŭzo"
 
-# New Doom item Tags for GZDoom 5.0. The names used here are taken from the
-# Doom manual (Doomwiki was referenced)
-msgid "nan"
-msgstr ""
-
 msgid "TAG_BACKPACK"
 msgstr "Tornistro"
 
@@ -5390,10 +5177,6 @@ msgstr "Flava kraniŝlosilo"
 
 msgid "TAG_REDSKULL"
 msgstr "Ruĝa kraniŝlosilo"
-
-# Chex Quest item tags
-msgid "nan"
-msgstr ""
 
 msgid "TAG_GLASSOFWATER"
 msgstr "Akvoglaso"

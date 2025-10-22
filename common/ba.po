@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: ba\n"
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "PRESSYN"
 msgstr "Pritisnite Y ili N."
 
@@ -65,10 +61,6 @@ msgid "TXT_QUITENDOOM"
 msgstr ""
 "Pritisnite bilo koju tipku ili kliknite bilo gdje na prozoru da izađete."
 
-# Savegame
-msgid "nan"
-msgstr ""
-
 msgid "NEWSAVE"
 msgstr "<Nova spašena igra>"
 
@@ -95,10 +87,6 @@ msgstr "Nema datoteka"
 
 msgid "MNU_DELETESG"
 msgstr "Želite li stvarno izbrisati ovu spašenu igru?"
-
-# General
-msgid "nan"
-msgstr ""
 
 msgid "OPTVAL_OFF"
 msgstr "Isklj."
@@ -162,10 +150,6 @@ msgstr "Postavke Mreže"
 
 msgid "OPTMNU_REVERB"
 msgstr "Uređivač odjekivanja okoliša"
-
-# Customize controls
-msgid "nan"
-msgstr ""
 
 msgid "CNTRLMNU_SWITCHTEXT1"
 msgstr "ENTER za promjenu, BACKSPACE za čišćenje"
@@ -421,10 +405,6 @@ msgstr "Izađite iz igre"
 msgid "CNTRLMNU_ADJUST_GAMMA"
 msgstr "Prilagodite gama-postavke ekrana"
 
-# Mouse
-msgid "nan"
-msgstr ""
-
 msgid "MOUSEMNU_ENABLEMOUSE"
 msgstr "Omogućite miš"
 
@@ -490,10 +470,6 @@ msgstr "Pokazivač sustava"
 
 msgid "OPTVAL_DEFAULT"
 msgstr "Zadano"
-
-# Controller
-msgid "nan"
-msgstr ""
 
 msgid "JOYMNU_TITLE"
 msgstr "Konfigurirajte džojstik"
@@ -570,10 +546,6 @@ msgstr "Obrnuto"
 
 msgid "OPTVAL_NOTINVERTED"
 msgstr "Nije obrnuto"
-
-# Player Menu
-msgid "nan"
-msgstr ""
 
 msgid "TXT_COLOR_BLUE"
 msgstr "Plava"
@@ -674,10 +646,6 @@ msgstr "Autociljanje"
 msgid "PLYRMNU_ALWAYSRUN"
 msgstr "Uvijek da trčite"
 
-# Display
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_SCREENSIZE"
 msgstr "Veličina zaslona"
 
@@ -717,10 +685,6 @@ msgstr "Prikaz pulsirajućih poruka"
 msgid "MSGMNU_MESSAGESCALE"
 msgstr "Skalirajte poruke"
 
-# Automap
-msgid "nan"
-msgstr ""
-
 msgid "MNU_COLORPICKER"
 msgstr "Izaberite boju"
 
@@ -741,10 +705,6 @@ msgstr "Prilagodite boje karte"
 
 msgid "MAPCOLORMNU_DEFAULTMAPCOLORS"
 msgstr "Vratite prilagođene boje na zadane"
-
-# Sound
-msgid "nan"
-msgstr ""
 
 msgid "SNDMNU_SNDENABLED"
 msgstr "Zvuk omogućen"
@@ -1240,10 +1200,6 @@ msgstr ""
 msgid "OPTVAL_1024K"
 msgstr ""
 
-# Postprocessing
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_UNCHARTED2"
 msgstr ""
 
@@ -1333,10 +1289,6 @@ msgstr "Radijalno"
 
 msgid "OPTVAL_STANDARD"
 msgstr "Standardno"
-
-# Texture options
-msgid "nan"
-msgstr ""
 
 msgid "GLTEXMNU_TEXFILTER"
 msgstr "Način filtera tekstura"
@@ -1536,10 +1488,6 @@ msgstr ""
 msgid "OPTVAL_OPENGLES"
 msgstr ""
 
-# Miscellaneous Options
-msgid "nan"
-msgstr ""
-
 msgid "MISCMNU_MERGEKEYS"
 msgstr "Spojite lijevo+desno Alt/Ctrl/Shift"
 
@@ -1594,10 +1542,6 @@ msgstr "Poboljšano"
 
 msgid "OPTMNU_LANGUAGE"
 msgstr "Jezik"
-
-# Reverb editor
-msgid "nan"
-msgstr ""
 
 msgid "TXT_UNDOCHANGES"
 msgstr "Poništite promjene"
@@ -1751,10 +1695,6 @@ msgstr "Naziv datoteke"
 msgid "REVMNU_Environments_to_save"
 msgstr "Okoliši za spasiti"
 
-# Vulkan
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_VKOPT"
 msgstr "Postavke Vulkana (eksperimentalno)"
 
@@ -1780,10 +1720,6 @@ msgstr "Ove postavke će zahtijevati ponovno pokretanje kako bi radile."
 msgid "VKMNU_DEVICESELECT"
 msgstr "Odaberite uređaj za Vulkan"
 
-# Texture scaling
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_SCALENX"
 msgstr ""
 
@@ -1802,10 +1738,6 @@ msgstr ""
 msgid "OPTVAL_OLD_NXBRZ"
 msgstr "Stari xBRZ"
 
-# Option Search
-msgid "nan"
-msgstr ""
-
 msgid "OS_TITLE"
 msgstr "Traženje postavke"
 
@@ -1820,10 +1752,6 @@ msgstr "Nema rezultata."
 
 msgid "OS_LABEL"
 msgstr "Traži:"
-
-# Blood Bath Announcer
-msgid "nan"
-msgstr ""
 
 msgid "TXT_OBITUARY1"
 msgstr "%k otkošćuje %o ko ribu"
@@ -1965,10 +1893,6 @@ msgstr "Pregledajte spašene igre"
 msgid "MOUSEMNU_SWAPBUTTONS"
 msgstr "Zamijenite tipke miša"
 
-# Additional menu texts
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_ONLYMODIFIED"
 msgstr "Samo modificirano"
 
@@ -2010,10 +1934,6 @@ msgstr "Izgled"
 
 msgid "DSPLYMNU_ADVANCED"
 msgstr "Napredne postavke zaslona"
-
-# IWAD/Game picker
-msgid "nan"
-msgstr ""
 
 msgid "PICKER_SELECT"
 msgstr "Odaberite koju igru želiš pokrenuti."
@@ -2070,10 +1990,6 @@ msgstr "Omogućite ovaj džojstik"
 
 msgid "CNTRLMNU_OPEN_MAIN"
 msgstr "Otvorite glavni izbornik"
-
-# New content
-msgid "nan"
-msgstr ""
 
 msgid "MODMNU_REPLAYER"
 msgstr "Modula za snimanje razigravanja"

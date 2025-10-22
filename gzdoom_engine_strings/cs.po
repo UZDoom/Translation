@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: cs\n"
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "PRESSKEY"
 msgstr "Stiskni klávesu."
 
@@ -83,10 +79,6 @@ msgstr "Dostupné pouze v registrované verzi"
 
 msgid "DOSY"
 msgstr "(Stiskni Y pro odchod)"
-
-# Quit messages
-msgid "nan"
-msgstr ""
 
 msgid "QUITMSG1"
 msgstr ""
@@ -230,16 +222,8 @@ msgstr ""
 "Skutečný Chex(R) bojovník\n"
 "by se tak rychle nevzdal!"
 
-# Pickups
-msgid "nan"
-msgstr ""
-
 msgid "TXT_DEFAULTPICKUPMSG"
 msgstr "Dostal@[ao_cs] jsi věc"
-
-# Locks
-msgid "nan"
-msgstr ""
 
 msgid "PD_ANY"
 msgstr "Tyto dveře otevře jakýkoliv klíč"
@@ -262,10 +246,6 @@ msgstr "K aktivaci tohoto objektu je potřeba všech šest klíčů"
 msgid "PD_ALLKEYS"
 msgstr "Potřebuješ všechny klíče"
 
-# Chat
-msgid "nan"
-msgstr ""
-
 msgid "HUSTR_MSGU"
 msgstr "[Zpráva neposlána]"
 
@@ -286,10 +266,6 @@ msgstr "Kleplo ti..."
 
 msgid "HUSTR_MESSAGESENT"
 msgstr "[Zpráva odeslána]"
-
-# Cheats
-msgid "nan"
-msgstr ""
 
 msgid "STSTR_MUS"
 msgstr "Změna hudby"
@@ -467,10 +443,6 @@ msgstr "Co chceš zabít, když nejsi ve hře?"
 msgid "TXT_NOT_FROZEN"
 msgstr "Vlastnosti držící hráče na místě vypnuty"
 
-# Automap
-msgid "nan"
-msgstr ""
-
 msgid "AMSTR_FOLLOWOFF"
 msgstr "Režim sledování VYP"
 
@@ -494,10 +466,6 @@ msgstr "Značka"
 
 msgid "AMSTR_MARKSCLEARED"
 msgstr "Všechny značky smazány"
-
-# Multiplayer
-msgid "nan"
-msgstr ""
 
 msgid "TXT_FRAGLIMIT"
 msgstr "Fraglimit dosáhnut."
@@ -538,10 +506,6 @@ msgstr "Ultra-zabití!"
 msgid "MULTI5"
 msgstr "Monstr-zabití!"
 
-# Scoreboard
-msgid "nan"
-msgstr ""
-
 msgid "SCORE_BONUS"
 msgstr ""
 
@@ -575,10 +539,6 @@ msgstr "Celkem"
 msgid "SCORE_LVLTIME"
 msgstr "Čas v levelu"
 
-# Level Summary
-msgid "nan"
-msgstr ""
-
 msgid "TXT_IMKILLS"
 msgstr "Zabití"
 
@@ -603,10 +563,6 @@ msgstr "Vstupuješ do"
 msgid "WI_ENTERING"
 msgstr "Nyní vstupuješ do:"
 
-# HUD
-msgid "nan"
-msgstr ""
-
 msgid "AM_MONSTERS"
 msgstr "Příšery:"
 
@@ -615,10 +571,6 @@ msgstr "Skrýše:"
 
 msgid "AM_ITEMS"
 msgstr "Věci:"
-
-# Obituaries
-msgid "nan"
-msgstr ""
 
 msgid "OB_SUICIDE"
 msgstr "%o spáchal@[ao_cs] sebevraždu."
@@ -683,10 +635,6 @@ msgstr "%k dostal@[ao_cs] frag pro další tým."
 
 msgid "OB_FRIENDLY4"
 msgstr "%k ztratil@[ao_cs] dalšího přítele."
-
-# Pickup
-msgid "nan"
-msgstr ""
 
 msgid "GOTARMOR"
 msgstr "Sebráno brnění."
@@ -814,10 +762,6 @@ msgstr "Sebráno zlé žezlo."
 msgid "BETA_BONUS4"
 msgstr "Sebrána bezbožná bible."
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "PD_BLUEO"
 msgstr "K aktivaci tohoto objektu potřebuješ modrý klíč."
 
@@ -872,10 +816,6 @@ msgstr "K otevření těchto dveří potřebuješ červenou lebku."
 msgid "PD_YELLOWS"
 msgstr "K otevření těchto dveří potřebuješ žlutou lebku."
 
-# Cast call names
-msgid "nan"
-msgstr ""
-
 msgid "CC_ZOMBIE"
 msgstr "Zombie"
 
@@ -928,10 +868,6 @@ msgstr "Kyberdémon"
 
 msgid "CC_HERO"
 msgstr "Náš hrdina"
-
-# Actor tag names
-msgid "nan"
-msgstr ""
 
 msgid "FN_SHOTGUN"
 msgstr "Seržant"
@@ -992,10 +928,6 @@ msgstr "Rakety"
 
 msgid "AMMO_CELLS"
 msgstr "Energetické články"
-
-# Obituaries
-msgid "nan"
-msgstr ""
 
 msgid "OB_STEALTHBABY"
 msgstr "%o si myslel@[ao_cs], že viděl@[ao_cs] arachnotrona."
@@ -1141,14 +1073,6 @@ msgstr "%o byl@[ao_cs] napíchnut@[ao_cs] hráčem %k."
 msgid "OB_MPBFG_MBF"
 msgstr "%o shořel@[ao_cs] BFGčkem hráče %k."
 
-# Heretic
-msgid "nan"
-msgstr ""
-
-# Pickup 
-msgid "nan"
-msgstr ""
-
 msgid "TXT_GOTBLUEKEY"
 msgstr "Modrý klíč"
 
@@ -1260,10 +1184,6 @@ msgstr "Fénixova hůl"
 msgid "TXT_WPNGAUNTLETS"
 msgstr "Nekromancerovy rukavice"
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NEEDBLUEKEY"
 msgstr "K otevření těchto dveří potřebuješ modrý klíč"
 
@@ -1272,10 +1192,6 @@ msgstr "K otevření těchto dveří potřebuješ červený klíč"
 
 msgid "TXT_NEEDYELLOWKEY"
 msgstr "K otevření těchto dveří potřebuješ žlutý klíč."
-
-# Actor tag names
-msgid "nan"
-msgstr ""
 
 msgid "FN_CHICKEN"
 msgstr "Slepice"
@@ -1338,10 +1254,6 @@ msgstr "Hole"
 
 msgid "TAG_GOLDWAND"
 msgstr "Elfí hůlka"
-
-# Obituaries
-msgid "nan"
-msgstr ""
 
 msgid "OB_CHICKEN"
 msgstr "%o byl@[ao_cs] uklován@[ao_cs] k smrti."
@@ -1451,14 +1363,6 @@ msgstr "%o byl@[ao_cs] vyhořen@[ao_cs] fénixovou holí hráče %k."
 msgid "OB_MPPMACE"
 msgstr ""
 "%o byl@[ao_cs] rozmačkán@[ao_cs] obrovskou žezlometnou koulí hráče %k."
-
-# Hexen
-msgid "nan"
-msgstr ""
-
-# Pickup
-msgid "nan"
-msgstr ""
 
 msgid "TXT_MANA_1"
 msgstr "Modrá mana"
@@ -1628,10 +1532,6 @@ msgstr "Část Zjevitele"
 msgid "TXT_BLOODSCOURGE_PIECE"
 msgstr "Část Krvehromu"
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NEED_KEY_STEEL"
 msgstr "Potřebuješ ocelový klíč"
 
@@ -1664,10 +1564,6 @@ msgstr "Potřebuješ klíč od bažiny"
 
 msgid "TXT_NEED_KEY_CASTLE"
 msgstr "Potřebuješ klíč od hradu"
-
-# Actor tag names
-msgid "nan"
-msgstr ""
 
 msgid "FN_FIREDEMON"
 msgstr ""
@@ -1846,10 +1742,6 @@ msgstr "Mosazno-železné kolečko"
 msgid "TAG_ARTIPUZZGEAR4"
 msgstr "Stříbro-mosazné kolečko"
 
-# Obituaries
-msgid "nan"
-msgstr ""
-
 msgid "OB_FIREDEMON"
 msgstr "%o okusil@[ao_cs] afritův oheň."
 
@@ -1949,14 +1841,6 @@ msgstr "%o zjistil@[ao_cs] šokující odhalení hráče %k."
 msgid "OB_MPMWEAPBLOODSCOURGE"
 msgstr ""
 "%o byl@[ao_cs] vymýcen@[ao_cs] ze jsoucna vesmíru Krvehromem hráče %k."
-
-# Strife
-msgid "nan"
-msgstr ""
-
-# Pickups
-msgid "nan"
-msgstr ""
 
 msgid "TXT_METALARMOR"
 msgstr "Sebral@[ao_cs] jsi kovové brnění."
@@ -2186,10 +2070,6 @@ msgstr "Něco to dělat musí..."
 msgid "MSG_TALISMANPOWER"
 msgstr "Získal@[ao_cs] jsi super sílu!"
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NEEDKEY"
 msgstr "Nemáš klíč."
 
@@ -2240,10 +2120,6 @@ msgstr "Potřebuješ kalich!"
 
 msgid "TXT_NEED_OPASS"
 msgstr "Potřebuješ propustku od věštce!"
-
-# Actor tags
-msgid "nan"
-msgstr ""
 
 msgid "TAG_PUNCHDAGGER"
 msgstr "Dýka"
@@ -2548,10 +2424,6 @@ msgstr "Zelený talisman"
 msgid "TAG_TALISMANBLUE"
 msgstr "Modrý talisman"
 
-# Obituaries
-msgid "nan"
-msgstr ""
-
 msgid "OB_ACOLYTE"
 msgstr "%o byl@[ao_cs] horlivě zastřelen@[ao_cs] akolytou."
 
@@ -2642,10 +2514,6 @@ msgstr "%o byl@[ao_cs] rozpuštěn@[ao_cs] hráčem %k."
 msgid "OB_MPSIGIL"
 msgstr "%o poklekl@[ao_cs] před čirou sílou Pečeti hráče %k."
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "TXT_STRIFE_EPI"
 msgstr "Pátrání za Pečetí"
 
@@ -2703,14 +2571,6 @@ msgstr "Najdi pomoc."
 # As in for %u amount of money.
 msgid "TXT_TRADE"
 msgstr "za %u zlatých"
-
-# Chex Quest
-msgid "nan"
-msgstr ""
-
-# Pickups
-msgid "nan"
-msgstr ""
 
 msgid "GOTCHEXARMOR"
 msgstr "Sebráno Chex(R) brnění."
@@ -2802,10 +2662,6 @@ msgstr "Získal@[ao_cs] jsi megabzukr!"
 msgid "GOTMINIZORCHER"
 msgstr "Sebrán minibzukr."
 
-# Actor tags
-msgid "nan"
-msgstr ""
-
 msgid "TAG_SPOON"
 msgstr "Lžíce"
 
@@ -2877,10 +2733,6 @@ msgstr "%o padl@[ao_cs] velkodosahovému bzukru hráče %k."
 
 msgid "OB_MPBFG_SPLASH"
 msgstr "%o byl@[ao_cs] odbzukrován hráčem %k."
-
-# Miscellaneous
-msgid "nan"
-msgstr ""
 
 msgid "CHUSTR_E1M1"
 msgstr "E1M1: Přistávací zóna"
@@ -3005,14 +2857,6 @@ msgstr "Propulzorové náboje"
 
 msgid "AMMO_CELLS"
 msgstr "Fázovací náboje"
-
-# Menus
-msgid "nan"
-msgstr ""
-
-# Main Menus
-msgid "nan"
-msgstr ""
 
 msgid "MNU_NEWGAME"
 msgstr "Nová hra"
@@ -3173,10 +3017,6 @@ msgstr "Kostnice"
 
 msgid "MNU_DEMESNE"
 msgstr "Zatuchlé panství"
-
-# Gameplay menus
-msgid "nan"
-msgstr ""
 
 msgid "GMPLYMNU_TEAMPLAY"
 msgstr "Týmová hra"
@@ -3505,10 +3345,6 @@ msgstr "Exploze neodhazují do výšky"
 msgid "CMPTMNU_EXPLODE2"
 msgstr "Používat původní chování explozí Doomu"
 
-# player
-msgid "nan"
-msgstr ""
-
 msgid "PLYRMNU_RED"
 msgstr "Červená"
 
@@ -3538,10 +3374,6 @@ msgstr "pro pohled zezadu"
 
 msgid "PLYRMNU_VERTSPREAD"
 msgstr "Svislý rozptyl střelby"
-
-# controls
-msgid "nan"
-msgstr ""
 
 msgid "CNTRLMNU_ZOOM"
 msgstr "Přiblížení zbraně"
@@ -3611,10 +3443,6 @@ msgstr "Automatické vystředění pohledu"
 
 msgid "MOUSEMNU_LOOKSTRAFE"
 msgstr "Použít myš k pohybu do stran"
-
-# Map colors
-msgid "nan"
-msgstr ""
 
 msgid "MAPCOLORMNU_BACKCOLOR"
 msgstr "Pozadí"
@@ -3697,10 +3525,6 @@ msgstr "Překryvný cheatovací režim"
 msgid "MAPCOLORMNU_PORTAL"
 msgstr "Portálové překryvy"
 
-# Messages
-msgid "nan"
-msgstr ""
-
 msgid "MSGMNU_TITLE"
 msgstr "Nastavení oznámení"
 
@@ -3745,10 +3569,6 @@ msgstr "Detailní oznámení o uložené hře"
 
 msgid "MSGMNU_DEVELOPER"
 msgstr "Vývojářská oznámení"
-
-# Automap
-msgid "nan"
-msgstr ""
 
 msgid "AUTOMAPMNU_COLORSET"
 msgstr "Barevné schéma"
@@ -3819,10 +3639,6 @@ msgstr "Umístit značku"
 msgid "MAPCNTRLMNU_CLEARMARK"
 msgstr "Smazat značky"
 
-# Scoreboard
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_SCOREBOARD"
 msgstr "Tabulka skóre"
 
@@ -3849,10 +3665,6 @@ msgstr "Deathmatch"
 
 msgid "SCRBRDMNU_TEAMDEATHMATCH"
 msgstr "Týmový deathmatch"
-
-# Alt HUD
-msgid "nan"
-msgstr ""
 
 msgid "ALTHUDMNU_TITLE"
 msgstr "Alternativní HUD"
@@ -3944,10 +3756,6 @@ msgstr "Barva názvu statistik"
 msgid "ALTHUDMNU_STATSCOLOR"
 msgstr "Barva statistik"
 
-# Display (game related)
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_CAPFPS"
 msgstr "Interpolace vykreslování"
 
@@ -4038,10 +3846,6 @@ msgstr "Pohupování pohledu v klidu"
 msgid "DSPLYMNU_BOBSPEED"
 msgstr "Rychlost pohupování zbraně"
 
-# Scaling
-msgid "nan"
-msgstr ""
-
 msgid "SCALEMNU_TITLE"
 msgstr "Nastavení škálování rozhraní"
 
@@ -4074,10 +3878,6 @@ msgstr "Škalovat přes celou obrazovku"
 
 msgid "SCALEMNU_ADAPT"
 msgstr "Přizpůsobit velikosti obrazovky"
-
-# HUD
-msgid "nan"
-msgstr ""
 
 msgid "HUDMNU_TITLE"
 msgstr "Nastavení rozhraní a HUD"
@@ -4126,10 +3926,6 @@ msgstr "Zobrazit dialog pro výběr IWADu"
 
 msgid "MISCMNU_ALLCHEATS"
 msgstr "Povolit cheaty ze všech her"
-
-# Option Menus
-msgid "nan"
-msgstr ""
 
 msgid "MISCMNU_ENABLESCRIPTSCREENSHOTS"
 msgstr "Povolit skriptům pořizovat snímky obrazovky"
@@ -4805,10 +4601,6 @@ msgstr "Hledat:"
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Vždy zobrazit klíče"
 
-# Newly added content
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NO_TEAM_CHANGE"
 msgstr "Změna týmu je vypnuta!"
 
@@ -5305,11 +5097,6 @@ msgstr "Při interakci s herním světem"
 msgid "PAUSE_STRING"
 msgstr "Pauza"
 
-# New Doom item Tags for GZDoom 5.0. The names used here are taken from the
-# Doom manual (Doomwiki was referenced)
-msgid "nan"
-msgstr ""
-
 msgid "TAG_BACKPACK"
 msgstr "Batoh"
 
@@ -5372,10 +5159,6 @@ msgstr "Žlutá lebka"
 
 msgid "TAG_REDSKULL"
 msgstr "Červená lebka"
-
-# Chex Quest item tags
-msgid "nan"
-msgstr ""
 
 msgid "TAG_GLASSOFWATER"
 msgstr "Sklenice vody"

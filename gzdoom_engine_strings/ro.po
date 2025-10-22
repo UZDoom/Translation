@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: ro\n"
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "PRESSKEY"
 msgstr "Apasă o tastă."
 
@@ -86,10 +82,6 @@ msgstr "Disponibil doar în versiunea înregistrată."
 
 msgid "DOSY"
 msgstr "(Apasă Y pentru a ieși)"
-
-# Quit messages
-msgid "nan"
-msgstr ""
 
 msgid "QUITMSG1"
 msgstr "Te rog nu ieși, mai sunt demoni care trebuie prăjiți!"
@@ -217,16 +209,8 @@ msgstr ""
 "Adevăratul Luptător Chex(R) nu s-ar da bătut atât\n"
 "de ușor!"
 
-# Pickups
-msgid "nan"
-msgstr ""
-
 msgid "TXT_DEFAULTPICKUPMSG"
 msgstr "Ai ridicat un obiect"
-
-# Locks
-msgid "nan"
-msgstr ""
 
 msgid "PD_ANY"
 msgstr "Orice cheie va deschide ușa."
@@ -249,10 +233,6 @@ msgstr "Ai nevoie de cele șase chei pentru a activa obiectul."
 msgid "PD_ALLKEYS"
 msgstr "Ai nevoie de toate cheile."
 
-# Chat
-msgid "nan"
-msgstr ""
-
 msgid "HUSTR_MSGU"
 msgstr "[Mesaj netrimis]"
 
@@ -273,10 +253,6 @@ msgstr "Ai luat-o pe ulei..."
 
 msgid "HUSTR_MESSAGESENT"
 msgstr "[Mesaj Trimis]"
-
-# Cheats
-msgid "nan"
-msgstr ""
 
 msgid "STSTR_MUS"
 msgstr "Schimbă Muzica"
@@ -456,10 +432,6 @@ msgstr "Ce vrei să ucizi în afara jocului?"
 msgid "TXT_NOT_FROZEN"
 msgstr "Proprietăți jucători înghețați DEZACTIVATE"
 
-# Automap
-msgid "nan"
-msgstr ""
-
 msgid "AMSTR_FOLLOWOFF"
 msgstr "Mod Urmărire OPRIT"
 
@@ -483,10 +455,6 @@ msgstr "Loc Marcat"
 
 msgid "AMSTR_MARKSCLEARED"
 msgstr "Toate Marcajele Șterse"
-
-# Multiplayer
-msgid "nan"
-msgstr ""
 
 msgid "TXT_FRAGLIMIT"
 msgstr "Limită de ucideri atinsă."
@@ -527,10 +495,6 @@ msgstr "Ultra ucidere!"
 msgid "MULTI5"
 msgstr "Ucidere monstruoasă!"
 
-# Scoreboard
-msgid "nan"
-msgstr ""
-
 msgid "SCORE_BONUS"
 msgstr ""
 
@@ -564,10 +528,6 @@ msgstr ""
 msgid "SCORE_LVLTIME"
 msgstr "Timp Petrecut"
 
-# Level Summary
-msgid "nan"
-msgstr ""
-
 msgid "TXT_IMKILLS"
 msgstr "Ucideri"
 
@@ -592,10 +552,6 @@ msgstr "Începe"
 msgid "WI_ENTERING"
 msgstr "Acum începe:"
 
-# HUD
-msgid "nan"
-msgstr ""
-
 msgid "AM_MONSTERS"
 msgstr "Monștri:"
 
@@ -604,10 +560,6 @@ msgstr "Secrete:"
 
 msgid "AM_ITEMS"
 msgstr "Obiecte:"
-
-# Obituaries
-msgid "nan"
-msgstr ""
 
 msgid "OB_SUICIDE"
 msgstr "%o se sinucide."
@@ -672,10 +624,6 @@ msgstr "%k face o victimă pentru echipa adversă."
 
 msgid "OB_FRIENDLY4"
 msgstr "%k mai pierde un prieten."
-
-# Pickup
-msgid "nan"
-msgstr ""
 
 msgid "GOTARMOR"
 msgstr "Ai ridicat armura."
@@ -805,10 +753,6 @@ msgstr "Ai ridicat un sceptru malefic."
 msgid "BETA_BONUS4"
 msgstr "Ai ridicat o biblie profană."
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "PD_BLUEO"
 msgstr "Ai nevoie de o cheie albastră pentru a activa obiectul"
 
@@ -863,10 +807,6 @@ msgstr "Ai nevoie de un craniu roșu pentru a activa ușa"
 msgid "PD_YELLOWS"
 msgstr "Ai nevoie de un craniu galben pentru a activa ușa"
 
-# Cast call names
-msgid "nan"
-msgstr ""
-
 msgid "CC_ZOMBIE"
 msgstr "Zombi"
 
@@ -919,10 +859,6 @@ msgstr "Ciberdemon"
 
 msgid "CC_HERO"
 msgstr "Eroul Nostru"
-
-# Actor tag names
-msgid "nan"
-msgstr ""
 
 msgid "FN_SHOTGUN"
 msgstr "Sergent"
@@ -983,10 +919,6 @@ msgstr "Rachete"
 
 msgid "AMMO_CELLS"
 msgstr "Celule de Energie"
-
-# Obituaries
-msgid "nan"
-msgstr ""
 
 msgid "OB_STEALTHBABY"
 msgstr "%o a crezut că %g a văzut un aracnotron."
@@ -1132,14 +1064,6 @@ msgstr "%o a fost ocărit de %k."
 msgid "OB_MPBFG_MBF"
 msgstr "%o a fost ars de BFG-ul lui %k."
 
-# Heretic
-msgid "nan"
-msgstr ""
-
-# Pickup 
-msgid "nan"
-msgstr ""
-
 msgid "TXT_GOTBLUEKEY"
 msgstr "Cheie Albastră"
 
@@ -1251,10 +1175,6 @@ msgstr "Joardă Phoenix"
 msgid "TXT_WPNGAUNTLETS"
 msgstr "Mănușile Necromantului"
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NEEDBLUEKEY"
 msgstr "Ai nevoie de o cheie albastră pentru a deschide ușa"
 
@@ -1263,10 +1183,6 @@ msgstr "Ai nevoie de o cheie verde pentru a deschide ușa"
 
 msgid "TXT_NEEDYELLOWKEY"
 msgstr "Ai nevoie de o cheie galbenă pentru a deschide ușa"
-
-# Actor tag names
-msgid "nan"
-msgstr ""
 
 msgid "FN_CHICKEN"
 msgstr "Găină"
@@ -1329,10 +1245,6 @@ msgstr "Baston"
 
 msgid "TAG_GOLDWAND"
 msgstr "Toiag"
-
-# Obituaries
-msgid "nan"
-msgstr ""
 
 msgid "OB_CHICKEN"
 msgstr "%o a fost ciocănit până la moarte."
@@ -1447,14 +1359,6 @@ msgstr "%o a fost ars complet de joarda lui %k."
 
 msgid "OB_MPPMACE"
 msgstr "%o a fost strivit de globul buzduganului lui %k."
-
-# Hexen
-msgid "nan"
-msgstr ""
-
-# Pickup
-msgid "nan"
-msgstr ""
 
 msgid "TXT_MANA_1"
 msgstr "Mană Albastră"
@@ -1624,10 +1528,6 @@ msgstr "Fragment din Toiagul Stafie"
 msgid "TXT_BLOODSCOURGE_PIECE"
 msgstr "Fragment din Flagelul Sângeros"
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NEED_KEY_STEEL"
 msgstr "Ai nevoie de Cheia de Oțel"
 
@@ -1660,10 +1560,6 @@ msgstr "Ai nevoie de Cheia Mlaștinii"
 
 msgid "TXT_NEED_KEY_CASTLE"
 msgstr "Ai nevoie de Cheia Castelului"
-
-# Actor tag names
-msgid "nan"
-msgstr ""
 
 msgid "FN_FIREDEMON"
 msgstr "Demon al Focului"
@@ -1842,10 +1738,6 @@ msgstr "Mecanism de alamă și fier"
 msgid "TAG_ARTIPUZZGEAR4"
 msgstr "Mecanism de argint și alamă"
 
-# Obituaries
-msgid "nan"
-msgstr ""
-
 msgid "OB_FIREDEMON"
 msgstr "%o a gustat flacăra Demonului."
 
@@ -1946,14 +1838,6 @@ msgid "OB_MPMWEAPBLOODSCOURGE"
 msgstr ""
 "%o a fost ras de pe fața universului de\n"
 "Flagelul lui %k."
-
-# Strife
-msgid "nan"
-msgstr ""
-
-# Pickups
-msgid "nan"
-msgstr ""
 
 msgid "TXT_METALARMOR"
 msgstr "Ai ridicat Armura de Metal."
@@ -2183,10 +2067,6 @@ msgstr "Trebuie să fie bun la ceva..."
 msgid "MSG_TALISMANPOWER"
 msgstr "Ai super forță!"
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NEEDKEY"
 msgstr "Nu ai cheia"
 
@@ -2238,10 +2118,6 @@ msgstr "Ai nevoie de potir!"
 
 msgid "TXT_NEED_OPASS"
 msgstr "Ai nevoie de Legitimația Oracolului!"
-
-# Actor tags
-msgid "nan"
-msgstr ""
 
 msgid "TAG_PUNCHDAGGER"
 msgstr "Pumnal"
@@ -2546,10 +2422,6 @@ msgstr "Talisman Verde"
 msgid "TAG_TALISMANBLUE"
 msgstr "Talisman Albastru"
 
-# Obituaries
-msgid "nan"
-msgstr ""
-
 msgid "OB_ACOLYTE"
 msgstr "%o a fost împușcat zelos de un Acolit."
 
@@ -2642,10 +2514,6 @@ msgstr "%o a fost evaporat în mod violent de %k."
 msgid "OB_MPSIGIL"
 msgstr "%o s-a plecat în fața puterii Sigiliului lui %k."
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "TXT_STRIFE_EPI"
 msgstr "În căutarea Sigiliului"
 
@@ -2703,14 +2571,6 @@ msgstr "Găsește ajutor"
 # As in for %u amount of money.
 msgid "TXT_TRADE"
 msgstr "pentru %u"
-
-# Chex Quest
-msgid "nan"
-msgstr ""
-
-# Pickups
-msgid "nan"
-msgstr ""
 
 msgid "GOTCHEXARMOR"
 msgstr "Ai ridicat Armura Chex(R)."
@@ -2804,10 +2664,6 @@ msgstr "Ai ridicat un Mega Zorcher!"
 msgid "GOTMINIZORCHER"
 msgstr "Ai ridicat un Mini Zorcher."
 
-# Actor tags
-msgid "nan"
-msgstr ""
-
 msgid "TAG_SPOON"
 msgstr "Lingură"
 
@@ -2879,10 +2735,6 @@ msgstr "%o a căzut pradă dispozitivului LAZ al lui %k."
 
 msgid "OB_MPBFG_SPLASH"
 msgstr "%o a fost stropit de dispozitivul LAZ al lui %k."
-
-# Miscellaneous
-msgid "nan"
-msgstr ""
 
 msgid "CHUSTR_E1M1"
 msgstr "E1M1: Pista de Aterizare"
@@ -3008,14 +2860,6 @@ msgstr "Încărcătură pentru Accelerator"
 
 msgid "AMMO_CELLS"
 msgstr "Încărcătură pentru Zorcherul Fazat"
-
-# Menus
-msgid "nan"
-msgstr ""
-
-# Main Menus
-msgid "nan"
-msgstr ""
 
 msgid "MNU_NEWGAME"
 msgstr "Joc Nou"
@@ -3176,10 +3020,6 @@ msgstr "Osuarul"
 
 msgid "MNU_DEMESNE"
 msgstr "Tărâmul Stagnării"
-
-# Gameplay menus
-msgid "nan"
-msgstr ""
 
 msgid "GMPLYMNU_TEAMPLAY"
 msgstr "Joc în Echipă"
@@ -3508,10 +3348,6 @@ msgstr "Fără împingere verticală la explozii"
 msgid "CMPTMNU_EXPLODE2"
 msgstr "Utilizează comportamentul original la explozii"
 
-# player
-msgid "nan"
-msgstr ""
-
 msgid "PLYRMNU_RED"
 msgstr "Roșu"
 
@@ -3541,10 +3377,6 @@ msgstr "pentru a vedea spatele"
 
 msgid "PLYRMNU_VERTSPREAD"
 msgstr "Recul Vertical Gloanțe"
-
-# controls
-msgid "nan"
-msgstr ""
 
 msgid "CNTRLMNU_ZOOM"
 msgstr "Zoom Armă"
@@ -3614,10 +3446,6 @@ msgstr "Mișcarea mouse-ului"
 
 msgid "MOUSEMNU_LOOKSTRAFE"
 msgstr "Mișcă mouse-ul în lateral"
-
-# Map colors
-msgid "nan"
-msgstr ""
 
 msgid "MAPCOLORMNU_BACKCOLOR"
 msgstr "Fundal"
@@ -3700,10 +3528,6 @@ msgstr "Mod Acoperit Trișor"
 msgid "MAPCOLORMNU_PORTAL"
 msgstr "Acoperiri Portaluri"
 
-# Messages
-msgid "nan"
-msgstr ""
-
 msgid "MSGMNU_TITLE"
 msgstr "Mesaje"
 
@@ -3748,10 +3572,6 @@ msgstr "Mesaje detaliate pentru salvări"
 
 msgid "MSGMNU_DEVELOPER"
 msgstr "Mod mesaje pentru dezvoltator"
-
-# Automap
-msgid "nan"
-msgstr ""
 
 msgid "AUTOMAPMNU_COLORSET"
 msgstr "Set culori hartă"
@@ -3822,10 +3642,6 @@ msgstr "Marcaj"
 msgid "MAPCNTRLMNU_CLEARMARK"
 msgstr "Ștergere marcaj"
 
-# Scoreboard
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_SCOREBOARD"
 msgstr "Opțiuni Tabelă de Marcaj"
 
@@ -3852,10 +3668,6 @@ msgstr "Setări Deathmatch"
 
 msgid "SCRBRDMNU_TEAMDEATHMATCH"
 msgstr "Setări Deathmatch în Echipă"
-
-# Alt HUD
-msgid "nan"
-msgstr ""
 
 msgid "ALTHUDMNU_TITLE"
 msgstr "Interfață alternativă"
@@ -3947,10 +3759,6 @@ msgstr "Culoare denumire statistici"
 msgid "ALTHUDMNU_STATSCOLOR"
 msgstr "Culoare statistici"
 
-# Display (game related)
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_CAPFPS"
 msgstr "Interpolare Imagine"
 
@@ -4041,10 +3849,6 @@ msgstr "Mișcare cameră în timpul staționării"
 msgid "DSPLYMNU_BOBSPEED"
 msgstr "Viteză mișcare arme"
 
-# Scaling
-msgid "nan"
-msgstr ""
-
 msgid "SCALEMNU_TITLE"
 msgstr "Setări Dimensiuni"
 
@@ -4077,10 +3881,6 @@ msgstr "Dimensionează la modul Fullscreen"
 
 msgid "SCALEMNU_ADAPT"
 msgstr "Adaptează la dimensiunea ecranului"
-
-# HUD
-msgid "nan"
-msgstr ""
 
 msgid "HUDMNU_TITLE"
 msgstr "Setări Interfață"
@@ -4129,10 +3929,6 @@ msgstr "Afișează fereastra de selecție a jocurilor"
 
 msgid "MISCMNU_ALLCHEATS"
 msgstr "Permite codurile din toate jocurile"
-
-# Option Menus
-msgid "nan"
-msgstr ""
 
 msgid "MISCMNU_ENABLESCRIPTSCREENSHOTS"
 msgstr "Posibilitate de a face poze prin scripturi"
@@ -4808,10 +4604,6 @@ msgstr "Căutare:"
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Afișează mereu cheile"
 
-# Newly added content
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NO_TEAM_CHANGE"
 msgstr "Schimbarea echipelor a fost dezactivată!"
 
@@ -5312,11 +5104,6 @@ msgstr "Din interacțiune cu lumea"
 msgid "PAUSE_STRING"
 msgstr "Pauză"
 
-# New Doom item Tags for GZDoom 5.0. The names used here are taken from the
-# Doom manual (Doomwiki was referenced)
-msgid "nan"
-msgstr ""
-
 msgid "TAG_BACKPACK"
 msgstr "Rucsac"
 
@@ -5379,10 +5166,6 @@ msgstr "Cheie Craniu Galbenă"
 
 msgid "TAG_REDSKULL"
 msgstr "Cheie Craniu Roșie"
-
-# Chex Quest item tags
-msgid "nan"
-msgstr ""
 
 msgid "TAG_GLASSOFWATER"
 msgstr "Pahar de Apă"

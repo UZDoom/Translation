@@ -376,9 +376,6 @@ msgstr ""
 "\n"
 "俺は...また一人だ。"
 
-msgid "nan"
-msgstr ""
-
 msgid "TXT_HACXMAP01"
 msgstr "GenEmpコーポ"
 

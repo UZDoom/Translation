@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: uk\n"
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "PRESSYN"
 msgstr "Натисніть Y або N."
 
@@ -64,10 +60,6 @@ msgstr "Чат:"
 msgid "TXT_QUITENDOOM"
 msgstr "Натисніть будь яку клавішу чи натисніть по вікну, щоб вийти."
 
-# Savegame
-msgid "nan"
-msgstr ""
-
 msgid "NEWSAVE"
 msgstr "<Нове збереження>"
 
@@ -94,10 +86,6 @@ msgstr "Немає файлів"
 
 msgid "MNU_DELETESG"
 msgstr "Ви дійсно хочете видалити це збереження?"
-
-# General
-msgid "nan"
-msgstr ""
 
 msgid "OPTVAL_OFF"
 msgstr "Вимк."
@@ -161,10 +149,6 @@ msgstr "Мережа"
 
 msgid "OPTMNU_REVERB"
 msgstr "Редактор реверберації"
-
-# Customize controls
-msgid "nan"
-msgstr ""
 
 msgid "CNTRLMNU_SWITCHTEXT1"
 msgstr "ENTER — змінити, BACKSPACE — очистити"
@@ -420,10 +404,6 @@ msgstr "Вихід"
 msgid "CNTRLMNU_ADJUST_GAMMA"
 msgstr "Налаштування гамми"
 
-# Mouse
-msgid "nan"
-msgstr ""
-
 msgid "MOUSEMNU_ENABLEMOUSE"
 msgstr "Увімкнути миш"
 
@@ -489,10 +469,6 @@ msgstr "Системний курсор"
 
 msgid "OPTVAL_DEFAULT"
 msgstr "За замовчуванням"
-
-# Controller
-msgid "nan"
-msgstr ""
 
 msgid "JOYMNU_TITLE"
 msgstr "Параметри контролера"
@@ -569,10 +545,6 @@ msgstr "Інвертовано"
 
 msgid "OPTVAL_NOTINVERTED"
 msgstr "Не інвертовано"
-
-# Player Menu
-msgid "nan"
-msgstr ""
 
 msgid "TXT_COLOR_BLUE"
 msgstr "Синій"
@@ -673,10 +645,6 @@ msgstr "Автонаведення"
 msgid "PLYRMNU_ALWAYSRUN"
 msgstr "Постійний біг"
 
-# Display
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_SCREENSIZE"
 msgstr "Розмір екрану"
 
@@ -716,10 +684,6 @@ msgstr "Пульсація повідомлень"
 msgid "MSGMNU_MESSAGESCALE"
 msgstr "Розмір повідомлень"
 
-# Automap
-msgid "nan"
-msgstr ""
-
 msgid "MNU_COLORPICKER"
 msgstr "Вибір кольору"
 
@@ -740,10 +704,6 @@ msgstr "Налаштування кольорів автокарти"
 
 msgid "MAPCOLORMNU_DEFAULTMAPCOLORS"
 msgstr "Повернути стандартні кольори"
-
-# Sound
-msgid "nan"
-msgstr ""
 
 msgid "SNDMNU_SNDENABLED"
 msgstr "Звук увімкнено"
@@ -1239,10 +1199,6 @@ msgstr ""
 msgid "OPTVAL_1024K"
 msgstr ""
 
-# Postprocessing
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_UNCHARTED2"
 msgstr ""
 
@@ -1332,10 +1288,6 @@ msgstr "Радіальний"
 
 msgid "OPTVAL_STANDARD"
 msgstr "Стандартний"
-
-# Texture options
-msgid "nan"
-msgstr ""
 
 msgid "GLTEXMNU_TEXFILTER"
 msgstr "Тип фільтрації текстур"
@@ -1535,10 +1487,6 @@ msgstr ""
 msgid "OPTVAL_OPENGLES"
 msgstr ""
 
-# Miscellaneous Options
-msgid "nan"
-msgstr ""
-
 msgid "MISCMNU_MERGEKEYS"
 msgstr "Не розділяти лівий/правий ALT/CTRL/SHIFT"
 
@@ -1593,10 +1541,6 @@ msgstr "Покращений"
 
 msgid "OPTMNU_LANGUAGE"
 msgstr "Мова"
-
-# Reverb editor
-msgid "nan"
-msgstr ""
 
 msgid "TXT_UNDOCHANGES"
 msgstr "Відмінити зміни"
@@ -1750,10 +1694,6 @@ msgstr "Назва файлу"
 msgid "REVMNU_Environments_to_save"
 msgstr "Зберегти оточення..."
 
-# Vulkan
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_VKOPT"
 msgstr "Налаштування Vulkan (експериментальні)"
 
@@ -1779,10 +1719,6 @@ msgstr "Для застосування змін протрібно переза
 msgid "VKMNU_DEVICESELECT"
 msgstr "Виберіть пристрій Vulkan"
 
-# Texture scaling
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_SCALENX"
 msgstr ""
 
@@ -1801,10 +1737,6 @@ msgstr ""
 msgid "OPTVAL_OLD_NXBRZ"
 msgstr "Старий xBRZ"
 
-# Option Search
-msgid "nan"
-msgstr ""
-
 msgid "OS_TITLE"
 msgstr "Пошук налаштування"
 
@@ -1819,10 +1751,6 @@ msgstr "Нічого не знайдено."
 
 msgid "OS_LABEL"
 msgstr "Пошук:"
-
-# Blood Bath Announcer
-msgid "nan"
-msgstr ""
 
 msgid "TXT_OBITUARY1"
 msgstr "%k порахува@[adj_1_ua] ребра %o"
@@ -1964,10 +1892,6 @@ msgstr "Перегляд збережень ігр"
 msgid "MOUSEMNU_SWAPBUTTONS"
 msgstr "Поміняти місцями кнопки миші"
 
-# Additional menu texts
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_ONLYMODIFIED"
 msgstr "Тільки в модифікаціях"
 
@@ -2009,10 +1933,6 @@ msgstr "Зовнішній вигляд"
 
 msgid "DSPLYMNU_ADVANCED"
 msgstr "Додаткові параметри відображення"
-
-# IWAD/Game picker
-msgid "nan"
-msgstr ""
 
 msgid "PICKER_SELECT"
 msgstr "Виберіть файл гри для запуску."
@@ -2069,10 +1989,6 @@ msgstr "Увімкніть цей контролер"
 
 msgid "CNTRLMNU_OPEN_MAIN"
 msgstr "Відкрити головне меню"
-
-# New content
-msgid "nan"
-msgstr ""
 
 msgid "MODMNU_REPLAYER"
 msgstr "Module replayer"

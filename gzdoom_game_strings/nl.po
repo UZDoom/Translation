@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: nl\n"
 
-# Doom Episode names
-msgid "nan"
-msgstr ""
-
 msgid "TXT_D1E1"
 msgstr "Knie-diep in de Doden"
 
@@ -40,14 +36,6 @@ msgid "TXT_TNT_EP"
 msgstr "Tnt: Evilutie"
 
 msgid "TXT_CHEX_EP"
-msgstr ""
-
-# Level names
-msgid "nan"
-msgstr ""
-
-# Doom 1
-msgid "nan"
 msgstr ""
 
 msgid "HUSTR_E1M1"
@@ -172,10 +160,6 @@ msgstr "E4M8: Naar de wrede"
 msgid "HUSTR_E4M9"
 msgstr "E4M9: Angst"
 
-# Doom 2
-msgid "nan"
-msgstr ""
-
 # Note that the "LEVEL" part of the string will be stripped so it shouldn't be
 # translated
 msgid "HUSTR_1"
@@ -287,10 +271,6 @@ msgstr ""
 msgid "HUSTR_33"
 msgstr "Level 33: Verraad"
 
-# No Rest For The Living
-msgid "nan"
-msgstr ""
-
 msgid "NHUSTR_1"
 msgstr "Level 1: De basis van de aarde"
 
@@ -317,10 +297,6 @@ msgstr "Level 8: Graf van kwaadwilligheid"
 
 msgid "NHUSTR_9"
 msgstr "Level 9: Maart van de demonen"
-
-# Plutonia
-msgid "nan"
-msgstr ""
 
 msgid "PHUSTR_1"
 msgstr "Level 1: Kongo"
@@ -420,10 +396,6 @@ msgstr ""
 msgid "PHUSTR_32"
 msgstr "Level 32: Ga ervoor"
 
-# TNT: Evilution
-msgid "nan"
-msgstr ""
-
 msgid "THUSTR_1"
 msgstr "Level 1: Systeemcontrole"
 
@@ -520,10 +492,6 @@ msgstr "Level 31: Farao"
 
 msgid "THUSTR_32"
 msgstr "Level 32: Caribisch"
-
-# Heretic
-msgid "nan"
-msgstr ""
 
 msgid "HHUSTR_E1M1"
 msgstr "De dokken"
@@ -660,10 +628,6 @@ msgstr "Plaats van oordeelsvorming"
 msgid "HHUSTR_E5M9"
 msgstr "D'Sparil's gebouw"
 
-# Strife
-msgid "nan"
-msgstr ""
-
 msgid "TXT_STRIFE_MAP01"
 msgstr "Zone 1: Heiligdom"
 
@@ -778,10 +742,6 @@ msgstr "Zone 37: Slagveld"
 msgid "TXT_STRIFE_MAP38"
 msgstr "Zone 38: Ordelijke chaos"
 
-# Hexen
-msgid "nan"
-msgstr ""
-
 msgid "TXT_HEXEN_MAP01"
 msgstr "Scheidingszaal"
 
@@ -875,10 +835,6 @@ msgstr ""
 msgid "TXT_HEXEN_MAP40"
 msgstr "Donkere beproeving"
 
-# Hexen Deathkings
-msgid "nan"
-msgstr ""
-
 msgid "TXT_HEXDD_MAP41"
 msgstr "Ruïneerd dorp"
 
@@ -956,10 +912,6 @@ msgstr "Rioolput"
 
 msgid "TXT_HEXDD_MAP38"
 msgstr "De roos"
-
-# Intermission texts
-msgid "nan"
-msgstr ""
 
 # Doom Ep.1
 msgid "E1TEXT"
@@ -1600,10 +1552,6 @@ msgstr ""
 msgid "TXT_HEXDD_WIN3MSG"
 msgstr "\\n...en andere spelers wachten op je."
 
-# Hexen script texts
-msgid "nan"
-msgstr ""
-
 msgid "TXT_ACS_MAP01_5_THEDO"
 msgstr "De deur is op slot"
 
@@ -1742,10 +1690,6 @@ msgstr "Ben je sterk genoeg"
 
 msgid "TXT_ACS_MAP35_14_TOFAC"
 msgstr "Om je eigen meesters onder ogen te komen?"
-
-# Hexen: Deathkings script texts
-msgid "nan"
-msgstr ""
 
 msgid "TXT_ACS_MAP33_6_YOUDA"
 msgstr "Durf jij te vechten in de readyroom?"
@@ -1974,10 +1918,6 @@ msgstr "De weg naar de toren is open"
 
 msgid "TXT_ACS_MAP60_3_THEWA"
 msgstr "De weg is open"
-
-# Strife dialogue
-msgid "nan"
-msgstr ""
 
 # MAP01: Beldin.
 msgid "TXT_DLG_SCRIPT01_D0_IDONT"
@@ -6200,10 +6140,6 @@ msgstr "Dat is de geest."
 msgid "TXT_DLG_SCRIPT34_D31836_WELCO"
 msgstr "Welkom vriend!"
 
-# Random dialogue
-msgid "nan"
-msgstr ""
-
 msgid "TXT_RANDOM_PEASANT_01"
 msgstr "Doe me alsjeblieft geen pijn."
 
@@ -6386,10 +6322,6 @@ msgstr "Bedankt, tot ziens!"
 
 msgid "TXT_RANDOMGOODBYE_3"
 msgstr "Tot ziens!"
-
-# Strife logs
-msgid "nan"
-msgstr ""
 
 # MAP33: After getting the hidden com unit in the tavern.
 msgid "TXT_ILOG1"
@@ -6980,10 +6912,6 @@ msgstr ""
 "wapentrainer en zij zullen je klaarstomen voor wat je te wachten staat. Voel"
 " je vrij om rond te dwalen in de basis."
 
-# Strife characters
-msgid "nan"
-msgstr ""
-
 msgid "TXT_SPEAKER_ORDER_SERGEANT"
 msgstr "Soldaat van de orde"
 
@@ -7176,10 +7104,6 @@ msgid "TXT_SPEAKER_BOWYER"
 msgstr ""
 
 msgid "TXT_SPEAKER_DERWIN"
-msgstr ""
-
-# Strife subtitles
-msgid "nan"
 msgstr ""
 
 # Menu's intro.
@@ -8091,10 +8015,6 @@ msgid "TXT_SUB_LOG237"
 msgstr ""
 "Ik wou dat ik achter die deur op je zat te wachten.... maar ik moet "
 "ondergronds blijven. Het is tijd om onze leider Macil te ontmoeten."
-
-# Blackbird's remarks embedded in other conversations
-msgid "nan"
-msgstr ""
 
 # MAP02: Mourel.
 msgid "TXT_BBSUB_SCRIPT02_D57608_IFIKN"

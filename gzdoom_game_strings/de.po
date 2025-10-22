@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: de\n"
 
-# Doom Episode names
-msgid "nan"
-msgstr ""
-
 msgid "TXT_D1E1"
 msgstr "Knietief im Tod"
 
@@ -40,14 +36,6 @@ msgid "TXT_TNT_EP"
 msgstr ""
 
 msgid "TXT_CHEX_EP"
-msgstr ""
-
-# Level names
-msgid "nan"
-msgstr ""
-
-# Doom 1
-msgid "nan"
 msgstr ""
 
 msgid "HUSTR_E1M1"
@@ -172,10 +160,6 @@ msgstr "E4M8: Deine Jahre dem Grausamen"
 msgid "HUSTR_E4M9"
 msgstr "E4M9: Angst"
 
-# Doom 2
-msgid "nan"
-msgstr ""
-
 # Note that the "LEVEL" part of the string will be stripped so it shouldn't be
 # translated
 msgid "HUSTR_1"
@@ -287,10 +271,6 @@ msgstr ""
 msgid "HUSTR_33"
 msgstr "Level 33: Verrat"
 
-# No Rest For The Living
-msgid "nan"
-msgstr ""
-
 msgid "NHUSTR_1"
 msgstr "Level 1: Die Erd-Basis"
 
@@ -317,10 +297,6 @@ msgstr "Level 8: Feindselige Gruft"
 
 msgid "NHUSTR_9"
 msgstr "Level 9: Marsch der Dämonen"
-
-# Plutonia
-msgid "nan"
-msgstr ""
 
 msgid "PHUSTR_1"
 msgstr "Level 1: Kongo"
@@ -420,10 +396,6 @@ msgstr "Level 31: Cyberbau"
 msgid "PHUSTR_32"
 msgstr ""
 
-# TNT: Evilution
-msgid "nan"
-msgstr ""
-
 msgid "THUSTR_1"
 msgstr "Level 1: Systemkontrolle"
 
@@ -520,10 +492,6 @@ msgstr "Level 31: Pharao"
 
 msgid "THUSTR_32"
 msgstr "Level 32: Karibik"
-
-# Heretic
-msgid "nan"
-msgstr ""
 
 msgid "HHUSTR_E1M1"
 msgstr "Die Docks"
@@ -660,10 +628,6 @@ msgstr "Richtstätte"
 msgid "HHUSTR_E5M9"
 msgstr "DSparils Bau"
 
-# Strife
-msgid "nan"
-msgstr ""
-
 msgid "TXT_STRIFE_MAP01"
 msgstr "ZONE 1: Heiligtum"
 
@@ -778,10 +742,6 @@ msgstr "ZONE 37: Kampfgelände"
 msgid "TXT_STRIFE_MAP38"
 msgstr "ZONE 38: Geordnetes Chaos"
 
-# Hexen
-msgid "nan"
-msgstr ""
-
 msgid "TXT_HEXEN_MAP01"
 msgstr "Trennungshalle"
 
@@ -875,10 +835,6 @@ msgstr ""
 msgid "TXT_HEXEN_MAP40"
 msgstr "Dunkle Feuerprobe"
 
-# Hexen Deathkings
-msgid "nan"
-msgstr ""
-
 msgid "TXT_HEXDD_MAP41"
 msgstr "Zerstörtes Dorf"
 
@@ -956,10 +912,6 @@ msgstr "Kanalgrube"
 
 msgid "TXT_HEXDD_MAP38"
 msgstr "Die Rose"
-
-# Intermission texts
-msgid "nan"
-msgstr ""
 
 # Doom Ep.1
 msgid "E1TEXT"
@@ -1648,10 +1600,6 @@ msgstr ""
 msgid "TXT_HEXDD_WIN3MSG"
 msgstr "\\n...und andere Spieler warten."
 
-# Hexen script texts
-msgid "nan"
-msgstr ""
-
 msgid "TXT_ACS_MAP01_5_THEDO"
 msgstr "Die Tür ist verschlossen"
 
@@ -1790,10 +1738,6 @@ msgstr "Bist du stark genug"
 
 msgid "TXT_ACS_MAP35_14_TOFAC"
 msgstr "Dich deinen eigenen Meistern zu stellen?"
-
-# Hexen: Deathkings script texts
-msgid "nan"
-msgstr ""
 
 msgid "TXT_ACS_MAP33_6_YOUDA"
 msgstr "Du wagst es im Bereitschaftsraum zu kämpfen?"
@@ -2022,10 +1966,6 @@ msgstr "Der Weg zum Turm ist offen"
 
 msgid "TXT_ACS_MAP60_3_THEWA"
 msgstr "Der Weg ist offen"
-
-# Strife dialogue
-msgid "nan"
-msgstr ""
 
 # MAP01: Beldin.
 msgid "TXT_DLG_SCRIPT01_D0_IDONT"
@@ -6271,10 +6211,6 @@ msgstr "Das ist die richtige Einstellung."
 msgid "TXT_DLG_SCRIPT34_D31836_WELCO"
 msgstr "Wilkommen, Freund."
 
-# Random dialogue
-msgid "nan"
-msgstr ""
-
 msgid "TXT_RANDOM_PEASANT_01"
 msgstr "Bitte tu mir nicht weh."
 
@@ -6455,10 +6391,6 @@ msgstr "Danke, tschüss!"
 
 msgid "TXT_RANDOMGOODBYE_3"
 msgstr "Bis später!"
-
-# Strife logs
-msgid "nan"
-msgstr ""
 
 # MAP33: After getting the hidden com unit in the tavern.
 msgid "TXT_ILOG1"
@@ -7054,10 +6986,6 @@ msgstr ""
 "und den Waffentrainer auf, sie werden dich auf das was vor dir liegt, "
 "vorbereiten. Wenn du willst, schau dich in der Basis um."
 
-# Strife characters
-msgid "nan"
-msgstr ""
-
 msgid "TXT_SPEAKER_ORDER_SERGEANT"
 msgstr "Soldat des Ordens"
 
@@ -7250,10 +7178,6 @@ msgid "TXT_SPEAKER_BOWYER"
 msgstr ""
 
 msgid "TXT_SPEAKER_DERWIN"
-msgstr ""
-
-# Strife subtitles
-msgid "nan"
 msgstr ""
 
 # Menu's intro.
@@ -8156,10 +8080,6 @@ msgid "TXT_SUB_LOG237"
 msgstr ""
 "Ich wünschte, ich würde hinter der Tür dort warten... aber ich muss im "
 "Untergrund bleiben. Es ist Zeit, unseren Anführer, Macil, zu treffen."
-
-# Blackbird's remarks embedded in other conversations
-msgid "nan"
-msgstr ""
 
 # MAP02: Mourel.
 msgid "TXT_BBSUB_SCRIPT02_D57608_IFIKN"

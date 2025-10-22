@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: ja\n"
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "PRESSKEY"
 msgstr "何かキーを押せ"
 
@@ -86,10 +82,6 @@ msgstr "製品版でのみ可能だ。"
 
 msgid "DOSY"
 msgstr "(Y で終了)"
-
-# Quit messages
-msgid "nan"
-msgstr ""
 
 msgid "QUITMSG1"
 msgstr ""
@@ -238,16 +230,8 @@ msgstr ""
 "しんのチェックス(R)せんしは\n"
 "そんなにすぐあきらめはしないぞ!"
 
-# Pickups
-msgid "nan"
-msgstr ""
-
 msgid "TXT_DEFAULTPICKUPMSG"
 msgstr "何か拾った"
-
-# Locks
-msgid "nan"
-msgstr ""
 
 msgid "PD_ANY"
 msgstr "いずれかのキーで開けることができる。"
@@ -270,10 +254,6 @@ msgstr "6つ全てのキーが必要だ。"
 msgid "PD_ALLKEYS"
 msgstr "全てのキーが必要だ。"
 
-# Chat
-msgid "nan"
-msgstr ""
-
 msgid "HUSTR_MSGU"
 msgstr "[メッセージ未送信]"
 
@@ -294,10 +274,6 @@ msgstr "我を失った..."
 
 msgid "HUSTR_MESSAGESENT"
 msgstr "[メッセージ送信]"
-
-# Cheats
-msgid "nan"
-msgstr ""
 
 msgid "STSTR_MUS"
 msgstr "music変更"
@@ -475,10 +451,6 @@ msgstr "ゲーム外で何を殺す気だ?"
 msgid "TXT_NOT_FROZEN"
 msgstr "凍ったプレイヤーのプロパティを無効化"
 
-# Automap
-msgid "nan"
-msgstr ""
-
 msgid "AMSTR_FOLLOWOFF"
 msgstr "追従モード: オフ"
 
@@ -502,10 +474,6 @@ msgstr "目標をマークした"
 
 msgid "AMSTR_MARKSCLEARED"
 msgstr "全目標を解除した"
-
-# Multiplayer
-msgid "nan"
-msgstr ""
 
 msgid "TXT_FRAGLIMIT"
 msgstr "フラグリミット!"
@@ -546,10 +514,6 @@ msgstr "ウルトラキル!"
 msgid "MULTI5"
 msgstr "モンスターキル!"
 
-# Scoreboard
-msgid "nan"
-msgstr ""
-
 msgid "SCORE_BONUS"
 msgstr "ボーナス"
 
@@ -583,10 +547,6 @@ msgstr "合計"
 msgid "SCORE_LVLTIME"
 msgstr "時間"
 
-# Level Summary
-msgid "nan"
-msgstr ""
-
 msgid "TXT_IMKILLS"
 msgstr "キル"
 
@@ -611,10 +571,6 @@ msgstr "突入開始"
 msgid "WI_ENTERING"
 msgstr "突入中:"
 
-# HUD
-msgid "nan"
-msgstr ""
-
 msgid "AM_MONSTERS"
 msgstr "奴等:"
 
@@ -623,10 +579,6 @@ msgstr "隠場:"
 
 msgid "AM_ITEMS"
 msgstr "物資:"
-
-# Obituaries
-msgid "nan"
-msgstr ""
 
 msgid "OB_SUICIDE"
 msgstr "%o は自殺した。"
@@ -691,10 +643,6 @@ msgstr "%k は敵チームに得点を入れた。"
 
 msgid "OB_FRIENDLY4"
 msgstr "%k はまた友達を失った。"
-
-# Pickup
-msgid "nan"
-msgstr ""
 
 msgid "GOTARMOR"
 msgstr "アーマーを身に着けた。"
@@ -822,10 +770,6 @@ msgstr "エビルセプターを拾った。"
 msgid "BETA_BONUS4"
 msgstr "アンホーリーバイブルを拾った。"
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "PD_BLUEO"
 msgstr "この装置には ブルーキーが必要だ。"
 
@@ -880,10 +824,6 @@ msgstr "このドアには レッドスカル が必要だ。"
 msgid "PD_YELLOWS"
 msgstr "このドアには イエロースカル が必要だ。"
 
-# Cast call names
-msgid "nan"
-msgstr ""
-
 msgid "CC_ZOMBIE"
 msgstr "ゾンビ兵"
 
@@ -936,10 +876,6 @@ msgstr "サイバーデーモン"
 
 msgid "CC_HERO"
 msgstr "我らのヒーロー"
-
-# Actor tag names
-msgid "nan"
-msgstr ""
 
 msgid "FN_SHOTGUN"
 msgstr "ゾンビ軍曹"
@@ -1000,10 +936,6 @@ msgstr "ロケット弾"
 
 msgid "AMMO_CELLS"
 msgstr "エネルギーセル"
-
-# Obituaries
-msgid "nan"
-msgstr ""
 
 msgid "OB_STEALTHBABY"
 msgstr "%o がアラクノトロンを見た気がした。"
@@ -1149,14 +1081,6 @@ msgstr "%o は %k のレールガンで死亡した。"
 msgid "OB_MPBFG_MBF"
 msgstr "%o は %k のBFGで焼き殺された。"
 
-# Heretic
-msgid "nan"
-msgstr ""
-
-# Pickup 
-msgid "nan"
-msgstr ""
-
 msgid "TXT_GOTBLUEKEY"
 msgstr "青の鍵"
 
@@ -1268,10 +1192,6 @@ msgstr "フェニックスロッド"
 msgid "TXT_WPNGAUNTLETS"
 msgstr "ネクロマンサーの篭手"
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NEEDBLUEKEY"
 msgstr "開くには 青の鍵が必要だ"
 
@@ -1280,10 +1200,6 @@ msgstr "開くには 緑の鍵が必要だ"
 
 msgid "TXT_NEEDYELLOWKEY"
 msgstr "開くには 黄の鍵が必要だ"
-
-# Actor tag names
-msgid "nan"
-msgstr ""
 
 msgid "FN_CHICKEN"
 msgstr "鶏"
@@ -1346,10 +1262,6 @@ msgstr "杖"
 
 msgid "TAG_GOLDWAND"
 msgstr "エルフのワンド"
-
-# Obituaries
-msgid "nan"
-msgstr ""
 
 msgid "OB_CHICKEN"
 msgstr "%o はくちばしで突かれ死んだ。"
@@ -1458,14 +1370,6 @@ msgstr "%o は %k のフェニックスロッドで焼き滅ぼされた。"
 
 msgid "OB_MPPMACE"
 msgstr "%o は %k の巨大なメイススフィアで潰された。"
-
-# Hexen
-msgid "nan"
-msgstr ""
-
-# Pickup
-msgid "nan"
-msgstr ""
 
 msgid "TXT_MANA_1"
 msgstr "青マナ"
@@ -1635,10 +1539,6 @@ msgstr "レイスバージの切片"
 msgid "TXT_BLOODSCOURGE_PIECE"
 msgstr "天罰の切片"
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NEED_KEY_STEEL"
 msgstr "鋼の鍵が必要だ"
 
@@ -1671,10 +1571,6 @@ msgstr "沼の鍵が必要だ"
 
 msgid "TXT_NEED_KEY_CASTLE"
 msgstr "城の鍵が必要だ"
-
-# Actor tag names
-msgid "nan"
-msgstr ""
 
 msgid "FN_FIREDEMON"
 msgstr "アフリート"
@@ -1853,10 +1749,6 @@ msgstr "鉄と真鍮のギア"
 msgid "TAG_ARTIPUZZGEAR4"
 msgstr "銀と真鍮のギア"
 
-# Obituaries
-msgid "nan"
-msgstr ""
-
 msgid "OB_FIREDEMON"
 msgstr "%o はアフリートの炎を味わった。"
 
@@ -1955,14 +1847,6 @@ msgstr "%o は %k から衝撃的な啓示を受けた。"
 
 msgid "OB_MPMWEAPBLOODSCOURGE"
 msgstr "%o は %k の天罰によりこの世から一掃された。"
-
-# Strife
-msgid "nan"
-msgstr ""
-
-# Pickups
-msgid "nan"
-msgstr ""
 
 msgid "TXT_METALARMOR"
 msgstr "メタルアーマー 入手。"
@@ -2192,10 +2076,6 @@ msgstr "何かを成し遂げなければならない..."
 msgid "MSG_TALISMANPOWER"
 msgstr "豪剛なる力を得た!"
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NEEDKEY"
 msgstr "キーを持っていない"
 
@@ -2246,10 +2126,6 @@ msgstr "聖杯が必要だ!"
 
 msgid "TXT_NEED_OPASS"
 msgstr "オラクルパスが必要だ!"
-
-# Actor tags
-msgid "nan"
-msgstr ""
 
 msgid "TAG_PUNCHDAGGER"
 msgstr "ダガー"
@@ -2554,10 +2430,6 @@ msgstr "緑の魔除け"
 msgid "TAG_TALISMANBLUE"
 msgstr "青の魔除け"
 
-# Obituaries
-msgid "nan"
-msgstr ""
-
 msgid "OB_ACOLYTE"
 msgstr "%o は熱心なアコライトに堕とされた。"
 
@@ -2648,10 +2520,6 @@ msgstr "%o は %k の悪辣さにより気化した。"
 msgid "OB_MPSIGIL"
 msgstr "%o は %k のシジルによる威圧に屈した。"
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "TXT_STRIFE_EPI"
 msgstr "シジルの探求"
 
@@ -2709,14 +2577,6 @@ msgstr "助けを探せ"
 # As in for %u amount of money.
 msgid "TXT_TRADE"
 msgstr "%u ゴールド"
-
-# Chex Quest
-msgid "nan"
-msgstr ""
-
-# Pickups
-msgid "nan"
-msgstr ""
 
 msgid "GOTCHEXARMOR"
 msgstr "チェックス(R)アーマー をてにいれた。"
@@ -2808,10 +2668,6 @@ msgstr "ちょうおおがたゾーチャー をてにいれた!"
 msgid "GOTMINIZORCHER"
 msgstr "こがたゾーチャー をてにいれた。"
 
-# Actor tags
-msgid "nan"
-msgstr ""
-
 msgid "TAG_SPOON"
 msgstr "スプーン"
 
@@ -2883,10 +2739,6 @@ msgstr "%o は %k のLAZデバイスのえじきになった。"
 
 msgid "OB_MPBFG_SPLASH"
 msgstr "%o は %k にとかされた。"
-
-# Miscellaneous
-msgid "nan"
-msgstr ""
 
 msgid "CHUSTR_E1M1"
 msgstr "E1M1: ちゃくりく ちてん"
@@ -3008,14 +2860,6 @@ msgstr "プロパルサー ほきゅう"
 
 msgid "AMMO_CELLS"
 msgstr "フェイシング ゾーチャー ほきゅう"
-
-# Menus
-msgid "nan"
-msgstr ""
-
-# Main Menus
-msgid "nan"
-msgstr ""
 
 msgid "MNU_NEWGAME"
 msgstr "新規ゲーム"
@@ -3176,10 +3020,6 @@ msgstr "納骨堂"
 
 msgid "MNU_DEMESNE"
 msgstr "澱んだ荘園"
-
-# Gameplay menus
-msgid "nan"
-msgstr ""
 
 msgid "GMPLYMNU_TEAMPLAY"
 msgstr "チーム制"
@@ -3508,10 +3348,6 @@ msgstr "爆風は垂直方向全域に影響しない"
 msgid "CMPTMNU_EXPLODE2"
 msgstr "Doom本来の爆発動作を使用する"
 
-# player
-msgid "nan"
-msgstr ""
-
 msgid "PLYRMNU_RED"
 msgstr "赤の量"
 
@@ -3541,10 +3377,6 @@ msgstr "で背面を表示"
 
 msgid "PLYRMNU_VERTSPREAD"
 msgstr "垂直方向の散弾"
-
-# controls
-msgid "nan"
-msgstr ""
 
 msgid "CNTRLMNU_ZOOM"
 msgstr "ズーム"
@@ -3614,10 +3446,6 @@ msgstr "視点水平化"
 
 msgid "MOUSEMNU_LOOKSTRAFE"
 msgstr "視点横移動化"
-
-# Map colors
-msgid "nan"
-msgstr ""
 
 msgid "MAPCOLORMNU_BACKCOLOR"
 msgstr "背景"
@@ -3700,10 +3528,6 @@ msgstr "オーバーレイ チートモード"
 msgid "MAPCOLORMNU_PORTAL"
 msgstr "ポータル オーバーレイ"
 
-# Messages
-msgid "nan"
-msgstr ""
-
 msgid "MSGMNU_TITLE"
 msgstr "メッセージ類"
 
@@ -3748,10 +3572,6 @@ msgstr "詳細なセーブメッセージ"
 
 msgid "MSGMNU_DEVELOPER"
 msgstr "開発者用モード"
-
-# Automap
-msgid "nan"
-msgstr ""
 
 msgid "AUTOMAPMNU_COLORSET"
 msgstr "地図色セット"
@@ -3822,10 +3642,6 @@ msgstr "マークを置く"
 msgid "MAPCNTRLMNU_CLEARMARK"
 msgstr "マーククリア"
 
-# Scoreboard
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_SCOREBOARD"
 msgstr "スコアボード オプション"
 
@@ -3852,10 +3668,6 @@ msgstr "デスマッチの設定"
 
 msgid "SCRBRDMNU_TEAMDEATHMATCH"
 msgstr "チームデスマッチの設定"
-
-# Alt HUD
-msgid "nan"
-msgstr ""
 
 msgid "ALTHUDMNU_TITLE"
 msgstr "オルタナティブHUD"
@@ -3947,10 +3759,6 @@ msgstr "統計名の色"
 msgid "ALTHUDMNU_STATSCOLOR"
 msgstr "統計の色"
 
-# Display (game related)
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_CAPFPS"
 msgstr "レンダリング補間"
 
@@ -4041,10 +3849,6 @@ msgstr "視点揺れしない移動値"
 msgid "DSPLYMNU_BOBSPEED"
 msgstr "武器揺れ速度"
 
-# Scaling
-msgid "nan"
-msgstr ""
-
 msgid "SCALEMNU_TITLE"
 msgstr "スケーリング オプション"
 
@@ -4077,10 +3881,6 @@ msgstr "全画面に拡大"
 
 msgid "SCALEMNU_ADAPT"
 msgstr "画面サイズに合わせる"
-
-# HUD
-msgid "nan"
-msgstr ""
 
 msgid "HUDMNU_TITLE"
 msgstr "HUDオプション"
@@ -4129,10 +3929,6 @@ msgstr "IWADの選択画面を表示"
 
 msgid "MISCMNU_ALLCHEATS"
 msgstr "全ゲームでチート使用可にする"
-
-# Option Menus
-msgid "nan"
-msgstr ""
 
 msgid "MISCMNU_ENABLESCRIPTSCREENSHOTS"
 msgstr "スクリプトからのスクショ作成を有効化"
@@ -4808,10 +4604,6 @@ msgstr "検索:"
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "常にキーを表示"
 
-# Newly added content
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NO_TEAM_CHANGE"
 msgstr "チームの変更は受け付けない!"
 
@@ -5306,11 +5098,6 @@ msgstr "交信時から"
 msgid "PAUSE_STRING"
 msgstr "ポーズ"
 
-# New Doom item Tags for GZDoom 5.0. The names used here are taken from the
-# Doom manual (Doomwiki was referenced)
-msgid "nan"
-msgstr ""
-
 msgid "TAG_BACKPACK"
 msgstr "バックパック"
 
@@ -5373,10 +5160,6 @@ msgstr "黄スカルキー"
 
 msgid "TAG_REDSKULL"
 msgstr "赤スカルキー"
-
-# Chex Quest item tags
-msgid "nan"
-msgstr ""
 
 msgid "TAG_GLASSOFWATER"
 msgstr "コップいっぱいの水"

@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: be_Latn\n"
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "PRESSYN"
 msgstr "Націсніце Y або N."
 
@@ -64,10 +60,6 @@ msgstr "Чат:"
 msgid "TXT_QUITENDOOM"
 msgstr "Націсніце любую клавішу або націсніце па акну, каб выйсці."
 
-# Savegame
-msgid "nan"
-msgstr ""
-
 msgid "NEWSAVE"
 msgstr "<Новае захаванне>"
 
@@ -94,10 +86,6 @@ msgstr "Няма файлаў "
 
 msgid "MNU_DELETESG"
 msgstr "Вы сапраўды хочаце выдаліць захаванне?"
-
-# General
-msgid "nan"
-msgstr ""
 
 msgid "OPTVAL_OFF"
 msgstr "Выкл."
@@ -161,10 +149,6 @@ msgstr "Налады сетцы "
 
 msgid "OPTMNU_REVERB"
 msgstr "Рэдактар асяроддзя рэверберацыі"
-
-# Customize controls
-msgid "nan"
-msgstr ""
 
 msgid "CNTRLMNU_SWITCHTEXT1"
 msgstr "ENTER — змяніць, BACKSPACE — ачысціць "
@@ -420,10 +404,6 @@ msgstr "Выйсці з гульні"
 msgid "CNTRLMNU_ADJUST_GAMMA"
 msgstr "Настройка гамы"
 
-# Mouse
-msgid "nan"
-msgstr ""
-
 msgid "MOUSEMNU_ENABLEMOUSE"
 msgstr "Выкарыстоўваць мыш"
 
@@ -489,10 +469,6 @@ msgstr "Сістэмны курсор"
 
 msgid "OPTVAL_DEFAULT"
 msgstr "Па змаўчанні"
-
-# Controller
-msgid "nan"
-msgstr ""
 
 msgid "JOYMNU_TITLE"
 msgstr "Наладзіць кантролер"
@@ -569,10 +545,6 @@ msgstr "Інвертавана"
 
 msgid "OPTVAL_NOTINVERTED"
 msgstr "Прама"
-
-# Player Menu
-msgid "nan"
-msgstr ""
 
 msgid "TXT_COLOR_BLUE"
 msgstr "Сіні"
@@ -673,10 +645,6 @@ msgstr "Аўтапрыцэльванне "
 msgid "PLYRMNU_ALWAYSRUN"
 msgstr "Пастаянны бег"
 
-# Display
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_SCREENSIZE"
 msgstr "Памер экрана "
 
@@ -716,10 +684,6 @@ msgstr "Пульсацыя паведамленняў"
 msgid "MSGMNU_MESSAGESCALE"
 msgstr "Памер паведамленняў"
 
-# Automap
-msgid "nan"
-msgstr ""
-
 msgid "MNU_COLORPICKER"
 msgstr "Выбар колеру"
 
@@ -740,10 +704,6 @@ msgstr "Налады колераў аўтакарты"
 
 msgid "MAPCOLORMNU_DEFAULTMAPCOLORS"
 msgstr "Вярнуць колеры па змаўчанні "
-
-# Sound
-msgid "nan"
-msgstr ""
 
 msgid "SNDMNU_SNDENABLED"
 msgstr "Гук уключаны"
@@ -1239,10 +1199,6 @@ msgstr ""
 msgid "OPTVAL_1024K"
 msgstr ""
 
-# Postprocessing
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_UNCHARTED2"
 msgstr ""
 
@@ -1332,10 +1288,6 @@ msgstr "Кругавы"
 
 msgid "OPTVAL_STANDARD"
 msgstr "Стандартны"
-
-# Texture options
-msgid "nan"
-msgstr ""
 
 msgid "GLTEXMNU_TEXFILTER"
 msgstr "Фільтрацыя тэкстур"
@@ -1535,10 +1487,6 @@ msgstr ""
 msgid "OPTVAL_OPENGLES"
 msgstr ""
 
-# Miscellaneous Options
-msgid "nan"
-msgstr ""
-
 msgid "MISCMNU_MERGEKEYS"
 msgstr "Аб'яднаць левы/правы ALT/CTRL/SHIFT"
 
@@ -1593,10 +1541,6 @@ msgstr "Палепшаны"
 
 msgid "OPTMNU_LANGUAGE"
 msgstr "Мова"
-
-# Reverb editor
-msgid "nan"
-msgstr ""
 
 msgid "TXT_UNDOCHANGES"
 msgstr "Скасаваць змены"
@@ -1750,10 +1694,6 @@ msgstr "Імя файла"
 msgid "REVMNU_Environments_to_save"
 msgstr "Захаваць асяроддзі..."
 
-# Vulkan
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_VKOPT"
 msgstr "Налады Vulkan (эксперыментальныя)"
 
@@ -1779,10 +1719,6 @@ msgstr "Для прымянення гэтых змен патрабуецца �
 msgid "VKMNU_DEVICESELECT"
 msgstr "Выбраць прыладу Vulkan"
 
-# Texture scaling
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_SCALENX"
 msgstr ""
 
@@ -1801,10 +1737,6 @@ msgstr ""
 msgid "OPTVAL_OLD_NXBRZ"
 msgstr "Стары xBRZ"
 
-# Option Search
-msgid "nan"
-msgstr ""
-
 msgid "OS_TITLE"
 msgstr "Пошук налады"
 
@@ -1819,10 +1751,6 @@ msgstr "Вынікі не знойдзены."
 
 msgid "OS_LABEL"
 msgstr "Пошук:"
-
-# Blood Bath Announcer
-msgid "nan"
-msgstr ""
 
 msgid "TXT_OBITUARY1"
 msgstr "%k пералічыў костачкі %o"
@@ -1964,10 +1892,6 @@ msgstr "Прагляд захаваных гульняў"
 msgid "MOUSEMNU_SWAPBUTTONS"
 msgstr "Памяняць месцамі кнопкі мышы"
 
-# Additional menu texts
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_ONLYMODIFIED"
 msgstr "Толькі зменены"
 
@@ -2009,10 +1933,6 @@ msgstr "Знешнасць"
 
 msgid "DSPLYMNU_ADVANCED"
 msgstr "Пашыраныя налады экрана"
-
-# IWAD/Game picker
-msgid "nan"
-msgstr ""
 
 msgid "PICKER_SELECT"
 msgstr "Выбар файла гульні для запуску."
@@ -2069,10 +1989,6 @@ msgstr "Уключыць гэты кантролер"
 
 msgid "CNTRLMNU_OPEN_MAIN"
 msgstr "Адкрыць галоўнае меню"
-
-# New content
-msgid "nan"
-msgstr ""
 
 msgid "MODMNU_REPLAYER"
 msgstr "Модуль-паўтаральнік"

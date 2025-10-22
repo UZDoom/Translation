@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: hu\n"
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "PRESSYN"
 msgstr "Nyomj Y-t vagy N-t."
 
@@ -64,10 +60,6 @@ msgstr "Üzenet:"
 msgid "TXT_QUITENDOOM"
 msgstr "Nyomjon egy gombot vagy kattintson valahova a kilépéshez."
 
-# Savegame
-msgid "nan"
-msgstr ""
-
 msgid "NEWSAVE"
 msgstr "<Új mentés>"
 
@@ -94,10 +86,6 @@ msgstr "Nincsenek fájlok"
 
 msgid "MNU_DELETESG"
 msgstr "Biztosan törlöd a mentést?"
-
-# General
-msgid "nan"
-msgstr ""
 
 msgid "OPTVAL_OFF"
 msgstr "Ki"
@@ -161,10 +149,6 @@ msgstr "Hálózati beállítások"
 
 msgid "OPTMNU_REVERB"
 msgstr "Visszhangkörnyezet-szerkesztő"
-
-# Customize controls
-msgid "nan"
-msgstr ""
 
 msgid "CNTRLMNU_SWITCHTEXT1"
 msgstr "ENTER a változtatáshoz, BACKSPACE a törléshez"
@@ -420,10 +404,6 @@ msgstr "Kilépés a játékból"
 msgid "CNTRLMNU_ADJUST_GAMMA"
 msgstr "Gamma állítása"
 
-# Mouse
-msgid "nan"
-msgstr ""
-
 msgid "MOUSEMNU_ENABLEMOUSE"
 msgstr "Egér engedélyezése"
 
@@ -489,10 +469,6 @@ msgstr "Rendszer egérmutatója"
 
 msgid "OPTVAL_DEFAULT"
 msgstr "Alapbeállítás"
-
-# Controller
-msgid "nan"
-msgstr ""
 
 msgid "JOYMNU_TITLE"
 msgstr "Kontroller testreszabása"
@@ -569,10 +545,6 @@ msgstr "Felcserélve"
 
 msgid "OPTVAL_NOTINVERTED"
 msgstr "Nincs felcserélve"
-
-# Player Menu
-msgid "nan"
-msgstr ""
 
 msgid "TXT_COLOR_BLUE"
 msgstr "Kék"
@@ -673,10 +645,6 @@ msgstr "Automatikus célzás"
 msgid "PLYRMNU_ALWAYSRUN"
 msgstr "Mindig fusson"
 
-# Display
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_SCREENSIZE"
 msgstr "Képernyő mérete"
 
@@ -716,10 +684,6 @@ msgstr "Pulzáló üzenet"
 msgid "MSGMNU_MESSAGESCALE"
 msgstr "Üzenet mérete"
 
-# Automap
-msgid "nan"
-msgstr ""
-
 msgid "MNU_COLORPICKER"
 msgstr "Szín választása"
 
@@ -740,10 +704,6 @@ msgstr "Térkép színeinek testreszabása"
 
 msgid "MAPCOLORMNU_DEFAULTMAPCOLORS"
 msgstr "Eredeti színek visszaállítása"
-
-# Sound
-msgid "nan"
-msgstr ""
 
 msgid "SNDMNU_SNDENABLED"
 msgstr "Hang engedélyezve"
@@ -1239,10 +1199,6 @@ msgstr ""
 msgid "OPTVAL_1024K"
 msgstr ""
 
-# Postprocessing
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_UNCHARTED2"
 msgstr ""
 
@@ -1332,10 +1288,6 @@ msgstr "Sugaras"
 
 msgid "OPTVAL_STANDARD"
 msgstr "Szabvány"
-
-# Texture options
-msgid "nan"
-msgstr ""
 
 msgid "GLTEXMNU_TEXFILTER"
 msgstr "Textúrafilter módja"
@@ -1535,10 +1487,6 @@ msgstr ""
 msgid "OPTVAL_OPENGLES"
 msgstr ""
 
-# Miscellaneous Options
-msgid "nan"
-msgstr ""
-
 msgid "MISCMNU_MERGEKEYS"
 msgstr "Bal és jobb Ctrl/Alt/Shift egyként érzékelése"
 
@@ -1593,10 +1541,6 @@ msgstr "Fejlesztett"
 
 msgid "OPTMNU_LANGUAGE"
 msgstr "Nyelv"
-
-# Reverb editor
-msgid "nan"
-msgstr ""
 
 msgid "TXT_UNDOCHANGES"
 msgstr "Változtatások Visszavonása"
@@ -1750,10 +1694,6 @@ msgstr "Fájlnév"
 msgid "REVMNU_Environments_to_save"
 msgstr "Mentendő Környezetek"
 
-# Vulkan
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_VKOPT"
 msgstr "Vulkan Beállítások (Kísérleti)"
 
@@ -1779,10 +1719,6 @@ msgstr "Ezen beállítások életbelépéséhez újraindítás szükséges."
 msgid "VKMNU_DEVICESELECT"
 msgstr "Vulkan eszköz kiválasztása"
 
-# Texture scaling
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_SCALENX"
 msgstr ""
 
@@ -1801,10 +1737,6 @@ msgstr ""
 msgid "OPTVAL_OLD_NXBRZ"
 msgstr "Régi xBRZ"
 
-# Option Search
-msgid "nan"
-msgstr ""
-
 msgid "OS_TITLE"
 msgstr "Beállítások keresése"
 
@@ -1819,10 +1751,6 @@ msgstr "Nincs találat"
 
 msgid "OS_LABEL"
 msgstr "Keresés:"
-
-# Blood Bath Announcer
-msgid "nan"
-msgstr ""
 
 msgid "TXT_OBITUARY1"
 msgstr "%k kifilézte %o -t mint a halat"
@@ -1964,10 +1892,6 @@ msgstr "Elmentett játékok böngészése"
 msgid "MOUSEMNU_SWAPBUTTONS"
 msgstr "Egérgombok felcserélése"
 
-# Additional menu texts
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_ONLYMODIFIED"
 msgstr "Csak módosított"
 
@@ -2009,10 +1933,6 @@ msgstr "Megjelenés"
 
 msgid "DSPLYMNU_ADVANCED"
 msgstr "Speciális megjelenítési beállítások"
-
-# IWAD/Game picker
-msgid "nan"
-msgstr ""
 
 msgid "PICKER_SELECT"
 msgstr "Válassza ki, hogy melyik játékfájlt futtassa."
@@ -2069,10 +1989,6 @@ msgstr "Engedélyezze ezt a vezérlőt"
 
 msgid "CNTRLMNU_OPEN_MAIN"
 msgstr "Főmenü megnyitása"
-
-# New content
-msgid "nan"
-msgstr ""
 
 msgid "MODMNU_REPLAYER"
 msgstr ""

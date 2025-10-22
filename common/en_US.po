@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: en_US\n"
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "PRESSYN"
 msgstr "Press Y or N."
 
@@ -64,10 +60,6 @@ msgstr "Say:"
 msgid "TXT_QUITENDOOM"
 msgstr "Press any key or click anywhere in the window to quit."
 
-# Savegame
-msgid "nan"
-msgstr ""
-
 msgid "NEWSAVE"
 msgstr "<New Save Game>"
 
@@ -94,10 +86,6 @@ msgstr "No files"
 
 msgid "MNU_DELETESG"
 msgstr "Do you really want to delete the savegame?\n"
-
-# General
-msgid "nan"
-msgstr ""
 
 msgid "OPTVAL_OFF"
 msgstr "Off"
@@ -161,10 +149,6 @@ msgstr "Network Options"
 
 msgid "OPTMNU_REVERB"
 msgstr "Reverb environment editor"
-
-# Customize controls
-msgid "nan"
-msgstr ""
 
 msgid "CNTRLMNU_SWITCHTEXT1"
 msgstr "ENTER to change, BACKSPACE to clear"
@@ -420,10 +404,6 @@ msgstr "Quit Game"
 msgid "CNTRLMNU_ADJUST_GAMMA"
 msgstr "Adjust Gamma"
 
-# Mouse
-msgid "nan"
-msgstr ""
-
 msgid "MOUSEMNU_ENABLEMOUSE"
 msgstr "Enable mouse"
 
@@ -489,10 +469,6 @@ msgstr "System cursor"
 
 msgid "OPTVAL_DEFAULT"
 msgstr "Default"
-
-# Controller
-msgid "nan"
-msgstr ""
 
 msgid "JOYMNU_TITLE"
 msgstr "Configure Controller"
@@ -569,10 +545,6 @@ msgstr "Inverted"
 
 msgid "OPTVAL_NOTINVERTED"
 msgstr "Not Inverted"
-
-# Player Menu
-msgid "nan"
-msgstr ""
 
 msgid "TXT_COLOR_BLUE"
 msgstr "Blue"
@@ -673,10 +645,6 @@ msgstr "Autoaim"
 msgid "PLYRMNU_ALWAYSRUN"
 msgstr "Always Run"
 
-# Display
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_SCREENSIZE"
 msgstr "Screen size"
 
@@ -716,10 +684,6 @@ msgstr "Pulsating message Display"
 msgid "MSGMNU_MESSAGESCALE"
 msgstr "Message Scale"
 
-# Automap
-msgid "nan"
-msgstr ""
-
 msgid "MNU_COLORPICKER"
 msgstr "Select Color"
 
@@ -740,10 +704,6 @@ msgstr "Customize Map Colors"
 
 msgid "MAPCOLORMNU_DEFAULTMAPCOLORS"
 msgstr "Restore default custom colors"
-
-# Sound
-msgid "nan"
-msgstr ""
 
 msgid "SNDMNU_SNDENABLED"
 msgstr "Sound enabled"
@@ -1239,10 +1199,6 @@ msgstr "768K"
 msgid "OPTVAL_1024K"
 msgstr "1024K"
 
-# Postprocessing
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_UNCHARTED2"
 msgstr "Uncharted 2"
 
@@ -1332,10 +1288,6 @@ msgstr "Radial"
 
 msgid "OPTVAL_STANDARD"
 msgstr "Standard"
-
-# Texture options
-msgid "nan"
-msgstr ""
 
 msgid "GLTEXMNU_TEXFILTER"
 msgstr "Texture Filter mode"
@@ -1535,10 +1487,6 @@ msgstr "Vulkan"
 msgid "OPTVAL_OPENGLES"
 msgstr "OpenGL ES"
 
-# Miscellaneous Options
-msgid "nan"
-msgstr ""
-
 msgid "MISCMNU_MERGEKEYS"
 msgstr "Merge left+right Alt/Ctrl/Shift"
 
@@ -1593,10 +1541,6 @@ msgstr "Enhanced"
 
 msgid "OPTMNU_LANGUAGE"
 msgstr "Language"
-
-# Reverb editor
-msgid "nan"
-msgstr ""
 
 msgid "TXT_UNDOCHANGES"
 msgstr "Undo Changes"
@@ -1750,10 +1694,6 @@ msgstr "File name"
 msgid "REVMNU_Environments_to_save"
 msgstr "Environments to save"
 
-# Vulkan
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_VKOPT"
 msgstr "Vulkan Options (Experimental)"
 
@@ -1779,10 +1719,6 @@ msgstr "These options will require a restart to take effect."
 msgid "VKMNU_DEVICESELECT"
 msgstr "Select Vulkan Device"
 
-# Texture scaling
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_SCALENX"
 msgstr "ScaleNx"
 
@@ -1801,10 +1737,6 @@ msgstr "xBRZ"
 msgid "OPTVAL_OLD_NXBRZ"
 msgstr "Old xBRZ"
 
-# Option Search
-msgid "nan"
-msgstr ""
-
 msgid "OS_TITLE"
 msgstr "Option Search"
 
@@ -1819,10 +1751,6 @@ msgstr "No results found."
 
 msgid "OS_LABEL"
 msgstr "Search:"
-
-# Blood Bath Announcer
-msgid "nan"
-msgstr ""
 
 msgid "TXT_OBITUARY1"
 msgstr "%k boned %o like a fish"
@@ -1964,10 +1892,6 @@ msgstr "Browse Saved Games"
 msgid "MOUSEMNU_SWAPBUTTONS"
 msgstr "Swap mouse buttons"
 
-# Additional menu texts
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_ONLYMODIFIED"
 msgstr "Only modified"
 
@@ -2009,10 +1933,6 @@ msgstr "Appearance"
 
 msgid "DSPLYMNU_ADVANCED"
 msgstr "Advanced Display Options"
-
-# IWAD/Game picker
-msgid "nan"
-msgstr ""
 
 msgid "PICKER_SELECT"
 msgstr "Select which game file to run."
@@ -2069,10 +1989,6 @@ msgstr "Enable this controller"
 
 msgid "CNTRLMNU_OPEN_MAIN"
 msgstr "Open Main Menu"
-
-# New content
-msgid "nan"
-msgstr ""
 
 msgid "MODMNU_REPLAYER"
 msgstr "Module replayer"

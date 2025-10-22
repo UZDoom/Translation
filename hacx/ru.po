@@ -390,9 +390,6 @@ msgstr ""
 "\n"
 "Ты... остался один.\n"
 
-msgid "nan"
-msgstr ""
-
 msgid "TXT_HACXMAP01"
 msgstr "Корпорация «ГенИмп»"
 

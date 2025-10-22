@@ -329,9 +329,6 @@ msgstr ""
 msgid "X5TEXT"
 msgstr ""
 
-msgid "nan"
-msgstr ""
-
 msgid "TXT_HACXMAP01"
 msgstr ""
 

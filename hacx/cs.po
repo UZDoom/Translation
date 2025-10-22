@@ -385,9 +385,6 @@ msgstr ""
 "\n"
 "Jsi... @[self_cs]."
 
-msgid "nan"
-msgstr ""
-
 msgid "TXT_HACXMAP01"
 msgstr "Sídlo GenEmp"
 

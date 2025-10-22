@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: el\n"
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "PRESSYN"
 msgstr "Πάτα Y ή N\n"
 
@@ -60,10 +56,6 @@ msgstr "Πές:"
 msgid "TXT_QUITENDOOM"
 msgstr "Πάτα οποιοδήποτε πλήκτρο ή πάτα οπουδήποτε για να κάνεις έξοδο"
 
-# Savegame
-msgid "nan"
-msgstr ""
-
 msgid "NEWSAVE"
 msgstr "<Νέο παιχνίδι αποθήκευσης>"
 
@@ -90,10 +82,6 @@ msgstr "Καθ΄λου αρχεία "
 
 msgid "MNU_DELETESG"
 msgstr "Θέλεις όντος να διαγράξεις το αποθηκευμένο παιχνίδι;"
-
-# General
-msgid "nan"
-msgstr ""
 
 msgid "OPTVAL_OFF"
 msgstr "ενεργοποιημένη"
@@ -157,10 +145,6 @@ msgstr "Ρυθμίσεις Δικτύου"
 
 msgid "OPTMNU_REVERB"
 msgstr "Επεξεργαστής περιβαλλόντων απόσβεσης"
-
-# Customize controls
-msgid "nan"
-msgstr ""
 
 msgid "CNTRLMNU_SWITCHTEXT1"
 msgstr "ENTER για αλλαγή, BACKSPACE για διαγραφή"
@@ -416,10 +400,6 @@ msgstr "Στάματα το παιχνίδι"
 msgid "CNTRLMNU_ADJUST_GAMMA"
 msgstr "Ρύθμιση Γάμμα"
 
-# Mouse
-msgid "nan"
-msgstr ""
-
 msgid "MOUSEMNU_ENABLEMOUSE"
 msgstr "Ενεργοποίηση ποντικιόυ"
 
@@ -485,10 +465,6 @@ msgstr "Δείκτης συστήματος"
 
 msgid "OPTVAL_DEFAULT"
 msgstr "Προεπιλογή"
-
-# Controller
-msgid "nan"
-msgstr ""
 
 msgid "JOYMNU_TITLE"
 msgstr ""
@@ -564,10 +540,6 @@ msgid "OPTVAL_INVERTED"
 msgstr ""
 
 msgid "OPTVAL_NOTINVERTED"
-msgstr ""
-
-# Player Menu
-msgid "nan"
 msgstr ""
 
 msgid "TXT_COLOR_BLUE"
@@ -669,10 +641,6 @@ msgstr ""
 msgid "PLYRMNU_ALWAYSRUN"
 msgstr "Πάντα τρέχα"
 
-# Display
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_SCREENSIZE"
 msgstr "Μέγεθος οθόνης"
 
@@ -712,10 +680,6 @@ msgstr ""
 msgid "MSGMNU_MESSAGESCALE"
 msgstr "Μέγεθος μηνύματον"
 
-# Automap
-msgid "nan"
-msgstr ""
-
 msgid "MNU_COLORPICKER"
 msgstr "Επιλογή Χρώματος"
 
@@ -735,10 +699,6 @@ msgid "MAPCOLORMNU_TITLE"
 msgstr ""
 
 msgid "MAPCOLORMNU_DEFAULTMAPCOLORS"
-msgstr ""
-
-# Sound
-msgid "nan"
 msgstr ""
 
 msgid "SNDMNU_SNDENABLED"
@@ -1235,10 +1195,6 @@ msgstr ""
 msgid "OPTVAL_1024K"
 msgstr ""
 
-# Postprocessing
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_UNCHARTED2"
 msgstr ""
 
@@ -1327,10 +1283,6 @@ msgid "OPTVAL_RADIAL"
 msgstr "Ακτινικό"
 
 msgid "OPTVAL_STANDARD"
-msgstr ""
-
-# Texture options
-msgid "nan"
 msgstr ""
 
 msgid "GLTEXMNU_TEXFILTER"
@@ -1531,10 +1483,6 @@ msgstr ""
 msgid "OPTVAL_OPENGLES"
 msgstr ""
 
-# Miscellaneous Options
-msgid "nan"
-msgstr ""
-
 msgid "MISCMNU_MERGEKEYS"
 msgstr ""
 
@@ -1589,10 +1537,6 @@ msgstr "Ενισχυομένο"
 
 msgid "OPTMNU_LANGUAGE"
 msgstr "Γλώσσα"
-
-# Reverb editor
-msgid "nan"
-msgstr ""
 
 msgid "TXT_UNDOCHANGES"
 msgstr "Αναίρεση Αλλαγών"
@@ -1746,10 +1690,6 @@ msgstr "Όνομα αρχείου"
 msgid "REVMNU_Environments_to_save"
 msgstr "Περιβάλλοντα για αποθήκευση"
 
-# Vulkan
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_VKOPT"
 msgstr "Vulka Ρυθμίσεις (Πειραματικές)"
 
@@ -1775,10 +1715,6 @@ msgstr "Αυτές η ρυθμίσεις θα χρειαστούνε επανε�
 msgid "VKMNU_DEVICESELECT"
 msgstr "Επιλογή Vulkan Συσκευής"
 
-# Texture scaling
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_SCALENX"
 msgstr ""
 
@@ -1797,10 +1733,6 @@ msgstr ""
 msgid "OPTVAL_OLD_NXBRZ"
 msgstr "Παλίο xBRZ"
 
-# Option Search
-msgid "nan"
-msgstr ""
-
 msgid "OS_TITLE"
 msgstr "Αναζήτηση Ρυθμίσεων"
 
@@ -1815,10 +1747,6 @@ msgstr "Δέν βρέθηκαν αποτελέσματα"
 
 msgid "OS_LABEL"
 msgstr "Αναζήτηση:"
-
-# Blood Bath Announcer
-msgid "nan"
-msgstr ""
 
 msgid "TXT_OBITUARY1"
 msgstr "Ο/Η %k ξεκοκάλοσε @[pro2_gr] %o σα ψάρι"
@@ -1960,10 +1888,6 @@ msgstr ""
 msgid "MOUSEMNU_SWAPBUTTONS"
 msgstr ""
 
-# Additional menu texts
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_ONLYMODIFIED"
 msgstr ""
 
@@ -2004,10 +1928,6 @@ msgid "DSPLYMNU_APPEARANCE"
 msgstr ""
 
 msgid "DSPLYMNU_ADVANCED"
-msgstr ""
-
-# IWAD/Game picker
-msgid "nan"
 msgstr ""
 
 msgid "PICKER_SELECT"
@@ -2064,10 +1984,6 @@ msgid "JOYMNU_JOYENABLE"
 msgstr ""
 
 msgid "CNTRLMNU_OPEN_MAIN"
-msgstr ""
-
-# New content
-msgid "nan"
 msgstr ""
 
 msgid "MODMNU_REPLAYER"

@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: ru\n"
 
-# Doom Episode names
-msgid "nan"
-msgstr ""
-
 msgid "TXT_D1E1"
 msgstr "По колено в трупах"
 
@@ -40,14 +36,6 @@ msgid "TXT_TNT_EP"
 msgstr "TNT: Дьяволюция"
 
 msgid "TXT_CHEX_EP"
-msgstr ""
-
-# Level names
-msgid "nan"
-msgstr ""
-
-# Doom 1
-msgid "nan"
 msgstr ""
 
 msgid "HUSTR_E1M1"
@@ -172,10 +160,6 @@ msgstr "E4M8: К мучителю"
 msgid "HUSTR_E4M9"
 msgstr "E4M9: Страх"
 
-# Doom 2
-msgid "nan"
-msgstr ""
-
 # Note that the "LEVEL" part of the string will be stripped so it shouldn't be
 # translated
 msgid "HUSTR_1"
@@ -287,10 +271,6 @@ msgstr "Уровень №32: Кин"
 msgid "HUSTR_33"
 msgstr "Уровень №33: Предай"
 
-# No Rest For The Living
-msgid "nan"
-msgstr ""
-
 msgid "NHUSTR_1"
 msgstr "Уровень №1: База на Земле"
 
@@ -317,10 +297,6 @@ msgstr "Уровень №8: Гробница злобы"
 
 msgid "NHUSTR_9"
 msgstr "Уровень №9: Шествие демонов"
-
-# Plutonia
-msgid "nan"
-msgstr ""
 
 msgid "PHUSTR_1"
 msgstr "Уровень №1: Конго"
@@ -420,10 +396,6 @@ msgstr "Уровень №31: Киберлогово"
 msgid "PHUSTR_32"
 msgstr "Уровень №32: П0лный вп3рёд"
 
-# TNT: Evilution
-msgid "nan"
-msgstr ""
-
 msgid "THUSTR_1"
 msgstr "Уровень №1: Центр управления системой"
 
@@ -520,10 +492,6 @@ msgstr "Уровень №31: Фараон"
 
 msgid "THUSTR_32"
 msgstr "Уровень №32: Карибы"
-
-# Heretic
-msgid "nan"
-msgstr ""
 
 msgid "HHUSTR_E1M1"
 msgstr "Доки"
@@ -660,10 +628,6 @@ msgstr "Поле высшего суда"
 msgid "HHUSTR_E5M9"
 msgstr "Путаница Д'Спарила"
 
-# Strife
-msgid "nan"
-msgstr ""
-
 msgid "TXT_STRIFE_MAP01"
 msgstr "МЕСТНОСТЬ 1: Святилище"
 
@@ -778,10 +742,6 @@ msgstr "МЕСТНОСТЬ 37: Сектора обстрела"
 msgid "TXT_STRIFE_MAP38"
 msgstr "МЕСТНОСТЬ 38: Управляемый хаос"
 
-# Hexen
-msgid "nan"
-msgstr ""
-
 msgid "TXT_HEXEN_MAP01"
 msgstr "Зал отсеивания"
 
@@ -875,10 +835,6 @@ msgstr "Виварий"
 msgid "TXT_HEXEN_MAP40"
 msgstr "Испытание тьмы"
 
-# Hexen Deathkings
-msgid "nan"
-msgstr ""
-
 msgid "TXT_HEXDD_MAP41"
 msgstr "Разрушенная деревня"
 
@@ -956,10 +912,6 @@ msgstr "Сточная яма"
 
 msgid "TXT_HEXDD_MAP38"
 msgstr "Роза"
-
-# Intermission texts
-msgid "nan"
-msgstr ""
 
 # Doom Ep.1
 msgid "E1TEXT"
@@ -1591,10 +1543,6 @@ msgstr ""
 "ждать своего часа, чтобы совершить\n"
 "свой ход."
 
-# Hexen script texts
-msgid "nan"
-msgstr ""
-
 msgid "TXT_ACS_MAP01_5_THEDO"
 msgstr "Дверь заперта"
 
@@ -1733,10 +1681,6 @@ msgstr "Достаточно ли ты силён,"
 
 msgid "TXT_ACS_MAP35_14_TOFAC"
 msgstr "чтобы сразиться со своими наставниками?"
-
-# Hexen: Deathkings script texts
-msgid "nan"
-msgstr ""
 
 msgid "TXT_ACS_MAP33_6_YOUDA"
 msgstr "Ты посмел сражаться в комнате ожидания?"
@@ -1969,10 +1913,6 @@ msgstr "Путь к башне открыт"
 
 msgid "TXT_ACS_MAP60_3_THEWA"
 msgstr "Портал открыт"
-
-# Strife dialogue
-msgid "nan"
-msgstr ""
 
 # MAP01: Beldin.
 msgid "TXT_DLG_SCRIPT01_D0_IDONT"
@@ -6133,10 +6073,6 @@ msgstr "Правильный настрой."
 msgid "TXT_DLG_SCRIPT34_D31836_WELCO"
 msgstr "Добро пожаловать, друг!"
 
-# Random dialogue
-msgid "nan"
-msgstr ""
-
 msgid "TXT_RANDOM_PEASANT_01"
 msgstr "Пожалуйста, не трогай меня."
 
@@ -6311,10 +6247,6 @@ msgstr "Спасибо, пока!"
 
 msgid "TXT_RANDOMGOODBYE_3"
 msgstr "До встречи!"
-
-# Strife logs
-msgid "nan"
-msgstr ""
 
 # MAP33: After getting the hidden com unit in the tavern.
 msgid "TXT_ILOG1"
@@ -6875,10 +6807,6 @@ msgstr ""
 " стрельбе, и они подготовят тебя к тому, что ждёт тебя впереди. Теперь ты "
 "можешь свободно передвигаться по нашей базе."
 
-# Strife characters
-msgid "nan"
-msgstr ""
-
 msgid "TXT_SPEAKER_ORDER_SERGEANT"
 msgstr "Сержант Ордена"
 
@@ -7072,10 +7000,6 @@ msgstr "Лучник"
 
 msgid "TXT_SPEAKER_DERWIN"
 msgstr "Дервин"
-
-# Strife subtitles
-msgid "nan"
-msgstr ""
 
 # Menu's intro.
 msgid "TXT_SUB_INTRO1"
@@ -7950,10 +7874,6 @@ msgid "TXT_SUB_LOG237"
 msgstr ""
 "Хотела бы я ждать тебя за этой дверью... но я должна оставаться под землёй. "
 "Пришло время познакомить тебя с нашим лидером, Мэйсилом."
-
-# Blackbird's remarks embedded in other conversations
-msgid "nan"
-msgstr ""
 
 # MAP02: Mourel.
 msgid "TXT_BBSUB_SCRIPT02_D57608_IFIKN"

@@ -369,9 +369,6 @@ msgstr ""
 "\n"
 "Du... är ensam."
 
-msgid "nan"
-msgstr ""
-
 msgid "TXT_HACXMAP01"
 msgstr ""
 

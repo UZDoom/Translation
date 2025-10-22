@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: tr\n"
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "PRESSKEY"
 msgstr "Bir tuşa bas."
 
@@ -69,10 +65,6 @@ msgstr "Sadece kayıtlı sürümde mevcuttur"
 
 msgid "DOSY"
 msgstr "(Çıkmak için Y'ye basın)"
-
-# Quit messages
-msgid "nan"
-msgstr ""
 
 msgid "QUITMSG1"
 msgstr "Lütfen gitmeyin, kadeh kaldıracak daha çok iblis var!"
@@ -165,16 +157,8 @@ msgstr "Galaksilerarası Tahıl Federasyonu'nu terk etmeyin!"
 msgid "QUITMSG29"
 msgstr "Gerçek Chex(R) Savaşçısı bu kadar çabuk pes etmez!"
 
-# Pickups
-msgid "nan"
-msgstr ""
-
 msgid "TXT_DEFAULTPICKUPMSG"
 msgstr "Bir pikabın var"
-
-# Locks
-msgid "nan"
-msgstr ""
 
 msgid "PD_ANY"
 msgstr "Herhangi bir anahtar bu kapıyı açar"
@@ -197,10 +181,6 @@ msgstr "Bu nesneyi etkinleştirmek için altı tuşa da ihtiyacınız var"
 msgid "PD_ALLKEYS"
 msgstr "Tüm anahtarlara ihtiyacın var"
 
-# Chat
-msgid "nan"
-msgstr ""
-
 msgid "HUSTR_MSGU"
 msgstr "[Mesaj gönderilmemiş]"
 
@@ -221,10 +201,6 @@ msgstr "Kaybettin..."
 
 msgid "HUSTR_MESSAGESENT"
 msgstr "[Mesaj Gönderildi]"
-
-# Cheats
-msgid "nan"
-msgstr ""
 
 msgid "STSTR_MUS"
 msgstr "Müzik Değişimi"
@@ -402,10 +378,6 @@ msgstr "Oyun dışında ne öldürmek istiyorsun?"
 msgid "TXT_NOT_FROZEN"
 msgstr "Dondurulmuş oyuncu özellikleri kapatıldı"
 
-# Automap
-msgid "nan"
-msgstr ""
-
 msgid "AMSTR_FOLLOWOFF"
 msgstr "Takip Modu KAPALI"
 
@@ -429,10 +401,6 @@ msgstr "İşaretli Nokta"
 
 msgid "AMSTR_MARKSCLEARED"
 msgstr "Tüm İşaretler Temizlendi"
-
-# Multiplayer
-msgid "nan"
-msgstr ""
 
 msgid "TXT_FRAGLIMIT"
 msgstr "Frag limiti vuruldu."
@@ -473,10 +441,6 @@ msgstr "Ultra öldürme!"
 msgid "MULTI5"
 msgstr "Canavar öldürme!"
 
-# Scoreboard
-msgid "nan"
-msgstr ""
-
 msgid "SCORE_BONUS"
 msgstr ""
 
@@ -510,10 +474,6 @@ msgstr "Toplam"
 msgid "SCORE_LVLTIME"
 msgstr "Seviye Zaman"
 
-# Level Summary
-msgid "nan"
-msgstr ""
-
 msgid "TXT_IMKILLS"
 msgstr "Öldürür"
 
@@ -538,10 +498,6 @@ msgstr "Giriş"
 msgid "WI_ENTERING"
 msgstr "Şimdi giriyoruz:"
 
-# HUD
-msgid "nan"
-msgstr ""
-
 msgid "AM_MONSTERS"
 msgstr "Canavarlar:"
 
@@ -550,10 +506,6 @@ msgstr "Sırlar:"
 
 msgid "AM_ITEMS"
 msgstr "Eşyalar:"
-
-# Obituaries
-msgid "nan"
-msgstr ""
 
 msgid "OB_SUICIDE"
 msgstr "%o intihar eder."
@@ -618,10 +570,6 @@ msgstr "%k diğer takım için bir parça aldı."
 
 msgid "OB_FRIENDLY4"
 msgstr "%k başka bir arkadaşını kaybetti."
-
-# Pickup
-msgid "nan"
-msgstr ""
 
 msgid "GOTARMOR"
 msgstr "Zırhı aldım."
@@ -749,10 +697,6 @@ msgstr "Şeytani bir asa alıyorsun."
 msgid "BETA_BONUS4"
 msgstr "Kutsal olmayan bir İncil aldın."
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "PD_BLUEO"
 msgstr "Bu nesneyi etkinleştirmek için mavi bir anahtara ihtiyacınız var"
 
@@ -807,10 +751,6 @@ msgstr "Bu kapıyı açmak için kırmızı bir kafatasına ihtiyacın var."
 msgid "PD_YELLOWS"
 msgstr "Bu kapıyı açmak için sarı bir kafatasına ihtiyacın var."
 
-# Cast call names
-msgid "nan"
-msgstr ""
-
 msgid "CC_ZOMBIE"
 msgstr "Zombi"
 
@@ -863,10 +803,6 @@ msgstr "Siber Şeytan"
 
 msgid "CC_HERO"
 msgstr "Bizim Kahramanımız"
-
-# Actor tag names
-msgid "nan"
-msgstr ""
 
 msgid "FN_SHOTGUN"
 msgstr "Çavuş"
@@ -927,10 +863,6 @@ msgstr "Roketler"
 
 msgid "AMMO_CELLS"
 msgstr "Enerji Hücreleri"
-
-# Obituaries
-msgid "nan"
-msgstr ""
 
 msgid "OB_STEALTHBABY"
 msgstr "%o bir araknotron gördüğünü sandı."
@@ -1076,14 +1008,6 @@ msgstr "%o %k tarafından kovuldu."
 msgid "OB_MPBFG_MBF"
 msgstr "%o %k tarafından yakıldı"
 
-# Heretic
-msgid "nan"
-msgstr ""
-
-# Pickup 
-msgid "nan"
-msgstr ""
-
 msgid "TXT_GOTBLUEKEY"
 msgstr "Mavi Anahtar"
 
@@ -1195,10 +1119,6 @@ msgstr "Anka Kuşu Çubuğu"
 msgid "TXT_WPNGAUNTLETS"
 msgstr "Ölü Çağıranın Eldivenleri"
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NEEDBLUEKEY"
 msgstr "Bu kapıyı açmak için mavi bir anahtara ihtiyacın var."
 
@@ -1207,10 +1127,6 @@ msgstr "Bu kapıyı açmak için yeşil bir anahtara ihtiyacın var."
 
 msgid "TXT_NEEDYELLOWKEY"
 msgstr "Bu kapıyı açmak için sarı bir anahtara ihtiyacınız var"
-
-# Actor tag names
-msgid "nan"
-msgstr ""
 
 msgid "FN_CHICKEN"
 msgstr "Tavuk"
@@ -1273,10 +1189,6 @@ msgstr "Çubuk"
 
 msgid "TAG_GOLDWAND"
 msgstr "Elf Asası"
-
-# Obituaries
-msgid "nan"
-msgstr ""
 
 msgid "OB_CHICKEN"
 msgstr "%o gagalanarak öldürüldü."
@@ -1385,14 +1297,6 @@ msgstr "%o, %k tarafından yakıldı."
 
 msgid "OB_MPPMACE"
 msgstr "%o, %k tarafından ezildi."
-
-# Hexen
-msgid "nan"
-msgstr ""
-
-# Pickup
-msgid "nan"
-msgstr ""
 
 msgid "TXT_MANA_1"
 msgstr "Mavi Mana"
@@ -1562,10 +1466,6 @@ msgstr "Wraithverge'in Segmenti"
 msgid "TXT_BLOODSCOURGE_PIECE"
 msgstr "Bloodscourge'un Segmenti"
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NEED_KEY_STEEL"
 msgstr "Çelik Anahtara ihtiyacın var"
 
@@ -1598,10 +1498,6 @@ msgstr "Bataklık Anahtarına ihtiyacın var."
 
 msgid "TXT_NEED_KEY_CASTLE"
 msgstr "Kale Anahtarına ihtiyacın var"
-
-# Actor tag names
-msgid "nan"
-msgstr ""
 
 msgid "FN_FIREDEMON"
 msgstr ""
@@ -1780,10 +1676,6 @@ msgstr "Pirinç ve demir dişli"
 msgid "TAG_ARTIPUZZGEAR4"
 msgstr "Gümüş ve pirinç dişli"
 
-# Obituaries
-msgid "nan"
-msgstr ""
-
 msgid "OB_FIREDEMON"
 msgstr "%o bir Afrit'in ateşini tattı."
 
@@ -1882,14 +1774,6 @@ msgstr "%o, %k tarafından şoka uğratıldı."
 
 msgid "OB_MPMWEAPBLOODSCOURGE"
 msgstr "%o, %k tarafından evrenden silindi."
-
-# Strife
-msgid "nan"
-msgstr ""
-
-# Pickups
-msgid "nan"
-msgstr ""
 
 msgid "TXT_METALARMOR"
 msgstr "Metal Zırhı aldın."
@@ -2119,10 +2003,6 @@ msgstr "Bir şey yapmalı."
 msgid "MSG_TALISMANPOWER"
 msgstr "Süper gücün var!"
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NEEDKEY"
 msgstr "Anahtar sende değil."
 
@@ -2173,10 +2053,6 @@ msgstr "Kadehe ihtiyacın var!"
 
 msgid "TXT_NEED_OPASS"
 msgstr "Kahin Kartı'na ihtiyacın var!"
-
-# Actor tags
-msgid "nan"
-msgstr ""
 
 msgid "TAG_PUNCHDAGGER"
 msgstr "Hançer"
@@ -2481,10 +2357,6 @@ msgstr "Yeşil Tılsım"
 msgid "TAG_TALISMANBLUE"
 msgstr "Mavi Tılsım"
 
-# Obituaries
-msgid "nan"
-msgstr ""
-
 msgid "OB_ACOLYTE"
 msgstr "%o, bir yardımcısı tarafından gayretle vuruldu."
 
@@ -2575,10 +2447,6 @@ msgstr "%o, %k tarafından acımasızca buharlaştırıldı."
 msgid "OB_MPSIGIL"
 msgstr "%o, %k'in Sigil'inin katıksız gücüne boyun eğdi."
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "TXT_STRIFE_EPI"
 msgstr "Sigilin Peşinde"
 
@@ -2636,14 +2504,6 @@ msgstr "Yardım bul"
 # As in for %u amount of money.
 msgid "TXT_TRADE"
 msgstr "için %u"
-
-# Chex Quest
-msgid "nan"
-msgstr ""
-
-# Pickups
-msgid "nan"
-msgstr ""
 
 msgid "GOTCHEXARMOR"
 msgstr "Chex(R) Zırhı'nı aldım."
@@ -2735,10 +2595,6 @@ msgstr "Mega Zorcher'ı aldın!"
 msgid "GOTMINIZORCHER"
 msgstr "Bir Mini Zorcher aldın."
 
-# Actor tags
-msgid "nan"
-msgstr ""
-
 msgid "TAG_SPOON"
 msgstr "Kaşık"
 
@@ -2810,10 +2666,6 @@ msgstr "%o, %k tarafından lazzlandı."
 
 msgid "OB_MPBFG_SPLASH"
 msgstr "%o, %k tarafından lazzlandı."
-
-# Miscellaneous
-msgid "nan"
-msgstr ""
 
 msgid "CHUSTR_E1M1"
 msgstr "E1M1: İniş Bölgesi"
@@ -2939,14 +2791,6 @@ msgstr "İtici Şarjı"
 
 msgid "AMMO_CELLS"
 msgstr "Zorcher Yükünün Aşamalandırılması"
-
-# Menus
-msgid "nan"
-msgstr ""
-
-# Main Menus
-msgid "nan"
-msgstr ""
 
 msgid "MNU_NEWGAME"
 msgstr "Yeni Oyun"
@@ -3107,10 +2951,6 @@ msgstr "Mezar Odası"
 
 msgid "MNU_DEMESNE"
 msgstr "Durgun Diyar"
-
-# Gameplay menus
-msgid "nan"
-msgstr ""
 
 msgid "GMPLYMNU_TEAMPLAY"
 msgstr "Takım Oyunu"
@@ -3439,10 +3279,6 @@ msgstr "Patlamalardan kaynaklanan dikey itme yok"
 msgid "CMPTMNU_EXPLODE2"
 msgstr "Orijinal Doom patlama davranışını kullanın"
 
-# player
-msgid "nan"
-msgstr ""
-
 msgid "PLYRMNU_RED"
 msgstr "Kırmızı"
 
@@ -3472,10 +3308,6 @@ msgstr "geri görmek için"
 
 msgid "PLYRMNU_VERTSPREAD"
 msgstr "Dikey Mermi Yayılımı"
-
-# controls
-msgid "nan"
-msgstr ""
 
 msgid "CNTRLMNU_ZOOM"
 msgstr "Silah Yakınlaştırma"
@@ -3545,10 +3377,6 @@ msgstr "Merkez otomatik olarak"
 
 msgid "MOUSEMNU_LOOKSTRAFE"
 msgstr "Fare ile yana doğru hareket ettirin"
-
-# Map colors
-msgid "nan"
-msgstr ""
 
 msgid "MAPCOLORMNU_BACKCOLOR"
 msgstr "Arka plan"
@@ -3631,10 +3459,6 @@ msgstr "Kaplama Hile Modu"
 msgid "MAPCOLORMNU_PORTAL"
 msgstr "Portal Kaplamaları"
 
-# Messages
-msgid "nan"
-msgstr ""
-
 msgid "MSGMNU_TITLE"
 msgstr "Mesajlar"
 
@@ -3679,10 +3503,6 @@ msgstr "Ayrıntılı kaydetme mesajları"
 
 msgid "MSGMNU_DEVELOPER"
 msgstr "Geliştirici mesaj modu"
-
-# Automap
-msgid "nan"
-msgstr ""
 
 msgid "AUTOMAPMNU_COLORSET"
 msgstr "Harita renk seti"
@@ -3753,10 +3573,6 @@ msgstr "İşareti ayarla"
 msgid "MAPCNTRLMNU_CLEARMARK"
 msgstr "Açık işaret"
 
-# Scoreboard
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_SCOREBOARD"
 msgstr "Skorbord Seçenekleri"
 
@@ -3783,10 +3599,6 @@ msgstr "Ölüm Maçı Seçenekleri"
 
 msgid "SCRBRDMNU_TEAMDEATHMATCH"
 msgstr "Takım Ölüm Maçı Seçenekleri"
-
-# Alt HUD
-msgid "nan"
-msgstr ""
 
 msgid "ALTHUDMNU_TITLE"
 msgstr "Alternatif HUD"
@@ -3878,10 +3690,6 @@ msgstr "İstatistik adı renk"
 msgid "ALTHUDMNU_STATSCOLOR"
 msgstr "İstatistik renk"
 
-# Display (game related)
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_CAPFPS"
 msgstr "Rendering Enterpolasyonu"
 
@@ -3972,10 +3780,6 @@ msgstr "Hareket etmiyorken bob miktarını görüntüleme"
 msgid "DSPLYMNU_BOBSPEED"
 msgstr "Silah bob hızı"
 
-# Scaling
-msgid "nan"
-msgstr ""
-
 msgid "SCALEMNU_TITLE"
 msgstr "Ölçeklendirme Seçenekleri"
 
@@ -4008,10 +3812,6 @@ msgstr "Tam ekrana ölçeklendir"
 
 msgid "SCALEMNU_ADAPT"
 msgstr "Ekran boyutuna uyum sağlayın"
-
-# HUD
-msgid "nan"
-msgstr ""
 
 msgid "HUDMNU_TITLE"
 msgstr "HUD Seçenekleri"
@@ -4060,10 +3860,6 @@ msgstr "IWAD seçim iletişim kutusunu göster"
 
 msgid "MISCMNU_ALLCHEATS"
 msgstr "Tüm oyunlardan hileleri etkinleştirin"
-
-# Option Menus
-msgid "nan"
-msgstr ""
 
 msgid "MISCMNU_ENABLESCRIPTSCREENSHOTS"
 msgstr "Komut dosyalarıyla ekran görüntüsü almayı etkinleştirme"
@@ -4739,10 +4535,6 @@ msgstr "Arama yapın:"
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Her zaman anahtarları göster"
 
-# Newly added content
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NO_TEAM_CHANGE"
 msgstr "Takım değiştirme devre dışı bırakıldı!"
 
@@ -5242,11 +5034,6 @@ msgstr ""
 msgid "PAUSE_STRING"
 msgstr ""
 
-# New Doom item Tags for GZDoom 5.0. The names used here are taken from the
-# Doom manual (Doomwiki was referenced)
-msgid "nan"
-msgstr ""
-
 msgid "TAG_BACKPACK"
 msgstr ""
 
@@ -5308,10 +5095,6 @@ msgid "TAG_YELLOWSKULL"
 msgstr ""
 
 msgid "TAG_REDSKULL"
-msgstr ""
-
-# Chex Quest item tags
-msgid "nan"
 msgstr ""
 
 msgid "TAG_GLASSOFWATER"

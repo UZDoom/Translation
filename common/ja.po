@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: ja\n"
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "PRESSYN"
 msgstr "YかNで答えろ"
 
@@ -64,10 +60,6 @@ msgstr "発言:"
 msgid "TXT_QUITENDOOM"
 msgstr "何かのキーを押すか、ウィンドウのどこかをクリックすると終了する。"
 
-# Savegame
-msgid "nan"
-msgstr ""
-
 msgid "NEWSAVE"
 msgstr "<新規セーブ>"
 
@@ -96,10 +88,6 @@ msgstr "ファイル無し"
 
 msgid "MNU_DELETESG"
 msgstr "本当にこのセーブを消すのか?"
-
-# General
-msgid "nan"
-msgstr ""
 
 msgid "OPTVAL_OFF"
 msgstr "オフ"
@@ -163,10 +151,6 @@ msgstr "ネットワーク オプション"
 
 msgid "OPTMNU_REVERB"
 msgstr "リバーブ環境エディタ"
-
-# Customize controls
-msgid "nan"
-msgstr ""
 
 msgid "CNTRLMNU_SWITCHTEXT1"
 msgstr "Enter で決定、BackSpaceで無効化"
@@ -422,10 +406,6 @@ msgstr "ゲームを終了"
 msgid "CNTRLMNU_ADJUST_GAMMA"
 msgstr "ガンマ値を調整"
 
-# Mouse
-msgid "nan"
-msgstr ""
-
 msgid "MOUSEMNU_ENABLEMOUSE"
 msgstr "マウスの使用"
 
@@ -491,10 +471,6 @@ msgstr "システム"
 
 msgid "OPTVAL_DEFAULT"
 msgstr "デフォルト"
-
-# Controller
-msgid "nan"
-msgstr ""
 
 msgid "JOYMNU_TITLE"
 msgstr "コントローラー構成:"
@@ -571,10 +547,6 @@ msgstr "反転する"
 
 msgid "OPTVAL_NOTINVERTED"
 msgstr "反転しない"
-
-# Player Menu
-msgid "nan"
-msgstr ""
 
 msgid "TXT_COLOR_BLUE"
 msgstr "青"
@@ -675,10 +647,6 @@ msgstr "自動照準"
 msgid "PLYRMNU_ALWAYSRUN"
 msgstr "常に駆け足"
 
-# Display
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_SCREENSIZE"
 msgstr "画面サイズ"
 
@@ -718,10 +686,6 @@ msgstr "取得時等の文を明滅"
 msgid "MSGMNU_MESSAGESCALE"
 msgstr "メッセージスケール"
 
-# Automap
-msgid "nan"
-msgstr ""
-
 msgid "MNU_COLORPICKER"
 msgstr "色選択"
 
@@ -742,10 +706,6 @@ msgstr "カスタム色を決める"
 
 msgid "MAPCOLORMNU_DEFAULTMAPCOLORS"
 msgstr "カスタム色を初期化"
-
-# Sound
-msgid "nan"
-msgstr ""
 
 msgid "SNDMNU_SNDENABLED"
 msgstr "サウンド有効"
@@ -1241,10 +1201,6 @@ msgstr ""
 msgid "OPTVAL_1024K"
 msgstr ""
 
-# Postprocessing
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_UNCHARTED2"
 msgstr ""
 
@@ -1334,10 +1290,6 @@ msgstr "放射状"
 
 msgid "OPTVAL_STANDARD"
 msgstr "標準"
-
-# Texture options
-msgid "nan"
-msgstr ""
 
 msgid "GLTEXMNU_TEXFILTER"
 msgstr "テクスチャーフィルター モード"
@@ -1537,10 +1489,6 @@ msgstr ""
 msgid "OPTVAL_OPENGLES"
 msgstr ""
 
-# Miscellaneous Options
-msgid "nan"
-msgstr ""
-
 msgid "MISCMNU_MERGEKEYS"
 msgstr "左と右のALT/CTRL/SHIFTキーを統合"
 
@@ -1595,10 +1543,6 @@ msgstr "強調"
 
 msgid "OPTMNU_LANGUAGE"
 msgstr "言語設定"
-
-# Reverb editor
-msgid "nan"
-msgstr ""
 
 msgid "TXT_UNDOCHANGES"
 msgstr "変更を戻す"
@@ -1752,10 +1696,6 @@ msgstr "ファイル名"
 msgid "REVMNU_Environments_to_save"
 msgstr "音響を保存"
 
-# Vulkan
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_VKOPT"
 msgstr "Vulkan機能オプション(実験的)"
 
@@ -1781,10 +1721,6 @@ msgstr "これらのオプションを有効にするには再起動が必要で
 msgid "VKMNU_DEVICESELECT"
 msgstr "Vulkanデバイスの選択"
 
-# Texture scaling
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_SCALENX"
 msgstr ""
 
@@ -1803,10 +1739,6 @@ msgstr ""
 msgid "OPTVAL_OLD_NXBRZ"
 msgstr "旧xBRZ"
 
-# Option Search
-msgid "nan"
-msgstr ""
-
 msgid "OS_TITLE"
 msgstr "オプション検索"
 
@@ -1821,10 +1753,6 @@ msgstr "見つかりませんでした。"
 
 msgid "OS_LABEL"
 msgstr "検索:"
-
-# Blood Bath Announcer
-msgid "nan"
-msgstr ""
 
 msgid "TXT_OBITUARY1"
 msgstr "%k は %o の骨を魚のように引っこ抜いた。"
@@ -1966,10 +1894,6 @@ msgstr "セーブしたゲーム参照"
 msgid "MOUSEMNU_SWAPBUTTONS"
 msgstr "マウスボタンを反転"
 
-# Additional menu texts
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_ONLYMODIFIED"
 msgstr "モディファイのみ"
 
@@ -2011,10 +1935,6 @@ msgstr "アピアランス"
 
 msgid "DSPLYMNU_ADVANCED"
 msgstr "高度なディスプレイオプション"
-
-# IWAD/Game picker
-msgid "nan"
-msgstr ""
 
 msgid "PICKER_SELECT"
 msgstr "実行するゲームファイルを選択します。"
@@ -2071,10 +1991,6 @@ msgstr "このコントローラーを有効にする"
 
 msgid "CNTRLMNU_OPEN_MAIN"
 msgstr "メインメニューを開く"
-
-# New content
-msgid "nan"
-msgstr ""
 
 msgid "MODMNU_REPLAYER"
 msgstr "モジュール リプレイヤー"

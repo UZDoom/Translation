@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: sv\n"
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "PRESSYN"
 msgstr "Tryck på Y eller N."
 
@@ -56,10 +52,6 @@ msgid "TXT_QUITENDOOM"
 msgstr ""
 "Tryck på någon tangent eller klicka någonstans i fönstret för att avsluta."
 
-# Savegame
-msgid "nan"
-msgstr ""
-
 msgid "NEWSAVE"
 msgstr "<Nytt sparat spel>"
 
@@ -86,10 +78,6 @@ msgstr "Inga filer"
 
 msgid "MNU_DELETESG"
 msgstr "Vill du verkligen radera sparfilen?"
-
-# General
-msgid "nan"
-msgstr ""
 
 msgid "OPTVAL_OFF"
 msgstr "Av"
@@ -153,10 +141,6 @@ msgstr "Nätverksalternativ"
 
 msgid "OPTMNU_REVERB"
 msgstr "Redigerare för reverbmiljö"
-
-# Customize controls
-msgid "nan"
-msgstr ""
 
 msgid "CNTRLMNU_SWITCHTEXT1"
 msgstr "ENTER för att ändra, BACKSPACE för att radera"
@@ -412,10 +396,6 @@ msgstr "Avsluta spelet"
 msgid "CNTRLMNU_ADJUST_GAMMA"
 msgstr "Justera Gamma"
 
-# Mouse
-msgid "nan"
-msgstr ""
-
 msgid "MOUSEMNU_ENABLEMOUSE"
 msgstr "Aktivera musen"
 
@@ -481,10 +461,6 @@ msgstr "Systemmarkör"
 
 msgid "OPTVAL_DEFAULT"
 msgstr "Standard"
-
-# Controller
-msgid "nan"
-msgstr ""
 
 msgid "JOYMNU_TITLE"
 msgstr "Konfigurera kontroller"
@@ -561,10 +537,6 @@ msgstr "Inverterad"
 
 msgid "OPTVAL_NOTINVERTED"
 msgstr "Inte inverterad"
-
-# Player Menu
-msgid "nan"
-msgstr ""
 
 msgid "TXT_COLOR_BLUE"
 msgstr "Blå"
@@ -665,10 +637,6 @@ msgstr "automatiskt sikte"
 msgid "PLYRMNU_ALWAYSRUN"
 msgstr "Alltid springa"
 
-# Display
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_SCREENSIZE"
 msgstr "Skärmstorlek"
 
@@ -708,10 +676,6 @@ msgstr "Pulserande meddelande Visning"
 msgid "MSGMNU_MESSAGESCALE"
 msgstr "Meddelandeskala"
 
-# Automap
-msgid "nan"
-msgstr ""
-
 msgid "MNU_COLORPICKER"
 msgstr "Välj färg"
 
@@ -732,10 +696,6 @@ msgstr "Anpassa kartans färger"
 
 msgid "MAPCOLORMNU_DEFAULTMAPCOLORS"
 msgstr "Återställ anpassade standardfärger"
-
-# Sound
-msgid "nan"
-msgstr ""
 
 msgid "SNDMNU_SNDENABLED"
 msgstr "Ljud aktiverat"
@@ -1231,10 +1191,6 @@ msgstr ""
 msgid "OPTVAL_1024K"
 msgstr ""
 
-# Postprocessing
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_UNCHARTED2"
 msgstr ""
 
@@ -1323,10 +1279,6 @@ msgid "OPTVAL_RADIAL"
 msgstr ""
 
 msgid "OPTVAL_STANDARD"
-msgstr ""
-
-# Texture options
-msgid "nan"
 msgstr ""
 
 msgid "GLTEXMNU_TEXFILTER"
@@ -1527,10 +1479,6 @@ msgstr ""
 msgid "OPTVAL_OPENGLES"
 msgstr ""
 
-# Miscellaneous Options
-msgid "nan"
-msgstr ""
-
 msgid "MISCMNU_MERGEKEYS"
 msgstr "Sammanfoga vänster+höger Alt/Ctrl/Shift"
 
@@ -1585,10 +1533,6 @@ msgstr "Förbättrad"
 
 msgid "OPTMNU_LANGUAGE"
 msgstr "Språk"
-
-# Reverb editor
-msgid "nan"
-msgstr ""
 
 msgid "TXT_UNDOCHANGES"
 msgstr "Ångra ändringar"
@@ -1742,10 +1686,6 @@ msgstr "Filnamn"
 msgid "REVMNU_Environments_to_save"
 msgstr "Miljöer som ska sparas"
 
-# Vulkan
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_VKOPT"
 msgstr "Vulkan-alternativ (experimentellt)"
 
@@ -1771,10 +1711,6 @@ msgstr "De här alternativen kräver en omstart för att få effekt."
 msgid "VKMNU_DEVICESELECT"
 msgstr "Välj Vulkan-enhet"
 
-# Texture scaling
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_SCALENX"
 msgstr ""
 
@@ -1793,10 +1729,6 @@ msgstr ""
 msgid "OPTVAL_OLD_NXBRZ"
 msgstr "Gamla xBRZ"
 
-# Option Search
-msgid "nan"
-msgstr ""
-
 msgid "OS_TITLE"
 msgstr "Sökning av alternativ"
 
@@ -1811,10 +1743,6 @@ msgstr "Inga resultat hittades."
 
 msgid "OS_LABEL"
 msgstr "Sök:"
-
-# Blood Bath Announcer
-msgid "nan"
-msgstr ""
 
 msgid "TXT_OBITUARY1"
 msgstr "%k benade %o som en fisk"
@@ -1956,10 +1884,6 @@ msgstr "Bläddra bland sparade spel"
 msgid "MOUSEMNU_SWAPBUTTONS"
 msgstr "Byta musknappar"
 
-# Additional menu texts
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_ONLYMODIFIED"
 msgstr "Endast ändrat"
 
@@ -2001,10 +1925,6 @@ msgstr "Utseende"
 
 msgid "DSPLYMNU_ADVANCED"
 msgstr "Avancerade visningsalternativ"
-
-# IWAD/Game picker
-msgid "nan"
-msgstr ""
 
 msgid "PICKER_SELECT"
 msgstr "Välj vilket spel du vill spela"
@@ -2061,10 +1981,6 @@ msgstr "Aktivera denna styrenhet"
 
 msgid "CNTRLMNU_OPEN_MAIN"
 msgstr "Öppna huvudmenyn"
-
-# New content
-msgid "nan"
-msgstr ""
 
 msgid "MODMNU_REPLAYER"
 msgstr "Modulåterspelare"

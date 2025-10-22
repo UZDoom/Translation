@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: nl\n"
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "PRESSKEY"
 msgstr "Druk op een toets."
 
@@ -87,10 +83,6 @@ msgstr "Alleen beschikbaar in de geregistreerde versie"
 
 msgid "DOSY"
 msgstr "(Druk op Y om te stoppen)"
-
-# Quit messages
-msgid "nan"
-msgstr ""
 
 msgid "QUITMSG1"
 msgstr "Ga alsjeblieft niet weg, er zijn meer demonen te roosteren!"
@@ -185,16 +177,8 @@ msgstr "Laat de Intergalactische Federatie van Granen niet in de steek!"
 msgid "QUITMSG29"
 msgstr "De echte Chex(R) Krijger zou niet zo snel opgeven!"
 
-# Pickups
-msgid "nan"
-msgstr ""
-
 msgid "TXT_DEFAULTPICKUPMSG"
 msgstr "Je hebt iets opgepakt..."
-
-# Locks
-msgid "nan"
-msgstr ""
 
 msgid "PD_ANY"
 msgstr "Elke sleutel zal deze deur openen"
@@ -217,10 +201,6 @@ msgstr "Je hebt alle zes de sleutels nodig om dit object te activeren"
 msgid "PD_ALLKEYS"
 msgstr "Je hebt alle sleutels nodig"
 
-# Chat
-msgid "nan"
-msgstr ""
-
 msgid "HUSTR_MSGU"
 msgstr "[Bericht niet verzonden]"
 
@@ -241,10 +221,6 @@ msgstr "Je bent het kwijt"
 
 msgid "HUSTR_MESSAGESENT"
 msgstr "[Bericht verzonden]"
-
-# Cheats
-msgid "nan"
-msgstr ""
 
 msgid "STSTR_MUS"
 msgstr "Muziek veranderen"
@@ -423,10 +399,6 @@ msgstr "Wat wil je buiten een spel om doden?"
 msgid "TXT_NOT_FROZEN"
 msgstr "Eigenschappen van de bevroren speler uitgeschakeld"
 
-# Automap
-msgid "nan"
-msgstr ""
-
 msgid "AMSTR_FOLLOWOFF"
 msgstr "Volgmodus UIT"
 
@@ -450,10 +422,6 @@ msgstr "Gemarkeerde plek"
 
 msgid "AMSTR_MARKSCLEARED"
 msgstr "Alle markingen gewist"
-
-# Multiplayer
-msgid "nan"
-msgstr ""
 
 msgid "TXT_FRAGLIMIT"
 msgstr "Fraglimiet bereikt."
@@ -494,10 +462,6 @@ msgstr ""
 msgid "MULTI5"
 msgstr ""
 
-# Scoreboard
-msgid "nan"
-msgstr ""
-
 msgid "SCORE_BONUS"
 msgstr "Bonus"
 
@@ -531,10 +495,6 @@ msgstr "Totaal"
 msgid "SCORE_LVLTIME"
 msgstr "Leveltijd"
 
-# Level Summary
-msgid "nan"
-msgstr ""
-
 msgid "TXT_IMKILLS"
 msgstr "Dood"
 
@@ -559,10 +519,6 @@ msgstr "Volgende"
 msgid "WI_ENTERING"
 msgstr "Volgende:"
 
-# HUD
-msgid "nan"
-msgstr ""
-
 msgid "AM_MONSTERS"
 msgstr ""
 
@@ -570,10 +526,6 @@ msgid "AM_SECRETS"
 msgstr "Geheimen:"
 
 msgid "AM_ITEMS"
-msgstr ""
-
-# Obituaries
-msgid "nan"
 msgstr ""
 
 msgid "OB_SUICIDE"
@@ -639,10 +591,6 @@ msgstr "%k doet een frag voor het andere team."
 
 msgid "OB_FRIENDLY4"
 msgstr "%k verliest nog een vriend."
-
-# Pickup
-msgid "nan"
-msgstr ""
 
 msgid "GOTARMOR"
 msgstr "Je hebt het harnas opgepakt."
@@ -770,10 +718,6 @@ msgstr "Je hebt een kwaadaardige scepter opgepakt."
 msgid "BETA_BONUS4"
 msgstr "Je hebt een onheilige bijbel opgepakt."
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "PD_BLUEO"
 msgstr "Je hebt een blauwe sleutel nodig om dit object te activeren."
 
@@ -828,10 +772,6 @@ msgstr "Je hebt een rode schedel nodig om deze deur te openen."
 msgid "PD_YELLOWS"
 msgstr "Je hebt een gele schedel nodig om deze deur te openen."
 
-# Cast call names
-msgid "nan"
-msgstr ""
-
 msgid "CC_ZOMBIE"
 msgstr "Zombie"
 
@@ -884,10 +824,6 @@ msgstr "Het Cyberdemoon"
 
 msgid "CC_HERO"
 msgstr "Onze held"
-
-# Actor tag names
-msgid "nan"
-msgstr ""
 
 msgid "FN_SHOTGUN"
 msgstr ""
@@ -948,10 +884,6 @@ msgstr "Raketten"
 
 msgid "AMMO_CELLS"
 msgstr "Energiecellen"
-
-# Obituaries
-msgid "nan"
-msgstr ""
 
 msgid "OB_STEALTHBABY"
 msgstr "%o dacht dat @[hij_ze_nl] een arachnotron zag."
@@ -1097,14 +1029,6 @@ msgstr "%o werd gespaakt door %k."
 msgid "OB_MPBFG_MBF"
 msgstr "%o werd verbrand door %k's BFG."
 
-# Heretic
-msgid "nan"
-msgstr ""
-
-# Pickup 
-msgid "nan"
-msgstr ""
-
 msgid "TXT_GOTBLUEKEY"
 msgstr "Blauwe sleutel"
 
@@ -1216,10 +1140,6 @@ msgstr "Feniksstaf"
 msgid "TXT_WPNGAUNTLETS"
 msgstr "Handschoenen van de Geestenbezweerder"
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NEEDBLUEKEY"
 msgstr "Je hebt een blauwe sleutel nodig om deze deur te openen"
 
@@ -1228,10 +1148,6 @@ msgstr "Je hebt een groene sleutel nodig om deze deur te openen"
 
 msgid "TXT_NEEDYELLOWKEY"
 msgstr "Je hebt een gele sleutel nodig om deze deur te openen"
-
-# Actor tag names
-msgid "nan"
-msgstr ""
 
 msgid "FN_CHICKEN"
 msgstr "Kip"
@@ -1294,10 +1210,6 @@ msgstr "Staf"
 
 msgid "TAG_GOLDWAND"
 msgstr "Elvenstokje"
-
-# Obituaries
-msgid "nan"
-msgstr ""
 
 msgid "OB_CHICKEN"
 msgstr "%o werd doodgepikt."
@@ -1406,14 +1318,6 @@ msgstr "%o werd afgebrand door %k's feniksstaf."
 
 msgid "OB_MPPMACE"
 msgstr "%o werd verpletterd door %k's reusachtige strijdknots."
-
-# Hexen
-msgid "nan"
-msgstr ""
-
-# Pickup
-msgid "nan"
-msgstr ""
 
 msgid "TXT_MANA_1"
 msgstr "Blauwe Mana"
@@ -1583,10 +1487,6 @@ msgstr "Segment van Schimroede"
 msgid "TXT_BLOODSCOURGE_PIECE"
 msgstr "Segment van Bloedgesel"
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NEED_KEY_STEEL"
 msgstr "Je hebt de Stalen Sleutel nodig."
 
@@ -1619,10 +1519,6 @@ msgstr "Je hebt de Moerassleutel nodig."
 
 msgid "TXT_NEED_KEY_CASTLE"
 msgstr "Je hebt de Kasteelsleutel nodig."
-
-# Actor tag names
-msgid "nan"
-msgstr ""
 
 msgid "FN_FIREDEMON"
 msgstr "Afriet"
@@ -1801,10 +1697,6 @@ msgstr "Messing en ijzeren uitrusting"
 msgid "TAG_ARTIPUZZGEAR4"
 msgstr "Zilveren en messing uitrusting"
 
-# Obituaries
-msgid "nan"
-msgstr ""
-
 msgid "OB_FIREDEMON"
 msgstr "%o proefde het vuur van een Afriet."
 
@@ -1904,14 +1796,6 @@ msgstr "%o kreeg een schokkende openbaring van %k."
 msgid "OB_MPMWEAPBLOODSCOURGE"
 msgstr ""
 "%o werd van het gezicht van het universum geveegd door %k's Bloedgesel."
-
-# Strife
-msgid "nan"
-msgstr ""
-
-# Pickups
-msgid "nan"
-msgstr ""
 
 msgid "TXT_METALARMOR"
 msgstr "Je hebt het metalen harnas opgepakt."
@@ -2141,10 +2025,6 @@ msgstr "Het moet iets doen...."
 msgid "MSG_TALISMANPOWER"
 msgstr "Je hebt superkracht!"
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NEEDKEY"
 msgstr "Je hebt de sleutel niet."
 
@@ -2195,10 +2075,6 @@ msgstr "Je hebt de beker nodig!"
 
 msgid "TXT_NEED_OPASS"
 msgstr "Je hebt de Orakelpas nodig!"
-
-# Actor tags
-msgid "nan"
-msgstr ""
 
 msgid "TAG_PUNCHDAGGER"
 msgstr "Dolk"
@@ -2503,10 +2379,6 @@ msgstr "Groene Talisman"
 msgid "TAG_TALISMANBLUE"
 msgstr "Blauwe Talisman"
 
-# Obituaries
-msgid "nan"
-msgstr ""
-
 msgid "OB_ACOLYTE"
 msgstr "%o werd gretig neergeschoten door een Acoliet."
 
@@ -2597,10 +2469,6 @@ msgstr "%o was door %k verdampt."
 msgid "OB_MPSIGIL"
 msgstr "%o boog voor de kracht van %k's Sigil."
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "TXT_STRIFE_EPI"
 msgstr "Zoektocht naar de Sigil"
 
@@ -2658,14 +2526,6 @@ msgstr "Zoek hulp"
 # As in for %u amount of money.
 msgid "TXT_TRADE"
 msgstr "voor %u"
-
-# Chex Quest
-msgid "nan"
-msgstr ""
-
-# Pickups
-msgid "nan"
-msgstr ""
 
 msgid "GOTCHEXARMOR"
 msgstr "Je hebt het Chex(R) harnas opgepakt."
@@ -2757,10 +2617,6 @@ msgstr "Je hebt de Megazorcher!"
 msgid "GOTMINIZORCHER"
 msgstr "Je hebt een minizorcher opgepakt."
 
-# Actor tags
-msgid "nan"
-msgstr ""
-
 msgid "TAG_SPOON"
 msgstr "Lepel"
 
@@ -2832,10 +2688,6 @@ msgstr "%o viel ten prooi aan %k's LAZ apparaat."
 
 msgid "OB_MPBFG_SPLASH"
 msgstr "%o werd gelazed door %k."
-
-# Miscellaneous
-msgid "nan"
-msgstr ""
 
 msgid "CHUSTR_E1M1"
 msgstr "E1M1: Landingszone"
@@ -2964,14 +2816,6 @@ msgstr "Propulsorlading"
 
 msgid "AMMO_CELLS"
 msgstr "Fasezorcherlading"
-
-# Menus
-msgid "nan"
-msgstr ""
-
-# Main Menus
-msgid "nan"
-msgstr ""
 
 msgid "MNU_NEWGAME"
 msgstr "Nieuw spel"
@@ -3132,10 +2976,6 @@ msgstr "Het Ossuarium"
 
 msgid "MNU_DEMESNE"
 msgstr "Het stagnerende rijk"
-
-# Gameplay menus
-msgid "nan"
-msgstr ""
 
 msgid "GMPLYMNU_TEAMPLAY"
 msgstr ""
@@ -3464,10 +3304,6 @@ msgstr "Geen verticale stuwkracht van explosies"
 msgid "CMPTMNU_EXPLODE2"
 msgstr "Gebruik het originele Doom explosiegedrag"
 
-# player
-msgid "nan"
-msgstr ""
-
 msgid "PLYRMNU_RED"
 msgstr "Rood"
 
@@ -3497,10 +3333,6 @@ msgstr "om terug te kijken"
 
 msgid "PLYRMNU_VERTSPREAD"
 msgstr "Verticale kogelspreiding"
-
-# controls
-msgid "nan"
-msgstr ""
 
 msgid "CNTRLMNU_ZOOM"
 msgstr "Wapen Zoom"
@@ -3570,10 +3402,6 @@ msgstr "Automatisch centraliseren"
 
 msgid "MOUSEMNU_LOOKSTRAFE"
 msgstr "Zijwaartse muisbeweging"
-
-# Map colors
-msgid "nan"
-msgstr ""
 
 msgid "MAPCOLORMNU_BACKCOLOR"
 msgstr "Achtergrond"
@@ -3656,10 +3484,6 @@ msgstr "Overlaadmodus Cheats"
 msgid "MAPCOLORMNU_PORTAL"
 msgstr "Portaaloverlays"
 
-# Messages
-msgid "nan"
-msgstr ""
-
 msgid "MSGMNU_TITLE"
 msgstr "Berichten"
 
@@ -3704,10 +3528,6 @@ msgstr "Gedetailleerde berichten voor op te slaan"
 
 msgid "MSGMNU_DEVELOPER"
 msgstr "Berichtenmodus voor ontwikkelaars"
-
-# Automap
-msgid "nan"
-msgstr ""
 
 msgid "AUTOMAPMNU_COLORSET"
 msgstr "Kaartkleurenset"
@@ -3778,10 +3598,6 @@ msgstr "Markering instellen"
 msgid "MAPCNTRLMNU_CLEARMARK"
 msgstr "Duidelijke markering"
 
-# Scoreboard
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_SCOREBOARD"
 msgstr "Scorebord opties"
 
@@ -3808,10 +3624,6 @@ msgstr "Deathmatch opties"
 
 msgid "SCRBRDMNU_TEAMDEATHMATCH"
 msgstr "Team Deathmatch Opties"
-
-# Alt HUD
-msgid "nan"
-msgstr ""
 
 msgid "ALTHUDMNU_TITLE"
 msgstr "Alternatieve HUD"
@@ -3903,10 +3715,6 @@ msgstr "Kleur statistiekennaam"
 msgid "ALTHUDMNU_STATSCOLOR"
 msgstr "Kleur statistieken"
 
-# Display (game related)
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_CAPFPS"
 msgstr "Interpolatie renderen"
 
@@ -3997,10 +3805,6 @@ msgstr "Bekijk bob bedrag terwijl je niet beweegt"
 msgid "DSPLYMNU_BOBSPEED"
 msgstr "Snelheid wapenzwaaieffect"
 
-# Scaling
-msgid "nan"
-msgstr ""
-
 msgid "SCALEMNU_TITLE"
 msgstr "Schaalopties"
 
@@ -4033,10 +3837,6 @@ msgstr "Schaalbaar tot volledig scherm"
 
 msgid "SCALEMNU_ADAPT"
 msgstr "Aanpassen aan de grootte van het scherm"
-
-# HUD
-msgid "nan"
-msgstr ""
 
 msgid "HUDMNU_TITLE"
 msgstr "HUD-opties"
@@ -4085,10 +3885,6 @@ msgstr "IWAD-selectiedialoogvenster weergeven"
 
 msgid "MISCMNU_ALLCHEATS"
 msgstr "Laat bedriegers van alle spellen toe"
-
-# Option Menus
-msgid "nan"
-msgstr ""
 
 msgid "MISCMNU_ENABLESCRIPTSCREENSHOTS"
 msgstr "Screenshots maken met behulp van scripts"
@@ -4764,10 +4560,6 @@ msgstr "Zoeken:"
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Toon altijd de toetsen"
 
-# Newly added content
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NO_TEAM_CHANGE"
 msgstr "Teamwisseling is uitgeschakeld!"
 
@@ -5267,11 +5059,6 @@ msgstr ""
 msgid "PAUSE_STRING"
 msgstr ""
 
-# New Doom item Tags for GZDoom 5.0. The names used here are taken from the
-# Doom manual (Doomwiki was referenced)
-msgid "nan"
-msgstr ""
-
 msgid "TAG_BACKPACK"
 msgstr ""
 
@@ -5333,10 +5120,6 @@ msgid "TAG_YELLOWSKULL"
 msgstr ""
 
 msgid "TAG_REDSKULL"
-msgstr ""
-
-# Chex Quest item tags
-msgid "nan"
 msgstr ""
 
 msgid "TAG_GLASSOFWATER"

@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: fr\n"
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "PRESSYN"
 msgstr "Appuyez sur Y ou N."
 
@@ -64,10 +60,6 @@ msgstr "Parler:"
 msgid "TXT_QUITENDOOM"
 msgstr "Appuyez sur une touche ou cliquez pour quitter."
 
-# Savegame
-msgid "nan"
-msgstr ""
-
 msgid "NEWSAVE"
 msgstr "<Nouveau Fichier de Sauvegarde>"
 
@@ -94,10 +86,6 @@ msgstr "Pas de fichiers"
 
 msgid "MNU_DELETESG"
 msgstr "Voulez vous vraiment effacer cette sauvegarde?\n"
-
-# General
-msgid "nan"
-msgstr ""
 
 msgid "OPTVAL_OFF"
 msgstr ""
@@ -161,10 +149,6 @@ msgstr "Options Réseau"
 
 msgid "OPTMNU_REVERB"
 msgstr "Editeur environement de révérb."
-
-# Customize controls
-msgid "nan"
-msgstr ""
 
 msgid "CNTRLMNU_SWITCHTEXT1"
 msgstr "ENTREE pour changer, RET. ARRIERE pour effacer."
@@ -422,10 +406,6 @@ msgstr "Quitter le Jeu"
 msgid "CNTRLMNU_ADJUST_GAMMA"
 msgstr "Ajuster Gamma"
 
-# Mouse
-msgid "nan"
-msgstr ""
-
 msgid "MOUSEMNU_ENABLEMOUSE"
 msgstr "Activer Souris"
 
@@ -491,10 +471,6 @@ msgstr "Curseur Système"
 
 msgid "OPTVAL_DEFAULT"
 msgstr "Défaut"
-
-# Controller
-msgid "nan"
-msgstr ""
 
 msgid "JOYMNU_TITLE"
 msgstr "Configurer Mannette"
@@ -571,10 +547,6 @@ msgstr "Inversé"
 
 msgid "OPTVAL_NOTINVERTED"
 msgstr "Non Inversé"
-
-# Player Menu
-msgid "nan"
-msgstr ""
 
 msgid "TXT_COLOR_BLUE"
 msgstr "Bleu"
@@ -675,10 +647,6 @@ msgstr "Auto-visée"
 msgid "PLYRMNU_ALWAYSRUN"
 msgstr "Toujours courir"
 
-# Display
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_SCREENSIZE"
 msgstr "Taille de l'écran"
 
@@ -718,10 +686,6 @@ msgstr "Messages pulsés"
 msgid "MSGMNU_MESSAGESCALE"
 msgstr "Mise à l'échelle Messages"
 
-# Automap
-msgid "nan"
-msgstr ""
-
 msgid "MNU_COLORPICKER"
 msgstr "Choisir Couleur"
 
@@ -742,10 +706,6 @@ msgstr "Couleurs Carte Personnalisées"
 
 msgid "MAPCOLORMNU_DEFAULTMAPCOLORS"
 msgstr "Couleurs par défaut"
-
-# Sound
-msgid "nan"
-msgstr ""
 
 msgid "SNDMNU_SNDENABLED"
 msgstr "Son activé"
@@ -1241,10 +1201,6 @@ msgstr ""
 msgid "OPTVAL_1024K"
 msgstr ""
 
-# Postprocessing
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_UNCHARTED2"
 msgstr ""
 
@@ -1333,10 +1289,6 @@ msgid "OPTVAL_RADIAL"
 msgstr ""
 
 msgid "OPTVAL_STANDARD"
-msgstr ""
-
-# Texture options
-msgid "nan"
 msgstr ""
 
 msgid "GLTEXMNU_TEXFILTER"
@@ -1537,10 +1489,6 @@ msgstr ""
 msgid "OPTVAL_OPENGLES"
 msgstr ""
 
-# Miscellaneous Options
-msgid "nan"
-msgstr ""
-
 msgid "MISCMNU_MERGEKEYS"
 msgstr "Combiner Alt/Ctrl/maj gauche & droite"
 
@@ -1595,10 +1543,6 @@ msgstr "Amélioré"
 
 msgid "OPTMNU_LANGUAGE"
 msgstr "Langage"
-
-# Reverb editor
-msgid "nan"
-msgstr ""
 
 msgid "TXT_UNDOCHANGES"
 msgstr "Révoquer les changements"
@@ -1752,10 +1696,6 @@ msgstr "Nom de fichier"
 msgid "REVMNU_Environments_to_save"
 msgstr "Environnements à sauvegarder"
 
-# Vulkan
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_VKOPT"
 msgstr "Options Vulkan (Expérimental)"
 
@@ -1781,10 +1721,6 @@ msgstr "Ces options nécessitent un redémarrage."
 msgid "VKMNU_DEVICESELECT"
 msgstr "Sélectionner périphérique Vulkan"
 
-# Texture scaling
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_SCALENX"
 msgstr ""
 
@@ -1803,10 +1739,6 @@ msgstr ""
 msgid "OPTVAL_OLD_NXBRZ"
 msgstr "Ancien xBRZ"
 
-# Option Search
-msgid "nan"
-msgstr ""
-
 msgid "OS_TITLE"
 msgstr "Recherche Option"
 
@@ -1821,10 +1753,6 @@ msgstr "Pas de résultat trouvé"
 
 msgid "OS_LABEL"
 msgstr "Recherche:"
-
-# Blood Bath Announcer
-msgid "nan"
-msgstr ""
 
 msgid "TXT_OBITUARY1"
 msgstr "%k a désossé %o comme un poisson"
@@ -1966,10 +1894,6 @@ msgstr "Parcourir sauvegardes"
 msgid "MOUSEMNU_SWAPBUTTONS"
 msgstr "Permuter les boutons de la souris"
 
-# Additional menu texts
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_ONLYMODIFIED"
 msgstr "Modifié seulement"
 
@@ -2011,10 +1935,6 @@ msgstr "Apparence"
 
 msgid "DSPLYMNU_ADVANCED"
 msgstr "Options d'affichage avancées"
-
-# IWAD/Game picker
-msgid "nan"
-msgstr ""
 
 msgid "PICKER_SELECT"
 msgstr "Sélectionner le jeu à jouer"
@@ -2071,10 +1991,6 @@ msgstr "Activer ce contrôleur"
 
 msgid "CNTRLMNU_OPEN_MAIN"
 msgstr "Ouvrir le menu principal"
-
-# New content
-msgid "nan"
-msgstr ""
 
 msgid "MODMNU_REPLAYER"
 msgstr "Lecteur de module"

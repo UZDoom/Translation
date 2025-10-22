@@ -382,9 +382,6 @@ msgstr ""
 "\n"
 "Je... bent alleen."
 
-msgid "nan"
-msgstr ""
-
 msgid "TXT_HACXMAP01"
 msgstr ""
 

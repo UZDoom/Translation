@@ -234,11 +234,6 @@ msgstr "チェックスシティーのきょうふ"
 msgid "M_EPI3"
 msgstr "しんにゅう!"
 
-# Note: chex3.wad currently does not have Tag properties defined for the
-# following! Added for completeness' sake (or for mods to utilize)
-msgid "nan"
-msgstr ""
-
 msgid "TAG_GOGGLES"
 msgstr "ウルトラゴーグル"
 

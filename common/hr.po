@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: hr\n"
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "PRESSYN"
 msgstr "Pritisni Y ili N."
 
@@ -64,10 +60,6 @@ msgstr "Reci:"
 msgid "TXT_QUITENDOOM"
 msgstr "Pritisni bilo koju tipku ili klikni bilo gdje na prozoru da izađeš."
 
-# Savegame
-msgid "nan"
-msgstr ""
-
 msgid "NEWSAVE"
 msgstr "<Nova spremljena igra>"
 
@@ -94,10 +86,6 @@ msgstr "Nema datoteka"
 
 msgid "MNU_DELETESG"
 msgstr "Želiš li stvarno obrisati ovu spremljenu igru?"
-
-# General
-msgid "nan"
-msgstr ""
 
 msgid "OPTVAL_OFF"
 msgstr "Isklj."
@@ -161,10 +149,6 @@ msgstr "Postavke mreže"
 
 msgid "OPTMNU_REVERB"
 msgstr "Uređivač odjekivanja okoliša"
-
-# Customize controls
-msgid "nan"
-msgstr ""
 
 msgid "CNTRLMNU_SWITCHTEXT1"
 msgstr "ENTER za promjenu, BACKSPACE za čišćenje"
@@ -420,10 +404,6 @@ msgstr "Izađi iz igre"
 msgid "CNTRLMNU_ADJUST_GAMMA"
 msgstr "Prilagodi gamu"
 
-# Mouse
-msgid "nan"
-msgstr ""
-
 msgid "MOUSEMNU_ENABLEMOUSE"
 msgstr "Omogući miš"
 
@@ -489,10 +469,6 @@ msgstr "Pokazivač sustava"
 
 msgid "OPTVAL_DEFAULT"
 msgstr "Zadano"
-
-# Controller
-msgid "nan"
-msgstr ""
 
 msgid "JOYMNU_TITLE"
 msgstr "Konfiguriraj kontroler"
@@ -569,10 +545,6 @@ msgstr "Obrnuto"
 
 msgid "OPTVAL_NOTINVERTED"
 msgstr "Nije obrnuto"
-
-# Player Menu
-msgid "nan"
-msgstr ""
 
 msgid "TXT_COLOR_BLUE"
 msgstr "Plava"
@@ -673,10 +645,6 @@ msgstr "Autociljanje"
 msgid "PLYRMNU_ALWAYSRUN"
 msgstr "Uvijek trčiš"
 
-# Display
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_SCREENSIZE"
 msgstr "Veličina zaslona"
 
@@ -716,10 +684,6 @@ msgstr "Prikaz pulsirajućih poruka"
 msgid "MSGMNU_MESSAGESCALE"
 msgstr "Skaliraj poruka"
 
-# Automap
-msgid "nan"
-msgstr ""
-
 msgid "MNU_COLORPICKER"
 msgstr "Odaberi boju"
 
@@ -740,10 +704,6 @@ msgstr "Prilagodi boje mape"
 
 msgid "MAPCOLORMNU_DEFAULTMAPCOLORS"
 msgstr "Vrati prilagođene boje na zadane"
-
-# Sound
-msgid "nan"
-msgstr ""
 
 msgid "SNDMNU_SNDENABLED"
 msgstr "Zvuk omogućen"
@@ -1239,10 +1199,6 @@ msgstr ""
 msgid "OPTVAL_1024K"
 msgstr ""
 
-# Postprocessing
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_UNCHARTED2"
 msgstr ""
 
@@ -1332,10 +1288,6 @@ msgstr "Radijalno"
 
 msgid "OPTVAL_STANDARD"
 msgstr "Standardno"
-
-# Texture options
-msgid "nan"
-msgstr ""
 
 msgid "GLTEXMNU_TEXFILTER"
 msgstr "Način filtera tekstura"
@@ -1535,10 +1487,6 @@ msgstr ""
 msgid "OPTVAL_OPENGLES"
 msgstr ""
 
-# Miscellaneous Options
-msgid "nan"
-msgstr ""
-
 msgid "MISCMNU_MERGEKEYS"
 msgstr "Spoji lijevo+desno Alt/Ctrl/Shift"
 
@@ -1593,10 +1541,6 @@ msgstr "Poboljšano"
 
 msgid "OPTMNU_LANGUAGE"
 msgstr "Jezik"
-
-# Reverb editor
-msgid "nan"
-msgstr ""
 
 msgid "TXT_UNDOCHANGES"
 msgstr "Poništi promjene"
@@ -1750,10 +1694,6 @@ msgstr "Naziv datoteke"
 msgid "REVMNU_Environments_to_save"
 msgstr "Okoliši za spremiti"
 
-# Vulkan
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_VKOPT"
 msgstr "Postavke Vulkana (eksperimentalno)"
 
@@ -1780,10 +1720,6 @@ msgstr ""
 msgid "VKMNU_DEVICESELECT"
 msgstr "Odaberi uređaj Vulkana"
 
-# Texture scaling
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_SCALENX"
 msgstr ""
 
@@ -1802,10 +1738,6 @@ msgstr ""
 msgid "OPTVAL_OLD_NXBRZ"
 msgstr "Stari xBRZ"
 
-# Option Search
-msgid "nan"
-msgstr ""
-
 msgid "OS_TITLE"
 msgstr "Traženje postavke"
 
@@ -1820,10 +1752,6 @@ msgstr "Nema rezultata."
 
 msgid "OS_LABEL"
 msgstr "Traži:"
-
-# Blood Bath Announcer
-msgid "nan"
-msgstr ""
 
 msgid "TXT_OBITUARY1"
 msgstr "%k otkošćuje %o kao ribu"
@@ -1965,10 +1893,6 @@ msgstr "Pregledaj spremljene igre"
 msgid "MOUSEMNU_SWAPBUTTONS"
 msgstr "Zamijeni tipke miša"
 
-# Additional menu texts
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_ONLYMODIFIED"
 msgstr "Samo modificirano"
 
@@ -2010,10 +1934,6 @@ msgstr "Izgled"
 
 msgid "DSPLYMNU_ADVANCED"
 msgstr "Napredne postavke zaslona"
-
-# IWAD/Game picker
-msgid "nan"
-msgstr ""
 
 msgid "PICKER_SELECT"
 msgstr "Odaberi koju igru želiš pokrenuti."
@@ -2070,10 +1990,6 @@ msgstr "Omogući ovaj kontroler"
 
 msgid "CNTRLMNU_OPEN_MAIN"
 msgstr "Otvori glavni izbornik"
-
-# New content
-msgid "nan"
-msgstr ""
 
 msgid "MODMNU_REPLAYER"
 msgstr "Ponavljač modula"

@@ -383,9 +383,6 @@ msgstr ""
 "\n"
 "Sinä... olet yksin."
 
-msgid "nan"
-msgstr ""
-
 msgid "TXT_HACXMAP01"
 msgstr "GenEmp-yhtiö"
 

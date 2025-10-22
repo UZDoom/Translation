@@ -398,9 +398,6 @@ msgstr ""
 "\n"
 "Vi... estas sola."
 
-msgid "nan"
-msgstr ""
-
 msgid "TXT_HACXMAP01"
 msgstr "Korporacio GenEmp"
 

@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: ro\n"
 
-# Doom Episode names
-msgid "nan"
-msgstr ""
-
 msgid "TXT_D1E1"
 msgstr "Îngropat printre Cadavre"
 
@@ -40,14 +36,6 @@ msgid "TXT_TNT_EP"
 msgstr "TNT: Diavoluția"
 
 msgid "TXT_CHEX_EP"
-msgstr ""
-
-# Level names
-msgid "nan"
-msgstr ""
-
-# Doom 1
-msgid "nan"
 msgstr ""
 
 msgid "HUSTR_E1M1"
@@ -172,10 +160,6 @@ msgstr "E4M8: Unuia Fără de Milă"
 msgid "HUSTR_E4M9"
 msgstr "E4M9: Frica"
 
-# Doom 2
-msgid "nan"
-msgstr ""
-
 # Note that the "LEVEL" part of the string will be stripped so it shouldn't be
 # translated
 msgid "HUSTR_1"
@@ -287,10 +271,6 @@ msgstr "Nivelul 32: Keen"
 msgid "HUSTR_33"
 msgstr "Nivelul 33: Trădare"
 
-# No Rest For The Living
-msgid "nan"
-msgstr ""
-
 msgid "NHUSTR_1"
 msgstr "Nivelul 1: Baza terestră"
 
@@ -317,10 +297,6 @@ msgstr "Nivelul 8: Mormântul răutății"
 
 msgid "NHUSTR_9"
 msgstr "Nivelul 9: Marșul demonilor"
-
-# Plutonia
-msgid "nan"
-msgstr ""
 
 msgid "PHUSTR_1"
 msgstr "Nivelul 1: Congo"
@@ -420,10 +396,6 @@ msgstr "Nivelul 31: Cibervizuină"
 msgid "PHUSTR_32"
 msgstr "Nivelul 32: Du-te la ei"
 
-# TNT: Evilution
-msgid "nan"
-msgstr ""
-
 msgid "THUSTR_1"
 msgstr "Nivelul 1: Control sisteme"
 
@@ -520,10 +492,6 @@ msgstr "Nivelul 31: Faraon"
 
 msgid "THUSTR_32"
 msgstr "Nivelul 32: Caraibe"
-
-# Heretic
-msgid "nan"
-msgstr ""
 
 msgid "HHUSTR_E1M1"
 msgstr "Docul"
@@ -660,10 +628,6 @@ msgstr "Câmpul de Judecată"
 msgid "HHUSTR_E5M9"
 msgstr "Jurubița lui D'Sparil"
 
-# Strife
-msgid "nan"
-msgstr ""
-
 msgid "TXT_STRIFE_MAP01"
 msgstr "ZONA 1: Sanctuar"
 
@@ -778,10 +742,6 @@ msgstr "ZONA 37: Teren de Ucis"
 msgid "TXT_STRIFE_MAP38"
 msgstr "ZONA 38: Haos Controlat"
 
-# Hexen
-msgid "nan"
-msgstr ""
-
 msgid "TXT_HEXEN_MAP01"
 msgstr "Sala de Separare"
 
@@ -875,10 +835,6 @@ msgstr "Vivariu"
 msgid "TXT_HEXEN_MAP40"
 msgstr "Creuzetul Întunecat"
 
-# Hexen Deathkings
-msgid "nan"
-msgstr ""
-
 msgid "TXT_HEXDD_MAP41"
 msgstr "Sat ruinat"
 
@@ -956,10 +912,6 @@ msgstr "Groapă de Scurgere"
 
 msgid "TXT_HEXDD_MAP38"
 msgstr "Roza"
-
-# Intermission texts
-msgid "nan"
-msgstr ""
 
 # Doom Ep.1
 msgid "E1TEXT"
@@ -1542,10 +1494,6 @@ msgstr ""
 msgid "TXT_HEXDD_WIN3MSG"
 msgstr "\\n...și alți jucători așteaptă."
 
-# Hexen script texts
-msgid "nan"
-msgstr ""
-
 msgid "TXT_ACS_MAP01_5_THEDO"
 msgstr "Ușa e încuiată"
 
@@ -1684,10 +1632,6 @@ msgstr "Ești întradevăr suficient de puternic"
 
 msgid "TXT_ACS_MAP35_14_TOFAC"
 msgstr "Să îți înfrunți proprii stăpâni?"
-
-# Hexen: Deathkings script texts
-msgid "nan"
-msgstr ""
 
 msgid "TXT_ACS_MAP33_6_YOUDA"
 msgstr "Îndrăznești să lupți în camera de așteptare?"
@@ -1916,10 +1860,6 @@ msgstr "Calea către turn e deschisă"
 
 msgid "TXT_ACS_MAP60_3_THEWA"
 msgstr "Calea e deschisă"
-
-# Strife dialogue
-msgid "nan"
-msgstr ""
 
 # MAP01: Beldin.
 msgid "TXT_DLG_SCRIPT01_D0_IDONT"
@@ -6061,10 +6001,6 @@ msgstr "Ăsta e spiritul."
 msgid "TXT_DLG_SCRIPT34_D31836_WELCO"
 msgstr "Bun-venit prietene!"
 
-# Random dialogue
-msgid "nan"
-msgstr ""
-
 msgid "TXT_RANDOM_PEASANT_01"
 msgstr "Te rog nu mă răni."
 
@@ -6237,10 +6173,6 @@ msgstr "Merci, pa!"
 
 msgid "TXT_RANDOMGOODBYE_3"
 msgstr "Ne vedem mai încolo!"
-
-# Strife logs
-msgid "nan"
-msgstr ""
 
 # MAP33: After getting the hidden com unit in the tavern.
 msgid "TXT_ILOG1"
@@ -6793,10 +6725,6 @@ msgstr ""
 " arme și te vor pregătii pentru ceea ce urmează mai departe. Simte-te liber "
 "să te plimbi prin bază."
 
-# Strife characters
-msgid "nan"
-msgstr ""
-
 msgid "TXT_SPEAKER_ORDER_SERGEANT"
 msgstr "Sergent al Ordinului"
 
@@ -6989,10 +6917,6 @@ msgid "TXT_SPEAKER_BOWYER"
 msgstr ""
 
 msgid "TXT_SPEAKER_DERWIN"
-msgstr ""
-
-# Strife subtitles
-msgid "nan"
 msgstr ""
 
 # Menu's intro.
@@ -7847,10 +7771,6 @@ msgid "TXT_SUB_LOG237"
 msgstr ""
 "Speram ca eu să te aștept în spatele ușii... dar trebuie să rămân în "
 "subteran. E timpul să ne cunoști liderul, Macil."
-
-# Blackbird's remarks embedded in other conversations
-msgid "nan"
-msgstr ""
 
 # MAP02: Mourel.
 msgid "TXT_BBSUB_SCRIPT02_D57608_IFIKN"

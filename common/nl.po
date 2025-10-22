@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: nl\n"
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "PRESSYN"
 msgstr "Druk op Y of N."
 
@@ -65,10 +61,6 @@ msgid "TXT_QUITENDOOM"
 msgstr ""
 "Druk op een willekeurige toets of klik ergens in het venster om te stoppen."
 
-# Savegame
-msgid "nan"
-msgstr ""
-
 msgid "NEWSAVE"
 msgstr "<Nieuw sparen spel>"
 
@@ -95,10 +87,6 @@ msgstr "Geen bestanden"
 
 msgid "MNU_DELETESG"
 msgstr "Wil je echt de opgeslagen spel verwijderen?"
-
-# General
-msgid "nan"
-msgstr ""
 
 msgid "OPTVAL_OFF"
 msgstr "Uit"
@@ -162,10 +150,6 @@ msgstr "Netwerkopties"
 
 msgid "OPTMNU_REVERB"
 msgstr "Reverb-omgeving editor"
-
-# Customize controls
-msgid "nan"
-msgstr ""
 
 msgid "CNTRLMNU_SWITCHTEXT1"
 msgstr "ENTER om te veranderen, BACKSPACE om te wissen."
@@ -421,10 +405,6 @@ msgstr "Stop het spel"
 msgid "CNTRLMNU_ADJUST_GAMMA"
 msgstr "Gamma aanpassen"
 
-# Mouse
-msgid "nan"
-msgstr ""
-
 msgid "MOUSEMNU_ENABLEMOUSE"
 msgstr "Muis inschakelen"
 
@@ -490,10 +470,6 @@ msgstr "Systeemcursor"
 
 msgid "OPTVAL_DEFAULT"
 msgstr "Standaard"
-
-# Controller
-msgid "nan"
-msgstr ""
 
 msgid "JOYMNU_TITLE"
 msgstr "Controller configureren"
@@ -570,10 +546,6 @@ msgstr "Omgekeerd"
 
 msgid "OPTVAL_NOTINVERTED"
 msgstr "Niet omgekeerd"
-
-# Player Menu
-msgid "nan"
-msgstr ""
 
 msgid "TXT_COLOR_BLUE"
 msgstr "Blauw"
@@ -674,10 +646,6 @@ msgstr ""
 msgid "PLYRMNU_ALWAYSRUN"
 msgstr "Altijd lopen"
 
-# Display
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_SCREENSIZE"
 msgstr "Schermgrootte"
 
@@ -717,10 +685,6 @@ msgstr "Pulserende berichtendisplay"
 msgid "MSGMNU_MESSAGESCALE"
 msgstr "Berichtschaal"
 
-# Automap
-msgid "nan"
-msgstr ""
-
 msgid "MNU_COLORPICKER"
 msgstr "Selecteer Kleur"
 
@@ -741,10 +705,6 @@ msgstr "Kaartkleuren aanpassen"
 
 msgid "MAPCOLORMNU_DEFAULTMAPCOLORS"
 msgstr "Standaard aangepaste kleuren herstellen"
-
-# Sound
-msgid "nan"
-msgstr ""
 
 msgid "SNDMNU_SNDENABLED"
 msgstr "Geluid actief"
@@ -1240,10 +1200,6 @@ msgstr ""
 msgid "OPTVAL_1024K"
 msgstr ""
 
-# Postprocessing
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_UNCHARTED2"
 msgstr ""
 
@@ -1333,10 +1289,6 @@ msgstr "Radiaal"
 
 msgid "OPTVAL_STANDARD"
 msgstr "Standaard"
-
-# Texture options
-msgid "nan"
-msgstr ""
 
 msgid "GLTEXMNU_TEXFILTER"
 msgstr "Textuurfiltermodus"
@@ -1536,10 +1488,6 @@ msgstr ""
 msgid "OPTVAL_OPENGLES"
 msgstr ""
 
-# Miscellaneous Options
-msgid "nan"
-msgstr ""
-
 msgid "MISCMNU_MERGEKEYS"
 msgstr "Samenvoegen links+rechts Alt/Ctrl/Shift"
 
@@ -1594,10 +1542,6 @@ msgstr "Verbeterd"
 
 msgid "OPTMNU_LANGUAGE"
 msgstr "Taal"
-
-# Reverb editor
-msgid "nan"
-msgstr ""
 
 msgid "TXT_UNDOCHANGES"
 msgstr "Wijzigingen ongedaan maken"
@@ -1751,10 +1695,6 @@ msgstr "Bestandsnaam"
 msgid "REVMNU_Environments_to_save"
 msgstr "Omgevingen om op te slaan"
 
-# Vulkan
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_VKOPT"
 msgstr "Vulkan-opties (Experimenteel)"
 
@@ -1780,10 +1720,6 @@ msgstr "Deze opties vereisen een herstart om van kracht te worden."
 msgid "VKMNU_DEVICESELECT"
 msgstr "Selecteer Vulkan Apparaat"
 
-# Texture scaling
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_SCALENX"
 msgstr ""
 
@@ -1802,10 +1738,6 @@ msgstr ""
 msgid "OPTVAL_OLD_NXBRZ"
 msgstr "Oud xBRZ"
 
-# Option Search
-msgid "nan"
-msgstr ""
-
 msgid "OS_TITLE"
 msgstr "Optie zoeken"
 
@@ -1820,10 +1752,6 @@ msgstr "Geen resultaten gevonden."
 
 msgid "OS_LABEL"
 msgstr "Zoeken:"
-
-# Blood Bath Announcer
-msgid "nan"
-msgstr ""
 
 msgid "TXT_OBITUARY1"
 msgstr "%k mergelde %o als een vis"
@@ -1965,10 +1893,6 @@ msgstr "Door opgeslagen games bladeren"
 msgid "MOUSEMNU_SWAPBUTTONS"
 msgstr "Muisknoppen verwisselen"
 
-# Additional menu texts
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_ONLYMODIFIED"
 msgstr "Alleen gewijzigd"
 
@@ -2010,10 +1934,6 @@ msgstr "Uiterlijk"
 
 msgid "DSPLYMNU_ADVANCED"
 msgstr "Geavanceerde Weergave Opties"
-
-# IWAD/Game picker
-msgid "nan"
-msgstr ""
 
 msgid "PICKER_SELECT"
 msgstr "Selecteer welk spel je wilt spelen"
@@ -2070,10 +1990,6 @@ msgstr "Deze controller inschakelen"
 
 msgid "CNTRLMNU_OPEN_MAIN"
 msgstr "Hoofdmenu openen"
-
-# New content
-msgid "nan"
-msgstr ""
 
 msgid "MODMNU_REPLAYER"
 msgstr "Module replayer"

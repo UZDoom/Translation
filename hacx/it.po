@@ -388,9 +388,6 @@ msgstr ""
 "Il che significa che è stato compromesso.\n"
 "Tu... sei solo."
 
-msgid "nan"
-msgstr ""
-
 msgid "TXT_HACXMAP01"
 msgstr ""
 

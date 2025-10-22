@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: fi\n"
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "PRESSKEY"
 msgstr "Paina jotain näppäintä."
 
@@ -83,10 +79,6 @@ msgstr "Käytettävissä vain rekisteröidyssä versiossa"
 
 msgid "DOSY"
 msgstr "(Paina Y lopettaaksesi)"
-
-# Quit messages
-msgid "nan"
-msgstr ""
 
 msgid "QUITMSG1"
 msgstr "Älä lähde; demoneita on vielä kärvennettävänä!"
@@ -196,16 +188,8 @@ msgstr "Älä hylkää intergalaktista muroliittoa!"
 msgid "QUITMSG29"
 msgstr "Todellinen Chex(R)-soturi ei luovuttaisi niin nopeasti!"
 
-# Pickups
-msgid "nan"
-msgstr ""
-
 msgid "TXT_DEFAULTPICKUPMSG"
 msgstr "Sait jotakin"
-
-# Locks
-msgid "nan"
-msgstr ""
 
 msgid "PD_ANY"
 msgstr "Mikä tahansa avain avaa tämän oven"
@@ -228,10 +212,6 @@ msgstr "Kaikki kuusi avainta tarvitaan tämän kappaleen aktivoimiseksi"
 msgid "PD_ALLKEYS"
 msgstr "Kaikki avaimet tarvitaan"
 
-# Chat
-msgid "nan"
-msgstr ""
-
 msgid "HUSTR_MSGU"
 msgstr "[Viestiä ei lähetetty]"
 
@@ -252,10 +232,6 @@ msgstr "Olet seonnut..."
 
 msgid "HUSTR_MESSAGESENT"
 msgstr "[Viesti lähetetty]"
-
-# Cheats
-msgid "nan"
-msgstr ""
 
 msgid "STSTR_MUS"
 msgstr "Musiikin vaihtaminen"
@@ -436,10 +412,6 @@ msgstr "Mitä haluat tappaa pelin ulkopuolella?"
 msgid "TXT_NOT_FROZEN"
 msgstr "Jäätyneen pelaajan ominaisuudet kytketty pois päältä"
 
-# Automap
-msgid "nan"
-msgstr ""
-
 msgid "AMSTR_FOLLOWOFF"
 msgstr "Seuraamistila POIS PÄÄLTÄ"
 
@@ -463,10 +435,6 @@ msgstr "Merkitty paikka"
 
 msgid "AMSTR_MARKSCLEARED"
 msgstr "Kaikki merkit pyyhitty"
-
-# Multiplayer
-msgid "nan"
-msgstr ""
 
 msgid "TXT_FRAGLIMIT"
 msgstr "Frägiraja saavutettu."
@@ -507,10 +475,6 @@ msgstr "Ultratappo!"
 msgid "MULTI5"
 msgstr "Hirviömäinen tappo!"
 
-# Scoreboard
-msgid "nan"
-msgstr ""
-
 msgid "SCORE_BONUS"
 msgstr "Lisäedut"
 
@@ -544,10 +508,6 @@ msgstr "Yhteensä"
 msgid "SCORE_LVLTIME"
 msgstr "Tasoaika"
 
-# Level Summary
-msgid "nan"
-msgstr ""
-
 msgid "TXT_IMKILLS"
 msgstr "Tapot"
 
@@ -572,10 +532,6 @@ msgstr "Seuraava kohde"
 msgid "WI_ENTERING"
 msgstr "Seuraava kohde:"
 
-# HUD
-msgid "nan"
-msgstr ""
-
 msgid "AM_MONSTERS"
 msgstr "Hirviöt:"
 
@@ -584,10 +540,6 @@ msgstr "Salat:"
 
 msgid "AM_ITEMS"
 msgstr "Esineet:"
-
-# Obituaries
-msgid "nan"
-msgstr ""
 
 msgid "OB_SUICIDE"
 msgstr "%o teki itsemurhan."
@@ -652,10 +604,6 @@ msgstr "%k teki frägin vieraalle joukkueelle."
 
 msgid "OB_FRIENDLY4"
 msgstr "%k menetti jälleen ystävän."
-
-# Pickup
-msgid "nan"
-msgstr ""
 
 msgid "GOTARMOR"
 msgstr "Poimit panssarin."
@@ -783,10 +731,6 @@ msgstr "Poimit pahan valtikan."
 msgid "BETA_BONUS4"
 msgstr "Poimit epäpyhän raamatun."
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "PD_BLUEO"
 msgstr "Tarvitset sinisen avaimen aktivoidaksesi tämän kappaleen"
 
@@ -841,10 +785,6 @@ msgstr "Tarvitset punaisen kalloavaimen avataksesi tämän oven"
 msgid "PD_YELLOWS"
 msgstr "Tarvitset keltaisen kalloavaimen avataksesi tämän oven"
 
-# Cast call names
-msgid "nan"
-msgstr ""
-
 msgid "CC_ZOMBIE"
 msgstr "Zombimies"
 
@@ -897,10 +837,6 @@ msgstr "Kyberdemoni"
 
 msgid "CC_HERO"
 msgstr "Sankarimme"
-
-# Actor tag names
-msgid "nan"
-msgstr ""
 
 msgid "FN_SHOTGUN"
 msgstr "Kersantti"
@@ -961,10 +897,6 @@ msgstr "Raketit"
 
 msgid "AMMO_CELLS"
 msgstr "Energia-akut"
-
-# Obituaries
-msgid "nan"
-msgstr ""
 
 msgid "OB_STEALTHBABY"
 msgstr "%o luuli nähneensä araknotronin."
@@ -1110,14 +1042,6 @@ msgstr "%o lävisti %o paran."
 msgid "OB_MPBFG_MBF"
 msgstr "%k korvensi %o paran BFG:llään."
 
-# Heretic
-msgid "nan"
-msgstr ""
-
-# Pickup 
-msgid "nan"
-msgstr ""
-
 msgid "TXT_GOTBLUEKEY"
 msgstr "Sininen avain"
 
@@ -1229,10 +1153,6 @@ msgstr "Feenikssauva"
 msgid "TXT_WPNGAUNTLETS"
 msgstr "Manaajan rautakintaat"
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NEEDBLUEKEY"
 msgstr "Tarvitset sinisen avaimen avataksesi tämän oven"
 
@@ -1241,10 +1161,6 @@ msgstr "Tarvitset vihreän avaimen avataksesi tämän oven"
 
 msgid "TXT_NEEDYELLOWKEY"
 msgstr "Tarvitset keltaisen avaimen avataksesi tämän oven"
-
-# Actor tag names
-msgid "nan"
-msgstr ""
 
 msgid "FN_CHICKEN"
 msgstr "Kana"
@@ -1307,10 +1223,6 @@ msgstr "Sauva"
 
 msgid "TAG_GOLDWAND"
 msgstr "Haltiasauva"
-
-# Obituaries
-msgid "nan"
-msgstr ""
 
 msgid "OB_CHICKEN"
 msgstr "%o nokittiin kuoliaaksi."
@@ -1419,14 +1331,6 @@ msgstr "%k poltti %o paran feenikssauvallaan."
 
 msgid "OB_MPPMACE"
 msgstr "%k liiskasi %o paran jättiläisnuijapallollaan."
-
-# Hexen
-msgid "nan"
-msgstr ""
-
-# Pickup
-msgid "nan"
-msgstr ""
 
 msgid "TXT_MANA_1"
 msgstr "Sininen mana"
@@ -1596,10 +1500,6 @@ msgstr "Haamusauvan osa"
 msgid "TXT_BLOODSCOURGE_PIECE"
 msgstr "Veripiiskan osa"
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NEED_KEY_STEEL"
 msgstr "Tarvitset teräsavaimen"
 
@@ -1632,10 +1532,6 @@ msgstr "Tarvitset suoavaimen"
 
 msgid "TXT_NEED_KEY_CASTLE"
 msgstr "Tarvitset linnan avaimen"
-
-# Actor tag names
-msgid "nan"
-msgstr ""
 
 msgid "FN_FIREDEMON"
 msgstr ""
@@ -1814,10 +1710,6 @@ msgstr "Messinki- ja rautaratas"
 msgid "TAG_ARTIPUZZGEAR4"
 msgstr "Hopea- ja messinkiratas"
 
-# Obituaries
-msgid "nan"
-msgstr ""
-
 msgid "OB_FIREDEMON"
 msgstr "%o maistoi afritin tulta."
 
@@ -1916,14 +1808,6 @@ msgstr "%o sai sähköistävän ilmestyksen pelaajalta %k."
 
 msgid "OB_MPMWEAPBLOODSCOURGE"
 msgstr "%k pyyhki %o paran maailmankaikkeudesta."
-
-# Strife
-msgid "nan"
-msgstr ""
-
-# Pickups
-msgid "nan"
-msgstr ""
 
 msgid "TXT_METALARMOR"
 msgstr "Poimit metallihaarniskan."
@@ -2153,10 +2037,6 @@ msgstr "Sen on pakko tehdä jotakin..."
 msgid "MSG_TALISMANPOWER"
 msgstr "Sinulla on supervoimat!"
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NEEDKEY"
 msgstr "Sinulla ei ole avainta"
 
@@ -2207,10 +2087,6 @@ msgstr "Tarvitset maljan!"
 
 msgid "TXT_NEED_OPASS"
 msgstr "Tarvitset Oraakkelin passin"
-
-# Actor tags
-msgid "nan"
-msgstr ""
 
 msgid "TAG_PUNCHDAGGER"
 msgstr "Tikari"
@@ -2515,10 +2391,6 @@ msgstr "Vihreä talismaani"
 msgid "TAG_TALISMANBLUE"
 msgstr "Sininen talismaani"
 
-# Obituaries
-msgid "nan"
-msgstr ""
-
 msgid "OB_ACOLYTE"
 msgstr "%o joutui kiivailevan akoluutin ampumaksi."
 
@@ -2609,10 +2481,6 @@ msgstr "%o joutui pelaajan %k höyrystämäksi."
 msgid "OB_MPSIGIL"
 msgstr "%o kumartui pelaajan %k Sinetin silkasta voimasta."
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "TXT_STRIFE_EPI"
 msgstr "Päämääränä Sinetti"
 
@@ -2670,14 +2538,6 @@ msgstr "Etsi apua"
 # As in for %u amount of money.
 msgid "TXT_TRADE"
 msgstr "hintaan %u"
-
-# Chex Quest
-msgid "nan"
-msgstr ""
-
-# Pickups
-msgid "nan"
-msgstr ""
 
 msgid "GOTCHEXARMOR"
 msgstr "Poimit Chex(R)-panssarin."
@@ -2769,10 +2629,6 @@ msgstr "Sait megazorcherin!"
 msgid "GOTMINIZORCHER"
 msgstr "Poimit minizorcherin."
 
-# Actor tags
-msgid "nan"
-msgstr ""
-
 msgid "TAG_SPOON"
 msgstr "Lusikka"
 
@@ -2844,10 +2700,6 @@ msgstr "%o lankesi pelaajan %k SAZ-laitteen uhriksi."
 
 msgid "OB_MPBFG_SPLASH"
 msgstr "%k sazzasi pelaajaan %o."
-
-# Miscellaneous
-msgid "nan"
-msgstr ""
 
 msgid "CHUSTR_E1M1"
 msgstr "E1M1: Laskeutumisalue"
@@ -2969,14 +2821,6 @@ msgstr "Työntimen varaus"
 
 msgid "AMMO_CELLS"
 msgstr "Vaiheiszorcherin varaus"
-
-# Menus
-msgid "nan"
-msgstr ""
-
-# Main Menus
-msgid "nan"
-msgstr ""
 
 msgid "MNU_NEWGAME"
 msgstr "Uusi peli"
@@ -3137,10 +2981,6 @@ msgstr "Luuhuone"
 
 msgid "MNU_DEMESNE"
 msgstr "Seisahtunut maa"
-
-# Gameplay menus
-msgid "nan"
-msgstr ""
 
 msgid "GMPLYMNU_TEAMPLAY"
 msgstr "Joukkuepeli"
@@ -3469,10 +3309,6 @@ msgstr "Ei pystysuuntaista työntövoimaa räjähdyksistä"
 msgid "CMPTMNU_EXPLODE2"
 msgstr "Käytä Doomin alkuperäisiä räjähdysten käyttäytymissääntöjä"
 
-# player
-msgid "nan"
-msgstr ""
-
 msgid "PLYRMNU_RED"
 msgstr "Punainen"
 
@@ -3502,10 +3338,6 @@ msgstr "sesi takapuolen"
 
 msgid "PLYRMNU_VERTSPREAD"
 msgstr "Pystysuora luodin leviäminen"
-
-# controls
-msgid "nan"
-msgstr ""
 
 msgid "CNTRLMNU_ZOOM"
 msgstr "Aseen kiikaritähtäys"
@@ -3575,10 +3407,6 @@ msgstr "Katseenpalautin"
 
 msgid "MOUSEMNU_LOOKSTRAFE"
 msgstr "Sivuttaisastuntapalautin"
-
-# Map colors
-msgid "nan"
-msgstr ""
 
 msgid "MAPCOLORMNU_BACKCOLOR"
 msgstr "Tausta"
@@ -3661,10 +3489,6 @@ msgstr "Projisointihuijaustila"
 msgid "MAPCOLORMNU_PORTAL"
 msgstr "Portaaliprojisoinnit"
 
-# Messages
-msgid "nan"
-msgstr ""
-
 msgid "MSGMNU_TITLE"
 msgstr "Viestit"
 
@@ -3709,10 +3533,6 @@ msgstr "Yksityiskohtaiset tallennusviestit"
 
 msgid "MSGMNU_DEVELOPER"
 msgstr "Pelinkehittäjäviestitila"
-
-# Automap
-msgid "nan"
-msgstr ""
 
 msgid "AUTOMAPMNU_COLORSET"
 msgstr "Kartan värikokoelma"
@@ -3783,10 +3603,6 @@ msgstr "Aseta merkki"
 msgid "MAPCNTRLMNU_CLEARMARK"
 msgstr "Pyyhi merkit"
 
-# Scoreboard
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_SCOREBOARD"
 msgstr "Pistetauluasetukset"
 
@@ -3813,10 +3629,6 @@ msgstr "Kuolonotteluasetukset"
 
 msgid "SCRBRDMNU_TEAMDEATHMATCH"
 msgstr "Joukkuekuolonotteluasetukset"
-
-# Alt HUD
-msgid "nan"
-msgstr ""
 
 msgid "ALTHUDMNU_TITLE"
 msgstr "Vaihtoehtoinen tilanäyttö"
@@ -3908,10 +3720,6 @@ msgstr "Tilastotiedon nimen väri"
 msgid "ALTHUDMNU_STATSCOLOR"
 msgstr "Tilastotiedon väri"
 
-# Display (game related)
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_CAPFPS"
 msgstr "Hahmonnuksen interpolointi"
 
@@ -4002,10 +3810,6 @@ msgstr "Aseen heilumisvoimakkuus levossa"
 msgid "DSPLYMNU_BOBSPEED"
 msgstr "Aseen heilumisnopeus"
 
-# Scaling
-msgid "nan"
-msgstr ""
-
 msgid "SCALEMNU_TITLE"
 msgstr "Skaalausasetukset"
 
@@ -4038,10 +3842,6 @@ msgstr "Skaalaa täyteen ruutuun"
 
 msgid "SCALEMNU_ADAPT"
 msgstr "Sovita näytön kokoon"
-
-# HUD
-msgid "nan"
-msgstr ""
 
 msgid "HUDMNU_TITLE"
 msgstr "Tilanäytön asetukset"
@@ -4090,10 +3890,6 @@ msgstr "Näytä IWAD-valintaikkuna"
 
 msgid "MISCMNU_ALLCHEATS"
 msgstr "Ota käyttöön huijauskoodit kaikista peleistä"
-
-# Option Menus
-msgid "nan"
-msgstr ""
 
 msgid "MISCMNU_ENABLESCRIPTSCREENSHOTS"
 msgstr "Salli komentosarjoin otetut kuvakaappaukset"
@@ -4769,10 +4565,6 @@ msgstr "Etsi:"
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Aina näytä avaimet"
 
-# Newly added content
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NO_TEAM_CHANGE"
 msgstr "Joukkueen vaihtaminen on kytketty pois päältä!"
 
@@ -5271,11 +5063,6 @@ msgstr ""
 msgid "PAUSE_STRING"
 msgstr ""
 
-# New Doom item Tags for GZDoom 5.0. The names used here are taken from the
-# Doom manual (Doomwiki was referenced)
-msgid "nan"
-msgstr ""
-
 msgid "TAG_BACKPACK"
 msgstr ""
 
@@ -5337,10 +5124,6 @@ msgid "TAG_YELLOWSKULL"
 msgstr ""
 
 msgid "TAG_REDSKULL"
-msgstr ""
-
-# Chex Quest item tags
-msgid "nan"
 msgstr ""
 
 msgid "TAG_GLASSOFWATER"

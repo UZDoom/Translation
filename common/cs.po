@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: cs\n"
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "PRESSYN"
 msgstr "Stiskni Y nebo N."
 
@@ -64,10 +60,6 @@ msgstr "Říct:"
 msgid "TXT_QUITENDOOM"
 msgstr "Pro ukončení stiskni libovolnou klávesu, nebo klikni kdekoliv v okně."
 
-# Savegame
-msgid "nan"
-msgstr ""
-
 msgid "NEWSAVE"
 msgstr "<Nová uložená hra>"
 
@@ -94,10 +86,6 @@ msgstr "Žádné soubory"
 
 msgid "MNU_DELETESG"
 msgstr "Opravdu smazat tuto uloženou hru?"
-
-# General
-msgid "nan"
-msgstr ""
 
 msgid "OPTVAL_OFF"
 msgstr "Vyp."
@@ -161,10 +149,6 @@ msgstr "Síť"
 
 msgid "OPTMNU_REVERB"
 msgstr "Editor zvukové ozvěny"
-
-# Customize controls
-msgid "nan"
-msgstr ""
 
 msgid "CNTRLMNU_SWITCHTEXT1"
 msgstr "ENTER pro změnu, BACKSPACE pro smazání"
@@ -420,10 +404,6 @@ msgstr "Ukončit hru"
 msgid "CNTRLMNU_ADJUST_GAMMA"
 msgstr "Nastavit gamu"
 
-# Mouse
-msgid "nan"
-msgstr ""
-
 msgid "MOUSEMNU_ENABLEMOUSE"
 msgstr "Povolit myš"
 
@@ -489,10 +469,6 @@ msgstr "Systémový kurzor"
 
 msgid "OPTVAL_DEFAULT"
 msgstr "Výchozí"
-
-# Controller
-msgid "nan"
-msgstr ""
 
 msgid "JOYMNU_TITLE"
 msgstr "Konfigurace ovladače"
@@ -569,10 +545,6 @@ msgstr "Inverzní"
 
 msgid "OPTVAL_NOTINVERTED"
 msgstr "Neinverzní"
-
-# Player Menu
-msgid "nan"
-msgstr ""
 
 msgid "TXT_COLOR_BLUE"
 msgstr "Modrá"
@@ -673,10 +645,6 @@ msgstr "Automatické míření"
 msgid "PLYRMNU_ALWAYSRUN"
 msgstr "Vždy běžet"
 
-# Display
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_SCREENSIZE"
 msgstr "Velikost obrazovky"
 
@@ -716,10 +684,6 @@ msgstr "Pulzující oznámení"
 msgid "MSGMNU_MESSAGESCALE"
 msgstr "Velikost oznámení"
 
-# Automap
-msgid "nan"
-msgstr ""
-
 msgid "MNU_COLORPICKER"
 msgstr "Výběr barvy"
 
@@ -740,10 +704,6 @@ msgstr "Nastavení barev mapy"
 
 msgid "MAPCOLORMNU_DEFAULTMAPCOLORS"
 msgstr "Obnovit původní vlastní barvy"
-
-# Sound
-msgid "nan"
-msgstr ""
 
 msgid "SNDMNU_SNDENABLED"
 msgstr "Zvuk zapnut"
@@ -1239,10 +1199,6 @@ msgstr ""
 msgid "OPTVAL_1024K"
 msgstr ""
 
-# Postprocessing
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_UNCHARTED2"
 msgstr ""
 
@@ -1332,10 +1288,6 @@ msgstr "Radiální"
 
 msgid "OPTVAL_STANDARD"
 msgstr "Standardní"
-
-# Texture options
-msgid "nan"
-msgstr ""
 
 msgid "GLTEXMNU_TEXFILTER"
 msgstr "Režim filtrování textur"
@@ -1535,10 +1487,6 @@ msgstr ""
 msgid "OPTVAL_OPENGLES"
 msgstr ""
 
-# Miscellaneous Options
-msgid "nan"
-msgstr ""
-
 msgid "MISCMNU_MERGEKEYS"
 msgstr "Kombinovat pravý a levý Alt/Ctrl/Shift"
 
@@ -1593,10 +1541,6 @@ msgstr "Vylepšené"
 
 msgid "OPTMNU_LANGUAGE"
 msgstr "Jazyk"
-
-# Reverb editor
-msgid "nan"
-msgstr ""
 
 msgid "TXT_UNDOCHANGES"
 msgstr "Zrušit změny"
@@ -1750,10 +1694,6 @@ msgstr "Název souboru"
 msgid "REVMNU_Environments_to_save"
 msgstr "Prostředí k uložení"
 
-# Vulkan
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_VKOPT"
 msgstr "Nastavení Vulkanu (Experimentální)"
 
@@ -1779,10 +1719,6 @@ msgstr "Tato nastavení vyžadují restart hry."
 msgid "VKMNU_DEVICESELECT"
 msgstr "Vybrat zařízení Vulkanu"
 
-# Texture scaling
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_SCALENX"
 msgstr ""
 
@@ -1801,10 +1737,6 @@ msgstr ""
 msgid "OPTVAL_OLD_NXBRZ"
 msgstr "xBRZ (starší)"
 
-# Option Search
-msgid "nan"
-msgstr ""
-
 msgid "OS_TITLE"
 msgstr "Vyhledávání možností"
 
@@ -1819,10 +1751,6 @@ msgstr "Nic nenalezeno."
 
 msgid "OS_LABEL"
 msgstr "Hledat:"
-
-# Blood Bath Announcer
-msgid "nan"
-msgstr ""
 
 msgid "TXT_OBITUARY1"
 msgstr "%o byl@[ao_cs] vykoštěn@[ao_cs] jako ryba hráčem %k"
@@ -1964,10 +1892,6 @@ msgstr "Procházet uložené hry"
 msgid "MOUSEMNU_SWAPBUTTONS"
 msgstr "Prohodit tlačítka myši"
 
-# Additional menu texts
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_ONLYMODIFIED"
 msgstr "Pouze upravené"
 
@@ -2009,10 +1933,6 @@ msgstr "Vzhled"
 
 msgid "DSPLYMNU_ADVANCED"
 msgstr "Grafika (pokročilé)"
-
-# IWAD/Game picker
-msgid "nan"
-msgstr ""
 
 msgid "PICKER_SELECT"
 msgstr "Vyberte, jaký herní soubor spustit."
@@ -2069,10 +1989,6 @@ msgstr "Povolit tento ovladač"
 
 msgid "CNTRLMNU_OPEN_MAIN"
 msgstr "Otevřít hlavní menu"
-
-# New content
-msgid "nan"
-msgstr ""
 
 msgid "MODMNU_REPLAYER"
 msgstr "Nastavení přehrávače modulů"

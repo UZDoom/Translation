@@ -385,9 +385,6 @@ msgstr ""
 "\n"
 "You... are alone."
 
-msgid "nan"
-msgstr ""
-
 msgid "TXT_HACXMAP01"
 msgstr "GenEmp Corp."
 

@@ -5,10 +5,6 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "PRESSKEY"
 msgstr ""
 
@@ -54,10 +50,6 @@ msgid "SWSTRING"
 msgstr ""
 
 msgid "DOSY"
-msgstr ""
-
-# Quit messages
-msgid "nan"
 msgstr ""
 
 msgid "QUITMSG1"
@@ -150,15 +142,7 @@ msgstr ""
 msgid "QUITMSG29"
 msgstr ""
 
-# Pickups
-msgid "nan"
-msgstr ""
-
 msgid "TXT_DEFAULTPICKUPMSG"
-msgstr ""
-
-# Locks
-msgid "nan"
 msgstr ""
 
 msgid "PD_ANY"
@@ -182,10 +166,6 @@ msgstr ""
 msgid "PD_ALLKEYS"
 msgstr ""
 
-# Chat
-msgid "nan"
-msgstr ""
-
 msgid "HUSTR_MSGU"
 msgstr ""
 
@@ -205,10 +185,6 @@ msgid "HUSTR_TALKTOSELF5"
 msgstr ""
 
 msgid "HUSTR_MESSAGESENT"
-msgstr ""
-
-# Cheats
-msgid "nan"
 msgstr ""
 
 msgid "STSTR_MUS"
@@ -387,10 +363,6 @@ msgstr ""
 msgid "TXT_NOT_FROZEN"
 msgstr ""
 
-# Automap
-msgid "nan"
-msgstr ""
-
 msgid "AMSTR_FOLLOWOFF"
 msgstr ""
 
@@ -413,10 +385,6 @@ msgid "AMSTR_MARKEDSPOT"
 msgstr ""
 
 msgid "AMSTR_MARKSCLEARED"
-msgstr ""
-
-# Multiplayer
-msgid "nan"
 msgstr ""
 
 msgid "TXT_FRAGLIMIT"
@@ -458,10 +426,6 @@ msgstr ""
 msgid "MULTI5"
 msgstr ""
 
-# Scoreboard
-msgid "nan"
-msgstr ""
-
 msgid "SCORE_BONUS"
 msgstr ""
 
@@ -495,10 +459,6 @@ msgstr ""
 msgid "SCORE_LVLTIME"
 msgstr ""
 
-# Level Summary
-msgid "nan"
-msgstr ""
-
 msgid "TXT_IMKILLS"
 msgstr ""
 
@@ -523,10 +483,6 @@ msgstr ""
 msgid "WI_ENTERING"
 msgstr ""
 
-# HUD
-msgid "nan"
-msgstr ""
-
 msgid "AM_MONSTERS"
 msgstr ""
 
@@ -534,10 +490,6 @@ msgid "AM_SECRETS"
 msgstr ""
 
 msgid "AM_ITEMS"
-msgstr ""
-
-# Obituaries
-msgid "nan"
 msgstr ""
 
 msgid "OB_SUICIDE"
@@ -602,10 +554,6 @@ msgid "OB_FRIENDLY3"
 msgstr ""
 
 msgid "OB_FRIENDLY4"
-msgstr ""
-
-# Pickup
-msgid "nan"
 msgstr ""
 
 msgid "GOTARMOR"
@@ -734,10 +682,6 @@ msgstr ""
 msgid "BETA_BONUS4"
 msgstr ""
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "PD_BLUEO"
 msgstr ""
 
@@ -792,10 +736,6 @@ msgstr ""
 msgid "PD_YELLOWS"
 msgstr ""
 
-# Cast call names
-msgid "nan"
-msgstr ""
-
 msgid "CC_ZOMBIE"
 msgstr ""
 
@@ -847,10 +787,6 @@ msgid "CC_CYBER"
 msgstr ""
 
 msgid "CC_HERO"
-msgstr ""
-
-# Actor tag names
-msgid "nan"
 msgstr ""
 
 msgid "FN_SHOTGUN"
@@ -911,10 +847,6 @@ msgid "AMMO_ROCKETS"
 msgstr ""
 
 msgid "AMMO_CELLS"
-msgstr ""
-
-# Obituaries
-msgid "nan"
 msgstr ""
 
 msgid "OB_STEALTHBABY"
@@ -1061,14 +993,6 @@ msgstr ""
 msgid "OB_MPBFG_MBF"
 msgstr ""
 
-# Heretic
-msgid "nan"
-msgstr ""
-
-# Pickup 
-msgid "nan"
-msgstr ""
-
 msgid "TXT_GOTBLUEKEY"
 msgstr ""
 
@@ -1180,10 +1104,6 @@ msgstr ""
 msgid "TXT_WPNGAUNTLETS"
 msgstr ""
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NEEDBLUEKEY"
 msgstr ""
 
@@ -1191,10 +1111,6 @@ msgid "TXT_NEEDGREENKEY"
 msgstr ""
 
 msgid "TXT_NEEDYELLOWKEY"
-msgstr ""
-
-# Actor tag names
-msgid "nan"
 msgstr ""
 
 msgid "FN_CHICKEN"
@@ -1257,10 +1173,6 @@ msgid "TAG_STAFF"
 msgstr ""
 
 msgid "TAG_GOLDWAND"
-msgstr ""
-
-# Obituaries
-msgid "nan"
 msgstr ""
 
 msgid "OB_CHICKEN"
@@ -1369,14 +1281,6 @@ msgid "OB_MPPPHOENIXROD"
 msgstr ""
 
 msgid "OB_MPPMACE"
-msgstr ""
-
-# Hexen
-msgid "nan"
-msgstr ""
-
-# Pickup
-msgid "nan"
 msgstr ""
 
 msgid "TXT_MANA_1"
@@ -1547,10 +1451,6 @@ msgstr ""
 msgid "TXT_BLOODSCOURGE_PIECE"
 msgstr ""
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NEED_KEY_STEEL"
 msgstr ""
 
@@ -1582,10 +1482,6 @@ msgid "TXT_NEED_KEY_SWAMP"
 msgstr ""
 
 msgid "TXT_NEED_KEY_CASTLE"
-msgstr ""
-
-# Actor tag names
-msgid "nan"
 msgstr ""
 
 msgid "FN_FIREDEMON"
@@ -1765,10 +1661,6 @@ msgstr ""
 msgid "TAG_ARTIPUZZGEAR4"
 msgstr ""
 
-# Obituaries
-msgid "nan"
-msgstr ""
-
 msgid "OB_FIREDEMON"
 msgstr ""
 
@@ -1866,14 +1758,6 @@ msgid "OB_MPMWEAPLIGHTNING"
 msgstr ""
 
 msgid "OB_MPMWEAPBLOODSCOURGE"
-msgstr ""
-
-# Strife
-msgid "nan"
-msgstr ""
-
-# Pickups
-msgid "nan"
 msgstr ""
 
 msgid "TXT_METALARMOR"
@@ -2104,10 +1988,6 @@ msgstr ""
 msgid "MSG_TALISMANPOWER"
 msgstr ""
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NEEDKEY"
 msgstr ""
 
@@ -2157,10 +2037,6 @@ msgid "TXT_NEED_CHALICE"
 msgstr ""
 
 msgid "TXT_NEED_OPASS"
-msgstr ""
-
-# Actor tags
-msgid "nan"
 msgstr ""
 
 msgid "TAG_PUNCHDAGGER"
@@ -2466,10 +2342,6 @@ msgstr ""
 msgid "TAG_TALISMANBLUE"
 msgstr ""
 
-# Obituaries
-msgid "nan"
-msgstr ""
-
 msgid "OB_ACOLYTE"
 msgstr ""
 
@@ -2560,10 +2432,6 @@ msgstr ""
 msgid "OB_MPSIGIL"
 msgstr ""
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "TXT_STRIFE_EPI"
 msgstr ""
 
@@ -2620,14 +2488,6 @@ msgstr ""
 
 # As in for %u amount of money.
 msgid "TXT_TRADE"
-msgstr ""
-
-# Chex Quest
-msgid "nan"
-msgstr ""
-
-# Pickups
-msgid "nan"
 msgstr ""
 
 msgid "GOTCHEXARMOR"
@@ -2720,10 +2580,6 @@ msgstr ""
 msgid "GOTMINIZORCHER"
 msgstr ""
 
-# Actor tags
-msgid "nan"
-msgstr ""
-
 msgid "TAG_SPOON"
 msgstr ""
 
@@ -2794,10 +2650,6 @@ msgid "OB_MPLAZ_BOOM"
 msgstr ""
 
 msgid "OB_MPBFG_SPLASH"
-msgstr ""
-
-# Miscellaneous
-msgid "nan"
 msgstr ""
 
 msgid "CHUSTR_E1M1"
@@ -2879,14 +2731,6 @@ msgid "AMMO_ROCKETS"
 msgstr ""
 
 msgid "AMMO_CELLS"
-msgstr ""
-
-# Menus
-msgid "nan"
-msgstr ""
-
-# Main Menus
-msgid "nan"
 msgstr ""
 
 msgid "MNU_NEWGAME"
@@ -3047,10 +2891,6 @@ msgid "MNU_OSSUARY"
 msgstr ""
 
 msgid "MNU_DEMESNE"
-msgstr ""
-
-# Gameplay menus
-msgid "nan"
 msgstr ""
 
 msgid "GMPLYMNU_TEAMPLAY"
@@ -3380,10 +3220,6 @@ msgstr ""
 msgid "CMPTMNU_EXPLODE2"
 msgstr ""
 
-# player
-msgid "nan"
-msgstr ""
-
 msgid "PLYRMNU_RED"
 msgstr ""
 
@@ -3412,10 +3248,6 @@ msgid "PLYRMNU_SEEBACK"
 msgstr ""
 
 msgid "PLYRMNU_VERTSPREAD"
-msgstr ""
-
-# controls
-msgid "nan"
 msgstr ""
 
 msgid "CNTRLMNU_ZOOM"
@@ -3485,10 +3317,6 @@ msgid "MOUSEMNU_LOOKSPRING"
 msgstr ""
 
 msgid "MOUSEMNU_LOOKSTRAFE"
-msgstr ""
-
-# Map colors
-msgid "nan"
 msgstr ""
 
 msgid "MAPCOLORMNU_BACKCOLOR"
@@ -3572,10 +3400,6 @@ msgstr ""
 msgid "MAPCOLORMNU_PORTAL"
 msgstr ""
 
-# Messages
-msgid "nan"
-msgstr ""
-
 msgid "MSGMNU_TITLE"
 msgstr ""
 
@@ -3619,10 +3443,6 @@ msgid "MSGMNU_LONGSAVEMESSAGES"
 msgstr ""
 
 msgid "MSGMNU_DEVELOPER"
-msgstr ""
-
-# Automap
-msgid "nan"
 msgstr ""
 
 msgid "AUTOMAPMNU_COLORSET"
@@ -3694,10 +3514,6 @@ msgstr ""
 msgid "MAPCNTRLMNU_CLEARMARK"
 msgstr ""
 
-# Scoreboard
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_SCOREBOARD"
 msgstr ""
 
@@ -3723,10 +3539,6 @@ msgid "SCRBRDMNU_DEATHMATCH"
 msgstr ""
 
 msgid "SCRBRDMNU_TEAMDEATHMATCH"
-msgstr ""
-
-# Alt HUD
-msgid "nan"
 msgstr ""
 
 msgid "ALTHUDMNU_TITLE"
@@ -3819,10 +3631,6 @@ msgstr ""
 msgid "ALTHUDMNU_STATSCOLOR"
 msgstr ""
 
-# Display (game related)
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_CAPFPS"
 msgstr ""
 
@@ -3913,10 +3721,6 @@ msgstr ""
 msgid "DSPLYMNU_BOBSPEED"
 msgstr ""
 
-# Scaling
-msgid "nan"
-msgstr ""
-
 msgid "SCALEMNU_TITLE"
 msgstr ""
 
@@ -3948,10 +3752,6 @@ msgid "SCALEMNU_USEFS"
 msgstr ""
 
 msgid "SCALEMNU_ADAPT"
-msgstr ""
-
-# HUD
-msgid "nan"
 msgstr ""
 
 msgid "HUDMNU_TITLE"
@@ -4000,10 +3800,6 @@ msgid "MISCMNU_QUERYIWAD"
 msgstr ""
 
 msgid "MISCMNU_ALLCHEATS"
-msgstr ""
-
-# Option Menus
-msgid "nan"
 msgstr ""
 
 msgid "MISCMNU_ENABLESCRIPTSCREENSHOTS"
@@ -4680,10 +4476,6 @@ msgstr ""
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr ""
 
-# Newly added content
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NO_TEAM_CHANGE"
 msgstr ""
 
@@ -5178,11 +4970,6 @@ msgstr ""
 msgid "PAUSE_STRING"
 msgstr ""
 
-# New Doom item Tags for GZDoom 5.0. The names used here are taken from the
-# Doom manual (Doomwiki was referenced)
-msgid "nan"
-msgstr ""
-
 msgid "TAG_BACKPACK"
 msgstr ""
 
@@ -5244,10 +5031,6 @@ msgid "TAG_YELLOWSKULL"
 msgstr ""
 
 msgid "TAG_REDSKULL"
-msgstr ""
-
-# Chex Quest item tags
-msgid "nan"
 msgstr ""
 
 msgid "TAG_GLASSOFWATER"

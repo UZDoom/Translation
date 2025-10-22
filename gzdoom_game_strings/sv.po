@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: sv\n"
 
-# Doom Episode names
-msgid "nan"
-msgstr ""
-
 msgid "TXT_D1E1"
 msgstr "Knä-djupt i de döda"
 
@@ -40,14 +36,6 @@ msgid "TXT_TNT_EP"
 msgstr ""
 
 msgid "TXT_CHEX_EP"
-msgstr ""
-
-# Level names
-msgid "nan"
-msgstr ""
-
-# Doom 1
-msgid "nan"
 msgstr ""
 
 msgid "HUSTR_E1M1"
@@ -172,10 +160,6 @@ msgstr "E4M8: Mot de grymma"
 msgid "HUSTR_E4M9"
 msgstr "E4M9: Rädsla"
 
-# Doom 2
-msgid "nan"
-msgstr ""
-
 # Note that the "LEVEL" part of the string will be stripped so it shouldn't be
 # translated
 msgid "HUSTR_1"
@@ -287,10 +271,6 @@ msgstr "Nivå 32: Keen"
 msgid "HUSTR_33"
 msgstr "Nivå 33: Förråda"
 
-# No Rest For The Living
-msgid "nan"
-msgstr ""
-
 msgid "NHUSTR_1"
 msgstr "Nivå 1: Jordbasen"
 
@@ -317,10 +297,6 @@ msgstr "Nivå 8: Ondskans grav"
 
 msgid "NHUSTR_9"
 msgstr "Nivå 9: Demonernas marsch"
-
-# Plutonia
-msgid "nan"
-msgstr ""
 
 msgid "PHUSTR_1"
 msgstr "Nivå 1: Kongo"
@@ -420,10 +396,6 @@ msgstr "Nivå 31: Cyberden"
 msgid "PHUSTR_32"
 msgstr "Nivå 32: Gå till det"
 
-# TNT: Evilution
-msgid "nan"
-msgstr ""
-
 msgid "THUSTR_1"
 msgstr "Nivå 1: Systemkontroll"
 
@@ -520,10 +492,6 @@ msgstr "Nivå 31: Farao"
 
 msgid "THUSTR_32"
 msgstr "Nivå 32: Karibien"
-
-# Heretic
-msgid "nan"
-msgstr ""
 
 msgid "HHUSTR_E1M1"
 msgstr "Hamnarna"
@@ -660,10 +628,6 @@ msgstr "Domarplatsen"
 msgid "HHUSTR_E5M9"
 msgstr "D'sparils skein"
 
-# Strife
-msgid "nan"
-msgstr ""
-
 msgid "TXT_STRIFE_MAP01"
 msgstr "OMRÅDE 1: Fristad"
 
@@ -778,10 +742,6 @@ msgstr "OMRÅDE 37: Dödsmark"
 msgid "TXT_STRIFE_MAP38"
 msgstr "OMRÅDE 38: Ordnat kaos"
 
-# Hexen
-msgid "nan"
-msgstr ""
-
 msgid "TXT_HEXEN_MAP01"
 msgstr "Hallen för avräkning"
 
@@ -875,10 +835,6 @@ msgstr ""
 msgid "TXT_HEXEN_MAP40"
 msgstr "Mörk utmaning"
 
-# Hexen Deathkings
-msgid "nan"
-msgstr ""
-
 msgid "TXT_HEXDD_MAP41"
 msgstr "Ruinerad by"
 
@@ -956,10 +912,6 @@ msgstr "Avloppsgrop"
 
 msgid "TXT_HEXDD_MAP38"
 msgstr "Rosen"
-
-# Intermission texts
-msgid "nan"
-msgstr ""
 
 # Doom Ep.1
 msgid "E1TEXT"
@@ -1630,10 +1582,6 @@ msgstr ""
 msgid "TXT_HEXDD_WIN3MSG"
 msgstr "\\n... och andra spelare väntar."
 
-# Hexen script texts
-msgid "nan"
-msgstr ""
-
 msgid "TXT_ACS_MAP01_5_THEDO"
 msgstr "Dörren är låst"
 
@@ -1772,10 +1720,6 @@ msgstr "Är du stark nog?"
 
 msgid "TXT_ACS_MAP35_14_TOFAC"
 msgstr "För att möta dina egna mästare?"
-
-# Hexen: Deathkings script texts
-msgid "nan"
-msgstr ""
 
 msgid "TXT_ACS_MAP33_6_YOUDA"
 msgstr "Vågar du slåss i det färdiga rummet?"
@@ -2004,10 +1948,6 @@ msgstr "Vägen till tornet är öppen."
 
 msgid "TXT_ACS_MAP60_3_THEWA"
 msgstr "Vägen är öppen."
-
-# Strife dialogue
-msgid "nan"
-msgstr ""
 
 # MAP01: Beldin.
 msgid "TXT_DLG_SCRIPT01_D0_IDONT"
@@ -6193,10 +6133,6 @@ msgstr "Så ska det låta."
 msgid "TXT_DLG_SCRIPT34_D31836_WELCO"
 msgstr "Välkommen, min vän!"
 
-# Random dialogue
-msgid "nan"
-msgstr ""
-
 msgid "TXT_RANDOM_PEASANT_01"
 msgstr "Snälla, gör mig inte illa."
 
@@ -6372,10 +6308,6 @@ msgstr "Tack, hej då!"
 
 msgid "TXT_RANDOMGOODBYE_3"
 msgstr "Vi ses senare!"
-
-# Strife logs
-msgid "nan"
-msgstr ""
 
 # MAP33: After getting the hidden com unit in the tavern.
 msgid "TXT_ILOG1"
@@ -6943,10 +6875,6 @@ msgstr ""
 "vapentränaren och de kommer att göra dig redo för vad som väntar dig. Du får"
 " gärna vandra runt i basen."
 
-# Strife characters
-msgid "nan"
-msgstr ""
-
 msgid "TXT_SPEAKER_ORDER_SERGEANT"
 msgstr "Sergeant på orden"
 
@@ -7139,10 +7067,6 @@ msgid "TXT_SPEAKER_BOWYER"
 msgstr ""
 
 msgid "TXT_SPEAKER_DERWIN"
-msgstr ""
-
-# Strife subtitles
-msgid "nan"
 msgstr ""
 
 # Menu's intro.
@@ -8028,10 +7952,6 @@ msgid "TXT_SUB_LOG237"
 msgstr ""
 "Jag önskar att jag väntade på er bakom den dörren... men jag måste stanna "
 "under jorden. Det är dags för dig att träffa vår ledare, Macil."
-
-# Blackbird's remarks embedded in other conversations
-msgid "nan"
-msgstr ""
 
 # MAP02: Mourel.
 msgid "TXT_BBSUB_SCRIPT02_D57608_IFIKN"

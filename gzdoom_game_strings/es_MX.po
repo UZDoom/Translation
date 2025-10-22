@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: es_MX\n"
 
-# Doom Episode names
-msgid "nan"
-msgstr ""
-
 msgid "TXT_D1E1"
 msgstr ""
 
@@ -40,14 +36,6 @@ msgid "TXT_TNT_EP"
 msgstr ""
 
 msgid "TXT_CHEX_EP"
-msgstr ""
-
-# Level names
-msgid "nan"
-msgstr ""
-
-# Doom 1
-msgid "nan"
 msgstr ""
 
 msgid "HUSTR_E1M1"
@@ -172,10 +160,6 @@ msgstr ""
 msgid "HUSTR_E4M9"
 msgstr ""
 
-# Doom 2
-msgid "nan"
-msgstr ""
-
 # Note that the "LEVEL" part of the string will be stripped so it shouldn't be
 # translated
 msgid "HUSTR_1"
@@ -287,10 +271,6 @@ msgstr ""
 msgid "HUSTR_33"
 msgstr ""
 
-# No Rest For The Living
-msgid "nan"
-msgstr ""
-
 msgid "NHUSTR_1"
 msgstr ""
 
@@ -316,10 +296,6 @@ msgid "NHUSTR_8"
 msgstr ""
 
 msgid "NHUSTR_9"
-msgstr ""
-
-# Plutonia
-msgid "nan"
 msgstr ""
 
 msgid "PHUSTR_1"
@@ -420,10 +396,6 @@ msgstr ""
 msgid "PHUSTR_32"
 msgstr "Nivel 32: Ve x eso"
 
-# TNT: Evilution
-msgid "nan"
-msgstr ""
-
 msgid "THUSTR_1"
 msgstr ""
 
@@ -519,10 +491,6 @@ msgid "THUSTR_31"
 msgstr ""
 
 msgid "THUSTR_32"
-msgstr ""
-
-# Heretic
-msgid "nan"
 msgstr ""
 
 msgid "HHUSTR_E1M1"
@@ -660,10 +628,6 @@ msgstr ""
 msgid "HHUSTR_E5M9"
 msgstr ""
 
-# Strife
-msgid "nan"
-msgstr ""
-
 msgid "TXT_STRIFE_MAP01"
 msgstr ""
 
@@ -778,10 +742,6 @@ msgstr ""
 msgid "TXT_STRIFE_MAP38"
 msgstr ""
 
-# Hexen
-msgid "nan"
-msgstr ""
-
 msgid "TXT_HEXEN_MAP01"
 msgstr ""
 
@@ -875,10 +835,6 @@ msgstr ""
 msgid "TXT_HEXEN_MAP40"
 msgstr ""
 
-# Hexen Deathkings
-msgid "nan"
-msgstr ""
-
 msgid "TXT_HEXDD_MAP41"
 msgstr ""
 
@@ -955,10 +911,6 @@ msgid "TXT_HEXDD_MAP37"
 msgstr ""
 
 msgid "TXT_HEXDD_MAP38"
-msgstr ""
-
-# Intermission texts
-msgid "nan"
 msgstr ""
 
 # Doom Ep.1
@@ -1328,10 +1280,6 @@ msgstr ""
 msgid "TXT_HEXDD_WIN3MSG"
 msgstr ""
 
-# Hexen script texts
-msgid "nan"
-msgstr ""
-
 msgid "TXT_ACS_MAP01_5_THEDO"
 msgstr ""
 
@@ -1469,10 +1417,6 @@ msgid "TXT_ACS_MAP35_12_AREYO"
 msgstr ""
 
 msgid "TXT_ACS_MAP35_14_TOFAC"
-msgstr ""
-
-# Hexen: Deathkings script texts
-msgid "nan"
 msgstr ""
 
 msgid "TXT_ACS_MAP33_6_YOUDA"
@@ -1701,10 +1645,6 @@ msgid "TXT_ACS_MAP59_5_THEWA"
 msgstr ""
 
 msgid "TXT_ACS_MAP60_3_THEWA"
-msgstr ""
-
-# Strife dialogue
-msgid "nan"
 msgstr ""
 
 # MAP01: Beldin.
@@ -5716,10 +5656,6 @@ msgstr ""
 msgid "TXT_DLG_SCRIPT34_D31836_WELCO"
 msgstr ""
 
-# Random dialogue
-msgid "nan"
-msgstr ""
-
 msgid "TXT_RANDOM_PEASANT_01"
 msgstr ""
 
@@ -5886,10 +5822,6 @@ msgid "TXT_RANDOMGOODBYE_2"
 msgstr ""
 
 msgid "TXT_RANDOMGOODBYE_3"
-msgstr ""
-
-# Strife logs
-msgid "nan"
 msgstr ""
 
 # MAP33: After getting the hidden com unit in the tavern.
@@ -6343,10 +6275,6 @@ msgstr ""
 "entrenador de armas y ellos te dejarán listo para lo que sigue. Sientete "
 "libre de andar através de la base."
 
-# Strife characters
-msgid "nan"
-msgstr ""
-
 msgid "TXT_SPEAKER_ORDER_SERGEANT"
 msgstr ""
 
@@ -6539,10 +6467,6 @@ msgid "TXT_SPEAKER_BOWYER"
 msgstr ""
 
 msgid "TXT_SPEAKER_DERWIN"
-msgstr ""
-
-# Strife subtitles
-msgid "nan"
 msgstr ""
 
 # Menu's intro.
@@ -7232,10 +7156,6 @@ msgid "TXT_SUB_LOG236"
 msgstr ""
 
 msgid "TXT_SUB_LOG237"
-msgstr ""
-
-# Blackbird's remarks embedded in other conversations
-msgid "nan"
 msgstr ""
 
 # MAP02: Mourel.

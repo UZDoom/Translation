@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: en_US\n"
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "PRESSKEY"
 msgstr "Press a key."
 
@@ -87,10 +83,6 @@ msgstr "Only available in the registered version"
 
 msgid "DOSY"
 msgstr "(Press Y to quit)"
-
-# Quit messages
-msgid "nan"
-msgstr ""
 
 msgid "QUITMSG1"
 msgstr ""
@@ -233,16 +225,8 @@ msgstr ""
 "The real Chex(R) Warrior\n"
 "wouldn't give up so fast!"
 
-# Pickups
-msgid "nan"
-msgstr ""
-
 msgid "TXT_DEFAULTPICKUPMSG"
 msgstr "You got a pickup"
-
-# Locks
-msgid "nan"
-msgstr ""
 
 msgid "PD_ANY"
 msgstr "Any key will open this door"
@@ -265,10 +249,6 @@ msgstr "You need all six keys to activate this object"
 msgid "PD_ALLKEYS"
 msgstr "You need all the keys"
 
-# Chat
-msgid "nan"
-msgstr ""
-
 msgid "HUSTR_MSGU"
 msgstr "[Message unsent]"
 
@@ -289,10 +269,6 @@ msgstr "You've lost it..."
 
 msgid "HUSTR_MESSAGESENT"
 msgstr "[Message Sent]"
-
-# Cheats
-msgid "nan"
-msgstr ""
 
 msgid "STSTR_MUS"
 msgstr "Music Change"
@@ -470,10 +446,6 @@ msgstr "What do you want to kill outside of a game?"
 msgid "TXT_NOT_FROZEN"
 msgstr "Frozen player properties turned off"
 
-# Automap
-msgid "nan"
-msgstr ""
-
 msgid "AMSTR_FOLLOWOFF"
 msgstr "Follow Mode OFF"
 
@@ -497,10 +469,6 @@ msgstr "Marked Spot"
 
 msgid "AMSTR_MARKSCLEARED"
 msgstr "All Marks Cleared"
-
-# Multiplayer
-msgid "nan"
-msgstr ""
 
 msgid "TXT_FRAGLIMIT"
 msgstr "Fraglimit hit."
@@ -541,10 +509,6 @@ msgstr "Ultra kill!"
 msgid "MULTI5"
 msgstr "Monster kill!"
 
-# Scoreboard
-msgid "nan"
-msgstr ""
-
 msgid "SCORE_BONUS"
 msgstr "Bonus"
 
@@ -578,10 +542,6 @@ msgstr "Total"
 msgid "SCORE_LVLTIME"
 msgstr "Level Time"
 
-# Level Summary
-msgid "nan"
-msgstr ""
-
 msgid "TXT_IMKILLS"
 msgstr "Kills"
 
@@ -606,10 +566,6 @@ msgstr "Entering"
 msgid "WI_ENTERING"
 msgstr "Now entering:"
 
-# HUD
-msgid "nan"
-msgstr ""
-
 msgid "AM_MONSTERS"
 msgstr "Monsters:"
 
@@ -618,10 +574,6 @@ msgstr "Secrets:"
 
 msgid "AM_ITEMS"
 msgstr "Items:"
-
-# Obituaries
-msgid "nan"
-msgstr ""
 
 msgid "OB_SUICIDE"
 msgstr "%o suicides."
@@ -686,10 +638,6 @@ msgstr "%k gets a frag for the other team."
 
 msgid "OB_FRIENDLY4"
 msgstr "%k loses another friend."
-
-# Pickup
-msgid "nan"
-msgstr ""
 
 msgid "GOTARMOR"
 msgstr "Picked up the armor."
@@ -817,10 +765,6 @@ msgstr "You pick up an evil sceptre."
 msgid "BETA_BONUS4"
 msgstr "You pick up an unholy bible."
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "PD_BLUEO"
 msgstr "You need a blue key to activate this object"
 
@@ -875,10 +819,6 @@ msgstr "You need a red skull to open this door"
 msgid "PD_YELLOWS"
 msgstr "You need a yellow skull to open this door"
 
-# Cast call names
-msgid "nan"
-msgstr ""
-
 msgid "CC_ZOMBIE"
 msgstr "Zombieman"
 
@@ -931,10 +871,6 @@ msgstr "The Cyberdemon"
 
 msgid "CC_HERO"
 msgstr "Our Hero"
-
-# Actor tag names
-msgid "nan"
-msgstr ""
 
 msgid "FN_SHOTGUN"
 msgstr "Sergeant"
@@ -995,10 +931,6 @@ msgstr "Rockets"
 
 msgid "AMMO_CELLS"
 msgstr "Energy Cells"
-
-# Obituaries
-msgid "nan"
-msgstr ""
 
 msgid "OB_STEALTHBABY"
 msgstr "%o thought %g saw an arachnotron."
@@ -1144,14 +1076,6 @@ msgstr "%o was railed by %k."
 msgid "OB_MPBFG_MBF"
 msgstr "%o was burned by %k's BFG."
 
-# Heretic
-msgid "nan"
-msgstr ""
-
-# Pickup 
-msgid "nan"
-msgstr ""
-
 msgid "TXT_GOTBLUEKEY"
 msgstr "Blue Key"
 
@@ -1263,10 +1187,6 @@ msgstr "Phoenix Rod"
 msgid "TXT_WPNGAUNTLETS"
 msgstr "Gauntlets of the Necromancer"
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NEEDBLUEKEY"
 msgstr "You need a blue key to open this door"
 
@@ -1275,10 +1195,6 @@ msgstr "You need a green key to open this door"
 
 msgid "TXT_NEEDYELLOWKEY"
 msgstr "You need a yellow key to open this door"
-
-# Actor tag names
-msgid "nan"
-msgstr ""
 
 msgid "FN_CHICKEN"
 msgstr "Chicken"
@@ -1341,10 +1257,6 @@ msgstr "Staff"
 
 msgid "TAG_GOLDWAND"
 msgstr "Elven Wand"
-
-# Obituaries
-msgid "nan"
-msgstr ""
 
 msgid "OB_CHICKEN"
 msgstr "%o was pecked to death."
@@ -1453,14 +1365,6 @@ msgstr "%o was burned down by %k's phoenix staff."
 
 msgid "OB_MPPMACE"
 msgstr "%o was squished by %k's giant mace sphere."
-
-# Hexen
-msgid "nan"
-msgstr ""
-
-# Pickup
-msgid "nan"
-msgstr ""
 
 msgid "TXT_MANA_1"
 msgstr "Blue Mana"
@@ -1630,10 +1534,6 @@ msgstr "Segment of Wraithverge"
 msgid "TXT_BLOODSCOURGE_PIECE"
 msgstr "Segment of Bloodscourge"
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NEED_KEY_STEEL"
 msgstr "You need the Steel Key"
 
@@ -1666,10 +1566,6 @@ msgstr "You need the Swamp Key"
 
 msgid "TXT_NEED_KEY_CASTLE"
 msgstr "You need the Castle Key"
-
-# Actor tag names
-msgid "nan"
-msgstr ""
 
 msgid "FN_FIREDEMON"
 msgstr "Afrit"
@@ -1848,10 +1744,6 @@ msgstr "Brass and iron gear"
 msgid "TAG_ARTIPUZZGEAR4"
 msgstr "Silver and brass gear"
 
-# Obituaries
-msgid "nan"
-msgstr ""
-
 msgid "OB_FIREDEMON"
 msgstr "%o tasted an Afrit's fire."
 
@@ -1950,14 +1842,6 @@ msgstr "%o received a shocking revelation from %k."
 
 msgid "OB_MPMWEAPBLOODSCOURGE"
 msgstr "%o was wiped off the face of the universe by %k's Bloodscourge."
-
-# Strife
-msgid "nan"
-msgstr ""
-
-# Pickups
-msgid "nan"
-msgstr ""
 
 msgid "TXT_METALARMOR"
 msgstr "You picked up the Metal Armor."
@@ -2187,10 +2071,6 @@ msgstr "It must do something..."
 msgid "MSG_TALISMANPOWER"
 msgstr "You have super strength!"
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NEEDKEY"
 msgstr "You don't have the key"
 
@@ -2241,10 +2121,6 @@ msgstr "You need the chalice!"
 
 msgid "TXT_NEED_OPASS"
 msgstr "You need the Oracle Pass!"
-
-# Actor tags
-msgid "nan"
-msgstr ""
 
 msgid "TAG_PUNCHDAGGER"
 msgstr "Dagger"
@@ -2549,10 +2425,6 @@ msgstr "Green Talisman"
 msgid "TAG_TALISMANBLUE"
 msgstr "Blue Talisman"
 
-# Obituaries
-msgid "nan"
-msgstr ""
-
 msgid "OB_ACOLYTE"
 msgstr "%o was zealously shot down by an Acolyte."
 
@@ -2643,10 +2515,6 @@ msgstr "%o was viciously vaporized by %k."
 msgid "OB_MPSIGIL"
 msgstr "%o bowed down to the sheer power of %k's Sigil."
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "TXT_STRIFE_EPI"
 msgstr "Quest for the Sigil"
 
@@ -2704,14 +2572,6 @@ msgstr "Find help"
 # As in for %u amount of money.
 msgid "TXT_TRADE"
 msgstr "for %u"
-
-# Chex Quest
-msgid "nan"
-msgstr ""
-
-# Pickups
-msgid "nan"
-msgstr ""
 
 msgid "GOTCHEXARMOR"
 msgstr "Picked up the Chex(R) Armor."
@@ -2803,10 +2663,6 @@ msgstr "You got the Mega Zorcher!"
 msgid "GOTMINIZORCHER"
 msgstr "Picked up a Mini Zorcher."
 
-# Actor tags
-msgid "nan"
-msgstr ""
-
 msgid "TAG_SPOON"
 msgstr "Spoon"
 
@@ -2878,10 +2734,6 @@ msgstr "%o fell prey to %k's LAZ device."
 
 msgid "OB_MPBFG_SPLASH"
 msgstr "%o was lazzed by %k."
-
-# Miscellaneous
-msgid "nan"
-msgstr ""
 
 msgid "CHUSTR_E1M1"
 msgstr "E1M1: Landing Zone"
@@ -3008,14 +2860,6 @@ msgstr "Propulsor Charge"
 
 msgid "AMMO_CELLS"
 msgstr "Phasing Zorcher Charge"
-
-# Menus
-msgid "nan"
-msgstr ""
-
-# Main Menus
-msgid "nan"
-msgstr ""
 
 msgid "MNU_NEWGAME"
 msgstr "New Game"
@@ -3176,10 +3020,6 @@ msgstr "The Ossuary"
 
 msgid "MNU_DEMESNE"
 msgstr "The Stagnant Demesne"
-
-# Gameplay menus
-msgid "nan"
-msgstr ""
 
 msgid "GMPLYMNU_TEAMPLAY"
 msgstr "Teamplay"
@@ -3508,10 +3348,6 @@ msgstr "No vertical thrust from explosions"
 msgid "CMPTMNU_EXPLODE2"
 msgstr "Use original Doom explosion behavior"
 
-# player
-msgid "nan"
-msgstr ""
-
 msgid "PLYRMNU_RED"
 msgstr "Red"
 
@@ -3541,10 +3377,6 @@ msgstr "to see back"
 
 msgid "PLYRMNU_VERTSPREAD"
 msgstr "Vertical Bullet Spread"
-
-# controls
-msgid "nan"
-msgstr ""
 
 msgid "CNTRLMNU_ZOOM"
 msgstr "Weapon Zoom"
@@ -3614,10 +3446,6 @@ msgstr "Lookspring"
 
 msgid "MOUSEMNU_LOOKSTRAFE"
 msgstr "Lookstrafe"
-
-# Map colors
-msgid "nan"
-msgstr ""
 
 msgid "MAPCOLORMNU_BACKCOLOR"
 msgstr "Background"
@@ -3700,10 +3528,6 @@ msgstr "Overlay Cheat Mode"
 msgid "MAPCOLORMNU_PORTAL"
 msgstr "Portal Overlays"
 
-# Messages
-msgid "nan"
-msgstr ""
-
 msgid "MSGMNU_TITLE"
 msgstr "Messages"
 
@@ -3748,10 +3572,6 @@ msgstr "Detailed save messages"
 
 msgid "MSGMNU_DEVELOPER"
 msgstr "Developer message mode"
-
-# Automap
-msgid "nan"
-msgstr ""
 
 msgid "AUTOMAPMNU_COLORSET"
 msgstr "Map color set"
@@ -3822,10 +3642,6 @@ msgstr "Set mark"
 msgid "MAPCNTRLMNU_CLEARMARK"
 msgstr "Clear mark"
 
-# Scoreboard
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_SCOREBOARD"
 msgstr "Scoreboard Options"
 
@@ -3852,10 +3668,6 @@ msgstr "Deathmatch Options"
 
 msgid "SCRBRDMNU_TEAMDEATHMATCH"
 msgstr "Team Deathmatch Options"
-
-# Alt HUD
-msgid "nan"
-msgstr ""
 
 msgid "ALTHUDMNU_TITLE"
 msgstr "Alternative HUD"
@@ -3947,10 +3759,6 @@ msgstr "Statistics name color"
 msgid "ALTHUDMNU_STATSCOLOR"
 msgstr "Statistics color"
 
-# Display (game related)
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_CAPFPS"
 msgstr "Rendering Interpolation"
 
@@ -4041,10 +3849,6 @@ msgstr "View bob amount while not moving"
 msgid "DSPLYMNU_BOBSPEED"
 msgstr "Weapon bob speed"
 
-# Scaling
-msgid "nan"
-msgstr ""
-
 msgid "SCALEMNU_TITLE"
 msgstr "Scaling Options"
 
@@ -4077,10 +3881,6 @@ msgstr "Scale to fullscreen"
 
 msgid "SCALEMNU_ADAPT"
 msgstr "Adapt to screen size"
-
-# HUD
-msgid "nan"
-msgstr ""
 
 msgid "HUDMNU_TITLE"
 msgstr "HUD Options"
@@ -4129,10 +3929,6 @@ msgstr "Show IWAD selection dialog"
 
 msgid "MISCMNU_ALLCHEATS"
 msgstr "Enable cheats from all games"
-
-# Option Menus
-msgid "nan"
-msgstr ""
 
 msgid "MISCMNU_ENABLESCRIPTSCREENSHOTS"
 msgstr "Enable making screenshots by scripts"
@@ -4808,10 +4604,6 @@ msgstr "Search:"
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Always show keys"
 
-# Newly added content
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NO_TEAM_CHANGE"
 msgstr "Team changing has been disabled!"
 
@@ -5308,11 +5100,6 @@ msgstr "From interacting with the world"
 msgid "PAUSE_STRING"
 msgstr "Pause"
 
-# New Doom item Tags for GZDoom 5.0. The names used here are taken from the
-# Doom manual (Doomwiki was referenced)
-msgid "nan"
-msgstr ""
-
 msgid "TAG_BACKPACK"
 msgstr "Backpack"
 
@@ -5375,10 +5162,6 @@ msgstr "Yellow Skull Key"
 
 msgid "TAG_REDSKULL"
 msgstr "Red Skull Key"
-
-# Chex Quest item tags
-msgid "nan"
-msgstr ""
 
 msgid "TAG_GLASSOFWATER"
 msgstr "Glass of Water"

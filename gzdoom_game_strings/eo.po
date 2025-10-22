@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: eo\n"
 
-# Doom Episode names
-msgid "nan"
-msgstr ""
-
 msgid "TXT_D1E1"
 msgstr "Ĝiskole inter mortintoj"
 
@@ -41,14 +37,6 @@ msgstr "TNT: Mavalucio"
 
 msgid "TXT_CHEX_EP"
 msgstr "Aventuro de Chex"
-
-# Level names
-msgid "nan"
-msgstr ""
-
-# Doom 1
-msgid "nan"
-msgstr ""
 
 msgid "HUSTR_E1M1"
 msgstr "E1M1: Hangaro"
@@ -172,10 +160,6 @@ msgstr "E4M8: Al la kruelulo"
 msgid "HUSTR_E4M9"
 msgstr "E4M9: Timo"
 
-# Doom 2
-msgid "nan"
-msgstr ""
-
 # Note that the "LEVEL" part of the string will be stripped so it shouldn't be
 # translated
 msgid "HUSTR_1"
@@ -287,10 +271,6 @@ msgstr "Nivelo 32: Keen"
 msgid "HUSTR_33"
 msgstr "Nivelo 33: Perfido"
 
-# No Rest For The Living
-msgid "nan"
-msgstr ""
-
 msgid "NHUSTR_1"
 msgstr "Nivelo 1: La Tera Bazo"
 
@@ -317,10 +297,6 @@ msgstr "Nivelo 8: Tombo de Malbonvolo"
 
 msgid "NHUSTR_9"
 msgstr "Nivelo 9: Marŝo de La Demonoj"
-
-# Plutonia
-msgid "nan"
-msgstr ""
 
 msgid "PHUSTR_1"
 msgstr "Nivelo 1: Kongo"
@@ -420,10 +396,6 @@ msgstr "Nivelo 31: Cibernesto"
 msgid "PHUSTR_32"
 msgstr "Nivelo 32: Iru al ĝi!"
 
-# TNT: Evilution
-msgid "nan"
-msgstr ""
-
 msgid "THUSTR_1"
 msgstr "Nivelo 1: Sistema Kontrolo"
 
@@ -520,10 +492,6 @@ msgstr "Nivelo 31: Faraono"
 
 msgid "THUSTR_32"
 msgstr "Nivelo 32: Karibio"
-
-# Heretic
-msgid "nan"
-msgstr ""
 
 msgid "HHUSTR_E1M1"
 msgstr "La Havenoj"
@@ -660,10 +628,6 @@ msgstr "Kampo de Juĝo"
 msgid "HHUSTR_E5M9"
 msgstr "Fadenaro de D'Sparil"
 
-# Strife
-msgid "nan"
-msgstr ""
-
 msgid "TXT_STRIFE_MAP01"
 msgstr "AREO 1: Sanktejo"
 
@@ -778,10 +742,6 @@ msgstr "AREO 37: Tereno de mortigado"
 msgid "TXT_STRIFE_MAP38"
 msgstr "AREO 38: Orda kaoso"
 
-# Hexen
-msgid "nan"
-msgstr ""
-
 msgid "TXT_HEXEN_MAP01"
 msgstr "Solenejo de Separado"
 
@@ -875,10 +835,6 @@ msgstr "Vivario"
 msgid "TXT_HEXEN_MAP40"
 msgstr "Malluma Krisolo"
 
-# Hexen Deathkings
-msgid "nan"
-msgstr ""
-
 msgid "TXT_HEXDD_MAP41"
 msgstr "Ruina vilaĝo"
 
@@ -956,10 +912,6 @@ msgstr "Fekaĵputo"
 
 msgid "TXT_HEXDD_MAP38"
 msgstr "La Rozo"
-
-# Intermission texts
-msgid "nan"
-msgstr ""
 
 # Doom Ep.1
 msgid "E1TEXT"
@@ -1584,10 +1536,6 @@ msgstr ""
 msgid "TXT_HEXDD_WIN3MSG"
 msgstr "\\n...kaj aliaj ludantoj atendas."
 
-# Hexen script texts
-msgid "nan"
-msgstr ""
-
 msgid "TXT_ACS_MAP01_5_THEDO"
 msgstr "La pordo estas ŝlosita."
 
@@ -1726,10 +1674,6 @@ msgstr "Ĉu vi estas sufiĉe forta"
 
 msgid "TXT_ACS_MAP35_14_TOFAC"
 msgstr "por stari kontraŭ viaj propraj mastroj?"
-
-# Hexen: Deathkings script texts
-msgid "nan"
-msgstr ""
 
 msgid "TXT_ACS_MAP33_6_YOUDA"
 msgstr "Vi aŭdacas batali en la pretĉambro?"
@@ -1958,10 +1902,6 @@ msgstr "La vojo al la turo estas malfermita."
 
 msgid "TXT_ACS_MAP60_3_THEWA"
 msgstr "La vojo estas malfermita."
-
-# Strife dialogue
-msgid "nan"
-msgstr ""
 
 # MAP01: Beldin.
 msgid "TXT_DLG_SCRIPT01_D0_IDONT"
@@ -6383,10 +6323,6 @@ msgstr "Tiu estas la spirito."
 msgid "TXT_DLG_SCRIPT34_D31836_WELCO"
 msgstr "Bonvenon, amiko!"
 
-# Random dialogue
-msgid "nan"
-msgstr ""
-
 msgid "TXT_RANDOM_PEASANT_01"
 msgstr "Bonvolu ne vundi min."
 
@@ -6557,10 +6493,6 @@ msgstr "Dankon. Ĝis!"
 
 msgid "TXT_RANDOMGOODBYE_3"
 msgstr "Ĝis la revido!"
-
-# Strife logs
-msgid "nan"
-msgstr ""
 
 # MAP33: After getting the hidden com unit in the tavern.
 msgid "TXT_ILOG1"
@@ -7059,10 +6991,6 @@ msgstr ""
 msgid "TXT_ILOG1201"
 msgstr ""
 
-# Strife characters
-msgid "nan"
-msgstr ""
-
 msgid "TXT_SPEAKER_ORDER_SERGEANT"
 msgstr "Serĝento de La Ordeno"
 
@@ -7255,10 +7183,6 @@ msgid "TXT_SPEAKER_BOWYER"
 msgstr ""
 
 msgid "TXT_SPEAKER_DERWIN"
-msgstr ""
-
-# Strife subtitles
-msgid "nan"
 msgstr ""
 
 # Menu's intro.
@@ -7926,10 +7850,6 @@ msgid "TXT_SUB_LOG236"
 msgstr ""
 
 msgid "TXT_SUB_LOG237"
-msgstr ""
-
-# Blackbird's remarks embedded in other conversations
-msgid "nan"
 msgstr ""
 
 # MAP02: Mourel.

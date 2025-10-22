@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: nb_NO\n"
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "PRESSKEY"
 msgstr "Trykk på en tast."
 
@@ -84,10 +80,6 @@ msgstr "Bare tilgjengelig i den registrerte versjonen"
 
 msgid "DOSY"
 msgstr "(Trykk Y for å avslutte)"
-
-# Quit messages
-msgid "nan"
-msgstr ""
 
 msgid "QUITMSG1"
 msgstr "Vennligst ikke gå, det er flere demoner å skåle!"
@@ -180,16 +172,8 @@ msgstr "Ikke forlat Den intergalaktiske kornføderasjonen!"
 msgid "QUITMSG29"
 msgstr "Den ekte Chex(R) kriger ville ikke gitt opp så fort!"
 
-# Pickups
-msgid "nan"
-msgstr ""
-
 msgid "TXT_DEFAULTPICKUPMSG"
 msgstr "Du har en henting"
-
-# Locks
-msgid "nan"
-msgstr ""
 
 msgid "PD_ANY"
 msgstr "Hvilken som helst nøkkel åpner denne døren"
@@ -212,10 +196,6 @@ msgstr "Du trenger alle seks nøklene for å aktivere dette objektet"
 msgid "PD_ALLKEYS"
 msgstr "Du trenger alle nøklene"
 
-# Chat
-msgid "nan"
-msgstr ""
-
 msgid "HUSTR_MSGU"
 msgstr "[Melding ikke sendt]"
 
@@ -236,10 +216,6 @@ msgstr "You've lost it..."
 
 msgid "HUSTR_MESSAGESENT"
 msgstr "[Melding sendt]"
-
-# Cheats
-msgid "nan"
-msgstr ""
 
 msgid "STSTR_MUS"
 msgstr "Music Change"
@@ -417,10 +393,6 @@ msgstr "Hva vil du drepe utenfor et spill?"
 msgid "TXT_NOT_FROZEN"
 msgstr "Frosne spilleregenskaper slått av"
 
-# Automap
-msgid "nan"
-msgstr ""
-
 msgid "AMSTR_FOLLOWOFF"
 msgstr "Følgemodus AV"
 
@@ -444,10 +416,6 @@ msgstr "Markert punkt"
 
 msgid "AMSTR_MARKSCLEARED"
 msgstr "Alle merker fjernet"
-
-# Multiplayer
-msgid "nan"
-msgstr ""
 
 msgid "TXT_FRAGLIMIT"
 msgstr "Fraglimit treff."
@@ -488,10 +456,6 @@ msgstr "Ultra drep!"
 msgid "MULTI5"
 msgstr "Monster drep!"
 
-# Scoreboard
-msgid "nan"
-msgstr ""
-
 msgid "SCORE_BONUS"
 msgstr ""
 
@@ -525,10 +489,6 @@ msgstr "Totalt"
 msgid "SCORE_LVLTIME"
 msgstr "Nivå Tid"
 
-# Level Summary
-msgid "nan"
-msgstr ""
-
 msgid "TXT_IMKILLS"
 msgstr "Drepte"
 
@@ -553,10 +513,6 @@ msgstr "Går inn"
 msgid "WI_ENTERING"
 msgstr "Går nå inn:"
 
-# HUD
-msgid "nan"
-msgstr ""
-
 msgid "AM_MONSTERS"
 msgstr "Monstre:"
 
@@ -565,10 +521,6 @@ msgstr "Hemmeligheter:"
 
 msgid "AM_ITEMS"
 msgstr "Gjenstander:"
-
-# Obituaries
-msgid "nan"
-msgstr ""
 
 msgid "OB_SUICIDE"
 msgstr "%o begår selvmord."
@@ -633,10 +585,6 @@ msgstr "%k får en frag for det andre laget."
 
 msgid "OB_FRIENDLY4"
 msgstr "%k mister enda en venn."
-
-# Pickup
-msgid "nan"
-msgstr ""
 
 msgid "GOTARMOR"
 msgstr "Plukket opp rustningen."
@@ -764,10 +712,6 @@ msgstr "Du plukker opp et ondt septer."
 msgid "BETA_BONUS4"
 msgstr "Du plukker opp en uhellig bibel."
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "PD_BLUEO"
 msgstr "Du trenger en blå nøkkel for å aktivere denne gjenstanden"
 
@@ -822,10 +766,6 @@ msgstr "Du trenger en rød hodeskalle for å åpne denne døren"
 msgid "PD_YELLOWS"
 msgstr "Du trenger en gul hodeskalle for å åpne denne døren"
 
-# Cast call names
-msgid "nan"
-msgstr ""
-
 msgid "CC_ZOMBIE"
 msgstr "Zombiemann"
 
@@ -878,10 +818,6 @@ msgstr "Kyberdemonen"
 
 msgid "CC_HERO"
 msgstr "Vår helt"
-
-# Actor tag names
-msgid "nan"
-msgstr ""
 
 msgid "FN_SHOTGUN"
 msgstr "Sersjant"
@@ -942,10 +878,6 @@ msgstr "Raketter"
 
 msgid "AMMO_CELLS"
 msgstr "Energiceller"
-
-# Obituaries
-msgid "nan"
-msgstr ""
 
 msgid "OB_STEALTHBABY"
 msgstr "%o trodde @[pro_dk] så et arachnotron."
@@ -1091,14 +1023,6 @@ msgstr "%o ble skutt av %k."
 msgid "OB_MPBFG_MBF"
 msgstr "%o ble brent av %ks BFG."
 
-# Heretic
-msgid "nan"
-msgstr ""
-
-# Pickup 
-msgid "nan"
-msgstr ""
-
 msgid "TXT_GOTBLUEKEY"
 msgstr "Blå nøkkel"
 
@@ -1210,10 +1134,6 @@ msgstr "Føniksstaven"
 msgid "TXT_WPNGAUNTLETS"
 msgstr "Nekromantens hansker"
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NEEDBLUEKEY"
 msgstr "Du trenger en blå nøkkel for å åpne denne døren"
 
@@ -1222,10 +1142,6 @@ msgstr "Du trenger en grønn nøkkel for å åpne denne døren"
 
 msgid "TXT_NEEDYELLOWKEY"
 msgstr "Du trenger en gul nøkkel for å åpne denne døren"
-
-# Actor tag names
-msgid "nan"
-msgstr ""
 
 msgid "FN_CHICKEN"
 msgstr "Kylling"
@@ -1288,10 +1204,6 @@ msgstr "Stav"
 
 msgid "TAG_GOLDWAND"
 msgstr "Alvestav"
-
-# Obituaries
-msgid "nan"
-msgstr ""
 
 msgid "OB_CHICKEN"
 msgstr "%o ble hakket i hjel."
@@ -1400,14 +1312,6 @@ msgstr "%o ble brent ned av %ks føniksstav."
 
 msgid "OB_MPPMACE"
 msgstr "%o ble knust av %ks gigantiske muskatblomstkule."
-
-# Hexen
-msgid "nan"
-msgstr ""
-
-# Pickup
-msgid "nan"
-msgstr ""
 
 msgid "TXT_MANA_1"
 msgstr "Blå Mana"
@@ -1577,10 +1481,6 @@ msgstr "Segment av Wraithverge"
 msgid "TXT_BLOODSCOURGE_PIECE"
 msgstr "Segment av Bloodscourge"
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NEED_KEY_STEEL"
 msgstr "Du trenger stålnøkkelen"
 
@@ -1613,10 +1513,6 @@ msgstr "Du trenger Sump-nøkkelen"
 
 msgid "TXT_NEED_KEY_CASTLE"
 msgstr "Du trenger slottsnøkkelen"
-
-# Actor tag names
-msgid "nan"
-msgstr ""
 
 msgid "FN_FIREDEMON"
 msgstr ""
@@ -1795,10 +1691,6 @@ msgstr "Utstyr av messing og jern"
 msgid "TAG_ARTIPUZZGEAR4"
 msgstr "Utstyr av sølv og messing"
 
-# Obituaries
-msgid "nan"
-msgstr ""
-
 msgid "OB_FIREDEMON"
 msgstr "%o smakte en Afrits ild."
 
@@ -1897,14 +1789,6 @@ msgstr "%o fikk en sjokkerende åpenbaring fra %k."
 
 msgid "OB_MPMWEAPBLOODSCOURGE"
 msgstr "%o ble utslettet fra universets overflate av %ks Bloodscourge."
-
-# Strife
-msgid "nan"
-msgstr ""
-
-# Pickups
-msgid "nan"
-msgstr ""
 
 msgid "TXT_METALARMOR"
 msgstr "Du plukket opp metallrustningen."
@@ -2134,10 +2018,6 @@ msgstr "Det må gjøre noe..."
 msgid "MSG_TALISMANPOWER"
 msgstr "Du har superkrefter!"
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NEEDKEY"
 msgstr "Du har ikke nøkkelen"
 
@@ -2188,10 +2068,6 @@ msgstr "Du trenger begeret!"
 
 msgid "TXT_NEED_OPASS"
 msgstr "Du trenger Orakelpasset!"
-
-# Actor tags
-msgid "nan"
-msgstr ""
 
 msgid "TAG_PUNCHDAGGER"
 msgstr "Dolk"
@@ -2496,10 +2372,6 @@ msgstr "Grønn talisman"
 msgid "TAG_TALISMANBLUE"
 msgstr "Blå talisman"
 
-# Obituaries
-msgid "nan"
-msgstr ""
-
 msgid "OB_ACOLYTE"
 msgstr "%o ble nidkjært skutt ned av en akolytt."
 
@@ -2590,10 +2462,6 @@ msgstr "%o ble ondskapsfullt fordampet av %k."
 msgid "OB_MPSIGIL"
 msgstr "%o bøyde seg for kraften til %ks Sigil."
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "TXT_STRIFE_EPI"
 msgstr "Jakten på sigilet"
 
@@ -2651,14 +2519,6 @@ msgstr "Finn hjelp"
 # As in for %u amount of money.
 msgid "TXT_TRADE"
 msgstr "til %u"
-
-# Chex Quest
-msgid "nan"
-msgstr ""
-
-# Pickups
-msgid "nan"
-msgstr ""
 
 msgid "GOTCHEXARMOR"
 msgstr "Plukket opp Chex(R) Armor."
@@ -2750,10 +2610,6 @@ msgstr "Du har Mega Zorcher!"
 msgid "GOTMINIZORCHER"
 msgstr "Plukket opp en Mini Zorcher."
 
-# Actor tags
-msgid "nan"
-msgstr ""
-
 msgid "TAG_SPOON"
 msgstr "Skje"
 
@@ -2825,10 +2681,6 @@ msgstr "%o ble offer for %k's LAZ-enhet."
 
 msgid "OB_MPBFG_SPLASH"
 msgstr "%o ble lazzed av %k."
-
-# Miscellaneous
-msgid "nan"
-msgstr ""
 
 msgid "CHUSTR_E1M1"
 msgstr "E1M1: Landingssone"
@@ -2953,14 +2805,6 @@ msgstr "Propulsor ladning"
 
 msgid "AMMO_CELLS"
 msgstr "Phasing-Zorcher ladning"
-
-# Menus
-msgid "nan"
-msgstr ""
-
-# Main Menus
-msgid "nan"
-msgstr ""
 
 msgid "MNU_NEWGAME"
 msgstr "Nytt spill"
@@ -3121,10 +2965,6 @@ msgstr "Beinhuset"
 
 msgid "MNU_DEMESNE"
 msgstr "Den stillestående herregården"
-
-# Gameplay menus
-msgid "nan"
-msgstr ""
 
 msgid "GMPLYMNU_TEAMPLAY"
 msgstr "Lagspill"
@@ -3453,10 +3293,6 @@ msgstr "Ingen vertikal skyvekraft fra eksplosjoner"
 msgid "CMPTMNU_EXPLODE2"
 msgstr "Bruk original Doom-eksplosjonsatferd"
 
-# player
-msgid "nan"
-msgstr ""
-
 msgid "PLYRMNU_RED"
 msgstr "Rød"
 
@@ -3486,10 +3322,6 @@ msgstr "for å se baksiden"
 
 msgid "PLYRMNU_VERTSPREAD"
 msgstr "Vertikal kulespredning"
-
-# controls
-msgid "nan"
-msgstr ""
 
 msgid "CNTRLMNU_ZOOM"
 msgstr "Våpen Zoom"
@@ -3559,10 +3391,6 @@ msgstr "Sentrer automatisk"
 
 msgid "MOUSEMNU_LOOKSTRAFE"
 msgstr "Flytt sidelengs med musen"
-
-# Map colors
-msgid "nan"
-msgstr ""
 
 msgid "MAPCOLORMNU_BACKCOLOR"
 msgstr "Bakgrunn"
@@ -3645,10 +3473,6 @@ msgstr "Overlegg-juksemodus"
 msgid "MAPCOLORMNU_PORTAL"
 msgstr "Portal-overlegg"
 
-# Messages
-msgid "nan"
-msgstr ""
-
 msgid "MSGMNU_TITLE"
 msgstr "Meldinger"
 
@@ -3693,10 +3517,6 @@ msgstr "Detaljerte lagringsmeldinger"
 
 msgid "MSGMNU_DEVELOPER"
 msgstr "Meldingsmodus for utviklere"
-
-# Automap
-msgid "nan"
-msgstr ""
 
 msgid "AUTOMAPMNU_COLORSET"
 msgstr "Kartfargesett"
@@ -3767,10 +3587,6 @@ msgstr "Sett merke"
 msgid "MAPCNTRLMNU_CLEARMARK"
 msgstr "Fjern merke"
 
-# Scoreboard
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_SCOREBOARD"
 msgstr "Alternativer for resultattavlen"
 
@@ -3797,10 +3613,6 @@ msgstr "Deathmatch-alternativer"
 
 msgid "SCRBRDMNU_TEAMDEATHMATCH"
 msgstr "Lag Deathmatch-alternativer"
-
-# Alt HUD
-msgid "nan"
-msgstr ""
 
 msgid "ALTHUDMNU_TITLE"
 msgstr "Alternativ HUD"
@@ -3892,10 +3704,6 @@ msgstr "Farge på statistikknavn"
 msgid "ALTHUDMNU_STATSCOLOR"
 msgstr "Statistikk farge"
 
-# Display (game related)
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_CAPFPS"
 msgstr "Gjengivelse av interpolasjon"
 
@@ -3986,10 +3794,6 @@ msgstr "Vis bobmengde mens du ikke beveger deg"
 msgid "DSPLYMNU_BOBSPEED"
 msgstr "Våpen bob hastighet"
 
-# Scaling
-msgid "nan"
-msgstr ""
-
 msgid "SCALEMNU_TITLE"
 msgstr "Alternativer for skalering"
 
@@ -4022,10 +3826,6 @@ msgstr "Skaler til fullskjerm"
 
 msgid "SCALEMNU_ADAPT"
 msgstr "Tilpass til skjermstørrelse"
-
-# HUD
-msgid "nan"
-msgstr ""
 
 msgid "HUDMNU_TITLE"
 msgstr "HUD-alternativer"
@@ -4074,10 +3874,6 @@ msgstr "Vis IWAD-valgdialogboks"
 
 msgid "MISCMNU_ALLCHEATS"
 msgstr "Aktiver juks fra alle spill"
-
-# Option Menus
-msgid "nan"
-msgstr ""
 
 msgid "MISCMNU_ENABLESCRIPTSCREENSHOTS"
 msgstr "Gjør det mulig å lage skjermbilder av skript"
@@ -4753,10 +4549,6 @@ msgstr "Søk:"
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Vis alltid nøkler"
 
-# Newly added content
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NO_TEAM_CHANGE"
 msgstr "Lagbytte har blitt deaktivert!"
 
@@ -5256,11 +5048,6 @@ msgstr ""
 msgid "PAUSE_STRING"
 msgstr ""
 
-# New Doom item Tags for GZDoom 5.0. The names used here are taken from the
-# Doom manual (Doomwiki was referenced)
-msgid "nan"
-msgstr ""
-
 msgid "TAG_BACKPACK"
 msgstr ""
 
@@ -5322,10 +5109,6 @@ msgid "TAG_YELLOWSKULL"
 msgstr ""
 
 msgid "TAG_REDSKULL"
-msgstr ""
-
-# Chex Quest item tags
-msgid "nan"
 msgstr ""
 
 msgid "TAG_GLASSOFWATER"

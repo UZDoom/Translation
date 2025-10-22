@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: ja\n"
 
-# Doom Episode names
-msgid "nan"
-msgstr ""
-
 msgid "TXT_D1E1"
 msgstr "膝元迫る亡者"
 
@@ -41,14 +37,6 @@ msgstr "TNT:邪神化"
 
 msgid "TXT_CHEX_EP"
 msgstr "チェックス クエスト"
-
-# Level names
-msgid "nan"
-msgstr ""
-
-# Doom 1
-msgid "nan"
-msgstr ""
 
 msgid "HUSTR_E1M1"
 msgstr "E1M1: 格納庫"
@@ -172,10 +160,6 @@ msgstr "E4M8: 容赦なき者へ"
 msgid "HUSTR_E4M9"
 msgstr "E4M9: 恐怖"
 
-# Doom 2
-msgid "nan"
-msgstr ""
-
 # Note that the "LEVEL" part of the string will be stripped so it shouldn't be
 # translated
 msgid "HUSTR_1"
@@ -287,10 +271,6 @@ msgstr "Level 32: キーン"
 msgid "HUSTR_33"
 msgstr "Level 33: 裏切り"
 
-# No Rest For The Living
-msgid "nan"
-msgstr ""
-
 msgid "NHUSTR_1"
 msgstr "Level 1: 地球基地"
 
@@ -317,10 +297,6 @@ msgstr "Level 8: 悪意の墓"
 
 msgid "NHUSTR_9"
 msgstr "Level 9: デーモンの行進"
-
-# Plutonia
-msgid "nan"
-msgstr ""
 
 msgid "PHUSTR_1"
 msgstr "Level 1: コンゴ川"
@@ -420,10 +396,6 @@ msgstr "Level 31: サイバーの巣"
 msgid "PHUSTR_32"
 msgstr "Level 32: 逝ってこい"
 
-# TNT: Evilution
-msgid "nan"
-msgstr ""
-
 msgid "THUSTR_1"
 msgstr "Level 1: 制御システム"
 
@@ -520,10 +492,6 @@ msgstr "Level 31: ファラオ"
 
 msgid "THUSTR_32"
 msgstr "Level 32: カリビアン"
-
-# Heretic
-msgid "nan"
-msgstr ""
 
 msgid "HHUSTR_E1M1"
 msgstr "埠頭"
@@ -660,10 +628,6 @@ msgstr "審判之地"
 msgid "HHUSTR_E5M9"
 msgstr "デ'スパリルの枷"
 
-# Strife
-msgid "nan"
-msgstr ""
-
 msgid "TXT_STRIFE_MAP01"
 msgstr "エリア 1: 聖域"
 
@@ -778,10 +742,6 @@ msgstr "エリア 37: 殺害者の地"
 msgid "TXT_STRIFE_MAP38"
 msgstr "エリア 38: カオスの秩序"
 
-# Hexen
-msgid "nan"
-msgstr ""
-
 msgid "TXT_HEXEN_MAP01"
 msgstr "選抜の間"
 
@@ -875,10 +835,6 @@ msgstr "ビバリウム"
 msgid "TXT_HEXEN_MAP40"
 msgstr "暗黒の坩堝\n"
 
-# Hexen Deathkings
-msgid "nan"
-msgstr ""
-
 msgid "TXT_HEXDD_MAP41"
 msgstr "廃村"
 
@@ -956,10 +912,6 @@ msgstr "地下溝穴"
 
 msgid "TXT_HEXDD_MAP38"
 msgstr "薔薇"
-
-# Intermission texts
-msgid "nan"
-msgstr ""
 
 # Doom Ep.1
 msgid "E1TEXT"
@@ -1451,10 +1403,6 @@ msgstr ""
 "\\n...更なる挑戦者を待ち構えながら。\n"
 "\n"
 
-# Hexen script texts
-msgid "nan"
-msgstr ""
-
 msgid "TXT_ACS_MAP01_5_THEDO"
 msgstr "扉は施錠されている"
 
@@ -1593,10 +1541,6 @@ msgstr "お前がどれだけ強かろうと"
 
 msgid "TXT_ACS_MAP35_14_TOFAC"
 msgstr "お前の師に立ち向かえるのか?"
-
-# Hexen: Deathkings script texts
-msgid "nan"
-msgstr ""
 
 msgid "TXT_ACS_MAP33_6_YOUDA"
 msgstr "挑戦する準備は整ったか?"
@@ -1825,10 +1769,6 @@ msgstr "塔への道 が開いた"
 
 msgid "TXT_ACS_MAP60_3_THEWA"
 msgstr "道は開いた"
-
-# Strife dialogue
-msgid "nan"
-msgstr ""
 
 # MAP01: Beldin.
 msgid "TXT_DLG_SCRIPT01_D0_IDONT"
@@ -6292,10 +6232,6 @@ msgstr "良い心掛けだ。"
 msgid "TXT_DLG_SCRIPT34_D31836_WELCO"
 msgstr "よく来た、同志!"
 
-# Random dialogue
-msgid "nan"
-msgstr ""
-
 msgid "TXT_RANDOM_PEASANT_01"
 msgstr "私を傷つけないでくれ。"
 
@@ -6500,10 +6436,6 @@ msgstr "どうも、じゃあ!"
 
 msgid "TXT_RANDOMGOODBYE_3"
 msgstr "また今度!"
-
-# Strife logs
-msgid "nan"
-msgstr ""
 
 # MAP33: After getting the hidden com unit in the tavern.
 msgid "TXT_ILOG1"
@@ -7052,10 +6984,6 @@ msgstr ""
 "メディックと武器トレーナーに訪れれば手助けを施せる。\n"
 "基地内部も自由に回ってよい。"
 
-# Strife characters
-msgid "nan"
-msgstr ""
-
 msgid "TXT_SPEAKER_ORDER_SERGEANT"
 msgstr "オーダー軍曹"
 
@@ -7249,10 +7177,6 @@ msgstr "ボウヤー"
 
 msgid "TXT_SPEAKER_DERWIN"
 msgstr "ダーウィン"
-
-# Strife subtitles
-msgid "nan"
-msgstr ""
 
 # Menu's intro.
 msgid "TXT_SUB_INTRO1"
@@ -8078,10 +8002,6 @@ msgid "TXT_SUB_LOG236"
 msgstr ""
 
 msgid "TXT_SUB_LOG237"
-msgstr ""
-
-# Blackbird's remarks embedded in other conversations
-msgid "nan"
 msgstr ""
 
 # MAP02: Mourel.

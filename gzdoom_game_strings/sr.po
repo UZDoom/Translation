@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: sr\n"
 
-# Doom Episode names
-msgid "nan"
-msgstr ""
-
 msgid "TXT_D1E1"
 msgstr "До колена у лешевима"
 
@@ -41,14 +37,6 @@ msgstr "TNT: Ђаволуција"
 
 msgid "TXT_CHEX_EP"
 msgstr "Чекс Квест"
-
-# Level names
-msgid "nan"
-msgstr ""
-
-# Doom 1
-msgid "nan"
-msgstr ""
 
 msgid "HUSTR_E1M1"
 msgstr "E1M1: Хангар"
@@ -172,10 +160,6 @@ msgstr "E4M8: Немилостивоме"
 msgid "HUSTR_E4M9"
 msgstr "E4M9: Страх"
 
-# Doom 2
-msgid "nan"
-msgstr ""
-
 # Note that the "LEVEL" part of the string will be stripped so it shouldn't be
 # translated
 msgid "HUSTR_1"
@@ -287,10 +271,6 @@ msgstr "Level 32: Кин"
 msgid "HUSTR_33"
 msgstr "Level 33: Издаја"
 
-# No Rest For The Living
-msgid "nan"
-msgstr ""
-
 msgid "NHUSTR_1"
 msgstr "Level 1: Земаљска база"
 
@@ -317,10 +297,6 @@ msgstr "Level 8: Гроб злобе"
 
 msgid "NHUSTR_9"
 msgstr "Level 9: Марш демона"
-
-# Plutonia
-msgid "nan"
-msgstr ""
 
 msgid "PHUSTR_1"
 msgstr "Level 1: Конго"
@@ -420,10 +396,6 @@ msgstr "Level 31: Сајбер-јазбина"
 msgid "PHUSTR_32"
 msgstr "Level 32: Иди ка њему"
 
-# TNT: Evilution
-msgid "nan"
-msgstr ""
-
 msgid "THUSTR_1"
 msgstr "Level 1: Контролна система"
 
@@ -520,10 +492,6 @@ msgstr "Level 31: Фараон"
 
 msgid "THUSTR_32"
 msgstr "Level 32: Кариби"
-
-# Heretic
-msgid "nan"
-msgstr ""
 
 msgid "HHUSTR_E1M1"
 msgstr "Лука"
@@ -660,10 +628,6 @@ msgstr "Чистилиште"
 msgid "HHUSTR_E5M9"
 msgstr "Реке Д'Спарила"
 
-# Strife
-msgid "nan"
-msgstr ""
-
 msgid "TXT_STRIFE_MAP01"
 msgstr ""
 
@@ -778,10 +742,6 @@ msgstr ""
 msgid "TXT_STRIFE_MAP38"
 msgstr ""
 
-# Hexen
-msgid "nan"
-msgstr ""
-
 msgid "TXT_HEXEN_MAP01"
 msgstr "Предсобље просејавања"
 
@@ -875,10 +835,6 @@ msgstr "Виваријум"
 msgid "TXT_HEXEN_MAP40"
 msgstr "Испит таме"
 
-# Hexen Deathkings
-msgid "nan"
-msgstr ""
-
 msgid "TXT_HEXDD_MAP41"
 msgstr "Уништено село"
 
@@ -956,10 +912,6 @@ msgstr "Канализациона јама"
 
 msgid "TXT_HEXDD_MAP38"
 msgstr "Ружа"
-
-# Intermission texts
-msgid "nan"
-msgstr ""
 
 # Doom Ep.1
 msgid "E1TEXT"
@@ -1600,10 +1552,6 @@ msgstr ""
 msgid "TXT_HEXDD_WIN3MSG"
 msgstr "\\n...и други играчи вас чекају.\n"
 
-# Hexen script texts
-msgid "nan"
-msgstr ""
-
 msgid "TXT_ACS_MAP01_5_THEDO"
 msgstr "Врата су закључана"
 
@@ -1742,10 +1690,6 @@ msgstr "Јеси ли довољно снажан"
 
 msgid "TXT_ACS_MAP35_14_TOFAC"
 msgstr "да се суочиш са својим господарима?"
-
-# Hexen: Deathkings script texts
-msgid "nan"
-msgstr ""
 
 msgid "TXT_ACS_MAP33_6_YOUDA"
 msgstr "Усуђујеш се борити у припремној соби?"
@@ -1974,10 +1918,6 @@ msgstr "Пут до куле је отворен"
 
 msgid "TXT_ACS_MAP60_3_THEWA"
 msgstr "Портал је отворен"
-
-# Strife dialogue
-msgid "nan"
-msgstr ""
 
 # MAP01: Beldin.
 msgid "TXT_DLG_SCRIPT01_D0_IDONT"
@@ -5638,10 +5578,6 @@ msgstr ""
 msgid "TXT_DLG_SCRIPT34_D31836_WELCO"
 msgstr ""
 
-# Random dialogue
-msgid "nan"
-msgstr ""
-
 msgid "TXT_RANDOM_PEASANT_01"
 msgstr ""
 
@@ -5799,10 +5735,6 @@ msgid "TXT_RANDOMGOODBYE_2"
 msgstr ""
 
 msgid "TXT_RANDOMGOODBYE_3"
-msgstr ""
-
-# Strife logs
-msgid "nan"
 msgstr ""
 
 # MAP33: After getting the hidden com unit in the tavern.
@@ -6151,10 +6083,6 @@ msgstr ""
 msgid "TXT_ILOG1201"
 msgstr ""
 
-# Strife characters
-msgid "nan"
-msgstr ""
-
 msgid "TXT_SPEAKER_ORDER_SERGEANT"
 msgstr ""
 
@@ -6347,10 +6275,6 @@ msgid "TXT_SPEAKER_BOWYER"
 msgstr ""
 
 msgid "TXT_SPEAKER_DERWIN"
-msgstr ""
-
-# Strife subtitles
-msgid "nan"
 msgstr ""
 
 # Menu's intro.
@@ -7010,10 +6934,6 @@ msgid "TXT_SUB_LOG236"
 msgstr ""
 
 msgid "TXT_SUB_LOG237"
-msgstr ""
-
-# Blackbird's remarks embedded in other conversations
-msgid "nan"
 msgstr ""
 
 # MAP02: Mourel.

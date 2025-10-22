@@ -363,9 +363,6 @@ msgstr ""
 "\n"
 "Már...csak Te maradtál."
 
-msgid "nan"
-msgstr ""
-
 msgid "TXT_HACXMAP01"
 msgstr ""
 

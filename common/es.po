@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: es\n"
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "PRESSYN"
 msgstr "Presiona Y o N."
 
@@ -65,10 +61,6 @@ msgid "TXT_QUITENDOOM"
 msgstr ""
 "Presiona una tecla o haz clic en cualquier lugar de la ventana para salir."
 
-# Savegame
-msgid "nan"
-msgstr ""
-
 msgid "NEWSAVE"
 msgstr "<Nueva partida guardada>"
 
@@ -95,10 +87,6 @@ msgstr "Sin archivos"
 
 msgid "MNU_DELETESG"
 msgstr "¿Realmente deseas borrar la partida?\n"
-
-# General
-msgid "nan"
-msgstr ""
 
 msgid "OPTVAL_OFF"
 msgstr "Desactivado"
@@ -162,10 +150,6 @@ msgstr "Opciones de red"
 
 msgid "OPTMNU_REVERB"
 msgstr "Editor de amb. de reverberación"
-
-# Customize controls
-msgid "nan"
-msgstr ""
 
 msgid "CNTRLMNU_SWITCHTEXT1"
 msgstr "ENTER para cambiar, RETROCESO para borrar"
@@ -421,10 +405,6 @@ msgstr "Salir del juego"
 msgid "CNTRLMNU_ADJUST_GAMMA"
 msgstr "Ajustar gama"
 
-# Mouse
-msgid "nan"
-msgstr ""
-
 msgid "MOUSEMNU_ENABLEMOUSE"
 msgstr "Habilitar ratón"
 
@@ -490,10 +470,6 @@ msgstr "Cursor del sistema"
 
 msgid "OPTVAL_DEFAULT"
 msgstr "Por defecto"
-
-# Controller
-msgid "nan"
-msgstr ""
 
 msgid "JOYMNU_TITLE"
 msgstr "Configurar mando"
@@ -570,10 +546,6 @@ msgstr "Invertido"
 
 msgid "OPTVAL_NOTINVERTED"
 msgstr "No invertido"
-
-# Player Menu
-msgid "nan"
-msgstr ""
 
 msgid "TXT_COLOR_BLUE"
 msgstr "Azul"
@@ -674,10 +646,6 @@ msgstr "Autoapuntar"
 msgid "PLYRMNU_ALWAYSRUN"
 msgstr "Siempre correr"
 
-# Display
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_SCREENSIZE"
 msgstr "Tamaño de pantalla"
 
@@ -717,10 +685,6 @@ msgstr "Mostrar mensajes pulsantes"
 msgid "MSGMNU_MESSAGESCALE"
 msgstr "Escala de mensajes"
 
-# Automap
-msgid "nan"
-msgstr ""
-
 msgid "MNU_COLORPICKER"
 msgstr "Elige un color"
 
@@ -741,10 +705,6 @@ msgstr "Personalizar colores (mapa)"
 
 msgid "MAPCOLORMNU_DEFAULTMAPCOLORS"
 msgstr "Restaurar colores personalizados"
-
-# Sound
-msgid "nan"
-msgstr ""
 
 msgid "SNDMNU_SNDENABLED"
 msgstr "Sonido activado"
@@ -1240,10 +1200,6 @@ msgstr ""
 msgid "OPTVAL_1024K"
 msgstr ""
 
-# Postprocessing
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_UNCHARTED2"
 msgstr ""
 
@@ -1333,10 +1289,6 @@ msgstr ""
 
 msgid "OPTVAL_STANDARD"
 msgstr "Estándar"
-
-# Texture options
-msgid "nan"
-msgstr ""
 
 msgid "GLTEXMNU_TEXFILTER"
 msgstr "Modo de filtro de texturas"
@@ -1536,10 +1488,6 @@ msgstr ""
 msgid "OPTVAL_OPENGLES"
 msgstr ""
 
-# Miscellaneous Options
-msgid "nan"
-msgstr ""
-
 msgid "MISCMNU_MERGEKEYS"
 msgstr "Combinar Alt/Ctrl/Mayús izq. y der."
 
@@ -1594,10 +1542,6 @@ msgstr "Mejorado"
 
 msgid "OPTMNU_LANGUAGE"
 msgstr "Idioma"
-
-# Reverb editor
-msgid "nan"
-msgstr ""
 
 msgid "TXT_UNDOCHANGES"
 msgstr "Anular cambios"
@@ -1751,10 +1695,6 @@ msgstr "Nombre de archivo"
 msgid "REVMNU_Environments_to_save"
 msgstr "Ambientes para guardar"
 
-# Vulkan
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_VKOPT"
 msgstr "Opciones de Vulkan (Experimental)"
 
@@ -1780,10 +1720,6 @@ msgstr "Estas opciones requieren reiniciar para tener efecto."
 msgid "VKMNU_DEVICESELECT"
 msgstr "Seleccionar dispositivo Vulkan"
 
-# Texture scaling
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_SCALENX"
 msgstr ""
 
@@ -1802,10 +1738,6 @@ msgstr ""
 msgid "OPTVAL_OLD_NXBRZ"
 msgstr "Antiguo xBRZ"
 
-# Option Search
-msgid "nan"
-msgstr ""
-
 msgid "OS_TITLE"
 msgstr "Buscar opciones"
 
@@ -1820,10 +1752,6 @@ msgstr "Ningún resultado."
 
 msgid "OS_LABEL"
 msgstr "Buscar:"
-
-# Blood Bath Announcer
-msgid "nan"
-msgstr ""
 
 msgid "TXT_OBITUARY1"
 msgstr "%k ha deshuesado a %o como a un pescado"
@@ -1965,10 +1893,6 @@ msgstr "Abrir carpeta de partidas guardadas"
 msgid "MOUSEMNU_SWAPBUTTONS"
 msgstr "Alternar botones de ratón"
 
-# Additional menu texts
-msgid "nan"
-msgstr ""
-
 msgid "OPTVAL_ONLYMODIFIED"
 msgstr "Solo modificados"
 
@@ -2010,10 +1934,6 @@ msgstr "Apariencia"
 
 msgid "DSPLYMNU_ADVANCED"
 msgstr "Opciones avanzadas de visualización"
-
-# IWAD/Game picker
-msgid "nan"
-msgstr ""
 
 msgid "PICKER_SELECT"
 msgstr "Elige un juego para ejecutar."
@@ -2070,10 +1990,6 @@ msgstr "Activar este controlador"
 
 msgid "CNTRLMNU_OPEN_MAIN"
 msgstr "Abrir el menú principal"
-
-# New content
-msgid "nan"
-msgstr ""
 
 msgid "MODMNU_REPLAYER"
 msgstr "Reproductor de módulos"

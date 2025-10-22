@@ -7,10 +7,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "HeaderCode: ko\n"
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "PRESSKEY"
 msgstr "키를 누르시오."
 
@@ -83,10 +79,6 @@ msgstr "정품 버전에서만 가능합니다"
 
 msgid "DOSY"
 msgstr "(Y을 누르시면 종료합니다)"
-
-# Quit messages
-msgid "nan"
-msgstr ""
 
 msgid "QUITMSG1"
 msgstr "부디 나가지 말아줘, 아직 죽여야 할 악마들이 남아있단 말이야!"
@@ -178,16 +170,8 @@ msgstr "은하연합시리얼국을 위해서라도 부디 떠나지 말아 주�
 msgid "QUITMSG29"
 msgstr "진정한 첵스(R)전사는 그렇게 빨리 포기하지 않을 것입니다!"
 
-# Pickups
-msgid "nan"
-msgstr ""
-
 msgid "TXT_DEFAULTPICKUPMSG"
 msgstr "무언가를 집어냈다"
-
-# Locks
-msgid "nan"
-msgstr ""
 
 msgid "PD_ANY"
 msgstr "어느 열쇠든 이 문을 열 수 있습니다"
@@ -210,10 +194,6 @@ msgstr "이 물체를 작동시키기 위해선 6 종류의 열쇠가 필요합�
 msgid "PD_ALLKEYS"
 msgstr "모든 열쇠가 필요합니다"
 
-# Chat
-msgid "nan"
-msgstr ""
-
 msgid "HUSTR_MSGU"
 msgstr "[메시지가 전달되지 않음]"
 
@@ -234,10 +214,6 @@ msgstr "미치기 시작했다..."
 
 msgid "HUSTR_MESSAGESENT"
 msgstr "[메시지가 전달됨]"
-
-# Cheats
-msgid "nan"
-msgstr ""
 
 msgid "STSTR_MUS"
 msgstr "음악 전환"
@@ -415,10 +391,6 @@ msgstr "게임 밖에서 무엇을 죽이고 싶습니까?"
 msgid "TXT_NOT_FROZEN"
 msgstr "플레이어 정지 속성이 꺼졌습니다."
 
-# Automap
-msgid "nan"
-msgstr ""
-
 msgid "AMSTR_FOLLOWOFF"
 msgstr "추적 모드 끔"
 
@@ -442,10 +414,6 @@ msgstr "지점 추가"
 
 msgid "AMSTR_MARKSCLEARED"
 msgstr "모든 지점 지워짐"
-
-# Multiplayer
-msgid "nan"
-msgstr ""
 
 msgid "TXT_FRAGLIMIT"
 msgstr "킬제한에 도달했습니다."
@@ -486,10 +454,6 @@ msgstr "울트라 킬!"
 msgid "MULTI5"
 msgstr "몬스터 킬!"
 
-# Scoreboard
-msgid "nan"
-msgstr ""
-
 msgid "SCORE_BONUS"
 msgstr "보너스"
 
@@ -523,10 +487,6 @@ msgstr "총점"
 msgid "SCORE_LVLTIME"
 msgstr "레벨 시간"
 
-# Level Summary
-msgid "nan"
-msgstr ""
-
 msgid "TXT_IMKILLS"
 msgstr "킬수"
 
@@ -551,10 +511,6 @@ msgstr "입장"
 msgid "WI_ENTERING"
 msgstr "입장합니다:"
 
-# HUD
-msgid "nan"
-msgstr ""
-
 msgid "AM_MONSTERS"
 msgstr "죽인 적들:"
 
@@ -563,10 +519,6 @@ msgstr "찾은 비밀:"
 
 msgid "AM_ITEMS"
 msgstr "얻은 아이템:"
-
-# Obituaries
-msgid "nan"
-msgstr ""
 
 msgid "OB_SUICIDE"
 msgstr "%o 은(는) 자살했다."
@@ -631,10 +583,6 @@ msgstr "%o 은(는) 의도치 않게 상대방 팀을 도왔다."
 
 msgid "OB_FRIENDLY4"
 msgstr "%o 은(는) 친구를 원치 않았다."
-
-# Pickup
-msgid "nan"
-msgstr ""
 
 msgid "GOTARMOR"
 msgstr "방호구를 얻었다."
@@ -762,10 +710,6 @@ msgstr "당신은 사악한 홀을 얻었다."
 msgid "BETA_BONUS4"
 msgstr "당신은 불경스러운 성서를 얻었다."
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "PD_BLUEO"
 msgstr "이 물체를 작동시키기 위해선 청색 열쇠가 필요합니다"
 
@@ -820,10 +764,6 @@ msgstr "이 문을 열기 위해선 적색 해골이 필요합니다"
 msgid "PD_YELLOWS"
 msgstr "이 문을 열기 위해선 황색 해골이 필요합니다"
 
-# Cast call names
-msgid "nan"
-msgstr ""
-
 msgid "CC_ZOMBIE"
 msgstr "좀비맨"
 
@@ -876,10 +816,6 @@ msgstr "사이버데몬"
 
 msgid "CC_HERO"
 msgstr "우리들의 영웅"
-
-# Actor tag names
-msgid "nan"
-msgstr ""
 
 msgid "FN_SHOTGUN"
 msgstr "샷건 가이"
@@ -940,10 +876,6 @@ msgstr "로켓"
 
 msgid "AMMO_CELLS"
 msgstr "에너지 셀"
-
-# Obituaries
-msgid "nan"
-msgstr ""
 
 msgid "OB_STEALTHBABY"
 msgstr "%o 은(는) 아라크노트론을 봤다고 생각했다."
@@ -1089,14 +1021,6 @@ msgstr "%o 은(는) %k 의 레일건에 관통당했다."
 msgid "OB_MPBFG_MBF"
 msgstr "%o 은(는) %k 의 BFG에 의해 타올랐다."
 
-# Heretic
-msgid "nan"
-msgstr ""
-
-# Pickup 
-msgid "nan"
-msgstr ""
-
 msgid "TXT_GOTBLUEKEY"
 msgstr "청색 열쇠"
 
@@ -1208,10 +1132,6 @@ msgstr "불사조 지팡이"
 msgid "TXT_WPNGAUNTLETS"
 msgstr "강령술사의 건틀릿"
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NEEDBLUEKEY"
 msgstr "이 문을 열기 위해선 청색 열쇠가 필요하다"
 
@@ -1220,10 +1140,6 @@ msgstr "이 문을 열기 위해선 녹색 열쇠가 필요하다"
 
 msgid "TXT_NEEDYELLOWKEY"
 msgstr "이 문을 열기 위해선 황색 열쇠가 필요하다"
-
-# Actor tag names
-msgid "nan"
-msgstr ""
 
 msgid "FN_CHICKEN"
 msgstr "닭"
@@ -1286,10 +1202,6 @@ msgstr "지팡이"
 
 msgid "TAG_GOLDWAND"
 msgstr "엘프 지팡이"
-
-# Obituaries
-msgid "nan"
-msgstr ""
 
 msgid "OB_CHICKEN"
 msgstr "%o 은(는) 쪽팔리게 쪼여 죽었다."
@@ -1398,14 +1310,6 @@ msgstr "%o 은(는) %k 의 마법부가 불사조 지팡이에 의해 화장당�
 
 msgid "OB_MPPMACE"
 msgstr "%o 은(는) %k 의 마법부가 투사철퇴가 뿜은 거대포탄에 의해 납작해졌다."
-
-# Hexen
-msgid "nan"
-msgstr ""
-
-# Pickup
-msgid "nan"
-msgstr ""
 
 msgid "TXT_MANA_1"
 msgstr "청색 마나"
@@ -1575,10 +1479,6 @@ msgstr "사령의 십자가 조각"
 msgid "TXT_BLOODSCOURGE_PIECE"
 msgstr "피의 재앙 조각"
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NEED_KEY_STEEL"
 msgstr "강철 열쇠가 필요하다"
 
@@ -1611,10 +1511,6 @@ msgstr "늪지대 열쇠가 필요하다"
 
 msgid "TXT_NEED_KEY_CASTLE"
 msgstr "성 열쇠가 필요하다"
-
-# Actor tag names
-msgid "nan"
-msgstr ""
 
 msgid "FN_FIREDEMON"
 msgstr "아프리트"
@@ -1793,10 +1689,6 @@ msgstr "황동과 양철 톱니바퀴"
 msgid "TAG_ARTIPUZZGEAR4"
 msgstr "은과 황동 톱니바퀴"
 
-# Obituaries
-msgid "nan"
-msgstr ""
-
 msgid "OB_FIREDEMON"
 msgstr "%o 은(는) 아프리트의 화염을 맛봤다."
 
@@ -1895,14 +1787,6 @@ msgstr "%o 은(는) %k 의 번갯불 덕에 충격적인 계시를 받았다."
 
 msgid "OB_MPMWEAPBLOODSCOURGE"
 msgstr "%o 은(는) %k 이(가) 피의 재앙을 씀으로써 전혀 존재하지 않는 존재가 되어버렸다."
-
-# Strife
-msgid "nan"
-msgstr ""
-
-# Pickups
-msgid "nan"
-msgstr ""
 
 msgid "TXT_METALARMOR"
 msgstr "강철 갑옷을 획득했다."
@@ -2132,10 +2016,6 @@ msgstr "분명히 뭔가를 할 것이다..."
 msgid "MSG_TALISMANPOWER"
 msgstr "엄청난 힘이 솟는다!"
 
-# Locks
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NEEDKEY"
 msgstr "필요한 열쇠가 없다"
 
@@ -2186,10 +2066,6 @@ msgstr "성배가 필요하다!"
 
 msgid "TXT_NEED_OPASS"
 msgstr "오라클 통행증이 필요하다!"
-
-# Actor tags
-msgid "nan"
-msgstr ""
 
 msgid "TAG_PUNCHDAGGER"
 msgstr "단검"
@@ -2494,10 +2370,6 @@ msgstr "녹색 부적"
 msgid "TAG_TALISMANBLUE"
 msgstr "푸른 부적"
 
-# Obituaries
-msgid "nan"
-msgstr ""
-
 msgid "OB_ACOLYTE"
 msgstr "%o 은(는) 아콜라이트에게 맹신적으로 사격 당했다."
 
@@ -2588,10 +2460,6 @@ msgstr "%o 은(는) %k 에 의해 소극적으로 소멸되었다."
 msgid "OB_MPSIGIL"
 msgstr "%o 은(는) %k 를 죽이기 전에 시질의 이름으로 절을 해야만 했다."
 
-# Miscellaneous
-msgid "nan"
-msgstr ""
-
 msgid "TXT_STRIFE_EPI"
 msgstr "시질을 위한 임무"
 
@@ -2649,14 +2517,6 @@ msgstr "도움말"
 # As in for %u amount of money.
 msgid "TXT_TRADE"
 msgstr "(가격: %u)"
-
-# Chex Quest
-msgid "nan"
-msgstr ""
-
-# Pickups
-msgid "nan"
-msgstr ""
 
 msgid "GOTCHEXARMOR"
 msgstr "첵스(R) 갑옷 획득."
@@ -2748,10 +2608,6 @@ msgstr "초대형 자쳐 습득!"
 msgid "GOTMINIZORCHER"
 msgstr "소형 자쳐 습득."
 
-# Actor tags
-msgid "nan"
-msgstr ""
-
 msgid "TAG_SPOON"
 msgstr "숟가락"
 
@@ -2823,10 +2679,6 @@ msgstr "%k 이(가) LAZ 장치를 들기 전에 %o 은(는) 도망쳐야 했습�
 
 msgid "OB_MPBFG_SPLASH"
 msgstr "%o 은(는) %k 의 LAZ 장치 범위를 벗어날 수 없었습니다."
-
-# Miscellaneous
-msgid "nan"
-msgstr ""
 
 msgid "CHUSTR_E1M1"
 msgstr "E1M1: 착륙 지점"
@@ -2951,14 +2803,6 @@ msgstr "저치 추진료"
 
 msgid "AMMO_CELLS"
 msgstr "저치 전자 충전기"
-
-# Menus
-msgid "nan"
-msgstr ""
-
-# Main Menus
-msgid "nan"
-msgstr ""
 
 msgid "MNU_NEWGAME"
 msgstr "새로운 게임"
@@ -3119,10 +2963,6 @@ msgstr "납골당"
 
 msgid "MNU_DEMESNE"
 msgstr "침체된 영지"
-
-# Gameplay menus
-msgid "nan"
-msgstr ""
 
 msgid "GMPLYMNU_TEAMPLAY"
 msgstr "팀플레이"
@@ -3451,10 +3291,6 @@ msgstr "폭발시 수직방향 반동 억제"
 msgid "CMPTMNU_EXPLODE2"
 msgstr "고전 둠의 폭발 반발력 적용"
 
-# player
-msgid "nan"
-msgstr ""
-
 msgid "PLYRMNU_RED"
 msgstr "빨강"
 
@@ -3483,10 +3319,6 @@ msgid "PLYRMNU_SEEBACK"
 msgstr "캐릭터 뒷모습"
 
 msgid "PLYRMNU_VERTSPREAD"
-msgstr ""
-
-# controls
-msgid "nan"
 msgstr ""
 
 msgid "CNTRLMNU_ZOOM"
@@ -3557,10 +3389,6 @@ msgstr "마우스룩 시점 초기화"
 
 msgid "MOUSEMNU_LOOKSTRAFE"
 msgstr "마우스룩 좌우 이동"
-
-# Map colors
-msgid "nan"
-msgstr ""
 
 msgid "MAPCOLORMNU_BACKCOLOR"
 msgstr "배경"
@@ -3643,10 +3471,6 @@ msgstr "치트 모드 오버레이"
 msgid "MAPCOLORMNU_PORTAL"
 msgstr "포탈 오버레이"
 
-# Messages
-msgid "nan"
-msgstr ""
-
 msgid "MSGMNU_TITLE"
 msgstr "메시지들"
 
@@ -3691,10 +3515,6 @@ msgstr "자세한 저장 메시지"
 
 msgid "MSGMNU_DEVELOPER"
 msgstr "개발자 메시지 모드"
-
-# Automap
-msgid "nan"
-msgstr ""
 
 msgid "AUTOMAPMNU_COLORSET"
 msgstr "맵 색상 설정"
@@ -3765,10 +3585,6 @@ msgstr "마크 추가"
 msgid "MAPCNTRLMNU_CLEARMARK"
 msgstr "마크 삭제"
 
-# Scoreboard
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_SCOREBOARD"
 msgstr "점수창 설정"
 
@@ -3795,10 +3611,6 @@ msgstr "데스매치 설정"
 
 msgid "SCRBRDMNU_TEAMDEATHMATCH"
 msgstr "팀 데스매치 설정"
-
-# Alt HUD
-msgid "nan"
-msgstr ""
 
 msgid "ALTHUDMNU_TITLE"
 msgstr "대체 HUD"
@@ -3890,10 +3702,6 @@ msgstr "통계표 이름 색상"
 msgid "ALTHUDMNU_STATSCOLOR"
 msgstr "통계표 색상"
 
-# Display (game related)
-msgid "nan"
-msgstr ""
-
 msgid "DSPLYMNU_CAPFPS"
 msgstr "프레임 제한"
 
@@ -3984,10 +3792,6 @@ msgstr "정지 시 화면 움직임 강도"
 msgid "DSPLYMNU_BOBSPEED"
 msgstr "무기 흔들림 속도"
 
-# Scaling
-msgid "nan"
-msgstr ""
-
 msgid "SCALEMNU_TITLE"
 msgstr "배율 설정"
 
@@ -4020,10 +3824,6 @@ msgstr "전체화면에 맞게 축척"
 
 msgid "SCALEMNU_ADAPT"
 msgstr "화면 사이즈에 맞게 축척"
-
-# HUD
-msgid "nan"
-msgstr ""
 
 msgid "HUDMNU_TITLE"
 msgstr "HUD 설정"
@@ -4072,10 +3872,6 @@ msgstr "IWAD 게임 선택창 표시"
 
 msgid "MISCMNU_ALLCHEATS"
 msgstr "모든 게임에 치트 허용"
-
-# Option Menus
-msgid "nan"
-msgstr ""
 
 msgid "MISCMNU_ENABLESCRIPTSCREENSHOTS"
 msgstr "저장/불러오기 확인"
@@ -4751,10 +4547,6 @@ msgstr "검색:"
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "항상 키들을 표시"
 
-# Newly added content
-msgid "nan"
-msgstr ""
-
 msgid "TXT_NO_TEAM_CHANGE"
 msgstr "팀 변경이 불가능해짐!"
 
@@ -5249,11 +5041,6 @@ msgstr ""
 msgid "PAUSE_STRING"
 msgstr ""
 
-# New Doom item Tags for GZDoom 5.0. The names used here are taken from the
-# Doom manual (Doomwiki was referenced)
-msgid "nan"
-msgstr ""
-
 msgid "TAG_BACKPACK"
 msgstr ""
 
@@ -5315,10 +5102,6 @@ msgid "TAG_YELLOWSKULL"
 msgstr ""
 
 msgid "TAG_REDSKULL"
-msgstr ""
-
-# Chex Quest item tags
-msgid "nan"
 msgstr ""
 
 msgid "TAG_GLASSOFWATER"
