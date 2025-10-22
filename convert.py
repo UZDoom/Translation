@@ -77,7 +77,7 @@ def to_gettext(sheet, page):
 		for _, row in data.iterrows():
 			entry = polib.POEntry(
 				msgid=str(row[key_col]),
-				msgstr=str(row[in_name]) if pd.notna(row[in_name]) else '',
+				msgstr=str(row[in_name]) if (out_name and pd.notna(row[in_name])) else '',
 				tcomment=str(row[comment_col]) if pd.notna(row[comment_col]) else ''
 			)
 			po_trans.append(entry)

@@ -6,576 +6,506 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 
 msgid "QUITMSG1"
-msgstr "These bugs too tough for ya?"
+msgstr ""
 
 msgid "QUITMSG"
-msgstr "Are you sure you want to\\njack out of the action?"
+msgstr ""
 
 msgid "QUITMSG2"
-msgstr "Trying to quit? And you call yourself a hacker?"
+msgstr ""
 
 msgid "QUITMSG3"
-msgstr "Get back here before I send a virus up your tailpipe!"
+msgstr ""
 
 msgid "QUITMSG4"
-msgstr "Real hackers never jack out of the action."
+msgstr ""
 
 msgid "QUITMSG5"
-msgstr "C'mon! You haven't seen the best part yet!"
+msgstr ""
 
 msgid "QUITMSG6"
-msgstr "Give up now, and cyberspace is toast!"
+msgstr ""
 
 msgid "QUITMSG7"
-msgstr "GENIE sends its best regards, scumbag!"
+msgstr ""
 
 msgid "QUITMSG8"
-msgstr "Hmm. So much for being a hero, Hacker."
+msgstr ""
 
 msgid "QUITMSG9"
-msgstr "What? You'd rather go back to the pen?"
+msgstr ""
 
 msgid "QUITMSG10"
-msgstr "Shoulda taken the blue pill."
+msgstr ""
 
 msgid "QUITMSG11"
-msgstr "The name of the game ain't Twitch n' Run!"
+msgstr ""
 
 msgid "QUITMSG12"
-msgstr "No worries. Saving the world can wait, right?"
+msgstr ""
 
 msgid "QUITMSG13"
-msgstr "Guess it's time to make like the 'net and split!"
+msgstr ""
 
 msgid "QUITMSG14"
-msgstr "Don't go off and forget about HacX, now!"
+msgstr ""
 
 msgid "OB_SUICIDE"
-msgstr "%o deleted %hself from the universe."
+msgstr ""
 
 msgid "OB_FALLING"
-msgstr "%o formed a crater the size of Kansas."
+msgstr ""
 
 msgid "OB_CRUSH"
-msgstr "%o became a human pancake."
+msgstr ""
 
 msgid "OB_EXIT"
-msgstr "%o tried to jack out."
+msgstr ""
 
 msgid "OB_WATER"
-msgstr "%o swam like a brick."
+msgstr ""
 
 msgid "OB_SLIME"
-msgstr "%o went nuclear."
+msgstr ""
 
 msgid "OB_LAVA"
-msgstr "%o took a hot bath."
+msgstr ""
 
 msgid "OB_BARREL"
-msgstr "%o overdosed on nitro glycerine."
+msgstr ""
 
 msgid "OB_SPLASH"
-msgstr "%o is flayed into tiny little pieces."
+msgstr ""
 
 msgid "OB_R_SPLASH"
-msgstr "%o wanted to see what %g looked like inside-out."
+msgstr ""
 
 msgid "OB_ROCKET"
-msgstr "%o wanted to see what %g looked like inside-out."
+msgstr ""
 
 msgid "OB_KILLEDSELF"
-msgstr "%o deleted %hself from the universe."
+msgstr ""
 
 msgid "OB_THUG"
-msgstr "%o is no longer the dominant species."
+msgstr ""
 
 msgid "OB_ANDROID"
-msgstr "%o plugged in to the wrong machine."
+msgstr ""
 
 msgid "OB_MONSTRUCT"
-msgstr "%o got %hself a monster of a cyber-jockey-derriere-kicking."
+msgstr ""
 
 msgid "OB_ICE"
-msgstr "%o got ICEd."
+msgstr ""
 
 msgid "OB_BUZZER"
-msgstr "%o feels a little buzzed."
+msgstr ""
 
 msgid "OB_STEALTH"
-msgstr "%o uncovers a rather shocking development."
+msgstr ""
 
 msgid "OB_DMAN"
-msgstr "%o was erased from cyberspace."
+msgstr ""
 
 msgid "OB_GLASS"
-msgstr "%o gave %hself a glass jaw."
+msgstr ""
 
 msgid "OB_MANIAC"
-msgstr "%o's life membership was terminated."
+msgstr ""
 
 msgid "OB_MANIACHIT"
-msgstr "%o died in some random method I cannot fathom."
+msgstr ""
 
 msgid "OB_TERMIN"
-msgstr "%o was fried by a femme fatale freak."
+msgstr ""
 
 # This text is not gender neutral, obviously...
 msgid "OB_TERMINHIT"
-msgstr "%o got a little close to the opposite sex."
+msgstr ""
 
 msgid "OB_REPLI"
-msgstr "%o said goodbye to an old friend."
+msgstr ""
 
 msgid "OB_REPLIHIT"
-msgstr "%o was stabbed in the back by an old friend."
+msgstr ""
 
 msgid "OB_PHAGE"
-msgstr "%o was weeded out by natural selection."
+msgstr ""
 
 msgid "OB_THORN"
-msgstr "%o couldn't escape a thorny death."
+msgstr ""
 
 msgid "OB_SUMATIC"
-msgstr "%o took a sumo punch to the groin."
+msgstr ""
 
 msgid "OB_GENIE"
-msgstr "%o didn't get %p three wishes."
+msgstr ""
 
 msgid "OB_MINE"
-msgstr "%o tried to pet a mine."
+msgstr ""
 
 msgid "OB_MPKICK"
-msgstr "%o took %k's Bruce Lee fu-kick to the face."
+msgstr ""
 
 msgid "OB_MPREZNATOR"
-msgstr "%o fell apart via %k's shocking revelation."
+msgstr ""
 
 msgid "OB_MPXPISTOL"
-msgstr "%o took a double-dose of %k's punishment."
+msgstr ""
 
 msgid "OB_MPTAZER"
-msgstr "%o was shut down by %k's shock-stick."
+msgstr ""
 
 msgid "OB_MPCRYOGUN"
-msgstr "%o got a face-full of %k's ice-cold wrath."
+msgstr ""
 
 msgid "OB_MPUZI"
-msgstr "%o was drilled full of holes by %k, gangsta-style."
+msgstr ""
 
 msgid "OB_MPZOOKA"
-msgstr "%o ate %k's photon bomb."
+msgstr ""
 
 msgid "OB_MPZ_SPLASH"
-msgstr "%o was reduced to a neat pile of photons by %k."
+msgstr ""
 
 # Physically this is utter nonsense, of course.
 msgid "OB_MPANTIGUN"
-msgstr "%o was reduced to antimatter by %k."
+msgstr ""
 
 msgid "OB_MPNUKE"
-msgstr "%o swallowed %k's nuke."
+msgstr ""
 
 msgid "OB_MPNUKESPLASH"
-msgstr "%o went nuclear from %k's mass destruction spree."
+msgstr ""
 
 msgid "OB_MPTELEFRAG"
-msgstr "%o was turned inside-out by %k."
+msgstr ""
 
 msgid "OB_MONTELEFRAG"
-msgstr "%o's atomic structure was split apart."
+msgstr ""
 
 msgid "OB_DEFAULT"
-msgstr "%o spontaneously expired."
+msgstr ""
 
 msgid "GOTNUKER"
-msgstr "You grab a NUKER! Suck on this!"
+msgstr ""
 
 msgid "GOTUZI"
-msgstr "You got an UZI!!"
+msgstr ""
 
 msgid "GOTREZNATOR"
-msgstr "A HOIG Reznator - FRY some butt"
+msgstr ""
 
 msgid "GOTPHOTONZOOKA"
-msgstr "You got a Photon 'Zooka!"
+msgstr ""
 
 msgid "GOTBIGSTICK"
-msgstr "You carry a Big Stick!"
+msgstr ""
 
 msgid "GOTTAZER"
-msgstr "You got a Tazer!!"
+msgstr ""
 
 msgid "GOTCRYOGUN"
-msgstr "You grab a Cryogun! FREEZE!"
+msgstr ""
 
 msgid "GOTROUNDS"
-msgstr "You grab some rounds!"
+msgstr ""
 
 msgid "GOTROUNDSCASE"
-msgstr "You grab a case of rounds!"
+msgstr ""
 
 # Was "grap" for some reason.
 msgid "GOTTORPEDO"
-msgstr "You grab a Torpedo!"
+msgstr ""
 
 msgid "GOTTORPEDOS"
-msgstr "You grab a case of Torpedos!"
+msgstr ""
 
 msgid "GOTMOLECULES"
-msgstr "You grab a molecule module!"
+msgstr ""
 
 msgid "GOTMOLECULESTANK"
-msgstr "You grab a tank full of molecules!"
+msgstr ""
 
 msgid "GOTCARTRIDGES"
-msgstr "You grab some Cartridges!"
+msgstr ""
 
 msgid "GOTCARTRIDGESCASE"
-msgstr "You grab a case of Cartridges!"
+msgstr ""
 
 msgid "GOTVALISE"
-msgstr "You grab a Valise stuffed with goods!"
+msgstr ""
 
 msgid "GOTFORCEFIELD"
-msgstr "Force Field!"
+msgstr ""
 
 msgid "GOTMICROTEL"
-msgstr "007Microtel"
+msgstr ""
 
 msgid "GOTENKBLIND"
-msgstr "You are EnK Blind!"
+msgstr ""
 
 msgid "GOTRUBBERBOOTS"
-msgstr "Vulcan rubber Boots!"
+msgstr ""
 
 msgid "GOTSIARRAY"
-msgstr "SI Array mapping!"
+msgstr ""
 
 msgid "GOTINFRARED"
-msgstr "Infrared Visor!"
+msgstr ""
 
 msgid "GOTINHALER"
-msgstr "Breathe deep, Inhaler!"
+msgstr ""
 
 msgid "GOTHYPONEED"
-msgstr "A dose of Hydergine from a Hypo saves you!"
+msgstr ""
 
 msgid "GOTHYPO"
-msgstr "You grab a Hypo!"
+msgstr ""
 
 msgid "GOTKEYCARD"
-msgstr "You found a KeyCard!"
+msgstr ""
 
 msgid "GOTCKEY"
-msgstr "You found a C-Key!"
+msgstr ""
 
 msgid "GOTPASSWORD"
-msgstr "You found a Password!"
+msgstr ""
 
 msgid "GOTBLUEZKEY"
-msgstr "You found a blue Z-Key!"
+msgstr ""
 
 msgid "GOTYELWZKEY"
-msgstr "You found a yellow Z-Key!"
+msgstr ""
 
 msgid "GOTREDZKEY"
-msgstr "You found a red Z-Key!"
+msgstr ""
 
 msgid "GOTBODYARMOR"
-msgstr "Body Armor!"
+msgstr ""
 
 msgid "GOTCENTROPHENOXINE"
-msgstr "Centrophenoxine"
+msgstr ""
 
 msgid "GOTKEVLARVEST"
-msgstr "You grab a Kevlar vest!"
+msgstr ""
 
 msgid "GOTSKEVLARVEST"
-msgstr "You grab Super Kevlar vest!"
+msgstr ""
 
 msgid "GOTMICROKIT"
-msgstr "You grab a MicroKit!"
+msgstr ""
 
 msgid "GOTDAMPENER"
-msgstr "You grab a Dampener!"
+msgstr ""
 
 msgid "PD_CKEY"
-msgstr "You need a C-Key to access this item!"
+msgstr ""
 
 msgid "PD_KEYCARD"
-msgstr "You need a KeyCard to access this item!"
+msgstr ""
 
 msgid "PD_PASSWORD"
-msgstr "You need a Password to access this item!"
+msgstr ""
 
 msgid "PD_BLUEZKEY"
-msgstr "You need a Blue Z-Key to make this work"
+msgstr ""
 
 msgid "PD_REDZKEY"
-msgstr "You need a Red Z-Key to make this work!"
+msgstr ""
 
 msgid "PD_YELWZKEY"
-msgstr "You need a Yellow Z-Key to make this work!"
+msgstr ""
 
 msgid "X1TEXT"
 msgstr ""
-"Twenty mill in gold doesn't seem worth all\n"
-"this aggravation, does it, hacker? Makes\n"
-"the pen look like a freakin' picnic!\n"
-"\n"
-"Butt-ugly bio-mutations and your fellow\n"
-"Humans hung from a ceiling like\n"
-"food sacks.\n"
-"\n"
-"What the hell is this GENIE? Like no\n"
-"computer you've ever hacked!\n"
-"\n"
-"You better find the next terminal, slice\n"
-"a ride through c-space, dice some mutant\n"
-"butt, and get the hell out of Dodge!\n"
-"\n"
 
 msgid "X2TEXT"
 msgstr ""
-"Where are all the people?!\n"
-"\n"
-"Paris is a ghost town, unless you consider\n"
-"mutant bugs outstanding citizens.\n"
-"\n"
-"You've hit bloody resistance. Man, can\n"
-"these bugs fight! Lucky for you they're not\n"
-"the brightest porch lights on the block.\n"
-"\n"
-"But you've gotten some of the informatics\n"
-"the subcommittee wants. And it's nasty!\n"
-"\n"
-"Human neural fluids feed these bugs! No\n"
-"wonder the neighborhood's getting kind of\n"
-"sparse. Report to the subcommittee. And\n"
-"watch your back...\n"
 
 msgid "X3TEXT"
 msgstr ""
-"Civilization as you knew it is nada!\n"
-"\n"
-"No friends, no family. No more people.\n"
-"Not normal people, anyway.\n"
-"\n"
-"Only one thing left...GENIE!\n"
-"And if you have to go to the end of the\n"
-"universe you'll find its mutant butt!\n"
-"'cause now you're pissed!\n"
-"\n"
-"And the gold? Hell, this is for free.\n"
-"\n"
-".....(to be continued)....."
 
 msgid "X5TEXT"
 msgstr ""
-"You're alive!\n"
-"\n"
-"What are those odds, hacker?!\n"
-"'cause it's crawling with bugs.\n"
-"\n"
-"You can't reach the subcommittee, which\n"
-"means it's been compromised.\n"
-"\n"
-"\n"
-"You... are alone."
 
 msgid "nan"
 msgstr ""
 
 msgid "TXT_HACXMAP01"
-msgstr "GenEmp Corp."
+msgstr ""
 
 msgid "TXT_HACXMAP02"
-msgstr "Tunnel Town"
+msgstr ""
 
 msgid "TXT_HACXMAP03"
-msgstr "Lava Annex"
+msgstr ""
 
 msgid "TXT_HACXMAP04"
-msgstr "Alcatraz"
+msgstr ""
 
 msgid "TXT_HACXMAP05"
-msgstr "Cyber Circus"
+msgstr ""
 
 msgid "TXT_HACXMAP06"
-msgstr "Digi-Ota"
+msgstr ""
 
 msgid "TXT_HACXMAP07"
-msgstr "The Great Wall"
+msgstr ""
 
 msgid "TXT_HACXMAP08"
-msgstr "Garden of Delights"
+msgstr ""
 
 msgid "TXT_HACXMAP09"
-msgstr "Hidden Fortress"
+msgstr ""
 
 msgid "TXT_HACXMAP10"
-msgstr "Anarchist Dream"
+msgstr ""
 
 msgid "TXT_HACXMAP11"
-msgstr "Notus Us!"
+msgstr ""
 
 msgid "TXT_HACXMAP12"
-msgstr "Gothik Gauntlet"
+msgstr ""
 
 msgid "TXT_HACXMAP13"
-msgstr "The Sewers"
+msgstr ""
 
 msgid "TXT_HACXMAP14"
-msgstr "Trode Wars"
+msgstr ""
 
 msgid "TXT_HACXMAP15"
-msgstr "Twilight of Enk's"
+msgstr ""
 
 msgid "TXT_HACXMAP16"
-msgstr "Protean Cybex"
+msgstr ""
 
 msgid "TXT_HACXMAP17"
-msgstr "River of Blood"
+msgstr ""
 
 msgid "TXT_HACXMAP18"
-msgstr "Bizarro"
+msgstr ""
 
 msgid "TXT_HACXMAP19"
-msgstr "The War Rooms"
+msgstr ""
 
 msgid "TXT_HACXMAP20"
-msgstr "Intruder Alert!"
+msgstr ""
 
 msgid "TXT_HACXMAP31"
-msgstr "Desiccant Room"
+msgstr ""
 
 msgid "STSTR_CLEV"
-msgstr "Now Arriving At...\n"
+msgstr ""
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
 msgid "STSTR_CHOPPERS"
-msgstr "...gonna fry your ass!"
+msgstr ""
 
 # Hacx's content here was totally useless so it got removed. However, this
 # string has to be defined and minimally altered so that the Dehacked
 # replacement is not being triggered.
 msgid "STSTR_BEHOLD"
-msgstr "inVuln, Str, Inviso, Rad, Allmap, or Lite-amp?"
+msgstr ""
 
 msgid "STSTR_BEHOLDX"
-msgstr "Let's Get Serious!"
+msgstr ""
 
 msgid "STSTR_NCON"
-msgstr "Cyberslicer Mode ON"
+msgstr ""
 
 msgid "STSTR_NCOFF"
-msgstr "Cyberslicer Mode OFF"
+msgstr ""
 
 msgid "STSTR_NOMUS"
-msgstr "Selection: Impossible "
+msgstr ""
 
 # Should probably not be translated...
 msgid "STSTR_MUS"
-msgstr "Pump Up The Volume\n"
+msgstr ""
 
 msgid "STSTR_KFAADDED"
-msgstr "INIT-Twitch n'Kill Mode"
+msgstr ""
 
 msgid "STSTR_FAADDED"
-msgstr "So be it, Hacker."
+msgstr ""
 
 msgid "STSTR_DQDON"
-msgstr "Cyberpotence Mode ON"
+msgstr ""
 
 msgid "STSTR_DQDOFF"
-msgstr "Cyberpotence Mode OFF"
+msgstr ""
 
 msgid "AMSTR_FOLLOWON"
-msgstr "Tracking ON"
+msgstr ""
 
 msgid "AMSTR_FOLLOWOFF"
-msgstr "Tracking OFF"
+msgstr ""
 
 msgid "DOSY"
-msgstr "- press Y to run away! -"
+msgstr ""
 
 msgid "ENDGAME"
 msgstr ""
-"Are you insane or maladjusted?\n"
-"Well? Yes or No!"
 
 msgid "NIGHTMARE"
 msgstr ""
-"Are you sure? You can't handle\n"
-"this skill, hacker!\n"
-"\n"
-"Press Y to die. \n"
 
 # For most languages the original Doom text should suffice.
 msgid "QSPROMPT"
 msgstr ""
-"Quicksave over your data named\n"
-"\n"
-"'%s'?\n"
-"\n"
-"Press Y or N."
 
 msgid "QLPROMPT"
 msgstr ""
-"Do you want to quickload the data named\n"
-"\n"
-"'%s'?\n"
-"\n"
-"Press Y or N."
 
 msgid "CC_THUG"
-msgstr "Thug"
+msgstr ""
 
 msgid "CC_ANDROID"
-msgstr "Android"
+msgstr ""
 
 msgid "CC_ICE"
-msgstr "ICE"
+msgstr ""
 
 msgid "CC_BUZZER"
-msgstr "Buzzer"
+msgstr ""
 
 msgid "CC_DMAN"
-msgstr "D-Man"
+msgstr ""
 
 msgid "CC_PHAGE"
-msgstr "Phage"
+msgstr ""
 
 msgid "CC_MONSTRUCT"
-msgstr "Monstruct"
+msgstr ""
 
 msgid "CC_MECH"
-msgstr "Mecha Maniac"
+msgstr ""
 
 msgid "CC_TERMI"
-msgstr "Terminatrix"
+msgstr ""
 
 msgid "CC_THORN"
-msgstr "Thorn Thing"
+msgstr ""
 
 msgid "CC_MAJONG"
-msgstr "Majong 7"
+msgstr ""
 
 msgid "CC_HERO"
-msgstr "Dan Evanger"
+msgstr ""
 
 msgid "SKILL_BABY"
-msgstr "Please don't shoot!"
+msgstr ""
 
 msgid "SKILL_EASY"
-msgstr "Aargh, I need health!"
+msgstr ""
 
 msgid "SKILL_NORMAL"
-msgstr "Let's rip them apart!"
+msgstr ""
 
 msgid "SKILL_HARD"
-msgstr "I am immortal!"
+msgstr ""
 
 msgid "SKILL_NIGHTMARE"
-msgstr "Insanity!"
+msgstr ""

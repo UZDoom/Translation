@@ -6,163 +6,145 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 
 msgid "NIGHTMARE"
-msgstr "Do you really think you can handle that?\\n\\npress 'Y' or 'N'..."
+msgstr ""
 
 msgid "AMSTR_MARKEDSPOT"
-msgstr "Spot marked"
+msgstr ""
 
 msgid "PD_BLUEO"
-msgstr "Requires the GREEN keycard"
+msgstr ""
 
 msgid "PD_REDO"
-msgstr "Requires the PURPLE keycard"
+msgstr ""
 
 msgid "PD_YELLOWO"
-msgstr "Requires the YELLOW keycard"
+msgstr ""
 
 msgid "PD_BLUEK"
-msgstr "Requires the GREEN key"
+msgstr ""
 
 msgid "PD_YELLOWK"
-msgstr "Requires the YELLOW key"
+msgstr ""
 
 msgid "PD_REDK"
-msgstr "Requires the PURPLE key"
+msgstr ""
 
 msgid "GOTARMOR"
-msgstr "Picked up armor."
+msgstr ""
 
 msgid "GOTMEGA"
-msgstr "Picked up Combat Armor."
+msgstr ""
 
 msgid "GOTMSPHERE"
-msgstr "Superhealth"
+msgstr ""
 
 msgid "GOTBLUECARD"
-msgstr "Obtained the GREEN keycard."
+msgstr ""
 
 msgid "GOTYELWCARD"
-msgstr "Obtained the YELLOW keycard."
+msgstr ""
 
 msgid "GOTREDCARD"
-msgstr "Obtained the PURPLE keycard."
+msgstr ""
 
 msgid "GOTBLUESKUL"
-msgstr "Obtained the GREEN key."
+msgstr ""
 
 msgid "GOTYELWSKUL"
-msgstr "Obtained the YELLOW key."
+msgstr ""
 
 msgid "GOTREDSKUL"
-msgstr "Obtained the PURPLE key."
+msgstr ""
 
 msgid "GOTSTIM"
-msgstr "Healing mushroom"
+msgstr ""
 
 msgid "GOTMEDIKIT"
-msgstr "Acquired: medical kit."
+msgstr ""
 
 msgid "GOTMEDINEED"
-msgstr "Acquired: medical kit that you REALLY need."
+msgstr ""
 
 msgid "GOTMAP"
-msgstr "Map"
+msgstr ""
 
 msgid "GOTCLIPBOX"
-msgstr "Acquired: case of bullets."
+msgstr ""
 
 msgid "GOTROCKET"
-msgstr "Acquired: Grenade."
+msgstr ""
 
 msgid "GOTROCKBOX"
-msgstr "Acquired: Grenades."
+msgstr ""
 
 msgid "GOTSHELLBOX"
-msgstr "Acquired: box of shotgun shells."
+msgstr ""
 
 msgid "GOTBACKPACK"
-msgstr "Acquired: ammo backpack."
+msgstr ""
 
 msgid "GOTBFG9000"
-msgstr "Acquired: Grenade."
+msgstr ""
 
 msgid "GOTCHAINGUN"
-msgstr "Acquired: Minigun."
+msgstr ""
 
 msgid "GOTLAUNCHER"
-msgstr "Acquired: Grenade launcher."
+msgstr ""
 
 msgid "GOTPLASMA"
-msgstr "Entropy thrower!"
+msgstr ""
 
 msgid "GOTSHOTGUN"
-msgstr "Acquired: Shotgun."
+msgstr ""
 
 msgid "STSTR_DQDON"
-msgstr "God Mode ON"
+msgstr ""
 
 msgid "STSTR_DQDOFF"
-msgstr "God Mode OFF"
+msgstr ""
 
 msgid "STSTR_KFAADDED"
-msgstr "All weapons/ ammo/ keys"
+msgstr ""
 
 msgid "STSTR_FAADDED"
-msgstr "All weapons and ammo"
+msgstr ""
 
 msgid "TXT_HARMMAP01"
-msgstr "Abduction"
+msgstr ""
 
 msgid "TXT_HARMMAP02"
-msgstr "Harm's Way"
+msgstr ""
 
 msgid "TXT_HARMMAP03"
-msgstr "Owt Mood"
+msgstr ""
 
 msgid "TXT_HARMMAP04"
-msgstr "Megalapolis"
+msgstr ""
 
 msgid "TXT_HARMMAP05"
-msgstr "The Hospital"
+msgstr ""
 
 msgid "TXT_HARMMAP06"
-msgstr "The Weapons Factory"
+msgstr ""
 
 msgid "TXT_HARMMAP07"
-msgstr "The Underwater Lab"
+msgstr ""
 
 msgid "TXT_HARMMAP08"
-msgstr "Airstrip One"
+msgstr ""
 
 msgid "TXT_HARMMAP09"
-msgstr "The Launch Base"
+msgstr ""
 
 msgid "TXT_HARMMAP10"
-msgstr "The Radioactive Zone"
+msgstr ""
 
 msgid "TXT_HARMMAP11"
-msgstr "Echidna"
+msgstr ""
 
 msgid "CLUSTEREXIT1"
 msgstr ""
-"You feel sick to your stomach...\n"
-"Looking in the face of the mutant queen... \n"
-"That thing... That used to be... \n"
-"Your friend... Amira!\n"
-"\n"
-"Those monsters must have found a way to \n"
-"mutate her and turn her into this\n"
-"hideous creature to bear their offspring.\n"
-"\n"
-"-sigh-\n"
-"\n"
-"You get yourself together... \n"
-"They are going to pay for making you kill\n"
-"your friend...\n"
-"\n"
-"\"Hell has no fury like a woman scorned!\"\n"
-"\n"
-"     = T H E  E N D ="
 
 # This text is deliberately empty
 msgid "WI_FINISHED"
@@ -170,25 +152,25 @@ msgstr ""
 
 # Yellow needs retranslation
 msgid "WI_ENTERING"
-msgstr "Loading"
+msgstr ""
 
 msgid "SKILL_BABY"
-msgstr "Very Easy"
+msgstr ""
 
 msgid "SKILL_EASY"
-msgstr "Easy"
+msgstr ""
 
 msgid "SKILL_NORMAL"
-msgstr "Medium"
+msgstr ""
 
 msgid "SKILL_HARD"
-msgstr "Hard"
+msgstr ""
 
 msgid "SKILL_NIGHTMARE"
-msgstr "Very Hard"
+msgstr ""
 
 msgid "HARMQUITMSG"
-msgstr "Thanks for playing"
+msgstr ""
 
 msgid "TXT_D2E1"
-msgstr "Harmony"
+msgstr ""
