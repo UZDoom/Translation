@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# ./compile.sh ./gzdoom_engine_strings/*.po > gzdoom_engine_strings.csv
+# ./compile.sh ./gzdoom_engine_strings > gzdoom_engine_strings.csv
 
-SCRIPT="$(dirname "$0")/compile.awk"
-FILES="$@"
-
-ls -1 $FILES 2>/dev/null | xargs gawk -f "$SCRIPT"
+ls -1 "$1/"*.po 2>/dev/null | xargs gawk -f "$(dirname "$0")/compile.awk" >"$2"
