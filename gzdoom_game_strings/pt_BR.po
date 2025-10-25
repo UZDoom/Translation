@@ -5,7 +5,7 @@ msgstr ""
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"HeaderCode: pt_BR\n"
+"HeaderCode: pt\n"
 
 msgid "TXT_D1E1"
 msgstr "Corpos até os Joelhos"

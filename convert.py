@@ -73,7 +73,7 @@ def to_gettext(sheet, page):
 
 		if out_name:
 			po_trans.metadata['Language'] = out_name
-			po_trans.metadata['HeaderCode'] = out_name
+			po_trans.metadata['HeaderCode'] = in_name
 
 		for _, row in data.iterrows():
 			if pd.notna(row[key_col]):

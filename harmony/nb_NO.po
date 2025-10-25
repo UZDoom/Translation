@@ -5,7 +5,7 @@ msgstr ""
 "Language: nb_NO\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"HeaderCode: nb_NO\n"
+"HeaderCode: no nb\n"
 
 msgid "NIGHTMARE"
 msgstr "Tror du virkelig at du kan håndtere det? Trykk 'Y' eller 'N'..."

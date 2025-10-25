@@ -5,7 +5,7 @@ msgstr ""
 "Language: be_Latn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"HeaderCode: be_Latn\n"
+"HeaderCode: by\n"
 
 msgid "PRESSYN"
 msgstr "Націсніце Y або N."
