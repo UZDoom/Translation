@@ -3,13 +3,16 @@ import re
 import polib
 import os
 
+# this file converts gzdoom's language table to gnu gettext files
+# there is really no reason to use this other than to sync up repos
 
-def to_gettext(sheet, page):
+def to_gettext(sheet, page, output_dir=None):
 	print(f"read {sheet}/{page}")
 
 	data = pd.read_excel(sheet, sheet_name=page)
 
-	output_dir=re.sub("[^a-z0-9]+", "_", page.lower())
+	if (output_dir == None):
+		output_dir=re.sub("[^a-z0-9]+", "_", page.lower())
 
 	source_text_col = 'default'
 	key_col = 'Identifier'
@@ -111,11 +114,11 @@ if __name__ == "__main__":
 	sheet="./GZDoom and Raze Strings.xlsx"
 
 	to_gettext(sheet, "Common")
-	to_gettext(sheet, "GZDoom Engine Strings")
-	to_gettext(sheet, "GZDoom Game Strings")
+	to_gettext(sheet, "GZDoom Engine Strings", "zdoom_engine_strings")
+	to_gettext(sheet, "GZDoom Game Strings", "zdoom_game_strings")
 	to_gettext(sheet, "Chex Quest 3")
 	to_gettext(sheet, "Harmony")
 	to_gettext(sheet, "Hacx")
 	to_csv(sheet, "Macros")
-	# to_gettext(sheet, "Raze")
+	# to_gettext(sheet, "Raze",  "zdoom_engine_strings")
 	# to_gettext(sheet, "Unused content")
