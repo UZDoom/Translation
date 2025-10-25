@@ -6335,6 +6335,7 @@ msgstr ""
 " minua Blackbirdiksi."
 
 # MAP33: After getting the hidden com unit in the tavern.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG2"
 msgstr ""
 "Kuule, tämä viestintälaite ilmaisee sinun olevan sataprosenttisesti ihminen."
@@ -6355,30 +6356,35 @@ msgstr ""
 "oikeanpuoleisesta ovesta. Vartijan nimi on Geoff. Kerro hänelle tarvitsevasi"
 " kultaa."
 
+msgctxt "strifeteaser"
 msgid "TXT_ILOG5"
 msgstr ""
 "Älä mene kaupungintaloon. Se ei ole enää turvallista; olemme paljastuneet. "
 "Tuhoa kaikki isot robotit, \"ristiretkeläiset\", ja opastan sinut luoksemme."
 
 # MAP33: In front of "Irale's shop" with the com unit and the Crusaders dead.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG6"
 msgstr ""
 "Asekaupan viereinen ovi aukeaa, kun kaikki ristiretkeläiset on tuhottu. "
 "Varastohuoneessa on kaukosiirrin. Sitä käyttämällä pääset luoksemme."
 
 # MAP33: In front of "Irale's shop" with the com unit and the Crusaders alive.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG7"
 msgstr ""
 "Asekaupan viereinen ovi aukeaa, kun kaikki ristiretkeläiset on tuhottu. "
 "Varastohuoneessa on kaukosiirrin. Sitä käyttämällä pääset luoksemme."
 
 # MAP33: Room with the flamethrower.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG8"
 msgstr ""
 "Tuhoa jättiroboteista, ristiretkeläisistä, niin monta kuin pystyt. Kun olet "
 "valmis, opastan sinut Macilin luokse."
 
 # MAP34: After leaving the teleporter.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG9"
 msgstr "Kulje ovesta ja puhu Macilille."
 

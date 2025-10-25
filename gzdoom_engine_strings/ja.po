@@ -77,6 +77,7 @@ msgstr ""
 msgid "RAVENQUITMSG"
 msgstr "本当に終了するのか?"
 
+msgctxt "heretic"
 msgid "SWSTRING"
 msgstr "製品版でのみ可能だ。"
 
@@ -568,6 +569,7 @@ msgstr "攻略"
 msgid "WI_ENTERING"
 msgstr "突入開始"
 
+msgctxt "heretic hexen"
 msgid "WI_ENTERING"
 msgstr "突入中:"
 
@@ -2737,6 +2739,7 @@ msgstr "%o は %k によってスベスベにされた。"
 msgid "OB_MPLAZ_BOOM"
 msgstr "%o は %k のLAZデバイスのえじきになった。"
 
+msgctxt "chex"
 msgid "OB_MPBFG_SPLASH"
 msgstr "%o は %k にとかされた。"
 
@@ -2779,6 +2782,7 @@ msgstr ""
 "\n"
 "なにか キーを おしてください。\n"
 
+msgctxt "chex"
 msgid "QSPROMPT"
 msgstr ""
 "ぼうけんを このなまえで すぐにセーブしますか?\n"
@@ -2787,12 +2791,14 @@ msgstr ""
 "\n"
 "Yes か No できめてください。"
 
+msgctxt "chex"
 msgid "QLOADNET"
 msgstr ""
 "オンラインモードでは セーブデータをロードできません\n"
 "\n"
 "なにか キーを おしてください。\n"
 
+msgctxt "chex"
 msgid "QLPROMPT"
 msgstr ""
 "ぼうけんを このなまえで すぐにロードしますか?\n"
@@ -2822,42 +2828,53 @@ msgstr ""
 "\n"
 "なにか キーを おしてください。"
 
+msgctxt "chex"
 msgid "NETEND"
 msgstr ""
 "オンラインモードでは タイトルがめんにはもどれません\n"
 "\n"
 "なにか キーを おしてください。\n"
 
+msgctxt "chex"
 msgid "ENDGAME"
 msgstr ""
 "ほんとうに いまのぼうけんを おわらせますか?\n"
 "\n"
 "Y か N をおしてください。\n"
 
+msgctxt "chex"
 msgid "STSTR_DQDON"
 msgstr "むてきモード オン"
 
+msgctxt "chex"
 msgid "STSTR_DQDOFF"
 msgstr "むてきモード オフ"
 
+msgctxt "chex"
 msgid "STSTR_FAADDED"
 msgstr "ゾーチ ついか"
 
+msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "スーパーゾーチ ついか"
 
+msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "...Chex(R)をたべよう!"
 
+msgctxt "chex"
 msgid "AMMO_CLIP"
 msgstr "ミニゾーチ ほきゅう"
 
+msgctxt "chex"
 msgid "AMMO_SHELLS"
 msgstr "ラージゾーチャー ほきゅう"
 
+msgctxt "chex"
 msgid "AMMO_ROCKETS"
 msgstr "プロパルサー ほきゅう"
 
+msgctxt "chex"
 msgid "AMMO_CELLS"
 msgstr "フェイシング ゾーチャー ほきゅう"
 
@@ -3003,6 +3020,7 @@ msgstr "ランダム"
 msgid "MNU_EPISODE"
 msgstr "どのエピソードだ?"
 
+msgctxt "strife"
 msgid "MNU_EPISODE"
 msgstr "キャンペーンを選べ"
 

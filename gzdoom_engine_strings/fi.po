@@ -74,6 +74,7 @@ msgstr ""
 msgid "RAVENQUITMSG"
 msgstr "Haluatko varmasti lopettaa?"
 
+msgctxt "heretic"
 msgid "SWSTRING"
 msgstr "Käytettävissä vain rekisteröidyssä versiossa"
 
@@ -529,6 +530,7 @@ msgstr "Suoritettu"
 msgid "WI_ENTERING"
 msgstr "Seuraava kohde"
 
+msgctxt "heretic hexen"
 msgid "WI_ENTERING"
 msgstr "Seuraava kohde:"
 
@@ -2698,6 +2700,7 @@ msgstr "%k vaiheiszorchasi %o paran."
 msgid "OB_MPLAZ_BOOM"
 msgstr "%o lankesi pelaajan %k SAZ-laitteen uhriksi."
 
+msgctxt "chex"
 msgid "OB_MPBFG_SPLASH"
 msgstr "%k sazzasi pelaajaan %o."
 
@@ -2744,18 +2747,21 @@ msgstr ""
 "\n"
 "Paina jotain näppäintä."
 
+msgctxt "chex"
 msgid "QSPROMPT"
 msgstr ""
 "Haluatko tallentaa pelin %s päälle?\n"
 "\n"
 "Paina Y tai N."
 
+msgctxt "chex"
 msgid "QLOADNET"
 msgstr ""
 "Et voi pikaladata verkkopelin aikana!\n"
 "\n"
 "Paina jotain näppäintä."
 
+msgctxt "chex"
 msgid "QLPROMPT"
 msgstr ""
 "Haluatko pikaladata pelin %s?\n"
@@ -2783,42 +2789,53 @@ msgstr ""
 "\n"
 "Paina jotain näppäintä."
 
+msgctxt "chex"
 msgid "NETEND"
 msgstr ""
 "Et voi päättää verkkopeliä!\n"
 "\n"
 "Paina jotain näppäintä."
 
+msgctxt "chex"
 msgid "ENDGAME"
 msgstr ""
 "Haluatko varmasti päättää pelin?\n"
 "\n"
 "Paina Y tai N."
 
+msgctxt "chex"
 msgid "STSTR_DQDON"
 msgstr "Kuolemattomuustila PÄÄLLÄ"
 
+msgctxt "chex"
 msgid "STSTR_DQDOFF"
 msgstr "Kuolemattomuustila POIS PÄÄLLÄ"
 
+msgctxt "chex"
 msgid "STSTR_FAADDED"
 msgstr "Zorch lisätty"
 
+msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Superzorch lisätty"
 
+msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "... Syö Chex(R):ä!"
 
+msgctxt "chex"
 msgid "AMMO_CLIP"
 msgstr "Minizorchvaraus"
 
+msgctxt "chex"
 msgid "AMMO_SHELLS"
 msgstr "Ison zorcherin varaus"
 
+msgctxt "chex"
 msgid "AMMO_ROCKETS"
 msgstr "Työntimen varaus"
 
+msgctxt "chex"
 msgid "AMMO_CELLS"
 msgstr "Vaiheiszorcherin varaus"
 
@@ -2964,6 +2981,7 @@ msgstr "Satunnainen"
 msgid "MNU_EPISODE"
 msgstr "Mikä episodi?"
 
+msgctxt "strife"
 msgid "MNU_EPISODE"
 msgstr "Valitse kampanja"
 

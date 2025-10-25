@@ -5318,6 +5318,7 @@ msgid "TXT_ILOG2"
 msgstr ""
 
 # MAP33: After getting the hidden com unit in the tavern.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG2"
 msgstr ""
 
@@ -5329,22 +5330,27 @@ msgstr ""
 msgid "TXT_ILOG4"
 msgstr ""
 
+msgctxt "strifeteaser"
 msgid "TXT_ILOG5"
 msgstr ""
 
 # MAP33: In front of "Irale's shop" with the com unit and the Crusaders dead.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG6"
 msgstr ""
 
 # MAP33: In front of "Irale's shop" with the com unit and the Crusaders alive.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG7"
 msgstr ""
 
 # MAP33: Room with the flamethrower.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG8"
 msgstr ""
 
 # MAP34: After leaving the teleporter.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG9"
 msgstr ""
 

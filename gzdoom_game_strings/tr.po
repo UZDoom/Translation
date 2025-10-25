@@ -6252,6 +6252,7 @@ msgstr ""
 " bedelini ödersin. Bu arada, bana Karatavuk diyebilirsin."
 
 # MAP33: After getting the hidden com unit in the tavern.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG2"
 msgstr ""
 "Dinle, bu iletişim birimi bana senin %100 insan olduğunu söylüyor. Bizden "
@@ -6271,30 +6272,35 @@ msgstr ""
 "Solundaki kapıdan geç, sonra sağdakinden. Muhafızın adı Geoff. Ona altına "
 "ihtiyacın olduğunu söyle."
 
+msgctxt "strifeteaser"
 msgid "TXT_ILOG5"
 msgstr ""
 "Belediye binasına girme. Artık güvenli değil, kimliğimiz açığa çıktı. Bütün "
 "büyük robotları, \"Haçlıları\" öldürün, ben de sizi bize yönlendireyim."
 
 # MAP33: In front of "Irale's shop" with the com unit and the Crusaders dead.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG6"
 msgstr ""
 "Tüm Haçlılar öldüğünde silah dükkanının yanındaki kapı açılacak. Dükkanın "
 "içinde bir ışınlayıcı var, onu kullan ve seni bize getirecek"
 
 # MAP33: In front of "Irale's shop" with the com unit and the Crusaders alive.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG7"
 msgstr ""
 "Tüm Haçlılar öldüğünde silah dükkanının yanındaki kapı açılacak. Dükkanın "
 "içinde bir ışınlayıcı var, onu kullanın ve sizi bize getirecek."
 
 # MAP33: Room with the flamethrower.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG8"
 msgstr ""
 "Büyük robotlardan, Haçlılardan, öldürebildiğin kadarını öldür. İşiniz "
 "bittiğinde, sizi Macil'e götüreceğim."
 
 # MAP34: After leaving the teleporter.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG9"
 msgstr "Kapıdan geçin ve Macil ile konuşun."
 

@@ -6191,6 +6191,7 @@ msgstr ""
 "zaplatíš. Jo, a mimochodem, můžeš mi říkat Straka."
 
 # MAP33: After getting the hidden com unit in the tavern.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG2"
 msgstr ""
 "Poslyš, tento komunikátor mi říká, že jsi na sto procent člověkem. Mohl bys "
@@ -6209,30 +6210,35 @@ msgstr ""
 "Projdi dveřmi nalevo a pak napravo. Hlídač se jmenuje Geoff. Řekni mu, že "
 "potřebuješ zlato."
 
+msgctxt "strifeteaser"
 msgid "TXT_ILOG5"
 msgstr ""
 "Nechoď do radnice, už není bezpečná. Byli jsme odhaleni. Zabij všechny ty "
 "velké roboty, Křižáky, a pak tě nasměruju k Macilovi."
 
 # MAP33: In front of "Irale's shop" with the com unit and the Crusaders dead.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG6"
 msgstr ""
 "Dveře vedle obchodu se zbraněmi se otevřou když budou všichni Křižáci "
 "zničeni. Uvnitř je teleportér, použij ho a dostaneš se k nám."
 
 # MAP33: In front of "Irale's shop" with the com unit and the Crusaders alive.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG7"
 msgstr ""
 "Dveře vedle obchodu se zbraněmi se otevřou když budou všichni Křižáci "
 "zničeni. Uvnitř je teleportér, použij ho a dostaneš se k nám."
 
 # MAP33: Room with the flamethrower.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG8"
 msgstr ""
 "Znič tolik těch velkých robotů, Křižáků, kolik dokážeš. Až budeš hotov, "
 "dovedu tě k Macilovi."
 
 # MAP34: After leaving the teleporter.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG9"
 msgstr "Projdi dveřmi a promluv si s Macilem."
 

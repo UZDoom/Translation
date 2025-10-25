@@ -74,6 +74,7 @@ msgstr ""
 msgid "RAVENQUITMSG"
 msgstr "정말 종료하시겠습니까?"
 
+msgctxt "heretic"
 msgid "SWSTRING"
 msgstr "정품 버전에서만 가능합니다"
 
@@ -508,6 +509,7 @@ msgstr "완료"
 msgid "WI_ENTERING"
 msgstr "입장"
 
+msgctxt "heretic hexen"
 msgid "WI_ENTERING"
 msgstr "입장합니다:"
 
@@ -2677,6 +2679,7 @@ msgstr "%o 은(는) %k 의 전자 자쳐에 의해 쓰러졌습니다."
 msgid "OB_MPLAZ_BOOM"
 msgstr "%k 이(가) LAZ 장치를 들기 전에 %o 은(는) 도망쳐야 했습니다."
 
+msgctxt "chex"
 msgid "OB_MPBFG_SPLASH"
 msgstr "%o 은(는) %k 의 LAZ 장치 범위를 벗어날 수 없었습니다."
 
@@ -2723,6 +2726,7 @@ msgstr ""
 "\n"
 "키를 누르시오."
 
+msgctxt "chex"
 msgid "QSPROMPT"
 msgstr ""
 "빠른 퀘스트 저장을 하시겠습니까?\n"
@@ -2731,12 +2735,14 @@ msgstr ""
 "\n"
 "Y키 나 N키를 누르시오."
 
+msgctxt "chex"
 msgid "QLOADNET"
 msgstr ""
 "네트워크 퀘스트 중엔 빠른 불러오기를 할 수 없습니다!\n"
 "\n"
 "키를 누르시오."
 
+msgctxt "chex"
 msgid "QLPROMPT"
 msgstr ""
 "빠른 퀘스트 불러오기를 하시겠습니까?\n"
@@ -2765,42 +2771,53 @@ msgstr ""
 "\n"
 "키를 누르시오."
 
+msgctxt "chex"
 msgid "NETEND"
 msgstr ""
 "네트워크 퀘스트를 종료할 수 없습니다!\n"
 "\n"
 "키를 누르시오."
 
+msgctxt "chex"
 msgid "ENDGAME"
 msgstr ""
 "이 퀘스트를 잠시 중단하시겠습니까?\n"
 "\n"
 "Y키 나 N키를 누르시오."
 
+msgctxt "chex"
 msgid "STSTR_DQDON"
 msgstr "무적 모드 켬"
 
+msgctxt "chex"
 msgid "STSTR_DQDOFF"
 msgstr "무적 모드 끔"
 
+msgctxt "chex"
 msgid "STSTR_FAADDED"
 msgstr "모든 저치 에너지 추가"
 
+msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "모든 아이템 습득!"
 
+msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "... 첵스(R) 를 많이 먹자!"
 
+msgctxt "chex"
 msgid "AMMO_CLIP"
 msgstr "소형 저치 전지"
 
+msgctxt "chex"
 msgid "AMMO_SHELLS"
 msgstr "대형 저치 카트리지"
 
+msgctxt "chex"
 msgid "AMMO_ROCKETS"
 msgstr "저치 추진료"
 
+msgctxt "chex"
 msgid "AMMO_CELLS"
 msgstr "저치 전자 충전기"
 
@@ -2946,6 +2963,7 @@ msgstr "랜덤"
 msgid "MNU_EPISODE"
 msgstr "에피소드 선택:"
 
+msgctxt "strife"
 msgid "MNU_EPISODE"
 msgstr "캠페인을 고르시오:"
 

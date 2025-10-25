@@ -78,6 +78,7 @@ msgstr ""
 msgid "RAVENQUITMSG"
 msgstr "Are you sure you want to quit?"
 
+msgctxt "heretic"
 msgid "SWSTRING"
 msgstr "Only available in the registered version"
 
@@ -563,6 +564,7 @@ msgstr "Finished"
 msgid "WI_ENTERING"
 msgstr "Entering"
 
+msgctxt "heretic hexen"
 msgid "WI_ENTERING"
 msgstr "Now entering:"
 
@@ -2732,6 +2734,7 @@ msgstr "%o was phase zorched by %k."
 msgid "OB_MPLAZ_BOOM"
 msgstr "%o fell prey to %k's LAZ device."
 
+msgctxt "chex"
 msgid "OB_MPBFG_SPLASH"
 msgstr "%o was lazzed by %k."
 
@@ -2778,6 +2781,7 @@ msgstr ""
 "\n"
 "Press a key."
 
+msgctxt "chex"
 msgid "QSPROMPT"
 msgstr ""
 "Quicksave over your quest named\n"
@@ -2786,12 +2790,14 @@ msgstr ""
 "\n"
 "Press Y or N."
 
+msgctxt "chex"
 msgid "QLOADNET"
 msgstr ""
 "You can't quickload during a netquest!\n"
 "\n"
 "Press a key."
 
+msgctxt "chex"
 msgid "QLPROMPT"
 msgstr ""
 "Do you want to quickload the quest named\n"
@@ -2822,42 +2828,53 @@ msgstr ""
 "\n"
 "Press a key."
 
+msgctxt "chex"
 msgid "NETEND"
 msgstr ""
 "You can't end a netquest!\n"
 "\n"
 "Press a key."
 
+msgctxt "chex"
 msgid "ENDGAME"
 msgstr ""
 "Are you sure you want to end the quest?\n"
 "\n"
 "Press Y or N."
 
+msgctxt "chex"
 msgid "STSTR_DQDON"
 msgstr "Invincible Mode ON"
 
+msgctxt "chex"
 msgid "STSTR_DQDOFF"
 msgstr "Invincible Mode OFF"
 
+msgctxt "chex"
 msgid "STSTR_FAADDED"
 msgstr "Zorch Added"
 
+msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Super Zorch Added"
 
+msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "... Eat Chex(R)!"
 
+msgctxt "chex"
 msgid "AMMO_CLIP"
 msgstr "Mini Zorch Charge"
 
+msgctxt "chex"
 msgid "AMMO_SHELLS"
 msgstr "Large Zorcher Charge"
 
+msgctxt "chex"
 msgid "AMMO_ROCKETS"
 msgstr "Propulsor Charge"
 
+msgctxt "chex"
 msgid "AMMO_CELLS"
 msgstr "Phasing Zorcher Charge"
 
@@ -3003,6 +3020,7 @@ msgstr "Random"
 msgid "MNU_EPISODE"
 msgstr "Which Episode?"
 
+msgctxt "strife"
 msgid "MNU_EPISODE"
 msgstr "Choose Campaign"
 

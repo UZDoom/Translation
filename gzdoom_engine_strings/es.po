@@ -77,6 +77,7 @@ msgstr ""
 msgid "RAVENQUITMSG"
 msgstr "¿Estás segur@[ao_esp] de que quieres salir?"
 
+msgctxt "heretic"
 msgid "SWSTRING"
 msgstr "Solo disponible en la versión registrada"
 
@@ -562,6 +563,7 @@ msgstr "Completado"
 msgid "WI_ENTERING"
 msgstr "Entrando a:"
 
+msgctxt "heretic hexen"
 msgid "WI_ENTERING"
 msgstr "Ahora entrando a:"
 
@@ -2751,6 +2753,7 @@ msgstr "%o fue electrizad@[ao_esp] en fase por %k."
 msgid "OB_MPLAZ_BOOM"
 msgstr "%o cayó pres@[ao_esp] ante el dispositivo LAZ de %k."
 
+msgctxt "chex"
 msgid "OB_MPBFG_SPLASH"
 msgstr "%o fue LAZeado por %k."
 
@@ -2795,18 +2798,21 @@ msgstr ""
 "\n"
 "Presiona una tecla."
 
+msgctxt "chex"
 msgid "QSPROMPT"
 msgstr ""
 "¿Guardar sobre tu aventura llamada '%s'?\n"
 "\n"
 "Presiona Y ó N."
 
+msgctxt "chex"
 msgid "QLOADNET"
 msgstr ""
 "¡No puedes cargar una partida guardada durante una aventura online!\n"
 "\n"
 "Presiona una tecla."
 
+msgctxt "chex"
 msgid "QLPROMPT"
 msgstr ""
 "¿Quieres cargar la aventura llamada '%s'?\n"
@@ -2832,42 +2838,53 @@ msgstr ""
 "\n"
 "Presiona una tecla."
 
+msgctxt "chex"
 msgid "NETEND"
 msgstr ""
 "¡No puedes terminar una aventura online!\n"
 "\n"
 "Presiona una tecla."
 
+msgctxt "chex"
 msgid "ENDGAME"
 msgstr ""
 "¿Estás segur@[ao_esp] que deseas terminar la aventura?\n"
 "\n"
 "Presiona Y ó N."
 
+msgctxt "chex"
 msgid "STSTR_DQDON"
 msgstr "Modo invencible ACTIVADO"
 
+msgctxt "chex"
 msgid "STSTR_DQDOFF"
 msgstr "Modo invencible DESACTIVADO"
 
+msgctxt "chex"
 msgid "STSTR_FAADDED"
 msgstr "Zorch añadido"
 
+msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Súper Zorch añadido"
 
+msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "... Come Chex(R)"
 
+msgctxt "chex"
 msgid "AMMO_CLIP"
 msgstr "Carga de Mini Zorch"
 
+msgctxt "chex"
 msgid "AMMO_SHELLS"
 msgstr "Carga de Zorcher Grande"
 
+msgctxt "chex"
 msgid "AMMO_ROCKETS"
 msgstr "Carga de Propulsor de Zorch "
 
+msgctxt "chex"
 msgid "AMMO_CELLS"
 msgstr "Carga de Zorcher de Fase"
 
@@ -3013,6 +3030,7 @@ msgstr "Al azar"
 msgid "MNU_EPISODE"
 msgstr "¿Qué episodio?"
 
+msgctxt "strife"
 msgid "MNU_EPISODE"
 msgstr "Selecciona una campaña"
 

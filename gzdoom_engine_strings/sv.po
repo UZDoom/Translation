@@ -65,6 +65,7 @@ msgstr ""
 msgid "RAVENQUITMSG"
 msgstr "Är du säker på att du vill avsluta?"
 
+msgctxt "heretic"
 msgid "SWSTRING"
 msgstr "Endast tillgänglig i den registrerade versionen"
 
@@ -506,6 +507,7 @@ msgstr "Avslutad"
 msgid "WI_ENTERING"
 msgstr "Ingång till"
 
+msgctxt "heretic hexen"
 msgid "WI_ENTERING"
 msgstr "Ingång till"
 
@@ -2675,6 +2677,7 @@ msgstr "%o blev faszorchad av %k."
 msgid "OB_MPLAZ_BOOM"
 msgstr "%o föll offer för %ks LAZ-enhet."
 
+msgctxt "chex"
 msgid "OB_MPBFG_SPLASH"
 msgstr "%o blev lazzad av %k."
 
@@ -2720,17 +2723,20 @@ msgstr ""
 "Du kan inte göra lastning när du är i ett nätspel!\n"
 "Tryck på en tangent."
 
+msgctxt "chex"
 msgid "QSPROMPT"
 msgstr ""
 "Snabbt spara över ditt spel som heter %s?\n"
 "Tryck på Y eller N."
 
+msgctxt "chex"
 msgid "QLOADNET"
 msgstr ""
 "Du kan inte snabbladda under ett nätspel!\n"
 "\n"
 "Tryck på en tangent."
 
+msgctxt "chex"
 msgid "QLPROMPT"
 msgstr ""
 "Vill du snabbladda spelet som heter \"%s\"?\n"
@@ -2757,40 +2763,51 @@ msgstr ""
 "\n"
 "Tryck på en tangent."
 
+msgctxt "chex"
 msgid "NETEND"
 msgstr ""
 "Du kan inte avsluta ett nätspel!\n"
 "Tryck på en tangent."
 
+msgctxt "chex"
 msgid "ENDGAME"
 msgstr ""
 "Är du säker på att du vill avsluta spelet?\n"
 "Tryck på Y eller N."
 
+msgctxt "chex"
 msgid "STSTR_DQDON"
 msgstr "Oövervinnerligt läge på"
 
+msgctxt "chex"
 msgid "STSTR_DQDOFF"
 msgstr "Oövervinnerligt läge av"
 
+msgctxt "chex"
 msgid "STSTR_FAADDED"
 msgstr "Zorch har lagts till"
 
+msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Super Zorch läggs till"
 
+msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "... Ät Chex(R)!"
 
+msgctxt "chex"
 msgid "AMMO_CLIP"
 msgstr ""
 
+msgctxt "chex"
 msgid "AMMO_SHELLS"
 msgstr "Stor Zorch-laddning"
 
+msgctxt "chex"
 msgid "AMMO_ROCKETS"
 msgstr "Propulsor-laddning"
 
+msgctxt "chex"
 msgid "AMMO_CELLS"
 msgstr "Zorcher-laddning för fasning"
 
@@ -2936,6 +2953,7 @@ msgstr "Slumpmässig"
 msgid "MNU_EPISODE"
 msgstr "Vilken episod?"
 
+msgctxt "strife"
 msgid "MNU_EPISODE"
 msgstr "Välj kampanj"
 

@@ -75,6 +75,7 @@ msgstr ""
 msgid "RAVENQUITMSG"
 msgstr "Er du sikker på at du vil avslutte?"
 
+msgctxt "heretic"
 msgid "SWSTRING"
 msgstr "Bare tilgjengelig i den registrerte versjonen"
 
@@ -510,6 +511,7 @@ msgstr "Ferdig"
 msgid "WI_ENTERING"
 msgstr "Går inn"
 
+msgctxt "heretic hexen"
 msgid "WI_ENTERING"
 msgstr "Går nå inn:"
 
@@ -2679,6 +2681,7 @@ msgstr "%o ble fasebrent av %k."
 msgid "OB_MPLAZ_BOOM"
 msgstr "%o ble offer for %k's LAZ-enhet."
 
+msgctxt "chex"
 msgid "OB_MPBFG_SPLASH"
 msgstr "%o ble lazzed av %k."
 
@@ -2725,18 +2728,21 @@ msgstr ""
 "\n"
 "Trykk på en tast."
 
+msgctxt "chex"
 msgid "QSPROMPT"
 msgstr ""
 "Overskrive '%s' med en hurtiglagring?\n"
 "\n"
 "Trykk på Y eller N."
 
+msgctxt "chex"
 msgid "QLOADNET"
 msgstr ""
 "Du kan ikke hurtiglaste under et nettoppdrag!\n"
 "\n"
 "Trykk på en tast."
 
+msgctxt "chex"
 msgid "QLPROMPT"
 msgstr ""
 "Ønsker du å hurtiglaste oppdraget med navnet\n"
@@ -2767,42 +2773,53 @@ msgstr ""
 "\n"
 "Trykk på en tast."
 
+msgctxt "chex"
 msgid "NETEND"
 msgstr ""
 "Du kan ikke avslutte en netquest!\n"
 "\n"
 "Trykk på en tast."
 
+msgctxt "chex"
 msgid "ENDGAME"
 msgstr ""
 "Er du sikker på at du vil avslutte oppdraget?\n"
 "\n"
 "Trykk Y eller N."
 
+msgctxt "chex"
 msgid "STSTR_DQDON"
 msgstr "Uovervinnelig modus PÅ"
 
+msgctxt "chex"
 msgid "STSTR_DQDOFF"
 msgstr "Uovervinnelig modus AV"
 
+msgctxt "chex"
 msgid "STSTR_FAADDED"
 msgstr "Zorch lagt til"
 
+msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Super Zorch lagt til"
 
+msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "... Spis Chex(R)!"
 
+msgctxt "chex"
 msgid "AMMO_CLIP"
 msgstr "Mini Zorch ladning"
 
+msgctxt "chex"
 msgid "AMMO_SHELLS"
 msgstr "Stor Zorch ladning"
 
+msgctxt "chex"
 msgid "AMMO_ROCKETS"
 msgstr "Propulsor ladning"
 
+msgctxt "chex"
 msgid "AMMO_CELLS"
 msgstr "Phasing-Zorcher ladning"
 
@@ -2948,6 +2965,7 @@ msgstr "Tilfeldig"
 msgid "MNU_EPISODE"
 msgstr "Hvilken episode?"
 
+msgctxt "strife"
 msgid "MNU_EPISODE"
 msgstr "Velg kampanje"
 

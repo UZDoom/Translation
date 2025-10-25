@@ -14,6 +14,7 @@ def to_gettext(sheet, page):
 	source_text_col = 'default'
 	key_col = 'Identifier'
 	comment_col = 'Remarks'
+	context_col = 'Filter'
 	source_lang_code = 'en_US'
 
 	mapping = {
@@ -50,7 +51,7 @@ def to_gettext(sheet, page):
 		# uk: # Ukrainian
 	}
 
-	ignored_cols = ['Identifier', 'Remarks', 'Filter']
+	ignored_cols = [key_col, comment_col, context_col]
 
 	lang_cols = [col for col in data.columns if col not in ignored_cols]
 
@@ -79,7 +80,8 @@ def to_gettext(sheet, page):
 				entry = polib.POEntry(
 					msgid=str(row[key_col]),
 					msgstr=str(row[in_name]) if (out_name and pd.notna(row[in_name])) else '',
-					tcomment=str(row[comment_col]) if pd.notna(row[comment_col]) else ''
+					tcomment=str(row[comment_col]) if pd.notna(row[comment_col]) else '',
+					msgctxt=str(row[context_col]) if pd.notna(row[context_col]) else None
 				)
 				po_trans.append(entry)
 

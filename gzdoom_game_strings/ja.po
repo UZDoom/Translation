@@ -6453,6 +6453,7 @@ msgstr ""
 "反乱への報酬は期待して良いわ。ああ、それと、私の名はブラックバードよ。"
 
 # MAP33: After getting the hidden com unit in the tavern.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG2"
 msgstr ""
 "聞いて、このcom-unitはあなたが100%人間だということを教えてくれます。\n"
@@ -6473,28 +6474,33 @@ msgstr ""
 "すぐ左のドアを通り、右のドアから小部屋に入るんだ。\n"
 "見張りの名はジェフ。金が必要だ と言えば通じる。"
 
+msgctxt "strifeteaser"
 msgid "TXT_ILOG5"
 msgstr ""
 "町にいるフロントへの武器供給者であるイラールの元を訪ねる。\n"
 "彼は武器屋の隣のドアに居る。それで、知事と会う為にマシルから貰ったキーを使う。"
 
 # MAP33: In front of "Irale's shop" with the com unit and the Crusaders dead.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG6"
 msgstr ""
 "私が知事について知っていることは、町の中央で双方を遊ばせてる様だ。\n"
 "ソイツがここいらを'マンション'と呼んでいる。"
 
 # MAP33: In front of "Irale's shop" with the com unit and the Crusaders alive.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG7"
 msgstr ""
 "私が知事について知っていることは、町の中央で双方を遊ばせてる様だ。\n"
 "ソイツがここいらを'マンション'と呼んでいる。"
 
 # MAP33: Room with the flamethrower.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG8"
 msgstr ""
 
 # MAP34: After leaving the teleporter.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG9"
 msgstr "ダーウィンを始末したら耳を知事に渡す。"
 

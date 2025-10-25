@@ -5803,6 +5803,7 @@ msgstr ""
 "대가를 치를 거야. 아, 그리고, 날 블랙버드라고 불러줘."
 
 # MAP33: After getting the hidden com unit in the tavern.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG2"
 msgstr ""
 "잘 들어, 이 통신기에 따르면 넌 100% 인간이야. 우리들은 너를 적극적으로 믿으니까 너도 같이 이해하고 신뢰했으면 좋겠어. 그러기 "
@@ -5816,23 +5817,28 @@ msgstr "구 시청으로 향해. 오더가 이곳을 폭격한 후에 마실이 
 msgid "TXT_ILOG4"
 msgstr "네 왼쪽의 문으로 들어간 후, 다시 오른쪽의 문으로 가. 경비의 이름은 제프야. 그에게 골드가 필요하다고 얘기해."
 
+msgctxt "strifeteaser"
 msgid "TXT_ILOG5"
 msgstr ""
 "아직 시청으로 가지 마. 우리가 발각된 상태라 위험하다고. 거대한 '크루세이더' 로봇들을 먼저 처리해. 그다음에 내가 안내해줄게."
 
 # MAP33: In front of "Irale's shop" with the com unit and the Crusaders dead.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG6"
 msgstr "크루세이더들을 전부 처리하면 무기상 옆의 문이 열릴 거야. 그 안에 우리 기지로 통하는 텔레포터가 있으니 그걸 타."
 
 # MAP33: In front of "Irale's shop" with the com unit and the Crusaders alive.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG7"
 msgstr "크루세이더들을 전부 처리하면 무기상 옆의 문이 열릴 거야. 그 안에 우리 기지로 통하는 텔레포터가 있으니 그걸 타."
 
 # MAP33: Room with the flamethrower.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG8"
 msgstr "저 거대한 '크루세이더' 로봇들을 최대한 처리해. 상황이 정리되면, 내가 너를 마실에게 데려다줄게."
 
 # MAP34: After leaving the teleporter.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG9"
 msgstr "저 문을 지나서 마실하고 대화를 해봐."
 

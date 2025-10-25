@@ -74,6 +74,7 @@ msgstr ""
 msgid "RAVENQUITMSG"
 msgstr "Přeješ si odejít?"
 
+msgctxt "heretic"
 msgid "SWSTRING"
 msgstr "Dostupné pouze v registrované verzi"
 
@@ -560,6 +561,7 @@ msgstr "Dokončeno"
 msgid "WI_ENTERING"
 msgstr "Vstupuješ do"
 
+msgctxt "heretic hexen"
 msgid "WI_ENTERING"
 msgstr "Nyní vstupuješ do:"
 
@@ -2731,6 +2733,7 @@ msgstr "%o byl@[ao_cs] bzukr-vyfázován@[ao_cs] hráčem %k."
 msgid "OB_MPLAZ_BOOM"
 msgstr "%o padl@[ao_cs] velkodosahovému bzukru hráče %k."
 
+msgctxt "chex"
 msgid "OB_MPBFG_SPLASH"
 msgstr "%o byl@[ao_cs] odbzukrován hráčem %k."
 
@@ -2776,6 +2779,7 @@ msgstr ""
 "\n"
 "Stiskni libovolnou klávesu."
 
+msgctxt "chex"
 msgid "QSPROMPT"
 msgstr ""
 "Rychle uložit přes tvé pátrání s názvem\n"
@@ -2784,12 +2788,14 @@ msgstr ""
 "\n"
 "Stiskni Y nebo N."
 
+msgctxt "chex"
 msgid "QLOADNET"
 msgstr ""
 "Nemůžeš použít rychlé načtení , když hraješ síťové pátrání!\n"
 "\n"
 "Stiskni libovolnou klávesu."
 
+msgctxt "chex"
 msgid "QLPROMPT"
 msgstr ""
 "Přeješ si rychle načíst pátrání s názvem\n"
@@ -2819,42 +2825,53 @@ msgstr ""
 "\n"
 "Stiskni libovolnou klávesu."
 
+msgctxt "chex"
 msgid "NETEND"
 msgstr ""
 "Nemůžeš ukončit síťové pátrání!\n"
 "\n"
 "Stiskni libovolnou klávesu"
 
+msgctxt "chex"
 msgid "ENDGAME"
 msgstr ""
 "Opravdu si přeješ ukončit pátrání?\n"
 "\n"
 "Stiskni Y nebo N."
 
+msgctxt "chex"
 msgid "STSTR_DQDON"
 msgstr "Režim nezranitelnosti ZAP"
 
+msgctxt "chex"
 msgid "STSTR_DQDOFF"
 msgstr "Režim nezranitelnosti VYP"
 
+msgctxt "chex"
 msgid "STSTR_FAADDED"
 msgstr "Bzukry přidány"
 
+msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Superbzukry přidány"
 
+msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "... Jez Chex(R)!"
 
+msgctxt "chex"
 msgid "AMMO_CLIP"
 msgstr "Minibzukrové náboje"
 
+msgctxt "chex"
 msgid "AMMO_SHELLS"
 msgstr "Velkobzukrové náboje"
 
+msgctxt "chex"
 msgid "AMMO_ROCKETS"
 msgstr "Propulzorové náboje"
 
+msgctxt "chex"
 msgid "AMMO_CELLS"
 msgstr "Fázovací náboje"
 
@@ -3000,6 +3017,7 @@ msgstr "Náhodný"
 msgid "MNU_EPISODE"
 msgstr "Jakou epizodu?"
 
+msgctxt "strife"
 msgid "MNU_EPISODE"
 msgstr "Vyber kampaň"
 

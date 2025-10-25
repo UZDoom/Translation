@@ -46,6 +46,7 @@ msgstr ""
 msgid "RAVENQUITMSG"
 msgstr ""
 
+msgctxt "heretic"
 msgid "SWSTRING"
 msgstr ""
 
@@ -480,6 +481,7 @@ msgstr ""
 msgid "WI_ENTERING"
 msgstr ""
 
+msgctxt "heretic hexen"
 msgid "WI_ENTERING"
 msgstr ""
 
@@ -2649,6 +2651,7 @@ msgstr ""
 msgid "OB_MPLAZ_BOOM"
 msgstr ""
 
+msgctxt "chex"
 msgid "OB_MPBFG_SPLASH"
 msgstr ""
 
@@ -2682,12 +2685,15 @@ msgstr ""
 msgid "CLOADNET"
 msgstr ""
 
+msgctxt "chex"
 msgid "QSPROMPT"
 msgstr ""
 
+msgctxt "chex"
 msgid "QLOADNET"
 msgstr ""
 
+msgctxt "chex"
 msgid "QLPROMPT"
 msgstr ""
 
@@ -2700,36 +2706,47 @@ msgstr ""
 msgid "CSWSTRING"
 msgstr ""
 
+msgctxt "chex"
 msgid "NETEND"
 msgstr ""
 
+msgctxt "chex"
 msgid "ENDGAME"
 msgstr ""
 
+msgctxt "chex"
 msgid "STSTR_DQDON"
 msgstr ""
 
+msgctxt "chex"
 msgid "STSTR_DQDOFF"
 msgstr ""
 
+msgctxt "chex"
 msgid "STSTR_FAADDED"
 msgstr ""
 
+msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr ""
 
+msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr ""
 
+msgctxt "chex"
 msgid "AMMO_CLIP"
 msgstr ""
 
+msgctxt "chex"
 msgid "AMMO_SHELLS"
 msgstr ""
 
+msgctxt "chex"
 msgid "AMMO_ROCKETS"
 msgstr ""
 
+msgctxt "chex"
 msgid "AMMO_CELLS"
 msgstr ""
 
@@ -2875,6 +2892,7 @@ msgstr ""
 msgid "MNU_EPISODE"
 msgstr ""
 
+msgctxt "strife"
 msgid "MNU_EPISODE"
 msgstr ""
 

@@ -6270,6 +6270,7 @@ msgstr ""
 "Aha, i przy okazji, możesz mi mówić Blackbird."
 
 # MAP33: After getting the hidden com unit in the tavern.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG2"
 msgstr ""
 "Słuchaj, ta jednostka mówi mi, że jesteś w 100% człowiekiem. Może jesteś "
@@ -6288,6 +6289,7 @@ msgstr ""
 "Przejdź przez drzwi po lewej, a następnie te po prawej. Strażnik ma na imię "
 "Geoff. Powiedz mu, że potrzebujesz złota."
 
+msgctxt "strifeteaser"
 msgid "TXT_ILOG5"
 msgstr ""
 "Nie wchodź do ratusza. To już nie jest bezpieczne, nasza przykrywka została "
@@ -6295,6 +6297,7 @@ msgstr ""
 "cię do nas."
 
 # MAP33: In front of "Irale's shop" with the com unit and the Crusaders dead.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG6"
 msgstr ""
 "Drzwi obok sklepu z bronią otworzą się, gdy wszyscy krzyżowcy będą martwi. "
@@ -6302,6 +6305,7 @@ msgstr ""
 " do nas"
 
 # MAP33: In front of "Irale's shop" with the com unit and the Crusaders alive.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG7"
 msgstr ""
 "Drzwi obok sklepu z bronią otworzą się po śmierci wszystkich krzyżowców. "
@@ -6309,12 +6313,14 @@ msgstr ""
 "przeniesie cię do nas."
 
 # MAP33: Room with the flamethrower.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG8"
 msgstr ""
 "Zabij jak najwięcej dużych robotów, \"krzyżowców\", jak tylko możesz. Gdy "
 "skończysz, zaprowadzę cię do Macila"
 
 # MAP34: After leaving the teleporter.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG9"
 msgstr "Przejdź przez drzwi i porozmawiaj z Macil."
 

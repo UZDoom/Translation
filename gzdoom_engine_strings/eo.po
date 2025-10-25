@@ -77,6 +77,7 @@ msgstr ""
 msgid "RAVENQUITMSG"
 msgstr "Ĉu vi certas, ke vi volas forlasi?"
 
+msgctxt "heretic"
 msgid "SWSTRING"
 msgstr "Nur havebla en la komercaĵa versio"
 
@@ -563,6 +564,7 @@ msgstr "Finita"
 msgid "WI_ENTERING"
 msgstr "Enirante"
 
+msgctxt "heretic hexen"
 msgid "WI_ENTERING"
 msgstr "Nun enirante:"
 
@@ -2746,6 +2748,7 @@ msgstr "%o estas fluktuantzorĉita de %k."
 msgid "OB_MPLAZ_BOOM"
 msgstr "%o iĝis predo de la LAZ-aparato de %k."
 
+msgctxt "chex"
 msgid "OB_MPBFG_SPLASH"
 msgstr "%o estas LAZ-ita de %k."
 
@@ -2792,6 +2795,7 @@ msgstr ""
 "\n"
 "Premu klavon."
 
+msgctxt "chex"
 msgid "QSPROMPT"
 msgstr ""
 "Ĉu rapidkonservi anstataŭigante vian serĉon nomitan\n"
@@ -2800,12 +2804,14 @@ msgstr ""
 "\n"
 "Premu Y aŭ N."
 
+msgctxt "chex"
 msgid "QLOADNET"
 msgstr ""
 "Vi ne povas rapidŝargi dum ret-serĉo!\n"
 "\n"
 "Premu klavon."
 
+msgctxt "chex"
 msgid "QLPROMPT"
 msgstr ""
 "Ĉu vi volas rapidŝargi la serĉon nomitan\n"
@@ -2835,42 +2841,53 @@ msgstr ""
 "\n"
 "Premu klavon."
 
+msgctxt "chex"
 msgid "NETEND"
 msgstr ""
 "Vi ne povas fini ret-serĉon!\n"
 "\n"
 "Premu klavon."
 
+msgctxt "chex"
 msgid "ENDGAME"
 msgstr ""
 "Ĉu vi certas ke vi volas fini la serĉon?\n"
 "\n"
 "Premu Y aŭ N."
 
+msgctxt "chex"
 msgid "STSTR_DQDON"
 msgstr "Nevenkebla-reĝimo ŜALTITA"
 
+msgctxt "chex"
 msgid "STSTR_DQDOFF"
 msgstr "Nevenkebla-reĝimo MALŜALTITA"
 
+msgctxt "chex"
 msgid "STSTR_FAADDED"
 msgstr "Zorĉo Aldonita"
 
+msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Supera Zorĉo Aldonita"
 
+msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "... Manĝu Chex(R)-on!"
 
+msgctxt "chex"
 msgid "AMMO_CLIP"
 msgstr "Zorĉileto-Ŝarĝo"
 
+msgctxt "chex"
 msgid "AMMO_SHELLS"
 msgstr "Ŝarĝo por Granda Zorĉilo"
 
+msgctxt "chex"
 msgid "AMMO_ROCKETS"
 msgstr "Zorĉpropulsilo-ŝarĝo"
 
+msgctxt "chex"
 msgid "AMMO_CELLS"
 msgstr "Fluktuantzorĉilo-ŝarĝo"
 
@@ -3016,6 +3033,7 @@ msgstr "Hazarda"
 msgid "MNU_EPISODE"
 msgstr "Kiu epizodo?"
 
+msgctxt "strife"
 msgid "MNU_EPISODE"
 msgstr "Elektu kampanjon"
 

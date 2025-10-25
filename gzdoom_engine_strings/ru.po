@@ -78,6 +78,7 @@ msgstr ""
 msgid "RAVENQUITMSG"
 msgstr "Вы действительно желаете выйти?"
 
+msgctxt "heretic"
 msgid "SWSTRING"
 msgstr "Эпизод доступен только в полной версии"
 
@@ -562,6 +563,7 @@ msgstr "Уровень завершён"
 msgid "WI_ENTERING"
 msgstr "Переход"
 
+msgctxt "heretic hexen"
 msgid "WI_ENTERING"
 msgstr "Переход на:"
 
@@ -2731,6 +2733,7 @@ msgstr "Игрок %o получил заряд из фазерного зорч
 msgid "OB_MPLAZ_BOOM"
 msgstr "Игрок %o склонился перед «ЗБР» игрока %k."
 
+msgctxt "chex"
 msgid "OB_MPBFG_SPLASH"
 msgstr "Игрок %o получил заряд из «ЗБР» игрока %k."
 
@@ -2777,6 +2780,7 @@ msgstr ""
 "\n"
 "Нажмите любую клавишу."
 
+msgctxt "chex"
 msgid "QSPROMPT"
 msgstr ""
 "Выполнить быстрое сохранение задания\n"
@@ -2785,12 +2789,14 @@ msgstr ""
 "\n"
 "Нажмите Y или N."
 
+msgctxt "chex"
 msgid "QLOADNET"
 msgstr ""
 "Невозможно загрузить быстрое сохранение в сетевом задании!\n"
 "\n"
 "Нажмите любую клавишу."
 
+msgctxt "chex"
 msgid "QLPROMPT"
 msgstr ""
 "Загрузить быстрое сохранение задания\n"
@@ -2820,42 +2826,53 @@ msgstr ""
 "\n"
 "Нажмите любую клавишу."
 
+msgctxt "chex"
 msgid "NETEND"
 msgstr ""
 "Невозможно прервать сетевое задание!\n"
 "\n"
 "Нажмите любую клавишу."
 
+msgctxt "chex"
 msgid "ENDGAME"
 msgstr ""
 "Вы точно хотите завершить задание?\n"
 "\n"
 "Нажмите Y или N."
 
+msgctxt "chex"
 msgid "STSTR_DQDON"
 msgstr "Режим неуязвимости ВКЛЮЧЁН"
 
+msgctxt "chex"
 msgid "STSTR_DQDOFF"
 msgstr "Режим неуязвимости ОТКЛЮЧЁН"
 
+msgctxt "chex"
 msgid "STSTR_FAADDED"
 msgstr "Получен зорч"
 
+msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Получен суперзорч"
 
+msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "...ешь Chex(R)!"
 
+msgctxt "chex"
 msgid "AMMO_CLIP"
 msgstr "Заряд мини-зорчера"
 
+msgctxt "chex"
 msgid "AMMO_SHELLS"
 msgstr "Заряд большого зорчера"
 
+msgctxt "chex"
 msgid "AMMO_ROCKETS"
 msgstr "Заряд ускорителя"
 
+msgctxt "chex"
 msgid "AMMO_CELLS"
 msgstr "Заряд фазерного зорчера"
 
@@ -3001,6 +3018,7 @@ msgstr "Наугад"
 msgid "MNU_EPISODE"
 msgstr "Какой эпизод?"
 
+msgctxt "strife"
 msgid "MNU_EPISODE"
 msgstr "Выбор кампании"
 

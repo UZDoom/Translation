@@ -78,6 +78,7 @@ msgstr ""
 msgid "RAVENQUITMSG"
 msgstr "Deseja mesmo sair?"
 
+msgctxt "heretic"
 msgid "SWSTRING"
 msgstr "Disponível somente na versão registrada"
 
@@ -567,6 +568,7 @@ msgstr "Finalizado"
 msgid "WI_ENTERING"
 msgstr "Próxima fase"
 
+msgctxt "heretic hexen"
 msgid "WI_ENTERING"
 msgstr "Entrando em:"
 
@@ -2739,6 +2741,7 @@ msgstr "%o foi atingid@[ao_ptb] pelo zorcher fásico por %k."
 msgid "OB_MPLAZ_BOOM"
 msgstr "%o foi vítima do dispositivo LAZ de %k."
 
+msgctxt "chex"
 msgid "OB_MPBFG_SPLASH"
 msgstr "%o foi LAZead@[ao_ptb] por %k."
 
@@ -2785,6 +2788,7 @@ msgstr ""
 "\n"
 "Aperte alguma tecla."
 
+msgctxt "chex"
 msgid "QSPROMPT"
 msgstr ""
 "Deseja salvar sobre sua aventura chamada\n"
@@ -2793,12 +2797,14 @@ msgstr ""
 "\n"
 "Aperte Y ou N."
 
+msgctxt "chex"
 msgid "QLOADNET"
 msgstr ""
 "Não é possível carregar durante uma aventura em rede!\n"
 "\n"
 "Aperte alguma tecla."
 
+msgctxt "chex"
 msgid "QLPROMPT"
 msgstr ""
 "Deseja carregar a aventura chamada\n"
@@ -2828,42 +2834,53 @@ msgstr ""
 "\n"
 "Aperte alguma tecla."
 
+msgctxt "chex"
 msgid "NETEND"
 msgstr ""
 "Você não pode terminar uma aventura em rede!\n"
 "\n"
 "Aperte alguma tecla."
 
+msgctxt "chex"
 msgid "ENDGAME"
 msgstr ""
 "Tem certeza que quer terminar esta aventura?\n"
 "\n"
 "Aperte Y ou N."
 
+msgctxt "chex"
 msgid "STSTR_DQDON"
 msgstr "Modo invencível ATIVADO"
 
+msgctxt "chex"
 msgid "STSTR_DQDOFF"
 msgstr "Modo invencível DESATIVADO"
 
+msgctxt "chex"
 msgid "STSTR_FAADDED"
 msgstr "Zorch adicionado"
 
+msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Super Zorch adicionado"
 
+msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "... coma Chex(R)!"
 
+msgctxt "chex"
 msgid "AMMO_CLIP"
 msgstr "Recarga de Mini Zorch"
 
+msgctxt "chex"
 msgid "AMMO_SHELLS"
 msgstr "Recarga de Zorch Grande"
 
+msgctxt "chex"
 msgid "AMMO_ROCKETS"
 msgstr "Recarga de Propulsor de Zorch"
 
+msgctxt "chex"
 msgid "AMMO_CELLS"
 msgstr "Recarga de Zorcher Fásico"
 
@@ -3009,6 +3026,7 @@ msgstr "Aleatório"
 msgid "MNU_EPISODE"
 msgstr "Qual episódio?"
 
+msgctxt "strife"
 msgid "MNU_EPISODE"
 msgstr "Escolha a campanha"
 

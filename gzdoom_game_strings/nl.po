@@ -6338,6 +6338,7 @@ msgstr ""
 " Verraad me en betaal. Oh, en trouwens, je mag me Blackbird noemen."
 
 # MAP33: After getting the hidden com unit in the tavern.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG2"
 msgstr ""
 "Luister, deze com-unit vertelt me dat je 100% menselijk bent. Misschien bent"
@@ -6357,6 +6358,7 @@ msgstr ""
 "Ga door de deur links van je, dan de deur rechts. De bewaker heet Geoff. Zeg"
 " hem dat je goud nodig hebt."
 
+msgctxt "strifeteaser"
 msgid "TXT_ILOG5"
 msgstr ""
 "Ga het stadhuis niet binnen. Het is niet meer veilig, onze dekmantel is "
@@ -6364,6 +6366,7 @@ msgstr ""
 "ons toe leiden."
 
 # MAP33: In front of "Irale's shop" with the com unit and the Crusaders dead.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG6"
 msgstr ""
 "De deur naast de wapenwinkel gaat open als alle kruisvaarders dood zijn. In "
@@ -6371,6 +6374,7 @@ msgstr ""
 " toe."
 
 # MAP33: In front of "Irale's shop" with the com unit and the Crusaders alive.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG7"
 msgstr ""
 "De deur naast de wapenwinkel gaat open als alle kruisvaarders dood zijn. In "
@@ -6378,12 +6382,14 @@ msgstr ""
 " toe."
 
 # MAP33: Room with the flamethrower.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG8"
 msgstr ""
 "Dood zoveel mogelijk van de grote robots, kruisvaarders, als je kunt. Als je"
 " klaar bent, begeleid ik je naar Macil..."
 
 # MAP34: After leaving the teleporter.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG9"
 msgstr "Ga door de deur, en praat met Macil."
 

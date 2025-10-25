@@ -77,6 +77,7 @@ msgstr ""
 msgid "RAVENQUITMSG"
 msgstr "Er du sikker på, at du vil holde op?"
 
+msgctxt "heretic"
 msgid "SWSTRING"
 msgstr "Kun tilgængelig i den registrerede version"
 
@@ -548,6 +549,7 @@ msgstr "Færdig"
 msgid "WI_ENTERING"
 msgstr "Indtastning af"
 
+msgctxt "heretic hexen"
 msgid "WI_ENTERING"
 msgstr "Indtastning af:"
 
@@ -2717,6 +2719,7 @@ msgstr "%o blev fasezorched af %k."
 msgid "OB_MPLAZ_BOOM"
 msgstr "%o blev offer for %k's LAZ-enhed."
 
+msgctxt "chex"
 msgid "OB_MPBFG_SPLASH"
 msgstr "%o blev lazzed af %k."
 
@@ -2763,6 +2766,7 @@ msgstr ""
 "\n"
 "Tryk på en tast."
 
+msgctxt "chex"
 msgid "QSPROMPT"
 msgstr ""
 "Quicksave over dit spil navngivet\n"
@@ -2771,12 +2775,14 @@ msgstr ""
 "\n"
 "Tryk på Y eller N."
 
+msgctxt "chex"
 msgid "QLOADNET"
 msgstr ""
 "Du kan ikke quickloade under et netspil!\n"
 "\n"
 "Tryk på en tast."
 
+msgctxt "chex"
 msgid "QLPROMPT"
 msgstr ""
 "Ønsker du at quickloade spillet ved navn\n"
@@ -2807,42 +2813,53 @@ msgstr ""
 "\n"
 "Tryk på en tast."
 
+msgctxt "chex"
 msgid "NETEND"
 msgstr ""
 "Du kan ikke afslutte en netspil!\n"
 "\n"
 "Tryk på en tast."
 
+msgctxt "chex"
 msgid "ENDGAME"
 msgstr ""
 "Er du sikker på, at du ønsker at afslutte spillet?\n"
 "\n"
 "Tryk på Y eller N."
 
+msgctxt "chex"
 msgid "STSTR_DQDON"
 msgstr "Uovervindelig tilstand TIL"
 
+msgctxt "chex"
 msgid "STSTR_DQDOFF"
 msgstr "Uovervindelig tilstand FRA"
 
+msgctxt "chex"
 msgid "STSTR_FAADDED"
 msgstr "Zorch tilføjet"
 
+msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Super Zorch Tilføjet"
 
+msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "... Spis Chex(R)!"
 
+msgctxt "chex"
 msgid "AMMO_CLIP"
 msgstr "Mini Zorch ladning"
 
+msgctxt "chex"
 msgid "AMMO_SHELLS"
 msgstr "Stor Zorch ladning"
 
+msgctxt "chex"
 msgid "AMMO_ROCKETS"
 msgstr "Propulsor ladning"
 
+msgctxt "chex"
 msgid "AMMO_CELLS"
 msgstr "Phasing-Zorcher ladning"
 
@@ -2988,6 +3005,7 @@ msgstr "Tilfældig"
 msgid "MNU_EPISODE"
 msgstr "Hvilken episode?"
 
+msgctxt "strife"
 msgid "MNU_EPISODE"
 msgstr "Vælg kampagne"
 

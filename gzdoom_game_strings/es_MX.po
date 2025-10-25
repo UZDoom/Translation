@@ -5836,6 +5836,7 @@ msgstr ""
 "arrepentir. Ah, por cierto, puedes llamarme Blackbird (Mirlo)."
 
 # MAP33: After getting the hidden com unit in the tavern.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG2"
 msgstr ""
 "A ver, este intercomunicador me dice que eres 100% humano. Podrías ser uno "
@@ -5851,30 +5852,35 @@ msgstr ""
 msgid "TXT_ILOG4"
 msgstr ""
 
+msgctxt "strifeteaser"
 msgid "TXT_ILOG5"
 msgstr ""
 "No entres al ayuntamiento: nos descubrieron, o sea que ya no es seguro. Mata"
 " a todos los robots grandes, o sea, a los Cruzados, y te guío a nosotros."
 
 # MAP33: In front of "Irale's shop" with the com unit and the Crusaders dead.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG6"
 msgstr ""
 "La puerta junto a la armería se abrió al matar a los cruzados. Adentro de "
 "ese almacén hay un teletransporte; úsalo."
 
 # MAP33: In front of "Irale's shop" with the com unit and the Crusaders alive.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG7"
 msgstr ""
 "La puerta junto a la armería se va a abrir al matar a los cruzados. Adentro "
 "de ese almacén hay un teletransporte; úsalo."
 
 # MAP33: Room with the flamethrower.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG8"
 msgstr ""
 "Mata a tantos de los robots grandes, o sea, a los Cruzados, como puedas. "
 "Cuando termines, te guío hasta Macil."
 
 # MAP34: After leaving the teleporter.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG9"
 msgstr ""
 

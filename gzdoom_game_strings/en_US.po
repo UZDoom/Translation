@@ -6275,6 +6275,7 @@ msgstr ""
 "way, you can call me Blackbird."
 
 # MAP33: After getting the hidden com unit in the tavern.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG2"
 msgstr ""
 "Listen, this com-unit tells me that you're 100% human. You might be one of "
@@ -6293,12 +6294,14 @@ msgstr ""
 "Go through the door on your left, then the one on the right. The guard's "
 "name is Geoff. Tell him you need gold."
 
+msgctxt "strifeteaser"
 msgid "TXT_ILOG5"
 msgstr ""
 "Don't enter the town hall. It's not safe anymore, our cover's been blown. "
 "Kill all the big robots, the \"Crusaders\" and I'll guide you to us."
 
 # MAP33: In front of "Irale's shop" with the com unit and the Crusaders dead.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG6"
 msgstr ""
 "The door next to the weapons shop will open once all the Crusaders are dead."
@@ -6306,6 +6309,7 @@ msgstr ""
 "us"
 
 # MAP33: In front of "Irale's shop" with the com unit and the Crusaders alive.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG7"
 msgstr ""
 "The door next to the weapons shop will open once all the Crusaders are dead."
@@ -6313,12 +6317,14 @@ msgstr ""
 "us."
 
 # MAP33: Room with the flamethrower.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG8"
 msgstr ""
 "Kill as many of the big robots, Crusaders, as you can. When you're done, "
 "I'll guide you to Macil"
 
 # MAP34: After leaving the teleporter.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG9"
 msgstr "Go through the door, and talk to Macil."
 

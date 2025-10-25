@@ -6187,6 +6187,7 @@ msgstr ""
 "arestez. Trădează-mă și plătești. Oh, apropo, îmi poți spune Blackbird."
 
 # MAP33: After getting the hidden com unit in the tavern.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG2"
 msgstr ""
 "Ascultă, unitatea asta îmi spune că ești 100% uman. Poate putem avea "
@@ -6205,30 +6206,35 @@ msgstr ""
 "Intră pe ușa din stânga, apoi cea din dreapta. Numele paznicului e Geoff. "
 "Spune-i că-ți trebuie aur."
 
+msgctxt "strifeteaser"
 msgid "TXT_ILOG5"
 msgstr ""
 "Nu intra în hala orașului. Nu mai e sigură, s-a dus acoperirea noastră. "
 "Distruge toți roboții mari, Cruciații te vor conduce la noi."
 
 # MAP33: In front of "Irale's shop" with the com unit and the Crusaders dead.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG6"
 msgstr ""
 "Ușa de lângă magazinul de arme se va deschide odată ce toți Cruciații sunt "
 "morți. Înăuntru e un teleportor, ia-l, te va duce la noi."
 
 # MAP33: In front of "Irale's shop" with the com unit and the Crusaders alive.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG7"
 msgstr ""
 "Ușa de lângă magazinul de arme se va deschide odată ce toți Cruciații sunt "
 "morți. Înăuntru e un teleportor, ia-l, te va duce la noi."
 
 # MAP33: Room with the flamethrower.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG8"
 msgstr ""
 "Distruge cât mai mulți roboți, Cruciați, pe cât poți. Când ești gata, te voi"
 " duce la Macil."
 
 # MAP34: After leaving the teleporter.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG9"
 msgstr "Intră pe ușă și du-te la Macil."
 

@@ -6262,6 +6262,7 @@ msgstr ""
 "предашь меня — пожалеешь. И да, обращайся ко мне «Чёрный дрозд». "
 
 # MAP33: After getting the hidden com unit in the tavern.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG2"
 msgstr ""
 "Слушай — судя по этому передатчику, ты на сто процентов человек. Ты можешь "
@@ -6281,12 +6282,14 @@ msgstr ""
 "Пройди за левую дверь, затем иди направо. Стражника зовут Джефф. Скажи ему, "
 "что тебе нужно золото."
 
+msgctxt "strifeteaser"
 msgid "TXT_ILOG5"
 msgstr ""
 "Не ходи к ратуше. Наше убежище было разгромлено, теперь там небезопасно. "
 "Перебей этих больших роботов, «крестоносцев», и я покажу тебе дорогу к нам. "
 
 # MAP33: In front of "Irale's shop" with the com unit and the Crusaders dead.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG6"
 msgstr ""
 "Дверь возле оружейного магазина откроется, когда все крестоносцы будут "
@@ -6294,6 +6297,7 @@ msgstr ""
 "к нам."
 
 # MAP33: In front of "Irale's shop" with the com unit and the Crusaders alive.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG7"
 msgstr ""
 "Дверь возле оружейного магазина откроется, когда все крестоносцы будут "
@@ -6301,12 +6305,14 @@ msgstr ""
 "к нам."
 
 # MAP33: Room with the flamethrower.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG8"
 msgstr ""
 "Убей столько больших роботов, — крестоносцев, — сколько сможешь. Когда "
 "закончишь, я приведу тебя к Мэйсилу."
 
 # MAP34: After leaving the teleporter.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG9"
 msgstr "Обратись к Мэйсилу. Он за этой дверью."
 

@@ -60,6 +60,7 @@ msgstr "Oyunu bitirmek istediğinizden emin misiniz? Y veya N'ye basın."
 msgid "RAVENQUITMSG"
 msgstr "Çıkmak istediğinizden emin misiniz?"
 
+msgctxt "heretic"
 msgid "SWSTRING"
 msgstr "Sadece kayıtlı sürümde mevcuttur"
 
@@ -495,6 +496,7 @@ msgstr "Bitti"
 msgid "WI_ENTERING"
 msgstr "Giriş"
 
+msgctxt "heretic hexen"
 msgid "WI_ENTERING"
 msgstr "Şimdi giriyoruz:"
 
@@ -2664,6 +2666,7 @@ msgstr "%o, %k tarafından yenildi."
 msgid "OB_MPLAZ_BOOM"
 msgstr "%o, %k tarafından lazzlandı."
 
+msgctxt "chex"
 msgid "OB_MPBFG_SPLASH"
 msgstr "%o, %k tarafından lazzlandı."
 
@@ -2710,6 +2713,7 @@ msgstr ""
 "\n"
 "Bir tuşa basın."
 
+msgctxt "chex"
 msgid "QSPROMPT"
 msgstr ""
 "%s'\n"
@@ -2718,11 +2722,13 @@ msgstr ""
 "\n"
 "Y veya N tuşuna basın."
 
+msgctxt "chex"
 msgid "QLOADNET"
 msgstr ""
 "Bir ağ oyunu sırasında hızlı yükleme yapamazsınız!\n"
 "Bir tuşa basın."
 
+msgctxt "chex"
 msgid "QLPROMPT"
 msgstr ""
 "%s'\n"
@@ -2753,42 +2759,53 @@ msgstr ""
 "\n"
 "Bir tuşa basın."
 
+msgctxt "chex"
 msgid "NETEND"
 msgstr ""
 "Bir netquest'i sonlandıramazsınız!\n"
 "\n"
 "Bir tuşa basın."
 
+msgctxt "chex"
 msgid "ENDGAME"
 msgstr ""
 "Görevi sonlandırmak istediğinizden emin misiniz?\n"
 "\n"
 "Y veya N tuşuna basın."
 
+msgctxt "chex"
 msgid "STSTR_DQDON"
 msgstr "Yenilmez Mod AÇIK"
 
+msgctxt "chex"
 msgid "STSTR_DQDOFF"
 msgstr "Yenilmez Modu KAPALI"
 
+msgctxt "chex"
 msgid "STSTR_FAADDED"
 msgstr "Zorch Eklendi"
 
+msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Süper Zorch Eklendi"
 
+msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "... Chex(R) yiyin!"
 
+msgctxt "chex"
 msgid "AMMO_CLIP"
 msgstr "Mini Zorch Şarjı"
 
+msgctxt "chex"
 msgid "AMMO_SHELLS"
 msgstr "Büyük Zorcher Şarjı"
 
+msgctxt "chex"
 msgid "AMMO_ROCKETS"
 msgstr "İtici Şarjı"
 
+msgctxt "chex"
 msgid "AMMO_CELLS"
 msgstr "Zorcher Yükünün Aşamalandırılması"
 
@@ -2934,6 +2951,7 @@ msgstr "Rastgele"
 msgid "MNU_EPISODE"
 msgstr "Hangi Bölüm?"
 
+msgctxt "strife"
 msgid "MNU_EPISODE"
 msgstr "Kampanyayı Seçin"
 

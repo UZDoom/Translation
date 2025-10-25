@@ -76,6 +76,7 @@ msgstr ""
 msgid "RAVENQUITMSG"
 msgstr "Желите ли сигурно да изађете?"
 
+msgctxt "heretic"
 msgid "SWSTRING"
 msgstr "Само могуће у регистрованој верзији"
 
@@ -562,6 +563,7 @@ msgstr "Ниво завршен"
 msgid "WI_ENTERING"
 msgstr "Следећи ниво"
 
+msgctxt "heretic hexen"
 msgid "WI_ENTERING"
 msgstr "Следећи ниво:"
 
@@ -2732,6 +2734,7 @@ msgstr "%o је фазно торчован %k."
 msgid "OB_MPLAZ_BOOM"
 msgstr "%o је постао жртва %k ЛАЗ уређаја."
 
+msgctxt "chex"
 msgid "OB_MPBFG_SPLASH"
 msgstr "%o је ЛАЗ-овао %k."
 
@@ -2778,15 +2781,18 @@ msgstr ""
 "\n"
 "Притисните тастер."
 
+msgctxt "chex"
 msgid "QSPROMPT"
 msgstr "Брзо-сачувајте преко ваше потраге назване '%s'? Притисните Y или N."
 
+msgctxt "chex"
 msgid "QLOADNET"
 msgstr ""
 "Не можете брзо-учитати док сте у мрежној потрази!\n"
 "\n"
 "Притисните тастер."
 
+msgctxt "chex"
 msgid "QLPROMPT"
 msgstr ""
 "Да ли желиш да брзо-учиташ потрагу названу '%s'?\n"
@@ -2813,42 +2819,53 @@ msgstr ""
 "\n"
 "Притисните Y или N."
 
+msgctxt "chex"
 msgid "NETEND"
 msgstr ""
 "Не можете завршити мрежну потрагу!\n"
 "\n"
 "Притисните тастер."
 
+msgctxt "chex"
 msgid "ENDGAME"
 msgstr ""
 "Да ли си сигуран да желиш да завршиш трагање?\n"
 "\n"
 "Притисни Y или N."
 
+msgctxt "chex"
 msgid "STSTR_DQDON"
 msgstr "Неуништив УКЉУЧЕН"
 
+msgctxt "chex"
 msgid "STSTR_DQDOFF"
 msgstr "Неуништив ИСКЉУЧЕН"
 
+msgctxt "chex"
 msgid "STSTR_FAADDED"
 msgstr "Зорч додат"
 
+msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Супер зорч додат"
 
+msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "... Једи Chex(R)!"
 
+msgctxt "chex"
 msgid "AMMO_CLIP"
 msgstr "Мини зорч пуњач"
 
+msgctxt "chex"
 msgid "AMMO_SHELLS"
 msgstr "Велики зорч пуњач"
 
+msgctxt "chex"
 msgid "AMMO_ROCKETS"
 msgstr "Погонски зорч пуњач"
 
+msgctxt "chex"
 msgid "AMMO_CELLS"
 msgstr "Фазни зорч пуњач"
 
@@ -2994,6 +3011,7 @@ msgstr "Насумично"
 msgid "MNU_EPISODE"
 msgstr "Која епизода?"
 
+msgctxt "strife"
 msgid "MNU_EPISODE"
 msgstr "Изабери кампању"
 

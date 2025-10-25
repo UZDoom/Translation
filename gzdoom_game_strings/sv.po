@@ -6323,6 +6323,7 @@ msgstr ""
 " och betala. Och förresten, du kan kalla mig Blackbird."
 
 # MAP33: After getting the hidden com unit in the tavern.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG2"
 msgstr ""
 "Den här kommunikationsenheten säger mig att du är 100 procent mänsklig. Du "
@@ -6342,6 +6343,7 @@ msgstr ""
 "Gå genom dörren till vänster och sedan genom dörren till höger. Vaktens namn"
 " är Geoff. Säg till honom att du behöver guld."
 
+msgctxt "strifeteaser"
 msgid "TXT_ILOG5"
 msgstr ""
 "Gå inte in i stadshuset. Det är inte säkert längre, vår täckmantel har "
@@ -6349,24 +6351,28 @@ msgstr ""
 "till oss."
 
 # MAP33: In front of "Irale's shop" with the com unit and the Crusaders dead.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG6"
 msgstr ""
 "Dörren bredvid vapenbutiken öppnas när alla korsriddare är döda. Inne i "
 "butiksrummet finns det en teleporter, använd den och den för dig till oss."
 
 # MAP33: In front of "Irale's shop" with the com unit and the Crusaders alive.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG7"
 msgstr ""
 "Dörren bredvid vapenbutiken öppnas när alla korsfarare är döda. Inne i "
 "butiksrummet finns en teleporter, använd den och den tar dig till oss."
 
 # MAP33: Room with the flamethrower.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG8"
 msgstr ""
 "Döda så många av de stora robotarna, korsriddarna, som du kan. När du är "
 "klar kommer jag att guida dig till Macil."
 
 # MAP34: After leaving the teleporter.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG9"
 msgstr "Gå in genom dörren och prata med Macil."
 

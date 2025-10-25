@@ -78,6 +78,7 @@ msgstr ""
 msgid "RAVENQUITMSG"
 msgstr "Sei sicuro di voler abbandonare?"
 
+msgctxt "heretic"
 msgid "SWSTRING"
 msgstr "Disponibile solamente nella versione registrata"
 
@@ -564,6 +565,7 @@ msgstr "Finito"
 msgid "WI_ENTERING"
 msgstr "Prossimo livello"
 
+msgctxt "heretic hexen"
 msgid "WI_ENTERING"
 msgstr "Entrando adesso in:"
 
@@ -2736,6 +2738,7 @@ msgstr "%o è stato phase-zorchato da %k."
 msgid "OB_MPLAZ_BOOM"
 msgstr "%o è stato preda del dispositivo LAZ di %k."
 
+msgctxt "chex"
 msgid "OB_MPBFG_SPLASH"
 msgstr "%o è stato lazzato da %k."
 
@@ -2782,6 +2785,7 @@ msgstr ""
 "\n"
 "Premi un tasto."
 
+msgctxt "chex"
 msgid "QSPROMPT"
 msgstr ""
 "Sovrascrivere il salvataggio\n"
@@ -2790,12 +2794,14 @@ msgstr ""
 "\n"
 "Premi Y oppure N."
 
+msgctxt "chex"
 msgid "QLOADNET"
 msgstr ""
 "Non puoi fare un quickload durante una netquest!\n"
 "\n"
 "Premi un tasto."
 
+msgctxt "chex"
 msgid "QLPROMPT"
 msgstr ""
 "Vuoi fare un quickload della quest\n"
@@ -2826,42 +2832,53 @@ msgstr ""
 "\n"
 "Premi un tasto."
 
+msgctxt "chex"
 msgid "NETEND"
 msgstr ""
 "Non puoi terminare una netquest!\n"
 "\n"
 "Premi un tasto."
 
+msgctxt "chex"
 msgid "ENDGAME"
 msgstr ""
 "Sei sicuro di voler terminare la quest?\n"
 "\n"
 "Premi Y oppure N."
 
+msgctxt "chex"
 msgid "STSTR_DQDON"
 msgstr "Modalità invincibile attivata"
 
+msgctxt "chex"
 msgid "STSTR_DQDOFF"
 msgstr "Modalità invincibile disattivata"
 
+msgctxt "chex"
 msgid "STSTR_FAADDED"
 msgstr "Zorch aggiunto"
 
+msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Super Zorch aggiunto"
 
+msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "... Mangia I Chex(R)!"
 
+msgctxt "chex"
 msgid "AMMO_CLIP"
 msgstr "Ricarica Mini Zorch"
 
+msgctxt "chex"
 msgid "AMMO_SHELLS"
 msgstr "Ricarica Grande Zorch"
 
+msgctxt "chex"
 msgid "AMMO_ROCKETS"
 msgstr "Ricarica Propulsore"
 
+msgctxt "chex"
 msgid "AMMO_CELLS"
 msgstr "Ricarica Zorcher di Fase"
 
@@ -3007,6 +3024,7 @@ msgstr "Casuale"
 msgid "MNU_EPISODE"
 msgstr "Quale episodio?"
 
+msgctxt "strife"
 msgid "MNU_EPISODE"
 msgstr "Scegli la campagna"
 

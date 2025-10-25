@@ -6408,6 +6408,7 @@ msgstr ""
 "mich Blackbird nennen."
 
 # MAP33: After getting the hidden com unit in the tavern.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG2"
 msgstr ""
 "Hör zu, dieser Kommunikator sagt mit, dass du noch 100% menschlich bist. Du "
@@ -6427,6 +6428,7 @@ msgstr ""
 "Geh durch die linke Tür, dann durch die rechte. Der Wächter heißt Geoff. Sag"
 " ihm du brauchst Gold."
 
+msgctxt "strifeteaser"
 msgid "TXT_ILOG5"
 msgstr ""
 "Geh nicht ins Rathaus. Da ist es nicht mehr sicher, unsere Tarnung ist "
@@ -6434,24 +6436,28 @@ msgstr ""
 "dich zu uns."
 
 # MAP33: In front of "Irale's shop" with the com unit and the Crusaders dead.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG6"
 msgstr ""
 "Die Tür neben dem Waffengeschäft wird sich öffnen, wenn alle Ordensritter "
 "tot sind. Dahinter ist ein Teleporter. Benutze ihn, er bringt dich zu uns."
 
 # MAP33: In front of "Irale's shop" with the com unit and the Crusaders alive.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG7"
 msgstr ""
 "Die Tür neben dem Waffengeschäft wird sich öffnen, wenn alle Ordensritter "
 "tot sind. Dahinter ist ein Teleporter. Benutze ihn, er bringt dich zu uns."
 
 # MAP33: Room with the flamethrower.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG8"
 msgstr ""
 "Erledige so viele von den großen Robotern - „Ordensrittern“, wie möglich. "
 "Wann das erledigt ist, führe ich dich zu Macil."
 
 # MAP34: After leaving the teleporter.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG9"
 msgstr "Geh durch die Tür und rede mit Macil."
 

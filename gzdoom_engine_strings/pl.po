@@ -78,6 +78,7 @@ msgstr ""
 msgid "RAVENQUITMSG"
 msgstr "Czy jesteś pewien że chcesz wyjść?"
 
+msgctxt "heretic"
 msgid "SWSTRING"
 msgstr "Dostępne tylko w zarejestrowanej wersji"
 
@@ -555,6 +556,7 @@ msgstr "Ukończono"
 msgid "WI_ENTERING"
 msgstr "Wchodzisz do:"
 
+msgctxt "heretic hexen"
 msgid "WI_ENTERING"
 msgstr "Teraz wchodzisz do:"
 
@@ -2726,6 +2728,7 @@ msgstr "%o został@[ao_pl] został sfazowan@[adj_pl] przez %k."
 msgid "OB_MPLAZ_BOOM"
 msgstr "%o stał@[ao_pl] się ofiarą urządzenia LAZ %k."
 
+msgctxt "chex"
 msgid "OB_MPBFG_SPLASH"
 msgstr "%o został@[ao_pl] zLAZowan@[adj_pl] przez %k."
 
@@ -2771,6 +2774,7 @@ msgstr ""
 "\n"
 "Wciśnij dowolny klawisz."
 
+msgctxt "chex"
 msgid "QSPROMPT"
 msgstr ""
 "Czy szybko nadpisać twoją misję\n"
@@ -2779,12 +2783,14 @@ msgstr ""
 "\n"
 "Wciśnij Y lub N."
 
+msgctxt "chex"
 msgid "QLOADNET"
 msgstr ""
 "Nie możesz użyć szybkiego wczytania podczas sieciowej misji!\n"
 "\n"
 "Wciśnij dowolny klawisz."
 
+msgctxt "chex"
 msgid "QLPROMPT"
 msgstr ""
 "Czy chcesz wczytać szybki zapis misji\n"
@@ -2815,42 +2821,53 @@ msgstr ""
 "\n"
 "Wciśnij dowolny klawisz."
 
+msgctxt "chex"
 msgid "NETEND"
 msgstr ""
 "Nie możesz zakończyć misji sieciowej!\n"
 "\n"
 "Wciśnij dowolny klaiwsz."
 
+msgctxt "chex"
 msgid "ENDGAME"
 msgstr ""
 "Czy na pewno chcesz zakończyć misję?\n"
 "\n"
 "Wciśnij Y lub N."
 
+msgctxt "chex"
 msgid "STSTR_DQDON"
 msgstr "Tryb Niewrażliwości WŁĄCZONY"
 
+msgctxt "chex"
 msgid "STSTR_DQDOFF"
 msgstr "Tryb Niewrażliwości WYŁĄCZONY"
 
+msgctxt "chex"
 msgid "STSTR_FAADDED"
 msgstr "Zorch dodany"
 
+msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Super Zorch dodany"
 
+msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "... jedz płatki Chex(R)!"
 
+msgctxt "chex"
 msgid "AMMO_CLIP"
 msgstr "Mini Ładunek Zorch"
 
+msgctxt "chex"
 msgid "AMMO_SHELLS"
 msgstr "Ładunek do Dużego Zorchera"
 
+msgctxt "chex"
 msgid "AMMO_ROCKETS"
 msgstr "Ładunek do Pędnika"
 
+msgctxt "chex"
 msgid "AMMO_CELLS"
 msgstr "Ładunek do Fazowego Zorchera"
 
@@ -2996,6 +3013,7 @@ msgstr "Losowa"
 msgid "MNU_EPISODE"
 msgstr "Który Epizod?"
 
+msgctxt "strife"
 msgid "MNU_EPISODE"
 msgstr "Wybierz kampanię"
 

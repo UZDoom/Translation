@@ -78,6 +78,7 @@ msgstr ""
 msgid "RAVENQUITMSG"
 msgstr "Tens a certeza que queres sair?"
 
+msgctxt "heretic"
 msgid "SWSTRING"
 msgstr "Apenas disponível na versão registrada"
 
@@ -557,6 +558,7 @@ msgstr ""
 msgid "WI_ENTERING"
 msgstr "Próximo nível"
 
+msgctxt "heretic hexen"
 msgid "WI_ENTERING"
 msgstr "A entrar em:"
 
@@ -2728,6 +2730,7 @@ msgstr ""
 msgid "OB_MPLAZ_BOOM"
 msgstr ""
 
+msgctxt "chex"
 msgid "OB_MPBFG_SPLASH"
 msgstr ""
 
@@ -2774,6 +2777,7 @@ msgstr ""
 "\n"
 "Carrega numa tecla qualquer."
 
+msgctxt "chex"
 msgid "QSPROMPT"
 msgstr ""
 "Desejas gravar sem cima da sua aventura chamada\n"
@@ -2782,12 +2786,14 @@ msgstr ""
 "\n"
 "Carrega Y ou N."
 
+msgctxt "chex"
 msgid "QLOADNET"
 msgstr ""
 "Não é possível carregar durante uma aventura em rede!\n"
 "\n"
 "Carrega numa tecla qualquer."
 
+msgctxt "chex"
 msgid "QLPROMPT"
 msgstr ""
 "Desejas carregar a aventura chamada\n"
@@ -2817,42 +2823,53 @@ msgstr ""
 "\n"
 "Carrega numa tecla qualquer."
 
+msgctxt "chex"
 msgid "NETEND"
 msgstr ""
 "Não podes terminar uma aventura em rede!\n"
 "\n"
 "Carrega numa tecla qualquer."
 
+msgctxt "chex"
 msgid "ENDGAME"
 msgstr ""
 "Tens a certeza que queres terminar esta aventura?\n"
 "\n"
 "Carrega Y ou N."
 
+msgctxt "chex"
 msgid "STSTR_DQDON"
 msgstr ""
 
+msgctxt "chex"
 msgid "STSTR_DQDOFF"
 msgstr ""
 
+msgctxt "chex"
 msgid "STSTR_FAADDED"
 msgstr ""
 
+msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr ""
 
+msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr ""
 
+msgctxt "chex"
 msgid "AMMO_CLIP"
 msgstr ""
 
+msgctxt "chex"
 msgid "AMMO_SHELLS"
 msgstr ""
 
+msgctxt "chex"
 msgid "AMMO_ROCKETS"
 msgstr ""
 
+msgctxt "chex"
 msgid "AMMO_CELLS"
 msgstr ""
 
@@ -2998,6 +3015,7 @@ msgstr ""
 msgid "MNU_EPISODE"
 msgstr ""
 
+msgctxt "strife"
 msgid "MNU_EPISODE"
 msgstr ""
 

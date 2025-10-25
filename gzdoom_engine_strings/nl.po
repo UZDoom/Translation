@@ -78,6 +78,7 @@ msgstr ""
 msgid "RAVENQUITMSG"
 msgstr "Weet je zeker dat je wilt stoppen?"
 
+msgctxt "heretic"
 msgid "SWSTRING"
 msgstr "Alleen beschikbaar in de geregistreerde versie"
 
@@ -516,6 +517,7 @@ msgstr "Klaar"
 msgid "WI_ENTERING"
 msgstr "Volgende"
 
+msgctxt "heretic hexen"
 msgid "WI_ENTERING"
 msgstr "Volgende:"
 
@@ -2686,6 +2688,7 @@ msgstr "%o was fase zorched door %k."
 msgid "OB_MPLAZ_BOOM"
 msgstr "%o viel ten prooi aan %k's LAZ apparaat."
 
+msgctxt "chex"
 msgid "OB_MPBFG_SPLASH"
 msgstr "%o werd gelazed door %k."
 
@@ -2732,6 +2735,7 @@ msgstr ""
 "\n"
 "Druk op een toets."
 
+msgctxt "chex"
 msgid "QSPROMPT"
 msgstr ""
 "Snel opslaan over je spel genaamd\n"
@@ -2740,6 +2744,7 @@ msgstr ""
 "\n"
 "Druk op Y of N."
 
+msgctxt "chex"
 msgid "QLOADNET"
 msgstr ""
 "Wil je het spel snel laden met de naam\n"
@@ -2748,6 +2753,7 @@ msgstr ""
 "\n"
 "Druk op Y of N."
 
+msgctxt "chex"
 msgid "QLPROMPT"
 msgstr ""
 "Wil je het spel snel laden met de naam\n"
@@ -2778,42 +2784,53 @@ msgstr ""
 "\n"
 "Druk op een toets."
 
+msgctxt "chex"
 msgid "NETEND"
 msgstr ""
 "Je kunt een netspel niet beëindigen!\n"
 "\n"
 "Druk op een toets."
 
+msgctxt "chex"
 msgid "ENDGAME"
 msgstr ""
 "Weet je zeker dat je het spel wilt beëindigen?\n"
 "\n"
 "Druk op Y of N."
 
+msgctxt "chex"
 msgid "STSTR_DQDON"
 msgstr "Onoverwinnelijke modus AAN"
 
+msgctxt "chex"
 msgid "STSTR_DQDOFF"
 msgstr "Onoverwinnelijke modus UIT"
 
+msgctxt "chex"
 msgid "STSTR_FAADDED"
 msgstr "Zorch toegevoegd"
 
+msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Super Zorch toegevoegd"
 
+msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "... Eet Chex(R)!"
 
+msgctxt "chex"
 msgid "AMMO_CLIP"
 msgstr "Mini Zorchlading"
 
+msgctxt "chex"
 msgid "AMMO_SHELLS"
 msgstr "Grote Zorchlading"
 
+msgctxt "chex"
 msgid "AMMO_ROCKETS"
 msgstr "Propulsorlading"
 
+msgctxt "chex"
 msgid "AMMO_CELLS"
 msgstr "Fasezorcherlading"
 
@@ -2959,6 +2976,7 @@ msgstr "Willekeurig"
 msgid "MNU_EPISODE"
 msgstr "Welke aflevering?"
 
+msgctxt "strife"
 msgid "MNU_EPISODE"
 msgstr "Kies campagne"
 

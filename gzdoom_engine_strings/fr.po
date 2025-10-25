@@ -81,6 +81,7 @@ msgstr ""
 msgid "RAVENQUITMSG"
 msgstr "Êtes vous sûr de vouloir quitter ?"
 
+msgctxt "heretic"
 msgid "SWSTRING"
 msgstr "Disponible uniquement dans la version enregistrée"
 
@@ -568,6 +569,7 @@ msgstr "Terminé"
 msgid "WI_ENTERING"
 msgstr "Niveau Suivant"
 
+msgctxt "heretic hexen"
 msgid "WI_ENTERING"
 msgstr "Vous entrez dans:"
 
@@ -2740,6 +2742,7 @@ msgstr "%o à été phasé@[e_fr] par %k."
 msgid "OB_MPLAZ_BOOM"
 msgstr "%o est devenu@[e_fr] la proie du ZZL de %k."
 
+msgctxt "chex"
 msgid "OB_MPBFG_SPLASH"
 msgstr "%o à été pris@[e_fr] par le ZZL de %k."
 
@@ -2787,6 +2790,7 @@ msgstr ""
 "\n"
 "Appuyez sur une touche."
 
+msgctxt "chex"
 msgid "QSPROMPT"
 msgstr ""
 "Sauvegarde rapide sur le fichier\n"
@@ -2795,6 +2799,7 @@ msgstr ""
 "\n"
 "Appuyez sur Y ou N."
 
+msgctxt "chex"
 msgid "QLOADNET"
 msgstr ""
 "Vous ne pouvez pas charger quand\n"
@@ -2802,6 +2807,7 @@ msgstr ""
 "\n"
 "Appuyez sur une touche."
 
+msgctxt "chex"
 msgid "QLPROMPT"
 msgstr ""
 "Chargement rapide sur le fichier\n"
@@ -2832,6 +2838,7 @@ msgstr ""
 "\n"
 "Appuyez sur une touche."
 
+msgctxt "chex"
 msgid "NETEND"
 msgstr ""
 "Vous ne pouvez pas arrêter la partie quand\n"
@@ -2839,36 +2846,46 @@ msgstr ""
 "\n"
 "Appuyez sur une touche."
 
+msgctxt "chex"
 msgid "ENDGAME"
 msgstr ""
 "Finir la partie?\n"
 "\n"
 "Appuyez sur Y ou N."
 
+msgctxt "chex"
 msgid "STSTR_DQDON"
 msgstr "Mode invincible ON"
 
+msgctxt "chex"
 msgid "STSTR_DQDOFF"
 msgstr "Mode invincible OFF"
 
+msgctxt "chex"
 msgid "STSTR_FAADDED"
 msgstr "Zorch Ajouté"
 
+msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Super Zorch Ajouté"
 
+msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "... Mangez du Chex(R)!"
 
+msgctxt "chex"
 msgid "AMMO_CLIP"
 msgstr "Charge Zorch"
 
+msgctxt "chex"
 msgid "AMMO_SHELLS"
 msgstr "Charge de Zorcheur Large"
 
+msgctxt "chex"
 msgid "AMMO_ROCKETS"
 msgstr "Charge de Propulseur"
 
+msgctxt "chex"
 msgid "AMMO_CELLS"
 msgstr "Charge de Phaseur"
 
@@ -3014,6 +3031,7 @@ msgstr "Au Hasard"
 msgid "MNU_EPISODE"
 msgstr "Quel épisode?"
 
+msgctxt "strife"
 msgid "MNU_EPISODE"
 msgstr "Choisissez la Campagne"
 

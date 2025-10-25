@@ -74,6 +74,7 @@ msgstr ""
 msgid "RAVENQUITMSG"
 msgstr "Ви дійсно хочете вийти?"
 
+msgctxt "heretic"
 msgid "SWSTRING"
 msgstr "Доступно только в полной версии"
 
@@ -531,6 +532,7 @@ msgstr "Завершено"
 msgid "WI_ENTERING"
 msgstr "Заходимо"
 
+msgctxt "heretic hexen"
 msgid "WI_ENTERING"
 msgstr "Просуваємось до:"
 
@@ -2700,6 +2702,7 @@ msgstr "%k фазорчну@[adj_1_ua] %o."
 msgid "OB_MPLAZ_BOOM"
 msgstr "%o па@[adj_1_ua] жертвою LAZ девайсу %k."
 
+msgctxt "chex"
 msgid "OB_MPBFG_SPLASH"
 msgstr "%k LAZну@[adj_1_ua] %o."
 
@@ -2746,6 +2749,7 @@ msgstr ""
 "\n"
 "Натисни будь яку клавішу."
 
+msgctxt "chex"
 msgid "QSPROMPT"
 msgstr ""
 "Швидко перезаписати твій квест під назвою\n"
@@ -2754,12 +2758,14 @@ msgstr ""
 "\n"
 "Натисни Y або N."
 
+msgctxt "chex"
 msgid "QLOADNET"
 msgstr ""
 "Ти не можеш швидко завантажитись під час мережевого квесту!\n"
 "\n"
 "Натисни будь яку клавішу."
 
+msgctxt "chex"
 msgid "QLPROMPT"
 msgstr ""
 "Швидко завантажити твій квест під назвою\n"
@@ -2787,42 +2793,53 @@ msgstr ""
 "\n"
 "Натисни Y або N."
 
+msgctxt "chex"
 msgid "NETEND"
 msgstr ""
 "Ти не можеш завершити мережевий квест!\n"
 "\n"
 "Натисни будь яку клавішу."
 
+msgctxt "chex"
 msgid "ENDGAME"
 msgstr ""
 "Ти дійсно хочеш завершити квест?\n"
 "\n"
 "Натисни Y або N."
 
+msgctxt "chex"
 msgid "STSTR_DQDON"
 msgstr "Невразливість увімкнено"
 
+msgctxt "chex"
 msgid "STSTR_DQDOFF"
 msgstr "Невразливість вимкнено"
 
+msgctxt "chex"
 msgid "STSTR_FAADDED"
 msgstr "Додано Зорч"
 
+msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Додано Супер Зорч"
 
+msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "... Їж Chex(R)!"
 
+msgctxt "chex"
 msgid "AMMO_CLIP"
 msgstr "Заряд міні-Зорчера"
 
+msgctxt "chex"
 msgid "AMMO_SHELLS"
 msgstr "Заряд Великого Зорчера"
 
+msgctxt "chex"
 msgid "AMMO_ROCKETS"
 msgstr "Заряд Прискорювача"
 
+msgctxt "chex"
 msgid "AMMO_CELLS"
 msgstr "Заряд фазового Зорчера"
 
@@ -2968,6 +2985,7 @@ msgstr "Випадково"
 msgid "MNU_EPISODE"
 msgstr "Який епізод?"
 
+msgctxt "strife"
 msgid "MNU_EPISODE"
 msgstr "Вибрати кампанію"
 

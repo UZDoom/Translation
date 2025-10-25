@@ -74,6 +74,7 @@ msgstr ""
 msgid "RAVENQUITMSG"
 msgstr "Bist du dir sicher, dass du gehen willst?"
 
+msgctxt "heretic"
 msgid "SWSTRING"
 msgstr "Nur in der registrierten Version verfügbar"
 
@@ -561,6 +562,7 @@ msgstr "Abgeschlossen"
 msgid "WI_ENTERING"
 msgstr "Betrete"
 
+msgctxt "heretic hexen"
 msgid "WI_ENTERING"
 msgstr "Betrete:"
 
@@ -2736,6 +2738,7 @@ msgstr "%o wurde von %k wegsynchronisiert"
 msgid "OB_MPLAZ_BOOM"
 msgstr "%o fiel %ks Flächenzorcher zum Opfer"
 
+msgctxt "chex"
 msgid "OB_MPBFG_SPLASH"
 msgstr "%o wurde von %k weggebeamt."
 
@@ -2782,18 +2785,21 @@ msgstr ""
 "\n"
 "Drücke eine Taste"
 
+msgctxt "chex"
 msgid "QSPROMPT"
 msgstr ""
 "Überschreibe %s mit einem Schnellspeicherspielstand?\n"
 "\n"
 "Drücke Y oder N."
 
+msgctxt "chex"
 msgid "QLOADNET"
 msgstr ""
 "Du kannst während eines Netzwerkspiels nicht schnellladen.\n"
 "\n"
 "Drücke eine Taste"
 
+msgctxt "chex"
 msgid "QLPROMPT"
 msgstr ""
 "Möchtest du den Spielstand %s schnellladen?\n"
@@ -2821,42 +2827,53 @@ msgstr ""
 "\n"
 "Drücke eine Taste"
 
+msgctxt "chex"
 msgid "NETEND"
 msgstr ""
 "Du kannst ein Netzwerkspiel nicht beenden.\n"
 "\n"
 "Drücke eine Taste."
 
+msgctxt "chex"
 msgid "ENDGAME"
 msgstr ""
 "Willst du das Spiel wirklich beenden?\n"
 "\n"
 "Drücke Y oder N."
 
+msgctxt "chex"
 msgid "STSTR_DQDON"
 msgstr "Unbesiegbarer Modus EIN"
 
+msgctxt "chex"
 msgid "STSTR_DQDOFF"
 msgstr "Unbesiegbarer Modus AUS"
 
+msgctxt "chex"
 msgid "STSTR_FAADDED"
 msgstr "Zorch hinzugefügt"
 
+msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Super Zorch hinzugefügt"
 
+msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "...Iss Chex(R)!"
 
+msgctxt "chex"
 msgid "AMMO_CLIP"
 msgstr "Minizorcher-Ladung"
 
+msgctxt "chex"
 msgid "AMMO_SHELLS"
 msgstr "Zorcher-Ladung"
 
+msgctxt "chex"
 msgid "AMMO_ROCKETS"
 msgstr "Propeller-Ladung"
 
+msgctxt "chex"
 msgid "AMMO_CELLS"
 msgstr "Phasenzorcher-Ladung"
 
@@ -3002,6 +3019,7 @@ msgstr "Zufällig"
 msgid "MNU_EPISODE"
 msgstr "Welche Episode?"
 
+msgctxt "strife"
 msgid "MNU_EPISODE"
 msgstr "Mission auswählen"
 

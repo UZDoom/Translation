@@ -6508,6 +6508,7 @@ msgstr ""
 "parenteze, vi rajtas nomi min Merlo."
 
 # MAP33: After getting the hidden com unit in the tavern.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG2"
 msgstr ""
 "Nu, ĉi tiu interfono diras, ke vi estas centelcente homa. Vi eble estas unu "
@@ -6526,6 +6527,7 @@ msgstr ""
 "Iru tra la maldekstra pordo kaj poste tra la dekstra. La nomo de la gardisto"
 " estas Geoff; diru al li, ke vi bezonas oron."
 
+msgctxt "strifeteaser"
 msgid "TXT_ILOG5"
 msgstr ""
 "Ne eniru la urbodomon: ili detruis niajn kovrilojn, ĝi do ne plu estas "
@@ -6533,24 +6535,28 @@ msgstr ""
 "ni."
 
 # MAP33: In front of "Irale's shop" with the com unit and the Crusaders dead.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG6"
 msgstr ""
 "Detrui la Krucistojn malfermis la pordon apud la armilvendejo. Estas "
 "teleportilo en tiu stokejo; uzu ĝin."
 
 # MAP33: In front of "Irale's shop" with the com unit and the Crusaders alive.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG7"
 msgstr ""
 "Detrui la Krucistojn malfermos la pordon apud la armilvendejo. Estas "
 "teleportilo en tiu stokejo; uzu ĝin."
 
 # MAP33: Room with the flamethrower.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG8"
 msgstr ""
 "Detruu tiom da robotegoj, alinome Krucistoj, kiom vi povas. Tiam mi gvidos "
 "vin al Macil."
 
 # MAP34: After leaving the teleporter.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG9"
 msgstr "Iru tra la pordo kaj parolu kun Macil."
 

@@ -78,6 +78,7 @@ msgstr ""
 msgid "RAVENQUITMSG"
 msgstr "Biztosan ki akarsz lépni?"
 
+msgctxt "heretic"
 msgid "SWSTRING"
 msgstr "Csak a teljes verzióban érhető el"
 
@@ -551,6 +552,7 @@ msgstr "Teljesítve"
 msgid "WI_ENTERING"
 msgstr "Következik"
 
+msgctxt "heretic hexen"
 msgid "WI_ENTERING"
 msgstr "Következik:"
 
@@ -2720,6 +2722,7 @@ msgstr "%o fázis zorker áldozata lett %k által."
 msgid "OB_MPLAZ_BOOM"
 msgstr "%o prédául lett ejtve %k LAZ készülékével."
 
+msgctxt "chex"
 msgid "OB_MPBFG_SPLASH"
 msgstr "%o el lett lazzázva %k által."
 
@@ -2766,6 +2769,7 @@ msgstr ""
 "\n"
 "Nyomj meg egy gombot."
 
+msgctxt "chex"
 msgid "QSPROMPT"
 msgstr ""
 "Gyorsmenteni akarod az alábbi küldetést:\n"
@@ -2774,12 +2778,14 @@ msgstr ""
 "\n"
 "Nyomj Y vagy N-t."
 
+msgctxt "chex"
 msgid "QLOADNET"
 msgstr ""
 "Nem tudsz gyorstölteni netes küldetés közben!\n"
 "\n"
 "Nyomj meg egy gombot."
 
+msgctxt "chex"
 msgid "QLPROMPT"
 msgstr ""
 "Be akarod tölteni a következő küldetést\n"
@@ -2809,42 +2815,53 @@ msgstr ""
 "\n"
 "Nyomj egy gombot."
 
+msgctxt "chex"
 msgid "NETEND"
 msgstr ""
 "Nem tudsz kilépni a netes küldetésből!\n"
 "\n"
 "Nyomj egy gombot."
 
+msgctxt "chex"
 msgid "ENDGAME"
 msgstr ""
 "Biztosan be akarod fejezni a küldetést?\n"
 "\n"
 "Nyomj Y-t vagy N-t."
 
+msgctxt "chex"
 msgid "STSTR_DQDON"
 msgstr "Sérthetetlen mód BE"
 
+msgctxt "chex"
 msgid "STSTR_DQDOFF"
 msgstr "Sérthetetlen mód KI"
 
+msgctxt "chex"
 msgid "STSTR_FAADDED"
 msgstr "Szörcs felvéve"
 
+msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Szuper Szörcs feléve"
 
+msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "...egyél Chex(R)-et!"
 
+msgctxt "chex"
 msgid "AMMO_CLIP"
 msgstr "Mini szörcs töltet"
 
+msgctxt "chex"
 msgid "AMMO_SHELLS"
 msgstr "Nagy szörcs töltet"
 
+msgctxt "chex"
 msgid "AMMO_ROCKETS"
 msgstr "Hajtómű töltet"
 
+msgctxt "chex"
 msgid "AMMO_CELLS"
 msgstr "Fázisszörcsölő töltet"
 
@@ -2990,6 +3007,7 @@ msgstr "Véletlenszerű"
 msgid "MNU_EPISODE"
 msgstr "Melyik epizód?"
 
+msgctxt "strife"
 msgid "MNU_EPISODE"
 msgstr "Válassz hadjáratot"
 

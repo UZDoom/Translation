@@ -6239,6 +6239,7 @@ msgstr ""
 "Ja, és hívhatsz feketerigónak."
 
 # MAP33: After getting the hidden com unit in the tavern.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG2"
 msgstr ""
 "Figyelj, azt jelzi a jeladó, hogy 100%-ban ember vagy. Talán tényleg egy "
@@ -6258,30 +6259,35 @@ msgstr ""
 "Menj át a bal oldali ajtón, majd a jobb oldalin. Az őr neve Geoff. Mondd "
 "neki, hogy aranyra van szükséged."
 
+msgctxt "strifeteaser"
 msgid "TXT_ILOG5"
 msgstr ""
 "Ne menj be a városházába. Már nem biztonságos, lelepleződtünk. Öldd meg az "
 "összes nagy robotot, a Kereszteseket, és elvezetlek hozzánk."
 
 # MAP33: In front of "Irale's shop" with the com unit and the Crusaders dead.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG6"
 msgstr ""
 "A fegyverbolt melletti ajtó ki fog nyílni, miután az összes Kresztes "
 "meghalt. Találsz a raktáron belül egy teleportot, ami ide fog hozni hozzánk."
 
 # MAP33: In front of "Irale's shop" with the com unit and the Crusaders alive.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG7"
 msgstr ""
 "A fegyverbolt melletti ajtó ki fog nyílni, miután az összes Kresztes "
 "meghalt. Találsz a raktáron belül egy teleportot, ami ide fog hozni hozzánk."
 
 # MAP33: Room with the flamethrower.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG8"
 msgstr ""
 "Ölj meg annyi nagy robotot és keresztest amennyit csak tudsz. Ha kész vagy, "
 "elvezetlek Macilhoz."
 
 # MAP34: After leaving the teleporter.
+msgctxt "strifeteaser"
 msgid "TXT_ILOG9"
 msgstr "Az ajtó mögött már vár Macil, beszélj vele."
 
