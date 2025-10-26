@@ -1,4 +1,4 @@
-#!/usr/bin/awk -f
+#!/usr/bin/env gawk -f
 
 # why did I choose to use awk for this again?
 
