@@ -5252,6 +5252,3 @@ msgstr "Coop spy previous"
 
 msgid "CNTRLMNU_COOPSPYCANCEL"
 msgstr "Clear coop spy"
-
-msgid "OPTMNU_ACCESIBILITY"
-msgstr "Accessibility Options"
