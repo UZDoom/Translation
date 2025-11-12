@@ -2,161 +2,167 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-11-13 12:52+0000\n"
+"Last-Translator: Joel Robert Justiawan "
+"<joelwindows7@users.noreply.hosted.weblate.org>\n"
+"Language-Team: Indonesian <https://hosted.weblate.org/projects/uzdoom/hacx/"
+"id/>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.15-dev\n"
 
 msgid "QUITMSG1"
-msgstr ""
+msgstr "Monster ini susah amat ya?"
 
 msgid "QUITMSG"
 msgstr ""
+"Anda yakin untuk\\n"
+"lari dari misimu?"
 
 msgid "QUITMSG2"
-msgstr ""
+msgstr "Mau keluar? Tapi nyebut dirimu sebagai hacker?"
 
 msgid "QUITMSG3"
-msgstr ""
+msgstr "Balik woi sebelum aku kirim virus ke knalpot mu!"
 
 msgid "QUITMSG4"
-msgstr ""
+msgstr "Hacker sejati tidak pernah lari dari misi."
 
 msgid "QUITMSG5"
-msgstr ""
+msgstr "Ayolah! Kau belum lihat bagian terbaiknya!"
 
 msgid "QUITMSG6"
-msgstr ""
+msgstr "Menyerahlah, dan dunia cyber matang sudah!"
 
 msgid "QUITMSG7"
-msgstr ""
+msgstr "GENIE titip salam, kocak!"
 
 msgid "QUITMSG8"
-msgstr ""
+msgstr "Hmm. Sayang kalau jadi pahlawan, Hacker."
 
 msgid "QUITMSG9"
-msgstr ""
+msgstr "Apa? Kau mau balik ke sangkar mainan?"
 
 msgid "QUITMSG10"
-msgstr ""
+msgstr "Seharusnya ambil aja pil biru."
 
 msgid "QUITMSG11"
-msgstr ""
+msgstr "Nama gamenya bukan Twitch n' Run!"
 
 msgid "QUITMSG12"
-msgstr ""
+msgstr "Tidak apa. Menyelamatkan dunia bisa nanti, ya kan?"
 
 msgid "QUITMSG13"
-msgstr ""
+msgstr "Sepertinya waktu untuk buat seperti 'net dan berpisah!"
 
 msgid "QUITMSG14"
-msgstr ""
+msgstr "Jangan pergi dan lupa dengan HacX, sekarang!"
 
 msgid "OB_SUICIDE"
-msgstr ""
+msgstr "%o menghapus dirinya dari alam semesta."
 
 msgid "OB_FALLING"
-msgstr ""
+msgstr "%o membuat kawah segede Kansas."
 
 msgid "OB_CRUSH"
-msgstr ""
+msgstr "%o berubah jadi pancake manusia."
 
 msgid "OB_EXIT"
-msgstr ""
+msgstr "%o mencoba kabur."
 
 msgid "OB_WATER"
-msgstr ""
+msgstr "%o berenang seperti batu-bata."
 
 msgid "OB_SLIME"
-msgstr ""
+msgstr "%o meledak nuklir."
 
 msgid "OB_LAVA"
-msgstr ""
+msgstr "%o berendam air panas."
 
 msgid "OB_BARREL"
-msgstr ""
+msgstr "%o overdosis nitro gliserin."
 
 msgid "OB_SPLASH"
-msgstr ""
+msgstr "%o pecah berkeping-keping."
 
 msgid "OB_R_SPLASH"
-msgstr ""
+msgstr "%o mau melihat isi jeroannya %g luar-dalam."
 
 msgid "OB_ROCKET"
-msgstr ""
+msgstr "%o mau melihat isi jeroannya %g luar-dalam."
 
 msgid "OB_KILLEDSELF"
-msgstr ""
+msgstr "%o menghapus dirinya dari alam semesta."
 
 msgid "OB_THUG"
-msgstr ""
+msgstr "%o bukan lagi spesies dominan."
 
 msgid "OB_ANDROID"
-msgstr ""
+msgstr "%o salah kaprah dengan mesin."
 
 msgid "OB_MONSTRUCT"
-msgstr ""
+msgstr "%o membuat dirinya kena cyber-tumpang-tendang-bokong."
 
 msgid "OB_ICE"
-msgstr ""
+msgstr "%o dibekukan ICE."
 
 msgid "OB_BUZZER"
-msgstr ""
+msgstr "%o merasa agak nge-buzz."
 
 msgid "OB_STEALTH"
-msgstr ""
+msgstr "%o mengungkap sesuatu yang mengejutkan."
 
 msgid "OB_DMAN"
-msgstr ""
+msgstr "%o terhapus dari dunia cyber."
 
 msgid "OB_GLASS"
 msgstr ""
 
 msgid "OB_MANIAC"
-msgstr ""
+msgstr "member kehidupannya %o telah dihentikan."
 
 msgid "OB_MANIACHIT"
-msgstr ""
+msgstr "%o mati dengan sebuah metode entahlah akupun tak mengerti."
 
 msgid "OB_TERMIN"
-msgstr ""
+msgstr "%o terpanggang si cewek femme fatale."
 
 # This text is not gender neutral, obviously...
 msgid "OB_TERMINHIT"
-msgstr ""
+msgstr "%o telalu keenakan dengan lawan jenisnya."
 
 msgid "OB_REPLI"
-msgstr ""
+msgstr "%o mengatakan selamat tinggal kepada teman lamanya."
 
 msgid "OB_REPLIHIT"
-msgstr ""
+msgstr "%o tertusuk di belakang oleh teman lamanya."
 
 msgid "OB_PHAGE"
-msgstr ""
+msgstr "%o terpilih oleh seleksi alam."
 
 msgid "OB_THORN"
-msgstr ""
+msgstr "%o tak dapat menghindari kematian atas duri."
 
 msgid "OB_SUMATIC"
-msgstr ""
+msgstr "%o kena jotos sumo di selangkangnya."
 
 msgid "OB_GENIE"
-msgstr ""
+msgstr "%o gagal dapat tiga permintaan dari %p."
 
 msgid "OB_MINE"
-msgstr ""
+msgstr "%o mencoba elus-elus ranjau."
 
 msgid "OB_MPKICK"
-msgstr ""
+msgstr "wajahnya %o ditendang %k ala tendangan-fu Bruce Lee."
 
 msgid "OB_MPREZNATOR"
-msgstr ""
+msgstr "%o jatuh tak berdaya melalui pewahyuan mengejutkan %k."
 
 msgid "OB_MPXPISTOL"
-msgstr ""
+msgstr "%o kena dosis-dobel hukumannya %k."
 
 msgid "OB_MPTAZER"
 msgstr ""
