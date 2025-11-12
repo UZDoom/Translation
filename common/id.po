@@ -2,86 +2,103 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-11-12 12:48+0000\n"
+"Last-Translator: Joel Robert Justiawan "
+"<joelwindows7@users.noreply.hosted.weblate.org>\n"
+"Language-Team: Indonesian <https://hosted.weblate.org/projects/uzdoom/common/"
+"id/>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.15-dev\n"
 
 msgid "PRESSYN"
-msgstr ""
+msgstr "Tekan Y atau N."
 
 msgid "TXT_YES"
-msgstr ""
+msgstr "Ya"
 
 msgid "TXT_NO"
-msgstr ""
+msgstr "Tidak"
 
 msgid "SAVEDEAD"
 msgstr ""
+"Anda tidak bisa ngesave saat Anda tidak bermain!\n"
+"\n"
+"Tekan tombol apapun."
 
 msgid "SAFEMESSAGE"
-msgstr ""
+msgstr "Anda yakin ingin melakukannya?"
 
 msgid "NOTSET"
-msgstr ""
+msgstr "tidak diatur"
 
 msgid "QSPROMPT"
 msgstr ""
+"Quicksave ulang game Anda bernama\n"
+"\n"
+"'%s'?\n"
+"\n"
+"Tekan Y atau N."
 
 msgid "QLPROMPT"
 msgstr ""
+"Anda yakin utuk quickload game bernama\n"
+"\n"
+"'%s'?\n"
+"\n"
+"Tekan Y atau N."
 
 # This is a gender sensitive message where %s represents the player
 msgid "TXT_X_CHEATS"
-msgstr ""
+msgstr "%s curang"
 
 msgid "MSGOFF"
-msgstr ""
+msgstr "Pesan: MATI"
 
 msgid "MSGON"
-msgstr ""
+msgstr "Pesan: NYALA"
 
 msgid "TXT_SAY"
-msgstr ""
+msgstr "Katanya:"
 
 msgid "TXT_QUITENDOOM"
-msgstr ""
+msgstr "Tekan tombol apapun atau klik manapun di jendela untuk keluar."
 
 msgid "NEWSAVE"
-msgstr ""
+msgstr "<Save Game Baru>"
 
 msgid "GGSAVED"
-msgstr ""
+msgstr "Game disave."
 
 msgid "SAVECOMMENT_TIME"
-msgstr ""
+msgstr "Waktu"
 
 msgid "MNU_LOADGAME"
-msgstr ""
+msgstr "Load Game"
 
 msgid "MNU_SAVEGAME"
-msgstr ""
+msgstr "Simpan Game"
 
 msgid "MNU_NOPICTURE"
-msgstr ""
+msgstr "Tidak Ada Gambar"
 
 msgid "MNU_DIFFVERSION"
-msgstr ""
+msgstr "Versi Berbeda"
 
 msgid "MNU_NOFILES"
-msgstr ""
+msgstr "Tidak ada file"
 
 msgid "MNU_DELETESG"
-msgstr ""
+msgstr "Anda yakin ingin menghapus savegame tersebut?\n"
 
 msgid "OPTVAL_OFF"
-msgstr ""
+msgstr "Mati"
 
 msgid "OPTVAL_ON"
-msgstr ""
+msgstr "Nyala"
 
 msgid "OPTVAL_AUTO"
 msgstr ""
