@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-12 12:48+0000\n"
+"PO-Revision-Date: 2025-11-13 12:51+0000\n"
 "Last-Translator: Joel Robert Justiawan "
 "<joelwindows7@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/uzdoom/common/"
@@ -77,7 +77,7 @@ msgid "SAVECOMMENT_TIME"
 msgstr "Waktu"
 
 msgid "MNU_LOADGAME"
-msgstr "Load Game"
+msgstr "Muat Game"
 
 msgid "MNU_SAVEGAME"
 msgstr "Simpan Game"
