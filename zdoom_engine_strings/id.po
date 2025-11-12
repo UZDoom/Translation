@@ -2,82 +2,128 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-11-12 12:48+0000\n"
+"Last-Translator: Joel Robert Justiawan "
+"<joelwindows7@users.noreply.hosted.weblate.org>\n"
+"Language-Team: Indonesian <https://hosted.weblate.org/projects/uzdoom/"
+"zdoom-engine-strings/id/>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.15-dev\n"
 
 msgid "PRESSKEY"
-msgstr ""
+msgstr "Tekan tombol apapun."
 
 msgid "SECRETMESSAGE"
-msgstr ""
+msgstr "Sebuah rahasia terungkap!"
 
 msgid "D_DEVSTR"
-msgstr ""
+msgstr "Mode useless NYALA\n"
 
 msgid "QUITMSG"
 msgstr ""
+"Anda yakin untuk\n"
+"keluar dari game hebat ini?"
 
 # In some languages, it may make more sense to translate “Press a key” as
 # “Press any key.”
 msgid "LOADNET"
 msgstr ""
+"Anda tidak bisa ngeload saat berada di net game!\n"
+"\n"
+"Tekan tombol apapun."
 
 msgid "QLOADNET"
 msgstr ""
+"Anda tidak bisa quickload saat netgame!\n"
+"\n"
+"Tekan tombol apapun."
 
 msgid "QSAVESPOT"
 msgstr ""
+"Anda belum memilih slot quicksave!\n"
+"\n"
+"Tekan tombol apapun."
 
 msgid "NEWGAME"
 msgstr ""
+"Anda tidak bisa memulai game baru\n"
+"saat berada di game network.\n"
+"\n"
+"Tekan tombol apapun."
 
 msgid "NIGHTMARE"
 msgstr ""
+"Anda yakin? Level skill ini\n"
+"sama sekali tidak adil loh.\n"
+"\n"
+"Tekan Y atau N."
 
 msgid "SWSTRING"
 msgstr ""
+"Ini adalah Doom versi shareware.\n"
+"\n"
+"Anda butuh memesan seluruh trilogi.\n"
+"\n"
+"Tekan tombol apapun."
 
 msgid "NETEND"
 msgstr ""
+"Anda tidak bisa mengakhiri netgame!\n"
+"\n"
+"Tekan tombol apapun."
 
 msgid "ENDGAME"
 msgstr ""
+"Anda yakin untuk mengakhiri game?\n"
+"\n"
+"Tekan Y atau N."
 
 msgid "RAVENQUITMSG"
-msgstr ""
+msgstr "Anda yakin ingin keluar?"
 
 msgctxt "heretic"
 msgid "SWSTRING"
-msgstr ""
+msgstr "Hanya tersedia di versi registered"
 
 msgid "DOSY"
-msgstr ""
+msgstr "(Tekan Y untuk keluar)"
 
 msgid "QUITMSG1"
 msgstr ""
+"Tolong jangan pergi dulu, masih ada\n"
+"setan yang musti dipanggang!"
 
 msgid "QUITMSG2"
 msgstr ""
+"Udahlah -- ini malah\n"
+"jadi tumpah darah nih!"
 
 msgid "QUITMSG3"
 msgstr ""
+"Aku tidak kan pergi jika menjadi kamu.\n"
+"DOS lebih parah lagi."
 
 msgid "QUITMSG4"
 msgstr ""
+"Kau mau bilang bahwa kau menyukai DOS\n"
+"lebih daripadaku, ya kan?"
 
 msgid "QUITMSG5"
 msgstr ""
+"Jangan pergi dulu -- ada\n"
+"setan disekitar pojok itu!"
 
 msgid "QUITMSG6"
 msgstr ""
+"Kau tau, lain kali kau balik lagi sini\n"
+"bakal kuhajar kau."
 
 msgid "QUITMSG7"
-msgstr ""
+msgstr "Ayo silahkan dan pergi. lihat kalau aku emang peduli."
 
 # More info here.
 msgid "QUITMSG8"
@@ -87,54 +133,83 @@ msgstr ""
 # Lovecraft.
 msgid "QUITMSG9"
 msgstr ""
+"Jangan pergi dulu, ada\n"
+"dimensional shambler menunggu\n"
+"di DOS prompt mu!"
 
 msgid "QUITMSG10"
 msgstr ""
+"Keluarlah dari sini dan kembali\n"
+"ke program membosankanmu."
 
 msgid "QUITMSG11"
 msgstr ""
+"Kalau aku bosmu, akan ku\n"
+"deathmatch kau sebentar lagi!"
 
 msgid "QUITMSG12"
 msgstr ""
+"Nih, sob. kau pergi sekarang\n"
+"dan kau meninggalkan body countmu!"
 
 msgid "QUITMSG13"
 msgstr ""
+"Pergilah. pas kau balik\n"
+"lagi, ku tunggu kau dengan tongkat."
 
 msgid "QUITMSG14"
 msgstr ""
+"Beruntung kau aku takkan\n"
+"memukulmu karena berpikir untuk pergi."
 
 msgid "QUITMSG15"
 msgstr ""
+"Mau kemana kau?!\n"
+"Bagaimana dengan rebellion?"
 
 msgid "QUITMSG16"
 msgstr ""
+"Bantaian Terhenti...\n"
+"Sangat menyebalkan!"
 
 msgid "QUITMSG17"
 msgstr ""
+"Tapi engkaulah harapan itu\n"
+"-- satu2nya kesempatanku!!"
 
 msgid "QUITMSG18"
-msgstr ""
+msgstr "Tiada yang keluar di Blackbird."
 
 msgid "QUITMSG19"
-msgstr ""
+msgstr "Kukira kau berbeda..."
 
 msgid "QUITMSG20"
-msgstr ""
+msgstr "Okeh! bunuhlah lalu lari!"
 
 msgid "QUITMSG21"
 msgstr ""
+"Anda bisa keluar...\n"
+"tapi tidak bisa sembunyi..."
 
 msgid "QUITMSG22"
 msgstr ""
+"Waaa, emangnya kenapa?\n"
+"Mak mu bilang waktunya makan?"
 
 msgid "QUITMSG23"
 msgstr ""
+"Jangan keluar dulu, masih ada\n"
+"para flemoid berkeliaran!"
 
 msgid "QUITMSG24"
 msgstr ""
+"Jangan menyerah -- para flemoid akan\n"
+"menang kalau begitu!"
 
 msgid "QUITMSG25"
 msgstr ""
+"Jangan pergi dulu.\n"
+"Kami butuh bantuanmu!"
 
 msgid "QUITMSG26"
 msgstr ""
@@ -4573,7 +4648,7 @@ msgid "TXT_BY"
 msgstr ""
 
 msgid "TXT_QUITENDOOM"
-msgstr ""
+msgstr "Tekan tombol apapun atau klik manapun di jendela untuk keluar."
 
 msgid "HUDMNU_FLASH"
 msgstr ""
