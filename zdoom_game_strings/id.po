@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-12 12:48+0000\n"
+"PO-Revision-Date: 2025-11-13 12:52+0000\n"
 "Last-Translator: Joel Robert Justiawan "
 "<joelwindows7@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/uzdoom/"
@@ -52,7 +52,7 @@ msgid "HUSTR_E1M2"
 msgstr "E1M2: PLTN"
 
 msgid "HUSTR_E1M3"
-msgstr ""
+msgstr "E1M3: Pengolahan Limbah"
 
 msgid "HUSTR_E1M4"
 msgstr "E1M4: Pusat Komando"
@@ -91,16 +91,16 @@ msgid "HUSTR_E2M5"
 msgstr "E2M5: Pusat Komando"
 
 msgid "HUSTR_E2M6"
-msgstr ""
+msgstr "E2M6: Balai Kemalangan"
 
 msgid "HUSTR_E2M7"
 msgstr ""
 
 msgid "HUSTR_E2M8"
-msgstr ""
+msgstr "E2M8: Menara Babel"
 
 msgid "HUSTR_E2M9"
-msgstr ""
+msgstr "E2M9: Benteng Misteri"
 
 msgid "HUSTR_E3M1"
 msgstr ""
@@ -115,11 +115,11 @@ msgid "HUSTR_E3M4"
 msgstr ""
 
 msgid "HUSTR_E3M5"
-msgstr ""
+msgstr "E3M5: Katedral Neraka"
 
 # Volcano in Antarctica
 msgid "HUSTR_E3M6"
-msgstr ""
+msgstr "E3M6: Gunung Erebus"
 
 msgid "HUSTR_E3M7"
 msgstr ""
@@ -134,134 +134,134 @@ msgstr ""
 
 # Proverbs 15:24
 msgid "HUSTR_E4M1"
-msgstr ""
+msgstr "E4M1: Dunia Kematian Dibawah"
 
 # Psalm 139:22
 msgid "HUSTR_E4M2"
-msgstr ""
+msgstr "E4M2: Sama Sekali Membenci"
 
 # Matthew 13:49
 msgid "HUSTR_E4M3"
-msgstr ""
+msgstr "E4M3: Memisahkan Orang Jahat"
 
 # James 3:8
 msgid "HUSTR_E4M4"
-msgstr ""
+msgstr "E4M4: Buas tak Terkuasai"
 
 # Luke 16:30
 msgid "HUSTR_E4M5"
-msgstr ""
+msgstr "E4M5: Mereka Akan Bertobat"
 
 # Psalm 139:20
 msgid "HUSTR_E4M6"
-msgstr ""
+msgstr "E4M6: Berdusta terhadap Engkau"
 
 # Revelation 6:8
 msgid "HUSTR_E4M7"
-msgstr ""
+msgstr "E4M7: Kerajaan Maut Mengikuti"
 
 # Proverbs 5:9
 msgid "HUSTR_E4M8"
-msgstr ""
+msgstr "E4M8: Kepada Orang Kejam"
 
 msgid "HUSTR_E4M9"
-msgstr ""
+msgstr "E4M9: Ketakutan"
 
 # Note that the "LEVEL" part of the string will be stripped so it shouldn't be
 # translated
 msgid "HUSTR_1"
-msgstr ""
+msgstr "Level 1: Pintu Masuk"
 
 msgid "HUSTR_2"
-msgstr ""
+msgstr "Level 2: Gorong-Gorong"
 
 # “a form of punishment in which a person is forced to run between two lines
 # of men facing each other and armed with clubs or whips to beat the victim”
 msgid "HUSTR_3"
-msgstr ""
+msgstr "Level 3: Ruang Cambuk"
 
 msgid "HUSTR_4"
-msgstr ""
+msgstr "Level 4: Fokus"
 
 msgid "HUSTR_5"
-msgstr ""
+msgstr "Level 5: Terowongan Limbah"
 
 msgid "HUSTR_6"
 msgstr ""
 
 msgid "HUSTR_7"
-msgstr ""
+msgstr "Level 7: Sangat Mudah"
 
 msgid "HUSTR_8"
-msgstr ""
+msgstr "Level 8: Tipuan dan Jebakan"
 
 msgid "HUSTR_9"
-msgstr ""
+msgstr "Level 9: Lubang"
 
 msgid "HUSTR_10"
-msgstr ""
+msgstr "Level 10: Pengisian Bahan Bakar"
 
 # Alternative title:
 # Circle of Death 
 msgid "HUSTR_11"
-msgstr ""
+msgstr "Level 11: Lingkaran Kehancuran!"
 
 msgid "HUSTR_12"
-msgstr ""
+msgstr "Level 12: Pabrik"
 
 msgid "HUSTR_13"
-msgstr ""
+msgstr "Level 13: Pusat Kota"
 
 msgid "HUSTR_14"
-msgstr ""
+msgstr "Level 14: Liang Terdalam"
 
 msgid "HUSTR_15"
-msgstr ""
+msgstr "Leval 15: Kawasan Industri"
 
 msgid "HUSTR_16"
-msgstr ""
+msgstr "Level 16: Pinggir Kota"
 
 msgid "HUSTR_17"
-msgstr ""
+msgstr "Level 18: Rumah Susun"
 
 msgid "HUSTR_18"
-msgstr ""
+msgstr "Level 18: Halaman"
 
 msgid "HUSTR_19"
-msgstr ""
+msgstr "Level 19: Citadel"
 
 msgid "HUSTR_20"
-msgstr ""
+msgstr "Level 20: Kena kau!"
 
 msgid "HUSTR_21"
 msgstr ""
 
 msgid "HUSTR_22"
-msgstr ""
+msgstr "Level 22: Katakombe"
 
 msgid "HUSTR_23"
-msgstr ""
+msgstr "Level 23: Tong Keseruan"
 
 msgid "HUSTR_24"
-msgstr ""
+msgstr "Level 24: Jurang"
 
 msgid "HUSTR_25"
-msgstr ""
+msgstr "Level 25: Tumpah Darah"
 
 msgid "HUSTR_26"
-msgstr ""
+msgstr "Level 26: Tambang Tertinggal"
 
 msgid "HUSTR_27"
-msgstr ""
+msgstr "Level 27: Rumah Monster"
 
 msgid "HUSTR_28"
-msgstr ""
+msgstr "Level 29: Dunia Roh"
 
 msgid "HUSTR_29"
 msgstr ""
 
 msgid "HUSTR_30"
-msgstr ""
+msgstr "Level 30: Lambang Dosa"
 
 msgid "HUSTR_31"
 msgstr ""
@@ -276,52 +276,52 @@ msgid "HUSTR_32B"
 msgstr ""
 
 msgid "HUSTR_33"
-msgstr ""
+msgstr "Level 33: Pengkhianatan"
 
 msgid "NHUSTR_1"
-msgstr ""
+msgstr "Level 1: Markas Bumi"
 
 msgid "NHUSTR_2"
-msgstr ""
+msgstr "Level 2: Lab Penyiksaan"
 
 msgid "NHUSTR_3"
-msgstr ""
+msgstr "Level 3: Tebing Orang Mati"
 
 msgid "NHUSTR_4"
-msgstr ""
+msgstr "Level 4: Gunung Maut"
 
 msgid "NHUSTR_5"
 msgstr ""
 
 msgid "NHUSTR_6"
-msgstr ""
+msgstr "Level 6: Neraka Darah"
 
 msgid "NHUSTR_7"
-msgstr ""
+msgstr "Level 7: Perjamuan Baron"
 
 msgid "NHUSTR_8"
-msgstr ""
+msgstr "Level 8: Makam Kedengkian"
 
 msgid "NHUSTR_9"
-msgstr ""
+msgstr "Level 9: Pasukan Neraka"
 
 msgid "PHUSTR_1"
-msgstr ""
+msgstr "Level 1: Kongo"
 
 msgid "PHUSTR_2"
-msgstr ""
+msgstr "Level 2: Sumur Jiwa"
 
 msgid "PHUSTR_3"
-msgstr ""
+msgstr "Level 3: Aztek"
 
 msgid "PHUSTR_4"
-msgstr ""
+msgstr "Level 4: Terkurung"
 
 msgid "PHUSTR_5"
-msgstr ""
+msgstr "Level 5: Kota Hantu"
 
 msgid "PHUSTR_6"
-msgstr ""
+msgstr "Level 6: Kediaman Baron"
 
 msgid "PHUSTR_7"
 msgstr ""
@@ -330,31 +330,31 @@ msgid "PHUSTR_8"
 msgstr ""
 
 msgid "PHUSTR_9"
-msgstr ""
+msgstr "Level 9: Pemotongan"
 
 msgid "PHUSTR_10"
 msgstr ""
 
 msgid "PHUSTR_11"
-msgstr ""
+msgstr "Level 11: Diburu"
 
 msgid "PHUSTR_12"
-msgstr ""
+msgstr "Level 12: Kecepatan"
 
 msgid "PHUSTR_13"
-msgstr ""
+msgstr "Level 13: Tempat Tersembunyi"
 
 msgid "PHUSTR_14"
-msgstr ""
+msgstr "Level 14: Kejadian"
 
 msgid "PHUSTR_15"
-msgstr ""
+msgstr "Level 15: Senja"
 
 msgid "PHUSTR_16"
-msgstr ""
+msgstr "Level 16: Faal"
 
 msgid "PHUSTR_17"
-msgstr ""
+msgstr "Level 17: Senyawa"
 
 msgid "PHUSTR_18"
 msgstr ""
@@ -362,58 +362,58 @@ msgstr ""
 # “NME” read out loud means “enemy”, so translators should consider the
 # translation of “enemy” into their language.
 msgid "PHUSTR_19"
-msgstr ""
+msgstr "Level 19: MSH"
 
 msgid "PHUSTR_20"
-msgstr ""
+msgstr "Level 20: Kawasan Maut"
 
 msgid "PHUSTR_21"
 msgstr ""
 
 msgid "PHUSTR_22"
-msgstr ""
+msgstr "Level 22: Misi Mustahil"
 
 msgid "PHUSTR_23"
-msgstr ""
+msgstr "Level 23: Batu Nisan"
 
 msgid "PHUSTR_24"
-msgstr ""
+msgstr "Level 24: Garis Terdepan"
 
 msgid "PHUSTR_25"
-msgstr ""
+msgstr "Level 25: Kuil Kegelapan"
 
 msgid "PHUSTR_26"
 msgstr ""
 
 msgid "PHUSTR_27"
-msgstr ""
+msgstr "Level 28: Anti-kris"
 
 msgid "PHUSTR_28"
-msgstr ""
+msgstr "Level 28: Bawah Tanah"
 
 msgid "PHUSTR_29"
-msgstr ""
+msgstr "Level 29: Pengembara Bising"
 
 msgid "PHUSTR_30"
-msgstr ""
+msgstr "Level 30: Gerbang Neraka"
 
 msgid "PHUSTR_31"
-msgstr ""
+msgstr "Level 31: Liang Cyber"
 
 msgid "PHUSTR_32"
-msgstr ""
+msgstr "Level 32: Langsung Aja"
 
 msgid "THUSTR_1"
-msgstr ""
+msgstr "Level 1: Kendali Sistem"
 
 msgid "THUSTR_2"
-msgstr ""
+msgstr "Level 2: Sate Manusia"
 
 msgid "THUSTR_3"
-msgstr ""
+msgstr "Level 3: Kendali Daya"
 
 msgid "THUSTR_4"
-msgstr ""
+msgstr "Level 4: Lubang Cacing"
 
 # Not "Hangar"
 msgid "THUSTR_5"
@@ -423,55 +423,55 @@ msgid "THUSTR_6"
 msgstr ""
 
 msgid "THUSTR_7"
-msgstr ""
+msgstr "Level 7: Penjara"
 
 msgid "THUSTR_8"
-msgstr ""
+msgstr "Level 8: Logam"
 
 msgid "THUSTR_9"
-msgstr ""
+msgstr "Level 9: Rumah Besar"
 
 msgid "THUSTR_10"
-msgstr ""
+msgstr "Level 10: Pertobatan"
 
 msgid "THUSTR_11"
-msgstr ""
+msgstr "Level 11: Gudang"
 
 msgid "THUSTR_12"
-msgstr ""
+msgstr "Level 12: Kawah"
 
 msgid "THUSTR_13"
-msgstr ""
+msgstr "Level 13: Pengolah Limbah Nuklir"
 
 msgid "THUSTR_14"
 msgstr ""
 
 msgid "THUSTR_15"
-msgstr ""
+msgstr "Level 15: Kawasan Maut"
 
 msgid "THUSTR_16"
-msgstr ""
+msgstr "Level 16: Raihan Terdalam"
 
 msgid "THUSTR_17"
-msgstr ""
+msgstr "Level 17: Tempat Pengolahan"
 
 msgid "THUSTR_18"
-msgstr ""
+msgstr "Level 18: Penggilingan"
 
 msgid "THUSTR_19"
-msgstr ""
+msgstr "Level 19: Pengiriman/respawning"
 
 msgid "THUSTR_20"
-msgstr ""
+msgstr "Level 20: Pengolahan Pusat"
 
 msgid "THUSTR_21"
-msgstr ""
+msgstr "Level 21: Pusat Administrasi"
 
 msgid "THUSTR_22"
 msgstr ""
 
 msgid "THUSTR_23"
-msgstr ""
+msgstr "Level 23: Proyek Tambang Bulan"
 
 msgid "THUSTR_24"
 msgstr ""
