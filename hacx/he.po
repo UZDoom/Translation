@@ -2,32 +2,34 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-11-13 12:52+0000\n"
+"Last-Translator: not aname <clay57447@gmail.com>\n"
+"Language-Team: Hebrew <https://hosted.weblate.org/projects/uzdoom/hacx/he/>\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : "
 "((n > 10 && n % 10 == 0) ? 2 : 3));\n"
+"X-Generator: Weblate 5.15-dev\n"
 
 msgid "QUITMSG1"
-msgstr ""
+msgstr "הבאגים האלה מסובכים מידי בשבילך?"
 
 msgid "QUITMSG"
 msgstr ""
 
 msgid "QUITMSG2"
-msgstr ""
+msgstr "אתה מנסה לותר? ואתה קורה לעצמך האקר?"
 
 msgid "QUITMSG3"
 msgstr ""
 
 msgid "QUITMSG4"
-msgstr ""
+msgstr "האקרים אמיתיים אף פעם לא בורחים מהאקשן."
 
 msgid "QUITMSG5"
-msgstr ""
+msgstr "קדימה! עדיין לא ראית את החלק הכי טוב!"
 
 msgid "QUITMSG6"
 msgstr ""
@@ -41,14 +43,15 @@ msgstr ""
 msgid "QUITMSG9"
 msgstr ""
 
+#, fuzzy
 msgid "QUITMSG10"
-msgstr ""
+msgstr "היית צריך לקחת את הגלולה הכחולה."
 
 msgid "QUITMSG11"
 msgstr ""
 
 msgid "QUITMSG12"
-msgstr ""
+msgstr "אין דאגה. הצלה של העולם יכולה לחכות, נכון?"
 
 msgid "QUITMSG13"
 msgstr ""
@@ -57,28 +60,28 @@ msgid "QUITMSG14"
 msgstr ""
 
 msgid "OB_SUICIDE"
-msgstr ""
+msgstr "%o מחק את עצמו מהיקום."
 
 msgid "OB_FALLING"
-msgstr ""
+msgstr "%o יצר מכתש בגודל של קנזס."
 
 msgid "OB_CRUSH"
-msgstr ""
+msgstr "%o הפך לפנקיק אנושי."
 
 msgid "OB_EXIT"
 msgstr ""
 
 msgid "OB_WATER"
-msgstr ""
+msgstr "%o שחה כמו לבנה."
 
 msgid "OB_SLIME"
 msgstr ""
 
 msgid "OB_LAVA"
-msgstr ""
+msgstr "%o עשה אמבטיה חמה."
 
 msgid "OB_BARREL"
-msgstr ""
+msgstr "%o לקח יותר מידי ניטרוגליצרין."
 
 msgid "OB_SPLASH"
 msgstr ""
@@ -90,7 +93,7 @@ msgid "OB_ROCKET"
 msgstr ""
 
 msgid "OB_KILLEDSELF"
-msgstr ""
+msgstr "%o מחק את עצמו מהיקום."
 
 msgid "OB_THUG"
 msgstr ""
@@ -105,7 +108,7 @@ msgid "OB_ICE"
 msgstr ""
 
 msgid "OB_BUZZER"
-msgstr ""
+msgstr "%o מרגיש קצת שכור."
 
 msgid "OB_STEALTH"
 msgstr ""
@@ -120,7 +123,7 @@ msgid "OB_MANIAC"
 msgstr ""
 
 msgid "OB_MANIACHIT"
-msgstr ""
+msgstr "%o מת בצורה אקראים שאני לא יכול להבין."
 
 msgid "OB_TERMIN"
 msgstr ""
@@ -130,16 +133,16 @@ msgid "OB_TERMINHIT"
 msgstr ""
 
 msgid "OB_REPLI"
-msgstr ""
+msgstr "%o אמר ביי לחבר ותיק."
 
 msgid "OB_REPLIHIT"
-msgstr ""
+msgstr "%o נדקר בגב על ידי חבר ותיק."
 
 msgid "OB_PHAGE"
 msgstr ""
 
 msgid "OB_THORN"
-msgstr ""
+msgstr "%o לא יכל להימלט ממוות דוקרני."
 
 msgid "OB_SUMATIC"
 msgstr ""
@@ -148,7 +151,7 @@ msgid "OB_GENIE"
 msgstr ""
 
 msgid "OB_MINE"
-msgstr ""
+msgstr "%o ניסה ללטף מכרה."
 
 msgid "OB_MPKICK"
 msgstr ""
@@ -179,7 +182,7 @@ msgid "OB_MPANTIGUN"
 msgstr ""
 
 msgid "OB_MPNUKE"
-msgstr ""
+msgstr "%o בלע את הפצצה הגרעינית של %k."
 
 msgid "OB_MPNUKESPLASH"
 msgstr ""
@@ -187,8 +190,9 @@ msgstr ""
 msgid "OB_MPTELEFRAG"
 msgstr ""
 
+#, fuzzy
 msgid "OB_MONTELEFRAG"
-msgstr ""
+msgstr "המבנה האטומי של %o התפצל."
 
 msgid "OB_DEFAULT"
 msgstr ""
@@ -197,22 +201,23 @@ msgid "GOTNUKER"
 msgstr ""
 
 msgid "GOTUZI"
-msgstr ""
+msgstr "הישגת עוזי!!"
 
 msgid "GOTREZNATOR"
 msgstr ""
 
 msgid "GOTPHOTONZOOKA"
-msgstr ""
+msgstr "הישגת פוטון -זוקה!"
 
 msgid "GOTBIGSTICK"
 msgstr ""
 
 msgid "GOTTAZER"
-msgstr ""
+msgstr "הישגת טייזר!!"
 
+#, fuzzy
 msgid "GOTCRYOGUN"
-msgstr ""
+msgstr "הישגת אקדח קור!"
 
 msgid "GOTROUNDS"
 msgstr ""
@@ -222,7 +227,7 @@ msgstr ""
 
 # Was "grap" for some reason.
 msgid "GOTTORPEDO"
-msgstr ""
+msgstr "הישגת טיל נפץ!"
 
 msgid "GOTTORPEDOS"
 msgstr ""
@@ -240,10 +245,10 @@ msgid "GOTCARTRIDGESCASE"
 msgstr ""
 
 msgid "GOTVALISE"
-msgstr ""
+msgstr "הישגד מזודה מלאה בטובין!"
 
 msgid "GOTFORCEFIELD"
-msgstr ""
+msgstr "שדה כוח!"
 
 msgid "GOTMICROTEL"
 msgstr ""
@@ -258,10 +263,10 @@ msgid "GOTSIARRAY"
 msgstr ""
 
 msgid "GOTINFRARED"
-msgstr ""
+msgstr "משקפות אינפרה-אדומות!"
 
 msgid "GOTINHALER"
-msgstr ""
+msgstr "תנשום עמוק, משאף!"
 
 msgid "GOTHYPONEED"
 msgstr ""
@@ -270,31 +275,31 @@ msgid "GOTHYPO"
 msgstr ""
 
 msgid "GOTKEYCARD"
-msgstr ""
+msgstr "מצאת כרטיס מפתח!"
 
 msgid "GOTCKEY"
-msgstr ""
+msgstr "מצאת מפתח-C!"
 
 msgid "GOTPASSWORD"
-msgstr ""
+msgstr "מצאת סיסמה!"
 
 msgid "GOTBLUEZKEY"
-msgstr ""
+msgstr "מצאת מפתח-Z כחול!"
 
 msgid "GOTYELWZKEY"
-msgstr ""
+msgstr "מצאת מפתח-Z צהוב!"
 
 msgid "GOTREDZKEY"
-msgstr ""
+msgstr "מצאת מפתח-Z אדום!"
 
 msgid "GOTBODYARMOR"
-msgstr ""
+msgstr "שריון!"
 
 msgid "GOTCENTROPHENOXINE"
 msgstr ""
 
 msgid "GOTKEVLARVEST"
-msgstr ""
+msgstr "הישגת אפוד קוולר!"
 
 msgid "GOTSKEVLARVEST"
 msgstr ""
@@ -306,22 +311,22 @@ msgid "GOTDAMPENER"
 msgstr ""
 
 msgid "PD_CKEY"
-msgstr ""
+msgstr "את צריך מפתח-C כדי לקבל גישה לפריט זה!"
 
 msgid "PD_KEYCARD"
-msgstr ""
+msgstr "את צריך כרטיס מפתח כדי לקבל גישה לפריט זה!"
 
 msgid "PD_PASSWORD"
-msgstr ""
+msgstr "את צריך סיסמה כדי לקבל גישה לפריט זה!"
 
 msgid "PD_BLUEZKEY"
-msgstr ""
+msgstr "את צריך מפתח-Z כחול כדי לגרום לזה לעבוד"
 
 msgid "PD_REDZKEY"
-msgstr ""
+msgstr "את צריך מפתח-Z אדום כדי לגרום לזה לעבוד!"
 
 msgid "PD_YELWZKEY"
-msgstr ""
+msgstr "את צריך מפתח-Z צהוב כדי לגרום לזה לעבוד!"
 
 msgid "X1TEXT"
 msgstr ""
@@ -372,7 +377,7 @@ msgid "TXT_HACXMAP12"
 msgstr ""
 
 msgid "TXT_HACXMAP13"
-msgstr ""
+msgstr "הביוב"
 
 msgid "TXT_HACXMAP14"
 msgstr ""
@@ -384,7 +389,7 @@ msgid "TXT_HACXMAP16"
 msgstr ""
 
 msgid "TXT_HACXMAP17"
-msgstr ""
+msgstr "נחל של דם"
 
 msgid "TXT_HACXMAP18"
 msgstr ""
@@ -399,7 +404,7 @@ msgid "TXT_HACXMAP31"
 msgstr ""
 
 msgid "STSTR_CLEV"
-msgstr ""
+msgstr "עכשיו מגיעים אל...\n"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
@@ -426,7 +431,7 @@ msgstr ""
 
 # Should probably not be translated...
 msgid "STSTR_MUS"
-msgstr ""
+msgstr "תגביר את הווליום\n"
 
 msgid "STSTR_KFAADDED"
 msgstr ""
@@ -447,10 +452,12 @@ msgid "AMSTR_FOLLOWOFF"
 msgstr ""
 
 msgid "DOSY"
-msgstr ""
+msgstr "- תלחץ על Y כדי לברוח! -"
 
 msgid "ENDGAME"
 msgstr ""
+"אתה משוגע או שלא הסתגלת?\n"
+"נו? כן או לא!"
 
 msgid "NIGHTMARE"
 msgstr ""
@@ -501,14 +508,16 @@ msgstr ""
 msgid "SKILL_BABY"
 msgstr ""
 
+#, fuzzy
 msgid "SKILL_EASY"
-msgstr ""
+msgstr "אאחח, אני צריך בריאות!"
 
 msgid "SKILL_NORMAL"
-msgstr ""
+msgstr "בוא נפצל אותם לחלקים!"
 
+#, fuzzy
 msgid "SKILL_HARD"
-msgstr ""
+msgstr "אני על מוות!"
 
 msgid "SKILL_NIGHTMARE"
-msgstr ""
+msgstr "שיגעון!"
