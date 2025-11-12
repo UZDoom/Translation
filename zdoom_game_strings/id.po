@@ -2,13 +2,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-11-12 12:48+0000\n"
+"Last-Translator: Joel Robert Justiawan "
+"<joelwindows7@users.noreply.hosted.weblate.org>\n"
+"Language-Team: Indonesian <https://hosted.weblate.org/projects/uzdoom/"
+"zdoom-game-strings/id/>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.15-dev\n"
 
 msgid "TXT_D1E1"
 msgstr ""
@@ -23,17 +27,17 @@ msgstr ""
 # 
 # Proverbs 5:11
 msgid "TXT_D1E4"
-msgstr ""
+msgstr "Daging Habis Binasa"
 
 msgid "TXT_D2E1"
-msgstr ""
+msgstr "Neraka di Bumi"
 
 # References "No rest for the wicked" in Isaiah 48:22
 msgid "TXT_D2E2"
-msgstr ""
+msgstr "Tiada Damai Sejahtera bagi yang Hidup"
 
 msgid "TXT_PLUT_EP"
-msgstr ""
+msgstr "Eksperimen Plutonia"
 
 msgid "TXT_TNT_EP"
 msgstr ""
@@ -42,49 +46,49 @@ msgid "TXT_CHEX_EP"
 msgstr ""
 
 msgid "HUSTR_E1M1"
-msgstr ""
+msgstr "E1M1: Hanggar"
 
 msgid "HUSTR_E1M2"
-msgstr ""
+msgstr "E1M2: PLTN"
 
 msgid "HUSTR_E1M3"
 msgstr ""
 
 msgid "HUSTR_E1M4"
-msgstr ""
+msgstr "E1M4: Pusat Komando"
 
 msgid "HUSTR_E1M5"
-msgstr ""
+msgstr "E1M5: Lab Phobos"
 
 msgid "HUSTR_E1M6"
-msgstr ""
+msgstr "E1M6: Pemprosesan Pusat"
 
 msgid "HUSTR_E1M7"
-msgstr ""
+msgstr "E1M7: Ruang Komputer"
 
 msgid "HUSTR_E1M8"
-msgstr ""
+msgstr "E1M8: Anomali Phobos"
 
 msgid "HUSTR_E1M9"
-msgstr ""
+msgstr "E1M9: Markas Militer"
 
 msgid "HUSTR_E1M10"
-msgstr ""
+msgstr "E1M10: Bawah Tanah"
 
 msgid "HUSTR_E2M1"
-msgstr ""
+msgstr "E2M1: Anomali Deimos"
 
 msgid "HUSTR_E2M2"
-msgstr ""
+msgstr "E2M2: Area Penampungan"
 
 msgid "HUSTR_E2M3"
-msgstr ""
+msgstr "E2M3: Tempat Pemurnian"
 
 msgid "HUSTR_E2M4"
-msgstr ""
+msgstr "E2M4: Lab Deimos"
 
 msgid "HUSTR_E2M5"
-msgstr ""
+msgstr "E2M5: Pusat Komando"
 
 msgid "HUSTR_E2M6"
 msgstr ""
