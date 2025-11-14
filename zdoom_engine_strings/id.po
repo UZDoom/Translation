@@ -3,7 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "PO-Revision-Date: 2025-11-15 17:53+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"Last-Translator: Joel Robert Justiawan "
+"<joelwindows7@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/id/>\n"
 "Language: id\n"
@@ -127,7 +128,7 @@ msgstr "Ayo silahkan dan pergi. lihat kalau aku emang peduli."
 # More info here.
 msgid "QUITMSG8"
 msgstr ""
-"Anda mau keluar?\n"
+"Anda ingin keluar?\n"
 "Maka, Anda kalah telak!"
 
 # A “dimensional shambler” is a creature appearing in the works of H. P.
@@ -418,7 +419,7 @@ msgid "TXT_NOTARGET_OFF"
 msgstr "No Target MATI"
 
 msgid "TXT_ANUBIS_ON"
-msgstr ""
+msgstr "\"Meraung dengan ketakutan!\""
 
 msgid "TXT_ANUBIS_OFF"
 msgstr "Tiada Ogre Armor lagi"
@@ -1113,16 +1114,16 @@ msgid "TXT_ARTIEGG"
 msgstr "Rahim Morph"
 
 msgid "TXT_ARTISUPERHEALTH"
-msgstr ""
+msgstr "Kendi Mystic"
 
 msgid "TXT_ARTITORCH"
 msgstr "Obor"
 
 msgid "TXT_ARTIFIREBOMB"
-msgstr ""
+msgstr "Bomb Waktu dari Ancients"
 
 msgid "TXT_ARTITELEPORT"
-msgstr ""
+msgstr "Alat Kekacauan"
 
 msgid "TXT_ITEMHEALTH"
 msgstr "Tabung Kristal"
