@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-12 10:22+0000\n"
+"PO-Revision-Date: 2025-11-15 17:51+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/de/>\n"
@@ -3091,7 +3091,7 @@ msgid "GMPLYMNU_FASTMONSTERS"
 msgstr "Schnelle Monster"
 
 msgid "GMPLYMNU_INSTANTREACTION"
-msgstr "Monsterreflexe in  'Alptraum!'."
+msgstr "Monsterreflexe in 'Alptraum!'."
 
 msgid "GMPLYMNU_DEGENERATION"
 msgstr ""
