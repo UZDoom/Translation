@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-12 12:47+0000\n"
+"PO-Revision-Date: 2025-11-15 17:53+0000\n"
 "Last-Translator: Joel Robert Justiawan "
 "<joelwindows7@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/uzdoom/"
@@ -61,7 +61,7 @@ msgid "HUSTR_E1M3"
 msgstr "E1M3: Laboratorium"
 
 msgid "HUSTR_E1M4"
-msgstr ""
+msgstr "E1M4: Arboretum"
 
 msgid "HUSTR_E1M5"
 msgstr "E1M5: Goa Bazoik"
