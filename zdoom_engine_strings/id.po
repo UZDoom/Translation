@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-13 12:52+0000\n"
+"PO-Revision-Date: 2025-11-15 17:53+0000\n"
 "Last-Translator: Joel Robert Justiawan "
 "<joelwindows7@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/uzdoom/"
@@ -128,6 +128,8 @@ msgstr "Ayo silahkan dan pergi. lihat kalau aku emang peduli."
 # More info here.
 msgid "QUITMSG8"
 msgstr ""
+"Anda mau keluar?\n"
+"Maka, Anda kalah telak!"
 
 # A “dimensional shambler” is a creature appearing in the works of H. P.
 # Lovecraft.
@@ -271,7 +273,7 @@ msgid "HUSTR_TALKTOSELF4"
 msgstr "Anda mulai berdansa"
 
 msgid "HUSTR_TALKTOSELF5"
-msgstr ""
+msgstr "Anda khawatir sendiri"
 
 msgid "HUSTR_MESSAGESENT"
 msgstr "[Pesan terkirim]"
