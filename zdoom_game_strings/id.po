@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-13 12:52+0000\n"
+"PO-Revision-Date: 2025-11-15 17:53+0000\n"
 "Last-Translator: Joel Robert Justiawan "
 "<joelwindows7@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/uzdoom/"
@@ -18,7 +18,7 @@ msgid "TXT_D1E1"
 msgstr ""
 
 msgid "TXT_D1E2"
-msgstr ""
+msgstr "Pinggir Neraka"
 
 msgid "TXT_D1E3"
 msgstr ""
@@ -103,7 +103,7 @@ msgid "HUSTR_E2M9"
 msgstr "E2M9: Benteng Misteri"
 
 msgid "HUSTR_E3M1"
-msgstr ""
+msgstr "E3M1: Kediaman Neraka"
 
 msgid "HUSTR_E3M2"
 msgstr ""
@@ -112,7 +112,7 @@ msgid "HUSTR_E3M3"
 msgstr ""
 
 msgid "HUSTR_E3M4"
-msgstr ""
+msgstr "E3M4: Tempat Kertak Gigi"
 
 msgid "HUSTR_E3M5"
 msgstr "E3M5: Katedral Neraka"
@@ -187,7 +187,7 @@ msgid "HUSTR_5"
 msgstr "Level 5: Terowongan Limbah"
 
 msgid "HUSTR_6"
-msgstr ""
+msgstr "Level 6: Cobek"
 
 msgid "HUSTR_7"
 msgstr "Level 7: Sangat Mudah"
@@ -258,7 +258,7 @@ msgid "HUSTR_28"
 msgstr "Level 29: Dunia Roh"
 
 msgid "HUSTR_29"
-msgstr ""
+msgstr "Level 29: Mayat Hidup"
 
 msgid "HUSTR_30"
 msgstr "Level 30: Lambang Dosa"
@@ -324,10 +324,10 @@ msgid "PHUSTR_6"
 msgstr "Level 6: Kediaman Baron"
 
 msgid "PHUSTR_7"
-msgstr ""
+msgstr "Level 7: Lapangan Jebakan"
 
 msgid "PHUSTR_8"
-msgstr ""
+msgstr "Level 8: Dimensi"
 
 msgid "PHUSTR_9"
 msgstr "Level 9: Pemotongan"
@@ -417,7 +417,7 @@ msgstr "Level 4: Lubang Cacing"
 
 # Not "Hangar"
 msgid "THUSTR_5"
-msgstr ""
+msgstr "Level 5: Gantungan"
 
 msgid "THUSTR_6"
 msgstr ""
@@ -444,7 +444,7 @@ msgid "THUSTR_13"
 msgstr "Level 13: Pengolah Limbah Nuklir"
 
 msgid "THUSTR_14"
-msgstr ""
+msgstr "Level 14: Bengkel Besi"
 
 msgid "THUSTR_15"
 msgstr "Level 15: Kawasan Maut"
