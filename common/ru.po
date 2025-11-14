@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-14 15:51+0000\n"
-"Last-Translator: Даниил <danizavrtv@gmail.com>\n"
+"PO-Revision-Date: 2025-11-15 17:51+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/common/ru/"
 ">\n"
 "Language: ru\n"
@@ -512,7 +512,7 @@ msgstr "Включите поддержку контроллера"
 
 # Supposed to be empty in Russian and Serbian.
 msgid "JOYMNU_DISABLED2"
-msgstr " \\n"
+msgstr ""
 
 msgid "JOYMNU_INVALID"
 msgstr "Недопустимый контроллер выбран для меню"
