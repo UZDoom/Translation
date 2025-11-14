@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-13 12:51+0000\n"
-"Last-Translator: Iarex <yo@iarex.io>\n"
+"PO-Revision-Date: 2025-11-15 17:51+0000\n"
+"Last-Translator: Arsix Deetwo <r6d2@msn.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/uzdoom/common/es/"
 ">\n"
 "Language: es\n"
@@ -20,8 +20,9 @@ msgstr "Presiona Y(Si) o N(No)."
 msgid "TXT_YES"
 msgstr "Sí"
 
+#, fuzzy
 msgid "TXT_NO"
-msgstr ""
+msgstr "No"
 
 msgid "SAVEDEAD"
 msgstr ""
@@ -61,8 +62,9 @@ msgstr "Mensajes DESACTIVADOS"
 msgid "MSGON"
 msgstr "Mensajes ACTIVADOS"
 
+#, fuzzy
 msgid "TXT_SAY"
-msgstr ""
+msgstr "Decir:"
 
 msgid "TXT_QUITENDOOM"
 msgstr ""
