@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-15 18:02+0000\n"
+"PO-Revision-Date: 2025-11-15 23:29+0000\n"
 "Last-Translator: Ron Dallas <Lot_bohdan@ukr.net>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/common/"
 "uk/>\n"
@@ -2075,69 +2075,79 @@ msgstr "Пакетний сервер"
 msgid "PICKER_NETPEER"
 msgstr "Однорангова мережа (Р2Р)"
 
+#, fuzzy
 msgid "PICKER_NETRATE"
-msgstr ""
+msgstr "Швидкість пакетів:"
 
 # Sends out duplicate copies of packets to help with spotty connections e.g.
 # wifi.
+#, fuzzy
 msgid "PICKER_NETBACKUP"
-msgstr ""
+msgstr "Надіслати резервні пакети"
 
 msgid "PICKER_GAMEMODE"
-msgstr ""
+msgstr "Режим гри:"
 
 msgid "PICKER_COOP"
-msgstr ""
+msgstr "Кооператив"
 
+#, fuzzy
 msgid "PICKER_DM"
-msgstr ""
+msgstr "Дезматч"
 
+#, fuzzy
 msgid "PICKER_TDM"
-msgstr ""
+msgstr "Командний дезматч"
 
 # Which team the player wants to be assigned to.
 msgid "PICKER_TEAM"
-msgstr ""
+msgstr "Команда #:"
 
+#, fuzzy
 msgid "PICKER_ALTDM"
-msgstr ""
+msgstr "Використовувати альтернативні правила дезматчу"
 
 msgid "PICKER_PLAYERS"
-msgstr ""
+msgstr "Максимум гравців:"
 
+#, fuzzy
 msgid "PICKER_PORT"
-msgstr ""
+msgstr "Порт хоста:"
 
 # Max number of players.
 msgid "PICKER_PLAYERHINT"
-msgstr ""
+msgstr "Максимум 64"
 
 # GZDoom's default port.
 msgid "PICKER_PORTHINT"
-msgstr ""
+msgstr "За замовчуванням 5029"
 
 # Team 255 randomizes which team the player gets put on.
 msgid "PICKER_TEAMHINT"
-msgstr ""
+msgstr "255 = випадково"
 
 msgid "PICKER_IP"
-msgstr ""
+msgstr "ІР хоста:"
 
+#, fuzzy
 msgid "PICKER_TDMLABEL"
-msgstr ""
+msgstr "Командний дезматч:"
 
 # Same context as TXT_SAY.
 msgid "TXT_SAYTEAM"
-msgstr ""
+msgstr "Написати (Команда):"
 
+#, fuzzy
 msgid "MISCMNU_DISCORDRPC"
-msgstr ""
+msgstr "Показати активність в Discord"
 
 msgid "JOYMNU_TURNSPEED"
-msgstr ""
+msgstr "Швидкість повороту"
 
+#, fuzzy
 msgid "JOYMNU_LOOKSPEED"
-msgstr ""
+msgstr "Швидкість огляду"
 
+#, fuzzy
 msgid "JOYMNU_ANALOGSTRAFERUN"
-msgstr ""
+msgstr "Аналоговий стрейф-біг"
