@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-15 17:51+0000\n"
+"PO-Revision-Date: 2025-11-15 17:57+0000\n"
 "Last-Translator: Ron Dallas <Lot_bohdan@ukr.net>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/common/"
 "uk/>\n"
@@ -2026,48 +2026,50 @@ msgstr "Тип сортування збережень"
 msgid "OPTVAL_ALPHABETICAL"
 msgstr "Алфавітний"
 
+#, fuzzy
 msgid "OPTVAL_LASTSAVEDTIME"
-msgstr ""
+msgstr "За часом збереження"
 
 msgid "PICKER_PLAYHOST"
-msgstr ""
+msgstr "Хостити гру"
 
 msgid "PICKER_PLAYJOIN"
-msgstr ""
+msgstr "Приєднатись до гри"
 
 msgid "PICKER_REMPARM"
-msgstr ""
+msgstr "Запам'ятати параметри"
 
 # For stuff like id24.
 msgid "PICKER_SUPPORTWADS"
-msgstr ""
+msgstr "Завантажити допоміжні вади"
 
 msgid "PICKER_TAB_MULTI"
-msgstr ""
+msgstr "Гра в мережі"
 
 msgid "PICKER_LOADSAVE"
-msgstr ""
+msgstr "Завантажити файл збереження:"
 
 msgid "PICKER_REMSAVE"
-msgstr ""
+msgstr "Запам'ятати файл збереження"
 
 # As in, to host a game.
 msgid "PICKER_HOST"
-msgstr ""
+msgstr "Хост"
 
 msgid "PICKER_JOIN"
-msgstr ""
+msgstr "Приєднатись"
 
 msgid "PICKER_NETMODE"
-msgstr ""
+msgstr "Режим мережі:"
 
 msgid "PICKER_NETAUTO"
-msgstr ""
+msgstr "Автоматичний (рекомендовано)"
 
 # Connections are routed through the host instead of all players connecting to
 # each other individually.
+#, fuzzy
 msgid "PICKER_NETSERVER"
-msgstr ""
+msgstr "Пакетний сервер"
 
 # Players connect to each other individually.
 msgid "PICKER_NETPEER"
