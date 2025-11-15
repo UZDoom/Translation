@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "PO-Revision-Date: 2025-11-15 17:51+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"Last-Translator: Gaerzi <gaerzi@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/de/>\n"
 "Language: de\n"
@@ -3005,6 +3005,7 @@ msgstr "Hexer"
 msgid "MNU_WARLOCK"
 msgstr "Hexenmeister"
 
+#, fuzzy
 msgid "MNU_ARCHMAGE"
 msgstr "Erzmagier"
 
