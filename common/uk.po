@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-15 17:57+0000\n"
+"PO-Revision-Date: 2025-11-15 18:02+0000\n"
 "Last-Translator: Ron Dallas <Lot_bohdan@ukr.net>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/common/"
 "uk/>\n"
@@ -2073,7 +2073,7 @@ msgstr "Пакетний сервер"
 
 # Players connect to each other individually.
 msgid "PICKER_NETPEER"
-msgstr ""
+msgstr "Однорангова мережа (Р2Р)"
 
 msgid "PICKER_NETRATE"
 msgstr ""
