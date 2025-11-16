@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-15 17:51+0000\n"
+"PO-Revision-Date: 2025-11-17 14:51+0000\n"
 "Last-Translator: Gaerzi <gaerzi@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/fr/>\n"
@@ -3017,7 +3017,6 @@ msgstr "Sorcier"
 msgid "MNU_WARLOCK"
 msgstr "Mage de Guerre"
 
-#, fuzzy
 msgid "MNU_ARCHMAGE"
 msgstr "Archimage"
 
