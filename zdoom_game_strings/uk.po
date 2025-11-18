@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-15 23:29+0000\n"
+"PO-Revision-Date: 2025-11-19 13:07+0000\n"
 "Last-Translator: Ron Dallas <Lot_bohdan@ukr.net>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-game-strings/uk/>\n"
@@ -211,16 +211,16 @@ msgid "HUSTR_12"
 msgstr "Рівень 12: Фабрика"
 
 msgid "HUSTR_13"
-msgstr ""
+msgstr "Рівень 13: Середмістя"
 
 msgid "HUSTR_14"
-msgstr ""
+msgstr "Рівень 14: Лігва в глибочіні"
 
 msgid "HUSTR_15"
-msgstr ""
+msgstr "Рівень 15: Промислова зона"
 
 msgid "HUSTR_16"
-msgstr ""
+msgstr "Рівень 16: Передмістя"
 
 msgid "HUSTR_17"
 msgstr ""
