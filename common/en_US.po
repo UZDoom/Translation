@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-29 20:02+0000\n"
+"PO-Revision-Date: 2025-11-29 20:11+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/uzdoom/common/en/"
 ">\n"
@@ -2146,7 +2146,7 @@ msgid "NOTES_DETAILS"
 msgstr "For more details see:"
 
 msgid "PICKER_SHOWTHIS"
-msgstr "Show this page when after updates"
+msgstr "Show this page after updates"
 
 msgid "PICKER_SHOWNOTES"
 msgstr "Show release notes"
