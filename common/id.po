@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-28 21:00+0000\n"
+"PO-Revision-Date: 2025-11-29 19:33+0000\n"
 "Last-Translator: Marazm Mamazm <brutdewelopment@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/uzdoom/common/"
 "id/>\n"
@@ -2035,7 +2035,7 @@ msgid "PICKER_LOADSAVE"
 msgstr ""
 
 msgid "PICKER_REMSAVE"
-msgstr "Zapamiętaj Zapis"
+msgstr ""
 
 # As in, to host a game.
 msgid "PICKER_HOST"
