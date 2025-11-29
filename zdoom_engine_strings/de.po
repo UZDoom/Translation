@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-22 10:53+0000\n"
+"PO-Revision-Date: 2025-11-29 19:33+0000\n"
 "Last-Translator: heiko123abc <heiko1234aaa@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/de/>\n"
@@ -4388,7 +4388,7 @@ msgid "OPTSTR_OPENAL"
 msgstr "OpenAL"
 
 msgid "DSPLYMNU_GLOPT"
-msgstr "Hardware Renderer"
+msgstr "Hardwarerenderer"
 
 msgid "DSPLYMNU_SWOPT"
 msgstr "Software Renderer"
