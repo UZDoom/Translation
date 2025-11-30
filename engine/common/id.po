@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-29 19:33+0000\n"
-"Last-Translator: Marazm Mamazm <brutdewelopment@gmail.com>\n"
+"PO-Revision-Date: 2025-11-30 06:45+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/uzdoom/common/"
 "id/>\n"
 "Language: id\n"
@@ -613,13 +613,13 @@ msgid "TXT_COLOR_RUST"
 msgstr ""
 
 msgid "PLYRMNU_NAME"
-msgstr ""
+msgstr "Nama"
 
 msgid "PLYRMNU_TEAM"
 msgstr ""
 
 msgid "PLYRMNU_PLAYERCOLOR"
-msgstr ""
+msgstr "Warna"
 
 msgid "PLYRMNU_PLAYERGENDER"
 msgstr ""
@@ -1671,7 +1671,7 @@ msgid "REVMNU_Based_on"
 msgstr ""
 
 msgid "REVMNU_Name"
-msgstr ""
+msgstr "Nama"
 
 msgid "REVMNU_ID_1"
 msgstr ""
