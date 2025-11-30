@@ -103,13 +103,11 @@ def build_matrix(languages, po_files):
 	return matrix
 
 def main(args):
-	if len(args) < 3:
-		return print(__doc__)
-
-	po_files = get_po_files([ Path(f) for f in args[1:-1] ])
+	po_files = get_po_files([ Path(f) for f in args[1:-1] ]) if len(args) >= 3 else None
 
 	if po_files is None:
-		return print(__doc__)
+		print(__doc__)
+		exit(1)
 
 	languages = po_files["languages"]
 	po_files = po_files["files"]
