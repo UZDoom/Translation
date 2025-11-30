@@ -2,10 +2,18 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
+"PO-Revision-Date: 2025-11-30 06:41+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Belarusian (Latin script) <https://hosted.weblate.org/"
+"projects/uzdoom/zdoom-engine-strings/be_Latn/>\n"
 "Language: be_Latn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.15-dev\n"
 "HeaderCode: by\n"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "PRESSKEY"
 msgstr "Націсніце любую клавішу."
@@ -2836,7 +2844,7 @@ msgid "MNU_NEWGAME"
 msgstr ""
 
 msgid "MNU_OPTIONS"
-msgstr ""
+msgstr "Налады"
 
 msgid "MNU_GAMEFILES"
 msgstr ""
@@ -2845,7 +2853,7 @@ msgid "MNU_INFO"
 msgstr ""
 
 msgid "MNU_QUITGAME"
-msgstr ""
+msgstr "Выйсці з гульні"
 
 # This text is extremely space limited!
 msgid "MNU_CHOOSESKILL"
@@ -3321,13 +3329,13 @@ msgid "CMPTMNU_EXPLODE2"
 msgstr ""
 
 msgid "PLYRMNU_RED"
-msgstr ""
+msgstr "Чырвоны"
 
 msgid "PLYRMNU_GREEN"
-msgstr ""
+msgstr "Зялёны"
 
 msgid "PLYRMNU_BLUE"
-msgstr ""
+msgstr "Сіні"
 
 msgid "PLYRMNU_PLAYERCLASS"
 msgstr ""
@@ -3501,7 +3509,7 @@ msgid "MAPCOLORMNU_PORTAL"
 msgstr ""
 
 msgid "MSGMNU_TITLE"
-msgstr ""
+msgstr "Паведамлення"
 
 msgid "MSGMNU_SHOWMESSAGES"
 msgstr ""
@@ -3828,7 +3836,7 @@ msgid "SCALEMNU_OVERRIDE"
 msgstr ""
 
 msgid "SCALEMNU_MESSAGES"
-msgstr ""
+msgstr "Паведамлення"
 
 msgid "SCALEMNU_CONSOLE"
 msgstr ""
@@ -3855,7 +3863,7 @@ msgid "SCALEMNU_ADAPT"
 msgstr ""
 
 msgid "HUDMNU_TITLE"
-msgstr ""
+msgstr "Налады інтэрфейсу"
 
 msgid "HUDMNU_ALTHUD"
 msgstr ""
@@ -3921,7 +3929,7 @@ msgid "MISCMNU_INTERSCROLL"
 msgstr ""
 
 msgid "NETMNU_TITLE"
-msgstr ""
+msgstr "Налады сетцы"
 
 msgid "NETMNU_LOCALOPTIONS"
 msgstr ""
@@ -4003,7 +4011,7 @@ msgid "OPTVAL_ITEMS"
 msgstr ""
 
 msgid "OPTVAL_WEAPONS"
-msgstr ""
+msgstr "Зброя"
 
 msgid "OPTVAL_BOTH"
 msgstr ""
@@ -4375,7 +4383,7 @@ msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr ""
 
 msgid "GLPREFMNU_FOGMODE"
-msgstr ""
+msgstr "Рэжым туману"
 
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr ""
@@ -4384,7 +4392,7 @@ msgid "GLPREFMNU_WPNLIGHTSTR"
 msgstr ""
 
 msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr ""
+msgstr "Карта асяроддзя на люстэрках"
 
 msgid "GLPREFMNU_ENV"
 msgstr ""
@@ -4411,7 +4419,7 @@ msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr ""
 
 msgid "GLPREFMNU_RENDERQUALITY"
-msgstr ""
+msgstr "Якасць апрацоўкі"
 
 msgid "GLPREFMNU_VRMODE"
 msgstr ""
@@ -4478,7 +4486,7 @@ msgid "OPTVAL_ROUND"
 msgstr ""
 
 msgid "OPTVAL_RADIAL"
-msgstr ""
+msgstr "Кругавы"
 
 msgid "OPTVAL_PIXELFUZZ"
 msgstr ""
@@ -4559,19 +4567,19 @@ msgid "TCMNU_DYNLIGHTS"
 msgstr ""
 
 msgid "OS_TITLE"
-msgstr ""
+msgstr "Пошук налады"
 
 msgid "OS_ANY"
-msgstr ""
+msgstr "Шукаць любое са слоў"
 
 msgid "OS_ALL"
-msgstr ""
+msgstr "Шукаць усе словы"
 
 msgid "OS_NO_RESULTS"
-msgstr ""
+msgstr "Вынікі не знойдзены."
 
 msgid "OS_LABEL"
-msgstr ""
+msgstr "Пошук:"
 
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr ""
@@ -4650,7 +4658,7 @@ msgid "TXT_BY"
 msgstr ""
 
 msgid "TXT_QUITENDOOM"
-msgstr ""
+msgstr "Націсніце любую клавішу або націсніце па акну, каб выйсці."
 
 msgid "HUDMNU_FLASH"
 msgstr ""
@@ -4705,7 +4713,7 @@ msgid "SCALEMNU_FACTOR"
 msgstr ""
 
 msgid "SCALEMNU_RATIO"
-msgstr ""
+msgstr "Суадносіны бакоў"
 
 # as in "Build engine". This should not be translated unless there is a
 # translated name for the engine
@@ -4963,7 +4971,7 @@ msgid "JOYMNU_THRESHOLD"
 msgstr ""
 
 msgid "OPTVAL_LINEAR"
-msgstr ""
+msgstr "Лінейны"
 
 msgid "OPTVAL_QUADRATIC"
 msgstr ""
@@ -4979,7 +4987,7 @@ msgid "OPTVAL_TEAMONLYCHAT"
 msgstr ""
 
 msgid "OPTVAL_GLOBALCHAT"
-msgstr ""
+msgstr "Агульныя"
 
 # Disables /me functionality in chat when displaying.
 msgid "NETMNU_NOBOLDCHAT"
@@ -5065,7 +5073,7 @@ msgid "HAPMNU_OPT_WORLD"
 msgstr ""
 
 msgid "PAUSE_STRING"
-msgstr ""
+msgstr "Паўза"
 
 msgid "TAG_BACKPACK"
 msgstr ""
