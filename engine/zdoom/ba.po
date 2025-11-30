@@ -2,10 +2,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
+"PO-Revision-Date: 2025-11-30 06:54+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Bashkir <https://hosted.weblate.org/projects/uzdoom/"
+"zdoom-engine-strings/ba/>\n"
 "Language: ba\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.15-dev\n"
 "HeaderCode: ba\n"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "PRESSKEY"
 msgstr "Pritisnite tipku."
@@ -3292,13 +3299,13 @@ msgid "CMPTMNU_EXPLODE2"
 msgstr ""
 
 msgid "PLYRMNU_RED"
-msgstr ""
+msgstr "Crvena"
 
 msgid "PLYRMNU_GREEN"
-msgstr ""
+msgstr "Zelena"
 
 msgid "PLYRMNU_BLUE"
-msgstr ""
+msgstr "Plava"
 
 msgid "PLYRMNU_PLAYERCLASS"
 msgstr ""
@@ -3472,7 +3479,7 @@ msgid "MAPCOLORMNU_PORTAL"
 msgstr ""
 
 msgid "MSGMNU_TITLE"
-msgstr ""
+msgstr "Poruke"
 
 msgid "MSGMNU_SHOWMESSAGES"
 msgstr ""
@@ -3799,7 +3806,7 @@ msgid "SCALEMNU_OVERRIDE"
 msgstr ""
 
 msgid "SCALEMNU_MESSAGES"
-msgstr ""
+msgstr "Poruke"
 
 msgid "SCALEMNU_CONSOLE"
 msgstr ""
@@ -3826,7 +3833,7 @@ msgid "SCALEMNU_ADAPT"
 msgstr ""
 
 msgid "HUDMNU_TITLE"
-msgstr ""
+msgstr "Postavke Sučelja"
 
 msgid "HUDMNU_ALTHUD"
 msgstr ""
@@ -3892,7 +3899,7 @@ msgid "MISCMNU_INTERSCROLL"
 msgstr ""
 
 msgid "NETMNU_TITLE"
-msgstr ""
+msgstr "Postavke Mreže"
 
 msgid "NETMNU_LOCALOPTIONS"
 msgstr ""
@@ -3974,7 +3981,7 @@ msgid "OPTVAL_ITEMS"
 msgstr ""
 
 msgid "OPTVAL_WEAPONS"
-msgstr ""
+msgstr "Oružja"
 
 msgid "OPTVAL_BOTH"
 msgstr ""
@@ -4346,7 +4353,7 @@ msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr ""
 
 msgid "GLPREFMNU_FOGMODE"
-msgstr ""
+msgstr "Način magle"
 
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr ""
@@ -4355,7 +4362,7 @@ msgid "GLPREFMNU_WPNLIGHTSTR"
 msgstr ""
 
 msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr ""
+msgstr "Karta okruženja na ogledalima"
 
 msgid "GLPREFMNU_ENV"
 msgstr ""
@@ -4382,7 +4389,7 @@ msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr ""
 
 msgid "GLPREFMNU_RENDERQUALITY"
-msgstr ""
+msgstr "Kvaliteta iscrtavanja"
 
 msgid "GLPREFMNU_VRMODE"
 msgstr ""
@@ -4449,7 +4456,7 @@ msgid "OPTVAL_ROUND"
 msgstr ""
 
 msgid "OPTVAL_RADIAL"
-msgstr ""
+msgstr "Radijalno"
 
 msgid "OPTVAL_PIXELFUZZ"
 msgstr ""
@@ -4530,19 +4537,19 @@ msgid "TCMNU_DYNLIGHTS"
 msgstr ""
 
 msgid "OS_TITLE"
-msgstr ""
+msgstr "Traženje postavke"
 
 msgid "OS_ANY"
-msgstr ""
+msgstr "Potraži bilo koji pojam"
 
 msgid "OS_ALL"
-msgstr ""
+msgstr "Potraži sve pojmove"
 
 msgid "OS_NO_RESULTS"
-msgstr ""
+msgstr "Nema rezultata."
 
 msgid "OS_LABEL"
-msgstr ""
+msgstr "Traži:"
 
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr ""
@@ -4622,6 +4629,7 @@ msgstr ""
 
 msgid "TXT_QUITENDOOM"
 msgstr ""
+"Pritisnite bilo koju tipku ili kliknite bilo gdje na prozoru da izađete."
 
 msgid "HUDMNU_FLASH"
 msgstr ""
@@ -4676,7 +4684,7 @@ msgid "SCALEMNU_FACTOR"
 msgstr ""
 
 msgid "SCALEMNU_RATIO"
-msgstr ""
+msgstr "Omjer slike"
 
 # as in "Build engine". This should not be translated unless there is a
 # translated name for the engine
@@ -4934,7 +4942,7 @@ msgid "JOYMNU_THRESHOLD"
 msgstr ""
 
 msgid "OPTVAL_LINEAR"
-msgstr ""
+msgstr "Linearno"
 
 msgid "OPTVAL_QUADRATIC"
 msgstr ""
@@ -4950,7 +4958,7 @@ msgid "OPTVAL_TEAMONLYCHAT"
 msgstr ""
 
 msgid "OPTVAL_GLOBALCHAT"
-msgstr ""
+msgstr "Globalno"
 
 # Disables /me functionality in chat when displaying.
 msgid "NETMNU_NOBOLDCHAT"
@@ -5036,7 +5044,7 @@ msgid "HAPMNU_OPT_WORLD"
 msgstr ""
 
 msgid "PAUSE_STRING"
-msgstr ""
+msgstr "Pauza"
 
 msgid "TAG_BACKPACK"
 msgstr ""
