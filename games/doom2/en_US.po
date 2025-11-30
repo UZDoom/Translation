@@ -1,0 +1,153 @@
+# UZDoom translation file
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"HeaderCode: default\n"
+
+msgid "TXT_D2E1"
+msgstr "Hell On Earth"
+
+# References "No rest for the wicked" in Isaiah 48:22
+msgid "TXT_D2E2"
+msgstr "No Rest for the Living"
+
+# Note that the "LEVEL" part of the string will be stripped so it shouldn't be
+# translated
+msgid "HUSTR_1"
+msgstr "Level 1: Entryway"
+
+msgid "HUSTR_2"
+msgstr "Level 2: Underhalls"
+
+# “a form of punishment in which a person is forced to run between two lines
+# of men facing each other and armed with clubs or whips to beat the victim”
+msgid "HUSTR_3"
+msgstr "Level 3: The Gantlet"
+
+msgid "HUSTR_4"
+msgstr "Level 4: The Focus"
+
+msgid "HUSTR_5"
+msgstr "Level 5: The Waste Tunnels"
+
+msgid "HUSTR_6"
+msgstr "Level 6: The Crusher"
+
+msgid "HUSTR_7"
+msgstr "Level 7: Dead Simple"
+
+msgid "HUSTR_8"
+msgstr "Level 8: Tricks and Traps"
+
+msgid "HUSTR_9"
+msgstr "Level 9: The Pit"
+
+msgid "HUSTR_10"
+msgstr "Level 10: Refueling Base"
+
+# Alternative title:
+# Circle of Death
+msgid "HUSTR_11"
+msgstr "Level 11: 'O' of Destruction!"
+
+msgid "HUSTR_12"
+msgstr "Level 12: The Factory"
+
+msgid "HUSTR_13"
+msgstr "Level 13: Downtown"
+
+msgid "HUSTR_14"
+msgstr "Level 14: The Inmost Dens"
+
+msgid "HUSTR_15"
+msgstr "Level 15: Industrial Zone"
+
+msgid "HUSTR_16"
+msgstr "Level 16: Suburbs"
+
+msgid "HUSTR_17"
+msgstr "Level 17: Tenements"
+
+msgid "HUSTR_18"
+msgstr "Level 18: The Courtyard"
+
+msgid "HUSTR_19"
+msgstr "Level 19: The Citadel"
+
+msgid "HUSTR_20"
+msgstr "Level 20: Gotcha!"
+
+msgid "HUSTR_21"
+msgstr "Level 21: Nirvana"
+
+msgid "HUSTR_22"
+msgstr "Level 22: The Catacombs"
+
+msgid "HUSTR_23"
+msgstr "Level 23: Barrels O' Fun"
+
+msgid "HUSTR_24"
+msgstr "Level 24: The Chasm"
+
+msgid "HUSTR_25"
+msgstr "Level 25: Bloodfalls"
+
+msgid "HUSTR_26"
+msgstr "Level 26: The Abandoned Mines"
+
+msgid "HUSTR_27"
+msgstr "Level 27: Monster Condo"
+
+msgid "HUSTR_28"
+msgstr "Level 28: The Spirit World"
+
+msgid "HUSTR_29"
+msgstr "Level 29: The Living End"
+
+msgid "HUSTR_30"
+msgstr "Level 30: Icon of Sin"
+
+msgid "HUSTR_31"
+msgstr "Level 31: Wolfenstein"
+
+msgid "HUSTR_32"
+msgstr "Level 32: Grosse"
+
+msgid "HUSTR_31B"
+msgstr "Level 31: IDKFA"
+
+msgid "HUSTR_32B"
+msgstr "Level 32: Keen"
+
+msgid "HUSTR_33"
+msgstr "Level 33: Betray"
+
+msgid "NHUSTR_1"
+msgstr "Level 1: The Earth Base"
+
+msgid "NHUSTR_2"
+msgstr "Level 2: The Pain Labs"
+
+msgid "NHUSTR_3"
+msgstr "Level 3: Canyon of The Dead"
+
+msgid "NHUSTR_4"
+msgstr "Level 4: Hell Mountain"
+
+msgid "NHUSTR_5"
+msgstr "Level 5: Vivisection"
+
+msgid "NHUSTR_6"
+msgstr "Level 6: Inferno of Blood"
+
+msgid "NHUSTR_7"
+msgstr "Level 7: Baron's Banquet"
+
+msgid "NHUSTR_8"
+msgstr "Level 8: Tomb of Malevolence"
+
+msgid "NHUSTR_9"
+msgstr "Level 9: March of The Demons"
