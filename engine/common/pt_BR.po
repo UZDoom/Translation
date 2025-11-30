@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-15 17:51+0000\n"
-"Last-Translator: William Weber Berrutti <wwberrutti@protonmail.ch>\n"
+"PO-Revision-Date: 2025-11-30 06:45+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "uzdoom/common/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -986,13 +986,13 @@ msgstr ""
 # This setting is duplicated threefold in order to allow for different
 # grammatical gender endings
 msgid "OPTVAL_LINEAR_1"
-msgstr ""
+msgstr "Linear"
 
 msgid "OPTVAL_LINEAR_2"
-msgstr ""
+msgstr "Linear"
 
 msgid "OPTVAL_LINEAR_3"
-msgstr ""
+msgstr "Linear"
 
 msgid "OPTVAL_NEAREST"
 msgstr "Mais próximo"
