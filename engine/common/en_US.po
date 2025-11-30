@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-29 20:11+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2025-11-30 16:36+0000\n"
+"Last-Translator: Маркич <zurovmark61@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/uzdoom/common/en/"
 ">\n"
 "Language: en\n"
@@ -1870,7 +1870,7 @@ msgstr ""
 # language display. If it is acceptable that accents get omitted a character
 # should NOT be listed here!
 msgid "REQUIRED_CHARACTERS"
-msgstr ""
+msgstr "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
 msgid "OPTMNU_FULLOPTIONS"
 msgstr "Full options menu"
