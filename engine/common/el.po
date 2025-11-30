@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-19 13:07+0000\n"
-"Last-Translator: inkoalawetrust <someb27@yahoo.gr>\n"
+"PO-Revision-Date: 2025-11-30 16:49+0000\n"
+"Last-Translator: Маркич <zurovmark61@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/uzdoom/common/el/>"
 "\n"
 "Language: el\n"
@@ -15,7 +15,7 @@ msgstr ""
 "HeaderCode: el\n"
 
 msgid "PRESSYN"
-msgstr "Πάτα Y ή N\n"
+msgstr "Πάτα Y ή N."
 
 msgid "TXT_YES"
 msgstr "Ναι"
@@ -1865,6 +1865,7 @@ msgstr ""
 # This should list all uppercase characters that are REQUIRED for proper
 # language display. If it is acceptable that accents get omitted a character
 # should NOT be listed here!
+#, fuzzy
 msgid "REQUIRED_CHARACTERS"
 msgstr "ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ"
 
