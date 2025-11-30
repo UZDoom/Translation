@@ -2,13 +2,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-11-30 06:57+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Bulgarian <https://hosted.weblate.org/projects/uzdoom/"
+"zdoom-engine-strings/bg/>\n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.15-dev\n"
 
 msgid "PRESSKEY"
 msgstr ""
@@ -475,7 +478,7 @@ msgid "TXT_IMSECRETS"
 msgstr ""
 
 msgid "TXT_IMTIME"
-msgstr ""
+msgstr "Време"
 
 msgid "TXT_IMPAR"
 msgstr ""
@@ -2759,7 +2762,7 @@ msgid "MNU_NEWGAME"
 msgstr ""
 
 msgid "MNU_OPTIONS"
-msgstr ""
+msgstr "Настройки"
 
 msgid "MNU_GAMEFILES"
 msgstr ""
@@ -3778,7 +3781,7 @@ msgid "SCALEMNU_ADAPT"
 msgstr ""
 
 msgid "HUDMNU_TITLE"
-msgstr ""
+msgstr "Интерфейс"
 
 msgid "HUDMNU_ALTHUD"
 msgstr ""
@@ -3844,7 +3847,7 @@ msgid "MISCMNU_INTERSCROLL"
 msgstr ""
 
 msgid "NETMNU_TITLE"
-msgstr ""
+msgstr "Мрежа"
 
 msgid "NETMNU_LOCALOPTIONS"
 msgstr ""
@@ -3926,7 +3929,7 @@ msgid "OPTVAL_ITEMS"
 msgstr ""
 
 msgid "OPTVAL_WEAPONS"
-msgstr ""
+msgstr "Оръжия"
 
 msgid "OPTVAL_BOTH"
 msgstr ""
@@ -4571,6 +4574,8 @@ msgstr ""
 
 msgid "TXT_QUITENDOOM"
 msgstr ""
+"Натиснете който и да е клавиш или щракнете където и да е в прозореца, за да "
+"излезете."
 
 msgid "HUDMNU_FLASH"
 msgstr ""
