@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-15 17:52+0000\n"
-"Last-Translator: Gaerzi <gaerzi@gmail.com>\n"
+"PO-Revision-Date: 2025-11-30 05:45+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/ko/>\n"
 "Language: ko\n"
@@ -4962,7 +4962,7 @@ msgid "JOYMNU_THRESHOLD"
 msgstr ""
 
 msgid "OPTVAL_LINEAR"
-msgstr ""
+msgstr "선형"
 
 msgid "OPTVAL_QUADRATIC"
 msgstr ""
@@ -4978,7 +4978,7 @@ msgid "OPTVAL_TEAMONLYCHAT"
 msgstr ""
 
 msgid "OPTVAL_GLOBALCHAT"
-msgstr ""
+msgstr "전반적"
 
 # Disables /me functionality in chat when displaying.
 msgid "NETMNU_NOBOLDCHAT"
@@ -5064,7 +5064,7 @@ msgid "HAPMNU_OPT_WORLD"
 msgstr ""
 
 msgid "PAUSE_STRING"
-msgstr ""
+msgstr "일시정지"
 
 msgid "TAG_BACKPACK"
 msgstr ""
