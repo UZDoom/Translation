@@ -2,16 +2,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-15 17:51+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2025-11-30 16:40+0000\n"
+"Last-Translator: Маркич <zurovmark61@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/common/ru/"
 ">\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural="
+"(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? "
+"1 : 2);\n"
 "X-Generator: Weblate 5.15-dev\n"
 "HeaderCode: ru\n"
 
@@ -84,9 +85,7 @@ msgid "MNU_SAVEGAME"
 msgstr "Сохранение"
 
 msgid "MNU_NOPICTURE"
-msgstr ""
-"Нет\n"
-"изображения"
+msgstr "Нет изображения"
 
 msgid "MNU_DIFFVERSION"
 msgstr "Другая версия"
@@ -95,7 +94,7 @@ msgid "MNU_NOFILES"
 msgstr "Нет файлов"
 
 msgid "MNU_DELETESG"
-msgstr "Вы действительно хотите удалить сохранение?"
+msgstr "Вы действительно хотите удалить сохранение игры?\n"
 
 msgid "OPTVAL_OFF"
 msgstr "Откл."
@@ -532,9 +531,8 @@ msgstr "Мёртвая зона"
 msgid "JOYMNU_NOAXES"
 msgstr "Нет настраиваемых осей"
 
-#, fuzzy
 msgid "OPTVAL_NONE"
-msgstr "Откл."
+msgstr "Откл"
 
 msgid "OPTVAL_TURNING"
 msgstr "Поворот"
@@ -654,7 +652,7 @@ msgid "PLYRMNU_AUTOAIM"
 msgstr "Автоприцеливание"
 
 msgid "PLYRMNU_ALWAYSRUN"
-msgstr "Постоянный бег"
+msgstr "Всегда бегать"
 
 msgid "DSPLYMNU_SCREENSIZE"
 msgstr "Размер экрана"
@@ -1286,7 +1284,7 @@ msgid "GLPREFMNU_FOGMODE"
 msgstr "Режим тумана"
 
 msgid "OPTVAL_RADIAL"
-msgstr "Круговой"
+msgstr "Радиальный"
 
 msgid "OPTVAL_STANDARD"
 msgstr "Стандартный"
@@ -1634,10 +1632,10 @@ msgid "REVMNU_AIR_ABSORPTION_HF"
 msgstr ""
 
 msgid "REVMNU_HF_REFERENCE"
-msgstr ""
+msgstr "HF Референс"
 
 msgid "REVMNU_LF_REFERENCE"
-msgstr ""
+msgstr "LF Референс"
 
 msgid "REVMNU_ROOM_ROLLOFF_FACTOR"
 msgstr ""
@@ -1667,10 +1665,10 @@ msgid "REVMNU_Reverb_Delay_Scale"
 msgstr "Размер Задержки Реверберации"
 
 msgid "REVMNU_Echo_Time_Scale"
-msgstr ""
+msgstr "Шкала времени эха"
 
 msgid "REVMNU_Modulation_Time_Scale"
-msgstr ""
+msgstr "Шкала времени модуляции"
 
 msgid "REVMNU_Based_on"
 msgstr "Основано на"
@@ -1694,7 +1692,7 @@ msgid "REVMNU_File_name"
 msgstr "Имя файла"
 
 msgid "REVMNU_Environments_to_save"
-msgstr "Сохранить окружения..."
+msgstr "Сохранить окружения"
 
 msgid "DSPLYMNU_VKOPT"
 msgstr "Настройки Vulkan (экспериментальные)"
@@ -1873,6 +1871,7 @@ msgstr ""
 # This should list all uppercase characters that are REQUIRED for proper
 # language display. If it is acceptable that accents get omitted a character
 # should NOT be listed here!
+#, fuzzy
 msgid "REQUIRED_CHARACTERS"
 msgstr "АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ"
 
@@ -2121,3 +2120,30 @@ msgstr "Скорость взгляда"
 
 msgid "JOYMNU_ANALOGSTRAFERUN"
 msgstr ""
+
+msgid "PICKER_SHOWTHIS"
+msgstr "Показывать эту страницу после обновлений"
+
+msgid "PICKER_TAB_ABOUT"
+msgstr "О"
+
+msgid "NOTES_VERSION"
+msgstr "Версия"
+
+msgid "NOTES_UNKNOWN"
+msgstr "Неизвестный"
+
+msgid "NOTES_RELEASED"
+msgstr "выпущен"
+
+msgid "NOTES_EMPTY"
+msgstr "Описание не приводится."
+
+msgid "NOTES_DETAILS"
+msgstr "Более подробно здесь:"
+
+msgid "PICKER_SHOWNOTES"
+msgstr "Показать изменения версии"
+
+msgid "PICKER_TAB_RELEASE"
+msgstr "Список изменений"

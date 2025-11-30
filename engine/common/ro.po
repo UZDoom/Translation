@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-30 05:44+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-11-30 17:37+0000\n"
+"Last-Translator: Маркич <zurovmark61@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/uzdoom/common/"
 "ro/>\n"
 "Language: ro\n"
@@ -1871,6 +1871,7 @@ msgstr ""
 # This should list all uppercase characters that are REQUIRED for proper
 # language display. If it is acceptable that accents get omitted a character
 # should NOT be listed here!
+#, fuzzy
 msgid "REQUIRED_CHARACTERS"
 msgstr "ĂÎȚÂȘ"
 
