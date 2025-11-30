@@ -4866,9 +4866,6 @@ msgstr "Disable MBF21 features"
 msgid "ALTHUDMNU_SHOWTIMESTAT"
 msgstr "Show time widget"
 
-msgid "OPTVAL_MBF21"
-msgstr "MBF21"
-
 msgid "CMPTMNU_VILEGHOSTS"
 msgstr "Crushed monsters get resurrected as ghosts"
 

@@ -107,3 +107,68 @@ msgstr ""
 
 msgid "PHUSTR_32"
 msgstr ""
+
+# Plutonia after MAP06
+msgid "P1TEXT"
+msgstr ""
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+
+# Plutonia after MAP11
+msgid "P2TEXT"
+msgstr ""
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+
+# Plutonia after MAP20
+msgid "P3TEXT"
+msgstr ""
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+
+# Plutonia victory
+msgid "P4TEXT"
+msgstr ""
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+
+# Plutonia before MAP31
+msgid "P5TEXT"
+msgstr ""
+"\n"
+"\n"
+"\n"
+
+# Plutonia before MAP32
+msgid "P6TEXT"
+msgstr ""
+"\n"
+"\n"

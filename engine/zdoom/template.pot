@@ -2,8 +2,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
+"PO-Revision-Date: 2025-11-15 17:51+0000\n"
+"Last-Translator: Gaerzi <gaerzi@gmail.com>\n"
+"Language-Team: English <https://hosted.weblate.org/projects/uzdoom/zdoom-"
+"engine-strings/en/>\n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.15-dev\n"
+"HeaderCode: default\n"
 
 msgid "PRESSKEY"
 msgstr ""
@@ -12,36 +21,56 @@ msgid "SECRETMESSAGE"
 msgstr ""
 
 msgid "D_DEVSTR"
-msgstr ""
+msgstr "\n"
 
 msgid "QUITMSG"
-msgstr ""
+msgstr "\n"
 
 # In some languages, it may make more sense to translate “Press a key” as
 # “Press any key.”
 msgid "LOADNET"
 msgstr ""
+"\n"
+"\n"
 
 msgid "QLOADNET"
 msgstr ""
+"\n"
+"\n"
 
 msgid "QSAVESPOT"
 msgstr ""
+"\n"
+"\n"
 
 msgid "NEWGAME"
 msgstr ""
+"\n"
+"\n"
+"\n"
 
 msgid "NIGHTMARE"
 msgstr ""
+"\n"
+"\n"
+"\n"
 
 msgid "SWSTRING"
 msgstr ""
+"\n"
+"\n"
+"\n"
+"\n"
 
 msgid "NETEND"
 msgstr ""
+"\n"
+"\n"
 
 msgid "ENDGAME"
 msgstr ""
+"\n"
+"\n"
 
 msgid "RAVENQUITMSG"
 msgstr ""
@@ -54,58 +83,60 @@ msgid "DOSY"
 msgstr ""
 
 msgid "QUITMSG1"
-msgstr ""
+msgstr "\n"
 
 msgid "QUITMSG2"
-msgstr ""
+msgstr "\n"
 
 msgid "QUITMSG3"
-msgstr ""
+msgstr "\n"
 
 msgid "QUITMSG4"
-msgstr ""
+msgstr "\n"
 
 msgid "QUITMSG5"
-msgstr ""
+msgstr "\n"
 
 msgid "QUITMSG6"
-msgstr ""
+msgstr "\n"
 
 msgid "QUITMSG7"
 msgstr ""
 
 # More info here.
 msgid "QUITMSG8"
-msgstr ""
+msgstr "\n"
 
 # A “dimensional shambler” is a creature appearing in the works of H. P.
 # Lovecraft.
 msgid "QUITMSG9"
 msgstr ""
+"\n"
+"\n"
 
 msgid "QUITMSG10"
-msgstr ""
+msgstr "\n"
 
 msgid "QUITMSG11"
-msgstr ""
+msgstr "\n"
 
 msgid "QUITMSG12"
-msgstr ""
+msgstr "\n"
 
 msgid "QUITMSG13"
-msgstr ""
+msgstr "\n"
 
 msgid "QUITMSG14"
-msgstr ""
+msgstr "\n"
 
 msgid "QUITMSG15"
-msgstr ""
+msgstr "\n"
 
 msgid "QUITMSG16"
-msgstr ""
+msgstr "\n"
 
 msgid "QUITMSG17"
-msgstr ""
+msgstr "\n"
 
 msgid "QUITMSG18"
 msgstr ""
@@ -117,31 +148,31 @@ msgid "QUITMSG20"
 msgstr ""
 
 msgid "QUITMSG21"
-msgstr ""
+msgstr "\n"
 
 msgid "QUITMSG22"
-msgstr ""
+msgstr "\n"
 
 msgid "QUITMSG23"
-msgstr ""
+msgstr "\n"
 
 msgid "QUITMSG24"
-msgstr ""
+msgstr "\n"
 
 msgid "QUITMSG25"
-msgstr ""
+msgstr "\n"
 
 msgid "QUITMSG26"
-msgstr ""
+msgstr "\n"
 
 msgid "QUITMSG27"
-msgstr ""
+msgstr "\n"
 
 msgid "QUITMSG28"
-msgstr ""
+msgstr "\n"
 
 msgid "QUITMSG29"
-msgstr ""
+msgstr "\n"
 
 msgid "TXT_DEFAULTPICKUPMSG"
 msgstr ""
@@ -1835,7 +1866,7 @@ msgid "TXT_SCANNER"
 msgstr ""
 
 msgid "TXT_NEEDMAP"
-msgstr ""
+msgstr "\n"
 
 msgid "TXT_PRISONPASS"
 msgstr ""
@@ -2672,6 +2703,15 @@ msgstr ""
 
 msgid "CE1TEXT"
 msgstr ""
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
 
 msgid "CE2TEXT"
 msgstr ""
@@ -2684,35 +2724,61 @@ msgstr ""
 
 msgid "CLOADNET"
 msgstr ""
+"\n"
+"\n"
 
 msgctxt "chex"
 msgid "QSPROMPT"
 msgstr ""
+"\n"
+"\n"
+"\n"
+"\n"
 
 msgctxt "chex"
 msgid "QLOADNET"
 msgstr ""
+"\n"
+"\n"
 
 msgctxt "chex"
 msgid "QLPROMPT"
 msgstr ""
+"\n"
+"\n"
+"\n"
+"\n"
 
 msgid "CNEWGAME"
 msgstr ""
+"\n"
+"\n"
+"\n"
 
 msgid "CNIGHTMARE"
 msgstr ""
+"\n"
+"\n"
+"\n"
 
 msgid "CSWSTRING"
 msgstr ""
+"\n"
+"\n"
+"\n"
+"\n"
 
 msgctxt "chex"
 msgid "NETEND"
 msgstr ""
+"\n"
+"\n"
 
 msgctxt "chex"
 msgid "ENDGAME"
 msgstr ""
+"\n"
+"\n"
 
 msgctxt "chex"
 msgid "STSTR_DQDON"
@@ -4529,9 +4595,9 @@ msgid "TXT_TOOOLDSG"
 msgstr ""
 
 # Shouldn’t this say “%e is the newest supported”?
-# 
+#
 # — Undead
-# 
+#
 # Ask Randi: The text is old. I won't change it.
 msgid "TXT_TOONEWSG"
 msgstr ""
@@ -4601,7 +4667,7 @@ msgid "DSPLYMNU_CUSTOMINVERTMAP"
 msgstr ""
 
 msgid "DSPLYMNU_CUSTOMINVERTC1"
-msgstr ""
+msgstr "\n"
 
 msgid "DSPLYMNU_CUSTOMINVERTC2"
 msgstr ""
@@ -4727,9 +4793,6 @@ msgid "CMPTMNU_NOMBF21"
 msgstr ""
 
 msgid "ALTHUDMNU_SHOWTIMESTAT"
-msgstr ""
-
-msgid "OPTVAL_MBF21"
 msgstr ""
 
 msgid "CMPTMNU_VILEGHOSTS"
@@ -5114,4 +5177,7 @@ msgid "CNTRLMNU_COOPSPYPREV"
 msgstr ""
 
 msgid "CNTRLMNU_COOPSPYCANCEL"
+msgstr ""
+
+msgid "OPTMNU_ACCESSIBILITY"
 msgstr ""

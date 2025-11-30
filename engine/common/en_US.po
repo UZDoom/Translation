@@ -964,15 +964,6 @@ msgstr "Number of emulated OPN chips"
 msgid "ADVSNDMNU_OPNGAIN"
 msgstr "Gain"
 
-msgid "ADVSNDMNU_VLMODEL"
-msgstr "Volume model"
-
-msgid "ADVSNDMNU_CHANALLOC"
-msgstr "Channel allocation method"
-
-msgid "ADVSNDMNU_AUTOARPEGGIO"
-msgstr "Automatic arpeggio"
-
 msgid "ADVSNDMNU_ADLCUSTOMBANK"
 msgstr "Use custom WOPL bank"
 
