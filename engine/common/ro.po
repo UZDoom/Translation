@@ -966,15 +966,6 @@ msgstr "Număr de cipuri OPN emulate"
 msgid "ADVSNDMNU_OPNGAIN"
 msgstr "Amplificare"
 
-msgid "ADVSNDMNU_VLMODEL"
-msgstr "Model volum"
-
-msgid "ADVSNDMNU_CHANALLOC"
-msgstr "Metodă alocare canal"
-
-msgid "ADVSNDMNU_AUTOARPEGGIO"
-msgstr "Arpeggio automat"
-
 msgid "ADVSNDMNU_ADLCUSTOMBANK"
 msgstr "Utilizați propria bancă WOPN"
 

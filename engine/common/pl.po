@@ -939,12 +939,6 @@ msgstr "Wzmocnienie"
 msgid "ADVSNDMNU_VLMODEL"
 msgstr "Model głośności"
 
-msgid "ADVSNDMNU_CHANALLOC"
-msgstr ""
-
-msgid "ADVSNDMNU_AUTOARPEGGIO"
-msgstr ""
-
 msgid "ADVSNDMNU_OPNCORES"
 msgstr "Rdzeń Emulatora OPN2"
 
@@ -965,9 +959,6 @@ msgstr "Liczba emulowanych czipów OPN"
 
 msgid "ADVSNDMNU_OPNGAIN"
 msgstr "Wzmocnienie"
-
-msgid "ADVSNDMNU_VLMODEL"
-msgstr ""
 
 msgid "ADVSNDMNU_CHANALLOC"
 msgstr "Metoda przydziału kanałów"

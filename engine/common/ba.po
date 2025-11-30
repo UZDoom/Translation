@@ -966,15 +966,6 @@ msgstr "Broj emuliranih OPN čipova"
 msgid "ADVSNDMNU_OPNGAIN"
 msgstr "Jačina"
 
-msgid "ADVSNDMNU_VLMODEL"
-msgstr ""
-
-msgid "ADVSNDMNU_CHANALLOC"
-msgstr ""
-
-msgid "ADVSNDMNU_AUTOARPEGGIO"
-msgstr ""
-
 msgid "ADVSNDMNU_ADLCUSTOMBANK"
 msgstr "Upotrijebite prilagođenu WOPL banku"
 

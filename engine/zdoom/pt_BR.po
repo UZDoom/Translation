@@ -4880,9 +4880,6 @@ msgstr "Desativar recursos do MBF21"
 msgid "ALTHUDMNU_SHOWTIMESTAT"
 msgstr "Exibir widget de tempo"
 
-msgid "OPTVAL_MBF21"
-msgstr ""
-
 msgid "CMPTMNU_VILEGHOSTS"
 msgstr "Monstros esmagados ressucitam como fantasmas"
 

@@ -967,15 +967,6 @@ msgstr "Puces OPN émulées"
 msgid "ADVSNDMNU_OPNGAIN"
 msgstr ""
 
-msgid "ADVSNDMNU_VLMODEL"
-msgstr ""
-
-msgid "ADVSNDMNU_CHANALLOC"
-msgstr ""
-
-msgid "ADVSNDMNU_AUTOARPEGGIO"
-msgstr ""
-
 msgid "ADVSNDMNU_ADLCUSTOMBANK"
 msgstr "Utiliser Banque WOPL perso"
 

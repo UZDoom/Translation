@@ -4860,9 +4860,6 @@ msgstr "Онемогућите функције MBF21"
 msgid "ALTHUDMNU_SHOWTIMESTAT"
 msgstr "Прикажи виџет времена"
 
-msgid "OPTVAL_MBF21"
-msgstr ""
-
 msgid "CMPTMNU_VILEGHOSTS"
 msgstr "Сломљена чудовишта васкрсавају као духови"
 

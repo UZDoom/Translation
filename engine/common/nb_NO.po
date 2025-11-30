@@ -963,15 +963,6 @@ msgstr "Antall emulerte OPN-brikker"
 msgid "ADVSNDMNU_OPNGAIN"
 msgstr ""
 
-msgid "ADVSNDMNU_VLMODEL"
-msgstr ""
-
-msgid "ADVSNDMNU_CHANALLOC"
-msgstr ""
-
-msgid "ADVSNDMNU_AUTOARPEGGIO"
-msgstr ""
-
 msgid "ADVSNDMNU_ADLCUSTOMBANK"
 msgstr "Bruk egendefinert WOPL-bank"
 

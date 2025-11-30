@@ -4863,9 +4863,6 @@ msgstr "Wyłącz funkcje MBF21"
 msgid "ALTHUDMNU_SHOWTIMESTAT"
 msgstr "Pokaż widżet czasu"
 
-msgid "OPTVAL_MBF21"
-msgstr ""
-
 msgid "CMPTMNU_VILEGHOSTS"
 msgstr "Zmiażdżone potwory wskrzeszone jako duchy"
 

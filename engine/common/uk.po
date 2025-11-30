@@ -939,12 +939,6 @@ msgstr "Підсилення"
 msgid "ADVSNDMNU_VLMODEL"
 msgstr "Модель гучності"
 
-msgid "ADVSNDMNU_CHANALLOC"
-msgstr ""
-
-msgid "ADVSNDMNU_AUTOARPEGGIO"
-msgstr ""
-
 msgid "ADVSNDMNU_OPNCORES"
 msgstr "Ядро емуляції OPN2"
 
@@ -965,9 +959,6 @@ msgstr "Кількість емульованих OPN-чіпів"
 
 msgid "ADVSNDMNU_OPNGAIN"
 msgstr "Підсилення"
-
-msgid "ADVSNDMNU_VLMODEL"
-msgstr "Модель гучності"
 
 msgid "ADVSNDMNU_CHANALLOC"
 msgstr "Метод розподілу каналів"

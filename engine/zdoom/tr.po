@@ -4801,9 +4801,6 @@ msgstr "MBF21 özelliklerini devre dışı bırakma"
 msgid "ALTHUDMNU_SHOWTIMESTAT"
 msgstr "Zaman widget'ını göster"
 
-msgid "OPTVAL_MBF21"
-msgstr ""
-
 msgid "CMPTMNU_VILEGHOSTS"
 msgstr "Ezilmiş canavarlar hayalet olarak dirilir"
 

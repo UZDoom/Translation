@@ -963,15 +963,6 @@ msgstr "Emuloitavien OPN-piirien lukumäärä"
 msgid "ADVSNDMNU_OPNGAIN"
 msgstr "Vahvistus"
 
-msgid "ADVSNDMNU_VLMODEL"
-msgstr ""
-
-msgid "ADVSNDMNU_CHANALLOC"
-msgstr ""
-
-msgid "ADVSNDMNU_AUTOARPEGGIO"
-msgstr ""
-
 msgid "ADVSNDMNU_ADLCUSTOMBANK"
 msgstr "Käytä mukautettua WOPL-pankkia"
 

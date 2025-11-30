@@ -4810,9 +4810,6 @@ msgstr "MBF21 기능 비활성화"
 msgid "ALTHUDMNU_SHOWTIMESTAT"
 msgstr "시간 표시 위젯"
 
-msgid "OPTVAL_MBF21"
-msgstr ""
-
 msgid "CMPTMNU_VILEGHOSTS"
 msgstr "분쇄된 몬스터는 유령으로 부활합니다."
 

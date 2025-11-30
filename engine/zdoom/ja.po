@@ -4865,9 +4865,6 @@ msgstr "MBF21機能を無効"
 msgid "ALTHUDMNU_SHOWTIMESTAT"
 msgstr "ウィジットタイマーの表示"
 
-msgid "OPTVAL_MBF21"
-msgstr ""
-
 msgid "CMPTMNU_VILEGHOSTS"
 msgstr "圧死した敵が蘇生でゴースト化"
 

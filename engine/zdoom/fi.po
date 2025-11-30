@@ -4830,9 +4830,6 @@ msgstr "Poista MBF21-ominaisuudet käytöstä"
 msgid "ALTHUDMNU_SHOWTIMESTAT"
 msgstr "Näytä aikatyökalu"
 
-msgid "OPTVAL_MBF21"
-msgstr ""
-
 msgid "CMPTMNU_VILEGHOSTS"
 msgstr "Murskatut hirviöt heräävät henkiin aaveina..."
 

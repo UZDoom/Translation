@@ -968,15 +968,6 @@ msgstr "Количество эмулируемых чипов OPN"
 msgid "ADVSNDMNU_OPNGAIN"
 msgstr "Усиление"
 
-msgid "ADVSNDMNU_VLMODEL"
-msgstr "Модель громкости"
-
-msgid "ADVSNDMNU_CHANALLOC"
-msgstr "Метод выбора каналов"
-
-msgid "ADVSNDMNU_AUTOARPEGGIO"
-msgstr "Автоматическое арпеджио"
-
 msgid "ADVSNDMNU_ADLCUSTOMBANK"
 msgstr "Использовать собственный банк WOPL"
 

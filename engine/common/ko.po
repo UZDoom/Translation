@@ -965,15 +965,6 @@ msgstr "에뮬레이트된 OPN 칩 개수"
 msgid "ADVSNDMNU_OPNGAIN"
 msgstr "쌓기"
 
-msgid "ADVSNDMNU_VLMODEL"
-msgstr ""
-
-msgid "ADVSNDMNU_CHANALLOC"
-msgstr ""
-
-msgid "ADVSNDMNU_AUTOARPEGGIO"
-msgstr ""
-
 msgid "ADVSNDMNU_ADLCUSTOMBANK"
 msgstr "사용자 지정 WOPL 뱅크 사용"
 

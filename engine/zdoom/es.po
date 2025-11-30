@@ -4880,9 +4880,6 @@ msgstr "Deshabilitar las funciones de MBF21"
 msgid "ALTHUDMNU_SHOWTIMESTAT"
 msgstr "Mostrar «widget» de tiempo"
 
-msgid "OPTVAL_MBF21"
-msgstr ""
-
 msgid "CMPTMNU_VILEGHOSTS"
 msgstr "Los monstruos aplastados son resucitados como fantasmas"
 

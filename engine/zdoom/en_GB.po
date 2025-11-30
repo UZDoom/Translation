@@ -4731,9 +4731,6 @@ msgstr ""
 msgid "ALTHUDMNU_SHOWTIMESTAT"
 msgstr ""
 
-msgid "OPTVAL_MBF21"
-msgstr ""
-
 msgid "CMPTMNU_VILEGHOSTS"
 msgstr ""
 

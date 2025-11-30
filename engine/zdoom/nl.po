@@ -4226,9 +4226,6 @@ msgstr "MBF"
 msgid "OPTVAL_MBFSTRICT"
 msgstr "MBF (streng)"
 
-msgid "OPTVAL_MBF21"
-msgstr ""
-
 msgid "OPTVAL_MBF21STRICT"
 msgstr "MBF21 (streng)"
 

@@ -965,15 +965,6 @@ msgstr "Počet emulovaných OPN čipů"
 msgid "ADVSNDMNU_OPNGAIN"
 msgstr "Zesílení"
 
-msgid "ADVSNDMNU_VLMODEL"
-msgstr ""
-
-msgid "ADVSNDMNU_CHANALLOC"
-msgstr ""
-
-msgid "ADVSNDMNU_AUTOARPEGGIO"
-msgstr ""
-
 msgid "ADVSNDMNU_ADLCUSTOMBANK"
 msgstr "Použít vlastní WOPL sadu"
 

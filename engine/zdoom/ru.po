@@ -4865,9 +4865,6 @@ msgstr "Отключить функции MBF21"
 msgid "ALTHUDMNU_SHOWTIMESTAT"
 msgstr "Отображение виджета времени"
 
-msgid "OPTVAL_MBF21"
-msgstr ""
-
 msgid "CMPTMNU_VILEGHOSTS"
 msgstr "Раздавленные монстры воскресают в виде призраков"
 

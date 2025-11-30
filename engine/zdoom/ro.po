@@ -4871,9 +4871,6 @@ msgstr "Dezactivare caracteristici MBF21"
 msgid "ALTHUDMNU_SHOWTIMESTAT"
 msgstr "Afișare ceas"
 
-msgid "OPTVAL_MBF21"
-msgstr ""
-
 msgid "CMPTMNU_VILEGHOSTS"
 msgstr "Monștrii striviți sunt readuși la viață ca fantome."
 

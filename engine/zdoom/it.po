@@ -4878,9 +4878,6 @@ msgstr "Disabilita le funzioni MBF21"
 msgid "ALTHUDMNU_SHOWTIMESTAT"
 msgstr "Mostra orario"
 
-msgid "OPTVAL_MBF21"
-msgstr ""
-
 msgid "CMPTMNU_VILEGHOSTS"
 msgstr "Mostri schiacciati vengono resuscitati come fantasmi"
 

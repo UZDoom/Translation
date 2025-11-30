@@ -4856,9 +4856,6 @@ msgstr "MBF21 vonások kikapcsolása"
 msgid "ALTHUDMNU_SHOWTIMESTAT"
 msgstr "Óra mutatása"
 
-msgid "OPTVAL_MBF21"
-msgstr ""
-
 msgid "CMPTMNU_VILEGHOSTS"
 msgstr "Összenyomott szörnyek szellemként születnek újra"
 

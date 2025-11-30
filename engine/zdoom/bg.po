@@ -4093,9 +4093,6 @@ msgstr ""
 msgid "OPTVAL_MBFSTRICT"
 msgstr ""
 
-msgid "OPTVAL_MBF21"
-msgstr ""
-
 msgid "OPTVAL_MBF21STRICT"
 msgstr ""
 

@@ -4881,9 +4881,6 @@ msgstr "Malvalidigi funkciojn de MBF21"
 msgid "ALTHUDMNU_SHOWTIMESTAT"
 msgstr "Montri tempo-fenestraĵon"
 
-msgid "OPTVAL_MBF21"
-msgstr ""
-
 msgid "CMPTMNU_VILEGHOSTS"
 msgstr "Dispremitaj monstroj reviviĝas kiel fantomojn"
 

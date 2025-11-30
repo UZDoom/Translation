@@ -4803,9 +4803,6 @@ msgstr "Inaktivera MBF21-funktioner"
 msgid "ALTHUDMNU_SHOWTIMESTAT"
 msgstr "Visa tidswidget"
 
-msgid "OPTVAL_MBF21"
-msgstr ""
-
 msgid "CMPTMNU_VILEGHOSTS"
 msgstr "Krossade monster återuppstår som spöken."
 

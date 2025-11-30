@@ -4830,9 +4830,6 @@ msgstr "Вимкнути функції MBF21"
 msgid "ALTHUDMNU_SHOWTIMESTAT"
 msgstr "Показати віджет часу"
 
-msgid "OPTVAL_MBF21"
-msgstr "MBF21"
-
 msgid "CMPTMNU_VILEGHOSTS"
 msgstr "Розчавлені монстри воскресають у вигляді привидів"
 

@@ -967,15 +967,6 @@ msgstr "Antal emulerede OPN-chips"
 msgid "ADVSNDMNU_OPNGAIN"
 msgstr ""
 
-msgid "ADVSNDMNU_VLMODEL"
-msgstr ""
-
-msgid "ADVSNDMNU_CHANALLOC"
-msgstr ""
-
-msgid "ADVSNDMNU_AUTOARPEGGIO"
-msgstr ""
-
 msgid "ADVSNDMNU_ADLCUSTOMBANK"
 msgstr "Brug af brugerdefineret WOPL-bank"
 

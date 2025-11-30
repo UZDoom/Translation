@@ -4815,9 +4815,6 @@ msgstr "Deaktiver MBF21-funksjoner"
 msgid "ALTHUDMNU_SHOWTIMESTAT"
 msgstr "Vis tid widget"
 
-msgid "OPTVAL_MBF21"
-msgstr ""
-
 msgid "CMPTMNU_VILEGHOSTS"
 msgstr "Knuste monstre gjenoppstår som spøkelser"
 

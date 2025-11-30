@@ -4879,9 +4879,6 @@ msgstr "Désactiver les fonctionnalités MBF21"
 msgid "ALTHUDMNU_SHOWTIMESTAT"
 msgstr "Afficher le widget horloge"
 
-msgid "OPTVAL_MBF21"
-msgstr ""
-
 msgid "CMPTMNU_VILEGHOSTS"
 msgstr "Les monstres écrasés ressuscitent en fantômes"
 
