@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-19 13:07+0000\n"
-"Last-Translator: inkoalawetrust <someb27@yahoo.gr>\n"
+"PO-Revision-Date: 2025-11-30 05:40+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/el/>\n"
 "Language: el\n"
@@ -3294,13 +3294,13 @@ msgid "CMPTMNU_EXPLODE2"
 msgstr "Συμπεριφορά εκρήξεων απο το πρωτότυπο Doom"
 
 msgid "PLYRMNU_RED"
-msgstr ""
+msgstr "Κόκκινο"
 
 msgid "PLYRMNU_GREEN"
-msgstr ""
+msgstr "Πράσινο"
 
 msgid "PLYRMNU_BLUE"
-msgstr ""
+msgstr "Μπλέ"
 
 msgid "PLYRMNU_PLAYERCLASS"
 msgstr ""
@@ -3474,7 +3474,7 @@ msgid "MAPCOLORMNU_PORTAL"
 msgstr ""
 
 msgid "MSGMNU_TITLE"
-msgstr ""
+msgstr "Μηνύματα"
 
 msgid "MSGMNU_SHOWMESSAGES"
 msgstr ""
@@ -3801,7 +3801,7 @@ msgid "SCALEMNU_OVERRIDE"
 msgstr ""
 
 msgid "SCALEMNU_MESSAGES"
-msgstr ""
+msgstr "Μηνύματα"
 
 msgid "SCALEMNU_CONSOLE"
 msgstr ""
@@ -3828,7 +3828,7 @@ msgid "SCALEMNU_ADAPT"
 msgstr ""
 
 msgid "HUDMNU_TITLE"
-msgstr ""
+msgstr "Ρυθμίσεις HUD"
 
 msgid "HUDMNU_ALTHUD"
 msgstr ""
@@ -3894,7 +3894,7 @@ msgid "MISCMNU_INTERSCROLL"
 msgstr ""
 
 msgid "NETMNU_TITLE"
-msgstr ""
+msgstr "Ρυθμίσεις Δικτύου"
 
 msgid "NETMNU_LOCALOPTIONS"
 msgstr ""
@@ -3976,7 +3976,7 @@ msgid "OPTVAL_ITEMS"
 msgstr ""
 
 msgid "OPTVAL_WEAPONS"
-msgstr ""
+msgstr "Όπλα"
 
 msgid "OPTVAL_BOTH"
 msgstr ""
@@ -4348,7 +4348,7 @@ msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr ""
 
 msgid "GLPREFMNU_FOGMODE"
-msgstr ""
+msgstr "Λειτουργία ομίχλης"
 
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr ""
@@ -5042,7 +5042,7 @@ msgid "HAPMNU_OPT_WORLD"
 msgstr ""
 
 msgid "PAUSE_STRING"
-msgstr ""
+msgstr "Πάυση"
 
 msgid "TAG_BACKPACK"
 msgstr ""
