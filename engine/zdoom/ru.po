@@ -2,16 +2,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-15 17:52+0000\n"
-"Last-Translator: Gaerzi <gaerzi@gmail.com>\n"
+"PO-Revision-Date: 2025-11-30 17:37+0000\n"
+"Last-Translator: Маркич <zurovmark61@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural="
+"(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? "
+"1 : 2);\n"
 "X-Generator: Weblate 5.15-dev\n"
 "HeaderCode: ru\n"
 
@@ -22,7 +23,7 @@ msgid "SECRETMESSAGE"
 msgstr "Обнаружен тайник!"
 
 msgid "D_DEVSTR"
-msgstr "Бесполезный режим ВКЛЮЧЁН."
+msgstr "Бесполезный режим ВКЛ.\n"
 
 msgid "QUITMSG"
 msgstr ""
@@ -165,8 +166,8 @@ msgstr ""
 
 msgid "QUITMSG15"
 msgstr ""
-"Куда ты собрался?\n"
-"А как же восстание?!"
+"Куда ты собрался?!\n"
+"А как же восстание?"
 
 msgid "QUITMSG16"
 msgstr ""
@@ -332,7 +333,7 @@ msgid "STSTR_CHOPPERS"
 msgstr "...не отстой — GM"
 
 msgid "STSTR_CLEV"
-msgstr "Смена уровня...\n"
+msgstr "Смена уровня..."
 
 msgid "TXT_BUDDHAON"
 msgstr "Режим Будды ВКЛЮЧЁН"
@@ -1241,7 +1242,7 @@ msgid "FN_SNAKE"
 msgstr "Офидиан"
 
 msgid "FN_WIZARD"
-msgstr "Колдун"
+msgstr "Волшебник"
 
 msgid "AMMO_GOLDWAND"
 msgstr "Кристалл эльфийского жезла"
@@ -1682,7 +1683,7 @@ msgid "TAG_ARTIPOISONBAG2"
 msgstr "Флешетта часовой бомбы"
 
 msgid "TAG_ARTIPOISONBAG3"
-msgstr "Гранатная флешетта "
+msgstr "Гранатная флешетта"
 
 msgid "TAG_ARTIHEALINGRADIUS"
 msgstr "Мистический зачарованный свиток"
@@ -2815,7 +2816,8 @@ msgstr ""
 
 msgid "CNEWGAME"
 msgstr ""
-"Невозможно начать новое задание при сетевом задании!\n"
+"Невозможно начать новое задание \n"
+"при сетевом задании.\n"
 "\n"
 "Нажмите любую клавишу."
 
@@ -4183,7 +4185,7 @@ msgid "OPTVAL_TRIPLE"
 msgstr "Тройной"
 
 msgid "OPTVAL_QUADRUPLE"
-msgstr "Четырёхкратный "
+msgstr "Четырёхкратный"
 
 msgid "OPTVAL_ITEMPICKUP"
 msgstr "Подбор предметов"
@@ -4213,7 +4215,7 @@ msgid "OPTVAL_DOOMSTRICT"
 msgstr "Doom (строгий)"
 
 msgid "OPTVAL_BOOM"
-msgstr ""
+msgstr "бум"
 
 msgid "OPTVAL_BOOMSTRICT"
 msgstr "Boom (строгий)"
@@ -4276,7 +4278,7 @@ msgid "OPTVAL_VTAZDOOM"
 msgstr "Автоматически (предпочитать ZDoom)"
 
 msgid "OPTVAL_VTAVANILLA"
-msgstr "Автоматически (предпочитать изначальный)"
+msgstr "Автоматически (предпочитать Ванильный)"
 
 msgid "OPTVAL_SMALL"
 msgstr "Мелкий"
@@ -4471,7 +4473,7 @@ msgid "GLPREFMNU_VRMODE"
 msgstr "Стерео 3D VR-режим"
 
 msgid "GLPREFMNU_VRQUADSTEREO"
-msgstr "Четырёхкратный стереорежим"
+msgstr "Включить Четырёхкратный стереорежим"
 
 msgid "GLPREFMNU_SWLMBANDED"
 msgstr "Программный режим освещения полосами"
@@ -4589,7 +4591,7 @@ msgid "OPTVAL_CHECKERBOARD"
 msgstr "Шахматная доска"
 
 msgid "OPTVAL_QUADBUFFERED"
-msgstr "Четырёхкратный"
+msgstr "Четырехкратная буферизация"
 
 msgid "DSPLYMNU_TCOPT"
 msgstr "Полноцветный режим"
