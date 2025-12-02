@@ -2,16 +2,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-30 16:38+0000\n"
-"Last-Translator: Маркич <zurovmark61@gmail.com>\n"
+"PO-Revision-Date: 2025-12-03 00:14+0000\n"
+"Last-Translator: Marazm Mamazm <brutdewelopment@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/common/pl/>"
 "\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural="
-"(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Weblate 5.15-dev\n"
 "HeaderCode: pl\n"
 
@@ -2120,3 +2120,27 @@ msgstr "Szybkość rozglądania"
 
 msgid "JOYMNU_ANALOGSTRAFERUN"
 msgstr ""
+
+msgid "NOTES_UNKNOWN"
+msgstr "Nieznane"
+
+msgid "NOTES_EMPTY"
+msgstr "Brak podanego opisu."
+
+msgid "NOTES_DETAILS"
+msgstr "Po więcej szczegółów zobacz:"
+
+msgid "PICKER_SHOWNOTES"
+msgstr "Pokaż listę zmian"
+
+msgid "PICKER_TAB_RELEASE"
+msgstr "Lista Zmian"
+
+msgid "NOTES_RELEASED"
+msgstr "Wydane"
+
+msgid "PICKER_SHOWTHIS"
+msgstr "Pokaż tę stronę po aktualizacji"
+
+msgid "PICKER_TAB_ABOUT"
+msgstr "O"
