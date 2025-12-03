@@ -2,9 +2,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-15 17:51+0000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-12-04 01:00+0000\n"
+"Last-Translator: Hugo Huang <SushiNinja123@outlook.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
+"projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -14,88 +15,139 @@ msgstr ""
 "HeaderCode: default\n"
 
 msgid "PRESSKEY"
-msgstr ""
+msgstr "请按下任意按键以继续。"
 
 msgid "SECRETMESSAGE"
-msgstr ""
+msgstr "你发现了一个秘密！"
 
 msgid "D_DEVSTR"
-msgstr ""
+msgstr "Useless模式启动。\n"
 
 msgid "QUITMSG"
 msgstr ""
+"你确定要退出这\n"
+"精彩的游戏吗？"
 
 # In some languages, it may make more sense to translate “Press a key” as
 # “Press any key.”
 msgid "LOADNET"
 msgstr ""
+"在进行网络游戏时无法进行读取！\n"
+"\n"
+"请按下任意按键以继续。"
 
 msgid "QLOADNET"
 msgstr ""
+"在进行网络游戏时无法进行快速读取！\n"
+"\n"
+"请按下任意按键以继续。"
 
 msgid "QSAVESPOT"
 msgstr ""
+"你还没选择快速保存的槽位咧！\n"
+"\n"
+"请按下任意按键以继续。"
 
 msgid "NEWGAME"
 msgstr ""
+"在进行网络游戏时\n"
+"无法开启新游戏。\n"
+"\n"
+"请按下任意按键以继续。"
 
 msgid "NIGHTMARE"
 msgstr ""
+"你真的确定吗？这个难度等级\n"
+"是一点也不公平的哟。\n"
+"\n"
+"请按下Y或N。"
 
 msgid "SWSTRING"
 msgstr ""
+"这是毁灭战士的shareware试玩版本。\n"
+"\n"
+"你需要购买完整的三部曲。\n"
+"\n"
+"请按下任意按键以继续。"
 
 msgid "NETEND"
 msgstr ""
+"你无法结束一局网络游戏！\n"
+"\n"
+"请按下任意按键以继续。"
 
 msgid "ENDGAME"
 msgstr ""
+"你真的确定要结束游戏吗？\n"
+"\n"
+"请按下Y或N。"
 
 msgid "RAVENQUITMSG"
-msgstr ""
+msgstr "你真的确定要退出吗？"
 
 msgctxt "heretic"
 msgid "SWSTRING"
-msgstr ""
+msgstr "仅在已激活的游戏版本提供"
 
 msgid "DOSY"
-msgstr ""
+msgstr "（按下Y键退出）"
 
 msgid "QUITMSG1"
 msgstr ""
+"别走嘛，还有好多恶魔\n"
+"等着你来干掉咧！"
 
 msgid "QUITMSG2"
 msgstr ""
+"快撤吧 — 离开\n"
+"这场血雨腥风！"
 
 msgid "QUITMSG3"
 msgstr ""
+"要换成我，可不会选择退出。\n"
+"DOS比这糟多啦。"
 
 msgid "QUITMSG4"
 msgstr ""
+"你想说你比起我，\n"
+"更爱DOS是吗？"
 
 msgid "QUITMSG5"
 msgstr ""
+"先别急着走 — 转角\n"
+"那儿还有只恶魔咧！"
 
 msgid "QUITMSG6"
 msgstr ""
+"你给我等着，下次你进来的时候\n"
+"就把你干碎。"
 
 msgid "QUITMSG7"
-msgstr ""
+msgstr "哼，那你就走吧。好像我会在乎似的。"
 
 # More info here.
 msgid "QUITMSG8"
 msgstr ""
+"想退出了？\n"
+"那便与八大美德之一失之交臂吧！"
 
 # A “dimensional shambler” is a creature appearing in the works of H. P.
 # Lovecraft.
 msgid "QUITMSG9"
 msgstr ""
+"别现在就走，\n"
+"有只空鬼正在\n"
+"DOS里等着你！"
 
 msgid "QUITMSG10"
 msgstr ""
+"从这里滚出去，回到你\n"
+"那些无聊的程序里去吧。"
 
 msgid "QUITMSG11"
 msgstr ""
+"如果我是你的boss\n"
+"现在就给你关死斗里面！"
 
 msgid "QUITMSG12"
 msgstr ""
@@ -5087,33 +5139,33 @@ msgid "TAG_ZORCHPACK"
 msgstr ""
 
 msgid "TAG_CBLUEKEY"
-msgstr ""
+msgstr "蓝钥匙"
 
 msgid "TAG_CYELLOWKEY"
-msgstr ""
+msgstr "黄钥匙"
 
 msgid "TAG_CREDKEY"
-msgstr ""
+msgstr "红钥匙"
 
 # Option to make the view weapon sprites be lit exactly as the sector's
 # brightness. Without this option, weapon sprites are generally brighter
 # compared to the sector's brightness
 msgid "GLPREFMNU_WPNPURELIGHT"
-msgstr ""
+msgstr "使武器与扇区光照亮度保持一致"
 
 # Mark the player as ready to advance during the intermission in multiplayer
 # games
 msgid "NET_CONTINUE_MKB"
-msgstr ""
+msgstr "请按下空格或鼠标左键以准备"
 
 msgid "NET_CONTINUE_CONTROLLER"
-msgstr ""
+msgstr "请按下A键以准备"
 
 msgid "NET_CONTINUE_JOYSTICK"
-msgstr ""
+msgstr "请按下Joy 1键以准备"
 
 msgid "GMPLYMNU_REMEMBERWEAP"
-msgstr ""
+msgstr "重生后自动选择先前选择的武器"
 
 msgid "CNTRLMNU_COOPSPYPREV"
 msgstr ""
