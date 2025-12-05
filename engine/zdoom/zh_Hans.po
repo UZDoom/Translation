@@ -3,315 +3,286 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "PO-Revision-Date: 2025-12-04 01:00+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Indonesian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
-"engine-strings/id/>\n"
-"Language: id\n"
+"Last-Translator: Hugo Huang <SushiNinja123@outlook.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
+"projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 5.15-dev\n"
+"HeaderCode: default\n"
 
 msgid "PRESSKEY"
-msgstr "Tekan tombol apapun."
+msgstr "请按下任意按键以继续。"
 
 msgid "SECRETMESSAGE"
-msgstr "Sebuah rahasia terungkap!"
+msgstr "你发现了一个秘密！"
 
 msgid "D_DEVSTR"
-msgstr "Mode useless NYALA\n"
+msgstr "Useless模式启动。\n"
 
 msgid "QUITMSG"
 msgstr ""
-"Anda yakin untuk\n"
-"keluar dari game hebat ini?"
+"你确定要退出这\n"
+"精彩的游戏吗？"
 
 # In some languages, it may make more sense to translate “Press a key” as
 # “Press any key.”
 msgid "LOADNET"
 msgstr ""
-"Anda tidak bisa ngeload saat berada di net game!\n"
+"在进行网络游戏时无法进行读取！\n"
 "\n"
-"Tekan tombol apapun."
+"请按下任意按键以继续。"
 
 msgid "QLOADNET"
 msgstr ""
-"Anda tidak bisa quickload saat netgame!\n"
+"在进行网络游戏时无法进行快速读取！\n"
 "\n"
-"Tekan tombol apapun."
+"请按下任意按键以继续。"
 
 msgid "QSAVESPOT"
 msgstr ""
-"Anda belum memilih slot quicksave!\n"
+"你还没选择快速保存的槽位咧！\n"
 "\n"
-"Tekan tombol apapun."
+"请按下任意按键以继续。"
 
 msgid "NEWGAME"
 msgstr ""
-"Anda tidak bisa memulai game baru\n"
-"saat berada di game network.\n"
+"在进行网络游戏时\n"
+"无法开启新游戏。\n"
 "\n"
-"Tekan tombol apapun."
+"请按下任意按键以继续。"
 
 msgid "NIGHTMARE"
 msgstr ""
-"Anda yakin? Level skill ini\n"
-"sama sekali tidak adil loh.\n"
+"你真的确定吗？这个难度等级\n"
+"是一点也不公平的哟。\n"
 "\n"
-"Tekan Y atau N."
+"请按下Y或N。"
 
 msgid "SWSTRING"
 msgstr ""
-"Ini adalah Doom versi shareware.\n"
+"这是毁灭战士的shareware试玩版本。\n"
 "\n"
-"Anda butuh memesan seluruh trilogi.\n"
+"你需要购买完整的三部曲。\n"
 "\n"
-"Tekan tombol apapun."
+"请按下任意按键以继续。"
 
 msgid "NETEND"
 msgstr ""
-"Anda tidak bisa mengakhiri netgame!\n"
+"你无法结束一局网络游戏！\n"
 "\n"
-"Tekan tombol apapun."
+"请按下任意按键以继续。"
 
 msgid "ENDGAME"
 msgstr ""
-"Anda yakin untuk mengakhiri game?\n"
+"你真的确定要结束游戏吗？\n"
 "\n"
-"Tekan Y atau N."
+"请按下Y或N。"
 
 msgid "RAVENQUITMSG"
-msgstr "Anda yakin ingin keluar?"
+msgstr "你真的确定要退出吗？"
 
 msgctxt "heretic"
 msgid "SWSTRING"
-msgstr "Hanya tersedia di versi registered"
+msgstr "仅在已激活的游戏版本提供"
 
 msgid "DOSY"
-msgstr "(Tekan Y untuk keluar)"
+msgstr "（按下Y键退出）"
 
 msgid "QUITMSG1"
 msgstr ""
-"Tolong jangan pergi dulu, masih ada\n"
-"setan yang musti dipanggang!"
+"别走嘛，还有好多恶魔\n"
+"等着你来干掉咧！"
 
 msgid "QUITMSG2"
 msgstr ""
-"Udahlah -- ini malah\n"
-"jadi tumpah darah nih!"
+"快撤吧 — 离开\n"
+"这场血雨腥风！"
 
 msgid "QUITMSG3"
 msgstr ""
-"Aku tidak kan pergi jika menjadi kamu.\n"
-"DOS lebih parah lagi."
+"要换成我，可不会选择退出。\n"
+"DOS比这糟多啦。"
 
 msgid "QUITMSG4"
 msgstr ""
-"Kau mau bilang bahwa kau menyukai DOS\n"
-"lebih daripadaku, ya kan?"
+"你想说你比起我，\n"
+"更爱DOS是吗？"
 
 msgid "QUITMSG5"
 msgstr ""
-"Jangan pergi dulu -- ada\n"
-"setan disekitar pojok itu!"
+"先别急着走 — 转角\n"
+"那儿还有只恶魔咧！"
 
 msgid "QUITMSG6"
 msgstr ""
-"Kau tau, lain kali kau balik lagi sini\n"
-"bakal kuhajar kau."
+"你给我等着，下次你进来的时候\n"
+"就把你干碎。"
 
 msgid "QUITMSG7"
-msgstr "Ayo silahkan dan pergi. lihat kalau aku emang peduli."
+msgstr "哼，那你就走吧。好像我会在乎似的。"
 
 # More info here.
 msgid "QUITMSG8"
 msgstr ""
-"Anda ingin keluar?\n"
-"Maka, Anda kalah telak!"
+"想退出了？\n"
+"那便与八大美德之一失之交臂吧！"
 
 # A “dimensional shambler” is a creature appearing in the works of H. P.
 # Lovecraft.
 msgid "QUITMSG9"
 msgstr ""
-"Jangan pergi dulu, ada\n"
-"dimensional shambler menunggu\n"
-"di DOS prompt mu!"
+"别现在就走，\n"
+"有只空鬼正在\n"
+"DOS里等着你！"
 
 msgid "QUITMSG10"
 msgstr ""
-"Keluarlah dari sini dan kembali\n"
-"ke program membosankanmu."
+"从这里滚出去，回到你\n"
+"那些无聊的程序里去吧。"
 
 msgid "QUITMSG11"
 msgstr ""
-"Kalau aku bosmu, akan ku\n"
-"deathmatch kau sebentar lagi!"
+"如果我是你的boss\n"
+"现在就给你关死斗里面！"
 
 msgid "QUITMSG12"
 msgstr ""
-"Nih, sob. kau pergi sekarang\n"
-"dan kau meninggalkan body countmu!"
 
 msgid "QUITMSG13"
 msgstr ""
-"Pergilah. pas kau balik\n"
-"lagi, ku tunggu kau dengan tongkat."
 
 msgid "QUITMSG14"
 msgstr ""
-"Beruntung kau aku takkan\n"
-"memukulmu karena berpikir untuk pergi."
 
 msgid "QUITMSG15"
 msgstr ""
-"Mau kemana kau?!\n"
-"Bagaimana dengan rebellion?"
 
 msgid "QUITMSG16"
 msgstr ""
-"Bantaian Terhenti...\n"
-"Sangat menyebalkan!"
 
 msgid "QUITMSG17"
 msgstr ""
-"Tapi engkaulah harapan itu\n"
-"-- satu2nya kesempatanku!!"
 
 msgid "QUITMSG18"
-msgstr "Tiada yang keluar di Blackbird."
+msgstr ""
 
 msgid "QUITMSG19"
-msgstr "Kukira kau berbeda..."
+msgstr ""
 
 msgid "QUITMSG20"
-msgstr "Okeh! bunuhlah lalu lari!"
+msgstr ""
 
 msgid "QUITMSG21"
 msgstr ""
-"Anda bisa keluar...\n"
-"tapi tidak bisa sembunyi..."
 
 msgid "QUITMSG22"
 msgstr ""
-"Waaa, emangnya kenapa?\n"
-"Mak mu bilang waktunya makan?"
 
 msgid "QUITMSG23"
 msgstr ""
-"Jangan keluar dulu, masih ada\n"
-"para flemoid berkeliaran!"
 
 msgid "QUITMSG24"
 msgstr ""
-"Jangan menyerah -- para flemoid akan\n"
-"menang kalau begitu!"
 
 msgid "QUITMSG25"
 msgstr ""
-"Jangan pergi dulu.\n"
-"Kami butuh bantuanmu!"
 
 msgid "QUITMSG26"
 msgstr ""
-"Kuharap kau cuman ingin\n"
-"pesta sarapan Chex(R)."
 
 msgid "QUITMSG27"
 msgstr ""
-"Jangan keluar dulu!\n"
-"Kami butuh bantuanmu!"
 
 msgid "QUITMSG28"
 msgstr ""
-"Jangan tinggalkan\n"
-"Federasi Sereal Intergalaktik!"
 
 msgid "QUITMSG29"
 msgstr ""
-"Ksatria Chex(R) sejati\n"
-"takkan menyerah gitu saja!"
 
 msgid "TXT_DEFAULTPICKUPMSG"
-msgstr "Anda dapat item"
+msgstr ""
 
 msgid "PD_ANY"
-msgstr "Kunci apapun dapat membuka pintu ini"
+msgstr ""
 
 msgid "PD_ANYOBJ"
-msgstr "Kunci apapun dapat mengaktifkan objek ini"
+msgstr ""
 
 msgid "PD_ALL3"
-msgstr "Anda butuh semua tiga kunci untuk membuka pintu ini"
+msgstr ""
 
 msgid "PD_ALL3O"
-msgstr "Anda butuh semua tiga kunci untuk mengaktifkan objek ini"
+msgstr ""
 
 msgid "PD_ALL6"
-msgstr "Anda butuh semua enam kunci untuk membuka pintu ini"
+msgstr ""
 
 msgid "PD_ALL6O"
-msgstr "Anda butuh semua enam kunci untuk mengaktifkan objek ini"
+msgstr ""
 
 msgid "PD_ALLKEYS"
-msgstr "Anda butuh semua kunci"
+msgstr ""
 
 msgid "HUSTR_MSGU"
-msgstr "[Pesan belum terkirim]"
+msgstr ""
 
 msgid "HUSTR_TALKTOSELF1"
-msgstr "Anda bergumam sendiri"
+msgstr ""
 
 msgid "HUSTR_TALKTOSELF2"
-msgstr "Siapa disitu?"
+msgstr ""
 
 msgid "HUSTR_TALKTOSELF3"
-msgstr "Anda menakuti diri sendiri"
+msgstr ""
 
 msgid "HUSTR_TALKTOSELF4"
-msgstr "Anda mulai berdansa"
+msgstr ""
 
 msgid "HUSTR_TALKTOSELF5"
-msgstr "Anda khawatir sendiri..."
+msgstr ""
 
 msgid "HUSTR_MESSAGESENT"
-msgstr "[Pesan terkirim]"
+msgstr ""
 
 msgid "STSTR_MUS"
-msgstr "Ganti Musik"
+msgstr ""
 
 msgid "STSTR_NOMUS"
-msgstr "Pilihan Mustahil"
+msgstr ""
 
 msgid "STSTR_DQDON"
-msgstr "Mode Degreelessness NYALA"
+msgstr ""
 
 msgid "STSTR_DQDOFF"
-msgstr "Mode Degreelessness MATI"
+msgstr ""
 
 msgid "STSTR_DQD2ON"
-msgstr "Mode Ultimate Defreelessness NYALA"
+msgstr ""
 
 msgid "STSTR_DQD2OFF"
-msgstr "Mode Ultimate Degreelessness MATI"
+msgstr ""
 
 msgid "STSTR_KFAADDED"
-msgstr "Amunisi Kesenangan Ditambahkan"
+msgstr ""
 
 msgid "STSTR_FAADDED"
-msgstr "Amunisi (tanpa kunci) Ditambahkan"
+msgstr ""
 
 msgid "STSTR_NCON"
-msgstr "Mode No Clipping NYALA"
+msgstr ""
 
 msgid "STSTR_NCOFF"
-msgstr "Mode No Clipping MATI"
+msgstr ""
 
 msgid "STSTR_NC2ON"
-msgstr "Mode No Clipping 2 NYALA"
+msgstr ""
 
 msgid "STSTR_NC2OFF"
-msgstr "Mode No Clipping 2 MATI"
+msgstr ""
 
 # “inVuln”: Invulnerability sphere
 # “Str”: Berserk
@@ -320,7 +291,7 @@ msgstr "Mode No Clipping 2 MATI"
 # “Allmap”: Computer area map
 # “Lite-amp”: Light-amplification visor
 msgid "STSTR_BEHOLD"
-msgstr "inVuln, Str, Inviso, Rad, Allmap, atau Lite-amp"
+msgstr ""
 
 msgid "STSTR_BEHOLDX"
 msgstr ""
@@ -328,182 +299,181 @@ msgstr ""
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
 msgid "STSTR_CHOPPERS"
-msgstr "... tidak payah - GM"
+msgstr ""
 
 msgid "STSTR_CLEV"
-msgstr "Mengganti Level..."
+msgstr ""
 
 msgid "TXT_BUDDHAON"
-msgstr "Mode Buddha NYALA"
+msgstr ""
 
 msgid "TXT_BUDDHAOFF"
-msgstr "Mode Buddha MATI"
+msgstr ""
 
 msgid "TXT_BUDDHA2ON"
-msgstr "Mode Buddha Ultimate NYALA"
+msgstr ""
 
 msgid "TXT_BUDDHA2OFF"
-msgstr "Mode Buddha Ultimate MATI"
+msgstr ""
 
 msgid "TXT_CHEATPOWERON"
-msgstr "Menyala"
+msgstr ""
 
 msgid "TXT_CHEATPOWEROFF"
-msgstr "Matikan"
+msgstr ""
 
 msgid "TXT_CHEATHEALTH"
-msgstr "Health penuh"
+msgstr ""
 
 msgid "TXT_CHEATKEYS"
-msgstr "Semua kunci"
+msgstr ""
 
 msgid "TXT_CHEATSOUNDON"
-msgstr "Debug sound nyala"
+msgstr ""
 
 msgid "TXT_CHEATSOUNDOFF"
-msgstr "Debug sound mati"
+msgstr ""
 
 msgid "TXT_CHEATIDDQD"
-msgstr "Mencoba curang, heh? Matilah engkau!"
+msgstr ""
 
 msgid "TXT_CHEATIDKFA"
-msgstr "Kau curang - tidak pantas memiliki senjata"
+msgstr ""
 
 msgid "TXT_CHEATTICKERON"
-msgstr "Ticker nyala"
+msgstr ""
 
 msgid "TXT_CHEATTICKEROFF"
-msgstr "Ticker mati"
+msgstr ""
 
 msgid "TXT_CHEATARTIFACTS3"
-msgstr "Kau mendapatkannya"
+msgstr ""
 
 msgid "TXT_MIDASTOUCH"
-msgstr "Kau dapat Sentuhan Midas, sayang"
+msgstr ""
 
 msgid "TXT_GOTSTUFF"
-msgstr "Dapat barang!"
+msgstr ""
 
 msgid "TXT_FREEZEON"
-msgstr "Mode Freeze nyala"
+msgstr ""
 
 msgid "TXT_FREEZEOFF"
-msgstr "Mode Freeze mati"
+msgstr ""
 
 msgid "TXT_STRANGE"
-msgstr "Kau merasa aneh..."
+msgstr ""
 
 msgid "TXT_STRANGER"
-msgstr "Kau merasa lebih aneh."
+msgstr ""
 
 msgid "TXT_NOTSTRANGE"
-msgstr "Kau merasa tidak aneh lagi."
+msgstr ""
 
 msgid "TXT_LEADBOOTSON"
-msgstr "Sepatu timbal nyala"
+msgstr ""
 
 msgid "TXT_LEADBOOTSOFF"
-msgstr "Sepatu timbal mati"
+msgstr ""
 
 msgid "TXT_LIGHTER"
-msgstr "Kau merasa ringan"
+msgstr ""
 
 msgid "TXT_GRAVITY"
-msgstr "Gravitasi menurunkanmu"
+msgstr ""
 
 msgid "TXT_NOTARGET_ON"
-msgstr "No Target NYALA"
+msgstr ""
 
 msgid "TXT_NOTARGET_OFF"
-msgstr "No Target MATI"
+msgstr ""
 
 msgid "TXT_ANUBIS_ON"
-msgstr "\"Meraung dengan ketakutan!\""
+msgstr ""
 
 msgid "TXT_ANUBIS_OFF"
-msgstr "Tiada Ogre Armor lagi"
+msgstr ""
 
 msgid "TXT_CHASECAM_ON"
-msgstr "chasecam NYALA"
+msgstr ""
 
 msgid "TXT_CHASECAM_OFF"
-msgstr "chasecam MATI"
+msgstr ""
 
 msgid "TXT_BADDIE_KILLED"
-msgstr "1 penjahat terbunuh"
+msgstr ""
 
 msgid "TXT_BADDIES_KILLED"
-msgstr "%d para penjahat terbunuh"
+msgstr ""
 
 msgid "TXT_MONSTER_KILLED"
-msgstr "1 monster terbunuh"
+msgstr ""
 
 msgid "TXT_MONSTERS_KILLED"
-msgstr "%d monster terbunuh"
+msgstr ""
 
 msgid "TXT_NO_RESURRECT"
 msgstr ""
-"Tidak dapat resurrect. Player sudah tidak terhubung dengan tubuhnya lagi."
 
 msgid "TXT_ALL_ARTIFACTS"
-msgstr "Semua Artefak!"
+msgstr ""
 
 msgid "TXT_WHAT_KILL"
-msgstr "Mau bunuh apa diluar game?"
+msgstr ""
 
 msgid "TXT_NOT_FROZEN"
-msgstr "Properti player Frozen dimatikan"
+msgstr ""
 
 msgid "AMSTR_FOLLOWOFF"
-msgstr "Mode Follow MATI"
+msgstr ""
 
 msgid "AMSTR_FOLLOWON"
-msgstr "Mode Follow NYALA"
+msgstr ""
 
 msgid "AMSTR_GRIDON"
-msgstr "Grid NYALA"
+msgstr ""
 
 msgid "AMSTR_GRIDOFF"
-msgstr "Grid MATI"
+msgstr ""
 
 msgid "AMSTR_TEXON"
-msgstr "Mode Texture NYALA"
+msgstr ""
 
 msgid "AMSTR_TEXOFF"
-msgstr "Mode Texture MATI"
+msgstr ""
 
 msgid "AMSTR_MARKEDSPOT"
-msgstr "Spot Ditandai"
+msgstr ""
 
 msgid "AMSTR_MARKSCLEARED"
-msgstr "Semua Tanda Dihapus"
+msgstr ""
 
 msgid "TXT_FRAGLIMIT"
-msgstr "kena Fraglimit."
+msgstr ""
 
 msgid "TXT_TIMELIMIT"
-msgstr "kena Timelimit."
+msgstr ""
 
 msgid "SPREEKILLSELF"
-msgstr "%o terlihat keren sampai %g bunuh diri!"
+msgstr ""
 
 msgid "SPREEOVER"
-msgstr "killing spreenya %o diakhiri oleh %k"
+msgstr ""
 
 msgid "SPREE5"
-msgstr "%k sedang killing spree!"
+msgstr ""
 
 msgid "SPREE10"
-msgstr "%k sedang rampage!"
+msgstr ""
 
 msgid "SPREE15"
-msgstr "%k mendominasi!"
+msgstr ""
 
 msgid "SPREE20"
-msgstr "%k tak dapat dihentikan!"
+msgstr ""
 
 msgid "SPREE25"
-msgstr "%k dewa!"
+msgstr ""
 
 msgid "MULTI2"
 msgstr ""
@@ -521,13 +491,13 @@ msgid "SCORE_BONUS"
 msgstr ""
 
 msgid "SCORE_COLOR"
-msgstr "Warna"
+msgstr ""
 
 msgid "SCORE_SECRET"
-msgstr "Rahasia"
+msgstr ""
 
 msgid "SCORE_NAME"
-msgstr "Nama"
+msgstr ""
 
 msgid "SCORE_DELAY"
 msgstr ""
@@ -536,159 +506,159 @@ msgid "SCORE_FRAGS"
 msgstr ""
 
 msgid "SCORE_DEATHS"
-msgstr "Kematian"
+msgstr ""
 
 msgid "SCORE_OTHER"
-msgstr "Lainnya"
+msgstr ""
 
 msgid "SCORE_MISSED"
-msgstr "Meleset"
+msgstr ""
 
 msgid "SCORE_TOTAL"
 msgstr ""
 
 msgid "SCORE_LVLTIME"
-msgstr "Waktu Level"
+msgstr ""
 
 msgid "TXT_IMKILLS"
-msgstr "Bunuh"
+msgstr ""
 
 msgid "TXT_IMITEMS"
-msgstr "Item"
+msgstr ""
 
 msgid "TXT_IMSECRETS"
-msgstr "Rahasia"
+msgstr ""
 
 msgid "TXT_IMTIME"
-msgstr "Waktu"
+msgstr ""
 
 msgid "TXT_IMPAR"
 msgstr ""
 
 msgid "WI_FINISHED"
-msgstr "Selesai"
+msgstr ""
 
 msgid "WI_ENTERING"
-msgstr "Memasuki"
+msgstr ""
 
 msgctxt "heretic hexen"
 msgid "WI_ENTERING"
-msgstr "Memasuki:"
+msgstr ""
 
 msgid "AM_MONSTERS"
-msgstr "Monster:"
+msgstr ""
 
 msgid "AM_SECRETS"
-msgstr "Rahasia:"
+msgstr ""
 
 msgid "AM_ITEMS"
-msgstr "Item:"
+msgstr ""
 
 msgid "OB_SUICIDE"
-msgstr "%o bunuh diri."
+msgstr ""
 
 msgid "OB_FALLING"
-msgstr "%o jatuh dari ketinggian."
+msgstr ""
 
 msgid "OB_CRUSH"
-msgstr "%o remuk."
+msgstr ""
 
 msgid "OB_EXIT"
-msgstr "%o mencoba kabur."
+msgstr ""
 
 msgid "OB_WATER"
-msgstr "%o tidak bisa berenang."
+msgstr ""
 
 msgid "OB_SLIME"
-msgstr "%o bermutasi."
+msgstr ""
 
 msgid "OB_LAVA"
-msgstr "%o meleleh."
+msgstr ""
 
 msgid "OB_BARREL"
-msgstr "%o kena duar."
+msgstr ""
 
 msgid "OB_SPLASH"
-msgstr "%o berdiri ditempat yang salah."
+msgstr ""
 
 msgid "OB_R_SPLASH"
-msgstr "%o harusnya mundur."
+msgstr ""
 
 msgid "OB_ROCKET"
-msgstr "%o harusnya mundur."
+msgstr ""
 
 msgid "OB_KILLEDSELF"
-msgstr "%o bunuh diri %h sendiri."
+msgstr ""
 
 msgid "OB_VOODOO"
-msgstr "%o dibunuh oleh kekuatan voodoo."
+msgstr ""
 
 msgid "OB_MPTELEFRAG"
-msgstr "%o kena telefragnya %k."
+msgstr ""
 
 msgid "OB_MONTELEFRAG"
-msgstr "%o kena telefrag."
+msgstr ""
 
 msgid "OB_DEFAULT"
-msgstr "%o mati."
+msgstr ""
 
 msgid "OB_MPDEFAULT"
-msgstr "%o dibunuh oleh %k."
+msgstr ""
 
 msgid "OB_FRIENDLY1"
-msgstr "%k membunuh teammatenya sendiri."
+msgstr ""
 
 # English was changed to remove problematic pronoun referencing the killer
 msgid "OB_FRIENDLY2"
-msgstr "%k sepertinya butuh kacamata."
+msgstr ""
 
 msgid "OB_FRIENDLY3"
-msgstr "%k ngefrag buat tim yang lain."
+msgstr ""
 
 msgid "OB_FRIENDLY4"
-msgstr "%k kehilangan teman lagi."
+msgstr ""
 
 msgid "GOTARMOR"
-msgstr "Dapat armor."
+msgstr ""
 
 msgid "GOTMEGA"
-msgstr "Dapat MegaArmor!"
+msgstr ""
 
 msgid "GOTHTHBONUS"
-msgstr "Dapat bonus health."
+msgstr ""
 
 msgid "GOTARMBONUS"
-msgstr "Dapat bonus armor."
+msgstr ""
 
 msgid "GOTSTIM"
-msgstr "Dapat stimpack."
+msgstr ""
 
 msgid "GOTMEDINEED"
-msgstr "Dapat medikit yang SANGAT dibutuhkan!"
+msgstr ""
 
 msgid "GOTMEDIKIT"
-msgstr "Dapat medikit."
+msgstr ""
 
 msgid "GOTSUPER"
 msgstr ""
 
 msgid "GOTBLUECARD"
-msgstr "Dapat keycard biru."
+msgstr ""
 
 msgid "GOTYELWCARD"
-msgstr "Dapat keycard kuning."
+msgstr ""
 
 msgid "GOTREDCARD"
-msgstr "Dapat keycard merah."
+msgstr ""
 
 msgid "GOTBLUESKUL"
-msgstr "Dapat kunci tengkorak biru."
+msgstr ""
 
 msgid "GOTYELWSKUL"
-msgstr "Dapat kunci tengkorak kuning."
+msgstr ""
 
 msgid "GOTREDSKUL"
-msgstr "Dapat kunci tengkorak merah."
+msgstr ""
 
 msgid "GOTINVUL"
 msgstr ""
@@ -697,136 +667,136 @@ msgid "GOTBERSERK"
 msgstr ""
 
 msgid "GOTINVIS"
-msgstr "Invisibility Sebagian"
+msgstr ""
 
 msgid "GOTSUIT"
-msgstr "Jaket Pelindung Radiasi"
+msgstr ""
 
 msgid "GOTMAP"
-msgstr "Komputer Peta Area"
+msgstr ""
 
 msgid "GOTVISOR"
-msgstr "Kacamata Bantu Cahaya"
+msgstr ""
 
 msgid "GOTMSPHERE"
 msgstr ""
 
 msgid "GOTCLIP"
-msgstr "Dapat klip."
+msgstr ""
 
 msgid "GOTCLIPBOX"
-msgstr "Dapat sekotak peluru."
+msgstr ""
 
 msgid "GOTROCKET"
-msgstr "Dapat roket."
+msgstr ""
 
 msgid "GOTROCKBOX"
-msgstr "Dapat sekotak roket."
+msgstr ""
 
 msgid "GOTCELL"
-msgstr "Dapat sel energi."
+msgstr ""
 
 msgid "GOTCELLBOX"
-msgstr "Dapat sekotak sel energi."
+msgstr ""
 
 msgid "GOTSHELLS"
-msgstr "Dapat 4 selongsong shotgun."
+msgstr ""
 
 msgid "GOTSHELLBOX"
-msgstr "Dapat sekotak selongsong shotgun."
+msgstr ""
 
 msgid "GOTBACKPACK"
-msgstr "Dapat tas berisi amunisi!"
+msgstr ""
 
 msgid "GOTBFG9000"
-msgstr "Dapat BFG9000! Oh, ya."
+msgstr ""
 
 msgid "GOTCHAINGUN"
-msgstr "Dapat chaingun!"
+msgstr ""
 
 msgid "GOTCHAINSAW"
-msgstr "Sebuah gergaji mesin! Cari daging sana!"
+msgstr ""
 
 msgid "GOTLAUNCHER"
-msgstr "Dapat peluncur roket!"
+msgstr ""
 
 msgid "GOTPLASMA"
-msgstr "Dapat senapan plasma!"
+msgstr ""
 
 msgid "GOTSHOTGUN"
-msgstr "Dapat shotgun!"
+msgstr ""
 
 msgid "GOTSHOTGUN2"
-msgstr "Dapat super shotgun!"
+msgstr ""
 
 msgid "PICKUP_PISTOL_DROPPED"
-msgstr "Dapat pistol."
+msgstr ""
 
 msgid "BETA_BONUS1"
-msgstr "Dapat pisau neraka."
+msgstr ""
 
 msgid "BETA_BONUS2"
-msgstr "Dapat peti tengkorak."
+msgstr ""
 
 msgid "BETA_BONUS3"
-msgstr "Dapat tongkat sihir."
+msgstr ""
 
 msgid "BETA_BONUS4"
-msgstr "Dapat kitab neraka."
+msgstr ""
 
 msgid "PD_BLUEO"
-msgstr "Anda butuh kunci biru untuk mengaktifkan objek ini"
+msgstr ""
 
 msgid "PD_REDO"
-msgstr "Anda butuh kunci merah untuk mengaktifkan objek ini"
+msgstr ""
 
 msgid "PD_YELLOWO"
-msgstr "Anda butuh kunci kuning untuk mengaktifkan objek ini"
+msgstr ""
 
 msgid "PD_BLUEK"
-msgstr "Anda butuh kunci biru untuk membuka pintu ini"
+msgstr ""
 
 msgid "PD_REDK"
-msgstr "Anda butuh kunci merah untuk membuka pintu ini"
+msgstr ""
 
 msgid "PD_YELLOWK"
-msgstr "Anda butuh kunci kuning untuk membuka pintu ini"
+msgstr ""
 
 msgid "PD_BLUECO"
-msgstr "Anda butuh kartu biru untuk mengaktifkan objek ini"
+msgstr ""
 
 msgid "PD_REDCO"
-msgstr "Anda butuh kartu merah untuk mengaktifkan objek ini"
+msgstr ""
 
 msgid "PD_YELLOWCO"
-msgstr "Anda butuh kartu kuning untuk mengaktifkan objek ini"
+msgstr ""
 
 msgid "PD_BLUESO"
-msgstr "Anda butuh tengkorak biru untuk mengaktifkan objek ini"
+msgstr ""
 
 msgid "PD_REDSO"
-msgstr "Anda butuh tengkorak merah untuk mengaktifka objek ini"
+msgstr ""
 
 msgid "PD_YELLOWSO"
-msgstr "Anda butuh tengkorak kuning untuk mengaktifkan objek ini"
+msgstr ""
 
 msgid "PD_BLUEC"
-msgstr "Anda butuh kartu biru untuk membuka pintu ini"
+msgstr ""
 
 msgid "PD_REDC"
-msgstr "Anda butuh kartu merah untuk membuka pintu ini"
+msgstr ""
 
 msgid "PD_YELLOWC"
-msgstr "Anda butuh kartu kuning untuk membuka pintu ini"
+msgstr ""
 
 msgid "PD_BLUES"
-msgstr "Anda butuh tengkorak biru untuk membuka pintu ini"
+msgstr ""
 
 msgid "PD_REDS"
-msgstr "Anda butuh tengkorak merah untuk membuka pintu ini"
+msgstr ""
 
 msgid "PD_YELLOWS"
-msgstr "Anda butuh tengkorak kuning untuk membuka pintu ini"
+msgstr ""
 
 msgid "CC_ZOMBIE"
 msgstr ""
@@ -879,7 +849,7 @@ msgid "CC_CYBER"
 msgstr ""
 
 msgid "CC_HERO"
-msgstr "Pahlawan Kita"
+msgstr ""
 
 msgid "FN_SHOTGUN"
 msgstr ""
@@ -906,7 +876,7 @@ msgid "TAG_FIST"
 msgstr ""
 
 msgid "TAG_CHAINSAW"
-msgstr "Gergaji Mesin"
+msgstr ""
 
 msgid "TAG_PISTOL"
 msgstr ""
@@ -921,187 +891,187 @@ msgid "TAG_CHAINGUN"
 msgstr ""
 
 msgid "TAG_ROCKETLAUNCHER"
-msgstr "Peluncur Roket"
+msgstr ""
 
 msgid "TAG_PLASMARIFLE"
-msgstr "Senapan Plasma"
+msgstr ""
 
 msgid "TAG_BFG9000"
 msgstr ""
 
 msgid "AMMO_CLIP"
-msgstr "Peluru"
+msgstr ""
 
 msgid "AMMO_SHELLS"
-msgstr "Selongsong Shotgun"
+msgstr ""
 
 msgid "AMMO_ROCKETS"
-msgstr "Roket"
+msgstr ""
 
 msgid "AMMO_CELLS"
-msgstr "Sel Energi"
+msgstr ""
 
 msgid "OB_STEALTHBABY"
-msgstr "%o mengira %g melihat arachnotron."
+msgstr ""
 
 msgid "OB_STEALTHVILE"
-msgstr "%o mengira %g melihat archvile."
+msgstr ""
 
 msgid "OB_STEALTHBARON"
-msgstr "%o mengira %g melihat Baron of Hell."
+msgstr ""
 
 msgid "OB_STEALTHCACO"
-msgstr "%o mengira %g melihat cacodemon."
+msgstr ""
 
 msgid "OB_STEALTHCHAINGUY"
-msgstr "%o mengira %g melihat chaingunner."
+msgstr ""
 
 msgid "OB_STEALTHDEMON"
-msgstr "%o mengira %g melihat demon."
+msgstr ""
 
 msgid "OB_STEALTHKNIGHT"
-msgstr "%o mengira %g melihat Hell Knight."
+msgstr ""
 
 msgid "OB_STEALTHIMP"
-msgstr "%o mengira %g melihat imp."
+msgstr ""
 
 msgid "OB_STEALTHFATSO"
-msgstr "%o mengira %g melihat mancubus."
+msgstr ""
 
 msgid "OB_STEALTHUNDEAD"
-msgstr "%o mengira %g melihat revenant."
+msgstr ""
 
 msgid "OB_STEALTHSHOTGUNGUY"
-msgstr "%o mengira %g melihat sergeant."
+msgstr ""
 
 msgid "OB_STEALTHZOMBIE"
-msgstr "%o mengira %g melihat zombieman."
+msgstr ""
 
 msgid "OB_UNDEADHIT"
-msgstr "%o ditonjok oleh revenant."
+msgstr ""
 
 msgid "OB_IMPHIT"
-msgstr "%o telah diiris oleh imp."
+msgstr ""
 
 msgid "OB_CACOHIT"
-msgstr "%o terlalu dekat dengan cacodemon."
+msgstr ""
 
 msgid "OB_DEMONHIT"
-msgstr "%o dilahap oleh demon."
+msgstr ""
 
 msgid "OB_SPECTREHIT"
-msgstr "%o dilahap oleh spectre."
+msgstr ""
 
 msgid "OB_BARONHIT"
-msgstr "%o dirobek dua oleh Baron of Hell."
+msgstr ""
 
 msgid "OB_KNIGHTHIT"
-msgstr "%o dibongkar oleh Hell Knight."
+msgstr ""
 
 msgid "OB_ZOMBIE"
-msgstr "%o dibunuh zombieman."
+msgstr ""
 
 msgid "OB_SHOTGUY"
-msgstr "%o ditembak oleh sergeant."
+msgstr ""
 
 msgid "OB_VILE"
-msgstr "%o dibakar gosong oleh archvile."
+msgstr ""
 
 msgid "OB_UNDEAD"
-msgstr "%o tidak dapat menghindari bola api si revenant."
+msgstr ""
 
 msgid "OB_FATSO"
-msgstr "%o diremukan mancubus."
+msgstr ""
 
 msgid "OB_CHAINGUY"
-msgstr "%o dibolongi chaingunner."
+msgstr ""
 
 msgid "OB_SKULL"
-msgstr "%o ditakut2i oleh lost soul."
+msgstr ""
 
 msgid "OB_IMP"
-msgstr "%o dipanggang oleh imp."
+msgstr ""
 
 msgid "OB_CACO"
-msgstr "%o dihajar cacodemon."
+msgstr ""
 
 msgid "OB_BARON"
-msgstr "%o kena bonyok oleh Baron of Hell."
+msgstr ""
 
 msgid "OB_KNIGHT"
-msgstr "%o kena jotos oleh Hell Knight."
+msgstr ""
 
 msgid "OB_SPIDER"
-msgstr "%o terganga heran dengan spider demon."
+msgstr ""
 
 msgid "OB_BABY"
-msgstr "%o membiarkan arachnotron membolongi dirinya."
+msgstr ""
 
 msgid "OB_CYBORG"
-msgstr "%o kena bonyok roketnya cyberdemon."
+msgstr ""
 
 msgid "OB_WOLFSS"
-msgstr "%o bertemu seorang Nazi."
+msgstr ""
 
 msgid "OB_DOG"
-msgstr "%o dicabik2 oleh seekor anjing."
+msgstr ""
 
 msgid "OB_MPFIST"
-msgstr "%o berusaha mengigit tinjunya %k."
+msgstr ""
 
 msgid "OB_MPCHAINSAW"
-msgstr "%o terbelah oleh gergaji mesinnya %k."
+msgstr ""
 
 msgid "OB_MPPISTOL"
-msgstr "%o terkelitik pea shooternya %k."
+msgstr ""
 
 msgid "OB_MPSHOTGUN"
-msgstr "%o dibolongi shotgunnya %k."
+msgstr ""
 
 msgid "OB_MPSSHOTGUN"
-msgstr "%o pecah berkeping2 super shotgunnya %k."
+msgstr ""
 
 msgid "OB_MPCHAINGUN"
-msgstr "%o dibolongi chaingunnya %k."
+msgstr ""
 
 msgid "OB_MPROCKET"
-msgstr "%o menaiki roketnya %k."
+msgstr ""
 
 msgid "OB_MPR_SPLASH"
-msgstr "%o hampir menghindari roketnya %k."
+msgstr ""
 
 msgid "OB_MPPLASMARIFLE"
-msgstr "%o dileburkan plasma gunnya %k."
+msgstr ""
 
 msgid "OB_MPBFG_BOOM"
-msgstr "%o meleleh berkeping2 BGFnya %k."
+msgstr ""
 
 msgid "OB_MPBFG_SPLASH"
-msgstr "%o tak dapat sembunyi dari BFGnya %k."
+msgstr ""
 
 msgid "OB_RAILGUN"
-msgstr "%o melebur oleh railgunnya %k."
+msgstr ""
 
 msgid "OB_MPBFG_MBF"
-msgstr "%o terpanggang oleh BFGnya %k."
+msgstr ""
 
 msgid "TXT_GOTBLUEKEY"
-msgstr "Kunci Biru"
+msgstr ""
 
 msgid "TXT_GOTYELLOWKEY"
-msgstr "Kunci Kuning"
+msgstr ""
 
 msgid "TXT_GOTGREENKEY"
-msgstr "Kunci Hijau"
+msgstr ""
 
 msgid "TXT_ARTIHEALTH"
-msgstr "Botol Quartz"
+msgstr ""
 
 msgid "TXT_ARTIFLY"
-msgstr "Sayap Amarah"
+msgstr ""
 
 msgid "TXT_ARTIINVULNERABILITY"
-msgstr "Cincin Invinsibilitas"
+msgstr ""
 
 msgid "TXT_ARTITOMEOFPOWER"
 msgstr ""
@@ -1110,40 +1080,40 @@ msgid "TXT_ARTIINVISIBILITY"
 msgstr ""
 
 msgid "TXT_ARTIEGG"
-msgstr "Rahim Morph"
+msgstr ""
 
 msgid "TXT_ARTISUPERHEALTH"
-msgstr "Kendi Mystic"
+msgstr ""
 
 msgid "TXT_ARTITORCH"
-msgstr "Obor"
+msgstr ""
 
 msgid "TXT_ARTIFIREBOMB"
-msgstr "Bomb Waktu dari Ancients"
+msgstr ""
 
 msgid "TXT_ARTITELEPORT"
-msgstr "Alat Kekacauan"
+msgstr ""
 
 msgid "TXT_ITEMHEALTH"
-msgstr "Tabung Kristal"
+msgstr ""
 
 msgid "TXT_ITEMBAGOFHOLDING"
-msgstr "Kantong Barang"
+msgstr ""
 
 msgid "TXT_ITEMSHIELD1"
-msgstr "Perisai Perak"
+msgstr ""
 
 msgid "TXT_ITEMSHIELD2"
-msgstr "Perisai Sihir"
+msgstr ""
 
 msgid "TXT_ITEMSUPERMAP"
-msgstr "Gulungan Peta"
+msgstr ""
 
 msgid "TXT_AMMOGOLDWAND1"
-msgstr "Tongkat Kristal"
+msgstr ""
 
 msgid "TXT_AMMOGOLDWAND2"
-msgstr "Batu Kristal"
+msgstr ""
 
 msgid "TXT_AMMOMACE1"
 msgstr ""
@@ -1152,7 +1122,7 @@ msgid "TXT_AMMOMACE2"
 msgstr ""
 
 msgid "TXT_AMMOCROSSBOW1"
-msgstr "Panah Ethereal"
+msgstr ""
 
 msgid "TXT_AMMOCROSSBOW2"
 msgstr ""
@@ -1176,19 +1146,19 @@ msgid "TXT_AMMOPHOENIXROD2"
 msgstr ""
 
 msgid "TXT_WPNGOLDWAND"
-msgstr "Tongkat Emas"
+msgstr ""
 
 msgid "TXT_WPNMACE"
 msgstr ""
 
 msgid "TXT_WPNCROSSBOW"
-msgstr "Busur Ethereal"
+msgstr ""
 
 msgid "TXT_WPNBLASTER"
-msgstr "Kaki Naga"
+msgstr ""
 
 msgid "TXT_WPNSKULLROD"
-msgstr "Tongkat Neraka"
+msgstr ""
 
 msgid "TXT_WPNPHOENIXROD"
 msgstr ""
@@ -2844,7 +2814,7 @@ msgid "MNU_NEWGAME"
 msgstr ""
 
 msgid "MNU_OPTIONS"
-msgstr "Setelan"
+msgstr ""
 
 msgid "MNU_GAMEFILES"
 msgstr ""
@@ -2853,7 +2823,7 @@ msgid "MNU_INFO"
 msgstr ""
 
 msgid "MNU_QUITGAME"
-msgstr "Keluar Game"
+msgstr ""
 
 # This text is extremely space limited!
 msgid "MNU_CHOOSESKILL"
@@ -3863,7 +3833,7 @@ msgid "SCALEMNU_ADAPT"
 msgstr ""
 
 msgid "HUDMNU_TITLE"
-msgstr "Setelan HUD"
+msgstr ""
 
 msgid "HUDMNU_ALTHUD"
 msgstr ""
@@ -3929,7 +3899,7 @@ msgid "MISCMNU_INTERSCROLL"
 msgstr ""
 
 msgid "NETMNU_TITLE"
-msgstr "Setelan Jaringan"
+msgstr ""
 
 msgid "NETMNU_LOCALOPTIONS"
 msgstr ""
@@ -4011,7 +3981,7 @@ msgid "OPTVAL_ITEMS"
 msgstr ""
 
 msgid "OPTVAL_WEAPONS"
-msgstr "Senjata"
+msgstr ""
 
 msgid "OPTVAL_BOTH"
 msgstr ""
@@ -4570,16 +4540,16 @@ msgid "OS_TITLE"
 msgstr ""
 
 msgid "OS_ANY"
-msgstr "Cari kata kunci apapun"
+msgstr ""
 
 msgid "OS_ALL"
-msgstr "Cari semua kata kunci"
+msgstr ""
 
 msgid "OS_NO_RESULTS"
-msgstr "Tiada hasil."
+msgstr ""
 
 msgid "OS_LABEL"
-msgstr "Cari:"
+msgstr ""
 
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr ""
@@ -4619,9 +4589,9 @@ msgid "TXT_TOOOLDSG"
 msgstr ""
 
 # Shouldn’t this say “%e is the newest supported”?
-# 
+#
 # — Undead
-# 
+#
 # Ask Randi: The text is old. I won't change it.
 msgid "TXT_TOONEWSG"
 msgstr ""
@@ -4658,7 +4628,7 @@ msgid "TXT_BY"
 msgstr ""
 
 msgid "TXT_QUITENDOOM"
-msgstr "Tekan tombol apapun atau klik manapun di jendela untuk keluar."
+msgstr ""
 
 msgid "HUDMNU_FLASH"
 msgstr ""
@@ -5073,7 +5043,7 @@ msgid "HAPMNU_OPT_WORLD"
 msgstr ""
 
 msgid "PAUSE_STRING"
-msgstr "Tunda"
+msgstr ""
 
 msgid "TAG_BACKPACK"
 msgstr ""
@@ -5169,36 +5139,39 @@ msgid "TAG_ZORCHPACK"
 msgstr ""
 
 msgid "TAG_CBLUEKEY"
-msgstr ""
+msgstr "蓝钥匙"
 
 msgid "TAG_CYELLOWKEY"
-msgstr ""
+msgstr "黄钥匙"
 
 msgid "TAG_CREDKEY"
-msgstr ""
+msgstr "红钥匙"
 
 # Option to make the view weapon sprites be lit exactly as the sector's
 # brightness. Without this option, weapon sprites are generally brighter
 # compared to the sector's brightness
 msgid "GLPREFMNU_WPNPURELIGHT"
-msgstr ""
+msgstr "使武器与扇区光照亮度保持一致"
 
 # Mark the player as ready to advance during the intermission in multiplayer
 # games
 msgid "NET_CONTINUE_MKB"
-msgstr ""
+msgstr "请按下空格或鼠标左键以准备"
 
 msgid "NET_CONTINUE_CONTROLLER"
-msgstr ""
+msgstr "请按下A键以准备"
 
 msgid "NET_CONTINUE_JOYSTICK"
-msgstr ""
+msgstr "请按下Joy 1键以准备"
 
 msgid "GMPLYMNU_REMEMBERWEAP"
-msgstr ""
+msgstr "重生后自动选择先前选择的武器"
 
 msgid "CNTRLMNU_COOPSPYPREV"
 msgstr ""
 
 msgid "CNTRLMNU_COOPSPYCANCEL"
+msgstr ""
+
+msgid "OPTMNU_ACCESSIBILITY"
 msgstr ""
