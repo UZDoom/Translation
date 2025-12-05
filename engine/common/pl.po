@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-03 00:14+0000\n"
+"PO-Revision-Date: 2025-12-06 16:00+0000\n"
 "Last-Translator: Marazm Mamazm <brutdewelopment@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/common/pl/>"
 "\n"
@@ -1140,13 +1140,13 @@ msgid "ADLVLMODEL_DMX"
 msgstr ""
 
 msgid "OPNVLMODEL_DMX"
-msgstr ""
+msgstr "Jak w DMX"
 
 msgid "ADLVLMODEL_APOGEE"
 msgstr ""
 
 msgid "OPNVLMODEL_APOGEE"
-msgstr ""
+msgstr "Jak w Apogee Sound System"
 
 msgid "OPNVLMODEL_WIN9X"
 msgstr "Jak w Win9X"
