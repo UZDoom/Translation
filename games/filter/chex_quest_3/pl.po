@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-06 16:00+0000\n"
+"PO-Revision-Date: 2025-12-06 19:58+0000\n"
 "Last-Translator: Marazm Mamazm <brutdewelopment@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/doom-engine-games/"
 "chex-quest-3-filter/pl/>\n"
@@ -48,7 +48,7 @@ msgid "PD_YELLOWFO"
 msgstr "Potrzebujesz żółtego flemowego klucza, aby aktywować ten przedmiot"
 
 msgid "PICKUP_PISTOL_DROPPED"
-msgstr "Zebrano Zorcher"
+msgstr "Zebrano zorcher."
 
 msgid "STSTR_KFAADDED"
 msgstr "Dodano amunicję Zorch i klucze"
@@ -102,13 +102,13 @@ msgid "CC_ZOMBIE"
 msgstr "Pospolitus"
 
 msgid "CC_SHOTGUN"
-msgstr ""
+msgstr "Bipedicus"
 
 msgid "CC_IMP"
 msgstr "Opancerzony Bipedicus"
 
 msgid "CC_DEMON"
-msgstr ""
+msgstr "Stridicus"
 
 msgid "CC_LOST"
 msgstr "Flemowa Mina"
@@ -117,7 +117,7 @@ msgid "CC_CACO"
 msgstr "Super Cykloptis"
 
 msgid "CC_BARON"
-msgstr ""
+msgstr "Maximus"
 
 msgid "CC_SPIDER"
 msgstr "Flembominacja"
@@ -162,7 +162,7 @@ msgid "OB_STRIDICUS"
 msgstr "%o został@[ao_pl] zaglutowan@[adj_pl] przez stridicusa."
 
 msgid "OB_FLEMMINE"
-msgstr "%o został@[ao_pl] zabrejowan@[adj_pl] przez flemową minę.\n"
+msgstr "%o został@[ao_pl] zabrejowan@[adj_pl] przez flemową minę."
 
 msgid "OB_SUPERCYCLOPTIS"
 msgstr "%o został@[ao_pl] oszlamion@[adj_pl] przez super cykloptisa."
@@ -245,7 +245,7 @@ msgid "M_EPI2"
 msgstr "Terror w Mieście Chex"
 
 msgid "M_EPI3"
-msgstr "Inwazja"
+msgstr "Inwazja!"
 
 msgid "TAG_GOGGLES"
 msgstr "Ultra Gogle"
