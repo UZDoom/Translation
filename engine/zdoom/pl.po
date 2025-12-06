@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-02 00:42+0000\n"
+"PO-Revision-Date: 2025-12-06 19:58+0000\n"
 "Last-Translator: Marazm Mamazm <brutdewelopment@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/pl/>\n"
@@ -558,7 +558,7 @@ msgid "TXT_IMTIME"
 msgstr "Czas"
 
 msgid "TXT_IMPAR"
-msgstr ""
+msgstr "Par"
 
 msgid "WI_FINISHED"
 msgstr "Ukończono"
@@ -838,7 +838,7 @@ msgid "CC_IMP"
 msgstr "Diablik"
 
 msgid "CC_DEMON"
-msgstr ""
+msgstr "Demon"
 
 msgid "CC_LOST"
 msgstr "Zaginiona Dusza"
@@ -853,7 +853,7 @@ msgid "CC_BARON"
 msgstr "Baron Piekła"
 
 msgid "CC_ARACH"
-msgstr ""
+msgstr "Arachnotron"
 
 msgid "CC_PAIN"
 msgstr "Żywiołak Bólu"
@@ -922,7 +922,7 @@ msgid "TAG_PLASMARIFLE"
 msgstr "Karabin plazmowy"
 
 msgid "TAG_BFG9000"
-msgstr ""
+msgstr "BFG 9000"
 
 msgid "AMMO_CLIP"
 msgstr "Naboje"
@@ -1213,7 +1213,7 @@ msgid "FN_CLINK"
 msgstr "Szabloszpon"
 
 msgid "FN_DSPARIL"
-msgstr ""
+msgstr "D'Sparil"
 
 msgid "FN_HERETICIMP"
 msgstr "Gargulec"
@@ -1228,10 +1228,10 @@ msgid "FN_MINOTAUR"
 msgstr "Młototaur"
 
 msgid "FN_MUMMY"
-msgstr ""
+msgstr "Golem"
 
 msgid "FN_MUMMYLEADER"
-msgstr ""
+msgstr "Nitrogolem"
 
 msgid "FN_SNAKE"
 msgstr "Wężowaty"
@@ -3737,13 +3737,13 @@ msgid "ALTHUDMNU_AMMOYELLOW"
 msgstr "Wyświetl żółtą amunicję pod "
 
 msgid "ALTHUDMNU_HEALTHRED"
-msgstr "Wyświetl czerwone zdrowie pod "
+msgstr "Wyświetl czerwone zdrowie pod"
 
 msgid "ALTHUDMNU_HEALTHYELLOW"
-msgstr "Wyświetl żółte zdrowie pod "
+msgstr "Wyświetl żółte zdrowie pod"
 
 msgid "ALTHUDMNU_HEALTHGREEN"
-msgstr "Wyświetl zielone zdrowie pod "
+msgstr "Wyświetl zielone zdrowie pod"
 
 msgid "ALTHUDMNU_ARMORRED"
 msgstr "Wyświetl czerwony pancerz pod "
@@ -4374,7 +4374,7 @@ msgid "OPTSTR_NOINTERPOLATION"
 msgstr "Brak interpolacji"
 
 msgid "OPTSTR_SPLINE"
-msgstr ""
+msgstr "Splajn"
 
 msgid "OPTSTR_OPENAL"
 msgstr ""
@@ -5035,22 +5035,22 @@ msgstr "Globalny"
 
 # Disables /me functionality in chat when displaying.
 msgid "NETMNU_NOBOLDCHAT"
-msgstr ""
+msgstr "Wyłącz Pogrubiony Tekst Na Czacie"
 
 # Turns off the sound that plays when someone receives a message.
 msgid "NETMNU_NOCHATSND"
-msgstr ""
+msgstr "Wyłącz Dźwięk Czatu"
 
 # Tries to make online games less stuttery.
 msgid "NETMNU_BALANCETICS"
-msgstr ""
+msgstr "Stabilizuj Połączenia"
 
 msgid "NETMNU_LIMITCONVO"
-msgstr ""
+msgstr "Ogranicz Konwersacje do Hosta"
 
 # Helps stop things like e.g. door open/close spam when playing online.
 msgid "NETMNU_REPEATCOOLDOWN"
-msgstr ""
+msgstr "Czas Odnowienia dla Powtarzalnych Akcji"
 
 msgid "NETMNU_DISABLEPAUSE"
 msgstr "Wyłącz Pauzowanie"
@@ -5123,16 +5123,16 @@ msgid "TAG_BACKPACK"
 msgstr "Plecak"
 
 msgid "TAG_ARMORBONUS"
-msgstr ""
+msgstr "Pancerz Duchowy"
 
 msgid "TAG_GREENARMOR"
-msgstr ""
+msgstr "Pancerz Ochronny"
 
 msgid "TAG_BLUEARMOR"
-msgstr ""
+msgstr "Pancerz Bojowy"
 
 msgid "TAG_INVULSPHERE"
-msgstr ""
+msgstr "Artefakt Niewrażliwości"
 
 msgid "TAG_SOULSPHERE"
 msgstr "Sfera Dusz"
@@ -5141,28 +5141,28 @@ msgid "TAG_MEGAPSHERE"
 msgstr "Megasfera"
 
 msgid "TAG_INVISSPHERE"
-msgstr ""
+msgstr "Artefakt Rozmycia"
 
 msgid "TAG_RADSUIT"
-msgstr ""
+msgstr "Kombinezon przeciwradiacyjny"
 
 msgid "TAG_VISOR"
-msgstr ""
+msgstr "Gogle noktowizyjne"
 
 msgid "TAG_ALLMAP"
-msgstr ""
+msgstr "Komputerowa Mapa"
 
 msgid "TAG_BERSERK"
-msgstr ""
+msgstr "Paczka Szału"
 
 msgid "TAG_HEALTHBONUS"
-msgstr ""
+msgstr "Mikstura Zdrowia"
 
 msgid "TAG_STIMPACK"
-msgstr ""
+msgstr "Mała Apteczka"
 
 msgid "TAG_MEDIKIT"
-msgstr ""
+msgstr "Apteczka"
 
 msgid "TAG_BLUECARD"
 msgstr "Niebieska Karta"
@@ -5174,43 +5174,43 @@ msgid "TAG_REDCARD"
 msgstr "Czerwona Karta"
 
 msgid "TAG_BLUESKULL"
-msgstr ""
+msgstr "Niebieski Klucz Czaszki"
 
 msgid "TAG_YELLOWSKULL"
-msgstr ""
+msgstr "Żółty Klucz Czaszki"
 
 msgid "TAG_REDSKULL"
-msgstr ""
+msgstr "Czerwony Klucz Czaszki"
 
 msgid "TAG_GLASSOFWATER"
-msgstr ""
+msgstr "Szklanka Wody"
 
 msgid "TAG_BOWLOFFRUIT"
-msgstr ""
+msgstr "Miska Owoców"
 
 msgid "TAG_BOWLOFVEGETABLES"
-msgstr ""
+msgstr "Miska Warzyw"
 
 msgid "TAG_BREAKFAST"
-msgstr ""
+msgstr "Supernaładowane Śniadanie"
 
 msgid "TAG_REPELLENT"
-msgstr ""
+msgstr "Odstraszacz Szlamu"
 
 msgid "TAG_CHEXARMOR"
-msgstr ""
+msgstr "Pancerz Chex"
 
 msgid "TAG_SUPERCHEXARMOR"
-msgstr ""
+msgstr "Super Pancerz Chex"
 
 msgid "TAG_CHEXMAP"
-msgstr ""
+msgstr "Komputerowa Mapa Obszaru"
 
 msgid "TAG_SLIMESUIT"
-msgstr ""
+msgstr "Szlamoodporny Kombinezon"
 
 msgid "TAG_ZORCHPACK"
-msgstr ""
+msgstr "Paczka Zorch"
 
 msgid "TAG_CBLUEKEY"
 msgstr "Niebieski Klucz"
@@ -5242,10 +5242,10 @@ msgid "GMPLYMNU_REMEMBERWEAP"
 msgstr "Zapamiętaj wybraną broń podczas odrodzenia"
 
 msgid "CNTRLMNU_COOPSPYPREV"
-msgstr ""
+msgstr "Podgląd poprzedniego gracza"
 
 msgid "CNTRLMNU_COOPSPYCANCEL"
-msgstr ""
+msgstr "Anuluj podgląd gracza"
 
 msgid "OPTMNU_ACCESSIBILITY"
 msgstr "Opcje Dostępności"
