@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-06 16:00+0000\n"
+"PO-Revision-Date: 2025-12-06 19:58+0000\n"
 "Last-Translator: Marazm Mamazm <brutdewelopment@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/pl/>\n"
@@ -558,7 +558,7 @@ msgid "TXT_IMTIME"
 msgstr "Czas"
 
 msgid "TXT_IMPAR"
-msgstr ""
+msgstr "Par"
 
 msgid "WI_FINISHED"
 msgstr "Ukończono"
@@ -838,7 +838,7 @@ msgid "CC_IMP"
 msgstr "Diablik"
 
 msgid "CC_DEMON"
-msgstr ""
+msgstr "Demon"
 
 msgid "CC_LOST"
 msgstr "Zaginiona Dusza"
@@ -853,7 +853,7 @@ msgid "CC_BARON"
 msgstr "Baron Piekła"
 
 msgid "CC_ARACH"
-msgstr ""
+msgstr "Arachnotron"
 
 msgid "CC_PAIN"
 msgstr "Żywiołak Bólu"
@@ -922,7 +922,7 @@ msgid "TAG_PLASMARIFLE"
 msgstr "Karabin plazmowy"
 
 msgid "TAG_BFG9000"
-msgstr ""
+msgstr "BFG 9000"
 
 msgid "AMMO_CLIP"
 msgstr "Naboje"
@@ -1213,7 +1213,7 @@ msgid "FN_CLINK"
 msgstr "Szabloszpon"
 
 msgid "FN_DSPARIL"
-msgstr ""
+msgstr "D'Sparil"
 
 msgid "FN_HERETICIMP"
 msgstr "Gargulec"
@@ -1228,10 +1228,10 @@ msgid "FN_MINOTAUR"
 msgstr "Młototaur"
 
 msgid "FN_MUMMY"
-msgstr ""
+msgstr "Golem"
 
 msgid "FN_MUMMYLEADER"
-msgstr ""
+msgstr "Nitrogolem"
 
 msgid "FN_SNAKE"
 msgstr "Wężowaty"
