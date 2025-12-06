@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-06 16:00+0000\n"
+"PO-Revision-Date: 2025-12-06 19:58+0000\n"
 "Last-Translator: Marazm Mamazm <brutdewelopment@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/doom-engine-games/"
 "doom-2/pl/>\n"
@@ -240,3 +240,15 @@ msgstr ""
 "\n"
 "Ta przejażdżka jest zamknięta.\n"
 "\n"
+
+msgid "HUSTR_31"
+msgstr "Level 31: Wolfenstein"
+
+msgid "HUSTR_32"
+msgstr "Level 32: Grosse"
+
+msgid "HUSTR_31B"
+msgstr "Level 31: IDKFA"
+
+msgid "HUSTR_32B"
+msgstr "Level 32: Keen"
