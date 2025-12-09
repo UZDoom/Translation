@@ -2,92 +2,95 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-12-09 12:39+0000\n"
+"Last-Translator: dwing <12104745@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
+"projects/doom-engine-games/hexen-deathkings/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.15-dev\n"
 "HeaderCode: default\n"
 
 msgid "TXT_HEXDD_MAP41"
-msgstr ""
+msgstr "废墟村落"
 
 msgid "TXT_HEXDD_MAP42"
-msgstr ""
+msgstr "疫病"
 
 msgid "TXT_HEXDD_MAP43"
-msgstr ""
+msgstr "污水坑"
 
 msgid "TXT_HEXDD_MAP44"
-msgstr ""
+msgstr "地下墓穴"
 
 msgid "TXT_HEXDD_MAP45"
-msgstr ""
+msgstr "荒地"
 
 msgid "TXT_HEXDD_MAP46"
-msgstr ""
+msgstr "蕨木林"
 
 msgid "TXT_HEXDD_MAP47"
-msgstr ""
+msgstr "火葬场"
 
 msgid "TXT_HEXDD_MAP48"
-msgstr ""
+msgstr "警卫之门"
 
 msgid "TXT_HEXDD_MAP49"
-msgstr ""
+msgstr "宝库"
 
 msgid "TXT_HEXDD_MAP50"
-msgstr ""
+msgstr "集市"
 
 msgid "TXT_HEXDD_MAP51"
-msgstr ""
+msgstr "安息之地"
 
 msgid "TXT_HEXDD_MAP52"
-msgstr ""
+msgstr "试炼"
 
 msgid "TXT_HEXDD_MAP53"
-msgstr ""
+msgstr "武器库"
 
 msgid "TXT_HEXDD_MAP54"
-msgstr ""
+msgstr "中殿"
 
 msgid "TXT_HEXDD_MAP55"
-msgstr ""
+msgstr "圣堂"
 
 msgid "TXT_HEXDD_MAP56"
-msgstr ""
+msgstr "屠宰场"
 
 msgid "TXT_HEXDD_MAP57"
-msgstr ""
+msgstr "暗哨"
 
 msgid "TXT_HEXDD_MAP58"
-msgstr ""
+msgstr "阴沟"
 
 msgid "TXT_HEXDD_MAP59"
-msgstr ""
+msgstr "冰堡"
 
 msgid "TXT_HEXDD_MAP60"
-msgstr ""
+msgstr "黑暗城堡"
 
 msgid "TXT_HEXDD_MAP33"
-msgstr ""
+msgstr "中途"
 
 msgid "TXT_HEXDD_MAP34"
-msgstr ""
+msgstr "天与地"
 
 msgid "TXT_HEXDD_MAP35"
-msgstr ""
+msgstr "死雾"
 
 msgid "TXT_HEXDD_MAP36"
-msgstr ""
+msgstr "痛苦城堡"
 
 msgid "TXT_HEXDD_MAP37"
-msgstr ""
+msgstr "下水道坑"
 
 msgid "TXT_HEXDD_MAP38"
-msgstr ""
+msgstr "玫瑰"
 
 # intermission
 msgid "TXT_HEXDD_CLUS1MSG"
