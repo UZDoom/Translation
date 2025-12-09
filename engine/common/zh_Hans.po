@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-09 16:09+0000\n"
+"PO-Revision-Date: 2025-12-09 16:36+0000\n"
 "Last-Translator: dwing <12104745@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/common/zh_Hans/>\n"
@@ -920,7 +920,7 @@ msgid "ADVSNDMNU_ADVRESAMPLING"
 msgstr "高级重采样"
 
 msgid "ADVSNDMNU_OPLBANK"
-msgstr "OPL Bank"
+msgstr "OPL库"
 
 msgid "ADVSNDMNU_ADLOPLCORES"
 msgstr "OPL模拟器核心"
@@ -1778,7 +1778,7 @@ msgid "TXT_OBITUARY9"
 msgstr "%k 对 %o 使出千年杀"
 
 msgid "TXT_OBITUARY10"
-msgstr "%k 对 %o 使出疯狂千年杀。"
+msgstr "%k 对 %o 使出疯狂千年杀"
 
 msgid "TXT_OBITUARY11"
 msgstr "%k 杀死了 %o"
@@ -2137,13 +2137,13 @@ msgid "NOTES_DETAILS"
 msgstr "更多细节查看："
 
 msgid "PICKER_SHOWTHIS"
-msgstr ""
+msgstr "更新后展示此页"
 
 msgid "PICKER_SHOWNOTES"
-msgstr ""
+msgstr "展示发布说明"
 
 msgid "PICKER_TAB_ABOUT"
-msgstr ""
+msgstr "关于"
 
 msgid "PICKER_TAB_RELEASE"
-msgstr ""
+msgstr "发布说明"
