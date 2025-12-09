@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-09 16:04+0000\n"
+"PO-Revision-Date: 2025-12-09 16:05+0000\n"
 "Last-Translator: dwing <12104745@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
@@ -288,31 +288,31 @@ msgid "STSTR_DQDON"
 msgstr "无敌模式：开"
 
 msgid "STSTR_DQDOFF"
-msgstr ""
+msgstr "无敌模式：关"
 
 msgid "STSTR_DQD2ON"
-msgstr ""
+msgstr "终极无敌模式：开"
 
 msgid "STSTR_DQD2OFF"
-msgstr ""
+msgstr "终极无敌模式：关"
 
 msgid "STSTR_KFAADDED"
-msgstr ""
+msgstr "增加了非常满意的弹药"
 
 msgid "STSTR_FAADDED"
-msgstr ""
+msgstr "增加了弹药(无钥匙)"
 
 msgid "STSTR_NCON"
-msgstr ""
+msgstr "穿墙模式：开"
 
 msgid "STSTR_NCOFF"
-msgstr ""
+msgstr "穿墙模式：关"
 
 msgid "STSTR_NC2ON"
-msgstr ""
+msgstr "穿墙模式2：开"
 
 msgid "STSTR_NC2OFF"
-msgstr ""
+msgstr "穿墙模式2：关"
 
 # “inVuln”: Invulnerability sphere
 # “Str”: Berserk
@@ -321,66 +321,66 @@ msgstr ""
 # “Allmap”: Computer area map
 # “Lite-amp”: Light-amplification visor
 msgid "STSTR_BEHOLD"
-msgstr ""
+msgstr "无敌(V)、狂暴(S)、隐身(I)、防辐射(R)、全地图(A)、目镜(L)"
 
 msgid "STSTR_BEHOLDX"
-msgstr ""
+msgstr "能量提升已切换"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
 msgid "STSTR_CHOPPERS"
-msgstr ""
+msgstr "……不恶心 - GM"
 
 msgid "STSTR_CLEV"
-msgstr ""
+msgstr "更换关卡……"
 
 msgid "TXT_BUDDHAON"
-msgstr ""
+msgstr "佛陀模式：开"
 
 msgid "TXT_BUDDHAOFF"
-msgstr ""
+msgstr "佛陀模式：关"
 
 msgid "TXT_BUDDHA2ON"
-msgstr ""
+msgstr "终极佛陀模式：开"
 
 msgid "TXT_BUDDHA2OFF"
-msgstr ""
+msgstr "终极佛陀模式：关"
 
 msgid "TXT_CHEATPOWERON"
-msgstr ""
+msgstr "电源：开"
 
 msgid "TXT_CHEATPOWEROFF"
-msgstr ""
+msgstr "电源：关"
 
 msgid "TXT_CHEATHEALTH"
-msgstr ""
+msgstr "生命全满"
 
 msgid "TXT_CHEATKEYS"
-msgstr ""
+msgstr "所有钥匙"
 
 msgid "TXT_CHEATSOUNDON"
-msgstr ""
+msgstr "声音调试：开"
 
 msgid "TXT_CHEATSOUNDOFF"
-msgstr ""
+msgstr "声音调试：关"
 
 msgid "TXT_CHEATIDDQD"
-msgstr ""
+msgstr "想作弊，嗯？那你死了！"
 
 msgid "TXT_CHEATIDKFA"
-msgstr ""
+msgstr "作弊者——你不配拥有武器"
 
 msgid "TXT_CHEATTICKERON"
-msgstr ""
+msgstr "Ticker：开"
 
 msgid "TXT_CHEATTICKEROFF"
-msgstr ""
+msgstr "Ticker：关"
 
 msgid "TXT_CHEATARTIFACTS3"
-msgstr ""
+msgstr "你得到了"
 
 msgid "TXT_MIDASTOUCH"
-msgstr ""
+msgstr "你得到了点金术，孩子"
 
 msgid "TXT_GOTSTUFF"
 msgstr ""
