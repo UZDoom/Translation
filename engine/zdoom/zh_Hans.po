@@ -398,22 +398,22 @@ msgid "TXT_STRANGER"
 msgstr "你感觉更怪了。"
 
 msgid "TXT_NOTSTRANGE"
-msgstr ""
+msgstr "你感觉又做回自己了。"
 
 msgid "TXT_LEADBOOTSON"
-msgstr ""
+msgstr "防辐射靴：开"
 
 msgid "TXT_LEADBOOTSOFF"
-msgstr ""
+msgstr "防辐射靴：关"
 
 msgid "TXT_LIGHTER"
-msgstr ""
+msgstr "你感觉变轻了"
 
 msgid "TXT_GRAVITY"
-msgstr ""
+msgstr "重力将你拉了下来"
 
 msgid "TXT_NOTARGET_ON"
-msgstr ""
+msgstr "无目标：开"
 
 msgid "TXT_NOTARGET_OFF"
 msgstr ""
