@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-09 17:01+0000\n"
+"PO-Revision-Date: 2025-12-09 19:00+0000\n"
 "Last-Translator: dwing <12104745@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
@@ -60,7 +60,7 @@ msgstr ""
 "你真的确定吗？这个难度等级\n"
 "是一点也不公平的哟。\n"
 "\n"
-"请按下Y或N。"
+"按Y键确认，按N键取消。"
 
 msgid "SWSTRING"
 msgstr ""
@@ -80,7 +80,7 @@ msgid "ENDGAME"
 msgstr ""
 "你真的确定要结束游戏吗？\n"
 "\n"
-"请按下Y或N。"
+"按Y键确认，按N键取消。"
 
 msgid "RAVENQUITMSG"
 msgstr "你真的确定要退出吗？"
@@ -573,7 +573,7 @@ msgstr "正在进入"
 
 msgctxt "heretic hexen"
 msgid "WI_ENTERING"
-msgstr ""
+msgstr "现在正在进入："
 
 msgid "AM_MONSTERS"
 msgstr "怪物："
@@ -2586,7 +2586,7 @@ msgid "GOTCHEXARMOR"
 msgstr "拾取了奇克斯(R)护甲。"
 
 msgid "GOTSUPERCHEXARMOR"
-msgstr "拾取了超级奇克斯(R)护甲。"
+msgstr "拾取了超级奇克斯(R)护甲！"
 
 msgid "GOTWATER"
 msgstr "拾取了一杯水。"
@@ -2688,13 +2688,13 @@ msgid "TAG_SUPERLARGEZORCHER"
 msgstr "超大Zorcher"
 
 msgid "TAG_RAPIDZORCHER"
-msgstr "Rapid Zorcher"
+msgstr ""
 
 msgid "TAG_ZORCHPROPULSOR"
-msgstr "Zorch Propulsor"
+msgstr ""
 
 msgid "TAG_PHASINGZORCHER"
-msgstr "Phasing Zorcher"
+msgstr ""
 
 msgid "TAG_LAZDEVICE"
 msgstr "LAZ装置"
@@ -2712,31 +2712,31 @@ msgid "OB_CYCLOPTIS"
 msgstr "%o 被一只独眼巨人粘住了。"
 
 msgid "OB_FLEMBRANE"
-msgstr "%o was defeated by the Flembrane."
+msgstr ""
 
 msgid "OB_MPSPOON"
-msgstr "%o was spoon fed by %k."
+msgstr ""
 
 msgid "OB_MPBOOTSPORK"
-msgstr "%o was thoroughly mixed with %k's bootspork."
+msgstr ""
 
 msgid "OB_MPZORCH"
-msgstr "%o was zorched by %k."
+msgstr ""
 
 msgid "OB_MPMEGAZORCH"
-msgstr "%o was hit by %k's mega-zorcher."
+msgstr ""
 
 msgid "OB_MPRAPIDZORCH"
-msgstr "%o was rapid zorched by %k."
+msgstr ""
 
 msgid "OB_MPPROPULSOR"
-msgstr "%o was zorched by %k's propulsor."
+msgstr ""
 
 msgid "OB_MPP_SPLASH"
-msgstr "%o was hit by %k's propulsor."
+msgstr ""
 
 msgid "OB_MPPHASEZORCH"
-msgstr "%o was phase zorched by %k."
+msgstr ""
 
 msgid "OB_MPLAZ_BOOM"
 msgstr "%o fell prey to %k's LAZ装置。"
@@ -2791,14 +2791,27 @@ msgstr ""
 msgctxt "chex"
 msgid "QSPROMPT"
 msgstr ""
+"是否快速保存并覆盖存档名：\n"
+"\n"
+"“%s”\n"
+"\n"
+"按Y键确认，按N键取消。"
 
 msgctxt "chex"
 msgid "QLOADNET"
 msgstr ""
+"在网络任务中你不能执行快速加载！\n"
+"\n"
+"按任意键。"
 
 msgctxt "chex"
 msgid "QLPROMPT"
 msgstr ""
+"是否快速加载存档名：\n"
+"\n"
+"“%s”\n"
+"\n"
+"按Y键确认，按N键取消。"
 
 msgid "CNEWGAME"
 msgstr ""
@@ -2812,7 +2825,7 @@ msgstr ""
 "小心，这会很艰难。\n"
 "你还希望继续吗？\n"
 "\n"
-"按Y或N键。"
+"按Y键确认，按N键取消。"
 
 msgid "CSWSTRING"
 msgstr ""
@@ -2825,38 +2838,48 @@ msgstr ""
 msgctxt "chex"
 msgid "NETEND"
 msgstr ""
+"你不能结束网络任务！\n"
+"\n"
+"按任意键。"
 
 msgctxt "chex"
 msgid "ENDGAME"
 msgstr ""
+"你确认想结束此任务吗？\n"
+"\n"
+"按Y键确认，按N键取消。"
 
 msgctxt "chex"
 msgid "STSTR_DQDON"
-msgstr ""
+msgstr "无敌模式开启"
 
 msgctxt "chex"
 msgid "STSTR_DQDOFF"
-msgstr ""
+msgstr "无敌模式关闭"
 
+#, fuzzy
 msgctxt "chex"
 msgid "STSTR_FAADDED"
-msgstr ""
+msgstr "增加了Zorch"
 
+#, fuzzy
 msgctxt "chex"
 msgid "STSTR_KFAADDED"
-msgstr ""
+msgstr "增加了超级Zorch"
 
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
-msgstr ""
+msgstr "……吃奇克斯(R)！"
 
+#, fuzzy
 msgctxt "chex"
 msgid "AMMO_CLIP"
-msgstr ""
+msgstr "迷你Zorch Charge"
 
+#, fuzzy
 msgctxt "chex"
 msgid "AMMO_SHELLS"
-msgstr ""
+msgstr "大型Zorcher Charge"
 
 msgctxt "chex"
 msgid "AMMO_ROCKETS"
@@ -2988,7 +3011,7 @@ msgid "MNU_WARLOCK"
 msgstr "巫师"
 
 msgid "MNU_ARCHMAGE"
-msgstr ""
+msgstr "大法师"
 
 msgid "MNU_CHOOSECLASS"
 msgstr "选择职位："
@@ -3010,7 +3033,7 @@ msgstr "哪个章节？"
 
 msgctxt "strife"
 msgid "MNU_EPISODE"
-msgstr ""
+msgstr "选择战役"
 
 msgid "MNU_COTD"
 msgstr "被诅咒的城市"
@@ -4621,10 +4644,10 @@ msgid "TXT_LONER"
 msgstr "%s 现在孤独一人了。"
 
 msgid "TXT_LEFTWITHFRAGS"
-msgstr "%s 以 %d 的分数离开了游戏。"
+msgstr "%s 以 %d 的分数离开了游戏"
 
 msgid "TXT_LEFTTHEGAME"
-msgstr "%s 离开了游戏。"
+msgstr "%s 离开了游戏"
 
 msgid "TXT_COULDNOTREAD"
 msgstr "无法读取存档“%s”。"
@@ -4650,549 +4673,549 @@ msgstr "存档“%s”来自旧版本：%d (最低支持到 %e)"
 #
 # Ask Randi: The text is old. I won't change it.
 msgid "TXT_TOONEWSG"
-msgstr ""
+msgstr "存档“%s”来自新版本：%d (最高支持到 %e)"
 
 msgid "TXT_NOMAPSG"
-msgstr ""
+msgstr "存档“%s”的当前地图找不到了。"
 
 msgid "TXT_NOGLOBALSJSON"
-msgstr ""
+msgstr "%s' 不是有效存档：缺失“globals.json”。"
 
 msgid "TXT_SGINFOERR"
-msgstr ""
+msgstr "访问存档“%s”的信息失败"
 
 msgid "TXT_SAVEPENDING"
-msgstr ""
+msgstr "已经有存档在保存中了。"
 
 msgid "TXT_NOTSAVEABLE"
-msgstr ""
+msgstr "这是不可存档的游戏。"
 
 msgid "TXT_NOTINLEVEL"
-msgstr ""
+msgstr "还没进入关卡"
 
 msgid "TXT_SPPLAYERDEAD"
-msgstr ""
+msgstr "玩家在单人模式下死亡"
 
 msgid "TXT_SAVEFAILED"
-msgstr ""
+msgstr "存档失败"
 
 msgid "TXT_SCREENSHOTERR"
-msgstr ""
+msgstr "无法创建截屏。"
 
 # As in paused by player %s.
 msgid "TXT_BY"
-msgstr ""
+msgstr "被 %s"
 
 msgid "TXT_QUITENDOOM"
 msgstr "按任意键或点击窗口内任意位置来退出。"
 
 msgid "HUDMNU_FLASH"
-msgstr ""
+msgstr "画面混合选项"
 
 msgid "GLMNU_3DMODE"
-msgstr ""
+msgstr "3D模式"
 
 msgid "HUDMNU_CROSSHAIRON"
-msgstr ""
+msgstr "准星"
 
 msgid "MSGMNU_SUBTITLES"
-msgstr ""
+msgstr "字幕"
 
 msgid "GLPREFMNU_PALTONENOGREY"
-msgstr ""
+msgstr "防止灰色阴影"
 
 msgid "HUDMNU_FONTOPTIONS"
-msgstr ""
+msgstr "字体选项"
 
 msgid "FONTMNU_LOG"
-msgstr ""
+msgstr "使用标准字体显示日志"
 
 msgid "FONTMNU_DLG"
-msgstr ""
+msgstr "使用标准字体显示对话"
 
 msgid "MISCMNU_QUICKEXIT"
-msgstr ""
+msgstr "快速退出"
 
 msgid "DSPLYMNU_CUSTOMINVERTMAP"
-msgstr ""
+msgstr "自定义反色地图"
 
 msgid "DSPLYMNU_CUSTOMINVERTC1"
-msgstr ""
+msgstr "自定义反色 深色\n"
 
 msgid "DSPLYMNU_CUSTOMINVERTC2"
-msgstr ""
+msgstr "自定义反色 亮色"
 
 msgid "DSPLYMNU_BOBFIRE"
-msgstr ""
+msgstr "攻击时武器上下晃动量"
 
 # HUD->Scaling Options
 msgid "SCALEMNU_SCALECLASSIC"
-msgstr ""
+msgstr "关卡间歇时及画面边框使用经典缩放"
 
 msgid "SCALEMNU_INTER"
-msgstr ""
+msgstr "关卡间歇时的背景"
 
 msgid "SCALEMNU_BORDER"
-msgstr ""
+msgstr "画面边框"
 
 msgid "SCALEMNU_FACTOR"
-msgstr ""
+msgstr "缩放因子"
 
 msgid "SCALEMNU_RATIO"
-msgstr ""
+msgstr "宽高比"
 
 # as in "Build engine". This should not be translated unless there is a
 # translated name for the engine
 msgid "OPTVAL_BUILD"
-msgstr ""
+msgstr "Build"
 
 # sv_alwaystally
 msgid "MISCMNU_ALWAYSTALLY"
-msgstr ""
+msgstr "在关卡出口显示统计画面"
 
 # this is '==0'
 msgid "OPTVAL_MODDEFINED"
-msgstr ""
+msgstr "模组定义"
 
 msgid "OPTVAL_NOTHUBS"
-msgstr ""
+msgstr "总是，除了枢纽"
 
 msgid "OPTVAL_WITHHUBS"
-msgstr ""
+msgstr "总是，包括枢纽"
 
 msgid "CNTRLMNU_LAYOUT"
-msgstr ""
+msgstr "首选键盘布局"
 
 msgid "OPTVAL_CLASSICZ"
-msgstr ""
+msgstr "经典ZDoom"
 
 msgid "OPTVAL_MODERN"
-msgstr ""
+msgstr "现代(WASD)"
 
 msgid "OPTVAL_MODERNLEFT"
-msgstr ""
+msgstr "现代(小键盘)"
 
 msgid "MISCMNU_SETSLOTSTRICT"
-msgstr ""
+msgstr "严格的KEYCONF武器/玩家"
 
 msgid "MISCMNU_CLEANMENU\n"
-msgstr ""
+msgstr "经典ZDoom的菜单缩放"
 
 msgid "MISCMNU_WIPERCENT"
-msgstr ""
+msgstr "在结算画面上使用百分比"
 
 msgid "MISCMNU_CLEANSTAT"
-msgstr ""
+msgstr "在结算画面上用经典ZDoom缩放"
 
 # Called "citizens" according to Doomwiki
 msgid "TAG_STRIFEZOMBIE"
-msgstr ""
+msgstr "市民"
 
 msgid "TAG_CEILINGTURRET"
-msgstr ""
+msgstr "天花板炮塔"
 
 # Names need to match the obituaries!
 msgid "TAG_CRUSADER"
-msgstr ""
+msgstr "圣战士"
 
 msgid "TAG_INQUISITOR"
-msgstr ""
+msgstr "审判官"
 
 msgid "TAG_PEASANT"
-msgstr ""
+msgstr "农民"
 
 msgid "TAG_REAVER"
-msgstr ""
+msgstr "掠夺者"
 
 msgid "TAG_SENTINEL"
-msgstr ""
+msgstr "哨兵"
 
 msgid "TAG_STALKER"
-msgstr ""
+msgstr "潜行者"
 
 msgid "TAG_BISHOP"
-msgstr ""
+msgstr "主教"
 
 msgid "TAG_ENTITY"
-msgstr ""
+msgstr "唯一神"
 
 msgid "TAG_PROGRAMMER"
-msgstr ""
+msgstr "程序员"
 
 msgid "TAG_ALIENSPECTRE"
-msgstr ""
+msgstr "幽灵"
 
 msgid "TAG_KNEELINGGUY"
-msgstr ""
+msgstr "祈祷者"
 
 msgid "GMPLYMNU_MULTIPLAYERTHINGS"
-msgstr ""
+msgstr "合作模式中刷出多人专用物体"
 
 msgid "DSPLYMNU_SPRITESHADOW"
-msgstr ""
+msgstr "精灵阴影"
 
 # Will enable sprite shadows for monster and player sprites
 msgid "OPTVAL_SPRSHADALWAYS"
-msgstr ""
+msgstr "怪物和玩家"
 
 # the FOV slider
 msgid "DSPLYMNU_FOV"
-msgstr ""
+msgstr "FOV"
 
 msgid "CMPTMNU_NOMBF21"
-msgstr ""
+msgstr "禁用MBF21特性"
 
 msgid "ALTHUDMNU_SHOWTIMESTAT"
-msgstr ""
+msgstr "显示时间部件"
 
 msgid "CMPTMNU_VILEGHOSTS"
-msgstr ""
+msgstr "压死的怪物能复活成鬼魂"
 
 msgid "MISCMNU_FVIEWBOB"
-msgstr ""
+msgstr "飞行中视角晃动"
 
 msgid "OB_DEMON1HIT"
-msgstr ""
+msgstr "%o 被巨蛇重伤了。"
 
 msgid "AUTOMAPMNU_LINEANTIALIASING"
-msgstr ""
+msgstr "线条反锯齿"
 
 msgid "GMPLYMNU_NOPLAYERCLIP"
-msgstr ""
+msgstr "移动和射击能穿过其他玩家"
 
 msgid "GMPLYMNU_SHAREKEYS"
-msgstr ""
+msgstr "所有玩家共享钥匙"
 
 msgid "GLPREFMNU_SPRBILLFACECAMERAFORCE"
-msgstr ""
+msgstr "不允许覆盖面向摄像机的模式"
 
 msgid "ALTHUDMNU_SWAPHEALTHARMOR"
-msgstr ""
+msgstr "交换生命和护甲"
 
 # hud_oldscale
 msgid "SCALEMNU_HUD_OLDSCALE"
-msgstr ""
+msgstr "使用经典的HUD缩放"
 
 # hud_scalefactor
 msgid "SCALEMNU_HUD_SCALEFACTOR"
-msgstr ""
+msgstr "HUD缩放因子"
 
 # Any Actor that only appears in co-op is disabled
 msgid "GMPLYMNU_COOPTHINGS"
-msgstr ""
+msgstr "多人游戏中只刷出合作专用物体"
 
 # Items that only appear in co-op are disabled
 msgid "GMPLYMNU_COOPITEMS"
-msgstr ""
+msgstr "多人游戏中只刷出合作专用的拾取物品"
 
 # Items are picked up client-side rather than fully taken by the client who
 # picked it up
 msgid "GMPLYMNU_LOCALITEMS"
-msgstr ""
+msgstr "多人游戏中玩家只拾取物品的自身所属复制品"
 
 # Drops from Actors aren't picked up locally
 msgid "GMPLYMNU_NOLOCALDROP"
-msgstr ""
+msgstr "禁用客户端侧拾取丢弃的物品"
 
 # Disables autoloading save on death
 msgid "MISCMNU_RESTARTONDEATH"
-msgstr ""
+msgstr "死亡时重新开始关卡"
 
 # Resets inventory on every map
 msgid "GMPLYMNU_PISTOLSTART"
-msgstr ""
+msgstr "以手枪开局"
 
 msgid "CMPTMNU_VOODOOZOMBIES"
-msgstr ""
+msgstr "允许创建僵尸玩家"
 
 msgid "CMPTMNU_FDTELEPORT"
-msgstr ""
+msgstr "传送时无视地板Z值"
 
 # Hardware Sprite Clipping mode that gives the illusion of a sprite being in a
 # different position than it really is, allowing it to be rendered under the
 # floor despite clipping
 msgid "OPTVAL_ANAMORPHIC"
-msgstr ""
+msgstr "强制主视角"
 
 msgid "SNDMNU_FOOTSTEPVOLUME"
-msgstr ""
+msgstr "脚步音量"
 
 msgid "ID24_GOTINCINERATOR"
-msgstr ""
+msgstr "你取得了焚化器！"
 
 # Also known as Heatwave Generator.
 msgid "ID24_GOTCALAMITYBLADE"
-msgstr ""
+msgstr "你得到了灾刃！真厉害！"
 
 msgid "ID24_GOTFUELCAN"
-msgstr ""
+msgstr "拾取了一个燃料罐。"
 
 msgid "ID24_GOTFUELTANK"
-msgstr ""
+msgstr "拾取了一个燃料箱。"
 
 msgid "TAG_ID24INCINERATOR"
-msgstr ""
+msgstr "焚化器"
 
 msgid "TAG_ID24CALAMITYBLADE"
-msgstr ""
+msgstr "灾刃"
 
 msgid "AMMO_ID24FUEL"
-msgstr ""
+msgstr "燃料罐"
 
 msgid "AMMO_ID24FUELTANK"
-msgstr ""
+msgstr "燃料箱"
 
 msgid "ID24_CC_GHOUL"
-msgstr ""
+msgstr "尸鬼"
 
 msgid "ID24_CC_BANSHEE"
-msgstr ""
+msgstr "女妖"
 
 # Also known as Plasmaguy.
 msgid "ID24_CC_SHOCKTROOPER"
-msgstr ""
+msgstr "电击尖兵"
 
 msgid "ID24_CC_MINDWEAVER"
-msgstr ""
+msgstr "心灵编织者"
 
 msgid "ID24_CC_VASSAGO"
-msgstr ""
+msgstr "瓦沙克"
 
 msgid "ID24_CC_TYRANT"
-msgstr ""
+msgstr "暴君"
 
 msgid "ID24_OB_GHOUL"
-msgstr ""
+msgstr "%o 挨了尸鬼的能量球。"
 
 msgid "ID24_OB_BANSHEE"
-msgstr ""
+msgstr "%o 被女妖终结了。"
 
 msgid "ID24_OB_SHOCKTROOPER"
-msgstr ""
+msgstr "%o 被电击尖兵融解了。"
 
 msgid "ID24_OB_MINDWEAVER"
-msgstr ""
+msgstr "%o 被心灵编织者割草了。"
 
 msgid "ID24_OB_VASSAGO"
-msgstr ""
+msgstr "%o 被瓦沙克烧焦了。"
 
 msgid "ID24_OB_TYRANT"
-msgstr ""
+msgstr "%o 被暴君炸开花了。"
 
 msgid "AUTOMAPMNU_SHOWLEVELNAME"
-msgstr ""
+msgstr "显示关卡名"
 
 # As seen in Options - Customize Controls - Inventory for Heretic, Hexen and
 # Strife
 msgid "CNTRLMNU_INVENTORY_HOTKEYS"
-msgstr ""
+msgstr "物品快捷键"
 
 msgid "JOYMNU_HAPTICS"
-msgstr ""
+msgstr "触觉反馈力度"
 
 msgid "JOYMNU_CURVE"
-msgstr ""
+msgstr "响应曲线"
 
 msgid "JOYMNU_THRESHOLD"
-msgstr ""
+msgstr "数字阈值"
 
 msgid "OPTVAL_LINEAR"
-msgstr ""
+msgstr "线性"
 
 msgid "OPTVAL_QUADRATIC"
-msgstr ""
+msgstr "平方"
 
 # The type of chat messages the player wants to be visible to them.
 msgid "NETMNU_CHATTYPE"
-msgstr ""
+msgstr "聊天类型"
 
 msgid "OPTVAL_DISABLECHAT"
-msgstr ""
+msgstr "已禁用"
 
 msgid "OPTVAL_TEAMONLYCHAT"
-msgstr ""
+msgstr "仅队友"
 
 msgid "OPTVAL_GLOBALCHAT"
-msgstr ""
+msgstr "全局"
 
 # Disables /me functionality in chat when displaying.
 msgid "NETMNU_NOBOLDCHAT"
-msgstr ""
+msgstr "禁用聊天文字中的粗体效果"
 
 # Turns off the sound that plays when someone receives a message.
 msgid "NETMNU_NOCHATSND"
-msgstr ""
+msgstr "禁用聊天声音"
 
 # Tries to make online games less stuttery.
 msgid "NETMNU_BALANCETICS"
-msgstr ""
+msgstr "稳定连接"
 
 msgid "NETMNU_LIMITCONVO"
-msgstr ""
+msgstr "限制到主机的会话数"
 
 # Helps stop things like e.g. door open/close spam when playing online.
 msgid "NETMNU_REPEATCOOLDOWN"
-msgstr ""
+msgstr "重复动作的冷却"
 
 msgid "NETMNU_DISABLEPAUSE"
-msgstr ""
+msgstr "禁用暂停"
 
 msgid "OPTVAL_HOSTONLY"
-msgstr ""
+msgstr "仅主机"
 
 # Type of vote system to use to bypass intermissions when playing online.
 msgid "NETMNU_READYTYPE"
-msgstr ""
+msgstr "关卡间歇的跳过类型"
 
 msgid "OPTVAL_VOTE"
-msgstr ""
+msgstr "投票"
 
 msgid "OPTVAL_ANYONE"
-msgstr ""
+msgstr "任何人"
 
 # If this percent of players or more are ready, starts a countdown when in
 # Vote intermission skip mode.
 msgid "NETMNU_READYPERCENT"
-msgstr ""
+msgstr "投票跳过的百分比"
 
 msgid "NETMNU_READYCOUNTDOWN"
-msgstr ""
+msgstr "投屏倒计时(秒)"
 
 # Forces a cool down between chat messages for all players when playing
 # online.
 msgid "NETMNU_CHATSLOMO"
-msgstr ""
+msgstr "聊天缓动模式(秒)"
 
 msgid "JOYMNU_HAPTRIGGERS"
-msgstr ""
+msgstr "启用触觉触发器"
 
 msgid "OPTMNU_HAPTICS"
-msgstr ""
+msgstr "触觉选项"
 
 # How the engine should handle haptics in old mods
 msgid "HAPMNU_COMPAT"
-msgstr ""
+msgstr "触觉反馈兼容等级"
 
 msgid "OPTVAL_MATCH"
-msgstr ""
+msgstr "匹配"
 
 msgid "OPTVAL_WARN"
-msgstr ""
+msgstr "警告"
 
 msgid "HAPMNU_OPTIONS"
-msgstr ""
+msgstr "自定义触觉反馈源"
 
 # Rumble when using ui elements
 msgid "HAPMNU_OPT_MENU"
-msgstr ""
+msgstr "源自使用菜单"
 
 # Rumble when doing things such as pressing buttons and firing weapon
 msgid "HAPMNU_OPT_ACTION"
-msgstr ""
+msgstr "源自施展中的动作"
 
 # Rumble when dying and getting hurt
 msgid "HAPMNU_OPT_DAMAGE"
-msgstr ""
+msgstr "通过受到伤害"
 
 # Rumble from bumping into things, crossing lines, and quakes
 msgid "HAPMNU_OPT_WORLD"
-msgstr ""
+msgstr "源自与世界交互"
 
 msgid "PAUSE_STRING"
-msgstr ""
+msgstr "暂停"
 
 msgid "TAG_BACKPACK"
-msgstr ""
+msgstr "背包"
 
 msgid "TAG_ARMORBONUS"
-msgstr ""
+msgstr "精神护甲"
 
 msgid "TAG_GREENARMOR"
-msgstr ""
+msgstr "安保护甲"
 
 msgid "TAG_BLUEARMOR"
-msgstr ""
+msgstr "战斗护甲"
 
 msgid "TAG_INVULSPHERE"
-msgstr ""
+msgstr "无敌神器"
 
 msgid "TAG_SOULSPHERE"
-msgstr ""
+msgstr "灵魂球"
 
 msgid "TAG_MEGAPSHERE"
-msgstr ""
+msgstr "超级球"
 
 msgid "TAG_INVISSPHERE"
-msgstr ""
+msgstr "模糊神器"
 
 msgid "TAG_RADSUIT"
-msgstr ""
+msgstr "防辐射服"
 
 msgid "TAG_VISOR"
-msgstr ""
+msgstr "光线强化目镜"
 
 msgid "TAG_ALLMAP"
-msgstr ""
+msgstr "电子地图"
 
 msgid "TAG_BERSERK"
-msgstr ""
+msgstr "狂战包"
 
 msgid "TAG_HEALTHBONUS"
-msgstr ""
+msgstr "生命药水"
 
 msgid "TAG_STIMPACK"
-msgstr ""
+msgstr "急救包"
 
 msgid "TAG_MEDIKIT"
-msgstr ""
+msgstr "医疗包"
 
 msgid "TAG_BLUECARD"
-msgstr ""
+msgstr "蓝钥匙卡"
 
 msgid "TAG_YELLOWCARD"
-msgstr ""
+msgstr "黄钥匙卡"
 
 msgid "TAG_REDCARD"
-msgstr ""
+msgstr "红钥匙卡"
 
 msgid "TAG_BLUESKULL"
-msgstr ""
+msgstr "蓝骷髅钥匙"
 
 msgid "TAG_YELLOWSKULL"
-msgstr ""
+msgstr "黄骷髅钥匙"
 
 msgid "TAG_REDSKULL"
-msgstr ""
+msgstr "红骷髅钥匙"
 
 msgid "TAG_GLASSOFWATER"
-msgstr ""
+msgstr "一杯水"
 
 msgid "TAG_BOWLOFFRUIT"
-msgstr ""
+msgstr "一碗水果"
 
 msgid "TAG_BOWLOFVEGETABLES"
-msgstr ""
+msgstr "一碗蔬菜"
 
 msgid "TAG_BREAKFAST"
-msgstr ""
+msgstr "超级充能早餐"
 
 msgid "TAG_REPELLENT"
 msgstr ""
 
 msgid "TAG_CHEXARMOR"
-msgstr ""
+msgstr "奇克斯护甲"
 
 msgid "TAG_SUPERCHEXARMOR"
-msgstr ""
+msgstr "超级奇克斯护甲"
 
 msgid "TAG_CHEXMAP"
-msgstr ""
+msgstr "电子区域地图"
 
 msgid "TAG_SLIMESUIT"
-msgstr ""
+msgstr "防粘液服"
 
 msgid "TAG_ZORCHPACK"
-msgstr ""
+msgstr "Zorch包"
 
 msgid "TAG_CBLUEKEY"
 msgstr "蓝钥匙"
@@ -5207,27 +5230,27 @@ msgstr "红钥匙"
 # brightness. Without this option, weapon sprites are generally brighter
 # compared to the sector's brightness
 msgid "GLPREFMNU_WPNPURELIGHT"
-msgstr "使武器与扇区光照亮度保持一致"
+msgstr "武器精灵上使用区域亮度"
 
 # Mark the player as ready to advance during the intermission in multiplayer
 # games
 msgid "NET_CONTINUE_MKB"
-msgstr "请按下空格或鼠标左键以准备"
+msgstr "按空格键或鼠标左键做好准备"
 
 msgid "NET_CONTINUE_CONTROLLER"
-msgstr "请按下A键以准备"
+msgstr "按A键做好准备"
 
 msgid "NET_CONTINUE_JOYSTICK"
-msgstr "请按下Joy 1键以准备"
+msgstr "按摇杆1键做好准备"
 
 msgid "GMPLYMNU_REMEMBERWEAP"
 msgstr "重生后自动选择先前选择的武器"
 
 msgid "CNTRLMNU_COOPSPYPREV"
-msgstr ""
+msgstr "查看上一个玩家视角"
 
 msgid "CNTRLMNU_COOPSPYCANCEL"
-msgstr ""
+msgstr "离开其他玩家视角"
 
 msgid "OPTMNU_ACCESSIBILITY"
-msgstr ""
+msgstr "辅助选项"
