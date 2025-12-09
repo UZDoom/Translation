@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-09 16:36+0000\n"
+"PO-Revision-Date: 2025-12-09 19:00+0000\n"
 "Last-Translator: dwing <12104745@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/common/zh_Hans/>\n"
@@ -2119,7 +2119,7 @@ msgid "JOYMNU_ANALOGSTRAFERUN"
 msgstr "模拟平移跑"
 
 msgid "NOTES_FAIL"
-msgstr ""
+msgstr "无法匹配发布说明"
 
 msgid "NOTES_VERSION"
 msgstr "版本"
