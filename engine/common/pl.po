@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-06 19:58+0000\n"
+"PO-Revision-Date: 2025-12-09 19:00+0000\n"
 "Last-Translator: Marazm Mamazm <brutdewelopment@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/common/pl/>"
 "\n"
@@ -66,7 +66,7 @@ msgid "TXT_SAY"
 msgstr "Mów:"
 
 msgid "TXT_QUITENDOOM"
-msgstr "Wciśnij dowolny klawisz lub kliknij myszką by wyjść."
+msgstr "Wciśnij dowolny klawisz lub kliknij gdziekolwiek myszką by wyjść."
 
 msgid "NEWSAVE"
 msgstr "<Nowy zapis gry>"
