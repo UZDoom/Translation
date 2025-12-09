@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-09 16:09+0000\n"
+"PO-Revision-Date: 2025-12-09 16:36+0000\n"
 "Last-Translator: dwing <12104745@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
@@ -766,1637 +766,1637 @@ msgid "BETA_BONUS1"
 msgstr "你拾取了恶魔匕首。"
 
 msgid "BETA_BONUS2"
-msgstr ""
+msgstr "你拾取了骷髅箱。"
 
 msgid "BETA_BONUS3"
-msgstr ""
+msgstr "你拾取了邪恶法杖。"
 
 msgid "BETA_BONUS4"
-msgstr ""
+msgstr "你拾取了邪恶圣经。"
 
 msgid "PD_BLUEO"
-msgstr ""
+msgstr "你需要蓝钥匙才能激活此物体"
 
 msgid "PD_REDO"
-msgstr ""
+msgstr "你需要红钥匙才能激活此物体"
 
 msgid "PD_YELLOWO"
-msgstr ""
+msgstr "你需要黄钥匙才能激活此物体"
 
 msgid "PD_BLUEK"
-msgstr ""
+msgstr "你需要蓝钥匙才能开此门"
 
 msgid "PD_REDK"
-msgstr ""
+msgstr "你需要红钥匙才能开此门"
 
 msgid "PD_YELLOWK"
-msgstr ""
+msgstr "你需要黄钥匙才能开此门"
 
 msgid "PD_BLUECO"
-msgstr ""
+msgstr "你需要蓝钥匙卡才能激活此物体"
 
 msgid "PD_REDCO"
-msgstr ""
+msgstr "你需要红钥匙卡才能激活此物体"
 
 msgid "PD_YELLOWCO"
-msgstr ""
+msgstr "你需要黄钥匙卡才能激活此物体"
 
 msgid "PD_BLUESO"
-msgstr ""
+msgstr "你需要蓝骷髅钥匙才能激活此物体"
 
 msgid "PD_REDSO"
-msgstr ""
+msgstr "你需要红骷髅钥匙才能激活此物体"
 
 msgid "PD_YELLOWSO"
-msgstr ""
+msgstr "你需要黄骷髅钥匙才能激活此物体"
 
 msgid "PD_BLUEC"
-msgstr ""
+msgstr "你需要蓝钥匙卡才能开此门"
 
 msgid "PD_REDC"
-msgstr ""
+msgstr "你需要红钥匙卡才能开此门"
 
 msgid "PD_YELLOWC"
-msgstr ""
+msgstr "你需要黄钥匙卡才能开此门"
 
 msgid "PD_BLUES"
-msgstr ""
+msgstr "你需要蓝骷髅钥匙才能开此门"
 
 msgid "PD_REDS"
-msgstr ""
+msgstr "你需要红骷髅钥匙才能开此门"
 
 msgid "PD_YELLOWS"
-msgstr ""
+msgstr "你需要黄骷髅钥匙才能开此门"
 
 msgid "CC_ZOMBIE"
-msgstr ""
+msgstr "僵尸兵"
 
 # a.k.a. (former human) sergeant
 msgid "CC_SHOTGUN"
-msgstr ""
+msgstr "霰弹枪军士"
 
 # a.k.a. former commando
 msgid "CC_HEAVY"
-msgstr ""
+msgstr "机枪突击手"
 
 msgid "CC_IMP"
-msgstr ""
+msgstr "幼魔"
 
 msgid "CC_DEMON"
-msgstr ""
+msgstr "粉红魔"
 
 msgid "CC_LOST"
-msgstr ""
+msgstr "丧魂"
 
 msgid "CC_CACO"
-msgstr ""
+msgstr "巨脑魔"
 
 msgid "CC_HELL"
-msgstr ""
+msgstr "地狱骑士"
 
 msgid "CC_BARON"
-msgstr ""
+msgstr "地狱男爵"
 
 msgid "CC_ARACH"
-msgstr ""
+msgstr "机械蜘蛛"
 
 msgid "CC_PAIN"
-msgstr ""
+msgstr "痛苦元素"
 
 msgid "CC_REVEN"
-msgstr ""
+msgstr "亡魂"
 
 msgid "CC_MANCU"
-msgstr ""
+msgstr "肥球"
 
 msgid "CC_ARCH"
-msgstr ""
+msgstr "恶魔召唤师"
 
 msgid "CC_SPIDER"
-msgstr ""
+msgstr "蜘蛛首脑"
 
 msgid "CC_CYBER"
-msgstr ""
+msgstr "机械巨魔"
 
 msgid "CC_HERO"
-msgstr ""
+msgstr "我们的英雄"
 
 msgid "FN_SHOTGUN"
-msgstr ""
+msgstr "霰弹枪军士"
 
 msgid "FN_HEAVY"
-msgstr ""
+msgstr "机枪突击手"
 
 msgid "FN_SPECTRE"
-msgstr ""
+msgstr "幽鬼"
 
 msgid "FN_SPIDER"
-msgstr ""
+msgstr "蜘蛛首脑"
 
 msgid "FN_CYBER"
-msgstr ""
+msgstr "机械巨魔"
 
 msgid "FN_WOLFSS"
-msgstr ""
+msgstr "纳粹兵"
 
 msgid "FN_DOG"
-msgstr ""
+msgstr "军犬"
 
 msgid "TAG_FIST"
-msgstr ""
+msgstr "铜指虎"
 
 msgid "TAG_CHAINSAW"
-msgstr ""
+msgstr "电锯"
 
 msgid "TAG_PISTOL"
-msgstr ""
+msgstr "手枪"
 
 msgid "TAG_SHOTGUN"
-msgstr ""
+msgstr "霰弹枪"
 
 msgid "TAG_SUPERSHOTGUN"
-msgstr ""
+msgstr "超级霰弹枪"
 
 msgid "TAG_CHAINGUN"
-msgstr ""
+msgstr "机枪"
 
 msgid "TAG_ROCKETLAUNCHER"
-msgstr ""
+msgstr "火箭炮"
 
 msgid "TAG_PLASMARIFLE"
-msgstr ""
+msgstr "电浆步枪"
 
 msgid "TAG_BFG9000"
-msgstr ""
+msgstr "BFG 9000"
 
 msgid "AMMO_CLIP"
-msgstr ""
+msgstr "子弹"
 
 msgid "AMMO_SHELLS"
-msgstr ""
+msgstr "霰弹"
 
 msgid "AMMO_ROCKETS"
-msgstr ""
+msgstr "火箭弹"
 
 msgid "AMMO_CELLS"
-msgstr ""
+msgstr "电池"
 
 msgid "OB_STEALTHBABY"
-msgstr ""
+msgstr "%o 以为 %g 看到了机械蜘蛛。"
 
 msgid "OB_STEALTHVILE"
-msgstr ""
+msgstr "%o 以为 %g 看到了恶魔召唤师。"
 
 msgid "OB_STEALTHBARON"
-msgstr ""
+msgstr "%o 以为 %g 看到了地狱男爵。"
 
 msgid "OB_STEALTHCACO"
-msgstr ""
+msgstr "%o 以为 %g 看到了巨脑魔。"
 
 msgid "OB_STEALTHCHAINGUY"
-msgstr ""
+msgstr "%o 以为 %g 看到了机枪突击手。"
 
 msgid "OB_STEALTHDEMON"
-msgstr ""
+msgstr "%o 以为 %g 看到了粉红魔。"
 
 msgid "OB_STEALTHKNIGHT"
-msgstr ""
+msgstr "%o 以为 %g 看到了地狱骑士。"
 
 msgid "OB_STEALTHIMP"
-msgstr ""
+msgstr "%o 以为 %g 看到了幼魔。"
 
 msgid "OB_STEALTHFATSO"
-msgstr ""
+msgstr "%o 以为 %g 看到了肥球。"
 
 msgid "OB_STEALTHUNDEAD"
-msgstr ""
+msgstr "%o 以为 %g 看到了亡魂。"
 
 msgid "OB_STEALTHSHOTGUNGUY"
-msgstr ""
+msgstr "%o 以为 %g 看到了霰弹枪军士。"
 
 msgid "OB_STEALTHZOMBIE"
-msgstr ""
+msgstr "%o 以为 %g 看到了僵尸兵。"
 
 msgid "OB_UNDEADHIT"
-msgstr ""
+msgstr "%o 被亡魂锤爆了。"
 
 msgid "OB_IMPHIT"
-msgstr ""
+msgstr "%o 被幼魔撕碎了。"
 
 msgid "OB_CACOHIT"
-msgstr ""
+msgstr "%o 离巨脑魔太近了。"
 
 msgid "OB_DEMONHIT"
-msgstr ""
+msgstr "%o 被粉红魔咬碎了。"
 
 msgid "OB_SPECTREHIT"
-msgstr ""
+msgstr "%o 被幽鬼吞下去了。"
 
 msgid "OB_BARONHIT"
-msgstr ""
+msgstr "%o 被地狱男爵开膛破肚了。"
 
 msgid "OB_KNIGHTHIT"
-msgstr ""
+msgstr "%o 被地狱骑士肢解了。"
 
 msgid "OB_ZOMBIE"
-msgstr ""
+msgstr "%o 被僵尸兵杀了。"
 
 msgid "OB_SHOTGUY"
-msgstr ""
+msgstr "%o 被霰弹枪军士射成了筛子。"
 
 msgid "OB_VILE"
-msgstr ""
+msgstr "%o 被恶魔召唤师烧成了灰。"
 
 msgid "OB_UNDEAD"
-msgstr ""
+msgstr "%o 没躲开亡魂的火球。"
 
 msgid "OB_FATSO"
-msgstr ""
+msgstr "%o 被肥球压烂了。"
 
 msgid "OB_CHAINGUY"
-msgstr ""
+msgstr "%o 被机枪突击手打的浑身是洞。"
 
 msgid "OB_SKULL"
-msgstr ""
+msgstr "%o 被丧魂吓死了。"
 
 msgid "OB_IMP"
-msgstr ""
+msgstr "%o 被幼魔烧死了。"
 
 msgid "OB_CACO"
-msgstr ""
+msgstr "%o 被巨脑魔轰死了。"
 
 msgid "OB_BARON"
-msgstr ""
+msgstr "%o 被地狱男爵的重击了。"
 
 msgid "OB_KNIGHT"
-msgstr ""
+msgstr "%o 被地狱骑士的分尸了。"
 
 msgid "OB_SPIDER"
-msgstr ""
+msgstr "%o 对蜘蛛首脑产生了敬畏。"
 
 msgid "OB_BABY"
-msgstr ""
+msgstr "%o 被机械蜘蛛逮了个正着。"
 
 msgid "OB_CYBORG"
-msgstr ""
+msgstr "%o 被机械巨魔轰成了肉泥。"
 
 msgid "OB_WOLFSS"
-msgstr ""
+msgstr "%o 遭遇了纳粹兵。"
 
 msgid "OB_DOG"
-msgstr ""
+msgstr "%o 被军犬撕咬了。"
 
 msgid "OB_MPFIST"
-msgstr ""
+msgstr "%o 被 %k 的拳头锤死了。"
 
 msgid "OB_MPCHAINSAW"
-msgstr ""
+msgstr "%o 被 %k 的电锯捅穿了。"
 
 msgid "OB_MPPISTOL"
-msgstr ""
+msgstr "%o 被 %k 的豌豆射手逗死了。"
 
 msgid "OB_MPSHOTGUN"
-msgstr ""
+msgstr "%o 吃了一发 %k 的火枪。"
 
 msgid "OB_MPSSHOTGUN"
-msgstr ""
+msgstr "%o 被 %k 的超级霰弹枪喷成了肉泥。"
 
 msgid "OB_MPCHAINGUN"
-msgstr ""
+msgstr "%o 被 %k 的机枪打成了筛子。"
 
 msgid "OB_MPROCKET"
-msgstr ""
+msgstr "%o 骑上了 %k 火箭弹。"
 
 msgid "OB_MPR_SPLASH"
-msgstr ""
+msgstr "%o 差点躲开了 %k 火箭弹。"
 
 msgid "OB_MPPLASMARIFLE"
-msgstr ""
+msgstr "%o 被 %k 的电浆步枪融解了。"
 
 msgid "OB_MPBFG_BOOM"
-msgstr ""
+msgstr "%o 被 %k 的BFG打爆了。"
 
 msgid "OB_MPBFG_SPLASH"
-msgstr ""
+msgstr "%o 无法躲藏 %k 的BFG。"
 
 msgid "OB_RAILGUN"
-msgstr ""
+msgstr "%o 死于 %k 的轨道枪。"
 
 msgid "OB_MPBFG_MBF"
-msgstr ""
+msgstr "%o 被 %k 的BFG烧死了。"
 
 msgid "TXT_GOTBLUEKEY"
-msgstr ""
+msgstr "蓝钥匙"
 
 msgid "TXT_GOTYELLOWKEY"
-msgstr ""
+msgstr "黄钥匙"
 
 msgid "TXT_GOTGREENKEY"
-msgstr ""
+msgstr "绿钥匙"
 
 msgid "TXT_ARTIHEALTH"
-msgstr ""
+msgstr "石英药瓶"
 
 msgid "TXT_ARTIFLY"
-msgstr ""
+msgstr "愤怒之翼"
 
 msgid "TXT_ARTIINVULNERABILITY"
-msgstr ""
+msgstr "无敌戒指"
 
 msgid "TXT_ARTITOMEOFPOWER"
-msgstr ""
+msgstr "力量宝典"
 
 msgid "TXT_ARTIINVISIBILITY"
-msgstr ""
+msgstr "暗影球"
 
 msgid "TXT_ARTIEGG"
-msgstr ""
+msgstr "变形卵"
 
 msgid "TXT_ARTISUPERHEALTH"
-msgstr ""
+msgstr "神秘瓮"
 
 msgid "TXT_ARTITORCH"
-msgstr ""
+msgstr "火把"
 
 msgid "TXT_ARTIFIREBOMB"
-msgstr ""
+msgstr "远古定时炸弹"
 
 msgid "TXT_ARTITELEPORT"
-msgstr ""
+msgstr "混沌装置"
 
 msgid "TXT_ITEMHEALTH"
-msgstr ""
+msgstr "水晶药瓶"
 
 msgid "TXT_ITEMBAGOFHOLDING"
-msgstr ""
+msgstr "弹药袋"
 
 msgid "TXT_ITEMSHIELD1"
-msgstr ""
+msgstr "白银护盾"
 
 msgid "TXT_ITEMSHIELD2"
-msgstr ""
+msgstr "附魔护盾"
 
 msgid "TXT_ITEMSUPERMAP"
-msgstr ""
+msgstr "地图卷轴"
 
 msgid "TXT_AMMOGOLDWAND1"
-msgstr ""
+msgstr "魔杖水晶"
 
 msgid "TXT_AMMOGOLDWAND2"
-msgstr ""
+msgstr "水晶原石"
 
 msgid "TXT_AMMOMACE1"
-msgstr ""
+msgstr "钉锤之球"
 
 msgid "TXT_AMMOMACE2"
-msgstr ""
+msgstr "钉锤球堆"
 
 msgid "TXT_AMMOCROSSBOW1"
-msgstr ""
+msgstr "空灵箭"
 
 msgid "TXT_AMMOCROSSBOW2"
-msgstr ""
+msgstr "空灵箭箭袋"
 
 msgid "TXT_AMMOBLASTER1"
-msgstr ""
+msgstr "魔爪宝珠"
 
 msgid "TXT_AMMOBLASTER2"
-msgstr ""
+msgstr "能量宝珠"
 
 msgid "TXT_AMMOSKULLROD1"
-msgstr ""
+msgstr "次级符文"
 
 msgid "TXT_AMMOSKULLROD2"
-msgstr ""
+msgstr "高级符文"
 
 msgid "TXT_AMMOPHOENIXROD1"
-msgstr ""
+msgstr "火焰宝珠"
 
 msgid "TXT_AMMOPHOENIXROD2"
-msgstr ""
+msgstr "炼狱宝珠"
 
 msgid "TXT_WPNGOLDWAND"
-msgstr ""
+msgstr "黄金魔杖"
 
 msgid "TXT_WPNMACE"
-msgstr ""
+msgstr "火焰钉锤"
 
 msgid "TXT_WPNCROSSBOW"
-msgstr ""
+msgstr "空灵弩"
 
 msgid "TXT_WPNBLASTER"
-msgstr ""
+msgstr "龙爪"
 
 msgid "TXT_WPNSKULLROD"
-msgstr ""
+msgstr "地狱法杖"
 
 msgid "TXT_WPNPHOENIXROD"
-msgstr ""
+msgstr "凤凰权杖"
 
 msgid "TXT_WPNGAUNTLETS"
-msgstr ""
+msgstr "死灵法师护手"
 
 msgid "TXT_NEEDBLUEKEY"
-msgstr ""
+msgstr "你需要蓝钥匙才能开此门"
 
 msgid "TXT_NEEDGREENKEY"
-msgstr ""
+msgstr "你需要绿钥匙才能开此门"
 
 msgid "TXT_NEEDYELLOWKEY"
-msgstr ""
+msgstr "你需要黄钥匙才能开此门"
 
 msgid "FN_CHICKEN"
-msgstr ""
+msgstr "小鸡"
 
 # Wordplay: werewolf
 msgid "FN_BEAST"
-msgstr ""
+msgstr "龙人"
 
 # Wordplay: sabre-tooth
 msgid "FN_CLINK"
-msgstr ""
+msgstr "剑爪"
 
 msgid "FN_DSPARIL"
-msgstr ""
+msgstr "迪萨魔"
 
 msgid "FN_HERETICIMP"
-msgstr ""
+msgstr "石像鬼"
 
 msgid "FN_IRONLICH"
-msgstr ""
+msgstr "铁巫妖"
 
 msgid "FN_BONEKNIGHT"
-msgstr ""
+msgstr "亡灵战士"
 
 msgid "FN_MINOTAUR"
-msgstr ""
+msgstr "牛头怪"
 
 msgid "FN_MUMMY"
-msgstr ""
+msgstr "魔像"
 
 msgid "FN_MUMMYLEADER"
-msgstr ""
+msgstr "爆裂魔像"
 
 msgid "FN_SNAKE"
-msgstr ""
+msgstr "蛇妖"
 
 msgid "FN_WIZARD"
-msgstr ""
+msgstr "巫师"
 
 msgid "AMMO_GOLDWAND"
-msgstr ""
+msgstr "魔杖水晶"
 
 msgid "AMMO_CROSSBOW"
-msgstr ""
+msgstr "空灵箭"
 
 msgid "AMMO_BLASTER"
-msgstr ""
+msgstr "魔爪宝珠"
 
 msgid "AMMO_MACE"
-msgstr ""
+msgstr "钉锤之球"
 
 msgid "AMMO_SKULLROD"
-msgstr ""
+msgstr "地狱法杖符文"
 
 msgid "AMMO_PHOENIXROD"
-msgstr ""
+msgstr "火焰宝珠"
 
 msgid "TAG_STAFF"
-msgstr ""
+msgstr "法杖"
 
 msgid "TAG_GOLDWAND"
-msgstr ""
+msgstr "精灵魔杖"
 
 msgid "OB_CHICKEN"
-msgstr ""
+msgstr "%o 被啄死了。"
 
 msgid "OB_BEAST"
-msgstr ""
+msgstr "%o 被龙人烧焦了。"
 
 msgid "OB_CLINK"
-msgstr ""
+msgstr "%o 被剑爪割裂了。"
 
 msgid "OB_DSPARIL1"
-msgstr ""
+msgstr "%o 被迪萨魔之巨蛇烧死了。"
 
 msgid "OB_DSPARIL1HIT"
-msgstr ""
+msgstr "%o 被迪萨魔之巨蛇咬碎了。"
 
 msgid "OB_DSPARIL2"
-msgstr ""
+msgstr "%o 打不过迪萨魔。"
 
 msgid "OB_DSPARIL2HIT"
-msgstr ""
+msgstr "%o 被迪萨魔打倒了。"
 
 msgid "OB_HERETICIMP"
-msgstr ""
+msgstr "%o 被石像鬼打得伤痕累累。"
 
 msgid "OB_HERETICIMPHIT"
-msgstr ""
+msgstr "%o 被石像鬼砍死了。"
 
 msgid "OB_IRONLICH"
-msgstr ""
+msgstr "%o 被铁巫妖摧毁了。"
 
 msgid "OB_IRONLICHHIT"
-msgstr ""
+msgstr "%o 跟铁巫妖近距离亲密接触了。"
 
 msgid "OB_BONEKNIGHT"
-msgstr ""
+msgstr "%o 被亡灵战士劈死了。"
 
 msgid "OB_BONEKNIGHTHIT"
-msgstr ""
+msgstr "%o 被亡灵战士杀死了。"
 
 msgid "OB_MINOTAUR"
-msgstr ""
+msgstr "%o 被牛头怪炸成了灰烬。"
 
 msgid "OB_MINOTAURHIT"
-msgstr ""
+msgstr "%o 被牛头怪捣成了浆糊。"
 
 msgid "OB_MUMMY"
-msgstr ""
+msgstr "%o 被魔像撞死了。"
 
 msgid "OB_MUMMYLEADER"
-msgstr ""
+msgstr "%o 被爆裂魔像吼死了。"
 
 msgid "OB_SNAKE"
-msgstr ""
+msgstr "%o 被蛇妖吓死了。"
 
 msgid "OB_WIZARD"
-msgstr ""
+msgstr "%o 被巫师咒死了。"
 
 msgid "OB_WIZARDHIT"
-msgstr ""
+msgstr "%o 被巫师触死了。"
 
 msgid "OB_MPSTAFF"
-msgstr ""
+msgstr "%o 被 %k 的法杖捅死了。"
 
 msgid "OB_MPGAUNTLETS"
-msgstr ""
+msgstr "%o 被 %k 铁手套电死了。"
 
 msgid "OB_MPGOLDWAND"
-msgstr ""
+msgstr "%o 向 %k 的精灵魔杖挥手拜拜。"
 
 msgid "OB_MPCROSSBOW"
-msgstr ""
+msgstr "%o 被 %k 的空灵弩钉死了。"
 
 msgid "OB_MPBLASTER"
-msgstr ""
+msgstr "%o 被 %k 的龙爪轰到了转世。"
 
 msgid "OB_MPSKULLROD"
-msgstr ""
+msgstr "%o 被 %k 的地狱法杖送到了下界。"
 
 msgid "OB_MPPHOENIXROD"
-msgstr ""
+msgstr "%o 被 %k 的凤凰权杖烧成了灰烬。"
 
 msgid "OB_MPMACE"
-msgstr ""
+msgstr "%o 被 %k 的火焰钉锤弹飞了。"
 
 msgid "OB_MPPSTAFF"
-msgstr ""
+msgstr "%o 被 %k 的充能法杖热烈迎接了。"
 
 msgid "OB_MPPGAUNTLETS"
-msgstr ""
+msgstr "%o 被 %k 的铁手套榨干了。"
 
 msgid "OB_MPPGOLDWAND"
-msgstr ""
+msgstr "%o 被 %k 的精灵魔杖袭击了。"
 
 msgid "OB_MPPCROSSBOW"
-msgstr ""
+msgstr "%o 被 %k 的空灵弩欺诈了。"
 
 msgid "OB_MPPBLASTER"
-msgstr ""
+msgstr "%o 被 %k 的龙爪撕裂了。"
 
 msgid "OB_MPPSKULLROD"
-msgstr ""
+msgstr "%o 被 %k 的地狱法杖喷死了。"
 
 msgid "OB_MPPPHOENIXROD"
-msgstr ""
+msgstr "%o 被 %k 的凤凰法杖烧成了灰烬。"
 
 msgid "OB_MPPMACE"
-msgstr ""
+msgstr "%o 被 %k 巨大的战锤之球压死了。"
 
 msgid "TXT_MANA_1"
-msgstr ""
+msgstr "蓝魔能"
 
 msgid "TXT_MANA_2"
-msgstr ""
+msgstr "绿魔能"
 
 msgid "TXT_MANA_BOTH"
-msgstr ""
+msgstr "组合魔能"
 
 msgid "TXT_KEY_STEEL"
-msgstr ""
+msgstr "钢铁钥匙"
 
 msgid "TXT_KEY_CAVE"
-msgstr ""
+msgstr "洞穴钥匙"
 
 msgid "TXT_KEY_AXE"
-msgstr ""
+msgstr "斧头钥匙"
 
 msgid "TXT_KEY_FIRE"
-msgstr ""
+msgstr "火焰钥匙"
 
 msgid "TXT_KEY_EMERALD"
-msgstr ""
+msgstr "翡翠钥匙"
 
 msgid "TXT_KEY_DUNGEON"
-msgstr ""
+msgstr "地牢钥匙"
 
 msgid "TXT_KEY_SILVER"
-msgstr ""
+msgstr "白银钥匙"
 
 msgid "TXT_KEY_RUSTED"
-msgstr ""
+msgstr "生锈钥匙"
 
 msgid "TXT_KEY_HORN"
-msgstr ""
+msgstr "兽角钥匙"
 
 msgid "TXT_KEY_SWAMP"
-msgstr ""
+msgstr "沼泽钥匙"
 
 msgid "TXT_KEY_CASTLE"
-msgstr ""
+msgstr "城堡钥匙"
 
 msgid "TXT_ARTIINVULNERABILITY2"
-msgstr ""
+msgstr "守护者圣像"
 
 msgid "TXT_ARTISUMMON"
-msgstr ""
+msgstr "黑暗仆从"
 
 msgid "TXT_ARTIEGG2"
-msgstr ""
+msgstr "猪化器"
 
 msgid "TXT_ARTIPOISONBAG"
-msgstr ""
+msgstr "弹瓶"
 
 msgid "TXT_ARTITELEPORTOTHER"
-msgstr ""
+msgstr "放逐装置"
 
 msgid "TXT_ARTISPEED"
-msgstr ""
+msgstr "速度之靴"
 
 msgid "TXT_ARTIBOOSTMANA"
-msgstr ""
+msgstr "威能圣杯"
 
 msgid "TXT_ARTIBOOSTARMOR"
-msgstr ""
+msgstr "龙皮护腕"
 
 msgid "TXT_ARTIBLASTRADIUS"
-msgstr ""
+msgstr "排斥之盘"
 
 msgid "TXT_ARTIHEALINGRADIUS"
-msgstr ""
+msgstr "奥域法咒"
 
 msgid "TXT_ARTIPUZZSKULL"
-msgstr ""
+msgstr "约里克的头骨"
 
 msgid "TXT_ARTIPUZZGEMBIG"
-msgstr ""
+msgstr "迪萨魔之心"
 
 msgid "TXT_ARTIPUZZGEMRED"
-msgstr ""
+msgstr "红宝石之星"
 
 msgid "TXT_ARTIPUZZGEMGREEN1"
-msgstr ""
+msgstr "翡翠之星"
 
 msgid "TXT_ARTIPUZZGEMGREEN2"
-msgstr ""
+msgstr "翡翠之星"
 
 msgid "TXT_ARTIPUZZGEMBLUE1"
-msgstr ""
+msgstr "蓝宝石之星"
 
 msgid "TXT_ARTIPUZZGEMBLUE2"
-msgstr ""
+msgstr "蓝宝石之星"
 
 msgid "TXT_ARTIPUZZBOOK1"
-msgstr ""
+msgstr "恶魔秘典"
 
 msgid "TXT_ARTIPUZZBOOK2"
-msgstr ""
+msgstr "晦暗之书"
 
 msgid "TXT_ARTIPUZZSKULL2"
-msgstr ""
+msgstr "火焰面具"
 
 msgid "TXT_ARTIPUZZFWEAPON"
-msgstr ""
+msgstr "长刀封印"
 
 msgid "TXT_ARTIPUZZCWEAPON"
-msgstr ""
+msgstr "神圣遗物"
 
 msgid "TXT_ARTIPUZZMWEAPON"
-msgstr ""
+msgstr "魔导法印"
 
 msgid "TXT_ARTIPUZZGEAR"
-msgstr ""
+msgstr "时钟齿轮"
 
 msgid "TXT_USEPUZZLEFAILED"
-msgstr ""
+msgstr "你无法在这使用"
 
 msgid "TXT_ARMOR1"
-msgstr ""
+msgstr "织网护甲"
 
 msgid "TXT_ARMOR2"
-msgstr ""
+msgstr "猎鹰护盾"
 
 msgid "TXT_ARMOR3"
-msgstr ""
+msgstr "白金头盔"
 
 msgid "TXT_ARMOR4"
-msgstr ""
+msgstr "守护护符"
 
 msgid "TXT_WEAPON_F2"
-msgstr ""
+msgstr "泰蒙之斧"
 
 msgid "TXT_WEAPON_F3"
-msgstr ""
+msgstr "惩戒之锤"
 
 msgid "TXT_WEAPON_F4"
-msgstr ""
+msgstr "已组装的安息神剑"
 
 msgid "TXT_WEAPON_C2"
-msgstr ""
+msgstr "巨蛇法杖"
 
 msgid "TXT_WEAPON_C3"
-msgstr ""
+msgstr "火焰风暴"
 
 msgid "TXT_WEAPON_C4"
-msgstr ""
+msgstr "已组装的幽魂权杖"
 
 msgid "TXT_WEAPON_M2"
-msgstr ""
+msgstr "冰霜碎片"
 
 msgid "TXT_WEAPON_M3"
-msgstr ""
+msgstr "死亡电弧"
 
 msgid "TXT_WEAPON_M4"
-msgstr ""
+msgstr "已组装的血腥浩劫"
 
 msgid "TXT_WEAPONPIECE"
-msgstr ""
+msgstr "武器部件！今天是你的幸运日！"
 
 msgid "TXT_QUIETUS_PIECE"
-msgstr ""
+msgstr "安息神剑部件"
 
 msgid "TXT_WRAITHVERGE_PIECE"
-msgstr ""
+msgstr "幽魂权杖部件"
 
 msgid "TXT_BLOODSCOURGE_PIECE"
-msgstr ""
+msgstr "血腥浩劫部件"
 
 msgid "TXT_NEED_KEY_STEEL"
-msgstr ""
+msgstr "你需要钢铁钥匙"
 
 msgid "TXT_NEED_KEY_CAVE"
-msgstr ""
+msgstr "你需要洞穴钥匙"
 
 msgid "TXT_NEED_KEY_AXE"
-msgstr ""
+msgstr "你需要斧头钥匙"
 
 msgid "TXT_NEED_KEY_FIRE"
-msgstr ""
+msgstr "你需要火焰钥匙"
 
 msgid "TXT_NEED_KEY_EMERALD"
-msgstr ""
+msgstr "你需要翡翠钥匙"
 
 msgid "TXT_NEED_KEY_DUNGEON"
-msgstr ""
+msgstr "你需要地牢钥匙"
 
 msgid "TXT_NEED_KEY_SILVER"
-msgstr ""
+msgstr "你需要白银钥匙"
 
 msgid "TXT_NEED_KEY_RUSTED"
-msgstr ""
+msgstr "你需要生锈钥匙"
 
 msgid "TXT_NEED_KEY_HORN"
-msgstr ""
+msgstr "你需要兽角钥匙"
 
 msgid "TXT_NEED_KEY_SWAMP"
-msgstr ""
+msgstr "你需要沼泽钥匙"
 
 msgid "TXT_NEED_KEY_CASTLE"
-msgstr ""
+msgstr "你需要城堡钥匙"
 
 msgid "FN_FIREDEMON"
-msgstr ""
+msgstr "火魔"
 
 msgid "FN_DEMON1"
-msgstr ""
+msgstr "巨蛇"
 
 msgid "FN_ETTIN"
-msgstr ""
+msgstr "双头魔"
 
 msgid "FN_CENTAUR"
-msgstr ""
+msgstr "半人马"
 
 msgid "FN_SLAUGHTAUR"
-msgstr ""
+msgstr "嗜血半人马"
 
 msgid "FN_BISHOP"
-msgstr ""
+msgstr "主教"
 
 msgid "FN_ICEGUY"
-msgstr ""
+msgstr "温迪戈"
 
 msgid "FN_SERPENT"
-msgstr ""
+msgstr "潜行者"
 
 msgid "FN_WRAITH"
-msgstr ""
+msgstr "劫掠者"
 
 msgid "FN_DRAGON"
-msgstr ""
+msgstr "死亡飞龙"
 
 msgid "FN_KORAX"
-msgstr ""
+msgstr "科拉克斯"
 
 msgid "FN_FBOSS"
-msgstr ""
+msgstr "泽德克"
 
 msgid "FN_MBOSS"
-msgstr ""
+msgstr "梅内尔基尔"
 
 msgid "FN_CBOSS"
-msgstr ""
+msgstr "特拉杜克图斯"
 
 msgid "FN_HERESIARCH"
-msgstr ""
+msgstr "异端首领"
 
 msgid "AMMO_MANA1"
-msgstr ""
+msgstr "蓝魔能"
 
 msgid "AMMO_MANA2"
-msgstr ""
+msgstr "绿魔能"
 
 msgid "TAG_CWEAPMACE"
-msgstr ""
+msgstr "忏悔钉锤"
 
 msgid "TAG_CWEAPSTAFF"
-msgstr ""
+msgstr "巨蛇法杖"
 
 msgid "TAG_CWEAPFLAME"
-msgstr ""
+msgstr "火焰风暴"
 
 msgid "TAG_CWEAPWRAITHVERGE"
-msgstr ""
+msgstr "幽魂权杖"
 
 msgid "TAG_FWEAPFIST"
-msgstr ""
+msgstr "尖刺护手"
 
 msgid "TAG_FWEAPAXE"
-msgstr ""
+msgstr "泰蒙之斧"
 
 msgid "TAG_FWEAPHAMMER"
-msgstr ""
+msgstr "惩戒之锤"
 
 msgid "TAG_FWEAPQUIETUS"
-msgstr ""
+msgstr "安息神剑"
 
 msgid "TAG_MWEAPWAND"
-msgstr ""
+msgstr "蓝宝石魔杖"
 
 msgid "TAG_MWEAPFROST"
-msgstr ""
+msgstr "冰霜碎片"
 
 msgid "TAG_MWEAPLIGHTNING"
-msgstr ""
+msgstr "死亡电弧"
 
 msgid "TAG_MWEAPBLOODSCOURGE"
-msgstr ""
+msgstr "血腥浩劫"
 
 msgid "TAG_ARTIBLASTRADIUS"
-msgstr ""
+msgstr "排斥之盘"
 
 msgid "TAG_ARTIBOOSTARMOR"
-msgstr ""
+msgstr "龙皮护腕"
 
 msgid "TAG_ARTIBOOSTMANA"
-msgstr ""
+msgstr "威能圣杯"
 
 msgid "TAG_ARTIPOISONBAG"
-msgstr ""
+msgstr "弹瓶"
 
 msgid "TAG_ARTIPOISONBAG1"
-msgstr ""
+msgstr "毒云弹瓶"
 
 msgid "TAG_ARTIPOISONBAG2"
-msgstr ""
+msgstr "定时炸弹瓶"
 
 msgid "TAG_ARTIPOISONBAG3"
-msgstr ""
+msgstr "榴弹瓶"
 
 msgid "TAG_ARTIHEALINGRADIUS"
-msgstr ""
+msgstr "奥域法咒"
 
 msgid "TAG_ARTIDEFENDER"
-msgstr ""
+msgstr "守护者圣像"
 
 msgid "TAG_ARTIPORK"
-msgstr ""
+msgstr "猪化器"
 
 msgid "TAG_ARTISPEED"
-msgstr ""
+msgstr "速度之靴"
 
 msgid "TAG_ARTISUMMON"
-msgstr ""
+msgstr "黑暗仆从"
 
 msgid "TAG_ARTITELEPORTOTHER"
-msgstr ""
+msgstr "放逐装置"
 
 msgid "TAG_ARTIPUZZSKULL"
-msgstr ""
+msgstr "约里克的头骨"
 
 msgid "TAG_ARTIPUZZGEMBIG"
-msgstr ""
+msgstr "迪萨魔之心"
 
 msgid "TAG_ARTIPUZZGEMRED"
-msgstr ""
+msgstr "红宝石之星"
 
 msgid "TAG_ARTIPUZZGEMGREEN1"
-msgstr ""
+msgstr "翡翠之星(1)"
 
 msgid "TAG_ARTIPUZZGEMGREEN2"
-msgstr ""
+msgstr "翡翠之星(2)"
 
 msgid "TAG_ARTIPUZZGEMBLUE1"
-msgstr ""
+msgstr "蓝宝石之星(1)"
 
 msgid "TAG_ARTIPUZZGEMBLUE2"
-msgstr ""
+msgstr "蓝宝石之星(2)"
 
 msgid "TAG_ARTIPUZZBOOK1"
-msgstr ""
+msgstr "恶魔秘典"
 
 msgid "TAG_ARTIPUZZBOOK2"
-msgstr ""
+msgstr "晦暗之书"
 
 msgid "TAG_ARTIPUZZSKULL2"
-msgstr ""
+msgstr "火焰面具"
 
 msgid "TAG_ARTIPUZZFWEAPON"
-msgstr ""
+msgstr "长刀封印"
 
 msgid "TAG_ARTIPUZZCWEAPON"
-msgstr ""
+msgstr "神圣遗物"
 
 msgid "TAG_ARTIPUZZMWEAPON"
-msgstr ""
+msgstr "魔导法印"
 
 msgid "TAG_ARTIPUZZGEAR1"
-msgstr ""
+msgstr "铁齿轮"
 
 msgid "TAG_ARTIPUZZGEAR2"
-msgstr ""
+msgstr "铜齿轮"
 
 msgid "TAG_ARTIPUZZGEAR3"
-msgstr ""
+msgstr "铜铁齿轮"
 
 msgid "TAG_ARTIPUZZGEAR4"
-msgstr ""
+msgstr "银铜齿轮"
 
 msgid "OB_FIREDEMON"
-msgstr ""
+msgstr "%o 尝到了火魔之火。"
 
 msgid "OB_DEMON1"
-msgstr ""
+msgstr "%o 被巨蛇烧死了。"
 
 msgid "OB_DEMON2"
-msgstr ""
+msgstr "%o 被巨蛇毒死了。"
 
 msgid "OB_ETTIN"
-msgstr ""
+msgstr "%o 被双头魔捣碎了。"
 
 msgid "OB_CENTAUR"
-msgstr ""
+msgstr "%o 被半人马切开了。"
 
 msgid "OB_SLAUGHTAURHIT"
-msgstr ""
+msgstr "%o 被嗜血半人马切开了。"
 
 msgid "OB_SLAUGHTAUR"
-msgstr ""
+msgstr "%o 被嗜血半人马的火球击倒了。"
 
 msgid "OB_BISHOP"
-msgstr ""
+msgstr "%o 屈服于主教的黑暗力量。"
 
 msgid "OB_ICEGUY"
-msgstr ""
+msgstr "%o 被温迪戈冰冻得结结实实。"
 
 msgid "OB_SERPENTHIT"
-msgstr ""
+msgstr "%o 被潜行者撕咬了。"
 
 msgid "OB_SERPENT"
-msgstr ""
+msgstr "%o 被潜行者溶解了。"
 
 msgid "OB_WRAITH"
-msgstr ""
+msgstr "%o 被劫掠者烧焦了。"
 
 msgid "OB_WRAITHHIT"
-msgstr ""
+msgstr "%o 的生命被劫掠者偷取了。"
 
 msgid "OB_DRAGON"
-msgstr ""
+msgstr "%o 被死亡飞龙烧成了灰。"
 
 msgid "OB_KORAX"
-msgstr ""
+msgstr "%o 被科拉克斯从台上扫了下去。"
 
 msgid "OB_FBOSS"
-msgstr ""
+msgstr "%o 被泽德克杀死了。"
 
 msgid "OB_MBOSS"
-msgstr ""
+msgstr "%o 无法再吸收梅内尔基尔的魔力了。"
 
 msgid "OB_CBOSS"
-msgstr ""
+msgstr "%o 受到了特拉杜克图斯的洗礼。"
 
 msgid "OB_HERESIARCH"
-msgstr ""
+msgstr "%o 的骨头被异端首领撒了一地。"
 
 msgid "OB_MPFWEAPFIST"
-msgstr ""
+msgstr "%o 被 %k 的赤手空拳打成稀烂。"
 
 msgid "OB_MPFWEAPAXE"
-msgstr ""
+msgstr "%o 尝到了 %k 的斧子。"
 
 msgid "OB_MPFWEAPHAMMERM"
-msgstr ""
+msgstr "%o 的头被 %k 的锤子敲了个洞。"
 
 msgid "OB_MPFWEAPHAMMERR"
-msgstr ""
+msgstr "%o 的灵魂被 %k 的锤子重新锻造了。"
 
 msgid "OB_MPFWEAPQUIETUS"
-msgstr ""
+msgstr "%o 被 %k 强大的安息神剑陷入了沉默。"
 
 msgid "OB_MPCWEAPMACE"
-msgstr ""
+msgstr "%o 的脸挨了 %k 一钉锤。"
 
 msgid "OB_MPCWEAPSTAFFM"
-msgstr ""
+msgstr "%o 被 %k 的巨蛇法杖咬了。"
 
 msgid "OB_MPCWEAPSTAFFR"
-msgstr ""
+msgstr "%o 被 %k 的巨蛇法杖缠住了喉咙。"
 
 msgid "OB_MPCWEAPFLAME"
-msgstr ""
+msgstr "%o 被 %k 的火焰照亮了。"
 
 msgid "OB_MPCWEAPWRAITHVERGE"
-msgstr ""
+msgstr "%o 被 %k 的幽魂权杖净化了。"
 
 msgid "OB_MPMWEAPWAND"
-msgstr ""
+msgstr "%o 受到了 %k 太多的蓝宝石射线。"
 
 msgid "OB_MPMWEAPFROST"
-msgstr ""
+msgstr "%o 被 %k 冻成了一个冷冰冰的家伙。"
 
 msgid "OB_MPMWEAPLIGHTNING"
-msgstr ""
+msgstr "%o 收到了 %k 的一个令人震惊的启示。"
 
 msgid "OB_MPMWEAPBLOODSCOURGE"
-msgstr ""
+msgstr "%o 被 %k 的血腥浩劫从宇宙中抹掉了。"
 
 msgid "TXT_METALARMOR"
-msgstr ""
+msgstr "你拾取了金属护甲。"
 
 msgid "TXT_LEATHERARMOR"
-msgstr ""
+msgstr "你拾取了皮革护甲。"
 
 msgid "TXT_MEDPATCH"
-msgstr ""
+msgstr "你拾取了治疗贴。"
 
 msgid "TXT_MEDICALKIT"
-msgstr ""
+msgstr "你拾取了医疗工具。"
 
 msgid "TXT_SURGERYKIT"
-msgstr ""
+msgstr "你拾取了手术工具。"
 
 msgid "TXT_STRIFEMAP"
-msgstr ""
+msgstr "你拾取了地图。"
 
 msgid "TXT_BELDINSRING"
-msgstr ""
+msgstr "你拾取了戒指。"
 
 msgid "TXT_OFFERINGCHALICE"
-msgstr ""
+msgstr "你拾取了供品圣杯。"
 
 msgid "TXT_EAR"
-msgstr ""
+msgstr "你拾取了耳朵。"
 
 msgid "TXT_BROKENCOUPLING"
-msgstr ""
+msgstr "你拾取了损坏的电源耦合器。"
 
 msgid "TXT_SHADOWARMOR"
-msgstr ""
+msgstr "你拾取了暗影护甲。"
 
 msgid "TXT_ENVSUIT"
-msgstr ""
+msgstr "你拾取了防护套装。"
 
 msgid "TXT_GUARDUNIFORM"
-msgstr ""
+msgstr "你拾取了守卫制服。"
 
 msgid "TXT_OFFICERSUNIFORM"
-msgstr ""
+msgstr "你拾取了士官制服。"
 
 msgid "TXT_FTHROWERPARTS"
-msgstr ""
+msgstr "你拾取了火焰喷射器部件。"
 
 msgid "TXT_REPORT"
-msgstr ""
+msgstr "你拾取了报告。"
 
 msgid "TXT_INFO"
-msgstr ""
+msgstr "你拾取了情报。"
 
 msgid "TXT_TARGETER"
-msgstr ""
+msgstr "你拾取了瞄准器。"
 
 msgid "TXT_COMMUNICATOR"
-msgstr ""
+msgstr "你拾取了通讯器。"
 
 msgid "TXT_COIN"
-msgstr ""
+msgstr "你拾取了硬币。"
 
 msgid "TXT_XGOLD"
-msgstr ""
+msgstr "你拾取了 %d 金币。"
 
 msgid "TXT_BEACON"
-msgstr ""
+msgstr "你拾取了传送器信标。"
 
 msgid "TXT_DEGNINORE"
-msgstr ""
+msgstr "你拾取了德宁矿石。"
 
 msgid "TXT_SCANNER"
-msgstr ""
+msgstr "你拾取了扫描器。"
 
 msgid "TXT_NEEDMAP"
-msgstr ""
+msgstr "没有地图扫描器无法工作！\n"
 
 msgid "TXT_PRISONPASS"
-msgstr ""
+msgstr "你拾取了监狱许可证。"
 
 msgid "TXT_STRIFECROSSBOW"
-msgstr ""
+msgstr "你拾取了十字弓。"
 
 msgid "TXT_ASSAULTGUN"
-msgstr ""
+msgstr "你拾取了突击枪。"
 
 msgid "TXT_MMLAUNCHER"
-msgstr ""
+msgstr "你拾取了迷你导弹发射器。"
 
 msgid "TXT_FLAMER"
-msgstr ""
+msgstr "你拾取了火焰喷射器。"
 
 msgid "TXT_MAULER"
-msgstr ""
+msgstr "你拾取了毛勒。"
 
 msgid "TXT_GLAUNCHER"
-msgstr ""
+msgstr "你拾取了榴弹发射器。"
 
 msgid "TXT_SIGIL"
-msgstr ""
+msgstr "你拾取了印记。"
 
 msgid "TXT_BASEKEY"
-msgstr ""
+msgstr "你拾取了基地钥匙。"
 
 msgid "TXT_GOVSKEY"
-msgstr ""
+msgstr "你拾取了政府钥匙。"
 
 msgid "TXT_PASSCARD"
-msgstr ""
+msgstr "你拾取了通行卡。"
 
 msgid "TXT_IDBADGE"
-msgstr ""
+msgstr "你拾取了ID章。"
 
 msgid "TXT_PRISONKEY"
-msgstr ""
+msgstr "你拾取了监狱钥匙。"
 
 msgid "TXT_SEVEREDHAND"
-msgstr ""
+msgstr "你拾取了切断的手。"
 
 msgid "TXT_POWER1KEY"
-msgstr ""
+msgstr "你拾取了电源1钥匙。"
 
 msgid "TXT_POWER2KEY"
-msgstr ""
+msgstr "你拾取了电源2钥匙。"
 
 msgid "TXT_POWER3KEY"
-msgstr ""
+msgstr "你拾取了电源3钥匙。"
 
 msgid "TXT_GOLDKEY"
-msgstr ""
+msgstr "你拾取了黄金钥匙。"
 
 msgid "TXT_IDCARD"
-msgstr ""
+msgstr "你拾取了ID卡。"
 
 msgid "TXT_SILVERKEY"
-msgstr ""
+msgstr "你拾取了白银钥匙。"
 
 msgid "TXT_ORACLEKEY"
-msgstr ""
+msgstr "你拾取了神谕钥匙。"
 
 msgid "TXT_MILITARYID"
-msgstr ""
+msgstr "你拾取了军事ID。"
 
 msgid "TXT_ORDERKEY"
-msgstr ""
+msgstr "你拾取了教团钥匙。"
 
 msgid "TXT_WAREHOUSEKEY"
-msgstr ""
+msgstr "你拾取了仓库钥匙。"
 
 msgid "TXT_BRASSKEY"
-msgstr ""
+msgstr "你拾取了黄铜钥匙。"
 
 msgid "TXT_REDCRYSTAL"
-msgstr ""
+msgstr "你拾取了红水晶钥匙。"
 
 msgid "TXT_BLUECRYSTAL"
-msgstr ""
+msgstr "你拾取了蓝水晶钥匙。"
 
 msgid "TXT_CHAPELKEY"
-msgstr ""
+msgstr "你拾取了教堂钥匙。"
 
 msgid "TXT_CATACOMBKEY"
-msgstr ""
+msgstr "你拾取了墓穴钥匙。"
 
 msgid "TXT_SECURITYKEY"
-msgstr ""
+msgstr "你拾取了安保钥匙。"
 
 msgid "TXT_COREKEY"
-msgstr ""
+msgstr "你拾取了核心钥匙。"
 
 msgid "TXT_MAULERKEY"
-msgstr ""
+msgstr "你拾取了毛勒钥匙。"
 
 msgid "TXT_FACTORYKEY"
-msgstr ""
+msgstr "你拾取了工厂钥匙。"
 
 msgid "TXT_MINEKEY"
-msgstr ""
+msgstr "你拾取了矿场钥匙。"
 
 msgid "TXT_NEWKEY5"
-msgstr ""
+msgstr "你拾取了新钥匙5。"
 
 msgid "TXT_ORACLEPASS"
-msgstr ""
+msgstr "你拾取了神谕通行证。"
 
 msgid "TXT_HEGRENADES"
-msgstr ""
+msgstr "你拾取了高爆榴弹桶。"
 
 msgid "TXT_PHGRENADES"
-msgstr ""
+msgstr "你拾取了磷榴弹桶。"
 
 msgid "TXT_CLIPOFBULLETS"
-msgstr ""
+msgstr "你拾取了子弹夹。"
 
 msgid "TXT_BOXOFBULLETS"
-msgstr ""
+msgstr "你拾取了子弹盒。"
 
 msgid "TXT_MINIMISSILES"
-msgstr ""
+msgstr "你拾取了迷你导弹。"
 
 msgid "TXT_CRATEOFMISSILES"
-msgstr ""
+msgstr "你拾取了导弹箱。"
 
 msgid "TXT_ENERGYPOD"
-msgstr ""
+msgstr "你拾取了能量罐。"
 
 msgid "TXT_ENERGYPACK"
-msgstr ""
+msgstr "你拾取了能量包。"
 
 msgid "TXT_POISONBOLTS"
-msgstr ""
+msgstr "你拾取了毒箭。"
 
 msgid "TXT_ELECTRICBOLTS"
-msgstr ""
+msgstr "你拾取了电击箭。"
 
 msgid "TXT_AMMOSATCHEL"
-msgstr ""
+msgstr "你拾取了弹药背包。"
 
 msgid "MSG_TALISMANRED"
-msgstr ""
+msgstr "你有种直觉它不能碰……"
 
 msgid "MSG_TALISMANGREEN"
-msgstr ""
+msgstr "不管是什么，它都不属于这个世界……"
 
 msgid "MSG_TALISMANBLUE"
-msgstr ""
+msgstr "必须做点什么……"
 
 msgid "MSG_TALISMANPOWER"
-msgstr ""
+msgstr "你得到了超级力量！"
 
 msgid "TXT_NEEDKEY"
-msgstr ""
+msgstr "你还没有这把钥匙"
 
 msgid "TXT_NEED_PASSCARD"
-msgstr ""
+msgstr "你需要一张通行卡"
 
 msgid "TXT_NEED_PASSCARD_DOOR"
-msgstr ""
+msgstr "你需要一张通行卡才能开这扇门"
 
 msgid "TXT_NEED_IDCARD"
-msgstr ""
+msgstr "你需要一张ID卡"
 
 msgid "TXT_NEED_PRISONKEY"
-msgstr ""
+msgstr "你还没有打开监狱的钥匙"
 
 msgid "TXT_NEED_HANDPRINT"
-msgstr ""
+msgstr "手印未存档"
 
 msgid "TXT_NEED_GOLDKEY"
-msgstr ""
+msgstr "你需要黄金钥匙"
 
 msgid "TXT_NEED_IDBADGE"
-msgstr ""
+msgstr "你需要一枚ID章"
 
 msgid "TXT_NEED_IDBADGE_DOOR"
-msgstr ""
+msgstr "你需要一枚ID章才能开这扇门"
 
 msgid "TXT_NEED_SILVERKEY"
-msgstr ""
+msgstr "你需要白银钥匙"
 
 msgid "TXT_NEED_BRASSKEY"
-msgstr ""
+msgstr "你需要黄铜钥匙"
 
 msgid "TXT_NEED_REDCRYSTAL"
-msgstr ""
+msgstr "你需要红水晶"
 
 msgid "TXT_NEED_BLUECRYSTAL"
-msgstr ""
+msgstr "你需要蓝水晶"
 
 msgid "TXT_RETAIL_ONLY"
-msgstr ""
+msgstr "此区域只在零售版的《抗争》中可用"
 
 msgid "TXT_DOES_NOT_WORK"
-msgstr ""
+msgstr "看起来打不开"
 
 msgid "TXT_NEED_CHALICE"
-msgstr ""
+msgstr "你需要圣杯！"
 
 msgid "TXT_NEED_OPASS"
-msgstr ""
+msgstr "你需要神谕通行证！"
 
 msgid "TAG_PUNCHDAGGER"
-msgstr ""
+msgstr "匕首"
 
 # Crossbow with electric bolts
 msgid "TAG_STRIFECROSSBOW1"
-msgstr ""
+msgstr "十字弓"
 
 # Crossbow with poison bolts
 msgid "TAG_STRIFECROSSBOW2"
-msgstr ""
+msgstr "十字弓"
 
 msgid "TAG_ASSAULTGUN"
-msgstr ""
+msgstr "突击枪"
 
 msgid "TAG_MMLAUNCHER"
-msgstr ""
+msgstr "迷你导弹发射器"
 
 msgid "TAG_FLAMER"
-msgstr ""
+msgstr "火焰喷射器"
 
 msgid "TAG_MAULER1"
-msgstr ""
+msgstr "毛勒"
 
 msgid "TAG_MAULER2"
-msgstr ""
+msgstr "毛勒"
 
 # High-explosive grenade launcher
 msgid "TAG_GLAUNCHER1"
-msgstr ""
+msgstr "榴弹发射器"
 
 # White phosphorous grenade launcher 
 msgid "TAG_GLAUNCHER2"
-msgstr ""
+msgstr "榴弹发射器"
 
 msgid "TAG_SIGIL"
-msgstr ""
+msgstr "印记"
 
 msgid "TAG_COIN"
-msgstr ""
+msgstr "硬币"
 
 msgid "TAG_MEDPATCH"
-msgstr ""
+msgstr "治疗贴"
 
 msgid "TAG_MEDICALKIT"
-msgstr ""
+msgstr "医疗工具"
 
 msgid "TAG_SURGERYKIT"
-msgstr ""
+msgstr "手术工具"
 
 msgid "TAG_BELDINSRING"
-msgstr ""
+msgstr "戒指"
 
 msgid "TAG_OFFERINGCHALICE"
-msgstr ""
+msgstr "供品圣杯"
 
 msgid "TAG_EAR"
-msgstr ""
+msgstr "耳朵"
 
 msgid "TAG_BROKENCOUPLING"
-msgstr ""
+msgstr "损坏的电源耦合器"
 
 msgid "TAG_SHADOWARMOR"
-msgstr ""
+msgstr "暗影护甲"
 
 msgid "TAG_ENVSUIT"
-msgstr ""
+msgstr "防护套装"
 
 msgid "TAG_GUARDUNIFORM"
-msgstr ""
+msgstr "守卫制服"
 
 msgid "TAG_OFFICERSUNIFORM"
-msgstr ""
+msgstr "士官制服"
 
 msgid "TAG_FTHROWERPARTS"
-msgstr ""
+msgstr "火焰喷射器部件"
 
 msgid "TAG_REPORT"
-msgstr ""
+msgstr "报告"
 
 msgid "TAG_INFO"
-msgstr ""
+msgstr "信息"
 
 msgid "TAG_TARGETER"
-msgstr ""
+msgstr "瞄准器"
 
 msgid "TAG_COMMUNICATOR"
-msgstr ""
+msgstr "通讯器"
 
 msgid "TAG_DEGNINORE"
-msgstr ""
+msgstr "德宁矿石"
 
 msgid "TAG_GUNTRAINING"
-msgstr ""
+msgstr "准确度"
 
 msgid "TAG_HEALTHTRAINING"
-msgstr ""
+msgstr "韧性"
 
 msgid "TAG_SCANNER"
-msgstr ""
+msgstr "扫描器"
 
 msgid "TAG_PRISONPASS"
-msgstr ""
+msgstr "监狱许可证"
 
 msgid "TAG_ALARM"
-msgstr ""
+msgstr "警报"
 
 msgid "TAG_AMMOFILLUP"
-msgstr ""
+msgstr "弹药"
 
 msgid "TAG_HEALTHFILLUP"
-msgstr ""
+msgstr "生命"
 
 msgid "TAG_TELEPORTERBEACON"
-msgstr ""
+msgstr "传送器信标"
 
 msgid "TAG_METALARMOR"
-msgstr ""
+msgstr "金属护甲"
 
 msgid "TAG_LEATHER"
-msgstr ""
+msgstr "皮革护甲"
 
 msgid "TAG_HEGRENADES"
-msgstr ""
+msgstr "高爆榴弹桶"
 
 msgid "TAG_PHGRENADES"
-msgstr ""
+msgstr "磷榴弹桶"
 
 msgid "TAG_CLIPOFBULLETS"
-msgstr ""
+msgstr "子弹夹"
 
 msgid "TAG_BOXOFBULLETS"
-msgstr ""
+msgstr "子弹盒"
 
 msgid "TAG_MINIMISSILES"
-msgstr ""
+msgstr "迷你导弹"
 
 msgid "TAG_CRATEOFMISSILES"
-msgstr ""
+msgstr "导弹箱"
 
 msgid "TAG_ENERGYPOD"
-msgstr ""
+msgstr "能量罐"
 
 msgid "TAG_ENERGYPACK"
-msgstr ""
+msgstr "能量包"
 
 msgid "TAG_POISONBOLTS"
-msgstr ""
+msgstr "毒箭"
 
 msgid "TAG_ELECTRICBOLTS"
-msgstr ""
+msgstr "电击箭"
 
 msgid "TAG_AMMOSATCHEL"
-msgstr ""
+msgstr "弹药背包"
 
 # In-game key list. Use short strings.
 msgid "TAG_BASEKEY"
-msgstr ""
+msgstr "基地钥匙"
 
 msgid "TAG_GOVSKEY"
-msgstr ""
+msgstr "政府钥匙"
 
 msgid "TAG_PASSCARD"
-msgstr ""
+msgstr "通行卡"
 
 msgid "TAG_IDBADGE"
-msgstr ""
+msgstr "ID章"
 
 msgid "TAG_PRISONKEY"
-msgstr ""
+msgstr "监狱钥匙"
 
 msgid "TAG_SEVEREDHAND"
-msgstr ""
+msgstr "切断的手"
 
 msgid "TAG_POWER1KEY"
-msgstr ""
+msgstr "电源1钥匙"
 
 msgid "TAG_POWER2KEY"
-msgstr ""
+msgstr "电源2钥匙"
 
 msgid "TAG_POWER3KEY"
-msgstr ""
+msgstr "电源3钥匙"
 
 msgid "TAG_GOLDKEY"
-msgstr ""
+msgstr "黄金钥匙"
 
 msgid "TAG_IDCARD"
-msgstr ""
+msgstr "ID卡"
 
 msgid "TAG_SILVERKEY"
-msgstr ""
+msgstr "白银钥匙"
 
 msgid "TAG_ORACLEKEY"
-msgstr ""
+msgstr "神谕钥匙"
 
 msgid "TAG_MILITARYID"
-msgstr ""
+msgstr "军事ID"
 
 msgid "TAG_ORDERKEY"
-msgstr ""
+msgstr "教团钥匙"
 
 msgid "TAG_WAREHOUSEKEY"
-msgstr ""
+msgstr "仓库钥匙"
 
 msgid "TAG_BRASSKEY"
-msgstr ""
+msgstr "黄铜钥匙"
 
 msgid "TAG_REDCRYSTALKEY"
-msgstr ""
+msgstr "红水晶钥匙"
 
 msgid "TAG_BLUECRYSTALKEY"
-msgstr ""
+msgstr "蓝水晶钥匙"
 
 msgid "TAG_CHAPELKEY"
-msgstr ""
+msgstr "教堂钥匙"
 
 msgid "TAG_CATACOMBKEY"
-msgstr ""
+msgstr "墓穴钥匙"
 
 msgid "TAG_SECURITYKEY"
-msgstr ""
+msgstr "安保钥匙"
 
 msgid "TAG_COREKEY"
-msgstr ""
+msgstr "核心钥匙"
 
 msgid "TAG_MAULERKEY"
-msgstr ""
+msgstr "毛勒钥匙"
 
 msgid "TAG_FACTORYKEY"
-msgstr ""
+msgstr "工厂钥匙"
 
 msgid "TAG_MINEKEY"
-msgstr ""
+msgstr "矿场钥匙"
 
 msgid "TAG_NEWKEY5"
-msgstr ""
+msgstr "新钥匙5"
 
 # End of key list.
 msgid "TAG_ORACLEPASS"
-msgstr ""
+msgstr "神谕通行证"
 
 msgid "TAG_10GOLD"
-msgstr ""
+msgstr "10金币"
 
 msgid "TAG_25GOLD"
-msgstr ""
+msgstr "25金币"
 
 msgid "TAG_50GOLD"
-msgstr ""
+msgstr "50金币"
 
 msgid "TAG_300GOLD"
-msgstr ""
+msgstr "300金币"
 
 msgid "TXT_PERSON"
-msgstr ""
+msgstr "普通人"
 
 msgid "TAG_ACOLYTE"
-msgstr ""
+msgstr "侍从"
 
 msgid "TAG_ARMORER"
-msgstr ""
+msgstr "盔甲匠"
 
 msgid "TAG_BARKEEP"
-msgstr ""
+msgstr "酒吧主"
 
 msgid "TAG_BEGGAR"
-msgstr ""
+msgstr "乞丐"
 
 msgid "TAG_MACIL1"
 msgstr ""
