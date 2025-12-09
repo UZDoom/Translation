@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-09 16:02+0000\n"
+"PO-Revision-Date: 2025-12-09 16:04+0000\n"
 "Last-Translator: dwing <12104745@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/common/zh_Hans/>\n"
@@ -1069,7 +1069,7 @@ msgid "OPTVAL_NUKEDOPL3"
 msgstr "Nuked OPL3"
 
 msgid "OPTVAL_LLENUKEDOPL2"
-msgstr ""
+msgstr "OPL2-LLE (特重!)"
 
 msgid "OPTVAL_LLENUKEDOPL3"
 msgstr ""
