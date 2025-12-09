@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-09 16:05+0000\n"
+"PO-Revision-Date: 2025-12-09 16:09+0000\n"
 "Last-Translator: dwing <12104745@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/common/zh_Hans/>\n"
@@ -1873,7 +1873,7 @@ msgid "REQUIRED_CHARACTERS"
 msgstr ""
 
 msgid "OPTMNU_FULLOPTIONS"
-msgstr ""
+msgstr "菜单列出完整选项"
 
 msgid "OPTMNU_SIMPLEON"
 msgstr "菜单列出简要选项"
@@ -2122,19 +2122,19 @@ msgid "NOTES_FAIL"
 msgstr ""
 
 msgid "NOTES_VERSION"
-msgstr ""
+msgstr "版本"
 
 msgid "NOTES_UNKNOWN"
-msgstr ""
+msgstr "未知"
 
 msgid "NOTES_RELEASED"
-msgstr ""
+msgstr "已发布"
 
 msgid "NOTES_EMPTY"
-msgstr ""
+msgstr "未提供描述。"
 
 msgid "NOTES_DETAILS"
-msgstr ""
+msgstr "更多细节查看："
 
 msgid "PICKER_SHOWTHIS"
 msgstr ""
