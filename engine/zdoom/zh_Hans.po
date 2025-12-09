@@ -745,25 +745,25 @@ msgid "GOTCHAINGUN"
 msgstr "你获得了机枪！"
 
 msgid "GOTCHAINSAW"
-msgstr ""
+msgstr "一把电锯！割肉时间到！"
 
 msgid "GOTLAUNCHER"
-msgstr ""
+msgstr "你获得了火箭发射器！"
 
 msgid "GOTPLASMA"
-msgstr ""
+msgstr "你获得了等离子枪！"
 
 msgid "GOTSHOTGUN"
-msgstr ""
+msgstr "你获得了霰弹枪！"
 
 msgid "GOTSHOTGUN2"
-msgstr ""
+msgstr "你获得了超级霰弹枪！"
 
 msgid "PICKUP_PISTOL_DROPPED"
-msgstr ""
+msgstr "拾取了手枪。"
 
 msgid "BETA_BONUS1"
-msgstr ""
+msgstr "你拾取了恶魔匕首。"
 
 msgid "BETA_BONUS2"
 msgstr ""
