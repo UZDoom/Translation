@@ -2,150 +2,153 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-12-09 11:51+0000\n"
+"Last-Translator: dwing <12104745@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
+"projects/doom-engine-games/doom/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.15-dev\n"
 "HeaderCode: default\n"
 
 msgid "TXT_D1E1"
-msgstr ""
+msgstr "膝陷死域"
 
 msgid "TXT_D1E2"
-msgstr ""
+msgstr "地狱岸边"
 
 msgid "TXT_D1E3"
-msgstr ""
+msgstr "炼狱"
 
 # The episode and levels' names in E4 are taken from the Bible.
 # Proverbs 5:11
 msgid "TXT_D1E4"
-msgstr ""
+msgstr "噬尽汝肉"
 
 msgid "HUSTR_E1M1"
-msgstr ""
+msgstr "E1M1: 机库"
 
 msgid "HUSTR_E1M2"
-msgstr ""
+msgstr "E1M2: 核电站"
 
 msgid "HUSTR_E1M3"
-msgstr ""
+msgstr "E1M3: 毒素精炼厂"
 
 msgid "HUSTR_E1M4"
-msgstr ""
+msgstr "E1M4: 指挥控制中心"
 
 msgid "HUSTR_E1M5"
-msgstr ""
+msgstr "E1M5: 火卫一实验室"
 
 msgid "HUSTR_E1M6"
-msgstr ""
+msgstr "E1M6: 中央处理区"
 
 msgid "HUSTR_E1M7"
-msgstr ""
+msgstr "E1M7: 计算机站"
 
 msgid "HUSTR_E1M8"
-msgstr ""
+msgstr "E1M8: 火卫一异常区"
 
 msgid "HUSTR_E1M9"
-msgstr ""
+msgstr "E1M9: 军事基地"
 
 msgid "HUSTR_E1M10"
-msgstr ""
+msgstr "E1M10: 下水道"
 
 msgid "HUSTR_E2M1"
-msgstr ""
+msgstr "E2M1: 火卫二异常区"
 
 msgid "HUSTR_E2M2"
-msgstr ""
+msgstr "E2M2: 抑制区"
 
 msgid "HUSTR_E2M3"
-msgstr ""
+msgstr "E2M3: 精炼厂"
 
 msgid "HUSTR_E2M4"
-msgstr ""
+msgstr "E2M4: 火卫二实验室"
 
 msgid "HUSTR_E2M5"
-msgstr ""
+msgstr "E2M5: 指挥中心"
 
 msgid "HUSTR_E2M6"
-msgstr ""
+msgstr "E2M6: 恶灵殿堂"
 
 msgid "HUSTR_E2M7"
-msgstr ""
+msgstr "E2M7: 孵化桶"
 
 msgid "HUSTR_E2M8"
-msgstr ""
+msgstr "E2M8: 巴别塔"
 
 msgid "HUSTR_E2M9"
-msgstr ""
+msgstr "E2M9: 神秘堡垒"
 
 msgid "HUSTR_E3M1"
-msgstr ""
+msgstr "E3M1: 地狱要塞"
 
 msgid "HUSTR_E3M2"
-msgstr ""
+msgstr "E3M2: 绝望泥潭"
 
 msgid "HUSTR_E3M3"
-msgstr ""
+msgstr "E3M3: 骚动"
 
 msgid "HUSTR_E3M4"
-msgstr ""
+msgstr "E3M4: 痛苦之屋"
 
 msgid "HUSTR_E3M5"
-msgstr ""
+msgstr "E3M5: 邪恶大教堂"
 
 # Volcano in Antarctica
 msgid "HUSTR_E3M6"
-msgstr ""
+msgstr "E3M6: 厄瑞玻斯山"
 
 msgid "HUSTR_E3M7"
-msgstr ""
+msgstr "E3M7: 境地"
 
 # Based on the City of Dis, located on the sixth circle of Hell, according to
 # Dante Alighieri's The Divine Comedy
 msgid "HUSTR_E3M8"
-msgstr ""
+msgstr "E3M8: 死"
 
 msgid "HUSTR_E3M9"
-msgstr ""
+msgstr "E3M9: 兔子窝"
 
 # Proverbs 15:24
 msgid "HUSTR_E4M1"
-msgstr ""
+msgstr "E4M1: 地狱之下"
 
 # Psalm 139:22
 msgid "HUSTR_E4M2"
-msgstr ""
+msgstr "E4M2: 完美憎恨"
 
 # Matthew 13:49
 msgid "HUSTR_E4M3"
-msgstr ""
+msgstr "E4M3: 斩断恶人"
 
 # James 3:8
 msgid "HUSTR_E4M4"
-msgstr ""
+msgstr "E4M4: 桀骜邪恶"
 
 # Luke 16:30
 msgid "HUSTR_E4M5"
-msgstr ""
+msgstr "E4M5: 他们将忏悔"
 
 # Psalm 139:20
 msgid "HUSTR_E4M6"
-msgstr ""
+msgstr "E4M6: 以恶制恶"
 
 # Revelation 6:8
 msgid "HUSTR_E4M7"
-msgstr ""
+msgstr "E4M7: 地狱随行"
 
 # Proverbs 5:9
 msgid "HUSTR_E4M8"
-msgstr ""
+msgstr "E4M8: 直面残暴"
 
 msgid "HUSTR_E4M9"
-msgstr ""
+msgstr "E4M9: 恐惧"
 
 # Doom Ep.1
 msgid "E1TEXT"
