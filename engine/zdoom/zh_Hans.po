@@ -428,19 +428,19 @@ msgid "TXT_CHASECAM_ON"
 msgstr "跟随视角：开"
 
 msgid "TXT_CHASECAM_OFF"
-msgstr ""
+msgstr "跟随视角：关"
 
 msgid "TXT_BADDIE_KILLED"
-msgstr ""
+msgstr "干掉了1个坏蛋"
 
 msgid "TXT_BADDIES_KILLED"
-msgstr ""
+msgstr "干掉了%d个坏蛋"
 
 msgid "TXT_MONSTER_KILLED"
-msgstr ""
+msgstr "干掉了1个怪物"
 
 msgid "TXT_MONSTERS_KILLED"
-msgstr ""
+msgstr "干掉了%d个怪物"
 
 msgid "TXT_NO_RESURRECT"
 msgstr ""
