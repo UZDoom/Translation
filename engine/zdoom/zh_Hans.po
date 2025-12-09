@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-09 15:59+0000\n"
+"PO-Revision-Date: 2025-12-09 16:04+0000\n"
 "Last-Translator: dwing <12104745@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
@@ -151,111 +151,141 @@ msgstr ""
 
 msgid "QUITMSG12"
 msgstr ""
+"你看，伙计。你现在离开\n"
+"就等于放弃你的击杀数！"
 
 msgid "QUITMSG13"
 msgstr ""
+"走吧。你回来的时候，\n"
+"我会拿着球棒等着你。"
 
 msgid "QUITMSG14"
 msgstr ""
+"我没因为你想离开就\n"
+"扇你几巴掌算你走运。"
 
 msgid "QUITMSG15"
 msgstr ""
+"你要去哪儿？！\n"
+"你那叛逆哪去了？"
 
 msgid "QUITMSG16"
 msgstr ""
+"杀卡壳了……\n"
+"真让人失望！"
 
 msgid "QUITMSG17"
 msgstr ""
+"但你就是一线希望\n"
+"——我唯一的机会！！"
 
 msgid "QUITMSG18"
-msgstr ""
+msgstr "没人能从黑鸟这里溜走。"
 
 msgid "QUITMSG19"
-msgstr ""
+msgstr "我还以为你与众不同……"
 
 msgid "QUITMSG20"
-msgstr ""
+msgstr "好嘛！杀完就跑！"
 
 msgid "QUITMSG21"
 msgstr ""
+"你可以退出……\n"
+"但你躲不掉……"
 
 msgid "QUITMSG22"
 msgstr ""
+"哇，怎么啦？\n"
+"妈妈喊你回家吃饭？"
 
 msgid "QUITMSG23"
 msgstr ""
+"先别退出，还有\n"
+"黏液怪在逃窜呢！"
 
 msgid "QUITMSG24"
 msgstr ""
+"别放弃——黏液怪会\n"
+"占上风的！"
 
 msgid "QUITMSG25"
 msgstr ""
+"先别离开。\n"
+"我们需要你的帮助！"
 
 msgid "QUITMSG26"
 msgstr ""
+"我希望你只是在吃\n"
+"奇克斯(R)派对组合休息一下。"
 
 msgid "QUITMSG27"
 msgstr ""
+"先别退出！\n"
+"我们需要你的帮助！"
 
 msgid "QUITMSG28"
 msgstr ""
+"别抛弃\n"
+"星系谷物联盟！"
 
 msgid "QUITMSG29"
 msgstr ""
+"真正的奇克斯(R)战士\n"
+"不会这么快就放弃！"
 
 msgid "TXT_DEFAULTPICKUPMSG"
-msgstr ""
+msgstr "获得了一个道具"
 
 msgid "PD_ANY"
-msgstr ""
+msgstr "需要某个钥匙才能开此门"
 
 msgid "PD_ANYOBJ"
-msgstr ""
+msgstr "需要某个钥匙才能激活此物体"
 
 msgid "PD_ALL3"
-msgstr ""
+msgstr "需要所有三把钥匙才能开此门"
 
 msgid "PD_ALL3O"
-msgstr ""
+msgstr "需要所有三把钥匙才能激活此物体"
 
 msgid "PD_ALL6"
-msgstr ""
+msgstr "需要所有六把钥匙才能开此门"
 
 msgid "PD_ALL6O"
-msgstr ""
+msgstr "需要所有六把钥匙才能激活此物体"
 
 msgid "PD_ALLKEYS"
-msgstr ""
+msgstr "需要所有钥匙"
 
 msgid "HUSTR_MSGU"
-msgstr ""
+msgstr "[消息未发送]"
 
 msgid "HUSTR_TALKTOSELF1"
-msgstr ""
+msgstr "你在喃喃自语"
 
 msgid "HUSTR_TALKTOSELF2"
-msgstr ""
+msgstr "是谁？"
 
 msgid "HUSTR_TALKTOSELF3"
-msgstr ""
+msgstr "自己吓自己"
 
 msgid "HUSTR_TALKTOSELF4"
-msgstr ""
+msgstr "你开始胡言乱语"
 
 msgid "HUSTR_TALKTOSELF5"
-msgstr ""
+msgstr "你失去了意识……"
 
 msgid "HUSTR_MESSAGESENT"
-msgstr ""
+msgstr "[消息已发出]"
 
 msgid "STSTR_MUS"
-msgstr ""
+msgstr "音乐更换"
 
 msgid "STSTR_NOMUS"
-msgstr ""
+msgstr "无法选择"
 
 msgid "STSTR_DQDON"
-msgstr ""
+msgstr "无敌模式：开"
 
 msgid "STSTR_DQDOFF"
 msgstr ""
