@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-09 16:05+0000\n"
+"PO-Revision-Date: 2025-12-09 16:09+0000\n"
 "Last-Translator: dwing <12104745@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
@@ -443,306 +443,306 @@ msgid "TXT_MONSTERS_KILLED"
 msgstr "干掉了%d个怪物"
 
 msgid "TXT_NO_RESURRECT"
-msgstr ""
+msgstr "无法复活，玩家不再能连接到其身体了。"
 
 msgid "TXT_ALL_ARTIFACTS"
-msgstr ""
+msgstr "所有神器！"
 
 msgid "TXT_WHAT_KILL"
-msgstr ""
+msgstr "游戏之外你想杀些什么？"
 
 msgid "TXT_NOT_FROZEN"
-msgstr ""
+msgstr "关闭玩家属性冻结"
 
 msgid "AMSTR_FOLLOWOFF"
-msgstr ""
+msgstr "跟随模式：关"
 
 msgid "AMSTR_FOLLOWON"
-msgstr ""
+msgstr "跟随模式：开"
 
 msgid "AMSTR_GRIDON"
-msgstr ""
+msgstr "网格：开"
 
 msgid "AMSTR_GRIDOFF"
-msgstr ""
+msgstr "网格：关"
 
 msgid "AMSTR_TEXON"
-msgstr ""
+msgstr "纹理模式：开"
 
 msgid "AMSTR_TEXOFF"
-msgstr ""
+msgstr "纹理模式：关"
 
 msgid "AMSTR_MARKEDSPOT"
-msgstr ""
+msgstr "标记点"
 
 msgid "AMSTR_MARKSCLEARED"
-msgstr ""
+msgstr "所有标记都清除了"
 
 msgid "TXT_FRAGLIMIT"
-msgstr ""
+msgstr "已达分数上限。"
 
 msgid "TXT_TIMELIMIT"
-msgstr ""
+msgstr "已达时间上限。"
 
 msgid "SPREEKILLSELF"
-msgstr ""
+msgstr "%o 还感觉良好直到被 %g 击杀！"
 
 msgid "SPREEOVER"
-msgstr ""
+msgstr "%o 的大杀特杀被 %k 终结"
 
 msgid "SPREE5"
-msgstr ""
+msgstr "%k 正在大杀特杀！"
 
 msgid "SPREE10"
-msgstr ""
+msgstr "%k 暴走了！"
 
 msgid "SPREE15"
-msgstr ""
+msgstr "%k 正在主宰！"
 
 msgid "SPREE20"
-msgstr ""
+msgstr "%k 已经无人能挡！"
 
 msgid "SPREE25"
-msgstr ""
+msgstr "%k 已经超神！"
 
 msgid "MULTI2"
-msgstr ""
+msgstr "双杀！"
 
 msgid "MULTI3"
-msgstr ""
+msgstr "三杀！"
 
 msgid "MULTI4"
-msgstr ""
+msgstr "终极杀！"
 
 msgid "MULTI5"
-msgstr ""
+msgstr "鬼畜杀！"
 
 msgid "SCORE_BONUS"
-msgstr ""
+msgstr "奖励"
 
 msgid "SCORE_COLOR"
-msgstr ""
+msgstr "颜色"
 
 msgid "SCORE_SECRET"
-msgstr ""
+msgstr "秘密"
 
 msgid "SCORE_NAME"
-msgstr ""
+msgstr "名称"
 
 msgid "SCORE_DELAY"
-msgstr ""
+msgstr "延迟(ms)"
 
 msgid "SCORE_FRAGS"
-msgstr ""
+msgstr "得分"
 
 msgid "SCORE_DEATHS"
-msgstr ""
+msgstr "死亡"
 
 msgid "SCORE_OTHER"
-msgstr ""
+msgstr "其它"
 
 msgid "SCORE_MISSED"
-msgstr ""
+msgstr "未命中"
 
 msgid "SCORE_TOTAL"
-msgstr ""
+msgstr "总计"
 
 msgid "SCORE_LVLTIME"
-msgstr ""
+msgstr "关卡时间"
 
 msgid "TXT_IMKILLS"
-msgstr ""
+msgstr "击杀"
 
 msgid "TXT_IMITEMS"
-msgstr ""
+msgstr "物品"
 
 msgid "TXT_IMSECRETS"
-msgstr ""
+msgstr "秘密"
 
 msgid "TXT_IMTIME"
-msgstr ""
+msgstr "时间"
 
 msgid "TXT_IMPAR"
-msgstr ""
+msgstr "标准时间"
 
 msgid "WI_FINISHED"
-msgstr ""
+msgstr "已完成"
 
 msgid "WI_ENTERING"
-msgstr ""
+msgstr "正在进入"
 
 msgctxt "heretic hexen"
 msgid "WI_ENTERING"
 msgstr ""
 
 msgid "AM_MONSTERS"
-msgstr ""
+msgstr "怪物："
 
 msgid "AM_SECRETS"
-msgstr ""
+msgstr "秘密："
 
 msgid "AM_ITEMS"
-msgstr ""
+msgstr "物品："
 
 msgid "OB_SUICIDE"
-msgstr ""
+msgstr "%o 自杀了。"
 
 msgid "OB_FALLING"
-msgstr ""
+msgstr "%o 摔得太狠。"
 
 msgid "OB_CRUSH"
-msgstr ""
+msgstr "%o 被压扁。"
 
 msgid "OB_EXIT"
-msgstr ""
+msgstr "%o 试图离开。"
 
 msgid "OB_WATER"
-msgstr ""
+msgstr "%o 不会游泳。"
 
 msgid "OB_SLIME"
-msgstr ""
+msgstr "%o 变异了。"
 
 msgid "OB_LAVA"
-msgstr ""
+msgstr "%o 融解了。"
 
 msgid "OB_BARREL"
-msgstr ""
+msgstr "%o 被炸了。"
 
 msgid "OB_SPLASH"
-msgstr ""
+msgstr "%o 站在了错误的地点。"
 
 msgid "OB_R_SPLASH"
-msgstr ""
+msgstr "%o 应该躲在后面。"
 
 msgid "OB_ROCKET"
-msgstr ""
+msgstr "%o 应该躲在后面。"
 
 msgid "OB_KILLEDSELF"
-msgstr ""
+msgstr "%o 杀了自己。"
 
 msgid "OB_VOODOO"
-msgstr ""
+msgstr "%o 死于巫毒术。"
 
 msgid "OB_MPTELEFRAG"
-msgstr ""
+msgstr "%o 被 %k 传送杀了。"
 
 msgid "OB_MONTELEFRAG"
-msgstr ""
+msgstr "%o 被传送杀了。"
 
 msgid "OB_DEFAULT"
-msgstr ""
+msgstr "%o 死了。"
 
 msgid "OB_MPDEFAULT"
-msgstr ""
+msgstr "%o 被 %k 击杀。"
 
 msgid "OB_FRIENDLY1"
-msgstr ""
+msgstr "%k 放倒了一个队友。"
 
 # English was changed to remove problematic pronoun referencing the killer
 msgid "OB_FRIENDLY2"
-msgstr ""
+msgstr "%k 该配眼镜了。"
 
 msgid "OB_FRIENDLY3"
-msgstr ""
+msgstr "%k 给其他团队送了一分。"
 
 msgid "OB_FRIENDLY4"
-msgstr ""
+msgstr "%k 失去一个队友。"
 
 msgid "GOTARMOR"
-msgstr ""
+msgstr "拾取了护甲。"
 
 msgid "GOTMEGA"
-msgstr ""
+msgstr "拾取了重型护甲！"
 
 msgid "GOTHTHBONUS"
-msgstr ""
+msgstr "拾取了生命加成。"
 
 msgid "GOTARMBONUS"
-msgstr ""
+msgstr "拾取了护甲加成。"
 
 msgid "GOTSTIM"
-msgstr ""
+msgstr "拾取了急救包。"
 
 msgid "GOTMEDINEED"
-msgstr ""
+msgstr "拾取了正需要的医疗包！"
 
 msgid "GOTMEDIKIT"
-msgstr ""
+msgstr "拾取了医疗包。"
 
 msgid "GOTSUPER"
-msgstr ""
+msgstr "超级充能！"
 
 msgid "GOTBLUECARD"
-msgstr ""
+msgstr "拾取了蓝钥匙卡。"
 
 msgid "GOTYELWCARD"
-msgstr ""
+msgstr "拾取了黄钥匙卡。"
 
 msgid "GOTREDCARD"
-msgstr ""
+msgstr "拾取了红钥匙卡。"
 
 msgid "GOTBLUESKUL"
-msgstr ""
+msgstr "拾取了蓝骷髅钥匙。"
 
 msgid "GOTYELWSKUL"
-msgstr ""
+msgstr "拾取了黄骷髅钥匙。"
 
 msgid "GOTREDSKUL"
-msgstr ""
+msgstr "拾取了红骷髅钥匙。"
 
 msgid "GOTINVUL"
-msgstr ""
+msgstr "无敌！"
 
 msgid "GOTBERSERK"
-msgstr ""
+msgstr "狂暴！"
 
 msgid "GOTINVIS"
-msgstr ""
+msgstr "部分隐身"
 
 msgid "GOTSUIT"
-msgstr ""
+msgstr "防辐射服"
 
 msgid "GOTMAP"
-msgstr ""
+msgstr "电子区域地图"
 
 msgid "GOTVISOR"
-msgstr ""
+msgstr "光线强化目镜"
 
 msgid "GOTMSPHERE"
-msgstr ""
+msgstr "巨型球！"
 
 msgid "GOTCLIP"
-msgstr ""
+msgstr "拾取了一个弹夹。"
 
 msgid "GOTCLIPBOX"
-msgstr ""
+msgstr "拾取了一盒子弹。"
 
 msgid "GOTROCKET"
-msgstr ""
+msgstr "拾取了一枚火箭。"
 
 msgid "GOTROCKBOX"
-msgstr ""
+msgstr "拾取了一箱火箭。"
 
 msgid "GOTCELL"
-msgstr ""
+msgstr "拾取了一个能量电池。"
 
 msgid "GOTCELLBOX"
-msgstr ""
+msgstr "拾取了一个能量电池组。"
 
 msgid "GOTSHELLS"
-msgstr ""
+msgstr "拾取了4发霰弹枪弹药。"
 
 msgid "GOTSHELLBOX"
-msgstr ""
+msgstr "拾取了一盒霰弹枪弹药。"
 
 msgid "GOTBACKPACK"
-msgstr ""
+msgstr "拾取了一个弹药背包！"
 
 msgid "GOTBFG9000"
-msgstr ""
+msgstr "你获得了BFG9000！哦，太棒了。"
 
 msgid "GOTCHAINGUN"
-msgstr ""
+msgstr "你获得了机枪！"
 
 msgid "GOTCHAINSAW"
 msgstr ""
