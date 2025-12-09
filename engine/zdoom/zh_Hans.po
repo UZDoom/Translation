@@ -383,19 +383,19 @@ msgid "TXT_MIDASTOUCH"
 msgstr "你得到了点金术，孩子"
 
 msgid "TXT_GOTSTUFF"
-msgstr ""
+msgstr "你收获满满！"
 
 msgid "TXT_FREEZEON"
-msgstr ""
+msgstr "冻结模式：开"
 
 msgid "TXT_FREEZEOFF"
-msgstr ""
+msgstr "冻结模式：关"
 
 msgid "TXT_STRANGE"
-msgstr ""
+msgstr "你感觉很怪……"
 
 msgid "TXT_STRANGER"
-msgstr ""
+msgstr "你感觉更怪了。"
 
 msgid "TXT_NOTSTRANGE"
 msgstr ""
