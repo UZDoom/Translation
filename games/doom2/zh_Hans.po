@@ -2,13 +2,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-12-09 11:51+0000\n"
+"Last-Translator: dwing <12104745@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
+"projects/doom-engine-games/doom-2/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.15-dev\n"
 "HeaderCode: default\n"
 
 msgid "TXT_D2E1"
@@ -16,145 +19,145 @@ msgstr ""
 
 # References "No rest for the wicked" in Isaiah 48:22
 msgid "TXT_D2E2"
-msgstr ""
+msgstr "生者无休"
 
 # Note that the "LEVEL" part of the string will be stripped so it shouldn't be
 # translated
 msgid "HUSTR_1"
-msgstr ""
+msgstr "Level 1: 入口"
 
 msgid "HUSTR_2"
-msgstr ""
+msgstr "Level 2: 地下大厅"
 
 # “a form of punishment in which a person is forced to run between two lines
 # of men facing each other and armed with clubs or whips to beat the victim”
 msgid "HUSTR_3"
-msgstr ""
+msgstr "Level 3: 严酷考验"
 
 msgid "HUSTR_4"
-msgstr ""
+msgstr "Level 4: 焦点"
 
 msgid "HUSTR_5"
-msgstr ""
+msgstr "Level 5: 废料隧道"
 
 msgid "HUSTR_6"
-msgstr ""
+msgstr "Level 6: 粉碎机"
 
 msgid "HUSTR_7"
-msgstr ""
+msgstr "Level 7: 简单粗暴"
 
 msgid "HUSTR_8"
-msgstr ""
+msgstr "Level 8: 机关陷阱"
 
 msgid "HUSTR_9"
-msgstr ""
+msgstr "Level 9: 深坑"
 
 msgid "HUSTR_10"
-msgstr ""
+msgstr "Level 10: 补给基地"
 
 # Alternative title:
 # Circle of Death
 msgid "HUSTR_11"
-msgstr ""
+msgstr "Level 11: 毁灭之环！"
 
 msgid "HUSTR_12"
-msgstr ""
+msgstr "Level 12: 工厂"
 
 msgid "HUSTR_13"
-msgstr ""
+msgstr "Level 13: 市中心"
 
 msgid "HUSTR_14"
-msgstr ""
+msgstr "Level 14: 深处巢穴"
 
 msgid "HUSTR_15"
-msgstr ""
+msgstr "Level 15: 工业地带"
 
 msgid "HUSTR_16"
-msgstr ""
+msgstr "Level 16: 郊外"
 
 msgid "HUSTR_17"
-msgstr ""
+msgstr "Level 17: 贫民窟"
 
 msgid "HUSTR_18"
-msgstr ""
+msgstr "Level 18: 庭院"
 
 msgid "HUSTR_19"
-msgstr ""
+msgstr "Level 19: 城堡"
 
 msgid "HUSTR_20"
-msgstr ""
+msgstr "Level 20: 逮住了!"
 
 msgid "HUSTR_21"
-msgstr ""
+msgstr "Level 21: 涅槃"
 
 msgid "HUSTR_22"
-msgstr ""
+msgstr "Level 22: 地下墓穴"
 
 msgid "HUSTR_23"
-msgstr ""
+msgstr "Level 23: 桶中作乐"
 
 msgid "HUSTR_24"
-msgstr ""
+msgstr "Level 24: 裂缝"
 
 msgid "HUSTR_25"
-msgstr ""
+msgstr "Level 25: 血瀑"
 
 msgid "HUSTR_26"
-msgstr ""
+msgstr "Level 26: 废弃矿山"
 
 msgid "HUSTR_27"
-msgstr ""
+msgstr "Level 27: 怪物公寓"
 
 msgid "HUSTR_28"
-msgstr ""
+msgstr "Level 28: 恶灵世界"
 
 msgid "HUSTR_29"
-msgstr ""
+msgstr "Level 29: 生命尽头"
 
 msgid "HUSTR_30"
-msgstr ""
+msgstr "Level 30: 罪恶圣像"
 
 msgid "HUSTR_31"
-msgstr ""
+msgstr "Level 31: 德军总部"
 
 msgid "HUSTR_32"
-msgstr ""
+msgstr "Level 32: 格罗斯"
 
 msgid "HUSTR_31B"
-msgstr ""
+msgstr "Level 31: IDKFA"
 
 msgid "HUSTR_32B"
-msgstr ""
+msgstr "Level 32: 基恩"
 
 msgid "HUSTR_33"
-msgstr ""
+msgstr "Level 33: 背叛"
 
 msgid "NHUSTR_1"
-msgstr ""
+msgstr "Level 1: 地球基地"
 
 msgid "NHUSTR_2"
-msgstr ""
+msgstr "Level 2: 痛苦实验"
 
 msgid "NHUSTR_3"
-msgstr ""
+msgstr "Level 3: 死亡峡谷"
 
 msgid "NHUSTR_4"
-msgstr ""
+msgstr "Level 4: 地狱山脉"
 
 msgid "NHUSTR_5"
-msgstr ""
+msgstr "Level 5: 活体解剖"
 
 msgid "NHUSTR_6"
-msgstr ""
+msgstr "Level 6: 血之炼狱"
 
 msgid "NHUSTR_7"
-msgstr ""
+msgstr "Level 7: 男爵盛宴"
 
 msgid "NHUSTR_8"
-msgstr ""
+msgstr "Level 8: 恶意之墓"
 
 msgid "NHUSTR_9"
-msgstr ""
+msgstr "Level 9: 恶魔行军"
 
 # Doom2 after MAP06
 msgid "C1TEXT"
