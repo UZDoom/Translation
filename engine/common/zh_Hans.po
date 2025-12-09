@@ -1105,7 +1105,7 @@ msgid "OPTVAL_OPN2YM3438LLE"
 msgstr "OPN2-LLE (YM3438) (特重!)"
 
 msgid "OPTVAL_OPN2YMF276LLE"
-msgstr ""
+msgstr "OPN2-LLE (YMF276) (特重!)"
 
 msgid "OPTVAL_GENSOPN2"
 msgstr "GENS YM2612"
