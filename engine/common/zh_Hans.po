@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-04 01:00+0000\n"
-"Last-Translator: Hugo Huang <SushiNinja123@outlook.com>\n"
+"PO-Revision-Date: 2025-12-09 03:54+0000\n"
+"Last-Translator: dwing4g <12104745@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/common/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -15,7 +15,7 @@ msgstr ""
 "HeaderCode: default\n"
 
 msgid "PRESSYN"
-msgstr "请按下Y或N。"
+msgstr "按Y键确认，按N键取消。"
 
 msgid "TXT_YES"
 msgstr "是"
@@ -25,28 +25,41 @@ msgstr "否"
 
 msgid "SAVEDEAD"
 msgstr ""
+"未在游戏中无法保存！\n"
+"\n"
+"按下任意键。"
 
 msgid "SAFEMESSAGE"
-msgstr ""
+msgstr "你确定要这么做吗？"
 
 msgid "NOTSET"
-msgstr ""
+msgstr "未设置"
 
 msgid "QSPROMPT"
 msgstr ""
+"快速保存覆盖到存档名\n"
+"\n"
+"“%s”？\n"
+"\n"
+"按Y键确认，按N键取消。"
 
 msgid "QLPROMPT"
 msgstr ""
+"你确定要快速加载存档名\n"
+"\n"
+"“%s”？\n"
+"\n"
+"按Y键确认，按N键取消。"
 
 # This is a gender sensitive message where %s represents the player
 msgid "TXT_X_CHEATS"
-msgstr ""
+msgstr "%s 作弊了"
 
 msgid "MSGOFF"
-msgstr ""
+msgstr "消息：关闭"
 
 msgid "MSGON"
-msgstr ""
+msgstr "消息：开启"
 
 msgid "TXT_SAY"
 msgstr ""
