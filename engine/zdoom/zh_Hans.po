@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-04 01:00+0000\n"
-"Last-Translator: Hugo Huang <SushiNinja123@outlook.com>\n"
+"PO-Revision-Date: 2025-12-09 15:59+0000\n"
+"Last-Translator: dwing <12104745@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -4353,7 +4353,7 @@ msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr ""
 
 msgid "GLPREFMNU_FOGMODE"
-msgstr ""
+msgstr "雾效模式"
 
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr ""
@@ -4362,7 +4362,7 @@ msgid "GLPREFMNU_WPNLIGHTSTR"
 msgstr ""
 
 msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr ""
+msgstr "镜面使用环境映射"
 
 msgid "GLPREFMNU_ENV"
 msgstr ""
@@ -4389,7 +4389,7 @@ msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr ""
 
 msgid "GLPREFMNU_RENDERQUALITY"
-msgstr ""
+msgstr "渲染质量"
 
 msgid "GLPREFMNU_VRMODE"
 msgstr ""
@@ -4456,7 +4456,7 @@ msgid "OPTVAL_ROUND"
 msgstr ""
 
 msgid "OPTVAL_RADIAL"
-msgstr ""
+msgstr "放射"
 
 msgid "OPTVAL_PIXELFUZZ"
 msgstr ""
@@ -4537,19 +4537,19 @@ msgid "TCMNU_DYNLIGHTS"
 msgstr ""
 
 msgid "OS_TITLE"
-msgstr ""
+msgstr "选项搜索"
 
 msgid "OS_ANY"
-msgstr ""
+msgstr "搜索任意条目"
 
 msgid "OS_ALL"
-msgstr ""
+msgstr "搜索全部条目"
 
 msgid "OS_NO_RESULTS"
-msgstr ""
+msgstr "无搜索结果。"
 
 msgid "OS_LABEL"
-msgstr ""
+msgstr "搜索："
 
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr ""
@@ -4628,7 +4628,7 @@ msgid "TXT_BY"
 msgstr ""
 
 msgid "TXT_QUITENDOOM"
-msgstr ""
+msgstr "按任意键或点击窗口内任意位置来退出。"
 
 msgid "HUDMNU_FLASH"
 msgstr ""
