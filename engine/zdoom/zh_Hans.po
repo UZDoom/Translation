@@ -416,16 +416,16 @@ msgid "TXT_NOTARGET_ON"
 msgstr "无目标：开"
 
 msgid "TXT_NOTARGET_OFF"
-msgstr ""
+msgstr "无目标：关"
 
 msgid "TXT_ANUBIS_ON"
-msgstr ""
+msgstr "“吓得发抖！”"
 
 msgid "TXT_ANUBIS_OFF"
-msgstr ""
+msgstr "再也没有食人魔盔甲"
 
 msgid "TXT_CHASECAM_ON"
-msgstr ""
+msgstr "跟随视角：开"
 
 msgid "TXT_CHASECAM_OFF"
 msgstr ""
