@@ -4809,9 +4809,6 @@ msgstr "Moderne (Pavé numérique)"
 msgid "MISCMNU_SETSLOTSTRICT"
 msgstr "Armes/Joueurs strictement selon KEYCONF"
 
-msgid "MISCMNU_CLEANMENU\n"
-msgstr "Mise à l'échelle du menu ZDoom Classique"
-
 msgid "MISCMNU_WIPERCENT"
 msgstr "Utiliser pourcentages sur l'écran de fin de niveau"
 
