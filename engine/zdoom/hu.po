@@ -4786,9 +4786,6 @@ msgstr "Modern (numpad)"
 msgid "MISCMNU_SETSLOTSTRICT"
 msgstr "Szigorú KEYCONF a Fegyverek/Játékosok esetében"
 
-msgid "MISCMNU_CLEANMENU\n"
-msgstr "Klasszikus ZDoom menü arányok"
-
 msgid "MISCMNU_WIPERCENT"
 msgstr "Százalékok használata az összefoglaló oldalon"
 
