@@ -4800,9 +4800,6 @@ msgstr "Modern (Keypad)"
 msgid "MISCMNU_SETSLOTSTRICT"
 msgstr "Strikte KEYKONF Behandlung für Waffen und Spieler"
 
-msgid "MISCMNU_CLEANMENU\n"
-msgstr "Alte ZDoom-Skalierung im Menü"
-
 msgid "MISCMNU_WIPERCENT"
 msgstr "Zeige Prozente auf Statistikseite"
 
