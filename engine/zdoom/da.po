@@ -4782,9 +4782,6 @@ msgstr "Moderne (Keypad)"
 msgid "MISCMNU_SETSLOTSTRICT"
 msgstr "Strenge KEYCONF Våben/spillere"
 
-msgid "MISCMNU_CLEANMENU\n"
-msgstr "Klassisk ZDoom-menu skalering"
-
 msgid "MISCMNU_WIPERCENT"
 msgstr "Brug procenter på oversigtsskærmen"
 
