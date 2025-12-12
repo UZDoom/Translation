@@ -4731,9 +4731,6 @@ msgstr "Modern (Tuş Takımı)"
 msgid "MISCMNU_SETSLOTSTRICT"
 msgstr "Sıkı KEYCONF Silahlar/Oyuncular"
 
-msgid "MISCMNU_CLEANMENU\n"
-msgstr "Klasik ZDoom menü ölçeklendirme"
-
 msgid "MISCMNU_WIPERCENT"
 msgstr "Özet ekranında yüzdeleri kullanma"
 
