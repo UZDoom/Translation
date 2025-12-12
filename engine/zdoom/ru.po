@@ -4797,9 +4797,6 @@ msgstr "Современная (цифр. клавиатура)"
 msgid "MISCMNU_SETSLOTSTRICT"
 msgstr "Строгий KEYCONF для оружия/игроков"
 
-msgid "MISCMNU_CLEANMENU\n"
-msgstr "Классический размер меню ZDoom"
-
 msgid "MISCMNU_WIPERCENT"
 msgstr "Использовать проценты на экране итогов уровня"
 
