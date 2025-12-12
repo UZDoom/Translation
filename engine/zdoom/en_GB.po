@@ -4794,9 +4794,6 @@ msgstr "Modern (Keypad)"
 msgid "MISCMNU_SETSLOTSTRICT"
 msgstr "Strict KEYCONF Weapons/Players"
 
-msgid "MISCMNU_CLEANMENU\n"
-msgstr "Classic ZDoom menu scaling"
-
 msgid "MISCMNU_WIPERCENT"
 msgstr "Use percents on summary screen"
 
