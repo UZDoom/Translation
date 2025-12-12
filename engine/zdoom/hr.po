@@ -4743,9 +4743,6 @@ msgstr "Moderna (tipkovnica)"
 msgid "MISCMNU_SETSLOTSTRICT"
 msgstr "Stroga KEYCONF oružja/igrači"
 
-msgid "MISCMNU_CLEANMENU\n"
-msgstr "Klasično skaliranje ZDoom izbornika"
-
 msgid "MISCMNU_WIPERCENT"
 msgstr "Koristite postotke na zaslonu sažetka"
 
