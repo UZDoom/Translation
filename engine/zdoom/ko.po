@@ -4740,9 +4740,6 @@ msgstr "모던(키패드)"
 msgid "MISCMNU_SETSLOTSTRICT"
 msgstr "엄격한 키콘프 무기/플레이어"
 
-msgid "MISCMNU_CLEANMENU\n"
-msgstr "클래식 ZDoom 메뉴 크기 조정"
-
 msgid "MISCMNU_WIPERCENT"
 msgstr "요약 화면에서 퍼센트 사용"
 
