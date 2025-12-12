@@ -4810,9 +4810,6 @@ msgstr "Moderno (Teclado Numérico)"
 msgid "MISCMNU_SETSLOTSTRICT"
 msgstr "KEYCONF de Armas/Jugadores estricto"
 
-msgid "MISCMNU_CLEANMENU\n"
-msgstr "Escalado clásico de ZDoom en menús"
-
 msgid "MISCMNU_WIPERCENT"
 msgstr "Usar porcentajes en pantalla de resumen"
 
