@@ -4799,9 +4799,6 @@ msgstr "Modern (nummeriek toetsenbord)"
 msgid "MISCMNU_SETSLOTSTRICT"
 msgstr "Strikte KEYCONF Wapens/Spelers"
 
-msgid "MISCMNU_CLEANMENU\n"
-msgstr "Klassieke ZDoom-menu-schaalvergroting"
-
 msgid "MISCMNU_WIPERCENT"
 msgstr "Gebruik procenten op het overzichtsscherm"
 
