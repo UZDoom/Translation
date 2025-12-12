@@ -4808,9 +4808,6 @@ msgstr "Moderno (tastierino numerico)"
 msgid "MISCMNU_SETSLOTSTRICT"
 msgstr "KEYCONF rigoroso per armi/giocatori"
 
-msgid "MISCMNU_CLEANMENU\n"
-msgstr "Fattore di scala ZDoom classico per i menu"
-
 msgid "MISCMNU_WIPERCENT"
 msgstr "Usa percentuali per le schermate di riepilogo"
 
