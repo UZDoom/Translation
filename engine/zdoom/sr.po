@@ -4782,9 +4782,6 @@ msgstr "Модерна (тастатура)"
 msgid "MISCMNU_SETSLOTSTRICT"
 msgstr "Строго KEYKONF оружје/играчи"
 
-msgid "MISCMNU_CLEANMENU\n"
-msgstr "Класично скалирање менија ZDoom-а"
-
 msgid "MISCMNU_WIPERCENT"
 msgstr "Користите проценте на екрану резимеа"
 
