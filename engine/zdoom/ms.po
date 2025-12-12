@@ -4672,9 +4672,6 @@ msgstr ""
 msgid "MISCMNU_SETSLOTSTRICT"
 msgstr ""
 
-msgid "MISCMNU_CLEANMENU\n"
-msgstr ""
-
 msgid "MISCMNU_WIPERCENT"
 msgstr ""
 
