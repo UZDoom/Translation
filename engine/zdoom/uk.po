@@ -4760,9 +4760,6 @@ msgstr "Сучасна (цифрова клавіатура)"
 msgid "MISCMNU_SETSLOTSTRICT"
 msgstr "Суворе налаштування клавіш для зброї/гравців"
 
-msgid "MISCMNU_CLEANMENU\n"
-msgstr "Класичний розмір меню ZDoom"
-
 msgid "MISCMNU_WIPERCENT"
 msgstr "Використовуйте відсотки на екрані статистики"
 
