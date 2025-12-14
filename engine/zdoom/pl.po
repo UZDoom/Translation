@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-09 19:00+0000\n"
+"PO-Revision-Date: 2025-12-15 01:36+0000\n"
 "Last-Translator: Marazm Mamazm <brutdewelopment@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/pl/>\n"
@@ -5246,3 +5246,9 @@ msgstr "Anuluj podgląd gracza"
 
 msgid "OPTMNU_ACCESSIBILITY"
 msgstr "Opcje Dostępności"
+
+msgid "OPTVAL_ROCKETEXP_STYLE_TRANS"
+msgstr "Transparentny"
+
+msgid "ACCMNU_LIGHT"
+msgstr "Oświetlenie"
