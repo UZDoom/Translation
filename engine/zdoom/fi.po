@@ -4760,9 +4760,6 @@ msgstr "Nykyaikainen (numeronäppäimistö)"
 msgid "MISCMNU_SETSLOTSTRICT"
 msgstr "Pelaajien/Aseiden tiukka KEYCONF"
 
-msgid "MISCMNU_CLEANMENU\n"
-msgstr "Perinteinen ZDoomin skaalaus valikossa"
-
 msgid "MISCMNU_WIPERCENT"
 msgstr "Käytä prosentteja pisteruuduilla"
 

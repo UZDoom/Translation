@@ -4798,9 +4798,6 @@ msgstr "现代(小键盘)"
 msgid "MISCMNU_SETSLOTSTRICT"
 msgstr "严格的KEYCONF武器/玩家"
 
-msgid "MISCMNU_CLEANMENU\n"
-msgstr "经典ZDoom的菜单缩放"
-
 msgid "MISCMNU_WIPERCENT"
 msgstr "在结算画面上使用百分比"
 

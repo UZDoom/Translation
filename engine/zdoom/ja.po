@@ -4795,9 +4795,6 @@ msgstr "現代的(Keypad)"
 msgid "MISCMNU_SETSLOTSTRICT"
 msgstr "厳密なKEYCONFの武器/プレイヤー"
 
-msgid "MISCMNU_CLEANMENU\n"
-msgstr "従来のZDメニュースケール"
-
 msgid "MISCMNU_WIPERCENT"
 msgstr "集計画面でパーセント表示"
 

@@ -4811,9 +4811,6 @@ msgstr "Moderna (Cifera klavaro)"
 msgid "MISCMNU_SETSLOTSTRICT"
 msgstr "Strikta KEYCONF Armiloj/Ludantoj"
 
-msgid "MISCMNU_CLEANMENU\n"
-msgstr "Klasika skalado de ZDoom-menuo"
-
 msgid "MISCMNU_WIPERCENT"
 msgstr "Uzi procentojn sur resumekrano"
 

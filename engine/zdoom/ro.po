@@ -4801,9 +4801,6 @@ msgstr "Modernă (Tastatură)"
 msgid "MISCMNU_SETSLOTSTRICT"
 msgstr "KEYCONF Strictă pentru Arme/Jucători"
 
-msgid "MISCMNU_CLEANMENU\n"
-msgstr "Scară meniuri ZDoom clasică"
-
 msgid "MISCMNU_WIPERCENT"
 msgstr "Folosește procentaje la totaluri"
 

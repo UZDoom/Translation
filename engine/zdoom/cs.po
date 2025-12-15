@@ -4793,9 +4793,6 @@ msgstr "Moderní (číselník)"
 msgid "MISCMNU_SETSLOTSTRICT"
 msgstr "Striktně zbraně/hráči z KEYCONF"
 
-msgid "MISCMNU_CLEANMENU\n"
-msgstr "Škálování menu dle starého ZDoomu"
-
 msgid "MISCMNU_WIPERCENT"
 msgstr "Použít procenta ve výsledcích mapy"
 

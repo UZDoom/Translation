@@ -4733,9 +4733,6 @@ msgstr "Modernt (tangentbord)"
 msgid "MISCMNU_SETSLOTSTRICT"
 msgstr "Strikt KEYCONF Vapen/spelare"
 
-msgid "MISCMNU_CLEANMENU\n"
-msgstr "Skalning av Classic ZDoom-menyn"
-
 msgid "MISCMNU_WIPERCENT"
 msgstr "Använd procentsatser på sammanfattningsskärmen"
 

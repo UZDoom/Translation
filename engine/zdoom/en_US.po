@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-12 21:41+0000\n"
+"PO-Revision-Date: 2025-12-12 21:54+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/en/>\n"
@@ -4796,9 +4796,6 @@ msgstr "Modern (Keypad)"
 msgid "MISCMNU_SETSLOTSTRICT"
 msgstr "Strict KEYCONF Weapons/Players"
 
-msgid "MISCMNU_CLEANMENU\n"
-msgstr "Classic ZDoom menu scaling"
-
 msgid "MISCMNU_WIPERCENT"
 msgstr "Use percents on summary screen"
 
@@ -5320,3 +5317,6 @@ msgstr "Strict"
 
 msgid "PICKER_FILELOADING"
 msgstr "File Loading"
+
+msgid "MISCMNU_CLEANMENU"
+msgstr "Classic ZDoom menu scaling"
