@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-09 19:00+0000\n"
+"PO-Revision-Date: 2025-12-16 04:00+0000\n"
 "Last-Translator: dwing <12104745@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.15-dev\n"
+"X-Generator: Weblate 5.15.1-dev\n"
 "HeaderCode: chs\n"
 
 msgid "PRESSKEY"
@@ -4020,7 +4020,7 @@ msgid "OPTVAL_CAPPED"
 msgstr "限制"
 
 msgid "OPTVAL_PARTICLES"
-msgstr "颗粒化"
+msgstr "粒子"
 
 msgid "OPTVAL_SPRITES"
 msgstr "精灵"
@@ -5251,3 +5251,71 @@ msgstr "离开其他玩家视角"
 
 msgid "OPTMNU_ACCESSIBILITY"
 msgstr "辅助选项"
+
+msgid "JOYMNU_ANALOGRUN"
+msgstr "模拟奔跑"
+
+msgid "ACCMNU_LIGHT_EXTRA"
+msgstr "附加光照"
+
+msgid "ACCMNU_LIGHT_RADIUS"
+msgstr "光照半径"
+
+msgid "ACCMNU_LIGHT"
+msgstr "光照"
+
+msgid "OPTVAL_STRICT"
+msgstr "严格"
+
+msgid "PICKER_FILELOADING"
+msgstr "文件加载"
+
+msgid "MISCMNU_CLEANMENU"
+msgstr "经典ZDoom的菜单缩放"
+
+msgid "OPTVAL_LAX"
+msgstr "宽松"
+
+msgid "OPTVAL_ROCKETEXP_STYLE_TRANS"
+msgstr "透明"
+
+msgid "OPTVAL_ROCKETEXP_STYLE_ADD"
+msgstr "累加"
+
+msgid "DSPLYMNU_ROCKETEXPSTYLE"
+msgstr "爆炸显示风格"
+
+msgid "ACCMNU_TOOLTIP"
+msgstr "提示信息"
+
+msgid "ACCMNU_TOOLTIP_SCALE"
+msgstr "提示信息缩放"
+
+msgid "ACCMNU_TOOLTIP_CAP"
+msgstr "提示信息宽度限制"
+
+msgid "ACCMNU_TOOLTIP_ALPHA"
+msgstr "提示信息背景透明度"
+
+msgid "ACCMNU_TOOLTIP_SPEED"
+msgstr "提示信息滚动速度"
+
+msgid "ACCMNU_TOOLTIP_DELAY"
+msgstr "提示信息滚动延迟"
+
+msgid "ACCMNU_TOOLTIP_LIGHT_RADIUS"
+msgstr "控制光照在玩家周围的衰减速度。"
+
+msgid "ACCMNU_TOOLTIP_LIGHT_EXTRA"
+msgstr "在保持现有光照模式不变的情况下，叠加到现有的区域亮度水平上的额外光照强度。"
+
+msgid "ACCMNU_TOOLTIP_EXAMPLE"
+msgstr ""
+"这是一个提示信息示例。\n"
+"这里是一些补充说明文字。\n"
+"…\n"
+"这是一行非常长的文字，似乎一直说个不停，但又没有提到任何有趣的内容，这么长似"
+"乎仅仅是因为开发者难以解释该选项的具体功能。"
+
+msgid "ACCMNU_TOOLTIP_LINES"
+msgstr "提示信息行数"
