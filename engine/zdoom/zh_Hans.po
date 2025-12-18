@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-16 04:00+0000\n"
-"Last-Translator: dwing <12104745@qq.com>\n"
+"PO-Revision-Date: 2025-12-18 19:00+0000\n"
+"Last-Translator: Boondorl <boondorl0@gmail.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -5258,6 +5258,7 @@ msgstr "模拟奔跑"
 msgid "ACCMNU_LIGHT_EXTRA"
 msgstr "附加光照"
 
+#, fuzzy
 msgid "ACCMNU_LIGHT_RADIUS"
 msgstr "光照半径"
 
@@ -5288,6 +5289,7 @@ msgstr "爆炸显示风格"
 msgid "ACCMNU_TOOLTIP"
 msgstr "提示信息"
 
+#, fuzzy
 msgid "ACCMNU_TOOLTIP_SCALE"
 msgstr "提示信息缩放"
 
@@ -5303,6 +5305,7 @@ msgstr "提示信息滚动速度"
 msgid "ACCMNU_TOOLTIP_DELAY"
 msgstr "提示信息滚动延迟"
 
+#, fuzzy
 msgid "ACCMNU_TOOLTIP_LIGHT_RADIUS"
 msgstr "控制光照在玩家周围的衰减速度。"
 
