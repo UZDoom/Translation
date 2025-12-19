@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-09 15:59+0000\n"
-"Last-Translator: SecularSteve <fairfull.playing@gmail.com>\n"
+"PO-Revision-Date: 2025-12-19 22:05+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English (United Kingdom) <https://hosted.weblate.org/projects/"
 "uzdoom/zdoom-engine-strings/en_GB/>\n"
 "Language: en_GB\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15-dev\n"
+"X-Generator: Weblate 5.15.1\n"
 "HeaderCode: eng enc ena enz eni ens enj enb enl ent enw\n"
 
 msgid "PRESSKEY"
@@ -3230,7 +3230,7 @@ msgid "CMPTMNU_MODE"
 msgstr "Compatibility mode"
 
 msgid "CMPTMNU_ACTORBEHAVIOR"
-msgstr "Actor Behavior"
+msgstr "Actor Behaviour"
 
 msgid "CMPTMNU_NOBLOCKFRIENDS"
 msgstr "Friendly monsters aren't blocked"
@@ -3257,7 +3257,7 @@ msgid "CMPTMNU_NOTOSSDROPS"
 msgstr "Spawn item drops on the floor"
 
 msgid "CMPTMNU_DEHACKEDBEHAVIOR"
-msgstr "DehackEd Behavior"
+msgstr "DehackEd Behaviour"
 
 msgid "CMPTMNU_DEHHEALTH"
 msgstr "DEH health settings like Doom2.exe"
@@ -3266,7 +3266,7 @@ msgid "CMPTMNU_MUSHROOM"
 msgstr "Original A_Mushroom speed in DEH mods"
 
 msgid "CMPTMNU_MAPACTIONBEHAVIOR"
-msgstr "Map/Action Behavior"
+msgstr "Map/Action Behaviour"
 
 msgid "CMPTMNU_USEBLOCKING"
 msgstr "All special lines can block <use>"
@@ -3287,7 +3287,7 @@ msgid "CMPTMNU_STAIRS"
 msgstr "Use buggier stair building"
 
 msgid "CMPTMNU_FLOORMOVE"
-msgstr "Use Doom's floor motion behavior"
+msgstr "Use Doom's floor motion behaviour"
 
 msgid "CMPTMNU_POINTONLINE"
 msgstr "Use Doom's point-on-line algorithm"
@@ -3296,7 +3296,7 @@ msgid "CMPTMNU_MULTIEXIT"
 msgstr "Level exit can be triggered more than once"
 
 msgid "CMPTMNU_PHYSICSBEHAVIOR"
-msgstr "Physics Behavior"
+msgstr "Physics Behaviour"
 
 msgid "CMPTMNU_NOPASSOVER"
 msgstr "Actors are infinitely tall"
@@ -3323,7 +3323,7 @@ msgid "CMPTMNU_MISSILECLIP"
 msgstr "Use Doom heights for missile clipping"
 
 msgid "CMPTMNU_RENDERINGBEHAVIOR"
-msgstr "Rendering Behavior"
+msgstr "Rendering Behaviour"
 
 msgid "CMPTMNU_POLYOBJ"
 msgstr "Draw polyobjects like Hexen"
@@ -3335,7 +3335,7 @@ msgid "CMPTMNU_SPRITESORT"
 msgstr "Invert sprite sorting"
 
 msgid "CMPTMNU_SOUNDBEHAVIOR"
-msgstr "Sound Behavior"
+msgstr "Sound Behaviour"
 
 msgid "CMPTMNU_SOUNDSLOTS"
 msgstr "Cripple sound for silent BFG trick"
@@ -3362,7 +3362,7 @@ msgid "CMPTMNU_PUSHWINDOW"
 msgstr "Non-blocking lines can be pushed"
 
 msgid "CMPTMNU_CHECKSWITCHRANGE"
-msgstr "Enable buggy CheckSwitchRange behavior"
+msgstr "Enable buggy CheckSwitchRange behaviour"
 
 msgid "CMPTMNU_RAILINGHACK"
 msgstr "Enable buggy Strife railing"
@@ -3371,7 +3371,7 @@ msgid "CMPTMNU_EXPLODE1"
 msgstr "No vertical thrust from explosions"
 
 msgid "CMPTMNU_EXPLODE2"
-msgstr "Use original Doom explosion behavior"
+msgstr "Use original Doom explosion behaviour"
 
 msgid "PLYRMNU_RED"
 msgstr "Red"
@@ -5247,3 +5247,76 @@ msgstr "Clear coop spy"
 
 msgid "OPTMNU_ACCESSIBILITY"
 msgstr "Accessibility Options"
+
+msgid "JOYMNU_ANALOGRUN"
+msgstr "Analogue Run"
+
+msgid "ACCMNU_TOOLTIP_LINES"
+msgstr "Tooltip Lines"
+
+msgid "ACCMNU_TOOLTIP_SPEED"
+msgstr "Tooltip Scroll Speed"
+
+msgid "ACCMNU_TOOLTIP_DELAY"
+msgstr "Tooltip Scroll Delay"
+
+msgid "ACCMNU_TOOLTIP_ALPHA"
+msgstr "Tooltip Background Alpha"
+
+msgid "ACCMNU_TOOLTIP_CAP"
+msgstr "Limit Tooltip Width"
+
+msgid "ACCMNU_TOOLTIP_SCALE"
+msgstr "Large Tooltip Text"
+
+msgid "ACCMNU_TOOLTIP_EXAMPLE"
+msgstr ""
+"This is an example tooltip.\n"
+"Here is some supplementary text.\n"
+"…\n"
+"Here is a very long line of text that just seems to go on and on without "
+"ever having anything interesting to say, seemingly only being so long "
+"because the developers are having a hard time explaining what an option does."
+
+msgid "ACCMNU_TOOLTIP"
+msgstr "Tooltips"
+
+msgid "ACCMNU_LIGHT_EXTRA"
+msgstr "Extra Lighting"
+
+msgid "ACCMNU_TOOLTIP_LIGHT_RADIUS"
+msgstr ""
+"Controls the light radius distance around the player in map units. Larger "
+"values make the scene brighter."
+
+msgid "ACCMNU_TOOLTIP_LIGHT_EXTRA"
+msgstr ""
+"Amount of sector lighting to add on top of existing sector light levels, "
+"while preserving the existing lighting mode."
+
+msgid "ACCMNU_LIGHT_RADIUS"
+msgstr "Player Light Radius"
+
+msgid "ACCMNU_LIGHT"
+msgstr "Lighting"
+
+msgid "DSPLYMNU_ROCKETEXPSTYLE"
+msgstr "Explosion Display Style"
+
+msgid "OPTVAL_ROCKETEXP_STYLE_ADD"
+msgstr "Additive"
+
+msgid "OPTVAL_ROCKETEXP_STYLE_TRANS"
+msgstr "Transparent"
+
+msgid "OPTVAL_LAX"
+msgstr "Relaxed"
+
+msgid "OPTVAL_STRICT"
+msgstr "Strict"
+
+msgid "PICKER_FILELOADING"
+msgstr "File Loading"
+
+msgid "MISCMNU_CLEANMENU"
+msgstr "Classic ZDoom menu scaling"
