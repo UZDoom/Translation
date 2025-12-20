@@ -666,9 +666,6 @@ msgstr "Модели"
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr "Размер прицела"
 
-msgid "DSPLYMNU_BRIGHTNESS"
-msgstr "Яркость"
-
 msgid "DSPLYMNU_GAMMA"
 msgstr "Гамма-коррекция"
 
