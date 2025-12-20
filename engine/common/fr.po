@@ -667,9 +667,6 @@ msgstr "Modèles"
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr "Mise à l'échelle du viseur"
 
-msgid "DSPLYMNU_GAMMA"
-msgstr "Correction Gamma"
-
 msgid "DSPLYMNU_CONTRAST"
 msgstr "Contraste"
 
