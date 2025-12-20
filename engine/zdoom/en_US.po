@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-20 20:24+0000\n"
+"PO-Revision-Date: 2025-12-20 20:43+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/en/>\n"
@@ -5342,7 +5342,7 @@ msgstr ""
 "image is calibrated for your setup."
 
 msgid "DSPLYMNU_BLACKPOINT"
-msgstr "Blackpoint"
+msgstr "Blackpoint compensation"
 
 msgid "DSPLYMNU_TOOLTIP_BLACKPOINT"
 msgstr ""
@@ -5351,7 +5351,7 @@ msgstr ""
 "only to ensure the image is calibrated for your setup."
 
 msgid "DSPLYMNU_WHITEPOINT"
-msgstr "Whitepoint"
+msgstr "Whitepoint compensation"
 
 msgid "DSPLYMNU_TOOLTIP_WHITEPOINT"
 msgstr ""
