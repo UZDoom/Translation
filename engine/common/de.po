@@ -664,9 +664,6 @@ msgstr "Modelle"
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr "Fadenkreuz skalieren"
 
-msgid "DSPLYMNU_SATURATION"
-msgstr "Sättigung"
-
 msgid "DSPLYMNU_SBSCALE"
 msgstr "Statusleistengröße"
 
