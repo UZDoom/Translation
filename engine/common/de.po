@@ -664,9 +664,6 @@ msgstr "Modelle"
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr "Fadenkreuz skalieren"
 
-msgid "DSPLYMNU_GAMMA"
-msgstr "Gammakorrektur"
-
 msgid "DSPLYMNU_CONTRAST"
 msgstr "Kontrast"
 
