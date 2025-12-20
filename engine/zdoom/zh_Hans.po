@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-20 03:20+0000\n"
-"Last-Translator: hawkwind3 <hawkwinds_messages@hotmail.com>\n"
+"PO-Revision-Date: 2025-12-20 20:24+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -5319,3 +5319,15 @@ msgstr ""
 
 msgid "ACCMNU_TOOLTIP_LINES"
 msgstr "提示信息行数"
+
+msgid "DSPLYMNU_BRIGHTNESS"
+msgstr "亮度"
+
+msgid "DSPLYMNU_GAMMA"
+msgstr "伽马校正"
+
+msgid "DSPLYMNU_CONTRAST"
+msgstr "对比度"
+
+msgid "DSPLYMNU_SATURATION"
+msgstr "饱和度"
