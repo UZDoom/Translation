@@ -666,9 +666,6 @@ msgstr "Модели"
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr "Размера нишана"
 
-msgid "DSPLYMNU_SATURATION"
-msgstr "Сатурација"
-
 msgid "DSPLYMNU_SBSCALE"
 msgstr "Размера статусне траке"
 
