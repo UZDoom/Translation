@@ -664,9 +664,6 @@ msgstr "Models"
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr "Scale crosshair"
 
-msgid "DSPLYMNU_BRIGHTNESS"
-msgstr "Brightness"
-
 msgid "DSPLYMNU_GAMMA"
 msgstr "Gamma correction"
 
