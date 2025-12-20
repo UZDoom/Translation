@@ -665,9 +665,6 @@ msgstr "3D modellek"
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr "Célkereszt méret"
 
-msgid "DSPLYMNU_CONTRAST"
-msgstr "Kontraszt"
-
 msgid "DSPLYMNU_SATURATION"
 msgstr "Telítettség"
 
