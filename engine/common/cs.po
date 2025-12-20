@@ -665,9 +665,6 @@ msgstr "Modely"
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr "Velikost zaměřovače"
 
-msgid "DSPLYMNU_GAMMA"
-msgstr "Korekce gama"
-
 msgid "DSPLYMNU_CONTRAST"
 msgstr "Kontrast"
 
