@@ -667,9 +667,6 @@ msgstr "モデル"
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr "照準スケール"
 
-msgid "DSPLYMNU_BRIGHTNESS"
-msgstr "明るさ"
-
 msgid "DSPLYMNU_GAMMA"
 msgstr "ガンマ値"
 
