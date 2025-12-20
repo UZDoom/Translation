@@ -666,9 +666,6 @@ msgstr "Modelli"
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr "Scala del mirino"
 
-msgid "DSPLYMNU_BRIGHTNESS"
-msgstr "Luminosità"
-
 msgid "DSPLYMNU_GAMMA"
 msgstr "Correzione gamma"
 
