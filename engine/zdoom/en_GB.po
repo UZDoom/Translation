@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-19 22:05+0000\n"
+"PO-Revision-Date: 2025-12-20 03:20+0000\n"
 "Last-Translator: hawkwind3 <hawkwinds_messages@hotmail.com>\n"
 "Language-Team: English (United Kingdom) <https://hosted.weblate.org/projects/"
 "uzdoom/zdoom-engine-strings/en_GB/>\n"
