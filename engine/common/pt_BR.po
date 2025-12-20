@@ -665,9 +665,6 @@ msgstr "Modelos"
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr "Escala da mira"
 
-msgid "DSPLYMNU_BRIGHTNESS"
-msgstr "Brilho"
-
 msgid "DSPLYMNU_GAMMA"
 msgstr "Correção de gama"
 
