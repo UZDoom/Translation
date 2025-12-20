@@ -665,9 +665,6 @@ msgstr "모델"
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr "조준점 크기"
 
-msgid "DSPLYMNU_SATURATION"
-msgstr "채도"
-
 msgid "DSPLYMNU_SBSCALE"
 msgstr ""
 
