@@ -657,9 +657,6 @@ msgstr ""
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr ""
 
-msgid "DSPLYMNU_SATURATION"
-msgstr ""
-
 msgid "DSPLYMNU_SBSCALE"
 msgstr ""
 
