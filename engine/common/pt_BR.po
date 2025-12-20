@@ -665,9 +665,6 @@ msgstr "Modelos"
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr "Escala da mira"
 
-msgid "DSPLYMNU_SATURATION"
-msgstr "Saturação"
-
 msgid "DSPLYMNU_SBSCALE"
 msgstr "Escala da barra de estado"
 
