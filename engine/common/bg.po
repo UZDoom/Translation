@@ -659,9 +659,6 @@ msgstr ""
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr ""
 
-msgid "DSPLYMNU_BRIGHTNESS"
-msgstr ""
-
 msgid "DSPLYMNU_GAMMA"
 msgstr ""
 
