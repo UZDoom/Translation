@@ -663,9 +663,6 @@ msgstr "Modeller"
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr "Skala trådkors"
 
-msgid "DSPLYMNU_SATURATION"
-msgstr "Metning"
-
 msgid "DSPLYMNU_SBSCALE"
 msgstr "Statuslinjeskala"
 
