@@ -666,9 +666,6 @@ msgstr "Modele"
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr "Scară țintă"
 
-msgid "DSPLYMNU_BRIGHTNESS"
-msgstr "Luminozitate"
-
 msgid "DSPLYMNU_GAMMA"
 msgstr "Gamma"
 
