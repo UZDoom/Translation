@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-20 03:20+0000\n"
-"Last-Translator: hawkwind3 <hawkwinds_messages@hotmail.com>\n"
+"PO-Revision-Date: 2025-12-20 20:24+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ru/>\n"
 "Language: ru\n"
@@ -5249,3 +5249,15 @@ msgstr "Отменить вид от другого игрока"
 
 msgid "OPTMNU_ACCESSIBILITY"
 msgstr "Настройки Доступности"
+
+msgid "DSPLYMNU_BRIGHTNESS"
+msgstr "Яркость"
+
+msgid "DSPLYMNU_GAMMA"
+msgstr "Гамма-коррекция"
+
+msgid "DSPLYMNU_CONTRAST"
+msgstr "Контраст"
+
+msgid "DSPLYMNU_SATURATION"
+msgstr "Насыщенность"
