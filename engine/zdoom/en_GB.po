@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-19 22:05+0000\n"
+"PO-Revision-Date: 2025-12-20 05:00+0000\n"
 "Last-Translator: hawkwind3 <hawkwinds_messages@hotmail.com>\n"
 "Language-Team: English (United Kingdom) <https://hosted.weblate.org/projects/"
 "uzdoom/zdoom-engine-strings/en_GB/>\n"
@@ -739,7 +739,7 @@ msgid "GOTBACKPACK"
 msgstr "Picked up a backpack full of ammo!"
 
 msgid "GOTBFG9000"
-msgstr "You've got the BFG9000! Oh, yes."
+msgstr "You got the BFG9000! Oh, yes."
 
 msgid "GOTCHAINGUN"
 msgstr "You've got the chaingun!"
