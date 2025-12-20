@@ -665,9 +665,6 @@ msgstr "Modele"
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr "Skala celownika"
 
-msgid "DSPLYMNU_CONTRAST"
-msgstr "Kontrast"
-
 msgid "DSPLYMNU_SATURATION"
 msgstr "Nasycenie"
 
