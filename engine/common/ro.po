@@ -666,9 +666,6 @@ msgstr "Modele"
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr "Scară țintă"
 
-msgid "DSPLYMNU_CONTRAST"
-msgstr ""
-
 msgid "DSPLYMNU_SATURATION"
 msgstr "Saturație"
 
