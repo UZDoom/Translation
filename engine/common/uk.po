@@ -667,9 +667,6 @@ msgstr "3D Моделі"
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr "Розмір прицілу"
 
-msgid "DSPLYMNU_BRIGHTNESS"
-msgstr "Яскравість"
-
 msgid "DSPLYMNU_GAMMA"
 msgstr "Гамма-корекція"
 
