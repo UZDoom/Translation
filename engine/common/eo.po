@@ -664,9 +664,6 @@ msgstr "Modeloj"
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr "Skali celilon"
 
-msgid "DSPLYMNU_BRIGHTNESS"
-msgstr "Heleco"
-
 msgid "DSPLYMNU_GAMMA"
 msgstr "Gamaa korekto"
 
