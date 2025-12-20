@@ -665,9 +665,6 @@ msgstr "Modele"
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr "Skala celownika"
 
-msgid "DSPLYMNU_SATURATION"
-msgstr "Nasycenie"
-
 msgid "DSPLYMNU_SBSCALE"
 msgstr "Skala paska statusu"
 
