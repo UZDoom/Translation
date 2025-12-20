@@ -664,9 +664,6 @@ msgstr "模型"
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr "准星比例"
 
-msgid "DSPLYMNU_CONTRAST"
-msgstr "对比度"
-
 msgid "DSPLYMNU_SATURATION"
 msgstr "饱和度"
 
