@@ -665,9 +665,6 @@ msgstr "Modeli"
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr "Skaliraj ciljnik"
 
-msgid "DSPLYMNU_CONTRAST"
-msgstr "Kontrast"
-
 msgid "DSPLYMNU_SATURATION"
 msgstr "Saturacija"
 
