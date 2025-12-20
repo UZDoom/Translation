@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-20 03:20+0000\n"
-"Last-Translator: hawkwind3 <hawkwinds_messages@hotmail.com>\n"
+"PO-Revision-Date: 2025-12-20 19:25+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/en/>\n"
 "Language: en\n"
@@ -5322,3 +5322,6 @@ msgstr "File Loading"
 
 msgid "MISCMNU_CLEANMENU"
 msgstr "Classic ZDoom menu scaling"
+
+msgid "DSPLYMNU_IMAGEADJUST"
+msgstr "Image Calibration"
