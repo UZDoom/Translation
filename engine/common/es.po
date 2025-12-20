@@ -668,9 +668,6 @@ msgstr "Modelos"
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr "Escalar retícula"
 
-msgid "DSPLYMNU_BRIGHTNESS"
-msgstr "Brillo"
-
 msgid "DSPLYMNU_GAMMA"
 msgstr "Corrección gamma"
 
