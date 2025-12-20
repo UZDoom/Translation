@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-20 19:25+0000\n"
+"PO-Revision-Date: 2025-12-20 20:24+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/en/>\n"
@@ -5325,3 +5325,72 @@ msgstr "Classic ZDoom menu scaling"
 
 msgid "DSPLYMNU_IMAGEADJUST"
 msgstr "Image Calibration"
+
+msgid "DSPLYMNU_IMAGEADJUST_TOP1"
+msgstr "From a normal viewing distance, adjust these sliders."
+
+msgid "DSPLYMNU_IMAGEADJUST_TOP2"
+msgstr "Upscaling/Supersampling may result in incorrect output."
+
+msgid "DSPLYMNU_IMAGEADJUST_TOP3"
+msgstr "Please disable them before adjusting."
+
+msgid "DSPLYMNU_TOOLTIP_GAMMA"
+msgstr ""
+"Compensates for your monitor's limitations. Adjust until vertical grey "
+"blocks fade. Do not use this to make the game brighter, only to ensure the "
+"image is calibrated for your setup."
+
+msgid "DSPLYMNU_BLACKPOINT"
+msgstr "Blackpoint"
+
+msgid "DSPLYMNU_TOOLTIP_BLACKPOINT"
+msgstr ""
+"Compensates for monitors that fail to display dark pixels correctly. Adjust "
+"until diagonal white blocks fade. Do not use this to make the game brighter, "
+"only to ensure the image is calibrated for your setup."
+
+msgid "DSPLYMNU_WHITEPOINT"
+msgstr "Whitepoint"
+
+msgid "DSPLYMNU_TOOLTIP_WHITEPOINT"
+msgstr ""
+"Compensates for monitors that fail to display bright pixels correctly. "
+"Adjust until diagonal black blocks fade. Do not use this to make the game "
+"brighter, only to ensure the image is calibrated for your setup."
+
+msgid "OPTMNU_RESETALL"
+msgstr "Reset All"
+
+msgid "DSPLYMNU_TOOLTIP_IMAGEADJUST_RESET"
+msgstr "Resets all options in this menu to default settings."
+
+msgid "DSPLYMNU_TOOLTIP_BRIGHTNESS"
+msgstr ""
+"Applies linear brightness adjustment. Adjust to personal taste, or to see in "
+"the dark."
+
+msgid "DSPLYMNU_TOOLTIP_CONTRAST"
+msgstr ""
+"Adjusts perceived difference between similar colors. Controls how sharp/"
+"washed out the images looks. Adjust to personal taste."
+
+msgid "DSPLYMNU_TOOLTIP_SATURATION"
+msgstr ""
+"Adjusts the intensity of colors, making the image look more vivid or muted. "
+"Adjust to personal taste."
+
+msgid "DSPLYMNU_IMAGEADJUST_BOTTOM"
+msgstr "Adjust until this looks like a uniform Gray color."
+
+msgid "DSPLYMNU_BRIGHTNESS"
+msgstr "Brightness"
+
+msgid "DSPLYMNU_GAMMA"
+msgstr "Gamma correction"
+
+msgid "DSPLYMNU_CONTRAST"
+msgstr "Contrast"
+
+msgid "DSPLYMNU_SATURATION"
+msgstr "Saturation"

@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-20 03:20+0000\n"
-"Last-Translator: hawkwind3 <hawkwinds_messages@hotmail.com>\n"
+"PO-Revision-Date: 2025-12-20 20:24+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/pl/>\n"
 "Language: pl\n"
@@ -5252,3 +5252,15 @@ msgstr "Transparentny"
 
 msgid "ACCMNU_LIGHT"
 msgstr "Oświetlenie"
+
+msgid "DSPLYMNU_BRIGHTNESS"
+msgstr "Jasność"
+
+msgid "DSPLYMNU_GAMMA"
+msgstr "Korekta gammy"
+
+msgid "DSPLYMNU_CONTRAST"
+msgstr "Kontrast"
+
+msgid "DSPLYMNU_SATURATION"
+msgstr "Nasycenie"

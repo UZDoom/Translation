@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-13 21:00+0000\n"
-"Last-Translator: NuruTheDoomer <nuruthedoomer@gmail.com>\n"
+"PO-Revision-Date: 2025-12-20 20:26+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Malay <https://hosted.weblate.org/projects/uzdoom/common/ms/>"
 "\n"
 "Language: ms\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.15-dev\n"
+"X-Generator: Weblate 5.15.1\n"
 
 msgid "PRESSYN"
 msgstr "Tekan Y atau N."
@@ -604,13 +604,13 @@ msgid "TXT_COLOR_RUST"
 msgstr ""
 
 msgid "PLYRMNU_NAME"
-msgstr ""
+msgstr "Nama"
 
 msgid "PLYRMNU_TEAM"
 msgstr ""
 
 msgid "PLYRMNU_PLAYERCOLOR"
-msgstr ""
+msgstr "Warna"
 
 msgid "PLYRMNU_PLAYERGENDER"
 msgstr ""
@@ -652,18 +652,6 @@ msgid "DSPLYMNU_MODELS"
 msgstr ""
 
 msgid "DSPLYMNU_CROSSHAIRSCALE"
-msgstr ""
-
-msgid "DSPLYMNU_BRIGHTNESS"
-msgstr ""
-
-msgid "DSPLYMNU_GAMMA"
-msgstr ""
-
-msgid "DSPLYMNU_CONTRAST"
-msgstr ""
-
-msgid "DSPLYMNU_SATURATION"
 msgstr ""
 
 msgid "DSPLYMNU_SBSCALE"
@@ -1662,7 +1650,7 @@ msgid "REVMNU_Based_on"
 msgstr ""
 
 msgid "REVMNU_Name"
-msgstr ""
+msgstr "Nama"
 
 msgid "REVMNU_ID_1"
 msgstr ""

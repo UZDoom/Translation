@@ -667,18 +667,6 @@ msgstr "Modeller"
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr "Ölçekli artı işareti"
 
-msgid "DSPLYMNU_BRIGHTNESS"
-msgstr "Parlaklık"
-
-msgid "DSPLYMNU_GAMMA"
-msgstr "Gama düzeltme"
-
-msgid "DSPLYMNU_CONTRAST"
-msgstr "Kontrast"
-
-msgid "DSPLYMNU_SATURATION"
-msgstr "Doygunluk"
-
 msgid "DSPLYMNU_SBSCALE"
 msgstr "Durum Çubuğu Ölçeği"
 

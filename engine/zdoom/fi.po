@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-20 03:20+0000\n"
-"Last-Translator: hawkwind3 <hawkwinds_messages@hotmail.com>\n"
+"PO-Revision-Date: 2025-12-20 20:24+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fi/>\n"
 "Language: fi\n"
@@ -5210,3 +5210,15 @@ msgstr ""
 
 msgid "CNTRLMNU_COOPSPYCANCEL"
 msgstr ""
+
+msgid "DSPLYMNU_BRIGHTNESS"
+msgstr "Kirkkaus"
+
+msgid "DSPLYMNU_GAMMA"
+msgstr "Gammakorjaus"
+
+msgid "DSPLYMNU_CONTRAST"
+msgstr "Sävykkyys"
+
+msgid "DSPLYMNU_SATURATION"
+msgstr "Värikylläisyys"

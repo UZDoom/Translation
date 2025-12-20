@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-20 03:20+0000\n"
-"Last-Translator: hawkwind3 <hawkwinds_messages@hotmail.com>\n"
+"PO-Revision-Date: 2025-12-20 20:24+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/nl/>\n"
 "Language: nl\n"
@@ -5255,3 +5255,15 @@ msgstr "Duidelijke coop-spion"
 
 msgid "OPTMNU_ACCESSIBILITY"
 msgstr "Toegankelijkheidsopties"
+
+msgid "DSPLYMNU_BRIGHTNESS"
+msgstr "Helderheid"
+
+msgid "DSPLYMNU_GAMMA"
+msgstr "Gamma correctie"
+
+msgid "DSPLYMNU_CONTRAST"
+msgstr "Contrast"
+
+msgid "DSPLYMNU_SATURATION"
+msgstr "Verzadiging"

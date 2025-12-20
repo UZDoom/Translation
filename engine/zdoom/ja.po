@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-20 03:20+0000\n"
-"Last-Translator: hawkwind3 <hawkwinds_messages@hotmail.com>\n"
+"PO-Revision-Date: 2025-12-20 20:24+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ja/>\n"
 "Language: ja\n"
@@ -5245,3 +5245,15 @@ msgstr "前者の他者視点"
 
 msgid "CNTRLMNU_COOPSPYCANCEL"
 msgstr "他者視点を解除"
+
+msgid "DSPLYMNU_BRIGHTNESS"
+msgstr "明るさ"
+
+msgid "DSPLYMNU_GAMMA"
+msgstr "ガンマ値"
+
+msgid "DSPLYMNU_CONTRAST"
+msgstr "コントラスト"
+
+msgid "DSPLYMNU_SATURATION"
+msgstr "サチュレーション"

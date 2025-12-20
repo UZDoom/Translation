@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-20 03:20+0000\n"
-"Last-Translator: hawkwind3 <hawkwinds_messages@hotmail.com>\n"
+"PO-Revision-Date: 2025-12-20 20:24+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/cs/>\n"
 "Language: cs\n"
@@ -5246,3 +5246,15 @@ msgstr "Co-op špehování - předchozí"
 
 msgid "CNTRLMNU_COOPSPYCANCEL"
 msgstr "Co-op špehování - vyčistit"
+
+msgid "DSPLYMNU_BRIGHTNESS"
+msgstr "Jas"
+
+msgid "DSPLYMNU_GAMMA"
+msgstr "Korekce gama"
+
+msgid "DSPLYMNU_CONTRAST"
+msgstr "Kontrast"
+
+msgid "DSPLYMNU_SATURATION"
+msgstr "Sytost"
