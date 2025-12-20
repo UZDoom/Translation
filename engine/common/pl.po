@@ -665,9 +665,6 @@ msgstr "Modele"
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr "Skala celownika"
 
-msgid "DSPLYMNU_BRIGHTNESS"
-msgstr "Jasność"
-
 msgid "DSPLYMNU_GAMMA"
 msgstr "Korekta gammy"
 
