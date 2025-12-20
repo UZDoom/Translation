@@ -663,9 +663,6 @@ msgstr "Mallit"
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr "Skaalaa tähtäintä"
 
-msgid "DSPLYMNU_GAMMA"
-msgstr "Gammakorjaus"
-
 msgid "DSPLYMNU_CONTRAST"
 msgstr "Sävykkyys"
 
