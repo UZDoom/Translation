@@ -667,9 +667,6 @@ msgstr "Modeller"
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr "Ölçekli artı işareti"
 
-msgid "DSPLYMNU_BRIGHTNESS"
-msgstr "Parlaklık"
-
 msgid "DSPLYMNU_GAMMA"
 msgstr "Gama düzeltme"
 
