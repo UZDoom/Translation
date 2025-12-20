@@ -663,9 +663,6 @@ msgstr "Modeller"
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr "Skala trådkors"
 
-msgid "DSPLYMNU_GAMMA"
-msgstr "Gammakorreksjon"
-
 msgid "DSPLYMNU_CONTRAST"
 msgstr "Kontrast"
 
