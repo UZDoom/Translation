@@ -665,9 +665,6 @@ msgstr "Modeli"
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr "Skaliraj ciljnik"
 
-msgid "DSPLYMNU_BRIGHTNESS"
-msgstr "Svjetlina"
-
 msgid "DSPLYMNU_GAMMA"
 msgstr "Korekcija game"
 
