@@ -665,9 +665,6 @@ msgstr "Modellen"
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr "Dradenkruis schalen"
 
-msgid "DSPLYMNU_CONTRAST"
-msgstr "Contrast"
-
 msgid "DSPLYMNU_SATURATION"
 msgstr "Verzadiging"
 
