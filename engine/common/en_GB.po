@@ -664,9 +664,6 @@ msgstr "Models"
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr "Scale crosshair"
 
-msgid "DSPLYMNU_CONTRAST"
-msgstr "Contrast"
-
 msgid "DSPLYMNU_SATURATION"
 msgstr "Saturation"
 
