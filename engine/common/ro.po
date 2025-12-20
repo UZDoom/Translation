@@ -666,9 +666,6 @@ msgstr "Modele"
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr "Scară țintă"
 
-msgid "DSPLYMNU_SATURATION"
-msgstr "Saturație"
-
 msgid "DSPLYMNU_SBSCALE"
 msgstr "Scară Bară de Stare"
 
