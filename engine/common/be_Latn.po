@@ -666,9 +666,6 @@ msgstr "Мадэлі"
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr "Памер прыцэла"
 
-msgid "DSPLYMNU_CONTRAST"
-msgstr "Кантраст"
-
 msgid "DSPLYMNU_SATURATION"
 msgstr "Насычанасць"
 
