@@ -657,9 +657,6 @@ msgstr "Modeller"
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr "Skala hårkorset"
 
-msgid "DSPLYMNU_GAMMA"
-msgstr "Gammakorrigering"
-
 msgid "DSPLYMNU_CONTRAST"
 msgstr "Kontrast"
 
