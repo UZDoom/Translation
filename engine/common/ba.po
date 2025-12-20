@@ -666,9 +666,6 @@ msgstr "Modeli"
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr "Veličina mete"
 
-msgid "DSPLYMNU_GAMMA"
-msgstr "Ispravljanje game"
-
 msgid "DSPLYMNU_CONTRAST"
 msgstr "Kontrast"
 
