@@ -666,9 +666,6 @@ msgstr "Modelli"
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr "Scala del mirino"
 
-msgid "DSPLYMNU_CONTRAST"
-msgstr "Contrasto"
-
 msgid "DSPLYMNU_SATURATION"
 msgstr "Saturazione"
 
