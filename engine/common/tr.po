@@ -667,9 +667,6 @@ msgstr "Modeller"
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr "Ölçekli artı işareti"
 
-msgid "DSPLYMNU_CONTRAST"
-msgstr "Kontrast"
-
 msgid "DSPLYMNU_SATURATION"
 msgstr "Doygunluk"
 
