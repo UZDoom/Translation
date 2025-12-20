@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-20 03:20+0000\n"
-"Last-Translator: hawkwind3 <hawkwinds_messages@hotmail.com>\n"
+"PO-Revision-Date: 2025-12-20 20:24+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ro/>\n"
 "Language: ro\n"
@@ -5252,3 +5252,12 @@ msgstr "Jucător anterior: vizualizare"
 
 msgid "CNTRLMNU_COOPSPYCANCEL"
 msgstr "Anulează vizualizarea altui jucător"
+
+msgid "DSPLYMNU_BRIGHTNESS"
+msgstr "Luminozitate"
+
+msgid "DSPLYMNU_GAMMA"
+msgstr "Gamma"
+
+msgid "DSPLYMNU_SATURATION"
+msgstr "Saturație"
