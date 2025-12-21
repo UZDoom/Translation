@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-20 20:24+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2025-12-21 02:08+0000\n"
+"Last-Translator: hawkwind3 <hawkwinds_messages@hotmail.com>\n"
 "Language-Team: English (United Kingdom) <https://hosted.weblate.org/projects/"
 "uzdoom/zdoom-engine-strings/en_GB/>\n"
 "Language: en_GB\n"
@@ -3347,7 +3347,7 @@ msgid "CMPTMNU_SILENTINSTANTFLOORS"
 msgstr "Inst. moving floors are not silent"
 
 msgid "CMPTMNU_SECTORSOUNDS"
-msgstr "Sector sounds use center as source"
+msgstr "Sector sounds use centre as source"
 
 msgid "CMPTMNU_SOUNDCUTOFF"
 msgstr "Sounds stop when actor vanishes"
@@ -5332,3 +5332,16 @@ msgstr "Contrast"
 
 msgid "DSPLYMNU_SATURATION"
 msgstr "Saturation"
+
+msgid "DSPLYMNU_IMAGEADJUST_BOTTOM"
+msgstr "Adjust until this looks like a uniform Grey colour."
+
+msgid "DSPLYMNU_TOOLTIP_SATURATION"
+msgstr ""
+"Adjusts the intensity of colours, making the image look more vivid or muted. "
+"Adjust to personal taste."
+
+msgid "DSPLYMNU_TOOLTIP_CONTRAST"
+msgstr ""
+"Adjusts perceived difference between similar colours. Controls how sharp/"
+"washed out the images looks. Adjust to personal taste."
