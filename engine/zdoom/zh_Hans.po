@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-20 20:24+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2025-12-21 15:09+0000\n"
+"Last-Translator: dwing <12104745@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -5331,3 +5331,56 @@ msgstr "对比度"
 
 msgid "DSPLYMNU_SATURATION"
 msgstr "饱和度"
+
+msgid "DSPLYMNU_IMAGEADJUST"
+msgstr "图像校准"
+
+msgid "DSPLYMNU_IMAGEADJUST_TOP3"
+msgstr "请在调整前禁用这些。"
+
+msgid "DSPLYMNU_BLACKPOINT"
+msgstr "黑点补偿"
+
+msgid "DSPLYMNU_WHITEPOINT"
+msgstr "白点补偿"
+
+msgid "OPTMNU_RESETALL"
+msgstr "全部重置"
+
+msgid "DSPLYMNU_IMAGEADJUST_TOP1"
+msgstr "以正常观看的距离，来调整这些滑动条。"
+
+msgid "DSPLYMNU_IMAGEADJUST_TOP2"
+msgstr "放大/超采样可能导致输出不正确。"
+
+msgid "DSPLYMNU_TOOLTIP_GAMMA"
+msgstr ""
+"补偿你的显示器局限性。调整直到垂直灰色块消失。请勿用此功能让游戏画面更亮，仅"
+"用于确保图像与你的设置相匹配。"
+
+msgid "DSPLYMNU_TOOLTIP_BLACKPOINT"
+msgstr ""
+"用于补偿显示器无法正确显示暗像素的情况。调整直至对角线上的白色方块消失。请勿"
+"用此功能让游戏画面更亮，仅用于确保图像与你的设置相匹配。"
+
+msgid "DSPLYMNU_TOOLTIP_WHITEPOINT"
+msgstr ""
+"用于补偿显示器无法正确显示亮像素的情况。调整直至对角线上的黑色方块消失。请勿"
+"用此功能让游戏画面更亮，仅用于确保图像与你的设置相匹配。"
+
+msgid "DSPLYMNU_TOOLTIP_IMAGEADJUST_RESET"
+msgstr "将此菜单中的所有选项重置为默认设置。"
+
+msgid "DSPLYMNU_TOOLTIP_BRIGHTNESS"
+msgstr "应用线性亮度调整。根据个人喜好调整，或在黑暗中查看。"
+
+msgid "DSPLYMNU_TOOLTIP_CONTRAST"
+msgstr ""
+"调整相似颜色之间的感知差异。控制图像看起来清晰或模糊的程度。根据个人喜好进行"
+"调整。"
+
+msgid "DSPLYMNU_TOOLTIP_SATURATION"
+msgstr "调整颜色的强度，使图像看起来更鲜艳或更柔和。根据个人喜好进行调整。"
+
+msgid "DSPLYMNU_IMAGEADJUST_BOTTOM"
+msgstr "调整直到看起来像均匀的灰色。"
