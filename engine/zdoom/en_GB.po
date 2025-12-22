@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-21 15:09+0000\n"
+"PO-Revision-Date: 2025-12-22 09:00+0000\n"
 "Last-Translator: hawkwind3 <hawkwinds_messages@hotmail.com>\n"
 "Language-Team: English (United Kingdom) <https://hosted.weblate.org/projects/"
 "uzdoom/zdoom-engine-strings/en_GB/>\n"
@@ -5345,3 +5345,50 @@ msgid "DSPLYMNU_TOOLTIP_CONTRAST"
 msgstr ""
 "Adjusts perceived difference between similar colours. Controls how sharp/"
 "washed out the images looks. Adjust to personal taste."
+
+msgid "DSPLYMNU_IMAGEADJUST"
+msgstr "Image Calibration"
+
+msgid "DSPLYMNU_IMAGEADJUST_TOP1"
+msgstr "From a normal viewing distance, adjust these sliders."
+
+msgid "DSPLYMNU_IMAGEADJUST_TOP2"
+msgstr "Upscaling/Supersampling may result in incorrect output."
+
+msgid "DSPLYMNU_IMAGEADJUST_TOP3"
+msgstr "Please disable them before adjusting."
+
+msgid "DSPLYMNU_TOOLTIP_GAMMA"
+msgstr ""
+"Compensates for your monitor's limitations. Adjust until vertical grey "
+"blocks fade. Do not use this to make the game brighter, only to ensure the "
+"image is calibrated for your setup."
+
+msgid "DSPLYMNU_BLACKPOINT"
+msgstr "Blackpoint compensation"
+
+msgid "DSPLYMNU_TOOLTIP_BLACKPOINT"
+msgstr ""
+"Compensates for monitors that fail to display dark pixels correctly. Adjust "
+"until diagonal white blocks fade. Do not use this to make the game brighter, "
+"only to ensure the image is calibrated for your setup."
+
+msgid "DSPLYMNU_WHITEPOINT"
+msgstr "Whitepoint compensation"
+
+msgid "DSPLYMNU_TOOLTIP_WHITEPOINT"
+msgstr ""
+"Compensates for monitors that fail to display bright pixels correctly. "
+"Adjust until diagonal black blocks fade. Do not use this to make the game "
+"brighter, only to ensure the image is calibrated for your setup."
+
+msgid "OPTMNU_RESETALL"
+msgstr "Reset All"
+
+msgid "DSPLYMNU_TOOLTIP_IMAGEADJUST_RESET"
+msgstr "Resets all options in this menu to default settings."
+
+msgid "DSPLYMNU_TOOLTIP_BRIGHTNESS"
+msgstr ""
+"Applies linear brightness adjustment. Adjust to personal taste, or to see in "
+"the dark."
