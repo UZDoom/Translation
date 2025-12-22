@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-22 01:00+0000\n"
+"PO-Revision-Date: 2025-12-22 03:40+0000\n"
 "Last-Translator: Skyler Shirra <skyler.shirra@gmail.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/eo/>\n"
@@ -5294,3 +5294,24 @@ msgstr ""
 "Jen tre longa tekstlinio, kiu ŝajnas daŭri senfine sen iam ajn havi ion "
 "interesan por diri, ŝajne nur tiel longa ĉar la programistoj malfacile "
 "klarigas, kion faras opcio."
+
+msgid "OPTMNU_RESETALL"
+msgstr "Restarigi ĉiun"
+
+msgid "MISCMNU_CLEANMENU"
+msgstr "Klasika skalado de ZDoom-menuo"
+
+msgid "OPTVAL_STRICT"
+msgstr "Severa"
+
+msgid "OPTVAL_LAX"
+msgstr "Malsevera"
+
+msgid "OPTVAL_ROCKETEXP_STYLE_TRANS"
+msgstr "Travidebla"
+
+msgid "OPTVAL_ROCKETEXP_STYLE_ADD"
+msgstr "Adicia"
+
+msgid "DSPLYMNU_ROCKETEXPSTYLE"
+msgstr "Vidigo-stilo de eksplodo"
