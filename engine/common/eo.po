@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-30 16:49+0000\n"
-"Last-Translator: Маркич <zurovmark61@gmail.com>\n"
+"PO-Revision-Date: 2025-12-22 01:00+0000\n"
+"Last-Translator: Skyler Shirra <skyler.shirra@gmail.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/uzdoom/common/"
 "eo/>\n"
 "Language: eo\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15-dev\n"
+"X-Generator: Weblate 5.15.1\n"
 "HeaderCode: eo\n"
 
 msgid "PRESSYN"
@@ -2106,3 +2106,15 @@ msgstr "Rapido de rigardo"
 
 msgid "JOYMNU_ANALOGSTRAFERUN"
 msgstr "Analoga flankenmoviĝo-kuro"
+
+msgid "PICKER_TAB_RELEASE"
+msgstr "Eldonaj notoj"
+
+msgid "PICKER_TAB_ABOUT"
+msgstr "Pri"
+
+msgid "PICKER_SHOWNOTES"
+msgstr "Montri eldonajn notojn"
+
+msgid "PICKER_SHOWTHIS"
+msgstr "Montri ĉi tiun paĝon post ĝisdatigoj"
