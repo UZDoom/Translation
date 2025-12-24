@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-23 16:13+0000\n"
-"Last-Translator: hawkwind3 <hawkwinds_messages@hotmail.com>\n"
+"PO-Revision-Date: 2025-12-24 17:00+0000\n"
+"Last-Translator: Boondorl <boondorl0@gmail.com>\n"
 "Language-Team: English (United Kingdom) <https://hosted.weblate.org/projects/"
 "uzdoom/zdoom-engine-strings/en_GB/>\n"
 "Language: en_GB\n"
@@ -529,6 +529,7 @@ msgstr "Secret"
 msgid "SCORE_NAME"
 msgstr "Name"
 
+#, fuzzy
 msgid "SCORE_DELAY"
 msgstr "Delay (ms)"
 

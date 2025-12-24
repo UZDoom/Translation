@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-21 15:09+0000\n"
+"PO-Revision-Date: 2025-12-24 17:00+0000\n"
 "Last-Translator: dwing <12104745@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
@@ -530,7 +530,7 @@ msgid "SCORE_NAME"
 msgstr "名称"
 
 msgid "SCORE_DELAY"
-msgstr "延迟(ms)"
+msgstr "延迟"
 
 msgid "SCORE_FRAGS"
 msgstr "得分"

@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-20 20:24+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2025-12-24 17:00+0000\n"
+"Last-Translator: Boondorl <boondorl0@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "uzdoom/zdoom-engine-strings/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -533,6 +533,7 @@ msgstr "Segredo"
 msgid "SCORE_NAME"
 msgstr "Nome"
 
+#, fuzzy
 msgid "SCORE_DELAY"
 msgstr "Atraso (ms)"
 
