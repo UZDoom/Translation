@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-22 09:00+0000\n"
-"Last-Translator: L-A R <luizalfonso@gmail.com>\n"
+"PO-Revision-Date: 2025-12-25 06:00+0000\n"
+"Last-Translator: breakout71fan_1789 <pxhere.viral741@passinbox.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "uzdoom/common/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -858,7 +858,6 @@ msgstr "Vozes MIDI"
 msgid "ADVSNDMNU_FLUIDSYNTH"
 msgstr "FluidSynth"
 
-#, fuzzy
 msgid "ADVSNDMNU_GLOBAL"
 msgstr "Global"
 
@@ -885,15 +884,12 @@ msgstr "Nível de reverberação"
 msgid "ADVSNDMNU_CHORUS"
 msgstr "Chorus"
 
-#, fuzzy
 msgid "ADVSNDMNU_TIMIDITY"
 msgstr "Timidity++"
 
-#, fuzzy
 msgid "ADVSNDMNU_ADLMIDI"
 msgstr "ADLMidi"
 
-#, fuzzy
 msgid "ADVSNDMNU_OPNMIDI"
 msgstr "OPNMidi"
 
@@ -903,7 +899,6 @@ msgstr "Arquivo de configuração do Timidity"
 msgid "ADVSNDMNU_TIMIDITYVOLUME"
 msgstr "Volume relativo"
 
-#, fuzzy
 msgid "ADVSNDMNU_WILDMIDI"
 msgstr "WildMidi"
 
