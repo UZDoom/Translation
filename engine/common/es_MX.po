@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-26 04:20+0000\n"
+"PO-Revision-Date: 2025-12-26 06:00+0000\n"
 "Last-Translator: Ret Neychozken <retneychozken@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/"
 "common/es_MX/>\n"
@@ -28,7 +28,7 @@ msgid "SAVEDEAD"
 msgstr ""
 "¡No puedes guardar si no estás jugando!\n"
 "\n"
-"Presiona una tecla."
+"Presiona cualquier tecla."
 
 msgid "SAFEMESSAGE"
 msgstr "¿Realmente quieres hacer esto?"
@@ -38,46 +38,56 @@ msgstr "Indefinido"
 
 msgid "QSPROMPT"
 msgstr ""
+"¿Guardar rápido y sobrescribir\n"
+"\n"
+"'%s'?\n"
+"\n"
+"Presiona Y o N."
 
 msgid "QLPROMPT"
 msgstr ""
+"¿Cargar rápido\n"
+"\n"
+"'%s'?\n"
+"\n"
+"Presiona Y o N."
 
 # This is a gender sensitive message where %s represents the player
 msgid "TXT_X_CHEATS"
 msgstr "%s hace trampa"
 
 msgid "MSGOFF"
-msgstr ""
+msgstr "Mensajes: DESACTIVADOS"
 
 msgid "MSGON"
-msgstr ""
+msgstr "Mensajes: ACTIVADOS"
 
 msgid "TXT_SAY"
-msgstr ""
+msgstr "Decir:"
 
 msgid "TXT_QUITENDOOM"
-msgstr ""
+msgstr "Presiona cualquier tecla o haz click en la ventana para salir."
 
 msgid "NEWSAVE"
 msgstr ""
 
 msgid "GGSAVED"
-msgstr ""
+msgstr "Partida guardada."
 
 msgid "SAVECOMMENT_TIME"
-msgstr ""
+msgstr "Tiempo"
 
 msgid "MNU_LOADGAME"
-msgstr ""
+msgstr "Cargar Partida"
 
 msgid "MNU_SAVEGAME"
-msgstr ""
+msgstr "Guardar Partida"
 
 msgid "MNU_NOPICTURE"
 msgstr ""
 
 msgid "MNU_DIFFVERSION"
-msgstr ""
+msgstr "Versión Diferente"
 
 msgid "MNU_NOFILES"
 msgstr ""
