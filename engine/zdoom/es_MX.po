@@ -2,30 +2,32 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-26 04:08+0000\n"
+"PO-Revision-Date: 2025-12-26 04:18+0000\n"
 "Last-Translator: Ret Neychozken <retneychozken@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/es_MX/>\n"
 "Language: es_MX\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 5.15.1\n"
 "HeaderCode: esm esn esg esc esa esd esv eso esr ess esf esl esy esz esb ese "
 "esh esi esu\n"
-"Content-Transfer-Encoding: 8bit\n"
 
 msgid "PRESSKEY"
-msgstr ""
+msgstr "Presiona cualquier tecla."
 
 msgid "SECRETMESSAGE"
-msgstr ""
+msgstr "Un secreto es revelado!"
 
 msgid "D_DEVSTR"
-msgstr ""
+msgstr "Modo inútil activado.\n"
 
 msgid "QUITMSG"
 msgstr ""
+"¿Seguro de que quieres\n"
+"cerrar este juego genial?"
 
 # In some languages, it may make more sense to translate “Press a key” as
 # “Press any key.”
