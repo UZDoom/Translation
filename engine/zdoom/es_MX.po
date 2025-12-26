@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-26 06:00+0000\n"
+"PO-Revision-Date: 2025-12-26 22:02+0000\n"
 "Last-Translator: Ret Neychozken <retneychozken@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/es_MX/>\n"
@@ -115,12 +115,14 @@ msgstr ""
 
 msgid "QUITMSG5"
 msgstr ""
+"¡Aún no te vayas -- hay un\n"
+"demonio por esa esquina!"
 
 msgid "QUITMSG6"
 msgstr ""
 
 msgid "QUITMSG7"
-msgstr ""
+msgstr "Vete fuera de aqui. No me importa."
 
 # More info here.
 msgid "QUITMSG8"
@@ -135,6 +137,8 @@ msgstr ""
 
 msgid "QUITMSG10"
 msgstr ""
+"Vete y regresa a tus\n"
+"aburridos programas."
 
 msgid "QUITMSG11"
 msgstr ""
