@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-26 06:00+0000\n"
+"PO-Revision-Date: 2025-12-26 22:02+0000\n"
 "Last-Translator: Ret Neychozken <retneychozken@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/"
 "common/es_MX/>\n"
@@ -69,7 +69,7 @@ msgid "TXT_QUITENDOOM"
 msgstr "Presiona cualquier tecla o haz click en la ventana para salir."
 
 msgid "NEWSAVE"
-msgstr ""
+msgstr "<Nueva Partida Guardada>"
 
 msgid "GGSAVED"
 msgstr "Partida guardada."
@@ -84,31 +84,31 @@ msgid "MNU_SAVEGAME"
 msgstr "Guardar Partida"
 
 msgid "MNU_NOPICTURE"
-msgstr ""
+msgstr "Sin Miniatura"
 
 msgid "MNU_DIFFVERSION"
 msgstr "Versión Diferente"
 
 msgid "MNU_NOFILES"
-msgstr ""
+msgstr "Sin Archivos"
 
 msgid "MNU_DELETESG"
-msgstr ""
+msgstr "¿Estás seguro de eliminar esta partida guardada?\n"
 
 msgid "OPTVAL_OFF"
-msgstr ""
+msgstr "Desactivado"
 
 msgid "OPTVAL_ON"
-msgstr ""
+msgstr "Activado"
 
 msgid "OPTVAL_AUTO"
-msgstr ""
+msgstr "Automático"
 
 msgid "OPTMNU_TITLE"
-msgstr ""
+msgstr "Opciones"
 
 msgid "OPTMNU_CONTROLS"
-msgstr ""
+msgstr "Personalizar Controles"
 
 msgid "OPTMNU_MOUSE"
 msgstr ""
