@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-26 22:02+0000\n"
+"PO-Revision-Date: 2025-12-27 02:33+0000\n"
 "Last-Translator: Ret Neychozken <retneychozken@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/es_MX/>\n"
@@ -174,12 +174,18 @@ msgstr ""
 
 msgid "QUITMSG21"
 msgstr ""
+"Podrás correr...\n"
+"Pero no esconderte..."
 
 msgid "QUITMSG22"
 msgstr ""
+"¿Eh, qué pasa, mami\n"
+"te llama para cenar?"
 
 msgid "QUITMSG23"
 msgstr ""
+"¡No te vayas, aún quedan\n"
+"flemoids a la deriva!"
 
 msgid "QUITMSG24"
 msgstr ""
@@ -188,9 +194,13 @@ msgstr ""
 
 msgid "QUITMSG25"
 msgstr ""
+"No te vayas.\n"
+"¡Necesitamos tu ayuda!"
 
 msgid "QUITMSG26"
 msgstr ""
+"Espero que tomes el descanso\n"
+"disfrutando de Chex(R) Party Mix."
 
 msgid "QUITMSG27"
 msgstr ""
