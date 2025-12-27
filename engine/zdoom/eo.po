@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-24 17:00+0000\n"
-"Last-Translator: Boondorl <boondorl0@gmail.com>\n"
+"PO-Revision-Date: 2025-12-27 02:33+0000\n"
+"Last-Translator: Skyler Shirra <skyler.shirra@gmail.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/eo/>\n"
 "Language: eo\n"
@@ -5273,7 +5273,7 @@ msgid "DSPLYMNU_CONTRAST"
 msgstr "Kontrasto"
 
 msgid "DSPLYMNU_SATURATION"
-msgstr "Kolorintenseco"
+msgstr "Satureco"
 
 msgid "OPTMNU_ACCESSIBILITY"
 msgstr "Alireblo-agordoj"
@@ -5316,3 +5316,33 @@ msgstr "Adicia"
 
 msgid "DSPLYMNU_ROCKETEXPSTYLE"
 msgstr "Vidigo-stilo de eksplodo"
+
+msgid "ACCMNU_LIGHT"
+msgstr "Lumigo"
+
+msgid "ACCMNU_LIGHT_EXTRA"
+msgstr "Ekstra lumigo"
+
+msgid "ACCMNU_LIGHT_RADIUS"
+msgstr "Radiuso de ludanto-lumo"
+
+msgid "DSPLYMNU_IMAGEADJUST"
+msgstr "Bild-kalibro"
+
+msgid "DSPLYMNU_BLACKPOINT"
+msgstr "Kompenso de nigropunkto"
+
+msgid "DSPLYMNU_WHITEPOINT"
+msgstr "Kompenso de blankopunkto"
+
+msgid "DSPLYMNU_IMAGEADJUST_BOTTOM"
+msgstr "Agordu ĉi tiun ĝis ĝi aspektas kiel unuforma griza koloro."
+
+msgid "DSPLYMNU_IMAGEADJUST_TOP1"
+msgstr "De normala vido-distanco, agordu ĉi tiujn ŝovilojn."
+
+msgid "DSPLYMNU_IMAGEADJUST_TOP2"
+msgstr "Malreduktado povas rezultigi malĝustan eligon."
+
+msgid "DSPLYMNU_IMAGEADJUST_TOP3"
+msgstr "Bonvolu malebligi ĝin antaŭ agordado."
