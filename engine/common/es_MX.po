@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-26 22:02+0000\n"
+"PO-Revision-Date: 2025-12-27 02:33+0000\n"
 "Last-Translator: Ret Neychozken <retneychozken@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/"
 "common/es_MX/>\n"
@@ -132,28 +132,28 @@ msgid "OPTMNU_MISCELLANEOUS"
 msgstr ""
 
 msgid "OPTMNU_SOUND"
-msgstr ""
+msgstr "Opciones De Sonido"
 
 msgid "OPTMNU_DISPLAY"
-msgstr ""
+msgstr "Opciones De Visualización"
 
 msgid "OPTMNU_VIDEO"
 msgstr "Modos de video"
 
 msgid "OPTMNU_DEFAULTS"
-msgstr ""
+msgstr "Reiniciar a valores predeterminados"
 
 msgid "OPTMNU_RESETTOSAVED"
 msgstr ""
 
 msgid "OPTMNU_WRITEINI"
-msgstr ""
+msgstr "Guardar ajustes actuales"
 
 msgid "OPTMNU_CONSOLE"
-msgstr ""
+msgstr "Ir a la consola"
 
 msgid "OPTMNU_NETWORK"
-msgstr ""
+msgstr "Opciones De Red"
 
 msgid "OPTMNU_REVERB"
 msgstr ""
