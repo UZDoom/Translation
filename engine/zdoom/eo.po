@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-28 19:00+0000\n"
+"PO-Revision-Date: 2025-12-28 22:00+0000\n"
 "Last-Translator: Skyler Shirra <skyler.shirra@gmail.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/eo/>\n"
@@ -50,7 +50,8 @@ msgstr ""
 
 msgid "NEWGAME"
 msgstr ""
-"Vi ne povas lanĉi novan ludadon dum retludo.\n"
+"Vi ne povas lanĉi novan ludadon\n"
+"dum retludo.\n"
 "\n"
 "Premu klavon."
 
@@ -363,7 +364,7 @@ msgid "TXT_CHEATSOUNDOFF"
 msgstr "Sono-sencimiga reĝimo malŝaltita"
 
 msgid "TXT_CHEATIDDQD"
-msgstr "Provas trompi, ĉu vi? Nun vi mortas! "
+msgstr "Provas trompi, ĉu vi? Nun vi mortas!"
 
 msgid "TXT_CHEATIDKFA"
 msgstr "Trompanto - vi ne meritas armilojn"
@@ -1283,7 +1284,7 @@ msgid "OB_DSPARIL1HIT"
 msgstr "%o maĉegiĝis de la serpento de D'Sparil."
 
 msgid "OB_DSPARIL2"
-msgstr "%o ne estis rivalo por D'Sparil. "
+msgstr "%o ne estis rivalo por D'Sparil."
 
 msgid "OB_DSPARIL2HIT"
 msgstr "%o frapiĝis de D'Sparil."
@@ -1679,7 +1680,7 @@ msgid "TAG_ARTIPOISONBAG1"
 msgstr "Venennub-Flakono"
 
 msgid "TAG_ARTIPOISONBAG2"
-msgstr "Horloĝbomb-Flakono "
+msgstr "Horloĝbomb-Flakono"
 
 msgid "TAG_ARTIPOISONBAG3"
 msgstr "Grenad-Flakono"
@@ -2087,17 +2088,13 @@ msgid "TXT_NEED_PASSCARD"
 msgstr "Vi bezonas central-ŝlosilon"
 
 msgid "TXT_NEED_PASSCARD_DOOR"
-msgstr ""
-"Vi bezonas central-ŝlosilon\n"
-"por malfermi tiun pordon"
+msgstr "Vi bezonas central-ŝlosilon por malfermi tiun pordon"
 
 msgid "TXT_NEED_IDCARD"
 msgstr "Vi bezonas identigil-karton"
 
 msgid "TXT_NEED_PRISONKEY"
-msgstr ""
-"Vi ne havas la ŝlosilon\n"
-"de la malliberejo"
+msgstr "Vi ne havas la ŝlosilon de la malliberejo"
 
 msgid "TXT_NEED_HANDPRINT"
 msgstr "Neregistrita manspuro"
@@ -2109,9 +2106,7 @@ msgid "TXT_NEED_IDBADGE"
 msgstr "Vi bezonas malliberejan insignon"
 
 msgid "TXT_NEED_IDBADGE_DOOR"
-msgstr ""
-"Vi bezonas malliberejan insignon\n"
-"por malfermi ĉi tiun pordon"
+msgstr "Vi bezonas malliberejan insignon por malfermi ĉi tiun pordon"
 
 msgid "TXT_NEED_SILVERKEY"
 msgstr "Vi bezonas la arĝentan ŝlosilon"
@@ -2126,9 +2121,7 @@ msgid "TXT_NEED_BLUECRYSTAL"
 msgstr "Vi bezonas la bluan kristalon"
 
 msgid "TXT_RETAIL_ONLY"
-msgstr ""
-"Ĉi tiu loko estas enirebla nur\n"
-"en la komercaĵa versio de Strife"
+msgstr "Ĉi tiu loko estas enirebla nur en la komercaĵa versio de Strife"
 
 msgid "TXT_DOES_NOT_WORK"
 msgstr "Tio ŝajne ne funkcias"
@@ -2137,9 +2130,7 @@ msgid "TXT_NEED_CHALICE"
 msgstr "Vi bezonas la kalikon!"
 
 msgid "TXT_NEED_OPASS"
-msgstr ""
-"Vi bezonas la paspermeson\n"
-"de la Orakolo!"
+msgstr "Vi bezonas la paspermeson de la Orakolo!"
 
 msgid "TAG_PUNCHDAGGER"
 msgstr "Ponardo"
@@ -2568,14 +2559,10 @@ msgid "TXT_KILLED_LOREMASTER"
 msgstr "Vi mortigis la Folkloriston!"
 
 msgid "TXT_YOUFOOL"
-msgstr ""
-"Stultulo!\n"
-"Vi ekigis la alarmon."
+msgstr "Stultulo! Vi ekigis la alarmon."
 
 msgid "TXT_YOUREDEAD"
-msgstr ""
-"Vi estas mortinta!\n"
-"Vi ekigis la alarmon."
+msgstr "Vi estas mortinta! Vi ekigis la alarmon."
 
 msgid "TXT_HAVEENOUGH"
 msgstr "Vi ŝajnas havi sufiĉe!"
@@ -2723,7 +2710,7 @@ msgid "OB_BIPEDICUS2"
 msgstr "%o estas ŝlimiga de kirasa dupiedmukulo."
 
 msgid "OB_CYCLOPTIS"
-msgstr "%o estas ŝlimiga de ciklopmukulo"
+msgstr "%o estas ŝlimiga de ciklopmukulo."
 
 msgid "OB_FLEMBRANE"
 msgstr "%o estas venkita de La Mukmembrano."
@@ -2829,7 +2816,8 @@ msgstr ""
 
 msgid "CNEWGAME"
 msgstr ""
-"Vi ne povas komencigi novan serĉon dum ret-serĉon.\n"
+"Vi ne povas komencigi novan serĉon\n"
+"dum ret-serĉon.\n"
 "\n"
 "Premu klavon."
 
@@ -3384,7 +3372,7 @@ msgid "CMPTMNU_EXPLODE1"
 msgstr "Neniuj vertikalaj puŝoj de eksplodoj"
 
 msgid "CMPTMNU_EXPLODE2"
-msgstr "Uzi originalan konduton de Doom por eksplodoj "
+msgstr "Uzi originalan konduton de Doom por eksplodoj"
 
 msgid "PLYRMNU_RED"
 msgstr "Ruĝo"
