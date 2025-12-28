@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-28 22:00+0000\n"
+"PO-Revision-Date: 2025-12-29 00:00+0000\n"
 "Last-Translator: Skyler Shirra <skyler.shirra@gmail.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/eo/>\n"
@@ -928,7 +928,7 @@ msgid "TAG_PLASMARIFLE"
 msgstr "Plasmo-pafilo"
 
 msgid "TAG_BFG9000"
-msgstr ""
+msgstr "BFG 9000"
 
 msgid "AMMO_CLIP"
 msgstr "Kugloj"
@@ -1218,7 +1218,7 @@ msgid "FN_CLINK"
 msgstr "Sabrokrifo"
 
 msgid "FN_DSPARIL"
-msgstr ""
+msgstr "D'Sparil"
 
 msgid "FN_HERETICIMP"
 msgstr "Gargojlo"
@@ -1473,7 +1473,7 @@ msgid "TXT_ARTIPUZZBOOK1"
 msgstr "Kodekso de Demono"
 
 msgid "TXT_ARTIPUZZBOOK2"
-msgstr ""
+msgstr "Liber Oscura"
 
 msgid "TXT_ARTIPUZZSKULL2"
 msgstr "Flamomasko"
@@ -1608,7 +1608,7 @@ msgid "FN_DRAGON"
 msgstr "Morta viverno"
 
 msgid "FN_KORAX"
-msgstr ""
+msgstr "Korakso"
 
 msgid "FN_FBOSS"
 msgstr "Zedeko"
@@ -2400,10 +2400,10 @@ msgid "TAG_BEGGAR"
 msgstr "Almozulo"
 
 msgid "TAG_MACIL1"
-msgstr ""
+msgstr "Macil"
 
 msgid "TAG_MACIL2"
-msgstr ""
+msgstr "Macil"
 
 msgid "TAG_MEDIC"
 msgstr "Kuracisto"
@@ -4063,10 +4063,10 @@ msgid "OPTVAL_BOTH"
 msgstr "Ambaŭ"
 
 msgid "OPTVAL_ZDOOM"
-msgstr ""
+msgstr "ZDoom"
 
 msgid "OPTVAL_STRIFE"
-msgstr ""
+msgstr "Strife"
 
 msgid "OPTVAL_PLAYER"
 msgstr "Ludanto"
@@ -4201,37 +4201,37 @@ msgid "OPTVAL_ONLYMONSTERS"
 msgstr "Nur monstroj"
 
 msgid "OPTVAL_HEXEN"
-msgstr ""
+msgstr "Hexen"
 
 msgid "OPTVAL_OLD"
 msgstr "Maljuna"
 
 msgid "OPTVAL_DOOM"
-msgstr ""
+msgstr "Doom"
 
 msgid "OPTVAL_DOOMSTRICT"
 msgstr "Doom (severa)"
 
 msgid "OPTVAL_BOOM"
-msgstr ""
+msgstr "Boom"
 
 msgid "OPTVAL_BOOMSTRICT"
 msgstr "Boom (severa)"
 
 msgid "OPTVAL_MBF"
-msgstr ""
+msgstr "MBF"
 
 msgid "OPTVAL_MBFSTRICT"
 msgstr "MBF (severa)"
 
 msgid "OPTVAL_MBF21"
-msgstr ""
+msgstr "MBF21"
 
 msgid "OPTVAL_MBF21STRICT"
 msgstr "MBF21 (severa)"
 
 msgid "OPTVAL_ZDOOM2063"
-msgstr ""
+msgstr "ZDoom 2.0.63"
 
 msgid "OPTVAL_ALLUNACKNOWLEDGED"
 msgstr "Ĉiuj neagnoskitaj"
@@ -4366,10 +4366,10 @@ msgid "C_TEAL"
 msgstr "\\czBluverda"
 
 msgid "OPTSTR_HERETIC"
-msgstr ""
+msgstr "Heretic"
 
 msgid "OPTSTR_CHEX"
-msgstr ""
+msgstr "Chex"
 
 msgid "OPTSTR_NOSOUND"
 msgstr "Neniu sono"
@@ -4381,7 +4381,7 @@ msgid "OPTSTR_SPLINE"
 msgstr "Splajno"
 
 msgid "OPTSTR_OPENAL"
-msgstr ""
+msgstr "OpenAL"
 
 msgid "DSPLYMNU_GLOPT"
 msgstr "Aparatara bildigilo"
@@ -4511,7 +4511,7 @@ msgstr "Malhela"
 
 # This refers to the Doom Legacy port, not a legacy lighting style!
 msgid "OPTVAL_LEGACY"
-msgstr ""
+msgstr "Doom Legacy"
 
 msgid "OPTVAL_SOFTWARE"
 msgstr "Programa bildigilo"
@@ -4768,7 +4768,7 @@ msgstr "Proporcio"
 # as in "Build engine". This should not be translated unless there is a
 # translated name for the engine
 msgid "OPTVAL_BUILD"
-msgstr ""
+msgstr "Build"
 
 # sv_alwaystally
 msgid "MISCMNU_ALWAYSTALLY"
@@ -5284,7 +5284,7 @@ msgstr ""
 "klarigas, kion faras opcio."
 
 msgid "OPTMNU_RESETALL"
-msgstr "Restarigi ĉiun"
+msgstr "Restarigi ĉiujn"
 
 msgid "MISCMNU_CLEANMENU"
 msgstr "Klasika skalado de ZDoom-menuo"
@@ -5329,7 +5329,7 @@ msgid "DSPLYMNU_IMAGEADJUST_TOP1"
 msgstr "De normala vido-distanco, agordu ĉi tiujn ŝovilojn."
 
 msgid "DSPLYMNU_IMAGEADJUST_TOP2"
-msgstr "Malreduktado povas rezultigi malĝustan eligon."
+msgstr "Malreduktado de bildogrando povas rezultigi malĝustan eligon."
 
 msgid "DSPLYMNU_IMAGEADJUST_TOP3"
 msgstr "Bonvolu malebligi ĝin antaŭ agordado."
