@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-28 21:00+0000\n"
+"PO-Revision-Date: 2025-12-29 01:00+0000\n"
 "Last-Translator: Skyler Shirra <skyler.shirra@gmail.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/doom-engine-"
 "games/hacx-filter/eo/>\n"
@@ -411,7 +411,7 @@ msgid "TXT_HACXMAP05"
 msgstr "Cibernetika Cirko"
 
 msgid "TXT_HACXMAP06"
-msgstr ""
+msgstr "Digi-Ota"
 
 msgid "TXT_HACXMAP07"
 msgstr "La Grandega Muro"
@@ -426,7 +426,7 @@ msgid "TXT_HACXMAP10"
 msgstr "Anarkia Sonĝo"
 
 msgid "TXT_HACXMAP11"
-msgstr ""
+msgstr "Notus Us!"
 
 msgid "TXT_HACXMAP12"
 msgstr "Gotika Spaliro"
@@ -447,7 +447,7 @@ msgid "TXT_HACXMAP17"
 msgstr "Rivero de Sango"
 
 msgid "TXT_HACXMAP18"
-msgstr ""
+msgstr "Bizarro"
 
 msgid "TXT_HACXMAP19"
 msgstr "La Militĉambroj"
@@ -545,7 +545,7 @@ msgid "CC_ANDROID"
 msgstr "Androido"
 
 msgid "CC_ICE"
-msgstr ""
+msgstr "ICE"
 
 msgid "CC_BUZZER"
 msgstr "Zumilo"
