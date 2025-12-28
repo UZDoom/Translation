@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-27 02:33+0000\n"
+"PO-Revision-Date: 2025-12-28 03:44+0000\n"
 "Last-Translator: Skyler Shirra <skyler.shirra@gmail.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/eo/>\n"
@@ -5327,7 +5327,7 @@ msgid "ACCMNU_LIGHT_RADIUS"
 msgstr "Radiuso de ludanto-lumo"
 
 msgid "DSPLYMNU_IMAGEADJUST"
-msgstr "Bild-kalibro"
+msgstr "Bildo-kalibro"
 
 msgid "DSPLYMNU_BLACKPOINT"
 msgstr "Kompenso de nigropunkto"
@@ -5346,3 +5346,67 @@ msgstr "Malreduktado povas rezultigi malĝustan eligon."
 
 msgid "DSPLYMNU_IMAGEADJUST_TOP3"
 msgstr "Bonvolu malebligi ĝin antaŭ agordado."
+
+msgid "ACCMNU_TOOLTIP_LINES"
+msgstr "Linioj de ŝpruchelpilo"
+
+msgid "ACCMNU_TOOLTIP_SCALE"
+msgstr "Granda ŝpruchelpila teksto"
+
+msgid "ACCMNU_TOOLTIP_CAP"
+msgstr "Limigi larĝecon de ŝpruchelpilo"
+
+msgid "ACCMNU_TOOLTIP_ALPHA"
+msgstr "Fon-alfao de ŝpruchelpilo"
+
+msgid "ACCMNU_TOOLTIP_DELAY"
+msgstr "Rulum-prokrasto de ŝpruchelpilo"
+
+msgid "ACCMNU_TOOLTIP_SPEED"
+msgstr "Rulum-rapido de ŝpruchelpilo"
+
+msgid "ACCMNU_TOOLTIP_LIGHT_RADIUS"
+msgstr ""
+"Regas la lumradiusan distancon ĉirkaŭ la ludanto en mapunuoj. Pli grandaj "
+"valoroj briligas the scenon."
+
+msgid "ACCMNU_TOOLTIP_LIGHT_EXTRA"
+msgstr ""
+"Sumo de sektora lumigo aldoni plue de ekzistantaj sektoraj lumniveloj, dum "
+"konservanta la jama lumreĝimo."
+
+msgid "DSPLYMNU_TOOLTIP_GAMMA"
+msgstr ""
+"Kompensas la limigojn de via ekrano. Agordu ĝis la vertikalaj grizaj blokoj "
+"dissolvas. Ne uzu ĉi tiun por briligi la ludon, nur uzi ĝin certigi, ke la "
+"bildo estas kalibrita por via agordaĵo."
+
+msgid "DSPLYMNU_TOOLTIP_WHITEPOINT"
+msgstr ""
+"Kompensas por ekranoj, kiuj ne vidigas helajn bilderojn ĝuste. Agordu ĝis la "
+"diagonalaj nigraj blokoj dissolvas. Ne uzu ĉi tiun por briligi la ludon, nur "
+"uzi ĝin certigi, ke la bildo estas kalibrita por via agordaĵo."
+
+msgid "DSPLYMNU_TOOLTIP_BLACKPOINT"
+msgstr ""
+"Kompensas por ekranoj, kiuj ne vidigas malhelajn bilderojn ĝuste. Agordu ĝis "
+"la diagonalaj blankaj blokoj dissolvas. Ne uzu ĉi tiun por briligi la ludon, "
+"nur uzi ĝin certigi, ke la bildo estas kalibrita por via agordaĵo."
+
+msgid "DSPLYMNU_TOOLTIP_IMAGEADJUST_RESET"
+msgstr "Restartigas ĉiujn opciojn en ĉi tiu menuo al defaŭltaj agordoj."
+
+msgid "DSPLYMNU_TOOLTIP_SATURATION"
+msgstr ""
+"Agordas la intensecon de la koloroj, igante la bildon aspekti pli viveca aŭ "
+"pli malforta. Agordu laŭ via prefero."
+
+msgid "DSPLYMNU_TOOLTIP_CONTRAST"
+msgstr ""
+"Agordas la perceptitan diferencon inter similaj koloroj. Regas kiel akra aŭ "
+"pala la bildo aspektas. Agordu laŭ via prefero."
+
+msgid "DSPLYMNU_TOOLTIP_BRIGHTNESS"
+msgstr ""
+"Aplikas linian heleco-ĝustigon. Agordu laŭ via prefero, aŭ por vidi en la "
+"mallumo."
