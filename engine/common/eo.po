@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-28 22:00+0000\n"
+"PO-Revision-Date: 2025-12-29 00:00+0000\n"
 "Last-Translator: Skyler Shirra <skyler.shirra@gmail.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/uzdoom/common/"
 "eo/>\n"
@@ -926,10 +926,10 @@ msgid "ADVSNDMNU_VLMODEL"
 msgstr "Modelo de laŭteco"
 
 msgid "ADVSNDMNU_CHANALLOC"
-msgstr ""
+msgstr "Metodo de kanala asigno"
 
 msgid "ADVSNDMNU_AUTOARPEGGIO"
-msgstr ""
+msgstr "Aŭtomata arpeĝo"
 
 msgid "ADVSNDMNU_OPNCORES"
 msgstr "Imitil-kerno por OPN2"
@@ -956,7 +956,7 @@ msgid "ADVSNDMNU_ADLCUSTOMBANK"
 msgstr "Uzi propran WOPLan memor-bankon"
 
 msgid "ADVSNDMNU_ADLUSEWADBANK"
-msgstr ""
+msgstr "Uzi la GENMIDI-bankon de WAD kiel adaptita banko"
 
 msgid "ADVSNDMNU_OPLBANKFILE"
 msgstr "Dosiero de WOPLa memor-banko"
@@ -1009,7 +1009,7 @@ msgid "OPTVAL_CUBICSLOW"
 msgstr "Kuba (Pli malrapida)"
 
 msgid "OPTVAL_SINC"
-msgstr ""
+msgstr "Sinc funkcio"
 
 msgid "OPTVAL_NOTEONOFFONLY"
 msgstr "Nur (mal)ŝaltataj tonoj"
@@ -1030,7 +1030,7 @@ msgid "OPTVAL_LIBXMP"
 msgstr ""
 
 msgid "OPTVAL_DUMB"
-msgstr ""
+msgstr "Stulta"
 
 msgid "MODMNU_CHIPOMATIC"
 msgstr ""
@@ -1162,13 +1162,13 @@ msgid "ADLCHANALLOC_AUTO"
 msgstr "Aŭtomata"
 
 msgid "ADLCHANALLOC_OFFDELAY"
-msgstr ""
+msgstr "Silentigo-prokrasto mezurita"
 
 msgid "ADLCHANALLOC_SAMEINST"
-msgstr ""
+msgstr "Reuzi unuan liberigitan de la sama instrumento"
 
 msgid "ADLCHANALLOC_ANYREL"
-msgstr ""
+msgstr "Reuzi ian unuan liberigitan tonon"
 
 msgid "OPTVAL_UNLIMITED"
 msgstr "Senlima"
