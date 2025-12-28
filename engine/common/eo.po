@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-22 01:00+0000\n"
+"PO-Revision-Date: 2025-12-28 19:00+0000\n"
 "Last-Translator: Skyler Shirra <skyler.shirra@gmail.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/uzdoom/common/"
 "eo/>\n"
@@ -1857,7 +1857,6 @@ msgstr ""
 # This should list all uppercase characters that are REQUIRED for proper
 # language display. If it is acceptable that accents get omitted a character
 # should NOT be listed here!
-#, fuzzy
 msgid "REQUIRED_CHARACTERS"
 msgstr "ĈĜĤĴŜŬ"
 
@@ -2118,3 +2117,21 @@ msgstr "Montri eldonajn notojn"
 
 msgid "PICKER_SHOWTHIS"
 msgstr "Montri ĉi tiun paĝon post ĝisdatigoj"
+
+msgid "NOTES_VERSION"
+msgstr "versio"
+
+msgid "NOTES_UNKNOWN"
+msgstr "Nekonata"
+
+msgid "NOTES_RELEASED"
+msgstr "eldonita"
+
+msgid "NOTES_EMPTY"
+msgstr "Neniu priskribo provizita."
+
+msgid "NOTES_DETAILS"
+msgstr "Por pli da detaloj, vidu:"
+
+msgid "NOTES_FAIL"
+msgstr "Ne kapablas sintake analizi eldonajn notojn"
