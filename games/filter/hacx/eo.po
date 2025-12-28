@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-28 19:00+0000\n"
+"PO-Revision-Date: 2025-12-28 21:00+0000\n"
 "Last-Translator: Skyler Shirra <skyler.shirra@gmail.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/doom-engine-"
 "games/hacx-filter/eo/>\n"
@@ -56,7 +56,7 @@ msgid "QUITMSG12"
 msgstr "Ne zorgu. Savi la mondon povas atendi, ĉu ne?"
 
 msgid "QUITMSG13"
-msgstr "Tempas, ke niaj vojoj agu kiel la reto kaj dividu."
+msgstr "Tempas, ke niaj vojoj agu kiel la reto kaj dividu!"
 
 msgid "QUITMSG14"
 msgstr "Ne iru forgesi HacX nun!"
@@ -77,7 +77,7 @@ msgid "OB_WATER"
 msgstr "%o naĝis kiel briko."
 
 msgid "OB_SLIME"
-msgstr "%o iĝis nuklea"
+msgstr "%o iĝis nuklea."
 
 msgid "OB_LAVA"
 msgstr "%o spertis varman banon."
@@ -107,7 +107,7 @@ msgid "OB_MONSTRUCT"
 msgstr "%o ricevis monstran cybernetik-raydist-postaĵ-piedbaton."
 
 msgid "OB_ICE"
-msgstr "%o iĝis ICE-ita"
+msgstr "%o iĝis ICE-ita."
 
 msgid "OB_BUZZER"
 msgstr "%o sentas sin iomete vibretita."
@@ -122,7 +122,7 @@ msgid "OB_GLASS"
 msgstr "%o donis al si vitran makzelon."
 
 msgid "OB_MANIAC"
-msgstr "La vivo-membrecon de %o estas finigita"
+msgstr "La vivo-membrecon de %o estas finigita."
 
 msgid "OB_MANIACHIT"
 msgstr "%o mortis per iu malcerta maniero, kiun mi ne povas kompreni."
@@ -364,7 +364,7 @@ msgstr ""
 "Homaj neŭraj likvaĵoj nutras la cimojn!\n"
 "Ne mirinde, ke la urbo ŝajnas iĝi iomete\n"
 "neloĝata. Raportu al la kimisiono.\n"
-"Singardu..."
+"Singardu...\n"
 
 msgid "X3TEXT"
 msgstr ""
@@ -519,7 +519,7 @@ msgstr ""
 "Ĉu vi certas? Vi ne povas stari\n"
 "kontraŭ ĉi tiu malfacileco, kodrompisto!\n"
 "\n"
-"Premu Y por morti."
+"Premu Y por morti. \n"
 
 # For most languages the original Doom text should suffice.
 msgid "QSPROMPT"
