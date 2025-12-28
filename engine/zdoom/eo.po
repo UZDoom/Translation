@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-28 03:44+0000\n"
+"PO-Revision-Date: 2025-12-28 19:00+0000\n"
 "Last-Translator: Skyler Shirra <skyler.shirra@gmail.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/eo/>\n"
@@ -529,9 +529,8 @@ msgstr "Sekreto"
 msgid "SCORE_NAME"
 msgstr "Nomo"
 
-#, fuzzy
 msgid "SCORE_DELAY"
-msgstr "Prokrasto (ms)"
+msgstr "Prokrasto"
 
 msgid "SCORE_FRAGS"
 msgstr "Ludmurdoj"
