@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-20 19:25+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-12-30 01:00+0000\n"
+"Last-Translator: NuruTheDoomer <nuruthedoomer@gmail.com>\n"
 "Language-Team: Malay <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ms/>\n"
 "Language: ms\n"
@@ -86,6 +86,8 @@ msgstr ""
 
 msgid "QUITMSG4"
 msgstr ""
+"Kau nak kata yang kau lagi suka DOS\n"
+"daripada saya, kan?"
 
 msgid "QUITMSG5"
 msgstr ""
@@ -623,10 +625,10 @@ msgid "GOTREDSKUL"
 msgstr ""
 
 msgid "GOTINVUL"
-msgstr ""
+msgstr "Kekebalan!"
 
 msgid "GOTBERSERK"
-msgstr ""
+msgstr "Berserk!"
 
 msgid "GOTINVIS"
 msgstr ""
@@ -781,7 +783,7 @@ msgid "CC_LOST"
 msgstr ""
 
 msgid "CC_CACO"
-msgstr ""
+msgstr "Cacodemon"
 
 msgid "CC_HELL"
 msgstr ""
@@ -799,7 +801,7 @@ msgid "CC_REVEN"
 msgstr ""
 
 msgid "CC_MANCU"
-msgstr ""
+msgstr "Mancubus"
 
 msgid "CC_ARCH"
 msgstr ""
@@ -814,7 +816,7 @@ msgid "CC_HERO"
 msgstr ""
 
 msgid "FN_SHOTGUN"
-msgstr ""
+msgstr "Sarjan"
 
 msgid "FN_HEAVY"
 msgstr ""
@@ -832,7 +834,7 @@ msgid "FN_WOLFSS"
 msgstr ""
 
 msgid "FN_DOG"
-msgstr ""
+msgstr "Anjing"
 
 msgid "TAG_FIST"
 msgstr ""
@@ -841,10 +843,10 @@ msgid "TAG_CHAINSAW"
 msgstr ""
 
 msgid "TAG_PISTOL"
-msgstr ""
+msgstr "Pistol"
 
 msgid "TAG_SHOTGUN"
-msgstr ""
+msgstr "Senapang Patah"
 
 msgid "TAG_SUPERSHOTGUN"
 msgstr ""
@@ -2741,6 +2743,11 @@ msgstr ""
 
 msgid "CSWSTRING"
 msgstr ""
+"Ini ialah Chex(R) Quest. nantikan\n"
+"\n"
+"tahap-tahap baharu di www.chexquest.com.\n"
+"\n"
+"Tekan mana-mana kekunci."
 
 msgctxt "chex"
 msgid "NETEND"
@@ -5178,3 +5185,8 @@ msgstr "Baris Petua Alat"
 #, fuzzy
 msgid "ACCMNU_TOOLTIP_SCALE"
 msgstr "Skalakan Petua Alat"
+
+msgid "DSPLYMNU_TOOLTIP_BRIGHTNESS"
+msgstr ""
+"Menerapkan pelarasan kecerahan linear. Laraskan mengikut citarasa sendiri "
+"atau untuk melihat dalam gelap."
