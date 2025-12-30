@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-30 04:00+0000\n"
+"PO-Revision-Date: 2025-12-30 04:12+0000\n"
 "Last-Translator: Artician <bachmeieraaron@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/de/>\n"
@@ -675,22 +675,22 @@ msgid "GOTSUPER"
 msgstr "Super-Ladung!"
 
 msgid "GOTBLUECARD"
-msgstr "Blaue Schlüsselkarte genommen."
+msgstr "Blaue Schlüsselkarte aufgehoben."
 
 msgid "GOTYELWCARD"
 msgstr "Gelbe Schlüsselkarte aufgehoben."
 
 msgid "GOTREDCARD"
-msgstr "Rote Schlüsselkarte genommen."
+msgstr "Rote Schlüsselkarte aufgehoben."
 
 msgid "GOTBLUESKUL"
-msgstr "Blauen Schädel-Schlüssel genommen."
+msgstr "Blauen Schädelschlüssel aufgehoben."
 
 msgid "GOTYELWSKUL"
 msgstr "Geben Schädel-Schlüssel genommen."
 
 msgid "GOTREDSKUL"
-msgstr "Roten Schädel-Schlüssel genommen."
+msgstr "Roten Schädelschlüssel aufgehoben."
 
 msgid "GOTINVUL"
 msgstr "Unverwundbarkeit!"
@@ -732,10 +732,10 @@ msgid "GOTCELLBOX"
 msgstr "Energiezellenpackung genommen."
 
 msgid "GOTSHELLS"
-msgstr "4 Schrotflintenpatronen genommen."
+msgstr "4 Schrotflintenpatronen aufgehoben."
 
 msgid "GOTSHELLBOX"
-msgstr "Kiste mit Schrotflintenpatronen genommen."
+msgstr "Kiste mit Schrotflintenpatronen aufgehoben."
 
 msgid "GOTBACKPACK"
 msgstr "Rucksack mit Munition genommen!"
@@ -756,10 +756,10 @@ msgid "GOTPLASMA"
 msgstr "Plasma-Gewehr genommen!"
 
 msgid "GOTSHOTGUN"
-msgstr "Schrotflinte genommen!"
+msgstr "Du hast die Schrotflinte bekommen!"
 
 msgid "GOTSHOTGUN2"
-msgstr "Super-Schrotflinte genommen!"
+msgstr "Du hast die Superschrotflinte bekommen!"
 
 msgid "PICKUP_PISTOL_DROPPED"
 msgstr "Pistole genommen."
@@ -804,12 +804,10 @@ msgid "PD_YELLOWCO"
 msgstr "Du brauchst eine gelbe Schlüsselkarte, um dieses Objekt zu aktivieren"
 
 msgid "PD_BLUESO"
-msgstr ""
-"Du brauchst einen blauen Schädel-Schlüssel, um dieses Objekt zu aktivieren"
+msgstr "Du brauchst einen blauen Schädel, um dieses Objekt zu aktivieren"
 
 msgid "PD_REDSO"
-msgstr ""
-"Du brauchst einen roten Schädel-Schlüssel, um dieses Objekt zu aktivieren"
+msgstr "Du brauchst einen roten Schädel, um dieses Objekt zu aktivieren"
 
 msgid "PD_YELLOWSO"
 msgstr "Du brauchst einen gelben Schädel, um dieses Objekt zu aktivieren"
@@ -824,10 +822,10 @@ msgid "PD_YELLOWC"
 msgstr "Du brauchst eine gelbe Schlüsselkarte, um diese Tür zu öffnen"
 
 msgid "PD_BLUES"
-msgstr "Du brauchst einen blauen Schädel-Schlüssel, um diese Tür zu öffnen"
+msgstr "Du brauchst einen blauen Schädel, um diese Tür zu öffnen"
 
 msgid "PD_REDS"
-msgstr "Du brauchst einen roten Schädel-Schlüssel, um diese Tür zu öffnen"
+msgstr "Du brauchst einen roten Schädel, um diese Tür zu öffnen"
 
 msgid "PD_YELLOWS"
 msgstr "Du brauchst einen gelben Schädel, um diese Tür zu öffnen"
@@ -919,7 +917,7 @@ msgid "TAG_SHOTGUN"
 msgstr "Schrotflinte"
 
 msgid "TAG_SUPERSHOTGUN"
-msgstr "Super-Schrotflinte"
+msgstr "Superschrotflinte"
 
 msgid "TAG_CHAINGUN"
 msgstr "Maschinengewehr"
@@ -1063,7 +1061,7 @@ msgid "OB_MPSHOTGUN"
 msgstr "%o wurde Opfer von %ks Schrotflinte."
 
 msgid "OB_MPSSHOTGUN"
-msgstr "%o wurde von %ks Super-Schrotflinte zerfetzt."
+msgstr "%o wurde von %ks Superschrotflinte zerfetzt."
 
 msgid "OB_MPCHAINGUN"
 msgstr "%o wurde von %ks Maschinengewehr niedergemäht."
@@ -1201,7 +1199,7 @@ msgid "TXT_WPNGAUNTLETS"
 msgstr "Handschuhe des Zauberers"
 
 msgid "TXT_NEEDBLUEKEY"
-msgstr "Du brauchst einen blauen Schlüssel um diese Tür zu öffnen"
+msgstr "Du brauchst einen blauen Schlüssel, um diese Tür zu öffnen"
 
 msgid "TXT_NEEDGREENKEY"
 msgstr "Du brauchst einen grünen Schlüssel um diese Tür zu öffnen"
@@ -2007,10 +2005,10 @@ msgid "TXT_BRASSKEY"
 msgstr "Du hast den Messingschlüssel genommen."
 
 msgid "TXT_REDCRYSTAL"
-msgstr "Du hast den roten Kristallschlüssel genommen."
+msgstr "Du hast den roten Kristallschlüssel aufgehoben."
 
 msgid "TXT_BLUECRYSTAL"
-msgstr "Du hast den blauen Kristallschlüssel genommen."
+msgstr "Du hast den blauen Kristallschlüssel aufgehoben."
 
 msgid "TXT_CHAPELKEY"
 msgstr "Du hast den Kapellenschlüssel genommen."
@@ -2602,13 +2600,13 @@ msgid "GOTBREAKFAST"
 msgstr "Überladenes Frühstück!"
 
 msgid "GOTCBLUEKEY"
-msgstr "Du hast einen blauen Schlüssel genommen."
+msgstr "Du hast einen blauen Schlüssel aufgehoben."
 
 msgid "GOTCYELLOWKEY"
-msgstr "Du hast einen gelben Schlüssel genommen."
+msgstr "Gelben Schlüssel aufgehoben."
 
 msgid "GOTCREDKEY"
-msgstr "Du hast einen roten Schlüssel genommen."
+msgstr "Roten Schlüssel aufgehoben."
 
 msgid "GOTFRUIT"
 msgstr "Du hast eine Obstschale genommen."
@@ -3174,7 +3172,7 @@ msgid "GMPLYMNU_BARRELSRESPAWN"
 msgstr "Fässer kehren zurück"
 
 msgid "GMPLYMNU_RESPAWNPROTECTION"
-msgstr "Schutz beim Zurückkehren"
+msgstr "Respawn-Schutz"
 
 msgid "GMPLYMNU_LOSEFRAG"
 msgstr "Fragabzug bei Tod"
@@ -4171,7 +4169,7 @@ msgid "OPTVAL_ANIMATED"
 msgstr "Animiert"
 
 msgid "OPTVAL_ROTATED"
-msgstr "Rotiert"
+msgstr "Gedreht"
 
 msgid "OPTVAL_MAPDEFINEDCOLORSONLY"
 msgstr "Nur Leveldefinierte Farben"
@@ -4288,7 +4286,7 @@ msgid "OPTVAL_CONSOLE"
 msgstr "Konsole"
 
 msgid "C_BRICK"
-msgstr "\\caZiegelrot"
+msgstr "\\caZiegel"
 
 msgid "C_TAN"
 msgstr "\\cbHellbraun"
