@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-30 04:12+0000\n"
+"PO-Revision-Date: 2025-12-30 06:00+0000\n"
 "Last-Translator: Artician <bachmeieraaron@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/de/>\n"
@@ -705,7 +705,7 @@ msgid "GOTSUIT"
 msgstr "Kontaminationsschutzanzug"
 
 msgid "GOTMAP"
-msgstr "Computerbereichkarte"
+msgstr "Computerbereichskarte"
 
 msgid "GOTVISOR"
 msgstr "Lichtverstärkungsgerät"
@@ -1927,7 +1927,7 @@ msgid "TXT_SCANNER"
 msgstr "Du hast den Scanner genommen."
 
 msgid "TXT_NEEDMAP"
-msgstr "Der Scanner kann ohne Karte nicht funktionieren.\n"
+msgstr "Der Scanner kann ohne Karte nicht funktionieren!\n"
 
 msgid "TXT_PRISONPASS"
 msgstr "Du hast den Gefängnispass genommen."
@@ -1960,10 +1960,10 @@ msgid "TXT_GOVSKEY"
 msgstr "Du hast den Gouverneursschlüssel genommen."
 
 msgid "TXT_PASSCARD"
-msgstr "Du hast die Zugangskarte genommen."
+msgstr "Du hast die Zugangskarte aufgehoben."
 
 msgid "TXT_IDBADGE"
-msgstr "Du hast die Identitätskarte genommen."
+msgstr "Du hast die Identitätskarte aufgehoben."
 
 msgid "TXT_PRISONKEY"
 msgstr "Du hast den Gefängnisschlüssel genommen."
@@ -3124,7 +3124,7 @@ msgid "GMPLYMNU_ALLOWAUTOMAP"
 msgstr "Automap zulassen"
 
 msgid "GMPLYMNU_AUTOMAPALLIES"
-msgstr "Verbündete zulassen"
+msgstr "Automap-Verbündete"
 
 msgid "GMPLYMNU_ALLOWSPYING"
 msgstr "Spionieren zulassen"
@@ -3601,19 +3601,20 @@ msgid "MSGMNU_DEVELOPER"
 msgstr "Entwickler-Meldungsmodus"
 
 msgid "AUTOMAPMNU_COLORSET"
-msgstr "Farbset"
+msgstr "Karten Farbset"
 
 msgid "AUTOMAPMNU_CUSTOMCOLORS"
-msgstr "Erlaube levelspezifische Farben"
+msgstr "Erlaube karten-definierte Farben"
 
 msgid "AUTOMAPMNU_SETCUSTOMCOLORS"
-msgstr "Benutzerdefinierte Farben"
+msgstr "Benutzerdefinierte Farben festlegen"
 
+#, fuzzy
 msgid "AUTOMAPMNU_CONTROLS"
-msgstr "Automapsteuerung einstellen"
+msgstr "Kartensteuerungen anpassen"
 
 msgid "AUTOMAPMNU_OVERLAY"
-msgstr "Überlagere Automap"
+msgstr "Automap überlagern"
 
 msgid "AUTOMAPMNU_TEXTURED"
 msgstr "Texturiertes Display aktivieren"
@@ -3634,7 +3635,7 @@ msgid "AUTOMAPMNU_SHOWTOTALTIME"
 msgstr "Gesamtzeit anzeigen"
 
 msgid "AUTOMAPMNU_MAPSECRETS"
-msgstr "Geheimnisse auf der Karte anzeigen"
+msgstr "Geheimnisse auf Karte anzeigen"
 
 msgid "AUTOMAPMNU_SHOWMAPLABEL"
 msgstr "Levellabel anzeigen"
@@ -4154,7 +4155,7 @@ msgid "OPTVAL_ONFOROVERLAYONLY"
 msgstr "Nur auf Overlay"
 
 msgid "OPTVAL_OVERLAYNORMAL"
-msgstr "Overlay+Normal"
+msgstr "Overlay + Normal"
 
 msgid "OPTVAL_OVERLAYONLY"
 msgstr "Nur Overlay"
@@ -4187,10 +4188,10 @@ msgid "OPTVAL_QUADRUPLE"
 msgstr "Vierfach"
 
 msgid "OPTVAL_ITEMPICKUP"
-msgstr "Gegenstand genommen"
+msgstr "Gegenstand aufgehoben"
 
 msgid "OPTVAL_OBITUARIES"
-msgstr "Todesanzeige"
+msgstr "Nachrufe"
 
 msgid "OPTVAL_CRITICALMESSAGES"
 msgstr "Kritische Meldungen"
@@ -4232,7 +4233,7 @@ msgid "OPTVAL_ZDOOM2063"
 msgstr "ZDoom 2.0.63"
 
 msgid "OPTVAL_ALLUNACKNOWLEDGED"
-msgstr "Alle unbestätigten"
+msgstr "Alle unbestätigt"
 
 msgid "OPTVAL_ERRORS"
 msgstr "Fehler"
@@ -4256,10 +4257,10 @@ msgid "OPTVAL_SWDOOMTC"
 msgstr "True Color SW Renderer"
 
 msgid "OPTVAL_DEDICATED"
-msgstr "Volle Leistung"
+msgstr "Hochleistung"
 
 msgid "OPTVAL_INTEGRATED"
-msgstr "energiesparend"
+msgstr "Energiesparend"
 
 msgid "OPTVAL_VANILLA"
 msgstr "Vanilla"
@@ -4271,10 +4272,10 @@ msgid "OPTVAL_VTFVANILLA"
 msgstr "Vanilla (erzwungen)"
 
 msgid "OPTVAL_VTAZDOOM"
-msgstr "Auto (ZDoom bevorzugt)"
+msgstr "Automatisch (ZDoom bevorzugt)"
 
 msgid "OPTVAL_VTAVANILLA"
-msgstr "Auto (Vanilla bevorzugt)"
+msgstr "Automatisch (Vanilla bevorzugt)"
 
 msgid "OPTVAL_SMALL"
 msgstr "Klein"
@@ -4436,7 +4437,7 @@ msgid "GLPREFMNU_WPNLIGHTSTR"
 msgstr "Waffenlichtstärke"
 
 msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr "Lichteffekt auf Spiegeln"
+msgstr "Umgebungskarte auf Spiegeln"
 
 msgid "GLPREFMNU_ENV"
 msgstr "Verbesserter Nachtsichtmodus"
@@ -4620,7 +4621,7 @@ msgid "OS_ALL"
 msgstr "Suche nach allen Begriffen"
 
 msgid "OS_NO_RESULTS"
-msgstr "Keine Resultate."
+msgstr "Keine Ergebnisse gefunden."
 
 msgid "OS_LABEL"
 msgstr "Suche:"
@@ -4706,7 +4707,9 @@ msgid "TXT_BY"
 msgstr "Von %s"
 
 msgid "TXT_QUITENDOOM"
-msgstr "Drücke eine Taste oder klicke mit der Maus ins Fenster zum Beenden."
+msgstr ""
+"Drücke eine beliebige Taste oder klicke irgendwo mit der Maus im Fenster zum "
+"Beenden."
 
 msgid "HUDMNU_FLASH"
 msgstr "Überblendoptionen"
@@ -5011,7 +5014,7 @@ msgid "CNTRLMNU_INVENTORY_HOTKEYS"
 msgstr "Inventar Hotkeys"
 
 msgid "JOYMNU_HAPTICS"
-msgstr "Haptische Rückmeldungsstärke"
+msgstr "Haptische Feedbackstärke"
 
 msgid "JOYMNU_CURVE"
 msgstr "Antwortkurve"
@@ -5094,7 +5097,7 @@ msgstr "Haptik-Optionen"
 
 # How the engine should handle haptics in old mods
 msgid "HAPMNU_COMPAT"
-msgstr "Haptische Rückmeldung Kompatibilitätsstufe"
+msgstr "Kompatibilität von haptischem Feedback"
 
 msgid "OPTVAL_MATCH"
 msgstr "Passen"
@@ -5103,7 +5106,7 @@ msgid "OPTVAL_WARN"
 msgstr "Warnen"
 
 msgid "HAPMNU_OPTIONS"
-msgstr "Haptische Rückmeldungsquellen anpassen"
+msgstr "Haptisches Feedback anpassen"
 
 # Rumble when using ui elements
 msgid "HAPMNU_OPT_MENU"
@@ -5209,7 +5212,7 @@ msgid "TAG_SUPERCHEXARMOR"
 msgstr "Super Chex-Rüstung"
 
 msgid "TAG_CHEXMAP"
-msgstr "Computer-Bereichkarte"
+msgstr "Computer-Bereichskarte"
 
 msgid "TAG_SLIMESUIT"
 msgstr "Schleimschutzanzug"
