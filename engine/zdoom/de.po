@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-30 06:00+0000\n"
+"PO-Revision-Date: 2025-12-30 06:58+0000\n"
 "Last-Translator: Artician <bachmeieraaron@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/de/>\n"
@@ -18,10 +18,10 @@ msgid "PRESSKEY"
 msgstr "Drücke eine Taste."
 
 msgid "SECRETMESSAGE"
-msgstr "Ein Geheimnis wurde enthüllt!"
+msgstr "Ein Geheimnis ist enthüllt!"
 
 msgid "D_DEVSTR"
-msgstr "Nutzloser Modus EIN.\n"
+msgstr "Nutzloser Modus AN.\n"
 
 msgid "QUITMSG"
 msgstr ""
@@ -109,8 +109,8 @@ msgstr ""
 
 msgid "QUITMSG4"
 msgstr ""
-"Willst du sagen, dass DOS\n"
-"besser ist als ich?"
+"Willst du sagen, dass du DOS\n"
+"mehr magst als ich?"
 
 msgid "QUITMSG5"
 msgstr ""
