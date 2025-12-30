@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-30 01:00+0000\n"
+"PO-Revision-Date: 2025-12-30 04:00+0000\n"
 "Last-Translator: Artician <bachmeieraaron@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/common/de/>"
 "\n"
@@ -1869,13 +1869,13 @@ msgid "OPTMNU_SIMPLEON"
 msgstr "Einfaches Optionsmenü"
 
 msgid "OPTMNU_OPENCONFIG"
-msgstr "Konfigurationsdatei anzeigen"
+msgstr "Konfigurationsdatei durchsuchen"
 
 msgid "OPTMNU_OPENSCREENSHOTS"
-msgstr "Screenshots anzeigen"
+msgstr "Screenshots durchsuchen"
 
 msgid "OPTMNU_OPENSAVES"
-msgstr "Spielstände anzeigen"
+msgstr "Spielstände durchsuchen"
 
 msgid "MOUSEMNU_SWAPBUTTONS"
 msgstr "Maustasten vertauschen"
