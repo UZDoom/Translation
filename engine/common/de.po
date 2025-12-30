@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-30 06:00+0000\n"
+"PO-Revision-Date: 2025-12-30 06:10+0000\n"
 "Last-Translator: Artician <bachmeieraaron@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/common/de/>"
 "\n"
@@ -246,7 +246,7 @@ msgid "MNU_MULTIPLAYER"
 msgstr "Mehrspieler"
 
 msgid "CNTRLMNU_SAY"
-msgstr "Sagen"
+msgstr "Sag"
 
 msgid "CNTRLMNU_CHAT_TITLE"
 msgstr "Chat-Steuerung anpassen"
@@ -1921,10 +1921,10 @@ msgid "DSPLYMNU_ADVANCED"
 msgstr "Erweiterte Anzeigeoptionen"
 
 msgid "PICKER_SELECT"
-msgstr "Bitte wähle ein Spiel aus."
+msgstr "Wähle eine Spieldatei aus."
 
 msgid "PICKER_PLAY"
-msgstr "Spielen"
+msgstr "Spiel Spielen"
 
 msgid "PICKER_EXIT"
 msgstr "Verlassen"
@@ -1987,7 +1987,7 @@ msgstr "Controller im Hintergrund aktivieren"
 # Order to sort the list of saved games in the save and load game menu. This
 # used to only be alphabetical.
 msgid "MISCMNU_SAVEORDER"
-msgstr "Gespeicherte Spiele sortieren nach"
+msgstr "Sortierung von gespeicherten Spielen"
 
 msgid "OPTVAL_ALPHABETICAL"
 msgstr "Alphabetisch"
@@ -2002,7 +2002,7 @@ msgid "PICKER_PLAYJOIN"
 msgstr "Spiel beitreten"
 
 msgid "PICKER_REMPARM"
-msgstr "Merke Parameter"
+msgstr "Parameter merken"
 
 # For stuff like id24.
 msgid "PICKER_SUPPORTWADS"
@@ -2012,14 +2012,14 @@ msgid "PICKER_TAB_MULTI"
 msgstr "Mehrspieler"
 
 msgid "PICKER_LOADSAVE"
-msgstr "Lade Gespeicherte Datei:"
+msgstr "Lade gespeicherte Datei:"
 
 msgid "PICKER_REMSAVE"
-msgstr "Merke Gespeicherte Datei"
+msgstr "Gespeicherte Datei merken"
 
 # As in, to host a game.
 msgid "PICKER_HOST"
-msgstr "Erstelle"
+msgstr "Erstellen"
 
 msgid "PICKER_JOIN"
 msgstr "Beitreten"
@@ -2028,7 +2028,7 @@ msgid "PICKER_NETMODE"
 msgstr "Netzwerkmodus:"
 
 msgid "PICKER_NETAUTO"
-msgstr "Auto (empfohlen)"
+msgstr "Automatisch (empfohlen)"
 
 # Connections are routed through the host instead of all players connecting to
 # each other individually.
@@ -2040,18 +2040,18 @@ msgid "PICKER_NETPEER"
 msgstr "Peer-to-Peer"
 
 msgid "PICKER_NETRATE"
-msgstr "Packet Tickrate:"
+msgstr "Packet-Tickrate:"
 
 # Sends out duplicate copies of packets to help with spotty connections e.g.
 # wifi.
 msgid "PICKER_NETBACKUP"
-msgstr "Backup Packets senden"
+msgstr "Backup-Pakete senden"
 
 msgid "PICKER_GAMEMODE"
 msgstr "Spielmodus:"
 
 msgid "PICKER_COOP"
-msgstr "Co-op"
+msgstr "Koop"
 
 msgid "PICKER_DM"
 msgstr "Deathmatch"
@@ -2064,7 +2064,7 @@ msgid "PICKER_TEAM"
 msgstr "Team #:"
 
 msgid "PICKER_ALTDM"
-msgstr "Verwende alternative Deathmatch Regeln"
+msgstr "Alternative Deathmatch-Regeln verwenden"
 
 msgid "PICKER_PLAYERS"
 msgstr "Max Spieler:"
@@ -2082,7 +2082,7 @@ msgstr "Vorgabe 5029"
 
 # Team 255 randomizes which team the player gets put on.
 msgid "PICKER_TEAMHINT"
-msgstr "255 = Zufall"
+msgstr "255 = Zufällig"
 
 msgid "PICKER_IP"
 msgstr "Host IP:"
@@ -2098,7 +2098,7 @@ msgid "MISCMNU_DISCORDRPC"
 msgstr "Discord Rich Presence"
 
 msgid "JOYMNU_TURNSPEED"
-msgstr "Umdrehgeschwindigkeit"
+msgstr "Umdrehungsgeschwindigkeit"
 
 msgid "JOYMNU_LOOKSPEED"
 msgstr "Blickgeschwindigkeit"
@@ -2110,7 +2110,7 @@ msgid "NOTES_FAIL"
 msgstr "Versionshinweise konnten nicht automatisch verarbeitet werden"
 
 msgid "NOTES_VERSION"
-msgstr "Version"
+msgstr "version"
 
 msgid "NOTES_UNKNOWN"
 msgstr "Unbekannt"
@@ -2119,13 +2119,13 @@ msgid "NOTES_RELEASED"
 msgstr "veröffentlicht"
 
 msgid "NOTES_EMPTY"
-msgstr "Keine Beschreibung vorhanden."
+msgstr "Keine Beschreibung angegeben."
 
 msgid "NOTES_DETAILS"
 msgstr "Weitere Details hier:"
 
 msgid "PICKER_SHOWTHIS"
-msgstr "Nach Aktualisierungen diese Seite anzeigen"
+msgstr "Diese Seite nach Aktualisierung anzeigen"
 
 msgid "PICKER_SHOWNOTES"
 msgstr "Versionshinweise anzeigen"
