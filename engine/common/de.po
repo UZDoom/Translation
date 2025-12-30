@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-30 06:10+0000\n"
+"PO-Revision-Date: 2025-12-30 06:58+0000\n"
 "Last-Translator: Artician <bachmeieraaron@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/common/de/>"
 "\n"
@@ -37,7 +37,7 @@ msgstr "Nicht gesetzt"
 
 msgid "QSPROMPT"
 msgstr ""
-"Überschreibe einem Schnellspeicherspielstand namens\n"
+"Überschreibe deinen Schnellspeicherspielstand namens\n"
 "\n"
 "\"%s\"?\n"
 "\n"
@@ -45,7 +45,11 @@ msgstr ""
 
 msgid "QLPROMPT"
 msgstr ""
-"Möchtest du den Spielstand namens \"%s\" schnellladen?\n"
+"Möchtest du den Spielstand namens\n"
+"\n"
+"\"%s\"\n"
+"\n"
+"schnellladen?\n"
 "\n"
 "Drücke Y oder N."
 
@@ -143,7 +147,7 @@ msgid "OPTMNU_DEFAULTS"
 msgstr "Auf Standardeinstellungen zurücksetzen"
 
 msgid "OPTMNU_RESETTOSAVED"
-msgstr "Auf letztens gespeicherte Werte zurücksetzen"
+msgstr "Auf gespeicherte Werte zurücksetzen"
 
 msgid "OPTMNU_WRITEINI"
 msgstr "Aktuelle Einstellungen speichern"
@@ -1873,7 +1877,7 @@ msgid "OPTMNU_OPENSCREENSHOTS"
 msgstr "Screenshots durchsuchen"
 
 msgid "OPTMNU_OPENSAVES"
-msgstr "Gespeicherte Spielstände durchsuchen"
+msgstr "Spielstände durchsuchen"
 
 msgid "MOUSEMNU_SWAPBUTTONS"
 msgstr "Maustasten vertauschen"
@@ -1924,7 +1928,7 @@ msgid "PICKER_SELECT"
 msgstr "Wähle eine Spieldatei aus."
 
 msgid "PICKER_PLAY"
-msgstr "Spiel Spielen"
+msgstr "Spielen"
 
 msgid "PICKER_EXIT"
 msgstr "Verlassen"
@@ -1987,13 +1991,13 @@ msgstr "Controller im Hintergrund aktivieren"
 # Order to sort the list of saved games in the save and load game menu. This
 # used to only be alphabetical.
 msgid "MISCMNU_SAVEORDER"
-msgstr "Sortierung von gespeicherten Spielen"
+msgstr "Sortierung von gespeicherten Spielständen"
 
 msgid "OPTVAL_ALPHABETICAL"
 msgstr "Alphabetisch"
 
 msgid "OPTVAL_LASTSAVEDTIME"
-msgstr "Zuletzt gespeichert"
+msgstr "Zuletzt gespeicherte Zeit"
 
 msgid "PICKER_PLAYHOST"
 msgstr "Spiel erstellen"
@@ -2012,10 +2016,10 @@ msgid "PICKER_TAB_MULTI"
 msgstr "Mehrspieler"
 
 msgid "PICKER_LOADSAVE"
-msgstr "Lade gespeicherte Datei:"
+msgstr "Lade Spielstand:"
 
 msgid "PICKER_REMSAVE"
-msgstr "Gespeicherte Datei merken"
+msgstr "Spielstand merken"
 
 # As in, to host a game.
 msgid "PICKER_HOST"
@@ -2040,7 +2044,7 @@ msgid "PICKER_NETPEER"
 msgstr "Peer-to-Peer"
 
 msgid "PICKER_NETRATE"
-msgstr "Packet-Tickrate:"
+msgstr "Paket-Tickrate:"
 
 # Sends out duplicate copies of packets to help with spotty connections e.g.
 # wifi.
