@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-30 18:28+0000\n"
+"PO-Revision-Date: 2025-12-31 02:00+0000\n"
 "Last-Translator: hawkwind3 <hawkwinds_messages@hotmail.com>\n"
 "Language-Team: English (United Kingdom) <https://hosted.weblate.org/projects/"
 "doom-engine-games/chex-quest-3-filter/en_GB/>\n"
@@ -19,7 +19,7 @@ msgid "GOTBLUEFLEM"
 msgstr "Picked up a blue flemkey."
 
 msgid "GOTYELLOWFLEM"
-msgstr "Picked up a yellow flemkey."
+msgstr ""
 
 msgid "GOTREDFLEM"
 msgstr "Picked up a red flemkey."
