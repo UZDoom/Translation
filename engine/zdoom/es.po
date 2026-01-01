@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-24 17:00+0000\n"
-"Last-Translator: Boondorl <boondorl0@gmail.com>\n"
+"PO-Revision-Date: 2025-12-31 10:01+0000\n"
+"Last-Translator: ju27pmg <chichijersey27@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/es/>\n"
 "Language: es\n"
@@ -520,7 +520,7 @@ msgid "SCORE_BONUS"
 msgstr "Bonificaciones"
 
 msgid "SCORE_COLOR"
-msgstr ""
+msgstr "Color"
 
 msgid "SCORE_SECRET"
 msgstr "Secreto"
@@ -528,9 +528,8 @@ msgstr "Secreto"
 msgid "SCORE_NAME"
 msgstr "Nombre"
 
-#, fuzzy
 msgid "SCORE_DELAY"
-msgstr "Retraso (ms)"
+msgstr "Retraso"
 
 msgid "SCORE_FRAGS"
 msgstr "Bajas"
@@ -545,7 +544,7 @@ msgid "SCORE_MISSED"
 msgstr "Pérdidas"
 
 msgid "SCORE_TOTAL"
-msgstr ""
+msgstr "Total"
 
 msgid "SCORE_LVLTIME"
 msgstr "Tiempo de nivel"
@@ -840,7 +839,7 @@ msgid "CC_HEAVY"
 msgstr "Ametrallador"
 
 msgid "CC_IMP"
-msgstr ""
+msgstr "Diablillo"
 
 msgid "CC_DEMON"
 msgstr "Demonio"
