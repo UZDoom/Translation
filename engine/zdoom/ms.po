@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-30 01:00+0000\n"
+"PO-Revision-Date: 2026-01-08 23:02+0000\n"
 "Last-Translator: NuruTheDoomer <nuruthedoomer@gmail.com>\n"
 "Language-Team: Malay <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ms/>\n"
@@ -464,7 +464,7 @@ msgid "SCORE_NAME"
 msgstr "Nama"
 
 msgid "SCORE_DELAY"
-msgstr ""
+msgstr "Kelewatan"
 
 msgid "SCORE_FRAGS"
 msgstr "Frag"
@@ -763,7 +763,7 @@ msgid "PD_YELLOWS"
 msgstr ""
 
 msgid "CC_ZOMBIE"
-msgstr ""
+msgstr "Zombi"
 
 # a.k.a. (former human) sergeant
 msgid "CC_SHOTGUN"
@@ -774,7 +774,7 @@ msgid "CC_HEAVY"
 msgstr ""
 
 msgid "CC_IMP"
-msgstr ""
+msgstr "Imp"
 
 msgid "CC_DEMON"
 msgstr ""
