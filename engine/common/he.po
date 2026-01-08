@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-29 22:00+0000\n"
+"PO-Revision-Date: 2026-01-06 10:01+0000\n"
 "Last-Translator: not aname <clay57447@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/uzdoom/common/he/>"
 "\n"
@@ -248,83 +248,83 @@ msgid "MNU_MULTIPLAYER"
 msgstr ""
 
 msgid "CNTRLMNU_SAY"
-msgstr ""
+msgstr "הודעה"
 
 msgid "CNTRLMNU_CHAT_TITLE"
-msgstr ""
+msgstr "התאמה אישית של פעולות הצ'יטים"
 
 msgid "CNTRLMNU_WEAPONS_TITLE"
-msgstr ""
+msgstr "התאמה אישית של פעולות נשק"
 
 msgid "CNTRLMNU_INVENTORY_TITLE"
-msgstr ""
+msgstr "התאמה אישית של פעולות מלאי"
 
 msgid "CNTRLMNU_OTHER_TITLE"
-msgstr ""
+msgstr "התאמה אישית של פעולות אחרות"
 
 msgid "CNTRLMNU_WEAPONS"
-msgstr ""
+msgstr "נשקים"
 
 msgid "CNTRLMNU_NEXTWEAPON"
-msgstr ""
+msgstr "נשק הבא"
 
 msgid "CNTRLMNU_PREVIOUSWEAPON"
-msgstr ""
+msgstr "נשק קודם"
 
 # Todo - make game specific
 msgid "CNTRLMNU_SLOT1"
-msgstr ""
+msgstr "נשק 1"
 
 # only show appropriate slots per game
 # 
 msgid "CNTRLMNU_SLOT2"
-msgstr ""
+msgstr "נשק 2"
 
 msgid "CNTRLMNU_SLOT3"
-msgstr ""
+msgstr "נשק 3"
 
 msgid "CNTRLMNU_SLOT4"
-msgstr ""
+msgstr "נשק 4"
 
 msgid "CNTRLMNU_SLOT5"
-msgstr ""
+msgstr "נשק 5"
 
 msgid "CNTRLMNU_SLOT6"
-msgstr ""
+msgstr "נשק 6"
 
 msgid "CNTRLMNU_SLOT7"
-msgstr ""
+msgstr "נשק 7"
 
 msgid "CNTRLMNU_SLOT8"
-msgstr ""
+msgstr "נשק 8"
 
 msgid "CNTRLMNU_SLOT9"
-msgstr ""
+msgstr "נשק 9"
 
 msgid "CNTRLMNU_SLOT0"
-msgstr ""
+msgstr "נשק 10"
 
 msgid "CNTRLMNU_INVENTORY"
-msgstr ""
+msgstr "מלאי"
 
 msgid "CNTRLMNU_USEITEM"
-msgstr ""
+msgstr "להשתמש בפריט"
 
 msgid "CNTRLMNU_USEALLITEMS"
-msgstr ""
+msgstr "להשתמש בכל הפריטים"
 
 msgid "CNTRLMNU_NEXTITEM"
-msgstr ""
+msgstr "פריט הבא"
 
 msgid "CNTRLMNU_PREVIOUSITEM"
-msgstr ""
+msgstr "פריט הקודם"
 
 # most are not used yet but will be
 msgid "MAPCNTRLMNU_TITLE"
-msgstr ""
+msgstr "התאמה אישית של פעולות מפה"
 
 msgid "MAPCNTRLMNU_CONTROLS"
-msgstr ""
+msgstr "פעולות מפה"
 
 msgid "MAPCNTRLMNU_PANLEFT"
 msgstr ""
