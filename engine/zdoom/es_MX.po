@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-27 02:33+0000\n"
+"PO-Revision-Date: 2026-01-09 04:01+0000\n"
 "Last-Translator: Ret Neychozken <retneychozken@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/es_MX/>\n"
@@ -148,6 +148,8 @@ msgstr ""
 
 msgid "QUITMSG13"
 msgstr ""
+"Vete. Cuando regreses te\n"
+"esperaré con un bate."
 
 msgid "QUITMSG14"
 msgstr ""
