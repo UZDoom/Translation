@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-01-08 23:02+0000\n"
-"Last-Translator: NuruTheDoomer <nuruthedoomer@gmail.com>\n"
+"PO-Revision-Date: 2026-01-18 09:01+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Malay <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ms/>\n"
 "Language: ms\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.15.1\n"
+"X-Generator: Weblate 5.15.2\n"
 
 msgid "PRESSKEY"
 msgstr "Tekan mana-mana kekunci."
@@ -3282,13 +3282,13 @@ msgid "CMPTMNU_EXPLODE2"
 msgstr ""
 
 msgid "PLYRMNU_RED"
-msgstr ""
+msgstr "Merah"
 
 msgid "PLYRMNU_GREEN"
-msgstr ""
+msgstr "Hijau"
 
 msgid "PLYRMNU_BLUE"
-msgstr ""
+msgstr "Biru"
 
 msgid "PLYRMNU_PLAYERCLASS"
 msgstr ""
@@ -3462,7 +3462,7 @@ msgid "MAPCOLORMNU_PORTAL"
 msgstr ""
 
 msgid "MSGMNU_TITLE"
-msgstr ""
+msgstr "Mesej"
 
 msgid "MSGMNU_SHOWMESSAGES"
 msgstr ""
@@ -3789,7 +3789,7 @@ msgid "SCALEMNU_OVERRIDE"
 msgstr ""
 
 msgid "SCALEMNU_MESSAGES"
-msgstr ""
+msgstr "Mesej"
 
 msgid "SCALEMNU_CONSOLE"
 msgstr ""
@@ -3964,7 +3964,7 @@ msgid "OPTVAL_ITEMS"
 msgstr ""
 
 msgid "OPTVAL_WEAPONS"
-msgstr ""
+msgstr "Senjata"
 
 msgid "OPTVAL_BOTH"
 msgstr ""
@@ -4922,7 +4922,7 @@ msgid "JOYMNU_THRESHOLD"
 msgstr ""
 
 msgid "OPTVAL_LINEAR"
-msgstr ""
+msgstr "Linear"
 
 msgid "OPTVAL_QUADRATIC"
 msgstr ""
@@ -4938,7 +4938,7 @@ msgid "OPTVAL_TEAMONLYCHAT"
 msgstr ""
 
 msgid "OPTVAL_GLOBALCHAT"
-msgstr ""
+msgstr "Global"
 
 # Disables /me functionality in chat when displaying.
 msgid "NETMNU_NOBOLDCHAT"
@@ -5024,7 +5024,7 @@ msgid "HAPMNU_OPT_WORLD"
 msgstr ""
 
 msgid "PAUSE_STRING"
-msgstr ""
+msgstr "Jeda"
 
 msgid "TAG_BACKPACK"
 msgstr ""
