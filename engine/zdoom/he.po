@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-29 22:00+0000\n"
-"Last-Translator: not aname <clay57447@gmail.com>\n"
+"PO-Revision-Date: 2026-01-18 09:01+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/he/>\n"
 "Language: he\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
 "n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Weblate 5.15.1\n"
+"X-Generator: Weblate 5.15.2\n"
 
 #, fuzzy
 msgid "PRESSKEY"
@@ -488,7 +488,7 @@ msgid "TXT_IMSECRETS"
 msgstr ""
 
 msgid "TXT_IMTIME"
-msgstr ""
+msgstr "זמן"
 
 msgid "TXT_IMPAR"
 msgstr ""
@@ -2772,7 +2772,7 @@ msgid "MNU_NEWGAME"
 msgstr ""
 
 msgid "MNU_OPTIONS"
-msgstr ""
+msgstr "הגדרות"
 
 msgid "MNU_GAMEFILES"
 msgstr ""
@@ -3791,7 +3791,7 @@ msgid "SCALEMNU_ADAPT"
 msgstr ""
 
 msgid "HUDMNU_TITLE"
-msgstr ""
+msgstr "הגדרות HUD"
 
 msgid "HUDMNU_ALTHUD"
 msgstr ""
@@ -3857,7 +3857,7 @@ msgid "MISCMNU_INTERSCROLL"
 msgstr ""
 
 msgid "NETMNU_TITLE"
-msgstr ""
+msgstr "הגדרות רשת"
 
 msgid "NETMNU_LOCALOPTIONS"
 msgstr ""
@@ -3939,7 +3939,7 @@ msgid "OPTVAL_ITEMS"
 msgstr ""
 
 msgid "OPTVAL_WEAPONS"
-msgstr ""
+msgstr "נשקים"
 
 msgid "OPTVAL_BOTH"
 msgstr ""

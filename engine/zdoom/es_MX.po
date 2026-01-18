@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-01-15 04:01+0000\n"
-"Last-Translator: Ret Neychozken <retneychozken@gmail.com>\n"
+"PO-Revision-Date: 2026-01-18 09:01+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/es_MX/>\n"
 "Language: es_MX\n"
@@ -544,7 +544,7 @@ msgid "TXT_IMSECRETS"
 msgstr ""
 
 msgid "TXT_IMTIME"
-msgstr ""
+msgstr "Tiempo"
 
 msgid "TXT_IMPAR"
 msgstr ""
@@ -2835,7 +2835,7 @@ msgid "MNU_NEWGAME"
 msgstr ""
 
 msgid "MNU_OPTIONS"
-msgstr ""
+msgstr "Opciones"
 
 msgid "MNU_GAMEFILES"
 msgstr ""
@@ -3854,7 +3854,7 @@ msgid "SCALEMNU_ADAPT"
 msgstr ""
 
 msgid "HUDMNU_TITLE"
-msgstr ""
+msgstr "Opciones del HUD"
 
 msgid "HUDMNU_ALTHUD"
 msgstr ""
@@ -3920,7 +3920,7 @@ msgid "MISCMNU_INTERSCROLL"
 msgstr ""
 
 msgid "NETMNU_TITLE"
-msgstr ""
+msgstr "Opciones De Red"
 
 msgid "NETMNU_LOCALOPTIONS"
 msgstr ""

@@ -2,30 +2,28 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-01-18 09:01+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Malay <https://hosted.weblate.org/projects/uzdoom/zdoom-"
-"engine-strings/ms/>\n"
-"Language: ms\n"
+"PO-Revision-Date: 2025-11-15 17:51+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ceb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.15.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1 && n != 2 && n != 3 && (n % 10 == 4 "
+"|| n % 10 == 6 || n % 10 == 9);\n"
+"X-Generator: Weblate 5.15-dev\n"
 
 msgid "PRESSKEY"
-msgstr "Tekan mana-mana kekunci."
+msgstr ""
 
 msgid "SECRETMESSAGE"
-msgstr "Sebuah rahsia terbongkar!"
+msgstr ""
 
 msgid "D_DEVSTR"
-msgstr "Mod tanpa guna BUKA\n"
+msgstr ""
 
 msgid "QUITMSG"
 msgstr ""
-"Anda pasti mahu keluar dari\n"
-"permainan yang hebat ini?"
 
 # In some languages, it may make more sense to translate “Press a key” as
 # “Press any key.”
@@ -43,27 +41,15 @@ msgstr ""
 
 msgid "NIGHTMARE"
 msgstr ""
-"Anda pasti? Tahap kesukaran ini\n"
-"tidaklah adil sama sekali!\n"
-"\n"
-"Tekan Y atau N."
 
 msgid "SWSTRING"
 msgstr ""
-"Ini adalah Doom versi shareware.\n"
-"\n"
-"Anda perlu memesan trilogi penuh.\n"
-"\n"
-"Tekan mana-mana kekunci."
 
 msgid "NETEND"
 msgstr ""
 
 msgid "ENDGAME"
 msgstr ""
-"Anda pasti mahu menamatkan permainan?\n"
-"\n"
-"Tekan Y atau N."
 
 msgid "RAVENQUITMSG"
 msgstr ""
@@ -86,8 +72,6 @@ msgstr ""
 
 msgid "QUITMSG4"
 msgstr ""
-"Kau nak kata yang kau lagi suka DOS\n"
-"daripada saya, kan?"
 
 msgid "QUITMSG5"
 msgstr ""
@@ -452,71 +436,71 @@ msgid "MULTI5"
 msgstr ""
 
 msgid "SCORE_BONUS"
-msgstr "Bonus"
+msgstr ""
 
 msgid "SCORE_COLOR"
-msgstr "Warna"
+msgstr ""
 
 msgid "SCORE_SECRET"
-msgstr "Rahsia"
+msgstr ""
 
 msgid "SCORE_NAME"
-msgstr "Nama"
+msgstr ""
 
 msgid "SCORE_DELAY"
-msgstr "Kelewatan"
+msgstr ""
 
 msgid "SCORE_FRAGS"
-msgstr "Frag"
+msgstr ""
 
 msgid "SCORE_DEATHS"
-msgstr "Kematian"
+msgstr ""
 
 msgid "SCORE_OTHER"
-msgstr "Lain-lain"
+msgstr ""
 
 msgid "SCORE_MISSED"
-msgstr "Terlepas"
+msgstr ""
 
 msgid "SCORE_TOTAL"
-msgstr "Jumlah"
+msgstr ""
 
 msgid "SCORE_LVLTIME"
 msgstr ""
 
 msgid "TXT_IMKILLS"
-msgstr "Musuh"
+msgstr ""
 
 msgid "TXT_IMITEMS"
-msgstr "Item"
+msgstr ""
 
 msgid "TXT_IMSECRETS"
-msgstr "Rahsia"
+msgstr ""
 
 msgid "TXT_IMTIME"
-msgstr "Masa"
+msgstr ""
 
 msgid "TXT_IMPAR"
-msgstr "Par"
+msgstr ""
 
 msgid "WI_FINISHED"
-msgstr "Selesai"
+msgstr ""
 
 msgid "WI_ENTERING"
-msgstr "Kini Memasuki"
+msgstr ""
 
 msgctxt "heretic hexen"
 msgid "WI_ENTERING"
 msgstr ""
 
 msgid "AM_MONSTERS"
-msgstr "Raksasa:"
+msgstr ""
 
 msgid "AM_SECRETS"
-msgstr "Rahsia:"
+msgstr ""
 
 msgid "AM_ITEMS"
-msgstr "Item:"
+msgstr ""
 
 msgid "OB_SUICIDE"
 msgstr ""
@@ -625,10 +609,10 @@ msgid "GOTREDSKUL"
 msgstr ""
 
 msgid "GOTINVUL"
-msgstr "Kekebalan!"
+msgstr ""
 
 msgid "GOTBERSERK"
-msgstr "Berserk!"
+msgstr ""
 
 msgid "GOTINVIS"
 msgstr ""
@@ -763,7 +747,7 @@ msgid "PD_YELLOWS"
 msgstr ""
 
 msgid "CC_ZOMBIE"
-msgstr "Zombi"
+msgstr ""
 
 # a.k.a. (former human) sergeant
 msgid "CC_SHOTGUN"
@@ -774,7 +758,7 @@ msgid "CC_HEAVY"
 msgstr ""
 
 msgid "CC_IMP"
-msgstr "Imp"
+msgstr ""
 
 msgid "CC_DEMON"
 msgstr ""
@@ -783,7 +767,7 @@ msgid "CC_LOST"
 msgstr ""
 
 msgid "CC_CACO"
-msgstr "Cacodemon"
+msgstr ""
 
 msgid "CC_HELL"
 msgstr ""
@@ -801,7 +785,7 @@ msgid "CC_REVEN"
 msgstr ""
 
 msgid "CC_MANCU"
-msgstr "Mancubus"
+msgstr ""
 
 msgid "CC_ARCH"
 msgstr ""
@@ -816,7 +800,7 @@ msgid "CC_HERO"
 msgstr ""
 
 msgid "FN_SHOTGUN"
-msgstr "Sarjan"
+msgstr ""
 
 msgid "FN_HEAVY"
 msgstr ""
@@ -834,7 +818,7 @@ msgid "FN_WOLFSS"
 msgstr ""
 
 msgid "FN_DOG"
-msgstr "Anjing"
+msgstr ""
 
 msgid "TAG_FIST"
 msgstr ""
@@ -843,10 +827,10 @@ msgid "TAG_CHAINSAW"
 msgstr ""
 
 msgid "TAG_PISTOL"
-msgstr "Pistol"
+msgstr ""
 
 msgid "TAG_SHOTGUN"
-msgstr "Senapang Patah"
+msgstr ""
 
 msgid "TAG_SUPERSHOTGUN"
 msgstr ""
@@ -2696,16 +2680,6 @@ msgstr ""
 
 msgid "CE1TEXT"
 msgstr ""
-"Misi tercapai.\n"
-"\n"
-"Anda sudah bersedia untuk misi seterusnya?\n"
-"\n"
-"\n"
-"\n"
-"\n"
-"\n"
-"\n"
-"Tekan kekunci escape untuk meneruskan..."
 
 msgid "CE2TEXT"
 msgstr ""
@@ -2736,18 +2710,9 @@ msgstr ""
 
 msgid "CNIGHTMARE"
 msgstr ""
-"Hati-hati, misi ini akan menjadi susah.\n"
-"Anda masih mahu meneruskan?\n"
-"\n"
-"Tekan Y atau N."
 
 msgid "CSWSTRING"
 msgstr ""
-"Ini ialah Chex(R) Quest. nantikan\n"
-"\n"
-"tahap-tahap baharu di www.chexquest.com.\n"
-"\n"
-"Tekan mana-mana kekunci."
 
 msgctxt "chex"
 msgid "NETEND"
@@ -2797,7 +2762,7 @@ msgid "MNU_NEWGAME"
 msgstr ""
 
 msgid "MNU_OPTIONS"
-msgstr "Tetapan"
+msgstr ""
 
 msgid "MNU_GAMEFILES"
 msgstr ""
@@ -3282,13 +3247,13 @@ msgid "CMPTMNU_EXPLODE2"
 msgstr ""
 
 msgid "PLYRMNU_RED"
-msgstr "Merah"
+msgstr ""
 
 msgid "PLYRMNU_GREEN"
-msgstr "Hijau"
+msgstr ""
 
 msgid "PLYRMNU_BLUE"
-msgstr "Biru"
+msgstr ""
 
 msgid "PLYRMNU_PLAYERCLASS"
 msgstr ""
@@ -3417,10 +3382,10 @@ msgid "MAPCOLORMNU_INTERLEVELCOLOR"
 msgstr ""
 
 msgid "MAPCOLORMNU_SECRETSECTORCOLOR"
-msgstr "Sektor rahsia"
+msgstr ""
 
 msgid "MAPCOLORMNU_UNEXPLOREDSECRETCOLOR"
-msgstr "Rahsia yang belum dijelajahi"
+msgstr ""
 
 msgid "MAPCOLORMNU_SPECIALWALLCOLOR"
 msgstr ""
@@ -3432,7 +3397,7 @@ msgid "MAPCOLORMNU_TSWALLCOLOR"
 msgstr ""
 
 msgid "MAPCOLORMNU_SECRETWALLCOLOR"
-msgstr "Dinding rahsia"
+msgstr ""
 
 msgid "MAPCOLORMNU_THINGCOLOR"
 msgstr ""
@@ -3462,7 +3427,7 @@ msgid "MAPCOLORMNU_PORTAL"
 msgstr ""
 
 msgid "MSGMNU_TITLE"
-msgstr "Mesej"
+msgstr ""
 
 msgid "MSGMNU_SHOWMESSAGES"
 msgstr ""
@@ -3471,7 +3436,7 @@ msgid "MSGMNU_SHOWOBITUARIES"
 msgstr ""
 
 msgid "MSGMNU_SHOWSECRETS"
-msgstr "Tunjukkan pemberitahuan rahsia"
+msgstr ""
 
 msgid "MSGMNU_MESSAGELEVEL"
 msgstr ""
@@ -3531,7 +3496,7 @@ msgid "AUTOMAPMNU_SHOWMONSTERS"
 msgstr ""
 
 msgid "AUTOMAPMNU_SHOWSECRETS"
-msgstr "Tunjukkan kiraan rahsia"
+msgstr ""
 
 msgid "AUTOMAPMNU_SHOWTIME"
 msgstr ""
@@ -3540,7 +3505,7 @@ msgid "AUTOMAPMNU_SHOWTOTALTIME"
 msgstr ""
 
 msgid "AUTOMAPMNU_MAPSECRETS"
-msgstr "Tunjukkan rahsia pada peta"
+msgstr ""
 
 msgid "AUTOMAPMNU_SHOWMAPLABEL"
 msgstr ""
@@ -3609,7 +3574,7 @@ msgid "ALTHUDMNU_ENABLE"
 msgstr ""
 
 msgid "ALTHUDMNU_SHOWSECRETS"
-msgstr "Tunjukkan kiraan rahsia"
+msgstr ""
 
 msgid "ALTHUDMNU_SHOWMONSTERS"
 msgstr ""
@@ -3789,7 +3754,7 @@ msgid "SCALEMNU_OVERRIDE"
 msgstr ""
 
 msgid "SCALEMNU_MESSAGES"
-msgstr "Mesej"
+msgstr ""
 
 msgid "SCALEMNU_CONSOLE"
 msgstr ""
@@ -3816,7 +3781,7 @@ msgid "SCALEMNU_ADAPT"
 msgstr ""
 
 msgid "HUDMNU_TITLE"
-msgstr "Tetapan HUD"
+msgstr ""
 
 msgid "HUDMNU_ALTHUD"
 msgstr ""
@@ -3882,7 +3847,7 @@ msgid "MISCMNU_INTERSCROLL"
 msgstr ""
 
 msgid "NETMNU_TITLE"
-msgstr "Tetapan Rangkaian"
+msgstr ""
 
 msgid "NETMNU_LOCALOPTIONS"
 msgstr ""
@@ -3964,7 +3929,7 @@ msgid "OPTVAL_ITEMS"
 msgstr ""
 
 msgid "OPTVAL_WEAPONS"
-msgstr "Senjata"
+msgstr ""
 
 msgid "OPTVAL_BOTH"
 msgstr ""
@@ -4612,7 +4577,6 @@ msgstr ""
 
 msgid "TXT_QUITENDOOM"
 msgstr ""
-"Tekan mana-mana kekunci atau klik mana-mana di dalam tetingkap untuk keluar."
 
 msgid "HUDMNU_FLASH"
 msgstr ""
@@ -4922,7 +4886,7 @@ msgid "JOYMNU_THRESHOLD"
 msgstr ""
 
 msgid "OPTVAL_LINEAR"
-msgstr "Linear"
+msgstr ""
 
 msgid "OPTVAL_QUADRATIC"
 msgstr ""
@@ -4938,7 +4902,7 @@ msgid "OPTVAL_TEAMONLYCHAT"
 msgstr ""
 
 msgid "OPTVAL_GLOBALCHAT"
-msgstr "Global"
+msgstr ""
 
 # Disables /me functionality in chat when displaying.
 msgid "NETMNU_NOBOLDCHAT"
@@ -5024,7 +4988,7 @@ msgid "HAPMNU_OPT_WORLD"
 msgstr ""
 
 msgid "PAUSE_STRING"
-msgstr "Jeda"
+msgstr ""
 
 msgid "TAG_BACKPACK"
 msgstr ""
@@ -5156,37 +5120,3 @@ msgstr ""
 
 msgid "OPTMNU_ACCESSIBILITY"
 msgstr ""
-
-msgid "ACCMNU_TOOLTIP_EXAMPLE"
-msgstr ""
-"Ini adalah contoh petua alat.\n"
-"Berikut adalah beberapa teks tambahan.\n"
-"…\n"
-"Berikut adalah baris teks yang sangat panjang yang seolah-olah berterusan "
-"tanpa ada apa-apa yang menarik untuk diperkatakan, ia hanya kelihatan begitu "
-"panjang kerana pembangun menghadapi kesukaran untuk menerangkan apa yang "
-"dilakukan oleh sesuatu pilihan."
-
-msgid "ACCMNU_TOOLTIP_SPEED"
-msgstr "Kecepatan Tatalan Petua Alat"
-
-msgid "ACCMNU_TOOLTIP_DELAY"
-msgstr "Kelewatan Tatalan Petua Alat"
-
-msgid "ACCMNU_TOOLTIP_ALPHA"
-msgstr "Alfa Latar Belakang Petua Alat"
-
-msgid "ACCMNU_TOOLTIP_CAP"
-msgstr "Hadkan Lebar Petua Alat"
-
-msgid "ACCMNU_TOOLTIP_LINES"
-msgstr "Baris Petua Alat"
-
-#, fuzzy
-msgid "ACCMNU_TOOLTIP_SCALE"
-msgstr "Skalakan Petua Alat"
-
-msgid "DSPLYMNU_TOOLTIP_BRIGHTNESS"
-msgstr ""
-"Menerapkan pelarasan kecerahan linear. Laraskan mengikut citarasa sendiri "
-"atau untuk melihat dalam gelap."
