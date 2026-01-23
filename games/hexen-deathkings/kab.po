@@ -2,13 +2,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-01-23 19:05+0000\n"
+"Last-Translator: ButterflyOfFire <boffire@users.noreply.hosted.weblate.org>\n"
+"Language-Team: Kabyle <https://hosted.weblate.org/projects/doom-engine-games/"
+"hexen-deathkings/kab/>\n"
 "Language: kab\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.16-dev\n"
 
 msgid "TXT_HEXDD_MAP41"
 msgstr ""
@@ -242,7 +245,7 @@ msgstr ""
 
 # script texts
 msgid "TXT_ACS_MAP51_14_DOYOU"
-msgstr ""
+msgstr "Tenwiḍ-as tesɛiḍ zzheṛ?"
 
 # script texts
 msgid "TXT_ACS_MAP51_15_YOUGU"
@@ -294,27 +297,27 @@ msgstr ""
 
 # script texts
 msgid "TXT_ACS_MAP52_10_THEWA"
-msgstr ""
+msgstr "Yeldi ubrid"
 
 # script texts
 msgid "TXT_ACS_MAP53_2_YOUHA"
-msgstr ""
+msgstr "Tesɛiḍ "
 
 # script texts
 msgid "TXT_ACS_MAP53_3_SWITC"
-msgstr ""
+msgstr "\\x20n tqeffalin ara d-tafeḍ"
 
 # script texts
 msgid "TXT_ACS_MAP53_4_YOUHA"
-msgstr ""
+msgstr "Ɣur-k ala "
 
 # script texts
 msgid "TXT_ACS_MAP53_5_SWITC"
-msgstr ""
+msgstr "\\x20n tqeffalt ara d-tafeḍ"
 
 # script texts
 msgid "TXT_ACS_MAP53_6_THEEX"
-msgstr ""
+msgstr "Teldi tuffɣa"
 
 # script texts
 msgid "TXT_ACS_MAP54_1_THEDO"
@@ -322,7 +325,7 @@ msgstr ""
 
 # script texts
 msgid "TXT_ACS_MAP54_4_THEDO"
-msgstr ""
+msgstr "Ldint tewwura..."
 
 # script texts
 msgid "TXT_ACS_MAP54_5_IFYOU"
@@ -330,7 +333,7 @@ msgstr ""
 
 # script texts
 msgid "TXT_ACS_MAP54_9_ADOOR"
-msgstr ""
+msgstr "Teldi-d tewwurt"
 
 # script texts
 msgid "TXT_ACS_MAP54_10_ONTHE"
@@ -390,7 +393,7 @@ msgstr ""
 
 # script texts
 msgid "TXT_ACS_MAP59_1_YOUHA"
-msgstr ""
+msgstr "Tesɛiḍ "
 
 # script texts
 msgid "TXT_ACS_MAP59_2_MORES"
@@ -410,4 +413,4 @@ msgstr ""
 
 # script texts
 msgid "TXT_ACS_MAP60_3_THEWA"
-msgstr ""
+msgstr "Yeldi ubrid"
