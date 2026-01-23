@@ -133,6 +133,12 @@ msgstr "Miscellaneous Options"
 msgid "OPTMNU_SOUND"
 msgstr "Sound Options"
 
+msgid "ACCMNU_TITLE"
+msgstr "Accessibility Options"
+
+msgid "ACCMNU_RESET"
+msgstr "Reset Accessibility Options"
+
 msgid "OPTMNU_DISPLAY"
 msgstr "Display Options"
 
