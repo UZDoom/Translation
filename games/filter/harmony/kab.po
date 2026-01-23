@@ -2,13 +2,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-01-23 19:05+0000\n"
+"Last-Translator: ButterflyOfFire <boffire@users.noreply.hosted.weblate.org>\n"
+"Language-Team: Kabyle <https://hosted.weblate.org/projects/doom-engine-games/"
+"harmony-filter/kab/>\n"
 "Language: kab\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.16-dev\n"
 
 msgid "NIGHTMARE"
 msgstr ""
@@ -71,7 +74,7 @@ msgid "GOTMEDINEED"
 msgstr ""
 
 msgid "GOTMAP"
-msgstr ""
+msgstr "Takarḍa"
 
 msgid "GOTCLIPBOX"
 msgstr ""
@@ -160,22 +163,22 @@ msgid "WI_ENTERING"
 msgstr ""
 
 msgid "SKILL_BABY"
-msgstr ""
+msgstr "Asehlan am aman"
 
 msgid "SKILL_EASY"
-msgstr ""
+msgstr "Asehlan"
 
 msgid "SKILL_NORMAL"
 msgstr ""
 
 msgid "SKILL_HARD"
-msgstr ""
+msgstr "Aweɛṛan"
 
 msgid "SKILL_NIGHTMARE"
 msgstr ""
 
 msgid "HARMQUITMSG"
-msgstr ""
+msgstr "Tanemmirt imi turareḍ"
 
 msgid "TXT_D2E1"
 msgstr ""
