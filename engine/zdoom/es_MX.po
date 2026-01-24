@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-01-18 09:01+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-01-24 23:01+0000\n"
+"Last-Translator: Ret Neychozken <retneychozken@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/es_MX/>\n"
 "Language: es_MX\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15.2\n"
+"X-Generator: Weblate 5.16-dev\n"
 "HeaderCode: esm esn esg esc esa esd esv eso esr ess esf esl esy esz esb ese "
 "esh esi esu\n"
 
@@ -210,27 +210,33 @@ msgstr ""
 
 msgid "QUITMSG27"
 msgstr ""
+"¡No te salgas!\n"
+"¡Necesitamos tu ayuda!"
 
 msgid "QUITMSG28"
 msgstr ""
+"¡No abandones la Federación\n"
+"Intergaláctica de Cereales!"
 
 msgid "QUITMSG29"
 msgstr ""
+"¡El verdadero Guerrero Chex(R)\n"
+"no se rendiría tan rápido!"
 
 msgid "TXT_DEFAULTPICKUPMSG"
 msgstr ""
 
 msgid "PD_ANY"
-msgstr ""
+msgstr "Cualquiera llave abrirá esta puerta"
 
 msgid "PD_ANYOBJ"
-msgstr ""
+msgstr "Cualquiera llave activará este objeto"
 
 msgid "PD_ALL3"
-msgstr ""
+msgstr "Necesitas las tres llaves para abrir esta puerta"
 
 msgid "PD_ALL3O"
-msgstr ""
+msgstr "Necesitas las tres llaves para activar este objeto"
 
 msgid "PD_ALL6"
 msgstr ""
