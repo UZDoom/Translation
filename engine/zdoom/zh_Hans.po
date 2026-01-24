@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-01-24 04:01+0000\n"
+"PO-Revision-Date: 2026-01-24 07:59+0000\n"
 "Last-Translator: yhmtxt <yhmtxt@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
@@ -87,7 +87,7 @@ msgstr "你真的确定要退出吗？"
 
 msgctxt "heretic"
 msgid "SWSTRING"
-msgstr "仅在已激活的游戏版本提供"
+msgstr "仅在已激活的游戏版本可用"
 
 msgid "DOSY"
 msgstr "（按下Y键退出）"
@@ -3237,7 +3237,7 @@ msgid "CMPTMNU_ACTORBEHAVIOR"
 msgstr "角色行为"
 
 msgid "CMPTMNU_NOBLOCKFRIENDS"
-msgstr "友军怪物不会被阻挡"
+msgstr "友方怪物不会被阻挡"
 
 msgid "CMPTMNU_LIMITPAIN"
 msgstr "限制痛苦元素招出的丧魂数量"
@@ -3930,10 +3930,10 @@ msgid "HUDMNU_GROWCROSSHAIR"
 msgstr "拾取物品时准星放大"
 
 msgid "HUDMNU_NAMETAGS"
-msgstr "显示名字标签"
+msgstr "显示名称标签"
 
 msgid "HUDMNU_NAMETAGCOLOR"
-msgstr "名字标签颜色"
+msgstr "名称标签颜色"
 
 msgid "HUDMNU_OLDOUCH"
 msgstr "使用旧的头像方式"
@@ -4267,19 +4267,19 @@ msgid "OPTVAL_INTEGRATED"
 msgstr "节能"
 
 msgid "OPTVAL_VANILLA"
-msgstr "原始版"
+msgstr "原版"
 
 msgid "OPTVAL_VTFZDOOM"
 msgstr "ZDoom(强制)"
 
 msgid "OPTVAL_VTFVANILLA"
-msgstr "原始版(强制)"
+msgstr "原版(强制)"
 
 msgid "OPTVAL_VTAZDOOM"
 msgstr "自动(ZDoom优先)"
 
 msgid "OPTVAL_VTAVANILLA"
-msgstr "自动(原始版优先)"
+msgstr "自动(原版优先)"
 
 msgid "OPTVAL_SMALL"
 msgstr "小"
@@ -4610,7 +4610,7 @@ msgid "TCMNU_MAGFILTER"
 msgstr "放大时用线性过滤"
 
 msgid "TCMNU_MIPMAP"
-msgstr "使用mip映射纹理"
+msgstr "使用mipmap纹理"
 
 msgid "TCMNU_DYNLIGHTS"
 msgstr "动态光源(软件)"
@@ -4697,7 +4697,7 @@ msgid "TXT_SPPLAYERDEAD"
 msgstr "玩家在单人模式下死亡"
 
 msgid "TXT_SAVEFAILED"
-msgstr "存档失败"
+msgstr "保存失败"
 
 msgid "TXT_SCREENSHOTERR"
 msgstr "无法创建截屏。"
@@ -5076,7 +5076,7 @@ msgid "NETMNU_READYPERCENT"
 msgstr "投票跳过的百分比"
 
 msgid "NETMNU_READYCOUNTDOWN"
-msgstr "投屏倒计时(秒)"
+msgstr "投票倒计时(秒)"
 
 # Forces a cool down between chat messages for all players when playing
 # online.
