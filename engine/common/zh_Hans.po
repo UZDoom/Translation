@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-01-23 23:01+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-01-24 04:01+0000\n"
+"Last-Translator: dwing <12104745@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/common/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -818,7 +818,7 @@ msgid "SNDMNU_ADVANCED"
 msgstr "高级选项"
 
 msgid "SNDMNU_MODREPLAYER"
-msgstr "MOD播放选项"
+msgstr "Module播放选项"
 
 msgid "SNDMNU_MIDIPLAYER"
 msgstr "MIDI播放选项"
@@ -2138,3 +2138,6 @@ msgstr "发布说明"
 
 msgid "ACCMNU_TITLE"
 msgstr "辅助选项"
+
+msgid "ACCMNU_RESET"
+msgstr "重置辅助选项"
