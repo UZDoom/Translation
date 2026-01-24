@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-01-15 04:01+0000\n"
+"PO-Revision-Date: 2026-01-24 23:01+0000\n"
 "Last-Translator: Ret Neychozken <retneychozken@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/"
 "common/es_MX/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15.2\n"
+"X-Generator: Weblate 5.16-dev\n"
 "HeaderCode: esm esn esg esc esa esd esv eso esr ess esf esl esy esz esb ese "
 "esh esi esu\n"
 
@@ -165,19 +165,19 @@ msgid "CNTRLMNU_SWITCHTEXT2"
 msgstr ""
 
 msgid "CNTRLMNU_CONTROLS"
-msgstr ""
+msgstr "Controles"
 
 msgid "CNTRLMNU_ATTACK"
-msgstr ""
+msgstr "Atacar"
 
 msgid "CNTRLMNU_ALTATTACK"
-msgstr ""
+msgstr "Ataque secundario"
 
 msgid "CNTRLMNU_RELOAD"
-msgstr ""
+msgstr "Recargar"
 
 msgid "CNTRLMNU_USE"
-msgstr ""
+msgstr "Usar / Abrir"
 
 msgid "CNTRLMNU_FORWARD"
 msgstr ""
@@ -201,10 +201,10 @@ msgid "CNTRLMNU_TURN180"
 msgstr ""
 
 msgid "CNTRLMNU_JUMP"
-msgstr ""
+msgstr "Saltar"
 
 msgid "CNTRLMNU_CROUCH"
-msgstr ""
+msgstr "Agacharse"
 
 msgid "CNTRLMNU_TOGGLECROUCH"
 msgstr ""
@@ -214,16 +214,16 @@ msgstr ""
 
 # Look doesn't change the aim! It only alters the view pitch
 msgid "CNTRLMNU_LOOKUP"
-msgstr ""
+msgstr "Mirar arriba"
 
 msgid "CNTRLMNU_LOOKDOWN"
-msgstr ""
+msgstr "Mirar abajo"
 
 msgid "CNTRLMNU_CENTERVIEW"
-msgstr ""
+msgstr "Centrar vista"
 
 msgid "CNTRLMNU_RUN"
-msgstr ""
+msgstr "Correr"
 
 msgid "CNTRLMNU_TOGGLERUN"
 msgstr ""
@@ -241,13 +241,13 @@ msgid "CNTRLMNU_ACTION_TITLE"
 msgstr ""
 
 msgid "CNTRLMNU_CHAT"
-msgstr ""
+msgstr "Hablar"
 
 msgid "MNU_MULTIPLAYER"
-msgstr ""
+msgstr "Multijugador"
 
 msgid "CNTRLMNU_SAY"
-msgstr ""
+msgstr "Decir"
 
 msgid "CNTRLMNU_CHAT_TITLE"
 msgstr ""
@@ -262,68 +262,68 @@ msgid "CNTRLMNU_OTHER_TITLE"
 msgstr ""
 
 msgid "CNTRLMNU_WEAPONS"
-msgstr ""
+msgstr "Armas"
 
 msgid "CNTRLMNU_NEXTWEAPON"
-msgstr ""
+msgstr "Arma siguiente"
 
 msgid "CNTRLMNU_PREVIOUSWEAPON"
-msgstr ""
+msgstr "Arma anterior"
 
 # Todo - make game specific
 msgid "CNTRLMNU_SLOT1"
-msgstr ""
+msgstr "Arma 1"
 
 # only show appropriate slots per game
 # 
 msgid "CNTRLMNU_SLOT2"
-msgstr ""
+msgstr "Arma 2"
 
 msgid "CNTRLMNU_SLOT3"
-msgstr ""
+msgstr "Arma 3"
 
 msgid "CNTRLMNU_SLOT4"
-msgstr ""
+msgstr "Arma 4"
 
 msgid "CNTRLMNU_SLOT5"
-msgstr ""
+msgstr "Arma 5"
 
 msgid "CNTRLMNU_SLOT6"
-msgstr ""
+msgstr "Arma 6"
 
 msgid "CNTRLMNU_SLOT7"
-msgstr ""
+msgstr "Arma 7"
 
 msgid "CNTRLMNU_SLOT8"
-msgstr ""
+msgstr "Arma 8"
 
 msgid "CNTRLMNU_SLOT9"
-msgstr ""
+msgstr "Arma 9"
 
 msgid "CNTRLMNU_SLOT0"
-msgstr ""
+msgstr "Arma 10"
 
 msgid "CNTRLMNU_INVENTORY"
-msgstr ""
+msgstr "Inventario"
 
 msgid "CNTRLMNU_USEITEM"
-msgstr ""
+msgstr "Activar objeto"
 
 msgid "CNTRLMNU_USEALLITEMS"
-msgstr ""
+msgstr "Activar todos los objetos"
 
 msgid "CNTRLMNU_NEXTITEM"
-msgstr ""
+msgstr "Objeto siguiente"
 
 msgid "CNTRLMNU_PREVIOUSITEM"
-msgstr ""
+msgstr "Objeto anterior"
 
 # most are not used yet but will be
 msgid "MAPCNTRLMNU_TITLE"
 msgstr ""
 
 msgid "MAPCNTRLMNU_CONTROLS"
-msgstr ""
+msgstr "Controles del Mapa"
 
 msgid "MAPCNTRLMNU_PANLEFT"
 msgstr ""
@@ -338,10 +338,10 @@ msgid "MAPCNTRLMNU_PANDOWN"
 msgstr ""
 
 msgid "MAPCNTRLMNU_ZOOMIN"
-msgstr ""
+msgstr "Acercar"
 
 msgid "MAPCNTRLMNU_ZOOMOUT"
-msgstr ""
+msgstr "Alejar"
 
 msgid "MAPCNTRLMNU_TOGGLEZOOM"
 msgstr ""
@@ -365,13 +365,13 @@ msgid "CNTRLMNU_CHASECAM"
 msgstr ""
 
 msgid "CNTRLMNU_SCREENSHOT"
-msgstr ""
+msgstr "Capturar pantalla"
 
 msgid "CNTRLMNU_CONSOLE"
-msgstr ""
+msgstr "Abrir consola"
 
 msgid "CNTRLMNU_PAUSE"
-msgstr ""
+msgstr "Pausar"
 
 msgid "CNTRLMNU_DISPLAY_INC"
 msgstr ""
@@ -395,13 +395,13 @@ msgid "CNTRLMNU_OPEN_DISPLAY"
 msgstr ""
 
 msgid "CNTRLMNU_QUICKSAVE"
-msgstr ""
+msgstr "Guardar Rápido"
 
 msgid "CNTRLMNU_QUICKLOAD"
-msgstr ""
+msgstr "Cargar Rápido"
 
 msgid "CNTRLMNU_EXIT_TO_MAIN"
-msgstr ""
+msgstr "Salir al Menu Principal"
 
 msgid "CNTRLMNU_TOGGLE_MESSAGES"
 msgstr ""
@@ -422,13 +422,13 @@ msgid "MOUSEMNU_SHOWBACKBUTTON"
 msgstr ""
 
 msgid "MOUSEMNU_CURSOR"
-msgstr ""
+msgstr "Cursor"
 
 msgid "MOUSEMNU_SENSITIVITY_X"
-msgstr ""
+msgstr "Sensibilidad Horizontal"
 
 msgid "MOUSEMNU_SENSITIVITY_Y"
-msgstr ""
+msgstr "Sensibilidad Vertical"
 
 msgid "MOUSEMNU_SMOOTHMOUSE"
 msgstr ""
