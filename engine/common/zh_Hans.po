@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-01-24 07:59+0000\n"
+"PO-Revision-Date: 2026-01-24 14:01+0000\n"
 "Last-Translator: yhmtxt <yhmtxt@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/common/zh_Hans/>\n"
@@ -818,7 +818,7 @@ msgid "SNDMNU_ADVANCED"
 msgstr "高级选项"
 
 msgid "SNDMNU_MODREPLAYER"
-msgstr "模块播放选项"
+msgstr "模块播放器选项"
 
 msgid "SNDMNU_MIDIPLAYER"
 msgstr "MIDI播放选项"
@@ -2006,7 +2006,7 @@ msgstr "记住参数"
 
 # For stuff like id24.
 msgid "PICKER_SUPPORTWADS"
-msgstr "加载支持的WADs"
+msgstr "加载支持的WAD"
 
 msgid "PICKER_TAB_MULTI"
 msgstr "多人游戏"
