@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-01-24 04:01+0000\n"
-"Last-Translator: dwing <12104745@qq.com>\n"
+"PO-Revision-Date: 2026-01-24 07:59+0000\n"
+"Last-Translator: yhmtxt <yhmtxt@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/common/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -77,10 +77,10 @@ msgid "SAVECOMMENT_TIME"
 msgstr "时间"
 
 msgid "MNU_LOADGAME"
-msgstr "加载存档"
+msgstr "加载游戏"
 
 msgid "MNU_SAVEGAME"
-msgstr "保存存档"
+msgstr "保存游戏"
 
 msgid "MNU_NOPICTURE"
 msgstr "无图像"
@@ -818,7 +818,7 @@ msgid "SNDMNU_ADVANCED"
 msgstr "高级选项"
 
 msgid "SNDMNU_MODREPLAYER"
-msgstr "Module播放选项"
+msgstr "模块播放选项"
 
 msgid "SNDMNU_MIDIPLAYER"
 msgstr "MIDI播放选项"
@@ -1282,10 +1282,10 @@ msgid "GLTEXMNU_ANISOTROPIC"
 msgstr "各项异性过滤"
 
 msgid "OPTVAL_NONENEARESTMIPMAP"
-msgstr "无(mip映射使用最邻近)"
+msgstr "无(最近mipmap)"
 
 msgid "OPTVAL_NONELINEARMIPMAP"
-msgstr "无(mip映射使用双线性)"
+msgstr "无(线性mipmap)"
 
 msgid "OPTVAL_NONETRILINEAR"
 msgstr "无(三线性)"
@@ -1535,7 +1535,7 @@ msgid "REVMNU_SELECT"
 msgstr "选择环境"
 
 msgid "REVMNU_TEST"
-msgstr "测试回声"
+msgstr "测试环境"
 
 msgid "REVMNU_EDIT"
 msgstr "编辑环境"
