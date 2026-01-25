@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-01-24 07:59+0000\n"
+"PO-Revision-Date: 2026-01-25 07:01+0000\n"
 "Last-Translator: yhmtxt <yhmtxt@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
@@ -3699,10 +3699,10 @@ msgid "SCRBRDMNU_TEAMDEATHMATCH"
 msgstr "团队死斗选项"
 
 msgid "ALTHUDMNU_TITLE"
-msgstr "替换HUD"
+msgstr "可替换式HUD"
 
 msgid "ALTHUDMNU_ENABLE"
-msgstr "启用替换HUD"
+msgstr "启用可替换式HUD"
 
 msgid "ALTHUDMNU_SHOWSECRETS"
 msgstr "显示秘密计数"
@@ -3762,7 +3762,7 @@ msgid "ALTHUDMNU_ARMORGREEN"
 msgstr "护甲在多少以下时显示成绿色"
 
 msgid "ALTHUDMNU_AUTOMAPHUD"
-msgstr "替换地图HUD"
+msgstr "可替换式地图HUD"
 
 msgid "ALTHUDMNU_TITLECOLOR"
 msgstr "地图标题颜色"
@@ -3897,7 +3897,7 @@ msgid "SCALEMNU_HUD"
 msgstr "全屏HUD"
 
 msgid "SCALEMNU_ALTHUD"
-msgstr "替换HUD"
+msgstr "可替换式HUD"
 
 msgid "SCALEMNU_HUDASPECT"
 msgstr "HUD保持纵横比"
@@ -3915,7 +3915,7 @@ msgid "HUDMNU_TITLE"
 msgstr "HUD选项"
 
 msgid "HUDMNU_ALTHUD"
-msgstr "替换HUD"
+msgstr "可替换式HUD"
 
 msgid "HUDMNU_MESSAGE"
 msgstr "消息选项"
