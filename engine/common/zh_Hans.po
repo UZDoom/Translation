@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-01-24 14:01+0000\n"
+"PO-Revision-Date: 2026-01-25 07:01+0000\n"
 "Last-Translator: yhmtxt <yhmtxt@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/common/zh_Hans/>\n"
@@ -1861,10 +1861,10 @@ msgid "REQUIRED_CHARACTERS"
 msgstr ""
 
 msgid "OPTMNU_FULLOPTIONS"
-msgstr "菜单列出完整选项"
+msgstr "完整选项菜单"
 
 msgid "OPTMNU_SIMPLEON"
-msgstr "菜单列出简要选项"
+msgstr "简要选项菜单"
 
 msgid "OPTMNU_OPENCONFIG"
 msgstr "浏览游戏配置"
@@ -2064,7 +2064,7 @@ msgid "PICKER_TEAM"
 msgstr "团队#："
 
 msgid "PICKER_ALTDM"
-msgstr "使用替换的死斗规则"
+msgstr "使用替代死斗规则"
 
 msgid "PICKER_PLAYERS"
 msgstr "最多玩家："
