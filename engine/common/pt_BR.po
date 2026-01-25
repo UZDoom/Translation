@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-01-23 23:01+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-01-25 03:01+0000\n"
+"Last-Translator: Lucas Fortes basilio <lucas11fortes@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "uzdoom/common/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -2121,10 +2121,43 @@ msgid "JOYMNU_TURNSPEED"
 msgstr ""
 
 msgid "JOYMNU_LOOKSPEED"
-msgstr ""
+msgstr "Sensibilidade do o­lhar­­­­­"
 
 msgid "JOYMNU_ANALOGSTRAFERUN"
-msgstr ""
+msgstr "Corrida com strafe analógico"
 
 msgid "ACCMNU_TITLE"
 msgstr "Opções de Acessibilidade"
+
+msgid "ACCMNU_RESET"
+msgstr "Redefinir opções de acessibilidade"
+
+msgid "NOTES_FAIL"
+msgstr "Não foi possível analisar as notas de lançamento"
+
+msgid "NOTES_VERSION"
+msgstr "Versão"
+
+msgid "NOTES_UNKNOWN"
+msgstr "Desconhecido"
+
+msgid "NOTES_RELEASED"
+msgstr "lançado"
+
+msgid "NOTES_EMPTY"
+msgstr "Nenhuma descrição fornecida."
+
+msgid "NOTES_DETAILS"
+msgstr "Para mais detalhes veja:"
+
+msgid "PICKER_SHOWTHIS"
+msgstr "Mostrar esta página após atualizações"
+
+msgid "PICKER_SHOWNOTES"
+msgstr "Mostrar notas da versão"
+
+msgid "PICKER_TAB_ABOUT"
+msgstr "Sobre"
+
+msgid "PICKER_TAB_RELEASE"
+msgstr "Notas da versão"
