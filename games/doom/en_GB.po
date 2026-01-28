@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-01-27 15:01+0000\n"
-"Last-Translator: Andi Chandler <andi@gowling.com>\n"
+"PO-Revision-Date: 2026-01-28 11:15+0000\n"
+"Last-Translator: babafun <babafun@users.noreply.hosted.weblate.org>\n"
 "Language-Team: English (United Kingdom) <https://hosted.weblate.org/projects/"
 "doom-engine-games/doom/en_GB/>\n"
 "Language: en_GB\n"
@@ -66,3 +66,36 @@ msgstr "E1M5: Phobos Lab"
 
 msgid "HUSTR_E1M6"
 msgstr "E1M6: Central Processing"
+
+msgid "HUSTR_E1M7"
+msgstr "E1M7: Computer Station"
+
+msgid "HUSTR_E1M8"
+msgstr "E1M8: Phobos Anomaly"
+
+msgid "HUSTR_E1M9"
+msgstr "E1M9: Military Base"
+
+msgid "HUSTR_E1M10"
+msgstr "E1M10: Sewers"
+
+msgid "HUSTR_E2M1"
+msgstr "E2M1: Deimos Anomaly"
+
+msgid "HUSTR_E2M2"
+msgstr "E2M2: Containment Area"
+
+msgid "HUSTR_E2M3"
+msgstr "E2M3: Refinery"
+
+msgid "HUSTR_E2M4"
+msgstr "E2M4: Deimos Lab"
+
+msgid "HUSTR_E2M6"
+msgstr "E2M6: Halls of the Damned"
+
+msgid "HUSTR_E2M7"
+msgstr "E2M7: Spawning Vats"
+
+msgid "HUSTR_E2M8"
+msgstr "E2M8: Tower of Babel"
