@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-01-25 23:01+0000\n"
+"PO-Revision-Date: 2026-01-31 22:45+0000\n"
 "Last-Translator: yhmtxt <yhmtxt@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
@@ -2687,14 +2687,17 @@ msgstr "大型Zorcher"
 msgid "TAG_SUPERLARGEZORCHER"
 msgstr "超大Zorcher"
 
+#, fuzzy
 msgid "TAG_RAPIDZORCHER"
-msgstr ""
+msgstr "速射Zorcher"
 
+#, fuzzy
 msgid "TAG_ZORCHPROPULSOR"
-msgstr ""
+msgstr "Zorch推进器"
 
+#, fuzzy
 msgid "TAG_PHASINGZORCHER"
-msgstr ""
+msgstr "相位Zorcher"
 
 msgid "TAG_LAZDEVICE"
 msgstr "LAZ装置"
@@ -2712,19 +2715,20 @@ msgid "OB_CYCLOPTIS"
 msgstr "%o 被一只独眼巨人粘住了。"
 
 msgid "OB_FLEMBRANE"
-msgstr ""
+msgstr "%o被黏液膜击败了。"
 
 msgid "OB_MPSPOON"
 msgstr ""
 
 msgid "OB_MPBOOTSPORK"
-msgstr ""
+msgstr "%o被%k的靴叉勺充分混合了。"
 
 msgid "OB_MPZORCH"
 msgstr ""
 
+#, fuzzy
 msgid "OB_MPMEGAZORCH"
-msgstr ""
+msgstr "%o被%k的mega-zorcher击中了。"
 
 msgid "OB_MPRAPIDZORCH"
 msgstr ""
@@ -2732,8 +2736,9 @@ msgstr ""
 msgid "OB_MPPROPULSOR"
 msgstr ""
 
+#, fuzzy
 msgid "OB_MPP_SPLASH"
-msgstr ""
+msgstr "%o被%k的推进器击中了。"
 
 msgid "OB_MPPHASEZORCH"
 msgstr ""
@@ -2874,20 +2879,22 @@ msgstr "……吃奇克斯(R)！"
 #, fuzzy
 msgctxt "chex"
 msgid "AMMO_CLIP"
-msgstr "迷你Zorch Charge"
+msgstr "迷你Zorch充能"
 
 #, fuzzy
 msgctxt "chex"
 msgid "AMMO_SHELLS"
-msgstr "大型Zorcher Charge"
+msgstr "大型Zorcher充能"
 
+#, fuzzy
 msgctxt "chex"
 msgid "AMMO_ROCKETS"
-msgstr ""
+msgstr "推进器充能"
 
+#, fuzzy
 msgctxt "chex"
 msgid "AMMO_CELLS"
-msgstr ""
+msgstr "相位Zorcher充能"
 
 msgid "MNU_NEWGAME"
 msgstr "新游戏"
@@ -5197,7 +5204,7 @@ msgid "TAG_BREAKFAST"
 msgstr "超级充能早餐"
 
 msgid "TAG_REPELLENT"
-msgstr ""
+msgstr "黏液防护剂"
 
 msgid "TAG_CHEXARMOR"
 msgstr "奇克斯护甲"
