@@ -51,7 +51,7 @@ msgstr ""
 "\n"
 "Press Y or N."
 
-# This is a gender sensitive messages where %s represents the player
+# This is a gender sensitive message where %s represents the player
 msgid "TXT_X_CHEATS"
 msgstr "%s cheats"
 
@@ -408,7 +408,7 @@ msgstr "Quickload"
 msgid "CNTRLMNU_EXIT_TO_MAIN"
 msgstr "Exit to Main Menu"
 
-msgid "CNTRLMNU_TOGGLE_S"
+msgid "CNTRLMNU_TOGGLE_MESSAGES"
 msgstr "Toggle Messages"
 
 msgid "CNTRLMNU_MENU_QUIT"
@@ -673,7 +673,7 @@ msgstr "Scale crosshair"
 msgid "DSPLYMNU_SBSCALE"
 msgstr "Status Bar Scale"
 
-msgid "DSPLYMNU_S"
+msgid "DSPLYMNU_MESSAGES"
 msgstr "Messages"
 
 msgid "MSGMNU_CENTERMESSAGES"
