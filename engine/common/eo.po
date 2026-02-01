@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-29 00:00+0000\n"
+"PO-Revision-Date: 2026-01-25 23:01+0000\n"
 "Last-Translator: Skyler Shirra <skyler.shirra@gmail.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/uzdoom/common/"
 "eo/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15.1\n"
+"X-Generator: Weblate 5.16-dev\n"
 "HeaderCode: eo\n"
 
 msgid "PRESSYN"
@@ -2135,3 +2135,9 @@ msgstr "Por pli da detaloj, vidu:"
 
 msgid "NOTES_FAIL"
 msgstr "Ne kapablas sintake analizi eldonajn notojn"
+
+msgid "ACCMNU_TITLE"
+msgstr "Alireblo-agordoj"
+
+msgid "ACCMNU_RESET"
+msgstr "Restarigi alireblo-agordojn"
