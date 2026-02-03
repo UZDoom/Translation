@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-01-27 16:02+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-02-03 23:55+0000\n"
+"Last-Translator: Ret Neychozken <retneychozken@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/es_MX/>\n"
 "Language: es_MX\n"
@@ -239,13 +239,13 @@ msgid "PD_ALL3O"
 msgstr "Necesitas las tres llaves para activar este objeto"
 
 msgid "PD_ALL6"
-msgstr ""
+msgstr "Necesitas todas las seis llaves para abrir esta puerta"
 
 msgid "PD_ALL6O"
-msgstr ""
+msgstr "Necesitas todas las seis llaves para activar este objeto"
 
 msgid "PD_ALLKEYS"
-msgstr ""
+msgstr "Necesitas todas las llaves"
 
 msgid "HUSTR_MSGU"
 msgstr ""
@@ -254,7 +254,7 @@ msgid "HUSTR_TALKTOSELF1"
 msgstr ""
 
 msgid "HUSTR_TALKTOSELF2"
-msgstr ""
+msgstr "¿Quién es?"
 
 msgid "HUSTR_TALKTOSELF3"
 msgstr ""
@@ -266,13 +266,13 @@ msgid "HUSTR_TALKTOSELF5"
 msgstr "Te volviste loc@[ao_esp]..."
 
 msgid "HUSTR_MESSAGESENT"
-msgstr ""
+msgstr "[Mensaje Enviado]"
 
 msgid "STSTR_MUS"
 msgstr ""
 
 msgid "STSTR_NOMUS"
-msgstr ""
+msgstr "Selección Imposible"
 
 msgid "STSTR_DQDON"
 msgstr ""
@@ -293,16 +293,16 @@ msgid "STSTR_FAADDED"
 msgstr ""
 
 msgid "STSTR_NCON"
-msgstr ""
+msgstr "Modo Noclip Activado"
 
 msgid "STSTR_NCOFF"
-msgstr ""
+msgstr "Modo Noclip Desactivado"
 
 msgid "STSTR_NC2ON"
-msgstr ""
+msgstr "Modo Noclip 2 Activado"
 
 msgid "STSTR_NC2OFF"
-msgstr ""
+msgstr "Modo Noclip 2 Desactivado"
 
 # “inVuln”: Invulnerability sphere
 # “Str”: Berserk
@@ -314,51 +314,51 @@ msgid "STSTR_BEHOLD"
 msgstr ""
 
 msgid "STSTR_BEHOLDX"
-msgstr ""
+msgstr "Power-up Activado"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
 msgid "STSTR_CHOPPERS"
-msgstr ""
+msgstr "... no apesta... - GM"
 
 msgid "STSTR_CLEV"
-msgstr ""
+msgstr "Cambiando de Nivel..."
 
 msgid "TXT_BUDDHAON"
-msgstr ""
+msgstr "Modo Buda Activado"
 
 msgid "TXT_BUDDHAOFF"
-msgstr ""
+msgstr "Modo Buda Desactivado"
 
 msgid "TXT_BUDDHA2ON"
-msgstr ""
+msgstr "Modo Buda Supremo Activado"
 
 msgid "TXT_BUDDHA2OFF"
-msgstr ""
+msgstr "Modo Buda Supremo Desactivado"
 
 msgid "TXT_CHEATPOWERON"
-msgstr ""
+msgstr "Poder activado"
 
 msgid "TXT_CHEATPOWEROFF"
-msgstr ""
+msgstr "Poder desactivado"
 
 msgid "TXT_CHEATHEALTH"
-msgstr ""
+msgstr "Salud Llena"
 
 msgid "TXT_CHEATKEYS"
-msgstr ""
+msgstr "Todas las llaves"
 
 msgid "TXT_CHEATSOUNDON"
-msgstr ""
+msgstr "Depuración de Sonido Activado"
 
 msgid "TXT_CHEATSOUNDOFF"
-msgstr ""
+msgstr "Depuración de Sonido Desactivado"
 
 msgid "TXT_CHEATIDDQD"
-msgstr ""
+msgstr "¿Intentando usar trucos? ¡Muere!"
 
 msgid "TXT_CHEATIDKFA"
-msgstr ""
+msgstr "Tramposo - no te mereces las armas"
 
 msgid "TXT_CHEATTICKERON"
 msgstr ""
@@ -367,16 +367,16 @@ msgid "TXT_CHEATTICKEROFF"
 msgstr ""
 
 msgid "TXT_CHEATARTIFACTS3"
-msgstr ""
+msgstr "Lo tienes"
 
 msgid "TXT_MIDASTOUCH"
-msgstr ""
+msgstr "Tienes el Toque de Midas, baby"
 
 msgid "TXT_GOTSTUFF"
-msgstr ""
+msgstr "¡Tienes las cosas!"
 
 msgid "TXT_FREEZEON"
-msgstr ""
+msgstr "Has detenido el tiempo"
 
 msgid "TXT_FREEZEOFF"
 msgstr ""
