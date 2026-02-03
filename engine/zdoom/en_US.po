@@ -5394,3 +5394,48 @@ msgstr "Contrast"
 
 msgid "DSPLYMNU_SATURATION"
 msgstr "Saturation"
+
+msgid "ACTION_COPYTOCLIPBOARD"
+msgstr "Copy to clipboard"
+
+msgid "ACTION_RESTART"
+msgstr "Restart"
+
+msgid "ACTION_ABORT"
+msgstr "Abort"
+
+msgid "ACTION_STARTGAME"
+msgstr "Start Game"
+
+msgid "ACTION_KICK"
+msgstr "Kick"
+
+msgid "ACTION_BAN"
+msgstr "Ban"
+
+msgid "ERRORMNU_SAVE"
+msgstr "Save Report"
+
+msgid "ERROR_FATAL"
+msgstr "Fatal Error"
+
+msgid "ERROR_ABORT"
+msgstr "Execution could not continue."
+
+msgid "FILEPICKER_ANY"
+msgstr "All Files"
+
+msgid "FILEPICKER_REPORTS"
+msgstr "Crash Report Zip Files"
+
+msgid "HAPMNU_TITLE"
+msgstr "Haptic Feedback Options"
+
+msgid "CMPTMNU_AUTO"
+msgstr "Auto-detect compatibility settings"
+
+msgid "DSPLYMNU_POWERUPFADE"
+msgstr "Powerup tint intensity"
+
+msgid "PICKER_PLAYERCLASS"
+msgstr "Player Class"
