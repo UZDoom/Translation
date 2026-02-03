@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-01-25 07:01+0000\n"
-"Last-Translator: yhmtxt <yhmtxt@163.com>\n"
+"PO-Revision-Date: 2026-02-02 04:01+0000\n"
+"Last-Translator: dwing <12104745@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/common/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -2141,3 +2141,9 @@ msgstr "辅助选项"
 
 msgid "ACCMNU_RESET"
 msgstr "重置辅助选项"
+
+msgid "MSGMNU_MESSAGEQUEUE"
+msgstr "消息队列大小"
+
+msgid "MSGMNU_STACKIDENTICAL"
+msgstr "堆叠重复消息"
