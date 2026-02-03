@@ -11,8 +11,6 @@ from pathlib import Path
 
 SOURCE_LANG = "en_US"
 
-errors=[]
-
 def dump_csv(destination, table):
 	"""Writes the matrix table to a CSV file at the specified destination."""
 
@@ -31,20 +29,26 @@ def fill_dict(path):
 	meta["id"] = po.metadata["HeaderCode"] if "HeaderCode" in po.metadata else po.metadata["Language"]
 	meta["valid"] = True
 
-	for entry in po:
-		if entry.msgid in data:
+	for e in po:
+		specific_id = e.msgid
+		entry = { "id": e.msgid }
+
+		if e.msgstr:
+			entry["string"] = e.msgstr
+		if e.tcomment:
+			entry["remarks"] = e.tcomment
+		if e.msgctxt:
+			entry["filter"] = e.msgctxt
+			specific_id = f"{specific_id}#{e.msgctxt}"
+
+		if specific_id in data:
 			if meta["valid"]:
 				print(f"in: {path}")
 			meta["valid"] = False
 			print(f"redefining: {entry.msgid}")
 			continue
-		data[entry.msgid] = {}
-		if entry.msgstr:
-			data[entry.msgid]["string"] = entry.msgstr
-		if entry.tcomment:
-			data[entry.msgid]["remarks"] = entry.tcomment
-		if entry.msgctxt:
-			data[entry.msgid]["filter"] = entry.msgctxt
+
+		data[specific_id] = entry
 
 	return { "data": data, "meta": meta }
 
@@ -106,7 +110,7 @@ def build_matrix(languages, po_files):
 			v = current["data"][k]
 			_matrix[k] = [
 				v["string"] if "string" in v else "",
-				k,
+				v["id"],
 				v["remarks"] if "remarks" in v else "",
 				v["filter"] if "filter" in v else ""
 			]
