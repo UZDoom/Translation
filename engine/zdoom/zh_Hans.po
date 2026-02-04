@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-01-31 22:45+0000\n"
-"Last-Translator: yhmtxt <yhmtxt@163.com>\n"
+"PO-Revision-Date: 2026-02-04 03:08+0000\n"
+"Last-Translator: dwing <12104745@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -5391,3 +5391,48 @@ msgstr "调整颜色的强度，使图像看起来更鲜艳或更柔和。根据
 
 msgid "DSPLYMNU_IMAGEADJUST_BOTTOM"
 msgstr "调整直到看起来像均匀的灰色。"
+
+msgid "CMPTMNU_AUTO"
+msgstr "自动检测兼容性设置"
+
+msgid "FILEPICKER_REPORTS"
+msgstr "崩溃报告Zip文件"
+
+msgid "FILEPICKER_ANY"
+msgstr "全部文件"
+
+msgid "ERROR_FATAL"
+msgstr "严重错误"
+
+msgid "ERRORMNU_SAVE"
+msgstr "保存报告"
+
+msgid "ACTION_BAN"
+msgstr "封禁"
+
+msgid "ACTION_STARTGAME"
+msgstr "开始游戏"
+
+msgid "ACTION_RESTART"
+msgstr "重启"
+
+msgid "ACTION_COPYTOCLIPBOARD"
+msgstr "复制到剪贴板"
+
+msgid "ACTION_ABORT"
+msgstr "中止"
+
+msgid "ACTION_KICK"
+msgstr "踢出"
+
+msgid "ERROR_ABORT"
+msgstr "无法继续执行。"
+
+msgid "HAPMNU_TITLE"
+msgstr "触觉反馈选项"
+
+msgid "DSPLYMNU_POWERUPFADE"
+msgstr "提升色调强度"
+
+msgid "PICKER_PLAYERCLASS"
+msgstr "玩家类别"
