@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-01-24 23:01+0000\n"
+"PO-Revision-Date: 2026-02-03 23:55+0000\n"
 "Last-Translator: Ret Neychozken <retneychozken@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/"
 "common/es_MX/>\n"
@@ -235,10 +235,10 @@ msgid "CNTRLMNU_SCOREBOARD"
 msgstr ""
 
 msgid "CNTRLMNU_ACTION"
-msgstr ""
+msgstr "Acción"
 
 msgid "CNTRLMNU_ACTION_TITLE"
-msgstr ""
+msgstr "Personalizar Controles de Acción"
 
 msgid "CNTRLMNU_CHAT"
 msgstr "Hablar"
@@ -250,16 +250,16 @@ msgid "CNTRLMNU_SAY"
 msgstr "Decir"
 
 msgid "CNTRLMNU_CHAT_TITLE"
-msgstr ""
+msgstr "Personalizar Controles del Chat"
 
 msgid "CNTRLMNU_WEAPONS_TITLE"
 msgstr ""
 
 msgid "CNTRLMNU_INVENTORY_TITLE"
-msgstr ""
+msgstr "Personalizar Controles del Inventario"
 
 msgid "CNTRLMNU_OTHER_TITLE"
-msgstr ""
+msgstr "Personalizar Otros Controles"
 
 msgid "CNTRLMNU_WEAPONS"
 msgstr "Armas"
