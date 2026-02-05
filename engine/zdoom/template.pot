@@ -2,16 +2,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-15 17:51+0000\n"
-"Last-Translator: Gaerzi <gaerzi@gmail.com>\n"
+"PO-Revision-Date: 2025-12-24 17:00+0000\n"
+"Last-Translator: Boondorl <boondorl0@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/uzdoom/zdoom-"
-"engine-strings/en/>\n"
-"Language: en\n"
+"engine-strings/en_US/>\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15-dev\n"
+"X-Generator: Weblate 5.15.1\n"
 
 msgid "PRESSKEY"
 msgstr ""
@@ -4724,9 +4724,6 @@ msgstr ""
 msgid "MISCMNU_SETSLOTSTRICT"
 msgstr ""
 
-msgid "MISCMNU_CLEANMENU\n"
-msgstr ""
-
 msgid "MISCMNU_WIPERCENT"
 msgstr ""
 
@@ -5179,4 +5176,172 @@ msgid "CNTRLMNU_COOPSPYCANCEL"
 msgstr ""
 
 msgid "OPTMNU_ACCESSIBILITY"
+msgstr ""
+
+msgid "JOYMNU_ANALOGRUN"
+msgstr ""
+
+msgid "ACCMNU_TOOLTIP_LINES"
+msgstr ""
+
+msgid "ACCMNU_TOOLTIP_SPEED"
+msgstr ""
+
+msgid "ACCMNU_TOOLTIP_DELAY"
+msgstr ""
+
+msgid "ACCMNU_TOOLTIP_ALPHA"
+msgstr ""
+
+msgid "ACCMNU_TOOLTIP_CAP"
+msgstr ""
+
+msgid "ACCMNU_TOOLTIP_SCALE"
+msgstr ""
+
+msgid "ACCMNU_TOOLTIP_EXAMPLE"
+msgstr ""
+"\n"
+"\n"
+"\n"
+
+msgid "ACCMNU_TOOLTIP"
+msgstr ""
+
+msgid "ACCMNU_LIGHT_EXTRA"
+msgstr ""
+
+msgid "ACCMNU_TOOLTIP_LIGHT_RADIUS"
+msgstr ""
+
+msgid "ACCMNU_TOOLTIP_LIGHT_EXTRA"
+msgstr ""
+
+msgid "ACCMNU_LIGHT_RADIUS"
+msgstr ""
+
+msgid "ACCMNU_LIGHT"
+msgstr ""
+
+msgid "DSPLYMNU_ROCKETEXPSTYLE"
+msgstr ""
+
+msgid "OPTVAL_ROCKETEXP_STYLE_ADD"
+msgstr ""
+
+msgid "OPTVAL_ROCKETEXP_STYLE_TRANS"
+msgstr ""
+
+msgid "OPTVAL_LAX"
+msgstr ""
+
+msgid "OPTVAL_STRICT"
+msgstr ""
+
+msgid "PICKER_FILELOADING"
+msgstr ""
+
+msgid "MISCMNU_CLEANMENU"
+msgstr ""
+
+msgid "DSPLYMNU_IMAGEADJUST"
+msgstr ""
+
+msgid "DSPLYMNU_IMAGEADJUST_TOP1"
+msgstr ""
+
+msgid "DSPLYMNU_IMAGEADJUST_TOP2"
+msgstr ""
+
+msgid "DSPLYMNU_IMAGEADJUST_TOP3"
+msgstr ""
+
+msgid "DSPLYMNU_TOOLTIP_GAMMA"
+msgstr ""
+
+msgid "DSPLYMNU_BLACKPOINT"
+msgstr ""
+
+msgid "DSPLYMNU_TOOLTIP_BLACKPOINT"
+msgstr ""
+
+msgid "DSPLYMNU_WHITEPOINT"
+msgstr ""
+
+msgid "DSPLYMNU_TOOLTIP_WHITEPOINT"
+msgstr ""
+
+msgid "OPTMNU_RESETALL"
+msgstr ""
+
+msgid "DSPLYMNU_TOOLTIP_IMAGEADJUST_RESET"
+msgstr ""
+
+msgid "DSPLYMNU_TOOLTIP_BRIGHTNESS"
+msgstr ""
+
+msgid "DSPLYMNU_TOOLTIP_CONTRAST"
+msgstr ""
+
+msgid "DSPLYMNU_TOOLTIP_SATURATION"
+msgstr ""
+
+msgid "DSPLYMNU_IMAGEADJUST_BOTTOM"
+msgstr ""
+
+msgid "DSPLYMNU_BRIGHTNESS"
+msgstr ""
+
+msgid "DSPLYMNU_GAMMA"
+msgstr ""
+
+msgid "DSPLYMNU_CONTRAST"
+msgstr ""
+
+msgid "DSPLYMNU_SATURATION"
+msgstr ""
+
+msgid "ACTION_COPYTOCLIPBOARD"
+msgstr ""
+
+msgid "ACTION_RESTART"
+msgstr ""
+
+msgid "ACTION_ABORT"
+msgstr ""
+
+msgid "ACTION_STARTGAME"
+msgstr ""
+
+msgid "ACTION_KICK"
+msgstr ""
+
+msgid "ACTION_BAN"
+msgstr ""
+
+msgid "ERRORMNU_SAVE"
+msgstr ""
+
+msgid "ERROR_FATAL"
+msgstr ""
+
+msgid "ERROR_ABORT"
+msgstr ""
+
+msgid "FILEPICKER_ANY"
+msgstr ""
+
+msgid "FILEPICKER_REPORTS"
+msgstr ""
+
+msgid "HAPMNU_TITLE"
+msgstr ""
+
+msgid "CMPTMNU_AUTO"
+msgstr ""
+
+msgid "DSPLYMNU_POWERUPFADE"
+msgstr ""
+
+msgid "PICKER_PLAYERCLASS"
 msgstr ""
