@@ -129,6 +129,12 @@ msgstr ""
 msgid "OPTMNU_SOUND"
 msgstr ""
 
+msgid "ACCMNU_TITLE"
+msgstr ""
+
+msgid "ACCMNU_RESET"
+msgstr ""
+
 msgid "OPTMNU_DISPLAY"
 msgstr ""
 
@@ -660,18 +666,6 @@ msgstr ""
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr ""
 
-msgid "DSPLYMNU_BRIGHTNESS"
-msgstr ""
-
-msgid "DSPLYMNU_GAMMA"
-msgstr ""
-
-msgid "DSPLYMNU_CONTRAST"
-msgstr ""
-
-msgid "DSPLYMNU_SATURATION"
-msgstr ""
-
 msgid "DSPLYMNU_SBSCALE"
 msgstr ""
 
@@ -679,6 +673,12 @@ msgid "DSPLYMNU_MESSAGES"
 msgstr ""
 
 msgid "MSGMNU_CENTERMESSAGES"
+msgstr ""
+
+msgid "MSGMNU_MESSAGEQUEUE"
+msgstr ""
+
+msgid "MSGMNU_STACKIDENTICAL"
 msgstr ""
 
 msgid "MSGMNU_PULSEMESSAGES"
