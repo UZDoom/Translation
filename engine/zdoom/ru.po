@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-01-08 02:01+0000\n"
-"Last-Translator: egoranuchin <Egoranuchin@gmail.com>\n"
+"PO-Revision-Date: 2026-02-07 17:36+0000\n"
+"Last-Translator: Hosted Weblate user 140328 <apophis@sapronym.net>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ru/>\n"
 "Language: ru\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.15.1\n"
+"X-Generator: Weblate 5.16-dev\n"
 "HeaderCode: ru\n"
 
 msgid "PRESSKEY"
@@ -4923,10 +4923,12 @@ msgid "GMPLYMNU_NOLOCALDROP"
 msgstr "Отключить подбирание выпавших предметов на стороне клиента"
 
 # Disables autoloading save on death
+#, fuzzy
 msgid "MISCMNU_RESTARTONDEATH"
 msgstr "Перезапуск уровня после смерти"
 
 # Resets inventory on every map
+#, fuzzy
 msgid "GMPLYMNU_PISTOLSTART"
 msgstr "Пистолет в начале"
 

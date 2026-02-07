@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-01-23 19:01+0000\n"
-"Last-Translator: \"Bon N. Martini\" <brunete1012@gmail.com>\n"
+"PO-Revision-Date: 2026-02-06 21:01+0000\n"
+"Last-Translator: Kaled Marrero <kaledmarrero9@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/uzdoom/common/"
 "es/>\n"
 "Language: es\n"
@@ -2109,3 +2109,6 @@ msgstr ""
 
 msgid "JOYMNU_ANALOGSTRAFERUN"
 msgstr ""
+
+msgid "ACCMNU_TITLE"
+msgstr "Opciones de Accesibilidad"

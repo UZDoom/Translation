@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-30 17:00+0000\n"
-"Last-Translator: Šimon Větrovec <commonissuedemon@gmail.com>\n"
+"PO-Revision-Date: 2026-02-07 17:36+0000\n"
+"Last-Translator: Hosted Weblate user 140328 <apophis@sapronym.net>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/cs/>\n"
 "Language: cs\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
-"X-Generator: Weblate 5.15.1\n"
+"X-Generator: Weblate 5.16-dev\n"
 "HeaderCode: cs\n"
 
 msgid "PRESSKEY"
@@ -4913,10 +4913,12 @@ msgid "GMPLYMNU_NOLOCALDROP"
 msgstr "Zakázat sbírání odhozených předmětů na straně klientů"
 
 # Disables autoloading save on death
+#, fuzzy
 msgid "MISCMNU_RESTARTONDEATH"
 msgstr "Restart po umření"
 
 # Resets inventory on every map
+#, fuzzy
 msgid "GMPLYMNU_PISTOLSTART"
 msgstr "Začít jen s pistolí"
 

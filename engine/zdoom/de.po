@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-30 06:58+0000\n"
-"Last-Translator: Artician <bachmeieraaron@gmail.com>\n"
+"PO-Revision-Date: 2026-02-07 17:36+0000\n"
+"Last-Translator: Hosted Weblate user 140328 <apophis@sapronym.net>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/de/>\n"
 "Language: de\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15.1\n"
+"X-Generator: Weblate 5.16-dev\n"
 "HeaderCode: de\n"
 
 msgid "PRESSKEY"
@@ -4921,10 +4921,12 @@ msgid "GMPLYMNU_NOLOCALDROP"
 msgstr "Client-seitiges Aufheben von fallengelassenen Gegenständen deaktivieren"
 
 # Disables autoloading save on death
+#, fuzzy
 msgid "MISCMNU_RESTARTONDEATH"
 msgstr "Level bei Tod neu starten"
 
 # Resets inventory on every map
+#, fuzzy
 msgid "GMPLYMNU_PISTOLSTART"
 msgstr "Pistolenstart"
 
