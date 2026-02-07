@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-01-27 16:02+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-02-07 17:36+0000\n"
+"Last-Translator: Hosted Weblate user 140328 <apophis@sapronym.net>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/es/>\n"
 "Language: es\n"
@@ -4927,10 +4927,12 @@ msgid "GMPLYMNU_NOLOCALDROP"
 msgstr ""
 
 # Disables autoloading save on death
+#, fuzzy
 msgid "MISCMNU_RESTARTONDEATH"
 msgstr "Reiniciar nivel al morir"
 
 # Resets inventory on every map
+#, fuzzy
 msgid "GMPLYMNU_PISTOLSTART"
 msgstr "Empezar niveles solo con la pistola"
 
