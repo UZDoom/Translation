@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-07 17:36+0000\n"
-"Last-Translator: Hosted Weblate user 140328 <apophis@sapronym.net>\n"
+"PO-Revision-Date: 2026-02-08 18:09+0000\n"
+"Last-Translator: yhmtxt <yhmtxt@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -4922,14 +4922,12 @@ msgid "GMPLYMNU_NOLOCALDROP"
 msgstr "禁用客户端侧拾取丢弃的物品"
 
 # Disables autoloading save on death
-#, fuzzy
 msgid "MISCMNU_RESTARTONDEATH"
-msgstr "死亡时重新开始关卡"
+msgstr "死亡时以手枪开局"
 
 # Resets inventory on every map
-#, fuzzy
 msgid "GMPLYMNU_PISTOLSTART"
-msgstr "以手枪开局"
+msgstr "每张地图以手枪开局"
 
 msgid "CMPTMNU_VOODOOZOMBIES"
 msgstr "允许创建僵尸玩家"
