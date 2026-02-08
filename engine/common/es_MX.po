@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-03 23:55+0000\n"
+"PO-Revision-Date: 2026-02-08 18:09+0000\n"
 "Last-Translator: Ret Neychozken <retneychozken@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/"
 "common/es_MX/>\n"
@@ -117,19 +117,19 @@ msgid "OPTMNU_JOYSTICK"
 msgstr "Opciones Del Mando"
 
 msgid "OPTMNU_PLAYER"
-msgstr ""
+msgstr "Configuración del Jugador"
 
 msgid "OPTMNU_GAMEPLAY"
 msgstr "Opciones de la Jugabilidad"
 
 msgid "OPTMNU_AUTOMAP"
-msgstr ""
+msgstr "Opciones del Mapa"
 
 msgid "OPTMNU_HUD"
 msgstr "Opciones del HUD"
 
 msgid "OPTMNU_MISCELLANEOUS"
-msgstr ""
+msgstr "Opciones Misceláneas"
 
 msgid "OPTMNU_SOUND"
 msgstr "Opciones De Sonido"
@@ -144,7 +144,7 @@ msgid "OPTMNU_DEFAULTS"
 msgstr "Reiniciar a valores predeterminados"
 
 msgid "OPTMNU_RESETTOSAVED"
-msgstr ""
+msgstr "Reiniciar al último guardado"
 
 msgid "OPTMNU_WRITEINI"
 msgstr "Guardar ajustes actuales"
@@ -162,7 +162,7 @@ msgid "CNTRLMNU_SWITCHTEXT1"
 msgstr "ENTER para cambiar, BACKSPACE para borrar"
 
 msgid "CNTRLMNU_SWITCHTEXT2"
-msgstr ""
+msgstr "Presiona una nueva tecla para asignar, ESC para cancelar"
 
 msgid "CNTRLMNU_CONTROLS"
 msgstr "Controles"
@@ -180,25 +180,25 @@ msgid "CNTRLMNU_USE"
 msgstr "Usar / Abrir"
 
 msgid "CNTRLMNU_FORWARD"
-msgstr ""
+msgstr "Avanzar"
 
 msgid "CNTRLMNU_BACK"
-msgstr ""
+msgstr "Retroceder"
 
 msgid "CNTRLMNU_MOVELEFT"
-msgstr ""
+msgstr "Moverse a la izquierda"
 
 msgid "CNTRLMNU_MOVERIGHT"
-msgstr ""
+msgstr "Moverse a la derecha"
 
 msgid "CNTRLMNU_TURNLEFT"
-msgstr ""
+msgstr "Girar a la izquierda"
 
 msgid "CNTRLMNU_TURNRIGHT"
-msgstr ""
+msgstr "Girar a la derecha"
 
 msgid "CNTRLMNU_TURN180"
-msgstr ""
+msgstr "Giro rápido"
 
 msgid "CNTRLMNU_JUMP"
 msgstr "Saltar"
@@ -207,10 +207,10 @@ msgid "CNTRLMNU_CROUCH"
 msgstr "Agacharse"
 
 msgid "CNTRLMNU_TOGGLECROUCH"
-msgstr ""
+msgstr "Alternar Agache"
 
 msgid "CNTRLMNU_MOUSELOOK"
-msgstr ""
+msgstr "Mira de ratón"
 
 # Look doesn't change the aim! It only alters the view pitch
 msgid "CNTRLMNU_LOOKUP"
@@ -229,10 +229,10 @@ msgid "CNTRLMNU_TOGGLERUN"
 msgstr ""
 
 msgid "CNTRLMNU_STRAFE"
-msgstr ""
+msgstr "Movimiento Lateral"
 
 msgid "CNTRLMNU_SCOREBOARD"
-msgstr ""
+msgstr "Mostrar Tabla de Puntaje"
 
 msgid "CNTRLMNU_ACTION"
 msgstr "Acción"
@@ -253,7 +253,7 @@ msgid "CNTRLMNU_CHAT_TITLE"
 msgstr "Personalizar Controles del Chat"
 
 msgid "CNTRLMNU_WEAPONS_TITLE"
-msgstr ""
+msgstr "Personalizar los Controles de Armas"
 
 msgid "CNTRLMNU_INVENTORY_TITLE"
 msgstr "Personalizar Controles del Inventario"
@@ -320,7 +320,7 @@ msgstr "Objeto anterior"
 
 # most are not used yet but will be
 msgid "MAPCNTRLMNU_TITLE"
-msgstr ""
+msgstr "Personalizar los Controles del Mapa"
 
 msgid "MAPCNTRLMNU_CONTROLS"
 msgstr "Controles del Mapa"
@@ -344,19 +344,19 @@ msgid "MAPCNTRLMNU_ZOOMOUT"
 msgstr "Alejar"
 
 msgid "MAPCNTRLMNU_TOGGLEZOOM"
-msgstr ""
+msgstr "Alternar zoom"
 
 msgid "MAPCNTRLMNU_TOGGLEFOLLOW"
 msgstr ""
 
 msgid "MAPCNTRLMNU_TOGGLEGRID"
-msgstr ""
+msgstr "Alternar cuadricula"
 
 msgid "MAPCNTRLMNU_ROTATE"
-msgstr ""
+msgstr "Alternar rotación"
 
 msgid "MAPCNTRLMNU_TOGGLETEXTURE"
-msgstr ""
+msgstr "Alternar textura"
 
 msgid "CNTRLMNU_AUTOMAP"
 msgstr ""
@@ -2106,3 +2106,9 @@ msgstr ""
 
 msgid "JOYMNU_ANALOGSTRAFERUN"
 msgstr ""
+
+msgid "ACCMNU_TITLE"
+msgstr "Opciones de Accesibilidad"
+
+msgid "ACCMNU_RESET"
+msgstr "Reiniciar Opciones de Accesibilidad"
