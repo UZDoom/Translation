@@ -5439,3 +5439,6 @@ msgstr "Powerup tint intensity"
 
 msgid "PICKER_PLAYERCLASS"
 msgstr "Player Class"
+
+msgid "OPTVAL_SBSLETTERBOX"
+msgstr "Side-by-side Letterboxed"
