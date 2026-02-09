@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-08 18:09+0000\n"
-"Last-Translator: yhmtxt <yhmtxt@163.com>\n"
+"PO-Revision-Date: 2026-02-09 10:09+0000\n"
+"Last-Translator: dwing <12104745@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -5436,3 +5436,6 @@ msgstr "提升色调强度"
 
 msgid "PICKER_PLAYERCLASS"
 msgstr "玩家类别"
+
+msgid "OPTVAL_SBSLETTERBOX"
+msgstr "并排信箱模式"
