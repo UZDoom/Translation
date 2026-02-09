@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-07 17:36+0000\n"
-"Last-Translator: Hosted Weblate user 140328 <apophis@sapronym.net>\n"
+"PO-Revision-Date: 2026-02-09 10:09+0000\n"
+"Last-Translator: Ron Dallas <Lot_bohdan@ukr.net>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/uk/>\n"
 "Language: uk\n"
@@ -5244,3 +5244,85 @@ msgstr "Контраст"
 
 msgid "DSPLYMNU_SATURATION"
 msgstr "Насиченість"
+
+msgid "ACCMNU_TOOLTIP_LINES"
+msgstr "Лінії підказок"
+
+msgid "ACCMNU_TOOLTIP_SPEED"
+msgstr "Швидкість прокрутки підказок"
+
+msgid "ACCMNU_TOOLTIP_DELAY"
+msgstr "Затримка прокрутки підказок"
+
+msgid "ACCMNU_TOOLTIP_ALPHA"
+msgstr "Прозорість фону підказок"
+
+msgid "ACCMNU_TOOLTIP_CAP"
+msgstr "Обмежити ширину підказок"
+
+msgid "ACCMNU_TOOLTIP_SCALE"
+msgstr "Великий розмір підказок"
+
+msgid "ACCMNU_TOOLTIP_EXAMPLE"
+msgstr ""
+"Це приклад підказки.\n"
+"Ось додатковий текст.\n"
+"…\n"
+"Ось дуже довгий рядок тексту, який, здається, просто триває безкінечно та не "
+"має нічого, щоб розповісти і, мабуть, він такий довгий лише тому, що "
+"розробникам важко пояснити, що робить той чи інший параметр."
+
+msgid "ACCMNU_TOOLTIP"
+msgstr "Підказки"
+
+msgid "ACCMNU_TOOLTIP_LIGHT_RADIUS"
+msgstr ""
+"Контролює радіус світла навколо гравця в одиницях карти. Більші значення "
+"роблять оточення яскравішим."
+
+msgid "ACCMNU_TOOLTIP_LIGHT_EXTRA"
+msgstr ""
+"Кількість секторного освітлення, яку потрібно додати до існуючих рівнів "
+"секторного освітлення, зберігаючи при цьому існуючий режим освітлення."
+
+msgid "ACCMNU_LIGHT_RADIUS"
+msgstr "Радіус світла від гравця"
+
+msgid "DSPLYMNU_ROCKETEXPSTYLE"
+msgstr "Стиль відображення вибуху"
+
+msgid "OPTVAL_ROCKETEXP_STYLE_TRANS"
+msgstr "Прозорий"
+
+msgid "PICKER_FILELOADING"
+msgstr "Завантаження файлу"
+
+msgid "MISCMNU_CLEANMENU"
+msgstr "Класичне масштабування меню ZDoom"
+
+msgid "DSPLYMNU_IMAGEADJUST"
+msgstr "Калібрування зображення"
+
+msgid "DSPLYMNU_IMAGEADJUST_TOP1"
+msgstr "Зі звичайної відстані перегляду налаштуйте ці повзунки."
+
+msgid "DSPLYMNU_IMAGEADJUST_TOP2"
+msgstr ""
+"Збільшення масштабу/суперсемплінг може призвести до неправильного виводу."
+
+msgid "DSPLYMNU_IMAGEADJUST_TOP3"
+msgstr "Будь ласка, вимкніть їх перед налаштуванням."
+
+msgid "DSPLYMNU_TOOLTIP_GAMMA"
+msgstr ""
+"Компенсує обмеження вашого монітора. Налаштовуйте, доки вертикальні сірі "
+"блоки не зникнуть. Не використовуйте це для того, щоб зробити гру "
+"яскравішою, лише щоб переконатися, що зображення калібрується відповідно до "
+"вашого пристрою."
+
+msgid "DSPLYMNU_TOOLTIP_BLACKPOINT"
+msgstr ""
+"Компенсує монітори, які неправильно відображають темні пікселі. "
+"Налаштовуйте, доки діагональні білі блоки не зникнуть. Не використовуйте це "
+"для того, щоб зробити гру яскравішою, лише щоб переконатися, що зображення "
+"калібрується відповідно до вашого пристрою."
