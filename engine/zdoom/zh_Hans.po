@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-09 10:09+0000\n"
-"Last-Translator: dwing <12104745@qq.com>\n"
+"PO-Revision-Date: 2026-02-10 17:09+0000\n"
+"Last-Translator: Rihcard76 <3224971442@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -2715,33 +2715,33 @@ msgid "OB_CYCLOPTIS"
 msgstr "%o 被一只独眼巨人粘住了。"
 
 msgid "OB_FLEMBRANE"
-msgstr "%o被黏液膜击败了。"
+msgstr "%o 被黏液膜击败了。"
 
 msgid "OB_MPSPOON"
-msgstr ""
+msgstr "%o 被 %k 喂的饭撑死了。"
 
 msgid "OB_MPBOOTSPORK"
-msgstr "%o被%k的靴叉勺充分混合了。"
+msgstr "%o 被 %k 的靴叉搅成了渣。"
 
 msgid "OB_MPZORCH"
-msgstr ""
+msgstr "%o被%k用Zorcher传送走了。"
 
 #, fuzzy
 msgid "OB_MPMEGAZORCH"
 msgstr "%o被%k的mega-zorcher击中了。"
 
 msgid "OB_MPRAPIDZORCH"
-msgstr ""
+msgstr "%o被%k用速射Zorcher传送走了。"
 
 msgid "OB_MPPROPULSOR"
-msgstr ""
+msgstr "%o被%k用Zorch推进器炸进异次元了。"
 
 #, fuzzy
 msgid "OB_MPP_SPLASH"
 msgstr "%o被%k的推进器击中了。"
 
 msgid "OB_MPPHASEZORCH"
-msgstr ""
+msgstr "%o被%k用相位Zorcher传送了。"
 
 msgid "OB_MPLAZ_BOOM"
 msgstr "%o fell prey to %k's LAZ装置。"
