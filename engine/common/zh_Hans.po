@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-02 04:01+0000\n"
-"Last-Translator: dwing <12104745@qq.com>\n"
+"PO-Revision-Date: 2026-02-10 17:09+0000\n"
+"Last-Translator: Rihcard76 <3224971442@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/common/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -496,7 +496,7 @@ msgid "JOYMNU_XINPUT"
 msgstr "启用XInput控制器"
 
 msgid "JOYMNU_PS2"
-msgstr "启用旧的PS2适配器"
+msgstr "启用 PS2 手柄转接器直读模式"
 
 msgid "JOYMNU_NOCON"
 msgstr "未检测到控制器"
@@ -821,10 +821,10 @@ msgid "SNDMNU_MODREPLAYER"
 msgstr "模块播放器选项"
 
 msgid "SNDMNU_MIDIPLAYER"
-msgstr "MIDI播放选项"
+msgstr "MIDI播放器选项"
 
 msgid "SNDMNU_MENUSOUND"
-msgstr "菜单中的音效"
+msgstr "菜单音效"
 
 msgid "ADVSNDMNU_TITLE"
 msgstr "高级声音选项"
@@ -1501,7 +1501,7 @@ msgid "MISCMNU_QUICKSAVECOUNT"
 msgstr "快速保存上限数量"
 
 msgid "MISCMNU_CLEANMENU"
-msgstr "禁用菜单缩放"
+msgstr "禁用菜单像素整数缩放"
 
 msgid "MISCMNU_PAUSEINBACKGROUND"
 msgstr "后台运行时暂停游戏"
@@ -1858,7 +1858,7 @@ msgstr "1"
 # language display. If it is acceptable that accents get omitted a character
 # should NOT be listed here!
 msgid "REQUIRED_CHARACTERS"
-msgstr ""
+msgstr "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
 msgid "OPTMNU_FULLOPTIONS"
 msgstr "完整选项菜单"

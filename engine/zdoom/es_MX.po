@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-03 23:55+0000\n"
-"Last-Translator: Ret Neychozken <retneychozken@gmail.com>\n"
+"PO-Revision-Date: 2026-02-09 10:09+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/es_MX/>\n"
 "Language: es_MX\n"
@@ -134,6 +134,9 @@ msgstr ""
 # Lovecraft.
 msgid "QUITMSG9"
 msgstr ""
+"¡No te vayas ahora, hay un\n"
+"dimensional shambler esperando\n"
+"en la línea de comandos de DOS!"
 
 msgid "QUITMSG10"
 msgstr ""
@@ -224,7 +227,7 @@ msgstr ""
 "no se rendiría tan rápido!"
 
 msgid "TXT_DEFAULTPICKUPMSG"
-msgstr ""
+msgstr "Recogiste un objeto"
 
 msgid "PD_ANY"
 msgstr "Cualquiera llave abrirá esta puerta"
@@ -239,28 +242,28 @@ msgid "PD_ALL3O"
 msgstr "Necesitas las tres llaves para activar este objeto"
 
 msgid "PD_ALL6"
-msgstr "Necesitas todas las seis llaves para abrir esta puerta"
+msgstr "Necesitas las seis llaves para abrir esta puerta"
 
 msgid "PD_ALL6O"
-msgstr "Necesitas todas las seis llaves para activar este objeto"
+msgstr "Necesita las seis llaves para activar este objeto"
 
 msgid "PD_ALLKEYS"
 msgstr "Necesitas todas las llaves"
 
 msgid "HUSTR_MSGU"
-msgstr ""
+msgstr "[Mensaje no enviado]"
 
 msgid "HUSTR_TALKTOSELF1"
-msgstr ""
+msgstr "Murmuras para ti mismo"
 
 msgid "HUSTR_TALKTOSELF2"
 msgstr "¿Quién es?"
 
 msgid "HUSTR_TALKTOSELF3"
-msgstr ""
+msgstr "Te asustas"
 
 msgid "HUSTR_TALKTOSELF4"
-msgstr ""
+msgstr "Empiezas a delirar"
 
 msgid "HUSTR_TALKTOSELF5"
 msgstr "Te volviste loc@[ao_esp]..."
@@ -269,7 +272,7 @@ msgid "HUSTR_MESSAGESENT"
 msgstr "[Mensaje Enviado]"
 
 msgid "STSTR_MUS"
-msgstr ""
+msgstr "Cambio de Música"
 
 msgid "STSTR_NOMUS"
 msgstr "Selección Imposible"
@@ -311,7 +314,7 @@ msgstr "Modo Noclip 2 Desactivado"
 # “Allmap”: Computer area map
 # “Lite-amp”: Light-amplification visor
 msgid "STSTR_BEHOLD"
-msgstr ""
+msgstr "in(V)ulnerar, ber(S)erk, (I)nvisible, (R)adiación, m(A)pa, (L)uz"
 
 msgid "STSTR_BEHOLDX"
 msgstr "Power-up Activado"
@@ -379,28 +382,28 @@ msgid "TXT_FREEZEON"
 msgstr "Has detenido el tiempo"
 
 msgid "TXT_FREEZEOFF"
-msgstr ""
+msgstr "El tiempo se reanuda"
 
 msgid "TXT_STRANGE"
-msgstr ""
+msgstr "Te sientes raro..."
 
 msgid "TXT_STRANGER"
-msgstr ""
+msgstr "Te sientes aún más raro..."
 
 msgid "TXT_NOTSTRANGE"
-msgstr ""
+msgstr "Te sientes como tú mismo otra vez."
 
 msgid "TXT_LEADBOOTSON"
-msgstr ""
+msgstr "Botas de Acero activadas"
 
 msgid "TXT_LEADBOOTSOFF"
-msgstr ""
+msgstr "Botas de Acero desactivadas"
 
 msgid "TXT_LIGHTER"
-msgstr ""
+msgstr "Te sientes liviano"
 
 msgid "TXT_GRAVITY"
-msgstr ""
+msgstr "La gravedad te arrastra"
 
 msgid "TXT_NOTARGET_ON"
 msgstr ""
@@ -433,10 +436,10 @@ msgid "TXT_MONSTERS_KILLED"
 msgstr ""
 
 msgid "TXT_NO_RESURRECT"
-msgstr ""
+msgstr "No se puede resucitar. El jugador ya no está conectado a su cuerpo."
 
 msgid "TXT_ALL_ARTIFACTS"
-msgstr ""
+msgstr "¡Todos los artefactos!"
 
 msgid "TXT_WHAT_KILL"
 msgstr ""
@@ -5196,3 +5199,6 @@ msgstr ""
 
 msgid "CNTRLMNU_COOPSPYCANCEL"
 msgstr ""
+
+msgid "OPTMNU_ACCESSIBILITY"
+msgstr "Opciones de Accesibilidad"
