@@ -1728,7 +1728,7 @@ msgstr ""
 # This is not a text to be translated but an engine switch for complex
 # languages.
 msgid "USE_GENERIC_FONT"
-msgstr ""
+msgstr "1"
 
 # This should list all uppercase characters that are REQUIRED for proper
 # language display. If it is acceptable that accents get omitted a character
