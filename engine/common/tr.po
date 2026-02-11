@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-18 19:00+0000\n"
-"Last-Translator: \"Başar Köse (Turkish Mauser)\" <memerprime8@gmail.com>\n"
+"PO-Revision-Date: 2026-02-11 10:09+0000\n"
+"Last-Translator: Haydar Can Karabacak <haydarcan_2003@hotmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/uzdoom/common/"
 "tr/>\n"
 "Language: tr\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15.1-dev\n"
+"X-Generator: Weblate 5.16-dev\n"
 "HeaderCode: tr\n"
 
 msgid "PRESSYN"
@@ -531,7 +531,6 @@ msgstr "Ölü bölge"
 msgid "JOYMNU_NOAXES"
 msgstr "Yapılandırılabilir eksen yok"
 
-#, fuzzy
 msgid "OPTVAL_NONE"
 msgstr "Hiçbiri"
 
@@ -650,7 +649,7 @@ msgid "OPTVAL_NEVER"
 msgstr "Asla"
 
 msgid "PLYRMNU_AUTOAIM"
-msgstr ""
+msgstr "Otomatik Nişan Alma"
 
 msgid "PLYRMNU_ALWAYSRUN"
 msgstr "Daima Koş"
@@ -710,25 +709,25 @@ msgid "SNDMNU_MUSENABLED"
 msgstr "Müzik etkin"
 
 msgid "OPTVAL_4000HZ"
-msgstr ""
+msgstr "4000 Hz"
 
 msgid "OPTVAL_8000HZ"
-msgstr ""
+msgstr "8000 Hz"
 
 msgid "OPTVAL_11025HZ"
-msgstr ""
+msgstr "11025 Hz"
 
 msgid "OPTVAL_22050HZ"
-msgstr ""
+msgstr "22050 Hz"
 
 msgid "OPTVAL_32000HZ"
-msgstr ""
+msgstr "32000 Hz"
 
 msgid "OPTVAL_44100HZ"
-msgstr ""
+msgstr "44100 Hz"
 
 msgid "OPTVAL_48000HZ"
-msgstr ""
+msgstr "48000 Hz"
 
 msgid "OPTVAL_64SAMPLES"
 msgstr "64 örnek"
@@ -2109,3 +2108,12 @@ msgstr ""
 
 msgid "JOYMNU_ANALOGSTRAFERUN"
 msgstr ""
+
+msgid "ACCMNU_TITLE"
+msgstr "Erişebilirlik Seçenekleri"
+
+msgid "ACCMNU_RESET"
+msgstr "Erişebilirlik Seçeneklerini Sıfırla"
+
+msgid "MSGMNU_MESSAGEQUEUE"
+msgstr "Mesaj sırası boyutu"
