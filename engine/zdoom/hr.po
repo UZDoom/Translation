@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-07 17:36+0000\n"
-"Last-Translator: Hosted Weblate user 140328 <apophis@sapronym.net>\n"
+"PO-Revision-Date: 2026-02-12 01:10+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hr/>\n"
 "Language: hr\n"
@@ -22,7 +22,7 @@ msgid "SECRETMESSAGE"
 msgstr "Tajna je otkrivena!"
 
 msgid "D_DEVSTR"
-msgstr "Beskorisni način UKLJ.\n"
+msgstr "Beskorisni način UKLJ."
 
 #, fuzzy
 msgid "QUITMSG"
