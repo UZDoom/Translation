@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 06:44+0000\n"
+"PO-Revision-Date: 2026-02-12 06:51+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English (United Kingdom) <https://hosted.weblate.org/projects/"
 "uzdoom/zdoom-engine-strings/en_GB/>\n"
@@ -188,11 +188,10 @@ msgstr "I thought you were different…"
 msgid "QUITMSG20"
 msgstr "Fine! just kill and run!"
 
-#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
-"You can quit...\n"
-"but you can't hide..."
+"You can quit…\n"
+"but you can't hide…"
 
 msgid "QUITMSG22"
 msgstr ""
@@ -214,11 +213,10 @@ msgstr ""
 "Don't leave now.\n"
 "We need your help!"
 
-#, fuzzy
 msgid "QUITMSG26"
 msgstr ""
 "I hope you're just taking a\n"
-"break for Chex(R) party mix."
+"break for Chex® party mix."
 
 msgid "QUITMSG27"
 msgstr ""
@@ -230,10 +228,9 @@ msgstr ""
 "Don't abandon the\n"
 "Intergalactic Federation of Cereals!"
 
-#, fuzzy
 msgid "QUITMSG29"
 msgstr ""
-"The real Chex(R) Warrior\n"
+"The real Chex® Warrior\n"
 "wouldn't give up so fast!"
 
 msgid "TXT_DEFAULTPICKUPMSG"
@@ -275,9 +272,8 @@ msgstr "You scare yourself"
 msgid "HUSTR_TALKTOSELF4"
 msgstr "You start to rave"
 
-#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
-msgstr "You've lost it..."
+msgstr "You've lost it…"
 
 msgid "HUSTR_MESSAGESENT"
 msgstr "[Message Sent]"
@@ -332,13 +328,11 @@ msgstr "Power-up Toggled"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
-#, fuzzy
 msgid "STSTR_CHOPPERS"
-msgstr "... does not suck - GM"
+msgstr "… doesn't suck - GM"
 
-#, fuzzy
 msgid "STSTR_CLEV"
-msgstr "Changing Level..."
+msgstr "Changing Level…"
 
 msgid "TXT_BUDDHAON"
 msgstr "Buddha mode ON"
@@ -397,9 +391,8 @@ msgstr "Freeze mode on"
 msgid "TXT_FREEZEOFF"
 msgstr "Freeze mode off"
 
-#, fuzzy
 msgid "TXT_STRANGE"
-msgstr "You feel strange..."
+msgstr "You feel strange…"
 
 msgid "TXT_STRANGER"
 msgstr "You feel even stranger."
@@ -2075,17 +2068,14 @@ msgstr "You picked up the electric bolts."
 msgid "TXT_AMMOSATCHEL"
 msgstr "You picked up the ammo satchel."
 
-#, fuzzy
 msgid "MSG_TALISMANRED"
-msgstr "You have a feeling that it wasn't to be touched..."
+msgstr "You have a feeling that it wasn't to be touched…"
 
-#, fuzzy
 msgid "MSG_TALISMANGREEN"
-msgstr "Whatever it is, it doesn't belong in this world..."
+msgstr "Whatever it is, it doesn't belong in this world…"
 
-#, fuzzy
 msgid "MSG_TALISMANBLUE"
-msgstr "It must do something..."
+msgstr "It must do something…"
 
 msgid "MSG_TALISMANPOWER"
 msgstr "You have super strength!"
@@ -2579,13 +2569,11 @@ msgstr "You seem to have enough!"
 msgid "TXT_GOAWAY"
 msgstr "Go away!"
 
-#, fuzzy
 msgid "TXT_COMM0"
-msgstr "Incoming Message..."
+msgstr "Incoming Message…"
 
-#, fuzzy
 msgid "TXT_COMM1"
-msgstr "Incoming Message from BlackBird..."
+msgstr "Incoming Message from BlackBird…"
 
 msgid "TXT_FINDHELP"
 msgstr "Find help"
@@ -2594,13 +2582,11 @@ msgstr "Find help"
 msgid "TXT_TRADE"
 msgstr "for %u"
 
-#, fuzzy
 msgid "GOTCHEXARMOR"
-msgstr "Picked up the Chex(R) Armour."
+msgstr "Picked up the Chex® Armor."
 
-#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
-msgstr "Picked up the Super Chex(R) Armour!"
+msgstr "Picked up the Super Chex® Armor!"
 
 msgid "GOTWATER"
 msgstr "Picked up a glass of water."
@@ -2774,7 +2760,6 @@ msgstr "E1M4: Arboretum"
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: Caverns of Bazoik"
 
-#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Mission accomplished.\n"
@@ -2786,7 +2771,7 @@ msgstr ""
 "\n"
 "\n"
 "\n"
-"Press the escape key to continue..."
+"Press the escape key to continue…"
 
 msgid "CE2TEXT"
 msgstr "You've done it!"
@@ -2842,10 +2827,9 @@ msgstr ""
 "\n"
 "Press Y or N."
 
-#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
-"This is Chex(R) Quest. look for\n"
+"This is Chex® Quest. Look for\n"
 "\n"
 "future levels at www.chexquest.com.\n"
 "\n"
@@ -2881,10 +2865,9 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Super Zorch Added"
 
-#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
-msgstr "... Eat Chex(R)!"
+msgstr "…Eat Chex®!"
 
 msgctxt "chex"
 msgid "AMMO_CLIP"
