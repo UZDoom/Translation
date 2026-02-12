@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 03:10+0000\n"
+"PO-Revision-Date: 2026-02-12 06:44+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/sr/>\n"
@@ -187,6 +187,7 @@ msgstr "О теби сам мислила другачије..."
 msgid "QUITMSG20"
 msgstr "Добро! Само убијај и бежи!"
 
+#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
 "Можеш да одеш...\n"
@@ -210,6 +211,7 @@ msgstr ""
 "Не излази сада.\n"
 "Треба нам твоја помоћ!"
 
+#, fuzzy
 msgid "QUITMSG26"
 msgstr ""
 "Надам се да само паузираш\n"
@@ -225,6 +227,7 @@ msgstr ""
 "Не напуштај Интергалактичку\n"
 "федерацију овсених пахуљица!"
 
+#, fuzzy
 msgid "QUITMSG29"
 msgstr ""
 "Прави Чекс ратници не\n"
@@ -269,6 +272,7 @@ msgstr "Плашите самог себе"
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Брбљате"
 
+#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
 msgstr "Лудите..."
 
@@ -325,9 +329,11 @@ msgstr "Супер моћи заглављене"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+#, fuzzy
 msgid "STSTR_CHOPPERS"
 msgstr "... Једи Чекс(Р)!"
 
+#, fuzzy
 msgid "STSTR_CLEV"
 msgstr "Мењам ниво..."
 
@@ -388,6 +394,7 @@ msgstr "Мод замрзавања УКЉУЧЕН"
 msgid "TXT_FREEZEOFF"
 msgstr "Мод замрзавања ИСКЉУЧЕН"
 
+#, fuzzy
 msgid "TXT_STRANGE"
 msgstr "Осећате се чудно..."
 
@@ -2068,12 +2075,15 @@ msgstr "Покупили сте електричне стреле."
 msgid "TXT_AMMOSATCHEL"
 msgstr "Покупили сте торбицу муниције."
 
+#, fuzzy
 msgid "MSG_TALISMANRED"
 msgstr "Имаш осећај да није требало бити дирано..."
 
+#, fuzzy
 msgid "MSG_TALISMANGREEN"
 msgstr "Шта год да је, не припада овом свету..."
 
+#, fuzzy
 msgid "MSG_TALISMANBLUE"
 msgstr "Мора урадити нешто..."
 
@@ -2569,9 +2579,11 @@ msgstr "Изгледа да ти је доста!"
 msgid "TXT_GOAWAY"
 msgstr "Одлази!"
 
+#, fuzzy
 msgid "TXT_COMM0"
 msgstr "Наилази порука..."
 
+#, fuzzy
 msgid "TXT_COMM1"
 msgstr "Наилази порука од Црне птице...."
 
@@ -2582,9 +2594,11 @@ msgstr "Нађи помоћ"
 msgid "TXT_TRADE"
 msgstr "за %u"
 
+#, fuzzy
 msgid "GOTCHEXARMOR"
 msgstr "Покупили сте Чех оклоп."
 
+#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
 msgstr "Покупили сте Супер Чех Оклоп!"
 
@@ -2760,6 +2774,7 @@ msgstr "Е1М4: Ботаничка башта"
 msgid "CHUSTR_E1M5"
 msgstr "Е1М5: Пећине Базоика"
 
+#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Мисија је извршена.\n"
@@ -2818,6 +2833,7 @@ msgstr ""
 "\n"
 "Притисните Y или N."
 
+#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
 "Ово је Chex Quest. Тражите нове\n"
@@ -2856,6 +2872,7 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Супер зорч додат"
 
+#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "... Једи Chex(R)!"
