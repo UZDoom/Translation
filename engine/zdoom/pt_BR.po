@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 03:09+0000\n"
+"PO-Revision-Date: 2026-02-12 06:44+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "uzdoom/zdoom-engine-strings/pt_BR/>\n"
@@ -190,6 +190,7 @@ msgstr "Eu achei que você era diferente..."
 msgid "QUITMSG20"
 msgstr "Ótimo! Mate e fuja!"
 
+#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
 "Você pode sair...\n"
@@ -215,6 +216,7 @@ msgstr ""
 "Não vá embora agora.\n"
 "Precisamos da sua ajuda!"
 
+#, fuzzy
 msgid "QUITMSG26"
 msgstr ""
 "Tomara que só esteja fazendo uma\n"
@@ -230,6 +232,7 @@ msgstr ""
 "Não abandone a\n"
 "Federação Intergaláctica de Cereais!"
 
+#, fuzzy
 msgid "QUITMSG29"
 msgstr ""
 "O verdadeiro Guerreiro Chex(R)\n"
@@ -274,6 +277,7 @@ msgstr "Você se assusta"
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Você começa a delirar"
 
+#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
 msgstr "Você enlouqueceu..."
 
@@ -332,9 +336,11 @@ msgstr "Potencializador ativado"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+#, fuzzy
 msgid "STSTR_CHOPPERS"
 msgstr "... não tá ruim — GM"
 
+#, fuzzy
 msgid "STSTR_CLEV"
 msgstr "Trocando de fase..."
 
@@ -395,6 +401,7 @@ msgstr "Modo congelado ativado"
 msgid "TXT_FREEZEOFF"
 msgstr "Modo congelado desativado"
 
+#, fuzzy
 msgid "TXT_STRANGE"
 msgstr "Você está com uma sensação estranha..."
 
@@ -2077,12 +2084,15 @@ msgstr "Você pegou as setas eletricas."
 msgid "TXT_AMMOSATCHEL"
 msgstr "Você pegou a mochila de munição."
 
+#, fuzzy
 msgid "MSG_TALISMANRED"
 msgstr "Você tem um pressentimento de que isso não devia ser tocado..."
 
+#, fuzzy
 msgid "MSG_TALISMANGREEN"
 msgstr "Seja o que for, isso não pertence a este mundo..."
 
+#, fuzzy
 msgid "MSG_TALISMANBLUE"
 msgstr "Deveria fazer alguma coisa..."
 
@@ -2578,9 +2588,11 @@ msgstr "Você parece ter o suficiente!"
 msgid "TXT_GOAWAY"
 msgstr "Vá embora!"
 
+#, fuzzy
 msgid "TXT_COMM0"
 msgstr "Recebendo Mensagem..."
 
+#, fuzzy
 msgid "TXT_COMM1"
 msgstr "Recebendo Mensagem de BlackBird..."
 
@@ -2591,9 +2603,11 @@ msgstr "Procure ajuda"
 msgid "TXT_TRADE"
 msgstr "por %u"
 
+#, fuzzy
 msgid "GOTCHEXARMOR"
 msgstr "Pegou uma Armadura Chex(R)."
 
+#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
 msgstr "Pegou uma Super Armadura Chex(R)!"
 
@@ -2769,6 +2783,7 @@ msgstr "E1M4: Arvoredo"
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: Cavernas de Bazoik"
 
+#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Missão cumprida.\n"
@@ -2835,6 +2850,7 @@ msgstr ""
 "\n"
 "Press Y or N."
 
+#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
 "Este é o Chex(R) Quest. Procure por\n"
@@ -2873,6 +2889,7 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Super Zorch adicionado"
 
+#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "... coma Chex(R)!"
