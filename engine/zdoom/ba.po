@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 03:09+0000\n"
+"PO-Revision-Date: 2026-02-12 06:44+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Bashkir <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ba/>\n"
@@ -167,6 +167,7 @@ msgstr "Mislio san da si drugačiji..."
 msgid "QUITMSG20"
 msgstr "Ajd onda! Samo ubij i odjebi!"
 
+#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
 "Možeš izaći...\n"
@@ -188,6 +189,7 @@ msgstr ""
 "Ne napuštaj sad.\n"
 "Treba nam vaša pomoć!"
 
+#, fuzzy
 msgid "QUITMSG26"
 msgstr "Nadam se da ste pauzirali da jedete Chex(R) Party Mix."
 
@@ -201,6 +203,7 @@ msgstr ""
 "Nemojte napusiti\n"
 "Međusvemirsku Federaciju Pahuljica!"
 
+#, fuzzy
 msgid "QUITMSG29"
 msgstr ""
 "Pravi Chex(R) Borac\n"
@@ -245,6 +248,7 @@ msgstr "Sebe plašis"
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Počinješ buncati"
 
+#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
 msgstr "Pogubio si se..."
 
@@ -304,9 +308,11 @@ msgstr "Prekidač pojačanja"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+#, fuzzy
 msgid "STSTR_CHOPPERS"
 msgstr "... nije sranje - GM"
 
+#, fuzzy
 msgid "STSTR_CLEV"
 msgstr "Promjena razine..."
 
@@ -367,6 +373,7 @@ msgstr "Zamrznuti mod UKLJ."
 msgid "TXT_FREEZEOFF"
 msgstr "Zamrznuti mod ISKLJ."
 
+#, fuzzy
 msgid "TXT_STRANGE"
 msgstr "Osječaš se čudno..."
 
