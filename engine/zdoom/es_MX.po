@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 03:10+0000\n"
+"PO-Revision-Date: 2026-02-12 06:44+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/es_MX/>\n"
@@ -183,6 +183,7 @@ msgstr "Creí que eras diferente..."
 msgid "QUITMSG20"
 msgstr ""
 
+#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
 "Podrás correr...\n"
@@ -208,6 +209,7 @@ msgstr ""
 "No te vayas.\n"
 "¡Necesitamos tu ayuda!"
 
+#, fuzzy
 msgid "QUITMSG26"
 msgstr ""
 "Espero que tomes el descanso\n"
@@ -223,6 +225,7 @@ msgstr ""
 "¡No abandones la Federación\n"
 "Intergaláctica de Cereales!"
 
+#, fuzzy
 msgid "QUITMSG29"
 msgstr ""
 "¡El verdadero Guerrero Chex(R)\n"
@@ -267,6 +270,7 @@ msgstr "Te asustas"
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Empiezas a delirar"
 
+#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
 msgstr "Te volviste loc@[ao_esp]..."
 
@@ -323,9 +327,11 @@ msgstr "Power-up Activado"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+#, fuzzy
 msgid "STSTR_CHOPPERS"
 msgstr "... no apesta... - GM"
 
+#, fuzzy
 msgid "STSTR_CLEV"
 msgstr "Cambiando de Nivel..."
 
@@ -386,6 +392,7 @@ msgstr "Has detenido el tiempo"
 msgid "TXT_FREEZEOFF"
 msgstr "El tiempo se reanuda"
 
+#, fuzzy
 msgid "TXT_STRANGE"
 msgstr "Te sientes raro..."
 
