@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 01:10+0000\n"
+"PO-Revision-Date: 2026-02-12 06:44+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Malay <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ms/>\n"
@@ -2694,6 +2694,7 @@ msgstr ""
 msgid "CHUSTR_E1M5"
 msgstr ""
 
+#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Misi tercapai.\n"
@@ -2741,6 +2742,7 @@ msgstr ""
 "\n"
 "Tekan Y atau N."
 
+#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
 "Ini ialah Chex(R) Quest. nantikan\n"
