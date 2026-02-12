@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 02:04+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-02-12 03:10+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/tr/>\n"
 "Language: tr\n"
@@ -129,6 +129,7 @@ msgstr "Gitmeyi düşündüğün için seni tokatlamadığım için şanslısın
 msgid "QUITMSG15"
 msgstr "Nereye gidiyorsun?! İsyan ne olacak?"
 
+#, fuzzy
 msgid "QUITMSG16"
 msgstr "Katliam kesintisi. Ne alay ama!"
 
@@ -138,6 +139,7 @@ msgstr "Ama sen umudumsun, tek şansımsın!"
 msgid "QUITMSG18"
 msgstr "Kimse Karatavuk'ü bırakıp gidemez."
 
+#, fuzzy
 msgid "QUITMSG19"
 msgstr "Senin farklı olduğunu sanıyordum."
 
