@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 03:09+0000\n"
+"PO-Revision-Date: 2026-02-12 19:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/uzdoom/common/"
 "ja/>\n"
@@ -28,7 +28,7 @@ msgid "SAVEDEAD"
 msgstr ""
 "プレイ中でないとセーブできない!\n"
 "\n"
-"何かキーを押せ"
+"何かキーを押せ。"
 
 msgid "SAFEMESSAGE"
 msgstr "本当に実行するのか?"
@@ -42,7 +42,7 @@ msgstr ""
 "\n"
 "'%s'\n"
 "\n"
-"Y か N で答えろ"
+"Y か N で答えろ。"
 
 msgid "QLPROMPT"
 msgstr ""
@@ -50,7 +50,7 @@ msgstr ""
 "\n"
 "'%s'\n"
 "\n"
-"Y か N で答えろ"
+"Y か N で答えろ。"
 
 # This is a gender sensitive message where %s represents the player
 msgid "TXT_X_CHEATS"
@@ -75,7 +75,7 @@ msgid "GGSAVED"
 msgstr "セーブ完了。"
 
 msgid "SAVECOMMENT_TIME"
-msgstr "時間\n"
+msgstr "時間"
 
 msgid "MNU_LOADGAME"
 msgstr "ロード"
@@ -87,13 +87,12 @@ msgid "MNU_NOPICTURE"
 msgstr "画像無し"
 
 msgid "MNU_DIFFVERSION"
-msgstr ""
-"別バージョンの\n"
-"データ"
+msgstr "別バージョンの データ"
 
 msgid "MNU_NOFILES"
 msgstr "ファイル無し"
 
+#, fuzzy
 msgid "MNU_DELETESG"
 msgstr "本当にこのセーブを消すのか?"
 
@@ -382,7 +381,7 @@ msgid "CNTRLMNU_DISPLAY_DEC"
 msgstr "画面サイズを縮小"
 
 msgid "CNTRLMNU_OPEN_HELP"
-msgstr "ヘルプを開く\n"
+msgstr "ヘルプを開く"
 
 msgid "CNTRLMNU_OPEN_SAVE"
 msgstr "セーブメニューを開く"
@@ -442,7 +441,7 @@ msgid "MOUSEMNU_MOUSELOOKSPEED"
 msgstr "上下視点速度"
 
 msgid "MOUSEMNU_FORWBACKSPEED"
-msgstr "前進/後退速度\n"
+msgstr "前進/後退速度"
 
 msgid "MOUSEMNU_STRAFESPEED"
 msgstr "横移動速度"
@@ -532,7 +531,6 @@ msgstr "デッドゾーン"
 msgid "JOYMNU_NOAXES"
 msgstr "軸構成を無効"
 
-#, fuzzy
 msgid "OPTVAL_NONE"
 msgstr "無し"
 
@@ -1331,7 +1329,7 @@ msgid "GLTEXMNU_HQRESIZEMULT"
 msgstr "高品質リサイズ乗数"
 
 msgid "GLTEXMNU_HQRESIZEWARN"
-msgstr "このモードでは %d 倍以上のビデオメモリが必要です!"
+msgstr "このモードでは %d 倍以上のビデオメモリが必要です"
 
 msgid "GLTEXMNU_RESIZETEX"
 msgstr "テクスチャー類のリサイズ"
@@ -1477,11 +1475,13 @@ msgstr ""
 msgid "OPTVAL_OPENGLES"
 msgstr ""
 
+#, fuzzy
 msgid "MISCMNU_MERGEKEYS"
-msgstr "左と右のALT/CTRL/SHIFTキーを統合"
+msgstr "左と右のAlt/Ctrl/Shiftキーを統合"
 
+#, fuzzy
 msgid "MISCMNU_WINFULLSCREENTOGGLE"
-msgstr "ALTとENTERで全画面に切り替え"
+msgstr "AltとEnterで全画面に切り替え"
 
 msgid "MISCMNU_MACFULLSCREENTOGGLE"
 msgstr "Ctrl + Fキーで全画面表示"
@@ -1676,9 +1676,8 @@ msgstr ""
 msgid "REVMNU_Create"
 msgstr "作成"
 
-#, fuzzy
 msgid "REVMNU_Save"
-msgstr "セーブする..."
+msgstr "セーブする…"
 
 msgid "REVMNU_File_name"
 msgstr "ファイル名"
@@ -1849,8 +1848,9 @@ msgstr "ブライトマップ"
 msgid "PICKER_WIDESCREEN"
 msgstr "ワイドスクリーン"
 
+#, fuzzy
 msgid "PICKER_ADDPARM"
-msgstr "追加パラメータ"
+msgstr "追加パラメータ:"
 
 msgid "PICKER_WELCOME"
 msgstr "ようこそ: %s!"
@@ -1877,8 +1877,9 @@ msgstr "モジュール リプレイヤー"
 
 # This is enabled per-controller, it means to enable "this" controller in the
 # background when GZDoom is not in focus.
+#, fuzzy
 msgid "JOYMNU_JOYENABLEINBACKGROUND"
-msgstr "GZD外の時にコントローラー入力を許可"
+msgstr "ゲーム外でコントローラー入力を許可する"
 
 # Order to sort the list of saved games in the save and load game menu. This
 # used to only be alphabetical.
@@ -1921,7 +1922,7 @@ msgid "PICKER_JOIN"
 msgstr "参加"
 
 msgid "PICKER_NETMODE"
-msgstr "ネットワークモード"
+msgstr "ネットワークモード:"
 
 msgid "PICKER_NETAUTO"
 msgstr "自動 (推奨)"
@@ -1936,7 +1937,7 @@ msgid "PICKER_NETPEER"
 msgstr "P2P (直接通信)"
 
 msgid "PICKER_NETRATE"
-msgstr "パケットTicレート"
+msgstr "パケットTicレート:"
 
 # Sends out duplicate copies of packets to help with spotty connections e.g.
 # wifi.
@@ -1991,7 +1992,7 @@ msgid "TXT_SAYTEAM"
 msgstr "発言 (チーム):"
 
 msgid "MISCMNU_DISCORDRPC"
-msgstr "Discordに情報を表示 (DRP)"
+msgstr "Discordに情報を表示"
 
 msgid "JOYMNU_TURNSPEED"
 msgstr "旋回速度"

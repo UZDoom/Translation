@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 03:10+0000\n"
+"PO-Revision-Date: 2026-02-12 19:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/uzdoom/common/el/>"
 "\n"
@@ -37,7 +37,9 @@ msgstr "Δεν έχει οριστεί"
 
 msgid "QSPROMPT"
 msgstr ""
-"Γρήγορη αποθήκευση πάνω από το παιχνίδι σας με το όνομα '%s';\n"
+"Γρήγορη αποθήκευση πάνω από το παιχνίδι σας με το όνομα\n"
+"\n"
+"'%s';\n"
 "\n"
 "Πατήστε Y ή N."
 
@@ -88,7 +90,7 @@ msgid "MNU_NOFILES"
 msgstr "Καθ΄λου αρχεία "
 
 msgid "MNU_DELETESG"
-msgstr "Θέλεις όντος να διαγράξεις το αποθηκευμένο παιχνίδι;\n"
+msgstr "Θέλεις όντος να διαγράξεις το αποθηκευμένο παιχνίδι;"
 
 msgid "OPTVAL_OFF"
 msgstr "ενεργοποιημένη"

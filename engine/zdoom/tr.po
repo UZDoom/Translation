@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 06:44+0000\n"
+"PO-Revision-Date: 2026-02-12 19:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/tr/>\n"
@@ -40,6 +40,7 @@ msgstr ""
 msgid "QLOADNET"
 msgstr ""
 "Bir ağ oyunu sırasında hızlı yükleme yapamazsınız!\n"
+"\n"
 "Bir tuşa basın."
 
 msgid "QSAVESPOT"
@@ -139,16 +140,16 @@ msgstr "Ama sen umudumsun, tek şansımsın!"
 msgid "QUITMSG18"
 msgstr "Kimse Karatavuk'ü bırakıp gidemez."
 
-#, fuzzy
 msgid "QUITMSG19"
-msgstr "Senin farklı olduğunu sanıyordum."
+msgstr "Senin farklı olduğunu sanıyordum…"
 
 msgid "QUITMSG20"
 msgstr "İyi! Sadece öldür ve kaç!"
 
-#, fuzzy
 msgid "QUITMSG21"
-msgstr "Bırakabilirsin... ama saklanamazsın..."
+msgstr ""
+"Bırakabilirsin...\n"
+"ama saklanamazsın…"
 
 msgid "QUITMSG22"
 msgstr "Ne oldu? Annem yemek vakti mi dedi?"

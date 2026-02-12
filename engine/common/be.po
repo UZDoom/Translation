@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 03:10+0000\n"
+"PO-Revision-Date: 2026-02-12 19:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/uzdoom/common/"
 "be/>\n"
@@ -92,6 +92,7 @@ msgstr "Іншая версія "
 msgid "MNU_NOFILES"
 msgstr "Няма файлаў "
 
+#, fuzzy
 msgid "MNU_DELETESG"
 msgstr "Вы сапраўды хочаце выдаліць захаванне?"
 
@@ -380,7 +381,7 @@ msgid "CNTRLMNU_DISPLAY_DEC"
 msgstr "Зменшыць размер экрану "
 
 msgid "CNTRLMNU_OPEN_HELP"
-msgstr "Экран дапамогі "
+msgstr "Экран дапамогі"
 
 msgid "CNTRLMNU_OPEN_SAVE"
 msgstr "Меню захавання гульні "

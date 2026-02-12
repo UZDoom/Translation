@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 03:10+0000\n"
+"PO-Revision-Date: 2026-02-12 19:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/common/de/>"
 "\n"
@@ -96,7 +96,7 @@ msgid "MNU_NOFILES"
 msgstr "Keine Dateien"
 
 msgid "MNU_DELETESG"
-msgstr "Willst du den Spielstand wirklich löschen?\n"
+msgstr "Willst du den Spielstand wirklich löschen?"
 
 msgid "OPTVAL_OFF"
 msgstr "Aus"

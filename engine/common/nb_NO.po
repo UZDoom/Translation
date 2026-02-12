@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 03:09+0000\n"
+"PO-Revision-Date: 2026-02-12 19:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/uzdoom/"
 "common/nb_NO/>\n"
@@ -35,9 +35,12 @@ msgstr "Vil du virkelig gjøre dette?"
 msgid "NOTSET"
 msgstr "Ikke innstilt"
 
+#, fuzzy
 msgid "QSPROMPT"
 msgstr ""
-"Overskrive '%s' med en hurtiglagring?\n"
+"Hurtiglagre over lagringen din med navn\n"
+"\n"
+"'%s'?\n"
 "\n"
 "Trykk på Y eller N."
 
@@ -89,6 +92,7 @@ msgstr "Annen versjon"
 msgid "MNU_NOFILES"
 msgstr "Ingen filer"
 
+#, fuzzy
 msgid "MNU_DELETESG"
 msgstr "Vil du virkelig slette lagringsspillet?"
 

@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 06:44+0000\n"
+"PO-Revision-Date: 2026-02-12 19:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/da/>\n"
@@ -2786,9 +2786,10 @@ msgstr "Vidunderligt arbejde!"
 msgid "CE4TEXT"
 msgstr "Fantastisk"
 
+#, fuzzy
 msgid "CLOADNET"
 msgstr ""
-"Du kan ikke quickloade under et netspil!\n"
+"Du kan ikke quickloade under et net-quest!\n"
 "\n"
 "Tryk på en tast."
 
@@ -2801,10 +2802,11 @@ msgstr ""
 "\n"
 "Tryk på Y eller N."
 
+#, fuzzy
 msgctxt "chex"
 msgid "QLOADNET"
 msgstr ""
-"Du kan ikke quickloade under et netspil!\n"
+"Du kan ikke quickloade under et net-quest!\n"
 "\n"
 "Tryk på en tast."
 

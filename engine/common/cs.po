@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 03:10+0000\n"
+"PO-Revision-Date: 2026-02-12 19:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/uzdoom/common/cs/>"
 "\n"
@@ -92,7 +92,7 @@ msgid "MNU_NOFILES"
 msgstr "Žádné soubory"
 
 msgid "MNU_DELETESG"
-msgstr "Opravdu chcete smazat tuto uloženou hru?\n"
+msgstr "Opravdu chcete smazat tuto uloženou hru?"
 
 msgid "OPTVAL_OFF"
 msgstr "Vyp."

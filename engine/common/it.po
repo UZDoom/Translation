@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 03:10+0000\n"
+"PO-Revision-Date: 2026-02-12 19:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/uzdoom/common/"
 "it/>\n"
@@ -92,6 +92,7 @@ msgstr "Versione differente"
 msgid "MNU_NOFILES"
 msgstr "Nessun file"
 
+#, fuzzy
 msgid "MNU_DELETESG"
 msgstr "Vuoi veramente cancellare il salvataggio?"
 

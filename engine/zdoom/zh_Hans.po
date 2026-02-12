@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 06:44+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-12 08:09+0000\n"
+"Last-Translator: dwing <12104745@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -188,7 +188,6 @@ msgstr "我还以为你与众不同……"
 msgid "QUITMSG20"
 msgstr "好嘛！杀完就跑！"
 
-#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
 "你可以退出……\n"
@@ -214,11 +213,10 @@ msgstr ""
 "先别离开。\n"
 "我们需要你的帮助！"
 
-#, fuzzy
 msgid "QUITMSG26"
 msgstr ""
 "我希望你只是在吃\n"
-"奇克斯(R)派对组合休息一下。"
+"奇克斯®派对组合休息一下。"
 
 msgid "QUITMSG27"
 msgstr ""
@@ -230,10 +228,9 @@ msgstr ""
 "别抛弃\n"
 "星系谷物联盟！"
 
-#, fuzzy
 msgid "QUITMSG29"
 msgstr ""
-"真正的奇克斯(R)战士\n"
+"真正的奇克斯®战士\n"
 "不会这么快就放弃！"
 
 msgid "TXT_DEFAULTPICKUPMSG"
@@ -275,7 +272,6 @@ msgstr "自己吓自己"
 msgid "HUSTR_TALKTOSELF4"
 msgstr "你开始胡言乱语"
 
-#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
 msgstr "你失去了意识……"
 
@@ -332,11 +328,9 @@ msgstr "能量提升已切换"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
-#, fuzzy
 msgid "STSTR_CHOPPERS"
-msgstr "……不恶心 - GM"
+msgstr "……没那么烂 - GM"
 
-#, fuzzy
 msgid "STSTR_CLEV"
 msgstr "更换关卡……"
 
@@ -397,7 +391,6 @@ msgstr "冻结模式：开"
 msgid "TXT_FREEZEOFF"
 msgstr "冻结模式：关"
 
-#, fuzzy
 msgid "TXT_STRANGE"
 msgstr "你感觉很怪……"
 
@@ -2075,15 +2068,12 @@ msgstr "你拾取了电击箭。"
 msgid "TXT_AMMOSATCHEL"
 msgstr "你拾取了弹药背包。"
 
-#, fuzzy
 msgid "MSG_TALISMANRED"
 msgstr "你有种直觉它不能碰……"
 
-#, fuzzy
 msgid "MSG_TALISMANGREEN"
 msgstr "不管是什么，它都不属于这个世界……"
 
-#, fuzzy
 msgid "MSG_TALISMANBLUE"
 msgstr "必须做点什么……"
 
@@ -2579,11 +2569,9 @@ msgstr "你看起来已经有了！"
 msgid "TXT_GOAWAY"
 msgstr "走开！"
 
-#, fuzzy
 msgid "TXT_COMM0"
 msgstr "传入消息……"
 
-#, fuzzy
 msgid "TXT_COMM1"
 msgstr "从黑鸟传来消息……"
 
@@ -2594,13 +2582,11 @@ msgstr "寻找帮助"
 msgid "TXT_TRADE"
 msgstr "%u 金币"
 
-#, fuzzy
 msgid "GOTCHEXARMOR"
-msgstr "拾取了奇克斯(R)护甲。"
+msgstr "拾取了奇克斯®护甲。"
 
-#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
-msgstr "拾取了超级奇克斯(R)护甲！"
+msgstr "拾取了超级奇克斯®护甲！"
 
 msgid "GOTWATER"
 msgstr "拾取了一杯水。"
@@ -2740,9 +2726,8 @@ msgstr "%o 被 %k 的靴叉搅成了渣。"
 msgid "OB_MPZORCH"
 msgstr "%o被%k用Zorcher传送走了。"
 
-#, fuzzy
 msgid "OB_MPMEGAZORCH"
-msgstr "%o被%k的mega-zorcher击中了。"
+msgstr "%o 被 %k 的mega-zorcher击中了。"
 
 msgid "OB_MPRAPIDZORCH"
 msgstr "%o被%k用速射Zorcher传送走了。"
@@ -2750,9 +2735,8 @@ msgstr "%o被%k用速射Zorcher传送走了。"
 msgid "OB_MPPROPULSOR"
 msgstr "%o被%k用Zorch推进器炸进异次元了。"
 
-#, fuzzy
 msgid "OB_MPP_SPLASH"
-msgstr "%o被%k的推进器击中了。"
+msgstr "%o 被 %k 的推进器击中了。"
 
 msgid "OB_MPPHASEZORCH"
 msgstr "%o被%k用相位Zorcher传送了。"
@@ -2779,7 +2763,6 @@ msgstr "E1M4: 植物园"
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: 巴佐伊克洞穴"
 
-#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "任务圆满完成。\n"
@@ -2847,10 +2830,9 @@ msgstr ""
 "\n"
 "按Y键确认，按N键取消。"
 
-#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
-"这是奇克斯(R)任务。寻找更多关卡\n"
+"这是奇克斯®任务。寻找更多关卡\n"
 "\n"
 "请访问www.chexquest.com。\n"
 "\n"
@@ -2888,10 +2870,9 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "增加了超级Zorch"
 
-#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
-msgstr "……吃奇克斯(R)！"
+msgstr "……吃奇克斯®！"
 
 #, fuzzy
 msgctxt "chex"

@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 03:09+0000\n"
+"PO-Revision-Date: 2026-02-12 19:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Bashkir <https://hosted.weblate.org/projects/uzdoom/common/"
 "ba/>\n"
@@ -92,6 +92,7 @@ msgstr "Drugačija verzija"
 msgid "MNU_NOFILES"
 msgstr "Nema datoteka"
 
+#, fuzzy
 msgid "MNU_DELETESG"
 msgstr "Želite li stvarno izbrisati ovu spašenu igru?"
 

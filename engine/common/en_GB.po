@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 05:09+0000\n"
+"PO-Revision-Date: 2026-02-12 19:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English (United Kingdom) <https://hosted.weblate.org/projects/"
 "uzdoom/common/en_GB/>\n"
@@ -92,7 +92,7 @@ msgid "MNU_NOFILES"
 msgstr "No files"
 
 msgid "MNU_DELETESG"
-msgstr "Do you really want to delete the savegame?\n"
+msgstr "Do you really want to delete the savegame?"
 
 msgid "OPTVAL_OFF"
 msgstr "Off"
