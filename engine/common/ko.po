@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 03:10+0000\n"
+"PO-Revision-Date: 2026-02-12 19:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/common/ko/>"
 "\n"
@@ -91,6 +91,7 @@ msgstr "다른 버젼"
 msgid "MNU_NOFILES"
 msgstr "파일 없음"
 
+#, fuzzy
 msgid "MNU_DELETESG"
 msgstr "저장된 게임을 정말로 삭제하시겠습니까?"
 
@@ -1328,7 +1329,7 @@ msgid "GLTEXMNU_HQRESIZEMULT"
 msgstr "고퀄리티 리사이징 승수"
 
 msgid "GLTEXMNU_HQRESIZEWARN"
-msgstr "이 설정은 비디오 메모리의 %d 배가 더 필요합니다."
+msgstr "이 설정은 비디오 메모리의 %d 배가 더 필요합니다"
 
 msgid "GLTEXMNU_RESIZETEX"
 msgstr "텍스쳐 리사이징"
