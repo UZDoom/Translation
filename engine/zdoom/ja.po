@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-07 17:36+0000\n"
-"Last-Translator: Hosted Weblate user 140328 <apophis@sapronym.net>\n"
+"PO-Revision-Date: 2026-02-12 01:09+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ja/>\n"
 "Language: ja\n"
@@ -14,14 +14,15 @@ msgstr ""
 "X-Generator: Weblate 5.16-dev\n"
 "HeaderCode: jp\n"
 
+#, fuzzy
 msgid "PRESSKEY"
-msgstr "何かキーを押せ"
+msgstr "何かキーを押せ。"
 
 msgid "SECRETMESSAGE"
 msgstr "シークレットを解き明かした!"
 
 msgid "D_DEVSTR"
-msgstr "このモードは使わないでおけ"
+msgstr "このモードは使わないでおけ。"
 
 msgid "QUITMSG"
 msgstr ""
