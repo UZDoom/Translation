@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 03:10+0000\n"
+"PO-Revision-Date: 2026-02-12 06:44+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/be/>\n"
@@ -190,6 +190,7 @@ msgstr "Я думаў аб табе інакш..."
 msgid "QUITMSG20"
 msgstr "Цудоўна! Пастраляў ды змыўся!"
 
+#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
 "Ты можаш выйсці...\n"
@@ -215,6 +216,7 @@ msgstr ""
 "Не выходзь зараз.\n"
 "Нам патрэбна твая дапамога!"
 
+#, fuzzy
 msgid "QUITMSG26"
 msgstr ""
 "Спадзяюся, ты толькі робіш\n"
@@ -230,6 +232,7 @@ msgstr ""
 "Не пакідай\n"
 "Міжгалактычную Федэрацыю шматкоў!"
 
+#, fuzzy
 msgid "QUITMSG29"
 msgstr ""
 "Сапраўдны воін Chex(R)\n"
@@ -274,6 +277,7 @@ msgstr "Што гэта была?"
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Вы трызніце."
 
+#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
 msgstr "Якая прыкрасць..."
 
@@ -331,9 +335,11 @@ msgstr "Узмацненне ўключана"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+#, fuzzy
 msgid "STSTR_CHOPPERS"
 msgstr "...не адстой - GM"
 
+#, fuzzy
 msgid "STSTR_CLEV"
 msgstr "Змена ўзроўню..."
 
@@ -394,6 +400,7 @@ msgstr "Рэжым замарозкі ўключаны"
 msgid "TXT_FREEZEOFF"
 msgstr "Рэжым замарозкі выключаны"
 
+#, fuzzy
 msgid "TXT_STRANGE"
 msgstr "Вы адчуваеце сябе дзіўна..."
 
