@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 01:50+0000\n"
+"PO-Revision-Date: 2026-02-12 03:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/nb_NO/>\n"
@@ -141,6 +141,7 @@ msgstr "Flaks for deg at jeg ikke slår deg for å tenke på å dra."
 msgid "QUITMSG15"
 msgstr "Hvor skal du?! Hva med opprøret?"
 
+#, fuzzy
 msgid "QUITMSG16"
 msgstr "Carnage interruptus... For en erting!"
 
@@ -150,6 +151,7 @@ msgstr "Men du er håpet... min eneste sjanse!!!"
 msgid "QUITMSG18"
 msgstr "Ingen forlater Blackbird."
 
+#, fuzzy
 msgid "QUITMSG19"
 msgstr "Jeg trodde du var annerledes..."
 
