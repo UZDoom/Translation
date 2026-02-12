@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 03:10+0000\n"
+"PO-Revision-Date: 2026-02-12 06:44+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/el/>\n"
@@ -163,6 +163,7 @@ msgstr "Νόμιζα οτι είσουν διαφορετικός..."
 msgid "QUITMSG20"
 msgstr "Καλά! Απλώς σκότοσε και φύγε!"
 
+#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
 "Μπορείς να φύγεις...\n"
@@ -184,6 +185,7 @@ msgstr ""
 "Μή φύγεις τώρα.\n"
 "Χρειαζόμαστε τη βοήθεια σου!"
 
+#, fuzzy
 msgid "QUITMSG26"
 msgstr "Ελπίζω οτι απλώς κάνεις ενα διάλειμμα για ένα Chex (R) μέιγμα."
 
@@ -195,6 +197,7 @@ msgstr ""
 msgid "QUITMSG28"
 msgstr "Μήν εγκαταλήψεις την Διαγαλαξιακή Ομοσπονδία των Δημητριακών!"
 
+#, fuzzy
 msgid "QUITMSG29"
 msgstr "Ο αληθινός Chex(R) Πολεμιστής δέν θα έφευγε τοσο γρήγορα!"
 
@@ -239,6 +242,7 @@ msgstr "Φοβήζεις τον εαυτό σου"
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Αρχίζεις να ουρλίαζεις"
 
+#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
 msgstr "Το έχασες"
 
@@ -295,9 +299,11 @@ msgstr ""
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+#, fuzzy
 msgid "STSTR_CHOPPERS"
 msgstr "... δέν είναι χάλια - GW"
 
+#, fuzzy
 msgid "STSTR_CLEV"
 msgstr "Αλλαγή πίστας..."
 
@@ -358,6 +364,7 @@ msgstr "Παγομένη λειτουργία ΕΝΕΡΓΟΠΟΙΗΜΈΝΗ"
 msgid "TXT_FREEZEOFF"
 msgstr "Παγομένη λειτουργία ΆΠΕΝΕΡΓΟΠΟΙΗΜΈΝΗ"
 
+#, fuzzy
 msgid "TXT_STRANGE"
 msgstr "Νιώθης περίεργα..."
 
@@ -2041,9 +2048,11 @@ msgstr ""
 msgid "MSG_TALISMANRED"
 msgstr ""
 
+#, fuzzy
 msgid "MSG_TALISMANGREEN"
 msgstr "Οτιδήποτε είναι, δέν είναι απο αυτό τον κόσμο..."
 
+#, fuzzy
 msgid "MSG_TALISMANBLUE"
 msgstr "Πρέπει να κάνι κάτι..."
 
