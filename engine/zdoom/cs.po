@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 03:09+0000\n"
+"PO-Revision-Date: 2026-02-12 06:44+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/cs/>\n"
@@ -189,6 +189,7 @@ msgstr "Myslela jsem, že jsi jin@[adj_cs]..."
 msgid "QUITMSG20"
 msgstr "Fajn! Prostě zab a uteč!"
 
+#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
 "Můžeš odejít...\n"
@@ -214,6 +215,7 @@ msgstr ""
 "Teď neodcházej.\n"
 "Potřebujeme tvoji pomoc!"
 
+#, fuzzy
 msgid "QUITMSG26"
 msgstr ""
 "Doufám, že si jen dáváš\n"
@@ -229,6 +231,7 @@ msgstr ""
 "Neopouštěj Intergalaktickou\n"
 "federaci cereálií!"
 
+#, fuzzy
 msgid "QUITMSG29"
 msgstr ""
 "Skutečný Chex(R) bojovník\n"
@@ -273,6 +276,7 @@ msgstr "Vystrašíš se."
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Začneš pařit."
 
+#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
 msgstr "Kleplo ti..."
 
@@ -329,9 +333,11 @@ msgstr "Power-up vybrán"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+#, fuzzy
 msgid "STSTR_CHOPPERS"
 msgstr "... není cucák - GM"
 
+#, fuzzy
 msgid "STSTR_CLEV"
 msgstr "Měním level..."
 
@@ -392,6 +398,7 @@ msgstr "Režim zamrznutí ZAP"
 msgid "TXT_FREEZEOFF"
 msgstr "Režim zamrznutí VYP"
 
+#, fuzzy
 msgid "TXT_STRANGE"
 msgstr "Cítíš se divně..."
 
@@ -2071,12 +2078,15 @@ msgstr "Sebral@[ao_cs] jsi elektrické šípy."
 msgid "TXT_AMMOSATCHEL"
 msgstr "Sebral@[ao_cs] jsi brašnu na munici."
 
+#, fuzzy
 msgid "MSG_TALISMANRED"
 msgstr "Máš pocit, že jsi na to sahat neměl@[ao_cs]..."
 
+#, fuzzy
 msgid "MSG_TALISMANGREEN"
 msgstr "Je jedno, co to je, do tohoto světa to nepatří..."
 
+#, fuzzy
 msgid "MSG_TALISMANBLUE"
 msgstr "Něco to dělat musí..."
 
@@ -2572,9 +2582,11 @@ msgstr "Ty už máš přece dost!"
 msgid "TXT_GOAWAY"
 msgstr "Jdi pryč!"
 
+#, fuzzy
 msgid "TXT_COMM0"
 msgstr "Příchozí zpráva..."
 
+#, fuzzy
 msgid "TXT_COMM1"
 msgstr "Příchozí zpráva od Straky..."
 
@@ -2585,9 +2597,11 @@ msgstr "Najdi pomoc."
 msgid "TXT_TRADE"
 msgstr "za %u zlatých"
 
+#, fuzzy
 msgid "GOTCHEXARMOR"
 msgstr "Sebráno Chex(R) brnění."
 
+#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
 msgstr "Sebráno Super Chex(R) brnění!"
 
@@ -2763,6 +2777,7 @@ msgstr ""
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: Bazoikské jeskyně"
 
+#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Mise splněna.\n"
@@ -2828,6 +2843,7 @@ msgstr ""
 "\n"
 "Stiskni Y nebo N."
 
+#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
 "Toto je Chex(R) Quest. Najdi\n"
@@ -2866,6 +2882,7 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Superbzukry přidány"
 
+#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "... Jez Chex(R)!"
