@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 01:10+0000\n"
+"PO-Revision-Date: 2026-02-12 03:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/it/>\n"
@@ -169,6 +169,7 @@ msgstr ""
 "Dove stai andando?!\n"
 "E la ribellione?"
 
+#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
 "Macellus interruptus...\n"
@@ -182,6 +183,7 @@ msgstr ""
 msgid "QUITMSG18"
 msgstr "Nessuno gira le spalle a Blackbird."
 
+#, fuzzy
 msgid "QUITMSG19"
 msgstr "Pensavo tu fossi diverso..."
 
