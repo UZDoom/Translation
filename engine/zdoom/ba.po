@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-24 17:00+0000\n"
-"Last-Translator: Boondorl <boondorl0@gmail.com>\n"
+"PO-Revision-Date: 2026-02-12 01:50+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Bashkir <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ba/>\n"
 "Language: ba\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15.1\n"
+"X-Generator: Weblate 5.16-dev\n"
 "HeaderCode: ba\n"
 
 msgid "PRESSKEY"
@@ -20,11 +20,15 @@ msgstr "Pritisnite tipku."
 msgid "SECRETMESSAGE"
 msgstr "Tajna je otkrivena!"
 
+#, fuzzy
 msgid "D_DEVSTR"
 msgstr "Beskorisni način je UKLJ."
 
+#, fuzzy
 msgid "QUITMSG"
-msgstr "Zar ste sigurni da želite izaći iz ove sjajne igre?"
+msgstr ""
+"Zar ste sigurni da želite\n"
+"izaći iz ove sjajne igre?"
 
 # In some languages, it may make more sense to translate “Press a key” as
 # “Press any key.”

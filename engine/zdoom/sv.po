@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-07 17:36+0000\n"
-"Last-Translator: Hosted Weblate user 140328 <apophis@sapronym.net>\n"
+"PO-Revision-Date: 2026-02-12 01:50+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/sv/>\n"
 "Language: sv\n"
@@ -21,16 +21,20 @@ msgid "SECRETMESSAGE"
 msgstr "En hemlighet avslöjas!"
 
 msgid "D_DEVSTR"
-msgstr "Oanvändbart läge på.\n"
+msgstr "Oanvändbart läge på."
 
+#, fuzzy
 msgid "QUITMSG"
-msgstr "Är du säker på att du vill sluta med detta fantastiska spel?"
+msgstr ""
+"Är du säker på att du vill sluta\n"
+"med detta fantastiska spel?"
 
 # In some languages, it may make more sense to translate “Press a key” as
 # “Press any key.”
 msgid "LOADNET"
 msgstr ""
 "Du kan inte göra lastning när du är i ett nätspel!\n"
+"\n"
 "Tryck på en tangent."
 
 msgid "QLOADNET"

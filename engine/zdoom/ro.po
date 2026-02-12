@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-07 17:36+0000\n"
-"Last-Translator: Hosted Weblate user 140328 <apophis@sapronym.net>\n"
+"PO-Revision-Date: 2026-02-12 01:50+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ro/>\n"
 "Language: ro\n"
@@ -21,11 +21,15 @@ msgstr "Apasă o tastă."
 msgid "SECRETMESSAGE"
 msgstr "Ai găsit un secret!"
 
+#, fuzzy
 msgid "D_DEVSTR"
 msgstr "Modul inutil ACTIVAT."
 
+#, fuzzy
 msgid "QUITMSG"
-msgstr "Ești sigur că vrei să ieși dintr-un joc atât de grozav?"
+msgstr ""
+"Ești sigur că vrei să ieși\n"
+"dintr-un joc atât de grozav?"
 
 # In some languages, it may make more sense to translate “Press a key” as
 # “Press any key.”

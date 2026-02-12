@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-07 17:36+0000\n"
-"Last-Translator: Hosted Weblate user 140328 <apophis@sapronym.net>\n"
+"PO-Revision-Date: 2026-02-12 01:10+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/it/>\n"
 "Language: it\n"
@@ -18,10 +18,10 @@ msgid "PRESSKEY"
 msgstr "Premi un tasto."
 
 msgid "SECRETMESSAGE"
-msgstr "È stato svelato un segreto! "
+msgstr "È stato svelato un segreto!"
 
 msgid "D_DEVSTR"
-msgstr "Modalità inutile ATTIVATA.\n"
+msgstr "Modalità inutile ATTIVATA."
 
 msgid "QUITMSG"
 msgstr ""
