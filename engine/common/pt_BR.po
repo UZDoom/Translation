@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 5.16-dev\n"
-"HeaderCode: pt\n"
+"X-HeaderCode: pt\n"
 
 msgid "PRESSYN"
 msgstr "Aperte Y ou N."

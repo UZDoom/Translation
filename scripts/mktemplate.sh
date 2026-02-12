@@ -21,5 +21,14 @@ find . -type f -name "en_US.po" | while read -r po_file; do
          msgfilter --keep-header -i "$po_file" -o "$pot_file" sed -e 's/.*//'
     fi
 
-    sed -i '/^"HeaderCode: /d' "$pot_file"
+    sed -i '1,/^$/ {
+        s/^\("[^:]*: \).*/\1\\n"/
+        s/^"[^:]*"$/""/
+        /^""$/d
+        /^"X-.*: /d
+        s/^\("Project-Id-Version:\).*"/\1 1.0\\n"/
+        s/^\("MIME-Version:\).*"/\1 1.0\\n"/
+        s/^\("Content-Transfer-Encoding:\).*"/\1 8bit\\n"/
+        s/^\("Content-Type:\).*"/\1 text\/plain; charset=utf-8\\n"/
+    }' "$pot_file"
 done
