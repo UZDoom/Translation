@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 03:10+0000\n"
+"PO-Revision-Date: 2026-02-12 05:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English (United Kingdom) <https://hosted.weblate.org/projects/"
 "uzdoom/common/en_GB/>\n"
@@ -1671,9 +1671,8 @@ msgstr "ID #2"
 msgid "REVMNU_Create"
 msgstr "Create"
 
-#, fuzzy
 msgid "REVMNU_Save"
-msgstr "Save..."
+msgstr "Save…"
 
 msgid "REVMNU_File_name"
 msgstr "File name"
@@ -1741,7 +1740,6 @@ msgstr "Search:"
 
 # This is not a text to be translated but an engine switch for complex
 # languages.
-#, fuzzy
 msgid "USE_GENERIC_FONT"
 msgstr "0"
 
@@ -2029,3 +2027,12 @@ msgstr "Release Notes"
 
 msgid "ACCMNU_TITLE"
 msgstr "Accessibility Options"
+
+msgid "ACCMNU_RESET"
+msgstr "Reset Accessibility Options"
+
+msgid "MSGMNU_MESSAGEQUEUE"
+msgstr "Message queue size"
+
+msgid "MSGMNU_STACKIDENTICAL"
+msgstr "Stack repeated messages"
