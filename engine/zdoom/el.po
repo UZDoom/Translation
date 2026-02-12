@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 01:10+0000\n"
+"PO-Revision-Date: 2026-02-12 01:50+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/el/>\n"
@@ -23,8 +23,11 @@ msgstr "Ένα μυστικό αποκαλύφθηκε!"
 msgid "D_DEVSTR"
 msgstr "Άχρηστη λειτουργία είναι ΑΝΟΙΧΤΗ."
 
+#, fuzzy
 msgid "QUITMSG"
-msgstr "Είσαι σίγουρος ότι θέλεις να κλείσεις αυτο το σπουδαίο παιχνίδι;"
+msgstr ""
+"Είσαι σίγουρος ότι θέλεις να κλείσεις\n"
+"αυτο το σπουδαίο παιχνίδι;"
 
 # In some languages, it may make more sense to translate “Press a key” as
 # “Press any key.”
