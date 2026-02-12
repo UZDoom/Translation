@@ -5344,9 +5344,6 @@ msgstr "Строгий"
 msgid "PICKER_FILELOADING"
 msgstr "Загрузка файла"
 
-msgid "MISCMNU_CLEANMENU"
-msgstr "Классический масштаб меню из ZDoom"
-
 msgid "DSPLYMNU_IMAGEADJUST"
 msgstr "Калибровка изображения"
 

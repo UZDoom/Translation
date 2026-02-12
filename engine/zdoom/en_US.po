@@ -5320,9 +5320,6 @@ msgstr "Strict"
 msgid "PICKER_FILELOADING"
 msgstr "File Loading"
 
-msgid "MISCMNU_CLEANMENU"
-msgstr "Classic ZDoom menu scaling"
-
 msgid "DSPLYMNU_IMAGEADJUST"
 msgstr "Image Calibration"
 

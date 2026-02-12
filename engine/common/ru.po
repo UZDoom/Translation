@@ -1531,7 +1531,7 @@ msgid "MISCMNU_QUICKSAVECOUNT"
 msgstr "Кол-во ячеек для быстрых сохранений"
 
 msgid "MISCMNU_CLEANMENU"
-msgstr "Отключить чистое масштабирование меню"
+msgstr "Классический масштаб меню из ZDoom"
 
 msgid "MISCMNU_PAUSEINBACKGROUND"
 msgstr "Пауза при сворачивании окна"

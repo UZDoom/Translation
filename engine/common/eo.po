@@ -1501,7 +1501,7 @@ msgid "MISCMNU_QUICKSAVECOUNT"
 msgstr "Kvanto da rapidkonservoj en rotaciado"
 
 msgid "MISCMNU_CLEANMENU"
-msgstr "Malebligi puran skaladon en la ĉefmenuo"
+msgstr "Klasika skalado de ZDoom-menuo"
 
 msgid "MISCMNU_PAUSEINBACKGROUND"
 msgstr "Paŭzigi ludon fone"

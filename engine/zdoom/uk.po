@@ -5300,9 +5300,6 @@ msgstr "Прозорий"
 msgid "PICKER_FILELOADING"
 msgstr "Завантаження файлу"
 
-msgid "MISCMNU_CLEANMENU"
-msgstr "Класичне масштабування меню ZDoom"
-
 msgid "DSPLYMNU_IMAGEADJUST"
 msgstr "Калібрування зображення"
 

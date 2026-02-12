@@ -1501,7 +1501,7 @@ msgid "MISCMNU_QUICKSAVECOUNT"
 msgstr "Number of quicksaves in rotation"
 
 msgid "MISCMNU_CLEANMENU"
-msgstr "Disable Menu Clean Scaling"
+msgstr "Classic ZDoom menu scaling"
 
 msgid "MISCMNU_PAUSEINBACKGROUND"
 msgstr "Pause game in background"
