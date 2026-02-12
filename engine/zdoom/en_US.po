@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 01:09+0000\n"
+"PO-Revision-Date: 2026-02-12 03:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/en/>\n"
@@ -171,7 +171,7 @@ msgstr ""
 
 msgid "QUITMSG16"
 msgstr ""
-"Carnage interruptus...\n"
+"Carnage interruptus…\n"
 "What a tease!"
 
 msgid "QUITMSG17"
@@ -183,7 +183,7 @@ msgid "QUITMSG18"
 msgstr "Nobody walks out on Blackbird."
 
 msgid "QUITMSG19"
-msgstr "I thought you were different..."
+msgstr "I thought you were different…"
 
 msgid "QUITMSG20"
 msgstr "Fine! just kill and run!"
