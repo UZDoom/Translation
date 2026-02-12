@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-01-25 03:01+0000\n"
-"Last-Translator: StarFang208 <polaritymanx@yahoo.it>\n"
+"PO-Revision-Date: 2026-02-12 02:02+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/uzdoom/common/"
 "it/>\n"
 "Language: it\n"
@@ -1502,6 +1502,7 @@ msgstr "Rotazione del quicksave"
 msgid "MISCMNU_QUICKSAVECOUNT"
 msgstr "Numero di quicksave in rotazione"
 
+#, fuzzy
 msgid "MISCMNU_CLEANMENU"
 msgstr "Disabilita il fattore di scala pulito del menu"
 

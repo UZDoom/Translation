@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-01-25 03:01+0000\n"
-"Last-Translator: Lucas Fortes basilio <lucas11fortes@gmail.com>\n"
+"PO-Revision-Date: 2026-02-12 02:02+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "uzdoom/common/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -1519,6 +1519,7 @@ msgstr "Rotação de salvamentos rápidos"
 msgid "MISCMNU_QUICKSAVECOUNT"
 msgstr "Número de salvamentos rápidos em rotação"
 
+#, fuzzy
 msgid "MISCMNU_CLEANMENU"
 msgstr "Desativar escala limpa do menu"
 

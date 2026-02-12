@@ -5271,6 +5271,3 @@ msgstr "Kontrast"
 
 msgid "DSPLYMNU_SATURATION"
 msgstr "Sättigung"
-
-msgid "MISCMNU_CLEANMENU"
-msgstr "Klassische ZDoom-Menüskalierung"
