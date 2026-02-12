@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 01:10+0000\n"
+"PO-Revision-Date: 2026-02-12 01:50+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hr/>\n"
@@ -26,7 +26,9 @@ msgstr "Beskorisni način UKLJ."
 
 #, fuzzy
 msgid "QUITMSG"
-msgstr "Jesi li siguran/na kako želiš izaći iz ove sjajne igre?"
+msgstr ""
+"Jesi li siguran da kakoželiš\n"
+"izaći iz ove sjajne igre?"
 
 # In some languages, it may make more sense to translate “Press a key” as
 # “Press any key.”
