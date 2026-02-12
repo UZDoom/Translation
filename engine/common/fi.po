@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 19:10+0000\n"
+"PO-Revision-Date: 2026-02-12 20:20+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/uzdoom/common/"
 "fi/>\n"
@@ -35,9 +35,12 @@ msgstr "Haluatko varmasti tehdä tämän?"
 msgid "NOTSET"
 msgstr "Ei asetettu"
 
+#, fuzzy
 msgid "QSPROMPT"
 msgstr ""
-"Haluatko tallentaa pelin %s päälle?\n"
+"Pikatallenna peliisi nimeltä?\n"
+"\n"
+"'%s'?\n"
 "\n"
 "Paina Y tai N."
 
