@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 01:50+0000\n"
+"PO-Revision-Date: 2026-02-12 03:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hr/>\n"
@@ -141,6 +141,7 @@ msgstr ""
 "Gdje ideš?\n"
 "Što je s pobunom?"
 
+#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
 "Prekinuti pokolj...\n"
@@ -152,6 +153,7 @@ msgstr "Ali ti si nada -- moja jedina šansa!!"
 msgid "QUITMSG18"
 msgstr "Nitko ne izlazi na Blackbird."
 
+#, fuzzy
 msgid "QUITMSG19"
 msgstr "Mislio/la sam da si drugačija/drugačiji..."
 
