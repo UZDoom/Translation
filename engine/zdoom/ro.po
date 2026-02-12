@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 01:50+0000\n"
+"PO-Revision-Date: 2026-02-12 03:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ro/>\n"
@@ -164,6 +164,7 @@ msgstr ""
 "Unde pleci?!\n"
 "Cu rebeliunea cum rămâne?"
 
+#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
 "Carnagiu întrerupt...\n"
@@ -177,6 +178,7 @@ msgstr ""
 msgid "QUITMSG18"
 msgstr "Nimeni n-a scăpat vreodată de Mierla."
 
+#, fuzzy
 msgid "QUITMSG19"
 msgstr "Am crezut că tu ești diferit..."
 
