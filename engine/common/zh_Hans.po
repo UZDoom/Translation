@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 00:00+0000\n"
+"PO-Revision-Date: 2026-02-12 03:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/common/zh_Hans/>\n"
@@ -1671,6 +1671,7 @@ msgstr "ID #2"
 msgid "REVMNU_Create"
 msgstr "创建"
 
+#, fuzzy
 msgid "REVMNU_Save"
 msgstr "保存..."
 
