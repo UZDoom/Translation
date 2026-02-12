@@ -5277,9 +5277,6 @@ msgstr "严格"
 msgid "PICKER_FILELOADING"
 msgstr "文件加载"
 
-msgid "MISCMNU_CLEANMENU"
-msgstr "经典ZDoom的菜单缩放"
-
 msgid "OPTVAL_LAX"
 msgstr "宽松"
 

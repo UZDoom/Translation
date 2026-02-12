@@ -1501,7 +1501,7 @@ msgid "MISCMNU_QUICKSAVECOUNT"
 msgstr "快速保存上限数量"
 
 msgid "MISCMNU_CLEANMENU"
-msgstr "禁用菜单像素整数缩放"
+msgstr "经典ZDoom的菜单缩放"
 
 msgid "MISCMNU_PAUSEINBACKGROUND"
 msgstr "后台运行时暂停游戏"

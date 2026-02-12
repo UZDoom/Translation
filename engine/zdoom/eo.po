@@ -5289,9 +5289,6 @@ msgstr ""
 msgid "OPTMNU_RESETALL"
 msgstr "Restarigi ĉiujn"
 
-msgid "MISCMNU_CLEANMENU"
-msgstr "Klasika skalado de ZDoom-menuo"
-
 msgid "OPTVAL_STRICT"
 msgstr "Severa"
 

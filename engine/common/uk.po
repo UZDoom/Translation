@@ -1513,7 +1513,7 @@ msgid "MISCMNU_QUICKSAVECOUNT"
 msgstr "Кількість слотів для швидких збережень"
 
 msgid "MISCMNU_CLEANMENU"
-msgstr "Вимкнути чисте масштабування меню"
+msgstr "Класичне масштабування меню ZDoom"
 
 msgid "MISCMNU_PAUSEINBACKGROUND"
 msgstr "Пауза при згортуванні вікна"

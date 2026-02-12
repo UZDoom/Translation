@@ -5241,9 +5241,6 @@ msgstr ""
 msgid "PICKER_FILELOADING"
 msgstr ""
 
-msgid "MISCMNU_CLEANMENU"
-msgstr ""
-
 msgid "DSPLYMNU_IMAGEADJUST"
 msgstr ""
 
