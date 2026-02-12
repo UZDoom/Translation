@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 03:10+0000\n"
+"PO-Revision-Date: 2026-02-12 06:44+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fi/>\n"
@@ -167,6 +167,7 @@ msgstr "Luulin, että olit erilainen kuin muut..."
 msgid "QUITMSG20"
 msgstr "Hyvä! Senkun vain tapat ja lähdet!"
 
+#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
 "Voit lopettaa...\n"
@@ -188,6 +189,7 @@ msgstr ""
 "Älä lähde nyt.\n"
 "Tarvitsemme apuasi!"
 
+#, fuzzy
 msgid "QUITMSG26"
 msgstr "Toivottavasti pidät taukoa vain Chex(R) Party Mixiä varten."
 
@@ -199,6 +201,7 @@ msgstr ""
 msgid "QUITMSG28"
 msgstr "Älä hylkää intergalaktista muroliittoa!"
 
+#, fuzzy
 msgid "QUITMSG29"
 msgstr "Todellinen Chex(R)-soturi ei luovuttaisi niin nopeasti!"
 
@@ -241,6 +244,7 @@ msgstr "Pelotat itseäsi"
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Alat hourailla"
 
+#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
 msgstr "Olet seonnut..."
 
@@ -299,9 +303,11 @@ msgstr "Tehostin kytketty"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+#, fuzzy
 msgid "STSTR_CHOPPERS"
 msgstr "... ei ole syvältä - GM"
 
+#, fuzzy
 msgid "STSTR_CLEV"
 msgstr "Vaihdetaan tasoa..."
 
@@ -362,6 +368,7 @@ msgstr "Jäädytystila päällä"
 msgid "TXT_FREEZEOFF"
 msgstr "Jäädytystila pois päältä"
 
+#, fuzzy
 msgid "TXT_STRANGE"
 msgstr "Sinulla on kummallinen olo..."
 
@@ -2041,12 +2048,15 @@ msgstr "Poimit sähkönuolia."
 msgid "TXT_AMMOSATCHEL"
 msgstr "Poimit ammuslaukun."
 
+#, fuzzy
 msgid "MSG_TALISMANRED"
 msgstr "Sinusta tuntuu, ettei siihen olisi pitänyt koskea."
 
+#, fuzzy
 msgid "MSG_TALISMANGREEN"
 msgstr "Mikä ikinä se onkaan, se ei kuulu tähän maailmaan..."
 
+#, fuzzy
 msgid "MSG_TALISMANBLUE"
 msgstr "Sen on pakko tehdä jotakin..."
 
@@ -2542,9 +2552,11 @@ msgstr "Sinulla näyttää olevan tarpeeksi!"
 msgid "TXT_GOAWAY"
 msgstr "Häivy!"
 
+#, fuzzy
 msgid "TXT_COMM0"
 msgstr "Vastaantuleva viesti..."
 
+#, fuzzy
 msgid "TXT_COMM1"
 msgstr "Vastaantuleva viesti Blackbirdiltä..."
 
@@ -2555,9 +2567,11 @@ msgstr "Etsi apua"
 msgid "TXT_TRADE"
 msgstr "hintaan %u"
 
+#, fuzzy
 msgid "GOTCHEXARMOR"
 msgstr "Poimit Chex(R)-panssarin."
 
+#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
 msgstr "Poimit Super-Chex(R)-panssarin!"
 
@@ -2733,6 +2747,7 @@ msgstr ""
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: Bazoikin luolastot"
 
+#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Tehtävä suoritettu.\n"
@@ -2795,6 +2810,7 @@ msgstr ""
 "\n"
 "Paina Y tai N."
 
+#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
 "Tämä on Chex(R)-seikkailu. Hae\n"
@@ -2833,6 +2849,7 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Superzorch lisätty"
 
+#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "... Syö Chex(R):ä!"
