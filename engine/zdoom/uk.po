@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 01:10+0000\n"
+"PO-Revision-Date: 2026-02-12 01:50+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/uk/>\n"
@@ -24,8 +24,11 @@ msgstr "Знайдено схованку!"
 msgid "D_DEVSTR"
 msgstr "Увімкнено режим розробника."
 
+#, fuzzy
 msgid "QUITMSG"
-msgstr "Ти дійсно хочеш вийти з цієї прекрасної гри?"
+msgstr ""
+"Ти дійсно хочеш вийти з\n"
+"цієї прекрасної гри?"
 
 # In some languages, it may make more sense to translate “Press a key” as
 # “Press any key.”
