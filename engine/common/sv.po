@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 03:10+0000\n"
+"PO-Revision-Date: 2026-02-12 19:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/uzdoom/common/"
 "sv/>\n"
@@ -24,7 +24,10 @@ msgid "TXT_NO"
 msgstr "Nej"
 
 msgid "SAVEDEAD"
-msgstr "Du kan inte spara om du inte spelar! Tryck på en tangent."
+msgstr ""
+"Du kan inte spara om du inte spelar!\n"
+"\n"
+"Tryck på en tangent."
 
 msgid "SAFEMESSAGE"
 msgstr "Vill du verkligen göra det här?"
@@ -83,6 +86,7 @@ msgstr "Annan version"
 msgid "MNU_NOFILES"
 msgstr "Inga filer"
 
+#, fuzzy
 msgid "MNU_DELETESG"
 msgstr "Vill du verkligen radera sparfilen?"
 
