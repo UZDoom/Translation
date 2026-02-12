@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 03:10+0000\n"
+"PO-Revision-Date: 2026-02-12 06:44+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ro/>\n"
@@ -185,6 +185,7 @@ msgstr "Am crezut că tu ești diferit..."
 msgid "QUITMSG20"
 msgstr "Fie! Omoară și fugi!"
 
+#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
 "Poți să ieși...\n"
@@ -206,6 +207,7 @@ msgstr ""
 "Nu pleca.\n"
 "Avem nevoie de ajutorul tău!"
 
+#, fuzzy
 msgid "QUITMSG26"
 msgstr ""
 "Sper că iei doar o pauză cu un bol de cereale \n"
@@ -219,6 +221,7 @@ msgstr ""
 msgid "QUITMSG28"
 msgstr "Nu abandona Federația Intergalactică a Cerealelor!"
 
+#, fuzzy
 msgid "QUITMSG29"
 msgstr ""
 "Adevăratul Luptător Chex(R) nu s-ar da bătut atât\n"
@@ -263,6 +266,7 @@ msgstr "Te speri singur"
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Începi să aiurezi"
 
+#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
 msgstr "Ai luat-o pe ulei..."
 
@@ -321,9 +325,11 @@ msgstr "Abilitate Comutată"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+#, fuzzy
 msgid "STSTR_CHOPPERS"
 msgstr "...nu e de rahat - GM"
 
+#, fuzzy
 msgid "STSTR_CLEV"
 msgstr "Schimbare Hartă..."
 
@@ -384,6 +390,7 @@ msgstr "Modul înghețat pornit"
 msgid "TXT_FREEZEOFF"
 msgstr "Modul înghețat oprit"
 
+#, fuzzy
 msgid "TXT_STRANGE"
 msgstr "Te simți ciudat..."
 
@@ -2072,12 +2079,15 @@ msgstr "Ai ridicat bolțurile electrice."
 msgid "TXT_AMMOSATCHEL"
 msgstr "Ai ridicat sacoșa de muniție."
 
+#, fuzzy
 msgid "MSG_TALISMANRED"
 msgstr "Ai sentimentul că nu trebuia atinsă..."
 
+#, fuzzy
 msgid "MSG_TALISMANGREEN"
 msgstr "Orice ar fi, nu are ce căuta în lumea asta..."
 
+#, fuzzy
 msgid "MSG_TALISMANBLUE"
 msgstr "Trebuie să fie bun la ceva..."
 
@@ -2576,9 +2586,11 @@ msgstr "Pare că ai destule!"
 msgid "TXT_GOAWAY"
 msgstr "Pleacă!"
 
+#, fuzzy
 msgid "TXT_COMM0"
 msgstr "Mesaj în recepționare..."
 
+#, fuzzy
 msgid "TXT_COMM1"
 msgstr "Recepționare mesaj de la BlackBird..."
 
@@ -2589,9 +2601,11 @@ msgstr "Găsește ajutor"
 msgid "TXT_TRADE"
 msgstr "pentru %u"
 
+#, fuzzy
 msgid "GOTCHEXARMOR"
 msgstr "Ai ridicat Armura Chex(R)."
 
+#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
 msgstr "Ai ridicat Super Armura Chex(R)!"
 
@@ -2769,6 +2783,7 @@ msgstr ""
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: Cavernele lui Bazoik"
 
+#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Misiune îndeplinită.\n"
@@ -2835,6 +2850,7 @@ msgstr ""
 "\n"
 "Apasă Y sau N."
 
+#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
 "Acesta este Chex(R) Quest, pentru mai multe\n"
@@ -2873,6 +2889,7 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Super Lingură Adăugată"
 
+#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "... Mănâncă Chex(R)!"
