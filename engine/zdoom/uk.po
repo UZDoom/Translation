@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 03:09+0000\n"
+"PO-Revision-Date: 2026-02-12 06:44+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/uk/>\n"
@@ -164,6 +164,7 @@ msgstr "Я думав, що ти інший..."
 msgid "QUITMSG20"
 msgstr "Прекрасно! Зробив амінь чортам і втік!"
 
+#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
 "Ти можеш вийти...\n"
@@ -185,6 +186,7 @@ msgstr ""
 "Не залишай нас.\n"
 "Нам потрібна твоя допомога!"
 
+#, fuzzy
 msgid "QUITMSG26"
 msgstr "Маю надію, що ти робиш перерву на пластівці Chex(R)."
 
@@ -196,6 +198,7 @@ msgstr ""
 msgid "QUITMSG28"
 msgstr "Не покидай Міжгалактичну Федерацію Пластівців!"
 
+#, fuzzy
 msgid "QUITMSG29"
 msgstr "Справжній воїн Chex(R) не здається так швидко!"
 
@@ -238,6 +241,7 @@ msgstr "Ви налякали себе"
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Ви починаєте марити"
 
+#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
 msgstr "Як сумно..."
 
@@ -302,9 +306,11 @@ msgstr "Підсилення ввімкнено"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+#, fuzzy
 msgid "STSTR_CHOPPERS"
 msgstr "... непогано — г.м."
 
+#, fuzzy
 msgid "STSTR_CLEV"
 msgstr "Зміна рівня..."
 
@@ -365,6 +371,7 @@ msgstr "Режим заморозки ВВІМКНЕНО"
 msgid "TXT_FREEZEOFF"
 msgstr "Режим заморозки ВИМКНЕНО"
 
+#, fuzzy
 msgid "TXT_STRANGE"
 msgstr "Ви почуваєте себе дивно..."
 
@@ -2043,12 +2050,15 @@ msgstr "Взято електричні болти."
 msgid "TXT_AMMOSATCHEL"
 msgstr "Взято сумку для набоїв."
 
+#, fuzzy
 msgid "MSG_TALISMANRED"
 msgstr "Ви відчуваєте, що не слід це чіпати..."
 
+#, fuzzy
 msgid "MSG_TALISMANGREEN"
 msgstr "Що б це не було, воно не належить цьому світу..."
 
+#, fuzzy
 msgid "MSG_TALISMANBLUE"
 msgstr "Воно повинно мати якесь призначення..."
 
@@ -2544,9 +2554,11 @@ msgstr "Здається, тобі досить!"
 msgid "TXT_GOAWAY"
 msgstr "Йди геть!"
 
+#, fuzzy
 msgid "TXT_COMM0"
 msgstr "Вхідне повідомлення..."
 
+#, fuzzy
 msgid "TXT_COMM1"
 msgstr "Вхідне повідомлення від Чорного Дрозда..."
 
@@ -2557,9 +2569,11 @@ msgstr "Знайди допомогу"
 msgid "TXT_TRADE"
 msgstr "за %u"
 
+#, fuzzy
 msgid "GOTCHEXARMOR"
 msgstr "Взято Chex(R) броню."
 
+#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
 msgstr "Взято Chex(R) супер броню!"
 
@@ -2735,6 +2749,7 @@ msgstr "E1M4: Дендропарк"
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: Печери Базойка"
 
+#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Місія виконана.\n"
@@ -2801,6 +2816,7 @@ msgstr ""
 "\n"
 "Натисни Y або N."
 
+#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
 "Ти граєш в Chex(R) Quest. Інші рівні тут - www.chexquest.com.\n"
@@ -2837,6 +2853,7 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Додано Супер Зорч"
 
+#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "... Їж Chex(R)!"
