@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 01:09+0000\n"
+"PO-Revision-Date: 2026-02-12 01:50+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/he/>\n"
@@ -21,9 +21,8 @@ msgstr "תלחץ על כל מקש."
 msgid "SECRETMESSAGE"
 msgstr "נמצא סוד!"
 
-#, fuzzy
 msgid "D_DEVSTR"
-msgstr "מצב חסר תועלת פעיל.\n"
+msgstr "מצב חסר תועלת פעיל."
 
 msgid "QUITMSG"
 msgstr ""
