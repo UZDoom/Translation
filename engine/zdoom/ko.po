@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 01:09+0000\n"
+"PO-Revision-Date: 2026-02-12 01:50+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ko/>\n"
@@ -24,8 +24,11 @@ msgstr "비밀 발견!"
 msgid "D_DEVSTR"
 msgstr "쓸모없는 모드 켬."
 
+#, fuzzy
 msgid "QUITMSG"
-msgstr "진짜 이 개쩌는 게임을 꺼버릴려고?"
+msgstr ""
+"진짜 이 개쩌는 게임을\n"
+"꺼버릴려고?"
 
 # In some languages, it may make more sense to translate “Press a key” as
 # “Press any key.”
