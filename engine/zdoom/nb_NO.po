@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 01:09+0000\n"
+"PO-Revision-Date: 2026-02-12 01:50+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/nb_NO/>\n"
@@ -23,8 +23,11 @@ msgstr "En hemmelighet er avslørt!"
 msgid "D_DEVSTR"
 msgstr "Ubrukelig modus PÅ."
 
+#, fuzzy
 msgid "QUITMSG"
-msgstr "Er du sikker på at du vil avslutte dette flotte spillet?"
+msgstr ""
+"Er du sikker på at du vil\n"
+"avslutte dette flotte spillet?"
 
 # In some languages, it may make more sense to translate “Press a key” as
 # “Press any key.”
