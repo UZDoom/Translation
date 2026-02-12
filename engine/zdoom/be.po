@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 01:10+0000\n"
+"PO-Revision-Date: 2026-02-12 03:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/be/>\n"
@@ -169,6 +169,7 @@ msgstr ""
 "Куды ты сабраўся?!\n"
 "А як жа паўстанне?"
 
+#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
 "Вось як заўсёды...\n"
@@ -182,11 +183,12 @@ msgstr ""
 msgid "QUITMSG18"
 msgstr "Яшчэ ніхто не сышоў ад Чорнага дразда."
 
+#, fuzzy
 msgid "QUITMSG19"
 msgstr "Я думаў аб табе інакш..."
 
 msgid "QUITMSG20"
-msgstr "Цудоўна! Пастраляў ды змыўся! "
+msgstr "Цудоўна! Пастраляў ды змыўся!"
 
 msgid "QUITMSG21"
 msgstr ""
@@ -237,7 +239,7 @@ msgid "TXT_DEFAULTPICKUPMSG"
 msgstr "Вы штосьці атрымалі"
 
 msgid "PD_ANY"
-msgstr "Для адкрыцця патрэбен любы ключ "
+msgstr "Для адкрыцця патрэбен любы ключ"
 
 msgid "PD_ANYOBJ"
 msgstr "Для ўключэння патрэбен любы ключ"
@@ -348,7 +350,7 @@ msgid "TXT_BUDDHA2OFF"
 msgstr "Рэжым ультыматыўнага Буды ВЫКЛЮЧАНЫ"
 
 msgid "TXT_CHEATPOWERON"
-msgstr "Сіла актывавана "
+msgstr "Сіла актывавана"
 
 msgid "TXT_CHEATPOWEROFF"
 msgstr "Сіла дэактэвавана"
@@ -357,7 +359,7 @@ msgid "TXT_CHEATHEALTH"
 msgstr "Поўнае здароўе"
 
 msgid "TXT_CHEATKEYS"
-msgstr "Усе ключы "
+msgstr "Усе ключы"
 
 msgid "TXT_CHEATSOUNDON"
 msgstr "Адладка гуку ўключана"
@@ -375,7 +377,7 @@ msgid "TXT_CHEATTICKERON"
 msgstr "Лічыльнік уключаны"
 
 msgid "TXT_CHEATTICKEROFF"
-msgstr "Лічыльнік выключаны "
+msgstr "Лічыльнік выключаны"
 
 msgid "TXT_CHEATARTIFACTS3"
 msgstr "Вы атрымалі гэта"
@@ -408,10 +410,10 @@ msgid "TXT_LEADBOOTSOFF"
 msgstr "Свінцовыя боты зняты"
 
 msgid "TXT_LIGHTER"
-msgstr "Вы адчуваеце сябе лягчэй "
+msgstr "Вы адчуваеце сябе лягчэй"
 
 msgid "TXT_GRAVITY"
-msgstr "Гравітацыя цягне вас уніз "
+msgstr "Гравітацыя цягне вас уніз"
 
 msgid "TXT_NOTARGET_ON"
 msgstr "Незаўважнасць УКЛЮЧАНА"
@@ -426,13 +428,13 @@ msgid "TXT_ANUBIS_OFF"
 msgstr "Браня огра знята"
 
 msgid "TXT_CHASECAM_ON"
-msgstr "Від ад трэцяй асобы ЎКЛЮЧАНЫ "
+msgstr "Від ад трэцяй асобы ЎКЛЮЧАНЫ"
 
 msgid "TXT_CHASECAM_OFF"
-msgstr "Від ад трэцяй асобы ВЫКЛЮЧАНЫ "
+msgstr "Від ад трэцяй асобы ВЫКЛЮЧАНЫ"
 
 msgid "TXT_BADDIE_KILLED"
-msgstr "1 благіш забіты "
+msgstr "1 благіш забіты"
 
 msgid "TXT_BADDIES_KILLED"
 msgstr "%d благішоў забіта"
