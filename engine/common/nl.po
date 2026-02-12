@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 03:10+0000\n"
+"PO-Revision-Date: 2026-02-12 19:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/uzdoom/common/nl/>"
 "\n"
@@ -92,6 +92,7 @@ msgstr "Anders Versie"
 msgid "MNU_NOFILES"
 msgstr "Geen bestanden"
 
+#, fuzzy
 msgid "MNU_DELETESG"
 msgstr "Wil je echt de opgeslagen spel verwijderen?"
 
@@ -1328,7 +1329,7 @@ msgid "GLTEXMNU_HQRESIZEMULT"
 msgstr "Textuurschaalfactor"
 
 msgid "GLTEXMNU_HQRESIZEWARN"
-msgstr "Deze modus vereist %d keer meer videogeheugen."
+msgstr "Deze modus vereist %d keer meer videogeheugen"
 
 msgid "GLTEXMNU_RESIZETEX"
 msgstr "Texturen schalen"
