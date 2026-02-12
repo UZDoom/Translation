@@ -2,9 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-02 00:42+0000\n"
-"Last-Translator: Joel Robert Justiawan "
-"<joelwindows7@users.noreply.hosted.weblate.org>\n"
+"PO-Revision-Date: 2026-02-12 03:10+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/uzdoom/common/"
 "id/>\n"
 "Language: id\n"
@@ -12,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.15-dev\n"
+"X-Generator: Weblate 5.16-dev\n"
 
 msgid "PRESSYN"
 msgstr "Tekan Y atau N."
@@ -1682,6 +1681,7 @@ msgstr ""
 msgid "REVMNU_Create"
 msgstr "Buat"
 
+#, fuzzy
 msgid "REVMNU_Save"
 msgstr "Simpan..."
 
