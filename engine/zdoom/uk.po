@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 01:50+0000\n"
+"PO-Revision-Date: 2026-02-12 03:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/uk/>\n"
@@ -143,6 +143,7 @@ msgstr ""
 "Куди зібрався?!\n"
 "А повстання?"
 
+#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
 "Різанина затихає...\n"
@@ -156,6 +157,7 @@ msgstr ""
 msgid "QUITMSG18"
 msgstr "Ще ніхто не дав чосу від Чорного дрозда."
 
+#, fuzzy
 msgid "QUITMSG19"
 msgstr "Я думав, що ти інший..."
 
