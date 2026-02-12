@@ -21,5 +21,5 @@ find . -type f -name "en_US.po" | while read -r po_file; do
          msgfilter --keep-header -i "$po_file" -o "$pot_file" sed -e 's/.*//'
     fi
 
-    sed -i '/^"HeaderCode: /d' "$pot_file"
+    sed -i '/^"X-HeaderCode: /d' "$pot_file"
 done

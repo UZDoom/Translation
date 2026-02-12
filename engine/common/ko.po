@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 5.16-dev\n"
-"HeaderCode: ko\n"
+"X-HeaderCode: ko\n"
 
 msgid "PRESSYN"
 msgstr "Y키 또는 N키를 누르시오."

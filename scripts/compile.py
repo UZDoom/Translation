@@ -42,8 +42,8 @@ def fill_dict(path):
 	meta = {}
 	data = {}
 
-	# use either `HeaderCode` or `Language` as the language id
-	meta["id"] = po.metadata["HeaderCode"] if "HeaderCode" in po.metadata else po.metadata["Language"]
+	# use either `X-HeaderCode` or `Language` as the language id
+	meta["id"] = po.metadata["X-HeaderCode"] if "X-HeaderCode" in po.metadata else po.metadata["Language"]
 	meta["valid"] = True
 
 	for e in po:

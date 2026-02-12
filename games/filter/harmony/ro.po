@@ -5,7 +5,7 @@ msgstr ""
 "Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"HeaderCode: ro\n"
+"X-HeaderCode: ro\n"
 
 msgid "NIGHTMARE"
 msgstr "Chiar crezi că poți face față?\\n\\napasă 'Y' sau 'N'..."

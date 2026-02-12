@@ -5,7 +5,7 @@ msgstr ""
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"HeaderCode: ko\n"
+"X-HeaderCode: ko\n"
 
 msgid "NIGHTMARE"
 msgstr ""
