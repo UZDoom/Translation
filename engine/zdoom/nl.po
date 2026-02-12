@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 01:09+0000\n"
+"PO-Revision-Date: 2026-02-12 03:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/nl/>\n"
@@ -169,6 +169,7 @@ msgstr ""
 "Waar ga je heen?!\n"
 "En de rebellie dan?"
 
+#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
 "De slachting geïnterrumpeerd...\n"
@@ -182,6 +183,7 @@ msgstr ""
 msgid "QUITMSG18"
 msgstr "Niemand loopt weg van Blackbird."
 
+#, fuzzy
 msgid "QUITMSG19"
 msgstr "Ik dacht dat je anders was...."
 
