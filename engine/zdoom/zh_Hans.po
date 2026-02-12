@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "PO-Revision-Date: 2026-02-12 03:10+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"Last-Translator: dwing <12104745@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -169,7 +169,6 @@ msgstr ""
 "你要去哪儿？！\n"
 "你那叛逆哪去了？"
 
-#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
 "杀卡壳了……\n"
@@ -183,7 +182,6 @@ msgstr ""
 msgid "QUITMSG18"
 msgstr "没人能从黑鸟这里溜走。"
 
-#, fuzzy
 msgid "QUITMSG19"
 msgstr "我还以为你与众不同……"
 
