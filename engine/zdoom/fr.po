@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 01:50+0000\n"
+"PO-Revision-Date: 2026-02-12 06:44+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fr/>\n"
@@ -171,6 +171,7 @@ msgstr ""
 "Où allez vous?\n"
 "Que va devenir la rébellion?"
 
+#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
 "Carnage interruptus...\n"
@@ -184,6 +185,7 @@ msgstr ""
 msgid "QUITMSG18"
 msgstr "Personne n'abandonne Blackbird!"
 
+#, fuzzy
 msgid "QUITMSG19"
 msgstr "Je vous croyais différent..."
 
@@ -192,6 +194,7 @@ msgstr ""
 "C'est ça! Tuez n'importe-qui \n"
 "et barrez-vous comme ça!"
 
+#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
 "Vous pouvez partir...\n"
@@ -215,6 +218,7 @@ msgstr ""
 "S'il vous plaît, ne quittez pas, nous\n"
 "avons besoin de votre aide!"
 
+#, fuzzy
 msgid "QUITMSG26"
 msgstr ""
 "J'espère que tu prends une pause\n"
@@ -230,6 +234,7 @@ msgstr ""
 "N'abandonnez pas la\n"
 "Fédération Intergalactique des Céréales!"
 
+#, fuzzy
 msgid "QUITMSG29"
 msgstr ""
 "Le vrai Chex Warrior\n"
@@ -274,6 +279,7 @@ msgstr "Vous vous surprenez."
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Vous commencez à délirer!"
 
+#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
 msgstr "Vous avez perdu les pédales..."
 
@@ -332,9 +338,11 @@ msgstr "Amélioration Activée!"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+#, fuzzy
 msgid "STSTR_CHOPPERS"
 msgstr "... C'est pas de la merde. - GM"
 
+#, fuzzy
 msgid "STSTR_CLEV"
 msgstr "Changement de niveau..."
 
@@ -395,6 +403,7 @@ msgstr "Temps arrêté."
 msgid "TXT_FREEZEOFF"
 msgstr "Le temps reprend son cours.."
 
+#, fuzzy
 msgid "TXT_STRANGE"
 msgstr "Vous vous sentez mal à l'aise..."
 
@@ -2074,12 +2083,15 @@ msgstr "Vous avez pris les carreaux électriques."
 msgid "TXT_AMMOSATCHEL"
 msgstr "Vous avez pris la sacoche de munitions"
 
+#, fuzzy
 msgid "MSG_TALISMANRED"
 msgstr "Vous avez un pressentiment qu'il ne fallait pas y toucher....."
 
+#, fuzzy
 msgid "MSG_TALISMANGREEN"
 msgstr "Quel que soit cette chose, elle ne devrait pas être ici..."
 
+#, fuzzy
 msgid "MSG_TALISMANBLUE"
 msgstr "Ca doit servir a quelque chose..."
 
@@ -2577,9 +2589,11 @@ msgstr "Vous avez l'air d'en avoir assez!"
 msgid "TXT_GOAWAY"
 msgstr "Allez-vous en!"
 
+#, fuzzy
 msgid "TXT_COMM0"
 msgstr "Message reçu."
 
+#, fuzzy
 msgid "TXT_COMM1"
 msgstr "Message reçu de BlackBird"
 
@@ -2590,9 +2604,11 @@ msgstr "Trouvez de L'aide"
 msgid "TXT_TRADE"
 msgstr "pour %u"
 
+#, fuzzy
 msgid "GOTCHEXARMOR"
 msgstr "Vous avez pris l'armure Chex(R)."
 
+#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
 msgstr "Vous avez pris la super armure Chex(R)!"
 
@@ -2768,6 +2784,7 @@ msgstr "E1M4: L'Arboretum"
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: Les cavernes de Bazoik"
 
+#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Mission accomplie.\n"
@@ -2837,6 +2854,7 @@ msgstr ""
 "\n"
 "Appuyez sur Y ou N."
 
+#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
 "Ceci est Chex(R) Quest. Attendez-vous\n"
@@ -2876,6 +2894,7 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Super Zorch Ajouté"
 
+#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "... Mangez du Chex(R)!"

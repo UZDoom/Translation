@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 01:10+0000\n"
+"PO-Revision-Date: 2026-02-12 06:44+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/es/>\n"
@@ -168,6 +168,7 @@ msgstr ""
 "¿¡Adónde vas!?\n"
 "¿Qué hay de la rebelión?"
 
+#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
 "Masacre interruptus...\n"
@@ -181,12 +182,14 @@ msgstr ""
 msgid "QUITMSG18"
 msgstr "Nadie abandona a Blackbird."
 
+#, fuzzy
 msgid "QUITMSG19"
 msgstr "Pensé que eras diferente..."
 
 msgid "QUITMSG20"
 msgstr "¡Bien! ¡Matas y huyes!"
 
+#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
 "Puedes salir...\n"
@@ -212,6 +215,7 @@ msgstr ""
 "No te vayas ahora.\n"
 "¡Necesitamos tu ayuda!"
 
+#, fuzzy
 msgid "QUITMSG26"
 msgstr ""
 "Espero que solo estés tomando\n"
@@ -227,6 +231,7 @@ msgstr ""
 "¡No abandones a la Federación\n"
 "Intergaláctica de Cereales!"
 
+#, fuzzy
 msgid "QUITMSG29"
 msgstr ""
 "¡El verdadero Chex(R) Warrior\n"
@@ -271,6 +276,7 @@ msgstr "Te asustas a ti mism@[ao_esp]"
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Empiezas a delirar"
 
+#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
 msgstr "Te has vuelto loc@[ao_esp]..."
 
@@ -327,9 +333,11 @@ msgstr "Poder alternado"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+#, fuzzy
 msgid "STSTR_CHOPPERS"
 msgstr "... no apesta - GM"
 
+#, fuzzy
 msgid "STSTR_CLEV"
 msgstr "Cambiando de nivel...\n"
 
@@ -390,6 +398,7 @@ msgstr "Modo suspendido activado"
 msgid "TXT_FREEZEOFF"
 msgstr "Modo suspendido desactivado"
 
+#, fuzzy
 msgid "TXT_STRANGE"
 msgstr "Te sientes extrañ@[ao_esp]..."
 
@@ -2069,12 +2078,15 @@ msgstr "Encuentras flechas eléctricas."
 msgid "TXT_AMMOSATCHEL"
 msgstr "Encuentras un bolso de munición."
 
+#, fuzzy
 msgid "MSG_TALISMANRED"
 msgstr "Tienes la sensación de que no debía ser tocado..."
 
+#, fuzzy
 msgid "MSG_TALISMANGREEN"
 msgstr "Sea lo que sea, no pertenece a este mundo..."
 
+#, fuzzy
 msgid "MSG_TALISMANBLUE"
 msgstr "Debe hacer algo..."
 
@@ -2588,9 +2600,11 @@ msgstr "¡Se ve que tienes suficiente!"
 msgid "TXT_GOAWAY"
 msgstr "¡Lárgate!"
 
+#, fuzzy
 msgid "TXT_COMM0"
 msgstr "Mensaje entrante..."
 
+#, fuzzy
 msgid "TXT_COMM1"
 msgstr "Mensaje entrante de Blackbird..."
 
@@ -2601,9 +2615,11 @@ msgstr "Busca ayuda."
 msgid "TXT_TRADE"
 msgstr "por %u de oro."
 
+#, fuzzy
 msgid "GOTCHEXARMOR"
 msgstr "Recogiste la Armadura Chex(R)."
 
+#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
 msgstr "¡Recogiste la Súper-Armadura Chex(R)!"
 
@@ -2779,6 +2795,7 @@ msgstr "E1M4: Arboreto"
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: Cavernas de Bazoik"
 
+#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Misión cumplida.\n"
@@ -2839,6 +2856,7 @@ msgstr ""
 "\n"
 "Presiona Y ó N."
 
+#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
 "Esto es Chex(R) Quest. Busca nuevos niveles en www.chexquest.com.\n"
@@ -2875,6 +2893,7 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Súper Zorch añadido"
 
+#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "... Come Chex(R)"

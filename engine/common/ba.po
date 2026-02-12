@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 02:02+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-02-12 03:09+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Bashkir <https://hosted.weblate.org/projects/uzdoom/common/"
 "ba/>\n"
 "Language: ba\n"
@@ -1674,6 +1674,7 @@ msgstr ""
 msgid "REVMNU_Create"
 msgstr "Kreiraj"
 
+#, fuzzy
 msgid "REVMNU_Save"
 msgstr "Spasi..."
 

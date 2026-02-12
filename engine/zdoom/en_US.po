@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 01:09+0000\n"
+"PO-Revision-Date: 2026-02-12 06:51+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/en/>\n"
@@ -171,7 +171,7 @@ msgstr ""
 
 msgid "QUITMSG16"
 msgstr ""
-"Carnage interruptus...\n"
+"Carnage interruptus…\n"
 "What a tease!"
 
 msgid "QUITMSG17"
@@ -183,15 +183,15 @@ msgid "QUITMSG18"
 msgstr "Nobody walks out on Blackbird."
 
 msgid "QUITMSG19"
-msgstr "I thought you were different..."
+msgstr "I thought you were different…"
 
 msgid "QUITMSG20"
 msgstr "Fine! just kill and run!"
 
 msgid "QUITMSG21"
 msgstr ""
-"You can quit...\n"
-"but you can't hide..."
+"You can quit…\n"
+"but you can't hide…"
 
 msgid "QUITMSG22"
 msgstr ""
@@ -216,7 +216,7 @@ msgstr ""
 msgid "QUITMSG26"
 msgstr ""
 "I hope you're just taking a\n"
-"break for Chex(R) party mix."
+"break for Chex® party mix."
 
 msgid "QUITMSG27"
 msgstr ""
@@ -230,7 +230,7 @@ msgstr ""
 
 msgid "QUITMSG29"
 msgstr ""
-"The real Chex(R) Warrior\n"
+"The real Chex® Warrior\n"
 "wouldn't give up so fast!"
 
 msgid "TXT_DEFAULTPICKUPMSG"
@@ -273,7 +273,7 @@ msgid "HUSTR_TALKTOSELF4"
 msgstr "You start to rave"
 
 msgid "HUSTR_TALKTOSELF5"
-msgstr "You've lost it..."
+msgstr "You've lost it…"
 
 msgid "HUSTR_MESSAGESENT"
 msgstr "[Message Sent]"
@@ -329,10 +329,10 @@ msgstr "Power-up Toggled"
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
 msgid "STSTR_CHOPPERS"
-msgstr "... doesn't suck - GM"
+msgstr "… doesn't suck - GM"
 
 msgid "STSTR_CLEV"
-msgstr "Changing Level..."
+msgstr "Changing Level…"
 
 msgid "TXT_BUDDHAON"
 msgstr "Buddha mode ON"
@@ -392,7 +392,7 @@ msgid "TXT_FREEZEOFF"
 msgstr "Freeze mode off"
 
 msgid "TXT_STRANGE"
-msgstr "You feel strange..."
+msgstr "You feel strange…"
 
 msgid "TXT_STRANGER"
 msgstr "You feel even stranger."
@@ -2069,13 +2069,13 @@ msgid "TXT_AMMOSATCHEL"
 msgstr "You picked up the ammo satchel."
 
 msgid "MSG_TALISMANRED"
-msgstr "You have a feeling that it wasn't to be touched..."
+msgstr "You have a feeling that it wasn't to be touched…"
 
 msgid "MSG_TALISMANGREEN"
-msgstr "Whatever it is, it doesn't belong in this world..."
+msgstr "Whatever it is, it doesn't belong in this world…"
 
 msgid "MSG_TALISMANBLUE"
-msgstr "It must do something..."
+msgstr "It must do something…"
 
 msgid "MSG_TALISMANPOWER"
 msgstr "You have super strength!"
@@ -2570,10 +2570,10 @@ msgid "TXT_GOAWAY"
 msgstr "Go away!"
 
 msgid "TXT_COMM0"
-msgstr "Incoming Message..."
+msgstr "Incoming Message…"
 
 msgid "TXT_COMM1"
-msgstr "Incoming Message from BlackBird..."
+msgstr "Incoming Message from BlackBird…"
 
 msgid "TXT_FINDHELP"
 msgstr "Find help"
@@ -2583,10 +2583,10 @@ msgid "TXT_TRADE"
 msgstr "for %u"
 
 msgid "GOTCHEXARMOR"
-msgstr "Picked up the Chex(R) Armor."
+msgstr "Picked up the Chex® Armor."
 
 msgid "GOTSUPERCHEXARMOR"
-msgstr "Picked up the Super Chex(R) Armor!"
+msgstr "Picked up the Super Chex® Armor!"
 
 msgid "GOTWATER"
 msgstr "Picked up a glass of water."
@@ -2771,7 +2771,7 @@ msgstr ""
 "\n"
 "\n"
 "\n"
-"Press the escape key to continue..."
+"Press the escape key to continue…"
 
 msgid "CE2TEXT"
 msgstr "You've done it!"
@@ -2829,7 +2829,7 @@ msgstr ""
 
 msgid "CSWSTRING"
 msgstr ""
-"This is Chex(R) Quest. look for\n"
+"This is Chex® Quest. Look for\n"
 "\n"
 "future levels at www.chexquest.com.\n"
 "\n"
@@ -2867,7 +2867,7 @@ msgstr "Super Zorch Added"
 
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
-msgstr "... Eat Chex(R)!"
+msgstr "…Eat Chex®!"
 
 msgctxt "chex"
 msgid "AMMO_CLIP"

@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 01:10+0000\n"
+"PO-Revision-Date: 2026-02-12 06:44+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/da/>\n"
@@ -169,6 +169,7 @@ msgstr ""
 "Hvor skal du hen?!\n"
 "Hvad med oprørerne?"
 
+#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
 "Carnage interruptus...\n"
@@ -182,12 +183,14 @@ msgstr ""
 msgid "QUITMSG18"
 msgstr "Ingen går ud fra Blackbird. "
 
+#, fuzzy
 msgid "QUITMSG19"
 msgstr "Jeg troede, du var anderledes..."
 
 msgid "QUITMSG20"
 msgstr "Fint! Bare dræb og løb!"
 
+#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
 "Du kan stoppe...\n"
@@ -207,6 +210,7 @@ msgstr ""
 msgid "QUITMSG25"
 msgstr "Du må ikke gå nu. Vi har brug for din hjælp!"
 
+#, fuzzy
 msgid "QUITMSG26"
 msgstr "Jeg håber, at du bare holder en pause for Chex(R) party mix."
 
@@ -216,6 +220,7 @@ msgstr "Du må ikke give op nu! Vi har brug for din hjælp!"
 msgid "QUITMSG28"
 msgstr "Forlad ikke den Intergalaktiske Føderation af Cerealprodukter!"
 
+#, fuzzy
 msgid "QUITMSG29"
 msgstr "Den rigtige Chex(R)-kriger ville ikke give op så hurtigt!"
 
@@ -258,6 +263,7 @@ msgstr "Du skræmmer dig selv"
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Du begynder at rave"
 
+#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
 msgstr "Du har mistet den..."
 
@@ -314,9 +320,11 @@ msgstr "Strømoptagelse Skiftet"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+#, fuzzy
 msgid "STSTR_CHOPPERS"
 msgstr "... er ikke dårlig - GM"
 
+#, fuzzy
 msgid "STSTR_CLEV"
 msgstr "Ændring af niveau ..."
 
@@ -377,6 +385,7 @@ msgstr "Frysetilstand TIL"
 msgid "TXT_FREEZEOFF"
 msgstr "Frysetilstand FRA"
 
+#, fuzzy
 msgid "TXT_STRANGE"
 msgstr "Du føler dig mærkelig..."
 
@@ -2055,12 +2064,15 @@ msgstr "Du samlede de elektriske bolte op."
 msgid "TXT_AMMOSATCHEL"
 msgstr "Du samlede ammunitionstasken op."
 
+#, fuzzy
 msgid "MSG_TALISMANRED"
 msgstr "Du har en fornemmelse af, at den ikke måtte røres..."
 
+#, fuzzy
 msgid "MSG_TALISMANGREEN"
 msgstr "Uanset hvad det er, hører det ikke hjemme i denne verden..."
 
+#, fuzzy
 msgid "MSG_TALISMANBLUE"
 msgstr "Det må gøre noget..."
 
@@ -2556,9 +2568,11 @@ msgstr "Du ser ud til at have nok!"
 msgid "TXT_GOAWAY"
 msgstr "Gå væk!"
 
+#, fuzzy
 msgid "TXT_COMM0"
 msgstr "Indkommende besked..."
 
+#, fuzzy
 msgid "TXT_COMM1"
 msgstr "Indkommende besked fra BlackBird..."
 
@@ -2569,9 +2583,11 @@ msgstr "Find hjælp"
 msgid "TXT_TRADE"
 msgstr "til %u"
 
+#, fuzzy
 msgid "GOTCHEXARMOR"
 msgstr "Hentede Chex(R) Rustning."
 
+#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
 msgstr "Hentede Super Chex(R) Rustning!"
 
@@ -2747,6 +2763,7 @@ msgstr ""
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: Bazoiks grotter"
 
+#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Missionen er fuldført.\n"
@@ -2814,6 +2831,7 @@ msgstr ""
 "\n"
 "Tryk på Y eller N."
 
+#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
 "Dette er Chex(R) Quest.\n"
@@ -2852,6 +2870,7 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Super Zorch Tilføjet"
 
+#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "... Spis Chex(R)!"

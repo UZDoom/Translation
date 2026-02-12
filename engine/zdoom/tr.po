@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 01:50+0000\n"
+"PO-Revision-Date: 2026-02-12 06:44+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/tr/>\n"
@@ -129,6 +129,7 @@ msgstr "Gitmeyi düşündüğün için seni tokatlamadığım için şanslısın
 msgid "QUITMSG15"
 msgstr "Nereye gidiyorsun?! İsyan ne olacak?"
 
+#, fuzzy
 msgid "QUITMSG16"
 msgstr "Katliam kesintisi. Ne alay ama!"
 
@@ -138,12 +139,14 @@ msgstr "Ama sen umudumsun, tek şansımsın!"
 msgid "QUITMSG18"
 msgstr "Kimse Karatavuk'ü bırakıp gidemez."
 
+#, fuzzy
 msgid "QUITMSG19"
 msgstr "Senin farklı olduğunu sanıyordum."
 
 msgid "QUITMSG20"
 msgstr "İyi! Sadece öldür ve kaç!"
 
+#, fuzzy
 msgid "QUITMSG21"
 msgstr "Bırakabilirsin... ama saklanamazsın..."
 
@@ -159,6 +162,7 @@ msgstr "Sakın pes etme, flemoidler üstünlüğü ele geçirecek!"
 msgid "QUITMSG25"
 msgstr "Şimdi gitmeyin. Yardımınıza ihtiyacımız var!"
 
+#, fuzzy
 msgid "QUITMSG26"
 msgstr "Umarım Chex(R) parti karışımı için ara vermişsinizdir."
 
@@ -168,6 +172,7 @@ msgstr "Şimdi bırakmayın! Yardımınıza ihtiyacımız var!"
 msgid "QUITMSG28"
 msgstr "Galaksilerarası Tahıl Federasyonu'nu terk etmeyin!"
 
+#, fuzzy
 msgid "QUITMSG29"
 msgstr "Gerçek Chex(R) Savaşçısı bu kadar çabuk pes etmez!"
 
@@ -210,6 +215,7 @@ msgstr "Kendini korkutuyorsun."
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Çıldırmaya başlıyorsun"
 
+#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
 msgstr "Kaybettin..."
 
@@ -266,9 +272,11 @@ msgstr "Güç Açma Değiştirildi"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+#, fuzzy
 msgid "STSTR_CHOPPERS"
 msgstr "... berbat değil - GM"
 
+#, fuzzy
 msgid "STSTR_CLEV"
 msgstr "Seviye Değiştirme..."
 
@@ -329,6 +337,7 @@ msgstr "Dondurma modu açık"
 msgid "TXT_FREEZEOFF"
 msgstr "Dondurma modu kapalı"
 
+#, fuzzy
 msgid "TXT_STRANGE"
 msgstr "Garip hissediyorsun."
 
@@ -2006,12 +2015,15 @@ msgstr "Elektrikli cıvataları aldın."
 msgid "TXT_AMMOSATCHEL"
 msgstr "Cephane çantasını aldın."
 
+#, fuzzy
 msgid "MSG_TALISMANRED"
 msgstr "İçinizde dokunulmaması gerektiğine dair bir his var."
 
+#, fuzzy
 msgid "MSG_TALISMANGREEN"
 msgstr "O her neyse, bu dünyaya ait değil."
 
+#, fuzzy
 msgid "MSG_TALISMANBLUE"
 msgstr "Bir şey yapmalı."
 
@@ -2507,9 +2519,11 @@ msgstr "Yeterince var gibi görünüyor!"
 msgid "TXT_GOAWAY"
 msgstr "Git başımdan!"
 
+#, fuzzy
 msgid "TXT_COMM0"
 msgstr "Gelen Mesaj..."
 
+#, fuzzy
 msgid "TXT_COMM1"
 msgstr "Gelen Mesaj..."
 
@@ -2520,9 +2534,11 @@ msgstr "Yardım bul"
 msgid "TXT_TRADE"
 msgstr "için %u"
 
+#, fuzzy
 msgid "GOTCHEXARMOR"
 msgstr "Chex(R) Zırhı'nı aldım."
 
+#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
 msgstr "Süper Chex(R) Zırhı'nı aldı!"
 
@@ -2698,6 +2714,7 @@ msgstr ""
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: Bazoik Mağaraları"
 
+#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Görev tamamlandı.\n"
@@ -2764,6 +2781,7 @@ msgstr ""
 "\n"
 "Y veya N tuşuna basın."
 
+#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
 "Bu Chex(R) Görevi.\n"
@@ -2802,6 +2820,7 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Süper Zorch Eklendi"
 
+#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "... Chex(R) yiyin!"
@@ -5201,3 +5220,6 @@ msgstr "Kontrast"
 
 msgid "DSPLYMNU_SATURATION"
 msgstr "Doygunluk"
+
+msgid "OPTMNU_ACCESSIBILITY"
+msgstr "Erişebilirlik Seçenekleri"

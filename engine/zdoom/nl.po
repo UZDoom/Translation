@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 01:09+0000\n"
+"PO-Revision-Date: 2026-02-12 06:44+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/nl/>\n"
@@ -169,6 +169,7 @@ msgstr ""
 "Waar ga je heen?!\n"
 "En de rebellie dan?"
 
+#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
 "De slachting geïnterrumpeerd...\n"
@@ -182,12 +183,14 @@ msgstr ""
 msgid "QUITMSG18"
 msgstr "Niemand loopt weg van Blackbird."
 
+#, fuzzy
 msgid "QUITMSG19"
 msgstr "Ik dacht dat je anders was...."
 
 msgid "QUITMSG20"
 msgstr "Goed hoor, schieten en meteen wegrennen!"
 
+#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
 "Je kunt stoppen...\n"
@@ -213,6 +216,7 @@ msgstr ""
 "Ga nu niet weg.\n"
 "We hebben je hulp nodig!"
 
+#, fuzzy
 msgid "QUITMSG26"
 msgstr ""
 "Ik hoop dat je gewoon een\n"
@@ -228,6 +232,7 @@ msgstr ""
 "Laat de Intergalactische Federatie\n"
 "van Granen niet in de steek!"
 
+#, fuzzy
 msgid "QUITMSG29"
 msgstr ""
 "De echte Chex(R) Krijger\n"
@@ -272,6 +277,7 @@ msgstr "Je wordt bang van jezelf"
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Je begint te razen"
 
+#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
 msgstr "Je bent gek geworden..."
 
@@ -328,9 +334,11 @@ msgstr "Versterking ingeschakeld"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+#, fuzzy
 msgid "STSTR_CHOPPERS"
 msgstr "... is niet slecht - GM"
 
+#, fuzzy
 msgid "STSTR_CLEV"
 msgstr "Level veranderen..."
 
@@ -391,6 +399,7 @@ msgstr "Bevriesmodus aan"
 msgid "TXT_FREEZEOFF"
 msgstr "Bevriesmodus uit"
 
+#, fuzzy
 msgid "TXT_STRANGE"
 msgstr "Je voelt je vreemd..."
 
@@ -2071,12 +2080,15 @@ msgstr "Je hebt de elektrische bouten opgepakt."
 msgid "TXT_AMMOSATCHEL"
 msgstr "Je hebt de munitietas opgepakt."
 
+#, fuzzy
 msgid "MSG_TALISMANRED"
 msgstr "Je hebt het gevoel dat het niet aangeraakt dient te worden..."
 
+#, fuzzy
 msgid "MSG_TALISMANGREEN"
 msgstr "Wat het ook is, het hoort niet thuis in deze wereld..."
 
+#, fuzzy
 msgid "MSG_TALISMANBLUE"
 msgstr "Het moet iets doen...."
 
@@ -2572,9 +2584,11 @@ msgstr "Je lijkt genoeg te hebben!"
 msgid "TXT_GOAWAY"
 msgstr "Ga weg!"
 
+#, fuzzy
 msgid "TXT_COMM0"
 msgstr "Inkomend bericht...."
 
+#, fuzzy
 msgid "TXT_COMM1"
 msgstr "Inkomend bericht van BlackBird...."
 
@@ -2585,9 +2599,11 @@ msgstr "Zoek hulp"
 msgid "TXT_TRADE"
 msgstr "voor %u"
 
+#, fuzzy
 msgid "GOTCHEXARMOR"
 msgstr "Je hebt het Chex(R) harnas opgepakt."
 
+#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
 msgstr "Je hebt het Super-Chex(R) harnas opgehaald!"
 
@@ -2763,6 +2779,7 @@ msgstr "E1M4: Arboretum"
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: Grotten van Bazoik"
 
+#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Missie volbracht.\n"
@@ -2830,6 +2847,7 @@ msgstr ""
 "\n"
 "Druk op Y of N."
 
+#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
 "Dit is Chex(R) Quest. Zoek naar\n"
@@ -2868,6 +2886,7 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Super Zorch toegevoegd"
 
+#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "... Eet Chex(R)!"

@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 01:10+0000\n"
+"PO-Revision-Date: 2026-02-12 06:44+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/eo/>\n"
@@ -169,6 +169,7 @@ msgstr ""
 "Kien vi iras!?\n"
 "Kio pri la ribelo?"
 
+#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
 "Buĉado \"interruptus\"...\n"
@@ -182,12 +183,14 @@ msgstr ""
 msgid "QUITMSG18"
 msgstr "Neniu forlasas Merlon."
 
+#, fuzzy
 msgid "QUITMSG19"
 msgstr "Mi pensis, ke vi estas malsama..."
 
 msgid "QUITMSG20"
 msgstr "Bone! Nur mortigu kaj fuĝu!"
 
+#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
 "Vi povas foriri...\n"
@@ -213,6 +216,7 @@ msgstr ""
 "Ne nun foriru.\n"
 "Ni bezonas vian helpon!"
 
+#, fuzzy
 msgid "QUITMSG26"
 msgstr ""
 "Mi esperas, ke vi nur paŭzas\n"
@@ -228,6 +232,7 @@ msgstr ""
 "Ne forlasu la Intergalaksian\n"
 "Federacion de Cerealaĵoj!"
 
+#, fuzzy
 msgid "QUITMSG29"
 msgstr ""
 "La vera Chex(R)-batalisto\n"
@@ -272,6 +277,7 @@ msgstr "Vi timigas vin mem"
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Vi komencas frenezi"
 
+#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
 msgstr "Vi freneziĝis..."
 
@@ -328,9 +334,11 @@ msgstr "Plifortigaĵo Baskuligita"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+#, fuzzy
 msgid "STSTR_CHOPPERS"
 msgstr "... ne aĉas - GM"
 
+#, fuzzy
 msgid "STSTR_CLEV"
 msgstr "Ŝanĝante Nivelon..."
 
@@ -391,6 +399,7 @@ msgstr "Movhalta reĝimo ŝaltita"
 msgid "TXT_FREEZEOFF"
 msgstr "Movhalta reĝimo malŝaltita"
 
+#, fuzzy
 msgid "TXT_STRANGE"
 msgstr "Vi sentas vin strange..."
 
@@ -2070,12 +2079,15 @@ msgstr "Vi trovis elektrajn sagojn."
 msgid "TXT_AMMOSATCHEL"
 msgstr "Vi trovis munici-sakon."
 
+#, fuzzy
 msgid "MSG_TALISMANRED"
 msgstr "Vi sentas, ke vi ne devis tuŝi ĝin..."
 
+#, fuzzy
 msgid "MSG_TALISMANGREEN"
 msgstr "Tio ajn, kio ĝi estas, ĝi ne apartenas al ĉi tiu mondo..."
 
+#, fuzzy
 msgid "MSG_TALISMANBLUE"
 msgstr "Ĝi devas fari ion..."
 
@@ -2571,9 +2583,11 @@ msgstr "Vi ŝajnas havi sufiĉe!"
 msgid "TXT_GOAWAY"
 msgstr "Foriru!"
 
+#, fuzzy
 msgid "TXT_COMM0"
 msgstr "Alvenas mesaĝo..."
 
+#, fuzzy
 msgid "TXT_COMM1"
 msgstr "Alvenas mesaĝo de Merlo..."
 
@@ -2584,9 +2598,11 @@ msgstr "Trovu helpon."
 msgid "TXT_TRADE"
 msgstr "kontraŭ %u da oro."
 
+#, fuzzy
 msgid "GOTCHEXARMOR"
 msgstr "Prenis la Chex(R)-kirason."
 
+#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
 msgstr "Prenis la superan Chex(R)-kirason!"
 
@@ -2762,6 +2778,7 @@ msgstr "E1M4: Arbejo"
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: Kavernoj de Bazojko"
 
+#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Misio elfarita.\n"
@@ -2829,6 +2846,7 @@ msgstr ""
 "\n"
 "Premu Y aŭ N."
 
+#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
 "Ĉi tio estas Chex(R) Quest. Serĉu\n"
@@ -2867,6 +2885,7 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Supera Zorĉo Aldonita"
 
+#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "... Manĝu Chex(R)-on!"

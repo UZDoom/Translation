@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 01:50+0000\n"
+"PO-Revision-Date: 2026-02-12 06:44+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ja/>\n"
@@ -171,6 +171,7 @@ msgstr ""
 "どこに行く気だ?!\n"
 "反抗するつもりか?"
 
+#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
 "大虐殺は寸止めされた...\n"
@@ -184,12 +185,14 @@ msgstr ""
 msgid "QUITMSG18"
 msgstr "ブラックバードに気付かれず抜け出せるのか。"
 
+#, fuzzy
 msgid "QUITMSG19"
 msgstr "私は あなたは特別だと思っていた..."
 
 msgid "QUITMSG20"
 msgstr "いいぞ! ゲリラ戦の時間だ!"
 
+#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
 "終わる事は出来る...\n"
@@ -218,6 +221,7 @@ msgstr ""
 "われわれには きみのたすけが\n"
 "ひつようだ!"
 
+#, fuzzy
 msgid "QUITMSG26"
 msgstr ""
 "チェックス(R)パーティミックスを\n"
@@ -234,6 +238,7 @@ msgstr ""
 "ぎんがシリアルれんぽう を\n"
 "みすてないでくれ!"
 
+#, fuzzy
 msgid "QUITMSG29"
 msgstr ""
 "しんのチェックス(R)せんしは\n"
@@ -278,6 +283,7 @@ msgstr "怯えているな\n"
 msgid "HUSTR_TALKTOSELF4"
 msgstr "イカレ始めた"
 
+#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
 msgstr "我を失った..."
 
@@ -334,9 +340,11 @@ msgstr "パワーアップ 適用"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+#, fuzzy
 msgid "STSTR_CHOPPERS"
 msgstr "...わるかぁねえぞ --gm"
 
+#, fuzzy
 msgid "STSTR_CLEV"
 msgstr "場所を変更..."
 
@@ -397,6 +405,7 @@ msgstr "フリーズモード オン"
 msgid "TXT_FREEZEOFF"
 msgstr "フリーズモード オフ"
 
+#, fuzzy
 msgid "TXT_STRANGE"
 msgstr "これは奇妙な感じだな..."
 
@@ -2075,12 +2084,15 @@ msgstr "エレクトリックボルト 入手。"
 msgid "TXT_AMMOSATCHEL"
 msgstr "弾薬鞄 入手。"
 
+#, fuzzy
 msgid "MSG_TALISMANRED"
 msgstr "己の勘が 触れてはならない物だと訴えている..."
 
+#, fuzzy
 msgid "MSG_TALISMANGREEN"
 msgstr "何であろうと、この世には属さない物だ..."
 
+#, fuzzy
 msgid "MSG_TALISMANBLUE"
 msgstr "何かを成し遂げなければならない..."
 
@@ -2576,9 +2588,11 @@ msgstr "十分に持ち合わせている!"
 msgid "TXT_GOAWAY"
 msgstr "逃げ出せ!"
 
+#, fuzzy
 msgid "TXT_COMM0"
 msgstr "メッセージが届いた..."
 
+#, fuzzy
 msgid "TXT_COMM1"
 msgstr "ブラックバードからのメッセージが届いた..."
 
@@ -2589,9 +2603,11 @@ msgstr "助けを探せ"
 msgid "TXT_TRADE"
 msgstr "%u ゴールド"
 
+#, fuzzy
 msgid "GOTCHEXARMOR"
 msgstr "チェックス(R)アーマー をてにいれた。"
 
+#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
 msgstr "スーパーチェックス(R)アーマー をてにいれた。"
 
@@ -2767,6 +2783,7 @@ msgstr "E1M4: じゅもくえん"
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: バゾイクの どうくつ"
 
+#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "にんむはかんりょうしました。\n"
@@ -2829,6 +2846,7 @@ msgstr ""
 "\n"
 "Y か N をおしてください。\n"
 
+#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
 "これは チェックス(R)クエスト。\n"
@@ -2867,6 +2885,7 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "スーパーゾーチ ついか"
 
+#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "...Chex(R)をたべよう!"

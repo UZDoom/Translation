@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 01:09+0000\n"
+"PO-Revision-Date: 2026-02-12 06:44+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hu/>\n"
@@ -160,6 +160,7 @@ msgstr ""
 "Hová mész?!\n"
 "És a forradalommal mi lesz?"
 
+#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
 "Carnage interruptus...\n"
@@ -173,12 +174,14 @@ msgstr ""
 msgid "QUITMSG18"
 msgstr "Senki nem kezdhet ki a Feketerigóval!"
 
+#, fuzzy
 msgid "QUITMSG19"
 msgstr "Azt hittem te más vagy..."
 
 msgid "QUITMSG20"
 msgstr "Oké! Csak ölj és fuss!"
 
+#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
 "Kiléphetsz...\n"
@@ -200,6 +203,7 @@ msgstr ""
 "Még ne menj!\n"
 "Szükségünk van a segítségedre!"
 
+#, fuzzy
 msgid "QUITMSG26"
 msgstr ""
 "Remélem, hogy csak \n"
@@ -215,6 +219,7 @@ msgstr ""
 "Ne hagyd cserben az \n"
 "Intergalaktikus Müzli Szövetséget!"
 
+#, fuzzy
 msgid "QUITMSG29"
 msgstr ""
 "Az igazi Chex(R) Harcos \n"
@@ -259,6 +264,7 @@ msgstr "Megijeszted magad"
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Reszketni kezdesz"
 
+#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
 msgstr "Eldobod az agyad..."
 
@@ -317,9 +323,11 @@ msgstr "Képesség hozzáadva"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+#, fuzzy
 msgid "STSTR_CHOPPERS"
 msgstr "... nem annyira gáz - GM"
 
+#, fuzzy
 msgid "STSTR_CLEV"
 msgstr "Pályaváltás..."
 
@@ -380,6 +388,7 @@ msgstr "Fagyasztás BE"
 msgid "TXT_FREEZEOFF"
 msgstr "Fagyasztás KI"
 
+#, fuzzy
 msgid "TXT_STRANGE"
 msgstr "Furán érzed magad..."
 
@@ -2058,12 +2067,15 @@ msgstr "Felvetted az elektromos nyilakat."
 msgid "TXT_AMMOSATCHEL"
 msgstr "Felvetted a lőszeres táskát."
 
+#, fuzzy
 msgid "MSG_TALISMANRED"
 msgstr "Úgy érzed azt nem kéne megérinteni..."
 
+#, fuzzy
 msgid "MSG_TALISMANGREEN"
 msgstr "Bármi legyen ez, nem ebben a világban van a helye..."
 
+#, fuzzy
 msgid "MSG_TALISMANBLUE"
 msgstr "Valamit kell hogy csináljon..."
 
@@ -2559,9 +2571,11 @@ msgstr "Úgy néz ki eleged van már!"
 msgid "TXT_GOAWAY"
 msgstr "Takarodj!"
 
+#, fuzzy
 msgid "TXT_COMM0"
 msgstr "Bejövő Üzenet..."
 
+#, fuzzy
 msgid "TXT_COMM1"
 msgstr "Bejövő Üzenet Feketerigótól..."
 
@@ -2572,9 +2586,11 @@ msgstr "Keress segítséget"
 msgid "TXT_TRADE"
 msgstr "%u számára"
 
+#, fuzzy
 msgid "GOTCHEXARMOR"
 msgstr "Felvettél egy Chex(R) páncélt."
 
+#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
 msgstr "Felvettél egy szuper Chex(R) páncélt!"
 
@@ -2750,6 +2766,7 @@ msgstr "E1M4: Arborétum"
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: Bazoik barlangjai"
 
+#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Küldetés teljesítve.\n"
@@ -2816,6 +2833,7 @@ msgstr ""
 "\n"
 "Nyomj Y-t vagy N-t."
 
+#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
 "Ez a Chex(R) Quest. Keresd\n"
@@ -2854,6 +2872,7 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Szuper Szörcs feléve"
 
+#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "...egyél Chex(R)-et!"

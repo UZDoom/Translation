@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 01:50+0000\n"
+"PO-Revision-Date: 2026-02-12 06:44+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hr/>\n"
@@ -141,6 +141,7 @@ msgstr ""
 "Gdje ideš?\n"
 "Što je s pobunom?"
 
+#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
 "Prekinuti pokolj...\n"
@@ -152,12 +153,14 @@ msgstr "Ali ti si nada -- moja jedina šansa!!"
 msgid "QUITMSG18"
 msgstr "Nitko ne izlazi na Blackbird."
 
+#, fuzzy
 msgid "QUITMSG19"
 msgstr "Mislio/la sam da si drugačija/drugačiji..."
 
 msgid "QUITMSG20"
 msgstr "Dobro! Samo ubij i bježi!"
 
+#, fuzzy
 msgid "QUITMSG21"
 msgstr "Možeš odustati... ali se ne možeš sakriti..."
 
@@ -175,6 +178,7 @@ msgstr "Ne odustajte -- flemoidi će preuzeti kontrolu!"
 msgid "QUITMSG25"
 msgstr "Nemoj sada otići. Trebamo tvoju pomoć!"
 
+#, fuzzy
 msgid "QUITMSG26"
 msgstr "Nadam se da samo uzimaš pauzu za Čehs(R) miks za zabavu."
 
@@ -186,6 +190,7 @@ msgstr ""
 msgid "QUITMSG28"
 msgstr "Ne napuštajte Intergalaktičku Federaciju Žitarica!"
 
+#, fuzzy
 msgid "QUITMSG29"
 msgstr "Pravi Čehs(R) ratnik ne bi tako brzo odustao!"
 
@@ -228,6 +233,7 @@ msgstr "Plašiš se"
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Počinješ buncati"
 
+#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
 msgstr "Gubiš se..."
 
@@ -284,9 +290,11 @@ msgstr "Prekidač pojačanja"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+#, fuzzy
 msgid "STSTR_CHOPPERS"
 msgstr "... Jedite Pilu sa Chex-om(R)!"
 
+#, fuzzy
 msgid "STSTR_CLEV"
 msgstr "Promjena razine..."
 
@@ -347,6 +355,7 @@ msgstr "Način zamrzavanja uključen"
 msgid "TXT_FREEZEOFF"
 msgstr "Način zamrzavanja isključen"
 
+#, fuzzy
 msgid "TXT_STRANGE"
 msgstr "Osjećaš se čudno..."
 
@@ -2025,12 +2034,15 @@ msgstr "Pokupio si električne vijke."
 msgid "TXT_AMMOSATCHEL"
 msgstr "Pokupio si torbu sa streljivom."
 
+#, fuzzy
 msgid "MSG_TALISMANRED"
 msgstr "Imaš osjećaj da se to nije smjelo dirati..."
 
+#, fuzzy
 msgid "MSG_TALISMANGREEN"
 msgstr "Što god to bilo, ne pripada ovom svijetu..."
 
+#, fuzzy
 msgid "MSG_TALISMANBLUE"
 msgstr "Mora nešto učiniti..."
 
@@ -2526,9 +2538,11 @@ msgstr "Izgleda da imaš dovoljno!"
 msgid "TXT_GOAWAY"
 msgstr "Otići!"
 
+#, fuzzy
 msgid "TXT_COMM0"
 msgstr "Dolazna poruka..."
 
+#, fuzzy
 msgid "TXT_COMM1"
 msgstr "Dolazna poruka od BlackBirda..."
 
@@ -2539,9 +2553,11 @@ msgstr "Pronađite pomoć"
 msgid "TXT_TRADE"
 msgstr "za %u"
 
+#, fuzzy
 msgid "GOTCHEXARMOR"
 msgstr "Pokupio sam Čehs(R) oklop."
 
+#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
 msgstr "Uzeli smo Super Čehs(R) oklop!"
 
@@ -2717,6 +2733,7 @@ msgstr "E1M4: Botanička bašta"
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: Špilje Bazoika"
 
+#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Misija izvršena.\n"
@@ -2778,6 +2795,7 @@ msgstr ""
 "\n"
 "Pritisnite Y ili N."
 
+#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
 "Ovo je Čehs(R) Quest. Potražite buduće razine na www.chexquest.com.\n"
@@ -2814,6 +2832,7 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Dodan Super Zorč"
 
+#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "... Jedi Čehs(R)!"

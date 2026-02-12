@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 01:10+0000\n"
+"PO-Revision-Date: 2026-02-12 06:44+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/pl/>\n"
@@ -167,6 +167,7 @@ msgstr ""
 "Gdzie idziesz?!\n"
 "A co z rebelią?"
 
+#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
 "Rzeź przeszkadza...\n"
@@ -180,12 +181,14 @@ msgstr ""
 msgid "QUITMSG18"
 msgstr "Nikt nie opuszcza Blackbird."
 
+#, fuzzy
 msgid "QUITMSG19"
 msgstr "Myślałam, że jesteś inny..."
 
 msgid "QUITMSG20"
 msgstr "Dobra! Zabijaj i biegaj!"
 
+#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
 "Możesz wyjść...\n"
@@ -207,6 +210,7 @@ msgstr ""
 "Nie odchodź teraz.\n"
 "Potrzebujemy twojej pomocy!"
 
+#, fuzzy
 msgid "QUITMSG26"
 msgstr ""
 "Mam nadzieję, że robisz sobie przerwę na\n"
@@ -220,6 +224,7 @@ msgstr ""
 msgid "QUITMSG28"
 msgstr "Nie opuszczaj Międzygalaktycznej Federacji Płatków!"
 
+#, fuzzy
 msgid "QUITMSG29"
 msgstr ""
 "Prawdziwy Wojownik Chex(R)\n"
@@ -264,6 +269,7 @@ msgstr "Przestraszyłeś się"
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Zaczynasz wariować"
 
+#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
 msgstr "Oszalałeś..."
 
@@ -322,9 +328,11 @@ msgstr "Wzmocnienie aktywowane"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+#, fuzzy
 msgid "STSTR_CHOPPERS"
 msgstr "... nie ssie - GM"
 
+#, fuzzy
 msgid "STSTR_CLEV"
 msgstr "Zmienianie poziomu..."
 
@@ -385,6 +393,7 @@ msgstr "Tryb zamrożenia włączony"
 msgid "TXT_FREEZEOFF"
 msgstr "Tryb zamrożenia wyłączony"
 
+#, fuzzy
 msgid "TXT_STRANGE"
 msgstr "Dziwnie się czujesz..."
 
@@ -2065,12 +2074,15 @@ msgstr "Podniosł@[irreg_3_pl] elektryczne bełty."
 msgid "TXT_AMMOSATCHEL"
 msgstr "Podniosł@[irreg_3_pl] torbę z amunicją."
 
+#, fuzzy
 msgid "MSG_TALISMANRED"
 msgstr "Czujesz, że trzeba było tego nie dotykać..."
 
+#, fuzzy
 msgid "MSG_TALISMANGREEN"
 msgstr "Cokolwiek to jest, nie należy to do tego świata..."
 
+#, fuzzy
 msgid "MSG_TALISMANBLUE"
 msgstr "To musi coś robić..."
 
@@ -2566,9 +2578,11 @@ msgstr "Wydaje się, że już ci wystarczy!"
 msgid "TXT_GOAWAY"
 msgstr "Idź stąd!"
 
+#, fuzzy
 msgid "TXT_COMM0"
 msgstr "Nadchodzi wiadomość..."
 
+#, fuzzy
 msgid "TXT_COMM1"
 msgstr "Nadchodzi wiadomość od BlackBird..."
 
@@ -2579,9 +2593,11 @@ msgstr "Znajdź pomoc"
 msgid "TXT_TRADE"
 msgstr "za %u"
 
+#, fuzzy
 msgid "GOTCHEXARMOR"
 msgstr "Zebrano Pancerz Chex(R)."
 
+#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
 msgstr "Zebrano Super Pancerz Chex(R)!"
 
@@ -2757,6 +2773,7 @@ msgstr ""
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: Jaskinie Bazoik"
 
+#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Misja zakończona.\n"
@@ -2823,6 +2840,7 @@ msgstr ""
 "\n"
 "Wciśnij Y lub N."
 
+#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
 "To jest Chex(R) Quest. Szukaj\n"
@@ -2861,6 +2879,7 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Super Zorch dodany"
 
+#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "... jedz płatki Chex(R)!"

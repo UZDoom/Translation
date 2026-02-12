@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 01:10+0000\n"
+"PO-Revision-Date: 2026-02-12 06:44+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/id/>\n"
@@ -168,6 +168,7 @@ msgstr ""
 "Mau kemana kau?!\n"
 "Bagaimana dengan rebellion?"
 
+#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
 "Bantaian Terhenti...\n"
@@ -181,12 +182,14 @@ msgstr ""
 msgid "QUITMSG18"
 msgstr "Tiada yang keluar di Blackbird."
 
+#, fuzzy
 msgid "QUITMSG19"
 msgstr "Kukira kau berbeda..."
 
 msgid "QUITMSG20"
 msgstr "Okeh! bunuhlah lalu lari!"
 
+#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
 "Anda bisa keluar...\n"
@@ -212,6 +215,7 @@ msgstr ""
 "Jangan pergi dulu.\n"
 "Kami butuh bantuanmu!"
 
+#, fuzzy
 msgid "QUITMSG26"
 msgstr ""
 "Kuharap kau cuman ingin\n"
@@ -227,6 +231,7 @@ msgstr ""
 "Jangan tinggalkan\n"
 "Federasi Sereal Intergalaktik!"
 
+#, fuzzy
 msgid "QUITMSG29"
 msgstr ""
 "Ksatria Chex(R) sejati\n"
@@ -271,6 +276,7 @@ msgstr "Anda menakuti diri sendiri"
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Anda mulai berdansa"
 
+#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
 msgstr "Anda khawatir sendiri..."
 
@@ -327,9 +333,11 @@ msgstr ""
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+#, fuzzy
 msgid "STSTR_CHOPPERS"
 msgstr "... tidak payah - GM"
 
+#, fuzzy
 msgid "STSTR_CLEV"
 msgstr "Mengganti Level..."
 
@@ -390,6 +398,7 @@ msgstr "Mode Freeze nyala"
 msgid "TXT_FREEZEOFF"
 msgstr "Mode Freeze mati"
 
+#, fuzzy
 msgid "TXT_STRANGE"
 msgstr "Kau merasa aneh..."
 
