@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 05:09+0000\n"
+"PO-Revision-Date: 2026-02-12 06:44+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English (United Kingdom) <https://hosted.weblate.org/projects/"
 "uzdoom/zdoom-engine-strings/en_GB/>\n"
@@ -188,6 +188,7 @@ msgstr "I thought you were different…"
 msgid "QUITMSG20"
 msgstr "Fine! just kill and run!"
 
+#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
 "You can quit...\n"
@@ -213,6 +214,7 @@ msgstr ""
 "Don't leave now.\n"
 "We need your help!"
 
+#, fuzzy
 msgid "QUITMSG26"
 msgstr ""
 "I hope you're just taking a\n"
@@ -228,6 +230,7 @@ msgstr ""
 "Don't abandon the\n"
 "Intergalactic Federation of Cereals!"
 
+#, fuzzy
 msgid "QUITMSG29"
 msgstr ""
 "The real Chex(R) Warrior\n"
@@ -272,6 +275,7 @@ msgstr "You scare yourself"
 msgid "HUSTR_TALKTOSELF4"
 msgstr "You start to rave"
 
+#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
 msgstr "You've lost it..."
 
@@ -328,9 +332,11 @@ msgstr "Power-up Toggled"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+#, fuzzy
 msgid "STSTR_CHOPPERS"
 msgstr "... does not suck - GM"
 
+#, fuzzy
 msgid "STSTR_CLEV"
 msgstr "Changing Level..."
 
@@ -391,6 +397,7 @@ msgstr "Freeze mode on"
 msgid "TXT_FREEZEOFF"
 msgstr "Freeze mode off"
 
+#, fuzzy
 msgid "TXT_STRANGE"
 msgstr "You feel strange..."
 
@@ -2068,12 +2075,15 @@ msgstr "You picked up the electric bolts."
 msgid "TXT_AMMOSATCHEL"
 msgstr "You picked up the ammo satchel."
 
+#, fuzzy
 msgid "MSG_TALISMANRED"
 msgstr "You have a feeling that it wasn't to be touched..."
 
+#, fuzzy
 msgid "MSG_TALISMANGREEN"
 msgstr "Whatever it is, it doesn't belong in this world..."
 
+#, fuzzy
 msgid "MSG_TALISMANBLUE"
 msgstr "It must do something..."
 
@@ -2569,9 +2579,11 @@ msgstr "You seem to have enough!"
 msgid "TXT_GOAWAY"
 msgstr "Go away!"
 
+#, fuzzy
 msgid "TXT_COMM0"
 msgstr "Incoming Message..."
 
+#, fuzzy
 msgid "TXT_COMM1"
 msgstr "Incoming Message from BlackBird..."
 
@@ -2582,9 +2594,11 @@ msgstr "Find help"
 msgid "TXT_TRADE"
 msgstr "for %u"
 
+#, fuzzy
 msgid "GOTCHEXARMOR"
 msgstr "Picked up the Chex(R) Armour."
 
+#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
 msgstr "Picked up the Super Chex(R) Armour!"
 
@@ -2760,6 +2774,7 @@ msgstr "E1M4: Arboretum"
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: Caverns of Bazoik"
 
+#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Mission accomplished.\n"
@@ -2827,6 +2842,7 @@ msgstr ""
 "\n"
 "Press Y or N."
 
+#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
 "This is Chex(R) Quest. look for\n"
@@ -2865,6 +2881,7 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Super Zorch Added"
 
+#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "... Eat Chex(R)!"
