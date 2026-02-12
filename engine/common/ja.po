@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 01:10+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-12 02:02+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/uzdoom/common/"
 "ja/>\n"
 "Language: ja\n"
@@ -1504,6 +1504,7 @@ msgstr "クイックセーブ間隔"
 msgid "MISCMNU_QUICKSAVECOUNT"
 msgstr "間隔クイックセーブの数"
 
+#, fuzzy
 msgid "MISCMNU_CLEANMENU"
 msgstr "メニュー画面を伸縮させない"
 
