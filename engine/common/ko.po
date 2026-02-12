@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 00:00+0000\n"
+"PO-Revision-Date: 2026-02-12 03:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/common/ko/>"
 "\n"
@@ -1672,6 +1672,7 @@ msgstr "아이디 #2"
 msgid "REVMNU_Create"
 msgstr "생성"
 
+#, fuzzy
 msgid "REVMNU_Save"
 msgstr "저장 하기..."
 
