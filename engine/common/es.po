@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 19:10+0000\n"
+"PO-Revision-Date: 2026-02-13 22:44+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/uzdoom/common/"
 "es/>\n"
@@ -61,7 +61,6 @@ msgstr "Mensajes DESACTIVADOS"
 msgid "MSGON"
 msgstr "Mensajes ACTIVADOS"
 
-#, fuzzy
 msgid "TXT_SAY"
 msgstr "Decir:"
 
