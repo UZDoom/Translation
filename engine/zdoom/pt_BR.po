@@ -4736,10 +4736,6 @@ msgstr "Não foi possível capturar a tela."
 msgid "TXT_BY"
 msgstr "Por %s"
 
-msgid "TXT_QUITENDOOM"
-msgstr ""
-"Aperte qualquer tecla ou clique em qualquer lugar na janela para sair."
-
 msgid "HUDMNU_FLASH"
 msgstr "Opções de mescla de tela"
 

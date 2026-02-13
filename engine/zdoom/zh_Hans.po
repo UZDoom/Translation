@@ -4711,9 +4711,6 @@ msgstr "无法创建截屏。"
 msgid "TXT_BY"
 msgstr "被 %s"
 
-msgid "TXT_QUITENDOOM"
-msgstr "按任意键或点击窗口内任意位置来退出。"
-
 msgid "HUDMNU_FLASH"
 msgstr "画面混合选项"
 

@@ -4714,9 +4714,6 @@ msgstr "スクリーンショットを作成できなかった。"
 msgid "TXT_BY"
 msgstr "%s より\n"
 
-msgid "TXT_QUITENDOOM"
-msgstr "何かのキーを押すか、ウィンドウのどこかをクリックすると終了する。"
-
 msgid "HUDMNU_FLASH"
 msgstr "スクリーンブレンド オプション"
 

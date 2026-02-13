@@ -4720,9 +4720,6 @@ msgstr "Nie można zrobić zrzutu ekranu."
 msgid "TXT_BY"
 msgstr "Przez %s"
 
-msgid "TXT_QUITENDOOM"
-msgstr "Wciśnij dowolny klawisz lub kliknij gdziekolwiek myszką by wyjść."
-
 msgid "HUDMNU_FLASH"
 msgstr "Opcje scalania ekranu"
 

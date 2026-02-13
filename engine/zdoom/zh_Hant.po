@@ -4576,9 +4576,6 @@ msgstr ""
 msgid "TXT_BY"
 msgstr ""
 
-msgid "TXT_QUITENDOOM"
-msgstr ""
-
 msgid "HUDMNU_FLASH"
 msgstr ""
 

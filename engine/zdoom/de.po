@@ -4725,11 +4725,6 @@ msgstr "Konnte Screenshot nicht erzeugen."
 msgid "TXT_BY"
 msgstr "Von %s"
 
-msgid "TXT_QUITENDOOM"
-msgstr ""
-"Drücke eine beliebige Taste oder klicke irgendwo mit der Maus im Fenster zum "
-"Beenden."
-
 msgid "HUDMNU_FLASH"
 msgstr "Überblendoptionen"
 

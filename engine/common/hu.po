@@ -65,7 +65,7 @@ msgid "TXT_SAY"
 msgstr "Üzenet:"
 
 msgid "TXT_QUITENDOOM"
-msgstr "Nyomjon egy gombot vagy kattintson valahova a kilépéshez."
+msgstr "Nyomjon egy billentyűt vagy kattintson bárhova a kilépéshez."
 
 msgid "NEWSAVE"
 msgstr "<Új mentés>"

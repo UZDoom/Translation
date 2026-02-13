@@ -4733,9 +4733,6 @@ msgstr "Ошибка создания снимка экрана."
 msgid "TXT_BY"
 msgstr "игроком %s"
 
-msgid "TXT_QUITENDOOM"
-msgstr "Нажмите любую клавишу или нажмите по окну, чтобы выйти."
-
 msgid "HUDMNU_FLASH"
 msgstr "Настройки смешивания экрана"
 

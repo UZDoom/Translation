@@ -4702,9 +4702,6 @@ msgstr "Could not create screenshot."
 msgid "TXT_BY"
 msgstr "By %s"
 
-msgid "TXT_QUITENDOOM"
-msgstr "Press any key or click anywhere in the window to quit."
-
 msgid "HUDMNU_FLASH"
 msgstr "Screen Blend Options"
 

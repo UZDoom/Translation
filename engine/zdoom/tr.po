@@ -4663,11 +4663,6 @@ msgstr "Ekran görüntüsü oluşturulamadı."
 msgid "TXT_BY"
 msgstr "Tarafından %s"
 
-msgid "TXT_QUITENDOOM"
-msgstr ""
-"Çıkmak için herhangi bir tuşa basın veya pencerede herhangi bir yere "
-"tıklayın."
-
 msgid "HUDMNU_FLASH"
 msgstr "Ekran Karışım Seçenekleri"
 

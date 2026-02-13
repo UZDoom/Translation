@@ -4726,10 +4726,6 @@ msgstr "Kon geen screenshot maken."
 msgid "TXT_BY"
 msgstr "Met %s"
 
-msgid "TXT_QUITENDOOM"
-msgstr ""
-"Druk op een willekeurige toets of klik ergens in het venster om te stoppen."
-
 msgid "HUDMNU_FLASH"
 msgstr "Opties voor schermmengsel"
 

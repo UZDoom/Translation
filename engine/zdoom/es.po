@@ -4736,10 +4736,6 @@ msgstr "No se pudo crear captura de pantalla."
 msgid "TXT_BY"
 msgstr "Por %s"
 
-msgid "TXT_QUITENDOOM"
-msgstr ""
-"Presiona una tecla o haz click en cualquier lugar de la ventana para salir."
-
 msgid "HUDMNU_FLASH"
 msgstr "Opciones de tintado de pantalla"
 

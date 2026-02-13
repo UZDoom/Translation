@@ -4731,9 +4731,6 @@ msgstr "Captura de ecran nu a putut fi salvată."
 msgid "TXT_BY"
 msgstr "De către %s"
 
-msgid "TXT_QUITENDOOM"
-msgstr "Apasă orice tastă sau dă click oriunde în fereastră pentru a ieși."
-
 msgid "HUDMNU_FLASH"
 msgstr "Setări Amestec Imagine"
 

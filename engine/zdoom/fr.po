@@ -4735,9 +4735,6 @@ msgstr "La capture d'écran à échoué."
 msgid "TXT_BY"
 msgstr "Par %s"
 
-msgid "TXT_QUITENDOOM"
-msgstr "Appuyez sur une touche ou cliquez pour quitter."
-
 msgid "HUDMNU_FLASH"
 msgstr "Options de blending écran"
 

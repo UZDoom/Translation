@@ -4673,9 +4673,6 @@ msgstr "Nije moguće izraditi snimku zaslona."
 msgid "TXT_BY"
 msgstr "Od %s"
 
-msgid "TXT_QUITENDOOM"
-msgstr "Pritisnite bilo koju tipku ili kliknite bilo gdje u prozoru za izlaz."
-
 msgid "HUDMNU_FLASH"
 msgstr "Opcije miješanja zaslona"
 
