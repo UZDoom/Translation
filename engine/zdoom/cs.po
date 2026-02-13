@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-13 06:09+0000\n"
+"PO-Revision-Date: 2026-02-13 22:44+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/cs/>\n"
@@ -57,7 +57,8 @@ msgstr ""
 
 msgid "NIGHTMARE"
 msgstr ""
-"Jsi si jist? Tato úroveň obtížnosti není ani trochu fér.\n"
+"Jsi si jist?\n"
+"Tato úroveň obtížnosti není ani trochu fér.\n"
 "\n"
 "Stiskni Y nebo N."
 
