@@ -5180,6 +5180,3 @@ msgstr ""
 
 msgid "DSPLYMNU_BRIGHTNESS"
 msgstr "Φωτηνότητα"
-
-msgid "TXT_QUITENDOOM"
-msgstr "Πάτα οποιοδήποτε πλήκτρο ή πάτα οπουδήποτε για να κάνεις έξοδο."
