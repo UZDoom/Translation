@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 19:10+0000\n"
+"PO-Revision-Date: 2026-02-13 22:44+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/uzdoom/common/fr/>"
 "\n"
@@ -30,7 +30,7 @@ msgstr ""
 "Appuyez sur une touche."
 
 msgid "SAFEMESSAGE"
-msgstr "Voulez-vous vraiment faire ça?"
+msgstr "Voulez-vous vraiment faire ça ?"
 
 msgid "NOTSET"
 msgstr "Pas paramétré"
@@ -56,13 +56,13 @@ msgid "TXT_X_CHEATS"
 msgstr "%s triche."
 
 msgid "MSGOFF"
-msgstr "Messages désactivés."
+msgstr "Messages désactivés"
 
 msgid "MSGON"
-msgstr "Messages activés."
+msgstr "Messages activés"
 
 msgid "TXT_SAY"
-msgstr "Parler:"
+msgstr "Parler :"
 
 msgid "TXT_QUITENDOOM"
 msgstr "Appuyez sur une touche ou cliquez pour quitter."
@@ -504,7 +504,7 @@ msgid "JOYMNU_NOCON"
 msgstr "Aucun Contrôleur détecté."
 
 msgid "JOYMNU_CONFIG"
-msgstr "Configurer contrôleurs:"
+msgstr "Configurer contrôleurs :"
 
 msgid "JOYMNU_DISABLED1"
 msgstr "Le Support de contrôleur doit être activé"
@@ -1701,7 +1701,7 @@ msgid "VKMNU_HDR"
 msgstr ""
 
 msgid "VK_WARNING"
-msgstr "Attention: Le moteur de rendu Vulkan est très expérimental!"
+msgstr "Attention : Le moteur de rendu Vulkan est très expérimental !"
 
 msgid "VK_RESTART"
 msgstr "Ces options nécessitent un redémarrage."
@@ -1741,7 +1741,7 @@ msgid "OS_NO_RESULTS"
 msgstr "Pas de résultat trouvé"
 
 msgid "OS_LABEL"
-msgstr "Recherche:"
+msgstr "Recherche :"
 
 # This is not a text to be translated but an engine switch for complex
 # languages.
@@ -1789,7 +1789,7 @@ msgid "OPTVAL_HUDANDMAP"
 msgstr "ATH + Carte"
 
 msgid "TXT_SAVEGAMENEEDS"
-msgstr "Cette sauvegarde nécessite les fichiers suivants:"
+msgstr "Cette sauvegarde nécessite les fichiers suivants"
 
 msgid "OPTMNU_MULTIPLAYER"
 msgstr "Options multijoueurs"

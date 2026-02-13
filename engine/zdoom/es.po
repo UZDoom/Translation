@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 06:44+0000\n"
+"PO-Revision-Date: 2026-02-13 06:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/es/>\n"
@@ -50,7 +50,8 @@ msgstr ""
 
 msgid "NEWGAME"
 msgstr ""
-"No puedes iniciar una nueva partida mientras estás jugando en línea.\n"
+"No puedes iniciar una nueva partida\n"
+"mientras estás jugando en línea.\n"
 "\n"
 "Presiona una tecla."
 

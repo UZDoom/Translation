@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 19:09+0000\n"
+"PO-Revision-Date: 2026-02-13 22:44+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/da/>\n"
@@ -58,7 +58,8 @@ msgstr ""
 
 msgid "NIGHTMARE"
 msgstr ""
-"Er du sikker? Dette færdighedsniveau er ikke engang tilnærmelsesvis fair.\n"
+"Er du sikker?\n"
+"Dette færdighedsniveau er ikke engang tilnærmelsesvis fair.\n"
 "\n"
 "Tryk på Y eller N."
 
