@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 19:10+0000\n"
+"PO-Revision-Date: 2026-02-13 06:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fr/>\n"
@@ -46,7 +46,6 @@ msgid "QSAVESPOT"
 msgstr ""
 "Vous n'avez pas encore choisi un\n"
 "emplacement de sauvegarde!\n"
-"\n"
 "Appuyez sur une touche."
 
 msgid "NEWGAME"
@@ -58,8 +57,8 @@ msgstr ""
 
 msgid "NIGHTMARE"
 msgstr ""
-"Vous êtes sur? Ce niveau de\n"
-"difficulté est vraiment impitoyable!\n"
+"Vous êtes sur ? Ce niveau de\n"
+"difficulté est vraiment impitoyable !\n"
 "\n"
 "Appuyez sur Y ou N."
 
@@ -96,12 +95,12 @@ msgstr "(Appuyez sur Y pour revenir à votre OS.)"
 msgid "QUITMSG1"
 msgstr ""
 "Ne partez pas, il ya encore\n"
-"des démons a buter!"
+"des démons a buter !"
 
 msgid "QUITMSG2"
 msgstr ""
 "Fichons le camp, ça dégénère\n"
-"en bain de sang!"
+"en bain de sang !"
 
 msgid "QUITMSG3"
 msgstr ""
@@ -111,12 +110,12 @@ msgstr ""
 msgid "QUITMSG4"
 msgstr ""
 "Vous essayez de dire que vous aimez DOS\n"
-"mieux que moi, pas vrai?"
+"mieux que moi, pas vrai ?"
 
 msgid "QUITMSG5"
 msgstr ""
-"Ne partez pas encore! Il y a \n"
-"un démon dans le coin!"
+"Ne partez pas encore ! Il y a \n"
+"un démon dans le coin !"
 
 msgid "QUITMSG6"
 msgstr ""
@@ -129,8 +128,8 @@ msgstr "Allez y, partez, allez voir si j'y suis."
 # More info here.
 msgid "QUITMSG8"
 msgstr ""
-"Vous voulez vraiment quitter?\n"
-"Vous avez vraiment les fils qui se croisent!"
+"Vous voulez vraiment quitter ?\n"
+"Vous avez vraiment les fils qui se croisent !"
 
 # A “dimensional shambler” is a creature appearing in the works of H. P.
 # Lovecraft.
@@ -138,7 +137,7 @@ msgid "QUITMSG9"
 msgstr ""
 "Ne partez pas maintenant, il y a un \n"
 "monstre interdimensionnel qui\n"
-"dans attend dans votre OS!"
+"dans attend dans votre OS !"
 
 msgid "QUITMSG10"
 msgstr ""
@@ -148,12 +147,12 @@ msgstr ""
 msgid "QUITMSG11"
 msgstr ""
 "Si j'étais votre patron, je vous\n"
-"collerai un Deathmatch dans la minute!"
+"collerai un Deathmatch dans la minute !"
 
 msgid "QUITMSG12"
 msgstr ""
 "Regardez, l'ami. Vous partez maintenant\n"
-"et vous pouvez oublier votre score!"
+"et vous pouvez oublier votre score !"
 
 msgid "QUITMSG13"
 msgstr ""
@@ -167,31 +166,28 @@ msgstr ""
 
 msgid "QUITMSG15"
 msgstr ""
-"Où allez vous?\n"
-"Que va devenir la rébellion?"
+"Où allez vous ?\n"
+"Que va devenir la rébellion ?"
 
-#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
-"Carnage interruptus...\n"
-"Tout un programme!"
+"Carnage interruptus…\n"
+"Tout un programme !"
 
 msgid "QUITMSG17"
 msgstr ""
 "Mais vous êtes l'espoir,\n"
-"notre unique chance!"
+"notre unique chance !"
 
 msgid "QUITMSG18"
-msgstr "Personne n'abandonne Blackbird!"
+msgstr "Personne n'abandonne Blackbird."
 
 #, fuzzy
 msgid "QUITMSG19"
 msgstr "Je vous croyais différent..."
 
 msgid "QUITMSG20"
-msgstr ""
-"C'est ça! Tuez n'importe-qui \n"
-"et barrez-vous comme ça!"
+msgstr "C'est ça ! Tuez n'importe-qui et barrez-vous comme ça !"
 
 #, fuzzy
 msgid "QUITMSG21"
@@ -201,21 +197,23 @@ msgstr ""
 
 msgid "QUITMSG22"
 msgstr ""
-"Bah, il est où est le problème?\n"
-"Maman a dit « à table! »?"
+"Bah, il est où est le problème ?\n"
+"Maman a dit « à table ! » ?"
 
 msgid "QUITMSG23"
-msgstr "N'abandonnez pas maintenant, les flémoides sont toujours à l'assaut!"
+msgstr ""
+"N'abandonnez pas maintenant,\n"
+"les flémoides sont toujours à l'assaut !"
 
 msgid "QUITMSG24"
 msgstr ""
 "Ne partez pas, ou les\n"
-"Flémoïdes vont nous battre!"
+"Flémoïdes vont nous battre !"
 
 msgid "QUITMSG25"
 msgstr ""
 "S'il vous plaît, ne quittez pas, nous\n"
-"avons besoin de votre aide!"
+"avons besoin de votre aide !"
 
 #, fuzzy
 msgid "QUITMSG26"
@@ -225,19 +223,18 @@ msgstr ""
 
 msgid "QUITMSG27"
 msgstr ""
-"Restez avec nous!\n"
-"Nous avons besoin de vous!"
+"Restez avec nous !\n"
+"Nous avons besoin de vous !"
 
 msgid "QUITMSG28"
 msgstr ""
 "N'abandonnez pas la\n"
-"Fédération Intergalactique des Céréales!"
+"Fédération Intergalactique des Céréales !"
 
-#, fuzzy
 msgid "QUITMSG29"
 msgstr ""
-"Le vrai Chex Warrior\n"
-"n'abandonnerait pas de si tôt!"
+"Le vrai Chex® Warrior\n"
+"n'abandonnerait pas de si tôt !"
 
 msgid "TXT_DEFAULTPICKUPMSG"
 msgstr "Quelque chose récupéré."
@@ -270,13 +267,13 @@ msgid "HUSTR_TALKTOSELF1"
 msgstr "Vous parlez tout seul."
 
 msgid "HUSTR_TALKTOSELF2"
-msgstr "Qui est là?"
+msgstr "Qui est là ?"
 
 msgid "HUSTR_TALKTOSELF3"
 msgstr "Vous vous surprenez."
 
 msgid "HUSTR_TALKTOSELF4"
-msgstr "Vous commencez à délirer!"
+msgstr "Vous commencez à délirer"
 
 #, fuzzy
 msgid "HUSTR_TALKTOSELF5"
@@ -289,7 +286,7 @@ msgid "STSTR_MUS"
 msgstr "Changement de Musique"
 
 msgid "STSTR_NOMUS"
-msgstr "Séléction Impossible!"
+msgstr "Séléction Impossible"
 
 msgid "STSTR_DQDON"
 msgstr "Invulnérabilité ON "
@@ -304,10 +301,10 @@ msgid "STSTR_DQD2OFF"
 msgstr "Parfaite Invulnérabilité OFF"
 
 msgid "STSTR_KFAADDED"
-msgstr "Armement Maximum!"
+msgstr "Armement Maximum"
 
 msgid "STSTR_FAADDED"
-msgstr "Arsenal ajouté. (Pas de clés!)"
+msgstr "Arsenal ajouté. (Pas de clés !)"
 
 msgid "STSTR_NCON"
 msgstr "Collisions OFF"
@@ -327,13 +324,13 @@ msgstr "Collisions 3D ON"
 # “Rad”: Radiation-shielding suit
 # “Allmap”: Computer area map
 # “Lite-amp”: Light-amplification visor
+#, fuzzy
 msgid "STSTR_BEHOLD"
 msgstr ""
-"in V ulnérable, S urpuissance, I nvisible, p R otection, c A rte, où L "
-"umière?"
+"in V ulnérable, S urpuissance, I nvisible, p R otection, c A rte, où L umière"
 
 msgid "STSTR_BEHOLDX"
-msgstr "Amélioration Activée!"
+msgstr "Amélioration Activée"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
@@ -376,10 +373,10 @@ msgid "TXT_CHEATSOUNDOFF"
 msgstr "Débogage du son désactivé."
 
 msgid "TXT_CHEATIDDQD"
-msgstr "Tu essaie de tricher, hein? Maintenant tu meurs!"
+msgstr "Tu essaie de tricher, hein ? Et bah tu crève !"
 
 msgid "TXT_CHEATIDKFA"
-msgstr "Tricheur- Tu ne mérite pas d'armes!"
+msgstr "Tricheur- Tu ne mérite pas ton flingue"
 
 msgid "TXT_CHEATTICKERON"
 msgstr "Compteur allumé"
@@ -388,13 +385,13 @@ msgid "TXT_CHEATTICKEROFF"
 msgstr "Compteur éteint"
 
 msgid "TXT_CHEATARTIFACTS3"
-msgstr "C'est à vous!"
+msgstr "C'est à vous"
 
 msgid "TXT_MIDASTOUCH"
 msgstr ""
 
 msgid "TXT_GOTSTUFF"
-msgstr "Voilà ton équipement!"
+msgstr "Voilà ton équipement !"
 
 msgid "TXT_FREEZEON"
 msgstr "Temps arrêté."
@@ -431,7 +428,7 @@ msgid "TXT_NOTARGET_OFF"
 msgstr "Monstres aveugles et sourds OFF"
 
 msgid "TXT_ANUBIS_ON"
-msgstr "« Tremblez de terreur! »"
+msgstr "« Tremblez de terreur ! »"
 
 msgid "TXT_ANUBIS_OFF"
 msgstr "Plus d'armure d'ogre"
@@ -458,10 +455,10 @@ msgid "TXT_NO_RESURRECT"
 msgstr "Impossible de ressuciter. Le joueur n'est plus connecté à son corps."
 
 msgid "TXT_ALL_ARTIFACTS"
-msgstr "Tous les artéfacts!"
+msgstr "Tous les artéfacts !"
 
 msgid "TXT_WHAT_KILL"
-msgstr "Que voulez-vous tuer en dehors d'une partie?"
+msgstr "Vous voulez tuer quoi en dehors d'une partie ?"
 
 msgid "TXT_NOT_FROZEN"
 msgstr "Propriété gelée du joueur annulée."
@@ -497,25 +494,25 @@ msgid "TXT_TIMELIMIT"
 msgstr "Limite de temps atteinte."
 
 msgid "SPREEKILLSELF"
-msgstr "%o était en pleine folie meurtrière avant qu' %g ne se bute!"
+msgstr "%o était en pleine folie meurtrière avant qu' %g ne se bute !"
 
 msgid "SPREEOVER"
-msgstr "La folie meurtrière de %o à été terminée par %k!"
+msgstr "La folie meurtrière de %o à été terminée par %k"
 
 msgid "SPREE5"
-msgstr "%k est en folie meurtrière!"
+msgstr "%k est en folie meurtrière !"
 
 msgid "SPREE10"
-msgstr "%k est en plein massacre!"
+msgstr "%k est en plein massacre !"
 
 msgid "SPREE15"
-msgstr "%k domine!"
+msgstr "%k domine !"
 
 msgid "SPREE20"
-msgstr "%k est inarrétable!"
+msgstr "%k est inarrétable !"
 
 msgid "SPREE25"
-msgstr "%k est un dieu!"
+msgstr "%k est tout-puissant !"
 
 msgid "MULTI2"
 msgstr ""
@@ -586,16 +583,16 @@ msgstr "Niveau Suivant"
 
 msgctxt "heretic hexen"
 msgid "WI_ENTERING"
-msgstr "Vous entrez dans:"
+msgstr "Vous entrez dans :"
 
 msgid "AM_MONSTERS"
-msgstr "Monstres:"
+msgstr "Monstres :"
 
 msgid "AM_SECRETS"
 msgstr ""
 
 msgid "AM_ITEMS"
-msgstr "Objets:"
+msgstr "Objets :"
 
 msgid "OB_SUICIDE"
 msgstr "%o se suicide."
@@ -665,7 +662,7 @@ msgid "GOTARMOR"
 msgstr "Armure récupérée."
 
 msgid "GOTMEGA"
-msgstr "Méga-Armure récupérée!"
+msgstr "Méga-Armure récupérée !"
 
 msgid "GOTHTHBONUS"
 msgstr "Bonus de Santé récupéré."
@@ -677,7 +674,7 @@ msgid "GOTSTIM"
 msgstr "Stimpack récupéré."
 
 msgid "GOTMEDINEED"
-msgstr "Médikit récupéré, et vous en aviez vraiment besoin!"
+msgstr "Médikit récupéré quand vous aviez vraiment besoin !"
 
 msgid "GOTMEDIKIT"
 msgstr "Médikit récupéré."
@@ -704,7 +701,7 @@ msgid "GOTREDSKUL"
 msgstr "Clef Crâne ROUGE récupérée."
 
 msgid "GOTINVUL"
-msgstr "Invulnérabilité!"
+msgstr "Invulnérabilité !"
 
 msgid "GOTBERSERK"
 msgstr ""
@@ -722,7 +719,7 @@ msgid "GOTVISOR"
 msgstr "Lunettes de Vision Nocturne"
 
 msgid "GOTMSPHERE"
-msgstr "Mégasphère!"
+msgstr "Mégasphère !"
 
 msgid "GOTCLIP"
 msgstr "Chargeur récupéré."
@@ -749,28 +746,28 @@ msgid "GOTSHELLBOX"
 msgstr "Boîte de cartouches récupérée."
 
 msgid "GOTBACKPACK"
-msgstr "Sac à dos plein de munitions récupéré!"
+msgstr "Sac à dos plein de munitions récupéré !"
 
 msgid "GOTBFG9000"
-msgstr "UN BFG9000! OH, OUI!"
+msgstr "Vouz avez pris un… BFG9000 ! Oh, ouais."
 
 msgid "GOTCHAINGUN"
-msgstr "Une MITRAILLEUSE!"
+msgstr "Vous avez pris une mitrailleuse !"
 
 msgid "GOTCHAINSAW"
-msgstr "Une TRONCONNEUSE! Viande frâiche!"
+msgstr "Vouz avez pris une tronçonneuse ! Faites des steaks hachés de ceux-la !"
 
 msgid "GOTLAUNCHER"
-msgstr "Un LANCE-ROQUETTES!"
+msgstr "Vouz avez pris un lance-roquettes !"
 
 msgid "GOTPLASMA"
-msgstr "Un FUSIL A PLASMA!"
+msgstr "Vouz avez pris un FUSIL A PLASMA !"
 
 msgid "GOTSHOTGUN"
-msgstr "Un FUSIL A POMPE!"
+msgstr "Vouz avez pris un FUSIL A POMPE !"
 
 msgid "GOTSHOTGUN2"
-msgstr "Un SUPER FUSIL DE CHASSE!"
+msgstr "Vouz avez pris le SUPER FUSIL DE CHASSE !"
 
 msgid "PICKUP_PISTOL_DROPPED"
 msgstr "Un PISTOLET."
@@ -1545,7 +1542,7 @@ msgid "TXT_WEAPON_M4"
 msgstr "Fléau Sanglant Assemblé"
 
 msgid "TXT_WEAPONPIECE"
-msgstr "Une pièce d'arme! C'est votre jour de chance!"
+msgstr "Une pièce d'arme ! C'est votre jour de chance !"
 
 msgid "TXT_QUIETUS_PIECE"
 msgstr "Segment de Quietus"
@@ -2095,7 +2092,7 @@ msgid "MSG_TALISMANBLUE"
 msgstr "Ca doit servir a quelque chose..."
 
 msgid "MSG_TALISMANPOWER"
-msgstr "Vous avez une puissance inégalée!"
+msgstr "Vous avez une puissance inégalée !"
 
 msgid "TXT_NEEDKEY"
 msgstr "Vous n'avez pas la clé."
@@ -2143,10 +2140,10 @@ msgid "TXT_DOES_NOT_WORK"
 msgstr "Cela ne semble pas fonctionner."
 
 msgid "TXT_NEED_CHALICE"
-msgstr "Vous avez besoin du calice!"
+msgstr "Vous avez besoin du calice !"
 
 msgid "TXT_NEED_OPASS"
-msgstr "Vous avez besoin du passe Oracle!"
+msgstr "Vous avez besoin du passe Oracle !"
 
 msgid "TAG_PUNCHDAGGER"
 msgstr "Dague de Poing"
@@ -2547,46 +2544,46 @@ msgid "TXT_STRIFE_EPI"
 msgstr "La Quête du Sigil"
 
 msgid "TXT_FREED_PRISONERS"
-msgstr "Vous avez libéré les prisonniers!"
+msgstr "Vous avez libéré les prisonniers !"
 
 msgid "TXT_DESTROYED_CONVERTER"
-msgstr "Vous avez détruit le convertisseur!"
+msgstr "Vous avez détruit le convertisseur !"
 
 msgid "TXT_COMPLETED_TRAINING"
-msgstr "Félicitations! Vous êtes arrivé à la fin de l'entraînement."
+msgstr "Félicitations ! Vous êtes arrivé à la fin de l'entraînement"
 
 msgid "TXT_QUEST_14"
-msgstr "Vous avez explosé le cristal!"
+msgstr "Vous avez explosé le cristal"
 
 msgid "TXT_QUEST_16"
-msgstr "Vous avez explosé les portes!"
+msgstr "Vous avez explosé les portes"
 
 msgid "TXT_QUEST_27"
-msgstr "Vous avez explosé l'ordinateur!"
+msgstr "Vous avez explosé l'ordinateur"
 
 msgid "TXT_KILLED_BISHOP"
-msgstr "Vous avez tué l'évèque!"
+msgstr "Vous avez tué l'évèque !"
 
 msgid "TXT_KILLED_ORACLE"
-msgstr "Vous avez tué l'oracle!"
+msgstr "Vous avez tué l'oracle !"
 
 msgid "TXT_KILLED_MACIL"
-msgstr "Vous avez tué Macil!"
+msgstr "Vous avez tué Macil !"
 
 msgid "TXT_KILLED_LOREMASTER"
-msgstr "Vous avez tué le Maitre des traditions!"
+msgstr "Vous avez tué le Maitre des traditions !"
 
 msgid "TXT_YOUFOOL"
-msgstr "Vous êtes fou! Vous avez activé l'alarme!"
+msgstr "Vous êtes fou ! Vous avez activé l'alarme."
 
 msgid "TXT_YOUREDEAD"
-msgstr "Vous êtes mort! Vous avez activé l'alarme!"
+msgstr "Vous êtes mort ! Vous avez activé l'alarme."
 
 msgid "TXT_HAVEENOUGH"
-msgstr "Vous avez l'air d'en avoir assez!"
+msgstr "Vous avez l'air d'en avoir assez !"
 
 msgid "TXT_GOAWAY"
-msgstr "Allez-vous en!"
+msgstr "Allez-vous en !"
 
 #, fuzzy
 msgid "TXT_COMM0"
@@ -2607,9 +2604,8 @@ msgstr "pour %u"
 msgid "GOTCHEXARMOR"
 msgstr "Vous avez pris l'armure Chex(R)."
 
-#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
-msgstr "Vous avez pris la super armure Chex(R)!"
+msgstr "Vous avez pris la super armure Chex® !"
 
 msgid "GOTWATER"
 msgstr "Vous avez pris un verre d'eau."
@@ -2618,7 +2614,7 @@ msgid "GOTREPELLENT"
 msgstr "Vous avez pris de la chaux répulsive."
 
 msgid "GOTBREAKFAST"
-msgstr "Petit-déjeuner superchargé!"
+msgstr "Petit-déjeuner superchargé !"
 
 msgid "GOTCBLUEKEY"
 msgstr "Vous avez pris une clé bleue."
@@ -2633,7 +2629,7 @@ msgid "GOTFRUIT"
 msgstr "Vous avez pris un bol de fruits."
 
 msgid "GOTVEGETABLESNEED"
-msgstr "Les légumes sont VRAIMENT bons pour vous!"
+msgstr "Les légumes sont VRAIMENT bons pour vous !"
 
 msgid "GOTVEGETABLES"
 msgstr "Vous avez pris un bol de légumes."
@@ -2669,28 +2665,28 @@ msgid "GOTLARGEZORCHERPACK"
 msgstr "Vous avez pris un pack de recharges pour zorcheur large."
 
 msgid "GOTZORCHPACK"
-msgstr "Vous avez pris un zorchpak!"
+msgstr "Vous avez pris un zorchpak !"
 
 msgid "GOTLAZDEVICE"
-msgstr "Vous avez pris l'Outil ZZL! Wahou!"
+msgstr "Vous avez pris l'Outil ZZL ! Wahou !"
 
 msgid "GOTRAPIDZORCHER"
-msgstr "Vous avez pris le Zorcheur Rapide!"
+msgstr "Vous avez pris le Zorcheur Rapide !"
 
 msgid "GOTSUPERBOOTSPORK"
-msgstr "Vous avez pris la Super Fourchette!"
+msgstr "Vous avez pris la Super Fourchette !"
 
 msgid "GOTZORCHPROPULSOR"
-msgstr "Vous avez pris le Propulseur Zorch!"
+msgstr "Vous avez pris le Propulseur Zorch !"
 
 msgid "GOTPHASINGZORCHER"
-msgstr "Vous avez pris le Zorcheur phasé!"
+msgstr "Vous avez pris le Zorcheur phasé !"
 
 msgid "GOTLARGEZORCHER"
-msgstr "Vous avez pris le Zorcheur Large!"
+msgstr "Vous avez pris le Zorcheur Large !"
 
 msgid "GOTSUPERLARGEZORCHER"
-msgstr "Vous avez pris le méga Zorcheur!"
+msgstr "Vous avez pris le méga Zorcheur !"
 
 msgid "GOTMINIZORCHER"
 msgstr "Vous avez pris le Mini Zorcheur."
@@ -2769,19 +2765,19 @@ msgid "OB_MPBFG_SPLASH"
 msgstr "%o à été pris@[e_fr] par le ZZL de %k."
 
 msgid "CHUSTR_E1M1"
-msgstr "E1M1: La piste d'atterissage"
+msgstr "E1M1 : La piste d'atterissage"
 
 msgid "CHUSTR_E1M2"
-msgstr "E1M2: Le centre de stockage"
+msgstr "E1M2 : Le centre de stockage"
 
 msgid "CHUSTR_E1M3"
-msgstr "E1M3: Les labos expérimentaux"
+msgstr "E1M3 : Les labos expérimentaux"
 
 msgid "CHUSTR_E1M4"
-msgstr "E1M4: L'Arboretum"
+msgstr "E1M4 : L'Arboretum"
 
 msgid "CHUSTR_E1M5"
-msgstr "E1M5: Les cavernes de Bazoik"
+msgstr "E1M5 : Les cavernes de Bazoik"
 
 #, fuzzy
 msgid "CE1TEXT"
@@ -2798,13 +2794,13 @@ msgstr ""
 "Appuyez sur échap pour continuer..."
 
 msgid "CE2TEXT"
-msgstr "Vous l'avez fait!"
+msgstr "Vous l'avez fait !"
 
 msgid "CE3TEXT"
-msgstr "Merveilleux travail!"
+msgstr "Merveilleux travail !"
 
 msgid "CE4TEXT"
-msgstr "Fantastique!"
+msgstr "Fantastique"
 
 msgid "CLOADNET"
 msgstr ""
@@ -2893,10 +2889,9 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Super Zorch Ajouté"
 
-#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
-msgstr "... Mangez du Chex(R)!"
+msgstr "…Mangez du Chex® !"
 
 msgctxt "chex"
 msgid "AMMO_CLIP"
@@ -2931,22 +2926,22 @@ msgstr "Quitter le jeu"
 
 # This text is extremely space limited!
 msgid "MNU_CHOOSESKILL"
-msgstr "Difficulté:"
+msgstr "Difficulté :"
 
 msgid "SKILL_BABY"
-msgstr "Trop jeune pour mourir!"
+msgstr "Trop jeune pour mourir."
 
 msgid "SKILL_EASY"
-msgstr "Hé, pas trop fort!"
+msgstr "Hé, pas trop fort."
 
 msgid "SKILL_NORMAL"
-msgstr "Fais-moi mal!"
+msgstr "Fais-moi mal."
 
 msgid "SKILL_HARD"
-msgstr "Ultra-Violence!"
+msgstr "Ultra-Violence."
 
 msgid "SKILL_NIGHTMARE"
-msgstr "Cauchemar!"
+msgstr "Cauchemar !"
 
 msgid "CSKILL_BABY"
 msgstr "On y va Doucement"
@@ -2961,7 +2956,7 @@ msgid "CSKILL_HARD"
 msgstr "Extrêmement Gluant"
 
 msgid "CSKILL_NIGHTMARE"
-msgstr "Carrément Crade!"
+msgstr "Carrément Crade !"
 
 msgid "SSKILL_BABY"
 msgstr "Entrâinement"
@@ -2976,7 +2971,7 @@ msgid "SSKILL_HARD"
 msgstr ""
 
 msgid "SSKILL_NIGHTMARE"
-msgstr "Massacre!"
+msgstr "Massacre"
 
 msgid "MNU_WETNURSE"
 msgstr "Une Nourrice Vous Voulez"
@@ -2985,13 +2980,13 @@ msgid "MNU_YELLOWBELLIES"
 msgstr "Un Trouillard-Tu-Est"
 
 msgid "MNU_BRINGEST"
-msgstr "Amenez les moi!"
+msgstr "Amenez les moi"
 
 msgid "MNU_SMITE"
 msgstr "Tu est Maître-Meurtrier"
 
 msgid "MNU_BLACKPLAGUE"
-msgstr "La Peste Noire me Possède!"
+msgstr "La Peste Noire me Possède"
 
 msgid "MNU_SQUIRE"
 msgstr "Ecuyer"
@@ -3039,7 +3034,7 @@ msgid "MNU_ARCHMAGE"
 msgstr "Archimage"
 
 msgid "MNU_CHOOSECLASS"
-msgstr "Choissisez une Classe:"
+msgstr "Choissisez une Classe :"
 
 msgid "MNU_FIGHTER"
 msgstr "Guerrier"
@@ -3054,7 +3049,7 @@ msgid "MNU_RANDOM"
 msgstr "Au Hasard"
 
 msgid "MNU_EPISODE"
-msgstr "Quel épisode?"
+msgstr "Quel épisode ?"
 
 msgctxt "strife"
 msgid "MNU_EPISODE"
@@ -4653,13 +4648,13 @@ msgid "OS_NO_RESULTS"
 msgstr "Pas de résultat trouvé"
 
 msgid "OS_LABEL"
-msgstr "Recherche:"
+msgstr "Recherche :"
 
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Toujour afficher clés"
 
 msgid "TXT_NO_TEAM_CHANGE"
-msgstr "Les changements d'équipe sont désactivés!"
+msgstr "Les changements d'équipe sont désactivés !"
 
 # %s is the player and gender sensitive
 msgid "TXT_JOINED_TEAM"
@@ -4687,12 +4682,12 @@ msgid "TXT_INCOMPATIBLESG"
 msgstr "La sauvegarde '%s' vient d'une version incompatible."
 
 msgid "TXT_OTHERENGINESG"
-msgstr "La sauvegarde '%s' vient d'un autre moteur basé sur ZDoom:"
+msgstr "La sauvegarde '%s' vient d'un autre moteur basé sur ZDoom :"
 
 msgid "TXT_TOOOLDSG"
 msgstr ""
-"La sauvegarde '%s' vient d'une version obsolète: %d (%e est la plus ancienne"
-" supportée.)"
+"La sauvegarde '%s' vient d'une version obsolète : %d (%e est la plus "
+"ancienne supportée.)"
 
 # Shouldn’t this say “%e is the newest supported”?
 # 
@@ -4701,7 +4696,7 @@ msgstr ""
 # Ask Randi: The text is old. I won't change it.
 msgid "TXT_TOONEWSG"
 msgstr ""
-"La sauvegarde '%s' vient d'une version plus récente: %d (%e est la plus "
+"La sauvegarde '%s' vient d'une version plus récente : %d (%e est la plus "
 "récente supportée.)"
 
 msgid "TXT_NOMAPSG"
