@@ -4720,9 +4720,6 @@ msgstr "Nepodařilo se pořídit snímek obrazovky."
 msgid "TXT_BY"
 msgstr "hráčem %s"
 
-msgid "TXT_QUITENDOOM"
-msgstr "Pro ukončení stiskni libovolnou klávesu, nebo klikni kdekoliv v okně."
-
 msgid "HUDMNU_FLASH"
 msgstr "Barvení obrazovky"
 

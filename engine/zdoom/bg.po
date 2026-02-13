@@ -4572,11 +4572,6 @@ msgstr ""
 msgid "TXT_BY"
 msgstr ""
 
-msgid "TXT_QUITENDOOM"
-msgstr ""
-"Натиснете който и да е клавиш или щракнете където и да е в прозореца, за да "
-"излезете."
-
 msgid "HUDMNU_FLASH"
 msgstr ""
 

@@ -4690,11 +4690,6 @@ msgstr "Ei voitu ottaa kuvakaappausta."
 msgid "TXT_BY"
 msgstr "Pelaajan %s toimesta"
 
-msgid "TXT_QUITENDOOM"
-msgstr ""
-"Paina mitä tahansa näppäintä tai napsauta minne tahansa ikkunaa "
-"lopettaaksesi."
-
 msgid "HUDMNU_FLASH"
 msgstr "Näytön sekoitusasetukset"
 

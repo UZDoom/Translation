@@ -4668,9 +4668,6 @@ msgstr ""
 msgid "TXT_BY"
 msgstr ""
 
-msgid "TXT_QUITENDOOM"
-msgstr "Націсніце любую клавішу або націсніце па акну, каб выйсці."
-
 msgid "HUDMNU_FLASH"
 msgstr ""
 

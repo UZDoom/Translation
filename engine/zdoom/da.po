@@ -4711,11 +4711,6 @@ msgstr "Kunne ikke oprette et skærmbillede."
 msgid "TXT_BY"
 msgstr "Af %s"
 
-msgid "TXT_QUITENDOOM"
-msgstr ""
-"Tryk på en vilkårlig tast eller klik et vilkårligt sted i vinduet for at "
-"afslutte."
-
 msgid "HUDMNU_FLASH"
 msgstr "Indstillinger for skærmblanding"
 

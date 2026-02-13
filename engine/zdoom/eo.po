@@ -4727,9 +4727,6 @@ msgstr "Ne povis krei ekrankopion."
 msgid "TXT_BY"
 msgstr "De %s"
 
-msgid "TXT_QUITENDOOM"
-msgstr "Premu ajnan klavon aŭ alklaku ie ajn en la fenestro por forlasi."
-
 msgid "HUDMNU_FLASH"
 msgstr "Ekranmisko-agordoj"
 

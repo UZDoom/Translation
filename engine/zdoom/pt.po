@@ -4720,9 +4720,6 @@ msgstr "Não foi possível capturar ecrã"
 msgid "TXT_BY"
 msgstr ""
 
-msgid "TXT_QUITENDOOM"
-msgstr "Carrega numa tecla ou clique em qualquer lugar na janela para sair."
-
 msgid "HUDMNU_FLASH"
 msgstr "Opções de mistura de ecrã"
 

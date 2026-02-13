@@ -4666,9 +4666,6 @@ msgstr ""
 msgid "TXT_BY"
 msgstr ""
 
-msgid "TXT_QUITENDOOM"
-msgstr "Tekan tombol apapun atau klik manapun di jendela untuk keluar."
-
 msgid "HUDMNU_FLASH"
 msgstr ""
 

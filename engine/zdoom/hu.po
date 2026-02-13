@@ -4715,9 +4715,6 @@ msgstr "Képernyőmentés meghiusult"
 msgid "TXT_BY"
 msgstr "%s által"
 
-msgid "TXT_QUITENDOOM"
-msgstr "Nyomjon egy billentyűt vagy kattintson bárhova a kilépéshez."
-
 msgid "HUDMNU_FLASH"
 msgstr "Képernyő Keverés Beállítások"
 

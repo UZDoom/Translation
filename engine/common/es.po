@@ -67,7 +67,7 @@ msgstr "Decir:"
 
 msgid "TXT_QUITENDOOM"
 msgstr ""
-"Presiona una tecla o haz clic en cualquier lugar de la ventana para salir."
+"Presiona una tecla o haz click en cualquier lugar de la ventana para salir."
 
 msgid "NEWSAVE"
 msgstr "<Nueva partida guardada>"

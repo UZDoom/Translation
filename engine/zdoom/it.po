@@ -4731,10 +4731,6 @@ msgstr "Non è stato possibile effettuare la cattura dello schermo."
 msgid "TXT_BY"
 msgstr "Da %s"
 
-msgid "TXT_QUITENDOOM"
-msgstr ""
-"Premi un qualunque tasto o fai un click ovunque nella finestra per uscire."
-
 msgid "HUDMNU_FLASH"
 msgstr "Opzioni Blending dello Schermo"
 

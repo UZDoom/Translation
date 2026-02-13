@@ -4672,9 +4672,6 @@ msgstr "스크린샷을 만들 수 없음."
 msgid "TXT_BY"
 msgstr "%s 에 의해"
 
-msgid "TXT_QUITENDOOM"
-msgstr "아무 키를 누르거나 아무 곳이나 클릭하면 종료됩니다."
-
 msgid "HUDMNU_FLASH"
 msgstr "화면 조합 설정"
 

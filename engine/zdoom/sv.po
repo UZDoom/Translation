@@ -4665,10 +4665,6 @@ msgstr "Kunde inte skapa en skärmdump."
 msgid "TXT_BY"
 msgstr "Av %s"
 
-msgid "TXT_QUITENDOOM"
-msgstr ""
-"Tryck på någon tangent eller klicka någonstans i fönstret för att avsluta."
-
 msgid "HUDMNU_FLASH"
 msgstr "Alternativ för skärmblandning"
 

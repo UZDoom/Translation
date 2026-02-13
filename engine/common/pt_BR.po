@@ -65,7 +65,8 @@ msgid "TXT_SAY"
 msgstr "Dizer:"
 
 msgid "TXT_QUITENDOOM"
-msgstr "Aperte uma tecla ou clique em qualquer lugar na janela para sair."
+msgstr ""
+"Aperte qualquer tecla ou clique em qualquer lugar na janela para sair."
 
 msgid "NEWSAVE"
 msgstr "<Novo jogo salvo>"

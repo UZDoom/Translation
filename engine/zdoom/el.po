@@ -4640,9 +4640,6 @@ msgstr "Ένα screenshot δέν μπόρεσε να τραβυχτεί"
 msgid "TXT_BY"
 msgstr "Απο @[pro_gr] %s"
 
-msgid "TXT_QUITENDOOM"
-msgstr "Πάτα οποιοδήποτε πλήκτρο ή πάτα οπουδήποτε για να κάνεις έξοδο"
-
 msgid "HUDMNU_FLASH"
 msgstr "Ρυθμίσεις Ανάμειξης Οθόνης"
 

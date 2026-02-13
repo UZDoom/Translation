@@ -4676,11 +4676,6 @@ msgstr "Kunne ikke opprette skjermbilde."
 msgid "TXT_BY"
 msgstr "Etter %s"
 
-msgid "TXT_QUITENDOOM"
-msgstr ""
-"Trykk på en hvilken som helst tast eller klikk hvor som helst i vinduet for "
-"å avslutte."
-
 msgid "HUDMNU_FLASH"
 msgstr "Alternativer for skjermblanding"
 
