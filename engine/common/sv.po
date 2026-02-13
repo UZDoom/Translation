@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 20:20+0000\n"
+"PO-Revision-Date: 2026-02-13 06:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/uzdoom/common/"
 "sv/>\n"
@@ -45,7 +45,10 @@ msgstr ""
 
 msgid "QLPROMPT"
 msgstr ""
-"Vill du snabbladda spelet som heter \"%s\"?\n"
+"Vill du snabbladda spelet som heter\n"
+"\n"
+"'%s'?\n"
+"\n"
 "Tryck på Y eller N."
 
 # This is a gender sensitive message where %s represents the player

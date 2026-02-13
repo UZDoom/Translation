@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 19:10+0000\n"
+"PO-Revision-Date: 2026-02-13 22:44+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/uzdoom/common/cs/>"
 "\n"
@@ -56,10 +56,10 @@ msgid "TXT_X_CHEATS"
 msgstr "%s podvádí"
 
 msgid "MSGOFF"
-msgstr "Oznámení ZAP."
+msgstr "Oznámení ZAP"
 
 msgid "MSGON"
-msgstr "Oznámení VYP."
+msgstr "Oznámení VYP"
 
 msgid "TXT_SAY"
 msgstr "Říct:"
