@@ -4536,9 +4536,6 @@ msgstr "Firkantet"
 msgid "OPTVAL_ROUND"
 msgstr "Rund"
 
-msgid "OPTVAL_RADIAL"
-msgstr "Radial"
-
 msgid "OPTVAL_PIXELFUZZ"
 msgstr ""
 
@@ -4619,15 +4616,6 @@ msgstr "Dynamisk lys (software)"
 
 msgid "OS_TITLE"
 msgstr "Mulighed Søg"
-
-msgid "OS_ANY"
-msgstr "Søg efter et vilkårligt begreb"
-
-msgid "OS_ALL"
-msgstr "Søg efter alle udtryk"
-
-msgid "OS_NO_RESULTS"
-msgstr "Ingen resultater fundet."
 
 msgid "OS_LABEL"
 msgstr "Søg:"
@@ -4710,11 +4698,6 @@ msgstr "Kunne ikke oprette et skærmbillede."
 # As in paused by player %s.
 msgid "TXT_BY"
 msgstr "Af %s"
-
-msgid "TXT_QUITENDOOM"
-msgstr ""
-"Tryk på en vilkårlig tast eller klik et vilkårligt sted i vinduet for at "
-"afslutte."
 
 msgid "HUDMNU_FLASH"
 msgstr "Indstillinger for skærmblanding"

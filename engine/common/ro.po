@@ -66,7 +66,7 @@ msgid "TXT_SAY"
 msgstr "Vorbește:"
 
 msgid "TXT_QUITENDOOM"
-msgstr "Apasă orice tastă sau apasă click oriunde în fereastră pentru a ieși."
+msgstr "Apasă orice tastă sau dă click oriunde în fereastră pentru a ieși."
 
 msgid "NEWSAVE"
 msgstr "<Salvare Nouă>"
@@ -1272,8 +1272,9 @@ msgstr "Mod iluminare sectorial"
 msgid "GLPREFMNU_FOGMODE"
 msgstr "Modul ceței"
 
+#, fuzzy
 msgid "OPTVAL_RADIAL"
-msgstr "Circular"
+msgstr "Radial"
 
 msgid "OPTVAL_STANDARD"
 msgstr ""

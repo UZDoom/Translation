@@ -4469,9 +4469,6 @@ msgstr ""
 msgid "OPTVAL_ROUND"
 msgstr ""
 
-msgid "OPTVAL_RADIAL"
-msgstr "Radijalno"
-
 msgid "OPTVAL_PIXELFUZZ"
 msgstr ""
 
@@ -4553,15 +4550,6 @@ msgstr ""
 msgid "OS_TITLE"
 msgstr "Traženje postavke"
 
-msgid "OS_ANY"
-msgstr "Potraži bilo koji pojam"
-
-msgid "OS_ALL"
-msgstr "Potraži sve pojmove"
-
-msgid "OS_NO_RESULTS"
-msgstr "Nema rezultata."
-
 msgid "OS_LABEL"
 msgstr "Traži:"
 
@@ -4640,10 +4628,6 @@ msgstr ""
 # As in paused by player %s.
 msgid "TXT_BY"
 msgstr ""
-
-msgid "TXT_QUITENDOOM"
-msgstr ""
-"Pritisnite bilo koju tipku ili kliknite bilo gdje na prozoru da izađete."
 
 msgid "HUDMNU_FLASH"
 msgstr ""

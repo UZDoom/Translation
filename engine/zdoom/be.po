@@ -4496,9 +4496,6 @@ msgstr ""
 msgid "OPTVAL_ROUND"
 msgstr ""
 
-msgid "OPTVAL_RADIAL"
-msgstr "Кругавы"
-
 msgid "OPTVAL_PIXELFUZZ"
 msgstr ""
 
@@ -4580,15 +4577,6 @@ msgstr ""
 msgid "OS_TITLE"
 msgstr "Пошук налады"
 
-msgid "OS_ANY"
-msgstr "Шукаць любое са слоў"
-
-msgid "OS_ALL"
-msgstr "Шукаць усе словы"
-
-msgid "OS_NO_RESULTS"
-msgstr "Вынікі не знойдзены."
-
 msgid "OS_LABEL"
 msgstr "Пошук:"
 
@@ -4667,9 +4655,6 @@ msgstr ""
 # As in paused by player %s.
 msgid "TXT_BY"
 msgstr ""
-
-msgid "TXT_QUITENDOOM"
-msgstr "Націсніце любую клавішу або націсніце па акну, каб выйсці."
 
 msgid "HUDMNU_FLASH"
 msgstr ""

@@ -4538,9 +4538,6 @@ msgstr "Квадрат"
 msgid "OPTVAL_ROUND"
 msgstr "Круг"
 
-msgid "OPTVAL_RADIAL"
-msgstr "Радијално"
-
 msgid "OPTVAL_PIXELFUZZ"
 msgstr "Пикселизовани фаз"
 
@@ -4622,15 +4619,6 @@ msgstr "Динамичко осветљење (софтвер)"
 msgid "OS_TITLE"
 msgstr "Претрага"
 
-msgid "OS_ANY"
-msgstr "Тражи било коју од речи"
-
-msgid "OS_ALL"
-msgstr "Тражи све речи"
-
-msgid "OS_NO_RESULTS"
-msgstr "Нема резултата."
-
 msgid "OS_LABEL"
 msgstr "Претрага:"
 
@@ -4711,10 +4699,6 @@ msgstr "Није успело направити снимак екрана."
 # As in paused by player %s.
 msgid "TXT_BY"
 msgstr "Од %s"
-
-msgid "TXT_QUITENDOOM"
-msgstr ""
-"Притисните било који тастер или кликните било где на екрану да одустанете."
 
 msgid "HUDMNU_FLASH"
 msgstr "Подешавања блед екрана"

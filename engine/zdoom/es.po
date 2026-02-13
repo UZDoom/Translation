@@ -4560,9 +4560,6 @@ msgstr "Cuadrado"
 msgid "OPTVAL_ROUND"
 msgstr "Redondo"
 
-msgid "OPTVAL_RADIAL"
-msgstr ""
-
 msgid "OPTVAL_PIXELFUZZ"
 msgstr "Difuminado pixelado"
 
@@ -4643,15 +4640,6 @@ msgstr "Luces dinámicas (Software)"
 
 msgid "OS_TITLE"
 msgstr "Buscar Opciones"
-
-msgid "OS_ANY"
-msgstr "Buscar cualquier término"
-
-msgid "OS_ALL"
-msgstr "Buscar todos los términos"
-
-msgid "OS_NO_RESULTS"
-msgstr "Ningun resultado."
 
 msgid "OS_LABEL"
 msgstr "Buscar:"
@@ -4735,10 +4723,6 @@ msgstr "No se pudo crear captura de pantalla."
 # As in paused by player %s.
 msgid "TXT_BY"
 msgstr "Por %s"
-
-msgid "TXT_QUITENDOOM"
-msgstr ""
-"Presiona una tecla o haz click en cualquier lugar de la ventana para salir."
 
 msgid "HUDMNU_FLASH"
 msgstr "Opciones de tintado de pantalla"

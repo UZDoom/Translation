@@ -4498,9 +4498,6 @@ msgstr "정사각형"
 msgid "OPTVAL_ROUND"
 msgstr "원형"
 
-msgid "OPTVAL_RADIAL"
-msgstr "방사형"
-
 msgid "OPTVAL_PIXELFUZZ"
 msgstr "픽셀 퍼즈"
 
@@ -4582,15 +4579,6 @@ msgstr "다이나믹 라이트 (소프트웨어 버전)"
 msgid "OS_TITLE"
 msgstr "옵션 검색"
 
-msgid "OS_ANY"
-msgstr "용어 검색"
-
-msgid "OS_ALL"
-msgstr "모든 조건 검색"
-
-msgid "OS_NO_RESULTS"
-msgstr "검색 결과 없음."
-
 msgid "OS_LABEL"
 msgstr "검색:"
 
@@ -4671,9 +4659,6 @@ msgstr "스크린샷을 만들 수 없음."
 # As in paused by player %s.
 msgid "TXT_BY"
 msgstr "%s 에 의해"
-
-msgid "TXT_QUITENDOOM"
-msgstr "아무 키를 누르거나 아무 곳이나 클릭하면 종료됩니다."
 
 msgid "HUDMNU_FLASH"
 msgstr "화면 조합 설정"

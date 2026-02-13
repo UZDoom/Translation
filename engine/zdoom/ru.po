@@ -4561,9 +4561,6 @@ msgstr "Квадратные"
 msgid "OPTVAL_ROUND"
 msgstr "Круглые"
 
-msgid "OPTVAL_RADIAL"
-msgstr "Радиальный"
-
 msgid "OPTVAL_PIXELFUZZ"
 msgstr "Пиксельный шум"
 
@@ -4645,15 +4642,6 @@ msgstr "Динамическое освещение (программное)"
 msgid "OS_TITLE"
 msgstr "Поиск настройки"
 
-msgid "OS_ANY"
-msgstr "Искать любое из слов"
-
-msgid "OS_ALL"
-msgstr "Искать все слова"
-
-msgid "OS_NO_RESULTS"
-msgstr "Результаты не найдены."
-
 msgid "OS_LABEL"
 msgstr "Поиск:"
 
@@ -4732,9 +4720,6 @@ msgstr "Ошибка создания снимка экрана."
 # As in paused by player %s.
 msgid "TXT_BY"
 msgstr "игроком %s"
-
-msgid "TXT_QUITENDOOM"
-msgstr "Нажмите любую клавишу или нажмите по окну, чтобы выйти."
 
 msgid "HUDMNU_FLASH"
 msgstr "Настройки смешивания экрана"

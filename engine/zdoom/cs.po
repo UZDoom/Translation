@@ -4546,9 +4546,6 @@ msgstr "Čtvercové"
 msgid "OPTVAL_ROUND"
 msgstr "Kulaté"
 
-msgid "OPTVAL_RADIAL"
-msgstr "Radiální"
-
 msgid "OPTVAL_PIXELFUZZ"
 msgstr "Pixelový fuzz"
 
@@ -4630,15 +4627,6 @@ msgstr "Dynamická světla (software)"
 msgid "OS_TITLE"
 msgstr "Vyhledávání možností"
 
-msgid "OS_ANY"
-msgstr "Hledat jakékoli klíčové slovo"
-
-msgid "OS_ALL"
-msgstr "Hledat všechna klíčová slova"
-
-msgid "OS_NO_RESULTS"
-msgstr "Nic nenalezeno."
-
 msgid "OS_LABEL"
 msgstr "Hledat:"
 
@@ -4719,9 +4707,6 @@ msgstr "Nepodařilo se pořídit snímek obrazovky."
 # As in paused by player %s.
 msgid "TXT_BY"
 msgstr "hráčem %s"
-
-msgid "TXT_QUITENDOOM"
-msgstr "Pro ukončení stiskni libovolnou klávesu, nebo klikni kdekoliv v okně."
 
 msgid "HUDMNU_FLASH"
 msgstr "Barvení obrazovky"

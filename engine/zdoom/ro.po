@@ -4555,9 +4555,6 @@ msgstr "Pătrat"
 msgid "OPTVAL_ROUND"
 msgstr "Rotund"
 
-msgid "OPTVAL_RADIAL"
-msgstr "Radial"
-
 msgid "OPTVAL_PIXELFUZZ"
 msgstr "Puf"
 
@@ -4638,15 +4635,6 @@ msgstr "Lumini Dinamice (Software)"
 
 msgid "OS_TITLE"
 msgstr "Căutare Setări"
-
-msgid "OS_ANY"
-msgstr "Căutare după orice termen"
-
-msgid "OS_ALL"
-msgstr "Căutare după toți termenii"
-
-msgid "OS_NO_RESULTS"
-msgstr "Niciun rezultat găsit."
 
 msgid "OS_LABEL"
 msgstr "Căutare:"
@@ -4730,9 +4718,6 @@ msgstr "Captura de ecran nu a putut fi salvată."
 # As in paused by player %s.
 msgid "TXT_BY"
 msgstr "De către %s"
-
-msgid "TXT_QUITENDOOM"
-msgstr "Apasă orice tastă sau dă click oriunde în fereastră pentru a ieși."
 
 msgid "HUDMNU_FLASH"
 msgstr "Setări Amestec Imagine"

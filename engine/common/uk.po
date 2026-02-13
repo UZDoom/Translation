@@ -66,7 +66,7 @@ msgid "TXT_SAY"
 msgstr "Чат:"
 
 msgid "TXT_QUITENDOOM"
-msgstr "Натисніть будь яку клавішу чи натисніть по вікну, щоб вийти."
+msgstr "Натисніть будь-яку клавішу або клацніть будь-де у вікні, щоб вийти."
 
 msgid "NEWSAVE"
 msgstr "<Нове збереження>"
@@ -1742,13 +1742,13 @@ msgid "OS_TITLE"
 msgstr "Пошук налаштування"
 
 msgid "OS_ANY"
-msgstr "Шукати будь яке з слів"
+msgstr "Пошук по слову"
 
 msgid "OS_ALL"
-msgstr "Шукати всі слова"
+msgstr "Пошук по усіх словах"
 
 msgid "OS_NO_RESULTS"
-msgstr "Нічого не знайдено."
+msgstr "Результатів не знайдено."
 
 msgid "OS_LABEL"
 msgstr "Пошук:"

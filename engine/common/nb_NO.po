@@ -1732,7 +1732,7 @@ msgid "OS_TITLE"
 msgstr "Alternativt søk"
 
 msgid "OS_ANY"
-msgstr "Søk etter en hvilken som helst term"
+msgstr "Søk etter et vilkårlig begrep"
 
 msgid "OS_ALL"
 msgstr "Søk etter alle termer"

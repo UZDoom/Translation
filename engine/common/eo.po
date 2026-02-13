@@ -1729,13 +1729,13 @@ msgid "OS_TITLE"
 msgstr "Serĉi agordojn"
 
 msgid "OS_ANY"
-msgstr "Serĉi iun ajn terminon"
+msgstr "Serĉi por iu ajn termino"
 
 msgid "OS_ALL"
-msgstr "Serĉi ĉiujn terminojn"
+msgstr "Serĉi por ĉiuj terminoj"
 
 msgid "OS_NO_RESULTS"
-msgstr "Neniu trafo."
+msgstr "Neniuj rezultoj trovitaj."
 
 msgid "OS_LABEL"
 msgstr "Serĉi:"

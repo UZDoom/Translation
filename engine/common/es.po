@@ -67,7 +67,7 @@ msgstr "Decir:"
 
 msgid "TXT_QUITENDOOM"
 msgstr ""
-"Presiona una tecla o haz clic en cualquier lugar de la ventana para salir."
+"Presiona una tecla o haz click en cualquier lugar de la ventana para salir."
 
 msgid "NEWSAVE"
 msgstr "<Nueva partida guardada>"
@@ -1738,7 +1738,7 @@ msgid "OS_ALL"
 msgstr "Buscar todos los términos"
 
 msgid "OS_NO_RESULTS"
-msgstr "Ningún resultado."
+msgstr "Ningun resultado."
 
 msgid "OS_LABEL"
 msgstr "Buscar:"

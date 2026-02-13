@@ -4494,9 +4494,6 @@ msgstr ""
 msgid "OPTVAL_ROUND"
 msgstr ""
 
-msgid "OPTVAL_RADIAL"
-msgstr ""
-
 msgid "OPTVAL_PIXELFUZZ"
 msgstr ""
 
@@ -4578,15 +4575,6 @@ msgstr ""
 msgid "OS_TITLE"
 msgstr ""
 
-msgid "OS_ANY"
-msgstr "Cari kata kunci apapun"
-
-msgid "OS_ALL"
-msgstr "Cari semua kata kunci"
-
-msgid "OS_NO_RESULTS"
-msgstr "Tiada hasil."
-
 msgid "OS_LABEL"
 msgstr "Cari:"
 
@@ -4665,9 +4653,6 @@ msgstr ""
 # As in paused by player %s.
 msgid "TXT_BY"
 msgstr ""
-
-msgid "TXT_QUITENDOOM"
-msgstr "Tekan tombol apapun atau klik manapun di jendela untuk keluar."
 
 msgid "HUDMNU_FLASH"
 msgstr ""

@@ -4530,9 +4530,6 @@ msgstr "Square"
 msgid "OPTVAL_ROUND"
 msgstr "Round"
 
-msgid "OPTVAL_RADIAL"
-msgstr "Radial"
-
 msgid "OPTVAL_PIXELFUZZ"
 msgstr "Pixel fuzz"
 
@@ -4614,15 +4611,6 @@ msgstr "Dynamic lights (Software)"
 msgid "OS_TITLE"
 msgstr "Option Search"
 
-msgid "OS_ANY"
-msgstr "Search for any term"
-
-msgid "OS_ALL"
-msgstr "Search for all terms"
-
-msgid "OS_NO_RESULTS"
-msgstr "No results found."
-
 msgid "OS_LABEL"
 msgstr "Search:"
 
@@ -4703,9 +4691,6 @@ msgstr "Could not create screenshot."
 # As in paused by player %s.
 msgid "TXT_BY"
 msgstr "By %s"
-
-msgid "TXT_QUITENDOOM"
-msgstr "Press any key or click anywhere in the window to quit."
 
 msgid "HUDMNU_FLASH"
 msgstr "Screen Blend Options"

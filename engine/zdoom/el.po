@@ -4464,9 +4464,6 @@ msgstr ""
 msgid "OPTVAL_ROUND"
 msgstr ""
 
-msgid "OPTVAL_RADIAL"
-msgstr "Ακτινικό"
-
 msgid "OPTVAL_PIXELFUZZ"
 msgstr "Pixel θολούρα"
 
@@ -4547,15 +4544,6 @@ msgstr "Δυναμικά φώτα (Λογισμικό)"
 
 msgid "OS_TITLE"
 msgstr "Αναζήτηση Ρυθμίσεων"
-
-msgid "OS_ANY"
-msgstr "Αναζήτηση για όποιαδηποτε λέξη"
-
-msgid "OS_ALL"
-msgstr "Αναζήτηση για όλες της λέξεις"
-
-msgid "OS_NO_RESULTS"
-msgstr "Δέν βρέθηκαν αποτελέσματα"
 
 msgid "OS_LABEL"
 msgstr "Αναζήτηση:"
@@ -4639,9 +4627,6 @@ msgstr "Ένα screenshot δέν μπόρεσε να τραβυχτεί"
 # As in paused by player %s.
 msgid "TXT_BY"
 msgstr "Απο @[pro_gr] %s"
-
-msgid "TXT_QUITENDOOM"
-msgstr "Πάτα οποιοδήποτε πλήκτρο ή πάτα οπουδήποτε για να κάνεις έξοδο"
 
 msgid "HUDMNU_FLASH"
 msgstr "Ρυθμίσεις Ανάμειξης Οθόνης"

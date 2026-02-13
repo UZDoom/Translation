@@ -4489,9 +4489,6 @@ msgstr "Kvadratisk"
 msgid "OPTVAL_ROUND"
 msgstr "Rund"
 
-msgid "OPTVAL_RADIAL"
-msgstr "Radial"
-
 msgid "OPTVAL_PIXELFUZZ"
 msgstr ""
 
@@ -4572,15 +4569,6 @@ msgstr "Dynamiskt ljus (programvara)"
 
 msgid "OS_TITLE"
 msgstr "Alternativ Sök"
-
-msgid "OS_ANY"
-msgstr "Sök efter valfri term"
-
-msgid "OS_ALL"
-msgstr "Sök efter alla termer"
-
-msgid "OS_NO_RESULTS"
-msgstr "Inga resultat hittades."
 
 msgid "OS_LABEL"
 msgstr "Sök:"
@@ -4664,10 +4652,6 @@ msgstr "Kunde inte skapa en skärmdump."
 # As in paused by player %s.
 msgid "TXT_BY"
 msgstr "Av %s"
-
-msgid "TXT_QUITENDOOM"
-msgstr ""
-"Tryck på någon tangent eller klicka någonstans i fönstret för att avsluta."
 
 msgid "HUDMNU_FLASH"
 msgstr "Alternativ för skärmblandning"

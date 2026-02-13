@@ -4497,9 +4497,6 @@ msgstr "﻿Kvadrat"
 msgid "OPTVAL_ROUND"
 msgstr "Okruglo"
 
-msgid "OPTVAL_RADIAL"
-msgstr "Radijalno"
-
 msgid "OPTVAL_PIXELFUZZ"
 msgstr "Nejasan prikaz piksela"
 
@@ -4580,15 +4577,6 @@ msgstr "Dinamička svjetla (softver)"
 
 msgid "OS_TITLE"
 msgstr "Pretraživanje opcija"
-
-msgid "OS_ANY"
-msgstr "Pretražite bilo koji pojam"
-
-msgid "OS_ALL"
-msgstr "Pretraži sve pojmove"
-
-msgid "OS_NO_RESULTS"
-msgstr "Nisu pronađeni rezultati."
 
 msgid "OS_LABEL"
 msgstr "Pretraži:"
@@ -4672,9 +4660,6 @@ msgstr "Nije moguće izraditi snimku zaslona."
 # As in paused by player %s.
 msgid "TXT_BY"
 msgstr "Od %s"
-
-msgid "TXT_QUITENDOOM"
-msgstr "Pritisnite bilo koju tipku ili kliknite bilo gdje u prozoru za izlaz."
 
 msgid "HUDMNU_FLASH"
 msgstr "Opcije miješanja zaslona"
