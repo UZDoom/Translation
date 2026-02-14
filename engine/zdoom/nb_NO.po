@@ -4502,12 +4502,6 @@ msgstr "Firkantet"
 msgid "OPTVAL_ROUND"
 msgstr "Rund"
 
-msgid "OPTVAL_RADIAL"
-msgstr ""
-
-msgid "OPTVAL_PIXELFUZZ"
-msgstr ""
-
 msgid "OPTVAL_SMOOTHFUZZ"
 msgstr "Glatt fuzz"
 
@@ -4585,15 +4579,6 @@ msgstr "Dynamiske lys (programvare)"
 
 msgid "OS_TITLE"
 msgstr "Alternativt søk"
-
-msgid "OS_ANY"
-msgstr "Søk etter et vilkårlig begrep"
-
-msgid "OS_ALL"
-msgstr "Søk etter alle termer"
-
-msgid "OS_NO_RESULTS"
-msgstr "Ingen resultater funnet."
 
 msgid "OS_LABEL"
 msgstr "Søk:"

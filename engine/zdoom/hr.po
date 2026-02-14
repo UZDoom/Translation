@@ -4505,9 +4505,6 @@ msgstr "﻿Kvadrat"
 msgid "OPTVAL_ROUND"
 msgstr "Okruglo"
 
-msgid "OPTVAL_RADIAL"
-msgstr "Radijalno"
-
 msgid "OPTVAL_PIXELFUZZ"
 msgstr "Nejasan prikaz piksela"
 
@@ -4588,15 +4585,6 @@ msgstr "Dinamička svjetla (softver)"
 
 msgid "OS_TITLE"
 msgstr "Pretraživanje opcija"
-
-msgid "OS_ANY"
-msgstr "Pretražite bilo koji pojam"
-
-msgid "OS_ALL"
-msgstr "Pretraži sve pojmove"
-
-msgid "OS_NO_RESULTS"
-msgstr "Nisu pronađeni rezultati."
 
 msgid "OS_LABEL"
 msgstr "Pretraži:"

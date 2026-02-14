@@ -1731,10 +1731,10 @@ msgid "OS_TITLE"
 msgstr "Претрага"
 
 msgid "OS_ANY"
-msgstr "Тражи било који термин"
+msgstr "Тражи било коју од речи"
 
 msgid "OS_ALL"
-msgstr "Тражи сваки термин"
+msgstr "Тражи све речи"
 
 msgid "OS_NO_RESULTS"
 msgstr "Нема резултата."

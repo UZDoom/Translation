@@ -4543,9 +4543,6 @@ msgstr "平方"
 msgid "OPTVAL_ROUND"
 msgstr "円形"
 
-msgid "OPTVAL_RADIAL"
-msgstr "放射状"
-
 msgid "OPTVAL_PIXELFUZZ"
 msgstr "ピクセル ファズ"
 
@@ -4626,15 +4623,6 @@ msgstr "ダイナミックライト (ソフトウェア)"
 
 msgid "OS_TITLE"
 msgstr "オプション検索"
-
-msgid "OS_ANY"
-msgstr "いずれかの用語を探す"
-
-msgid "OS_ALL"
-msgstr "全ての用語を探す"
-
-msgid "OS_NO_RESULTS"
-msgstr "見つかりませんでした。"
 
 msgid "OS_LABEL"
 msgstr "検索:"

@@ -1737,7 +1737,7 @@ msgid "OS_ALL"
 msgstr "Buscar todos los términos"
 
 msgid "OS_NO_RESULTS"
-msgstr "Ningún resultado."
+msgstr "Ningun resultado."
 
 msgid "OS_LABEL"
 msgstr "Buscar:"

@@ -4500,9 +4500,6 @@ msgstr "정사각형"
 msgid "OPTVAL_ROUND"
 msgstr "원형"
 
-msgid "OPTVAL_RADIAL"
-msgstr "방사형"
-
 msgid "OPTVAL_PIXELFUZZ"
 msgstr "픽셀 퍼즈"
 
@@ -4583,15 +4580,6 @@ msgstr "다이나믹 라이트 (소프트웨어 버전)"
 
 msgid "OS_TITLE"
 msgstr "옵션 검색"
-
-msgid "OS_ANY"
-msgstr "용어 검색"
-
-msgid "OS_ALL"
-msgstr "모든 조건 검색"
-
-msgid "OS_NO_RESULTS"
-msgstr "검색 결과 없음."
 
 msgid "OS_LABEL"
 msgstr "검색:"

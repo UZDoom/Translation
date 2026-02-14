@@ -4555,9 +4555,6 @@ msgstr "Pătrat"
 msgid "OPTVAL_ROUND"
 msgstr "Rotund"
 
-msgid "OPTVAL_RADIAL"
-msgstr "Radial"
-
 msgid "OPTVAL_PIXELFUZZ"
 msgstr "Puf"
 
@@ -4638,15 +4635,6 @@ msgstr "Lumini Dinamice (Software)"
 
 msgid "OS_TITLE"
 msgstr "Căutare Setări"
-
-msgid "OS_ANY"
-msgstr "Căutare după orice termen"
-
-msgid "OS_ALL"
-msgstr "Căutare după toți termenii"
-
-msgid "OS_NO_RESULTS"
-msgstr "Niciun rezultat găsit."
 
 msgid "OS_LABEL"
 msgstr "Căutare:"

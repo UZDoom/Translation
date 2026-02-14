@@ -4540,9 +4540,6 @@ msgstr ""
 msgid "OPTVAL_ROUND"
 msgstr ""
 
-msgid "OPTVAL_RADIAL"
-msgstr ""
-
 msgid "OPTVAL_PIXELFUZZ"
 msgstr ""
 
@@ -4623,15 +4620,6 @@ msgstr ""
 
 msgid "OS_TITLE"
 msgstr "Procurar opção"
-
-msgid "OS_ANY"
-msgstr "Procurar por um termo qualquer"
-
-msgid "OS_ALL"
-msgstr "Procurar por todos os termos"
-
-msgid "OS_NO_RESULTS"
-msgstr ""
 
 msgid "OS_LABEL"
 msgstr "Procura:"

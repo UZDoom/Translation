@@ -4539,9 +4539,6 @@ msgstr "Négyzet"
 msgid "OPTVAL_ROUND"
 msgstr "Kör"
 
-msgid "OPTVAL_RADIAL"
-msgstr "Sugaras"
-
 msgid "OPTVAL_PIXELFUZZ"
 msgstr "Pixeles homály"
 
@@ -4622,15 +4619,6 @@ msgstr "Dinamikus fények (szoftveres)"
 
 msgid "OS_TITLE"
 msgstr "Beállítás Keresés"
-
-msgid "OS_ANY"
-msgstr "Bármilyen szótagra keresés"
-
-msgid "OS_ALL"
-msgstr "Összes szótagra keresés"
-
-msgid "OS_NO_RESULTS"
-msgstr "Nincs keresési találat"
 
 msgid "OS_LABEL"
 msgstr "Keresés:"

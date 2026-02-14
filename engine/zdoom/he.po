@@ -4416,9 +4416,6 @@ msgstr ""
 msgid "OPTVAL_ROUND"
 msgstr ""
 
-msgid "OPTVAL_RADIAL"
-msgstr ""
-
 msgid "OPTVAL_PIXELFUZZ"
 msgstr ""
 
@@ -4498,15 +4495,6 @@ msgid "TCMNU_DYNLIGHTS"
 msgstr ""
 
 msgid "OS_TITLE"
-msgstr ""
-
-msgid "OS_ANY"
-msgstr ""
-
-msgid "OS_ALL"
-msgstr ""
-
-msgid "OS_NO_RESULTS"
 msgstr ""
 
 msgid "OS_LABEL"

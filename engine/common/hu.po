@@ -1731,13 +1731,13 @@ msgid "OS_TITLE"
 msgstr "Beállítások keresése"
 
 msgid "OS_ANY"
-msgstr "Keresés bármely kifejezésre"
+msgstr "Bármilyen szótagra keresés"
 
 msgid "OS_ALL"
-msgstr "Keresés minden kifejezésre"
+msgstr "Összes szótagra keresés"
 
 msgid "OS_NO_RESULTS"
-msgstr "Nincs találat"
+msgstr "Nincs keresési találat"
 
 msgid "OS_LABEL"
 msgstr "Keresés:"

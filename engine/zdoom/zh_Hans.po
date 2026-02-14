@@ -4539,9 +4539,6 @@ msgstr "方形"
 msgid "OPTVAL_ROUND"
 msgstr "圆形"
 
-msgid "OPTVAL_RADIAL"
-msgstr "放射"
-
 msgid "OPTVAL_PIXELFUZZ"
 msgstr "像素模糊"
 
@@ -4622,15 +4619,6 @@ msgstr "动态光源(软件)"
 
 msgid "OS_TITLE"
 msgstr "选项搜索"
-
-msgid "OS_ANY"
-msgstr "搜索任意条目"
-
-msgid "OS_ALL"
-msgstr "搜索全部条目"
-
-msgid "OS_NO_RESULTS"
-msgstr "无搜索结果。"
 
 msgid "OS_LABEL"
 msgstr "搜索："

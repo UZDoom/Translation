@@ -1272,8 +1272,9 @@ msgstr "Mod iluminare sectorial"
 msgid "GLPREFMNU_FOGMODE"
 msgstr "Modul ceței"
 
+#, fuzzy
 msgid "OPTVAL_RADIAL"
-msgstr "Circular"
+msgstr "Radial"
 
 msgid "OPTVAL_STANDARD"
 msgstr ""

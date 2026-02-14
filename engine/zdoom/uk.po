@@ -4521,9 +4521,6 @@ msgstr "Квадратні"
 msgid "OPTVAL_ROUND"
 msgstr "Круглі"
 
-msgid "OPTVAL_RADIAL"
-msgstr "Радіальний"
-
 msgid "OPTVAL_PIXELFUZZ"
 msgstr "Піксельний шум"
 
@@ -4604,15 +4601,6 @@ msgstr "Динамічне освітлення (програмне)"
 
 msgid "OS_TITLE"
 msgstr "Пошук налаштувань"
-
-msgid "OS_ANY"
-msgstr "Пошук по слову"
-
-msgid "OS_ALL"
-msgstr "Пошук по усіх словах"
-
-msgid "OS_NO_RESULTS"
-msgstr "Результатів не знайдено."
 
 msgid "OS_LABEL"
 msgstr "Пошук:"

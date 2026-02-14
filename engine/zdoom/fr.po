@@ -4554,9 +4554,6 @@ msgstr "Carrées"
 msgid "OPTVAL_ROUND"
 msgstr "Rondes"
 
-msgid "OPTVAL_RADIAL"
-msgstr ""
-
 msgid "OPTVAL_PIXELFUZZ"
 msgstr "Bruit Pixélisé"
 
@@ -4637,15 +4634,6 @@ msgstr "Lumières Dynamiques (Software)"
 
 msgid "OS_TITLE"
 msgstr "Recherche Option"
-
-msgid "OS_ANY"
-msgstr "N'importe quel mot"
-
-msgid "OS_ALL"
-msgstr "Tous les mots"
-
-msgid "OS_NO_RESULTS"
-msgstr "Pas de résultat trouvé"
 
 msgid "OS_LABEL"
 msgstr "Recherche :"

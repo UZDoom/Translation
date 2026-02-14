@@ -4555,9 +4555,6 @@ msgstr "Quadrato"
 msgid "OPTVAL_ROUND"
 msgstr "Arrotondato"
 
-msgid "OPTVAL_RADIAL"
-msgstr "Radiale"
-
 msgid "OPTVAL_PIXELFUZZ"
 msgstr "Fuzz pixelato"
 
@@ -4638,15 +4635,6 @@ msgstr "Luci Dinamiche (Software)"
 
 msgid "OS_TITLE"
 msgstr "Opzioni di ricerca"
-
-msgid "OS_ANY"
-msgstr "Cerca per ciascun termine"
-
-msgid "OS_ALL"
-msgstr "Cerca per tutti i termini"
-
-msgid "OS_NO_RESULTS"
-msgstr "Nessun risultato trovato."
 
 msgid "OS_LABEL"
 msgstr "Trova:"

@@ -4549,9 +4549,6 @@ msgstr "Quadratisch"
 msgid "OPTVAL_ROUND"
 msgstr "Rund"
 
-msgid "OPTVAL_RADIAL"
-msgstr "Radial"
-
 msgid "OPTVAL_PIXELFUZZ"
 msgstr "Pixel"
 
@@ -4632,15 +4629,6 @@ msgstr "Dynamisches Licht (Software)"
 
 msgid "OS_TITLE"
 msgstr "Optionssuche"
-
-msgid "OS_ANY"
-msgstr "Suche nach beliebigem Begriff"
-
-msgid "OS_ALL"
-msgstr "Suche nach allen Begriffen"
-
-msgid "OS_NO_RESULTS"
-msgstr "Keine Ergebnisse gefunden."
 
 msgid "OS_LABEL"
 msgstr "Suche:"

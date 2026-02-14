@@ -4544,9 +4544,6 @@ msgstr "Квадрат"
 msgid "OPTVAL_ROUND"
 msgstr "Круг"
 
-msgid "OPTVAL_RADIAL"
-msgstr "Радијално"
-
 msgid "OPTVAL_PIXELFUZZ"
 msgstr "Пикселизовани фаз"
 
@@ -4627,15 +4624,6 @@ msgstr "Динамичко осветљење (софтвер)"
 
 msgid "OS_TITLE"
 msgstr "Претрага"
-
-msgid "OS_ANY"
-msgstr "Тражи било коју од речи"
-
-msgid "OS_ALL"
-msgstr "Тражи све речи"
-
-msgid "OS_NO_RESULTS"
-msgstr "Нема резултата."
 
 msgid "OS_LABEL"
 msgstr "Претрага:"

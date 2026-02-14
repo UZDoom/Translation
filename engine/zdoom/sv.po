@@ -4498,9 +4498,6 @@ msgstr "Kvadratisk"
 msgid "OPTVAL_ROUND"
 msgstr "Rund"
 
-msgid "OPTVAL_RADIAL"
-msgstr "Radial"
-
 msgid "OPTVAL_PIXELFUZZ"
 msgstr ""
 
@@ -4581,15 +4578,6 @@ msgstr "Dynamiskt ljus (programvara)"
 
 msgid "OS_TITLE"
 msgstr "Alternativ Sök"
-
-msgid "OS_ANY"
-msgstr "Sök efter valfri term"
-
-msgid "OS_ALL"
-msgstr "Sök efter alla termer"
-
-msgid "OS_NO_RESULTS"
-msgstr "Inga resultat hittades."
 
 msgid "OS_LABEL"
 msgstr "Sök:"

@@ -1731,13 +1731,13 @@ msgid "OS_TITLE"
 msgstr "Traženje postavke"
 
 msgid "OS_ANY"
-msgstr "Potraži bilo koji pojam"
+msgstr "Pretražite bilo koji pojam"
 
 msgid "OS_ALL"
-msgstr "Potraži sve pojmove"
+msgstr "Pretraži sve pojmove"
 
 msgid "OS_NO_RESULTS"
-msgstr "Nema rezultata."
+msgstr "Nisu pronađeni rezultati."
 
 msgid "OS_LABEL"
 msgstr "Traži:"

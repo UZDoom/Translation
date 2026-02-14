@@ -4550,9 +4550,6 @@ msgstr "Vierkant"
 msgid "OPTVAL_ROUND"
 msgstr "Rond"
 
-msgid "OPTVAL_RADIAL"
-msgstr "Radiaal"
-
 msgid "OPTVAL_PIXELFUZZ"
 msgstr "Pixel fuzz"
 
@@ -4630,18 +4627,6 @@ msgstr "Gebruik mipmapped texturen"
 
 msgid "TCMNU_DYNLIGHTS"
 msgstr "Dynamische verlichting (software)"
-
-msgid "OS_TITLE"
-msgstr "Optie zoeken"
-
-msgid "OS_ANY"
-msgstr "Zoek naar eender welke term"
-
-msgid "OS_ALL"
-msgstr "Zoek naar alle termen"
-
-msgid "OS_NO_RESULTS"
-msgstr "Geen resultaten gevonden."
 
 msgid "OS_LABEL"
 msgstr "Zoeken:"

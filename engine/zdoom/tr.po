@@ -4500,9 +4500,6 @@ msgstr "Kare"
 msgid "OPTVAL_ROUND"
 msgstr "Yuvarlak"
 
-msgid "OPTVAL_RADIAL"
-msgstr "Radyal"
-
 msgid "OPTVAL_PIXELFUZZ"
 msgstr "Piksel fuzz"
 
@@ -4583,15 +4580,6 @@ msgstr "Dinamik ışıklar (Yazılım)"
 
 msgid "OS_TITLE"
 msgstr "Seçenek Arama"
-
-msgid "OS_ANY"
-msgstr "Herhangi bir terim için arama yapın"
-
-msgid "OS_ALL"
-msgstr "Tüm terimler için arama yapın"
-
-msgid "OS_NO_RESULTS"
-msgstr "Sonuç bulunamadı."
 
 msgid "OS_LABEL"
 msgstr "Arama yapın:"

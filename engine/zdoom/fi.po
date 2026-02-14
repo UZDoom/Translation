@@ -4518,9 +4518,6 @@ msgstr "Kulmikas"
 msgid "OPTVAL_ROUND"
 msgstr "Pyöreä"
 
-msgid "OPTVAL_RADIAL"
-msgstr "Säteittäinen"
-
 msgid "OPTVAL_PIXELFUZZ"
 msgstr "Kuvapistesumennus"
 
@@ -4601,15 +4598,6 @@ msgstr "Dynaamiset valot (ohjelmisto)"
 
 msgid "OS_TITLE"
 msgstr "Asetushaku"
-
-msgid "OS_ANY"
-msgstr "Etsi mitä tahansa sanaa"
-
-msgid "OS_ALL"
-msgstr "Etsi kaikki sanat"
-
-msgid "OS_NO_RESULTS"
-msgstr "Ei tuloksia."
 
 msgid "OS_LABEL"
 msgstr "Etsi:"
