@@ -4397,17 +4397,11 @@ msgstr "Gölge haritası kalitesi"
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr "Gölge haritası filtresi"
 
-msgid "GLPREFMNU_FOGMODE"
-msgstr "Sis modu"
-
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr "Sis fullbright'ı zorlar"
 
 msgid "GLPREFMNU_WPNLIGHTSTR"
 msgstr "Silah ışık gücü"
-
-msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr "Aynalar üzerinde çevre haritası"
 
 msgid "GLPREFMNU_ENV"
 msgstr "Geliştirilmiş gece görüş modu"
@@ -4432,9 +4426,6 @@ msgstr "Sprite'lar kamerayla yüzleşir"
 
 msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr "Parçacık stili"
-
-msgid "GLPREFMNU_RENDERQUALITY"
-msgstr "Render kalitesi"
 
 msgid "GLPREFMNU_VRMODE"
 msgstr ""
@@ -4577,12 +4568,6 @@ msgstr "Eşlenmiş dokular kullanın"
 
 msgid "TCMNU_DYNLIGHTS"
 msgstr "Dinamik ışıklar (Yazılım)"
-
-msgid "OS_TITLE"
-msgstr "Seçenek Arama"
-
-msgid "OS_LABEL"
-msgstr "Arama yapın:"
 
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Her zaman anahtarları göster"

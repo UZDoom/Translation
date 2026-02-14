@@ -4440,17 +4440,11 @@ msgstr "シャドウマップ 品質"
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr "シャドウマップ フィルター"
 
-msgid "GLPREFMNU_FOGMODE"
-msgstr "フォグモード"
-
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr "濃霧は明るさ最大"
 
 msgid "GLPREFMNU_WPNLIGHTSTR"
 msgstr "武器ライトの強さ"
-
-msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr "マップオンミラーの画像表示"
 
 msgid "GLPREFMNU_ENV"
 msgstr "バイザーを暗視装置調にする"
@@ -4475,9 +4469,6 @@ msgstr "スプライトのフェイスカメラ"
 
 msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr "パーティクル スタイル"
-
-msgid "GLPREFMNU_RENDERQUALITY"
-msgstr "レンダリング品質"
 
 msgid "GLPREFMNU_VRMODE"
 msgstr "ステレオ3DのVR"
@@ -4620,12 +4611,6 @@ msgstr "ミップマップテクスチャを使用"
 
 msgid "TCMNU_DYNLIGHTS"
 msgstr "ダイナミックライト (ソフトウェア)"
-
-msgid "OS_TITLE"
-msgstr "オプション検索"
-
-msgid "OS_LABEL"
-msgstr "検索:"
 
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "常にキーを表示"

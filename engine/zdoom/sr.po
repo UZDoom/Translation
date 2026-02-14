@@ -4441,17 +4441,11 @@ msgstr "Мапа сенки квалитет"
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr "Мапа сенки филтер"
 
-msgid "GLPREFMNU_FOGMODE"
-msgstr "Магла мод"
-
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr "Магла присиљава пуну светлост"
 
 msgid "GLPREFMNU_WPNLIGHTSTR"
 msgstr "Блага снага оружја"
-
-msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr "Околинска мапа на прозорима"
 
 msgid "GLPREFMNU_ENV"
 msgstr "Побољшана ноћна визија мод"
@@ -4476,9 +4470,6 @@ msgstr "Спрајт камера фаце"
 
 msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr "Честице стајл"
-
-msgid "GLPREFMNU_RENDERQUALITY"
-msgstr "Квалитет рендовања"
 
 msgid "GLPREFMNU_VRMODE"
 msgstr "Стереотоно 3D VR"
@@ -4621,12 +4612,6 @@ msgstr "Користи мипмаповане текстуре"
 
 msgid "TCMNU_DYNLIGHTS"
 msgstr "Динамичко осветљење (софтвер)"
-
-msgid "OS_TITLE"
-msgstr "Претрага"
-
-msgid "OS_LABEL"
-msgstr "Претрага:"
 
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Увек приказуј кључеве"

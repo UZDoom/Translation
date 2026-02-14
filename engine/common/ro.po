@@ -1270,7 +1270,7 @@ msgid "GLPREFMNU_SECLIGHTMODE"
 msgstr "Mod iluminare sectorial"
 
 msgid "GLPREFMNU_FOGMODE"
-msgstr "Modul ceței"
+msgstr "Mod ceață"
 
 #, fuzzy
 msgid "OPTVAL_RADIAL"
@@ -1742,7 +1742,7 @@ msgid "OS_NO_RESULTS"
 msgstr "Niciun rezultat găsit."
 
 msgid "OS_LABEL"
-msgstr "Caută:"
+msgstr "Căutare:"
 
 # This is not a text to be translated but an engine switch for complex
 # languages.

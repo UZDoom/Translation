@@ -4436,17 +4436,11 @@ msgstr "Shadowmap minőség"
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr ""
 
-msgid "GLPREFMNU_FOGMODE"
-msgstr "Köd mód"
-
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr "Köd Fullbright-ot erőltet ki"
 
 msgid "GLPREFMNU_WPNLIGHTSTR"
 msgstr "Fegyver lövés fényerősség"
-
-msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr "Környezeti mappolás a tükrökön"
 
 msgid "GLPREFMNU_ENV"
 msgstr "Felerősített éjjellátó mód"
@@ -4471,9 +4465,6 @@ msgstr "Sprite alapú kamera"
 
 msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr "Részecske stílusa"
-
-msgid "GLPREFMNU_RENDERQUALITY"
-msgstr "Renderelés minősége"
 
 msgid "GLPREFMNU_VRMODE"
 msgstr ""
@@ -4616,12 +4607,6 @@ msgstr "Mipmap textúrák"
 
 msgid "TCMNU_DYNLIGHTS"
 msgstr "Dinamikus fények (szoftveres)"
-
-msgid "OS_TITLE"
-msgstr "Beállítás Keresés"
-
-msgid "OS_LABEL"
-msgstr "Keresés:"
 
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Kulcsokat mindig mutat"

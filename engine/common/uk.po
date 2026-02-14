@@ -1268,7 +1268,7 @@ msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
 msgstr "Карта оточення на дзеркалах"
 
 msgid "GLPREFMNU_RENDERQUALITY"
-msgstr "Якість візуалізації"
+msgstr "Якість рендерингу"
 
 msgid "OPTVAL_SPEED"
 msgstr "Швидкість"
@@ -1739,7 +1739,7 @@ msgid "OPTVAL_OLD_NXBRZ"
 msgstr "Старий xBRZ"
 
 msgid "OS_TITLE"
-msgstr "Пошук налаштування"
+msgstr "Пошук налаштувань"
 
 msgid "OS_ANY"
 msgstr "Пошук по слову"

@@ -1253,7 +1253,7 @@ msgid "GLPREFMNU_MENUBLUR"
 msgstr "Zamućenje izbornika"
 
 msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr "Karta okruženja na zrcalima"
+msgstr "Karta okoliša na ogledalima"
 
 msgid "GLPREFMNU_RENDERQUALITY"
 msgstr "Kvaliteta renderiranja"
@@ -1268,7 +1268,7 @@ msgid "GLPREFMNU_SECLIGHTMODE"
 msgstr "Način sektorskog svjetla"
 
 msgid "GLPREFMNU_FOGMODE"
-msgstr "Način magle"
+msgstr "Način rada za maglu"
 
 msgid "OPTVAL_RADIAL"
 msgstr "Radijalno"
@@ -1728,7 +1728,7 @@ msgid "OPTVAL_OLD_NXBRZ"
 msgstr "Stari xBRZ"
 
 msgid "OS_TITLE"
-msgstr "Traženje postavke"
+msgstr "Pretraživanje opcija"
 
 msgid "OS_ANY"
 msgstr "Pretražite bilo koji pojam"
@@ -1740,7 +1740,7 @@ msgid "OS_NO_RESULTS"
 msgstr "Nisu pronađeni rezultati."
 
 msgid "OS_LABEL"
-msgstr "Traži:"
+msgstr "Pretraži:"
 
 # This is not a text to be translated but an engine switch for complex
 # languages.

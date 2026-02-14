@@ -4395,17 +4395,11 @@ msgstr "Skuggmappens kvalitet"
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr "Filter för skuggmappor"
 
-msgid "GLPREFMNU_FOGMODE"
-msgstr "Dimläget"
-
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr "Dimma tvingar fram full ljusstyrka"
 
 msgid "GLPREFMNU_WPNLIGHTSTR"
 msgstr "Vapenljusets styrka"
-
-msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr "Miljökarta på speglar"
 
 msgid "GLPREFMNU_ENV"
 msgstr "Förbättrat läge för mörkerseende"
@@ -4430,9 +4424,6 @@ msgstr "Sprites vänder sig mot kameran"
 
 msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr "Partikelstil"
-
-msgid "GLPREFMNU_RENDERQUALITY"
-msgstr "Renderingskvalitet"
 
 msgid "GLPREFMNU_VRMODE"
 msgstr ""
@@ -4575,12 +4566,6 @@ msgstr "Använd mipmappade texturer"
 
 msgid "TCMNU_DYNLIGHTS"
 msgstr "Dynamiskt ljus (programvara)"
-
-msgid "OS_TITLE"
-msgstr "Alternativ Sök"
-
-msgid "OS_LABEL"
-msgstr "Sök:"
 
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Visa alltid nycklar"

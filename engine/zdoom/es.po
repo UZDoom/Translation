@@ -4458,17 +4458,11 @@ msgstr "Calidad de mapeo de sombras"
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr "Filtro de mapeo de sombras"
 
-msgid "GLPREFMNU_FOGMODE"
-msgstr "Modo de niebla"
-
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr "Forzar brillo completo en niebla"
 
 msgid "GLPREFMNU_WPNLIGHTSTR"
 msgstr "Intensidad de luz de las armas"
-
-msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr "Mapa de entorno en espejos"
 
 msgid "GLPREFMNU_ENV"
 msgstr "Modo de visión nocturna mejorado"
@@ -4493,9 +4487,6 @@ msgstr "Los «sprites» miran a la cámara"
 
 msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr "Estilo de partículas"
-
-msgid "GLPREFMNU_RENDERQUALITY"
-msgstr "Calidad de Renderizado"
 
 msgid "GLPREFMNU_VRMODE"
 msgstr "Modo Stereo 3D VR"
@@ -4638,12 +4629,6 @@ msgstr "Usar texturas con mipmap"
 
 msgid "TCMNU_DYNLIGHTS"
 msgstr "Luces dinámicas (Software)"
-
-msgid "OS_TITLE"
-msgstr "Buscar Opciones"
-
-msgid "OS_LABEL"
-msgstr "Buscar:"
 
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Mostrar llaves siempre"

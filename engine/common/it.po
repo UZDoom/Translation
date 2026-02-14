@@ -1255,7 +1255,7 @@ msgid "GLPREFMNU_MENUBLUR"
 msgstr "Blur del menu"
 
 msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr "Ambiente mappa sugli specchi"
+msgstr "Ambiente mappa sui riflessi"
 
 msgid "GLPREFMNU_RENDERQUALITY"
 msgstr "Qualità resa grafica"
@@ -1270,7 +1270,7 @@ msgid "GLPREFMNU_SECLIGHTMODE"
 msgstr "Modalità luce di settore"
 
 msgid "GLPREFMNU_FOGMODE"
-msgstr "Effetto nebbia"
+msgstr "Modalità nebbia"
 
 msgid "OPTVAL_RADIAL"
 msgstr "Radiale"

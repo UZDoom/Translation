@@ -4448,17 +4448,11 @@ msgstr "Kvalito de ombro-mapo"
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr "Filtro de ombro-mapo"
 
-msgid "GLPREFMNU_FOGMODE"
-msgstr "Reĝimo de nebulo"
-
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr "Nebulo devigas plenbrilon"
 
 msgid "GLPREFMNU_WPNLIGHTSTR"
 msgstr "Lumforteco de armilo"
-
-msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr "Medimapo sur speguloj"
 
 msgid "GLPREFMNU_ENV"
 msgstr "Plibonigita reĝimo de noktvido"
@@ -4483,9 +4477,6 @@ msgstr "Mov-rastrumoj ĉiam rigardas vian kameraon"
 
 msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr "Partikla stilo"
-
-msgid "GLPREFMNU_RENDERQUALITY"
-msgstr "Kvalito de bildigado"
 
 msgid "GLPREFMNU_VRMODE"
 msgstr "Duvida 3D VR"
@@ -4628,12 +4619,6 @@ msgstr "Uzi mipmapajn teksturojn"
 
 msgid "TCMNU_DYNLIGHTS"
 msgstr "Dinamikaj lumoj (Programbildigilo)"
-
-msgid "OS_TITLE"
-msgstr "Agorda Serĉo"
-
-msgid "OS_LABEL"
-msgstr "Serĉi:"
 
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Ĉiam montri ŝlosilojn"

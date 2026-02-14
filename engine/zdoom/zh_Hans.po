@@ -4436,17 +4436,11 @@ msgstr "阴影贴图质量"
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr "阴影贴图过滤器"
 
-msgid "GLPREFMNU_FOGMODE"
-msgstr "雾效模式"
-
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr "雾效强制使用全亮度"
 
 msgid "GLPREFMNU_WPNLIGHTSTR"
 msgstr "武器光照强度"
-
-msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr "镜面使用环境映射"
 
 msgid "GLPREFMNU_ENV"
 msgstr "增强夜视模式"
@@ -4471,9 +4465,6 @@ msgstr "精灵面部相机"
 
 msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr "粒子样式"
-
-msgid "GLPREFMNU_RENDERQUALITY"
-msgstr "渲染质量"
 
 msgid "GLPREFMNU_VRMODE"
 msgstr "立体3D VR"
@@ -4616,12 +4607,6 @@ msgstr "使用mipmap纹理"
 
 msgid "TCMNU_DYNLIGHTS"
 msgstr "动态光源(软件)"
-
-msgid "OS_TITLE"
-msgstr "选项搜索"
-
-msgid "OS_LABEL"
-msgstr "搜索："
 
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "总是显示钥匙"

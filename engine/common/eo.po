@@ -1726,7 +1726,7 @@ msgid "OPTVAL_OLD_NXBRZ"
 msgstr "Malnova xBRZ"
 
 msgid "OS_TITLE"
-msgstr "Serĉi agordojn"
+msgstr "Agorda Serĉo"
 
 msgid "OS_ANY"
 msgstr "Serĉi por iu ajn termino"

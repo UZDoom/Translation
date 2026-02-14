@@ -4402,17 +4402,11 @@ msgstr "Kvaliteta mape sjena"
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr "Filtar mape sjena"
 
-msgid "GLPREFMNU_FOGMODE"
-msgstr "Način rada za maglu"
-
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr "Magla prisiljava puno svijetlo"
 
 msgid "GLPREFMNU_WPNLIGHTSTR"
 msgstr "Snaga svjetla oružja"
-
-msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr "Karta okoliša na ogledalima"
 
 msgid "GLPREFMNU_ENV"
 msgstr "Poboljšani način noćnog vida"
@@ -4437,9 +4431,6 @@ msgstr "Naknadna kamera za lice"
 
 msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr "Stil čestica"
-
-msgid "GLPREFMNU_RENDERQUALITY"
-msgstr "Kvaliteta renderiranja"
 
 msgid "GLPREFMNU_VRMODE"
 msgstr "Stereo 3D VR"
@@ -4582,12 +4573,6 @@ msgstr "Koristi mipmapirane teksture"
 
 msgid "TCMNU_DYNLIGHTS"
 msgstr "Dinamička svjetla (softver)"
-
-msgid "OS_TITLE"
-msgstr "Pretraživanje opcija"
-
-msgid "OS_LABEL"
-msgstr "Pretraži:"
 
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Uvijek prikaži tipke"

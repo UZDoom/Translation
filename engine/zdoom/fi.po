@@ -4415,17 +4415,11 @@ msgstr "Varjokarttojen laatu"
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr "Varjokarttojen suodatus"
 
-msgid "GLPREFMNU_FOGMODE"
-msgstr "Sumutila"
-
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr "Sumu pakottaa täyskirkkauden"
 
 msgid "GLPREFMNU_WPNLIGHTSTR"
 msgstr "Aseiden valovoima"
-
-msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr "Ympäristökartta peileissä"
 
 msgid "GLPREFMNU_ENV"
 msgstr "Paranneltu pimeänäkötila"
@@ -4450,9 +4444,6 @@ msgstr "Spritet suuntaavat kameraan"
 
 msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr "Hiukkastyyli"
-
-msgid "GLPREFMNU_RENDERQUALITY"
-msgstr "Hahmonnuslaatu"
 
 msgid "GLPREFMNU_VRMODE"
 msgstr ""
@@ -4595,12 +4586,6 @@ msgstr "Käytä mipkartallisia pintakuviointeja"
 
 msgid "TCMNU_DYNLIGHTS"
 msgstr "Dynaamiset valot (ohjelmisto)"
-
-msgid "OS_TITLE"
-msgstr "Asetushaku"
-
-msgid "OS_LABEL"
-msgstr "Etsi:"
 
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Aina näytä avaimet"

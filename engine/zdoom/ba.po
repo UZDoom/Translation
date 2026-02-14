@@ -4368,17 +4368,11 @@ msgstr ""
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr ""
 
-msgid "GLPREFMNU_FOGMODE"
-msgstr "Način magle"
-
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr ""
 
 msgid "GLPREFMNU_WPNLIGHTSTR"
 msgstr ""
-
-msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr "Karta okruženja na ogledalima"
 
 msgid "GLPREFMNU_ENV"
 msgstr ""
@@ -4403,9 +4397,6 @@ msgstr ""
 
 msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr ""
-
-msgid "GLPREFMNU_RENDERQUALITY"
-msgstr "Kvaliteta iscrtavanja"
 
 msgid "GLPREFMNU_VRMODE"
 msgstr ""
@@ -4548,12 +4539,6 @@ msgstr ""
 
 msgid "TCMNU_DYNLIGHTS"
 msgstr ""
-
-msgid "OS_TITLE"
-msgstr "Traženje postavke"
-
-msgid "OS_LABEL"
-msgstr "Traži:"
 
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr ""

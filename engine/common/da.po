@@ -1730,7 +1730,7 @@ msgid "OPTVAL_OLD_NXBRZ"
 msgstr "Gamle xBRZ"
 
 msgid "OS_TITLE"
-msgstr "Mulighed Søgning"
+msgstr "Mulighed Søg"
 
 msgid "OS_ANY"
 msgstr "Søg efter et vilkårligt begreb"

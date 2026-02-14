@@ -4443,17 +4443,11 @@ msgstr "Jakość map cieni"
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr "Filtr map cieni"
 
-msgid "GLPREFMNU_FOGMODE"
-msgstr "Tryb mgły"
-
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr "Mgła wymusza pełną jasność"
 
 msgid "GLPREFMNU_WPNLIGHTSTR"
 msgstr "Natężenie światła broni"
-
-msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr "Mapa środowiska w lustrach"
 
 msgid "GLPREFMNU_ENV"
 msgstr "Ulepszony tryb widzenia w ciemności"
@@ -4478,9 +4472,6 @@ msgstr "Sprite'y skierowane w kamerę"
 
 msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr "Styl Cząsteczek"
-
-msgid "GLPREFMNU_RENDERQUALITY"
-msgstr "Jakość Renderowania"
 
 msgid "GLPREFMNU_VRMODE"
 msgstr ""
@@ -4623,12 +4614,6 @@ msgstr "Użyj mipmapowane tekstury"
 
 msgid "TCMNU_DYNLIGHTS"
 msgstr "Dynamiczne Światło (Oprogramowanie)"
-
-msgid "OS_TITLE"
-msgstr "Szukanie Opcji"
-
-msgid "OS_LABEL"
-msgstr "Szukaj:"
 
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Zawsze pokazuj klucze"

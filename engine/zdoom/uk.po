@@ -4418,17 +4418,11 @@ msgstr "Якість проекцій тіней"
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr "Фільтр проекцій тіней"
 
-msgid "GLPREFMNU_FOGMODE"
-msgstr "Режим туману"
-
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr "Туман вмикає режим максимальної яскравості"
 
 msgid "GLPREFMNU_WPNLIGHTSTR"
 msgstr "Сила спалахів зброї"
-
-msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr "Карта оточення на дзеркалах"
 
 msgid "GLPREFMNU_ENV"
 msgstr "Покращений режим нічного бачення"
@@ -4453,9 +4447,6 @@ msgstr "Спрайти повертаються в камеру"
 
 msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr "Тип частинок"
-
-msgid "GLPREFMNU_RENDERQUALITY"
-msgstr "Якість рендерингу"
 
 msgid "GLPREFMNU_VRMODE"
 msgstr "Стерео 3D VR"
@@ -4598,12 +4589,6 @@ msgstr "Міп-маппінг для текстур"
 
 msgid "TCMNU_DYNLIGHTS"
 msgstr "Динамічне освітлення (програмне)"
-
-msgid "OS_TITLE"
-msgstr "Пошук налаштувань"
-
-msgid "OS_LABEL"
-msgstr "Пошук:"
 
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Завжди показувати ключі"

@@ -1254,7 +1254,7 @@ msgid "GLPREFMNU_MENUBLUR"
 msgstr "Menü mosódás"
 
 msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr "Környezet tükröződés"
+msgstr "Környezeti mappolás a tükrökön"
 
 msgid "GLPREFMNU_RENDERQUALITY"
 msgstr "Renderelés minősége"
@@ -1728,7 +1728,7 @@ msgid "OPTVAL_OLD_NXBRZ"
 msgstr "Régi xBRZ"
 
 msgid "OS_TITLE"
-msgstr "Beállítások keresése"
+msgstr "Beállítás Keresés"
 
 msgid "OS_ANY"
 msgstr "Bármilyen szótagra keresés"

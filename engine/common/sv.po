@@ -1270,7 +1270,7 @@ msgid "GLPREFMNU_SECLIGHTMODE"
 msgstr "Sektorljusläge"
 
 msgid "GLPREFMNU_FOGMODE"
-msgstr "Dimläge"
+msgstr "Dimläget"
 
 msgid "OPTVAL_RADIAL"
 msgstr "Radial"
@@ -1729,7 +1729,7 @@ msgid "OPTVAL_OLD_NXBRZ"
 msgstr "Gamla xBRZ"
 
 msgid "OS_TITLE"
-msgstr "Sökning av alternativ"
+msgstr "Alternativ Sök"
 
 msgid "OS_ANY"
 msgstr "Sök efter valfri term"

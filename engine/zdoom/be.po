@@ -4393,17 +4393,11 @@ msgstr ""
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr ""
 
-msgid "GLPREFMNU_FOGMODE"
-msgstr "Рэжым туману"
-
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr ""
 
 msgid "GLPREFMNU_WPNLIGHTSTR"
 msgstr ""
-
-msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr "Карта асяроддзя на люстэрках"
 
 msgid "GLPREFMNU_ENV"
 msgstr ""
@@ -4428,9 +4422,6 @@ msgstr ""
 
 msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr ""
-
-msgid "GLPREFMNU_RENDERQUALITY"
-msgstr "Якасць апрацоўкі"
 
 msgid "GLPREFMNU_VRMODE"
 msgstr ""
@@ -4573,12 +4564,6 @@ msgstr ""
 
 msgid "TCMNU_DYNLIGHTS"
 msgstr ""
-
-msgid "OS_TITLE"
-msgstr "Пошук налады"
-
-msgid "OS_LABEL"
-msgstr "Пошук:"
 
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr ""
