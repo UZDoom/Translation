@@ -5258,6 +5258,3 @@ msgstr "Contrast"
 
 msgid "DSPLYMNU_SATURATION"
 msgstr "Verzadiging"
-
-msgid "OS_TITLE"
-msgstr "Optie zoeken"
