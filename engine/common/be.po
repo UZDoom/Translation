@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 19:09+0000\n"
+"PO-Revision-Date: 2026-02-14 06:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/uzdoom/common/"
 "be/>\n"
@@ -72,7 +72,7 @@ msgid "NEWSAVE"
 msgstr "<Новае захаванне>"
 
 msgid "GGSAVED"
-msgstr "Гульня захавана"
+msgstr "Гульня захавана."
 
 msgid "SAVECOMMENT_TIME"
 msgstr "Час"
