@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 19:10+0000\n"
+"PO-Revision-Date: 2026-02-14 06:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ro/>\n"
@@ -90,7 +90,7 @@ msgstr "Ești sigur că vrei să ieși din joc?"
 
 msgctxt "heretic"
 msgid "SWSTRING"
-msgstr "Disponibil doar în versiunea înregistrată."
+msgstr "Disponibil doar în versiunea înregistrată"
 
 msgid "DOSY"
 msgstr "(Apasă Y pentru a ieși)"
