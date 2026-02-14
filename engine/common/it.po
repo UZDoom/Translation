@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 19:10+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-14 22:09+0000\n"
+"Last-Translator: kernelrfx <e.mariogreco@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/uzdoom/common/"
 "it/>\n"
 "Language: it\n"
@@ -92,9 +92,8 @@ msgstr "Versione differente"
 msgid "MNU_NOFILES"
 msgstr "Nessun file"
 
-#, fuzzy
 msgid "MNU_DELETESG"
-msgstr "Vuoi veramente cancellare il salvataggio?"
+msgstr "Vuoi davvero eliminare il salvataggio?"
 
 msgid "OPTVAL_OFF"
 msgstr "Disattivo"
@@ -193,7 +192,7 @@ msgid "CNTRLMNU_MOVERIGHT"
 msgstr "Movimento laterale a destra"
 
 msgid "CNTRLMNU_TURNLEFT"
-msgstr "Gira a sinistra\n"
+msgstr "Gira a sinistra"
 
 msgid "CNTRLMNU_TURNRIGHT"
 msgstr "Gira a destra"
@@ -1039,46 +1038,46 @@ msgid "MODMNU_CHIPOMATIC"
 msgstr ""
 
 msgid "OPTVAL_MAMEOPL2"
-msgstr ""
+msgstr "MAME OPL2"
 
 msgid "OPTVAL_DOSBOXOPL3"
-msgstr ""
+msgstr "DOSBox OPL3"
 
 msgid "OPTVAL_JAVAOPL3"
-msgstr ""
+msgstr "Java OPL3"
 
 msgid "OPTVAL_ESFMu"
-msgstr ""
+msgstr "ESFMu OPL3"
 
 msgid "OPTVAL_YMFMOPL2"
-msgstr ""
+msgstr "YMFM OPL2"
 
 msgid "OPTVAL_YMFMOPL3"
-msgstr ""
+msgstr "YMFM OPL3"
 
 msgid "OPTVAL_NUKEDOPL3"
-msgstr ""
+msgstr "Nuked OPL3"
 
 msgid "OPTVAL_LLENUKEDOPL2"
-msgstr ""
+msgstr "OPL2-LLE (Molto pesante!)"
 
 msgid "OPTVAL_LLENUKEDOPL3"
-msgstr ""
+msgstr "OPL2-LLE (Elevato carico CPU)"
 
 msgid "OPTVAL_MAMEOPN2"
-msgstr ""
+msgstr "MAME YM2612"
 
 msgid "OPTVAL_NP2OPNA"
-msgstr ""
+msgstr "Neko Project II Kai OPNA"
 
 msgid "OPTVAL_MAMEOPNA"
-msgstr ""
+msgstr "MAME YM2608"
 
 msgid "OPTVAL_PMDWINOPNA"
-msgstr ""
+msgstr "PMDWin OPNA"
 
 msgid "OPTVAL_OPALOPL3"
-msgstr ""
+msgstr "Opal OPL3"
 
 msgid "OPTVAL_NUKEDOPL3174"
 msgstr ""
@@ -1872,52 +1871,52 @@ msgid "CNTRLMNU_OPEN_MAIN"
 msgstr "Apri il menu principale"
 
 msgid "MODMNU_REPLAYER"
-msgstr "Module replayer"
+msgstr "Riproduttore di moduli"
 
 # This is enabled per-controller, it means to enable "this" controller in the
 # background when GZDoom is not in focus.
 msgid "JOYMNU_JOYENABLEINBACKGROUND"
-msgstr ""
+msgstr "Consenti input del controller in background"
 
 # Order to sort the list of saved games in the save and load game menu. This
 # used to only be alphabetical.
 msgid "MISCMNU_SAVEORDER"
-msgstr ""
+msgstr "Ordine di posizionamento dei salvataggi"
 
 msgid "OPTVAL_ALPHABETICAL"
-msgstr ""
+msgstr "Alfabetico"
 
 msgid "OPTVAL_LASTSAVEDTIME"
-msgstr ""
+msgstr "Data e ora di ultimo salvataggio"
 
 msgid "PICKER_PLAYHOST"
-msgstr ""
+msgstr "Ospita partita"
 
 msgid "PICKER_PLAYJOIN"
-msgstr ""
+msgstr "Unisciti alla partita"
 
 msgid "PICKER_REMPARM"
-msgstr ""
+msgstr "Ricorda parametri"
 
 # For stuff like id24.
 msgid "PICKER_SUPPORTWADS"
-msgstr ""
+msgstr "Carica WAD di supporto"
 
 msgid "PICKER_TAB_MULTI"
-msgstr ""
+msgstr "Multigiocatore"
 
 msgid "PICKER_LOADSAVE"
-msgstr ""
+msgstr "Carica file di salvataggio:"
 
 msgid "PICKER_REMSAVE"
-msgstr ""
+msgstr "Ricorda file di salvataggio"
 
 # As in, to host a game.
 msgid "PICKER_HOST"
-msgstr ""
+msgstr "Ospita"
 
 msgid "PICKER_JOIN"
-msgstr ""
+msgstr "Unisciti"
 
 msgid "PICKER_NETMODE"
 msgstr ""
@@ -2006,3 +2005,21 @@ msgstr "Opzioni Accessibilità"
 
 msgid "ACCMNU_RESET"
 msgstr "Ripristina opzioni Accessibilità"
+
+msgid "MSGMNU_MESSAGEQUEUE"
+msgstr "Dimensione della coda dei messaggi"
+
+msgid "MSGMNU_STACKIDENTICAL"
+msgstr "Raggruppa messaggi ripetuti"
+
+msgid "NOTES_DETAILS"
+msgstr "Per maggiori dettagli, vedi:"
+
+msgid "NOTES_EMPTY"
+msgstr "Nessuna descrizione fornita."
+
+msgid "NOTES_FAIL"
+msgstr "Impossibile analizzare le note di rilascio"
+
+msgid "NOTES_RELEASED"
+msgstr "rilasciato"
