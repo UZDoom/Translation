@@ -4452,17 +4452,11 @@ msgstr "Calitate umbre"
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr "Filtru umbre"
 
-msgid "GLPREFMNU_FOGMODE"
-msgstr "Mod ceață"
-
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr "Ceața forțează luminozitate maximă"
 
 msgid "GLPREFMNU_WPNLIGHTSTR"
 msgstr "Intensitate lumină armă"
-
-msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr "Efecte suplimentare pentru oglinzi"
 
 msgid "GLPREFMNU_ENV"
 msgstr "Vedere infraroșie avansată"
@@ -4487,9 +4481,6 @@ msgstr "Sprite-urile privesc înspre cameră"
 
 msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr "Stil particule"
-
-msgid "GLPREFMNU_RENDERQUALITY"
-msgstr "Calitate video"
 
 msgid "GLPREFMNU_VRMODE"
 msgstr "Mod 3D Stereo VR"
@@ -4632,12 +4623,6 @@ msgstr "Aplicați mipmapping"
 
 msgid "TCMNU_DYNLIGHTS"
 msgstr "Lumini Dinamice (Software)"
-
-msgid "OS_TITLE"
-msgstr "Căutare Setări"
-
-msgid "OS_LABEL"
-msgstr "Căutare:"
 
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Afișează mereu cheile"

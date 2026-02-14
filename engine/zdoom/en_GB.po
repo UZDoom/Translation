@@ -4427,17 +4427,11 @@ msgstr "Shadowmap quality"
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr "Shadowmap filter"
 
-msgid "GLPREFMNU_FOGMODE"
-msgstr "Fog mode"
-
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr "Fog forces fullbright"
 
 msgid "GLPREFMNU_WPNLIGHTSTR"
 msgstr "Weapon light strength"
-
-msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr "Environment map on mirrors"
 
 msgid "GLPREFMNU_ENV"
 msgstr "Enhanced night vision mode"
@@ -4462,9 +4456,6 @@ msgstr "Sprites face camera"
 
 msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr "Particle style"
-
-msgid "GLPREFMNU_RENDERQUALITY"
-msgstr "Rendering quality"
 
 msgid "GLPREFMNU_VRMODE"
 msgstr "Stereo 3D VR"
@@ -4607,12 +4598,6 @@ msgstr "Use mipmapped textures"
 
 msgid "TCMNU_DYNLIGHTS"
 msgstr "Dynamic lights (Software)"
-
-msgid "OS_TITLE"
-msgstr "Option Search"
-
-msgid "OS_LABEL"
-msgstr "Search:"
 
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Always show keys"

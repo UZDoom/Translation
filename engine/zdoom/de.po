@@ -4446,17 +4446,11 @@ msgstr "Shadowmap Qualität"
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr "Shadowmap Filter"
 
-msgid "GLPREFMNU_FOGMODE"
-msgstr "Nebelmodus"
-
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr "Nebel erzwingt volle Helligkeit"
 
 msgid "GLPREFMNU_WPNLIGHTSTR"
 msgstr "Waffenlichtstärke"
-
-msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr "Umgebungskarte auf Spiegeln"
 
 msgid "GLPREFMNU_ENV"
 msgstr "Verbesserter Nachtsichtmodus"
@@ -4481,9 +4475,6 @@ msgstr "Sprites zur Kamera ausrichten"
 
 msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr "Partikelstil"
-
-msgid "GLPREFMNU_RENDERQUALITY"
-msgstr "Renderqualität"
 
 msgid "GLPREFMNU_VRMODE"
 msgstr "Stereo 3D VR"
@@ -4626,12 +4617,6 @@ msgstr "Benutze Textur-Mipmaps"
 
 msgid "TCMNU_DYNLIGHTS"
 msgstr "Dynamisches Licht (Software)"
-
-msgid "OS_TITLE"
-msgstr "Optionssuche"
-
-msgid "OS_LABEL"
-msgstr "Suche:"
 
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Zeige immer alle Schlüssel"

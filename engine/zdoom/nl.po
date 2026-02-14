@@ -4447,17 +4447,11 @@ msgstr "Schaduwkaart kwaliteit"
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr "Schaduwkaart filter"
 
-msgid "GLPREFMNU_FOGMODE"
-msgstr "Mistmodus"
-
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr "Mistkrachten volle lichtsterkte"
 
 msgid "GLPREFMNU_WPNLIGHTSTR"
 msgstr "Sterkte van het wapenlicht"
-
-msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr "Milieukaart op spiegels"
 
 msgid "GLPREFMNU_ENV"
 msgstr "Verbeterde nachtzicht modus"
@@ -4482,9 +4476,6 @@ msgstr "Sprites gezicht camera"
 
 msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr "Deeltjes stijl"
-
-msgid "GLPREFMNU_RENDERQUALITY"
-msgstr "Het teruggeven van kwaliteit"
 
 msgid "GLPREFMNU_VRMODE"
 msgstr "Stereo 3D VR"
@@ -4627,9 +4618,6 @@ msgstr "Gebruik mipmapped texturen"
 
 msgid "TCMNU_DYNLIGHTS"
 msgstr "Dynamische verlichting (software)"
-
-msgid "OS_LABEL"
-msgstr "Zoeken:"
 
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Toon altijd de toetsen"

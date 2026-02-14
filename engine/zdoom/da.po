@@ -4434,17 +4434,11 @@ msgstr "Shadowmap-kvalitet"
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr "Skyggemap-filter"
 
-msgid "GLPREFMNU_FOGMODE"
-msgstr "Tågetilstand"
-
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr "Tåge tvinger fullbright"
 
 msgid "GLPREFMNU_WPNLIGHTSTR"
 msgstr "Våbenlysstyrke"
-
-msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr "Miljøkort på spejle"
 
 msgid "GLPREFMNU_ENV"
 msgstr "Forbedret nattesynstilstand"
@@ -4469,9 +4463,6 @@ msgstr "Sprites vender mod kameraet"
 
 msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr "Partikelstil"
-
-msgid "GLPREFMNU_RENDERQUALITY"
-msgstr "Renderingskvalitet"
 
 msgid "GLPREFMNU_VRMODE"
 msgstr ""
@@ -4614,12 +4605,6 @@ msgstr "Brug mipmapped teksturer"
 
 msgid "TCMNU_DYNLIGHTS"
 msgstr "Dynamisk lys (software)"
-
-msgid "OS_TITLE"
-msgstr "Mulighed Søg"
-
-msgid "OS_LABEL"
-msgstr "Søg:"
 
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Vis altid nøgler"

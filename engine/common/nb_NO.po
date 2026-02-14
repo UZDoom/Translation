@@ -1272,7 +1272,7 @@ msgid "GLPREFMNU_SECLIGHTMODE"
 msgstr "Sektorlysmodus"
 
 msgid "GLPREFMNU_FOGMODE"
-msgstr "Tåkemodus"
+msgstr "Tåke-modus"
 
 msgid "OPTVAL_RADIAL"
 msgstr ""

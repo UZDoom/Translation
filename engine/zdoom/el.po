@@ -4359,16 +4359,10 @@ msgstr ""
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr ""
 
-msgid "GLPREFMNU_FOGMODE"
-msgstr "Λειτουργία ομίχλης"
-
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr ""
 
 msgid "GLPREFMNU_WPNLIGHTSTR"
-msgstr ""
-
-msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
 msgstr ""
 
 msgid "GLPREFMNU_ENV"
@@ -4393,9 +4387,6 @@ msgid "GLPREFMNU_SPRBILLFACECAMERA"
 msgstr ""
 
 msgid "GLPREFMNU_PARTICLESTYLE"
-msgstr ""
-
-msgid "GLPREFMNU_RENDERQUALITY"
 msgstr ""
 
 msgid "GLPREFMNU_VRMODE"
@@ -4539,12 +4530,6 @@ msgstr "Χρήση mipmapped υφών"
 
 msgid "TCMNU_DYNLIGHTS"
 msgstr "Δυναμικά φώτα (Λογισμικό)"
-
-msgid "OS_TITLE"
-msgstr "Αναζήτηση Ρυθμίσεων"
-
-msgid "OS_LABEL"
-msgstr "Αναζήτηση:"
 
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Εμφάνιση πλήκτρων πάντα"

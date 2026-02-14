@@ -4452,17 +4452,11 @@ msgstr "Qualità ombre proiettate"
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr "Filtro ombre proiettate"
 
-msgid "GLPREFMNU_FOGMODE"
-msgstr "Modalità nebbia"
-
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr "La nebbia forza piena luce"
 
 msgid "GLPREFMNU_WPNLIGHTSTR"
 msgstr "Intensità luminosa dell'arma"
-
-msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr "Ambiente mappa sui riflessi"
 
 msgid "GLPREFMNU_ENV"
 msgstr "Modalità visione notturna migliorata"
@@ -4487,9 +4481,6 @@ msgstr "Gli sprite sono rivolti alla telecamera."
 
 msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr "Stile particelle"
-
-msgid "GLPREFMNU_RENDERQUALITY"
-msgstr "Qualità resa grafica"
 
 msgid "GLPREFMNU_VRMODE"
 msgstr ""
@@ -4632,12 +4623,6 @@ msgstr "Usa le texture mipmapped"
 
 msgid "TCMNU_DYNLIGHTS"
 msgstr "Luci Dinamiche (Software)"
-
-msgid "OS_TITLE"
-msgstr "Opzioni di ricerca"
-
-msgid "OS_LABEL"
-msgstr "Trova:"
 
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Mostra sempre le chiavi"

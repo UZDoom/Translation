@@ -1257,7 +1257,7 @@ msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
 msgstr "Mapa de entorno en espejos"
 
 msgid "GLPREFMNU_RENDERQUALITY"
-msgstr "Calidad de renderizado"
+msgstr "Calidad de Renderizado"
 
 msgid "OPTVAL_SPEED"
 msgstr "Velocidad"
@@ -1728,7 +1728,7 @@ msgid "OPTVAL_OLD_NXBRZ"
 msgstr "Antiguo xBRZ"
 
 msgid "OS_TITLE"
-msgstr "Buscar opciones"
+msgstr "Buscar Opciones"
 
 msgid "OS_ANY"
 msgstr "Buscar cualquier término"

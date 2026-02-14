@@ -1740,7 +1740,7 @@ msgid "OS_NO_RESULTS"
 msgstr "Sonuç bulunamadı."
 
 msgid "OS_LABEL"
-msgstr "Ara:"
+msgstr "Arama yapın:"
 
 # This is not a text to be translated but an engine switch for complex
 # languages.

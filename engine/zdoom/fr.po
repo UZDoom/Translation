@@ -4451,17 +4451,11 @@ msgstr "Qualité Shadowmap"
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr "Filtre de Shadowmaps"
 
-msgid "GLPREFMNU_FOGMODE"
-msgstr "Mode du broullard"
-
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr "Brouillard force fullbright"
 
 msgid "GLPREFMNU_WPNLIGHTSTR"
 msgstr "Intensité lumineuse des armes"
-
-msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr "Mappage environment sur les miroirs"
 
 msgid "GLPREFMNU_ENV"
 msgstr "Mode de vision nocture amélioré"
@@ -4486,9 +4480,6 @@ msgstr "Sprites font face à la caméra"
 
 msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr "Style de particules"
-
-msgid "GLPREFMNU_RENDERQUALITY"
-msgstr "Qualité du rendu"
 
 msgid "GLPREFMNU_VRMODE"
 msgstr "3D VR Stéréo"
@@ -4631,12 +4622,6 @@ msgstr "Utiliser textures mipmappées"
 
 msgid "TCMNU_DYNLIGHTS"
 msgstr "Lumières Dynamiques (Software)"
-
-msgid "OS_TITLE"
-msgstr "Recherche Option"
-
-msgid "OS_LABEL"
-msgstr "Recherche :"
 
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Toujour afficher clés"

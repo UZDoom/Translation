@@ -4445,17 +4445,11 @@ msgstr "Kvalita map stínů"
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr "Filtrování map stínů"
 
-msgid "GLPREFMNU_FOGMODE"
-msgstr "Režim mlhy"
-
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr "Mlha vynucuje plný jas"
 
 msgid "GLPREFMNU_WPNLIGHTSTR"
 msgstr "Intenzita světel zbraní"
-
-msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr "Mapa prostředí na zrcadlech"
 
 msgid "GLPREFMNU_ENV"
 msgstr "Vylepšený režim nočního vidění"
@@ -4480,9 +4474,6 @@ msgstr "Sprity čelí kameře"
 
 msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr "Styl částic"
-
-msgid "GLPREFMNU_RENDERQUALITY"
-msgstr "Kvalita vykreslování"
 
 msgid "GLPREFMNU_VRMODE"
 msgstr ""
@@ -4625,12 +4616,6 @@ msgstr "Použít mipmapy"
 
 msgid "TCMNU_DYNLIGHTS"
 msgstr "Dynamická světla (software)"
-
-msgid "OS_TITLE"
-msgstr "Vyhledávání možností"
-
-msgid "OS_LABEL"
-msgstr "Hledat:"
 
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Vždy zobrazit klíče"

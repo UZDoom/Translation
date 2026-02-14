@@ -4397,17 +4397,11 @@ msgstr "섀도우맵 퀄리티"
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr "섀도우맵 필터"
 
-msgid "GLPREFMNU_FOGMODE"
-msgstr "안개 모드"
-
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr "안개를 최대한 강제로 밝힘"
 
 msgid "GLPREFMNU_WPNLIGHTSTR"
 msgstr "무기 빛 강도"
-
-msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr "거울 주변의지도 활성"
 
 msgid "GLPREFMNU_ENV"
 msgstr "야시경 효과 향상"
@@ -4432,9 +4426,6 @@ msgstr "카메라를 향한 스프라이트"
 
 msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr "입자 스타일"
-
-msgid "GLPREFMNU_RENDERQUALITY"
-msgstr "렌더링 품질"
 
 msgid "GLPREFMNU_VRMODE"
 msgstr "VR 입체 스테레오 사용"
@@ -4577,12 +4568,6 @@ msgstr "밉맵 텍스쳐 사용"
 
 msgid "TCMNU_DYNLIGHTS"
 msgstr "다이나믹 라이트 (소프트웨어 버전)"
-
-msgid "OS_TITLE"
-msgstr "옵션 검색"
-
-msgid "OS_LABEL"
-msgstr "검색:"
 
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "항상 키들을 표시"

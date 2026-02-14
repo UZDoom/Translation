@@ -4453,17 +4453,11 @@ msgstr "Qualidade de shadowmap"
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr "Filtro de shadowmap"
 
-msgid "GLPREFMNU_FOGMODE"
-msgstr "Modo de neblina"
-
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr "Neblina força brilho máximo"
 
 msgid "GLPREFMNU_WPNLIGHTSTR"
 msgstr "Intensidade de luz da arma"
-
-msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr "Mapa de ambiente em espelhos"
 
 msgid "GLPREFMNU_ENV"
 msgstr "Modo de visão noturna avançada"
@@ -4488,9 +4482,6 @@ msgstr "Sprites de frente para a câmera"
 
 msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr "Tipo de partícula"
-
-msgid "GLPREFMNU_RENDERQUALITY"
-msgstr "Qualidade de renderização"
 
 msgid "GLPREFMNU_VRMODE"
 msgstr "3D Estéreo (VR)"
@@ -4633,12 +4624,6 @@ msgstr "Usar texturas com mipmapping"
 
 msgid "TCMNU_DYNLIGHTS"
 msgstr "Luzes Dinâmicas (Software)"
-
-msgid "OS_TITLE"
-msgstr "Buscar opção"
-
-msgid "OS_LABEL"
-msgstr "Busca:"
 
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Sempre mostrar chaves"
