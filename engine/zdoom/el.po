@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 06:44+0000\n"
+"PO-Revision-Date: 2026-02-14 06:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/el/>\n"
@@ -88,7 +88,7 @@ msgstr "Είσαι σίγουρος ότι θέλεις να φύγεις?\n"
 
 msgctxt "heretic"
 msgid "SWSTRING"
-msgstr "Μόνο διαθέσιμο στήν εχγραμμένη έκδοση."
+msgstr "Μόνο διαθέσιμο στήν εχγραμμένη έκδοση"
 
 msgid "DOSY"
 msgstr "(Πάτα Y για να φύγεις)"
