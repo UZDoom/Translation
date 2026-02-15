@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-13 06:10+0000\n"
+"PO-Revision-Date: 2026-02-15 18:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/es/>\n"
@@ -97,6 +97,7 @@ msgstr ""
 "¡No te vayas, que aún quedan\n"
 "demonios para freír!"
 
+#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
 "Aceptémoslo, ¡esto se está\n"
@@ -112,6 +113,7 @@ msgstr ""
 "Estás tratando de decir que el\n"
 "MS-DOS es mejor que yo, ¿eh?"
 
+#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
 "¡No te vayas, que aún hay\n"
@@ -338,9 +340,8 @@ msgstr "Poder alternado"
 msgid "STSTR_CHOPPERS"
 msgstr "... no apesta - GM"
 
-#, fuzzy
 msgid "STSTR_CLEV"
-msgstr "Cambiando de nivel...\n"
+msgstr "Cambiando de nivel…"
 
 msgid "TXT_BUDDHAON"
 msgstr "Modo Buda ACTIVADO"
@@ -2909,7 +2910,7 @@ msgstr "Carga de Zorcher Grande"
 
 msgctxt "chex"
 msgid "AMMO_ROCKETS"
-msgstr "Carga de Propulsor de Zorch "
+msgstr "Carga de Propulsor de Zorch"
 
 msgctxt "chex"
 msgid "AMMO_CELLS"
@@ -4741,7 +4742,7 @@ msgid "DSPLYMNU_CUSTOMINVERTMAP"
 msgstr "Personalizar filtro invertido"
 
 msgid "DSPLYMNU_CUSTOMINVERTC1"
-msgstr "Color oscuro de filtro invertido\n"
+msgstr "Color oscuro de filtro invertido"
 
 msgid "DSPLYMNU_CUSTOMINVERTC2"
 msgstr "Color claro de filtro invertido"
