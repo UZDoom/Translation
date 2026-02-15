@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-15 18:10+0000\n"
+"PO-Revision-Date: 2026-02-15 21:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/el/>\n"
@@ -84,7 +84,7 @@ msgstr ""
 "Πάτα Y ή N."
 
 msgid "RAVENQUITMSG"
-msgstr "Είσαι σίγουρος ότι θέλεις να φύγεις?\n"
+msgstr "Είσαι σίγουρος ότι θέλεις να φύγεις?"
 
 msgctxt "heretic"
 msgid "SWSTRING"
@@ -1908,6 +1908,7 @@ msgstr ""
 msgid "TXT_SCANNER"
 msgstr "Πήρες το σαρωτή."
 
+#, fuzzy
 msgid "TXT_NEEDMAP"
 msgstr "Ο σαρωτής δέν θα δουλέψει χωρίς ένα χάρτη!"
 
