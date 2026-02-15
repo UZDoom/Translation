@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-15 18:10+0000\n"
+"PO-Revision-Date: 2026-02-15 21:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/da/>\n"
@@ -184,7 +184,7 @@ msgstr ""
 " - min eneste chance!!!"
 
 msgid "QUITMSG18"
-msgstr "Ingen går ud fra Blackbird. "
+msgstr "Ingen går ud fra Blackbird."
 
 #, fuzzy
 msgid "QUITMSG19"
@@ -1924,7 +1924,7 @@ msgid "TXT_SCANNER"
 msgstr "Du samlede scanneren op."
 
 msgid "TXT_NEEDMAP"
-msgstr "Scanneren virker ikke uden et kort!\n"
+msgstr "Scanneren virker ikke uden et kort!"
 
 msgid "TXT_PRISONPASS"
 msgstr "Du samlede fængselspasset op."
