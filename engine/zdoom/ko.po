@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-13 22:44+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-15 16:09+0000\n"
+"Last-Translator: Aurorasphere <kraftwerkislove@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ko/>\n"
 "Language: ko\n"
@@ -230,7 +230,7 @@ msgstr "횡설수설하기 시작했다"
 
 #, fuzzy
 msgid "HUSTR_TALKTOSELF5"
-msgstr "미치기 시작했다..."
+msgstr "미치기 시작했다…"
 
 msgid "HUSTR_MESSAGESENT"
 msgstr "[메시지가 전달됨]"
