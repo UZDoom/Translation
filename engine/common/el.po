@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-13 22:44+0000\n"
+"PO-Revision-Date: 2026-02-15 18:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/uzdoom/common/el/>"
 "\n"
@@ -89,7 +89,7 @@ msgid "MNU_DIFFVERSION"
 msgstr "Διαφορετική έκδοση"
 
 msgid "MNU_NOFILES"
-msgstr "Καθ΄λου αρχεία "
+msgstr "Καθ΄λου αρχεία"
 
 msgid "MNU_DELETESG"
 msgstr "Θέλεις όντος να διαγράξεις το αποθηκευμένο παιχνίδι;"
