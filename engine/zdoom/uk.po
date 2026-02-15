@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-15 18:10+0000\n"
+"PO-Revision-Date: 2026-02-15 21:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/uk/>\n"
@@ -1919,6 +1919,7 @@ msgstr "Взято Дегінську руду."
 msgid "TXT_SCANNER"
 msgstr "Отримано сканер."
 
+#, fuzzy
 msgid "TXT_NEEDMAP"
 msgstr "Сканер не буде працювати без карти!"
 
