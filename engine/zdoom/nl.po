@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-14 04:34+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-02-15 18:10+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/nl/>\n"
 "Language: nl\n"
@@ -97,6 +97,7 @@ msgstr ""
 "Ga alsjeblieft niet weg, er zijn meer\n"
 "demonen te roosteren!"
 
+#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
 "Laten we ervoor gaan - dit wordt\n"
@@ -112,6 +113,7 @@ msgstr ""
 "Probeer je te zeggen dat DOS jou\n"
 "beter bevalt dan mij?"
 
+#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
 "Ga nog niet weg - er is een\n"
@@ -4730,7 +4732,7 @@ msgid "DSPLYMNU_CUSTOMINVERTMAP"
 msgstr "Aangepaste inversiekleuren"
 
 msgid "DSPLYMNU_CUSTOMINVERTC1"
-msgstr "Aangepaste donkere inversiekleur\n"
+msgstr "Aangepaste donkere inversiekleur"
 
 msgid "DSPLYMNU_CUSTOMINVERTC2"
 msgstr "Aangepaste lichte inversiekleur"
