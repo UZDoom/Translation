@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-13 22:44+0000\n"
+"PO-Revision-Date: 2026-02-15 18:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/sr/>\n"
@@ -100,6 +100,7 @@ msgstr ""
 "Молим те, не одлази!\n"
 "Има још демона да се побије!"
 
+#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
 "Хајде, бриши одавде\n"
@@ -115,6 +116,7 @@ msgstr ""
 "Више ти допада DOS\n"
 "него ја, је ли?"
 
+#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
 "Немој да одеш --\n"
@@ -4722,7 +4724,7 @@ msgid "DSPLYMNU_CUSTOMINVERTMAP"
 msgstr "Прилагођена обрнута мапа"
 
 msgid "DSPLYMNU_CUSTOMINVERTC1"
-msgstr "Прилагођена инверзна боја тамна\n"
+msgstr "Прилагођена инверзна боја тамна"
 
 msgid "DSPLYMNU_CUSTOMINVERTC2"
 msgstr "Прилагођено инверзно светло у боји"
