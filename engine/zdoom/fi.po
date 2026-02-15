@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-13 22:44+0000\n"
+"PO-Revision-Date: 2026-02-15 18:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fi/>\n"
@@ -95,19 +95,29 @@ msgid "DOSY"
 msgstr "(Paina Y lopettaaksesi)"
 
 msgid "QUITMSG1"
-msgstr "Älä lähde; demoneita on vielä kärvennettävänä!"
+msgstr ""
+"Älä lähde; demoneita on\n"
+"vielä kärvennettävänä!"
 
 msgid "QUITMSG2"
-msgstr "Häivytään -- tämä on muuttumassa verilöylyksi!"
+msgstr ""
+"Häivytään — tämä on\n"
+"muuttumassa verilöylyksi!"
 
 msgid "QUITMSG3"
-msgstr "Sinuna en lähtisi. DOS on paljon pahempi."
+msgstr ""
+"Sinuna en lähtisi.\n"
+"DOS on paljon pahempi."
 
 msgid "QUITMSG4"
-msgstr "Yritätkö sanoa pitäväsi DOSista enemmän kuin minusta, niinkö?"
+msgstr ""
+"Yritätkö sanoa pitäväsi DOSista\n"
+"enemmän kuin minusta, niinkö?"
 
 msgid "QUITMSG5"
-msgstr "Älä lähde vielä -- tuon kulman takana on demoni!"
+msgstr ""
+"Älä lähde vielä—tuon\n"
+"kulman takana on demoni!"
 
 msgid "QUITMSG6"
 msgstr "Tiiäthän, että käristän sut, kun seuraavalla kerralla tuut tänne."
@@ -4695,6 +4705,7 @@ msgstr "Pikapoistuminen"
 msgid "DSPLYMNU_CUSTOMINVERTMAP"
 msgstr "Mukautettu käänteinen kartta"
 
+#, fuzzy
 msgid "DSPLYMNU_CUSTOMINVERTC1"
 msgstr "Mukautettu käänteinen tumma väri"
 
