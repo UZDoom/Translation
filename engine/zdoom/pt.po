@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-15 18:10+0000\n"
+"PO-Revision-Date: 2026-02-15 21:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/pt/>\n"
@@ -332,9 +332,8 @@ msgstr ""
 msgid "STSTR_CHOPPERS"
 msgstr ""
 
-#, fuzzy
 msgid "STSTR_CLEV"
-msgstr "A mudar de nível...\n"
+msgstr "A mudar de nível…"
 
 msgid "TXT_BUDDHAON"
 msgstr ""
