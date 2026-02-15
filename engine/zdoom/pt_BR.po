@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-13 22:44+0000\n"
+"PO-Revision-Date: 2026-02-15 21:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "uzdoom/zdoom-engine-strings/pt_BR/>\n"
@@ -97,6 +97,7 @@ msgstr ""
 "Por favor, não vá embora. Tem mais\n"
 "demônios para torrar!"
 
+#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
 "Vamos embora — isso tá virando \n"
@@ -112,6 +113,7 @@ msgstr ""
 "Tá querendo dizer que você gosta mais\n"
 "do DOS do que eu, é isso?"
 
+#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
 "Não vá embora ainda, tem um\n"
@@ -1941,7 +1943,7 @@ msgid "TXT_SCANNER"
 msgstr "Você pegou o scanner."
 
 msgid "TXT_NEEDMAP"
-msgstr "O scanner não funciona sem um mapa!\n"
+msgstr "O scanner não funciona sem um mapa!"
 
 msgid "TXT_PRISONPASS"
 msgstr "Você pegou o passe da Prisão."
@@ -4739,6 +4741,7 @@ msgstr "Saída Rápida"
 msgid "DSPLYMNU_CUSTOMINVERTMAP"
 msgstr "Personalizar Cores Invertidas"
 
+#, fuzzy
 msgid "DSPLYMNU_CUSTOMINVERTC1"
 msgstr "Personalizar Cores Invertidas - Cor escura"
 

@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 06:44+0000\n"
+"PO-Revision-Date: 2026-02-15 21:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/be/>\n"
@@ -99,6 +99,7 @@ msgstr ""
 "Калі ласка, не выходзь,\n"
 "тут яшчэ паўно дэманаў для паджаркі!"
 
+#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
 "Давай скончым з гэтым - яно ператвараецца\n"
@@ -115,7 +116,9 @@ msgstr ""
 "больш за мяне, так?"
 
 msgid "QUITMSG5"
-msgstr "Не выходзь — там яшчэ дэман за вуглом!"
+msgstr ""
+"Не выходзь — там\n"
+"яшчэ дэман за вуглом!"
 
 msgid "QUITMSG6"
 msgstr ""
@@ -447,16 +450,16 @@ msgid "TXT_BADDIES_KILLED"
 msgstr "%d благішоў забіта"
 
 msgid "TXT_MONSTER_KILLED"
-msgstr "1 монстр забіты "
+msgstr "1 монстр забіты"
 
 msgid "TXT_MONSTERS_KILLED"
-msgstr "%d монстраў забіта "
+msgstr "%d монстраў забіта"
 
 msgid "TXT_NO_RESURRECT"
 msgstr "Уваскрашэнне немагчыма. Гулец больш не злучаны з трупам."
 
 msgid "TXT_ALL_ARTIFACTS"
-msgstr "Усе артэфакты "
+msgstr "Усе артэфакты"
 
 msgid "TXT_WHAT_KILL"
 msgstr "Што вы хочаце забіць па-за гульнёй?"
@@ -477,10 +480,10 @@ msgid "AMSTR_GRIDOFF"
 msgstr "Сетка ВЫКЛЮЧАНА"
 
 msgid "AMSTR_TEXON"
-msgstr "Тэкстурны рэжым УКЛЮЧАНЫ "
+msgstr "Тэкстурны рэжым УКЛЮЧАНЫ"
 
 msgid "AMSTR_TEXOFF"
-msgstr "Тэкстурны рэжым ВЫКЛЮЧАНЫ "
+msgstr "Тэкстурны рэжым ВЫКЛЮЧАНЫ"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Метка"
@@ -528,13 +531,13 @@ msgid "MULTI5"
 msgstr "Жахлівае забойства!"
 
 msgid "SCORE_BONUS"
-msgstr "Бонус "
+msgstr "Бонус"
 
 msgid "SCORE_COLOR"
 msgstr "Колер"
 
 msgid "SCORE_SECRET"
-msgstr "Сакрэты "
+msgstr "Сакрэты"
 
 msgid "SCORE_NAME"
 msgstr "Гулец"
@@ -553,7 +556,7 @@ msgid "SCORE_OTHER"
 msgstr "Іншае"
 
 msgid "SCORE_MISSED"
-msgstr "Прапушчана "
+msgstr "Прапушчана"
 
 msgid "SCORE_TOTAL"
 msgstr "Усяго"
@@ -565,22 +568,22 @@ msgid "TXT_IMKILLS"
 msgstr "Забойств"
 
 msgid "TXT_IMITEMS"
-msgstr "Прадметаў "
+msgstr "Прадметаў"
 
 msgid "TXT_IMSECRETS"
-msgstr "Сакрэтаў "
+msgstr "Сакрэтаў"
 
 msgid "TXT_IMTIME"
 msgstr "Час"
 
 msgid "TXT_IMPAR"
-msgstr "Рэкорд "
+msgstr "Рэкорд"
 
 msgid "WI_FINISHED"
-msgstr "Узровень завершаны "
+msgstr "Узровень завершаны"
 
 msgid "WI_ENTERING"
-msgstr "Пераход "
+msgstr "Пераход"
 
 msgctxt "heretic hexen"
 msgid "WI_ENTERING"
@@ -732,7 +735,7 @@ msgid "GOTROCKET"
 msgstr "Атрымана ракета."
 
 msgid "GOTROCKBOX"
-msgstr "Атрымана скрыня ракет. "
+msgstr "Атрымана скрыня ракет."
 
 msgid "GOTCELL"
 msgstr "Атрымана энергабатарэя."
@@ -840,7 +843,7 @@ msgid "PD_YELLOWS"
 msgstr "Для адкрыцця патрэбен жоўты чэрап-ключ"
 
 msgid "CC_ZOMBIE"
-msgstr "Зомбі "
+msgstr "Зомбі"
 
 # a.k.a. (former human) sergeant
 msgid "CC_SHOTGUN"
@@ -848,22 +851,22 @@ msgstr "Хлопец з драбавіком"
 
 # a.k.a. former commando
 msgid "CC_HEAVY"
-msgstr "Чувак з кулямётам "
+msgstr "Чувак з кулямётам"
 
 msgid "CC_IMP"
 msgstr "Імп"
 
 msgid "CC_DEMON"
-msgstr "Дэман "
+msgstr "Дэман"
 
 msgid "CC_LOST"
-msgstr "Згубленая душа "
+msgstr "Згубленая душа"
 
 msgid "CC_CACO"
 msgstr "Какадэман"
 
 msgid "CC_HELL"
-msgstr "Рыцар пекла "
+msgstr "Рыцар пекла"
 
 msgid "CC_BARON"
 msgstr "Барон пекла"
@@ -884,19 +887,19 @@ msgid "CC_ARCH"
 msgstr "Архвіль"
 
 msgid "CC_SPIDER"
-msgstr "Павук-правадыр "
+msgstr "Павук-правадыр"
 
 msgid "CC_CYBER"
 msgstr "Кібердэман"
 
 msgid "CC_HERO"
-msgstr "Наш герой "
+msgstr "Наш герой"
 
 msgid "FN_SHOTGUN"
-msgstr "Сяржант "
+msgstr "Сяржант"
 
 msgid "FN_HEAVY"
-msgstr "Кулямётчык "
+msgstr "Кулямётчык"
 
 msgid "FN_SPECTRE"
 msgstr "Фантом"
@@ -905,13 +908,13 @@ msgid "FN_SPIDER"
 msgstr "Павук-правадыр"
 
 msgid "FN_CYBER"
-msgstr "Кібердэман "
+msgstr "Кібердэман"
 
 msgid "FN_WOLFSS"
 msgstr "Нацыст"
 
 msgid "FN_DOG"
-msgstr "Сабака "
+msgstr "Сабака"
 
 msgid "TAG_FIST"
 msgstr "Латуневы кастэт"
@@ -920,16 +923,16 @@ msgid "TAG_CHAINSAW"
 msgstr "Бензапіла"
 
 msgid "TAG_PISTOL"
-msgstr "Пісталет "
+msgstr "Пісталет"
 
 msgid "TAG_SHOTGUN"
 msgstr "Драбавік"
 
 msgid "TAG_SUPERSHOTGUN"
-msgstr "Супердрабавік "
+msgstr "Супердрабавік"
 
 msgid "TAG_CHAINGUN"
-msgstr "Кулямёт "
+msgstr "Кулямёт"
 
 msgid "TAG_ROCKETLAUNCHER"
 msgstr "Ракетамёт"
@@ -941,13 +944,13 @@ msgid "TAG_BFG9000"
 msgstr ""
 
 msgid "AMMO_CLIP"
-msgstr "Кулі "
+msgstr "Кулі"
 
 msgid "AMMO_SHELLS"
 msgstr "Патроны драбавіка"
 
 msgid "AMMO_ROCKETS"
-msgstr "Ракеты "
+msgstr "Ракеты"
 
 msgid "AMMO_CELLS"
 msgstr "Энергабатарэі"

@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 06:44+0000\n"
+"PO-Revision-Date: 2026-02-15 21:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/eo/>\n"
@@ -98,6 +98,7 @@ msgstr ""
 "Bonvolu ne foriri, estas pliaj\n"
 "rostindaj demonoj!"
 
+#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
 "Ni forlasu, ĉi tio iĝas\n"
@@ -113,6 +114,7 @@ msgstr ""
 "Vi provas diri, ke MS-DOS\n"
 "estas pli bona ol mi, ĉu?"
 
+#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
 "Ne foriru ankoraŭ, estas\n"
@@ -1935,6 +1937,7 @@ msgstr "Vi trovis degninan minaĵon."
 msgid "TXT_SCANNER"
 msgstr "Vi trovis skanilon."
 
+#, fuzzy
 msgid "TXT_NEEDMAP"
 msgstr "La skanilo ne funkcias sen mapo!"
 
@@ -4730,6 +4733,7 @@ msgstr "Rapida eliro"
 msgid "DSPLYMNU_CUSTOMINVERTMAP"
 msgstr "Agordi inversan mapon"
 
+#, fuzzy
 msgid "DSPLYMNU_CUSTOMINVERTC1"
 msgstr "Agordi inversan malhelan koloron"
 

@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-13 22:44+0000\n"
+"PO-Revision-Date: 2026-02-15 21:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/uzdoom/common/fr/>"
 "\n"
@@ -1369,7 +1369,7 @@ msgid "VIDMNU_FULLSCREEN"
 msgstr "Plein écran"
 
 msgid "VIDMNU_HIDPI"
-msgstr "Support Retina/HiDPI "
+msgstr "Support Retina/HiDPI"
 
 msgid "VIDMNU_ASPECTRATIO"
 msgstr "Rapport D'Aspect"

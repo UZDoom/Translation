@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 06:51+0000\n"
+"PO-Revision-Date: 2026-02-15 21:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English (United Kingdom) <https://hosted.weblate.org/projects/"
 "uzdoom/zdoom-engine-strings/en_GB/>\n"
@@ -99,7 +99,7 @@ msgstr ""
 
 msgid "QUITMSG2"
 msgstr ""
-"Let's beat it -- this is turning\n"
+"Let's beat it—this is turning\n"
 "into a bloodbath!"
 
 msgid "QUITMSG3"
@@ -114,7 +114,7 @@ msgstr ""
 
 msgid "QUITMSG5"
 msgstr ""
-"Don't leave yet -- there's a\n"
+"Don't leave yet—there's a\n"
 "demon around that corner!"
 
 msgid "QUITMSG6"
@@ -1925,7 +1925,7 @@ msgid "TXT_SCANNER"
 msgstr "You picked up the scanner."
 
 msgid "TXT_NEEDMAP"
-msgstr "The scanner won't work without a map!\n"
+msgstr "The scanner won't work without a map!"
 
 msgid "TXT_PRISONPASS"
 msgstr "You picked up the Prison pass."
@@ -4706,7 +4706,7 @@ msgid "DSPLYMNU_CUSTOMINVERTMAP"
 msgstr "Custom Inverse Map"
 
 msgid "DSPLYMNU_CUSTOMINVERTC1"
-msgstr "Custom Inverse Colour Dark\n"
+msgstr "Custom Inverse Colour Dark"
 
 msgid "DSPLYMNU_CUSTOMINVERTC2"
 msgstr "Custom Inverse Colour Light"

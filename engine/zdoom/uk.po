@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-13 22:44+0000\n"
+"PO-Revision-Date: 2026-02-15 21:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/uk/>\n"
@@ -95,19 +95,30 @@ msgid "DOSY"
 msgstr "(Натисніть Y для виходу)"
 
 msgid "QUITMSG1"
-msgstr "Будь ласка, не йди - тут ще купа демонів!"
+msgstr ""
+"Будь ласка, не йди - тут\n"
+"ще купа демонів!"
 
+#, fuzzy
 msgid "QUITMSG2"
-msgstr "Споримо, що ця кривава баня тобі не по зубах!?"
+msgstr ""
+"Споримо, що ця кривава\n"
+"баня тобі не по зубах!"
 
 msgid "QUITMSG3"
-msgstr "Я б не йшов на твоєму місці. DOS значно нудніший."
+msgstr ""
+"Я б не йшов на твоєму місці.\n"
+"DOS значно нудніший."
 
 msgid "QUITMSG4"
-msgstr "Хочеш сказати, що DOS цікавіший за мене, так?"
+msgstr ""
+"Хочеш сказати, що DOS\n"
+"цікавіший за мене, так?"
 
 msgid "QUITMSG5"
-msgstr "Зачекай! Не йди - тут за куточком сховався ще один демон!"
+msgstr ""
+"Зачекай! Не йди—тут за куточком\n"
+"сховався ще один демон!"
 
 msgid "QUITMSG6"
 msgstr "Шоб знав, коли повернешся - я намилю тобі шию."
@@ -1339,7 +1350,7 @@ msgid "OB_MPPSTAFF"
 msgstr "%o перечепи@[adj_2_ua] через заряджену палицю %k."
 
 msgid "OB_MPPGAUNTLETS"
-msgstr "%k висмокта@[adj_1_ua] дух %o через рукавиці. "
+msgstr "%k висмокта@[adj_1_ua] дух %o через рукавиці."
 
 msgid "OB_MPPGOLDWAND"
 msgstr "%o бу@[adj_1_ua] атакований ельфійським посохом %k."
@@ -1908,6 +1919,7 @@ msgstr "Взято Дегінську руду."
 msgid "TXT_SCANNER"
 msgstr "Отримано сканер."
 
+#, fuzzy
 msgid "TXT_NEEDMAP"
 msgstr "Сканер не буде працювати без карти!"
 
@@ -4604,7 +4616,7 @@ msgid "TXT_LONER"
 msgstr "%s тепер наодинці."
 
 msgid "TXT_LEFTWITHFRAGS"
-msgstr "%s покидає гру з такими фрагами: %d "
+msgstr "%s покидає гру з такими фрагами: %d"
 
 msgid "TXT_LEFTTHEGAME"
 msgstr "%s покидає гру"
@@ -4696,6 +4708,7 @@ msgstr "Швидкий вихід"
 msgid "DSPLYMNU_CUSTOMINVERTMAP"
 msgstr "Налаштування кольорів безсмертя"
 
+#, fuzzy
 msgid "DSPLYMNU_CUSTOMINVERTC1"
 msgstr "Темні кольори"
 

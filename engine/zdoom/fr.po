@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-13 22:44+0000\n"
+"PO-Revision-Date: 2026-02-15 21:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fr/>\n"
@@ -97,6 +97,7 @@ msgstr ""
 "Ne partez pas, il ya encore\n"
 "des démons a buter !"
 
+#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
 "Fichons le camp, ça dégénère\n"
@@ -112,6 +113,7 @@ msgstr ""
 "Vous essayez de dire que vous aimez DOS\n"
 "mieux que moi, pas vrai ?"
 
+#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
 "Ne partez pas encore ! Il y a \n"
@@ -289,7 +291,7 @@ msgid "STSTR_NOMUS"
 msgstr "Séléction Impossible"
 
 msgid "STSTR_DQDON"
-msgstr "Invulnérabilité ON "
+msgstr "Invulnérabilité ON"
 
 msgid "STSTR_DQDOFF"
 msgstr "Invulnérabilité OFF"
@@ -1936,7 +1938,7 @@ msgid "TXT_SCANNER"
 msgstr "Vous avez pris l'analyseur."
 
 msgid "TXT_NEEDMAP"
-msgstr "L'analyseur ne marchera pas sans une carte!\n"
+msgstr "L'analyseur ne marchera pas sans une carte !"
 
 msgid "TXT_PRISONPASS"
 msgstr "Vous avez pris le passe de la prison."
@@ -4733,6 +4735,7 @@ msgstr "Sortie rapide"
 msgid "DSPLYMNU_CUSTOMINVERTMAP"
 msgstr "Couleurs inverses personnalisées"
 
+#, fuzzy
 msgid "DSPLYMNU_CUSTOMINVERTC1"
 msgstr "Couleur foncée pour l'inversion"
 

@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 06:44+0000\n"
+"PO-Revision-Date: 2026-02-15 21:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ru/>\n"
@@ -98,6 +98,7 @@ msgstr ""
 "Пожалуйста, не уходи,\n"
 "тут ещё полно демонов для поджарки!"
 
+#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
 "Давай покончим с этим — оно превращается\n"
@@ -109,8 +110,11 @@ msgstr ""
 "DOS намного скучнее."
 
 msgid "QUITMSG4"
-msgstr "Ты хочешь сказать, что DOS тебе нравится больше, чем я, а?"
+msgstr ""
+"Ты хочешь сказать, что DOS\n"
+"тебе нравится больше, чем я, а?"
 
+#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
 "Не уходи! За тем углом\n"
@@ -1934,7 +1938,7 @@ msgid "TXT_SCANNER"
 msgstr "Получен сканер."
 
 msgid "TXT_NEEDMAP"
-msgstr "Сканер не будет работать без карты!\n"
+msgstr "Сканер не будет работать без карты!"
 
 msgid "TXT_PRISONPASS"
 msgstr "Получен пропуск в тюрьму."
@@ -4736,6 +4740,7 @@ msgstr "Быстрый выход"
 msgid "DSPLYMNU_CUSTOMINVERTMAP"
 msgstr "Настроить цвета при неуязвимости"
 
+#, fuzzy
 msgid "DSPLYMNU_CUSTOMINVERTC1"
 msgstr "Тёмный цвет"
 

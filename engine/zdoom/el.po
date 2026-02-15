@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 06:44+0000\n"
+"PO-Revision-Date: 2026-02-15 21:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/el/>\n"
@@ -84,20 +84,25 @@ msgstr ""
 "Πάτα Y ή N."
 
 msgid "RAVENQUITMSG"
-msgstr "Είσαι σίγουρος ότι θέλεις να φύγεις?\n"
+msgstr "Είσαι σίγουρος ότι θέλεις να φύγεις?"
 
 msgctxt "heretic"
 msgid "SWSTRING"
-msgstr "Μόνο διαθέσιμο στήν εχγραμμένη έκδοση."
+msgstr "Μόνο διαθέσιμο στήν εχγραμμένη έκδοση"
 
 msgid "DOSY"
 msgstr "(Πάτα Y για να φύγεις)"
 
 msgid "QUITMSG1"
-msgstr "Παρακαλώ μη φύγεις, υπάρχουνε περισσότεροi δαίμονες να ψήσεις!"
+msgstr ""
+"Παρακαλώ μη φύγεις, υπάρχουνε\n"
+"περισσότεροi δαίμονες να ψήσεις!"
 
+#, fuzzy
 msgid "QUITMSG2"
-msgstr "Πάεμε να φύγουμε -- έχει γίνει σφαγίο εδώ!"
+msgstr ""
+"Πάεμε να φύγουμε —\n"
+"έχει γίνει σφαγίο εδώ!"
 
 msgid "QUITMSG3"
 msgstr ""
@@ -105,10 +110,14 @@ msgstr ""
 "Το DOS είναι πολύ χυρότερο."
 
 msgid "QUITMSG4"
-msgstr "Προσπαθείς να πείς οτι το DOS είναι καλήτερο απο εμένα, σωστά?"
+msgstr ""
+"Προσπαθείς να πείς οτι το DOS\n"
+"είναι καλήτερο απο εμένα, σωστά?"
 
 msgid "QUITMSG5"
-msgstr "Μη φύγεις ακόμα, είναι ένας δαίμονας πίσω απο αυτή τι γονία!"
+msgstr ""
+"Μη φύγεις ακόμα, είναι ένας\n"
+"δαίμονας πίσω απο αυτή τι γονία!"
 
 msgid "QUITMSG6"
 msgstr "Ξέρεις, την επόμενη φορά που θα έρθεις εδώ, θα σε ψήσω."
@@ -1899,6 +1908,7 @@ msgstr ""
 msgid "TXT_SCANNER"
 msgstr "Πήρες το σαρωτή."
 
+#, fuzzy
 msgid "TXT_NEEDMAP"
 msgstr "Ο σαρωτής δέν θα δουλέψει χωρίς ένα χάρτη!"
 
@@ -4641,6 +4651,7 @@ msgstr "Γρήγορη Έξοδος"
 msgid "DSPLYMNU_CUSTOMINVERTMAP"
 msgstr "Προσαρμοσμένος Ανάποδος Χάρτης"
 
+#, fuzzy
 msgid "DSPLYMNU_CUSTOMINVERTC1"
 msgstr "Προσαρμοσμένος Ανάποδο Χρώμα Σκοτεινό"
 

@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 19:10+0000\n"
+"PO-Revision-Date: 2026-02-15 21:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/uzdoom/common/nl/>"
 "\n"
@@ -148,7 +148,7 @@ msgid "OPTMNU_RESETTOSAVED"
 msgstr "Reset naar laatste opgeslagen"
 
 msgid "OPTMNU_WRITEINI"
-msgstr "Huidige instellingen opslaan "
+msgstr "Huidige instellingen opslaan"
 
 msgid "OPTMNU_CONSOLE"
 msgstr "Ga naar de console"
@@ -706,7 +706,7 @@ msgid "SNDMNU_SNDENABLED"
 msgstr "Geluid actief"
 
 msgid "SNDMNU_MUSENABLED"
-msgstr "Muziek actief "
+msgstr "Muziek actief"
 
 msgid "OPTVAL_4000HZ"
 msgstr "4000 Hz"
