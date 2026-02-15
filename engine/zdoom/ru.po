@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-15 18:10+0000\n"
+"PO-Revision-Date: 2026-02-15 21:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ru/>\n"
@@ -1938,7 +1938,7 @@ msgid "TXT_SCANNER"
 msgstr "Получен сканер."
 
 msgid "TXT_NEEDMAP"
-msgstr "Сканер не будет работать без карты!\n"
+msgstr "Сканер не будет работать без карты!"
 
 msgid "TXT_PRISONPASS"
 msgstr "Получен пропуск в тюрьму."
