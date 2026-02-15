@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-15 18:10+0000\n"
+"PO-Revision-Date: 2026-02-15 21:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ro/>\n"
@@ -1940,6 +1940,7 @@ msgstr "Ai ridicat Minereul de Degnin."
 msgid "TXT_SCANNER"
 msgstr "Ai ridicat scannerul."
 
+#, fuzzy
 msgid "TXT_NEEDMAP"
 msgstr "Scannerul nu poate funcționa fără o hartă!"
 
