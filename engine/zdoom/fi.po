@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-15 18:10+0000\n"
+"PO-Revision-Date: 2026-02-15 21:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fi/>\n"
@@ -1916,6 +1916,7 @@ msgstr "Poimit Degnin-malmia."
 msgid "TXT_SCANNER"
 msgstr "Poimit skannerin."
 
+#, fuzzy
 msgid "TXT_NEEDMAP"
 msgstr "Skanneri ei toimi ilman karttaa!"
 
@@ -3213,7 +3214,7 @@ msgid "GMPLYMNU_ALWAYSSPAWNMULTI"
 msgstr "Aina luo moninpelioliot"
 
 msgid "GMPLYMNU_NOVERTSPREAD"
-msgstr "Permesu Vertikalan Kuglon Disvastiĝon "
+msgstr "Permesu Vertikalan Kuglon Disvastiĝon"
 
 msgid "GMPLYMNU_NOEXTRAAMMO"
 msgstr "Armiloj donas ekstran municion (DM)"
@@ -3848,8 +3849,9 @@ msgstr "Näytä pelaajaspritet"
 msgid "DSPLYMNU_DEATHCAM"
 msgstr "Kuolonkamera"
 
+#, fuzzy
 msgid "DSPLYMNU_TELEZOOM"
-msgstr "Kaukosiirrynnän kameran zoomaus "
+msgstr "Kaukosiirrynnän kameran zoomaus"
 
 msgid "DSPLYMNU_QUAKEINTENSITY"
 msgstr "Maanjäristystehosteen voimakkuus"
@@ -4710,7 +4712,7 @@ msgid "DSPLYMNU_CUSTOMINVERTC1"
 msgstr "Mukautettu käänteinen tumma väri"
 
 msgid "DSPLYMNU_CUSTOMINVERTC2"
-msgstr "Mukautettu käänteinen vaalea väri\n"
+msgstr "Mukautettu käänteinen vaalea väri"
 
 msgid "DSPLYMNU_BOBFIRE"
 msgstr "Aseen heilumisvoimakkuus ammuttaessa"
