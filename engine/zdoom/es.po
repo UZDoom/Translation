@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-15 18:10+0000\n"
+"PO-Revision-Date: 2026-02-15 21:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/es/>\n"
@@ -1936,6 +1936,7 @@ msgstr "Encuentras mineral de Degnin."
 msgid "TXT_SCANNER"
 msgstr "Encuentras un escáner."
 
+#, fuzzy
 msgid "TXT_NEEDMAP"
 msgstr "¡El escáner no funciona sin un mapa!"
 
