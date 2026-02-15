@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-15 18:10+0000\n"
+"PO-Revision-Date: 2026-02-15 21:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/it/>\n"
@@ -241,7 +241,7 @@ msgstr ""
 "non si arrenderebbe così in fretta!"
 
 msgid "TXT_DEFAULTPICKUPMSG"
-msgstr "Hai raccolto qualcosa "
+msgstr "Hai raccolto qualcosa"
 
 msgid "PD_ANY"
 msgstr "Una chiave qualunque aprirà questa porta"
@@ -253,13 +253,13 @@ msgid "PD_ALL3"
 msgstr "Ti servono tutte e tre le chiavi per aprire questa porta"
 
 msgid "PD_ALL3O"
-msgstr "Ti servono tutte e tre le chiavi per attivare questo oggetto "
+msgstr "Ti servono tutte e tre le chiavi per attivare questo oggetto"
 
 msgid "PD_ALL6"
 msgstr "Ti servono tutte e sei le chiavi per aprire questa porta"
 
 msgid "PD_ALL6O"
-msgstr "Ti servono tutte e tre le chiavi per attivare questo oggetto "
+msgstr "Ti servono tutte e tre le chiavi per attivare questo oggetto"
 
 msgid "PD_ALLKEYS"
 msgstr "Ti servono tutte le chiavi"
@@ -340,9 +340,8 @@ msgstr "Power-up concesso/tolto"
 msgid "STSTR_CHOPPERS"
 msgstr "... non fa schifo - GM"
 
-#, fuzzy
 msgid "STSTR_CLEV"
-msgstr "Cambio di livello...\n"
+msgstr "Cambio di livello…"
 
 msgid "TXT_BUDDHAON"
 msgstr "Modalità Buddha ATTIVATA"
@@ -533,7 +532,7 @@ msgid "SCORE_BONUS"
 msgstr ""
 
 msgid "SCORE_COLOR"
-msgstr "Colore "
+msgstr "Colore"
 
 msgid "SCORE_SECRET"
 msgstr "Segreto"
@@ -541,9 +540,8 @@ msgstr "Segreto"
 msgid "SCORE_NAME"
 msgstr "Nome"
 
-#, fuzzy
 msgid "SCORE_DELAY"
-msgstr "Ritardo (ms) "
+msgstr "Ritardo"
 
 msgid "SCORE_FRAGS"
 msgstr ""
@@ -555,13 +553,13 @@ msgid "SCORE_OTHER"
 msgstr "Altro"
 
 msgid "SCORE_MISSED"
-msgstr "Mancati "
+msgstr "Mancati"
 
 msgid "SCORE_TOTAL"
 msgstr "Totale"
 
 msgid "SCORE_LVLTIME"
-msgstr "Tempo Livello "
+msgstr "Tempo Livello"
 
 msgid "TXT_IMKILLS"
 msgstr "Uccisioni"
@@ -806,22 +804,22 @@ msgid "PD_YELLOWK"
 msgstr "Ti serve una chiave gialla per aprire questa porta"
 
 msgid "PD_BLUECO"
-msgstr "Ti serve una card d'accesso blu per attivare questo oggetto "
+msgstr "Ti serve una card d'accesso blu per attivare questo oggetto"
 
 msgid "PD_REDCO"
-msgstr "Ti serve una card d'accesso rossa per attivare questo oggetto "
+msgstr "Ti serve una card d'accesso rossa per attivare questo oggetto"
 
 msgid "PD_YELLOWCO"
-msgstr "ti serve una card d'accesso gialla per attivare questo oggetto "
+msgstr "ti serve una card d'accesso gialla per attivare questo oggetto"
 
 msgid "PD_BLUESO"
-msgstr "ti serve una chiave-teschio blu per attivare questo oggetto "
+msgstr "ti serve una chiave-teschio blu per attivare questo oggetto"
 
 msgid "PD_REDSO"
-msgstr "ti serve una chiave-teschio rossa per attivare questo oggetto "
+msgstr "ti serve una chiave-teschio rossa per attivare questo oggetto"
 
 msgid "PD_YELLOWSO"
-msgstr "ti serve una chiave-teschio gialla per attivare questo oggetto "
+msgstr "ti serve una chiave-teschio gialla per attivare questo oggetto"
 
 msgid "PD_BLUEC"
 msgstr "Ti serve una card d'accesso blu per aprire questa porta"
@@ -916,7 +914,7 @@ msgid "FN_DOG"
 msgstr "Cane"
 
 msgid "TAG_FIST"
-msgstr "Tirapugni "
+msgstr "Tirapugni"
 
 msgid "TAG_CHAINSAW"
 msgstr "Motosega"
@@ -928,16 +926,16 @@ msgid "TAG_SHOTGUN"
 msgstr "Fucile"
 
 msgid "TAG_SUPERSHOTGUN"
-msgstr "Fucile a doppia canna "
+msgstr "Fucile a doppia canna"
 
 msgid "TAG_CHAINGUN"
-msgstr "Mitragliatore a canne rotanti "
+msgstr "Mitragliatore a canne rotanti"
 
 msgid "TAG_ROCKETLAUNCHER"
 msgstr "Lanciamissili"
 
 msgid "TAG_PLASMARIFLE"
-msgstr "Fucile al Plasma "
+msgstr "Fucile al Plasma"
 
 msgid "TAG_BFG9000"
 msgstr ""
@@ -1135,7 +1133,7 @@ msgid "TXT_ARTIFIREBOMB"
 msgstr "Bomba a tempo degli antichi"
 
 msgid "TXT_ARTITELEPORT"
-msgstr "Dispositivo del Caos\n"
+msgstr "Dispositivo del Caos"
 
 msgid "TXT_ITEMHEALTH"
 msgstr "Fiala di cristallo"
@@ -1192,7 +1190,7 @@ msgid "TXT_WPNGOLDWAND"
 msgstr "Bacchetta d'oro"
 
 msgid "TXT_WPNMACE"
-msgstr "Mazza di fuoco\n"
+msgstr "Mazza di fuoco"
 
 msgid "TXT_WPNCROSSBOW"
 msgstr "Balestra eterea"
@@ -1210,10 +1208,10 @@ msgid "TXT_WPNGAUNTLETS"
 msgstr "Guanti del Negromante"
 
 msgid "TXT_NEEDBLUEKEY"
-msgstr "Ti serve una chiave blu per aprire questa porta\n"
+msgstr "Ti serve una chiave blu per aprire questa porta"
 
 msgid "TXT_NEEDGREENKEY"
-msgstr "Ti serve una chiave verde per aprire questa porta\n"
+msgstr "Ti serve una chiave verde per aprire questa porta"
 
 msgid "TXT_NEEDYELLOWKEY"
 msgstr "Ti serve una chiave gialla per aprire questa porta"
@@ -1317,13 +1315,13 @@ msgid "OB_BONEKNIGHT"
 msgstr "%o è stato accettato da un guerriero non morto ."
 
 msgid "OB_BONEKNIGHTHIT"
-msgstr "%o è stato ucciso da un guerriero non morto. "
+msgstr "%o è stato ucciso da un guerriero non morto."
 
 msgid "OB_MINOTAUR"
-msgstr "%o è stato incenerito da un Maulotauro. "
+msgstr "%o è stato incenerito da un Maulotauro."
 
 msgid "OB_MINOTAURHIT"
-msgstr "%o è stato ridotto in poltiglia da un Maulotauro. "
+msgstr "%o è stato ridotto in poltiglia da un Maulotauro."
 
 msgid "OB_MUMMY"
 msgstr "%o è stato schiacciato da un golem."
@@ -1483,7 +1481,7 @@ msgid "TXT_ARTIPUZZGEMBLUE2"
 msgstr "Pianeta di zaffiro"
 
 msgid "TXT_ARTIPUZZBOOK1"
-msgstr "Codice Demoniaco "
+msgstr "Codice Demoniaco"
 
 msgid "TXT_ARTIPUZZBOOK2"
 msgstr ""
@@ -1546,7 +1544,7 @@ msgid "TXT_WEAPON_M4"
 msgstr "Flagello di Sangue assemblato"
 
 msgid "TXT_WEAPONPIECE"
-msgstr "Il frammento di un'arma! È il tuo giorno fortunato! "
+msgstr "Il frammento di un'arma! È il tuo giorno fortunato!"
 
 msgid "TXT_QUIETUS_PIECE"
 msgstr "Parte del Quietus"
@@ -1561,34 +1559,34 @@ msgid "TXT_NEED_KEY_STEEL"
 msgstr "Ti serve la Chiave d'Acciaio"
 
 msgid "TXT_NEED_KEY_CAVE"
-msgstr "Ti serve la Chiave della Caverna "
+msgstr "Ti serve la Chiave della Caverna"
 
 msgid "TXT_NEED_KEY_AXE"
 msgstr "Ti serve la Chiave dell'Ascia"
 
 msgid "TXT_NEED_KEY_FIRE"
-msgstr "Ti serve la Chiave del Fuoco "
+msgstr "Ti serve la Chiave del Fuoco"
 
 msgid "TXT_NEED_KEY_EMERALD"
-msgstr "Ti serve la Chiave di Smeraldo "
+msgstr "Ti serve la Chiave di Smeraldo"
 
 msgid "TXT_NEED_KEY_DUNGEON"
-msgstr "Ti serve la Chiave del Sotterraneo "
+msgstr "Ti serve la Chiave del Sotterraneo"
 
 msgid "TXT_NEED_KEY_SILVER"
-msgstr "Ti serve la Chiave d'Argento "
+msgstr "Ti serve la Chiave d'Argento"
 
 msgid "TXT_NEED_KEY_RUSTED"
-msgstr "Ti serve la Chiave Arrugginita "
+msgstr "Ti serve la Chiave Arrugginita"
 
 msgid "TXT_NEED_KEY_HORN"
-msgstr "Ti serve la Chiave del Corno "
+msgstr "Ti serve la Chiave del Corno"
 
 msgid "TXT_NEED_KEY_SWAMP"
-msgstr "Ti serve la Chiave della Palude "
+msgstr "Ti serve la Chiave della Palude"
 
 msgid "TXT_NEED_KEY_CASTLE"
-msgstr "Ti serve la Chiave del Castello "
+msgstr "Ti serve la Chiave del Castello"
 
 msgid "FN_FIREDEMON"
 msgstr ""
@@ -1645,10 +1643,10 @@ msgid "TAG_CWEAPMACE"
 msgstr "Mazza del Pentimento"
 
 msgid "TAG_CWEAPSTAFF"
-msgstr "Staffa del Serpente "
+msgstr "Staffa del Serpente"
 
 msgid "TAG_CWEAPFLAME"
-msgstr "Tempesta di Fuoco "
+msgstr "Tempesta di Fuoco"
 
 msgid "TAG_CWEAPWRAITHVERGE"
 msgstr "Verga SconfinaSpettri"
@@ -1666,43 +1664,43 @@ msgid "TAG_FWEAPQUIETUS"
 msgstr ""
 
 msgid "TAG_MWEAPWAND"
-msgstr "Scettro di Zaffiro "
+msgstr "Scettro di Zaffiro"
 
 msgid "TAG_MWEAPFROST"
-msgstr "Schegge di Ghiaccio "
+msgstr "Schegge di Ghiaccio"
 
 msgid "TAG_MWEAPLIGHTNING"
-msgstr "Archi della Morte "
+msgstr "Archi della Morte"
 
 msgid "TAG_MWEAPBLOODSCOURGE"
 msgstr "Flagello di Sangue"
 
 msgid "TAG_ARTIBLASTRADIUS"
-msgstr "Disco della Repulsione "
+msgstr "Disco della Repulsione"
 
 msgid "TAG_ARTIBOOSTARMOR"
-msgstr "Bracciali in Pelle di Drago "
+msgstr "Bracciali in Pelle di Drago"
 
 msgid "TAG_ARTIBOOSTMANA"
 msgstr "Calice della Forza"
 
 msgid "TAG_ARTIPOISONBAG"
-msgstr "Fiaschetta "
+msgstr "Fiaschetta"
 
 msgid "TAG_ARTIPOISONBAG1"
 msgstr "Fiaschetta Velenosa"
 
 msgid "TAG_ARTIPOISONBAG2"
-msgstr "Fiaschetta a Tempo "
+msgstr "Fiaschetta a Tempo"
 
 msgid "TAG_ARTIPOISONBAG3"
 msgstr "Fiaschetta da Lancio"
 
 msgid "TAG_ARTIHEALINGRADIUS"
-msgstr "Incantamento Mistico "
+msgstr "Incantamento Mistico"
 
 msgid "TAG_ARTIDEFENDER"
-msgstr "Emblema del Difensore "
+msgstr "Emblema del Difensore"
 
 msgid "TAG_ARTIPORK"
 msgstr "Porchificatore"
@@ -1738,13 +1736,13 @@ msgid "TAG_ARTIPUZZGEMBLUE2"
 msgstr "Pianeta di Zaffiro (2)"
 
 msgid "TAG_ARTIPUZZBOOK1"
-msgstr "Codice Demoniaco "
+msgstr "Codice Demoniaco"
 
 msgid "TAG_ARTIPUZZBOOK2"
 msgstr ""
 
 msgid "TAG_ARTIPUZZSKULL2"
-msgstr "Maschera delle Fiamme "
+msgstr "Maschera delle Fiamme"
 
 msgid "TAG_ARTIPUZZFWEAPON"
 msgstr "Sigillo del Brando"
@@ -1759,70 +1757,70 @@ msgid "TAG_ARTIPUZZGEAR1"
 msgstr "Ingranaggio di Ferro"
 
 msgid "TAG_ARTIPUZZGEAR2"
-msgstr "Ingranaggio di Ottone "
+msgstr "Ingranaggio di Ottone"
 
 msgid "TAG_ARTIPUZZGEAR3"
-msgstr "Ingranaggio di Ferro e Ottone "
+msgstr "Ingranaggio di Ferro e Ottone"
 
 msgid "TAG_ARTIPUZZGEAR4"
-msgstr "Ingranaggio di Ottone e Argento "
+msgstr "Ingranaggio di Ottone e Argento"
 
 msgid "OB_FIREDEMON"
-msgstr "%o ha assaggiato il fuoco di un Afrit. "
+msgstr "%o ha assaggiato il fuoco di un Afrit."
 
 msgid "OB_DEMON1"
 msgstr "%o è stato sciolto da un Serpente del Caos"
 
 msgid "OB_DEMON2"
-msgstr "%o è stato avvelenato da un Serpente del Caos. "
+msgstr "%o è stato avvelenato da un Serpente del Caos."
 
 msgid "OB_ETTIN"
-msgstr "%o è stato schiacciato da un Ettin. "
+msgstr "%o è stato schiacciato da un Ettin."
 
 msgid "OB_CENTAUR"
-msgstr "%o è stato affettato da un Centauro. "
+msgstr "%o è stato affettato da un Centauro."
 
 msgid "OB_SLAUGHTAURHIT"
-msgstr "%o è stato affettato da uno Sventrauro. "
+msgstr "%o è stato affettato da uno Sventrauro."
 
 msgid "OB_SLAUGHTAUR"
-msgstr "%o è stato abbattuto dalla palla di fuoco di uno Sventrauro. "
+msgstr "%o è stato abbattuto dalla palla di fuoco di uno Sventrauro."
 
 msgid "OB_BISHOP"
-msgstr "%o è stato sottomesso dalla magia oscura di un Vescovo. "
+msgstr "%o è stato sottomesso dalla magia oscura di un Vescovo."
 
 msgid "OB_ICEGUY"
-msgstr "%o è stato congelato da un Wendigo. "
+msgstr "%o è stato congelato da un Wendigo."
 
 msgid "OB_SERPENTHIT"
-msgstr "%o è stato malmenato da un Cacciatore. "
+msgstr "%o è stato malmenato da un Cacciatore."
 
 msgid "OB_SERPENT"
-msgstr "%o è stato squagliato da un Cacciatore. "
+msgstr "%o è stato squagliato da un Cacciatore."
 
 msgid "OB_WRAITH"
-msgstr "%o è stato carbonizzato da un Incursore. "
+msgstr "%o è stato carbonizzato da un Incursore."
 
 msgid "OB_WRAITHHIT"
-msgstr "%o ha permesso che un Incursore prosciugasse la sua vita "
+msgstr "%o ha permesso che un Incursore prosciugasse la sua vita"
 
 msgid "OB_DRAGON"
-msgstr "%o è stato incenerito da una Viverna Mortale. "
+msgstr "%o è stato incenerito da una Viverna Mortale."
 
 msgid "OB_KORAX"
-msgstr "%o è stato eliminato dalla scacchiera da Korax. "
+msgstr "%o è stato eliminato dalla scacchiera da Korax."
 
 msgid "OB_FBOSS"
-msgstr "%o è stato ammazzato da Zedek. "
+msgstr "%o è stato ammazzato da Zedek."
 
 msgid "OB_MBOSS"
-msgstr "%o non è riuscito ad assorbire il mana di Menelkir. "
+msgstr "%o non è riuscito ad assorbire il mana di Menelkir."
 
 msgid "OB_CBOSS"
-msgstr "%o è stato battezzato da Traductus. "
+msgstr "%o è stato battezzato da Traductus."
 
 msgid "OB_HERESIARCH"
-msgstr "Le ossa di %o sono state accartocciate dall'Eresiarca. "
+msgstr "Le ossa di %o sono state accartocciate dall'Eresiarca."
 
 msgid "OB_MPFWEAPFIST"
 msgstr "%k ha ridotto %o in poltiglia a mani nude."
@@ -1940,6 +1938,7 @@ msgstr "Hai raccolto il Minerale Degnin."
 msgid "TXT_SCANNER"
 msgstr "Hai raccolto lo Scanner."
 
+#, fuzzy
 msgid "TXT_NEEDMAP"
 msgstr "Lo scanner non può funzionare senza una mappa!"
 
@@ -2155,23 +2154,23 @@ msgstr "Pugnale"
 
 # Crossbow with electric bolts
 msgid "TAG_STRIFECROSSBOW1"
-msgstr "Balestra "
+msgstr "Balestra"
 
 # Crossbow with poison bolts
 msgid "TAG_STRIFECROSSBOW2"
-msgstr "Balestra "
+msgstr "Balestra"
 
 msgid "TAG_ASSAULTGUN"
-msgstr "Fucile d'Assalto "
+msgstr "Fucile d'Assalto"
 
 msgid "TAG_MMLAUNCHER"
 msgstr "Mini-Lanciamissili"
 
 msgid "TAG_FLAMER"
-msgstr "Lanciafiamme "
+msgstr "Lanciafiamme"
 
 msgid "TAG_MAULER1"
-msgstr "Pestatore "
+msgstr "Pestatore"
 
 msgid "TAG_MAULER2"
 msgstr "Pestatore"
@@ -2194,13 +2193,13 @@ msgid "TAG_MEDPATCH"
 msgstr "Bende"
 
 msgid "TAG_MEDICALKIT"
-msgstr "Kit di Pronto Soccorso "
+msgstr "Kit di Pronto Soccorso"
 
 msgid "TAG_SURGERYKIT"
-msgstr "Kit Chirurgico "
+msgstr "Kit Chirurgico"
 
 msgid "TAG_BELDINSRING"
-msgstr "Anello "
+msgstr "Anello"
 
 msgid "TAG_OFFERINGCHALICE"
 msgstr "Calice delle Offerte"
@@ -2209,34 +2208,34 @@ msgid "TAG_EAR"
 msgstr "Orecchio"
 
 msgid "TAG_BROKENCOUPLING"
-msgstr "Coppia Energetica Rotta "
+msgstr "Coppia Energetica Rotta"
 
 msgid "TAG_SHADOWARMOR"
-msgstr "Armatura Ombra "
+msgstr "Armatura Ombra"
 
 msgid "TAG_ENVSUIT"
-msgstr "Tuta Ambientale "
+msgstr "Tuta Ambientale"
 
 msgid "TAG_GUARDUNIFORM"
 msgstr "Uniforme da Guardia"
 
 msgid "TAG_OFFICERSUNIFORM"
-msgstr "Uniforme da Ufficiale "
+msgstr "Uniforme da Ufficiale"
 
 msgid "TAG_FTHROWERPARTS"
-msgstr "Parti di Lanciafiamme "
+msgstr "Parti di Lanciafiamme"
 
 msgid "TAG_REPORT"
-msgstr "Rapporto "
+msgstr "Rapporto"
 
 msgid "TAG_INFO"
-msgstr "Informazioni "
+msgstr "Informazioni"
 
 msgid "TAG_TARGETER"
 msgstr "Puntatore"
 
 msgid "TAG_COMMUNICATOR"
-msgstr "Comunicatore "
+msgstr "Comunicatore"
 
 msgid "TAG_DEGNINORE"
 msgstr "Minerale Degnin"
@@ -2245,28 +2244,28 @@ msgid "TAG_GUNTRAINING"
 msgstr "Precisione"
 
 msgid "TAG_HEALTHTRAINING"
-msgstr "Robustezza "
+msgstr "Robustezza"
 
 msgid "TAG_SCANNER"
 msgstr "Scanner"
 
 msgid "TAG_PRISONPASS"
-msgstr "Lasciapassare Prigione "
+msgstr "Lasciapassare Prigione"
 
 msgid "TAG_ALARM"
-msgstr "Allarme "
+msgstr "Allarme"
 
 msgid "TAG_AMMOFILLUP"
-msgstr "Munizioni "
+msgstr "Munizioni"
 
 msgid "TAG_HEALTHFILLUP"
-msgstr "Salute "
+msgstr "Salute"
 
 msgid "TAG_TELEPORTERBEACON"
-msgstr "Radiofaro per Teletrasporto "
+msgstr "Radiofaro per Teletrasporto"
 
 msgid "TAG_METALARMOR"
-msgstr "Armatura di Metallo "
+msgstr "Armatura di Metallo"
 
 msgid "TAG_LEATHER"
 msgstr "Armatura di Cuoio"
@@ -2275,13 +2274,13 @@ msgid "TAG_HEGRENADES"
 msgstr "Granata HE"
 
 msgid "TAG_PHGRENADES"
-msgstr "Granata al Fosforo "
+msgstr "Granata al Fosforo"
 
 msgid "TAG_CLIPOFBULLETS"
-msgstr "Caricatore di Proiettili "
+msgstr "Caricatore di Proiettili"
 
 msgid "TAG_BOXOFBULLETS"
-msgstr "Munizioni "
+msgstr "Munizioni"
 
 msgid "TAG_MINIMISSILES"
 msgstr "Mini-Missili"
@@ -2290,35 +2289,35 @@ msgid "TAG_CRATEOFMISSILES"
 msgstr "Cassa di Missili"
 
 msgid "TAG_ENERGYPOD"
-msgstr "Nucleo Enegetico "
+msgstr "Nucleo Enegetico"
 
 msgid "TAG_ENERGYPACK"
-msgstr "Carica Energetica "
+msgstr "Carica Energetica"
 
 msgid "TAG_POISONBOLTS"
-msgstr "Dardi Velenosi "
+msgstr "Dardi Velenosi"
 
 msgid "TAG_ELECTRICBOLTS"
-msgstr "Dardi Elettrici "
+msgstr "Dardi Elettrici"
 
 msgid "TAG_AMMOSATCHEL"
-msgstr "Borsa di Munizioni "
+msgstr "Borsa di Munizioni"
 
 # In-game key list. Use short strings.
 msgid "TAG_BASEKEY"
 msgstr "Chiave della Base"
 
 msgid "TAG_GOVSKEY"
-msgstr "Chiave del Governatore "
+msgstr "Chiave del Governatore"
 
 msgid "TAG_PASSCARD"
-msgstr "Tessera Lasciapassare "
+msgstr "Tessera Lasciapassare"
 
 msgid "TAG_IDBADGE"
-msgstr "Distintivo "
+msgstr "Distintivo"
 
 msgid "TAG_PRISONKEY"
-msgstr "Chiave della Prigione "
+msgstr "Chiave della Prigione"
 
 msgid "TAG_SEVEREDHAND"
 msgstr "Mano Mozzata"
@@ -2342,7 +2341,7 @@ msgid "TAG_SILVERKEY"
 msgstr "Chiave Argentata"
 
 msgid "TAG_ORACLEKEY"
-msgstr "Chiave dell'Oracolo "
+msgstr "Chiave dell'Oracolo"
 
 msgid "TAG_MILITARYID"
 msgstr "Identificativo Militare"
@@ -2351,71 +2350,71 @@ msgid "TAG_ORDERKEY"
 msgstr "Chiave dell'Ordine"
 
 msgid "TAG_WAREHOUSEKEY"
-msgstr "Chiave del Magazzino "
+msgstr "Chiave del Magazzino"
 
 msgid "TAG_BRASSKEY"
-msgstr "Chiave d'Ottone "
+msgstr "Chiave d'Ottone"
 
 msgid "TAG_REDCRYSTALKEY"
-msgstr "Chiave di Cristallo Rosso "
+msgstr "Chiave di Cristallo Rosso"
 
 msgid "TAG_BLUECRYSTALKEY"
 msgstr "Chiave di Cristallo Blu"
 
 msgid "TAG_CHAPELKEY"
-msgstr "Chiave della Cappella "
+msgstr "Chiave della Cappella"
 
 msgid "TAG_CATACOMBKEY"
-msgstr "Chiave delle Catacombe "
+msgstr "Chiave delle Catacombe"
 
 msgid "TAG_SECURITYKEY"
-msgstr "Chiave della Sicurezza "
+msgstr "Chiave della Sicurezza"
 
 msgid "TAG_COREKEY"
 msgstr "Chiave del Nucleo"
 
 msgid "TAG_MAULERKEY"
-msgstr "Chiave del Pestatore "
+msgstr "Chiave del Pestatore"
 
 msgid "TAG_FACTORYKEY"
-msgstr "Chiave della Fabbrica "
+msgstr "Chiave della Fabbrica"
 
 msgid "TAG_MINEKEY"
-msgstr "Chiave della Miniera "
+msgstr "Chiave della Miniera"
 
 msgid "TAG_NEWKEY5"
 msgstr "Nuova Chiave 5"
 
 # End of key list.
 msgid "TAG_ORACLEPASS"
-msgstr "Lasciapassare dell'Oracolo "
+msgstr "Lasciapassare dell'Oracolo"
 
 msgid "TAG_10GOLD"
-msgstr "10 pezzi d'oro "
+msgstr "10 pezzi d'oro"
 
 msgid "TAG_25GOLD"
-msgstr "25 pezzi d'oro "
+msgstr "25 pezzi d'oro"
 
 msgid "TAG_50GOLD"
-msgstr "50 pezzi d'oro "
+msgstr "50 pezzi d'oro"
 
 msgid "TAG_300GOLD"
-msgstr "300 pezzi d'oro "
+msgstr "300 pezzi d'oro"
 
 msgid "TXT_PERSON"
 msgstr "Persona"
 
 msgid "TAG_ACOLYTE"
-msgstr "Accolito "
+msgstr "Accolito"
 
 msgid "TAG_ARMORER"
-msgstr "Armaiolo "
+msgstr "Armaiolo"
 
 msgid "TAG_BARKEEP"
 msgstr "Barista"
 
 msgid "TAG_BEGGAR"
-msgstr "Mendicante "
+msgstr "Mendicante"
 
 msgid "TAG_MACIL1"
 msgstr ""
@@ -2436,13 +2435,13 @@ msgid "TAG_RATBUDDY"
 msgstr "Ratto"
 
 msgid "TAG_REBEL"
-msgstr "Ribelle "
+msgstr "Ribelle"
 
 msgid "TAG_TEMPLAR"
-msgstr "Templare "
+msgstr "Templare"
 
 msgid "TAG_WEAPONSMITH"
-msgstr "Fabbro "
+msgstr "Fabbro"
 
 msgid "TAG_TALISMANRED"
 msgstr "Talismano rosso"
@@ -2454,61 +2453,61 @@ msgid "TAG_TALISMANBLUE"
 msgstr "Talismano blu"
 
 msgid "OB_ACOLYTE"
-msgstr "%o è stato zelantemente abbattuto da un accolito. "
+msgstr "%o è stato zelantemente abbattuto da un accolito."
 
 msgid "OB_MACIL"
-msgstr "%o non avrebbe mai dovuto opporsi a Macil. "
+msgstr "%o non avrebbe mai dovuto opporsi a Macil."
 
 msgid "OB_REBEL"
-msgstr "%o è stato colpito a morte da un Ribelle. "
+msgstr "%o è stato colpito a morte da un Ribelle."
 
 msgid "OB_BEGGAR"
-msgstr "%o è stato calpestato dalla povertà. "
+msgstr "%o è stato calpestato dalla povertà."
 
 msgid "OB_PEASANT"
-msgstr "%o non avrebbe mai dovuto prendersela con un civile. "
+msgstr "%o non avrebbe mai dovuto prendersela con un civile."
 
 msgid "OB_ALIENSPECTRE"
-msgstr "%o è stato abbattuto dallo Spettro. "
+msgstr "%o è stato abbattuto dallo Spettro."
 
 msgid "OB_ENTITY"
-msgstr "%o ha assistito all'ira dell'Unico Dio. "
+msgstr "%o ha assistito all'ira dell'Unico Dio."
 
 msgid "OB_LOREMASTER"
 msgstr "%o non è riuscito a sfuggire alla stretta del Sapiente."
 
 msgid "OB_PROGRAMMER"
-msgstr "%o è stato cancellato dal Programmatore. "
+msgstr "%o è stato cancellato dal Programmatore."
 
 msgid "OB_STFBISHOP"
-msgstr "%o è stato spazzato via dal Vescovo. "
+msgstr "%o è stato spazzato via dal Vescovo."
 
 msgid "OB_SENTINEL"
-msgstr "%o è stato impallinato dalla Sentinella. "
+msgstr "%o è stato impallinato dalla Sentinella."
 
 msgid "OB_CRUSADER"
-msgstr "%o è stato tolto di mezzo da un Crociato. "
+msgstr "%o è stato tolto di mezzo da un Crociato."
 
 msgid "OB_INQUISITOR"
-msgstr "%o è stato condannato da un Inquisitore. "
+msgstr "%o è stato condannato da un Inquisitore."
 
 msgid "OB_STALKER"
-msgstr "%o è stato violentato da un Cacciatore. "
+msgstr "%o è stato violentato da un Cacciatore."
 
 msgid "OB_TURRET"
-msgstr "%o ha attivato le difese automatiche. "
+msgstr "%o ha attivato le difese automatiche."
 
 msgid "OB_TEMPLARHIT"
-msgstr "%o è stato artigliato da un Templare. "
+msgstr "%o è stato artigliato da un Templare."
 
 msgid "OB_TEMPLAR"
-msgstr "%o è stato vaporizzato da un Templare. "
+msgstr "%o è stato vaporizzato da un Templare."
 
 msgid "OB_REAVERHIT"
-msgstr "%o è stato aperto a metà da un Saccheggiatore. "
+msgstr "%o è stato aperto a metà da un Saccheggiatore."
 
 msgid "OB_REAVER"
-msgstr "%o è stato colpito da un Saccheggiatore. "
+msgstr "%o è stato colpito da un Saccheggiatore."
 
 msgid "OB_MPPUNCHDAGGER"
 msgstr "%o è stato colto alle spalle da %k senza che se ne accorgesse."
@@ -2547,7 +2546,7 @@ msgid "TXT_STRIFE_EPI"
 msgstr "Alla ricerca del Sigillo"
 
 msgid "TXT_FREED_PRISONERS"
-msgstr "Hai liberato i prigionieri!\n"
+msgstr "Hai liberato i prigionieri!"
 
 msgid "TXT_DESTROYED_CONVERTER"
 msgstr "Hai distrutto i Convertitori!"
@@ -2696,7 +2695,7 @@ msgid "GOTMINIZORCHER"
 msgstr "Raccolto un mini zorcher."
 
 msgid "TAG_SPOON"
-msgstr "Cucchiaio "
+msgstr "Cucchiaio"
 
 msgid "TAG_SPORK"
 msgstr "Super Forcucchiaio"
@@ -2705,10 +2704,10 @@ msgid "TAG_MINIZORCHER"
 msgstr ""
 
 msgid "TAG_LARGEZORCHER"
-msgstr "Grosso Zorcher "
+msgstr "Grosso Zorcher"
 
 msgid "TAG_SUPERLARGEZORCHER"
-msgstr "Zorcher Enorme "
+msgstr "Zorcher Enorme"
 
 msgid "TAG_RAPIDZORCHER"
 msgstr "Zorcher Rapido"
@@ -2949,7 +2948,7 @@ msgid "CSKILL_BABY"
 msgstr "Facile no?"
 
 msgid "CSKILL_EASY"
-msgstr "Non così appiccicoso\n"
+msgstr "Non così appiccicoso"
 
 msgid "CSKILL_NORMAL"
 msgstr "Sputi di sostanza"
@@ -3086,7 +3085,7 @@ msgid "GMPLYMNU_FALLINGDAMAGE"
 msgstr "Danno da caduta"
 
 msgid "GMPLYMNU_DROPWEAPON"
-msgstr "Arma lasciata cadere\n"
+msgstr "Arma lasciata cadere"
 
 msgid "GMPLYMNU_DOUBLEAMMO"
 msgstr "Doppie munizioni"
@@ -3299,7 +3298,7 @@ msgid "CMPTMNU_USEBLOCKING"
 msgstr "Tutte le linee speciali possono bloccare il comando <usa>"
 
 msgid "CMPTMNU_ANYBOSSDEATH"
-msgstr "Qualunque morte del boss per le azioni speciali consentita\n"
+msgstr "Qualunque morte del boss per le azioni speciali consentita"
 
 msgid "CMPTMNU_NODOORLIGHT"
 msgstr "Disabilitato l'effetto Boom della luce della porta"
@@ -4464,7 +4463,7 @@ msgid "GLPREFMNU_ENV"
 msgstr "Modalità visione notturna migliorata"
 
 msgid "GLPREFMNU_ENVSTEALTH"
-msgstr "La VNM mostra i mostri stealth "
+msgstr "La VNM mostra i mostri stealth"
 
 msgid "GLPREFMNU_SPRCLIP"
 msgstr "Aggiusta il clipping degli sprite"
