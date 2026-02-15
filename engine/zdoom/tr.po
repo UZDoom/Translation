@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-15 18:10+0000\n"
+"PO-Revision-Date: 2026-02-15 21:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/tr/>\n"
@@ -1895,7 +1895,7 @@ msgid "TXT_SCANNER"
 msgstr "Tarayıcıyı aldın."
 
 msgid "TXT_NEEDMAP"
-msgstr "Tarayıcı harita olmadan çalışmaz!\n"
+msgstr "Tarayıcı harita olmadan çalışmaz!"
 
 msgid "TXT_PRISONPASS"
 msgstr "Hapishane kartını aldın."
