@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 19:10+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-15 16:09+0000\n"
+"Last-Translator: Aurorasphere <kraftwerkislove@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/common/ko/>"
 "\n"
 "Language: ko\n"
@@ -244,7 +244,7 @@ msgid "CNTRLMNU_CHAT"
 msgstr "채팅"
 
 msgid "MNU_MULTIPLAYER"
-msgstr ""
+msgstr "멀티플레이어"
 
 msgid "CNTRLMNU_SAY"
 msgstr "채팅하기"
@@ -1998,3 +1998,9 @@ msgstr ""
 
 msgid "JOYMNU_ANALOGSTRAFERUN"
 msgstr ""
+
+msgid "ACCMNU_TITLE"
+msgstr "접근성 설정"
+
+msgid "ACCMNU_RESET"
+msgstr "접근성 설정 초기화"
