@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-15 18:10+0000\n"
+"PO-Revision-Date: 2026-02-15 21:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hu/>\n"
@@ -1929,6 +1929,7 @@ msgstr "Felvetted a Degnin Ércet."
 msgid "TXT_SCANNER"
 msgstr "Felvetted a szkennert."
 
+#, fuzzy
 msgid "TXT_NEEDMAP"
 msgstr "Térkép nélkül nem fog működni a szkenner!"
 
@@ -3290,7 +3291,7 @@ msgid "CMPTMNU_ANYBOSSDEATH"
 msgstr "Főgonosz halála megengedett a speciális pályákon"
 
 msgid "CMPTMNU_NODOORLIGHT"
-msgstr "A BOOM ajtó fény effekt kikapcsolása "
+msgstr "A BOOM ajtó fény effekt kikapcsolása"
 
 msgid "CMPTMNU_LIGHT"
 msgstr "Szomszédos fényforrás keresése mint Doom-ban"
