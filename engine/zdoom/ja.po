@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-15 18:10+0000\n"
+"PO-Revision-Date: 2026-02-15 21:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ja/>\n"
@@ -276,7 +276,7 @@ msgid "HUSTR_TALKTOSELF2"
 msgstr "誰かいるか?"
 
 msgid "HUSTR_TALKTOSELF3"
-msgstr "怯えているな\n"
+msgstr "怯えているな"
 
 msgid "HUSTR_TALKTOSELF4"
 msgstr "イカレ始めた"
@@ -717,7 +717,7 @@ msgid "GOTMAP"
 msgstr "コンピューターエリアマップ"
 
 msgid "GOTVISOR"
-msgstr "暗視バイザー\n"
+msgstr "暗視バイザー"
 
 msgid "GOTMSPHERE"
 msgstr "メガスフィアー!"
@@ -1935,6 +1935,7 @@ msgstr "デグニン鉱石 取得。"
 msgid "TXT_SCANNER"
 msgstr "スキャナー 入手。"
 
+#, fuzzy
 msgid "TXT_NEEDMAP"
 msgstr "マップが無ければ スキャナーは機能しない!"
 
@@ -2940,10 +2941,10 @@ msgid "CSKILL_EASY"
 msgstr "ダラダラしない"
 
 msgid "CSKILL_NORMAL"
-msgstr "カッチカチスライム\n"
+msgstr "カッチカチスライム"
 
 msgid "CSKILL_HARD"
-msgstr "かげきなウーズ\n"
+msgstr "かげきなウーズ"
 
 msgid "CSKILL_NIGHTMARE"
 msgstr "ちょうベトベト!"
@@ -3452,7 +3453,7 @@ msgid "CNTRLMNU_TEAMSAY"
 msgstr "チーム内発言"
 
 msgid "CNTRLMNU_DROPITEM"
-msgstr "アイテムを捨てる\n"
+msgstr "アイテムを捨てる"
 
 msgid "CNTRLMNU_QUERYITEM"
 msgstr "アイテム名を表示"
@@ -4628,7 +4629,7 @@ msgid "TXT_LONER"
 msgstr "%s は今 一匹狼だ。"
 
 msgid "TXT_LEFTWITHFRAGS"
-msgstr "%s が逃げ出したので %d に点が入った\n"
+msgstr "%s が逃げ出したので %d に点が入った"
 
 msgid "TXT_LEFTTHEGAME"
 msgstr "%s は退出した"
@@ -4688,7 +4689,7 @@ msgstr "スクリーンショットを作成できなかった。"
 
 # As in paused by player %s.
 msgid "TXT_BY"
-msgstr "%s より\n"
+msgstr "%s より"
 
 msgid "HUDMNU_FLASH"
 msgstr "スクリーンブレンド オプション"
