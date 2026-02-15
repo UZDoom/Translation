@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-15 18:10+0000\n"
+"PO-Revision-Date: 2026-02-15 21:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/eo/>\n"
@@ -1937,6 +1937,7 @@ msgstr "Vi trovis degninan minaĵon."
 msgid "TXT_SCANNER"
 msgstr "Vi trovis skanilon."
 
+#, fuzzy
 msgid "TXT_NEEDMAP"
 msgstr "La skanilo ne funkcias sen mapo!"
 
