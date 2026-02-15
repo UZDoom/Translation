@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-15 18:10+0000\n"
+"PO-Revision-Date: 2026-02-15 21:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/nl/>\n"
@@ -1939,7 +1939,7 @@ msgid "TXT_SCANNER"
 msgstr "Je hebt de scanner opgepakt."
 
 msgid "TXT_NEEDMAP"
-msgstr "De scanner werkt niet zonder een kaart!\n"
+msgstr "De scanner werkt niet zonder een kaart!"
 
 msgid "TXT_PRISONPASS"
 msgstr "Je hebt de gevangenispas opgepakt."
