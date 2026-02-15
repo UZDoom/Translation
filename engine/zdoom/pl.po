@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 06:44+0000\n"
+"PO-Revision-Date: 2026-02-15 18:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/pl/>\n"
@@ -98,6 +98,7 @@ msgstr ""
 "Proszę, nie odchodź, jest więcej\n"
 "demonów do stostowania!"
 
+#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
 "Zmywajmy się stąd -- robi się\n"
@@ -113,6 +114,7 @@ msgstr ""
 "Próbujesz powiedzieć, że wolisz DOS\n"
 "ode mnie, prawda?"
 
+#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
 "Nie odchodź jeszcze -- demon czai\n"
@@ -4723,6 +4725,7 @@ msgstr "Szybkie wyjście"
 msgid "DSPLYMNU_CUSTOMINVERTMAP"
 msgstr "Niestandardowa inwersja kolory"
 
+#, fuzzy
 msgid "DSPLYMNU_CUSTOMINVERTC1"
 msgstr "Ciemny kolor do inwersji"
 
