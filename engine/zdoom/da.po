@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-13 22:44+0000\n"
+"PO-Revision-Date: 2026-02-15 18:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/da/>\n"
@@ -98,6 +98,7 @@ msgstr ""
 "Du må ikke gå, der er flere\n"
 "dæmoner at stege!!"
 
+#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
 "Lad os smutte - det her er\n"
@@ -113,6 +114,7 @@ msgstr ""
 "Du prøver at sige, at du bedre\n"
 "kan lide DOS end mig, ikke?"
 
+#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
 "Du må ikke gå endnu - der er en\n"
@@ -4715,6 +4717,7 @@ msgstr "Hurtig afslutning"
 msgid "DSPLYMNU_CUSTOMINVERTMAP"
 msgstr "Brugerdefinerede omvendte farver"
 
+#, fuzzy
 msgid "DSPLYMNU_CUSTOMINVERTC1"
 msgstr "Brugerdefineret omvendt farve mørk"
 
