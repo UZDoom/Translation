@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-15 18:10+0000\n"
+"PO-Revision-Date: 2026-02-15 21:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/nb_NO/>\n"
@@ -1896,7 +1896,7 @@ msgid "TXT_SCANNER"
 msgstr "Du plukket opp skanneren."
 
 msgid "TXT_NEEDMAP"
-msgstr "Skanneren virker ikke uten et kart!\n"
+msgstr "Skanneren virker ikke uten et kart!"
 
 msgid "TXT_PRISONPASS"
 msgstr "Du plukket opp fengselspasset."
