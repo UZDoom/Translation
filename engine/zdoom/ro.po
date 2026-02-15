@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-14 06:09+0000\n"
+"PO-Revision-Date: 2026-02-15 18:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ro/>\n"
@@ -96,10 +96,14 @@ msgid "DOSY"
 msgstr "(Apasă Y pentru a ieși)"
 
 msgid "QUITMSG1"
-msgstr "Te rog nu ieși, mai sunt demoni care trebuie prăjiți!"
+msgstr ""
+"Te rog nu ieși, mai sunt\n"
+"demoni care trebuie prăjiți!"
 
 msgid "QUITMSG2"
-msgstr "S-o lăsăm baltă -- se iscă un masacru!"
+msgstr ""
+"S-o lăsăm baltă—\n"
+"se iscă un masacru!"
 
 msgid "QUITMSG3"
 msgstr ""
@@ -112,7 +116,9 @@ msgstr ""
 "decât de mine, așa-i?"
 
 msgid "QUITMSG5"
-msgstr "Nu pleca încă -- e un demon după colț!"
+msgstr ""
+"Nu pleca încă—e un\n"
+"demon după colț!"
 
 msgid "QUITMSG6"
 msgstr "Să știi, data viitoare când treci pe-aici o să te prăjesc!"
@@ -4734,6 +4740,7 @@ msgstr "Ieșire Rapidă"
 msgid "DSPLYMNU_CUSTOMINVERTMAP"
 msgstr "Personalizați culorile când sunteți invulnerabil"
 
+#, fuzzy
 msgid "DSPLYMNU_CUSTOMINVERTC1"
 msgstr "Culoare închisă"
 
