@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-15 18:10+0000\n"
+"PO-Revision-Date: 2026-02-15 21:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/en/>\n"
@@ -1925,7 +1925,7 @@ msgid "TXT_SCANNER"
 msgstr "You picked up the scanner."
 
 msgid "TXT_NEEDMAP"
-msgstr "The scanner won't work without a map!\n"
+msgstr "The scanner won't work without a map!"
 
 msgid "TXT_PRISONPASS"
 msgstr "You picked up the Prison pass."
@@ -4707,7 +4707,6 @@ msgstr "Quick Exit"
 msgid "DSPLYMNU_CUSTOMINVERTMAP"
 msgstr "Custom Inverse Map"
 
-#, fuzzy
 msgid "DSPLYMNU_CUSTOMINVERTC1"
 msgstr "Custom Inverse Color Dark"
 
