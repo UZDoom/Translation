@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 06:44+0000\n"
+"PO-Revision-Date: 2026-02-15 18:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/de/>\n"
@@ -97,6 +97,7 @@ msgstr ""
 "Bitte gehe nicht, es gibt noch mehr\n"
 "Dämonen zu erledigen!"
 
+#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
 "Lass es uns beenden - das wird\n"
@@ -112,6 +113,7 @@ msgstr ""
 "Willst du sagen, dass du DOS\n"
 "mehr magst als ich?"
 
+#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
 "Bitte gehe noch nicht - hinter\n"
@@ -4729,7 +4731,7 @@ msgid "DSPLYMNU_CUSTOMINVERTMAP"
 msgstr "Benutzerdefinierte invertierte Farben"
 
 msgid "DSPLYMNU_CUSTOMINVERTC1"
-msgstr "Dunkle Farbe für Invertierung\n"
+msgstr "Dunkle Farbe für Invertierung"
 
 msgid "DSPLYMNU_CUSTOMINVERTC2"
 msgstr "Helle Farbe für Invertierung"
