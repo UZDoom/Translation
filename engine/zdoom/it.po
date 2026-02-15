@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-13 22:44+0000\n"
+"PO-Revision-Date: 2026-02-15 18:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/it/>\n"
@@ -97,6 +97,7 @@ msgstr ""
 "Per favore non uscire, ci sono altri\n"
 "demoni da ammazzare!"
 
+#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
 "Ammettiamolo - tutto ciò si sta\n"
@@ -112,6 +113,7 @@ msgstr ""
 "Stai cercando di dire che il DOS\n"
 "ti piace più di me, vero?"
 
+#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
 "Non abbandonare ora - c'è un\n"
@@ -4737,6 +4739,7 @@ msgstr "Uscita rapida"
 msgid "DSPLYMNU_CUSTOMINVERTMAP"
 msgstr "Mappa inversa personalizzata"
 
+#, fuzzy
 msgid "DSPLYMNU_CUSTOMINVERTC1"
 msgstr "Colore inverso personalizzato scuro"
 
