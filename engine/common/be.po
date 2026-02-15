@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-14 06:09+0000\n"
+"PO-Revision-Date: 2026-02-15 18:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/uzdoom/common/"
 "be/>\n"
@@ -78,7 +78,7 @@ msgid "SAVECOMMENT_TIME"
 msgstr "Час"
 
 msgid "MNU_LOADGAME"
-msgstr "Загрузіць гульню "
+msgstr "Загрузіць гульню"
 
 msgid "MNU_SAVEGAME"
 msgstr "Захаваць гульню "
@@ -87,10 +87,10 @@ msgid "MNU_NOPICTURE"
 msgstr "Няма выявы"
 
 msgid "MNU_DIFFVERSION"
-msgstr "Іншая версія "
+msgstr "Іншая версія"
 
 msgid "MNU_NOFILES"
-msgstr "Няма файлаў "
+msgstr "Няма файлаў"
 
 #, fuzzy
 msgid "MNU_DELETESG"
