@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-13 22:44+0000\n"
+"PO-Revision-Date: 2026-02-15 18:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/cs/>\n"
@@ -97,6 +97,7 @@ msgstr ""
 "Nenechávej mě tu, je tu\n"
 "víc démonů k vymletí!"
 
+#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
 "Utečme -- začíná\n"
@@ -112,6 +113,7 @@ msgstr ""
 "Chceš mi říct, že máš\n"
 "radši DOS než mě?"
 
+#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
 "Ještě nechoď -- tam\n"
@@ -4725,6 +4727,7 @@ msgstr "Rychlé ukončení"
 msgid "DSPLYMNU_CUSTOMINVERTMAP"
 msgstr "Vlastní inverzní barvení"
 
+#, fuzzy
 msgid "DSPLYMNU_CUSTOMINVERTC1"
 msgstr "Vlastní inverzní tmavá barva"
 
