@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 06:44+0000\n"
+"PO-Revision-Date: 2026-02-15 18:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hu/>\n"
@@ -94,10 +94,14 @@ msgid "DOSY"
 msgstr "(Nyomj Y-t a kilépéshez.)"
 
 msgid "QUITMSG1"
-msgstr "Kérlek ne lépj le, sok démon vár még arra, hogy felaprítsd!"
+msgstr ""
+"Kérlek ne lépj le, sok démon\n"
+"vár még arra, hogy felaprítsd!"
 
 msgid "QUITMSG2"
-msgstr "Tűnjünk innen, ebből vérfürdő lesz!"
+msgstr ""
+"Tűnjünk innen,\n"
+"ebből vérfürdő lesz!"
 
 msgid "QUITMSG3"
 msgstr ""
@@ -110,7 +114,9 @@ msgstr ""
 "a DOS jobb nálam?"
 
 msgid "QUITMSG5"
-msgstr "Még ne menj -- a sarkon túl még vár rád egy démon!"
+msgstr ""
+"Még ne menj—a sarkon\n"
+"túl még vár rád egy démon!"
 
 msgid "QUITMSG6"
 msgstr ""
@@ -4718,6 +4724,7 @@ msgstr "Gyors kilépés"
 msgid "DSPLYMNU_CUSTOMINVERTMAP"
 msgstr "Egyéni inverz pálya"
 
+#, fuzzy
 msgid "DSPLYMNU_CUSTOMINVERTC1"
 msgstr "Egyéni inverz sötét szín"
 
