@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-15 18:10+0000\n"
+"PO-Revision-Date: 2026-02-15 21:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/pl/>\n"
@@ -1438,7 +1438,7 @@ msgid "TXT_ARTIPOISONBAG"
 msgstr "Flaszka"
 
 msgid "TXT_ARTITELEPORTOTHER"
-msgstr "Urządzenie Wygnania "
+msgstr "Urządzenie Wygnania"
 
 msgid "TXT_ARTISPEED"
 msgstr "Buty Szybkości"
@@ -1708,7 +1708,7 @@ msgid "TAG_ARTISUMMON"
 msgstr "Mroczny Sługa"
 
 msgid "TAG_ARTITELEPORTOTHER"
-msgstr "Urządzenie Wygnania "
+msgstr "Urządzenie Wygnania"
 
 msgid "TAG_ARTIPUZZSKULL"
 msgstr "Czaszka Yoricka"
@@ -1798,7 +1798,7 @@ msgid "OB_WRAITH"
 msgstr "%o został@[ao_pl] zwęglon@[adj_pl] przez Rozbójnika."
 
 msgid "OB_WRAITHHIT"
-msgstr "Życie %o zostało skradzione przez Rozbójnika.\n"
+msgstr "Życie %o zostało skradzione przez Rozbójnika."
 
 msgid "OB_DRAGON"
 msgstr "%o został@[ao_pl] spalon@[adj_pl] przez Wiwernę Śmierci."
@@ -1932,6 +1932,7 @@ msgstr "Podniosł@[irreg_3_pl] Rudę Degninu."
 msgid "TXT_SCANNER"
 msgstr "Podniosł@[irreg_3_pl] skaner."
 
+#, fuzzy
 msgid "TXT_NEEDMAP"
 msgstr "Skaner nie zadziała bez mapy!"
 
@@ -2470,7 +2471,7 @@ msgid "OB_LOREMASTER"
 msgstr "%o nie m@[irreg_4_pl] uniknąć chwytu Mędrca."
 
 msgid "OB_PROGRAMMER"
-msgstr "%o został@[ao_pl] usunięt@[adj_pl] przez Programistę.\n"
+msgstr "%o został@[ao_pl] usunięt@[adj_pl] przez Programistę."
 
 msgid "OB_STFBISHOP"
 msgstr "%o został@[ao_pl] wysadzon@[adj_pl] przez Biskupa."
@@ -2715,7 +2716,7 @@ msgid "TAG_LAZDEVICE"
 msgstr "Urządzenie LAZ"
 
 msgid "OB_COMMONUS"
-msgstr "%o został@[ao_pl] oszlamion@[adj_pl] przez flemoida.\n"
+msgstr "%o został@[ao_pl] oszlamion@[adj_pl] przez flemoida."
 
 msgid "OB_BIPEDICUS"
 msgstr "%o został@[ao_pl] oszlamion@[adj_pl] przez bipedicusa."
@@ -3155,7 +3156,7 @@ msgid "GMPLYMNU_KILLBOSSSPAWNS"
 msgstr "Śmierć Ikony zabija stworzone przez nią potwory"
 
 msgid "GMPLYMNU_NOCOUNTENDMONSTER"
-msgstr "Zliczanie potworów w sektorze kończącym poziom\n"
+msgstr "Zliczanie potworów w sektorze kończącym poziom"
 
 msgid "GMPLYMNU_DEATHMATCH"
 msgstr "Ustawienia Deathmatchu"
@@ -3752,10 +3753,10 @@ msgid "ALTHUDMNU_AMMOORDER"
 msgstr "Kolejność pokazywania amunicji"
 
 msgid "ALTHUDMNU_AMMORED"
-msgstr "Wyświetl czerwoną amunicję pod "
+msgstr "Wyświetl czerwoną amunicję pod"
 
 msgid "ALTHUDMNU_AMMOYELLOW"
-msgstr "Wyświetl żółtą amunicję pod "
+msgstr "Wyświetl żółtą amunicję pod"
 
 msgid "ALTHUDMNU_HEALTHRED"
 msgstr "Wyświetl czerwone zdrowie pod"
@@ -3767,13 +3768,13 @@ msgid "ALTHUDMNU_HEALTHGREEN"
 msgstr "Wyświetl zielone zdrowie pod"
 
 msgid "ALTHUDMNU_ARMORRED"
-msgstr "Wyświetl czerwony pancerz pod "
+msgstr "Wyświetl czerwony pancerz pod"
 
 msgid "ALTHUDMNU_ARMORYELLOW"
-msgstr "Wyświetl żółty pancerz pod "
+msgstr "Wyświetl żółty pancerz pod"
 
 msgid "ALTHUDMNU_ARMORGREEN"
-msgstr "Wyświetl zielony pancerz pod "
+msgstr "Wyświetl zielony pancerz pod"
 
 msgid "ALTHUDMNU_AUTOMAPHUD"
 msgstr "Alternatywny HUD mapy"
@@ -4506,7 +4507,7 @@ msgid "OPTVAL_ANYFIXEDCOLORMAP"
 msgstr "Którekolwiek naprawione mapy kolorów"
 
 msgid "OPTVAL_USEASPALETTE"
-msgstr "Użyj jako palety\n"
+msgstr "Użyj jako palety"
 
 msgid "OPTVAL_BLEND"
 msgstr "Połącz"
@@ -4640,7 +4641,7 @@ msgid "TXT_COULDNOTREAD"
 msgstr "Nie można odczytać zapisu „%s”."
 
 msgid "TXT_NOINFOJSON"
-msgstr "„%s” nie jest prawidłowym zapisem gry: Brak „info.json”\n"
+msgstr "„%s” nie jest prawidłowym zapisem gry: Brak „info.json”"
 
 msgid "TXT_FAILEDTOREADSG"
 msgstr "Nie udało się dostać informacji zapisu „%s”."
