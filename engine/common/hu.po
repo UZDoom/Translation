@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 19:10+0000\n"
+"PO-Revision-Date: 2026-02-15 21:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/uzdoom/common/"
 "hu/>\n"
@@ -247,7 +247,7 @@ msgid "MNU_MULTIPLAYER"
 msgstr "Többjátékos"
 
 msgid "CNTRLMNU_SAY"
-msgstr "Üzenet "
+msgstr "Üzenet"
 
 msgid "CNTRLMNU_CHAT_TITLE"
 msgstr "Chatbeállítások testreszabása"
