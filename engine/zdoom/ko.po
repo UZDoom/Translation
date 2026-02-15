@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-15 18:10+0000\n"
+"PO-Revision-Date: 2026-02-15 21:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ko/>\n"
@@ -474,7 +474,7 @@ msgid "SPREE20"
 msgstr "%k 을(를) 막을 수없습니다!"
 
 msgid "SPREE25"
-msgstr "%k 은(는) 신적입니다! "
+msgstr "%k 은(는) 신적입니다!"
 
 msgid "MULTI2"
 msgstr "더블 킬!"
@@ -1896,6 +1896,7 @@ msgstr "데그닌 광석을 획득했다."
 msgid "TXT_SCANNER"
 msgstr "탐지기를 획득했다."
 
+#, fuzzy
 msgid "TXT_NEEDMAP"
 msgstr "지도 없이는 탐지기를 사용할 수 없다!"
 
@@ -3904,7 +3905,7 @@ msgid "HUDMNU_FORCECROSSHAIR"
 msgstr "기본 조준점 강제 설정"
 
 msgid "HUDMNU_GROWCROSSHAIR"
-msgstr "아이템 획득 시 조준점 키우기 "
+msgstr "아이템 획득 시 조준점 키우기"
 
 msgid "HUDMNU_NAMETAGS"
 msgstr "이름표 표시"
