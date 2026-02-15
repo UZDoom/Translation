@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 08:09+0000\n"
-"Last-Translator: dwing <12104745@qq.com>\n"
+"PO-Revision-Date: 2026-02-15 18:10+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -97,6 +97,7 @@ msgstr ""
 "别走嘛，还有好多恶魔\n"
 "等着你来干掉咧！"
 
+#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
 "快撤吧 — 离开\n"
@@ -112,6 +113,7 @@ msgstr ""
 "你想说你比起我，\n"
 "更爱DOS是吗？"
 
+#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
 "先别急着走 — 转角\n"
@@ -4715,7 +4717,7 @@ msgid "DSPLYMNU_CUSTOMINVERTMAP"
 msgstr "自定义反色地图"
 
 msgid "DSPLYMNU_CUSTOMINVERTC1"
-msgstr "自定义反色 深色\n"
+msgstr "自定义反色 深色"
 
 msgid "DSPLYMNU_CUSTOMINVERTC2"
 msgstr "自定义反色 亮色"
