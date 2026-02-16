@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "PO-Revision-Date: 2026-02-17 00:09+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"Last-Translator: Haydar Can Karabacak <haydarcan_2003@hotmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/uzdoom/common/"
 "tr/>\n"
 "Language: tr\n"
@@ -754,10 +754,10 @@ msgid "OPTSTR_AUTO"
 msgstr "Otomatik"
 
 msgid "OPTSTR_MONO"
-msgstr ""
+msgstr "Mono"
 
 msgid "OPTSTR_STEREO"
-msgstr ""
+msgstr "Stereo"
 
 msgid "OPTSTR_PROLOGIC"
 msgstr "Dolby Pro Logic Dekoder"
@@ -1035,13 +1035,13 @@ msgid "OPTVAL_DUMB"
 msgstr "Aptal"
 
 msgid "MODMNU_CHIPOMATIC"
-msgstr "Çip makinesi"
+msgstr "Çip-matik"
 
 msgid "OPTVAL_MAMEOPL2"
 msgstr ""
 
 msgid "OPTVAL_DOSBOXOPL3"
-msgstr ""
+msgstr "DOSKutusu OPL3"
 
 msgid "OPTVAL_JAVAOPL3"
 msgstr ""
