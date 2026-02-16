@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 22:09+0000\n"
-"Last-Translator: egoranuchin <Egoranuchin@gmail.com>\n"
+"PO-Revision-Date: 2026-02-17 00:10+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/common/"
 "ru/>\n"
 "Language: ru\n"
@@ -1194,19 +1194,15 @@ msgstr "Использовать любые освободившиеся"
 msgid "OPTVAL_UNLIMITED"
 msgstr "Без ограничений"
 
-#, fuzzy
 msgid "OPTVAL_256K"
 msgstr "256K"
 
-#, fuzzy
 msgid "OPTVAL_512K"
 msgstr "512K"
 
-#, fuzzy
 msgid "OPTVAL_768K"
 msgstr "768K"
 
-#, fuzzy
 msgid "OPTVAL_1024K"
 msgstr "1024K"
 
@@ -1324,11 +1320,9 @@ msgstr "Билинейная"
 msgid "OPTVAL_TRILINEAR"
 msgstr "Трилинейная"
 
-#, fuzzy
 msgid "OPTVAL_2X"
 msgstr "2x"
 
-#, fuzzy
 msgid "OPTVAL_4X"
 msgstr "4x"
 
