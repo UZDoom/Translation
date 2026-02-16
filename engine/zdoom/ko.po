@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 22:10+0000\n"
+"PO-Revision-Date: 2026-02-16 22:39+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ko/>\n"
@@ -166,7 +166,9 @@ msgstr ""
 "날리지 않는 게 다행인 줄 알아."
 
 msgid "QUITMSG15"
-msgstr "어딜 가는 거야?! 저항군은 어쩌고?"
+msgstr ""
+"어딜 가는 거야?!\n"
+"저항군은 어쩌고?"
 
 msgid "QUITMSG16"
 msgstr ""
@@ -174,14 +176,15 @@ msgstr ""
 "놀리는구먼!"
 
 msgid "QUITMSG17"
-msgstr "하지만 넌 희망이야- 나의 유일한 기회라고!!"
+msgstr ""
+"하지만 넌 희망이야\n"
+"—나의 유일한 기회라고!!"
 
 msgid "QUITMSG18"
 msgstr "그 누구도 블랙버드를 내 버릴 수 없지."
 
-#, fuzzy
 msgid "QUITMSG19"
-msgstr "난 네가 다를 줄 알았는데..."
+msgstr "난 네가 다를 줄 알았는데…"
 
 msgid "QUITMSG20"
 msgstr "그래그래 알았다! 그럼 그냥 뛰고 죽이기나 해!"
