@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-15 21:09+0000\n"
+"PO-Revision-Date: 2026-02-16 03:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/el/>\n"
@@ -98,10 +98,9 @@ msgstr ""
 "Παρακαλώ μη φύγεις, υπάρχουνε\n"
 "περισσότεροi δαίμονες να ψήσεις!"
 
-#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
-"Πάεμε να φύγουμε —\n"
+"Πάεμε να φύγουμε—\n"
 "έχει γίνει σφαγίο εδώ!"
 
 msgid "QUITMSG3"
@@ -120,7 +119,9 @@ msgstr ""
 "δαίμονας πίσω απο αυτή τι γονία!"
 
 msgid "QUITMSG6"
-msgstr "Ξέρεις, την επόμενη φορά που θα έρθεις εδώ, θα σε ψήσω."
+msgstr ""
+"Ξέρεις, την επόμενη φορά που\n"
+"θα έρθεις εδώ, θα σε ψήσω."
 
 msgid "QUITMSG7"
 msgstr "Φύγε, δες αν νιάζομαι."

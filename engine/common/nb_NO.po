@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-13 06:10+0000\n"
+"PO-Revision-Date: 2026-02-16 03:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/uzdoom/"
 "common/nb_NO/>\n"
@@ -94,7 +94,6 @@ msgstr "Annen versjon"
 msgid "MNU_NOFILES"
 msgstr "Ingen filer"
 
-#, fuzzy
 msgid "MNU_DELETESG"
 msgstr "Vil du virkelig slette lagringsspillet?"
 

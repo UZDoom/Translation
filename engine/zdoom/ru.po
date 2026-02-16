@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-15 21:10+0000\n"
+"PO-Revision-Date: 2026-02-16 03:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ru/>\n"
@@ -98,10 +98,9 @@ msgstr ""
 "Пожалуйста, не уходи,\n"
 "тут ещё полно демонов для поджарки!"
 
-#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
-"Давай покончим с этим — оно превращается\n"
+"Давай покончим с этим—оно превращается\n"
 "в кровавую баню!"
 
 msgid "QUITMSG3"

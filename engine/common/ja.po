@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 19:10+0000\n"
+"PO-Revision-Date: 2026-02-16 03:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/uzdoom/common/"
 "ja/>\n"
@@ -92,7 +92,6 @@ msgstr "別バージョンの データ"
 msgid "MNU_NOFILES"
 msgstr "ファイル無し"
 
-#, fuzzy
 msgid "MNU_DELETESG"
 msgstr "本当にこのセーブを消すのか?"
 

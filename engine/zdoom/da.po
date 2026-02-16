@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-15 21:10+0000\n"
+"PO-Revision-Date: 2026-02-16 03:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/da/>\n"
@@ -98,10 +98,9 @@ msgstr ""
 "Du må ikke gå, der er flere\n"
 "dæmoner at stege!!"
 
-#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
-"Lad os smutte - det her er\n"
+"Lad os smutte—det her er\n"
 "ved at blive et blodbad!"
 
 msgid "QUITMSG3"
@@ -132,7 +131,7 @@ msgstr "Gå bare. Se om jeg er ligeglad."
 msgid "QUITMSG8"
 msgstr ""
 "Vil du gå?\n"
-"Har du mistet forstanden?"
+"Har du mistet forstanden!"
 
 # A “dimensional shambler” is a creature appearing in the works of H. P.
 # Lovecraft.

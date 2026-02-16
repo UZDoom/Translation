@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-15 21:10+0000\n"
+"PO-Revision-Date: 2026-02-16 03:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fi/>\n"
@@ -120,7 +120,9 @@ msgstr ""
 "kulman takana on demoni!"
 
 msgid "QUITMSG6"
-msgstr "Tiiäthän, että käristän sut, kun seuraavalla kerralla tuut tänne."
+msgstr ""
+"Tiiäthän, että käristän sut,\n"
+"kun seuraavalla kerralla tuut tänne."
 
 msgid "QUITMSG7"
 msgstr "Ole hyvä vain ja lähde. Arvaa, välitänkö."
@@ -129,7 +131,7 @@ msgstr "Ole hyvä vain ja lähde. Arvaa, välitänkö."
 msgid "QUITMSG8"
 msgstr ""
 "Haluat siis lopettaa?\n"
-"Oletko menettänyt järkesi?"
+"Oletko menettänyt järkesi!"
 
 # A “dimensional shambler” is a creature appearing in the works of H. P.
 # Lovecraft.
