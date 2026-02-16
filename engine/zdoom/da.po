@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "PO-Revision-Date: 2026-02-16 22:10+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/da/>\n"
 "Language: da\n"
@@ -20,7 +20,6 @@ msgstr "Tryk på en tast."
 msgid "SECRETMESSAGE"
 msgstr "En hemmelighed bliver afsløret!"
 
-#, fuzzy
 msgid "D_DEVSTR"
 msgstr "Ubrugelig tilstand slået til."
 
@@ -113,10 +112,9 @@ msgstr ""
 "Du prøver at sige, at du bedre\n"
 "kan lide DOS end mig, ikke?"
 
-#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
-"Du må ikke gå endnu - der er en\n"
+"Du må ikke gå endnu—der er en\n"
 "dæmon rundt om det hjørne!"
 
 msgid "QUITMSG6"
