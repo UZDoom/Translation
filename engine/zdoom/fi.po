@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 22:10+0000\n"
+"PO-Revision-Date: 2026-02-16 22:40+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fi/>\n"
@@ -178,14 +178,13 @@ msgstr ""
 msgid "QUITMSG17"
 msgstr ""
 "Mutta sinä olet toivo\n"
-"-- ainoa mahdollisuuteni!!"
+"—ainoa mahdollisuuteni!!"
 
 msgid "QUITMSG18"
 msgstr "Kukaan ei käännä selkäänsä Blackbirdille."
 
-#, fuzzy
 msgid "QUITMSG19"
-msgstr "Luulin, että olit erilainen kuin muut..."
+msgstr "Luulin, että olit erilainen kuin muut…"
 
 msgid "QUITMSG20"
 msgstr "Hyvä! Senkun vain tapat ja lähdet!"
