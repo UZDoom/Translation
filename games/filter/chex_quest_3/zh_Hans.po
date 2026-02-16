@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-07 10:04+0000\n"
+"PO-Revision-Date: 2026-02-16 03:12+0000\n"
 "Last-Translator: yhmtxt <yhmtxt@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/doom-engine-games/chex-quest-3-filter/zh_Hans/>\n"
@@ -99,25 +99,25 @@ msgid "HUSTR_E3M5"
 msgstr "E3M5: 陨石飞船"
 
 msgid "CC_ZOMBIE"
-msgstr "常见种"
+msgstr "常见型"
 
 msgid "CC_SHOTGUN"
-msgstr "双足种"
+msgstr "双足型"
 
 msgid "CC_IMP"
-msgstr "披甲双足种"
+msgstr "披甲双足型"
 
 msgid "CC_DEMON"
-msgstr "阔步种"
+msgstr "阔步型"
 
 msgid "CC_LOST"
 msgstr "黏液地雷"
 
 msgid "CC_CACO"
-msgstr "超级独眼种"
+msgstr "超级独眼型"
 
 msgid "CC_BARON"
-msgstr "巨形种"
+msgstr "极巨型"
 
 msgid "CC_SPIDER"
 msgstr "黏液怪物"
@@ -159,22 +159,22 @@ msgid "OB_KILLEDSELF"
 msgstr "%o被跨维度黏液击中了！"
 
 msgid "OB_STRIDICUS"
-msgstr "%o被黏液怪阔步种喷满了鼻涕。"
+msgstr "%o被阔步型黏液怪喷满了鼻涕。"
 
 msgid "OB_FLEMMINE"
 msgstr "%o被黏液地雷黏住了。"
 
 msgid "OB_SUPERCYCLOPTIS"
-msgstr "%o被黏液怪超级独眼种喷满了黏液。"
+msgstr "%o被超级独眼型黏液怪喷满了黏液。"
 
 msgid "OB_MAXIMUS"
-msgstr "%o被黏液怪巨形种击败了。"
+msgstr "%o被极巨型黏液怪击败了。"
 
 msgid "OB_LARVA"
 msgstr "%o被黏液怪幼体吐满了黏液。"
 
 msgid "OB_QUADRUMPUS"
-msgstr "%o被黏液怪四臂种喷满了黏液。"
+msgstr "%o被四臂型黏液怪喷满了黏液。"
 
 msgid "OB_FLEMBOMINATION"
 msgstr "%o被黏液怪物击败了。"
