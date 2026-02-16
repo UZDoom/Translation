@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 22:40+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-17 00:10+0000\n"
+"Last-Translator: Ret Neychozken <retneychozken@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/es_MX/>\n"
 "Language: es_MX\n"
@@ -120,6 +120,8 @@ msgstr ""
 
 msgid "QUITMSG6"
 msgstr ""
+"La proxima vez que vengas\n"
+"aqui acabaré contigo."
 
 msgid "QUITMSG7"
 msgstr "Vete fuera de aqui. No me importa."
@@ -135,7 +137,7 @@ msgstr ""
 msgid "QUITMSG9"
 msgstr ""
 "¡No te vayas ahora, hay un\n"
-"dimensional shambler esperando\n"
+"shambler dimensional esperando\n"
 "en la línea de comandos de DOS!"
 
 msgid "QUITMSG10"
@@ -145,6 +147,8 @@ msgstr ""
 
 msgid "QUITMSG11"
 msgstr ""
+"¡Si fuera tu jefe, te retaría a\n"
+"un deathmatch en un minuto!"
 
 msgid "QUITMSG12"
 msgstr ""
@@ -179,7 +183,7 @@ msgid "QUITMSG19"
 msgstr "Creí que eras diferente…"
 
 msgid "QUITMSG20"
-msgstr ""
+msgstr "¡Bien, solo mata y corre!"
 
 #, fuzzy
 msgid "QUITMSG21"
