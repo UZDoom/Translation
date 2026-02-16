@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 22:09+0000\n"
+"PO-Revision-Date: 2026-02-16 22:40+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hu/>\n"
@@ -169,23 +169,21 @@ msgstr ""
 "Hová mész?!\n"
 "És a forradalommal mi lesz?"
 
-#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
-"Carnage interruptus...\n"
+"Carnage interruptus…\n"
 "Micsoda fenyegetés!"
 
 msgid "QUITMSG17"
 msgstr ""
 "Te vagy a remény\n"
-"-- az egyetlen esélyem!"
+"—az egyetlen esélyem!"
 
 msgid "QUITMSG18"
-msgstr "Senki nem kezdhet ki a Feketerigóval!"
+msgstr "Senki nem kezdhet ki a Feketerigóval."
 
-#, fuzzy
 msgid "QUITMSG19"
-msgstr "Azt hittem te más vagy..."
+msgstr "Azt hittem te más vagy…"
 
 msgid "QUITMSG20"
 msgstr "Oké! Csak ölj és fuss!"
