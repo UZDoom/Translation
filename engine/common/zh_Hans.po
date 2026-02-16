@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 19:10+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-16 22:10+0000\n"
+"Last-Translator: dwing <12104745@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/common/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.16-dev\n"
+"X-Generator: Weblate 5.16\n"
 "X-HeaderCode: zho\n"
 
 msgid "PRESSYN"
@@ -1296,18 +1296,23 @@ msgstr "双线性"
 msgid "OPTVAL_TRILINEAR"
 msgstr "三线性"
 
+#, fuzzy
 msgid "OPTVAL_2X"
 msgstr "2x"
 
+#, fuzzy
 msgid "OPTVAL_4X"
 msgstr "4x"
 
+#, fuzzy
 msgid "OPTVAL_8X"
 msgstr "8x"
 
+#, fuzzy
 msgid "OPTVAL_16X"
 msgstr "16x"
 
+#, fuzzy
 msgid "OPTVAL_32X"
 msgstr "32x"
 
