@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 22:09+0000\n"
+"PO-Revision-Date: 2026-02-16 22:39+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ru/>\n"
@@ -170,23 +170,21 @@ msgstr ""
 "Куда ты собрался?!\n"
 "А как же восстание?"
 
-#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
-"Вот так всегда...\n"
+"Вот так всегда…\n"
 "На самом интересном месте!"
 
 msgid "QUITMSG17"
 msgstr ""
-"Но на тебя вся надежда —\n"
-"ты мой единственный шанс!"
+"Но на тебя вся надежда\n"
+"—ты мой единственный шанс!"
 
 msgid "QUITMSG18"
 msgstr "Ещё никто не ушёл от «Чёрного дрозда»."
 
-#, fuzzy
 msgid "QUITMSG19"
-msgstr "Я думал о тебе иначе..."
+msgstr "Я думал о тебе иначе…"
 
 msgid "QUITMSG20"
 msgstr "Отлично! Пострелял и смылся!"
