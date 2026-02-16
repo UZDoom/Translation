@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 22:10+0000\n"
+"PO-Revision-Date: 2026-02-16 22:39+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/el/>\n"
@@ -166,20 +166,23 @@ msgstr ""
 "χτυπάω που σκέφτεσε να φύγεις."
 
 msgid "QUITMSG15"
-msgstr "Που πάς ? Τί θα συμβεί στην επανάσταση ?"
+msgstr ""
+"Που πάς ?\n"
+"Τί θα συμβεί στην επανάσταση ?"
 
 msgid "QUITMSG16"
 msgstr ""
 
 msgid "QUITMSG17"
-msgstr "Αλλά εσύ είσε η ελπίδα -- η μόνη μου ευκαιρία!"
+msgstr ""
+"Αλλά εσύ είσε η ελπίδα\n"
+"—η μόνη μου ευκαιρία!"
 
 msgid "QUITMSG18"
 msgstr "Κανένας δεν παρατάει τον Μπλακμπερτ."
 
-#, fuzzy
 msgid "QUITMSG19"
-msgstr "Νόμιζα οτι είσουν διαφορετικός..."
+msgstr "Νόμιζα οτι είσουν διαφορετικός…"
 
 msgid "QUITMSG20"
 msgstr "Καλά! Απλώς σκότοσε και φύγε!"
