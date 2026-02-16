@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 03:10+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-16 22:10+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/nl/>\n"
 "Language: nl\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16-dev\n"
+"X-Generator: Weblate 5.16\n"
 "X-HeaderCode: nl\n"
 
 msgid "PRESSKEY"
@@ -4654,20 +4654,22 @@ msgstr "Savegame '%s' komt uit een incompatibele versie."
 msgid "TXT_OTHERENGINESG"
 msgstr "Savegame '%s' is van een andere ZDoom-gebaseerde engine:"
 
+#, fuzzy
 msgid "TXT_TOOOLDSG"
 msgstr ""
-"Savegame '%s' is van een oudere versie: %d "
-"(%e is de oudste ondersteunde versie)"
+"Savegame '%s' is van een oudere versie: %d (%e is de oudste ondersteunde "
+"versie)"
 
 # Shouldn’t this say “%e is the newest supported”?
 # 
 # — Undead
 # 
 # Ask Randi: The text is old. I won't change it.
+#, fuzzy
 msgid "TXT_TOONEWSG"
 msgstr ""
-"Savegame '%s' is van een nieuwere versie: %d "
-"(%e is de hoogst ondersteunde versie)"
+"Savegame '%s' is van een nieuwere versie: %d (%e is de hoogst ondersteunde "
+"versie)"
 
 msgid "TXT_NOMAPSG"
 msgstr "Savegame '%s' mist de huidige kaart."
