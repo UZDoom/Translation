@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-15 21:10+0000\n"
+"PO-Revision-Date: 2026-02-16 03:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/tr/>\n"
@@ -120,14 +120,17 @@ msgstr ""
 
 msgid "QUITMSG6"
 msgstr ""
-"Biliyor musun, bir dahaki sefere buraya geldiğinde seni tost yapacağım."
+"Biliyor musun, bir dahaki sefere buraya\n"
+"geldiğinde seni tost yapacağım."
 
 msgid "QUITMSG7"
-msgstr "Devam et ve git. Bakalım umurumda olacak mı?"
+msgstr "Devam et ve git. Çok da umurumdaydı."
 
 # More info here.
 msgid "QUITMSG8"
-msgstr "Bırakmak mı istiyorsun? O zaman sekizde birini kaybettin!"
+msgstr ""
+"Bırakmak mı istiyorsun?\n"
+"O zaman sekizde birini kaybettin!"
 
 # A “dimensional shambler” is a creature appearing in the works of H. P.
 # Lovecraft.
