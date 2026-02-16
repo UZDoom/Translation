@@ -32,6 +32,7 @@ def remap(str):
 		.replace("‐", "-")\
 		.replace("–", "-")\
 		.replace("—", "-")\
+		.replace("×", "x")\
 		.replace(" ", " ")
 
 def fill_dict(path):
