@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 22:11+0000\n"
-"Last-Translator: SecularSteve <fairfull.playing@gmail.com>\n"
+"PO-Revision-Date: 2026-02-17 00:09+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English (United Kingdom) <https://hosted.weblate.org/projects/"
 "uzdoom/common/en_GB/>\n"
 "Language: en_GB\n"
@@ -1296,25 +1296,20 @@ msgstr "Bilinear"
 msgid "OPTVAL_TRILINEAR"
 msgstr "Trilinear"
 
-#, fuzzy
 msgid "OPTVAL_2X"
-msgstr "2x"
+msgstr "2×"
 
-#, fuzzy
 msgid "OPTVAL_4X"
-msgstr "4x"
+msgstr "4×"
 
-#, fuzzy
 msgid "OPTVAL_8X"
-msgstr "8x"
+msgstr "8×"
 
-#, fuzzy
 msgid "OPTVAL_16X"
-msgstr "16x"
+msgstr "16×"
 
-#, fuzzy
 msgid "OPTVAL_32X"
-msgstr "32x"
+msgstr "32×"
 
 msgid "GLTEXMNU_TITLE"
 msgstr "Texture Options"
