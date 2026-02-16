@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 22:39+0000\n"
+"PO-Revision-Date: 2026-02-17 00:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/tr/>\n"
@@ -309,7 +309,7 @@ msgstr "Klipsleme Yok Modu 2 KAPALI"
 # “Allmap”: Computer area map
 # “Lite-amp”: Light-amplification visor
 msgid "STSTR_BEHOLD"
-msgstr ""
+msgstr "ölmszV, güçS, görnmzİ, Radyas, haritA yada gece-görüşL"
 
 msgid "STSTR_BEHOLDX"
 msgstr "Güç Açma Değiştirildi"
@@ -554,7 +554,7 @@ msgid "TXT_IMTIME"
 msgstr "Zaman"
 
 msgid "TXT_IMPAR"
-msgstr ""
+msgstr "Standart"
 
 msgid "WI_FINISHED"
 msgstr "Bitti"
@@ -685,7 +685,7 @@ msgid "GOTINVUL"
 msgstr "Dokunulmazlık!"
 
 msgid "GOTBERSERK"
-msgstr "Çılgınlık!"
+msgstr "Herşeyi yumruklamak istiyorsun!"
 
 msgid "GOTINVIS"
 msgstr "Kısmi Görünmezlik"
