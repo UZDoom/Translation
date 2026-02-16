@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 22:40+0000\n"
+"PO-Revision-Date: 2026-02-17 00:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fr/>\n"
@@ -406,7 +406,7 @@ msgid "TXT_STRANGER"
 msgstr "Vous vous sentez très mal à l'aise..."
 
 msgid "TXT_NOTSTRANGE"
-msgstr "Vous vous sentez mieux."
+msgstr "Vous vous sentez vachement moins mal à l'aise."
 
 msgid "TXT_LEADBOOTSON"
 msgstr "Bottes en plomb ON"
@@ -439,10 +439,10 @@ msgid "TXT_CHASECAM_OFF"
 msgstr ""
 
 msgid "TXT_BADDIE_KILLED"
-msgstr "1 enemi tué"
+msgstr "1 ennemi tué"
 
 msgid "TXT_BADDIES_KILLED"
-msgstr "%d enemis tués"
+msgstr "%d ennemis tués"
 
 msgid "TXT_MONSTER_KILLED"
 msgstr "1 monstre tué"
@@ -594,10 +594,10 @@ msgid "AM_ITEMS"
 msgstr "Objets :"
 
 msgid "OB_SUICIDE"
-msgstr "%o se suicide."
+msgstr "%o s'est suicidé."
 
 msgid "OB_FALLING"
-msgstr "%o est tombé@[e_fr] trop loin."
+msgstr "%o est tombé@[e_fr] un peu trop loin."
 
 msgid "OB_CRUSH"
 msgstr "%o a été écrasé@[e_fr]."
@@ -621,10 +621,10 @@ msgid "OB_SPLASH"
 msgstr "%o s'est tenu@[e_fr] au mauvais endroit."
 
 msgid "OB_R_SPLASH"
-msgstr "%o aurait dû garder ses distances."
+msgstr "%o n'avait qu'a reculer, et pourtant..."
 
 msgid "OB_ROCKET"
-msgstr "%o aurait dû garder ses distances."
+msgstr "%o n'avait qu'a reculer, et pourtant..."
 
 msgid "OB_KILLEDSELF"
 msgstr "%o s'est tué@[e_fr]."
@@ -649,7 +649,7 @@ msgstr "%k élimine un de ses équipiers."
 
 # English was changed to remove problematic pronoun referencing the killer
 msgid "OB_FRIENDLY2"
-msgstr "%k vérifie ses lunettes."
+msgstr "%k n'avait pas porté@[e_fr] les bonnes lunettes."
 
 msgid "OB_FRIENDLY3"
 msgstr "%k marque un point pour l'autre équipe."
@@ -769,10 +769,10 @@ msgid "GOTSHOTGUN2"
 msgstr "Vouz avez pris le SUPER FUSIL DE CHASSE !"
 
 msgid "PICKUP_PISTOL_DROPPED"
-msgstr "Un PISTOLET."
+msgstr "Vouz avez pris un Pistolet."
 
 msgid "BETA_BONUS1"
-msgstr "Dague diabolique récupérée."
+msgstr "Vous avez pris une Dague diabolique."
 
 msgid "BETA_BONUS2"
 msgstr "Coffre-crâne récupéré."
@@ -846,7 +846,7 @@ msgstr "Type au Fusil"
 
 # a.k.a. former commando
 msgid "CC_HEAVY"
-msgstr "Type au Gros Flingue"
+msgstr "Mec au Gros Flingue"
 
 msgid "CC_IMP"
 msgstr "Diablotin"
@@ -894,7 +894,7 @@ msgid "FN_SHOTGUN"
 msgstr "Type au Fusil"
 
 msgid "FN_HEAVY"
-msgstr "Type au Gros Flingue"
+msgstr "Mec au Gros Flingue"
 
 msgid "FN_SPECTRE"
 msgstr ""
@@ -924,7 +924,7 @@ msgid "TAG_SHOTGUN"
 msgstr "Fusil à pompe"
 
 msgid "TAG_SUPERSHOTGUN"
-msgstr "Super Fusil de chasse"
+msgstr "Super Fusil"
 
 msgid "TAG_CHAINGUN"
 msgstr "Mitrailleuse"
@@ -1059,7 +1059,7 @@ msgid "OB_MPFIST"
 msgstr "%o a bouffé le poing de %k."
 
 msgid "OB_MPCHAINSAW"
-msgstr "%o a été tondu@[e_fr] par la tronconneuse de %k."
+msgstr "%o a été délicatement déchiqueté@[e_fr] par la tronconneuse de %k."
 
 msgid "OB_MPPISTOL"
 msgstr "%o a été châtouillé@[e_fr] par le pistolet de %k."
@@ -1068,7 +1068,7 @@ msgid "OB_MPSHOTGUN"
 msgstr "%o a s'est mangé@[e_fr] de la chevrotine de la part de %k."
 
 msgid "OB_MPSSHOTGUN"
-msgstr "%o s'est fait@[e_fr] gicler par le fusil de chasse de %k."
+msgstr "%o s'est fait@[e_fr] gicler par le super fusil de %k."
 
 msgid "OB_MPCHAINGUN"
 msgstr "%o a été ventilé@[e_fr] par la mitrailleuse de %k."
