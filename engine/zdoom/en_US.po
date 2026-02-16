@@ -14,6 +14,8 @@ msgstr ""
 "X-Generator: Weblate 5.16-dev\n"
 "X-HeaderCode: default\n"
 
+# In some languages, it may make more sense to translate “Press a key” as
+# “Press any key.”
 msgid "PRESSKEY"
 msgstr "Press a key."
 
@@ -36,18 +38,24 @@ msgstr ""
 "\n"
 "Press a key."
 
+# In some languages, it may make more sense to translate “Press a key” as
+# “Press any key.”
 msgid "QLOADNET"
 msgstr ""
 "You can't quickload during a netgame!\n"
 "\n"
 "Press a key."
 
+# In some languages, it may make more sense to translate “Press a key” as
+# “Press any key.”
 msgid "QSAVESPOT"
 msgstr ""
 "You haven't picked a quicksave slot yet!\n"
 "\n"
 "Press a key."
 
+# In some languages, it may make more sense to translate “Press a key” as
+# “Press any key.”
 msgid "NEWGAME"
 msgstr ""
 "You can't start a new game\n"
@@ -55,6 +63,8 @@ msgstr ""
 "\n"
 "Press a key."
 
+# In some languages, it may make more sense to translate “Press a key” as
+# “Press any key.”
 msgid "NIGHTMARE"
 msgstr ""
 "Are you sure? This skill level\n"
@@ -62,6 +72,8 @@ msgstr ""
 "\n"
 "Press Y or N."
 
+# In some languages, it may make more sense to translate “Press a key” as
+# “Press any key.”
 msgid "SWSTRING"
 msgstr ""
 "This is the shareware version of Doom.\n"
@@ -70,6 +82,8 @@ msgstr ""
 "\n"
 "Press a key."
 
+# In some languages, it may make more sense to translate “Press a key” as
+# “Press any key.”
 msgid "NETEND"
 msgstr ""
 "You can't end a netgame!\n"
@@ -125,7 +139,7 @@ msgstr ""
 msgid "QUITMSG7"
 msgstr "Go ahead and leave. see if I care."
 
-# More info here.
+# More info here: https://everything2.com/title/Thou+hast+lost+an+eighth%2521
 msgid "QUITMSG8"
 msgstr ""
 "You want to quit?\n"
@@ -638,7 +652,6 @@ msgstr "%o was killed by %k."
 msgid "OB_FRIENDLY1"
 msgstr "%k mows down a teammate."
 
-# English was changed to remove problematic pronoun referencing the killer
 msgid "OB_FRIENDLY2"
 msgstr "%k seems to need glasses."
 
@@ -4034,12 +4047,12 @@ msgid "OPTVAL_CROSSFADE"
 msgstr "Crossfade"
 
 # This setting is duplicated in order to allow for different grammatical
-# gender endings in the Russian language (and any other language that depends
-# on a grammatical gender system). In English, due to the lack of a
-# grammatical gender system, both option values are the same.
+# gender endings
 msgid "OPTVAL_SMOOTH_1"
 msgstr "Smooth"
 
+# This setting is duplicated in order to allow for different grammatical
+# gender endings
 msgid "OPTVAL_SMOOTH_2"
 msgstr "Smooth"
 
@@ -4635,16 +4648,11 @@ msgstr "Savegame '%s' is from another ZDoom-based engine:"
 
 msgid "TXT_TOOOLDSG"
 msgstr ""
-"Savegame '%s' is from an older version: %d (%e is the oldest supported)"
+"Savegame '%s' is from an older version (%d). The oldest supported version is %e."
 
-# Shouldn’t this say “%e is the newest supported”?
-# 
-# — Undead
-# 
-# Ask Randi: The text is old. I won't change it.
 msgid "TXT_TOONEWSG"
 msgstr ""
-"Savegame '%s' is from a newer version: %d (%e is the highest supported)"
+"Savegame '%s' is from a newer version (%d). The highest supported version is %e."
 
 msgid "TXT_NOMAPSG"
 msgstr "Savegame '%s' is missing the current map."
