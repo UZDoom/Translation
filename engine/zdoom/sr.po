@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 22:10+0000\n"
+"PO-Revision-Date: 2026-02-16 22:39+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/sr/>\n"
@@ -172,23 +172,21 @@ msgstr ""
 "Где идеш?!\n"
 "Шта је са побуном?"
 
-#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
-"Покољ се прекида...\n"
+"Покољ се прекида…\n"
 "на најзанимљивијем месту!"
 
 msgid "QUITMSG17"
 msgstr ""
-"Али на тебе је сва нада --\n"
-"ти си моја једина шанса!"
+"Али на тебе је сва нада\n"
+"—ти си моја једина шанса!"
 
 msgid "QUITMSG18"
 msgstr "Нико још није побегао од Црне птице."
 
-#, fuzzy
 msgid "QUITMSG19"
-msgstr "О теби сам мислила другачије..."
+msgstr "О теби сам мислила другачије…"
 
 msgid "QUITMSG20"
 msgstr "Добро! Само убијај и бежи!"
