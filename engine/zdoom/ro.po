@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 22:10+0000\n"
+"PO-Revision-Date: 2026-02-16 22:39+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ro/>\n"
@@ -171,23 +171,21 @@ msgstr ""
 "Unde pleci?!\n"
 "Cu rebeliunea cum rămâne?"
 
-#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
-"Carnagiu întrerupt...\n"
+"Carnagiu întrerupt…\n"
 "Ce mai tachinare!"
 
 msgid "QUITMSG17"
 msgstr ""
 "Dar tu ești speranța\n"
-"-- singura mea șansă!!"
+"—singura mea șansă!!"
 
 msgid "QUITMSG18"
 msgstr "Nimeni n-a scăpat vreodată de Mierla."
 
-#, fuzzy
 msgid "QUITMSG19"
-msgstr "Am crezut că tu ești diferit..."
+msgstr "Am crezut că tu ești diferit…"
 
 msgid "QUITMSG20"
 msgstr "Fie! Omoară și fugi!"
