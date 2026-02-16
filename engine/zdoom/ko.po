@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "PO-Revision-Date: 2026-02-16 22:10+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ko/>\n"
 "Language: ko\n"
@@ -20,7 +20,6 @@ msgstr "키를 누르시오."
 msgid "SECRETMESSAGE"
 msgstr "비밀 발견!"
 
-#, fuzzy
 msgid "D_DEVSTR"
 msgstr "쓸모없는 모드 켬."
 
@@ -136,29 +135,43 @@ msgstr ""
 # A “dimensional shambler” is a creature appearing in the works of H. P.
 # Lovecraft.
 msgid "QUITMSG9"
-msgstr "나가지 말아줘, 지금 차원을 넘나드는 쉠블러가 DOS 프롬프트에서 기다리고 있거든!"
+msgstr ""
+"나가지 말아줘, 지금 차원을\n"
+"넘나드는 쉠블러가 DOS\n"
+"프롬프트에서 기다리고 있거든!"
 
 msgid "QUITMSG10"
-msgstr "당장 나가버리고 너의 후진 프로그램들이나 만지작거리시지."
+msgstr ""
+"당장 나가버리고 너의 후진\n"
+"프로그램들이나 만지작거리시지."
 
 msgid "QUITMSG11"
-msgstr "만약 내가 너의 상사였다면, 지금 당장 데스매치를 열었을 거다!"
+msgstr ""
+"만약 내가 너의 상사였다면,\n"
+"지금 당장 데스매치를 열었을 거다!"
 
 msgid "QUITMSG12"
-msgstr "이봐, 친구. 지금 여기서 나가버리면 죽여서 얻은 점수가 다 초기화될걸?"
+msgstr ""
+"이봐, 친구. 지금 여기서 나가버리면\n"
+"네가 올린 킬 스코어는 전부 몰수야!"
 
 msgid "QUITMSG13"
-msgstr "그냥 나가봐. 돌아올 때까지 방망이를 들고 기다릴테니까."
+msgstr ""
+"그냥 나가봐. 돌아올 때까지\n"
+"방망이를 들고 기다릴테니까."
 
 msgid "QUITMSG14"
-msgstr "나간다는 이유로 싸대기를 날리지 않는 게 다행인 줄 알아."
+msgstr ""
+"나간다는 이유로 싸대기를\n"
+"날리지 않는 게 다행인 줄 알아."
 
 msgid "QUITMSG15"
 msgstr "어딜 가는 거야?! 저항군은 어쩌고?"
 
-#, fuzzy
 msgid "QUITMSG16"
-msgstr "학살중절이라... 놀리는구먼!"
+msgstr ""
+"학살중절이라…\n"
+"놀리는구먼!"
 
 msgid "QUITMSG17"
 msgstr "하지만 넌 희망이야- 나의 유일한 기회라고!!"
