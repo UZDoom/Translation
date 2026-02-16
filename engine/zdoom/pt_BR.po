@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "PO-Revision-Date: 2026-02-16 22:09+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "uzdoom/zdoom-engine-strings/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -112,7 +112,6 @@ msgstr ""
 "Tá querendo dizer que você gosta mais\n"
 "do DOS do que eu, é isso?"
 
-#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
 "Não vá embora ainda, tem um\n"
@@ -170,10 +169,9 @@ msgstr ""
 "Para onde você vai?!\n"
 "E a rebelião?"
 
-#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
-"Massacre interrompido...\n"
+"Massacre interrompido…\n"
 "Que provocante!"
 
 msgid "QUITMSG17"
