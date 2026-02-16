@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 03:10+0000\n"
+"PO-Revision-Date: 2026-02-16 22:40+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hr/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.16-dev\n"
+"X-Generator: Weblate 5.16\n"
 "X-HeaderCode: hr\n"
 
 msgid "PRESSKEY"
@@ -136,43 +136,56 @@ msgstr ""
 # A “dimensional shambler” is a creature appearing in the works of H. P.
 # Lovecraft.
 msgid "QUITMSG9"
-msgstr "Nemoj ići sada, dimenzionalni šambler čeka na DOS komandu!"
+msgstr ""
+"Nemoj ići sada,\n"
+"dimenzionalni šambler\n"
+"čeka na DOS komandu!"
 
 msgid "QUITMSG10"
-msgstr "Gubi se odavde i vrati se svojim dosadnim programima."
+msgstr ""
+"Gubi se odavde i vrati se\n"
+"svojim dosadnim programima."
 
 msgid "QUITMSG11"
-msgstr "Da sam ti ja šef, sabio bih te u Deathmatchu!"
+msgstr ""
+"Da sam ti ja šef, sabio\n"
+"bih te u Deathmatchu!"
 
 msgid "QUITMSG12"
-msgstr "Gle, lega. Ako sada odeš, predaješ i svoj broj smrti!"
+msgstr ""
+"Gle, lega. Ako sada odeš,\n"
+"predaješ i svoj broj smrti!"
 
 msgid "QUITMSG13"
-msgstr "Samo otiđi. Kad se vratiš, čekat ću te s palicom."
+msgstr ""
+"Samo otiđi. Kad se vratiš,\n"
+"čekat ću te s palicom."
 
 msgid "QUITMSG14"
-msgstr "Imaš sreće što te ne opalim jer razmišljaš o odlasku."
+msgstr ""
+"Imaš sreće što te ne opalim\n"
+"jer razmišljaš o odlasku."
 
 msgid "QUITMSG15"
 msgstr ""
 "Gdje ideš?\n"
 "Što je s pobunom?"
 
-#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
-"Prekinuti pokolj...\n"
+"Prekinuti pokolj…\n"
 "Kakva zadirka!"
 
 msgid "QUITMSG17"
-msgstr "Ali ti si nada -- moja jedina šansa!!"
+msgstr ""
+"Ali ti si nada\n"
+"—moja jedina šansa!!"
 
 msgid "QUITMSG18"
 msgstr "Nitko ne izlazi na Blackbird."
 
-#, fuzzy
 msgid "QUITMSG19"
-msgstr "Mislio/la sam da si drugačija/drugačiji..."
+msgstr "Mislio/la sam da si drugačija/drugačiji…"
 
 msgid "QUITMSG20"
 msgstr "Dobro! Samo ubij i bježi!"
@@ -4618,6 +4631,7 @@ msgstr "Spremljena igra '%s' je iz nekompatibilne verzije."
 msgid "TXT_OTHERENGINESG"
 msgstr "Spremljena igra '%s' je iz drugog ZDoom engine-a:"
 
+#, fuzzy
 msgid "TXT_TOOOLDSG"
 msgstr ""
 "Spremljena igra '%s' je iz starije verzije: %d (%e je najstarija podržana "
@@ -4628,6 +4642,7 @@ msgstr ""
 # — Undead
 # 
 # Ask Randi: The text is old. I won't change it.
+#, fuzzy
 msgid "TXT_TOONEWSG"
 msgstr ""
 "Spremljena igra '%s' je iz novije verzije: %d (%e je najviše podržana "

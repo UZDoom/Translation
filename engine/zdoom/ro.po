@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 03:10+0000\n"
+"PO-Revision-Date: 2026-02-16 22:39+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ro/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2;\n"
-"X-Generator: Weblate 5.16-dev\n"
+"X-Generator: Weblate 5.16\n"
 "X-HeaderCode: ro\n"
 
 msgid "PRESSKEY"
@@ -21,7 +21,6 @@ msgstr "Apasă o tastă."
 msgid "SECRETMESSAGE"
 msgstr "Ai găsit un secret!"
 
-#, fuzzy
 msgid "D_DEVSTR"
 msgstr "Modul inutil ACTIVAT."
 
@@ -138,8 +137,9 @@ msgstr ""
 # Lovecraft.
 msgid "QUITMSG9"
 msgstr ""
-"Nu pleca acum, e un monstru interdimensional care\n"
-"te așteaptă la fereastra DOS!"
+"Nu pleca acum, e un monstru\n"
+"interdimensional care te\n"
+"așteaptă la fereastra DOS!"
 
 msgid "QUITMSG10"
 msgstr ""
@@ -171,23 +171,21 @@ msgstr ""
 "Unde pleci?!\n"
 "Cu rebeliunea cum rămâne?"
 
-#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
-"Carnagiu întrerupt...\n"
+"Carnagiu întrerupt…\n"
 "Ce mai tachinare!"
 
 msgid "QUITMSG17"
 msgstr ""
 "Dar tu ești speranța\n"
-"-- singura mea șansă!!"
+"—singura mea șansă!!"
 
 msgid "QUITMSG18"
 msgstr "Nimeni n-a scăpat vreodată de Mierla."
 
-#, fuzzy
 msgid "QUITMSG19"
-msgstr "Am crezut că tu ești diferit..."
+msgstr "Am crezut că tu ești diferit…"
 
 msgid "QUITMSG20"
 msgstr "Fie! Omoară și fugi!"
@@ -4667,6 +4665,7 @@ msgstr "Salvarea '%s' este dintr-o versiune incompatibilă."
 msgid "TXT_OTHERENGINESG"
 msgstr "Salvarea '%s' este dintr-un alt motor care are ca bază ZDoom:"
 
+#, fuzzy
 msgid "TXT_TOOOLDSG"
 msgstr ""
 "Salvarea '%s' este dintr-o versiune mai veche: %d (%e e cea mai veche "
@@ -4677,6 +4676,7 @@ msgstr ""
 # — Undead
 # 
 # Ask Randi: The text is old. I won't change it.
+#, fuzzy
 msgid "TXT_TOONEWSG"
 msgstr ""
 "Salvarea '%s' e dintr-o versiune mai nouă: %d (%e este cea mai nouă "

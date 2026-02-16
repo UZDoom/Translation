@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 03:10+0000\n"
+"PO-Revision-Date: 2026-02-16 22:39+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/tr/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16-dev\n"
+"X-Generator: Weblate 5.16\n"
 "X-HeaderCode: tr\n"
 
 msgid "PRESSKEY"
@@ -135,32 +135,50 @@ msgstr ""
 # A “dimensional shambler” is a creature appearing in the works of H. P.
 # Lovecraft.
 msgid "QUITMSG9"
-msgstr "Şimdi gitme, DOS komut isteminde bekleyen boyutsal bir shambler var!"
+msgstr ""
+"Şimdi gitme, DOS komut\n"
+"isteminde bekleyen\n"
+"boyutsal bir shambler var!"
 
 msgid "QUITMSG10"
-msgstr "Git buradan ve sıkıcı programlarına geri dön."
+msgstr ""
+"Git buradan ve sıkıcı\n"
+"programlarına geri dön."
 
 msgid "QUITMSG11"
-msgstr "Patronun olsaydım, seni bir dakika içinde öldürürdüm!"
+msgstr ""
+"Patronun olsaydım, seni\n"
+"bir dakika içinde öldürürdüm!"
 
 msgid "QUITMSG12"
-msgstr "Bak, dostum. Şimdi gidersen ceset sayını kaybedersin!"
+msgstr ""
+"Bak, dostum. Şimdi gidersen\n"
+"ceset sayını kaybedersin!"
 
 msgid "QUITMSG13"
-msgstr "Sadece git. Geri döndüğünde bir sopayla bekliyor olacağım."
+msgstr ""
+"Sadece git. Geri döndüğünde\n"
+"bir sopayla bekliyor olacağım."
 
 msgid "QUITMSG14"
-msgstr "Gitmeyi düşündüğün için seni tokatlamadığım için şanslısın."
+msgstr ""
+"Gitmeyi düşündüğün için seni\n"
+"tokatlamadığım için şanslısın."
 
 msgid "QUITMSG15"
-msgstr "Nereye gidiyorsun?! İsyan ne olacak?"
+msgstr ""
+"Nereye gidiyorsun?!\n"
+"İsyan ne olacak?"
 
-#, fuzzy
 msgid "QUITMSG16"
-msgstr "Katliam kesintisi. Ne alay ama!"
+msgstr ""
+"Katliam kesintisi…\n"
+"Ne alay ama!"
 
 msgid "QUITMSG17"
-msgstr "Ama sen umudumsun, tek şansımsın!"
+msgstr ""
+"Ama sen umudumsun,\n"
+"tek şansımsın!"
 
 msgid "QUITMSG18"
 msgstr "Kimse Karatavuk'ü bırakıp gidemez."
@@ -4616,6 +4634,7 @@ msgstr "%s' kayıt oyunu uyumsuz bir sürüme ait."
 msgid "TXT_OTHERENGINESG"
 msgstr "%s' kayıt oyunu başka bir ZDoom tabanlı motordan:"
 
+#, fuzzy
 msgid "TXT_TOOOLDSG"
 msgstr ""
 "%s' kayıt oyunu daha eski bir sürümden: %d (%e desteklenen en eski sürümdür)"
@@ -4625,6 +4644,7 @@ msgstr ""
 # — Undead
 # 
 # Ask Randi: The text is old. I won't change it.
+#, fuzzy
 msgid "TXT_TOONEWSG"
 msgstr ""
 "%s' kayıt oyunu daha yeni bir sürümden: %d (%e desteklenen en yüksek "

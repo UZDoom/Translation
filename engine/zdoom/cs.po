@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 03:10+0000\n"
+"PO-Revision-Date: 2026-02-16 22:40+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/cs/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
-"X-Generator: Weblate 5.16-dev\n"
+"X-Generator: Weblate 5.16\n"
 "X-HeaderCode: cs\n"
 
 msgid "PRESSKEY"
@@ -112,10 +112,9 @@ msgstr ""
 "Chceš mi říct, že máš\n"
 "radši DOS než mě?"
 
-#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
-"Ještě nechoď -- tam\n"
+"Ještě nechoď—tam\n"
 "za rohem je démon!"
 
 msgid "QUITMSG6"
@@ -136,8 +135,9 @@ msgstr ""
 # Lovecraft.
 msgid "QUITMSG9"
 msgstr ""
-"Teď neodcházej, na příkazové řádce\n"
-"číhá dimenzionální Jožin!"
+"Teď neodcházej, na\n"
+"příkazové řádce číhá\n"
+"dimenzionální Jožin!"
 
 msgid "QUITMSG10"
 msgstr ""
@@ -169,23 +169,21 @@ msgstr ""
 "Kam jdeš?!\n"
 "A co bude s odbojem?"
 
-#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
-"Masakr přerušus...\n"
+"Masakr přerušus…\n"
 "Takhle mě neškádli!"
 
 msgid "QUITMSG17"
 msgstr ""
 "Ale ty jsi naše naděje\n"
-"-- moje jediná šance!"
+"—moje jediná šance!"
 
 msgid "QUITMSG18"
 msgstr "Nikdo se neobrací zády ke Strace."
 
-#, fuzzy
 msgid "QUITMSG19"
-msgstr "Myslela jsem, že jsi jin@[adj_cs]..."
+msgstr "Myslela jsem, že jsi jin@[adj_cs]…"
 
 msgid "QUITMSG20"
 msgstr "Fajn! Prostě zab a uteč!"
@@ -4651,6 +4649,7 @@ msgstr "Uložená hra '%s' je z nekompatibilní verze."
 msgid "TXT_OTHERENGINESG"
 msgstr "Uložená hra '%s' je z jiného enginu založeného na ZDoomu:"
 
+#, fuzzy
 msgid "TXT_TOOOLDSG"
 msgstr ""
 "Uložená hra '%s' je ze starší verze: %d (%e je nejstarší podporovaná verze)"
@@ -4660,6 +4659,7 @@ msgstr ""
 # — Undead
 # 
 # Ask Randi: The text is old. I won't change it.
+#, fuzzy
 msgid "TXT_TOONEWSG"
 msgstr ""
 "Uložená hra '%s' je z novější verze: %d (%e je nejvyšší podporovaná verze)"

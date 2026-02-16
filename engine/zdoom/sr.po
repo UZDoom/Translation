@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 03:10+0000\n"
+"PO-Revision-Date: 2026-02-16 22:39+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/sr/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.16-dev\n"
+"X-Generator: Weblate 5.16\n"
 "X-HeaderCode: sr\n"
 
 msgid "PRESSKEY"
@@ -115,10 +115,9 @@ msgstr ""
 "Више ти допада DOS\n"
 "него ја, је ли?"
 
-#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
-"Немој да одеш --\n"
+"Немој да одеш—\n"
 "иза угла има још један демон!"
 
 msgid "QUITMSG6"
@@ -173,23 +172,21 @@ msgstr ""
 "Где идеш?!\n"
 "Шта је са побуном?"
 
-#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
-"Покољ се прекида...\n"
+"Покољ се прекида…\n"
 "на најзанимљивијем месту!"
 
 msgid "QUITMSG17"
 msgstr ""
-"Али на тебе је сва нада --\n"
-"ти си моја једина шанса!"
+"Али на тебе је сва нада\n"
+"—ти си моја једина шанса!"
 
 msgid "QUITMSG18"
 msgstr "Нико још није побегао од Црне птице."
 
-#, fuzzy
 msgid "QUITMSG19"
-msgstr "О теби сам мислила другачије..."
+msgstr "О теби сам мислила другачије…"
 
 msgid "QUITMSG20"
 msgstr "Добро! Само убијај и бежи!"
@@ -4648,6 +4645,7 @@ msgstr "Сачувана игра %s је из инкомпетабилне ве
 msgid "TXT_OTHERENGINESG"
 msgstr "Сачувана игра %s је из други ZDoom-базиран енџин:"
 
+#, fuzzy
 msgid "TXT_TOOOLDSG"
 msgstr ""
 "Сачувана игра „%s“ је из старије верзије: %d (%e је најстарија подржана)"
@@ -4657,9 +4655,9 @@ msgstr ""
 # — Undead
 # 
 # Ask Randi: The text is old. I won't change it.
+#, fuzzy
 msgid "TXT_TOONEWSG"
-msgstr ""
-"Сачувана игра „%s“ је из новије верзије: %d (%e је најновија подржана)"
+msgstr "Сачувана игра „%s“ је из новије верзије: %d (%e је најновија подржана)"
 
 msgid "TXT_NOMAPSG"
 msgstr "Сачувана игри „%s“ недостаје тренутна мапа."

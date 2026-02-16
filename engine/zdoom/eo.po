@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 03:10+0000\n"
+"PO-Revision-Date: 2026-02-16 22:40+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/eo/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16-dev\n"
+"X-Generator: Weblate 5.16\n"
 "X-HeaderCode: eo\n"
 
 msgid "PRESSKEY"
@@ -20,7 +20,6 @@ msgstr "Premu klavon."
 msgid "SECRETMESSAGE"
 msgstr "Vi trovis sekretejon!"
 
-#, fuzzy
 msgid "D_DEVSTR"
 msgstr "Senutila reĝimo ŜALTITA."
 
@@ -113,7 +112,6 @@ msgstr ""
 "Vi provas diri, ke MS-DOS\n"
 "estas pli bona ol mi, ĉu?"
 
-#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
 "Ne foriru ankoraŭ, estas\n"
@@ -137,8 +135,9 @@ msgstr ""
 # Lovecraft.
 msgid "QUITMSG9"
 msgstr ""
-"Ne foriru, dimensia malordo\n"
-"atendas ĉe la DOS-konzolo!"
+"Ne foriru, dimensia\n"
+"malordo atendas ĉe\n"
+"la DOS-konzolo!"
 
 msgid "QUITMSG10"
 msgstr ""
@@ -170,10 +169,9 @@ msgstr ""
 "Kien vi iras!?\n"
 "Kio pri la ribelo?"
 
-#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
-"Buĉado \"interruptus\"...\n"
+"Buĉado \"interruptus\"…\n"
 "Kia inciteto!"
 
 msgid "QUITMSG17"
@@ -184,9 +182,8 @@ msgstr ""
 msgid "QUITMSG18"
 msgstr "Neniu forlasas Merlon."
 
-#, fuzzy
 msgid "QUITMSG19"
-msgstr "Mi pensis, ke vi estas malsama..."
+msgstr "Mi pensis, ke vi estas malsama…"
 
 msgid "QUITMSG20"
 msgstr "Bone! Nur mortigu kaj fuĝu!"
@@ -4656,6 +4653,7 @@ msgstr "Konservita ludado '%s' estas el nekongrua versio."
 msgid "TXT_OTHERENGINESG"
 msgstr "Konservita ludado '%s' estas el alia ZDoom-bazita modulo:"
 
+#, fuzzy
 msgid "TXT_TOOOLDSG"
 msgstr ""
 "Konservita ludado '%s' estas el pli malnova versio: %d (%e estas la plej "
@@ -4666,6 +4664,7 @@ msgstr ""
 # — Undead
 # 
 # Ask Randi: The text is old. I won't change it.
+#, fuzzy
 msgid "TXT_TOONEWSG"
 msgstr ""
 "Konservita ludado '%s' estas el pli nova versio: %d (%e estas la plej nova "

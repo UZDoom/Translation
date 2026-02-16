@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 03:10+0000\n"
+"PO-Revision-Date: 2026-02-16 22:39+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ru/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.16-dev\n"
+"X-Generator: Weblate 5.16\n"
 "X-HeaderCode: ru\n"
 
 msgid "PRESSKEY"
@@ -113,7 +113,6 @@ msgstr ""
 "Ты хочешь сказать, что DOS\n"
 "тебе нравится больше, чем я, а?"
 
-#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
 "Не уходи! За тем углом\n"
@@ -171,23 +170,21 @@ msgstr ""
 "Куда ты собрался?!\n"
 "А как же восстание?"
 
-#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
-"Вот так всегда...\n"
+"Вот так всегда…\n"
 "На самом интересном месте!"
 
 msgid "QUITMSG17"
 msgstr ""
-"Но на тебя вся надежда —\n"
-"ты мой единственный шанс!"
+"Но на тебя вся надежда\n"
+"—ты мой единственный шанс!"
 
 msgid "QUITMSG18"
 msgstr "Ещё никто не ушёл от «Чёрного дрозда»."
 
-#, fuzzy
 msgid "QUITMSG19"
-msgstr "Я думал о тебе иначе..."
+msgstr "Я думал о тебе иначе…"
 
 msgid "QUITMSG20"
 msgstr "Отлично! Пострелял и смылся!"
@@ -4667,6 +4664,7 @@ msgstr "Сохранение «%s» из несовместимой версии
 msgid "TXT_OTHERENGINESG"
 msgstr "Сохранение «%s» из другого, основанного на ZDoom, движка:"
 
+#, fuzzy
 msgid "TXT_TOOOLDSG"
 msgstr "Сохранение «%s» из старой версии: %d (%e — последняя совместимая)."
 
@@ -4675,6 +4673,7 @@ msgstr "Сохранение «%s» из старой версии: %d (%e — �
 # — Undead
 # 
 # Ask Randi: The text is old. I won't change it.
+#, fuzzy
 msgid "TXT_TOONEWSG"
 msgstr "Сохранение «%s» из новой версии: %d (%e — последняя совместимая)."
 

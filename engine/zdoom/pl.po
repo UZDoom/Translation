@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 03:10+0000\n"
+"PO-Revision-Date: 2026-02-16 22:40+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/pl/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.16-dev\n"
+"X-Generator: Weblate 5.16\n"
 "X-HeaderCode: pl\n"
 
 msgid "PRESSKEY"
@@ -113,11 +113,10 @@ msgstr ""
 "Próbujesz powiedzieć, że wolisz DOS\n"
 "ode mnie, prawda?"
 
-#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
-"Nie odchodź jeszcze -- demon czai\n"
-"się w tamtym zaułku!"
+"Nie wychodź jeszcze—za tamtym\n"
+"rogiem czai się demon!"
 
 msgid "QUITMSG6"
 msgstr ""
@@ -138,7 +137,8 @@ msgstr ""
 msgid "QUITMSG9"
 msgstr ""
 "Nie idź jeszcze, stworzenie\n"
-"z innego świata na ciebie czyha w DOSie!"
+"z innego świata na\n"
+"ciebie czyha w DOSie!"
 
 msgid "QUITMSG10"
 msgstr ""
@@ -156,7 +156,9 @@ msgstr ""
 "i stracisz swoją liczbę ofiar!"
 
 msgid "QUITMSG13"
-msgstr "Tylko odejdź. Kiedy wrócisz, będę czekał z kijem."
+msgstr ""
+"Tylko odejdź. Kiedy wrócisz,\n"
+"będę czekał z kijem."
 
 msgid "QUITMSG14"
 msgstr ""
@@ -168,23 +170,21 @@ msgstr ""
 "Gdzie idziesz?!\n"
 "A co z rebelią?"
 
-#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
-"Rzeź przeszkadza...\n"
+"Rzeź przeszkadza…\n"
 "Co za złośliwość!"
 
 msgid "QUITMSG17"
 msgstr ""
 "Ale ty jesteś nadzieją\n"
-"-- moją jedyną szansą!!"
+"—moją jedyną szansą!!"
 
 msgid "QUITMSG18"
 msgstr "Nikt nie opuszcza Blackbird."
 
-#, fuzzy
 msgid "QUITMSG19"
-msgstr "Myślałam, że jesteś inny..."
+msgstr "Myślałam, że jesteś inny…"
 
 msgid "QUITMSG20"
 msgstr "Dobra! Zabijaj i biegaj!"
@@ -4651,6 +4651,7 @@ msgstr "Zapis gry „%s” jest z niekompatybilnej wersji."
 msgid "TXT_OTHERENGINESG"
 msgstr "Zapis gry „%s” jest z innego silnika bazowanego na ZDoomie:"
 
+#, fuzzy
 msgid "TXT_TOOOLDSG"
 msgstr ""
 "Zapis gry „%s” jest ze starszej wersji: %d (%e jest najstarszą wspieraną)"
@@ -4660,9 +4661,9 @@ msgstr ""
 # — Undead
 # 
 # Ask Randi: The text is old. I won't change it.
+#, fuzzy
 msgid "TXT_TOONEWSG"
-msgstr ""
-"Zapis gry „%s” jest z nowszej wersji: %d (%e jest najwyższą wspieraną)"
+msgstr "Zapis gry „%s” jest z nowszej wersji: %d (%e jest najwyższą wspieraną)"
 
 msgid "TXT_NOMAPSG"
 msgstr "W zapisie gry „%s” brakuje obecnej mapy."

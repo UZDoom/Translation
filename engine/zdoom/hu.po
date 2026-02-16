@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-15 21:10+0000\n"
+"PO-Revision-Date: 2026-02-16 22:40+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hu/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16-dev\n"
+"X-Generator: Weblate 5.16\n"
 "X-HeaderCode: hu\n"
 
 msgid "PRESSKEY"
@@ -20,7 +20,6 @@ msgstr "Nyomjon meg egy gombot."
 msgid "SECRETMESSAGE"
 msgstr "Egy rejtekhely feltárva!"
 
-#, fuzzy
 msgid "D_DEVSTR"
 msgstr "Haszontalan mód BE."
 
@@ -136,8 +135,9 @@ msgstr ""
 # Lovecraft.
 msgid "QUITMSG9"
 msgstr ""
-"Ne menj most, egy dimenzióforgató \n"
-"vár a DOS parancssornál!"
+"Ne menj most, egy\n"
+"dimenzióforgató vár\n"
+"a DOS parancssornál!"
 
 msgid "QUITMSG10"
 msgstr ""
@@ -146,7 +146,8 @@ msgstr ""
 
 msgid "QUITMSG11"
 msgstr ""
-"Ha én lennék a főnököd, lejátszanék egy Deathmatch-et veled perceken belül!"
+"Ha én lennék a főnököd, lejátszanék\n"
+"egy Deathmatch-et veled perceken belül!"
 
 msgid "QUITMSG12"
 msgstr ""
@@ -159,30 +160,30 @@ msgstr ""
 "várni foglak egy ütővel."
 
 msgid "QUITMSG14"
-msgstr "Mákod van, hogy nem kapsz egy fülest amiért ki akartál lépni."
+msgstr ""
+"Mákod van, hogy nem kapsz egy\n"
+"fülest amiért ki akartál lépni."
 
 msgid "QUITMSG15"
 msgstr ""
 "Hová mész?!\n"
 "És a forradalommal mi lesz?"
 
-#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
-"Carnage interruptus...\n"
+"Carnage interruptus…\n"
 "Micsoda fenyegetés!"
 
 msgid "QUITMSG17"
 msgstr ""
 "Te vagy a remény\n"
-"-- az egyetlen esélyem!"
+"—az egyetlen esélyem!"
 
 msgid "QUITMSG18"
-msgstr "Senki nem kezdhet ki a Feketerigóval!"
+msgstr "Senki nem kezdhet ki a Feketerigóval."
 
-#, fuzzy
 msgid "QUITMSG19"
-msgstr "Azt hittem te más vagy..."
+msgstr "Azt hittem te más vagy…"
 
 msgid "QUITMSG20"
 msgstr "Oké! Csak ölj és fuss!"
@@ -4649,6 +4650,7 @@ msgstr "A '%s' mentés egy nem kompatibilis verzió mentése."
 msgid "TXT_OTHERENGINESG"
 msgstr "A '%s' mentés egy másik ZDoom motorhoz való:"
 
+#, fuzzy
 msgid "TXT_TOOOLDSG"
 msgstr ""
 "A '%s' mentés egy túl régi verzióhoz való: %d (%e a legfrissebb támogatott "
@@ -4659,6 +4661,7 @@ msgstr ""
 # — Undead
 # 
 # Ask Randi: The text is old. I won't change it.
+#, fuzzy
 msgid "TXT_TOONEWSG"
 msgstr ""
 "A '%s' mentés egy túl új verzióhoz való: %d (%e a legkorábbi támogatott "

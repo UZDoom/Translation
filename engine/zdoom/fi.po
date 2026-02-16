@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 03:10+0000\n"
+"PO-Revision-Date: 2026-02-16 22:40+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fi/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16-dev\n"
+"X-Generator: Weblate 5.16\n"
 "X-HeaderCode: fi\n"
 
 msgid "PRESSKEY"
@@ -20,7 +20,6 @@ msgstr "Paina jotain näppäintä."
 msgid "SECRETMESSAGE"
 msgstr "Sala löydetty!"
 
-#, fuzzy
 msgid "D_DEVSTR"
 msgstr "Hyödytön tila PÄÄLLÄ."
 
@@ -136,47 +135,56 @@ msgstr ""
 # A “dimensional shambler” is a creature appearing in the works of H. P.
 # Lovecraft.
 msgid "QUITMSG9"
-msgstr "Älä mene nyt; DOS-kehotteella väijyy hirviö toisesta ulottuvuudesta!"
+msgstr ""
+"Älä mene nyt;\n"
+"DOS-kehotteella väijyy\n"
+"hirviö toisesta ulottuvuudesta!"
 
 msgid "QUITMSG10"
-msgstr "Ala laputtaa takaisin tylsien ohjelmiesi pariin."
+msgstr ""
+"Ala laputtaa takaisin\n"
+"tylsien ohjelmiesi pariin."
 
 msgid "QUITMSG11"
-msgstr "Jos oisin pomosi, lyttäisin sut kuolonottelussa minuutissa!"
+msgstr ""
+"Jos oisin pomosi, lyttäisin\n"
+"sut kuolonottelussa minuutissa!"
 
 msgid "QUITMSG12"
 msgstr ""
-"Kuules, kaveri: Jos menet nyt, niin siinä samassa menee myös ruumislukusi."
+"Kuules, kaveri: Jos menet nyt, niin\n"
+"siinä samassa menee myös ruumislukusi!"
 
 msgid "QUITMSG13"
-msgstr "Senkus menet. Odottelen paluutasi mailalla."
+msgstr ""
+"Senkus menet. Odottelen\n"
+"paluutasi mailalla."
 
 msgid "QUITMSG14"
 msgstr ""
-"Kiitä onneasi, etten läimäytä sinua siitä hyvästä, että mietit lähtemistä."
+"Kiitä onneasi, etten läimäytä sinua\n"
+"siitä hyvästä, että mietit lähtemistä."
 
 msgid "QUITMSG15"
 msgstr ""
 "Minne olet menossa?!\n"
 "Entä kapina?"
 
-#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
-"Verilöyly interruptus...\n"
+"Verilöyly interruptus…\n"
 "Mikä kiusoitus!"
 
 msgid "QUITMSG17"
 msgstr ""
 "Mutta sinä olet toivo\n"
-"-- ainoa mahdollisuuteni!!"
+"—ainoa mahdollisuuteni!!"
 
 msgid "QUITMSG18"
 msgstr "Kukaan ei käännä selkäänsä Blackbirdille."
 
-#, fuzzy
 msgid "QUITMSG19"
-msgstr "Luulin, että olit erilainen kuin muut..."
+msgstr "Luulin, että olit erilainen kuin muut…"
 
 msgid "QUITMSG20"
 msgstr "Hyvä! Senkun vain tapat ja lähdet!"
@@ -4635,6 +4643,7 @@ msgstr "Pelitallenne '%s' on yhteensopimattomasta versiosta."
 msgid "TXT_OTHERENGINESG"
 msgstr "Pelitallenne '%s' on toisesta ZDoom-pohjaisesta moottorista."
 
+#, fuzzy
 msgid "TXT_TOOOLDSG"
 msgstr ""
 "Pelitallenne '%s' on vanhemmasta versiosta: %d (%e on vanhin tuettu versio)"
@@ -4644,6 +4653,7 @@ msgstr ""
 # — Undead
 # 
 # Ask Randi: The text is old. I won't change it.
+#, fuzzy
 msgid "TXT_TOONEWSG"
 msgstr ""
 "Pelitallenne '%s' on uudemmasta versiosta: %d (%e on korkein tuettu versio)"

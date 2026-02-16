@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 03:09+0000\n"
+"PO-Revision-Date: 2026-02-16 22:39+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "uzdoom/zdoom-engine-strings/pt_BR/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.16-dev\n"
+"X-Generator: Weblate 5.16\n"
 "X-HeaderCode: pt\n"
 
 msgid "PRESSKEY"
@@ -112,7 +112,6 @@ msgstr ""
 "Tá querendo dizer que você gosta mais\n"
 "do DOS do que eu, é isso?"
 
-#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
 "Não vá embora ainda, tem um\n"
@@ -170,23 +169,21 @@ msgstr ""
 "Para onde você vai?!\n"
 "E a rebelião?"
 
-#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
-"Massacre interrompido...\n"
+"Massacre interrompido…\n"
 "Que provocante!"
 
 msgid "QUITMSG17"
 msgstr ""
 "Mas você é a esperança\n"
-"— minha única chance!"
+"—minha única chance!"
 
 msgid "QUITMSG18"
 msgstr "Ninguém vira as costas para a Blackbird."
 
-#, fuzzy
 msgid "QUITMSG19"
-msgstr "Eu achei que você era diferente..."
+msgstr "Eu achei que você era diferente…"
 
 msgid "QUITMSG20"
 msgstr "Ótimo! Mate e fuja!"
@@ -4662,6 +4659,7 @@ msgstr "O jogo salvo \"%s\" é de uma versão incompatível."
 msgid "TXT_OTHERENGINESG"
 msgstr "O jogo salvo \"%s\" é de outra engine baseada em ZDoom:"
 
+#, fuzzy
 msgid "TXT_TOOOLDSG"
 msgstr ""
 "O jogo salvo \"%s\" é de uma versão mais antiga: %d (%e sendo a mais antiga "
@@ -4672,6 +4670,7 @@ msgstr ""
 # — Undead
 # 
 # Ask Randi: The text is old. I won't change it.
+#, fuzzy
 msgid "TXT_TOONEWSG"
 msgstr ""
 "O jogo salvo \"%s\" é de uma versão mais nova: %d (%e sendo a mais recente "

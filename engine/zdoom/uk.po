@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 03:09+0000\n"
+"PO-Revision-Date: 2026-02-16 22:39+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/uk/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.16-dev\n"
+"X-Generator: Weblate 5.16\n"
 "X-HeaderCode: uk\n"
 
 msgid "PRESSKEY"
@@ -137,46 +137,56 @@ msgstr ""
 # A “dimensional shambler” is a creature appearing in the works of H. P.
 # Lovecraft.
 msgid "QUITMSG9"
-msgstr "Підіжди трохи, між строками DOS причаївся міжпросторовий шамблер!"
+msgstr ""
+"Підіжди трохи, між\n"
+"строками DOS причаївся\n"
+"міжпросторовий шамблер!"
 
 msgid "QUITMSG10"
-msgstr "Ну і котись звідсіль, до своїх марудних програм."
+msgstr ""
+"Ну і котись звідсіль, до\n"
+"своїх марудних програм."
 
 msgid "QUITMSG11"
-msgstr "Був би я твоїм боссом - розніс у дедматчі за хвилину!"
+msgstr ""
+"Був би я твоїм боссом –\n"
+"розніс у дедматчі за хвилину!"
 
 msgid "QUITMSG12"
 msgstr ""
-"Слухай друже. Якщо підеш зараз - твій лічильник вбивств впаде до нуля!"
+"Слухай друже. Якщо підеш зараз –\n"
+"твій лічильник вбивств впаде до нуля!"
 
 msgid "QUITMSG13"
-msgstr "Давай, йди. Бита почекає тебе."
+msgstr ""
+"Давай, йди.\n"
+"Бита почекає тебе."
 
 msgid "QUITMSG14"
-msgstr "Тобі пощастило, що я не шибану тебе за вихід."
+msgstr ""
+"Тобі пощастило, що я не\n"
+"шибану тебе за вихід."
 
 msgid "QUITMSG15"
 msgstr ""
 "Куди зібрався?!\n"
 "А повстання?"
 
-#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
-"Різанина затихає...\n"
+"Різанина затихає…\n"
 "Бісить!"
 
 msgid "QUITMSG17"
 msgstr ""
-"Ти ж моя єдина надія -\n"
-"мій останній шанс!"
+"Ти ж моя єдина надія\n"
+"—мій останній шанс!"
 
 msgid "QUITMSG18"
 msgstr "Ще ніхто не дав чосу від Чорного дрозда."
 
-#, fuzzy
 msgid "QUITMSG19"
-msgstr "Я думав, що ти інший..."
+msgstr "Я думав, що ти інший…"
 
 msgid "QUITMSG20"
 msgstr "Прекрасно! Зробив амінь чортам і втік!"
@@ -4640,6 +4650,7 @@ msgstr "Збереження \"%s\" з несумісної версії пор�
 msgid "TXT_OTHERENGINESG"
 msgstr "Збереження \"%s\" з іншого двигуна на базі ZDoom:"
 
+#, fuzzy
 msgid "TXT_TOOOLDSG"
 msgstr "Збереження \"%s\" з старішої версії: %d (%e остання сумісна)"
 
@@ -4648,6 +4659,7 @@ msgstr "Збереження \"%s\" з старішої версії: %d (%e о�
 # — Undead
 # 
 # Ask Randi: The text is old. I won't change it.
+#, fuzzy
 msgid "TXT_TOONEWSG"
 msgstr "Збереження \"%s\" з новіщої версії: %d (%e остання сумісна)"
 

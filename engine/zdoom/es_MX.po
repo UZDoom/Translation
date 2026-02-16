@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 03:10+0000\n"
+"PO-Revision-Date: 2026-02-16 22:40+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/es_MX/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16-dev\n"
+"X-Generator: Weblate 5.16\n"
 "X-HeaderCode: esm esn esg esc esa esd esv eso esr ess esf esl esy esz esb "
 "ese esh esi esu\n"
 
@@ -113,10 +113,9 @@ msgstr ""
 "Intentas decir que prefieres DOS\n"
 "antes que a mí, ¿Verdad?"
 
-#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
-"¡Aún no te vayas -- hay un\n"
+"¡Aún no te vayas—hay un\n"
 "demonio por esa esquina!"
 
 msgid "QUITMSG6"
@@ -163,23 +162,21 @@ msgstr ""
 "¿A dónde vas?\n"
 "¿Qué hay de la rebelión?"
 
-#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
-"Masacre interruptus...\n"
+"Masacre interruptus…\n"
 "¡Qué estafa!"
 
 msgid "QUITMSG17"
 msgstr ""
 "Pero, eres mi esperanza\n"
-"-- ¡Mi única oportunidad!"
+"—¡Mi única oportunidad!"
 
 msgid "QUITMSG18"
 msgstr ""
 
-#, fuzzy
 msgid "QUITMSG19"
-msgstr "Creí que eras diferente..."
+msgstr "Creí que eras diferente…"
 
 msgid "QUITMSG20"
 msgstr ""
