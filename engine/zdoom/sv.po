@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-15 21:10+0000\n"
+"PO-Revision-Date: 2026-02-16 03:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/sv/>\n"
@@ -119,14 +119,18 @@ msgstr ""
 "en demon runt hörnet!"
 
 msgid "QUITMSG6"
-msgstr "Nästa gång du kommer hit ska jag skåla för dig."
+msgstr ""
+"Nästa gång du kommer hit\n"
+"ska jag skåla för dig."
 
 msgid "QUITMSG7"
 msgstr "Gå du bara och se om jag bryr mig."
 
 # More info here.
 msgid "QUITMSG8"
-msgstr "Vill du sluta? Då har du förlorat en åttondel!"
+msgstr ""
+"Vill du sluta?\n"
+"Då har du förlorat en åttondel!"
 
 # A “dimensional shambler” is a creature appearing in the works of H. P.
 # Lovecraft.
