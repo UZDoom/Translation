@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 22:10+0000\n"
+"PO-Revision-Date: 2026-02-16 22:40+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/be/>\n"
@@ -177,15 +177,14 @@ msgstr ""
 
 msgid "QUITMSG17"
 msgstr ""
-"Але на табе ўся надзея —\n"
-"ты мой апошні шанс!"
+"Але на табе ўся надзея\n"
+"—ты мой апошні шанс!"
 
 msgid "QUITMSG18"
 msgstr "Яшчэ ніхто не сышоў ад Чорнага дразда."
 
-#, fuzzy
 msgid "QUITMSG19"
-msgstr "Я думаў аб табе інакш..."
+msgstr "Я думаў аб табе інакш…"
 
 msgid "QUITMSG20"
 msgstr "Цудоўна! Пастраляў ды змыўся!"
