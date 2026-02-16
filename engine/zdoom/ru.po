@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 22:39+0000\n"
+"PO-Revision-Date: 2026-02-17 00:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ru/>\n"
@@ -936,7 +936,7 @@ msgid "TAG_PLASMARIFLE"
 msgstr "Плазменная пушка"
 
 msgid "TAG_BFG9000"
-msgstr "BFG 9000"
+msgstr "БФГ 9000"
 
 msgid "AMMO_CLIP"
 msgstr "Пули"
