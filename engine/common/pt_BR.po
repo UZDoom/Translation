@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 19:10+0000\n"
+"PO-Revision-Date: 2026-02-16 03:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "uzdoom/common/pt_BR/>\n"
@@ -92,7 +92,6 @@ msgstr "Versão diferente"
 msgid "MNU_NOFILES"
 msgstr "Vazio"
 
-#, fuzzy
 msgid "MNU_DELETESG"
 msgstr "Deseja mesmo excluir o jogo salvo?"
 
