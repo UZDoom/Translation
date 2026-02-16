@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 22:10+0000\n"
+"PO-Revision-Date: 2026-02-16 22:39+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/es/>\n"
@@ -176,15 +176,14 @@ msgstr ""
 
 msgid "QUITMSG17"
 msgstr ""
-"Pero tú eres la esperanza... \n"
+"Pero tú eres la esperanza...\n"
 "¡¡Mi única oportunidad!!"
 
 msgid "QUITMSG18"
 msgstr "Nadie abandona a Blackbird."
 
-#, fuzzy
 msgid "QUITMSG19"
-msgstr "Pensé que eras diferente..."
+msgstr "Pensé que eras diferente…"
 
 msgid "QUITMSG20"
 msgstr "¡Bien! ¡Matas y huyes!"
