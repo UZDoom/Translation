@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-14 15:09+0000\n"
-"Last-Translator: Francisco Serrador <fserrador@gmail.com>\n"
+"PO-Revision-Date: 2026-02-17 13:10+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/doom-engine-"
 "games/hacx-filter/es/>\n"
 "Language: es\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16-dev\n"
+"X-Generator: Weblate 5.16.1-dev\n"
 "X-HeaderCode: es\n"
 
 msgid "QUITMSG1"
@@ -490,7 +490,7 @@ msgstr "Selección: Imposible "
 
 # Should probably not be translated...
 msgid "STSTR_MUS"
-msgstr "Subir el Volumen\n"
+msgstr "Sube el volumen\n"
 
 msgid "STSTR_KFAADDED"
 msgstr "INIT-Modo Tirar a Matar"
