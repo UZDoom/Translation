@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 03:10+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-16 22:10+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ja/>\n"
 "Language: ja\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.16-dev\n"
+"X-Generator: Weblate 5.16\n"
 "X-HeaderCode: jp\n"
 
 #, fuzzy
@@ -4648,6 +4648,7 @@ msgstr "%s' は互換性の無いバージョンのセーブデータだ。"
 msgid "TXT_OTHERENGINESG"
 msgstr "%s' は別のZDoom型のセーブデータだ。"
 
+#, fuzzy
 msgid "TXT_TOOOLDSG"
 msgstr "%s' はバージョンが合わないセーブデータだ: %d(%e は旧式版の物)"
 
@@ -4656,6 +4657,7 @@ msgstr "%s' はバージョンが合わないセーブデータだ: %d(%e は旧
 # — Undead
 # 
 # Ask Randi: The text is old. I won't change it.
+#, fuzzy
 msgid "TXT_TOONEWSG"
 msgstr "%s' はバージョンが合わないセーブデータだ: %d(%e は最新版の物)"
 
