@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 22:40+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-17 00:10+0000\n"
+"Last-Translator: Ipa-oss <backman.ilari@proton.me>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fi/>\n"
 "Language: fi\n"
@@ -565,7 +565,7 @@ msgid "TXT_IMTIME"
 msgstr "Aika"
 
 msgid "TXT_IMPAR"
-msgstr ""
+msgstr "Par"
 
 msgid "WI_FINISHED"
 msgstr "Suoritettu"
@@ -5103,7 +5103,7 @@ msgid "PAUSE_STRING"
 msgstr "Tauko"
 
 msgid "TAG_BACKPACK"
-msgstr ""
+msgstr "Reppu"
 
 msgid "TAG_ARMORBONUS"
 msgstr ""
