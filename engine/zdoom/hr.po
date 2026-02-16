@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 03:10+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-16 22:09+0000\n"
+"Last-Translator: SecularSteve <fairfull.playing@gmail.com>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hr/>\n"
 "Language: hr\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.16-dev\n"
+"X-Generator: Weblate 5.16\n"
 "X-HeaderCode: hr\n"
 
 msgid "PRESSKEY"
@@ -4618,6 +4618,7 @@ msgstr "Spremljena igra '%s' je iz nekompatibilne verzije."
 msgid "TXT_OTHERENGINESG"
 msgstr "Spremljena igra '%s' je iz drugog ZDoom engine-a:"
 
+#, fuzzy
 msgid "TXT_TOOOLDSG"
 msgstr ""
 "Spremljena igra '%s' je iz starije verzije: %d (%e je najstarija podržana "
@@ -4628,6 +4629,7 @@ msgstr ""
 # — Undead
 # 
 # Ask Randi: The text is old. I won't change it.
+#, fuzzy
 msgid "TXT_TOONEWSG"
 msgstr ""
 "Spremljena igra '%s' je iz novije verzije: %d (%e je najviše podržana "
