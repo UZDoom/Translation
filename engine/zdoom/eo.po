@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 03:10+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-16 22:10+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/eo/>\n"
 "Language: eo\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16-dev\n"
+"X-Generator: Weblate 5.16\n"
 "X-HeaderCode: eo\n"
 
 msgid "PRESSKEY"
@@ -4656,6 +4656,7 @@ msgstr "Konservita ludado '%s' estas el nekongrua versio."
 msgid "TXT_OTHERENGINESG"
 msgstr "Konservita ludado '%s' estas el alia ZDoom-bazita modulo:"
 
+#, fuzzy
 msgid "TXT_TOOOLDSG"
 msgstr ""
 "Konservita ludado '%s' estas el pli malnova versio: %d (%e estas la plej "
@@ -4666,6 +4667,7 @@ msgstr ""
 # — Undead
 # 
 # Ask Randi: The text is old. I won't change it.
+#, fuzzy
 msgid "TXT_TOONEWSG"
 msgstr ""
 "Konservita ludado '%s' estas el pli nova versio: %d (%e estas la plej nova "
