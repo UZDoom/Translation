@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-15 21:10+0000\n"
+"PO-Revision-Date: 2026-02-16 03:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/cs/>\n"
@@ -97,10 +97,9 @@ msgstr ""
 "Nenechávej mě tu, je tu\n"
 "víc démonů k vymletí!"
 
-#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
-"Utečme -- začíná\n"
+"Utečme—začíná\n"
 "tu téct krev!"
 
 msgid "QUITMSG3"
@@ -125,9 +124,7 @@ msgstr ""
 "dostanu tě."
 
 msgid "QUITMSG7"
-msgstr ""
-"Jen do toho, odejdi; schválně,\n"
-"jestli mi to bude jedno."
+msgstr "Jen do toho, odejdi; schválně, jestli mi to bude jedno."
 
 # More info here.
 msgid "QUITMSG8"
