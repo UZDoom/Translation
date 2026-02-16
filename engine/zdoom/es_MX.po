@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-15 18:10+0000\n"
+"PO-Revision-Date: 2026-02-16 03:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/es_MX/>\n"
@@ -98,10 +98,9 @@ msgstr ""
 "¡No te vayas, aún quedan demonios\n"
 "por los que exterminar!"
 
-#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
-"¡Larguémonos -- es un mar\n"
+"¡Larguémonos—es un mar\n"
 "de sangre aqui!"
 
 msgid "QUITMSG3"
