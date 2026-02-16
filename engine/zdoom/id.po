@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 03:10+0000\n"
+"PO-Revision-Date: 2026-02-16 22:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/id/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.16-dev\n"
+"X-Generator: Weblate 5.16\n"
 
 msgid "PRESSKEY"
 msgstr "Tekan tombol apapun."
@@ -111,10 +111,9 @@ msgstr ""
 "Kau mau bilang bahwa kau menyukai DOS\n"
 "lebih daripadaku, ya kan?"
 
-#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
-"Jangan pergi dulu -- ada\n"
+"Jangan pergi dulu—ada\n"
 "setan disekitar pojok itu!"
 
 msgid "QUITMSG6"
@@ -169,10 +168,9 @@ msgstr ""
 "Mau kemana kau?!\n"
 "Bagaimana dengan rebellion?"
 
-#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
-"Bantaian Terhenti...\n"
+"Bantaian Terhenti…\n"
 "Sangat menyebalkan!"
 
 msgid "QUITMSG17"
