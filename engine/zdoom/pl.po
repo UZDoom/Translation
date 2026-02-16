@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-15 21:10+0000\n"
+"PO-Revision-Date: 2026-02-16 03:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/pl/>\n"
@@ -98,10 +98,9 @@ msgstr ""
 "Proszę, nie odchodź, jest więcej\n"
 "demonów do stostowania!"
 
-#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
-"Zmywajmy się stąd -- robi się\n"
+"Zmywajmy się stąd—robi się\n"
 "tu rzeźnia!"
 
 msgid "QUITMSG3"
@@ -126,13 +125,13 @@ msgstr ""
 "stostuje cię."
 
 msgid "QUITMSG7"
-msgstr ""
-"No dalej, odejdź. Zobaczymy czy\n"
-"mnie to obchodzi."
+msgstr "No dalej, idź. Patrz, jak bardzo mnie to obchodzi."
 
 # More info here.
 msgid "QUITMSG8"
-msgstr "Chcesz odejść? Wiele stracisz!"
+msgstr ""
+"Chcesz odejść?\n"
+"Wiele stracisz!"
 
 # A “dimensional shambler” is a creature appearing in the works of H. P.
 # Lovecraft.
