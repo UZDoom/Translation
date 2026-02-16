@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 03:10+0000\n"
+"PO-Revision-Date: 2026-02-16 22:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Bashkir <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ba/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16-dev\n"
+"X-Generator: Weblate 5.16\n"
 "X-HeaderCode: ba\n"
 
 msgid "PRESSKEY"
@@ -20,7 +20,6 @@ msgstr "Pritisnite tipku."
 msgid "SECRETMESSAGE"
 msgstr "Tajna je otkrivena!"
 
-#, fuzzy
 msgid "D_DEVSTR"
 msgstr "Beskorisni način je UKLJ."
 
@@ -136,32 +135,44 @@ msgstr ""
 # A “dimensional shambler” is a creature appearing in the works of H. P.
 # Lovecraft.
 msgid "QUITMSG9"
-msgstr "Nemoj ići sada, dimenzionalni šambler čeka u DOS komandi!"
+msgstr ""
+"Nemoj ići sada,\n"
+"dimenzionalni šambler\n"
+"čeka u DOS komandi!"
 
 msgid "QUITMSG10"
-msgstr "Gubi se odavde i vrati se svojim dosadnim programima."
+msgstr ""
+"Gubi se odavde i vrati se\n"
+"svojim dosadnim programima."
 
 msgid "QUITMSG11"
-msgstr "Da sam ti ja šef, sabio bih te u smrtnoj borbi!"
+msgstr ""
+"Da sam ti ja šef, sabio\n"
+"bih te u smrtnoj borbi!"
 
 msgid "QUITMSG12"
-msgstr "Gle, buraz. Ako sada odeš, predaješ i svoj broj strvi!"
+msgstr ""
+"Gle, buraz. Ako sada odeš,\n"
+"predaješ i svoj broj strvi!"
 
 msgid "QUITMSG13"
-msgstr "Ajd odi. Kad se vratiš, prebit ću te mačurom."
+msgstr ""
+"Ajd odi. Kad se vratiš,\n"
+"prebit ću te mačurom."
 
 msgid "QUITMSG14"
-msgstr "Imaš sreće što sam preumoran da te opalim jer razmišljaš o odlasku."
+msgstr ""
+"Imaš sreće što sam preumoran da\n"
+"te opalim jer razmišljaš o odlasku."
 
 msgid "QUITMSG15"
 msgstr ""
 "Gdje ideš?\n"
 "Što je s pobunom?"
 
-#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
-"Strvus prekidius...\n"
+"Strvus prekidius…\n"
 "Koja zafrkancija!"
 
 msgid "QUITMSG17"
