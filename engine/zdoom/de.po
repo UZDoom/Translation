@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 22:10+0000\n"
+"PO-Revision-Date: 2026-02-16 22:40+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/de/>\n"
@@ -169,23 +169,21 @@ msgstr ""
 "Wo gehst du hin?!\n"
 "Was ist mit der Rebellion?"
 
-#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
-"Carnage interruptus... \n"
+"Carnage interruptus…\n"
 "Was für ein Witzbold!"
 
 msgid "QUITMSG17"
 msgstr ""
 "Aber du bist unsere Hoffnung \n"
-"-- meine einzige Chance!!"
+"—meine einzige Chance!!"
 
 msgid "QUITMSG18"
 msgstr "Niemand lässt Blackbird stehen."
 
-#, fuzzy
 msgid "QUITMSG19"
-msgstr "Ich dachte, du wärst anders..."
+msgstr "Ich dachte, du wärst anders…"
 
 msgid "QUITMSG20"
 msgstr "Na Gut! Einfach Töten und Rennen!"
