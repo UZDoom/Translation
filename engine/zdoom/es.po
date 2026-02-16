@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-15 21:10+0000\n"
+"PO-Revision-Date: 2026-02-16 03:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/es/>\n"
@@ -97,7 +97,6 @@ msgstr ""
 "¡No te vayas, que aún quedan\n"
 "demonios para freír!"
 
-#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
 "Aceptémoslo, ¡esto se está\n"
@@ -131,7 +130,7 @@ msgstr "Ya vete. A ver si me importa."
 msgid "QUITMSG8"
 msgstr ""
 "Salir del juego:\n"
-"golpe de remo."
+"golpe de remo!"
 
 # A “dimensional shambler” is a creature appearing in the works of H. P.
 # Lovecraft.
