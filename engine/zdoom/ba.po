@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 22:10+0000\n"
+"PO-Revision-Date: 2026-02-16 22:40+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Bashkir <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ba/>\n"
@@ -178,14 +178,13 @@ msgstr ""
 msgid "QUITMSG17"
 msgstr ""
 "Al ti si nada\n"
-"-- moja jedina prilika!!"
+"—moja jedina prilika!!"
 
 msgid "QUITMSG18"
 msgstr "Niko ne napušta Crni Kos."
 
-#, fuzzy
 msgid "QUITMSG19"
-msgstr "Mislio san da si drugačiji..."
+msgstr "Mislio san da si drugačiji…"
 
 msgid "QUITMSG20"
 msgstr "Ajd onda! Samo ubij i odjebi!"
