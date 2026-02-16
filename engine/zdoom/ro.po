@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "PO-Revision-Date: 2026-02-16 22:10+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ro/>\n"
 "Language: ro\n"
@@ -21,7 +21,6 @@ msgstr "Apasă o tastă."
 msgid "SECRETMESSAGE"
 msgstr "Ai găsit un secret!"
 
-#, fuzzy
 msgid "D_DEVSTR"
 msgstr "Modul inutil ACTIVAT."
 
@@ -138,8 +137,9 @@ msgstr ""
 # Lovecraft.
 msgid "QUITMSG9"
 msgstr ""
-"Nu pleca acum, e un monstru interdimensional care\n"
-"te așteaptă la fereastra DOS!"
+"Nu pleca acum, e un monstru\n"
+"interdimensional care te\n"
+"așteaptă la fereastra DOS!"
 
 msgid "QUITMSG10"
 msgstr ""
