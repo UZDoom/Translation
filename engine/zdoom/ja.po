@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "PO-Revision-Date: 2026-02-16 22:10+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ja/>\n"
 "Language: ja\n"
@@ -113,7 +113,6 @@ msgstr ""
 "貴方はこちらよりも\n"
 "デスクトップの方が好みらしいな?"
 
-#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
 "待ってくれ!まだあそこの角に\n"
@@ -171,10 +170,9 @@ msgstr ""
 "どこに行く気だ?!\n"
 "反抗するつもりか?"
 
-#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
-"大虐殺は寸止めされた...\n"
+"大虐殺は寸止めされた…\n"
 "何という意地悪なやつだ!"
 
 msgid "QUITMSG17"
