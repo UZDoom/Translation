@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-15 21:09+0000\n"
+"PO-Revision-Date: 2026-02-16 03:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/uk/>\n"
@@ -99,7 +99,6 @@ msgstr ""
 "Будь ласка, не йди - тут\n"
 "ще купа демонів!"
 
-#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
 "Споримо, що ця кривава\n"
@@ -120,15 +119,20 @@ msgstr ""
 "Зачекай! Не йди—тут за куточком\n"
 "сховався ще один демон!"
 
+#, fuzzy
 msgid "QUITMSG6"
-msgstr "Шоб знав, коли повернешся - я намилю тобі шию."
+msgstr ""
+"Шоб знав, коли повернешся\n"
+"я намилю тобі шию."
 
 msgid "QUITMSG7"
 msgstr "Давай, йди... ніби мені не все одно."
 
 # More info here.
 msgid "QUITMSG8"
-msgstr "Вийти? ВИЙТИ?! Це так не працює."
+msgstr ""
+"Вийти?\n"
+"Це так не працює!"
 
 # A “dimensional shambler” is a creature appearing in the works of H. P.
 # Lovecraft.
