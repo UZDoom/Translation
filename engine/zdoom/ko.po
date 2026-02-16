@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-15 21:09+0000\n"
+"PO-Revision-Date: 2026-02-16 03:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ko/>\n"
@@ -99,10 +99,9 @@ msgstr ""
 "부디 나가지 말아줘, 아직 죽여야\n"
 "할 악마들이 남아있단 말이야!"
 
-#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
-"그냥 나가자고 —\n"
+"그냥 나가자고—\n"
 "유혈사태가 곧 시작될 것 같으니!"
 
 msgid "QUITMSG3"
@@ -121,14 +120,18 @@ msgstr ""
 "악마가 숨어있다고!"
 
 msgid "QUITMSG6"
-msgstr "있지, 만약 네가 다시 돌아온다면 너를 아예 구워버릴 거다."
+msgstr ""
+"있지, 만약 네가 다시 돌아온다면\n"
+"너를 아예 구워버릴 거다."
 
 msgid "QUITMSG7"
 msgstr "그럼 나가버려. 난 신경 안 써."
 
 # More info here.
 msgid "QUITMSG8"
-msgstr "나가시겠다? 그럼, 당신은 8번째 조각을 잃었다!"
+msgstr ""
+"나가시겠다?\n"
+"그럼, 당신은 8번째 조각을 잃었다!"
 
 # A “dimensional shambler” is a creature appearing in the works of H. P.
 # Lovecraft.
