@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 03:10+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-16 22:10+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/it/>\n"
 "Language: it\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16-dev\n"
+"X-Generator: Weblate 5.16\n"
 "X-HeaderCode: it\n"
 
 msgid "PRESSKEY"
@@ -4658,6 +4658,7 @@ msgstr "Il salvataggio '%s' proviene da una versione incompatibile."
 msgid "TXT_OTHERENGINESG"
 msgstr "Il salvataggio '%s' proviene da un altro motore basato su ZDoom:"
 
+#, fuzzy
 msgid "TXT_TOOOLDSG"
 msgstr ""
 "Il salvataggio '%s' proviene da una versione precedente: %d (%e è la più "
@@ -4668,6 +4669,7 @@ msgstr ""
 # — Undead
 # 
 # Ask Randi: The text is old. I won't change it.
+#, fuzzy
 msgid "TXT_TOONEWSG"
 msgstr ""
 "Il salvataggio '%s' proviene da una versione recente: %d (%e è la più "
