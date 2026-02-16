@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 22:10+0000\n"
+"PO-Revision-Date: 2026-02-16 22:40+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/sv/>\n"
@@ -166,21 +166,25 @@ msgstr ""
 "för att du funderar på att gå."
 
 msgid "QUITMSG15"
-msgstr "Vart är du på väg?! Hur blir det med upproret?"
+msgstr ""
+"Vart är du på väg?!\n"
+"Hur blir det med upproret?"
 
-#, fuzzy
 msgid "QUITMSG16"
-msgstr "Carnage interruptus... Vilket hångel!"
+msgstr ""
+"Carnage interruptus…\n"
+"Vilket hångel!"
 
 msgid "QUITMSG17"
-msgstr "Men du är hoppet - min enda chans!!"
+msgstr ""
+"Men du är hoppet\n"
+"—min enda chans!!"
 
 msgid "QUITMSG18"
 msgstr "Ingen lämnar Blackbird."
 
-#, fuzzy
 msgid "QUITMSG19"
-msgstr "Jag trodde att du var annorlunda..."
+msgstr "Jag trodde att du var annorlunda…"
 
 msgid "QUITMSG20"
 msgstr "Okej! Döda bara och spring!"
