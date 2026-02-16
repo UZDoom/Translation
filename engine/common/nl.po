@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-15 21:09+0000\n"
+"PO-Revision-Date: 2026-02-16 03:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/uzdoom/common/nl/>"
 "\n"
@@ -92,7 +92,6 @@ msgstr "Anders Versie"
 msgid "MNU_NOFILES"
 msgstr "Geen bestanden"
 
-#, fuzzy
 msgid "MNU_DELETESG"
 msgstr "Wil je echt de opgeslagen spel verwijderen?"
 
