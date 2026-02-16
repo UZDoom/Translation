@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-15 16:09+0000\n"
-"Last-Translator: Aurorasphere <kraftwerkislove@gmail.com>\n"
+"PO-Revision-Date: 2026-02-16 03:09+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/common/ko/>"
 "\n"
 "Language: ko\n"
@@ -91,7 +91,6 @@ msgstr "다른 버젼"
 msgid "MNU_NOFILES"
 msgstr "파일 없음"
 
-#, fuzzy
 msgid "MNU_DELETESG"
 msgstr "저장된 게임을 정말로 삭제하시겠습니까?"
 
