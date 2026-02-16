@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 19:10+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-16 22:09+0000\n"
+"Last-Translator: egoranuchin <Egoranuchin@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/common/"
 "ru/>\n"
 "Language: ru\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.16-dev\n"
+"X-Generator: Weblate 5.16\n"
 "X-HeaderCode: ru\n"
 
 msgid "PRESSYN"
@@ -1332,12 +1332,15 @@ msgstr "2x"
 msgid "OPTVAL_4X"
 msgstr "4x"
 
+#, fuzzy
 msgid "OPTVAL_8X"
 msgstr "8x"
 
+#, fuzzy
 msgid "OPTVAL_16X"
 msgstr "16x"
 
+#, fuzzy
 msgid "OPTVAL_32X"
 msgstr "32x"
 
