@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 22:39+0000\n"
+"PO-Revision-Date: 2026-02-17 04:30+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ko/>\n"
@@ -189,35 +189,50 @@ msgstr "난 네가 다를 줄 알았는데…"
 msgid "QUITMSG20"
 msgstr "그래그래 알았다! 그럼 그냥 뛰고 죽이기나 해!"
 
-#, fuzzy
 msgid "QUITMSG21"
-msgstr "나갈 수는 있겠지만... 숨을 수는 없을 거다..."
+msgstr ""
+"나갈 수는 있겠지만…\n"
+"숨을 수는 없을 거다…"
 
 msgid "QUITMSG22"
-msgstr "헤에에, 무슨 일이야? 엄마가 저녁 먹으레?"
+msgstr ""
+"헤에에, 무슨 일이야?\n"
+"엄마가 저녁 먹으레?"
 
 msgid "QUITMSG23"
-msgstr "부디 종료하지 말아 주세요, 플레모이드들이 아직도 널려있단 말입니다!"
+msgstr ""
+"부디 종료하지 말아 주세요,\n"
+"플레모이드들이 아직도 널려있단 말입니다!"
 
 msgid "QUITMSG24"
-msgstr "부디 포기하지 마시길- 플레모이드들이 그 순간 우세할 것입니다!"
+msgstr ""
+"부디 포기하지 마시길—플레모이드들이\n"
+"그 순간 우세할 것입니다!"
 
 msgid "QUITMSG25"
-msgstr "지금 떠나지 말아 주세요. 우린 당신의 도움이 필요합니다!"
+msgstr ""
+"지금 떠나지 말아 주세요.\n"
+"우린 당신의 도움이 필요합니다!"
 
-#, fuzzy
 msgid "QUITMSG26"
-msgstr "첵스(R) 한 박스를 뜯기 위해서 잠시 중단하는 거였으면 좋겠군요."
+msgstr ""
+"첵스® 한 박스를 뜯기 위해서 잠시\n"
+"중단하는 거였으면 좋겠군요."
 
 msgid "QUITMSG27"
-msgstr "지금 그만두지 마세요! 우린 당신의 도움이 필요합니다!"
+msgstr ""
+"지금 그만두지 마세요!\n"
+"우린 당신의 도움이 필요합니다!"
 
 msgid "QUITMSG28"
-msgstr "은하연합시리얼국을 위해서라도 부디 떠나지 말아 주시길 바랍니다!"
+msgstr ""
+"은하연합시리얼국을 위해서라도\n"
+"부디 떠나지 말아 주시길 바랍니다!"
 
-#, fuzzy
 msgid "QUITMSG29"
-msgstr "진정한 첵스(R)전사는 그렇게 빨리 포기하지 않을 것입니다!"
+msgstr ""
+"진정한 첵스®전사는 그렇게\n"
+"빨리 포기하지 않을 것입니다!"
 
 msgid "TXT_DEFAULTPICKUPMSG"
 msgstr "무언가를 집어냈다"
