@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 22:40+0000\n"
+"PO-Revision-Date: 2026-02-17 04:30+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Bashkir <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ba/>\n"
@@ -189,11 +189,10 @@ msgstr "Mislio san da si drugačiji…"
 msgid "QUITMSG20"
 msgstr "Ajd onda! Samo ubij i odjebi!"
 
-#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
-"Možeš izaći...\n"
-"al se ne možeš sakriti..."
+"Možeš izaći…\n"
+"al se ne možeš sakriti…"
 
 msgid "QUITMSG22"
 msgstr ""
@@ -201,19 +200,24 @@ msgstr ""
 "Mamica kaže da moraš da jedeš?"
 
 msgid "QUITMSG23"
-msgstr "Nemoj sad izaći! Ima još flemoida na slobodi!"
+msgstr ""
+"Nemoj sad izaći!\n"
+"Ima još flemoida na slobodi!"
 
 msgid "QUITMSG24"
-msgstr "Ne odustaj -- flemoidi će je dobiti prednost!"
+msgstr ""
+"Ne odustaj—flemoidi\n"
+"će je dobiti prednost!"
 
 msgid "QUITMSG25"
 msgstr ""
 "Ne napuštaj sad.\n"
 "Treba nam vaša pomoć!"
 
-#, fuzzy
 msgid "QUITMSG26"
-msgstr "Nadam se da ste pauzirali da jedete Chex(R) Party Mix."
+msgstr ""
+"Nadam se da ste pauzirali\n"
+"da jedete Chex® Party Mix."
 
 msgid "QUITMSG27"
 msgstr ""
@@ -225,35 +229,34 @@ msgstr ""
 "Nemojte napusiti\n"
 "Međusvemirsku Federaciju Pahuljica!"
 
-#, fuzzy
 msgid "QUITMSG29"
 msgstr ""
-"Pravi Chex(R) Borac\n"
+"Pravi Chex® Borac\n"
 "ne bi tako brzo odustao!"
 
 msgid "TXT_DEFAULTPICKUPMSG"
-msgstr "Predmet je pokupljen."
+msgstr "Predmet je pokupljen"
 
 msgid "PD_ANY"
-msgstr "Bilo koji ključ će otvoriti ova vrata."
+msgstr "Bilo koji ključ će otvoriti ova vrata"
 
 msgid "PD_ANYOBJ"
-msgstr "Bilo koji ključ će aktivirati ovaj predmet."
+msgstr "Bilo koji ključ će aktivirati ovaj predmet"
 
 msgid "PD_ALL3"
-msgstr "Potrebna su vam sva 3 ključa da otvorite ova vrata."
+msgstr "Potrebna su vam sva 3 ključa da otvorite ova vrata"
 
 msgid "PD_ALL3O"
-msgstr "Potrebna su vam sva 3 ključa da aktivirate ovaj predmet."
+msgstr "Potrebna su vam sva 3 ključa da aktivirate ovaj predmet"
 
 msgid "PD_ALL6"
-msgstr "Potrebno vem je svih 6 ključeva da otvorite ova vrata."
+msgstr "Potrebno vem je svih 6 ključeva da otvorite ova vrata"
 
 msgid "PD_ALL6O"
-msgstr "Potrebno vam je svih 6 ključeva da aktivirate ovaj predmet."
+msgstr "Potrebno vam je svih 6 ključeva da aktivirate ovaj predmet"
 
 msgid "PD_ALLKEYS"
-msgstr "Potrebni su vam svi ključevi."
+msgstr "Potrebni su vam svi ključevi"
 
 msgid "HUSTR_MSGU"
 msgstr "[Poruka nije poslana]"
