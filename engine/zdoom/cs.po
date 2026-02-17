@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 17:10+0000\n"
+"PO-Revision-Date: 2026-02-17 18:15+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/cs/>\n"
@@ -346,6 +346,7 @@ msgstr "Super Buddha mód ZAP"
 msgid "TXT_BUDDHA2OFF"
 msgstr "Super Buddha mód VYP"
 
+#, fuzzy
 msgid "TXT_CHEATPOWERON"
 msgstr "Energie ZAP"
 
