@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 14:09+0000\n"
+"PO-Revision-Date: 2026-02-17 17:09+0000\n"
 "Last-Translator: Ahmet Emre Gürdal <gurdalahmetemre@disroot.org>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/tr/>\n"
@@ -927,7 +927,7 @@ msgid "TAG_PLASMARIFLE"
 msgstr "Plazma Tüfeği"
 
 msgid "TAG_BFG9000"
-msgstr "BFG 9000"
+msgstr "ABT 9000"
 
 msgid "AMMO_CLIP"
 msgstr "Kurşunlar"
