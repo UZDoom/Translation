@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 04:30+0000\n"
+"PO-Revision-Date: 2026-02-17 05:22+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/nl/>\n"
@@ -272,9 +272,8 @@ msgstr "Je wordt bang van jezelf"
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Je begint te razen"
 
-#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
-msgstr "Je bent gek geworden..."
+msgstr "Je bent gek geworden…"
 
 msgid "HUSTR_MESSAGESENT"
 msgstr "[Bericht verzonden]"
@@ -329,9 +328,8 @@ msgstr "Versterking ingeschakeld"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
-#, fuzzy
 msgid "STSTR_CHOPPERS"
-msgstr "... is niet slecht - GM"
+msgstr "… is niet slecht - GM"
 
 #, fuzzy
 msgid "STSTR_CLEV"
