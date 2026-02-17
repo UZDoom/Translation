@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 17:10+0000\n"
+"PO-Revision-Date: 2026-02-17 18:15+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Bashkir <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ba/>\n"
@@ -339,19 +339,19 @@ msgid "STSTR_CLEV"
 msgstr "Promjena razine…"
 
 msgid "TXT_BUDDHAON"
-msgstr "Način Bude UKLJ."
+msgstr "Način Bude UKLJ"
 
 msgid "TXT_BUDDHAOFF"
-msgstr "Način Bude ISKLJ."
+msgstr "Način Bude ISKLJ"
 
 msgid "TXT_BUDDHA2ON"
-msgstr "Ultimativni način Bude UKLJ."
+msgstr "Ultimativni način Bude UKLJ"
 
 msgid "TXT_BUDDHA2OFF"
-msgstr "Ultimativni način Bude ISKLJ."
+msgstr "Ultimativni način Bude ISKLJ"
 
 msgid "TXT_CHEATPOWERON"
-msgstr "Energija UKLJ."
+msgstr "Energija UKLJ"
 
 msgid "TXT_CHEATPOWEROFF"
 msgstr "Energija ISKLJ."
