@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 22:39+0000\n"
+"PO-Revision-Date: 2026-02-17 04:30+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/sr/>\n"
@@ -191,11 +191,10 @@ msgstr "О теби сам мислила другачије…"
 msgid "QUITMSG20"
 msgstr "Добро! Само убијај и бежи!"
 
-#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
-"Можеш да одеш...\n"
-"али не можеш да се кријеш..."
+"Можеш да одеш…\n"
+"али не можеш да се кријеш…"
 
 msgid "QUITMSG22"
 msgstr ""
@@ -203,11 +202,13 @@ msgstr ""
 "Мама те зове на вечеру?"
 
 msgid "QUITMSG23"
-msgstr "Не одустај сада, још увек има флемоида на слободи!"
+msgstr ""
+"Не одустај сада, још увек\n"
+"има флемоида на слободи!"
 
 msgid "QUITMSG24"
 msgstr ""
-"Немој да одустајеш --\n"
+"Немој да одустајеш—\n"
 "љигавци ће добити предност!"
 
 msgid "QUITMSG25"
@@ -215,11 +216,10 @@ msgstr ""
 "Не излази сада.\n"
 "Треба нам твоја помоћ!"
 
-#, fuzzy
 msgid "QUITMSG26"
 msgstr ""
 "Надам се да само паузираш\n"
-"за Chex житарице."
+"за Chex® житарице."
 
 msgid "QUITMSG27"
 msgstr ""
@@ -231,7 +231,6 @@ msgstr ""
 "Не напуштај Интергалактичку\n"
 "федерацију овсених пахуљица!"
 
-#, fuzzy
 msgid "QUITMSG29"
 msgstr ""
 "Прави Чекс ратници не\n"
