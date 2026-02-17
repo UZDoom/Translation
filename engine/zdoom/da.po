@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 05:22+0000\n"
+"PO-Revision-Date: 2026-02-17 18:15+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/da/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16\n"
+"X-Generator: Weblate 5.16.1-dev\n"
 "X-HeaderCode: da\n"
 
 msgid "PRESSKEY"
@@ -328,13 +328,11 @@ msgstr "Strømoptagelse Skiftet"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
-#, fuzzy
 msgid "STSTR_CHOPPERS"
-msgstr "... er ikke dårlig - GM"
+msgstr "… er ikke dårlig - GM"
 
-#, fuzzy
 msgid "STSTR_CLEV"
-msgstr "Ændring af niveau ..."
+msgstr "Ændring af niveau…"
 
 msgid "TXT_BUDDHAON"
 msgstr "Buddha-tilstand TIL"
@@ -348,6 +346,7 @@ msgstr "Ultimate Buddha-tilstand TIL"
 msgid "TXT_BUDDHA2OFF"
 msgstr "Ultimate Buddha-tilstand FRA"
 
+#, fuzzy
 msgid "TXT_CHEATPOWERON"
 msgstr "Evne TIL"
 

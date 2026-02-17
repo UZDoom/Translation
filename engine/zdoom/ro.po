@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 05:22+0000\n"
+"PO-Revision-Date: 2026-02-17 18:15+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ro/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2;\n"
-"X-Generator: Weblate 5.16\n"
+"X-Generator: Weblate 5.16.1-dev\n"
 "X-HeaderCode: ro\n"
 
 msgid "PRESSKEY"
@@ -323,9 +323,7 @@ msgstr "Modul fără Coliziune 2 OPRIT"
 # “Allmap”: Computer area map
 # “Lite-amp”: Light-amplification visor
 msgid "STSTR_BEHOLD"
-msgstr ""
-"InVinc, Neb, Invizib, HaComp, sau \n"
-"Ved-Amp"
+msgstr "InVinc, Neb, Invizib, HaComp, sau Ved-Amp"
 
 msgid "STSTR_BEHOLDX"
 msgstr "Abilitate Comutată"
@@ -335,9 +333,8 @@ msgstr "Abilitate Comutată"
 msgid "STSTR_CHOPPERS"
 msgstr "…nu e de rahat - GM"
 
-#, fuzzy
 msgid "STSTR_CLEV"
-msgstr "Schimbare Hartă..."
+msgstr "Schimbare Hartă…"
 
 msgid "TXT_BUDDHAON"
 msgstr "Modul Buddha PORNIT"
@@ -351,6 +348,7 @@ msgstr "Modul Buddha Suprem PORNIT"
 msgid "TXT_BUDDHA2OFF"
 msgstr "Modul Buddha Suprem OPRIT"
 
+#, fuzzy
 msgid "TXT_CHEATPOWERON"
 msgstr "Putere activată"
 

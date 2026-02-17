@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 05:22+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-17 20:09+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/es_MX/>\n"
 "Language: es_MX\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16\n"
+"X-Generator: Weblate 5.16.1-dev\n"
 "X-HeaderCode: esm esn esg esc esa esd esv eso esr ess esf esl esy esz esb "
 "ese esh esi esu\n"
 
@@ -326,11 +326,10 @@ msgstr "Power-up Activado"
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
 msgid "STSTR_CHOPPERS"
-msgstr "… no apesta... - GM"
+msgstr "… no apesta… - GM"
 
-#, fuzzy
 msgid "STSTR_CLEV"
-msgstr "Cambiando de Nivel..."
+msgstr "Cambiando de Nivel…"
 
 msgid "TXT_BUDDHAON"
 msgstr "Modo Buda Activado"
@@ -344,6 +343,7 @@ msgstr "Modo Buda Supremo Activado"
 msgid "TXT_BUDDHA2OFF"
 msgstr "Modo Buda Supremo Desactivado"
 
+#, fuzzy
 msgid "TXT_CHEATPOWERON"
 msgstr "Poder activado"
 
@@ -2859,7 +2859,7 @@ msgid "MNU_INFO"
 msgstr ""
 
 msgid "MNU_QUITGAME"
-msgstr ""
+msgstr "Terminar Partida"
 
 # This text is extremely space limited!
 msgid "MNU_CHOOSESKILL"

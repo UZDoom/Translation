@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 04:30+0000\n"
+"PO-Revision-Date: 2026-02-17 18:15+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.16\n"
+"X-Generator: Weblate 5.16.1-dev\n"
 "X-HeaderCode: zho\n"
 
 msgid "PRESSKEY"
@@ -346,6 +346,7 @@ msgstr "终极佛陀模式：开"
 msgid "TXT_BUDDHA2OFF"
 msgstr "终极佛陀模式：关"
 
+#, fuzzy
 msgid "TXT_CHEATPOWERON"
 msgstr "电源：开"
 
@@ -4642,18 +4643,16 @@ msgstr "存档“%s”的版本不兼容。"
 msgid "TXT_OTHERENGINESG"
 msgstr "存档“%s”来自另一种基于ZDoom的引擎："
 
-#, fuzzy
 msgid "TXT_TOOOLDSG"
-msgstr "存档“%s”来自旧版本：%d (最低支持到 %e)"
+msgstr "存档“%s”来自旧版本(%d)。支持的最低版本是%e。"
 
 # Shouldn’t this say “%e is the newest supported”?
 #
 # — Undead
 #
 # Ask Randi: The text is old. I won't change it.
-#, fuzzy
 msgid "TXT_TOONEWSG"
-msgstr "存档“%s”来自新版本：%d (最高支持到 %e)"
+msgstr "存档“%s”来自新版本(%d)。支持的最高版本是%e。"
 
 msgid "TXT_NOMAPSG"
 msgstr "存档“%s”的当前地图找不到了。"

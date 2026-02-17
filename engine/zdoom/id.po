@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 05:22+0000\n"
+"PO-Revision-Date: 2026-02-17 18:15+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/id/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.16\n"
+"X-Generator: Weblate 5.16.1-dev\n"
 
 msgid "PRESSKEY"
 msgstr "Tekan tombol apapun."
@@ -330,9 +330,8 @@ msgstr ""
 msgid "STSTR_CHOPPERS"
 msgstr "… tidak payah - GM"
 
-#, fuzzy
 msgid "STSTR_CLEV"
-msgstr "Mengganti Level..."
+msgstr "Mengganti Level…"
 
 msgid "TXT_BUDDHAON"
 msgstr "Mode Buddha NYALA"
@@ -346,6 +345,7 @@ msgstr "Mode Buddha Ultimate NYALA"
 msgid "TXT_BUDDHA2OFF"
 msgstr "Mode Buddha Ultimate MATI"
 
+#, fuzzy
 msgid "TXT_CHEATPOWERON"
 msgstr "Menyala"
 

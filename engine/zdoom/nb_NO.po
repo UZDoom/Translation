@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 05:22+0000\n"
+"PO-Revision-Date: 2026-02-17 18:15+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/nb_NO/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16\n"
+"X-Generator: Weblate 5.16.1-dev\n"
 "X-HeaderCode: no nb\n"
 
 msgid "PRESSKEY"
@@ -332,9 +332,8 @@ msgstr "Oppstart aktivert"
 msgid "STSTR_CHOPPERS"
 msgstr "… suger ikke - GM"
 
-#, fuzzy
 msgid "STSTR_CLEV"
-msgstr "Endre nivå ..."
+msgstr "Endre nivå…"
 
 msgid "TXT_BUDDHAON"
 msgstr "Buddha-modus PÅ"
@@ -348,6 +347,7 @@ msgstr "Ultimativ Buddha-modus PÅ"
 msgid "TXT_BUDDHA2OFF"
 msgstr "Ultimativ Buddha-modus AV"
 
+#, fuzzy
 msgid "TXT_CHEATPOWERON"
 msgstr "Strøm PÅ"
 

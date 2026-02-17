@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 05:22+0000\n"
+"PO-Revision-Date: 2026-02-17 18:15+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ko/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.16\n"
+"X-Generator: Weblate 5.16.1-dev\n"
 "X-HeaderCode: ko\n"
 
 msgid "PRESSKEY"
@@ -333,9 +333,8 @@ msgstr "파워-업 전환됨"
 msgid "STSTR_CHOPPERS"
 msgstr "… 후진 건 아니지만 - GM"
 
-#, fuzzy
 msgid "STSTR_CLEV"
-msgstr "레벨 변경 중..."
+msgstr "레벨 변경 중…"
 
 msgid "TXT_BUDDHAON"
 msgstr "부처 모드 켬"
@@ -349,6 +348,7 @@ msgstr "나무 아미타불 모드 켬"
 msgid "TXT_BUDDHA2OFF"
 msgstr "나무 아미타불 모드 끔"
 
+#, fuzzy
 msgid "TXT_CHEATPOWERON"
 msgstr "파워 켬"
 

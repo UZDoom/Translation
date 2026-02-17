@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 05:22+0000\n"
+"PO-Revision-Date: 2026-02-17 18:15+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/cs/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
-"X-Generator: Weblate 5.16\n"
+"X-Generator: Weblate 5.16.1-dev\n"
 "X-HeaderCode: cs\n"
 
 msgid "PRESSKEY"
@@ -331,9 +331,8 @@ msgstr "Power-up vybrán"
 msgid "STSTR_CHOPPERS"
 msgstr "… není cucák - GM"
 
-#, fuzzy
 msgid "STSTR_CLEV"
-msgstr "Měním level..."
+msgstr "Měním level…"
 
 msgid "TXT_BUDDHAON"
 msgstr "Buddha mód ZAP"
@@ -347,6 +346,7 @@ msgstr "Super Buddha mód ZAP"
 msgid "TXT_BUDDHA2OFF"
 msgstr "Super Buddha mód VYP"
 
+#, fuzzy
 msgid "TXT_CHEATPOWERON"
 msgstr "Energie ZAP"
 

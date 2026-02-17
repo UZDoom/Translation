@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 05:22+0000\n"
+"PO-Revision-Date: 2026-02-17 18:15+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "uzdoom/zdoom-engine-strings/pt_BR/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.16\n"
+"X-Generator: Weblate 5.16.1-dev\n"
 "X-HeaderCode: pt\n"
 
 msgid "PRESSKEY"
@@ -333,9 +333,8 @@ msgstr "Potencializador ativado"
 msgid "STSTR_CHOPPERS"
 msgstr "… não tá ruim — GM"
 
-#, fuzzy
 msgid "STSTR_CLEV"
-msgstr "Trocando de fase..."
+msgstr "Trocando de fase…"
 
 msgid "TXT_BUDDHAON"
 msgstr "Modo Buda ATIVADO"
@@ -349,6 +348,7 @@ msgstr "Modo Buda supremo ATIVADO"
 msgid "TXT_BUDDHA2OFF"
 msgstr "Modo Buda supremo DESATIVADO"
 
+#, fuzzy
 msgid "TXT_CHEATPOWERON"
 msgstr "Poder ativado"
 

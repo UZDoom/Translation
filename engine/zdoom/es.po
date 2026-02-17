@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 05:22+0000\n"
+"PO-Revision-Date: 2026-02-17 18:15+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/es/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16\n"
+"X-Generator: Weblate 5.16.1-dev\n"
 "X-HeaderCode: es\n"
 
 msgid "PRESSKEY"
@@ -321,16 +321,15 @@ msgstr "Modo de traspaso 2 DESACTIVADO"
 # “Allmap”: Computer area map
 # “Lite-amp”: Light-amplification visor
 msgid "STSTR_BEHOLD"
-msgstr "inVuln, Str, Inviso, Rad, Allmap, o Lite-amp."
+msgstr "inVuln, Str, Inviso, Rad, Allmap, o Lite-amp"
 
 msgid "STSTR_BEHOLDX"
 msgstr "Poder alternado"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
-#, fuzzy
 msgid "STSTR_CHOPPERS"
-msgstr "... no apesta - GM"
+msgstr "… no apesta - GM"
 
 msgid "STSTR_CLEV"
 msgstr "Cambiando de nivel…"
@@ -347,6 +346,7 @@ msgstr "Modo Buda Supremo ACTIVADO"
 msgid "TXT_BUDDHA2OFF"
 msgstr "Modo Buda Supremo DESACTIVADO"
 
+#, fuzzy
 msgid "TXT_CHEATPOWERON"
 msgstr "Poder activado"
 
