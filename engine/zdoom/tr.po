@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 00:10+0000\n"
+"PO-Revision-Date: 2026-02-17 04:30+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/tr/>\n"
@@ -195,30 +195,44 @@ msgstr ""
 "ama saklanamazsın…"
 
 msgid "QUITMSG22"
-msgstr "Ne oldu? Annem yemek vakti mi dedi?"
+msgstr ""
+"Ne oldu?\n"
+"Annem yemek vakti mi dedi?"
 
 msgid "QUITMSG23"
-msgstr "Şimdi pes etme, hala serbest flemoidler var!"
+msgstr ""
+"Şimdi pes etme, hala\n"
+"serbest flemoidler var!"
 
 msgid "QUITMSG24"
-msgstr "Sakın pes etme, flemoidler üstünlüğü ele geçirecek!"
+msgstr ""
+"Sakın pes etme, flemoidler\n"
+"üstünlüğü ele geçirecek!"
 
 msgid "QUITMSG25"
-msgstr "Şimdi gitmeyin. Yardımınıza ihtiyacımız var!"
+msgstr ""
+"Şimdi gitmeyin.\n"
+"Yardımınıza ihtiyacımız var!"
 
-#, fuzzy
 msgid "QUITMSG26"
-msgstr "Umarım Chex(R) parti karışımı için ara vermişsinizdir."
+msgstr ""
+"Umarım Chex® parti\n"
+"karışımı için ara vermişsinizdir."
 
 msgid "QUITMSG27"
-msgstr "Şimdi bırakmayın! Yardımınıza ihtiyacımız var!"
+msgstr ""
+"Şimdi bırakmayın!\n"
+"Yardımınıza ihtiyacımız var!"
 
 msgid "QUITMSG28"
-msgstr "Galaksilerarası Tahıl Federasyonu'nu terk etmeyin!"
+msgstr ""
+"Galaksilerarası Tahıl Federasyonu'nu\n"
+"terk etmeyin!"
 
-#, fuzzy
 msgid "QUITMSG29"
-msgstr "Gerçek Chex(R) Savaşçısı bu kadar çabuk pes etmez!"
+msgstr ""
+"Gerçek Chex® Savaşçısı\n"
+"bu kadar çabuk pes etmez!"
 
 msgid "TXT_DEFAULTPICKUPMSG"
 msgstr "Bir pikabın var"
@@ -254,7 +268,7 @@ msgid "HUSTR_TALKTOSELF2"
 msgstr "Kim var orada?"
 
 msgid "HUSTR_TALKTOSELF3"
-msgstr "Kendini korkutuyorsun."
+msgstr "Kendini korkutuyorsun"
 
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Çıldırmaya başlıyorsun"
