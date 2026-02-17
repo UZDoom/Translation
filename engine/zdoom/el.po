@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 22:39+0000\n"
+"PO-Revision-Date: 2026-02-17 04:30+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/el/>\n"
@@ -187,11 +187,10 @@ msgstr "Νόμιζα οτι είσουν διαφορετικός…"
 msgid "QUITMSG20"
 msgstr "Καλά! Απλώς σκότοσε και φύγε!"
 
-#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
-"Μπορείς να φύγεις...\n"
-"αλλά δεν μπορείς να κρυφτείς..."
+"Μπορείς να φύγεις…\n"
+"αλλά δεν μπορείς να κρυφτείς…"
 
 msgid "QUITMSG22"
 msgstr ""
@@ -199,19 +198,24 @@ msgstr ""
 "Η μαμμάκα λέι οτι είναι ώρα για βραδινο?"
 
 msgid "QUITMSG23"
-msgstr "Μή παραιτηθέις, υπάρχουνε ακόμα φλέμοιντς τα οπία έχουν αποδράσει!"
+msgstr ""
+"Μή παραιτηθέις, υπάρχουνε ακόμα\n"
+"φλέμοιντς τα οπία έχουν αποδράσει!"
 
 msgid "QUITMSG24"
-msgstr "Μή παραιτηθέις -- τα φλέμοιντς θα νικήσουνε!"
+msgstr ""
+"Μή παραιτηθέις—τα\n"
+"φλέμοιντς θα νικήσουνε!"
 
 msgid "QUITMSG25"
 msgstr ""
 "Μή φύγεις τώρα.\n"
 "Χρειαζόμαστε τη βοήθεια σου!"
 
-#, fuzzy
 msgid "QUITMSG26"
-msgstr "Ελπίζω οτι απλώς κάνεις ενα διάλειμμα για ένα Chex (R) μέιγμα."
+msgstr ""
+"Ελπίζω οτι απλώς κάνεις ενα\n"
+"διάλειμμα για ένα Chex® μέιγμα."
 
 msgid "QUITMSG27"
 msgstr ""
@@ -219,14 +223,17 @@ msgstr ""
 "Χρειαζόμαστε τη βοήθεια σου!"
 
 msgid "QUITMSG28"
-msgstr "Μήν εγκαταλήψεις την Διαγαλαξιακή Ομοσπονδία των Δημητριακών!"
+msgstr ""
+"Μήν εγκαταλήψεις την Διαγαλαξιακή\n"
+"Ομοσπονδία των Δημητριακών!"
 
-#, fuzzy
 msgid "QUITMSG29"
-msgstr "Ο αληθινός Chex(R) Πολεμιστής δέν θα έφευγε τοσο γρήγορα!"
+msgstr ""
+"Ο αληθινός Chex® Πολεμιστής\n"
+"δέν θα έφευγε τοσο γρήγορα!"
 
 msgid "TXT_DEFAULTPICKUPMSG"
-msgstr "Πήρες ένα πράγμα."
+msgstr "Πήρες ένα πράγμα"
 
 msgid "PD_ANY"
 msgstr "Οποιδήποτε κλειδί θα ανοίξει τη πόρτα"
