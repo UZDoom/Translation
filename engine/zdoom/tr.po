@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 17:09+0000\n"
-"Last-Translator: Ahmet Emre Gürdal <gurdalahmetemre@disroot.org>\n"
+"PO-Revision-Date: 2026-02-17 18:15+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/tr/>\n"
 "Language: tr\n"
@@ -346,6 +346,7 @@ msgstr "Nihai Buda Modu AÇIK"
 msgid "TXT_BUDDHA2OFF"
 msgstr "Nihai Buda Modu KAPALI"
 
+#, fuzzy
 msgid "TXT_CHEATPOWERON"
 msgstr "Güç açık"
 
