@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 04:30+0000\n"
+"PO-Revision-Date: 2026-02-17 05:22+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hr/>\n"
@@ -274,9 +274,8 @@ msgstr "Plašiš se"
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Počinješ buncati"
 
-#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
-msgstr "Gubiš se..."
+msgstr "Gubiš se…"
 
 msgid "HUSTR_MESSAGESENT"
 msgstr "[Poruka je poslana]"
@@ -331,9 +330,8 @@ msgstr "Prekidač pojačanja"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
-#, fuzzy
 msgid "STSTR_CHOPPERS"
-msgstr "... Jedite Pilu sa Chex-om(R)!"
+msgstr ""
 
 #, fuzzy
 msgid "STSTR_CLEV"
