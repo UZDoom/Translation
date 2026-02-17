@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 18:15+0000\n"
+"PO-Revision-Date: 2026-02-17 23:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
@@ -346,7 +346,6 @@ msgstr "终极佛陀模式：开"
 msgid "TXT_BUDDHA2OFF"
 msgstr "终极佛陀模式：关"
 
-#, fuzzy
 msgid "TXT_CHEATPOWERON"
 msgstr "电源：开"
 
@@ -359,9 +358,11 @@ msgstr "生命全满"
 msgid "TXT_CHEATKEYS"
 msgstr "所有钥匙"
 
+#, fuzzy
 msgid "TXT_CHEATSOUNDON"
 msgstr "声音调试：开"
 
+#, fuzzy
 msgid "TXT_CHEATSOUNDOFF"
 msgstr "声音调试：关"
 
@@ -374,6 +375,7 @@ msgstr "作弊者——你不配拥有武器"
 msgid "TXT_CHEATTICKERON"
 msgstr "Ticker：开"
 
+#, fuzzy
 msgid "TXT_CHEATTICKEROFF"
 msgstr "Ticker：关"
 
@@ -389,6 +391,7 @@ msgstr "你收获满满！"
 msgid "TXT_FREEZEON"
 msgstr "冻结模式：开"
 
+#, fuzzy
 msgid "TXT_FREEZEOFF"
 msgstr "冻结模式：关"
 
@@ -404,6 +407,7 @@ msgstr "你感觉又做回自己了。"
 msgid "TXT_LEADBOOTSON"
 msgstr "防辐射靴：开"
 
+#, fuzzy
 msgid "TXT_LEADBOOTSOFF"
 msgstr "防辐射靴：关"
 
@@ -452,6 +456,7 @@ msgstr "所有神器！"
 msgid "TXT_WHAT_KILL"
 msgstr "游戏之外你想杀些什么？"
 
+#, fuzzy
 msgid "TXT_NOT_FROZEN"
 msgstr "关闭玩家属性冻结"
 
