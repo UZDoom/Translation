@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 18:15+0000\n"
+"PO-Revision-Date: 2026-02-17 23:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/de/>\n"
@@ -346,7 +346,6 @@ msgstr "Ultimativer Buddhamodus AN"
 msgid "TXT_BUDDHA2OFF"
 msgstr "Ultimativer Buddhamodus AUS"
 
-#, fuzzy
 msgid "TXT_CHEATPOWERON"
 msgstr "Fähigkeit AN"
 
@@ -359,9 +358,11 @@ msgstr "Volle Lebensenergie"
 msgid "TXT_CHEATKEYS"
 msgstr "Alle Schlüssel"
 
+#, fuzzy
 msgid "TXT_CHEATSOUNDON"
 msgstr "Sound Debug AN"
 
+#, fuzzy
 msgid "TXT_CHEATSOUNDOFF"
 msgstr "Sound Debug AUS"
 
@@ -374,6 +375,7 @@ msgstr "Betrüger - du verdienst keine Waffen"
 msgid "TXT_CHEATTICKERON"
 msgstr "Zähler AN"
 
+#, fuzzy
 msgid "TXT_CHEATTICKEROFF"
 msgstr "Zähler AUS"
 
@@ -389,6 +391,7 @@ msgstr "Du hast den Kram erhalten!"
 msgid "TXT_FREEZEON"
 msgstr "Gefriermodus AN"
 
+#, fuzzy
 msgid "TXT_FREEZEOFF"
 msgstr "Gefriermodus AUS"
 
@@ -405,6 +408,7 @@ msgstr "Du fühlst dich wieder wie du selbst."
 msgid "TXT_LEADBOOTSON"
 msgstr "Bleistiefel AN"
 
+#, fuzzy
 msgid "TXT_LEADBOOTSOFF"
 msgstr "Bleistiefel AUS"
 
@@ -455,6 +459,7 @@ msgstr "Alle Artefakte!"
 msgid "TXT_WHAT_KILL"
 msgstr "Was willst du eigentlich außerhalb eines Spiels töten?"
 
+#, fuzzy
 msgid "TXT_NOT_FROZEN"
 msgstr "Gefrier-Modus abgeschaltet"
 
