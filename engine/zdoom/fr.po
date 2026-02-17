@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 00:10+0000\n"
+"PO-Revision-Date: 2026-02-17 04:30+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fr/>\n"
@@ -188,11 +188,10 @@ msgstr "Je vous croyais différent…"
 msgid "QUITMSG20"
 msgstr "C'est ça ! Tuez n'importe-qui et barrez-vous comme ça !"
 
-#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
-"Vous pouvez partir...\n"
-"Mais vous ne pouvez pas vous cacher..."
+"Vous pouvez partir…\n"
+"Mais vous ne pouvez pas vous cacher…"
 
 msgid "QUITMSG22"
 msgstr ""
@@ -214,11 +213,10 @@ msgstr ""
 "S'il vous plaît, ne quittez pas, nous\n"
 "avons besoin de votre aide !"
 
-#, fuzzy
 msgid "QUITMSG26"
 msgstr ""
 "J'espère que tu prends une pause\n"
-"pour un bol de Chex(R) Party Mix."
+"pour un bol de Chex® Party Mix."
 
 msgid "QUITMSG27"
 msgstr ""
@@ -236,40 +234,40 @@ msgstr ""
 "n'abandonnerait pas de si tôt !"
 
 msgid "TXT_DEFAULTPICKUPMSG"
-msgstr "Quelque chose récupéré."
+msgstr "Quelque chose récupéré"
 
 msgid "PD_ANY"
-msgstr "N'importe quelle clé peut ouvrir cette porte."
+msgstr "N'importe quelle clé peut ouvrir cette porte"
 
 msgid "PD_ANYOBJ"
-msgstr "N'importe quelle clé peut activer cet objet."
+msgstr "N'importe quelle clé peut activer cet objet"
 
 msgid "PD_ALL3"
-msgstr "Il vous faut une clé de chaque couleur pour ouvrir cette porte."
+msgstr "Il vous faut une clé de chaque couleur pour ouvrir cette porte"
 
 msgid "PD_ALL3O"
-msgstr "Il vous faut une clé de chaque couleur pour activer cet objet."
+msgstr "Il vous faut une clé de chaque couleur pour activer cet objet"
 
 msgid "PD_ALL6"
-msgstr "Il vous faut les six clés pour ouvrir cette porte."
+msgstr "Il vous faut les six clés pour ouvrir cette porte"
 
 msgid "PD_ALL6O"
-msgstr "Il vous faut les six clés pour activer cet objet."
+msgstr "Il vous faut les six clés pour activer cet objet"
 
 msgid "PD_ALLKEYS"
-msgstr "Vous avez besoin de toutes les six clés."
+msgstr "Vous avez besoin de toutes les six clés"
 
 msgid "HUSTR_MSGU"
 msgstr "[Message Non Envoyé]"
 
 msgid "HUSTR_TALKTOSELF1"
-msgstr "Vous parlez tout seul."
+msgstr "Vous parlez tout seul"
 
 msgid "HUSTR_TALKTOSELF2"
 msgstr "Qui est là ?"
 
 msgid "HUSTR_TALKTOSELF3"
-msgstr "Vous vous surprenez."
+msgstr "Vous vous surprenez"
 
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Vous commencez à délirer"
