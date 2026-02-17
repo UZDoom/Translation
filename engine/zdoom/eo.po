@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 04:30+0000\n"
+"PO-Revision-Date: 2026-02-17 05:22+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/eo/>\n"
@@ -272,9 +272,8 @@ msgstr "Vi timigas vin mem"
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Vi komencas frenezi"
 
-#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
-msgstr "Vi freneziĝis..."
+msgstr "Vi freneziĝis…"
 
 msgid "HUSTR_MESSAGESENT"
 msgstr "[Mesaĝo sendita]"
@@ -329,9 +328,8 @@ msgstr "Plifortigaĵo Baskuligita"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
-#, fuzzy
 msgid "STSTR_CHOPPERS"
-msgstr "... ne aĉas - GM"
+msgstr "… ne aĉas - GM"
 
 #, fuzzy
 msgid "STSTR_CLEV"

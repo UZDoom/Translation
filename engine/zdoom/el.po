@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 04:30+0000\n"
+"PO-Revision-Date: 2026-02-17 05:22+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/el/>\n"
@@ -272,9 +272,8 @@ msgstr "Φοβήζεις τον εαυτό σου"
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Αρχίζεις να ουρλίαζεις"
 
-#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
-msgstr "Το έχασες"
+msgstr "Το έχασες…"
 
 msgid "HUSTR_MESSAGESENT"
 msgstr "[Στάλθηκε]"
@@ -329,9 +328,8 @@ msgstr ""
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
-#, fuzzy
 msgid "STSTR_CHOPPERS"
-msgstr "... δέν είναι χάλια - GW"
+msgstr "… δέν είναι χάλια - GM"
 
 #, fuzzy
 msgid "STSTR_CLEV"

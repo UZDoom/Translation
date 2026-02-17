@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 22:10+0000\n"
-"Last-Translator: dwing <12104745@qq.com>\n"
+"PO-Revision-Date: 2026-02-17 05:22+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/common/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -1296,25 +1296,20 @@ msgstr "双线性"
 msgid "OPTVAL_TRILINEAR"
 msgstr "三线性"
 
-#, fuzzy
 msgid "OPTVAL_2X"
-msgstr "2x"
+msgstr "2×"
 
-#, fuzzy
 msgid "OPTVAL_4X"
-msgstr "4x"
+msgstr "4×"
 
-#, fuzzy
 msgid "OPTVAL_8X"
-msgstr "8x"
+msgstr "8×"
 
-#, fuzzy
 msgid "OPTVAL_16X"
-msgstr "16x"
+msgstr "16×"
 
-#, fuzzy
 msgid "OPTVAL_32X"
-msgstr "32x"
+msgstr "32×"
 
 msgid "GLTEXMNU_TITLE"
 msgstr "纹理选项"

@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 04:30+0000\n"
+"PO-Revision-Date: 2026-02-17 05:22+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/tr/>\n"
@@ -273,9 +273,8 @@ msgstr "Kendini korkutuyorsun"
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Çıldırmaya başlıyorsun"
 
-#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
-msgstr "Kaybettin..."
+msgstr "Kaybettin…"
 
 msgid "HUSTR_MESSAGESENT"
 msgstr "[Mesaj Gönderildi]"
@@ -330,9 +329,8 @@ msgstr "Güç Açma Değiştirildi"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
-#, fuzzy
 msgid "STSTR_CHOPPERS"
-msgstr "... berbat değil - GM"
+msgstr "… berbat değil - GM"
 
 #, fuzzy
 msgid "STSTR_CLEV"

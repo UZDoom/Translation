@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 04:30+0000\n"
+"PO-Revision-Date: 2026-02-17 05:22+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ru/>\n"
@@ -271,11 +271,10 @@ msgid "HUSTR_TALKTOSELF3"
 msgstr ""
 
 msgid "HUSTR_TALKTOSELF4"
-msgstr "Вы бредите."
+msgstr "Вы бредите"
 
-#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
-msgstr "Какая досада..."
+msgstr "Какая досада…"
 
 msgid "HUSTR_MESSAGESENT"
 msgstr "[Сообщение отправлено]"
@@ -331,9 +330,8 @@ msgstr "Усиление включено"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
-#, fuzzy
 msgid "STSTR_CHOPPERS"
-msgstr "...не отстой — GM"
+msgstr "…не отстой — GM"
 
 #, fuzzy
 msgid "STSTR_CLEV"

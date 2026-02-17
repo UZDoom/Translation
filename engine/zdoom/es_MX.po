@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 04:30+0000\n"
+"PO-Revision-Date: 2026-02-17 05:22+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/es_MX/>\n"
@@ -269,9 +269,8 @@ msgstr "Te asustas"
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Empiezas a delirar"
 
-#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
-msgstr "Te volviste loc@[ao_esp]..."
+msgstr "Te volviste loc@[ao_esp]…"
 
 msgid "HUSTR_MESSAGESENT"
 msgstr "[Mensaje Enviado]"
@@ -326,9 +325,8 @@ msgstr "Power-up Activado"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
-#, fuzzy
 msgid "STSTR_CHOPPERS"
-msgstr "... no apesta... - GM"
+msgstr "… no apesta... - GM"
 
 #, fuzzy
 msgid "STSTR_CLEV"

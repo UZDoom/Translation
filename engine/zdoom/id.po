@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 04:30+0000\n"
+"PO-Revision-Date: 2026-02-17 05:22+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/id/>\n"
@@ -271,9 +271,8 @@ msgstr "Anda menakuti diri sendiri"
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Anda mulai berdansa"
 
-#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
-msgstr "Anda khawatir sendiri..."
+msgstr "Anda khawatir sendiri…"
 
 msgid "HUSTR_MESSAGESENT"
 msgstr "[Pesan terkirim]"
@@ -328,9 +327,8 @@ msgstr ""
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
-#, fuzzy
 msgid "STSTR_CHOPPERS"
-msgstr "... tidak payah - GM"
+msgstr "… tidak payah - GM"
 
 #, fuzzy
 msgid "STSTR_CLEV"

@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 04:30+0000\n"
+"PO-Revision-Date: 2026-02-17 05:22+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ro/>\n"
@@ -274,9 +274,8 @@ msgstr "Te speri singur"
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Începi să aiurezi"
 
-#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
-msgstr "Ai luat-o pe ulei..."
+msgstr "Ai luat-o pe ulei…"
 
 msgid "HUSTR_MESSAGESENT"
 msgstr "[Mesaj Trimis]"
@@ -333,9 +332,8 @@ msgstr "Abilitate Comutată"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
-#, fuzzy
 msgid "STSTR_CHOPPERS"
-msgstr "...nu e de rahat - GM"
+msgstr "…nu e de rahat - GM"
 
 #, fuzzy
 msgid "STSTR_CLEV"

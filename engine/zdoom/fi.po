@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 04:30+0000\n"
+"PO-Revision-Date: 2026-02-17 05:22+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fi/>\n"
@@ -273,9 +273,8 @@ msgstr "Pelotat itseäsi"
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Alat hourailla"
 
-#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
-msgstr "Olet seonnut..."
+msgstr "Olet seonnut…"
 
 msgid "HUSTR_MESSAGESENT"
 msgstr "[Viesti lähetetty]"
@@ -332,9 +331,8 @@ msgstr "Tehostin kytketty"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
-#, fuzzy
 msgid "STSTR_CHOPPERS"
-msgstr "... ei ole syvältä - GM"
+msgstr "… ei ole syvältä - GM"
 
 #, fuzzy
 msgid "STSTR_CLEV"
