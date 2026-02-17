@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 00:10+0000\n"
-"Last-Translator: Ipa-oss <backman.ilari@proton.me>\n"
+"PO-Revision-Date: 2026-02-17 04:30+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fi/>\n"
 "Language: fi\n"
@@ -189,11 +189,10 @@ msgstr "Luulin, että olit erilainen kuin muut…"
 msgid "QUITMSG20"
 msgstr "Hyvä! Senkun vain tapat ja lähdet!"
 
-#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
-"Voit lopettaa...\n"
-"muttet piiloutua..."
+"Voit lopettaa…\n"
+"muttet piiloutua…"
 
 msgid "QUITMSG22"
 msgstr ""
@@ -201,19 +200,24 @@ msgstr ""
 "Äiti huutaa syömään?"
 
 msgid "QUITMSG23"
-msgstr "Älä lopeta nyt; limatuksia on vielä vapaalla!"
+msgstr ""
+"Älä lopeta nyt; limatuksia\n"
+"on vielä vapaalla!"
 
 msgid "QUITMSG24"
-msgstr "Älä luovuta -- limatukset pääsevät voitolle!"
+msgstr ""
+"Älä luovuta—limatukset\n"
+"pääsevät voitolle!"
 
 msgid "QUITMSG25"
 msgstr ""
 "Älä lähde nyt.\n"
 "Tarvitsemme apuasi!"
 
-#, fuzzy
 msgid "QUITMSG26"
-msgstr "Toivottavasti pidät taukoa vain Chex(R) Party Mixiä varten."
+msgstr ""
+"Toivottavasti pidät taukoa\n"
+"vain Chex® Party Mixiä varten."
 
 msgid "QUITMSG27"
 msgstr ""
@@ -221,11 +225,14 @@ msgstr ""
 "Tarvitsemme apuasi!"
 
 msgid "QUITMSG28"
-msgstr "Älä hylkää intergalaktista muroliittoa!"
+msgstr ""
+"Älä hylkää\n"
+"intergalaktista muroliittoa!"
 
-#, fuzzy
 msgid "QUITMSG29"
-msgstr "Todellinen Chex(R)-soturi ei luovuttaisi niin nopeasti!"
+msgstr ""
+"Todellinen Chex®-soturi\n"
+"ei luovuttaisi niin nopeasti!"
 
 msgid "TXT_DEFAULTPICKUPMSG"
 msgstr "Sait jotakin"
