@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 18:15+0000\n"
+"PO-Revision-Date: 2026-02-17 23:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/es/>\n"
@@ -346,12 +346,11 @@ msgstr "Modo Buda Supremo ACTIVADO"
 msgid "TXT_BUDDHA2OFF"
 msgstr "Modo Buda Supremo DESACTIVADO"
 
-#, fuzzy
 msgid "TXT_CHEATPOWERON"
-msgstr "Poder activado"
+msgstr "Poder ACTIVADO"
 
 msgid "TXT_CHEATPOWEROFF"
-msgstr "Poder desactivado"
+msgstr "Poder DESACTIVADO"
 
 msgid "TXT_CHEATHEALTH"
 msgstr "Salud al máximo"
@@ -359,9 +358,11 @@ msgstr "Salud al máximo"
 msgid "TXT_CHEATKEYS"
 msgstr "Todas las llaves"
 
+#, fuzzy
 msgid "TXT_CHEATSOUNDON"
 msgstr "Depuración de sonido activada"
 
+#, fuzzy
 msgid "TXT_CHEATSOUNDOFF"
 msgstr "Depuración de sonido desactivada"
 
@@ -374,6 +375,7 @@ msgstr "¡Trampos@[ao_esp]! No mereces tener armas"
 msgid "TXT_CHEATTICKERON"
 msgstr "Contador activado"
 
+#, fuzzy
 msgid "TXT_CHEATTICKEROFF"
 msgstr "Contador desactivado"
 
@@ -389,6 +391,7 @@ msgstr "¡Tienes un montón de cosas!"
 msgid "TXT_FREEZEON"
 msgstr "Modo suspendido activado"
 
+#, fuzzy
 msgid "TXT_FREEZEOFF"
 msgstr "Modo suspendido desactivado"
 
@@ -405,6 +408,7 @@ msgstr "Te sientes como tú mism@[ao_esp] otra vez."
 msgid "TXT_LEADBOOTSON"
 msgstr "Botas de plomo activadas"
 
+#, fuzzy
 msgid "TXT_LEADBOOTSOFF"
 msgstr "Botas de plomo desactivadas"
 
@@ -453,6 +457,7 @@ msgstr "¡Todos los artefactos!"
 msgid "TXT_WHAT_KILL"
 msgstr "¿Qué intentas matar fuera de un juego?"
 
+#, fuzzy
 msgid "TXT_NOT_FROZEN"
 msgstr "Propiedades de jugador congelado desactivadas"
 
