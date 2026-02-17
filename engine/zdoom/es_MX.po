@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 00:10+0000\n"
-"Last-Translator: Ret Neychozken <retneychozken@gmail.com>\n"
+"PO-Revision-Date: 2026-02-17 04:30+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/es_MX/>\n"
 "Language: es_MX\n"
@@ -185,11 +185,10 @@ msgstr "Creí que eras diferente…"
 msgid "QUITMSG20"
 msgstr "¡Bien, solo mata y corre!"
 
-#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
-"Podrás correr...\n"
-"Pero no esconderte..."
+"Podrás correr…\n"
+"Pero no esconderte…"
 
 msgid "QUITMSG22"
 msgstr ""
@@ -211,11 +210,10 @@ msgstr ""
 "No te vayas.\n"
 "¡Necesitamos tu ayuda!"
 
-#, fuzzy
 msgid "QUITMSG26"
 msgstr ""
 "Espero que tomes el descanso\n"
-"disfrutando de Chex(R) Party Mix."
+"disfrutando de Chex® Party Mix."
 
 msgid "QUITMSG27"
 msgstr ""
@@ -227,10 +225,9 @@ msgstr ""
 "¡No abandones la Federación\n"
 "Intergaláctica de Cereales!"
 
-#, fuzzy
 msgid "QUITMSG29"
 msgstr ""
-"¡El verdadero Guerrero Chex(R)\n"
+"¡El verdadero Guerrero Chex®\n"
 "no se rendiría tan rápido!"
 
 msgid "TXT_DEFAULTPICKUPMSG"
