@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 05:22+0000\n"
+"PO-Revision-Date: 2026-02-17 18:15+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hu/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16\n"
+"X-Generator: Weblate 5.16.1-dev\n"
 "X-HeaderCode: hu\n"
 
 msgid "PRESSKEY"
@@ -333,9 +333,8 @@ msgstr "Képesség hozzáadva"
 msgid "STSTR_CHOPPERS"
 msgstr "… nem annyira gáz - GM"
 
-#, fuzzy
 msgid "STSTR_CLEV"
-msgstr "Pályaváltás..."
+msgstr "Pályaváltás…"
 
 msgid "TXT_BUDDHAON"
 msgstr "Buddha Mód BE"
@@ -349,6 +348,7 @@ msgstr "Tökéletes Buddha Mód BE"
 msgid "TXT_BUDDHA2OFF"
 msgstr "Tökéletes Buddha Mód KI"
 
+#, fuzzy
 msgid "TXT_CHEATPOWERON"
 msgstr "Energia BE"
 
