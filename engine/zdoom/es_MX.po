@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 20:09+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-02-17 23:10+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/es_MX/>\n"
 "Language: es_MX\n"
@@ -343,12 +343,11 @@ msgstr "Modo Buda Supremo Activado"
 msgid "TXT_BUDDHA2OFF"
 msgstr "Modo Buda Supremo Desactivado"
 
-#, fuzzy
 msgid "TXT_CHEATPOWERON"
-msgstr "Poder activado"
+msgstr "Poder ACTIVADO"
 
 msgid "TXT_CHEATPOWEROFF"
-msgstr "Poder desactivado"
+msgstr "Poder DESACTIVADO"
 
 msgid "TXT_CHEATHEALTH"
 msgstr "Salud Llena"
@@ -356,9 +355,11 @@ msgstr "Salud Llena"
 msgid "TXT_CHEATKEYS"
 msgstr "Todas las llaves"
 
+#, fuzzy
 msgid "TXT_CHEATSOUNDON"
 msgstr "Depuración de Sonido Activado"
 
+#, fuzzy
 msgid "TXT_CHEATSOUNDOFF"
 msgstr "Depuración de Sonido Desactivado"
 
@@ -386,6 +387,7 @@ msgstr "¡Tienes las cosas!"
 msgid "TXT_FREEZEON"
 msgstr "Has detenido el tiempo"
 
+#, fuzzy
 msgid "TXT_FREEZEOFF"
 msgstr "El tiempo se reanuda"
 
@@ -402,6 +404,7 @@ msgstr "Te sientes como tú mismo otra vez."
 msgid "TXT_LEADBOOTSON"
 msgstr "Botas de Acero activadas"
 
+#, fuzzy
 msgid "TXT_LEADBOOTSOFF"
 msgstr "Botas de Acero desactivadas"
 
