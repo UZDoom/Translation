@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 17:09+0000\n"
+"PO-Revision-Date: 2026-02-17 18:15+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ro/>\n"
@@ -333,9 +333,8 @@ msgstr "Abilitate Comutată"
 msgid "STSTR_CHOPPERS"
 msgstr "…nu e de rahat - GM"
 
-#, fuzzy
 msgid "STSTR_CLEV"
-msgstr "Schimbare Hartă..."
+msgstr "Schimbare Hartă…"
 
 msgid "TXT_BUDDHAON"
 msgstr "Modul Buddha PORNIT"
@@ -349,6 +348,7 @@ msgstr "Modul Buddha Suprem PORNIT"
 msgid "TXT_BUDDHA2OFF"
 msgstr "Modul Buddha Suprem OPRIT"
 
+#, fuzzy
 msgid "TXT_CHEATPOWERON"
 msgstr "Putere activată"
 
