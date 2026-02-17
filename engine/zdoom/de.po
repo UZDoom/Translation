@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 22:40+0000\n"
+"PO-Revision-Date: 2026-02-17 04:30+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/de/>\n"
@@ -188,11 +188,10 @@ msgstr "Ich dachte, du wärst anders…"
 msgid "QUITMSG20"
 msgstr "Na Gut! Einfach Töten und Rennen!"
 
-#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
-"Du kannst gehen...\n"
-"aber dich nicht verstecken..."
+"Du kannst gehen…\n"
+"aber dich nicht verstecken…"
 
 msgid "QUITMSG22"
 msgstr ""
@@ -206,7 +205,7 @@ msgstr ""
 
 msgid "QUITMSG24"
 msgstr ""
-"Gib nicht auf - die Flemoiden\n"
+"Gib nicht auf—die Flemoiden\n"
 "gewinnen sonst!"
 
 msgid "QUITMSG25"
@@ -214,11 +213,10 @@ msgstr ""
 "Bitte geh nicht.\n"
 "Wir brauchen deine Hilfe!"
 
-#, fuzzy
 msgid "QUITMSG26"
 msgstr ""
 "Ich hoffe mal, dass du nur eine\n"
-"Pause für Chex(R) Party Mix machst."
+"Pause für Chex® Party Mix machst."
 
 msgid "QUITMSG27"
 msgstr ""
@@ -230,11 +228,10 @@ msgstr ""
 "Bitte lasse die Intergalaktische\n"
 "Föderation der Cerealien nicht im Stich!"
 
-#, fuzzy
 msgid "QUITMSG29"
 msgstr ""
-"Der echte Chex(R) Krieger\n"
-"würde nicht so schnell aufgeben!"
+"Der echte Chex® Krieger würde\n"
+"nicht so schnell aufgeben!"
 
 msgid "TXT_DEFAULTPICKUPMSG"
 msgstr "Du hast etwas aufgesammelt"
