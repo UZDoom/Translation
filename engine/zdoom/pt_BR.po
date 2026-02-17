@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 22:39+0000\n"
+"PO-Revision-Date: 2026-02-17 04:30+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "uzdoom/zdoom-engine-strings/pt_BR/>\n"
@@ -188,11 +188,10 @@ msgstr "Eu achei que você era diferente…"
 msgid "QUITMSG20"
 msgstr "Ótimo! Mate e fuja!"
 
-#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
-"Você pode sair...\n"
-"mas não pode se esconder..."
+"Você pode sair…\n"
+"mas não pode se esconder…"
 
 msgid "QUITMSG22"
 msgstr ""
@@ -214,11 +213,10 @@ msgstr ""
 "Não vá embora agora.\n"
 "Precisamos da sua ajuda!"
 
-#, fuzzy
 msgid "QUITMSG26"
 msgstr ""
 "Tomara que só esteja fazendo uma\n"
-"pausa pra um Chex(R) Party Mix."
+"pausa pra um Chex® Party Mix."
 
 msgid "QUITMSG27"
 msgstr ""
@@ -230,10 +228,9 @@ msgstr ""
 "Não abandone a\n"
 "Federação Intergaláctica de Cereais!"
 
-#, fuzzy
 msgid "QUITMSG29"
 msgstr ""
-"O verdadeiro Guerreiro Chex(R)\n"
+"O verdadeiro Guerreiro Chex®\n"
 "não desistiria tão rapido!"
 
 msgid "TXT_DEFAULTPICKUPMSG"
@@ -264,7 +261,7 @@ msgid "HUSTR_MSGU"
 msgstr "[Mensagem não enviada]"
 
 msgid "HUSTR_TALKTOSELF1"
-msgstr "Você resmunga para si mesm@[ao_ptb]..."
+msgstr "Você resmunga para si mesm@[ao_ptb]"
 
 msgid "HUSTR_TALKTOSELF2"
 msgstr "Quem está aí?"
