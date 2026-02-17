@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 17:10+0000\n"
+"PO-Revision-Date: 2026-02-17 18:15+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/es_MX/>\n"
@@ -328,9 +328,8 @@ msgstr "Power-up Activado"
 msgid "STSTR_CHOPPERS"
 msgstr "… no apesta… - GM"
 
-#, fuzzy
 msgid "STSTR_CLEV"
-msgstr "Cambiando de Nivel..."
+msgstr "Cambiando de Nivel…"
 
 msgid "TXT_BUDDHAON"
 msgstr "Modo Buda Activado"
@@ -344,6 +343,7 @@ msgstr "Modo Buda Supremo Activado"
 msgid "TXT_BUDDHA2OFF"
 msgstr "Modo Buda Supremo Desactivado"
 
+#, fuzzy
 msgid "TXT_CHEATPOWERON"
 msgstr "Poder activado"
 
