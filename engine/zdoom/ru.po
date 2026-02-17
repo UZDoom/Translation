@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 00:10+0000\n"
+"PO-Revision-Date: 2026-02-17 04:30+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ru/>\n"
@@ -189,11 +189,10 @@ msgstr "Я думал о тебе иначе…"
 msgid "QUITMSG20"
 msgstr "Отлично! Пострелял и смылся!"
 
-#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
-"Ты можешь уйти...\n"
-"но не можешь спрятаться..."
+"Ты можешь уйти…\n"
+"но не можешь спрятаться…"
 
 msgid "QUITMSG22"
 msgstr ""
@@ -215,11 +214,10 @@ msgstr ""
 "Не уходи сейчас.\n"
 "Нам нужна твоя помощь!"
 
-#, fuzzy
 msgid "QUITMSG26"
 msgstr ""
 "Надеюсь, ты лишь делаешь\n"
-"перерыв на тарелку хлопьев Chex(R)."
+"перерыв на тарелку хлопьев Chex®."
 
 msgid "QUITMSG27"
 msgstr ""
@@ -231,10 +229,9 @@ msgstr ""
 "Не оставляй\n"
 "Межгалактическую Федерацию Хлопьев!"
 
-#, fuzzy
 msgid "QUITMSG29"
 msgstr ""
-"Настоящий воин Chex(R)\n"
+"Настоящий воин Chex®\n"
 "не сдастся так быстро!"
 
 msgid "TXT_DEFAULTPICKUPMSG"
@@ -271,7 +268,7 @@ msgid "HUSTR_TALKTOSELF2"
 msgstr "Кто там?"
 
 msgid "HUSTR_TALKTOSELF3"
-msgstr "Что это было?"
+msgstr ""
 
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Вы бредите."
