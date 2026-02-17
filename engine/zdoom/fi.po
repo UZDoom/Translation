@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 18:15+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-17 20:09+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fi/>\n"
 "Language: fi\n"
@@ -5246,3 +5246,6 @@ msgstr "Sävykkyys"
 
 msgid "DSPLYMNU_SATURATION"
 msgstr "Värikylläisyys"
+
+msgid "OPTMNU_ACCESSIBILITY"
+msgstr "Helppokäyttöisyysasetukset"
