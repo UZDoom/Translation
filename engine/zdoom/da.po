@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 22:39+0000\n"
+"PO-Revision-Date: 2026-02-17 04:30+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/da/>\n"
@@ -188,39 +188,50 @@ msgstr "Jeg troede, du var anderledes…"
 msgid "QUITMSG20"
 msgstr "Fint! Bare dræb og løb!"
 
-#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
-"Du kan stoppe...\n"
-"men du kan ikke gemme dig..."
+"Du kan stoppe…\n"
+"men du kan ikke gemme dig…"
 
 msgid "QUITMSG22"
-msgstr "Whaaa, hvad er der i vejen? Mor siger spisetid?"
+msgstr ""
+"Whaaa, hvad er der i vejen?\n"
+"Mor siger spisetid?"
 
 msgid "QUITMSG23"
-msgstr "Du må ikke give op nu, der er stadig flemoider på fri fod!"
+msgstr ""
+"Du må ikke give op nu, der\n"
+"er stadig flemoider på fri fod!"
 
 msgid "QUITMSG24"
 msgstr ""
-"Du må ikke give op - Flemoiderne\n"
+"Du må ikke give op—Flemoiderne\n"
 "er ved at få overtaget!"
 
 msgid "QUITMSG25"
-msgstr "Du må ikke gå nu. Vi har brug for din hjælp!"
+msgstr ""
+"Du må ikke gå nu.\n"
+"Vi har brug for din hjælp!"
 
-#, fuzzy
 msgid "QUITMSG26"
-msgstr "Jeg håber, at du bare holder en pause for Chex(R) party mix."
+msgstr ""
+"Jeg håber, at du bare holder\n"
+"en pause for Chex® party mix."
 
 msgid "QUITMSG27"
-msgstr "Du må ikke give op nu! Vi har brug for din hjælp!"
+msgstr ""
+"Du må ikke give op nu!\n"
+"Vi har brug for din hjælp!"
 
 msgid "QUITMSG28"
-msgstr "Forlad ikke den Intergalaktiske Føderation af Cerealprodukter!"
+msgstr ""
+"Forlad ikke den Intergalaktiske\n"
+"Føderation af Cerealprodukter!"
 
-#, fuzzy
 msgid "QUITMSG29"
-msgstr "Den rigtige Chex(R)-kriger ville ikke give op så hurtigt!"
+msgstr ""
+"Den rigtige Chex®-kriger\n"
+"ville ikke give op så hurtigt!"
 
 msgid "TXT_DEFAULTPICKUPMSG"
 msgstr "Du har samlet noget op"
