@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 04:30+0000\n"
+"PO-Revision-Date: 2026-02-17 05:22+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/it/>\n"
@@ -252,7 +252,7 @@ msgid "PD_ALL6"
 msgstr "Ti servono tutte e sei le chiavi per aprire questa porta"
 
 msgid "PD_ALL6O"
-msgstr "Ti servono tutte e tre le chiavi per attivare questo oggetto"
+msgstr "Ti servono tutte e sei le chiavi per attivare questo oggetto"
 
 msgid "PD_ALLKEYS"
 msgstr "Ti servono tutte le chiavi"
@@ -272,9 +272,8 @@ msgstr "Ti spaventi da solo"
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Inizi a delirare"
 
-#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
-msgstr "Sei andato..."
+msgstr "Sei andato…"
 
 msgid "HUSTR_MESSAGESENT"
 msgstr "[Messaggio Inviato]"
@@ -329,9 +328,8 @@ msgstr "Power-up concesso/tolto"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
-#, fuzzy
 msgid "STSTR_CHOPPERS"
-msgstr "... non fa schifo - GM"
+msgstr "… non fa schifo - GM"
 
 msgid "STSTR_CLEV"
 msgstr "Cambio di livello…"
