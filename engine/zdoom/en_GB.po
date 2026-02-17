@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 18:15+0000\n"
+"PO-Revision-Date: 2026-02-17 23:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English (United Kingdom) <https://hosted.weblate.org/projects/"
 "uzdoom/zdoom-engine-strings/en_GB/>\n"
@@ -346,12 +346,11 @@ msgstr "Ultimate Buddha Mode ON"
 msgid "TXT_BUDDHA2OFF"
 msgstr "Ultimate Buddha Mode OFF"
 
-#, fuzzy
 msgid "TXT_CHEATPOWERON"
-msgstr "Power on"
+msgstr "Power ON"
 
 msgid "TXT_CHEATPOWEROFF"
-msgstr "Power off"
+msgstr "Power OFF"
 
 msgid "TXT_CHEATHEALTH"
 msgstr "Full health"
@@ -359,9 +358,11 @@ msgstr "Full health"
 msgid "TXT_CHEATKEYS"
 msgstr "All keys"
 
+#, fuzzy
 msgid "TXT_CHEATSOUNDON"
 msgstr "Sound debug on"
 
+#, fuzzy
 msgid "TXT_CHEATSOUNDOFF"
 msgstr "Sound debug off"
 
@@ -374,6 +375,7 @@ msgstr "Cheater - you don't deserve weapons"
 msgid "TXT_CHEATTICKERON"
 msgstr "Ticker on"
 
+#, fuzzy
 msgid "TXT_CHEATTICKEROFF"
 msgstr "Ticker off"
 
@@ -389,6 +391,7 @@ msgstr "You've got the stuff!"
 msgid "TXT_FREEZEON"
 msgstr "Freeze mode on"
 
+#, fuzzy
 msgid "TXT_FREEZEOFF"
 msgstr "Freeze mode off"
 
@@ -404,6 +407,7 @@ msgstr "You feel like yourself again."
 msgid "TXT_LEADBOOTSON"
 msgstr "Lead boots on"
 
+#, fuzzy
 msgid "TXT_LEADBOOTSOFF"
 msgstr "Lead boots off"
 
@@ -452,6 +456,7 @@ msgstr "All Artifacts!"
 msgid "TXT_WHAT_KILL"
 msgstr "What do you want to kill outside of a game?"
 
+#, fuzzy
 msgid "TXT_NOT_FROZEN"
 msgstr "Frozen player properties turned off"
 
