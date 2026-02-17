@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 22:40+0000\n"
+"PO-Revision-Date: 2026-02-17 04:30+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/nl/>\n"
@@ -188,11 +188,10 @@ msgstr "Ik dacht dat je anders was…"
 msgid "QUITMSG20"
 msgstr "Goed hoor, schieten en meteen wegrennen!"
 
-#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
-"Je kunt stoppen...\n"
-"Maar je kan je niet verbergen..."
+"Je kunt stoppen…\n"
+"Maar je kan je niet verbergen…"
 
 msgid "QUITMSG22"
 msgstr ""
@@ -206,7 +205,7 @@ msgstr ""
 
 msgid "QUITMSG24"
 msgstr ""
-"Geef niet op - de vlezerijen\n"
+"Geef niet op—de vlezerijen\n"
 "krijgen de overhand!"
 
 msgid "QUITMSG25"
@@ -214,11 +213,10 @@ msgstr ""
 "Ga nu niet weg.\n"
 "We hebben je hulp nodig!"
 
-#, fuzzy
 msgid "QUITMSG26"
 msgstr ""
 "Ik hoop dat je gewoon een\n"
-"pauze neemt voor Chex(R) party mix."
+"pauze neemt voor Chex® party mix."
 
 msgid "QUITMSG27"
 msgstr ""
@@ -230,10 +228,9 @@ msgstr ""
 "Laat de Intergalactische Federatie\n"
 "van Granen niet in de steek!"
 
-#, fuzzy
 msgid "QUITMSG29"
 msgstr ""
-"De echte Chex(R) Krijger\n"
+"De echte Chex® Krijger\n"
 "zou niet zo snel opgeven!"
 
 msgid "TXT_DEFAULTPICKUPMSG"
