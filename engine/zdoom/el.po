@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 17:09+0000\n"
+"PO-Revision-Date: 2026-02-17 18:15+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/el/>\n"
@@ -332,7 +332,7 @@ msgid "STSTR_CHOPPERS"
 msgstr "… δέν είναι χάλια - GM"
 
 msgid "STSTR_CLEV"
-msgstr "Αλλαγή πίστας"
+msgstr "Αλλαγή πίστας…"
 
 msgid "TXT_BUDDHAON"
 msgstr "Λειτουργία Βουδα ΕΝΕΡΓΟΠΟΙΗΜΈΝΗ"
@@ -346,6 +346,7 @@ msgstr "Λειτουργία Απόλητου Βουδα ΕΝΕΡΓΟΠΟΙΗΜ�
 msgid "TXT_BUDDHA2OFF"
 msgstr "Λειτουργία Απόλητου Βουδα ΆΠΕΝΕΡΓΟΠΟΙΗΜΈΝΗ"
 
+#, fuzzy
 msgid "TXT_CHEATPOWERON"
 msgstr "Δύναμη ενεργοποιημένη"
 
