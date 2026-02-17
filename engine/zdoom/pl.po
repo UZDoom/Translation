@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 00:09+0000\n"
+"PO-Revision-Date: 2026-02-17 04:30+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/pl/>\n"
@@ -189,11 +189,10 @@ msgstr "Myślałam, że jesteś inny…"
 msgid "QUITMSG20"
 msgstr "Dobra! Zabijaj i biegaj!"
 
-#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
-"Możesz wyjść...\n"
-"Ale nie możesz się ukryć..."
+"Możesz wyjść…\n"
+"Ale nie możesz się ukryć…"
 
 msgid "QUITMSG22"
 msgstr ""
@@ -201,21 +200,24 @@ msgstr ""
 "Mama powiedziała, że czas na obiad?"
 
 msgid "QUITMSG23"
-msgstr "Nie wychodź teraz, są tu wciąż flemoidy na wolności!"
+msgstr ""
+"Nie wychodź teraz, są tu\n"
+"wciąż flemoidy na wolności!"
 
 msgid "QUITMSG24"
-msgstr "Nie poddawaj się -- flemoidy będą miały przewagę!"
+msgstr ""
+"Nie poddawaj się—flemoidy\n"
+"będą miały przewagę!"
 
 msgid "QUITMSG25"
 msgstr ""
 "Nie odchodź teraz.\n"
 "Potrzebujemy twojej pomocy!"
 
-#, fuzzy
 msgid "QUITMSG26"
 msgstr ""
-"Mam nadzieję, że robisz sobie przerwę na\n"
-"mieszankę płatków Chex(R)."
+"Mam nadzieję, że robisz sobie przerwę\n"
+"na mieszankę płatków Chex®."
 
 msgid "QUITMSG27"
 msgstr ""
@@ -223,12 +225,13 @@ msgstr ""
 "Potrzebujemy twojej pomocy!"
 
 msgid "QUITMSG28"
-msgstr "Nie opuszczaj Międzygalaktycznej Federacji Płatków!"
+msgstr ""
+"Nie opuszczaj\n"
+"Międzygalaktycznej Federacji Płatków!"
 
-#, fuzzy
 msgid "QUITMSG29"
 msgstr ""
-"Prawdziwy Wojownik Chex(R)\n"
+"Prawdziwy Wojownik Chex®\n"
 "nie poddałby się tak szybko!"
 
 msgid "TXT_DEFAULTPICKUPMSG"
