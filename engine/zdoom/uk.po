@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 18:15+0000\n"
+"PO-Revision-Date: 2026-02-17 23:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/uk/>\n"
@@ -349,12 +349,11 @@ msgstr "Ультимативний Будда-мод ВВІМК"
 msgid "TXT_BUDDHA2OFF"
 msgstr "Ультимативний Будда-мод ВИМК"
 
-#, fuzzy
 msgid "TXT_CHEATPOWERON"
-msgstr "Сила активована"
+msgstr "Сила УВІМКНЕНО"
 
 msgid "TXT_CHEATPOWEROFF"
-msgstr "Сила деактивована"
+msgstr "Сила ВИМКНЕНО"
 
 msgid "TXT_CHEATHEALTH"
 msgstr "Повне здоров'я"
@@ -362,9 +361,11 @@ msgstr "Повне здоров'я"
 msgid "TXT_CHEATKEYS"
 msgstr "Усі ключі"
 
+#, fuzzy
 msgid "TXT_CHEATSOUNDON"
 msgstr "Налагодження звуку УВІМКНЕНО"
 
+#, fuzzy
 msgid "TXT_CHEATSOUNDOFF"
 msgstr "Налагодження звуку ВИМКНЕНО"
 
@@ -377,6 +378,7 @@ msgstr "Пройдисвіт - ти не заслужив зброї"
 msgid "TXT_CHEATTICKERON"
 msgstr "Лічильник Ввімк."
 
+#, fuzzy
 msgid "TXT_CHEATTICKEROFF"
 msgstr "Лічильник Вимк."
 
@@ -392,6 +394,7 @@ msgstr "Отримано предмети!"
 msgid "TXT_FREEZEON"
 msgstr "Режим заморозки ВВІМКНЕНО"
 
+#, fuzzy
 msgid "TXT_FREEZEOFF"
 msgstr "Режим заморозки ВИМКНЕНО"
 
@@ -408,6 +411,7 @@ msgstr "Ви почуваєтесь собою."
 msgid "TXT_LEADBOOTSON"
 msgstr "Одягнено свинцеві чоботи"
 
+#, fuzzy
 msgid "TXT_LEADBOOTSOFF"
 msgstr "Знято свинцеві чоботи"
 
@@ -456,6 +460,7 @@ msgstr "Усі артефакти!"
 msgid "TXT_WHAT_KILL"
 msgstr "Що, хочеш вбивати в реальності?"
 
+#, fuzzy
 msgid "TXT_NOT_FROZEN"
 msgstr "Властивості замороженого гравця вимкнено"
 
