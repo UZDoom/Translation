@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 05:22+0000\n"
+"PO-Revision-Date: 2026-02-17 17:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/uk/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.16\n"
+"X-Generator: Weblate 5.16.1-dev\n"
 "X-HeaderCode: uk\n"
 
 msgid "PRESSKEY"
@@ -285,7 +285,7 @@ msgid "STSTR_MUS"
 msgstr "Зміна музики"
 
 msgid "STSTR_NOMUS"
-msgstr "НЕКОРЕКТНИЙ ВИБІР"
+msgstr "Некоректний Вибір"
 
 msgid "STSTR_DQDON"
 msgstr "Безсмертя ввімкнено"
@@ -306,24 +306,16 @@ msgid "STSTR_FAADDED"
 msgstr "Спорядження поповнено (без ключів)"
 
 msgid "STSTR_NCON"
-msgstr ""
-"Прохід крізь стіни\n"
-"ВВІМКНЕНО"
+msgstr "Прохід крізь стіни ВВІМКНЕНО"
 
 msgid "STSTR_NCOFF"
-msgstr ""
-"Прохід крізь стіни\n"
-"ВИМКНЕНО"
+msgstr "Прохід крізь стіни ВИМКНЕНО"
 
 msgid "STSTR_NC2ON"
-msgstr ""
-"Проліт крізь стіни\n"
-"ВВІМКНЕНО"
+msgstr "Проліт крізь стіни ВВІМКНЕНО"
 
 msgid "STSTR_NC2OFF"
-msgstr ""
-"Проліт крізь стіни\n"
-"ВИМКНЕНО"
+msgstr "Проліт крізь стіни ВИМКНЕНО"
 
 # “inVuln”: Invulnerability sphere
 # “Str”: Berserk
@@ -332,7 +324,7 @@ msgstr ""
 # “Allmap”: Computer area map
 # “Lite-amp”: Light-amplification visor
 msgid "STSTR_BEHOLD"
-msgstr "Безсм. (V), берс. (S), нев. (I), кос. (R), карта (A), ПНВ (L)."
+msgstr "Безсм. (V), берс. (S), нев. (I), кос. (R), карта (A), Пнв (L)"
 
 msgid "STSTR_BEHOLDX"
 msgstr "Підсилення ввімкнено"
