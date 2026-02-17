@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 05:22+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-17 14:09+0000\n"
+"Last-Translator: Ahmet Emre Gürdal <gurdalahmetemre@disroot.org>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/tr/>\n"
 "Language: tr\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16\n"
+"X-Generator: Weblate 5.16.1-dev\n"
 "X-HeaderCode: tr\n"
 
 msgid "PRESSKEY"
@@ -23,7 +23,6 @@ msgstr "Bir sır açığa çıkıyor!"
 msgid "D_DEVSTR"
 msgstr "Yararsız mod AÇIK."
 
-#, fuzzy
 msgid "QUITMSG"
 msgstr ""
 "Bu harika oyunu bırakmak\n"
@@ -332,9 +331,8 @@ msgstr "Güç Açma Değiştirildi"
 msgid "STSTR_CHOPPERS"
 msgstr "… berbat değil - GM"
 
-#, fuzzy
 msgid "STSTR_CLEV"
-msgstr "Seviye Değiştirme..."
+msgstr "Seviye Değiştiriliyor…"
 
 msgid "TXT_BUDDHAON"
 msgstr "Buda modu AÇIK"
@@ -393,9 +391,8 @@ msgstr "Dondurma modu açık"
 msgid "TXT_FREEZEOFF"
 msgstr "Dondurma modu kapalı"
 
-#, fuzzy
 msgid "TXT_STRANGE"
-msgstr "Garip hissediyorsun."
+msgstr "Garip hissediyorsun…"
 
 msgid "TXT_STRANGER"
 msgstr "Daha da garip hissediyorsun."
@@ -930,7 +927,7 @@ msgid "TAG_PLASMARIFLE"
 msgstr "Plazma Tüfeği"
 
 msgid "TAG_BFG9000"
-msgstr ""
+msgstr "BFG 9000"
 
 msgid "AMMO_CLIP"
 msgstr "Kurşunlar"
@@ -1220,10 +1217,10 @@ msgid "FN_CLINK"
 msgstr "Kılıçpençe"
 
 msgid "FN_DSPARIL"
-msgstr ""
+msgstr "D'Sparil"
 
 msgid "FN_HERETICIMP"
-msgstr ""
+msgstr "Çörten"
 
 msgid "FN_IRONLICH"
 msgstr "Demir Ceset"
@@ -1235,10 +1232,11 @@ msgid "FN_MINOTAUR"
 msgstr "Maulotor"
 
 msgid "FN_MUMMY"
-msgstr ""
+msgstr "Golem"
 
+#, fuzzy
 msgid "FN_MUMMYLEADER"
-msgstr ""
+msgstr "Nitrogolem"
 
 msgid "FN_SNAKE"
 msgstr ""
