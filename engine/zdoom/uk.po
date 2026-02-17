@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 17:10+0000\n"
+"PO-Revision-Date: 2026-02-17 18:15+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/uk/>\n"
@@ -334,22 +334,22 @@ msgstr "Підсилення ввімкнено"
 msgid "STSTR_CHOPPERS"
 msgstr "… непогано — гм"
 
-#, fuzzy
 msgid "STSTR_CLEV"
-msgstr "Зміна рівня..."
+msgstr "Зміна рівня…"
 
 msgid "TXT_BUDDHAON"
-msgstr "Будда-мод ВВІМК."
+msgstr "Будда-мод ВВІМК"
 
 msgid "TXT_BUDDHAOFF"
-msgstr "Будда-мод ВИМК."
+msgstr "Будда-мод ВИМК"
 
 msgid "TXT_BUDDHA2ON"
-msgstr "Ультимативний Будда-мод ВВІМК."
+msgstr "Ультимативний Будда-мод ВВІМК"
 
 msgid "TXT_BUDDHA2OFF"
-msgstr "Ультимативний Будда-мод ВИМК."
+msgstr "Ультимативний Будда-мод ВИМК"
 
+#, fuzzy
 msgid "TXT_CHEATPOWERON"
 msgstr "Сила активована"
 
