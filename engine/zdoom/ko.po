@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 18:15+0000\n"
+"PO-Revision-Date: 2026-02-17 23:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ko/>\n"
@@ -348,7 +348,6 @@ msgstr "나무 아미타불 모드 켬"
 msgid "TXT_BUDDHA2OFF"
 msgstr "나무 아미타불 모드 끔"
 
-#, fuzzy
 msgid "TXT_CHEATPOWERON"
 msgstr "파워 켬"
 
@@ -361,9 +360,11 @@ msgstr "체력 완전 회복"
 msgid "TXT_CHEATKEYS"
 msgstr "모든 열쇠"
 
+#, fuzzy
 msgid "TXT_CHEATSOUNDON"
 msgstr "효과음 디버그 켬"
 
+#, fuzzy
 msgid "TXT_CHEATSOUNDOFF"
 msgstr "효과음 디버그 끔"
 
@@ -376,6 +377,7 @@ msgstr "사기꾼놈! 너는 무기를 가질 자격이 없어!"
 msgid "TXT_CHEATTICKERON"
 msgstr "프레임 속도 표시 켬"
 
+#, fuzzy
 msgid "TXT_CHEATTICKEROFF"
 msgstr "프레임 속도 표시 끔"
 
@@ -391,6 +393,7 @@ msgstr "무언가를 얻었다!"
 msgid "TXT_FREEZEON"
 msgstr "시간정지 켬"
 
+#, fuzzy
 msgid "TXT_FREEZEOFF"
 msgstr "시간정지 끔"
 
@@ -407,6 +410,7 @@ msgstr "자기 자신처럼 생각하게 됐다."
 msgid "TXT_LEADBOOTSON"
 msgstr "납 부츠 켬"
 
+#, fuzzy
 msgid "TXT_LEADBOOTSOFF"
 msgstr "납 부츠 끔"
 
@@ -455,6 +459,7 @@ msgstr "모든 유물들!"
 msgid "TXT_WHAT_KILL"
 msgstr "게임 밖에서 무엇을 죽이고 싶습니까?"
 
+#, fuzzy
 msgid "TXT_NOT_FROZEN"
 msgstr "플레이어 정지 속성이 꺼졌습니다."
 
