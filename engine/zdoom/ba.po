@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 18:15+0000\n"
+"PO-Revision-Date: 2026-02-17 23:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Bashkir <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ba/>\n"
@@ -354,7 +354,7 @@ msgid "TXT_CHEATPOWERON"
 msgstr "Energija UKLJ"
 
 msgid "TXT_CHEATPOWEROFF"
-msgstr "Energija ISKLJ."
+msgstr "Energija ISKLJ"
 
 msgid "TXT_CHEATHEALTH"
 msgstr "Puno zdravlje"
@@ -362,9 +362,11 @@ msgstr "Puno zdravlje"
 msgid "TXT_CHEATKEYS"
 msgstr "Svi ključevi"
 
+#, fuzzy
 msgid "TXT_CHEATSOUNDON"
 msgstr "Debug zvuka UKLJ."
 
+#, fuzzy
 msgid "TXT_CHEATSOUNDOFF"
 msgstr "Debug zvuka ISKLJ."
 
@@ -377,6 +379,7 @@ msgstr "Varalico! Ajd sad bez oružja se dirkaj!"
 msgid "TXT_CHEATTICKERON"
 msgstr "Brojač UKLJ."
 
+#, fuzzy
 msgid "TXT_CHEATTICKEROFF"
 msgstr "Brojač ISKLJ."
 
@@ -392,6 +395,7 @@ msgstr "Ti si frajer!"
 msgid "TXT_FREEZEON"
 msgstr "Zamrznuti mod UKLJ."
 
+#, fuzzy
 msgid "TXT_FREEZEOFF"
 msgstr "Zamrznuti mod ISKLJ."
 
@@ -408,6 +412,7 @@ msgstr "Osječaš se opet ko ti."
 msgid "TXT_LEADBOOTSON"
 msgstr "Olovne čizme UKLJ."
 
+#, fuzzy
 msgid "TXT_LEADBOOTSOFF"
 msgstr "Olovne čizme ISKLJ."
 
@@ -456,6 +461,7 @@ msgstr "Svi Artefakti!"
 msgid "TXT_WHAT_KILL"
 msgstr "Šta želite ubiti van igre?"
 
+#, fuzzy
 msgid "TXT_NOT_FROZEN"
 msgstr "Svojstva zamrznutog igrača su isključena"
 
