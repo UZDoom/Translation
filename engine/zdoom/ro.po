@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 22:39+0000\n"
+"PO-Revision-Date: 2026-02-17 04:30+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ro/>\n"
@@ -190,11 +190,10 @@ msgstr "Am crezut că tu ești diferit…"
 msgid "QUITMSG20"
 msgstr "Fie! Omoară și fugi!"
 
-#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
-"Poți să ieși...\n"
-"dar nu te poți ascunde..."
+"Poți să ieși…\n"
+"dar nu te poți ascunde…"
 
 msgid "QUITMSG22"
 msgstr ""
@@ -202,21 +201,24 @@ msgstr ""
 "Mami zice că e timpul pentru cină?"
 
 msgid "QUITMSG23"
-msgstr "Nu ieși acum, încă mai sunt flemoizi liberi!"
+msgstr ""
+"Nu ieși acum, încă mai\n"
+"sunt flemoizi liberi!"
 
 msgid "QUITMSG24"
-msgstr "Nu renunța - flemoizii vor avea avantajul!"
+msgstr ""
+"Nu renunța—flemoizii\n"
+"vor avea avantajul!"
 
 msgid "QUITMSG25"
 msgstr ""
 "Nu pleca.\n"
 "Avem nevoie de ajutorul tău!"
 
-#, fuzzy
 msgid "QUITMSG26"
 msgstr ""
-"Sper că iei doar o pauză cu un bol de cereale \n"
-"Chex(R)."
+"Sper că iei doar o pauză cu\n"
+"un bol de cereale Chex®."
 
 msgid "QUITMSG27"
 msgstr ""
@@ -224,37 +226,38 @@ msgstr ""
 "Avem nevoie de ajutorul tău!"
 
 msgid "QUITMSG28"
-msgstr "Nu abandona Federația Intergalactică a Cerealelor!"
+msgstr ""
+"Nu abandona\n"
+"Federația Intergalactică a Cerealelor!"
 
-#, fuzzy
 msgid "QUITMSG29"
 msgstr ""
-"Adevăratul Luptător Chex(R) nu s-ar da bătut atât\n"
-"de ușor!"
+"Adevăratul Luptător Chex® nu\n"
+"s-ar da bătut atât de ușor!"
 
 msgid "TXT_DEFAULTPICKUPMSG"
 msgstr "Ai ridicat un obiect"
 
 msgid "PD_ANY"
-msgstr "Orice cheie va deschide ușa."
+msgstr "Orice cheie va deschide ușa"
 
 msgid "PD_ANYOBJ"
-msgstr "Orice cheie va activa obiectul."
+msgstr "Orice cheie va activa obiectul"
 
 msgid "PD_ALL3"
-msgstr "Ai nevoie de cele trei chei pentru a deschide ușa."
+msgstr "Ai nevoie de cele trei chei pentru a deschide ușa"
 
 msgid "PD_ALL3O"
-msgstr "Ai nevoie de cele trei chei pentru a activa obiectul."
+msgstr "Ai nevoie de cele trei chei pentru a activa obiectul"
 
 msgid "PD_ALL6"
-msgstr "Ai nevoie de cele șase chei pentru a deschide ușa."
+msgstr "Ai nevoie de cele șase chei pentru a deschide ușa"
 
 msgid "PD_ALL6O"
-msgstr "Ai nevoie de cele șase chei pentru a activa obiectul."
+msgstr "Ai nevoie de cele șase chei pentru a activa obiectul"
 
 msgid "PD_ALLKEYS"
-msgstr "Ai nevoie de toate cheile."
+msgstr "Ai nevoie de toate cheile"
 
 msgid "HUSTR_MSGU"
 msgstr "[Mesaj netrimis]"
