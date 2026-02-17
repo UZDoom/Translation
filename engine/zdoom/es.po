@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 04:30+0000\n"
+"PO-Revision-Date: 2026-02-17 05:22+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/es/>\n"
@@ -272,9 +272,8 @@ msgstr "Te asustas a ti mism@[ao_esp]"
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Empiezas a delirar"
 
-#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
-msgstr "Te has vuelto loc@[ao_esp]..."
+msgstr "Te has vuelto loc@[ao_esp]…"
 
 msgid "HUSTR_MESSAGESENT"
 msgstr "[Mensaje enviado]"
