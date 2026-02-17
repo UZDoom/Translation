@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 22:40+0000\n"
+"PO-Revision-Date: 2026-02-17 04:30+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/cs/>\n"
@@ -188,11 +188,10 @@ msgstr "Myslela jsem, že jsi jin@[adj_cs]…"
 msgid "QUITMSG20"
 msgstr "Fajn! Prostě zab a uteč!"
 
-#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
-"Můžeš odejít...\n"
-"ale nemůžeš se skrýt..."
+"Můžeš odejít…\n"
+"ale nemůžeš se skrýt…"
 
 msgid "QUITMSG22"
 msgstr ""
@@ -206,7 +205,7 @@ msgstr ""
 
 msgid "QUITMSG24"
 msgstr ""
-"Teď to nevzdávej - slizouni\n"
+"Teď to nevzdávej—slizouni\n"
 "budou mít výhodu!"
 
 msgid "QUITMSG25"
@@ -214,11 +213,10 @@ msgstr ""
 "Teď neodcházej.\n"
 "Potřebujeme tvoji pomoc!"
 
-#, fuzzy
 msgid "QUITMSG26"
 msgstr ""
 "Doufám, že si jen dáváš\n"
-"pauzu na Chex(R) Party Mix."
+"pauzu na Chex® Party Mix."
 
 msgid "QUITMSG27"
 msgstr ""
@@ -230,10 +228,9 @@ msgstr ""
 "Neopouštěj Intergalaktickou\n"
 "federaci cereálií!"
 
-#, fuzzy
 msgid "QUITMSG29"
 msgstr ""
-"Skutečný Chex(R) bojovník\n"
+"Skutečný Chex® bojovník\n"
 "by se tak rychle nevzdal!"
 
 msgid "TXT_DEFAULTPICKUPMSG"
@@ -264,13 +261,13 @@ msgid "HUSTR_MSGU"
 msgstr "[Zpráva neposlána]"
 
 msgid "HUSTR_TALKTOSELF1"
-msgstr "Něco si zamumláš pro sebe."
+msgstr "Něco si zamumláš pro sebe"
 
 msgid "HUSTR_TALKTOSELF2"
 msgstr "Kdo je tam?"
 
 msgid "HUSTR_TALKTOSELF3"
-msgstr "Vystrašíš se."
+msgstr "Vystrašíš se"
 
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Začneš pařit."
