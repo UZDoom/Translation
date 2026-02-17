@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 04:30+0000\n"
+"PO-Revision-Date: 2026-02-17 05:22+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/sr/>\n"
@@ -275,9 +275,8 @@ msgstr "Плашите самог себе"
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Брбљате"
 
-#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
-msgstr "Лудите..."
+msgstr "Лудите…"
 
 msgid "HUSTR_MESSAGESENT"
 msgstr "[Порука послата]"
@@ -332,9 +331,8 @@ msgstr "Супер моћи заглављене"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
-#, fuzzy
 msgid "STSTR_CHOPPERS"
-msgstr "... Једи Чекс(Р)!"
+msgstr "… Једи Чекс(Р)"
 
 #, fuzzy
 msgid "STSTR_CLEV"
