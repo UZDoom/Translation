@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 17:10+0000\n"
+"PO-Revision-Date: 2026-02-17 18:15+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/be/>\n"
@@ -333,9 +333,8 @@ msgstr "Узмацненне ўключана"
 msgid "STSTR_CHOPPERS"
 msgstr "…не адстой - GM"
 
-#, fuzzy
 msgid "STSTR_CLEV"
-msgstr "Змена ўзроўню..."
+msgstr "Змена ўзроўню…"
 
 msgid "TXT_BUDDHAON"
 msgstr "Рэжым Буды ЎКЛЮЧАНЫ"
@@ -350,7 +349,7 @@ msgid "TXT_BUDDHA2OFF"
 msgstr "Рэжым ультыматыўнага Буды ВЫКЛЮЧАНЫ"
 
 msgid "TXT_CHEATPOWERON"
-msgstr "Сіла актывавана"
+msgstr "Сіла ЎКЛЮЧАНЫ"
 
 msgid "TXT_CHEATPOWEROFF"
 msgstr "Сіла дэактэвавана"
