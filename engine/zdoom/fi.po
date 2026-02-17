@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 20:09+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-02-17 23:10+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fi/>\n"
 "Language: fi\n"
@@ -349,12 +349,11 @@ msgstr "Korkein buddhatila PÄÄLLÄ"
 msgid "TXT_BUDDHA2OFF"
 msgstr "Korkein buddhatila POIS PÄÄLTÄ"
 
-#, fuzzy
 msgid "TXT_CHEATPOWERON"
-msgstr "Voima päällä"
+msgstr "Voima PÄÄLLÄ"
 
 msgid "TXT_CHEATPOWEROFF"
-msgstr "Voima pois päältä"
+msgstr "Voima POIS PÄÄLTÄ"
 
 msgid "TXT_CHEATHEALTH"
 msgstr "Täysi terveys"
@@ -362,9 +361,11 @@ msgstr "Täysi terveys"
 msgid "TXT_CHEATKEYS"
 msgstr "Kaikki avaimet"
 
+#, fuzzy
 msgid "TXT_CHEATSOUNDON"
 msgstr "Äänen vianmääritystila päällä"
 
+#, fuzzy
 msgid "TXT_CHEATSOUNDOFF"
 msgstr "Äänen vianmääritystila pois päältä"
 
@@ -377,6 +378,7 @@ msgstr "Huijari - et ansaitse aseita"
 msgid "TXT_CHEATTICKERON"
 msgstr "Laskuri päällä"
 
+#, fuzzy
 msgid "TXT_CHEATTICKEROFF"
 msgstr "Laskuri pois päältä"
 
@@ -392,6 +394,7 @@ msgstr "Sait kamppeet!"
 msgid "TXT_FREEZEON"
 msgstr "Jäädytystila päällä"
 
+#, fuzzy
 msgid "TXT_FREEZEOFF"
 msgstr "Jäädytystila pois päältä"
 
@@ -408,6 +411,7 @@ msgstr "Tunnet olevasi jälleen oma itsesi."
 msgid "TXT_LEADBOOTSON"
 msgstr "Lyijysaappaat päällä"
 
+#, fuzzy
 msgid "TXT_LEADBOOTSOFF"
 msgstr "Lyijysaappaat pois päältä"
 
@@ -457,6 +461,7 @@ msgstr "Kaikki artefaktit!"
 msgid "TXT_WHAT_KILL"
 msgstr "Mitä haluat tappaa pelin ulkopuolella?"
 
+#, fuzzy
 msgid "TXT_NOT_FROZEN"
 msgstr "Jäätyneen pelaajan ominaisuudet kytketty pois päältä"
 
