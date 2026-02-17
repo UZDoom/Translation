@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 18:15+0000\n"
+"PO-Revision-Date: 2026-02-17 23:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/nl/>\n"
@@ -346,12 +346,11 @@ msgstr "Ultieme Boeddha-modus AAN"
 msgid "TXT_BUDDHA2OFF"
 msgstr "Ultieme Boeddha-modus UIT"
 
-#, fuzzy
 msgid "TXT_CHEATPOWERON"
-msgstr "Vermogen aan"
+msgstr "Vermogen AAN"
 
 msgid "TXT_CHEATPOWEROFF"
-msgstr "Vermogen uit"
+msgstr "Vermogen UIT"
 
 msgid "TXT_CHEATHEALTH"
 msgstr "Volledige gezondheid"
@@ -359,9 +358,11 @@ msgstr "Volledige gezondheid"
 msgid "TXT_CHEATKEYS"
 msgstr "Alle sleutels"
 
+#, fuzzy
 msgid "TXT_CHEATSOUNDON"
 msgstr "Geluid debug aan"
 
+#, fuzzy
 msgid "TXT_CHEATSOUNDOFF"
 msgstr "Geluid debug uit"
 
@@ -374,6 +375,7 @@ msgstr "Valsspeler - je verdient geen wapens"
 msgid "TXT_CHEATTICKERON"
 msgstr "Ticker aan"
 
+#, fuzzy
 msgid "TXT_CHEATTICKEROFF"
 msgstr "Ticker uit"
 
@@ -389,6 +391,7 @@ msgstr "Je hebt het spul!"
 msgid "TXT_FREEZEON"
 msgstr "Bevriesmodus aan"
 
+#, fuzzy
 msgid "TXT_FREEZEOFF"
 msgstr "Bevriesmodus uit"
 
@@ -405,6 +408,7 @@ msgstr "Je voelt je weer als jezelf."
 msgid "TXT_LEADBOOTSON"
 msgstr "Loden laarzen aan"
 
+#, fuzzy
 msgid "TXT_LEADBOOTSOFF"
 msgstr "Loden laarzen uit"
 
@@ -454,6 +458,7 @@ msgstr "Alle artefacten!"
 msgid "TXT_WHAT_KILL"
 msgstr "Wat wil je buiten een spel om doden?"
 
+#, fuzzy
 msgid "TXT_NOT_FROZEN"
 msgstr "Eigenschappen van de bevroren speler uitgeschakeld"
 
