@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 17:10+0000\n"
+"PO-Revision-Date: 2026-02-17 18:15+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ru/>\n"
@@ -348,6 +348,7 @@ msgstr "Окончательный режим Будды ВКЛЮЧЁН"
 msgid "TXT_BUDDHA2OFF"
 msgstr "Окончательный режим Будды ОТКЛЮЧЁН"
 
+#, fuzzy
 msgid "TXT_CHEATPOWERON"
 msgstr "Сила активирована"
 
