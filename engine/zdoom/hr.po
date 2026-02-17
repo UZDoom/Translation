@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 05:22+0000\n"
+"PO-Revision-Date: 2026-02-17 17:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hr/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.16\n"
+"X-Generator: Weblate 5.16.1-dev\n"
 "X-HeaderCode: hr\n"
 
 msgid "PRESSKEY"
@@ -287,16 +287,16 @@ msgid "STSTR_NOMUS"
 msgstr "Nemogući odabir"
 
 msgid "STSTR_DQDON"
-msgstr "Način bezstupnjevnosti UKLJ."
+msgstr "Način bezstupnjevnosti UKLJ"
 
 msgid "STSTR_DQDOFF"
-msgstr "Način bezstupnjevnosti ISKLJ."
+msgstr "Način bezstupnjevnosti ISKLJ"
 
 msgid "STSTR_DQD2ON"
-msgstr "Način krajnje bezstupnjevnosti UKLJ."
+msgstr "Način krajnje bezstupnjevnosti UKLJ"
 
 msgid "STSTR_DQD2OFF"
-msgstr "Način krajnje bezstupnjevnosti ISKLJ."
+msgstr "Način krajnje bezstupnjevnosti ISKLJ"
 
 msgid "STSTR_KFAADDED"
 msgstr "Jako sretno streljivo je dodano"
@@ -305,16 +305,16 @@ msgid "STSTR_FAADDED"
 msgstr "Streljivo (bez ključeva) je dodano"
 
 msgid "STSTR_NCON"
-msgstr "Bez načina presjecanja UKLJ."
+msgstr "Bez načina presjecanja UKLJ"
 
 msgid "STSTR_NCOFF"
-msgstr "Bez načina presjecanja ISKLJ."
+msgstr "Bez načina presjecanja ISKLJ"
 
 msgid "STSTR_NC2ON"
-msgstr "Bez načina presjecanja 2 UKLJ."
+msgstr "Bez načina presjecanja 2 UKLJ"
 
 msgid "STSTR_NC2OFF"
-msgstr "Bez načina presjecanja 2 ISKLJ."
+msgstr "Bez načina presjecanja 2 ISKLJ"
 
 # “inVuln”: Invulnerability sphere
 # “Str”: Berserk
@@ -333,9 +333,8 @@ msgstr "Prekidač pojačanja"
 msgid "STSTR_CHOPPERS"
 msgstr ""
 
-#, fuzzy
 msgid "STSTR_CLEV"
-msgstr "Promjena razine..."
+msgstr "Promjena razine…"
 
 msgid "TXT_BUDDHAON"
 msgstr "Način Bude UKLJ."
