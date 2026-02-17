@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 22:40+0000\n"
+"PO-Revision-Date: 2026-02-17 04:30+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hu/>\n"
@@ -188,11 +188,10 @@ msgstr "Azt hittem te más vagy…"
 msgid "QUITMSG20"
 msgstr "Oké! Csak ölj és fuss!"
 
-#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
-"Kiléphetsz...\n"
-"de nem bújhatsz el..."
+"Kiléphetsz…\n"
+"de nem bújhatsz el…"
 
 msgid "QUITMSG22"
 msgstr ""
@@ -200,21 +199,24 @@ msgstr ""
 "Anyuci szólt, hogy kész a vacsora?"
 
 msgid "QUITMSG23"
-msgstr "Ne lépj ki, még sok slejmoid van szabadon!"
+msgstr ""
+"Ne lépj ki, még sok\n"
+"slejmoid van szabadon!"
 
 msgid "QUITMSG24"
-msgstr "Ne add fel -- máskülönben slejmoidok győznek!"
+msgstr ""
+"Ne add fel—máskülönben\n"
+"slejmoidok győznek!"
 
 msgid "QUITMSG25"
 msgstr ""
 "Még ne menj!\n"
 "Szükségünk van a segítségedre!"
 
-#, fuzzy
 msgid "QUITMSG26"
 msgstr ""
-"Remélem, hogy csak \n"
-"egy szünetet tartasz a Chex(R) parti mixhez."
+"Remélem, hogy csak egy\n"
+"szünetet tartasz a Chex® parti mixhez."
 
 msgid "QUITMSG27"
 msgstr ""
@@ -226,35 +228,34 @@ msgstr ""
 "Ne hagyd cserben az \n"
 "Intergalaktikus Müzli Szövetséget!"
 
-#, fuzzy
 msgid "QUITMSG29"
 msgstr ""
-"Az igazi Chex(R) Harcos \n"
+"Az igazi Chex® Harcos \n"
 "nem adná fel ilyen gyorsan!"
 
 msgid "TXT_DEFAULTPICKUPMSG"
-msgstr "Felvettél egy tárgyat."
+msgstr "Felvettél egy tárgyat"
 
 msgid "PD_ANY"
-msgstr "Bármilyen kulcs kinyitja ezt az ajtót."
+msgstr "Bármilyen kulcs kinyitja ezt az ajtót"
 
 msgid "PD_ANYOBJ"
-msgstr "Bármilyen kulcs aktiválja ezt a tárgyat."
+msgstr "Bármilyen kulcs aktiválja ezt a tárgyat"
 
 msgid "PD_ALL3"
-msgstr "Mind a 3 kulcs szükséges, hogy kinyisd ezt az ajtót."
+msgstr "Mind a 3 kulcs szükséges, hogy kinyisd ezt az ajtót"
 
 msgid "PD_ALL3O"
-msgstr "Mind a 3 kulcs kell hogy aktiváld ezt a tárgyat."
+msgstr "Mind a 3 kulcs kell hogy aktiváld ezt a tárgyat"
 
 msgid "PD_ALL6"
-msgstr "Mind a 6 kulcsnak meg kell lennie az ajtó kinyitásához."
+msgstr "Mind a 6 kulcsnak meg kell lennie az ajtó kinyitásához"
 
 msgid "PD_ALL6O"
-msgstr "Mind a 6 kulcs kell, hogy aktiváld ezt az objektumot."
+msgstr "Mind a 6 kulcs kell, hogy aktiváld ezt az objektumot"
 
 msgid "PD_ALLKEYS"
-msgstr "Az összes kulcsra szükséged van."
+msgstr "Az összes kulcsra szükséged van"
 
 msgid "HUSTR_MSGU"
 msgstr "[Üzenet nincs elküldve]"
