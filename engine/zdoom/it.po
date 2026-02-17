@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 22:39+0000\n"
+"PO-Revision-Date: 2026-02-17 04:30+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/it/>\n"
@@ -188,11 +188,10 @@ msgstr "Pensavo tu fossi diverso…"
 msgid "QUITMSG20"
 msgstr "Ma bravo! Uccidi e scappi!"
 
-#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
-"Puoi uscire...\n"
-"ma non puoi nasconderti..."
+"Puoi uscire…\n"
+"ma non puoi nasconderti…"
 
 msgid "QUITMSG22"
 msgstr ""
@@ -206,7 +205,7 @@ msgstr ""
 
 msgid "QUITMSG24"
 msgstr ""
-"Non arrenderti -- i flemoidi\n"
+"Non arrenderti—i flemoidi\n"
 "ci sopraffaranno!"
 
 msgid "QUITMSG25"
@@ -214,11 +213,10 @@ msgstr ""
 "Non andartene ora.\n"
 "Ci serve il tuo aiuto!"
 
-#, fuzzy
 msgid "QUITMSG26"
 msgstr ""
 "Spero tu stia solo facendo una\n"
-"pausa per prendere un Chex(R) party mix."
+"pausa per prendere un Chex® party mix."
 
 msgid "QUITMSG27"
 msgstr ""
@@ -230,10 +228,9 @@ msgstr ""
 "Non abbandonare la\n"
 "Federazione Intergalattica dei Cereali!"
 
-#, fuzzy
 msgid "QUITMSG29"
 msgstr ""
-"Il vero Guerriero Chex(R)\n"
+"Il vero Guerriero Chex®\n"
 "non si arrenderebbe così in fretta!"
 
 msgid "TXT_DEFAULTPICKUPMSG"

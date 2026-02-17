@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 22:40+0000\n"
+"PO-Revision-Date: 2026-02-17 04:30+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/id/>\n"
@@ -187,11 +187,10 @@ msgstr "Kukira kau berbeda…"
 msgid "QUITMSG20"
 msgstr "Okeh! bunuhlah lalu lari!"
 
-#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
-"Anda bisa keluar...\n"
-"tapi tidak bisa sembunyi..."
+"Anda bisa keluar…\n"
+"tapi tidak bisa sembunyi…"
 
 msgid "QUITMSG22"
 msgstr ""
@@ -205,7 +204,7 @@ msgstr ""
 
 msgid "QUITMSG24"
 msgstr ""
-"Jangan menyerah -- para flemoid akan\n"
+"Jangan menyerah—para flemoid akan\n"
 "menang kalau begitu!"
 
 msgid "QUITMSG25"
@@ -213,11 +212,10 @@ msgstr ""
 "Jangan pergi dulu.\n"
 "Kami butuh bantuanmu!"
 
-#, fuzzy
 msgid "QUITMSG26"
 msgstr ""
 "Kuharap kau cuman ingin\n"
-"pesta sarapan Chex(R)."
+"pesta sarapan Chex®."
 
 msgid "QUITMSG27"
 msgstr ""
@@ -229,10 +227,9 @@ msgstr ""
 "Jangan tinggalkan\n"
 "Federasi Sereal Intergalaktik!"
 
-#, fuzzy
 msgid "QUITMSG29"
 msgstr ""
-"Ksatria Chex(R) sejati\n"
+"Ksatria Chex® sejati\n"
 "takkan menyerah gitu saja!"
 
 msgid "TXT_DEFAULTPICKUPMSG"

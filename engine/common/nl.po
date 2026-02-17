@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 22:10+0000\n"
-"Last-Translator: SecularSteve <fairfull.playing@gmail.com>\n"
+"PO-Revision-Date: 2026-02-17 04:30+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/uzdoom/common/nl/>"
 "\n"
 "Language: nl\n"
@@ -159,10 +159,10 @@ msgid "OPTMNU_REVERB"
 msgstr "Reverb-omgeving editor"
 
 msgid "CNTRLMNU_SWITCHTEXT1"
-msgstr "ENTER om te veranderen, BACKSPACE om te wissen."
+msgstr "ENTER om te veranderen, BACKSPACE om te wissen"
 
 msgid "CNTRLMNU_SWITCHTEXT2"
-msgstr "Druk op de nieuwe toets voor controle, ESC om te annuleren."
+msgstr "Druk op de nieuwe toets voor controle, ESC om te annuleren"
 
 msgid "CNTRLMNU_CONTROLS"
 msgstr "Bedieningselementen"

@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 22:10+0000\n"
-"Last-Translator: Marazm Mamazm <brutdewelopment@gmail.com>\n"
+"PO-Revision-Date: 2026-02-17 00:10+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/common/pl/>"
 "\n"
 "Language: pl\n"
@@ -2036,3 +2036,6 @@ msgstr "Błąd wczytywania listy zmian"
 
 msgid "ACCMNU_TITLE"
 msgstr "Opcje Dostępności"
+
+msgid "ACCMNU_RESET"
+msgstr "Resetuj Opcje Dostępności"

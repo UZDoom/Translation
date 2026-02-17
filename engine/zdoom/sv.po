@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 22:40+0000\n"
+"PO-Revision-Date: 2026-02-17 04:30+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/sv/>\n"
@@ -189,11 +189,10 @@ msgstr "Jag trodde att du var annorlunda…"
 msgid "QUITMSG20"
 msgstr "Okej! Döda bara och spring!"
 
-#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
-"Du kan sluta... \n"
-"men du kan inte gömma dig..."
+"Du kan sluta…\n"
+"men du kan inte gömma dig…"
 
 msgid "QUITMSG22"
 msgstr ""
@@ -201,48 +200,60 @@ msgstr ""
 "Mamma säger att det är dags för middag?"
 
 msgid "QUITMSG23"
-msgstr "Ge inte upp nu, det finns fortfarande flemoider på fri fot!"
+msgstr ""
+"Ge inte upp nu, det finns\n"
+"fortfarande flemoider på fri fot!"
 
 msgid "QUITMSG24"
-msgstr "Ge inte upp - flemoiderna kommer att ta överhanden!"
+msgstr ""
+"Ge inte upp—flemoiderna\n"
+"kommer att ta överhanden!"
 
 msgid "QUITMSG25"
-msgstr "Gå inte nu. Vi behöver din hjälp!"
+msgstr ""
+"Gå inte nu.\n"
+"Vi behöver din hjälp!"
 
-#, fuzzy
 msgid "QUITMSG26"
-msgstr "Jag hoppas att du bara tar en paus för Chex(R) party mix."
+msgstr ""
+"Jag hoppas att du bara tar\n"
+"en paus för Chex® party mix."
 
 msgid "QUITMSG27"
-msgstr "Sluta inte nu! Vi behöver din hjälp!"
+msgstr ""
+"Sluta inte nu!\n"
+"Vi behöver din hjälp!"
 
 msgid "QUITMSG28"
-msgstr "Överge inte Intergalactic Federation of Cereals!"
+msgstr ""
+"Överge inte Intergalactic\n"
+"Federation of Cereals!"
 
-#, fuzzy
 msgid "QUITMSG29"
-msgstr "Den riktiga Chex(R)-krigaren skulle inte ge upp så snabbt!"
+msgstr ""
+"Den riktiga Chex®-krigaren\n"
+"skulle inte ge upp så snabbt!"
 
 msgid "TXT_DEFAULTPICKUPMSG"
 msgstr "Du har en pickup"
 
 msgid "PD_ANY"
-msgstr "Vilken nyckel som helst kan öppna den här dörren."
+msgstr "Vilken nyckel som helst kan öppna den här dörren"
 
 msgid "PD_ANYOBJ"
 msgstr "Alla nycklar aktiverar det här objektet"
 
 msgid "PD_ALL3"
-msgstr "Du behöver alla tre nycklarna för att öppna den här dörren."
+msgstr "Du behöver alla tre nycklarna för att öppna den här dörren"
 
 msgid "PD_ALL3O"
-msgstr "Du behöver alla tre nycklarna för att aktivera det här föremålet."
+msgstr "Du behöver alla tre nycklarna för att aktivera det här föremålet"
 
 msgid "PD_ALL6"
-msgstr "Du behöver alla sex nycklar för att öppna den här dörren."
+msgstr "Du behöver alla sex nycklar för att öppna den här dörren"
 
 msgid "PD_ALL6O"
-msgstr "Du behöver alla sex nycklar för att aktivera detta objekt."
+msgstr "Du behöver alla sex nycklar för att aktivera detta objekt"
 
 msgid "PD_ALLKEYS"
 msgstr "Du behöver alla nycklar"
@@ -257,7 +268,7 @@ msgid "HUSTR_TALKTOSELF2"
 msgstr "Vem är där?"
 
 msgid "HUSTR_TALKTOSELF3"
-msgstr "Du skrämmer dig själv."
+msgstr "Du skrämmer dig själv"
 
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Du börjar rasa."

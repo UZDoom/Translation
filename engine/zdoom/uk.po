@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 22:39+0000\n"
+"PO-Revision-Date: 2026-02-17 04:30+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/uk/>\n"
@@ -191,11 +191,10 @@ msgstr "Я думав, що ти інший…"
 msgid "QUITMSG20"
 msgstr "Прекрасно! Зробив амінь чортам і втік!"
 
-#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
-"Ти можеш вийти...\n"
-"але не сховатись..."
+"Ти можеш вийти…\n"
+"але не сховатись…"
 
 msgid "QUITMSG22"
 msgstr ""
@@ -203,19 +202,24 @@ msgstr ""
 "Мамуся покликала їстоньки?"
 
 msgid "QUITMSG23"
-msgstr "Не виходь поки, тут ще багато флемоїдів лишилось!"
+msgstr ""
+"Не виходь поки, тут ще\n"
+"багато флемоїдів лишилось!"
 
 msgid "QUITMSG24"
-msgstr "Не здавайся -- а то флемоїди візьмуть верх!"
+msgstr ""
+"Не здавайся—а то\n"
+"флемоїди візьмуть верх!"
 
 msgid "QUITMSG25"
 msgstr ""
 "Не залишай нас.\n"
 "Нам потрібна твоя допомога!"
 
-#, fuzzy
 msgid "QUITMSG26"
-msgstr "Маю надію, що ти робиш перерву на пластівці Chex(R)."
+msgstr ""
+"Маю надію, що ти робиш\n"
+"перерву на пластівці Chex®."
 
 msgid "QUITMSG27"
 msgstr ""
@@ -223,11 +227,14 @@ msgstr ""
 "Нам потрібна твоя допомога!"
 
 msgid "QUITMSG28"
-msgstr "Не покидай Міжгалактичну Федерацію Пластівців!"
+msgstr ""
+"Не покидай Міжгалактичну\n"
+"Федерацію Пластівців!"
 
-#, fuzzy
 msgid "QUITMSG29"
-msgstr "Справжній воїн Chex(R) не здається так швидко!"
+msgstr ""
+"Справжній воїн Chex® не\n"
+"здається так швидко!"
 
 msgid "TXT_DEFAULTPICKUPMSG"
 msgstr "Ви щось підібрали"

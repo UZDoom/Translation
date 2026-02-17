@@ -2,16 +2,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-30 06:57+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Bulgarian <https://hosted.weblate.org/projects/uzdoom/"
-"zdoom-engine-strings/bg/>\n"
+"PO-Revision-Date: 2026-02-17 00:09+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"Language-Team: Bulgarian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
+"engine-strings/bg/>\n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15-dev\n"
+"X-Generator: Weblate 5.16\n"
 
 msgid "PRESSKEY"
 msgstr ""
@@ -3247,13 +3247,13 @@ msgid "CMPTMNU_EXPLODE2"
 msgstr ""
 
 msgid "PLYRMNU_RED"
-msgstr ""
+msgstr "Червено"
 
 msgid "PLYRMNU_GREEN"
-msgstr ""
+msgstr "Зелено"
 
 msgid "PLYRMNU_BLUE"
-msgstr ""
+msgstr "Синьо"
 
 msgid "PLYRMNU_PLAYERCLASS"
 msgstr ""
@@ -3310,7 +3310,7 @@ msgid "CNTRLMNU_TEAMSAY"
 msgstr ""
 
 msgid "CNTRLMNU_DROPITEM"
-msgstr ""
+msgstr "Пусни предмет"
 
 msgid "CNTRLMNU_QUERYITEM"
 msgstr ""
@@ -3319,7 +3319,7 @@ msgid "CNTRLMNU_DROPWEAPON"
 msgstr ""
 
 msgid "CNTRLMNU_OTHER"
-msgstr ""
+msgstr "Други"
 
 msgid "CNTRLMNU_COOPSPY"
 msgstr ""
@@ -3331,7 +3331,7 @@ msgid "CNTRLMNU_MISSION"
 msgstr ""
 
 msgid "CNTRLMNU_KEYS"
-msgstr ""
+msgstr "Списък с клавиши"
 
 msgid "CNTRLMNU_STATS"
 msgstr ""
@@ -3346,34 +3346,34 @@ msgid "MOUSEMNU_LOOKSTRAFE"
 msgstr ""
 
 msgid "MAPCOLORMNU_BACKCOLOR"
-msgstr ""
+msgstr "Фон"
 
 msgid "MAPCOLORMNU_YOURCOLOR"
-msgstr ""
+msgstr "Ти"
 
 msgid "MAPCOLORMNU_WALLCOLOR"
-msgstr ""
+msgstr "Едностранни стени"
 
 msgid "MAPCOLORMNU_FDWALLCOLOR"
-msgstr ""
+msgstr "Двустранни стени с различни етажи"
 
 msgid "MAPCOLORMNU_CDWALLCOLOR"
-msgstr ""
+msgstr "Двустранни стени с различни тавани"
 
 msgid "MAPCOLORMNU_EFWALLCOLOR"
-msgstr ""
+msgstr "Двустранни стени с 3D етажи"
 
 msgid "MAPCOLORMNU_GRIDCOLOR"
 msgstr ""
 
 msgid "MAPCOLORMNU_XHAIRCOLOR"
-msgstr ""
+msgstr "Централна точка"
 
 msgid "MAPCOLORMNU_NOTSEENCOLOR"
 msgstr ""
 
 msgid "MAPCOLORMNU_LOCKEDCOLOR"
-msgstr ""
+msgstr "Заключени врати"
 
 msgid "MAPCOLORMNU_INTRALEVELCOLOR"
 msgstr ""
@@ -3382,10 +3382,10 @@ msgid "MAPCOLORMNU_INTERLEVELCOLOR"
 msgstr ""
 
 msgid "MAPCOLORMNU_SECRETSECTORCOLOR"
-msgstr ""
+msgstr "Таен сектор"
 
 msgid "MAPCOLORMNU_UNEXPLOREDSECRETCOLOR"
-msgstr ""
+msgstr "Неразкрита тайна"
 
 msgid "MAPCOLORMNU_SPECIALWALLCOLOR"
 msgstr ""
@@ -3394,25 +3394,25 @@ msgid "MAPCOLORMNU_CHEATMODE"
 msgstr ""
 
 msgid "MAPCOLORMNU_TSWALLCOLOR"
-msgstr ""
+msgstr "Невидими двустранни стени"
 
 msgid "MAPCOLORMNU_SECRETWALLCOLOR"
-msgstr ""
+msgstr "Тайни стени"
 
 msgid "MAPCOLORMNU_THINGCOLOR"
-msgstr ""
+msgstr "Актьори"
 
 msgid "MAPCOLORMNU_MONSTERCOLOR"
-msgstr ""
+msgstr "Чудовища"
 
 msgid "MAPCOLORMNU_NONCOUNTINGMONSTERCOLOR"
 msgstr ""
 
 msgid "MAPCOLORMNU_FRIENDCOLOR"
-msgstr ""
+msgstr "Приятели"
 
 msgid "MAPCOLORMNU_ITEMCOLOR"
-msgstr ""
+msgstr "Предмети"
 
 msgid "MAPCOLORMNU_COUNTITEMCOLOR"
 msgstr ""
@@ -3427,10 +3427,10 @@ msgid "MAPCOLORMNU_PORTAL"
 msgstr ""
 
 msgid "MSGMNU_TITLE"
-msgstr ""
+msgstr "Съобщения"
 
 msgid "MSGMNU_SHOWMESSAGES"
-msgstr ""
+msgstr "Покажи съобщения"
 
 msgid "MSGMNU_SHOWOBITUARIES"
 msgstr ""
@@ -3442,7 +3442,7 @@ msgid "MSGMNU_MESSAGELEVEL"
 msgstr ""
 
 msgid "MSGMNU_MESSAGECOLORS"
-msgstr ""
+msgstr "Цветове на съобщения"
 
 msgid "MSGMNU_ITEMPICKUP"
 msgstr ""

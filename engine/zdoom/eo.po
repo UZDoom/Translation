@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 22:40+0000\n"
+"PO-Revision-Date: 2026-02-17 04:30+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/eo/>\n"
@@ -188,15 +188,14 @@ msgstr "Mi pensis, ke vi estas malsama…"
 msgid "QUITMSG20"
 msgstr "Bone! Nur mortigu kaj fuĝu!"
 
-#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
-"Vi povas foriri...\n"
-"sed ne kaŝi vin..."
+"Vi povas foriri…\n"
+"sed ne kaŝi vin…"
 
 msgid "QUITMSG22"
 msgstr ""
-"Kio!? Kio okazas? Ĉu panjo\n"
+"Kio okazas? Ĉu panjo\n"
 "diris, ke estas tempo manĝi?"
 
 msgid "QUITMSG23"
@@ -214,11 +213,10 @@ msgstr ""
 "Ne nun foriru.\n"
 "Ni bezonas vian helpon!"
 
-#, fuzzy
 msgid "QUITMSG26"
 msgstr ""
 "Mi esperas, ke vi nur paŭzas\n"
-"por manĝi Chex(R)-festmikson."
+"por manĝi Chex®-festmikson."
 
 msgid "QUITMSG27"
 msgstr ""
@@ -230,10 +228,9 @@ msgstr ""
 "Ne forlasu la Intergalaksian\n"
 "Federacion de Cerealaĵoj!"
 
-#, fuzzy
 msgid "QUITMSG29"
 msgstr ""
-"La vera Chex(R)-batalisto\n"
+"La vera Chex®-batalisto\n"
 "ne rezignus tiel rapide!"
 
 msgid "TXT_DEFAULTPICKUPMSG"

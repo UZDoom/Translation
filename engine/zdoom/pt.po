@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 22:40+0000\n"
+"PO-Revision-Date: 2026-02-17 04:30+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/pt/>\n"
@@ -187,11 +187,10 @@ msgstr "Eu achei que eras diferente…"
 msgid "QUITMSG20"
 msgstr "Pronto! Mata e foge!"
 
-#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
-"Podes sair...\n"
-"mas não te podes esconder..."
+"Podes sair…\n"
+"mas não te podes esconder…"
 
 msgid "QUITMSG22"
 msgstr ""
@@ -205,7 +204,7 @@ msgstr ""
 
 msgid "QUITMSG24"
 msgstr ""
-"Não desistas -- os flemóides\n"
+"Não desistas—os flemóides\n"
 "estão a ganhar!"
 
 msgid "QUITMSG25"
@@ -213,11 +212,10 @@ msgstr ""
 "Não te vás embora agora.\n"
 "Nós precisamos da tua ajuda!"
 
-#, fuzzy
 msgid "QUITMSG26"
 msgstr ""
 "Espero que só estejas a fazer uma\n"
-"pausa pra um Chex(R) Party Mix."
+"pausa pra um Chex® Party Mix."
 
 msgid "QUITMSG27"
 msgstr ""
@@ -258,7 +256,7 @@ msgid "HUSTR_MSGU"
 msgstr ""
 
 msgid "HUSTR_TALKTOSELF1"
-msgstr "Tu resmungas contigo própri@[ao_ptb]..."
+msgstr "Tu resmungas contigo própri@[ao_ptb]"
 
 msgid "HUSTR_TALKTOSELF2"
 msgstr ""

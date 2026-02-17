@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 22:40+0000\n"
+"PO-Revision-Date: 2026-02-17 04:30+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/pl/>\n"
@@ -58,8 +58,8 @@ msgstr ""
 
 msgid "NIGHTMARE"
 msgstr ""
-"Czy jesteś pewien? Ten poziom umiejętności\n"
-"nie jest nawet bliski sprawiedliwego.\n"
+"Czy na pewno? Ten poziom trudności\n"
+"nawet nie próbuje udawać, że jest uczciwy.\n"
 "\n"
 "Wciśnij Y lub N."
 
@@ -84,7 +84,7 @@ msgstr ""
 "Wciśnij Y lub N."
 
 msgid "RAVENQUITMSG"
-msgstr "Czy jesteś pewien że chcesz wyjść?"
+msgstr "Czy na pewno chcesz wyjść?"
 
 msgctxt "heretic"
 msgid "SWSTRING"
@@ -95,8 +95,8 @@ msgstr "(Wciśnij Y, aby wyjść)"
 
 msgid "QUITMSG1"
 msgstr ""
-"Proszę, nie odchodź, jest więcej\n"
-"demonów do stostowania!"
+"Proszę, nie wychodź, zostały\n"
+"jeszcze demony do rozwalenia!"
 
 msgid "QUITMSG2"
 msgstr ""
@@ -105,13 +105,13 @@ msgstr ""
 
 msgid "QUITMSG3"
 msgstr ""
-"Na twoim miejscu nie odchodziłbym.\n"
+"Na twoim miejscu bym nie wychodził.\n"
 "DOS jest o wiele gorszy."
 
 msgid "QUITMSG4"
 msgstr ""
-"Próbujesz powiedzieć, że wolisz DOS\n"
-"ode mnie, prawda?"
+"Chcesz powiedzieć, że wolisz\n"
+"ode mnie DOS-a, co?"
 
 msgid "QUITMSG5"
 msgstr ""
@@ -120,8 +120,8 @@ msgstr ""
 
 msgid "QUITMSG6"
 msgstr ""
-"Wiesz, jeżeli jescze raz tu przyjdziesz,\n"
-"stostuje cię."
+"Wiesz co, jak tu przyjdziesz\n"
+"jeszcze raz, to ci przypiekę."
 
 msgid "QUITMSG7"
 msgstr "No dalej, idź. Patrz, jak bardzo mnie to obchodzi."
@@ -189,11 +189,10 @@ msgstr "Myślałam, że jesteś inny…"
 msgid "QUITMSG20"
 msgstr "Dobra! Zabijaj i biegaj!"
 
-#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
-"Możesz wyjść...\n"
-"Ale nie możesz się ukryć..."
+"Możesz wyjść…\n"
+"Ale nie możesz się ukryć…"
 
 msgid "QUITMSG22"
 msgstr ""
@@ -201,21 +200,24 @@ msgstr ""
 "Mama powiedziała, że czas na obiad?"
 
 msgid "QUITMSG23"
-msgstr "Nie wychodź teraz, są tu wciąż flemoidy na wolności!"
+msgstr ""
+"Nie wychodź teraz, są tu\n"
+"wciąż flemoidy na wolności!"
 
 msgid "QUITMSG24"
-msgstr "Nie poddawaj się -- flemoidy będą miały przewagę!"
+msgstr ""
+"Nie poddawaj się—flemoidy\n"
+"będą miały przewagę!"
 
 msgid "QUITMSG25"
 msgstr ""
 "Nie odchodź teraz.\n"
 "Potrzebujemy twojej pomocy!"
 
-#, fuzzy
 msgid "QUITMSG26"
 msgstr ""
-"Mam nadzieję, że robisz sobie przerwę na\n"
-"mieszankę płatków Chex(R)."
+"Mam nadzieję, że robisz sobie przerwę\n"
+"na mieszankę płatków Chex®."
 
 msgid "QUITMSG27"
 msgstr ""
@@ -223,12 +225,13 @@ msgstr ""
 "Potrzebujemy twojej pomocy!"
 
 msgid "QUITMSG28"
-msgstr "Nie opuszczaj Międzygalaktycznej Federacji Płatków!"
+msgstr ""
+"Nie opuszczaj\n"
+"Międzygalaktycznej Federacji Płatków!"
 
-#, fuzzy
 msgid "QUITMSG29"
 msgstr ""
-"Prawdziwy Wojownik Chex(R)\n"
+"Prawdziwy Wojownik Chex®\n"
 "nie poddałby się tak szybko!"
 
 msgid "TXT_DEFAULTPICKUPMSG"
@@ -284,16 +287,16 @@ msgid "STSTR_NOMUS"
 msgstr "Niemożliwy wybór"
 
 msgid "STSTR_DQDON"
-msgstr "Niewrażliwość WŁĄCZONA"
+msgstr "Tryb oblanej magisterki WŁĄCZONY"
 
 msgid "STSTR_DQDOFF"
-msgstr "Niewrażliwość WYŁĄCZONA"
+msgstr "Tryb oblanej magisterki WYŁĄCZONY"
 
 msgid "STSTR_DQD2ON"
-msgstr "Maksymalna niewrażliwość WŁĄCZONA"
+msgstr "Tryb oblanego licencjatu WŁĄCZONY"
 
 msgid "STSTR_DQD2OFF"
-msgstr "Maksymalna niewrażliwość WYŁĄCZONA"
+msgstr "Tryb oblanego licencjatu WYŁĄCZONY"
 
 msgid "STSTR_KFAADDED"
 msgstr "Bardzo szczęśliwa amunicja dodana"
@@ -371,7 +374,7 @@ msgid "TXT_CHEATIDDQD"
 msgstr "Próbujesz oszukiwać, co? Teraz giń!"
 
 msgid "TXT_CHEATIDKFA"
-msgstr "Oszust - nie zasługujesz na bronie"
+msgstr "Oszust - nie zasługujesz na broń"
 
 msgid "TXT_CHEATTICKERON"
 msgstr "Wskaźnik włączony"
@@ -423,7 +426,7 @@ msgid "TXT_NOTARGET_OFF"
 msgstr "Głuche i Ślepe Potwory WYŁĄCZONE"
 
 msgid "TXT_ANUBIS_ON"
-msgstr "\"Trzęś się ze strachu\""
+msgstr "\"Drżyj ze strachu!\""
 
 msgid "TXT_ANUBIS_OFF"
 msgstr "Nigdy więcej Pancerza Ogrów"
@@ -454,7 +457,7 @@ msgid "TXT_ALL_ARTIFACTS"
 msgstr "Wszystkie Artefakty!"
 
 msgid "TXT_WHAT_KILL"
-msgstr "Co ty chcesz zabić poza grą?"
+msgstr "Co ty chcesz zabić nie będąc w grze?"
 
 msgid "TXT_NOT_FROZEN"
 msgstr "Właściwości zamrożonego gracza wyłączone"
@@ -547,7 +550,7 @@ msgid "SCORE_OTHER"
 msgstr "Inne"
 
 msgid "SCORE_MISSED"
-msgstr "Ominięte"
+msgstr "Chybione"
 
 msgid "SCORE_TOTAL"
 msgstr "Totalne"
@@ -654,16 +657,16 @@ msgid "OB_FRIENDLY4"
 msgstr "%k tracil kolejnego przyjaciela."
 
 msgid "GOTARMOR"
-msgstr "Zebrano zbroję."
+msgstr "Zebrano kamizelkę."
 
 msgid "GOTMEGA"
-msgstr "Zebrano megazbroję!"
+msgstr "Zebrano kamizelkę bojową!"
 
 msgid "GOTHTHBONUS"
 msgstr "Zebrano bonus do zdrowia."
 
 msgid "GOTARMBONUS"
-msgstr "Zebrano bonus do zbroi."
+msgstr "Zebrano bonus do kamizelki."
 
 msgid "GOTSTIM"
 msgstr "Zebrano małą apteczkę."
@@ -699,7 +702,7 @@ msgid "GOTINVUL"
 msgstr "Niezniszczalność!"
 
 msgid "GOTBERSERK"
-msgstr "Szał!"
+msgstr "Wściekłość!"
 
 msgid "GOTINVIS"
 msgstr "Częściowa niewidzialność"
@@ -708,10 +711,10 @@ msgid "GOTSUIT"
 msgstr "Kombinezon przeciwradiacyjny"
 
 msgid "GOTMAP"
-msgstr "Mapa obszaru"
+msgstr "Mapa komputerowa"
 
 msgid "GOTVISOR"
-msgstr "Gogle noktowizyjne"
+msgstr "Noktowizor"
 
 msgid "GOTMSPHERE"
 msgstr "Megasfera!"
@@ -735,22 +738,22 @@ msgid "GOTCELLBOX"
 msgstr "Zebrano paczkę ogniw energetycznych."
 
 msgid "GOTSHELLS"
-msgstr "Zebrano 4 loftki do strzelby."
+msgstr "Zebrano 4 naboje do strzelby."
 
 msgid "GOTSHELLBOX"
-msgstr "Zebrano pudełko loftek do strzelby."
+msgstr "Zebrano pudełko nabojów do strzelby."
 
 msgid "GOTBACKPACK"
 msgstr "Zebrano plecak pełen amunicji!"
 
 msgid "GOTBFG9000"
-msgstr "Zebrano BFG9000! O, tak."
+msgstr "Zebrano BFG9000! Och, tak."
 
 msgid "GOTCHAINGUN"
 msgstr "Zebrano karabin maszynowy!"
 
 msgid "GOTCHAINSAW"
-msgstr "Piła łańcuchowa! Znajdź trochę mięsa!"
+msgstr "Piła łańcuchowa! Poszukaj jakiegoś ścierwa!"
 
 msgid "GOTLAUNCHER"
 msgstr "Zebrano wyrzutnię rakiet!"
@@ -838,35 +841,35 @@ msgstr "Zombie"
 
 # a.k.a. (former human) sergeant
 msgid "CC_SHOTGUN"
-msgstr "Zombie-sierżant"
+msgstr "Były sierżant"
 
 # a.k.a. former commando
 msgid "CC_HEAVY"
-msgstr "Ciężkozbrojny Zombie"
+msgstr "Były komandos"
 
 msgid "CC_IMP"
-msgstr "Diablik"
+msgstr "Licho"
 
 msgid "CC_DEMON"
 msgstr "Demon"
 
 msgid "CC_LOST"
-msgstr "Zaginiona Dusza"
+msgstr "Zbłąkana dusza"
 
 msgid "CC_CACO"
 msgstr "Kakodemon"
 
 msgid "CC_HELL"
-msgstr "Rycerz Piekła"
+msgstr "Rycerz piekieł"
 
 msgid "CC_BARON"
-msgstr "Baron Piekła"
+msgstr "Baron piekieł"
 
 msgid "CC_ARACH"
 msgstr "Arachnotron"
 
 msgid "CC_PAIN"
-msgstr "Żywiołak Bólu"
+msgstr "Żywiołak bólu"
 
 msgid "CC_REVEN"
 msgstr "Zjawa"
@@ -875,10 +878,10 @@ msgid "CC_MANCU"
 msgstr "Antropokub"
 
 msgid "CC_ARCH"
-msgstr "Arcy-Podlec"
+msgstr "Arcy-podlec"
 
 msgid "CC_SPIDER"
-msgstr "Pajęczy Mistrz"
+msgstr "Wielka pajęczyca"
 
 msgid "CC_CYBER"
 msgstr "Cyberdemon"
@@ -1107,7 +1110,7 @@ msgid "TXT_ARTIFLY"
 msgstr "Skrzydła Gniewu"
 
 msgid "TXT_ARTIINVULNERABILITY"
-msgstr "Pierścień Niewrażliwości"
+msgstr "Pierścień niezniszczalności"
 
 msgid "TXT_ARTITOMEOFPOWER"
 msgstr "Tom Mocy"
@@ -1116,7 +1119,7 @@ msgid "TXT_ARTIINVISIBILITY"
 msgstr "Sfera Cieni"
 
 msgid "TXT_ARTIEGG"
-msgstr "Jajko Morfujące"
+msgstr "Jajo przemiany"
 
 msgid "TXT_ARTISUPERHEALTH"
 msgstr "Mistyczna Urna"
@@ -1125,16 +1128,16 @@ msgid "TXT_ARTITORCH"
 msgstr "Pochodnia"
 
 msgid "TXT_ARTIFIREBOMB"
-msgstr "Starożytna Bomba Czasu"
+msgstr "Czasowa bomba starożytnych"
 
 msgid "TXT_ARTITELEPORT"
-msgstr "Urządzenie Chaosu"
+msgstr "Przyrząd chaosu"
 
 msgid "TXT_ITEMHEALTH"
-msgstr "Kryształowa Fiolka"
+msgstr "Fiolka kryształu"
 
 msgid "TXT_ITEMBAGOFHOLDING"
-msgstr "Plecak"
+msgstr "Zaczarowana sakwa"
 
 msgid "TXT_ITEMSHIELD1"
 msgstr "Srebrna Tarcza"
@@ -1152,10 +1155,10 @@ msgid "TXT_AMMOGOLDWAND2"
 msgstr "Kryształowa Geoda"
 
 msgid "TXT_AMMOMACE1"
-msgstr "Kule do Buzdyganu"
+msgstr "Kule do buławy"
 
 msgid "TXT_AMMOMACE2"
-msgstr "Sterta Kul do Buzdyganu"
+msgstr "Sterta kul do buławy"
 
 msgid "TXT_AMMOCROSSBOW1"
 msgstr "Eteryczne Strzały"
@@ -1170,22 +1173,22 @@ msgid "TXT_AMMOBLASTER2"
 msgstr "Kula Energii"
 
 msgid "TXT_AMMOSKULLROD1"
-msgstr "Gorsze Runy"
+msgstr "Mniejsze runy"
 
 msgid "TXT_AMMOSKULLROD2"
-msgstr "Lepsze Runy"
+msgstr "Większe runy"
 
 msgid "TXT_AMMOPHOENIXROD1"
-msgstr "Kula Ognia"
+msgstr "Kula płomienna"
 
 msgid "TXT_AMMOPHOENIXROD2"
-msgstr "Kula Piekielna"
+msgstr "Kula piekielna"
 
 msgid "TXT_WPNGOLDWAND"
 msgstr "Złota Różdżka"
 
 msgid "TXT_WPNMACE"
-msgstr "Buzdygan Ognia"
+msgstr "Buława ognia"
 
 msgid "TXT_WPNCROSSBOW"
 msgstr "Eteryczna Kusza"
@@ -1197,10 +1200,10 @@ msgid "TXT_WPNSKULLROD"
 msgstr "Piekielny Kostur"
 
 msgid "TXT_WPNPHOENIXROD"
-msgstr "Różdżka Feniksa"
+msgstr "Laska feniksa"
 
 msgid "TXT_WPNGAUNTLETS"
-msgstr "Rękawice Nekromanty"
+msgstr "Rękawice nekromanty"
 
 msgid "TXT_NEEDBLUEKEY"
 msgstr "Potrzebujesz niebieskiego klucza, by otworzyć te drzwi"
@@ -1244,7 +1247,7 @@ msgid "FN_MUMMYLEADER"
 msgstr "Nitrogolem"
 
 msgid "FN_SNAKE"
-msgstr "Wężowaty"
+msgstr "Ofidian"
 
 msgid "FN_WIZARD"
 msgstr "Czarownik"
@@ -1389,22 +1392,22 @@ msgid "TXT_MANA_2"
 msgstr "Zielona Mana"
 
 msgid "TXT_MANA_BOTH"
-msgstr "Połączona Mana"
+msgstr "Mana zespolona"
 
 msgid "TXT_KEY_STEEL"
 msgstr "Stalowy Klucz"
 
 msgid "TXT_KEY_CAVE"
-msgstr "Klucz do Jaskini"
+msgstr "Klucz jaskiniowy"
 
 msgid "TXT_KEY_AXE"
-msgstr "Klucz-topór"
+msgstr "Klucz toporowy"
 
 msgid "TXT_KEY_FIRE"
-msgstr "Ognisty Klucz"
+msgstr "Klucz ognisty"
 
 msgid "TXT_KEY_EMERALD"
-msgstr "Szmaragdowy Klucz"
+msgstr "Klucz szmaragdowy"
 
 msgid "TXT_KEY_DUNGEON"
 msgstr "Klucz do Lochu"
@@ -1425,7 +1428,7 @@ msgid "TXT_KEY_CASTLE"
 msgstr "Klucz do Zamku"
 
 msgid "TXT_ARTIINVULNERABILITY2"
-msgstr "Ikona Obrońcy"
+msgstr "Figurka obrońcy"
 
 msgid "TXT_ARTISUMMON"
 msgstr "Mroczny Sługa"
@@ -1437,10 +1440,10 @@ msgid "TXT_ARTIPOISONBAG"
 msgstr "Flaszka"
 
 msgid "TXT_ARTITELEPORTOTHER"
-msgstr "Urządzenie Wygnania"
+msgstr "Przyrząd wygnania"
 
 msgid "TXT_ARTISPEED"
-msgstr "Buty Szybkości"
+msgstr "Siedmiomilowe buty"
 
 msgid "TXT_ARTIBOOSTMANA"
 msgstr "Czara mocy"
@@ -1476,7 +1479,7 @@ msgid "TXT_ARTIPUZZGEMBLUE2"
 msgstr "Szafirowa Planeta"
 
 msgid "TXT_ARTIPUZZBOOK1"
-msgstr "Demoniczny Kodeks"
+msgstr "Daemon Codex"
 
 msgid "TXT_ARTIPUZZBOOK2"
 msgstr "Liber Oscura"
@@ -1494,7 +1497,7 @@ msgid "TXT_ARTIPUZZMWEAPON"
 msgstr "Emblemat Maga"
 
 msgid "TXT_ARTIPUZZGEAR"
-msgstr "Mechanizm Zegara"
+msgstr "Zębatka"
 
 msgid "TXT_USEPUZZLEFAILED"
 msgstr "Nie możesz użyć tego tutaj"
@@ -1515,7 +1518,7 @@ msgid "TXT_WEAPON_F2"
 msgstr "Topór Timona"
 
 msgid "TXT_WEAPON_F3"
-msgstr "Młot Odkupienia"
+msgstr "Młot pomsty"
 
 msgid "TXT_WEAPON_F4"
 msgstr "Złożony Uciszacz"
@@ -1533,7 +1536,7 @@ msgid "TXT_WEAPON_M2"
 msgstr "Lodowe Odłamki"
 
 msgid "TXT_WEAPON_M3"
-msgstr "Łuk Śmierci"
+msgstr "Piorun śmierci"
 
 msgid "TXT_WEAPON_M4"
 msgstr "Złożona Krwioplaga"
@@ -1629,19 +1632,19 @@ msgid "FN_HERESIARCH"
 msgstr "Herezjarcha"
 
 msgid "AMMO_MANA1"
-msgstr "Niebieska Mana"
+msgstr "Mana niebieska"
 
 msgid "AMMO_MANA2"
-msgstr "Zielona Mana"
+msgstr "Mana zielona"
 
 msgid "TAG_CWEAPMACE"
 msgstr "Buzdygan Skruchy"
 
 msgid "TAG_CWEAPSTAFF"
-msgstr "Laska Węży"
+msgstr "Wężowa laska"
 
 msgid "TAG_CWEAPFLAME"
-msgstr "Burza Ognia"
+msgstr "Szturm ognia"
 
 msgid "TAG_CWEAPWRAITHVERGE"
 msgstr "Widmoskraj"
@@ -1701,13 +1704,13 @@ msgid "TAG_ARTIPORK"
 msgstr "Schabowator"
 
 msgid "TAG_ARTISPEED"
-msgstr "Buty Szybkości"
+msgstr "Siedmiomilowe buty"
 
 msgid "TAG_ARTISUMMON"
 msgstr "Mroczny Sługa"
 
 msgid "TAG_ARTITELEPORTOTHER"
-msgstr "Urządzenie Wygnania"
+msgstr "Przyrząd wygnania"
 
 msgid "TAG_ARTIPUZZSKULL"
 msgstr "Czaszka Yoricka"
@@ -2967,7 +2970,7 @@ msgid "SSKILL_NIGHTMARE"
 msgstr "Rozlew krwi"
 
 msgid "MNU_WETNURSE"
-msgstr "Wciąż w pieluszkach"
+msgstr "Acan lejesz w pieluchy"
 
 msgid "MNU_YELLOWBELLIES"
 msgstr "Nie książę, lecz tchórz"
@@ -3018,7 +3021,7 @@ msgid "MNU_ENCHANTER"
 msgstr "Zaklinacz"
 
 msgid "MNU_SORCERER"
-msgstr "Mag"
+msgstr "Czarownik"
 
 msgid "MNU_WARLOCK"
 msgstr "Wiedźmak"
@@ -3254,7 +3257,7 @@ msgid "CMPTMNU_NOBLOCKFRIENDS"
 msgstr "Przyjazne potwory nie mogą być blokowane"
 
 msgid "CMPTMNU_LIMITPAIN"
-msgstr "Ogranicz Zagubione Dusze Elementala Bólu"
+msgstr "Ogranicz ilość zbłąkanych dusz wypuszczanych przez żywiołaki bólu"
 
 msgid "CMPTMNU_MBFMONSTERMOVE"
 msgstr "Efekty wpływają na ruch potworów"
@@ -5259,3 +5262,27 @@ msgstr "Kontrast"
 
 msgid "DSPLYMNU_SATURATION"
 msgstr "Nasycenie"
+
+msgid "ACTION_COPYTOCLIPBOARD"
+msgstr "Skopiuj do schowka"
+
+msgid "ACTION_RESTART"
+msgstr "Uruchom ponownie"
+
+msgid "ACTION_STARTGAME"
+msgstr "Rozpocznij grę"
+
+msgid "ERROR_FATAL"
+msgstr "Krytyczny błąd"
+
+msgid "ERROR_ABORT"
+msgstr "Wykonanie nie może być kontynuowane"
+
+msgid "FILEPICKER_ANY"
+msgstr "Wszystkie pliki"
+
+msgid "CMPTMNU_AUTO"
+msgstr "Automatyczne wykrycie ustawień zgodności"
+
+msgid "PICKER_PLAYERCLASS"
+msgstr "Klasa gracza"

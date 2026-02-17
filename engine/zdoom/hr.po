@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-16 22:40+0000\n"
+"PO-Revision-Date: 2026-02-17 04:30+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hr/>\n"
@@ -190,9 +190,10 @@ msgstr "Mislio/la sam da si drugačija/drugačiji…"
 msgid "QUITMSG20"
 msgstr "Dobro! Samo ubij i bježi!"
 
-#, fuzzy
 msgid "QUITMSG21"
-msgstr "Možeš odustati... ali se ne možeš sakriti..."
+msgstr ""
+"Možeš odustati…\n"
+"ali se ne možeš sakriti…"
 
 msgid "QUITMSG22"
 msgstr ""
@@ -200,17 +201,24 @@ msgstr ""
 "Mama kaže da je vrijeme za večeru?"
 
 msgid "QUITMSG23"
-msgstr "Nemoj sada odustati, još uvijek ima flemoida na slobodi!"
+msgstr ""
+"Nemoj sada odustati, još\n"
+"uvijek ima flemoida na slobodi!"
 
 msgid "QUITMSG24"
-msgstr "Ne odustajte -- flemoidi će preuzeti kontrolu!"
+msgstr ""
+"Ne odustajte—flemoidi\n"
+"će preuzeti kontrolu!"
 
 msgid "QUITMSG25"
-msgstr "Nemoj sada otići. Trebamo tvoju pomoć!"
+msgstr ""
+"Nemoj sada otići.\n"
+"Trebamo tvoju pomoć!"
 
-#, fuzzy
 msgid "QUITMSG26"
-msgstr "Nadam se da samo uzimaš pauzu za Čehs(R) miks za zabavu."
+msgstr ""
+"Nadam se da samo uzimaš\n"
+"pauzu za Čehs® miks za zabavu."
 
 msgid "QUITMSG27"
 msgstr ""
@@ -218,11 +226,14 @@ msgstr ""
 "Trebamo tvoju pomoć!"
 
 msgid "QUITMSG28"
-msgstr "Ne napuštajte Intergalaktičku Federaciju Žitarica!"
+msgstr ""
+"Ne napuštajte\n"
+"Intergalaktičku Federaciju Žitarica!"
 
-#, fuzzy
 msgid "QUITMSG29"
-msgstr "Pravi Čehs(R) ratnik ne bi tako brzo odustao!"
+msgstr ""
+"Pravi Čehs® ratnik ne\n"
+"bi tako brzo odustao!"
 
 msgid "TXT_DEFAULTPICKUPMSG"
 msgstr "Predmet je pokupljen"
