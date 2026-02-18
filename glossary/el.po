@@ -15,7 +15,3 @@ msgstr ""
 
 msgid "ON"
 msgstr "ΑΝΟΙΧΤΑ"
-
-msgctxt "1"
-msgid "ON"
-msgstr "ΑΝΟΙΧΤΗ"
