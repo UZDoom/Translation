@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 18:15+0000\n"
+"PO-Revision-Date: 2026-02-17 23:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ro/>\n"
@@ -348,12 +348,11 @@ msgstr "Modul Buddha Suprem PORNIT"
 msgid "TXT_BUDDHA2OFF"
 msgstr "Modul Buddha Suprem OPRIT"
 
-#, fuzzy
 msgid "TXT_CHEATPOWERON"
-msgstr "Putere activată"
+msgstr "Putere PORNIT"
 
 msgid "TXT_CHEATPOWEROFF"
-msgstr "Putere dezactivată"
+msgstr "Putere OPRIT"
 
 msgid "TXT_CHEATHEALTH"
 msgstr "Sănătate întreagă"
@@ -361,9 +360,11 @@ msgstr "Sănătate întreagă"
 msgid "TXT_CHEATKEYS"
 msgstr "Toate cheile"
 
+#, fuzzy
 msgid "TXT_CHEATSOUNDON"
 msgstr "Debug sunet activat"
 
+#, fuzzy
 msgid "TXT_CHEATSOUNDOFF"
 msgstr "Debug sunet dezactivat"
 
@@ -376,6 +377,7 @@ msgstr "Trișor - Nu meriți arme"
 msgid "TXT_CHEATTICKERON"
 msgstr "Ticăitoare activată"
 
+#, fuzzy
 msgid "TXT_CHEATTICKEROFF"
 msgstr "Ticăitoare dezactivată"
 
@@ -391,6 +393,7 @@ msgstr "Ai tot ce-ți trebuie!"
 msgid "TXT_FREEZEON"
 msgstr "Modul înghețat pornit"
 
+#, fuzzy
 msgid "TXT_FREEZEOFF"
 msgstr "Modul înghețat oprit"
 
@@ -407,6 +410,7 @@ msgstr "Ți-ai revenit în simțiri."
 msgid "TXT_LEADBOOTSON"
 msgstr "Bocanci de plumb activați"
 
+#, fuzzy
 msgid "TXT_LEADBOOTSOFF"
 msgstr "Bocanci de plumb dezactivați"
 
@@ -455,6 +459,7 @@ msgstr "Toate Artefactele!"
 msgid "TXT_WHAT_KILL"
 msgstr "Ce vrei să ucizi în afara jocului?"
 
+#, fuzzy
 msgid "TXT_NOT_FROZEN"
 msgstr "Proprietăți jucători înghețați DEZACTIVATE"
 

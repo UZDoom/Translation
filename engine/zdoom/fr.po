@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 18:15+0000\n"
+"PO-Revision-Date: 2026-02-17 23:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fr/>\n"
@@ -348,12 +348,11 @@ msgstr "Mode Bouddha Ultime ON"
 msgid "TXT_BUDDHA2OFF"
 msgstr "Mode Bouddha Ultime OFF"
 
-#, fuzzy
 msgid "TXT_CHEATPOWERON"
-msgstr "Pouvoir Activée"
+msgstr "Pouvoir ACTIVÉE"
 
 msgid "TXT_CHEATPOWEROFF"
-msgstr "Pouvoir Désactivée"
+msgstr "Pouvoir DÉSACTIVÉE"
 
 msgid "TXT_CHEATHEALTH"
 msgstr "Pleine Santé"
@@ -361,9 +360,11 @@ msgstr "Pleine Santé"
 msgid "TXT_CHEATKEYS"
 msgstr "Toutes les Clés"
 
+#, fuzzy
 msgid "TXT_CHEATSOUNDON"
 msgstr "Débogage du son activé."
 
+#, fuzzy
 msgid "TXT_CHEATSOUNDOFF"
 msgstr "Débogage du son désactivé."
 
@@ -376,6 +377,7 @@ msgstr "Tricheur- Tu ne mérite pas ton flingue"
 msgid "TXT_CHEATTICKERON"
 msgstr "Compteur allumé"
 
+#, fuzzy
 msgid "TXT_CHEATTICKEROFF"
 msgstr "Compteur éteint"
 
@@ -391,6 +393,7 @@ msgstr "Voilà ton équipement !"
 msgid "TXT_FREEZEON"
 msgstr "Temps arrêté."
 
+#, fuzzy
 msgid "TXT_FREEZEOFF"
 msgstr "Le temps reprend son cours.."
 
@@ -407,6 +410,7 @@ msgstr "Vous vous sentez vachement moins mal à l'aise."
 msgid "TXT_LEADBOOTSON"
 msgstr "Bottes en plomb ON"
 
+#, fuzzy
 msgid "TXT_LEADBOOTSOFF"
 msgstr "Bottes en plomb OFF"
 
@@ -455,6 +459,7 @@ msgstr "Tous les artéfacts !"
 msgid "TXT_WHAT_KILL"
 msgstr "Vous voulez tuer quoi en dehors d'une partie ?"
 
+#, fuzzy
 msgid "TXT_NOT_FROZEN"
 msgstr "Propriété gelée du joueur annulée."
 

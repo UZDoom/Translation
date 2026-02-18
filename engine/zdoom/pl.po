@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 18:15+0000\n"
+"PO-Revision-Date: 2026-02-17 23:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/pl/>\n"
@@ -349,12 +349,11 @@ msgstr "Maksymalny Tryb Buddy WŁĄCZONY"
 msgid "TXT_BUDDHA2OFF"
 msgstr "Maksymalny Tryb Buddy WYŁĄCZONY"
 
-#, fuzzy
 msgid "TXT_CHEATPOWERON"
-msgstr "Zasilanie włączone"
+msgstr "Zasilanie WŁĄCZONY"
 
 msgid "TXT_CHEATPOWEROFF"
-msgstr "Zasilanie wyłączone"
+msgstr "Zasilanie WYŁĄCZONY"
 
 msgid "TXT_CHEATHEALTH"
 msgstr "Pełne zdrowie"
@@ -362,9 +361,11 @@ msgstr "Pełne zdrowie"
 msgid "TXT_CHEATKEYS"
 msgstr "Wszystkie klucze"
 
+#, fuzzy
 msgid "TXT_CHEATSOUNDON"
 msgstr "Debugowanie dźwięku włączone"
 
+#, fuzzy
 msgid "TXT_CHEATSOUNDOFF"
 msgstr "Debugowanie dźwięku wyłączone"
 
@@ -377,6 +378,7 @@ msgstr "Oszust - nie zasługujesz na broń"
 msgid "TXT_CHEATTICKERON"
 msgstr "Wskaźnik włączony"
 
+#, fuzzy
 msgid "TXT_CHEATTICKEROFF"
 msgstr "Wskaźnik wyłączony"
 
@@ -392,6 +394,7 @@ msgstr "Zdobył@[irreg_3_pl] parę rzeczy!"
 msgid "TXT_FREEZEON"
 msgstr "Tryb zamrożenia włączony"
 
+#, fuzzy
 msgid "TXT_FREEZEOFF"
 msgstr "Tryb zamrożenia wyłączony"
 
@@ -408,6 +411,7 @@ msgstr "Znów czujesz się sobą."
 msgid "TXT_LEADBOOTSON"
 msgstr "Ołowiane buty włączone"
 
+#, fuzzy
 msgid "TXT_LEADBOOTSOFF"
 msgstr "Ołowiane buty wyłączone"
 
@@ -457,6 +461,7 @@ msgstr "Wszystkie Artefakty!"
 msgid "TXT_WHAT_KILL"
 msgstr "Co ty chcesz zabić nie będąc w grze?"
 
+#, fuzzy
 msgid "TXT_NOT_FROZEN"
 msgstr "Właściwości zamrożonego gracza wyłączone"
 

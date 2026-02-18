@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 18:15+0000\n"
+"PO-Revision-Date: 2026-02-17 23:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/id/>\n"
@@ -345,7 +345,6 @@ msgstr "Mode Buddha Ultimate NYALA"
 msgid "TXT_BUDDHA2OFF"
 msgstr "Mode Buddha Ultimate MATI"
 
-#, fuzzy
 msgid "TXT_CHEATPOWERON"
 msgstr "Menyala"
 
@@ -358,9 +357,11 @@ msgstr "Health penuh"
 msgid "TXT_CHEATKEYS"
 msgstr "Semua kunci"
 
+#, fuzzy
 msgid "TXT_CHEATSOUNDON"
 msgstr "Debug sound nyala"
 
+#, fuzzy
 msgid "TXT_CHEATSOUNDOFF"
 msgstr "Debug sound mati"
 
@@ -373,6 +374,7 @@ msgstr "Kau curang - tidak pantas memiliki senjata"
 msgid "TXT_CHEATTICKERON"
 msgstr "Ticker nyala"
 
+#, fuzzy
 msgid "TXT_CHEATTICKEROFF"
 msgstr "Ticker mati"
 
@@ -388,6 +390,7 @@ msgstr "Dapat barang!"
 msgid "TXT_FREEZEON"
 msgstr "Mode Freeze nyala"
 
+#, fuzzy
 msgid "TXT_FREEZEOFF"
 msgstr "Mode Freeze mati"
 
@@ -404,6 +407,7 @@ msgstr "Kau merasa tidak aneh lagi."
 msgid "TXT_LEADBOOTSON"
 msgstr "Sepatu timbal nyala"
 
+#, fuzzy
 msgid "TXT_LEADBOOTSOFF"
 msgstr "Sepatu timbal mati"
 
@@ -453,6 +457,7 @@ msgstr "Semua Artefak!"
 msgid "TXT_WHAT_KILL"
 msgstr "Mau bunuh apa diluar game?"
 
+#, fuzzy
 msgid "TXT_NOT_FROZEN"
 msgstr "Properti player Frozen dimatikan"
 

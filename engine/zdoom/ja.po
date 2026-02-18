@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 18:15+0000\n"
+"PO-Revision-Date: 2026-02-17 23:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ja/>\n"
@@ -348,7 +348,6 @@ msgstr "究極ブッダモード: オン"
 msgid "TXT_BUDDHA2OFF"
 msgstr "究極ブッダモード: オフ"
 
-#, fuzzy
 msgid "TXT_CHEATPOWERON"
 msgstr "パワー オン"
 
@@ -361,9 +360,11 @@ msgstr "ヘルス全回復"
 msgid "TXT_CHEATKEYS"
 msgstr "キー全部"
 
+#, fuzzy
 msgid "TXT_CHEATSOUNDON"
 msgstr "サウンドデバッグ オン"
 
+#, fuzzy
 msgid "TXT_CHEATSOUNDOFF"
 msgstr "サウンドデバッグ オフ"
 
@@ -376,6 +377,7 @@ msgstr "不届き者め、貴様が偉業を成すはずがない"
 msgid "TXT_CHEATTICKERON"
 msgstr "ティッカー オン"
 
+#, fuzzy
 msgid "TXT_CHEATTICKEROFF"
 msgstr "ティッカー オフ"
 
@@ -391,6 +393,7 @@ msgstr "スタッフを手に入れた!"
 msgid "TXT_FREEZEON"
 msgstr "フリーズモード オン"
 
+#, fuzzy
 msgid "TXT_FREEZEOFF"
 msgstr "フリーズモード オフ"
 
@@ -406,6 +409,7 @@ msgstr "自分自身の様に感じている。"
 msgid "TXT_LEADBOOTSON"
 msgstr "足枷 オン"
 
+#, fuzzy
 msgid "TXT_LEADBOOTSOFF"
 msgstr "足枷 オフ"
 
@@ -454,6 +458,7 @@ msgstr "全アーティファクト!"
 msgid "TXT_WHAT_KILL"
 msgstr "ゲーム外で何を殺す気だ?"
 
+#, fuzzy
 msgid "TXT_NOT_FROZEN"
 msgstr "凍ったプレイヤーのプロパティを無効化"
 
