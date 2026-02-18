@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-18 04:58+0000\n"
+"PO-Revision-Date: 2026-02-19 00:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/uzdoom/glossary/"
 "he/>\n"
@@ -16,3 +16,6 @@ msgstr ""
 
 msgid "ON"
 msgstr "פעיל"
+
+msgid "OFF"
+msgstr "כבוי"
