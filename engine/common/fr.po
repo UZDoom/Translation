@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 23:10+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-19 00:10+0000\n"
+"Last-Translator: Gameking <valafennou@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/uzdoom/common/fr/>"
 "\n"
 "Language: fr\n"
@@ -95,10 +95,10 @@ msgid "MNU_DELETESG"
 msgstr "Voulez vous vraiment effacer cette sauvegarde ?"
 
 msgid "OPTVAL_OFF"
-msgstr ""
+msgstr "Désactivé"
 
 msgid "OPTVAL_ON"
-msgstr ""
+msgstr "Activé"
 
 msgid "OPTVAL_AUTO"
 msgstr ""
@@ -234,13 +234,13 @@ msgid "CNTRLMNU_SCOREBOARD"
 msgstr "Afficher Scores (tenir)"
 
 msgid "CNTRLMNU_ACTION"
-msgstr ""
+msgstr "Action"
 
 msgid "CNTRLMNU_ACTION_TITLE"
 msgstr "Changer Contrôles Action"
 
 msgid "CNTRLMNU_CHAT"
-msgstr ""
+msgstr "Discussions"
 
 msgid "MNU_MULTIPLAYER"
 msgstr "Multijoueur"
@@ -370,7 +370,7 @@ msgid "CNTRLMNU_CONSOLE"
 msgstr "Ouvrir Console"
 
 msgid "CNTRLMNU_PAUSE"
-msgstr ""
+msgstr "Pause"
 
 msgid "CNTRLMNU_DISPLAY_INC"
 msgstr "Agrandir l'affichage"
@@ -1998,3 +1998,9 @@ msgstr ""
 
 msgid "JOYMNU_ANALOGSTRAFERUN"
 msgstr ""
+
+msgid "ACCMNU_TITLE"
+msgstr "Options d'accessibilité"
+
+msgid "ACCMNU_RESET"
+msgstr "Réinitialiser les options d'accessibilité"
