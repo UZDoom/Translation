@@ -15,7 +15,3 @@ msgstr ""
 
 msgid "ON"
 msgstr "ATTIVATI"
-
-msgctxt "1"
-msgid "ON"
-msgstr "ATTIVATA"
