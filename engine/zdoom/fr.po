@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 23:10+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-19 00:09+0000\n"
+"Last-Translator: Gameking <valafennou@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fr/>\n"
 "Language: fr\n"
@@ -322,8 +322,7 @@ msgstr "Collisions 3D ON"
 # “Lite-amp”: Light-amplification visor
 #, fuzzy
 msgid "STSTR_BEHOLD"
-msgstr ""
-"in V ulnérable, S urpuissance, I nvisible, p R otection, c A rte, où L umière"
+msgstr "inVuln,"
 
 msgid "STSTR_BEHOLDX"
 msgstr "Amélioration Activée"
@@ -360,11 +359,9 @@ msgstr "Pleine Santé"
 msgid "TXT_CHEATKEYS"
 msgstr "Toutes les Clés"
 
-#, fuzzy
 msgid "TXT_CHEATSOUNDON"
 msgstr "Débogage du son activé."
 
-#, fuzzy
 msgid "TXT_CHEATSOUNDOFF"
 msgstr "Débogage du son désactivé."
 
@@ -397,9 +394,8 @@ msgstr "Temps arrêté."
 msgid "TXT_FREEZEOFF"
 msgstr "Le temps reprend son cours.."
 
-#, fuzzy
 msgid "TXT_STRANGE"
-msgstr "Vous vous sentez mal à l'aise..."
+msgstr "Vous vous sentez mal à l'aise…"
 
 msgid "TXT_STRANGER"
 msgstr "Vous vous sentez très mal à l'aise..."
@@ -410,7 +406,6 @@ msgstr "Vous vous sentez vachement moins mal à l'aise."
 msgid "TXT_LEADBOOTSON"
 msgstr "Bottes en plomb ON"
 
-#, fuzzy
 msgid "TXT_LEADBOOTSOFF"
 msgstr "Bottes en plomb OFF"
 
@@ -515,19 +510,19 @@ msgid "SPREE25"
 msgstr "%k est tout-puissant !"
 
 msgid "MULTI2"
-msgstr ""
+msgstr "Double kill!"
 
 msgid "MULTI3"
-msgstr ""
+msgstr "Multi kill!"
 
 msgid "MULTI4"
-msgstr ""
+msgstr "Ultra kill!"
 
 msgid "MULTI5"
-msgstr ""
+msgstr "Monster kill!"
 
 msgid "SCORE_BONUS"
-msgstr ""
+msgstr "Bonus"
 
 msgid "SCORE_COLOR"
 msgstr "Couleur"
