@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-19 00:10+0000\n"
+"PO-Revision-Date: 2026-02-19 04:12+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/uzdoom/glossary/"
 "ro/>\n"
@@ -19,3 +19,7 @@ msgstr "PORNIT"
 
 msgid "OFF"
 msgstr "OPRIT"
+
+msgctxt "1"
+msgid "ON"
+msgstr "PORTNITE"
