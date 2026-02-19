@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 23:09+0000\n"
+"PO-Revision-Date: 2026-02-19 05:02+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/eo/>\n"
@@ -288,7 +288,7 @@ msgid "STSTR_DQDON"
 msgstr "Nevundebla Reĝimo ŜALTITA"
 
 msgid "STSTR_DQDOFF"
-msgstr "Nevundebla Reĝimo MALŜALTITA"
+msgstr "Nevundebla Reĝimo MALŜALT"
 
 msgid "STSTR_DQD2ON"
 msgstr "Pleja Nevundebla Reĝimo ŜALTITA"
