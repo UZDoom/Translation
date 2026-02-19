@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 23:11+0000\n"
+"PO-Revision-Date: 2026-02-19 05:02+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/sr/>\n"
@@ -288,10 +288,10 @@ msgid "STSTR_NOMUS"
 msgstr "Немогући Избор"
 
 msgid "STSTR_DQDON"
-msgstr "Нерањивост УКЉУЧЕНА"
+msgstr "Нерањивост УКЉ"
 
 msgid "STSTR_DQDOFF"
-msgstr "Нерањивост ИСКЉУЧЕНА"
+msgstr "Нерањивост ИСКЉ"
 
 msgid "STSTR_DQD2ON"
 msgstr "Ултимативна нерањивост УКЉУЧЕНА"
