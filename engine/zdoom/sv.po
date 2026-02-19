@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 23:11+0000\n"
+"PO-Revision-Date: 2026-02-19 05:02+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/sv/>\n"
@@ -286,10 +286,10 @@ msgid "STSTR_NOMUS"
 msgstr "Omöjligt val"
 
 msgid "STSTR_DQDON"
-msgstr "Gradlöshetsläge på"
+msgstr "Gradlöshetsläge PÅ"
 
 msgid "STSTR_DQDOFF"
-msgstr "Gradlöshetsläge av"
+msgstr "Gradlöshetsläge AV"
 
 msgid "STSTR_DQD2ON"
 msgstr "Ultimat gradlöshetsläge på"
