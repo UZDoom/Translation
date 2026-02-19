@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 23:10+0000\n"
+"PO-Revision-Date: 2026-02-19 05:02+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/be/>\n"
@@ -286,10 +286,10 @@ msgid "STSTR_NOMUS"
 msgstr "Немагчымы выбар"
 
 msgid "STSTR_DQDON"
-msgstr "Рэжым непісьменнасці ЎКЛЮЧАНЫ"
+msgstr "Рэжым непісьменнасці УКЛ"
 
 msgid "STSTR_DQDOFF"
-msgstr "Рэжым непісьменнасці ВЫКЛЮЧАНЫ"
+msgstr "Рэжым непісьменнасці ВЫКЛ"
 
 msgid "STSTR_DQD2ON"
 msgstr "Рэжым поўнай непісьменнасці ЎКЛЮЧАНЫ"
