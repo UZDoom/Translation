@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 17:10+0000\n"
+"PO-Revision-Date: 2026-02-19 05:02+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/uzdoom/common/"
 "pt/>\n"
@@ -95,10 +95,10 @@ msgid "MNU_DELETESG"
 msgstr "Deseja mesmo apagar o jogo?"
 
 msgid "OPTVAL_OFF"
-msgstr ""
+msgstr "Desativado"
 
 msgid "OPTVAL_ON"
-msgstr ""
+msgstr "Ativado"
 
 msgid "OPTVAL_AUTO"
 msgstr ""
