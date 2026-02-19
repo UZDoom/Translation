@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 23:09+0000\n"
+"PO-Revision-Date: 2026-02-19 05:02+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ru/>\n"
@@ -286,10 +286,10 @@ msgid "STSTR_NOMUS"
 msgstr "Неверный выбор"
 
 msgid "STSTR_DQDON"
-msgstr "Безграмотность ВКЛЮЧЕНА"
+msgstr "Безграмотность ВКЛ"
 
 msgid "STSTR_DQDOFF"
-msgstr "Безграмотность ОТКЛЮЧЕНА"
+msgstr "Безграмотность ВЫКЛ"
 
 msgid "STSTR_DQD2ON"
 msgstr "Полная безграмотность ВКЛЮЧЕНА"
