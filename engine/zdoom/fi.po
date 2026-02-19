@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 23:10+0000\n"
+"PO-Revision-Date: 2026-02-19 05:02+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fi/>\n"
@@ -289,7 +289,7 @@ msgid "STSTR_DQDON"
 msgstr "Kuolemattomuustila PÄÄLLÄ"
 
 msgid "STSTR_DQDOFF"
-msgstr "Kuolemattomuustila POIS PÄÄLTÄ"
+msgstr "Kuolemattomuustila POIS"
 
 msgid "STSTR_DQD2ON"
 msgstr "Varma kuolemattomuustila PÄÄLLÄ"
