@@ -27,10 +27,6 @@ msgctxt "1"
 msgid "OFF"
 msgstr "DESACTIVADA"
 
-msgctxt "2"
-msgid "ON"
-msgstr "ACTIVADA"
-
 msgctxt "3"
 msgid "ON"
 msgstr "ACTIVADAS"
