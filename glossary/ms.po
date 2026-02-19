@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-19 00:10+0000\n"
+"PO-Revision-Date: 2026-02-19 04:12+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Malay <https://hosted.weblate.org/projects/uzdoom/glossary/"
 "ms/>\n"
@@ -14,7 +14,7 @@ msgstr ""
 "X-Generator: Weblate 5.16.1-dev\n"
 
 msgid "ON"
-msgstr "HIDUP"
+msgstr "BUKA"
 
 msgid "OFF"
-msgstr "MATI"
+msgstr "TUTUP"
