@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-19 04:12+0000\n"
+"PO-Revision-Date: 2026-02-19 05:02+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "uzdoom/glossary/pt_BR/>\n"
@@ -14,23 +14,27 @@ msgstr ""
 "X-Generator: Weblate 5.16.1-dev\n"
 
 msgid "ON"
-msgstr "LIGADO"
+msgstr "ATIVADO"
 
 msgid "OFF"
-msgstr "DESLIGADO"
+msgstr "DESATIVADO"
 
 msgctxt "1"
 msgid "ON"
-msgstr "LIGADA"
+msgstr "ATIVADA"
 
 msgctxt "1"
 msgid "OFF"
-msgstr "DESLIGADA"
+msgstr "DESATIVADA"
 
 msgctxt "2"
 msgid "ON"
-msgstr "LIGADOS"
+msgstr "ATIVADOS"
 
 msgctxt "3"
 msgid "ON"
-msgstr "LIGADAS"
+msgstr "ATIVADAS"
+
+msgctxt "2"
+msgid "OFF"
+msgstr "DESATIVADAS"
