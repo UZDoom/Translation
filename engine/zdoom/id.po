@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 23:10+0000\n"
+"PO-Revision-Date: 2026-02-19 05:02+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/id/>\n"
@@ -284,7 +284,7 @@ msgid "STSTR_NOMUS"
 msgstr "Pilihan Mustahil"
 
 msgid "STSTR_DQDON"
-msgstr "Mode Degreelessness NYALA"
+msgstr "Mode Degreelessness AKTIF"
 
 msgid "STSTR_DQDOFF"
 msgstr "Mode Degreelessness MATI"
