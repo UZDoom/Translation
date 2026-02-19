@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 23:09+0000\n"
+"PO-Revision-Date: 2026-02-19 04:12+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/uzdoom/common/"
 "sr/>\n"
@@ -60,7 +60,7 @@ msgid "MSGOFF"
 msgstr "Поруке ИСКЉУЧЕНЕ"
 
 msgid "MSGON"
-msgstr "Поруке УКЉУЧЕНЕ"
+msgstr "Поруке УКЉ"
 
 msgid "TXT_SAY"
 msgstr "Пиши:"
