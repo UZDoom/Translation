@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-19 00:09+0000\n"
-"Last-Translator: Gameking <valafennou@gmail.com>\n"
+"PO-Revision-Date: 2026-02-19 05:02+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fr/>\n"
 "Language: fr\n"
@@ -285,10 +285,10 @@ msgid "STSTR_NOMUS"
 msgstr "Séléction Impossible"
 
 msgid "STSTR_DQDON"
-msgstr "Invulnérabilité ON"
+msgstr "Invulnérabilité ACTIVE"
 
 msgid "STSTR_DQDOFF"
-msgstr "Invulnérabilité OFF"
+msgstr "Invulnérabilité INACTIVE"
 
 msgid "STSTR_DQD2ON"
 msgstr "Parfaite Invulnérabilité ON"

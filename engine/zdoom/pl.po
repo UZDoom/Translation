@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 23:10+0000\n"
+"PO-Revision-Date: 2026-02-19 05:02+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/pl/>\n"
@@ -286,10 +286,10 @@ msgid "STSTR_NOMUS"
 msgstr "Niemożliwy wybór"
 
 msgid "STSTR_DQDON"
-msgstr "Tryb oblanej magisterki WŁĄCZONY"
+msgstr "Tryb oblanej magisterki WŁ"
 
 msgid "STSTR_DQDOFF"
-msgstr "Tryb oblanej magisterki WYŁĄCZONY"
+msgstr "Tryb oblanej magisterki WYŁ"
 
 msgid "STSTR_DQD2ON"
 msgstr "Tryb oblanego licencjatu WŁĄCZONY"

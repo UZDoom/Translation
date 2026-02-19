@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 23:11+0000\n"
+"PO-Revision-Date: 2026-02-19 05:02+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/common/"
 "uk/>\n"
@@ -57,10 +57,10 @@ msgid "TXT_X_CHEATS"
 msgstr "%s чітерить"
 
 msgid "MSGOFF"
-msgstr "Повідомлення: ВИМКНЕНІ"
+msgstr "Повідомлення: ВИМК"
 
 msgid "MSGON"
-msgstr "Повідомлення: УВІМКНЕНІ"
+msgstr "Повідомлення: УВІМК"
 
 msgid "TXT_SAY"
 msgstr "Чат:"

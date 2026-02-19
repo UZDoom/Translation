@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 23:10+0000\n"
+"PO-Revision-Date: 2026-02-19 05:02+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/uzdoom/common/el/>"
 "\n"
@@ -56,10 +56,10 @@ msgid "TXT_X_CHEATS"
 msgstr "@[art_gr] %s απατάει"
 
 msgid "MSGOFF"
-msgstr "Μηνύματα ΚΛΕΙΣΤΑ"
+msgstr "Μηνύματα ΟΧΙ"
 
 msgid "MSGON"
-msgstr "Μηνύματα ΑΝΟΙΧΤΑ"
+msgstr "Μηνύματα ΝΑΙ"
 
 msgid "TXT_SAY"
 msgstr "Πές:"

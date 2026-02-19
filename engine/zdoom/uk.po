@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 23:10+0000\n"
+"PO-Revision-Date: 2026-02-19 05:02+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/uk/>\n"
@@ -288,10 +288,10 @@ msgid "STSTR_NOMUS"
 msgstr "Некоректний Вибір"
 
 msgid "STSTR_DQDON"
-msgstr "Безсмертя ввімкнено"
+msgstr "Безсмертя ВВІМК"
 
 msgid "STSTR_DQDOFF"
-msgstr "Безсмертя вимкнено"
+msgstr "Безсмертя ВИМК"
 
 msgid "STSTR_DQD2ON"
 msgstr "Повне безсмертя ввімкнено"

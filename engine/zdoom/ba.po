@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 23:10+0000\n"
+"PO-Revision-Date: 2026-02-19 05:02+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Bashkir <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ba/>\n"
@@ -285,11 +285,13 @@ msgstr "Promjena glazbe"
 msgid "STSTR_NOMUS"
 msgstr "Nemogući odabir"
 
+#, fuzzy
 msgid "STSTR_DQDON"
-msgstr "Način bezstupnjevnosti UKLJ"
+msgstr "Način bezstupnjevnosti ҠАБЫҘ"
 
+#, fuzzy
 msgid "STSTR_DQDOFF"
-msgstr "Način bezstupnjevnosti ISKLJ"
+msgstr "Način bezstupnjevnosti ҺҮНДЕР"
 
 msgid "STSTR_DQD2ON"
 msgstr "Način krajnje bezstupnjevnosti UKLJ"
