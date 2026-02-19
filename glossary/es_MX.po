@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-18 04:58+0000\n"
+"PO-Revision-Date: 2026-02-19 00:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/"
 "glossary/es_MX/>\n"
@@ -14,4 +14,11 @@ msgstr ""
 "X-Generator: Weblate 5.16.1-dev\n"
 
 msgid "ON"
-msgstr "ACTIVADOS"
+msgstr "ACTIVADO"
+
+msgid "OFF"
+msgstr "DESACTIVADO"
+
+msgctxt "1"
+msgid "ON"
+msgstr "ACTIVADA"
