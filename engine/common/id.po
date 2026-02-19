@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 23:11+0000\n"
+"PO-Revision-Date: 2026-02-19 04:12+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/uzdoom/common/"
 "id/>\n"
@@ -58,7 +58,7 @@ msgid "MSGOFF"
 msgstr "Pesan: MATI"
 
 msgid "MSGON"
-msgstr "Pesan: NYALA"
+msgstr "Pesan: AKTIF"
 
 msgid "TXT_SAY"
 msgstr "Katanya:"
