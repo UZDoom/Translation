@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 23:10+0000\n"
+"PO-Revision-Date: 2026-02-19 04:12+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Bashkir <https://hosted.weblate.org/projects/uzdoom/common/"
 "ba/>\n"
@@ -58,8 +58,9 @@ msgstr "%s vara"
 msgid "MSGOFF"
 msgstr "Poruke: ISKLJ"
 
+#, fuzzy
 msgid "MSGON"
-msgstr "Poruke: UKLJ"
+msgstr "Poruke: Ҡабыҙ"
 
 msgid "TXT_SAY"
 msgstr "Recite:"
