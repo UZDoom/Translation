@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 23:10+0000\n"
+"PO-Revision-Date: 2026-02-19 05:02+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/it/>\n"
@@ -285,10 +285,10 @@ msgid "STSTR_NOMUS"
 msgstr "Selezione impossibile"
 
 msgid "STSTR_DQDON"
-msgstr "Modalità Invincibilità ATTIVATA"
+msgstr "Modalità Invincibilità ATTIVA"
 
 msgid "STSTR_DQDOFF"
-msgstr "Modalità Invincibilità DISATTIVATA"
+msgstr "Modalità Invincibilità SPENTA"
 
 msgid "STSTR_DQD2ON"
 msgstr "Modalità Invincibilità Ultima ATTIVATA"
