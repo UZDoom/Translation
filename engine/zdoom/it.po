@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-19 05:02+0000\n"
+"PO-Revision-Date: 2026-02-20 23:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/it/>\n"
@@ -291,10 +291,10 @@ msgid "STSTR_DQDOFF"
 msgstr "Modalità Invincibilità SPENTA"
 
 msgid "STSTR_DQD2ON"
-msgstr "Modalità Invincibilità Ultima ATTIVATA"
+msgstr "Modalità Invincibilità Ultima ATTIVA"
 
 msgid "STSTR_DQD2OFF"
-msgstr "Modalità Invincibilità Ultima DISATTIVATA"
+msgstr "Modalità Invincibilità Ultima SPENTA"
 
 msgid "STSTR_KFAADDED"
 msgstr "Equipaggiamento Completato"
@@ -303,16 +303,16 @@ msgid "STSTR_FAADDED"
 msgstr "Equipaggiamento Completato (senza chiavi)"
 
 msgid "STSTR_NCON"
-msgstr "No Clipping ATTIVATO"
+msgstr "No Clipping ATTIVO"
 
 msgid "STSTR_NCOFF"
 msgstr "No Clipping DISATTIVATO"
 
 msgid "STSTR_NC2ON"
-msgstr "No Clipping 2 ATTIVATO"
+msgstr "No Clipping 2 ATTIVO"
 
 msgid "STSTR_NC2OFF"
-msgstr "No Clipping 2 DISATTIVATO"
+msgstr "No Clipping 2 SPENTO"
 
 # “inVuln”: Invulnerability sphere
 # “Str”: Berserk
