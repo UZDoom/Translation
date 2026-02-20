@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-19 05:02+0000\n"
+"PO-Revision-Date: 2026-02-20 23:11+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/uzdoom/common/"
 "eo/>\n"
@@ -820,6 +820,7 @@ msgstr "Altnivelaj agordoj"
 msgid "SNDMNU_MODREPLAYER"
 msgstr "Agordo por legilo de moduloj"
 
+#, fuzzy
 msgid "SNDMNU_MIDIPLAYER"
 msgstr "Agordoj por legilo de MIDI"
 
