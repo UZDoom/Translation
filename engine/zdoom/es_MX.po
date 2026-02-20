@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 23:10+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-20 21:09+0000\n"
+"Last-Translator: Ret Neychozken <retneychozken@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/es_MX/>\n"
 "Language: es_MX\n"
@@ -391,9 +391,8 @@ msgstr "Has detenido el tiempo"
 msgid "TXT_FREEZEOFF"
 msgstr "El tiempo se reanuda"
 
-#, fuzzy
 msgid "TXT_STRANGE"
-msgstr "Te sientes raro..."
+msgstr "Te sientes raro…"
 
 msgid "TXT_STRANGER"
 msgstr "Te sientes aún más raro..."
@@ -427,10 +426,10 @@ msgid "TXT_ANUBIS_OFF"
 msgstr ""
 
 msgid "TXT_CHASECAM_ON"
-msgstr ""
+msgstr "Cámara trasera ACTIVADA"
 
 msgid "TXT_CHASECAM_OFF"
-msgstr ""
+msgstr "Cámara trasera DESACTIVADA"
 
 msgid "TXT_BADDIE_KILLED"
 msgstr ""
@@ -442,7 +441,7 @@ msgid "TXT_MONSTER_KILLED"
 msgstr ""
 
 msgid "TXT_MONSTERS_KILLED"
-msgstr ""
+msgstr "%d monstruos eliminados"
 
 msgid "TXT_NO_RESURRECT"
 msgstr "No se puede resucitar. El jugador ya no está conectado a su cuerpo."
@@ -451,7 +450,7 @@ msgid "TXT_ALL_ARTIFACTS"
 msgstr "¡Todos los artefactos!"
 
 msgid "TXT_WHAT_KILL"
-msgstr ""
+msgstr "¿Qué quieres matar fuera de un juego?"
 
 msgid "TXT_NOT_FROZEN"
 msgstr ""
@@ -463,28 +462,28 @@ msgid "AMSTR_FOLLOWON"
 msgstr ""
 
 msgid "AMSTR_GRIDON"
-msgstr ""
+msgstr "Cuadrícula ACTIVADA"
 
 msgid "AMSTR_GRIDOFF"
-msgstr ""
+msgstr "Cuadrícula DESACTIVADA"
 
 msgid "AMSTR_TEXON"
-msgstr ""
+msgstr "Modo Textura ACTIVADO"
 
 msgid "AMSTR_TEXOFF"
-msgstr ""
+msgstr "Modo Textura DESACTIVADO"
 
 msgid "AMSTR_MARKEDSPOT"
-msgstr ""
+msgstr "Punto Marcado"
 
 msgid "AMSTR_MARKSCLEARED"
-msgstr ""
+msgstr "Puntos Borrados"
 
 msgid "TXT_FRAGLIMIT"
-msgstr ""
+msgstr "Límite de Frags alcanzado."
 
 msgid "TXT_TIMELIMIT"
-msgstr ""
+msgstr "Límite de Tiempo alcanzado."
 
 msgid "SPREEKILLSELF"
 msgstr ""
