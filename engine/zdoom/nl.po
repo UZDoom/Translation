@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 23:10+0000\n"
+"PO-Revision-Date: 2026-02-20 23:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/nl/>\n"
@@ -312,7 +312,7 @@ msgid "STSTR_NC2ON"
 msgstr "Geen Clipping Modus 2 AAN"
 
 msgid "STSTR_NC2OFF"
-msgstr "Geen Clipping Modus 2 OFF"
+msgstr "Geen Clipping Modus 2 UIT"
 
 # “inVuln”: Invulnerability sphere
 # “Str”: Berserk
