@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-20 23:10+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-20 23:14+0000\n"
+"Last-Translator: Ret Neychozken <retneychozken@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/es_MX/>\n"
 "Language: es_MX\n"
@@ -1004,13 +1004,13 @@ msgid "OB_KNIGHTHIT"
 msgstr "%o fue destripado por un Caballero Infernal."
 
 msgid "OB_ZOMBIE"
-msgstr "A %o l@[ao_esp] mató un Zombi."
+msgstr "%o fue matado por un zombi."
 
 msgid "OB_SHOTGUY"
-msgstr "A %o l@[ao_esp] fusiló un Sargento."
+msgstr "%o fue fusilado por un sargento."
 
 msgid "OB_VILE"
-msgstr "A %o l@[ao_esp] incineró un Arch-Vile."
+msgstr "%o fue incinerado por un archvile."
 
 msgid "OB_UNDEAD"
 msgstr "A %o l@[ao_esp] hizo reventar un Revenant."
