@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-19 05:02+0000\n"
+"PO-Revision-Date: 2026-02-20 23:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/sv/>\n"
@@ -292,10 +292,10 @@ msgid "STSTR_DQDOFF"
 msgstr "Gradlöshetsläge AV"
 
 msgid "STSTR_DQD2ON"
-msgstr "Ultimat gradlöshetsläge på"
+msgstr "Ultimat gradlöshetsläge PÅ"
 
 msgid "STSTR_DQD2OFF"
-msgstr "Ultimat gradlöshetsläge av"
+msgstr "Ultimat gradlöshetsläge AV"
 
 msgid "STSTR_KFAADDED"
 msgstr "Mycket lycklig ammunition har lagts till"
@@ -304,16 +304,16 @@ msgid "STSTR_FAADDED"
 msgstr "Ammo (inga nycklar) Tillagd"
 
 msgid "STSTR_NCON"
-msgstr "Inget klippningsläge på"
+msgstr "Inget klippningsläge PÅ"
 
 msgid "STSTR_NCOFF"
 msgstr "Inget klippningsläge av"
 
 msgid "STSTR_NC2ON"
-msgstr "Inget klippningsläge 2 på"
+msgstr "Inget klippningsläge 2 PÅ"
 
 msgid "STSTR_NC2OFF"
-msgstr "Inget klippningsläge 2 av"
+msgstr "Inget klippningsläge 2 AV"
 
 # “inVuln”: Invulnerability sphere
 # “Str”: Berserk
