@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 23:10+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-20 21:09+0000\n"
+"Last-Translator: Ret Neychozken <retneychozken@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/"
 "common/es_MX/>\n"
 "Language: es_MX\n"
@@ -326,16 +326,16 @@ msgid "MAPCNTRLMNU_CONTROLS"
 msgstr "Controles del Mapa"
 
 msgid "MAPCNTRLMNU_PANLEFT"
-msgstr ""
+msgstr "Desplazar a la izquierda"
 
 msgid "MAPCNTRLMNU_PANRIGHT"
-msgstr ""
+msgstr "Desplazar a la derecha"
 
 msgid "MAPCNTRLMNU_PANUP"
-msgstr ""
+msgstr "Desplazar hacia arriba"
 
 msgid "MAPCNTRLMNU_PANDOWN"
-msgstr ""
+msgstr "Desplazar hacia abajo"
 
 msgid "MAPCNTRLMNU_ZOOMIN"
 msgstr "Acercar"
@@ -359,10 +359,10 @@ msgid "MAPCNTRLMNU_TOGGLETEXTURE"
 msgstr "Alternar textura"
 
 msgid "CNTRLMNU_AUTOMAP"
-msgstr ""
+msgstr "Alternar mapa"
 
 msgid "CNTRLMNU_CHASECAM"
-msgstr ""
+msgstr "Cámara trasera"
 
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "Capturar pantalla"
@@ -374,10 +374,10 @@ msgid "CNTRLMNU_PAUSE"
 msgstr "Pausar"
 
 msgid "CNTRLMNU_DISPLAY_INC"
-msgstr ""
+msgstr "Aumentar Tamaño de la pantalla"
 
 msgid "CNTRLMNU_DISPLAY_DEC"
-msgstr ""
+msgstr "Disminuir Tamaño de la pantalla"
 
 msgid "CNTRLMNU_OPEN_HELP"
 msgstr ""
