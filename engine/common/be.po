@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-20 23:10+0000\n"
+"PO-Revision-Date: 2026-02-20 23:14+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/uzdoom/common/"
 "be/>\n"
@@ -1480,7 +1480,7 @@ msgid "MISCMNU_MERGEKEYS"
 msgstr "Аб'яднаць левы/правы Alt/Ctrl/Shift"
 
 msgid "MISCMNU_WINFULLSCREENTOGGLE"
-msgstr "Пераключэнне поўнага экрана па ALT+ENTER"
+msgstr "Пераключэнне поўнага экрана па Alt+Enter"
 
 msgid "MISCMNU_MACFULLSCREENTOGGLE"
 msgstr "Пераключэнне поўнага экрана па Cmd+F"
@@ -1675,15 +1675,14 @@ msgstr ""
 msgid "REVMNU_Create"
 msgstr "Стварыць"
 
-#, fuzzy
 msgid "REVMNU_Save"
-msgstr "Захаваць..."
+msgstr "Захаваць…"
 
 msgid "REVMNU_File_name"
 msgstr "Імя файла"
 
 msgid "REVMNU_Environments_to_save"
-msgstr "Захаваць асяроддзі..."
+msgstr "Захаваць асяроддзі"
 
 msgid "DSPLYMNU_VKOPT"
 msgstr "Налады Vulkan (эксперыментальныя)"
