@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-19 05:02+0000\n"
+"PO-Revision-Date: 2026-02-20 23:11+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fr/>\n"
@@ -285,16 +285,16 @@ msgid "STSTR_NOMUS"
 msgstr "Séléction Impossible"
 
 msgid "STSTR_DQDON"
-msgstr "Invulnérabilité ACTIVE"
+msgstr "Invulnérabilité ACTIF"
 
 msgid "STSTR_DQDOFF"
 msgstr "Invulnérabilité INACTIVE"
 
 msgid "STSTR_DQD2ON"
-msgstr "Parfaite Invulnérabilité ON"
+msgstr "Parfaite Invulnérabilité ACTIVE"
 
 msgid "STSTR_DQD2OFF"
-msgstr "Parfaite Invulnérabilité OFF"
+msgstr "Parfaite Invulnérabilité INACTIF"
 
 msgid "STSTR_KFAADDED"
 msgstr "Armement Maximum"
@@ -302,17 +302,19 @@ msgstr "Armement Maximum"
 msgid "STSTR_FAADDED"
 msgstr "Arsenal ajouté. (Pas de clés !)"
 
+#, fuzzy
 msgid "STSTR_NCON"
-msgstr "Collisions OFF"
+msgstr "Collisions ACTIF"
 
 msgid "STSTR_NCOFF"
 msgstr "Collisions ON"
 
 msgid "STSTR_NC2ON"
-msgstr "Collisions 3D OFF"
+msgstr "Collisions 3D ACTIF"
 
+#, fuzzy
 msgid "STSTR_NC2OFF"
-msgstr "Collisions 3D ON"
+msgstr "Collisions 3D INACTIF"
 
 # “inVuln”: Invulnerability sphere
 # “Str”: Berserk
