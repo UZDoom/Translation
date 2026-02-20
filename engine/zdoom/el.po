@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-19 05:02+0000\n"
+"PO-Revision-Date: 2026-02-20 23:11+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/el/>\n"
@@ -285,16 +285,16 @@ msgid "STSTR_NOMUS"
 msgstr "Αδήνατη επιλογή"
 
 msgid "STSTR_DQDON"
-msgstr "Θεική λειτουργία ΝΑΙ"
+msgstr "Θεική λειτουργία ΕΝΕΡΓΗ"
 
 msgid "STSTR_DQDOFF"
-msgstr "Θεική λειτουργία ΟΧΙ"
+msgstr "Θεική λειτουργία ΑΝΕΝΕΡΓΟ"
 
 msgid "STSTR_DQD2ON"
-msgstr "Απόλητη θεική λειτουργία ΕΝΕΡΓΟΠΟΙΗΜΈΝΗ"
+msgstr "Απόλητη θεική λειτουργία ΕΝΕΡΓΗ"
 
 msgid "STSTR_DQD2OFF"
-msgstr "Απόλητη θεική λειτουργία ΆΠΕΝΕΡΓΟΠΟΙΗΜΈΝΗ"
+msgstr "Απόλητη θεική λειτουργία ΑΝΕΝΕΡΓΟ"
 
 msgid "STSTR_KFAADDED"
 msgstr "Πάρα Πολύ Χαρούμενα Πυρομαχηκά Προστέθηκαν"
@@ -303,16 +303,16 @@ msgid "STSTR_FAADDED"
 msgstr "Πυρομαχικά (Όχι κλειδία) προστέθηκαν"
 
 msgid "STSTR_NCON"
-msgstr "Noclip λειτουργία ΕΝΕΡΓΟΠΟΙΗΜΈΝΗ"
+msgstr "Noclip λειτουργία ΕΝΕΡΓΟ"
 
 msgid "STSTR_NCOFF"
 msgstr "Noclip λειτουργία ΆΠΕΝΕΡΓΟΠΟΙΗΜΈΝΗ"
 
 msgid "STSTR_NC2ON"
-msgstr "Δέυτερη noclip λειτουργία ΕΝΕΡΓΟΠΟΙΗΜΈΝΗ"
+msgstr "Δέυτερη noclip λειτουργία ΕΝΕΡΓΟ"
 
 msgid "STSTR_NC2OFF"
-msgstr "Noclip λειτουργία ΆΠΕΝΕΡΓΟΠΟΙΗΜΈΝΗ"
+msgstr "Noclip λειτουργία ΑΝΕΝΕΡΓΟ"
 
 # “inVuln”: Invulnerability sphere
 # “Str”: Berserk
