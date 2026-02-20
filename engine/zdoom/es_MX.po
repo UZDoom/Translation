@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "PO-Revision-Date: 2026-02-20 23:10+0000\n"
-"Last-Translator: Ret Neychozken <retneychozken@gmail.com>\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/es_MX/>\n"
 "Language: es_MX\n"
@@ -304,16 +304,16 @@ msgid "STSTR_FAADDED"
 msgstr "Munición (sin llaves) Añadida"
 
 msgid "STSTR_NCON"
-msgstr "Modo Noclip Activado"
+msgstr "Modo Noclip ACTIVADO"
 
 msgid "STSTR_NCOFF"
 msgstr "Modo Noclip Desactivado"
 
 msgid "STSTR_NC2ON"
-msgstr "Modo Noclip 2 Activado"
+msgstr "Modo Noclip 2 ACTIVADO"
 
 msgid "STSTR_NC2OFF"
-msgstr "Modo Noclip 2 Desactivado"
+msgstr "Modo Noclip 2 DESACTIVADO"
 
 # “inVuln”: Invulnerability sphere
 # “Str”: Berserk
