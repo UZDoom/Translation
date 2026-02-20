@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-20 21:09+0000\n"
+"PO-Revision-Date: 2026-02-20 23:10+0000\n"
 "Last-Translator: Ret Neychozken <retneychozken@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/"
 "common/es_MX/>\n"
@@ -156,7 +156,7 @@ msgid "OPTMNU_NETWORK"
 msgstr "Opciones De Red"
 
 msgid "OPTMNU_REVERB"
-msgstr ""
+msgstr "Editor de reverberación ambiental"
 
 msgid "CNTRLMNU_SWITCHTEXT1"
 msgstr "ENTER para cambiar, BACKSPACE para borrar"
@@ -347,7 +347,7 @@ msgid "MAPCNTRLMNU_TOGGLEZOOM"
 msgstr "Alternar zoom"
 
 msgid "MAPCNTRLMNU_TOGGLEFOLLOW"
-msgstr ""
+msgstr "Alternar seguimiento"
 
 msgid "MAPCNTRLMNU_TOGGLEGRID"
 msgstr "Alternar cuadricula"
@@ -380,7 +380,7 @@ msgid "CNTRLMNU_DISPLAY_DEC"
 msgstr "Disminuir Tamaño de la pantalla"
 
 msgid "CNTRLMNU_OPEN_HELP"
-msgstr ""
+msgstr "Mostrar Menú de Ayuda"
 
 msgid "CNTRLMNU_OPEN_SAVE"
 msgstr "Abrir Menu de Guardados"
@@ -392,7 +392,7 @@ msgid "CNTRLMNU_OPEN_OPTIONS"
 msgstr "Abrir Menu de Opciones"
 
 msgid "CNTRLMNU_OPEN_DISPLAY"
-msgstr ""
+msgstr "Abrir Menu de Visualización"
 
 msgid "CNTRLMNU_QUICKSAVE"
 msgstr "Guardar Rápido"
@@ -413,10 +413,10 @@ msgid "CNTRLMNU_ADJUST_GAMMA"
 msgstr "Ajustar Gamma"
 
 msgid "MOUSEMNU_ENABLEMOUSE"
-msgstr ""
+msgstr "Habilitar el mouse"
 
 msgid "MOUSEMNU_MOUSEINMENU"
-msgstr ""
+msgstr "Habilitar el mouse en menus"
 
 msgid "MOUSEMNU_SHOWBACKBUTTON"
 msgstr ""
