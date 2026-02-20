@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-20 23:10+0000\n"
-"Last-Translator: Ret Neychozken <retneychozken@gmail.com>\n"
+"PO-Revision-Date: 2026-02-21 00:29+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/"
 "common/es_MX/>\n"
 "Language: es_MX\n"
@@ -615,13 +615,13 @@ msgid "TXT_COLOR_RUST"
 msgstr ""
 
 msgid "PLYRMNU_NAME"
-msgstr ""
+msgstr "Nombre"
 
 msgid "PLYRMNU_TEAM"
 msgstr ""
 
 msgid "PLYRMNU_PLAYERCOLOR"
-msgstr ""
+msgstr "Color"
 
 msgid "PLYRMNU_PLAYERGENDER"
 msgstr ""
@@ -1661,7 +1661,7 @@ msgid "REVMNU_Based_on"
 msgstr ""
 
 msgid "REVMNU_Name"
-msgstr ""
+msgstr "Nombre"
 
 msgid "REVMNU_ID_1"
 msgstr ""
