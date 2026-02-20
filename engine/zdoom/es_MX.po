@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-20 23:14+0000\n"
+"PO-Revision-Date: 2026-02-21 00:29+0000\n"
 "Last-Translator: Ret Neychozken <retneychozken@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/es_MX/>\n"
@@ -1013,10 +1013,10 @@ msgid "OB_VILE"
 msgstr "%o fue incinerado por un archvile."
 
 msgid "OB_UNDEAD"
-msgstr "A %o l@[ao_esp] hizo reventar un Revenant."
+msgstr "%o no logró evitar el cohete del Renacido."
 
 msgid "OB_FATSO"
-msgstr "A %o l@[ao_esp] pulverizó un Mancubus."
+msgstr "%o fue pulverizado por un Mancubus."
 
 msgid "OB_CHAINGUY"
 msgstr "A %o l@[ao_esp] perforó un Ametrallador."
