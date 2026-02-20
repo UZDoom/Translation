@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-19 05:02+0000\n"
+"PO-Revision-Date: 2026-02-20 23:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/uzdoom/common/"
 "be/>\n"
@@ -822,6 +822,7 @@ msgstr "Пашыраныя налады"
 msgid "SNDMNU_MODREPLAYER"
 msgstr "Налады прайгравання модуляў"
 
+#, fuzzy
 msgid "SNDMNU_MIDIPLAYER"
 msgstr "Налады MIDI-прайгравальніка"
 
@@ -1284,10 +1285,10 @@ msgid "GLTEXMNU_ANISOTROPIC"
 msgstr "Анізатропная фільтрацыя"
 
 msgid "OPTVAL_NONENEARESTMIPMAP"
-msgstr "Няма (бліжэйшы MIP-узровень)"
+msgstr "Няма (бліжэйшы Min-узровень)"
 
 msgid "OPTVAL_NONELINEARMIPMAP"
-msgstr "Няма (лінейны MIP-узровень)"
+msgstr "Няма (лінейны Min-узровень)"
 
 msgid "OPTVAL_NONETRILINEAR"
 msgstr "Няма (трылінейная)"
@@ -1439,7 +1440,7 @@ msgid "OPTVAL_LOWEST"
 msgstr "Найменшы магчымы маштаб"
 
 msgid "OPTVAL_CUSTOM"
-msgstr "Карыст."
+msgstr "Карыст"
 
 msgid "VIDMNU_MAXFPS"
 msgstr "Максімальная частата кадраў"
@@ -1476,7 +1477,7 @@ msgid "OPTVAL_OPENGLES"
 msgstr ""
 
 msgid "MISCMNU_MERGEKEYS"
-msgstr "Аб'яднаць левы/правы ALT/CTRL/SHIFT"
+msgstr "Аб'яднаць левы/правы Alt/Ctrl/Shift"
 
 msgid "MISCMNU_WINFULLSCREENTOGGLE"
 msgstr "Пераключэнне поўнага экрана па ALT+ENTER"
