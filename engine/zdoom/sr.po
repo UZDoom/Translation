@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-19 05:02+0000\n"
+"PO-Revision-Date: 2026-02-20 23:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/sr/>\n"
@@ -294,10 +294,10 @@ msgid "STSTR_DQDOFF"
 msgstr "Нерањивост ИСКЉ"
 
 msgid "STSTR_DQD2ON"
-msgstr "Ултимативна нерањивост УКЉУЧЕНА"
+msgstr "Ултимативна нерањивост УКЉ"
 
 msgid "STSTR_DQD2OFF"
-msgstr "Ултимативна нерањивост ИСКЉУЧЕНА"
+msgstr "Ултимативна нерањивост ИСКЉ"
 
 msgid "STSTR_KFAADDED"
 msgstr "Веома Срећна Муниција Додана"
@@ -306,16 +306,16 @@ msgid "STSTR_FAADDED"
 msgstr "Муниција (без кључева) Додана"
 
 msgid "STSTR_NCON"
-msgstr "Пролажење кроз зидове УКЉУЧЕНО"
+msgstr "Пролажење кроз зидове УКЉ"
 
 msgid "STSTR_NCOFF"
 msgstr "Пролажење кроз зидове ИСКЉУЧЕНО"
 
 msgid "STSTR_NC2ON"
-msgstr "Секундарни режим пролажења кроз зидове УКЉУЧЕНО"
+msgstr "Секундарни режим пролажења кроз зидове УКЉ"
 
 msgid "STSTR_NC2OFF"
-msgstr "Секундарни режим пролажења кроз зидове ИСКЉУЧЕНО"
+msgstr "Секундарни режим пролажења кроз зидове ИСКЉ"
 
 # “inVuln”: Invulnerability sphere
 # “Str”: Berserk

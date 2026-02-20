@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-19 05:02+0000\n"
+"PO-Revision-Date: 2026-02-20 23:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/id/>\n"
@@ -290,7 +290,7 @@ msgid "STSTR_DQDOFF"
 msgstr "Mode Degreelessness MATI"
 
 msgid "STSTR_DQD2ON"
-msgstr "Mode Ultimate Defreelessness NYALA"
+msgstr "Mode Ultimate Defreelessness AKTIF"
 
 msgid "STSTR_DQD2OFF"
 msgstr "Mode Ultimate Degreelessness MATI"
@@ -302,13 +302,13 @@ msgid "STSTR_FAADDED"
 msgstr "Amunisi (tanpa kunci) Ditambahkan"
 
 msgid "STSTR_NCON"
-msgstr "Mode No Clipping NYALA"
+msgstr "Mode No Clipping AKTIF"
 
 msgid "STSTR_NCOFF"
 msgstr "Mode No Clipping MATI"
 
 msgid "STSTR_NC2ON"
-msgstr "Mode No Clipping 2 NYALA"
+msgstr "Mode No Clipping 2 AKTIF"
 
 msgid "STSTR_NC2OFF"
 msgstr "Mode No Clipping 2 MATI"
@@ -394,9 +394,8 @@ msgstr "Mode Freeze nyala"
 msgid "TXT_FREEZEOFF"
 msgstr "Mode Freeze mati"
 
-#, fuzzy
 msgid "TXT_STRANGE"
-msgstr "Kau merasa aneh..."
+msgstr "Kau merasa aneh…"
 
 msgid "TXT_STRANGER"
 msgstr "Kau merasa lebih aneh."

@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-19 05:02+0000\n"
+"PO-Revision-Date: 2026-02-20 23:11+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ru/>\n"
@@ -292,10 +292,10 @@ msgid "STSTR_DQDOFF"
 msgstr "Безграмотность ВЫКЛ"
 
 msgid "STSTR_DQD2ON"
-msgstr "Полная безграмотность ВКЛЮЧЕНА"
+msgstr "Полная безграмотность ВКЛ"
 
 msgid "STSTR_DQD2OFF"
-msgstr "Полная безграмотность ОТКЛЮЧЕНА"
+msgstr "Полная безграмотность ВЫКЛ"
 
 msgid "STSTR_KFAADDED"
 msgstr "Боезапас на счастье пополнен"
@@ -304,16 +304,16 @@ msgid "STSTR_FAADDED"
 msgstr "Боезапас пополнен (без ключей)"
 
 msgid "STSTR_NCON"
-msgstr "Режим без столкновений ВКЛЮЧЁН"
+msgstr "Режим без столкновений ВКЛ"
 
 msgid "STSTR_NCOFF"
 msgstr "Режим без столкновений ОТКЛЮЧЁН"
 
 msgid "STSTR_NC2ON"
-msgstr "Режим без столкновений 2 ВКЛЮЧЁН"
+msgstr "Режим без столкновений 2 ВКЛ"
 
 msgid "STSTR_NC2OFF"
-msgstr "Режим без столкновений 2 ОТКЛЮЧЁН"
+msgstr "Режим без столкновений 2 ВЫКЛ"
 
 # “inVuln”: Invulnerability sphere
 # “Str”: Berserk

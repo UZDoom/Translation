@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 23:10+0000\n"
+"PO-Revision-Date: 2026-02-20 23:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/common/zh_Hans/>\n"
@@ -821,7 +821,7 @@ msgid "SNDMNU_MODREPLAYER"
 msgstr "模块播放器选项"
 
 msgid "SNDMNU_MIDIPLAYER"
-msgstr "Midi播放器选项"
+msgstr "MIDI播放器选项"
 
 msgid "SNDMNU_MENUSOUND"
 msgstr "菜单音效"

@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 23:10+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-20 23:10+0000\n"
+"Last-Translator: Ret Neychozken <retneychozken@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/"
 "common/es_MX/>\n"
 "Language: es_MX\n"
@@ -156,7 +156,7 @@ msgid "OPTMNU_NETWORK"
 msgstr "Opciones De Red"
 
 msgid "OPTMNU_REVERB"
-msgstr ""
+msgstr "Editor de reverberación ambiental"
 
 msgid "CNTRLMNU_SWITCHTEXT1"
 msgstr "ENTER para cambiar, BACKSPACE para borrar"
@@ -326,16 +326,16 @@ msgid "MAPCNTRLMNU_CONTROLS"
 msgstr "Controles del Mapa"
 
 msgid "MAPCNTRLMNU_PANLEFT"
-msgstr ""
+msgstr "Desplazar a la izquierda"
 
 msgid "MAPCNTRLMNU_PANRIGHT"
-msgstr ""
+msgstr "Desplazar a la derecha"
 
 msgid "MAPCNTRLMNU_PANUP"
-msgstr ""
+msgstr "Desplazar hacia arriba"
 
 msgid "MAPCNTRLMNU_PANDOWN"
-msgstr ""
+msgstr "Desplazar hacia abajo"
 
 msgid "MAPCNTRLMNU_ZOOMIN"
 msgstr "Acercar"
@@ -347,7 +347,7 @@ msgid "MAPCNTRLMNU_TOGGLEZOOM"
 msgstr "Alternar zoom"
 
 msgid "MAPCNTRLMNU_TOGGLEFOLLOW"
-msgstr ""
+msgstr "Alternar seguimiento"
 
 msgid "MAPCNTRLMNU_TOGGLEGRID"
 msgstr "Alternar cuadricula"
@@ -359,10 +359,10 @@ msgid "MAPCNTRLMNU_TOGGLETEXTURE"
 msgstr "Alternar textura"
 
 msgid "CNTRLMNU_AUTOMAP"
-msgstr ""
+msgstr "Alternar mapa"
 
 msgid "CNTRLMNU_CHASECAM"
-msgstr ""
+msgstr "Cámara trasera"
 
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "Capturar pantalla"
@@ -374,13 +374,13 @@ msgid "CNTRLMNU_PAUSE"
 msgstr "Pausar"
 
 msgid "CNTRLMNU_DISPLAY_INC"
-msgstr ""
+msgstr "Aumentar Tamaño de la pantalla"
 
 msgid "CNTRLMNU_DISPLAY_DEC"
-msgstr ""
+msgstr "Disminuir Tamaño de la pantalla"
 
 msgid "CNTRLMNU_OPEN_HELP"
-msgstr ""
+msgstr "Mostrar Menú de Ayuda"
 
 msgid "CNTRLMNU_OPEN_SAVE"
 msgstr "Abrir Menu de Guardados"
@@ -392,7 +392,7 @@ msgid "CNTRLMNU_OPEN_OPTIONS"
 msgstr "Abrir Menu de Opciones"
 
 msgid "CNTRLMNU_OPEN_DISPLAY"
-msgstr ""
+msgstr "Abrir Menu de Visualización"
 
 msgid "CNTRLMNU_QUICKSAVE"
 msgstr "Guardar Rápido"
@@ -413,10 +413,10 @@ msgid "CNTRLMNU_ADJUST_GAMMA"
 msgstr "Ajustar Gamma"
 
 msgid "MOUSEMNU_ENABLEMOUSE"
-msgstr ""
+msgstr "Habilitar el mouse"
 
 msgid "MOUSEMNU_MOUSEINMENU"
-msgstr ""
+msgstr "Habilitar el mouse en menus"
 
 msgid "MOUSEMNU_SHOWBACKBUTTON"
 msgstr ""

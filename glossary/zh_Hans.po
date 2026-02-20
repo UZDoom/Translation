@@ -2,8 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-19 00:09+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-20 23:10+0000\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
+"memory@weblate.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/glossary/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -18,3 +19,6 @@ msgstr "开"
 
 msgid "OFF"
 msgstr "关"
+
+msgid "MIDI"
+msgstr "MIDI"

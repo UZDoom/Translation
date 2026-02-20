@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-19 05:02+0000\n"
+"PO-Revision-Date: 2026-02-20 23:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Bashkir <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ba/>\n"
@@ -293,11 +293,13 @@ msgstr "Način bezstupnjevnosti ҠАБЫҘ"
 msgid "STSTR_DQDOFF"
 msgstr "Način bezstupnjevnosti ҺҮНДЕР"
 
+#, fuzzy
 msgid "STSTR_DQD2ON"
-msgstr "Način krajnje bezstupnjevnosti UKLJ"
+msgstr "Način krajnje bezstupnjevnosti ҠАБЫҘ"
 
+#, fuzzy
 msgid "STSTR_DQD2OFF"
-msgstr "Način krajnje bezstupnjevnosti ISKLJ"
+msgstr "Način krajnje bezstupnjevnosti ҺҮНДЕР"
 
 msgid "STSTR_KFAADDED"
 msgstr "Jako sretna municija je dodana"
@@ -305,17 +307,20 @@ msgstr "Jako sretna municija je dodana"
 msgid "STSTR_FAADDED"
 msgstr "Municija (bez ključeva) je dodana"
 
+#, fuzzy
 msgid "STSTR_NCON"
-msgstr "Lebdoprozirni mod UKLJ"
+msgstr "Lebdoprozirni mod ҠАБЫҘ"
 
 msgid "STSTR_NCOFF"
 msgstr "Lebdoprozirni mod ISKLJ"
 
+#, fuzzy
 msgid "STSTR_NC2ON"
-msgstr "Lebdoprozirni mod 2 UKLJ"
+msgstr "Lebdoprozirni mod 2 ҠАБЫҘ"
 
+#, fuzzy
 msgid "STSTR_NC2OFF"
-msgstr "Lebdoprozirni mod 2 ISKLJ"
+msgstr "Lebdoprozirni mod 2 ҺҮНДЕР"
 
 # “inVuln”: Invulnerability sphere
 # “Str”: Berserk

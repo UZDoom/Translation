@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-19 05:02+0000\n"
+"PO-Revision-Date: 2026-02-20 23:11+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/uk/>\n"
@@ -294,10 +294,10 @@ msgid "STSTR_DQDOFF"
 msgstr "Безсмертя ВИМК"
 
 msgid "STSTR_DQD2ON"
-msgstr "Повне безсмертя ввімкнено"
+msgstr "Повне безсмертя ВВІМК"
 
 msgid "STSTR_DQD2OFF"
-msgstr "Повне безсмертя вимкнено"
+msgstr "Повне безсмертя ВИМК"
 
 msgid "STSTR_KFAADDED"
 msgstr "Спорядження поповнено"
@@ -306,16 +306,16 @@ msgid "STSTR_FAADDED"
 msgstr "Спорядження поповнено (без ключів)"
 
 msgid "STSTR_NCON"
-msgstr "Прохід крізь стіни ВВІМКНЕНО"
+msgstr "Прохід крізь стіни ВВІМК"
 
 msgid "STSTR_NCOFF"
 msgstr "Прохід крізь стіни ВИМКНЕНО"
 
 msgid "STSTR_NC2ON"
-msgstr "Проліт крізь стіни ВВІМКНЕНО"
+msgstr "Проліт крізь стіни ВВІМК"
 
 msgid "STSTR_NC2OFF"
-msgstr "Проліт крізь стіни ВИМКНЕНО"
+msgstr "Проліт крізь стіни ВИМК"
 
 # “inVuln”: Invulnerability sphere
 # “Str”: Berserk

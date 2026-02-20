@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-19 05:02+0000\n"
+"PO-Revision-Date: 2026-02-20 23:11+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fi/>\n"
@@ -295,7 +295,7 @@ msgid "STSTR_DQD2ON"
 msgstr "Varma kuolemattomuustila PÄÄLLÄ"
 
 msgid "STSTR_DQD2OFF"
-msgstr "Varma kuolemattomuustila POIS PÄÄLTÄ"
+msgstr "Varma kuolemattomuustila POIS"
 
 msgid "STSTR_KFAADDED"
 msgstr "Täysaseistus"
@@ -313,7 +313,7 @@ msgid "STSTR_NC2ON"
 msgstr "Seinänläpikulkutila 2 PÄÄLLÄ"
 
 msgid "STSTR_NC2OFF"
-msgstr "Seinänläpikulkutila 2 POIS PÄÄLTÄ"
+msgstr "Seinänläpikulkutila 2 POIS"
 
 # “inVuln”: Invulnerability sphere
 # “Str”: Berserk

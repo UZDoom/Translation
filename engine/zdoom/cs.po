@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 23:10+0000\n"
+"PO-Revision-Date: 2026-02-20 23:11+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/cs/>\n"
@@ -285,7 +285,7 @@ msgid "STSTR_NOMUS"
 msgstr "Nemožný výběr"
 
 msgid "STSTR_DQDON"
-msgstr "Nesmrtelnost ZAP"
+msgstr "Nesmrtelnost: ZAP"
 
 msgid "STSTR_DQDOFF"
 msgstr "Nesmrtelnost VYP"

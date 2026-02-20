@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 23:11+0000\n"
+"PO-Revision-Date: 2026-02-20 23:14+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English (United Kingdom) <https://hosted.weblate.org/projects/"
 "uzdoom/common/en_GB/>\n"
@@ -821,7 +821,7 @@ msgid "SNDMNU_MODREPLAYER"
 msgstr "Module replayer options"
 
 msgid "SNDMNU_MIDIPLAYER"
-msgstr "Midi player options"
+msgstr "MIDI player options"
 
 msgid "SNDMNU_MENUSOUND"
 msgstr "Sound in Menus"
