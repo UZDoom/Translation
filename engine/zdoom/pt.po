@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 05:22+0000\n"
+"PO-Revision-Date: 2026-02-22 03:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/pt/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.16\n"
+"X-Generator: Weblate 5.16.1-dev\n"
 "X-HeaderCode: ptg\n"
 
 msgid "PRESSKEY"
@@ -363,7 +363,7 @@ msgid "TXT_CHEATIDDQD"
 msgstr "A fazer batota, é? Morre!"
 
 msgid "TXT_CHEATIDKFA"
-msgstr "Batoteir@[ao_ptb] - Não mereces armamento"
+msgstr "Batoteir@[ao_ptb]—Não mereces armamento"
 
 msgid "TXT_CHEATTICKERON"
 msgstr ""
@@ -386,9 +386,8 @@ msgstr ""
 msgid "TXT_FREEZEOFF"
 msgstr ""
 
-#, fuzzy
 msgid "TXT_STRANGE"
-msgstr "Tu sentes-te estranh@[ao_ptb]."
+msgstr "Tu sentes-te estranh@[ao_ptb]…"
 
 msgid "TXT_STRANGER"
 msgstr "Tu sentes-te ainda mais estranh@[ao_ptb]."
