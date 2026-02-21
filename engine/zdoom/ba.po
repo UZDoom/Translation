@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-20 23:10+0000\n"
+"PO-Revision-Date: 2026-02-22 03:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Bashkir <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ba/>\n"
@@ -381,7 +381,7 @@ msgid "TXT_CHEATIDDQD"
 msgstr "Pokušavaš varati, ha? Evo ti smrt na!"
 
 msgid "TXT_CHEATIDKFA"
-msgstr "Varalico! Ajd sad bez oružja se dirkaj!"
+msgstr "Varalico! Ajd sad bez oružja se dirkaj"
 
 msgid "TXT_CHEATTICKERON"
 msgstr "Brojač UKLJ."
@@ -391,7 +391,7 @@ msgid "TXT_CHEATTICKEROFF"
 msgstr "Brojač ISKLJ."
 
 msgid "TXT_CHEATARTIFACTS3"
-msgstr "Možeš ti to!"
+msgstr "Možeš ti to"
 
 msgid "TXT_MIDASTOUCH"
 msgstr "Imaš Midasov dodir, zlato"
@@ -406,9 +406,8 @@ msgstr "Zamrznuti mod UKLJ."
 msgid "TXT_FREEZEOFF"
 msgstr "Zamrznuti mod ISKLJ."
 
-#, fuzzy
 msgid "TXT_STRANGE"
-msgstr "Osječaš se čudno..."
+msgstr "Osječaš se čudno…"
 
 msgid "TXT_STRANGER"
 msgstr "Osječaš se još čudnije..."
@@ -494,7 +493,7 @@ msgid "AMSTR_MARKEDSPOT"
 msgstr "Označena točka"
 
 msgid "AMSTR_MARKSCLEARED"
-msgstr "Sve oznake su očišćene."
+msgstr "Sve oznake su očišćene"
 
 msgid "TXT_FRAGLIMIT"
 msgstr ""
