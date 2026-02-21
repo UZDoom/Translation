@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 23:10+0000\n"
+"PO-Revision-Date: 2026-02-22 03:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/nb_NO/>\n"
@@ -371,7 +371,7 @@ msgid "TXT_CHEATIDDQD"
 msgstr "Prøver du å jukse? Nå dør du!"
 
 msgid "TXT_CHEATIDKFA"
-msgstr "Juksemaker - du fortjener ikke våpen"
+msgstr "Juksemaker—du fortjener ikke våpen"
 
 msgid "TXT_CHEATTICKERON"
 msgstr "Ticker PÅ"
@@ -396,9 +396,8 @@ msgstr "Frysemodus PÅ"
 msgid "TXT_FREEZEOFF"
 msgstr "Frysemodus AV"
 
-#, fuzzy
 msgid "TXT_STRANGE"
-msgstr "Du føler deg rar..."
+msgstr "Du føler deg rar…"
 
 msgid "TXT_STRANGER"
 msgstr "Du føler deg enda merkeligere."
@@ -496,7 +495,7 @@ msgid "SPREEKILLSELF"
 msgstr "%o så bra ut helt til %g tok livet av seg!"
 
 msgid "SPREEOVER"
-msgstr "%o's drapsturné ble avsluttet av %k."
+msgstr "%o's drapsturné ble avsluttet av %k"
 
 msgid "SPREE5"
 msgstr "%k er på drapsturné!"
