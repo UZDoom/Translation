@@ -5417,3 +5417,6 @@ msgstr "Player Class"
 
 msgid "OPTVAL_SBSLETTERBOX"
 msgstr "Side-by-side Letterboxed"
+
+msgid "CMPTMNU_NOCOUNTLOST"
+msgstr "Don't count Lost Souls towards monster count"
