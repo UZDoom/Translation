@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 03:09+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-22 03:10+0000\n"
+"Last-Translator: Marazm Mamazm <brutdewelopment@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/pl/>\n"
 "Language: pl\n"
@@ -5289,3 +5289,90 @@ msgstr "Automatyczne wykrycie ustawień zgodności"
 
 msgid "PICKER_PLAYERCLASS"
 msgstr "Klasa gracza"
+
+msgid "ACTION_KICK"
+msgstr "Wyrzuć"
+
+msgid "ACTION_BAN"
+msgstr "Zbanuj"
+
+msgid "ACTION_ABORT"
+msgstr "Odrzuć"
+
+msgid "ACCMNU_LIGHT_RADIUS"
+msgstr "Zasięg Światła Gracza"
+
+msgid "DSPLYMNU_ROCKETEXPSTYLE"
+msgstr "Styl Eksplozji"
+
+msgid "OPTVAL_ROCKETEXP_STYLE_ADD"
+msgstr "Addytywny"
+
+msgid "OPTVAL_LAX"
+msgstr "Łagodny"
+
+msgid "OPTVAL_STRICT"
+msgstr "Rygorystyczny"
+
+msgid "PICKER_FILELOADING"
+msgstr "Ładowanie Pliku"
+
+msgid "DSPLYMNU_IMAGEADJUST"
+msgstr "Kalibracja Obrazu"
+
+msgid "DSPLYMNU_IMAGEADJUST_TOP2"
+msgstr "Skalowanie/Supersampling może spowodować niepoprawny wynik."
+
+msgid "DSPLYMNU_IMAGEADJUST_TOP3"
+msgstr "Wyłącz je przed regulacją."
+
+msgid "DSPLYMNU_TOOLTIP_GAMMA"
+msgstr ""
+"Kompensuje ograniczenia twojego monitora. Reguluj, aż pionowe szare bloki "
+"znikną. Używaj tego wyłącznie w celu skalibrowania obrazu dla twojego "
+"sprzętu, nie do rozjaśniania gry."
+
+msgid "DSPLYMNU_BLACKPOINT"
+msgstr "Kompensacja czerni"
+
+msgid "DSPLYMNU_WHITEPOINT"
+msgstr "Kompensacja bieli"
+
+msgid "DSPLYMNU_IMAGEADJUST_BOTTOM"
+msgstr "Dopasuj, aż obszar będzie jednolicie szary."
+
+msgid "DSPLYMNU_TOOLTIP_BLACKPOINT"
+msgstr ""
+"Kompensuje monitory, które nieprawidłowo wyświetlają ciemne piksele. "
+"Reguluj, aż diagonalne białe bloki znikną. Używaj tego wyłącznie w celu "
+"skalibrowania obrazu dla Twojego sprzętu, nie do rozjaśniania gry."
+
+msgid "DSPLYMNU_TOOLTIP_WHITEPOINT"
+msgstr ""
+"Kompensuje monitory, które nieprawidłowo wyświetlają jasne piksele. Reguluj, "
+"aż diagonalne czarne bloki znikną. Używaj tego wyłącznie w celu "
+"skalibrowania obrazu dla Twojego sprzętu, nie do rozjaśniania gry."
+
+msgid "OPTMNU_RESETALL"
+msgstr "Resetuj Wszystko"
+
+msgid "DSPLYMNU_TOOLTIP_IMAGEADJUST_RESET"
+msgstr "Przywraca wszystkie opcje w tym menu do ustawień domyślnych."
+
+msgid "DSPLYMNU_TOOLTIP_BRIGHTNESS"
+msgstr ""
+"Stosuje liniową regulację jasności. Dostosuj według własnych upodobań lub, "
+"aby lepiej widzieć w ciemności."
+
+msgid "DSPLYMNU_TOOLTIP_CONTRAST"
+msgstr ""
+"Reguluje postrzeganą różnicę między podobnymi kolorami. Kontroluje, jak "
+"ostre/wyblakłe wydają się obrazy. Dostosuj według własnych upodobań."
+
+msgid "DSPLYMNU_TOOLTIP_SATURATION"
+msgstr ""
+"Reguluje intensywność kolorów, sprawiając, że obraz wygląda bardziej żywo "
+"lub stonowanie. Dostosuj według własnych upodobań."
+
+msgid "ERRORMNU_SAVE"
+msgstr "Zapisz Raport"
