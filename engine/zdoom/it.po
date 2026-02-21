@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-20 23:10+0000\n"
+"PO-Revision-Date: 2026-02-22 03:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/it/>\n"
@@ -370,7 +370,7 @@ msgid "TXT_CHEATIDDQD"
 msgstr "Cerchi di barare, eh? Allora muori!"
 
 msgid "TXT_CHEATIDKFA"
-msgstr "Imbroglione - non meriti armi"
+msgstr "Imbroglione—non meriti armi"
 
 msgid "TXT_CHEATTICKERON"
 msgstr "Ticker attivato"
@@ -395,9 +395,8 @@ msgstr "Modalità arresto del tempo attivata"
 msgid "TXT_FREEZEOFF"
 msgstr "Modalità arresto del tempo disattivata"
 
-#, fuzzy
 msgid "TXT_STRANGE"
-msgstr "Ti senti strano..."
+msgstr "Ti senti strano…"
 
 msgid "TXT_STRANGER"
 msgstr "Ti senti ancora più strano."
