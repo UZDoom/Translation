@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-20 23:10+0000\n"
+"PO-Revision-Date: 2026-02-22 03:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/sr/>\n"
@@ -374,7 +374,7 @@ msgid "TXT_CHEATIDDQD"
 msgstr "Покушаваш да вараш, ех? Сада умиреш!"
 
 msgid "TXT_CHEATIDKFA"
-msgstr "Варалице - ти не заслужујеш оружје"
+msgstr "Варалице—ти не заслужујеш оружје"
 
 msgid "TXT_CHEATTICKERON"
 msgstr "Бројач укључен"
@@ -399,9 +399,8 @@ msgstr "Мод замрзавања УКЉУЧЕН"
 msgid "TXT_FREEZEOFF"
 msgstr "Мод замрзавања ИСКЉУЧЕН"
 
-#, fuzzy
 msgid "TXT_STRANGE"
-msgstr "Осећате се чудно..."
+msgstr "Осећате се чудно…"
 
 msgid "TXT_STRANGER"
 msgstr "Осећате се врло чудно."
@@ -582,7 +581,7 @@ msgid "WI_FINISHED"
 msgstr "Ниво завршен"
 
 msgid "WI_ENTERING"
-msgstr "Сада улазимо у:"
+msgstr "Сада улазимо у"
 
 msgctxt "heretic hexen"
 msgid "WI_ENTERING"
