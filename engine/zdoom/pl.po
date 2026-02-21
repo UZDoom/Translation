@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-20 23:09+0000\n"
+"PO-Revision-Date: 2026-02-22 03:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/pl/>\n"
@@ -373,7 +373,7 @@ msgid "TXT_CHEATIDDQD"
 msgstr "Próbujesz oszukiwać, co? Teraz giń!"
 
 msgid "TXT_CHEATIDKFA"
-msgstr "Oszust - nie zasługujesz na broń"
+msgstr "Oszust—nie zasługujesz na broń"
 
 msgid "TXT_CHEATTICKERON"
 msgstr "Wskaźnik włączony"
@@ -398,9 +398,8 @@ msgstr "Tryb zamrożenia włączony"
 msgid "TXT_FREEZEOFF"
 msgstr "Tryb zamrożenia wyłączony"
 
-#, fuzzy
 msgid "TXT_STRANGE"
-msgstr "Dziwnie się czujesz..."
+msgstr "Dziwnie się czujesz…"
 
 msgid "TXT_STRANGER"
 msgstr "Czujesz się jeszcze dziwniej."
@@ -573,6 +572,7 @@ msgstr "Sekrety"
 msgid "TXT_IMTIME"
 msgstr "Czas"
 
+#, fuzzy
 msgid "TXT_IMPAR"
 msgstr "Par"
 
@@ -580,7 +580,7 @@ msgid "WI_FINISHED"
 msgstr "Ukończono"
 
 msgid "WI_ENTERING"
-msgstr "Wchodzisz do:"
+msgstr "Wchodzisz do"
 
 msgctxt "heretic hexen"
 msgid "WI_ENTERING"
