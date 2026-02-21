@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 23:10+0000\n"
+"PO-Revision-Date: 2026-02-22 03:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ro/>\n"
@@ -372,7 +372,7 @@ msgid "TXT_CHEATIDDQD"
 msgstr "Încerci să trișezi, ei? Acum mori!"
 
 msgid "TXT_CHEATIDKFA"
-msgstr "Trișor - Nu meriți arme"
+msgstr "Trișor—Nu meriți arme"
 
 msgid "TXT_CHEATTICKERON"
 msgstr "Ticăitoare activată"
@@ -397,9 +397,8 @@ msgstr "Modul înghețat pornit"
 msgid "TXT_FREEZEOFF"
 msgstr "Modul înghețat oprit"
 
-#, fuzzy
 msgid "TXT_STRANGE"
-msgstr "Te simți ciudat..."
+msgstr "Te simți ciudat…"
 
 msgid "TXT_STRANGER"
 msgstr "Te simți și mai ciudat."
