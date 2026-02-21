@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-20 23:10+0000\n"
+"PO-Revision-Date: 2026-02-22 03:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/sv/>\n"
@@ -371,7 +371,7 @@ msgid "TXT_CHEATIDDQD"
 msgstr "Försöker du fuska? Nu dör du!"
 
 msgid "TXT_CHEATIDKFA"
-msgstr "Fuskare - du förtjänar inte vapen."
+msgstr "Fuskare—du förtjänar inte vapen"
 
 msgid "TXT_CHEATTICKERON"
 msgstr "Ticker på"
@@ -396,9 +396,8 @@ msgstr "Frysningsläge på"
 msgid "TXT_FREEZEOFF"
 msgstr "Frysningsläge av"
 
-#, fuzzy
 msgid "TXT_STRANGE"
-msgstr "Du känner dig konstig..."
+msgstr "Du känner dig konstig…"
 
 msgid "TXT_STRANGER"
 msgstr "Du känner dig ännu konstigare."
@@ -414,7 +413,7 @@ msgid "TXT_LEADBOOTSOFF"
 msgstr "Blykängor av"
 
 msgid "TXT_LIGHTER"
-msgstr "Du känner dig lättare."
+msgstr "Du känner dig lättare"
 
 msgid "TXT_GRAVITY"
 msgstr "Tyngdkraften tynger ner dig"
@@ -498,7 +497,7 @@ msgid "SPREEKILLSELF"
 msgstr "%o såg bra ut tills han tog livet av sig!"
 
 msgid "SPREEOVER"
-msgstr "%os dödskampanj avslutades av %k."
+msgstr "%os dödskampanj avslutades av %k"
 
 msgid "SPREE5"
 msgstr "%k är på en mordresa!"
@@ -584,7 +583,7 @@ msgstr "Ingång till"
 
 msgctxt "heretic hexen"
 msgid "WI_ENTERING"
-msgstr "Ingång till"
+msgstr "Ingång till:"
 
 msgid "AM_MONSTERS"
 msgstr "Monster:"
