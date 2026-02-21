@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 23:10+0000\n"
+"PO-Revision-Date: 2026-02-22 03:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ko/>\n"
@@ -372,7 +372,7 @@ msgid "TXT_CHEATIDDQD"
 msgstr "치트 쓸려고? 그럼 죽어야지!"
 
 msgid "TXT_CHEATIDKFA"
-msgstr "사기꾼놈! 너는 무기를 가질 자격이 없어!"
+msgstr "사기꾼놈! 너는 무기를 가질 자격이 없어"
 
 msgid "TXT_CHEATTICKERON"
 msgstr "프레임 속도 표시 켬"
@@ -385,7 +385,7 @@ msgid "TXT_CHEATARTIFACTS3"
 msgstr "얻었다"
 
 msgid "TXT_MIDASTOUCH"
-msgstr "넌 미다스의 손을 얻었어 베이베!"
+msgstr "넌 미다스의 손을 얻었어 베이베"
 
 msgid "TXT_GOTSTUFF"
 msgstr "무언가를 얻었다!"
@@ -397,9 +397,8 @@ msgstr "시간정지 켬"
 msgid "TXT_FREEZEOFF"
 msgstr "시간정지 끔"
 
-#, fuzzy
 msgid "TXT_STRANGE"
-msgstr "뭔가 이상한 기분이..."
+msgstr "뭔가 이상한 기분이…"
 
 msgid "TXT_STRANGER"
 msgstr "기분이 더더욱 이상해졌다."
@@ -427,7 +426,7 @@ msgid "TXT_NOTARGET_OFF"
 msgstr "적 표적 감지 끔"
 
 msgid "TXT_ANUBIS_ON"
-msgstr "공포에 떨어라!"
+msgstr "“공포에 떨어라!”"
 
 msgid "TXT_ANUBIS_OFF"
 msgstr "오거 갑옷은 이제 없다."
@@ -439,16 +438,16 @@ msgid "TXT_CHASECAM_OFF"
 msgstr "3인칭 카메라 끔"
 
 msgid "TXT_BADDIE_KILLED"
-msgstr "1 명의 나쁜놈이 사살됨."
+msgstr "1 명의 나쁜놈이 사살됨"
 
 msgid "TXT_BADDIES_KILLED"
 msgstr "%d 명의 나쁜놈들이 사살됨."
 
 msgid "TXT_MONSTER_KILLED"
-msgstr "1 마리의 몬스터가 사살됨."
+msgstr "1 마리의 몬스터가 사살됨"
 
 msgid "TXT_MONSTERS_KILLED"
-msgstr "%d 마리의 몬스터들이 사살됨."
+msgstr "%d 마리의 몬스터들이 사살됨"
 
 msgid "TXT_NO_RESURRECT"
 msgstr "부활할 수 없습니다. 플레이어는 더 이상 육체와 연결돼있지 않습니다."
