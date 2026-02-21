@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-20 23:10+0000\n"
+"PO-Revision-Date: 2026-02-22 03:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/nl/>\n"
@@ -370,7 +370,7 @@ msgid "TXT_CHEATIDDQD"
 msgstr "Je wou valsspelen, hè? Nu ga je dood!"
 
 msgid "TXT_CHEATIDKFA"
-msgstr "Valsspeler - je verdient geen wapens"
+msgstr "Valsspeler—je verdient geen wapens"
 
 msgid "TXT_CHEATTICKERON"
 msgstr "Ticker aan"
@@ -395,9 +395,8 @@ msgstr "Bevriesmodus aan"
 msgid "TXT_FREEZEOFF"
 msgstr "Bevriesmodus uit"
 
-#, fuzzy
 msgid "TXT_STRANGE"
-msgstr "Je voelt je vreemd..."
+msgstr "Je voelt je vreemd…"
 
 msgid "TXT_STRANGER"
 msgstr "Je voelt je nog vreemder."
@@ -519,6 +518,7 @@ msgstr "Dubbele kill!"
 msgid "MULTI3"
 msgstr "Meervoudige kill!"
 
+#, fuzzy
 msgid "MULTI4"
 msgstr "Ultra kill!"
 
@@ -571,6 +571,7 @@ msgstr "Geheimen"
 msgid "TXT_IMTIME"
 msgstr "Tijd"
 
+#, fuzzy
 msgid "TXT_IMPAR"
 msgstr "Par"
 
