@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 23:09+0000\n"
+"PO-Revision-Date: 2026-02-22 03:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hu/>\n"
@@ -372,7 +372,7 @@ msgid "TXT_CHEATIDDQD"
 msgstr "Csalni akarsz, mi? Most meghalsz!"
 
 msgid "TXT_CHEATIDKFA"
-msgstr "Csaló - nem érdemelsz fegyvert!"
+msgstr "Csaló—nem érdemelsz fegyvert"
 
 msgid "TXT_CHEATTICKERON"
 msgstr "Számláló BE"
@@ -397,9 +397,8 @@ msgstr "Fagyasztás BE"
 msgid "TXT_FREEZEOFF"
 msgstr "Fagyasztás KI"
 
-#, fuzzy
 msgid "TXT_STRANGE"
-msgstr "Furán érzed magad..."
+msgstr "Furán érzed magad…"
 
 msgid "TXT_STRANGER"
 msgstr "Még furábban érzed magad."
@@ -497,7 +496,7 @@ msgid "SPREEKILLSELF"
 msgstr "%o jól nézett ki még mielőtt megölte magát!"
 
 msgid "SPREEOVER"
-msgstr "%o ámokfutását %k megállította."
+msgstr "%o ámokfutását %k megállította"
 
 msgid "SPREE5"
 msgstr "%o egy Ámokfutó!"
