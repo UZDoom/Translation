@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 13:09+0000\n"
-"Last-Translator: Andi Chandler <andi@gowling.com>\n"
+"PO-Revision-Date: 2026-02-21 00:26+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English (United Kingdom) <https://hosted.weblate.org/projects/"
 "doom-engine-games/hacx-filter/en_GB/>\n"
 "Language: en_GB\n"
@@ -523,57 +523,67 @@ msgstr ""
 # For most languages the original Doom text should suffice.
 msgid "QSPROMPT"
 msgstr ""
+"Quicksave over your data named\n"
+"\n"
+"'%s'?\n"
+"\n"
+"Press Y or N."
 
 msgid "QLPROMPT"
 msgstr ""
+"Do you want to quickload the data named\n"
+"\n"
+"'%s'?\n"
+"\n"
+"Press Y or N."
 
 msgid "CC_THUG"
-msgstr ""
+msgstr "Thug"
 
 msgid "CC_ANDROID"
-msgstr ""
+msgstr "Android"
 
 msgid "CC_ICE"
-msgstr ""
+msgstr "ICE"
 
 msgid "CC_BUZZER"
-msgstr ""
+msgstr "Buzzer"
 
 msgid "CC_DMAN"
-msgstr ""
+msgstr "D-Man"
 
 msgid "CC_PHAGE"
-msgstr ""
+msgstr "Phage"
 
 msgid "CC_MONSTRUCT"
-msgstr ""
+msgstr "Monstruct"
 
 msgid "CC_MECH"
-msgstr ""
+msgstr "Mecha Maniac"
 
 msgid "CC_TERMI"
-msgstr ""
+msgstr "Terminatrix"
 
 msgid "CC_THORN"
-msgstr ""
+msgstr "Thorn Thing"
 
 msgid "CC_MAJONG"
-msgstr ""
+msgstr "Majong 7"
 
 msgid "CC_HERO"
-msgstr ""
+msgstr "Dan Evanger"
 
 msgid "SKILL_BABY"
-msgstr ""
+msgstr "Please don't shoot!"
 
 msgid "SKILL_EASY"
-msgstr ""
+msgstr "Aargh, I need health!"
 
 msgid "SKILL_NORMAL"
-msgstr ""
+msgstr "Let's rip them apart!"
 
 msgid "SKILL_HARD"
-msgstr ""
+msgstr "I am immortal!"
 
 msgid "SKILL_NIGHTMARE"
-msgstr ""
+msgstr "Insanity!"
