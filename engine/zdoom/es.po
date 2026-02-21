@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 23:09+0000\n"
+"PO-Revision-Date: 2026-02-22 03:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/es/>\n"
@@ -395,12 +395,11 @@ msgstr "Modo suspendido activado"
 msgid "TXT_FREEZEOFF"
 msgstr "Modo suspendido desactivado"
 
-#, fuzzy
 msgid "TXT_STRANGE"
-msgstr "Te sientes extrañ@[ao_esp]..."
+msgstr "Te sientes extrañ@[ao_esp]…"
 
 msgid "TXT_STRANGER"
-msgstr "Te sientes aún más extrañ@[ao_esp]"
+msgstr "Te sientes aún más extrañ@[ao_esp]."
 
 msgid "TXT_NOTSTRANGE"
 msgstr "Te sientes como tú mism@[ao_esp] otra vez."
@@ -519,7 +518,7 @@ msgid "MULTI3"
 msgstr "¡Multidestrucción!"
 
 msgid "MULTI4"
-msgstr "¡¡HIPERDESTRUCCIÓN!!"
+msgstr "¡¡Hiper Destrucción!!"
 
 msgid "MULTI5"
 msgstr "¡¡¡S.U.P.E.R.D.E.S.T.R.U.C.C.I.Ó.N!!!"
@@ -569,6 +568,7 @@ msgstr "Secretos"
 msgid "TXT_IMTIME"
 msgstr "Tiempo"
 
+#, fuzzy
 msgid "TXT_IMPAR"
 msgstr "Par"
 
@@ -576,7 +576,7 @@ msgid "WI_FINISHED"
 msgstr "Completado"
 
 msgid "WI_ENTERING"
-msgstr "Entrando a:"
+msgstr "Entrando a"
 
 msgctxt "heretic hexen"
 msgid "WI_ENTERING"
