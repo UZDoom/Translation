@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 23:10+0000\n"
+"PO-Revision-Date: 2026-02-22 03:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/tr/>\n"
@@ -370,7 +370,7 @@ msgid "TXT_CHEATIDDQD"
 msgstr "Hile yapmaya çalışıyorsun, ha? Şimdi öleceksin!"
 
 msgid "TXT_CHEATIDKFA"
-msgstr "Hileci, silahları hak etmiyorsun."
+msgstr "Hileci, silahları hak etmiyorsun"
 
 msgid "TXT_CHEATTICKERON"
 msgstr "Ticker açık"
@@ -380,7 +380,7 @@ msgid "TXT_CHEATTICKEROFF"
 msgstr "Ticker kapalı"
 
 msgid "TXT_CHEATARTIFACTS3"
-msgstr "Tamamdır."
+msgstr "Tamamdır"
 
 msgid "TXT_MIDASTOUCH"
 msgstr "Sende Midas Dokunuşu var, bebeğim"
@@ -494,7 +494,7 @@ msgid "SPREEKILLSELF"
 msgstr "%o kendini öldürene kadar iyi görünüyordu!"
 
 msgid "SPREEOVER"
-msgstr "%o onu öldürene kadar %k iyi görünüyordu."
+msgstr "%o onu öldürene kadar %k iyi görünüyordu"
 
 msgid "SPREE5"
 msgstr "%k bir ölüm çılgınlığında!"
