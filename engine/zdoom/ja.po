@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 23:10+0000\n"
+"PO-Revision-Date: 2026-02-22 03:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ja/>\n"
@@ -426,7 +426,7 @@ msgid "TXT_NOTARGET_OFF"
 msgstr "ノーターゲット オフ"
 
 msgid "TXT_ANUBIS_ON"
-msgstr "恐れおののけ!"
+msgstr "「恐れおののけ!」"
 
 msgid "TXT_ANUBIS_OFF"
 msgstr "オーガアーマーはもう嫌"
@@ -496,7 +496,7 @@ msgid "SPREEKILLSELF"
 msgstr "%o は自滅するまでなかなか良かったぞ!"
 
 msgid "SPREEOVER"
-msgstr "%k が %o の快進撃を断ち切った!"
+msgstr "%k が %o の快進撃を断ち切った"
 
 msgid "SPREE5"
 msgstr "%k が連続キル!"
