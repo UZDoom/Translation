@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-20 23:11+0000\n"
+"PO-Revision-Date: 2026-02-22 03:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/cs/>\n"
@@ -370,7 +370,7 @@ msgid "TXT_CHEATIDDQD"
 msgstr "Pokoušíš se cheatovat, co? Teď zemřeš!"
 
 msgid "TXT_CHEATIDKFA"
-msgstr "Podvodníku - nezasloužíš si zbraně"
+msgstr "Podvodníku—nezasloužíš si zbraně"
 
 msgid "TXT_CHEATTICKERON"
 msgstr "Počítadlo ZAP"
@@ -395,9 +395,8 @@ msgstr "Režim zamrznutí ZAP"
 msgid "TXT_FREEZEOFF"
 msgstr "Režim zamrznutí VYP"
 
-#, fuzzy
 msgid "TXT_STRANGE"
-msgstr "Cítíš se divně..."
+msgstr "Cítíš se divně…"
 
 msgid "TXT_STRANGER"
 msgstr "Cítíš se ještě divněji..."
@@ -495,7 +494,7 @@ msgid "SPREEKILLSELF"
 msgstr "%o vypadal@[ao_cs] dobře dokud se @[self_cs] nezabil@[ao_cs]!"
 
 msgid "SPREEOVER"
-msgstr "%o@[psn1_cs] vraždící řádění ukončil hráč %k."
+msgstr "%o@[psn1_cs] vraždící řádění ukončil hráč %k"
 
 msgid "SPREE5"
 msgstr "%k začal@[ao_cs] řádit!"
@@ -531,7 +530,7 @@ msgid "SCORE_COLOR"
 msgstr "Barva"
 
 msgid "SCORE_SECRET"
-msgstr "Skrýše"
+msgstr "Skrýš"
 
 msgid "SCORE_NAME"
 msgstr "Jméno"
@@ -3528,7 +3527,7 @@ msgid "MAPCOLORMNU_INTERLEVELCOLOR"
 msgstr "Teleportér do jiného levelu"
 
 msgid "MAPCOLORMNU_SECRETSECTORCOLOR"
-msgstr "Skrýš"
+msgstr "Tajný sektor"
 
 msgid "MAPCOLORMNU_UNEXPLOREDSECRETCOLOR"
 msgstr "Neobjevená skrýš"
