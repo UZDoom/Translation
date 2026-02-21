@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-20 23:11+0000\n"
+"PO-Revision-Date: 2026-02-22 03:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/el/>\n"
@@ -383,7 +383,7 @@ msgid "TXT_CHEATARTIFACTS3"
 msgstr "Το πήρες"
 
 msgid "TXT_MIDASTOUCH"
-msgstr "Έχεις το αγγιγμα το Μίδα, μωρό."
+msgstr "Έχεις το αγγιγμα το Μίδα, μωρό"
 
 msgid "TXT_GOTSTUFF"
 msgstr "Πήρες τηατ πράγματα !"
@@ -395,9 +395,8 @@ msgstr "Παγομένη λειτουργία ΕΝΕΡΓΟΠΟΙΗΜΈΝΗ"
 msgid "TXT_FREEZEOFF"
 msgstr "Παγομένη λειτουργία ΆΠΕΝΕΡΓΟΠΟΙΗΜΈΝΗ"
 
-#, fuzzy
 msgid "TXT_STRANGE"
-msgstr "Νιώθης περίεργα..."
+msgstr "Νιώθης περίεργα…"
 
 msgid "TXT_STRANGER"
 msgstr "Νιώθης ακόμα πιό περίεργα..."
@@ -416,7 +415,7 @@ msgid "TXT_LIGHTER"
 msgstr "Νιώθης πιο ελαφρής"
 
 msgid "TXT_GRAVITY"
-msgstr "Η βαρύτητα σε πιάνει."
+msgstr "Η βαρύτητα σε πιάνει"
 
 msgid "TXT_NOTARGET_ON"
 msgstr "Αστόχευτη λειτουργία ΕΝΕΡΓΟΠΟΙΗΜΈΝΗ"
@@ -449,7 +448,7 @@ msgid "TXT_MONSTERS_KILLED"
 msgstr "%d τον τεράτων πέθαναν"
 
 msgid "TXT_NO_RESURRECT"
-msgstr "Ανάσταση αδύνατη, ο παίχτης δεν είναι πια στο σώμα @[pro4_gr]"
+msgstr "Ανάσταση αδύνατη, ο παίχτης δεν είναι πια στο σώμα @[pro4_gr]."
 
 msgid "TXT_ALL_ARTIFACTS"
 msgstr "Όλα τα τεχνουργίματα!"
@@ -495,7 +494,7 @@ msgid "SPREEKILLSELF"
 msgstr "@[art_gr] %o πήγενε μια χαρά μέχρι που αυτοκτόνησε!"
 
 msgid "SPREEOVER"
-msgstr "Ο/Η %k σταμάτησε την ανθρωποκτονία %h %o."
+msgstr "Ο/Η %k σταμάτησε την ανθρωποκτονία %h %o"
 
 msgid "SPREE5"
 msgstr "Ο/Η %k άρχισε μια ανθρωποκτονία!"
