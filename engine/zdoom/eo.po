@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-20 23:11+0000\n"
+"PO-Revision-Date: 2026-02-22 03:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/eo/>\n"
@@ -370,7 +370,7 @@ msgid "TXT_CHEATIDDQD"
 msgstr "Provas trompi, ĉu vi? Nun vi mortas!"
 
 msgid "TXT_CHEATIDKFA"
-msgstr "Trompanto - vi ne meritas armilojn"
+msgstr "Trompanto—vi ne meritas armilojn"
 
 msgid "TXT_CHEATTICKERON"
 msgstr "Nombrilo ŝaltita"
@@ -395,9 +395,8 @@ msgstr "Movhalta reĝimo ŝaltita"
 msgid "TXT_FREEZEOFF"
 msgstr "Movhalta reĝimo malŝaltita"
 
-#, fuzzy
 msgid "TXT_STRANGE"
-msgstr "Vi sentas vin strange..."
+msgstr "Vi sentas vin strange…"
 
 msgid "TXT_STRANGER"
 msgstr "Vi sentas vin eĉ pli strange."
@@ -449,9 +448,7 @@ msgid "TXT_MONSTERS_KILLED"
 msgstr "%d monstroj mortigitaj"
 
 msgid "TXT_NO_RESURRECT"
-msgstr ""
-"Nerevivigebla. La ludanto ne plu\n"
-"estas konektita al sia korpo."
+msgstr "Nerevivigebla. La ludanto ne pluestas konektita al sia korpo."
 
 msgid "TXT_ALL_ARTIFACTS"
 msgstr "Ĉiuj Artefaktoj!"
