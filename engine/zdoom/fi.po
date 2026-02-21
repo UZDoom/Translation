@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-20 23:11+0000\n"
+"PO-Revision-Date: 2026-02-22 03:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fi/>\n"
@@ -373,7 +373,7 @@ msgid "TXT_CHEATIDDQD"
 msgstr "Yrität huijata, vai? Nyt kuolet!"
 
 msgid "TXT_CHEATIDKFA"
-msgstr "Huijari - et ansaitse aseita"
+msgstr "Huijari—et ansaitse aseita"
 
 msgid "TXT_CHEATTICKERON"
 msgstr "Laskuri päällä"
@@ -398,9 +398,8 @@ msgstr "Jäädytystila päällä"
 msgid "TXT_FREEZEOFF"
 msgstr "Jäädytystila pois päältä"
 
-#, fuzzy
 msgid "TXT_STRANGE"
-msgstr "Sinulla on kummallinen olo..."
+msgstr "Sinulla on kummallinen olo…"
 
 msgid "TXT_STRANGER"
 msgstr "Olosi on vieläkin kummempi."
@@ -574,6 +573,7 @@ msgstr "Salat"
 msgid "TXT_IMTIME"
 msgstr "Aika"
 
+#, fuzzy
 msgid "TXT_IMPAR"
 msgstr "Par"
 
