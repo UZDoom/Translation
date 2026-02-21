@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-20 23:11+0000\n"
+"PO-Revision-Date: 2026-02-22 03:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fr/>\n"
@@ -371,7 +371,7 @@ msgid "TXT_CHEATIDDQD"
 msgstr "Tu essaie de tricher, hein ? Et bah tu crève !"
 
 msgid "TXT_CHEATIDKFA"
-msgstr "Tricheur- Tu ne mérite pas ton flingue"
+msgstr "Tricheur—Tu ne mérite pas ton flingue"
 
 msgid "TXT_CHEATTICKERON"
 msgstr "Compteur allumé"
@@ -412,10 +412,10 @@ msgid "TXT_LEADBOOTSOFF"
 msgstr "Bottes en plomb OFF"
 
 msgid "TXT_LIGHTER"
-msgstr "Vous vous sentez très léger."
+msgstr "Vous vous sentez très léger"
 
 msgid "TXT_GRAVITY"
-msgstr "La gravité vous ramène au sol."
+msgstr "La gravité vous ramène au sol"
 
 msgid "TXT_NOTARGET_ON"
 msgstr "Monstres aveugles et sourds ON"
@@ -479,10 +479,10 @@ msgid "AMSTR_TEXOFF"
 msgstr "Mode Texturé OFF"
 
 msgid "AMSTR_MARKEDSPOT"
-msgstr "Repère marqué."
+msgstr "Repère marqué"
 
 msgid "AMSTR_MARKSCLEARED"
-msgstr "Repères éffacés."
+msgstr "Repères éffacés"
 
 msgid "TXT_FRAGLIMIT"
 msgstr "Limite de frags atteinte."
@@ -518,7 +518,7 @@ msgid "MULTI3"
 msgstr "Multi kill!"
 
 msgid "MULTI4"
-msgstr "Ultra kill!"
+msgstr "Ultra kill !"
 
 msgid "MULTI5"
 msgstr "Monster kill!"
