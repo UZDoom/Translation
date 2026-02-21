@@ -2,17 +2,125 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-22 01:00+0000\n"
-"Last-Translator: hawkwind3 <hawkwinds_messages@hotmail.com>\n"
+"PO-Revision-Date: 2026-02-21 00:26+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English (United Kingdom) <https://hosted.weblate.org/projects/"
 "doom-engine-games/hexen/en_GB/>\n"
 "Language: en_GB\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15.1\n"
-"X-HeaderCode: eng enc ena enz eni ens enj enb enl ent enw\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.16.1-dev\n"
+"X-HeaderCode: eng enc ena enz eni ens enj enb enl ent enw\n"
 
 msgid "TXT_HEXEN_CLUS3MSG"
-msgstr "centre"
+msgstr ""
+"The mightiest weapons and artifacts\n"
+"of the ancients barely sufficed to\n"
+"defeat the heresiarch and his\n"
+"minions, but now their foul remains\n"
+"lie strewn at your feet. Gathering\n"
+"the last of your strength, you\n"
+"prepare to enter the portal which\n"
+"leads from the Heresiarch's inner\n"
+"sanctum.\n"
+"\n"
+"Above you, the ramparts of an\n"
+"immense castle loom. Silent towers\n"
+"and bare walls surround a single\n"
+"spire of black stone, which squats\n"
+"in the centre of the castle like a\n"
+"brooding giant. Fire and shadow\n"
+"twist behind gaping windows, dozens\n"
+"of baleful eyes glaring down upon\n"
+"you.\n"
+"Somewhere within, your enemies are\n"
+"waiting..."
+
+msgid "TXT_HEXEN_MAP01"
+msgstr "Winnowing Hall"
+
+msgid "TXT_HEXEN_MAP02"
+msgstr "Seven Portals"
+
+msgid "TXT_HEXEN_MAP03"
+msgstr "Guardian of Ice"
+
+msgid "TXT_HEXEN_MAP04"
+msgstr "Guardian of Fire"
+
+msgid "TXT_HEXEN_MAP05"
+msgstr "Guardian of Steel"
+
+msgid "TXT_HEXEN_MAP06"
+msgstr "Bright Crucible"
+
+msgid "TXT_HEXEN_MAP13"
+msgstr "Shadow Wood"
+
+msgid "TXT_HEXEN_MAP08"
+msgstr "Darkmere"
+
+msgid "TXT_HEXEN_MAP09"
+msgstr "Caves of Circe"
+
+msgid "TXT_HEXEN_MAP10"
+msgstr "Wastelands"
+
+msgid "TXT_HEXEN_MAP11"
+msgstr "Sacred Grove"
+
+msgid "TXT_HEXEN_MAP12"
+msgstr "Hypostyle"
+
+msgid "TXT_HEXEN_MAP27"
+msgstr "Heresiarch's Seminary"
+
+msgid "TXT_HEXEN_MAP28"
+msgstr "Dragon Chapel"
+
+msgid "TXT_HEXEN_MAP30"
+msgstr "Griffin Chapel"
+
+msgid "TXT_HEXEN_MAP31"
+msgstr "Deathwind Chapel"
+
+msgid "TXT_HEXEN_MAP32"
+msgstr "Orchard of Lamentations"
+
+msgid "TXT_HEXEN_MAP33"
+msgstr "Silent Refectory"
+
+msgid "TXT_HEXEN_MAP34"
+msgstr "Wolf Chapel"
+
+msgid "TXT_HEXEN_MAP21"
+msgstr "Forsaken Outpost"
+
+msgid "TXT_HEXEN_MAP22"
+msgstr "Castle of Grief"
+
+msgid "TXT_HEXEN_MAP23"
+msgstr "Gibbet"
+
+msgid "TXT_HEXEN_MAP24"
+msgstr "Effluvium"
+
+msgid "TXT_HEXEN_MAP25"
+msgstr "Dungeons"
+
+msgid "TXT_HEXEN_MAP26"
+msgstr "Desolate Garden"
+
+msgid "TXT_HEXEN_MAP35"
+msgstr "Necropolis"
+
+msgid "TXT_HEXEN_MAP36"
+msgstr "Zedek's Tomb"
+
+msgid "TXT_HEXEN_MAP37"
+msgstr "Menelkir's Tomb"
+
+msgid "TXT_HEXEN_MAP38"
+msgstr "Traductus' Tomb"
