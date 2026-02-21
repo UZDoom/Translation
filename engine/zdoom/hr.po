@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-20 23:11+0000\n"
+"PO-Revision-Date: 2026-02-22 03:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hr/>\n"
@@ -372,7 +372,7 @@ msgid "TXT_CHEATIDDQD"
 msgstr "Pokušavaš varati, ha? Sada, umireš!"
 
 msgid "TXT_CHEATIDKFA"
-msgstr "Varalico! Pička ti matera! Ne zaslužuješ oružja!"
+msgstr "Varalico! Pička ti matera! Ne zaslužuješ oružja"
 
 msgid "TXT_CHEATTICKERON"
 msgstr "Brojač UKLJ."
@@ -397,9 +397,8 @@ msgstr "Način zamrzavanja uključen"
 msgid "TXT_FREEZEOFF"
 msgstr "Način zamrzavanja isključen"
 
-#, fuzzy
 msgid "TXT_STRANGE"
-msgstr "Osjećaš se čudno..."
+msgstr "Osjećaš se čudno…"
 
 msgid "TXT_STRANGER"
 msgstr "Osjećaš se još čudnije."
@@ -579,7 +578,7 @@ msgid "WI_FINISHED"
 msgstr "Završeno"
 
 msgid "WI_ENTERING"
-msgstr "Sada se ulazi u:"
+msgstr "Sada se ulazi u"
 
 msgctxt "heretic hexen"
 msgid "WI_ENTERING"
