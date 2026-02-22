@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 03:10+0000\n"
+"PO-Revision-Date: 2026-02-22 05:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/it/>\n"
@@ -583,13 +583,13 @@ msgid "WI_ENTERING"
 msgstr "Entrando adesso in:"
 
 msgid "AM_MONSTERS"
-msgstr "Mostri"
+msgstr "Mostri:"
 
 msgid "AM_SECRETS"
-msgstr "Segreti"
+msgstr "Segreti:"
 
 msgid "AM_ITEMS"
-msgstr "Oggetti"
+msgstr "Oggetti:"
 
 msgid "OB_SUICIDE"
 msgstr "%o si è suicidato."
@@ -640,7 +640,7 @@ msgid "OB_DEFAULT"
 msgstr "%o è morto."
 
 msgid "OB_MPDEFAULT"
-msgstr "%o è stato ucciso da %k"
+msgstr "%o è stato ucciso da %k."
 
 msgid "OB_FRIENDLY1"
 msgstr "%k falcia via un compagno."
@@ -746,7 +746,7 @@ msgid "GOTBACKPACK"
 msgstr "Raccolto uno zaino zeppo di munizioni!"
 
 msgid "GOTBFG9000"
-msgstr "Hai trovato il BFG9000! Eh, sì!"
+msgstr "Hai trovato il BFG9000! Eh, sì."
 
 msgid "GOTCHAINGUN"
 msgstr "Hai trovato un mitragliatore!"
