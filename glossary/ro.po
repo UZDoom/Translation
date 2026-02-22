@@ -30,6 +30,3 @@ msgstr "OPRITE"
 
 msgid "MIDI"
 msgstr "MIDI"
-
-msgid "Timidity++"
-msgstr "Timidity++"
