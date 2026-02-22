@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-20 23:11+0000\n"
+"PO-Revision-Date: 2026-02-22 21:31+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/uzdoom/common/"
 "sr/>\n"
@@ -1299,23 +1299,18 @@ msgstr "Билинеарно"
 msgid "OPTVAL_TRILINEAR"
 msgstr "Трилинеарно"
 
-#, fuzzy
 msgid "OPTVAL_2X"
-msgstr "2x"
+msgstr "2×"
 
-#, fuzzy
 msgid "OPTVAL_4X"
 msgstr "4 пута"
 
-#, fuzzy
 msgid "OPTVAL_8X"
 msgstr "8 пута"
 
-#, fuzzy
 msgid "OPTVAL_16X"
 msgstr "16 пута"
 
-#, fuzzy
 msgid "OPTVAL_32X"
 msgstr "32 пута"
 
