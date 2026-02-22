@@ -25,6 +25,3 @@ msgstr "ΕΝΕΡΓΗ"
 
 msgid "MIDI"
 msgstr "MIDI"
-
-msgid "Freeverb"
-msgstr ""
