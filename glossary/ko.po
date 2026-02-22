@@ -21,6 +21,3 @@ msgstr "끔"
 
 msgid "MIDI"
 msgstr "MIDI"
-
-msgid "Timidity++"
-msgstr "Timidity++"
