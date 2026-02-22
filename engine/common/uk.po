@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 05:10+0000\n"
+"PO-Revision-Date: 2026-02-22 05:15+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/common/"
 "uk/>\n"
@@ -503,7 +503,7 @@ msgid "JOYMNU_NOCON"
 msgstr "Контролерів не виявлено"
 
 msgid "JOYMNU_CONFIG"
-msgstr "Налаштувати контролери"
+msgstr "Налаштувати контролери:"
 
 msgid "JOYMNU_DISABLED1"
 msgstr "Включіть підтримку контролерів"
