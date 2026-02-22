@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 03:10+0000\n"
+"PO-Revision-Date: 2026-02-22 05:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/tr/>\n"
@@ -638,6 +638,7 @@ msgstr "%o telefragged edildi."
 msgid "OB_DEFAULT"
 msgstr "%o öldü."
 
+#, fuzzy
 msgid "OB_MPDEFAULT"
 msgstr "%o, %k tarafından öldürüldü."
 
@@ -646,7 +647,7 @@ msgstr "%k bir takım arkadaşını biçti."
 
 # English was changed to remove problematic pronoun referencing the killer
 msgid "OB_FRIENDLY2"
-msgstr "%k net göremiyor"
+msgstr "%k net göremiyor."
 
 msgid "OB_FRIENDLY3"
 msgstr "%k diğer takım için bir parça aldı."
@@ -790,10 +791,10 @@ msgid "PD_YELLOWO"
 msgstr "Bu nesneyi etkinleştirmek için sarı bir anahtara ihtiyacınız var"
 
 msgid "PD_BLUEK"
-msgstr "Bu kapıyı açmak için mavi bir anahtara ihtiyacın var."
+msgstr "Bu kapıyı açmak için mavi bir anahtara ihtiyacın var"
 
 msgid "PD_REDK"
-msgstr "Bu kapıyı açmak için kırmızı bir anahtara ihtiyacın var."
+msgstr "Bu kapıyı açmak için kırmızı bir anahtara ihtiyacın var"
 
 msgid "PD_YELLOWK"
 msgstr "Bu kapıyı açmak için sarı bir anahtara ihtiyacınız var"
@@ -820,19 +821,19 @@ msgid "PD_BLUEC"
 msgstr "Bu kapıyı açmak için mavi bir karta ihtiyacınız var"
 
 msgid "PD_REDC"
-msgstr "Bu kapıyı açmak için kırmızı bir karta ihtiyacınız var."
+msgstr "Bu kapıyı açmak için kırmızı bir karta ihtiyacınız var"
 
 msgid "PD_YELLOWC"
 msgstr "Bu kapıyı açmak için sarı bir karta ihtiyacınız var"
 
 msgid "PD_BLUES"
-msgstr "Bu kapıyı açmak için mavi bir kafatasına ihtiyacın var."
+msgstr "Bu kapıyı açmak için mavi bir kafatasına ihtiyacın var"
 
 msgid "PD_REDS"
-msgstr "Bu kapıyı açmak için kırmızı bir kafatasına ihtiyacın var."
+msgstr "Bu kapıyı açmak için kırmızı bir kafatasına ihtiyacın var"
 
 msgid "PD_YELLOWS"
-msgstr "Bu kapıyı açmak için sarı bir kafatasına ihtiyacın var."
+msgstr "Bu kapıyı açmak için sarı bir kafatasına ihtiyacın var"
 
 msgid "CC_ZOMBIE"
 msgstr "Zombi"
@@ -854,6 +855,7 @@ msgstr "İblis"
 msgid "CC_LOST"
 msgstr "Kayıp Ruh"
 
+#, fuzzy
 msgid "CC_CACO"
 msgstr "Cacodemon"
 
