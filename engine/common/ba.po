@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 05:10+0000\n"
+"PO-Revision-Date: 2026-02-22 05:15+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Bashkir <https://hosted.weblate.org/projects/uzdoom/common/"
 "ba/>\n"
@@ -512,7 +512,7 @@ msgstr "Podrška džojstika mora biti"
 
 # Supposed to be empty in Russian and Serbian.
 msgid "JOYMNU_DISABLED2"
-msgstr "omogućena kako bi se otkrili džojstici."
+msgstr "omogućena kako bi se otkrili džojstici"
 
 msgid "JOYMNU_INVALID"
 msgstr "Nevažeći džojstik je naveden za izbornik"
