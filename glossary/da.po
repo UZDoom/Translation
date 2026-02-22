@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 21:11+0000\n"
+"PO-Revision-Date: 2026-02-22 21:31+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/uzdoom/glossary/"
 "da/>\n"
@@ -21,3 +21,6 @@ msgstr "FRA"
 
 msgid "MIDI"
 msgstr "MIDI"
+
+msgid "Timidity++"
+msgstr "Timidity++"
