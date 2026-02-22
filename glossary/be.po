@@ -26,6 +26,3 @@ msgstr "ВКЛ"
 
 msgid "MIDI"
 msgstr "MIDI"
-
-msgid "Freeverb"
-msgstr ""
