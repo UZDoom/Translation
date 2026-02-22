@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 03:09+0000\n"
+"PO-Revision-Date: 2026-02-22 05:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/es/>\n"
@@ -692,7 +692,7 @@ msgid "GOTBLUESKUL"
 msgstr "Encuentras una llave de calavera azul."
 
 msgid "GOTYELWSKUL"
-msgstr "Encuentras una llave de calavera amarilla"
+msgstr "Encuentras una llave de calavera amarilla."
 
 msgid "GOTREDSKUL"
 msgstr "Encuentras una llave de calavera roja."
