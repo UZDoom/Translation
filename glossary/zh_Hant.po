@@ -21,6 +21,3 @@ msgstr "關"
 
 msgid "MIDI"
 msgstr "MIDI"
-
-msgid "Freeverb"
-msgstr ""
