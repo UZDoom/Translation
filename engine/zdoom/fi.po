@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 03:10+0000\n"
+"PO-Revision-Date: 2026-02-22 05:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fi/>\n"
@@ -533,6 +533,7 @@ msgstr "Lisäedut"
 msgid "SCORE_COLOR"
 msgstr "Väri"
 
+#, fuzzy
 msgid "SCORE_SECRET"
 msgstr "Salat"
 
@@ -567,6 +568,7 @@ msgstr "Tapot"
 msgid "TXT_IMITEMS"
 msgstr "Esineet"
 
+#, fuzzy
 msgid "TXT_IMSECRETS"
 msgstr "Salat"
 
