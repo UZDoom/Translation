@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 03:09+0000\n"
+"PO-Revision-Date: 2026-02-22 05:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/uk/>\n"
@@ -532,6 +532,7 @@ msgstr "Бонус"
 msgid "SCORE_COLOR"
 msgstr "Колір"
 
+#, fuzzy
 msgid "SCORE_SECRET"
 msgstr "Схованки"
 
@@ -566,6 +567,7 @@ msgstr "Вороги"
 msgid "TXT_IMITEMS"
 msgstr "Предмети"
 
+#, fuzzy
 msgid "TXT_IMSECRETS"
 msgstr "Схованки"
 
@@ -586,7 +588,7 @@ msgid "WI_ENTERING"
 msgstr "Просуваємось до:"
 
 msgid "AM_MONSTERS"
-msgstr "Монстри"
+msgstr "Монстри:"
 
 msgid "AM_SECRETS"
 msgstr "Схованки:"
@@ -752,7 +754,7 @@ msgid "GOTBFG9000"
 msgstr "Взято БФГ9000! О так."
 
 msgid "GOTCHAINGUN"
-msgstr "Взято кулемета."
+msgstr "Взято кулемета!"
 
 msgid "GOTCHAINSAW"
 msgstr "Бензопила! Знайди трохи м'яса!"
