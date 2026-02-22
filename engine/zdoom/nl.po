@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 05:09+0000\n"
+"PO-Revision-Date: 2026-02-22 05:57+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/nl/>\n"
@@ -681,6 +681,7 @@ msgstr "Je hebt een verbandsdoos, die je ECHT nodig had, opgepakt!"
 msgid "GOTMEDIKIT"
 msgstr "Je hebt een verbandsdoos opgepakt."
 
+#, fuzzy
 msgid "GOTSUPER"
 msgstr "Supercharge!"
 
@@ -872,6 +873,7 @@ msgstr "Helleridder"
 msgid "CC_BARON"
 msgstr "Baron des Hels"
 
+#, fuzzy
 msgid "CC_ARACH"
 msgstr "Arachnotron"
 
@@ -881,6 +883,7 @@ msgstr "Smartelementaal"
 msgid "CC_REVEN"
 msgstr "Wreker"
 
+#, fuzzy
 msgid "CC_MANCU"
 msgstr "Mancubus"
 
@@ -911,6 +914,7 @@ msgstr "Spinnenmeesterbrein"
 msgid "FN_CYBER"
 msgstr "Cyberdemoon"
 
+#, fuzzy
 msgid "FN_WOLFSS"
 msgstr "Nazi"
 
@@ -1231,6 +1235,7 @@ msgstr "Weerdraak"
 msgid "FN_CLINK"
 msgstr "Sabelklauw"
 
+#, fuzzy
 msgid "FN_DSPARIL"
 msgstr "D'Sparil"
 
@@ -1246,9 +1251,11 @@ msgstr "Ondode Krijger"
 msgid "FN_MINOTAUR"
 msgstr "Maulotaurus"
 
+#, fuzzy
 msgid "FN_MUMMY"
 msgstr "Golem"
 
+#, fuzzy
 msgid "FN_MUMMYLEADER"
 msgstr "Nitrogolem"
 
@@ -1438,9 +1445,11 @@ msgstr "Symbool van de Verdediger"
 msgid "TXT_ARTISUMMON"
 msgstr "Donkere Dienaar"
 
+#, fuzzy
 msgid "TXT_ARTIEGG2"
 msgstr "Porkalator"
 
+#, fuzzy
 msgid "TXT_ARTIPOISONBAG"
 msgstr "Flechette"
 
@@ -1483,9 +1492,11 @@ msgstr "Saffierblauwe Planeet"
 msgid "TXT_ARTIPUZZGEMBLUE2"
 msgstr "Saffierblauwe Planeet"
 
+#, fuzzy
 msgid "TXT_ARTIPUZZBOOK1"
 msgstr "Daemon Codex"
 
+#, fuzzy
 msgid "TXT_ARTIPUZZBOOK2"
 msgstr "Liber Oscura"
 
@@ -1597,6 +1608,7 @@ msgstr "Afriet"
 msgid "FN_DEMON1"
 msgstr "Slang"
 
+#, fuzzy
 msgid "FN_ETTIN"
 msgstr "Ettin"
 
@@ -1609,9 +1621,11 @@ msgstr "Slachttaurus"
 msgid "FN_BISHOP"
 msgstr "Bisschop"
 
+#, fuzzy
 msgid "FN_ICEGUY"
 msgstr "Wendigo"
 
+#, fuzzy
 msgid "FN_SERPENT"
 msgstr "Stalker"
 
@@ -1621,6 +1635,7 @@ msgstr "Rover"
 msgid "FN_DRAGON"
 msgstr "Doodsdraak"
 
+#, fuzzy
 msgid "FN_KORAX"
 msgstr "Korax"
 
@@ -1630,6 +1645,7 @@ msgstr "Zedek"
 msgid "FN_MBOSS"
 msgstr "Menelkir"
 
+#, fuzzy
 msgid "FN_CBOSS"
 msgstr "Traductus"
 
@@ -1663,6 +1679,7 @@ msgstr "Timon's Bijl"
 msgid "TAG_FWEAPHAMMER"
 msgstr "Hamer van Vergelding"
 
+#, fuzzy
 msgid "TAG_FWEAPQUIETUS"
 msgstr "Quietus"
 
@@ -1687,6 +1704,7 @@ msgstr "Drakenhuidbescherming"
 msgid "TAG_ARTIBOOSTMANA"
 msgstr "Beker van Macht"
 
+#, fuzzy
 msgid "TAG_ARTIPOISONBAG"
 msgstr "Flechette"
 
@@ -1705,6 +1723,7 @@ msgstr "Mystieke sfeerbezwering"
 msgid "TAG_ARTIDEFENDER"
 msgstr "Icoon van de verdediger"
 
+#, fuzzy
 msgid "TAG_ARTIPORK"
 msgstr "Porkalator"
 
@@ -1738,9 +1757,11 @@ msgstr "Saffierblauwe Planeet (1)"
 msgid "TAG_ARTIPUZZGEMBLUE2"
 msgstr "Saffierblauwe Planeet (2)"
 
+#, fuzzy
 msgid "TAG_ARTIPUZZBOOK1"
 msgstr "Daemon Codex"
 
+#, fuzzy
 msgid "TAG_ARTIPUZZBOOK2"
 msgstr "Liber Oscura"
 
@@ -2184,6 +2205,7 @@ msgstr "Granaatwerper"
 msgid "TAG_GLAUNCHER2"
 msgstr "Granaatwerper"
 
+#, fuzzy
 msgid "TAG_SIGIL"
 msgstr "Sigil"
 
@@ -2199,6 +2221,7 @@ msgstr "Medicijndoos"
 msgid "TAG_SURGERYKIT"
 msgstr "Chirurgiepakket"
 
+#, fuzzy
 msgid "TAG_BELDINSRING"
 msgstr "Ring"
 
@@ -2235,6 +2258,7 @@ msgstr "Info"
 msgid "TAG_TARGETER"
 msgstr "Richter"
 
+#, fuzzy
 msgid "TAG_COMMUNICATOR"
 msgstr "Communicator"
 
@@ -2247,6 +2271,7 @@ msgstr "Nauwkeurigheid"
 msgid "TAG_HEALTHTRAINING"
 msgstr "Stevigheid"
 
+#, fuzzy
 msgid "TAG_SCANNER"
 msgstr "Scanner"
 
@@ -2417,9 +2442,11 @@ msgstr "Barman"
 msgid "TAG_BEGGAR"
 msgstr "Bedelaar"
 
+#, fuzzy
 msgid "TAG_MACIL1"
 msgstr "Macil"
 
+#, fuzzy
 msgid "TAG_MACIL2"
 msgstr "Macil"
 
@@ -2435,6 +2462,7 @@ msgstr "Priester"
 msgid "TAG_RATBUDDY"
 msgstr "Rattenvriendje"
 
+#, fuzzy
 msgid "TAG_REBEL"
 msgstr "Rebel"
 
@@ -2777,6 +2805,7 @@ msgstr "E1M2: Opslagfaciliteit"
 msgid "CHUSTR_E1M3"
 msgstr "E1M3: Experimenteel laboratorium"
 
+#, fuzzy
 msgid "CHUSTR_E1M4"
 msgstr "E1M4: Arboretum"
 
@@ -2969,6 +2998,7 @@ msgstr "Beginner"
 msgid "SSKILL_NORMAL"
 msgstr "Veteraan"
 
+#, fuzzy
 msgid "SSKILL_HARD"
 msgstr "Elite"
 
@@ -2999,6 +3029,7 @@ msgstr "Ridder"
 msgid "MNU_WARRIOR"
 msgstr "Krijger"
 
+#, fuzzy
 msgid "MNU_BERSERKER"
 msgstr "Berserker"
 
@@ -3103,12 +3134,14 @@ msgstr "Geen monsters"
 msgid "GMPLYMNU_NOMONSTERSTOEXIT"
 msgstr "Geen monsters om af te sluiten"
 
+#, fuzzy
 msgid "GMPLYMNU_MONSTERSRESPAWN"
 msgstr "Monsters respawn"
 
 msgid "GMPLYMNU_NORESPAWN"
 msgstr "Geen respawn"
 
+#, fuzzy
 msgid "GMPLYMNU_ITEMSRESPAWN"
 msgstr "Items respawn"
 
@@ -3154,6 +3187,7 @@ msgstr "Automap bondgenoten"
 msgid "GMPLYMNU_ALLOWSPYING"
 msgstr "Laat spionage toe"
 
+#, fuzzy
 msgid "GMPLYMNU_CHASECAM"
 msgstr "Chasecam cheat"
 
@@ -3556,6 +3590,7 @@ msgstr "Geheime muren"
 msgid "MAPCOLORMNU_THINGCOLOR"
 msgstr "Acteurs"
 
+#, fuzzy
 msgid "MAPCOLORMNU_MONSTERCOLOR"
 msgstr "Monsters"
 
@@ -3637,6 +3672,7 @@ msgstr "Aangepaste kleuren instellen"
 msgid "AUTOMAPMNU_CONTROLS"
 msgstr "Kaartcontroles aanpassen"
 
+#, fuzzy
 msgid "AUTOMAPMNU_OVERLAY"
 msgstr "Overlay automap"
 
@@ -3877,6 +3913,7 @@ msgstr "Toon speler sprites"
 msgid "DSPLYMNU_DEATHCAM"
 msgstr "Doodscamera"
 
+#, fuzzy
 msgid "DSPLYMNU_TELEZOOM"
 msgstr "Teleporter zoom"
 
@@ -3988,6 +4025,7 @@ msgstr "Screenshots maken met behulp van scripts"
 msgid "MISCMNU_DEHLOAD"
 msgstr "*.deh/*.bex laden"
 
+#, fuzzy
 msgid "MISCMNU_CACHENODES"
 msgstr "Cache nodes"
 
@@ -4015,6 +4053,7 @@ msgstr "Voorspel lijnacties"
 msgid "NETMNU_PREDICTIONLERPSCALE"
 msgstr "Voorspelling Lerp Scale"
 
+#, fuzzy
 msgid "NETMNU_LERPTHRESHOLD"
 msgstr "Lerp Threshold"
 
@@ -4045,6 +4084,7 @@ msgstr "Afgeschermd"
 msgid "OPTVAL_PARTICLES"
 msgstr "Deeltjes"
 
+#, fuzzy
 msgid "OPTVAL_SPRITES"
 msgstr "Sprites"
 
@@ -4057,6 +4097,7 @@ msgstr "Smelten"
 msgid "OPTVAL_BURN"
 msgstr "Verbranden"
 
+#, fuzzy
 msgid "OPTVAL_CROSSFADE"
 msgstr "Crossfade"
 
@@ -4073,6 +4114,7 @@ msgstr "Glad"
 msgid "OPTVAL_TRANSLUCENT"
 msgstr "Doorschijnend"
 
+#, fuzzy
 msgid "OPTVAL_FUZZ"
 msgstr "Fuzz"
 
@@ -4088,9 +4130,11 @@ msgstr "Wapens"
 msgid "OPTVAL_BOTH"
 msgstr "Beide"
 
+#, fuzzy
 msgid "OPTVAL_ZDOOM"
 msgstr "ZDoom"
 
+#, fuzzy
 msgid "OPTVAL_STRIFE"
 msgstr "Strife"
 
@@ -4226,18 +4270,21 @@ msgstr "Nooit vrienden"
 msgid "OPTVAL_ONLYMONSTERS"
 msgstr "Alleen monsters"
 
+#, fuzzy
 msgid "OPTVAL_HEXEN"
 msgstr "Hexen"
 
 msgid "OPTVAL_OLD"
 msgstr "Oud"
 
+#, fuzzy
 msgid "OPTVAL_DOOM"
 msgstr "Doom"
 
 msgid "OPTVAL_DOOMSTRICT"
 msgstr "Doom (streng)"
 
+#, fuzzy
 msgid "OPTVAL_BOOM"
 msgstr "Boom"
 
@@ -4253,6 +4300,7 @@ msgstr "MBF (streng)"
 msgid "OPTVAL_MBF21STRICT"
 msgstr "MBF21 (streng)"
 
+#, fuzzy
 msgid "OPTVAL_ZDOOM2063"
 msgstr "ZDoom 2.0.63"
 
@@ -4274,6 +4322,7 @@ msgstr "Alles"
 msgid "OPTVAL_HWPOLY"
 msgstr "Hardware versneld"
 
+#, fuzzy
 msgid "OPTVAL_SWDOOM"
 msgstr "Doom Software Renderer"
 
@@ -4391,6 +4440,7 @@ msgstr "\\czteal"
 msgid "OPTSTR_HERETIC"
 msgstr "Ketter"
 
+#, fuzzy
 msgid "OPTSTR_CHEX"
 msgstr "Chex"
 
@@ -4403,6 +4453,7 @@ msgstr "Geen interpolatie"
 msgid "OPTSTR_SPLINE"
 msgstr "Spline"
 
+#, fuzzy
 msgid "OPTSTR_OPENAL"
 msgstr "OpenAL"
 
@@ -4524,6 +4575,7 @@ msgid "OPTVAL_DARK"
 msgstr "Donker"
 
 # This refers to the Doom Legacy port, not a legacy lighting style!
+#, fuzzy
 msgid "OPTVAL_LEGACY"
 msgstr "Doom Legacy"
 
@@ -4545,6 +4597,7 @@ msgstr "Vierkant"
 msgid "OPTVAL_ROUND"
 msgstr "Rond"
 
+#, fuzzy
 msgid "OPTVAL_PIXELFUZZ"
 msgstr "Pixel fuzz"
 
@@ -4785,6 +4838,7 @@ msgstr "Voorkeur toetsenbordindeling"
 msgid "OPTVAL_CLASSICZ"
 msgstr "Klassiek ZDoom"
 
+#, fuzzy
 msgid "OPTVAL_MODERN"
 msgstr "Modern (WASD)"
 
@@ -4817,12 +4871,14 @@ msgstr "Inquisiteur"
 msgid "TAG_PEASANT"
 msgstr "Onderdaan"
 
+#, fuzzy
 msgid "TAG_REAVER"
 msgstr "Reaver"
 
 msgid "TAG_SENTINEL"
 msgstr "Sentinel"
 
+#, fuzzy
 msgid "TAG_STALKER"
 msgstr "Stalker"
 
@@ -4963,6 +5019,7 @@ msgstr "Brandstofkan"
 msgid "AMMO_ID24FUELTANK"
 msgstr "Brandstoftank"
 
+#, fuzzy
 msgid "ID24_CC_GHOUL"
 msgstr "Ghoul"
 
