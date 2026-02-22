@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 03:10+0000\n"
+"PO-Revision-Date: 2026-02-22 05:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/cs/>\n"
@@ -670,7 +670,7 @@ msgid "GOTSTIM"
 msgstr "Sebrán stimulant."
 
 msgid "GOTMEDINEED"
-msgstr "Sebrána lékárnička, kterou jsi FAKT potřeboval@[ao_cs]."
+msgstr "Sebrána lékárnička, kterou jsi FAKT potřeboval@[ao_cs]!"
 
 msgid "GOTMEDIKIT"
 msgstr "Sebrána lékárnička."
@@ -745,25 +745,25 @@ msgid "GOTBACKPACK"
 msgstr "Sebrán batoh s haldou munice!"
 
 msgid "GOTBFG9000"
-msgstr "Sebráno BFG9000! Ó, ano!"
+msgstr "Sebráno BFG9000! Ó, ano."
 
 msgid "GOTCHAINGUN"
-msgstr "Sebrán kulomet."
+msgstr "Sebrán kulomet!"
 
 msgid "GOTCHAINSAW"
 msgstr "Motorová pila! Najdi maso!"
 
 msgid "GOTLAUNCHER"
-msgstr "Sebrán raketomet."
+msgstr "Sebrán raketomet!"
 
 msgid "GOTPLASMA"
-msgstr "Sebrána plazmová puška."
+msgstr "Sebrána plazmová puška!"
 
 msgid "GOTSHOTGUN"
-msgstr "Sebrána brokovnice."
+msgstr "Sebrána brokovnice!"
 
 msgid "GOTSHOTGUN2"
-msgstr "Sebrána superbrokovnice."
+msgstr "Sebrána superbrokovnice!"
 
 msgid "PICKUP_PISTOL_DROPPED"
 msgstr "Sebrána pistole."
@@ -781,58 +781,58 @@ msgid "BETA_BONUS4"
 msgstr "Sebrána bezbožná bible."
 
 msgid "PD_BLUEO"
-msgstr "K aktivaci tohoto objektu potřebuješ modrý klíč."
+msgstr "K aktivaci tohoto objektu potřebuješ modrý klíč"
 
 msgid "PD_REDO"
-msgstr "K aktivaci tohoto objektu potřebuješ červený klíč."
+msgstr "K aktivaci tohoto objektu potřebuješ červený klíč"
 
 msgid "PD_YELLOWO"
-msgstr "K aktivaci tohoto objektu potřebuješ žlutý klíč."
+msgstr "K aktivaci tohoto objektu potřebuješ žlutý klíč"
 
 msgid "PD_BLUEK"
-msgstr "K otevření těchto dveří potřebuješ modrý klíč."
+msgstr "K otevření těchto dveří potřebuješ modrý klíč"
 
 msgid "PD_REDK"
-msgstr "K otevření těchto dveří potřebuješ červený klíč."
+msgstr "K otevření těchto dveří potřebuješ červený klíč"
 
 msgid "PD_YELLOWK"
-msgstr "K otevření těchto dveří potřebuješ žlutý klíč."
+msgstr "K otevření těchto dveří potřebuješ žlutý klíč"
 
 msgid "PD_BLUECO"
-msgstr "K aktivaci tohoto objektu potřebuješ modrou kartu."
+msgstr "K aktivaci tohoto objektu potřebuješ modrou kartu"
 
 msgid "PD_REDCO"
-msgstr "K aktivaci tohoto objektu potřebuješ červenou kartu."
+msgstr "K aktivaci tohoto objektu potřebuješ červenou kartu"
 
 msgid "PD_YELLOWCO"
-msgstr "K aktivaci tohoto objektu potřebuješ žlutou kartu."
+msgstr "K aktivaci tohoto objektu potřebuješ žlutou kartu"
 
 msgid "PD_BLUESO"
-msgstr "K aktivaci tohoto objektu potřebuješ modrou lebku."
+msgstr "K aktivaci tohoto objektu potřebuješ modrou lebku"
 
 msgid "PD_REDSO"
-msgstr "K aktivaci tohoto objektu potřebuješ červenou lebku."
+msgstr "K aktivaci tohoto objektu potřebuješ červenou lebku"
 
 msgid "PD_YELLOWSO"
-msgstr "K aktivaci tohoto objektu potřebuješ žlutou lebku."
+msgstr "K aktivaci tohoto objektu potřebuješ žlutou lebku"
 
 msgid "PD_BLUEC"
-msgstr "K otevření těchto dveří potřebuješ modrou kartu."
+msgstr "K otevření těchto dveří potřebuješ modrou kartu"
 
 msgid "PD_REDC"
-msgstr "K otevření těchto dveří potřebuješ červenou kartu."
+msgstr "K otevření těchto dveří potřebuješ červenou kartu"
 
 msgid "PD_YELLOWC"
-msgstr "K otevření těchto dveří potřebuješ žlutou kartu."
+msgstr "K otevření těchto dveří potřebuješ žlutou kartu"
 
 msgid "PD_BLUES"
-msgstr "K otevření těchto dveří potřebuješ modrou lebku."
+msgstr "K otevření těchto dveří potřebuješ modrou lebku"
 
 msgid "PD_REDS"
-msgstr "K otevření těchto dveří potřebuješ červenou lebku."
+msgstr "K otevření těchto dveří potřebuješ červenou lebku"
 
 msgid "PD_YELLOWS"
-msgstr "K otevření těchto dveří potřebuješ žlutou lebku."
+msgstr "K otevření těchto dveří potřebuješ žlutou lebku"
 
 msgid "CC_ZOMBIE"
 msgstr "Zombie"
@@ -1206,7 +1206,7 @@ msgid "TXT_NEEDBLUEKEY"
 msgstr "K otevření těchto dveří potřebuješ modrý klíč"
 
 msgid "TXT_NEEDGREENKEY"
-msgstr "K otevření těchto dveří potřebuješ červený klíč"
+msgstr "K otevření těchto dveří potřebuješ zelený klíč"
 
 msgid "TXT_NEEDYELLOWKEY"
 msgstr "K otevření těchto dveří potřebuješ žlutý klíč."
