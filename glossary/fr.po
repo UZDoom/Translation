@@ -36,6 +36,3 @@ msgstr "MIDI"
 
 msgid "Timidity++"
 msgstr "Timidity++"
-
-msgid "Timidity++"
-msgstr "Timidity++"
