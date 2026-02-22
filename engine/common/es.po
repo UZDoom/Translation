@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-20 23:11+0000\n"
+"PO-Revision-Date: 2026-02-22 05:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/uzdoom/common/"
 "es/>\n"
@@ -421,6 +421,7 @@ msgstr "Usa ratón en los menús"
 msgid "MOUSEMNU_SHOWBACKBUTTON"
 msgstr "Mostrar botón de retroceso"
 
+#, fuzzy
 msgid "MOUSEMNU_CURSOR"
 msgstr "Cursor"
 
@@ -530,7 +531,6 @@ msgstr "Zona muerta"
 msgid "JOYMNU_NOAXES"
 msgstr "No hay ejes configurables"
 
-#, fuzzy
 msgid "OPTVAL_NONE"
 msgstr "Ninguno"
 
