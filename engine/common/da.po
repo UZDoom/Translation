@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-20 23:11+0000\n"
+"PO-Revision-Date: 2026-02-22 05:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/uzdoom/common/da/>"
 "\n"
@@ -362,6 +362,7 @@ msgstr "Skift tekstur"
 msgid "CNTRLMNU_AUTOMAP"
 msgstr "Skift til automap"
 
+#, fuzzy
 msgid "CNTRLMNU_CHASECAM"
 msgstr "Chasecam"
 
@@ -395,9 +396,11 @@ msgstr "Åbn menuen Indstillinger"
 msgid "CNTRLMNU_OPEN_DISPLAY"
 msgstr "Åbn menuen Visning"
 
+#, fuzzy
 msgid "CNTRLMNU_QUICKSAVE"
 msgstr "Quicksave"
 
+#, fuzzy
 msgid "CNTRLMNU_QUICKLOAD"
 msgstr "Quickload"
 
@@ -531,7 +534,6 @@ msgstr "Dødzone"
 msgid "JOYMNU_NOAXES"
 msgstr "Ingen konfigurerbare akser"
 
-#, fuzzy
 msgid "OPTVAL_NONE"
 msgstr "Ingen"
 
@@ -544,6 +546,7 @@ msgstr "Kigger op/ned"
 msgid "OPTVAL_MOVINGFORWARD"
 msgstr "Bevæger sig fremad"
 
+#, fuzzy
 msgid "OPTVAL_STRAFING"
 msgstr "Strafing"
 
