@@ -21,6 +21,3 @@ msgstr "POIS"
 
 msgid "MIDI"
 msgstr "MIDI"
-
-msgid "Freeverb"
-msgstr ""
