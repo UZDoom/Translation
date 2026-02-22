@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 03:10+0000\n"
+"PO-Revision-Date: 2026-02-22 05:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/sv/>\n"
@@ -785,13 +785,13 @@ msgid "BETA_BONUS4"
 msgstr "Plockade upp en ohelig bibel."
 
 msgid "PD_BLUEO"
-msgstr "Du behöver en blå nyckel för att aktivera det här föremålet."
+msgstr "Du behöver en blå nyckel för att aktivera det här föremålet"
 
 msgid "PD_REDO"
-msgstr "Du behöver en röd nyckel för att aktivera det här föremålet."
+msgstr "Du behöver en röd nyckel för att aktivera det här föremålet"
 
 msgid "PD_YELLOWO"
-msgstr "Du behöver en gul nyckel för att aktivera det här föremålet."
+msgstr "Du behöver en gul nyckel för att aktivera det här föremålet"
 
 msgid "PD_BLUEK"
 msgstr "Du behöver en blå nyckel för att öppna den här dörren"
@@ -800,43 +800,43 @@ msgid "PD_REDK"
 msgstr "Du behöver en röd nyckel för att öppna den här dörren"
 
 msgid "PD_YELLOWK"
-msgstr "Du behöver en gul nyckel för att öppna den här dörren."
+msgstr "Du behöver en gul nyckel för att öppna den här dörren"
 
 msgid "PD_BLUECO"
-msgstr "Du behöver ett blått kort för att aktivera det här objektet."
+msgstr "Du behöver ett blått kort för att aktivera det här objektet"
 
 msgid "PD_REDCO"
-msgstr "Du behöver ett rött kort för att aktivera det här föremålet."
+msgstr "Du behöver ett rött kort för att aktivera det här föremålet"
 
 msgid "PD_YELLOWCO"
-msgstr "Du behöver ett gult kort för att aktivera det här föremålet."
+msgstr "Du behöver ett gult kort för att aktivera det här föremålet"
 
 msgid "PD_BLUESO"
-msgstr "Du behöver en blå skalle för att aktivera det här objektet."
+msgstr "Du behöver en blå skalle för att aktivera det här objektet"
 
 msgid "PD_REDSO"
-msgstr "Du behöver en röd skalle för att aktivera det här föremålet."
+msgstr "Du behöver en röd skalle för att aktivera det här föremålet"
 
 msgid "PD_YELLOWSO"
-msgstr "Du behöver en gul skalle för att aktivera detta föremål."
+msgstr "Du behöver en gul skalle för att aktivera detta föremål"
 
 msgid "PD_BLUEC"
-msgstr "Du behöver ett blått kort för att öppna den här dörren."
+msgstr "Du behöver ett blått kort för att öppna den här dörren"
 
 msgid "PD_REDC"
-msgstr "Du behöver ett rött kort för att öppna den här dörren."
+msgstr "Du behöver ett rött kort för att öppna den här dörren"
 
 msgid "PD_YELLOWC"
-msgstr "Du behöver ett gult kort för att öppna den här dörren."
+msgstr "Du behöver ett gult kort för att öppna den här dörren"
 
 msgid "PD_BLUES"
-msgstr "Du behöver en blå skalle för att öppna den här dörren."
+msgstr "Du behöver en blå skalle för att öppna den här dörren"
 
 msgid "PD_REDS"
-msgstr "Du behöver en röd skalle för att öppna den här dörren."
+msgstr "Du behöver en röd skalle för att öppna den här dörren"
 
 msgid "PD_YELLOWS"
-msgstr "Du behöver en gul skalle för att öppna den här dörren."
+msgstr "Du behöver en gul skalle för att öppna den här dörren"
 
 msgid "CC_ZOMBIE"
 msgstr "Zombie"
@@ -858,6 +858,7 @@ msgstr ""
 msgid "CC_LOST"
 msgstr "Förlorad själ"
 
+#, fuzzy
 msgid "CC_CACO"
 msgstr "Cacodemon"
 
