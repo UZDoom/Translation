@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 05:10+0000\n"
+"PO-Revision-Date: 2026-02-22 05:15+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/common/ko/>"
 "\n"
@@ -509,7 +509,7 @@ msgstr "감지하려면 컨트롤러 지원을"
 
 # Supposed to be empty in Russian and Serbian.
 msgid "JOYMNU_DISABLED2"
-msgstr "활성화 해야합니다."
+msgstr "활성화 해야합니다"
 
 msgid "JOYMNU_INVALID"
 msgstr "메뉴에 특정된 컨트롤러가 아닙니다"
