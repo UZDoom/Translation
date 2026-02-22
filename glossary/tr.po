@@ -21,6 +21,3 @@ msgstr "KAPALI"
 
 msgid "MIDI"
 msgstr "MIDI"
-
-msgid "Timidity++"
-msgstr "Timidity++"
