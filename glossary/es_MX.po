@@ -45,6 +45,3 @@ msgstr "DESACTIVADAS"
 
 msgid "MIDI"
 msgstr "MIDI"
-
-msgid "Timidity++"
-msgstr "Timidity++"
