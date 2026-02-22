@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 05:15+0000\n"
+"PO-Revision-Date: 2026-02-22 05:57+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/uzdoom/common/nl/>"
 "\n"
@@ -784,6 +784,7 @@ msgstr "Afspeelapparaat"
 msgid "OPENALMNU_ENABLEEFX"
 msgstr "EFX inschakelen"
 
+#, fuzzy
 msgid "OPENALMNU_RESAMPLER"
 msgstr "Resampler"
 
@@ -860,12 +861,14 @@ msgstr "OPL Emulator Kern"
 msgid "ADVSNDMNU_MIDIVOICES"
 msgstr "MIDI-stemmen"
 
+#, fuzzy
 msgid "ADVSNDMNU_FLUIDSYNTH"
 msgstr "FluidSynth"
 
 msgid "ADVSNDMNU_GLOBAL"
 msgstr "Globaal"
 
+#, fuzzy
 msgid "ADVSNDMNU_FREEVERB"
 msgstr "Freeverb"
 
@@ -890,9 +893,11 @@ msgstr "Refrein"
 msgid "ADVSNDMNU_TIMIDITY"
 msgstr "Verlegenheid++"
 
+#, fuzzy
 msgid "ADVSNDMNU_ADLMIDI"
 msgstr "ADLMidi"
 
+#, fuzzy
 msgid "ADVSNDMNU_OPNMIDI"
 msgstr "OPNMidi"
 
@@ -902,6 +907,7 @@ msgstr "Timidity++ configuratiebestand"
 msgid "ADVSNDMNU_TIMIDITYVOLUME"
 msgstr "Relatief volume"
 
+#, fuzzy
 msgid "ADVSNDMNU_WILDMIDI"
 msgstr "WildMidi"
 
@@ -914,6 +920,7 @@ msgstr "Selecteer configuratie"
 msgid "ADVSNDMNU_ADVRESAMPLING"
 msgstr "Geavanceerde herbemonstering"
 
+#, fuzzy
 msgid "ADVSNDMNU_OPLBANK"
 msgstr "OPL Bank"
 
@@ -1015,6 +1022,7 @@ msgstr "Band-beperkt lineair"
 msgid "OPTVAL_CUBICSLOW"
 msgstr "Kubieke (langzamer)"
 
+#, fuzzy
 msgid "OPTVAL_SINC"
 msgstr "Sinc"
 
@@ -1033,24 +1041,29 @@ msgstr "Kwaliteit"
 msgid "MODMNU_VOLUMERAMPING"
 msgstr "Volume-aanvulling"
 
+#, fuzzy
 msgid "OPTVAL_LIBXMP"
 msgstr "libXMP"
 
 msgid "OPTVAL_DUMB"
 msgstr "Dom"
 
+#, fuzzy
 msgid "MODMNU_CHIPOMATIC"
 msgstr "Chip-o-matic"
 
 msgid "OPTVAL_MAMEOPL2"
 msgstr "MAME OPL2"
 
+#, fuzzy
 msgid "OPTVAL_DOSBOXOPL3"
 msgstr "DOSBox OPL3"
 
+#, fuzzy
 msgid "OPTVAL_JAVAOPL3"
 msgstr "Java OPL3"
 
+#, fuzzy
 msgid "OPTVAL_ESFMu"
 msgstr "ESFMu OPL3"
 
@@ -1060,6 +1073,7 @@ msgstr "YMFM OPL2"
 msgid "OPTVAL_YMFMOPL3"
 msgstr "YMFM OPL3"
 
+#, fuzzy
 msgid "OPTVAL_NUKEDOPL3"
 msgstr "Nuked OPL3"
 
@@ -1072,24 +1086,30 @@ msgstr "OPL3-LLE (Extra zwaar!)"
 msgid "OPTVAL_MAMEOPN2"
 msgstr "MAME YM2612"
 
+#, fuzzy
 msgid "OPTVAL_NP2OPNA"
 msgstr "Neko Project II Kai OPNA"
 
 msgid "OPTVAL_MAMEOPNA"
 msgstr "MAME YM2608"
 
+#, fuzzy
 msgid "OPTVAL_PMDWINOPNA"
 msgstr "PMDWin OPNA"
 
+#, fuzzy
 msgid "OPTVAL_OPALOPL3"
 msgstr "Opal OPL3"
 
+#, fuzzy
 msgid "OPTVAL_NUKEDOPL3174"
 msgstr "Nuked OPL3 v1.7.4"
 
+#, fuzzy
 msgid "OPTVAL_NUKEDOPN2YM3438"
 msgstr "Nuked OPN2 (YM3438)"
 
+#, fuzzy
 msgid "OPTVAL_NUKEDOPN2YM2612"
 msgstr "Nuked OPN2 (YM2612)"
 
@@ -1123,9 +1143,11 @@ msgstr "Algemeen"
 msgid "OPNVLMODEL_GENERIC"
 msgstr "Algemeen"
 
+#, fuzzy
 msgid "ADLVLMODEL_NATIVE"
 msgstr "OPL Native"
 
+#, fuzzy
 msgid "OPNVLMODEL_NATIVE"
 msgstr "OPN Native"
 
@@ -1192,12 +1214,15 @@ msgstr "768K"
 msgid "OPTVAL_1024K"
 msgstr "1024K"
 
+#, fuzzy
 msgid "OPTVAL_UNCHARTED2"
 msgstr "Uncharted 2"
 
+#, fuzzy
 msgid "OPTVAL_HEJLDAWSON"
 msgstr "Hejl Dawson"
 
+#, fuzzy
 msgid "OPTVAL_REINHARD"
 msgstr "Reinhard"
 
@@ -1234,6 +1259,7 @@ msgstr "Effect van de lensvervorming"
 msgid "GLPREFMNU_FXAA"
 msgstr "FXAA-kwaliteit"
 
+#, fuzzy
 msgid "GLPREFMNU_DITHER"
 msgstr "Dither output"
 
@@ -1243,6 +1269,7 @@ msgstr "Tonemap Palet Orde van het Tonemap-palet"
 msgid "GLPREFMNU_PALTONEMAPPOWER"
 msgstr "Tonemap Palet Exponent"
 
+#, fuzzy
 msgid "GLPREFMNU_MULTISAMPLE"
 msgstr "Multisample"
 
@@ -1454,9 +1481,11 @@ msgstr "Gebruikergedefinieerd"
 msgid "VIDMNU_MAXFPS"
 msgstr "Max. FPS"
 
+#, fuzzy
 msgid "OPTVAL_60FPS"
 msgstr "60 fps"
 
+#, fuzzy
 msgid "OPTVAL_75FPS"
 msgstr "75 fps"
 
@@ -1466,22 +1495,27 @@ msgstr "90 beelden per seconde"
 msgid "OPTVAL_120FPS"
 msgstr "120 beelden per seconde"
 
+#, fuzzy
 msgid "OPTVAL_144FPS"
 msgstr "144 fps"
 
+#, fuzzy
 msgid "OPTVAL_200FPS"
 msgstr "200 fps"
 
 msgid "VIDMNU_PREFERBACKEND"
 msgstr "Voorkeur rendering API"
 
+#, fuzzy
 msgid "OPTVAL_OPENGL"
 msgstr "OpenGL"
 
+#, fuzzy
 msgid "OPTVAL_VULKAN"
 msgstr "Vulkan"
 
 # Rendering backend
+#, fuzzy
 msgid "OPTVAL_OPENGLES"
 msgstr "OpenGL ES"
 
@@ -1600,18 +1634,22 @@ msgstr "Reflecties Pan Y"
 msgid "REVMNU_REFLECTIONS_PAN_Z"
 msgstr "Reflecties Pan Z"
 
+#, fuzzy
 msgid "REVMNU_REVERB"
 msgstr "Reverb"
 
 msgid "REVMNU_REVERB_DELAY"
 msgstr "Reverb-vertraging"
 
+#, fuzzy
 msgid "REVMNU_REVERB_PAN_X"
 msgstr "Reverb Pan X"
 
+#, fuzzy
 msgid "REVMNU_REVERB_PAN_Y"
 msgstr "Reverb Pan Y"
 
+#, fuzzy
 msgid "REVMNU_REVERB_PAN_Z"
 msgstr "Reverb Pan Z"
 
@@ -1719,18 +1757,22 @@ msgstr "Deze opties vereisen een herstart om van kracht te worden."
 msgid "VKMNU_DEVICESELECT"
 msgstr "Selecteer Vulkan Apparaat"
 
+#, fuzzy
 msgid "OPTVAL_SCALENX"
 msgstr "ScaleNx"
 
 msgid "OPTVAL_NORMALNX"
 msgstr "NormaalNx"
 
+#, fuzzy
 msgid "OPTVAL_HQNX"
 msgstr "hqNx"
 
+#, fuzzy
 msgid "OPTVAL_HQNXMMX"
 msgstr "hqNx MMX"
 
+#, fuzzy
 msgid "OPTVAL_NXBRZ"
 msgstr "xBRZ"
 
@@ -1794,6 +1836,7 @@ msgstr "HUD"
 msgid "OPTVAL_AUTOMAP"
 msgstr "Automatische kaart"
 
+#, fuzzy
 msgid "OPTVAL_HUDANDMAP"
 msgstr "HUD + Automap"
 
@@ -1880,6 +1923,7 @@ msgstr "Deze controller inschakelen"
 msgid "CNTRLMNU_OPEN_MAIN"
 msgstr "Hoofdmenu openen"
 
+#, fuzzy
 msgid "MODMNU_REPLAYER"
 msgstr "Module replayer"
 
@@ -1957,9 +2001,11 @@ msgstr "Spelmodus:"
 msgid "PICKER_COOP"
 msgstr "Coöperatie"
 
+#, fuzzy
 msgid "PICKER_DM"
 msgstr "Deathmatch"
 
+#, fuzzy
 msgid "PICKER_TDM"
 msgstr "Team Deathmatch"
 
@@ -1991,6 +2037,7 @@ msgstr "255 = Willekeurig"
 msgid "PICKER_IP"
 msgstr "Host-IP:"
 
+#, fuzzy
 msgid "PICKER_TDMLABEL"
 msgstr "Team Deathmatch:"
 
@@ -1998,6 +2045,7 @@ msgstr "Team Deathmatch:"
 msgid "TXT_SAYTEAM"
 msgstr "Zeg (team):"
 
+#, fuzzy
 msgid "MISCMNU_DISCORDRPC"
 msgstr "Discord Rich Presence"
 
