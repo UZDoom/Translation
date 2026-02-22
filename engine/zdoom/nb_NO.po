@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 03:10+0000\n"
+"PO-Revision-Date: 2026-02-22 21:12+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/nb_NO/>\n"
@@ -593,7 +593,7 @@ msgid "AM_ITEMS"
 msgstr "Gjenstander:"
 
 msgid "OB_SUICIDE"
-msgstr "%o begår selvmord."
+msgstr "%g tok livet av seg."
 
 msgid "OB_FALLING"
 msgstr "%o falt for langt."
