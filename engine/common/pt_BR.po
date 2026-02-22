@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 05:10+0000\n"
+"PO-Revision-Date: 2026-02-22 05:15+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "uzdoom/common/pt_BR/>\n"
@@ -501,7 +501,7 @@ msgid "JOYMNU_PS2"
 msgstr "Ativar adaptadores de PlayStation 2"
 
 msgid "JOYMNU_NOCON"
-msgstr "Nenhum controle detectado."
+msgstr "Nenhum controle detectado"
 
 msgid "JOYMNU_CONFIG"
 msgstr "Configurar controles:"
@@ -511,7 +511,7 @@ msgstr "A detecção de controles deve"
 
 # Supposed to be empty in Russian and Serbian.
 msgid "JOYMNU_DISABLED2"
-msgstr "ser ativada para exibi-los."
+msgstr "ser ativada para exibi-los"
 
 msgid "JOYMNU_INVALID"
 msgstr "Controle inválido especificado para o menu"
