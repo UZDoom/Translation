@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 05:10+0000\n"
+"PO-Revision-Date: 2026-02-22 05:15+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/uzdoom/common/nl/>"
 "\n"
@@ -512,7 +512,7 @@ msgstr "Controller ondersteuning moet ingeschakeld zijn"
 
 # Supposed to be empty in Russian and Serbian.
 msgid "JOYMNU_DISABLED2"
-msgstr "om eventuele regelaars te detecteren."
+msgstr "om eventuele regelaars te detecteren"
 
 msgid "JOYMNU_INVALID"
 msgstr "Ongeldige regelaar gespecificeerd voor het menu"
@@ -592,6 +592,7 @@ msgstr "Paars"
 msgid "TXT_COLOR_DULLGREEN"
 msgstr "Saaie groen"
 
+#, fuzzy
 msgid "TXT_COLOR_BEIGE"
 msgstr "Beige"
 
@@ -764,6 +765,7 @@ msgstr "Stereo"
 msgid "OPTSTR_PROLOGIC"
 msgstr "Dolby Pro Logic-decoder"
 
+#, fuzzy
 msgid "OPTSTR_QUAD"
 msgstr "Quad"
 
