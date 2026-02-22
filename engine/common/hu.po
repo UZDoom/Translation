@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 05:09+0000\n"
+"PO-Revision-Date: 2026-02-22 05:15+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/uzdoom/common/"
 "hu/>\n"
@@ -509,7 +509,7 @@ msgstr "A kontroller támogatásnak"
 
 # Supposed to be empty in Russian and Serbian.
 msgid "JOYMNU_DISABLED2"
-msgstr "engedélyezve kell lenni, hogy érzékeljen bármit is."
+msgstr "engedélyezve kell lenni, hogy érzékeljen bármit is"
 
 msgid "JOYMNU_INVALID"
 msgstr "Hibás kontroller van a menühöz osztva"
