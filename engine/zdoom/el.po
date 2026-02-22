@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 05:10+0000\n"
+"PO-Revision-Date: 2026-02-22 21:11+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/el/>\n"
@@ -335,10 +335,10 @@ msgid "STSTR_CLEV"
 msgstr "Αλλαγή πίστας…"
 
 msgid "TXT_BUDDHAON"
-msgstr "Λειτουργία Βουδα ΕΝΕΡΓΟΠΟΙΗΜΈΝΗ"
+msgstr "Λειτουργία Βουδα ΕΝΕΡΓΟ"
 
 msgid "TXT_BUDDHAOFF"
-msgstr "Λειτουργία Βουδα ΆΠΕΝΕΡΓΟΠΟΙΗΜΈΝΗ"
+msgstr "Λειτουργία Βουδα ΑΝΕΝΕΡΓΟ"
 
 msgid "TXT_BUDDHA2ON"
 msgstr "Λειτουργία Απόλητου Βουδα ΕΝΕΡΓΟΠΟΙΗΜΈΝΗ"
@@ -592,7 +592,7 @@ msgid "AM_ITEMS"
 msgstr "Αντεικείμενα:"
 
 msgid "OB_SUICIDE"
-msgstr "@[art_gr] %o αυτοκτόνησε"
+msgstr "%o αυτοκτόνησε."
 
 msgid "OB_FALLING"
 msgstr "@[art_gr] %o έπεσε."

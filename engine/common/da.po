@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 05:15+0000\n"
+"PO-Revision-Date: 2026-02-22 21:11+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/uzdoom/common/da/>"
 "\n"
@@ -595,7 +595,6 @@ msgstr "Lilla"
 msgid "TXT_COLOR_DULLGREEN"
 msgstr "Oliven"
 
-#, fuzzy
 msgid "TXT_COLOR_BEIGE"
 msgstr "Beige"
 

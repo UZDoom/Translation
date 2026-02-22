@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 03:10+0000\n"
-"Last-Translator: Marazm Mamazm <brutdewelopment@gmail.com>\n"
+"PO-Revision-Date: 2026-02-22 21:12+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/pl/>\n"
 "Language: pl\n"
@@ -338,10 +338,10 @@ msgid "STSTR_CLEV"
 msgstr "Zmienianie poziomu…"
 
 msgid "TXT_BUDDHAON"
-msgstr "Tryb Buddy WŁĄCZONY"
+msgstr "Tryb Buddy WŁ"
 
 msgid "TXT_BUDDHAOFF"
-msgstr "Tryb Buddy WYŁĄCZONY"
+msgstr "Tryb Buddy WYŁ"
 
 msgid "TXT_BUDDHA2ON"
 msgstr "Maksymalny Tryb Buddy WŁĄCZONY"

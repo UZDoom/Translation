@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 05:10+0000\n"
+"PO-Revision-Date: 2026-02-22 21:11+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fr/>\n"
@@ -338,10 +338,10 @@ msgid "STSTR_CLEV"
 msgstr "Changement de niveau…"
 
 msgid "TXT_BUDDHAON"
-msgstr "Mode Bouddha ON"
+msgstr "Mode Bouddha ACTIF"
 
 msgid "TXT_BUDDHAOFF"
-msgstr "Mode Bouddha OFF"
+msgstr "Mode Bouddha INACTIF"
 
 msgid "TXT_BUDDHA2ON"
 msgstr "Mode Bouddha Ultime ON"

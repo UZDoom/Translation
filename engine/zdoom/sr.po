@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 03:10+0000\n"
+"PO-Revision-Date: 2026-02-22 21:12+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/sr/>\n"
@@ -338,10 +338,10 @@ msgid "STSTR_CLEV"
 msgstr "Мењам ниво…"
 
 msgid "TXT_BUDDHAON"
-msgstr "Буда Мод УКЉУЧЕН"
+msgstr "Буда Мод УКЉ"
 
 msgid "TXT_BUDDHAOFF"
-msgstr "Буда Мод ИСКЉУЧЕН"
+msgstr "Буда Мод ИСКЉ"
 
 msgid "TXT_BUDDHA2ON"
 msgstr "Ултимативни Буда Мод УКЉУЧЕН"

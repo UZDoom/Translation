@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 05:15+0000\n"
+"PO-Revision-Date: 2026-02-22 21:32+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/common/"
 "uk/>\n"
@@ -1308,25 +1308,20 @@ msgstr "Білінійна"
 msgid "OPTVAL_TRILINEAR"
 msgstr "Трилінійна"
 
-#, fuzzy
 msgid "OPTVAL_2X"
-msgstr "2x"
+msgstr "2×"
 
-#, fuzzy
 msgid "OPTVAL_4X"
-msgstr "4x"
+msgstr "4×"
 
-#, fuzzy
 msgid "OPTVAL_8X"
-msgstr "8x"
+msgstr "8×"
 
-#, fuzzy
 msgid "OPTVAL_16X"
-msgstr "16x"
+msgstr "16×"
 
-#, fuzzy
 msgid "OPTVAL_32X"
-msgstr "32x"
+msgstr "32×"
 
 msgid "GLTEXMNU_TITLE"
 msgstr "Параметри текстур"

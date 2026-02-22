@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 05:15+0000\n"
+"PO-Revision-Date: 2026-02-22 21:12+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/sv/>\n"
@@ -336,10 +336,10 @@ msgid "STSTR_CLEV"
 msgstr "Ändrad nivå…"
 
 msgid "TXT_BUDDHAON"
-msgstr "Buddha-läge på"
+msgstr "Buddha-läge PÅ"
 
 msgid "TXT_BUDDHAOFF"
-msgstr "Buddha-läge avstängt"
+msgstr "Buddha-läge AV"
 
 msgid "TXT_BUDDHA2ON"
 msgstr "Ultimat Buddha-läge på"
@@ -3341,7 +3341,7 @@ msgid "CMPTMNU_POLYOBJ"
 msgstr "Rita polyobjekt som Hexen"
 
 msgid "CMPTMNU_MASKEDMIDTEX"
-msgstr "Ignorera Y-förskjutningar på maskerade midtexturer."
+msgstr "Ignorera Y-förskjutningar på maskerade midtexturer"
 
 msgid "CMPTMNU_SPRITESORT"
 msgstr "Invertera sprite-sortering"

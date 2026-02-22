@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-20 23:10+0000\n"
+"PO-Revision-Date: 2026-02-22 21:32+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/common/"
 "ru/>\n"
@@ -1307,10 +1307,10 @@ msgid "GLTEXMNU_ANISOTROPIC"
 msgstr "Анизотропная фильтрация"
 
 msgid "OPTVAL_NONENEARESTMIPMAP"
-msgstr "Нет (ближайший MIP-уровень)"
+msgstr "Нет (ближайший mip-уровень)"
 
 msgid "OPTVAL_NONELINEARMIPMAP"
-msgstr "Нет (линейный MIP-уровень)"
+msgstr "Нет (линейный mip-уровень)"
 
 msgid "OPTVAL_NONETRILINEAR"
 msgstr "Нет (трилинейная)"
@@ -1327,17 +1327,14 @@ msgstr "2x"
 msgid "OPTVAL_4X"
 msgstr "4x"
 
-#, fuzzy
 msgid "OPTVAL_8X"
-msgstr "8x"
+msgstr "8×"
 
-#, fuzzy
 msgid "OPTVAL_16X"
-msgstr "16x"
+msgstr "16×"
 
-#, fuzzy
 msgid "OPTVAL_32X"
-msgstr "32x"
+msgstr "32×"
 
 msgid "GLTEXMNU_TITLE"
 msgstr "Настройки текстур"
