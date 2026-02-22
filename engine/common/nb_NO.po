@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-20 23:09+0000\n"
+"PO-Revision-Date: 2026-02-22 05:15+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/uzdoom/"
 "common/nb_NO/>\n"
@@ -532,7 +532,6 @@ msgstr "Død sone"
 msgid "JOYMNU_NOAXES"
 msgstr "Ingen konfigurerbare akser"
 
-#, fuzzy
 msgid "OPTVAL_NONE"
 msgstr "Ingen"
 
@@ -593,6 +592,7 @@ msgstr "Lilla"
 msgid "TXT_COLOR_DULLGREEN"
 msgstr "Oliven"
 
+#, fuzzy
 msgid "TXT_COLOR_BEIGE"
 msgstr "Beige"
 

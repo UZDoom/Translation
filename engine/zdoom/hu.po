@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 23:09+0000\n"
+"PO-Revision-Date: 2026-02-22 05:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hu/>\n"
@@ -372,7 +372,7 @@ msgid "TXT_CHEATIDDQD"
 msgstr "Csalni akarsz, mi? Most meghalsz!"
 
 msgid "TXT_CHEATIDKFA"
-msgstr "Csaló - nem érdemelsz fegyvert!"
+msgstr "Csaló—nem érdemelsz fegyvert"
 
 msgid "TXT_CHEATTICKERON"
 msgstr "Számláló BE"
@@ -397,9 +397,8 @@ msgstr "Fagyasztás BE"
 msgid "TXT_FREEZEOFF"
 msgstr "Fagyasztás KI"
 
-#, fuzzy
 msgid "TXT_STRANGE"
-msgstr "Furán érzed magad..."
+msgstr "Furán érzed magad…"
 
 msgid "TXT_STRANGER"
 msgstr "Még furábban érzed magad."
@@ -497,7 +496,7 @@ msgid "SPREEKILLSELF"
 msgstr "%o jól nézett ki még mielőtt megölte magát!"
 
 msgid "SPREEOVER"
-msgstr "%o ámokfutását %k megállította."
+msgstr "%o ámokfutását %k megállította"
 
 msgid "SPREE5"
 msgstr "%o egy Ámokfutó!"
@@ -785,22 +784,22 @@ msgid "BETA_BONUS4"
 msgstr "Felvettél egy istentelen bibliát."
 
 msgid "PD_BLUEO"
-msgstr "Egy kék kulcs szükséges az tárgy aktiválásához."
+msgstr "Egy kék kulcs szükséges az tárgy aktiválásához"
 
 msgid "PD_REDO"
-msgstr "Piros kulcs kell, hogy aktiválhasd ezt a tárgyat."
+msgstr "Piros kulcs kell, hogy aktiválhasd ezt a tárgyat"
 
 msgid "PD_YELLOWO"
 msgstr "Egy sárga kulccsal aktiválható ez a tárgy"
 
 msgid "PD_BLUEK"
-msgstr "Az ajtót egy kék kulcs nyitja."
+msgstr "Az ajtót egy kék kulcs nyitja"
 
 msgid "PD_REDK"
-msgstr "Piros kulcs szükséges, hogy az ajtót kinyithasd."
+msgstr "Piros kulcs szükséges, hogy az ajtót kinyithasd"
 
 msgid "PD_YELLOWK"
-msgstr "Kell egy sárga kulcs hogy kinyisd ezt az ajtót."
+msgstr "Kell egy sárga kulcs hogy kinyisd ezt az ajtót"
 
 msgid "PD_BLUECO"
 msgstr "Egy kék kártya kell, hogy ezt a tárgyat aktiválhasd"
@@ -812,31 +811,31 @@ msgid "PD_YELLOWCO"
 msgstr "Kell egy sárga kártya hogy aktiváld ezt a tárgyat"
 
 msgid "PD_BLUESO"
-msgstr "Kell egy kék koponya hogy aktiváld ezt a tárgyat."
+msgstr "Kell egy kék koponya hogy aktiváld ezt a tárgyat"
 
 msgid "PD_REDSO"
-msgstr "Kell egy piros koponya hogy aktiváld ezt a tárgyat."
+msgstr "Kell egy piros koponya hogy aktiváld ezt a tárgyat"
 
 msgid "PD_YELLOWSO"
-msgstr "Kell egy sárga koponya hogy aktiváld ezt a tárgyat."
+msgstr "Kell egy sárga koponya hogy aktiváld ezt a tárgyat"
 
 msgid "PD_BLUEC"
-msgstr "Ez az ajtó egy kék kártyával nyílik."
+msgstr "Ez az ajtó egy kék kártyával nyílik"
 
 msgid "PD_REDC"
-msgstr "Ez az ajtó egy piros kártyával nyílik."
+msgstr "Ez az ajtó egy piros kártyával nyílik"
 
 msgid "PD_YELLOWC"
-msgstr "Ez az ajtó egy sárga kártyával nyílik."
+msgstr "Ez az ajtó egy sárga kártyával nyílik"
 
 msgid "PD_BLUES"
-msgstr "Ez az ajtó egy kék koponyával nyílik."
+msgstr "Ez az ajtó egy kék koponyával nyílik"
 
 msgid "PD_REDS"
-msgstr "Ez az ajtó egy piros koponyával nyílik."
+msgstr "Ez az ajtó egy piros koponyával nyílik"
 
 msgid "PD_YELLOWS"
-msgstr "Ez az ajtó egy sárga koponyával nyílik."
+msgstr "Ez az ajtó egy sárga koponyával nyílik"
 
 msgid "CC_ZOMBIE"
 msgstr "Zombi"

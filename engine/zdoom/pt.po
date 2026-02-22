@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 05:22+0000\n"
+"PO-Revision-Date: 2026-02-22 05:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/pt/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.16\n"
+"X-Generator: Weblate 5.16.1-dev\n"
 "X-HeaderCode: ptg\n"
 
 msgid "PRESSKEY"
@@ -363,7 +363,7 @@ msgid "TXT_CHEATIDDQD"
 msgstr "A fazer batota, é? Morre!"
 
 msgid "TXT_CHEATIDKFA"
-msgstr "Batoteir@[ao_ptb] - Não mereces armamento"
+msgstr "Batoteir@[ao_ptb]—Não mereces armamento"
 
 msgid "TXT_CHEATTICKERON"
 msgstr ""
@@ -386,9 +386,8 @@ msgstr ""
 msgid "TXT_FREEZEOFF"
 msgstr ""
 
-#, fuzzy
 msgid "TXT_STRANGE"
-msgstr "Tu sentes-te estranh@[ao_ptb]."
+msgstr "Tu sentes-te estranh@[ao_ptb]…"
 
 msgid "TXT_STRANGER"
 msgstr "Tu sentes-te ainda mais estranh@[ao_ptb]."
@@ -614,7 +613,7 @@ msgid "OB_ROCKET"
 msgstr ""
 
 msgid "OB_KILLEDSELF"
-msgstr "%o matou-se"
+msgstr "%o matou-se."
 
 msgid "OB_VOODOO"
 msgstr ""
@@ -648,7 +647,7 @@ msgid "GOTARMOR"
 msgstr "Apanhaste uma armadura."
 
 msgid "GOTMEGA"
-msgstr "Apanhaste uma MegaArmadura."
+msgstr "Apanhaste uma MegaArmadura!"
 
 msgid "GOTHTHBONUS"
 msgstr "Apanhaste um bônus de vida."
@@ -660,9 +659,7 @@ msgid "GOTSTIM"
 msgstr "Apanhaste um kit de primeiros socorros."
 
 msgid "GOTMEDINEED"
-msgstr ""
-"Apanhaste um kit médico\n"
-"que estavas MESMO a precisar!"
+msgstr "Apanhaste um kit médico que estavas MESMO a precisar!"
 
 msgid "GOTMEDIKIT"
 msgstr "Apanhaste um kit médico."
@@ -713,13 +710,13 @@ msgid "GOTCLIP"
 msgstr "Apanhaste um carregador"
 
 msgid "GOTCLIPBOX"
-msgstr "Apanhaste uma caixa de balas"
+msgstr "Apanhaste uma caixa de balas."
 
 msgid "GOTROCKET"
-msgstr "Apanhaste um míssil"
+msgstr "Apanhaste um míssil."
 
 msgid "GOTROCKBOX"
-msgstr "Apanhaste uma caixa de mísseis"
+msgstr "Apanhaste uma caixa de mísseis."
 
 msgid "GOTCELL"
 msgstr "Apanhaste uma célula de energia"
@@ -734,10 +731,10 @@ msgid "GOTSHELLBOX"
 msgstr "Apanhaste uma caixa de cartuchos de espingarda"
 
 msgid "GOTBACKPACK"
-msgstr "Apanhaste uma mochila cheia de munição"
+msgstr "Apanhaste uma mochila cheia de munição!"
 
 msgid "GOTBFG9000"
-msgstr "Apanhaste a BFG9000! Oh, SIM!"
+msgstr "Apanhaste a BFG9000! Oh, sim."
 
 msgid "GOTCHAINGUN"
 msgstr "Apanhaste a metrelhadora!"
@@ -752,7 +749,7 @@ msgid "GOTPLASMA"
 msgstr "Apanhaste uma pistola de plasma!"
 
 msgid "GOTSHOTGUN"
-msgstr "Apanhaste uma espingarda."
+msgstr "Apanhaste uma espingarda!"
 
 msgid "GOTSHOTGUN2"
 msgstr "Apanhaste uma espingarda de cano duplo!"

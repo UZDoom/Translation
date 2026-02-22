@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-20 23:11+0000\n"
+"PO-Revision-Date: 2026-02-22 05:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fr/>\n"
@@ -371,7 +371,7 @@ msgid "TXT_CHEATIDDQD"
 msgstr "Tu essaie de tricher, hein ? Et bah tu crève !"
 
 msgid "TXT_CHEATIDKFA"
-msgstr "Tricheur- Tu ne mérite pas ton flingue"
+msgstr "Tricheur—Tu ne mérite pas ton flingue"
 
 msgid "TXT_CHEATTICKERON"
 msgstr "Compteur allumé"
@@ -412,10 +412,10 @@ msgid "TXT_LEADBOOTSOFF"
 msgstr "Bottes en plomb OFF"
 
 msgid "TXT_LIGHTER"
-msgstr "Vous vous sentez très léger."
+msgstr "Vous vous sentez très léger"
 
 msgid "TXT_GRAVITY"
-msgstr "La gravité vous ramène au sol."
+msgstr "La gravité vous ramène au sol"
 
 msgid "TXT_NOTARGET_ON"
 msgstr "Monstres aveugles et sourds ON"
@@ -479,10 +479,10 @@ msgid "AMSTR_TEXOFF"
 msgstr "Mode Texturé OFF"
 
 msgid "AMSTR_MARKEDSPOT"
-msgstr "Repère marqué."
+msgstr "Repère marqué"
 
 msgid "AMSTR_MARKSCLEARED"
-msgstr "Repères éffacés."
+msgstr "Repères éffacés"
 
 msgid "TXT_FRAGLIMIT"
 msgstr "Limite de frags atteinte."
@@ -518,11 +518,12 @@ msgid "MULTI3"
 msgstr "Multi kill!"
 
 msgid "MULTI4"
-msgstr "Ultra kill!"
+msgstr "Ultra kill !"
 
 msgid "MULTI5"
 msgstr "Monster kill!"
 
+#, fuzzy
 msgid "SCORE_BONUS"
 msgstr "Bonus"
 
@@ -680,22 +681,22 @@ msgid "GOTSUPER"
 msgstr ""
 
 msgid "GOTBLUECARD"
-msgstr "Carte d'accès BLEUE récupérée."
+msgstr "Carte d'accès bleue récupérée."
 
 msgid "GOTYELWCARD"
-msgstr "Carte d'accès JAUNE récupérée."
+msgstr "Carte d'accès jaune récupérée."
 
 msgid "GOTREDCARD"
-msgstr "Carte d'accès ROUGE récupérée."
+msgstr "Carte d'accès rouge récupérée."
 
 msgid "GOTBLUESKUL"
-msgstr "Clef Crâne BLEUE récupérée."
+msgstr "Clef Crâne bleue récupérée."
 
 msgid "GOTYELWSKUL"
-msgstr "Clef Crâne JAUNE récupérée."
+msgstr "Clef Crâne jaune récupérée."
 
 msgid "GOTREDSKUL"
-msgstr "Clef Crâne ROUGE récupérée."
+msgstr "Clef Crâne rouge récupérée."
 
 msgid "GOTINVUL"
 msgstr "Invulnérabilité !"
@@ -758,13 +759,13 @@ msgid "GOTLAUNCHER"
 msgstr "Vouz avez pris un lance-roquettes !"
 
 msgid "GOTPLASMA"
-msgstr "Vouz avez pris un FUSIL A PLASMA !"
+msgstr "Vouz avez pris un fusil a plasma !"
 
 msgid "GOTSHOTGUN"
-msgstr "Vouz avez pris un FUSIL A POMPE !"
+msgstr "Vouz avez pris un fusil a pompe !"
 
 msgid "GOTSHOTGUN2"
-msgstr "Vouz avez pris le SUPER FUSIL DE CHASSE !"
+msgstr "Vouz avez pris le super fusil de chasse !"
 
 msgid "PICKUP_PISTOL_DROPPED"
 msgstr "Vouz avez pris un Pistolet."
@@ -782,58 +783,58 @@ msgid "BETA_BONUS4"
 msgstr "Bible profane récupérée."
 
 msgid "PD_BLUEO"
-msgstr "Il vous faut une clé bleue pour activer cet objet."
+msgstr "Il vous faut une clé bleue pour activer cet objet"
 
 msgid "PD_REDO"
-msgstr "Il vous faut une clé rouge pour activer cet objet."
+msgstr "Il vous faut une clé rouge pour activer cet objet"
 
 msgid "PD_YELLOWO"
-msgstr "Il vous faut une clé jaune pour activer cet objet."
+msgstr "Il vous faut une clé jaune pour activer cet objet"
 
 msgid "PD_BLUEK"
-msgstr "Il vous faut une clé bleue pour ouvrir cette porte."
+msgstr "Il vous faut une clé bleue pour ouvrir cette porte"
 
 msgid "PD_REDK"
-msgstr "Il vous faut une clé rouge pour ouvrir cette porte."
+msgstr "Il vous faut une clé rouge pour ouvrir cette porte"
 
 msgid "PD_YELLOWK"
-msgstr "Il vous faut une clé jaune pour ouvrir cette porte."
+msgstr "Il vous faut une clé jaune pour ouvrir cette porte"
 
 msgid "PD_BLUECO"
-msgstr "Il vous faut une carte bleue pour activer cet objet."
+msgstr "Il vous faut une carte bleue pour activer cet objet"
 
 msgid "PD_REDCO"
-msgstr "Il vous faut une carte rouge pour activer cet objet."
+msgstr "Il vous faut une carte rouge pour activer cet objet"
 
 msgid "PD_YELLOWCO"
-msgstr "Il vous faut une carte jaune pour activer cet objet."
+msgstr "Il vous faut une carte jaune pour activer cet objet"
 
 msgid "PD_BLUESO"
-msgstr "Il vous faut un crâne bleu pour activer cet objet."
+msgstr "Il vous faut un crâne bleu pour activer cet objet"
 
 msgid "PD_REDSO"
-msgstr "Il vous faut un crâne rouge pour activer cet objet."
+msgstr "Il vous faut un crâne rouge pour activer cet objet"
 
 msgid "PD_YELLOWSO"
-msgstr "Il vous faut un crâne jaune pour activer cet objet."
+msgstr "Il vous faut un crâne jaune pour activer cet objet"
 
 msgid "PD_BLUEC"
-msgstr "Il vous faut une carte bleue pour ouvrir cette porte."
+msgstr "Il vous faut une carte bleue pour ouvrir cette porte"
 
 msgid "PD_REDC"
-msgstr "Il vous faut une carte rouge pour ouvrir cette porte."
+msgstr "Il vous faut une carte rouge pour ouvrir cette porte"
 
 msgid "PD_YELLOWC"
-msgstr "Il vous faut une carte jaune pour ouvrir cette porte."
+msgstr "Il vous faut une carte jaune pour ouvrir cette porte"
 
 msgid "PD_BLUES"
-msgstr "Il vous faut un crâne bleu pour ouvrir cette porte."
+msgstr "Il vous faut un crâne bleu pour ouvrir cette porte"
 
 msgid "PD_REDS"
-msgstr "Il vous faut un crâne rouge pour ouvrir cette porte."
+msgstr "Il vous faut un crâne rouge pour ouvrir cette porte"
 
 msgid "PD_YELLOWS"
-msgstr "Il vous faut un crâne jaune pour ouvrir cette porte."
+msgstr "Il vous faut un crâne jaune pour ouvrir cette porte"
 
 msgid "CC_ZOMBIE"
 msgstr "Zombie"

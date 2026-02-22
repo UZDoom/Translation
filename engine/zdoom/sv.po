@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-20 23:10+0000\n"
+"PO-Revision-Date: 2026-02-22 05:15+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/sv/>\n"
@@ -371,7 +371,7 @@ msgid "TXT_CHEATIDDQD"
 msgstr "Försöker du fuska? Nu dör du!"
 
 msgid "TXT_CHEATIDKFA"
-msgstr "Fuskare - du förtjänar inte vapen."
+msgstr "Fuskare—du förtjänar inte vapen"
 
 msgid "TXT_CHEATTICKERON"
 msgstr "Ticker på"
@@ -396,9 +396,8 @@ msgstr "Frysningsläge på"
 msgid "TXT_FREEZEOFF"
 msgstr "Frysningsläge av"
 
-#, fuzzy
 msgid "TXT_STRANGE"
-msgstr "Du känner dig konstig..."
+msgstr "Du känner dig konstig…"
 
 msgid "TXT_STRANGER"
 msgstr "Du känner dig ännu konstigare."
@@ -414,7 +413,7 @@ msgid "TXT_LEADBOOTSOFF"
 msgstr "Blykängor av"
 
 msgid "TXT_LIGHTER"
-msgstr "Du känner dig lättare."
+msgstr "Du känner dig lättare"
 
 msgid "TXT_GRAVITY"
 msgstr "Tyngdkraften tynger ner dig"
@@ -498,7 +497,7 @@ msgid "SPREEKILLSELF"
 msgstr "%o såg bra ut tills han tog livet av sig!"
 
 msgid "SPREEOVER"
-msgstr "%os dödskampanj avslutades av %k."
+msgstr "%os dödskampanj avslutades av %k"
 
 msgid "SPREE5"
 msgstr "%k är på en mordresa!"
@@ -584,7 +583,7 @@ msgstr "Ingång till"
 
 msgctxt "heretic hexen"
 msgid "WI_ENTERING"
-msgstr "Ingång till"
+msgstr "Ingång till:"
 
 msgid "AM_MONSTERS"
 msgstr "Monster:"
@@ -786,13 +785,13 @@ msgid "BETA_BONUS4"
 msgstr "Plockade upp en ohelig bibel."
 
 msgid "PD_BLUEO"
-msgstr "Du behöver en blå nyckel för att aktivera det här föremålet."
+msgstr "Du behöver en blå nyckel för att aktivera det här föremålet"
 
 msgid "PD_REDO"
-msgstr "Du behöver en röd nyckel för att aktivera det här föremålet."
+msgstr "Du behöver en röd nyckel för att aktivera det här föremålet"
 
 msgid "PD_YELLOWO"
-msgstr "Du behöver en gul nyckel för att aktivera det här föremålet."
+msgstr "Du behöver en gul nyckel för att aktivera det här föremålet"
 
 msgid "PD_BLUEK"
 msgstr "Du behöver en blå nyckel för att öppna den här dörren"
@@ -801,43 +800,43 @@ msgid "PD_REDK"
 msgstr "Du behöver en röd nyckel för att öppna den här dörren"
 
 msgid "PD_YELLOWK"
-msgstr "Du behöver en gul nyckel för att öppna den här dörren."
+msgstr "Du behöver en gul nyckel för att öppna den här dörren"
 
 msgid "PD_BLUECO"
-msgstr "Du behöver ett blått kort för att aktivera det här objektet."
+msgstr "Du behöver ett blått kort för att aktivera det här objektet"
 
 msgid "PD_REDCO"
-msgstr "Du behöver ett rött kort för att aktivera det här föremålet."
+msgstr "Du behöver ett rött kort för att aktivera det här föremålet"
 
 msgid "PD_YELLOWCO"
-msgstr "Du behöver ett gult kort för att aktivera det här föremålet."
+msgstr "Du behöver ett gult kort för att aktivera det här föremålet"
 
 msgid "PD_BLUESO"
-msgstr "Du behöver en blå skalle för att aktivera det här objektet."
+msgstr "Du behöver en blå skalle för att aktivera det här objektet"
 
 msgid "PD_REDSO"
-msgstr "Du behöver en röd skalle för att aktivera det här föremålet."
+msgstr "Du behöver en röd skalle för att aktivera det här föremålet"
 
 msgid "PD_YELLOWSO"
-msgstr "Du behöver en gul skalle för att aktivera detta föremål."
+msgstr "Du behöver en gul skalle för att aktivera detta föremål"
 
 msgid "PD_BLUEC"
-msgstr "Du behöver ett blått kort för att öppna den här dörren."
+msgstr "Du behöver ett blått kort för att öppna den här dörren"
 
 msgid "PD_REDC"
-msgstr "Du behöver ett rött kort för att öppna den här dörren."
+msgstr "Du behöver ett rött kort för att öppna den här dörren"
 
 msgid "PD_YELLOWC"
-msgstr "Du behöver ett gult kort för att öppna den här dörren."
+msgstr "Du behöver ett gult kort för att öppna den här dörren"
 
 msgid "PD_BLUES"
-msgstr "Du behöver en blå skalle för att öppna den här dörren."
+msgstr "Du behöver en blå skalle för att öppna den här dörren"
 
 msgid "PD_REDS"
-msgstr "Du behöver en röd skalle för att öppna den här dörren."
+msgstr "Du behöver en röd skalle för att öppna den här dörren"
 
 msgid "PD_YELLOWS"
-msgstr "Du behöver en gul skalle för att öppna den här dörren."
+msgstr "Du behöver en gul skalle för att öppna den här dörren"
 
 msgid "CC_ZOMBIE"
 msgstr "Zombie"
@@ -859,6 +858,7 @@ msgstr ""
 msgid "CC_LOST"
 msgstr "Förlorad själ"
 
+#, fuzzy
 msgid "CC_CACO"
 msgstr "Cacodemon"
 
@@ -1306,7 +1306,7 @@ msgid "OB_HERETICIMPHIT"
 msgstr "%o blev hackad av en gargoyle."
 
 msgid "OB_IRONLICH"
-msgstr "%o blev förödd av en järnlich"
+msgstr "%o blev förödd av en järnlich."
 
 msgid "OB_IRONLICHHIT"
 msgstr "%o kom nära och personligt med en järnlich."

@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-20 23:11+0000\n"
+"PO-Revision-Date: 2026-02-22 05:15+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/uzdoom/common/fr/>"
 "\n"
@@ -499,7 +499,7 @@ msgid "JOYMNU_PS2"
 msgstr "Activer adaptateurs PS2 bruts"
 
 msgid "JOYMNU_NOCON"
-msgstr "Aucun Contrôleur détecté."
+msgstr "Aucun Contrôleur détecté"
 
 msgid "JOYMNU_CONFIG"
 msgstr "Configurer contrôleurs :"
@@ -509,10 +509,10 @@ msgstr "Le Support de contrôleur doit être activé"
 
 # Supposed to be empty in Russian and Serbian.
 msgid "JOYMNU_DISABLED2"
-msgstr "avant de pouvoir en détecter un."
+msgstr "avant de pouvoir en détecter un"
 
 msgid "JOYMNU_INVALID"
-msgstr "Contrôleur invalide spécifé dans le menu."
+msgstr "Contrôleur invalide spécifé dans le menu"
 
 msgid "JOYMNU_OVRSENS"
 msgstr "Sensibilité générale"
@@ -529,7 +529,6 @@ msgstr "Zone neutre"
 msgid "JOYMNU_NOAXES"
 msgstr "Aucun axe à configurer"
 
-#, fuzzy
 msgid "OPTVAL_NONE"
 msgstr "Aucun"
 

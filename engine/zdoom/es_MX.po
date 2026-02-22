@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-20 23:14+0000\n"
-"Last-Translator: Ret Neychozken <retneychozken@gmail.com>\n"
+"PO-Revision-Date: 2026-02-22 03:09+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/es_MX/>\n"
 "Language: es_MX\n"
@@ -371,7 +371,7 @@ msgid "TXT_CHEATIDDQD"
 msgstr "¿Intentando usar trucos? ¡Muere!"
 
 msgid "TXT_CHEATIDKFA"
-msgstr "Tramposo - no te mereces las armas"
+msgstr "Tramposo—no te mereces las armas"
 
 msgid "TXT_CHEATTICKERON"
 msgstr ""
@@ -1013,10 +1013,10 @@ msgid "OB_VILE"
 msgstr "%o fue incinerado por un archvile."
 
 msgid "OB_UNDEAD"
-msgstr "A %o l@[ao_esp] hizo reventar un Revenant."
+msgstr "%o no logró evitar el cohete del Renacido."
 
 msgid "OB_FATSO"
-msgstr "A %o l@[ao_esp] pulverizó un Mancubus."
+msgstr "%o fue pulverizado por un Mancubus."
 
 msgid "OB_CHAINGUY"
 msgstr "A %o l@[ao_esp] perforó un Ametrallador."

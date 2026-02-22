@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-20 23:11+0000\n"
+"PO-Revision-Date: 2026-02-22 05:15+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/uzdoom/common/"
 "it/>\n"
@@ -530,7 +530,6 @@ msgstr "Zona cieca"
 msgid "JOYMNU_NOAXES"
 msgstr "Nessun asse configurabile"
 
-#, fuzzy
 msgid "OPTVAL_NONE"
 msgstr "Nessuno"
 
@@ -591,6 +590,7 @@ msgstr "Viola"
 msgid "TXT_COLOR_DULLGREEN"
 msgstr "Verde pallido"
 
+#, fuzzy
 msgid "TXT_COLOR_BEIGE"
 msgstr "Beige"
 

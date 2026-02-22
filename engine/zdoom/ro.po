@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 23:10+0000\n"
+"PO-Revision-Date: 2026-02-22 05:15+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ro/>\n"
@@ -372,7 +372,7 @@ msgid "TXT_CHEATIDDQD"
 msgstr "Încerci să trișezi, ei? Acum mori!"
 
 msgid "TXT_CHEATIDKFA"
-msgstr "Trișor - Nu meriți arme"
+msgstr "Trișor—Nu meriți arme"
 
 msgid "TXT_CHEATTICKERON"
 msgstr "Ticăitoare activată"
@@ -397,9 +397,8 @@ msgstr "Modul înghețat pornit"
 msgid "TXT_FREEZEOFF"
 msgstr "Modul înghețat oprit"
 
-#, fuzzy
 msgid "TXT_STRANGE"
-msgstr "Te simți ciudat..."
+msgstr "Te simți ciudat…"
 
 msgid "TXT_STRANGER"
 msgstr "Te simți și mai ciudat."
@@ -674,9 +673,7 @@ msgid "GOTSTIM"
 msgstr "Ai ridicat un kit de prim-ajutor mic."
 
 msgid "GOTMEDINEED"
-msgstr ""
-"Ai ridicat un kit de prim-ajutor de care CHIAR aveai\n"
-"nevoie!"
+msgstr "Ai ridicat un kit de prim-ajutor de care CHIAR aveai nevoie!"
 
 msgid "GOTMEDIKIT"
 msgstr "Ai ridicat un kit de prim-ajutor."
@@ -826,7 +823,7 @@ msgid "PD_BLUEC"
 msgstr "Ai nevoie de un card albastru pentru a activa ușa"
 
 msgid "PD_REDC"
-msgstr "Ai nevoie de un card galben pentru a activa ușa"
+msgstr "Ai nevoie de un card roșu pentru a activa ușa"
 
 msgid "PD_YELLOWC"
 msgstr "Ai nevoie de un card galben pentru a activa ușa"
@@ -860,6 +857,7 @@ msgstr ""
 msgid "CC_LOST"
 msgstr "Suflet Pierdut"
 
+#, fuzzy
 msgid "CC_CACO"
 msgstr "Cacodemon"
 
@@ -1310,9 +1308,7 @@ msgid "OB_IRONLICH"
 msgstr "%o a fost devastat de cadavrul de fier."
 
 msgid "OB_IRONLICHHIT"
-msgstr ""
-"%o s-a apropiat prea mult de un \n"
-"cadavru de fier."
+msgstr "%o s-a apropiat prea mult de un cadavru de fier."
 
 msgid "OB_BONEKNIGHT"
 msgstr "%o a primit un topor de la războinicul nemort."

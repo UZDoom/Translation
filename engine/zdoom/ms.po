@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-20 23:14+0000\n"
+"PO-Revision-Date: 2026-02-22 05:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Malay <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ms/>\n"
@@ -496,6 +496,7 @@ msgstr "Rahsia"
 msgid "TXT_IMTIME"
 msgstr "Masa"
 
+#, fuzzy
 msgid "TXT_IMPAR"
 msgstr "Par"
 
@@ -627,6 +628,7 @@ msgstr ""
 msgid "GOTINVUL"
 msgstr "Kekebalan!"
 
+#, fuzzy
 msgid "GOTBERSERK"
 msgstr "Berserk!"
 
@@ -773,6 +775,7 @@ msgstr ""
 msgid "CC_HEAVY"
 msgstr ""
 
+#, fuzzy
 msgid "CC_IMP"
 msgstr "Imp"
 
@@ -782,6 +785,7 @@ msgstr ""
 msgid "CC_LOST"
 msgstr ""
 
+#, fuzzy
 msgid "CC_CACO"
 msgstr "Cacodemon"
 

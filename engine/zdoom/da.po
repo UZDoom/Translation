@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 23:10+0000\n"
+"PO-Revision-Date: 2026-02-22 05:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/da/>\n"
@@ -370,7 +370,7 @@ msgid "TXT_CHEATIDDQD"
 msgstr "Prøver du at snyde, hva'? Nu dør du!"
 
 msgid "TXT_CHEATIDKFA"
-msgstr "Snyder - du fortjener ikke våben"
+msgstr "Snyder—du fortjener ikke våben"
 
 msgid "TXT_CHEATTICKERON"
 msgstr "Ticker TIL"
@@ -395,9 +395,8 @@ msgstr "Frysetilstand TIL"
 msgid "TXT_FREEZEOFF"
 msgstr "Frysetilstand FRA"
 
-#, fuzzy
 msgid "TXT_STRANGE"
-msgstr "Du føler dig mærkelig..."
+msgstr "Du føler dig mærkelig…"
 
 msgid "TXT_STRANGER"
 msgstr "Du føler dig endnu mere mærkelig."
@@ -486,10 +485,10 @@ msgid "AMSTR_MARKSCLEARED"
 msgstr "Alle markeringer slettes"
 
 msgid "TXT_FRAGLIMIT"
-msgstr "Fraggrænse nået"
+msgstr "Fraggrænse nået."
 
 msgid "TXT_TIMELIMIT"
-msgstr "Tidsgrænse nået"
+msgstr "Tidsgrænse nået."
 
 msgid "SPREEKILLSELF"
 msgstr "%o så godt ud, indtil @[pro_dk] dræbte sig selv!"
@@ -711,7 +710,7 @@ msgid "GOTSUIT"
 msgstr "Stråleafskærmningsdragt"
 
 msgid "GOTMAP"
-msgstr "Computerkort."
+msgstr "Computerkort"
 
 msgid "GOTVISOR"
 msgstr "Lysforstærkningsvisir"

@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 23:10+0000\n"
+"PO-Revision-Date: 2026-02-22 03:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/de/>\n"
@@ -370,7 +370,7 @@ msgid "TXT_CHEATIDDQD"
 msgstr "Versuchst zu betrügen, was? Nun stirbst du!"
 
 msgid "TXT_CHEATIDKFA"
-msgstr "Betrüger - du verdienst keine Waffen"
+msgstr "Betrüger—du verdienst keine Waffen"
 
 msgid "TXT_CHEATTICKERON"
 msgstr "Zähler AN"
@@ -395,9 +395,8 @@ msgstr "Gefriermodus AN"
 msgid "TXT_FREEZEOFF"
 msgstr "Gefriermodus AUS"
 
-#, fuzzy
 msgid "TXT_STRANGE"
-msgstr "Du fühlst dich merkwürdig..."
+msgstr "Du fühlst dich merkwürdig…"
 
 msgid "TXT_STRANGER"
 msgstr "Du fühlst dich noch merkwürdiger."
@@ -571,6 +570,7 @@ msgstr "Geheimnisse"
 msgid "TXT_IMTIME"
 msgstr "Zeit"
 
+#, fuzzy
 msgid "TXT_IMPAR"
 msgstr "Par"
 

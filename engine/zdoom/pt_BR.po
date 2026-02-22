@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 23:10+0000\n"
+"PO-Revision-Date: 2026-02-22 05:15+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "uzdoom/zdoom-engine-strings/pt_BR/>\n"
@@ -397,9 +397,8 @@ msgstr "Modo congelado ativado"
 msgid "TXT_FREEZEOFF"
 msgstr "Modo congelado desativado"
 
-#, fuzzy
 msgid "TXT_STRANGE"
-msgstr "Você está com uma sensação estranha..."
+msgstr "Você está com uma sensação estranha…"
 
 msgid "TXT_STRANGER"
 msgstr "Você está com uma sensação mais estranha ainda."
@@ -452,8 +451,7 @@ msgstr "%d monstros mortos"
 
 msgid "TXT_NO_RESURRECT"
 msgstr ""
-"Impossível ressuscitar. O jogador não \n"
-"está mais ligado ao próprio corpo."
+"Impossível ressuscitar. O jogador não está mais ligado ao próprio corpo."
 
 msgid "TXT_ALL_ARTIFACTS"
 msgstr "Todos os artefatos!"
@@ -675,9 +673,7 @@ msgid "GOTSTIM"
 msgstr "Pegou um estimulante."
 
 msgid "GOTMEDINEED"
-msgstr ""
-"Pegou um kit médico\n"
-"que você REALMENTE precisava!"
+msgstr "Pegou um kit médico que você REALMENTE precisava!"
 
 msgid "GOTMEDIKIT"
 msgstr "Pegou um kit médico."
@@ -752,7 +748,7 @@ msgid "GOTBACKPACK"
 msgstr "Pegou uma mochila cheia de munição!"
 
 msgid "GOTBFG9000"
-msgstr "Você pegou a BFG! Ah, que delícia!"
+msgstr "Você pegou a BFG! Ah, que delícia."
 
 msgid "GOTCHAINGUN"
 msgstr "Você pegou a metralhadora!"
@@ -1320,10 +1316,10 @@ msgid "OB_BONEKNIGHTHIT"
 msgstr "%o foi picotad@[ao_ptb] por um guerreiro morto-vivo."
 
 msgid "OB_MINOTAUR"
-msgstr "%o foi incinerad@[ao_ptb] por um Marretauro"
+msgstr "%o foi incinerad@[ao_ptb] por um Marretauro."
 
 msgid "OB_MINOTAURHIT"
-msgstr "%o foi esmagad@[ao_ptb] por um Marretauro"
+msgstr "%o foi esmagad@[ao_ptb] por um Marretauro."
 
 msgid "OB_MUMMY"
 msgstr "%o foi esmagad@[ao_ptb] por um golem."

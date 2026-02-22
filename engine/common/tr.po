@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-20 23:10+0000\n"
+"PO-Revision-Date: 2026-02-22 05:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/uzdoom/common/"
 "tr/>\n"
@@ -543,6 +543,7 @@ msgstr "Yukarı/Aşağı Bakmak"
 msgid "OPTVAL_MOVINGFORWARD"
 msgstr "İleriye Doğru"
 
+#, fuzzy
 msgid "OPTVAL_STRAFING"
 msgstr "Strafing"
 

@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-20 23:11+0000\n"
+"PO-Revision-Date: 2026-02-22 05:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/el/>\n"
@@ -383,7 +383,7 @@ msgid "TXT_CHEATARTIFACTS3"
 msgstr "Το πήρες"
 
 msgid "TXT_MIDASTOUCH"
-msgstr "Έχεις το αγγιγμα το Μίδα, μωρό."
+msgstr "Έχεις το αγγιγμα το Μίδα, μωρό"
 
 msgid "TXT_GOTSTUFF"
 msgstr "Πήρες τηατ πράγματα !"
@@ -395,9 +395,8 @@ msgstr "Παγομένη λειτουργία ΕΝΕΡΓΟΠΟΙΗΜΈΝΗ"
 msgid "TXT_FREEZEOFF"
 msgstr "Παγομένη λειτουργία ΆΠΕΝΕΡΓΟΠΟΙΗΜΈΝΗ"
 
-#, fuzzy
 msgid "TXT_STRANGE"
-msgstr "Νιώθης περίεργα..."
+msgstr "Νιώθης περίεργα…"
 
 msgid "TXT_STRANGER"
 msgstr "Νιώθης ακόμα πιό περίεργα..."
@@ -416,7 +415,7 @@ msgid "TXT_LIGHTER"
 msgstr "Νιώθης πιο ελαφρής"
 
 msgid "TXT_GRAVITY"
-msgstr "Η βαρύτητα σε πιάνει."
+msgstr "Η βαρύτητα σε πιάνει"
 
 msgid "TXT_NOTARGET_ON"
 msgstr "Αστόχευτη λειτουργία ΕΝΕΡΓΟΠΟΙΗΜΈΝΗ"
@@ -449,7 +448,7 @@ msgid "TXT_MONSTERS_KILLED"
 msgstr "%d τον τεράτων πέθαναν"
 
 msgid "TXT_NO_RESURRECT"
-msgstr "Ανάσταση αδύνατη, ο παίχτης δεν είναι πια στο σώμα @[pro4_gr]"
+msgstr "Ανάσταση αδύνατη, ο παίχτης δεν είναι πια στο σώμα @[pro4_gr]."
 
 msgid "TXT_ALL_ARTIFACTS"
 msgstr "Όλα τα τεχνουργίματα!"
@@ -495,7 +494,7 @@ msgid "SPREEKILLSELF"
 msgstr "@[art_gr] %o πήγενε μια χαρά μέχρι που αυτοκτόνησε!"
 
 msgid "SPREEOVER"
-msgstr "Ο/Η %k σταμάτησε την ανθρωποκτονία %h %o."
+msgstr "Ο/Η %k σταμάτησε την ανθρωποκτονία %h %o"
 
 msgid "SPREE5"
 msgstr "Ο/Η %k άρχισε μια ανθρωποκτονία!"
@@ -504,7 +503,7 @@ msgid "SPREE10"
 msgstr "Ο/Η %k είναι σε ξέσπασμα!"
 
 msgid "SPREE15"
-msgstr "Ο/Η %k κατακτεί."
+msgstr "Ο/Η %k κατακτεί!"
 
 msgid "SPREE20"
 msgstr "Ο/Η %k είναι ασταμάτητος/η!"
@@ -584,22 +583,22 @@ msgid "WI_ENTERING"
 msgstr "Τώρα εισέρχεσε στο:"
 
 msgid "AM_MONSTERS"
-msgstr "Τέρατα"
+msgstr "Τέρατα:"
 
 msgid "AM_SECRETS"
-msgstr "Μυστικά"
+msgstr "Μυστικά:"
 
 msgid "AM_ITEMS"
-msgstr "Αντεικείμενα"
+msgstr "Αντεικείμενα:"
 
 msgid "OB_SUICIDE"
 msgstr "@[art_gr] %o αυτοκτόνησε"
 
 msgid "OB_FALLING"
-msgstr "@[art_gr] %o έπεσε"
+msgstr "@[art_gr] %o έπεσε."
 
 msgid "OB_CRUSH"
-msgstr "@[art_gr] %o συνθλίφτηκε"
+msgstr "@[art_gr] %o συνθλίφτηκε."
 
 msgid "OB_EXIT"
 msgstr "@[art_gr] %o προσπάθησε να φύγει"
@@ -608,13 +607,13 @@ msgid "OB_WATER"
 msgstr "@[art_gr] %o δέν μπορεί να κολυμπήσει"
 
 msgid "OB_SLIME"
-msgstr "@[art_gr] %o μεταλάχθηκε"
+msgstr "@[art_gr] %o μεταλάχθηκε."
 
 msgid "OB_LAVA"
 msgstr "@[art_gr] %o έλειοσε"
 
 msgid "OB_BARREL"
-msgstr "@[art_gr] %o έσκασε"
+msgstr "@[art_gr] %o έσκασε."
 
 msgid "OB_SPLASH"
 msgstr "@[art_gr] %o έκατσε στο λάθος σημείο"
@@ -626,7 +625,7 @@ msgid "OB_ROCKET"
 msgstr "@[art_gr] %o έπρεπε να είχε κάτσι πίσω"
 
 msgid "OB_KILLEDSELF"
-msgstr "@[art_gr] %o αυτοκτόνησε"
+msgstr "@[art_gr] %o αυτοκτόνησε."
 
 msgid "OB_VOODOO"
 msgstr "@[art_gr] %o πέθανε απο τη δύναμη του βουντου"
@@ -638,17 +637,17 @@ msgid "OB_MONTELEFRAG"
 msgstr "@[art_gr] %o κοματιάστηκε μέσω τηλεμεταφοράς"
 
 msgid "OB_DEFAULT"
-msgstr "@[art_gr] %o πέθανε"
+msgstr "@[art_gr] %o πέθανε."
 
 msgid "OB_MPDEFAULT"
-msgstr "@[art_gr] %o στοτώθηκε απο τον/την %k"
+msgstr "@[art_gr] %o στοτώθηκε απο τον/την %k."
 
 msgid "OB_FRIENDLY1"
 msgstr "Ο/Η %k σκότωσε έναν σύμαχο"
 
 # English was changed to remove problematic pronoun referencing the killer
 msgid "OB_FRIENDLY2"
-msgstr "Ο/Η %k φαίνεται να χρειάζετε γυαλία"
+msgstr "Ο/Η %k φαίνεται να χρειάζετε γυαλία."
 
 msgid "OB_FRIENDLY3"
 msgstr "Ο/Η %k πάιρνει έναν κοματιασμό για την άλλη ομάδα."
@@ -750,13 +749,13 @@ msgid "GOTBFG9000"
 msgstr "Πήρες το BFG9000! ο, ΝΑΊ."
 
 msgid "GOTCHAINGUN"
-msgstr "Πήρες το πολυβόλο."
+msgstr "Πήρες το πολυβόλο!"
 
 msgid "GOTCHAINSAW"
 msgstr "Ένα αλυσοπρίονο! Βρες κρέας!"
 
 msgid "GOTLAUNCHER"
-msgstr "Πήρες το πυραβλοβόλο."
+msgstr "Πήρες το πυραβλοβόλο!"
 
 msgid "GOTPLASMA"
 msgstr "Πήρες το όπλο πλάσματος!"

@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-20 23:11+0000\n"
+"PO-Revision-Date: 2026-02-22 05:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ru/>\n"
@@ -372,7 +372,7 @@ msgid "TXT_CHEATIDDQD"
 msgstr "Жульничаешь, э? Так умри!"
 
 msgid "TXT_CHEATIDKFA"
-msgstr "Жулик — ты не заслуживаешь оружия"
+msgstr "Жулик—ты не заслуживаешь оружия"
 
 msgid "TXT_CHEATTICKERON"
 msgstr "Счётчик включён"
@@ -385,7 +385,7 @@ msgid "TXT_CHEATARTIFACTS3"
 msgstr "Вы получили это"
 
 msgid "TXT_MIDASTOUCH"
-msgstr "Ты превращаешь всё в золото, детка!"
+msgstr "Ты превращаешь всё в золото, детка"
 
 msgid "TXT_GOTSTUFF"
 msgstr "Получены предметы!"
@@ -397,9 +397,8 @@ msgstr "Режим заморозки включён"
 msgid "TXT_FREEZEOFF"
 msgstr "Режим заморозки отключён"
 
-#, fuzzy
 msgid "TXT_STRANGE"
-msgstr "Вы чувствуете себя странно..."
+msgstr "Вы чувствуете себя странно…"
 
 msgid "TXT_STRANGER"
 msgstr "Вы чувствуете себя очень странно."
@@ -415,10 +414,10 @@ msgid "TXT_LEADBOOTSOFF"
 msgstr "Свинцовые сапоги сняты"
 
 msgid "TXT_LIGHTER"
-msgstr "Вы чувствуете лёгкость."
+msgstr "Вы чувствуете лёгкость"
 
 msgid "TXT_GRAVITY"
-msgstr "Гравитация тянет вас вниз."
+msgstr "Гравитация тянет вас вниз"
 
 msgid "TXT_NOTARGET_ON"
 msgstr "Незаметность ВКЛЮЧЕНА"
@@ -706,16 +705,16 @@ msgid "GOTBERSERK"
 msgstr "Берсерк!"
 
 msgid "GOTINVIS"
-msgstr "Частичная невидимость."
+msgstr "Частичная невидимость"
 
 msgid "GOTSUIT"
-msgstr "Костюм радиационной защиты."
+msgstr "Костюм радиационной защиты"
 
 msgid "GOTMAP"
-msgstr "Компьютерная карта уровня."
+msgstr "Компьютерная карта уровня"
 
 msgid "GOTVISOR"
-msgstr "Очки ночного видения."
+msgstr "Очки ночного видения"
 
 msgid "GOTMSPHERE"
 msgstr "Мегасфера!"
@@ -748,7 +747,7 @@ msgid "GOTBACKPACK"
 msgstr "Получен рюкзак, полный патронов!"
 
 msgid "GOTBFG9000"
-msgstr "У вас BFG9000! О, да!"
+msgstr "У вас BFG9000! О, да."
 
 msgid "GOTCHAINGUN"
 msgstr "Получен пулемёт!"
