@@ -21,6 +21,3 @@ msgstr "MALŜALTITA"
 
 msgid "MIDI"
 msgstr "MIDI"
-
-msgid "Freeverb"
-msgstr ""
