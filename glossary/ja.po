@@ -21,6 +21,3 @@ msgstr "オフ"
 
 msgid "MIDI"
 msgstr "MIDI"
-
-msgid "Freeverb"
-msgstr ""
