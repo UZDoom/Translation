@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 05:10+0000\n"
+"PO-Revision-Date: 2026-02-22 05:15+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/uzdoom/common/cs/>"
 "\n"
@@ -499,7 +499,7 @@ msgid "JOYMNU_PS2"
 msgstr "Povolit ovladače PlayStation 2"
 
 msgid "JOYMNU_NOCON"
-msgstr "Nenalezeny žádné ovladače."
+msgstr "Nenalezeny žádné ovladače"
 
 msgid "JOYMNU_CONFIG"
 msgstr "Nastavit ovladače:"
@@ -509,7 +509,7 @@ msgstr "Pro nalezení ovladačů musí"
 
 # Supposed to be empty in Russian and Serbian.
 msgid "JOYMNU_DISABLED2"
-msgstr "být zapnuta jejich podpora."
+msgstr "být zapnuta jejich podpora"
 
 msgid "JOYMNU_INVALID"
 msgstr "Vybrán nesprávný ovladač pro nabídky"
