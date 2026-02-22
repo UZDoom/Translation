@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-20 23:10+0000\n"
-"Last-Translator: LibreTranslate <noreply-mt-libretranslate@weblate.org>\n"
+"PO-Revision-Date: 2026-02-22 21:12+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/"
 "glossary/es_MX/>\n"
 "Language: es_MX\n"
@@ -45,3 +45,6 @@ msgstr "DESACTIVADAS"
 
 msgid "MIDI"
 msgstr "MIDI"
+
+msgid "Freeverb"
+msgstr ""
