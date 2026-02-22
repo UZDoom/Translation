@@ -21,6 +21,3 @@ msgstr "AUS"
 
 msgid "MIDI"
 msgstr "MIDI"
-
-msgid "Freeverb"
-msgstr ""
