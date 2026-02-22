@@ -45,6 +45,3 @@ msgstr "ATIVADAS"
 
 msgid "MIDI"
 msgstr "MIDI"
-
-msgid "Freeverb"
-msgstr ""
