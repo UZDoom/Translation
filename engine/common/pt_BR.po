@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-20 23:10+0000\n"
+"PO-Revision-Date: 2026-02-22 05:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "uzdoom/common/pt_BR/>\n"
@@ -421,6 +421,7 @@ msgstr "Ativar mouse nos menus"
 msgid "MOUSEMNU_SHOWBACKBUTTON"
 msgstr "Exibir botão de voltar"
 
+#, fuzzy
 msgid "MOUSEMNU_CURSOR"
 msgstr "Cursor"
 
@@ -513,7 +514,7 @@ msgid "JOYMNU_DISABLED2"
 msgstr "ser ativada para exibi-los."
 
 msgid "JOYMNU_INVALID"
-msgstr "Controle inválido especificado para o menu."
+msgstr "Controle inválido especificado para o menu"
 
 msgid "JOYMNU_OVRSENS"
 msgstr "Sensibilidade geral"
@@ -530,7 +531,6 @@ msgstr "Zona morta"
 msgid "JOYMNU_NOAXES"
 msgstr "Nenhum eixo configurável"
 
-#, fuzzy
 msgid "OPTVAL_NONE"
 msgstr "Nenhum"
 
