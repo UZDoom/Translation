@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 03:10+0000\n"
+"PO-Revision-Date: 2026-02-22 21:11+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/be/>\n"
@@ -337,10 +337,10 @@ msgid "STSTR_CLEV"
 msgstr "Змена ўзроўню…"
 
 msgid "TXT_BUDDHAON"
-msgstr "Рэжым Буды ЎКЛЮЧАНЫ"
+msgstr "Рэжым Буды УКЛ"
 
 msgid "TXT_BUDDHAOFF"
-msgstr "Рэжым Буды ВЫКЛЮЧАНЫ"
+msgstr "Рэжым Буды ВЫКЛ"
 
 msgid "TXT_BUDDHA2ON"
 msgstr "Рэжым ультыматыўнага Буды ЎКЛЮЧАНЫ"
