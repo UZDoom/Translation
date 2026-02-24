@@ -29,9 +29,6 @@ msgstr "FluidSynth"
 msgid "Freeverb"
 msgstr "Слободни глагол"
 
-msgid "Timidity++"
-msgstr "Стидљивост++"
-
 msgid "ADLMidi"
 msgstr "ADLMidi"
 
