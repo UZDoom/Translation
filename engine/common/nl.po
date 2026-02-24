@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 16:13+0000\n"
+"PO-Revision-Date: 2026-02-24 17:30+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/uzdoom/common/nl/>"
 "\n"
@@ -848,15 +848,12 @@ msgstr "Refrein"
 msgid "ADVSNDMNU_TIMIDITY"
 msgstr "Verlegenheid++"
 
-#, fuzzy
 msgid "ADVSNDMNU_ADLMIDI"
 msgstr "ADLMidi"
 
-#, fuzzy
 msgid "ADVSNDMNU_OPNMIDI"
 msgstr "OPNMidi"
 
-#, fuzzy
 msgid "ADVSNDMNU_WILDMIDI"
 msgstr "WildMidi"
 
