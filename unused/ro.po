@@ -3,7 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "PO-Revision-Date: 2026-02-24 05:20+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
+"memory@weblate.org>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/uzdoom/unused/"
 "ro/>\n"
 "Language: ro\n"
@@ -18,36 +19,36 @@ msgid "ADVSNDMNU_ADLOPLCORES"
 msgstr "Nucleu de emulare OPL"
 
 msgid "ADVSNDMNU_FLUIDPATCHSET"
-msgstr ""
+msgstr "Set patch"
 
 msgid "ADVSNDMNU_GUSCONFIG"
-msgstr ""
+msgstr "Fișier configurație GUS"
 
 # Jargon.
 msgid "ADVSNDMNU_TIMIDITYCONFIG"
-msgstr ""
+msgstr "Fișier configurație Timidity"
 
 msgid "ADVSNDMNU_TIMIDITYVOLUME"
-msgstr ""
+msgstr "Volum relativ"
 
 # Jargon.
 msgid "ADVSNDMNU_WILDMIDICONFIG"
-msgstr ""
+msgstr "Fișier configurație WildMidi"
 
 msgid "CNTRLMNU_ADJUST_GAMMA"
-msgstr ""
+msgstr "Ajustează gamma"
 
 msgid "CNTRLMNU_CHAT"
-msgstr ""
+msgstr "Scrie"
 
 msgid "CNTRLMNU_CHAT_TITLE"
-msgstr ""
+msgstr "Personalizare Control de Scriere"
 
 msgid "DSPLYMNU_ADVANCED"
-msgstr ""
+msgstr "Setări de Afișare Avansate"
 
 msgid "DSPLYMNU_APPEARANCE"
-msgstr ""
+msgstr "Aspect"
 
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr "Dimensiune țintă"
@@ -56,73 +57,73 @@ msgid "DSPLYMNU_MESSAGES"
 msgstr "Mesaje"
 
 msgid "DSPLYMNU_SBSCALE"
-msgstr ""
+msgstr "Scară Bară de Stare"
 
 msgid "GLTEXMNU_ENABLEHIRES"
-msgstr ""
+msgstr "Texturi de înaltă rezoluție"
 
 msgid "GLTEXMNU_TEXENABLED"
-msgstr ""
+msgstr "Texturi activate"
 
 msgid "MOUSEMNU_SMOOTHMOUSE"
 msgstr "Mișcare mouse lină"
 
 msgid "MSGMNU_MESSAGESCALE"
-msgstr ""
+msgstr "Scară Mesaje"
 
 msgid "NOTSET"
-msgstr ""
+msgstr "Nesetat"
 
 msgid "OPTMNU_INPUT"
-msgstr ""
+msgstr "Setări de Intrare"
 
 msgid "OPTMNU_LIGHT"
-msgstr ""
+msgstr "Setări de Lumină"
 
 msgid "OPTMNU_MULTIPLAYER"
-msgstr ""
+msgstr "Setări multiplayer"
 
 msgid "OPTMNU_SPRITE"
-msgstr ""
+msgstr "Setări Sprite"
 
 msgid "OPTMNU_SYSTEM"
-msgstr ""
+msgstr "Setări de Sistem"
 
 msgid "OPTVAL_4000HZ"
 msgstr ""
 
 msgid "OPTVAL_AUTOMAP"
-msgstr ""
+msgstr "Hartă Computerizată"
 
 msgid "OPTVAL_HUD"
-msgstr ""
+msgstr "Interfață"
 
 msgid "OPTVAL_HUDANDMAP"
-msgstr ""
+msgstr "Interfață + Hartă Computerizată"
 
 msgid "OPTVAL_PMDWINOPNA"
 msgstr ""
 
 msgid "OPTVAL_SCALENEAREST"
-msgstr ""
+msgstr "Redimensionat (Cel mai apropiat)"
 
 msgid "OPTVAL_SCALELINEAR"
-msgstr ""
+msgstr "Redimensionat (Liniar)"
 
 msgid "PICKER_NETAUTO"
-msgstr ""
+msgstr "Auto (recomandat)"
 
 msgid "PICKER_NETMODE"
-msgstr ""
+msgstr "Setare modul:"
 
 # Players connect to each other individually.
 msgid "PICKER_NETPEER"
-msgstr ""
+msgstr "De la Persoană-la-Persoană"
 
 # Connections are routed through the host instead of all players connecting to
 # each other individually.
 msgid "PICKER_NETSERVER"
-msgstr ""
+msgstr "Server de Loturi"
 
 # Jargon.
 msgid "REVMNU_AIR_ABSORPTION_HF"
@@ -142,7 +143,7 @@ msgstr ""
 
 # Jargon.
 msgid "REVMNU_DENSITY"
-msgstr ""
+msgstr "Densitate"
 
 # Jargon.
 msgid "REVMNU_DIFFUSION"
@@ -202,7 +203,7 @@ msgstr ""
 
 # Jargon.
 msgid "REVMNU_REVERB"
-msgstr ""
+msgstr "Reverberat"
 
 # Jargon.
 msgid "REVMNU_REVERB_DELAY"
@@ -237,109 +238,109 @@ msgid "REVMNU_ROOM_ROLLOFF_FACTOR"
 msgstr ""
 
 msgid "SNDMNU_BACKEND"
-msgstr ""
+msgstr "Sistem audio"
 
 msgid "SNDMNU_MENUSOUND"
-msgstr ""
+msgstr "Sunet în meniuri"
 
 msgid "SNDMNU_MUSENABLED"
-msgstr ""
+msgstr "Muzică activată"
 
 msgid "SNDMNU_SNDENABLED"
-msgstr ""
+msgstr "Sunet activat"
 
 msgid "VIDMNU_5X4ASPECTRATIO"
-msgstr ""
+msgstr "Activează formatul 5:4"
 
 msgid "VIDMNU_ASPECTRATIO"
 msgstr "Aspect imagine"
 
 msgid "VKMNU_DEVICESELECT"
-msgstr ""
+msgstr "Selectare Dispozitiv Vulkan"
 
 msgid "VKMNU_ENABLE"
-msgstr ""
+msgstr "Activează Modul Video Vulkan"
 
 msgid "CMPTMNU_SOUNDCUTOFF"
-msgstr ""
+msgstr "Sunetele se opresc când actorul sursă dispare"
 
 msgid "DSPLYMNU_TOOLTIP_WHITEPOINT"
 msgstr ""
 
 msgid "DSPLYMNU_TRANSSOUL"
-msgstr ""
+msgstr "Transparență Suflete Pierdute"
 
 msgid "DSPLYMNU_WHITEPOINT"
 msgstr ""
 
 msgid "GLLIGHTMNU_LIGHTDEFS"
-msgstr ""
+msgstr "Activează definițiile pentru lumini"
 
 msgid "GLMNU_PREFS"
-msgstr ""
+msgstr "Preferințe"
 
 msgid "GLPREFMNU_PALTONENOGREY"
-msgstr ""
+msgstr "Prevenire umbre gri"
 
 msgid "GLTEXMNU_TRIMSPREDGE"
-msgstr ""
+msgstr "Tundere margini sprite-uri"
 
 msgid "JOYMNU_HAPTRIGGERS"
-msgstr ""
+msgstr "Activează declanșatoarele haptice"
 
 msgid "NETMNU_MOVEPREDICTION"
-msgstr ""
+msgstr "Anticipare mișcare"
 
 msgid "NETMNU_TICBALANCE"
-msgstr ""
+msgstr "Întârzierea echilibrării"
 
 msgid "OPTSTR_NOSOUND"
-msgstr ""
+msgstr "Fără Sunet"
 
 msgid "OPTSTR_OPENAL"
 msgstr ""
 
 msgid "OPTVAL_ALLUNACKNOWLEDGED"
-msgstr ""
+msgstr "Toate necunoscute"
 
 msgid "OPTVAL_DEDICATED"
-msgstr ""
+msgstr "De înaltă Performanță"
 
 msgid "OPTVAL_DOUBLE"
-msgstr ""
+msgstr "Dublu"
 
 msgid "OPTVAL_INTEGRATED"
-msgstr ""
+msgstr "Economie de Energie"
 
 msgid "OPTVAL_OPTIMAL"
-msgstr ""
+msgstr "Optim"
 
 msgid "OPTVAL_OPTIMIZED"
-msgstr ""
+msgstr "Optimizat"
 
 msgid "OPTVAL_ORIGINAL"
-msgstr ""
+msgstr "Original"
 
 msgid "OPTVAL_PIXELDOUBLE"
-msgstr ""
+msgstr "Dublare pixeli"
 
 msgid "OPTVAL_PIXELQUADRUPLE"
-msgstr ""
+msgstr "Împătrire pixeli"
 
 msgid "OPTVAL_QUADRUPLE"
-msgstr ""
+msgstr "Cvadruplu"
 
 msgid "OPTVAL_SCALETO640X400"
-msgstr ""
+msgstr "Dimensionare la 640x480"
 
 msgid "OPTVAL_TRIPLE"
-msgstr ""
+msgstr "Triplu"
 
 msgid "OPTVAL_VTAVANILLA"
-msgstr ""
+msgstr "Auto (Original preferat)"
 
 msgid "OPTVAL_VTAZDOOM"
-msgstr ""
+msgstr "Auto (ZDoom preferat)"
 
 msgid "TCMNU_TRUECOLOR"
-msgstr ""
+msgstr "Putere Mod Culori Complete"
