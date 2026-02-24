@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-23 06:09+0000\n"
-"Last-Translator: Arif Budiman <arifpedia@gmail.com>\n"
+"PO-Revision-Date: 2026-02-24 02:31+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/uzdoom/common/"
 "id/>\n"
 "Language: id\n"
@@ -58,7 +58,7 @@ msgid "MSGOFF"
 msgstr "Pesan: MATI"
 
 msgid "MSGON"
-msgstr "Pesan: NYALA"
+msgstr "Pesan: AKTIF"
 
 msgid "TXT_SAY"
 msgstr "Katakan:"
@@ -341,6 +341,7 @@ msgstr "Perbesar"
 msgid "MAPCNTRLMNU_ZOOMOUT"
 msgstr "Perkecil"
 
+#, fuzzy
 msgid "MAPCNTRLMNU_TOGGLEZOOM"
 msgstr "Toggle zoom"
 
