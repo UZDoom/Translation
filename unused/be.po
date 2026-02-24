@@ -2,8 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 05:20+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-02-24 05:22+0000\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
+"memory@weblate.org>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/uzdoom/unused/"
 "be/>\n"
 "Language: be\n"
@@ -18,36 +19,36 @@ msgid "ADVSNDMNU_ADLOPLCORES"
 msgstr "Ядро эмуляцыі OPL"
 
 msgid "ADVSNDMNU_FLUIDPATCHSET"
-msgstr ""
+msgstr "Патч-набор"
 
 msgid "ADVSNDMNU_GUSCONFIG"
-msgstr ""
+msgstr "Файл канфігурацыі для GUS"
 
 # Jargon.
 msgid "ADVSNDMNU_TIMIDITYCONFIG"
-msgstr ""
+msgstr "Файл канфігурацыі Timidity"
 
 msgid "ADVSNDMNU_TIMIDITYVOLUME"
-msgstr ""
+msgstr "Адносная гучнасць"
 
 # Jargon.
 msgid "ADVSNDMNU_WILDMIDICONFIG"
-msgstr ""
+msgstr "Файл канфігурацыі WildMidi"
 
 msgid "CNTRLMNU_ADJUST_GAMMA"
-msgstr ""
+msgstr "Настройка гамы"
 
 msgid "CNTRLMNU_CHAT"
-msgstr ""
+msgstr "Чат"
 
 msgid "CNTRLMNU_CHAT_TITLE"
-msgstr ""
+msgstr "Клавішы кіравання чатам"
 
 msgid "DSPLYMNU_ADVANCED"
-msgstr ""
+msgstr "Пашыраныя налады экрана"
 
 msgid "DSPLYMNU_APPEARANCE"
-msgstr ""
+msgstr "Знешнасць"
 
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr "Памер прыцэла"
@@ -56,58 +57,58 @@ msgid "DSPLYMNU_MESSAGES"
 msgstr "Паведамлення"
 
 msgid "DSPLYMNU_SBSCALE"
-msgstr ""
+msgstr "Памер радка стану"
 
 msgid "GLTEXMNU_ENABLEHIRES"
-msgstr ""
+msgstr "Тэкстуры высокага дазволу"
 
 msgid "GLTEXMNU_TEXENABLED"
-msgstr ""
+msgstr "Уключыць тэкстуры"
 
 msgid "MOUSEMNU_SMOOTHMOUSE"
 msgstr "Плаўнае перамяшчэнне"
 
 msgid "MSGMNU_MESSAGESCALE"
-msgstr ""
+msgstr "Памер паведамленняў"
 
 msgid "NOTSET"
-msgstr ""
+msgstr "Не ўстаноўлена"
 
 msgid "OPTMNU_INPUT"
-msgstr ""
+msgstr "Налады ўводу"
 
 msgid "OPTMNU_LIGHT"
-msgstr ""
+msgstr "Налады асвятлення"
 
 msgid "OPTMNU_MULTIPLAYER"
-msgstr ""
+msgstr "Налады гульні па сетцы"
 
 msgid "OPTMNU_SPRITE"
-msgstr ""
+msgstr "Налады спрайтаў"
 
 msgid "OPTMNU_SYSTEM"
-msgstr ""
+msgstr "Налады сістэмы"
 
 msgid "OPTVAL_4000HZ"
-msgstr ""
+msgstr "4000 Гц"
 
 msgid "OPTVAL_AUTOMAP"
-msgstr ""
+msgstr "Аўтакарта"
 
 msgid "OPTVAL_HUD"
-msgstr ""
+msgstr "Інтэрфейс"
 
 msgid "OPTVAL_HUDANDMAP"
-msgstr ""
+msgstr "Інтэрфейс + аўтакарта"
 
 msgid "OPTVAL_PMDWINOPNA"
 msgstr ""
 
 msgid "OPTVAL_SCALENEAREST"
-msgstr ""
+msgstr "Маштабаваць (бліжэйшае)"
 
 msgid "OPTVAL_SCALELINEAR"
-msgstr ""
+msgstr "Маштабаваць (лінейнае)"
 
 msgid "PICKER_NETAUTO"
 msgstr ""
@@ -237,28 +238,28 @@ msgid "REVMNU_ROOM_ROLLOFF_FACTOR"
 msgstr ""
 
 msgid "SNDMNU_BACKEND"
-msgstr ""
+msgstr "Гукавая падсістэма"
 
 msgid "SNDMNU_MENUSOUND"
-msgstr ""
+msgstr "Гук у меню"
 
 msgid "SNDMNU_MUSENABLED"
-msgstr ""
+msgstr "Музыка ўключана"
 
 msgid "SNDMNU_SNDENABLED"
-msgstr ""
+msgstr "Гук уключаны"
 
 msgid "VIDMNU_5X4ASPECTRATIO"
-msgstr ""
+msgstr "Уключыць суадносіны бакоў 5:4"
 
 msgid "VIDMNU_ASPECTRATIO"
 msgstr "Суадносіны бакоў"
 
 msgid "VKMNU_DEVICESELECT"
-msgstr ""
+msgstr "Выбраць прыладу Vulkan"
 
 msgid "VKMNU_ENABLE"
-msgstr ""
+msgstr "Выкарыстоўваць Vulkan"
 
 msgid "CMPTMNU_SOUNDCUTOFF"
 msgstr ""
@@ -276,7 +277,7 @@ msgid "GLLIGHTMNU_LIGHTDEFS"
 msgstr ""
 
 msgid "GLMNU_PREFS"
-msgstr ""
+msgstr "Параметры"
 
 msgid "GLPREFMNU_PALTONENOGREY"
 msgstr ""
@@ -312,13 +313,13 @@ msgid "OPTVAL_INTEGRATED"
 msgstr ""
 
 msgid "OPTVAL_OPTIMAL"
-msgstr ""
+msgstr "Аптымальны"
 
 msgid "OPTVAL_OPTIMIZED"
 msgstr ""
 
 msgid "OPTVAL_ORIGINAL"
-msgstr ""
+msgstr "Зыходная"
 
 msgid "OPTVAL_PIXELDOUBLE"
 msgstr ""

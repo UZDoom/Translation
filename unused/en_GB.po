@@ -2,8 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 05:20+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-02-24 05:38+0000\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
+"memory@weblate.org>\n"
 "Language-Team: English (United Kingdom) <https://hosted.weblate.org/projects/"
 "uzdoom/unused/en_GB/>\n"
 "Language: en_GB\n"
@@ -17,36 +18,36 @@ msgid "ADVSNDMNU_ADLOPLCORES"
 msgstr "OPL Emulator Core"
 
 msgid "ADVSNDMNU_FLUIDPATCHSET"
-msgstr ""
+msgstr "Patch set"
 
 msgid "ADVSNDMNU_GUSCONFIG"
-msgstr ""
+msgstr "GUS config file"
 
 # Jargon.
 msgid "ADVSNDMNU_TIMIDITYCONFIG"
-msgstr ""
+msgstr "Timidity config file"
 
 msgid "ADVSNDMNU_TIMIDITYVOLUME"
-msgstr ""
+msgstr "Relative volume"
 
 # Jargon.
 msgid "ADVSNDMNU_WILDMIDICONFIG"
-msgstr ""
+msgstr "WildMidi config file"
 
 msgid "CNTRLMNU_ADJUST_GAMMA"
-msgstr ""
+msgstr "Adjust Gamma"
 
 msgid "CNTRLMNU_CHAT"
-msgstr ""
+msgstr "Chat"
 
 msgid "CNTRLMNU_CHAT_TITLE"
-msgstr ""
+msgstr "Customise Chat Controls"
 
 msgid "DSPLYMNU_ADVANCED"
-msgstr ""
+msgstr "Advanced Display Options"
 
 msgid "DSPLYMNU_APPEARANCE"
-msgstr ""
+msgstr "Appearance"
 
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr "Scale crosshair"
@@ -55,149 +56,149 @@ msgid "DSPLYMNU_MESSAGES"
 msgstr "Messages"
 
 msgid "DSPLYMNU_SBSCALE"
-msgstr ""
+msgstr "Status Bar Scale"
 
 msgid "GLTEXMNU_ENABLEHIRES"
-msgstr ""
+msgstr "Enable hires textures"
 
 msgid "GLTEXMNU_TEXENABLED"
-msgstr ""
+msgstr "Textures enabled"
 
 msgid "MOUSEMNU_SMOOTHMOUSE"
 msgstr "Smooth mouse movement"
 
 msgid "MSGMNU_MESSAGESCALE"
-msgstr ""
+msgstr "Message Scale"
 
 msgid "NOTSET"
-msgstr ""
+msgstr "Not set"
 
 msgid "OPTMNU_INPUT"
-msgstr ""
+msgstr "Input Options"
 
 msgid "OPTMNU_LIGHT"
-msgstr ""
+msgstr "Light Options"
 
 msgid "OPTMNU_MULTIPLAYER"
-msgstr ""
+msgstr "Multiplayer Options"
 
 msgid "OPTMNU_SPRITE"
-msgstr ""
+msgstr "Sprite Options"
 
 msgid "OPTMNU_SYSTEM"
-msgstr ""
+msgstr "System Options"
 
 msgid "OPTVAL_4000HZ"
-msgstr ""
+msgstr "4000 Hz"
 
 msgid "OPTVAL_AUTOMAP"
-msgstr ""
+msgstr "Automap"
 
 msgid "OPTVAL_HUD"
-msgstr ""
+msgstr "HUD"
 
 msgid "OPTVAL_HUDANDMAP"
-msgstr ""
+msgstr "HUD + Automap"
 
 msgid "OPTVAL_PMDWINOPNA"
-msgstr ""
+msgstr "PMDWin OPNA"
 
 msgid "OPTVAL_SCALENEAREST"
-msgstr ""
+msgstr "Scaled (Nearest)"
 
 msgid "OPTVAL_SCALELINEAR"
-msgstr ""
+msgstr "Scaled (Linear)"
 
 msgid "PICKER_NETAUTO"
-msgstr ""
+msgstr "Auto (recommended)"
 
 msgid "PICKER_NETMODE"
-msgstr ""
+msgstr "Networking Mode:"
 
 # Players connect to each other individually.
 msgid "PICKER_NETPEER"
-msgstr ""
+msgstr "Peer-to-Peer"
 
 # Connections are routed through the host instead of all players connecting to
 # each other individually.
 msgid "PICKER_NETSERVER"
-msgstr ""
+msgstr "Packet-Server"
 
 # Jargon.
 msgid "REVMNU_AIR_ABSORPTION_HF"
-msgstr ""
+msgstr "Air Absorption HF"
 
 # Jargon.
 msgid "REVMNU_DECAY_HF_RATIO"
-msgstr ""
+msgstr "Decay HF Ratio"
 
 # Jargon.
 msgid "REVMNU_DECAY_LF_RATIO"
-msgstr ""
+msgstr "Decay LF Ratio"
 
 # Jargon.
 msgid "REVMNU_DECAY_TIME"
-msgstr ""
+msgstr "Decay Time"
 
 # Jargon.
 msgid "REVMNU_DENSITY"
-msgstr ""
+msgstr "Density"
 
 # Jargon.
 msgid "REVMNU_DIFFUSION"
-msgstr ""
+msgstr "Diffusion"
 
 # Jargon.
 msgid "REVMNU_ECHO_DEPTH"
-msgstr ""
+msgstr "Echo Depth"
 
 # Jargon.
 msgid "REVMNU_ECHO_TIME"
-msgstr ""
+msgstr "Echo Time"
 
 # Jargon.
 msgid "REVMNU_ENVIRONMENT_DIFFUSION"
-msgstr ""
+msgstr "Environment Diffusion"
 
 # Jargon.
 msgid "REVMNU_ENVIRONMENT_SIZE"
-msgstr ""
+msgstr "Environment Size"
 
 # Jargon.
 msgid "REVMNU_HF_REFERENCE"
-msgstr ""
+msgstr "HF Reference"
 
 # Jargon.
 msgid "REVMNU_LF_REFERENCE"
-msgstr ""
+msgstr "LF Reference"
 
 # Jargon.
 msgid "REVMNU_MODULATION_DEPTH"
-msgstr ""
+msgstr "Modulation Depth"
 
 # Jargon.
 msgid "REVMNU_MODULATION_TIME"
-msgstr ""
+msgstr "Modulation Time"
 
 # Jargon.
 msgid "REVMNU_REFLECTIONS"
-msgstr ""
+msgstr "Reflections"
 
 # Jargon.
 msgid "REVMNU_REFLECTIONS_DELAY"
-msgstr ""
+msgstr "Reflections Delay"
 
 # Jargon.
 msgid "REVMNU_REFLECTIONS_PAN_X"
-msgstr ""
+msgstr "Reflections Pan X"
 
 # Jargon.
 msgid "REVMNU_REFLECTIONS_PAN_Y"
-msgstr ""
+msgstr "Reflections Pan Y"
 
 # Jargon.
 msgid "REVMNU_REFLECTIONS_PAN_Z"
-msgstr ""
+msgstr "Reflections Pan Z"
 
 # Jargon.
 msgid "REVMNU_REVERB"
@@ -205,140 +206,143 @@ msgstr "Reverb"
 
 # Jargon.
 msgid "REVMNU_REVERB_DELAY"
-msgstr ""
+msgstr "Reverb Delay"
 
 # Jargon.
 msgid "REVMNU_REVERB_PAN_X"
-msgstr ""
+msgstr "Reverb Pan X"
 
 # Jargon.
 msgid "REVMNU_REVERB_PAN_Y"
-msgstr ""
+msgstr "Reverb Pan Y"
 
 # Jargon.
 msgid "REVMNU_REVERB_PAN_Z"
-msgstr ""
+msgstr "Reverb Pan Z"
 
 # Jargon.
 msgid "REVMNU_ROOM"
-msgstr ""
+msgstr "Room"
 
 # Jargon.
 msgid "REVMNU_ROOM_HF"
-msgstr ""
+msgstr "Room HF"
 
 # Jargon.
 msgid "REVMNU_ROOM_LF"
-msgstr ""
+msgstr "Room LF"
 
 # Jargon.
 msgid "REVMNU_ROOM_ROLLOFF_FACTOR"
-msgstr ""
+msgstr "Room Rolloff Factor"
 
 msgid "SNDMNU_BACKEND"
-msgstr ""
+msgstr "Sound backend"
 
 msgid "SNDMNU_MENUSOUND"
-msgstr ""
+msgstr "Sound in Menus"
 
 msgid "SNDMNU_MUSENABLED"
-msgstr ""
+msgstr "Music enabled"
 
 msgid "SNDMNU_SNDENABLED"
-msgstr ""
+msgstr "Sound enabled"
 
 msgid "VIDMNU_5X4ASPECTRATIO"
-msgstr ""
+msgstr "Enable 5:4 aspect ratio"
 
 msgid "VIDMNU_ASPECTRATIO"
 msgstr "Aspect ratio"
 
 msgid "VKMNU_DEVICESELECT"
-msgstr ""
+msgstr "Select Vulkan Device"
 
 msgid "VKMNU_ENABLE"
-msgstr ""
+msgstr "Enable Vulkan"
 
 msgid "CMPTMNU_SOUNDCUTOFF"
-msgstr ""
+msgstr "Sounds stop when actor vanishes"
 
 msgid "DSPLYMNU_TOOLTIP_WHITEPOINT"
 msgstr ""
+"Compensates for monitors that fail to display bright pixels correctly. "
+"Adjust until diagonal black blocks fade. Do not use this to make the game "
+"brighter, only to ensure the image is calibrated for your setup."
 
 msgid "DSPLYMNU_TRANSSOUL"
-msgstr ""
+msgstr "Lost Soul translucency"
 
 msgid "DSPLYMNU_WHITEPOINT"
-msgstr ""
+msgstr "Whitepoint compensation"
 
 msgid "GLLIGHTMNU_LIGHTDEFS"
-msgstr ""
+msgstr "Enable light definitions"
 
 msgid "GLMNU_PREFS"
-msgstr ""
+msgstr "Preferences"
 
 msgid "GLPREFMNU_PALTONENOGREY"
-msgstr ""
+msgstr "Prevent grey shadows"
 
 msgid "GLTEXMNU_TRIMSPREDGE"
-msgstr ""
+msgstr "Trim sprite edges"
 
 msgid "JOYMNU_HAPTRIGGERS"
-msgstr ""
+msgstr "Enable Haptic Triggers"
 
 msgid "NETMNU_MOVEPREDICTION"
-msgstr ""
+msgstr "Movement prediction"
 
 msgid "NETMNU_TICBALANCE"
-msgstr ""
+msgstr "Latency balancing"
 
 msgid "OPTSTR_NOSOUND"
-msgstr ""
+msgstr "No Sound"
 
 msgid "OPTSTR_OPENAL"
-msgstr ""
+msgstr "OpenAL"
 
 msgid "OPTVAL_ALLUNACKNOWLEDGED"
-msgstr ""
+msgstr "All unacknowledged"
 
 msgid "OPTVAL_DEDICATED"
-msgstr ""
+msgstr "High-Performance"
 
 msgid "OPTVAL_DOUBLE"
-msgstr ""
+msgstr "Double"
 
 msgid "OPTVAL_INTEGRATED"
-msgstr ""
+msgstr "Power-Saving"
 
 msgid "OPTVAL_OPTIMAL"
-msgstr ""
+msgstr "Optimal"
 
 msgid "OPTVAL_OPTIMIZED"
-msgstr ""
+msgstr "Optimised"
 
 msgid "OPTVAL_ORIGINAL"
-msgstr ""
+msgstr "Original"
 
 msgid "OPTVAL_PIXELDOUBLE"
-msgstr ""
+msgstr "Pixel double"
 
 msgid "OPTVAL_PIXELQUADRUPLE"
-msgstr ""
+msgstr "Pixel quadruple"
 
 msgid "OPTVAL_QUADRUPLE"
-msgstr ""
+msgstr "Quadruple"
 
 msgid "OPTVAL_SCALETO640X400"
-msgstr ""
+msgstr "Scale to 640x400"
 
 msgid "OPTVAL_TRIPLE"
-msgstr ""
+msgstr "Triple"
 
 msgid "OPTVAL_VTAVANILLA"
-msgstr ""
+msgstr "Auto (Vanilla Preferred)"
 
 msgid "OPTVAL_VTAZDOOM"
-msgstr ""
+msgstr "Auto (ZDoom Preferred)"
 
 msgid "TCMNU_TRUECOLOR"
-msgstr ""
+msgstr "True colour output"

@@ -2,8 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 05:20+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-02-24 05:38+0000\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
+"memory@weblate.org>\n"
 "Language-Team: Malay <https://hosted.weblate.org/projects/uzdoom/unused/ms/>"
 "\n"
 "Language: ms\n"
@@ -37,16 +38,16 @@ msgid "CNTRLMNU_ADJUST_GAMMA"
 msgstr ""
 
 msgid "CNTRLMNU_CHAT"
-msgstr ""
+msgstr "Perbualan"
 
 msgid "CNTRLMNU_CHAT_TITLE"
 msgstr ""
 
 msgid "DSPLYMNU_ADVANCED"
-msgstr ""
+msgstr "Tetapan Paparan Lanjutan"
 
 msgid "DSPLYMNU_APPEARANCE"
-msgstr ""
+msgstr "Tampilan"
 
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr ""
@@ -70,22 +71,22 @@ msgid "MSGMNU_MESSAGESCALE"
 msgstr ""
 
 msgid "NOTSET"
-msgstr ""
+msgstr "Tidak ditetapkan"
 
 msgid "OPTMNU_INPUT"
-msgstr ""
+msgstr "Tetapan Input"
 
 msgid "OPTMNU_LIGHT"
-msgstr ""
+msgstr "Tetapan Cahaya"
 
 msgid "OPTMNU_MULTIPLAYER"
-msgstr ""
+msgstr "Tetapan Multipemain"
 
 msgid "OPTMNU_SPRITE"
-msgstr ""
+msgstr "Tetapan Sprite"
 
 msgid "OPTMNU_SYSTEM"
-msgstr ""
+msgstr "Tetapan Sistem"
 
 msgid "OPTVAL_4000HZ"
 msgstr ""
@@ -201,7 +202,7 @@ msgstr ""
 
 # Jargon.
 msgid "REVMNU_REVERB"
-msgstr ""
+msgstr "Gema"
 
 # Jargon.
 msgid "REVMNU_REVERB_DELAY"
@@ -275,7 +276,7 @@ msgid "GLLIGHTMNU_LIGHTDEFS"
 msgstr ""
 
 msgid "GLMNU_PREFS"
-msgstr ""
+msgstr "Keutamaan Anjuta"
 
 msgid "GLPREFMNU_PALTONENOGREY"
 msgstr ""
@@ -305,13 +306,13 @@ msgid "OPTVAL_DEDICATED"
 msgstr ""
 
 msgid "OPTVAL_DOUBLE"
-msgstr ""
+msgstr "Dubel"
 
 msgid "OPTVAL_INTEGRATED"
 msgstr ""
 
 msgid "OPTVAL_OPTIMAL"
-msgstr ""
+msgstr "Optimum"
 
 msgid "OPTVAL_OPTIMIZED"
 msgstr ""
@@ -332,7 +333,7 @@ msgid "OPTVAL_SCALETO640X400"
 msgstr ""
 
 msgid "OPTVAL_TRIPLE"
-msgstr ""
+msgstr "Tripel"
 
 msgid "OPTVAL_VTAVANILLA"
 msgstr ""

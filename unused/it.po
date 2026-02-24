@@ -2,8 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 05:20+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-02-24 05:38+0000\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
+"memory@weblate.org>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/uzdoom/unused/"
 "it/>\n"
 "Language: it\n"
@@ -20,33 +21,33 @@ msgid "ADVSNDMNU_FLUIDPATCHSET"
 msgstr ""
 
 msgid "ADVSNDMNU_GUSCONFIG"
-msgstr ""
+msgstr "File GUS config"
 
 # Jargon.
 msgid "ADVSNDMNU_TIMIDITYCONFIG"
-msgstr ""
+msgstr "File configurazione Timidity"
 
 msgid "ADVSNDMNU_TIMIDITYVOLUME"
-msgstr ""
+msgstr "Volume relativo"
 
 # Jargon.
 msgid "ADVSNDMNU_WILDMIDICONFIG"
-msgstr ""
+msgstr "File WildMidi config"
 
 msgid "CNTRLMNU_ADJUST_GAMMA"
-msgstr ""
+msgstr "Aggiustamento Gamma"
 
 msgid "CNTRLMNU_CHAT"
-msgstr ""
+msgstr "Chat"
 
 msgid "CNTRLMNU_CHAT_TITLE"
-msgstr ""
+msgstr "Personalizza i controlli della chat"
 
 msgid "DSPLYMNU_ADVANCED"
-msgstr ""
+msgstr "Opzioni di visualizzazione avanzate"
 
 msgid "DSPLYMNU_APPEARANCE"
-msgstr ""
+msgstr "Aspetto"
 
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr "Fattore di scala del mirino"
@@ -55,58 +56,58 @@ msgid "DSPLYMNU_MESSAGES"
 msgstr "Messaggi"
 
 msgid "DSPLYMNU_SBSCALE"
-msgstr ""
+msgstr "Dimensioni Status Bar"
 
 msgid "GLTEXMNU_ENABLEHIRES"
-msgstr ""
+msgstr "Attiva texture alta qualità"
 
 msgid "GLTEXMNU_TEXENABLED"
-msgstr ""
+msgstr "Texture abilitate"
 
 msgid "MOUSEMNU_SMOOTHMOUSE"
 msgstr "Movimento del mouse liscio"
 
 msgid "MSGMNU_MESSAGESCALE"
-msgstr ""
+msgstr "Dimensioni Messaggi"
 
 msgid "NOTSET"
-msgstr ""
+msgstr "Non assegnato"
 
 msgid "OPTMNU_INPUT"
-msgstr ""
+msgstr "Opzioni di ingresso"
 
 msgid "OPTMNU_LIGHT"
-msgstr ""
+msgstr "Opzioni luce"
 
 msgid "OPTMNU_MULTIPLAYER"
-msgstr ""
+msgstr "Opzioni multigiocatore"
 
 msgid "OPTMNU_SPRITE"
-msgstr ""
+msgstr "Opzioni Sprite"
 
 msgid "OPTMNU_SYSTEM"
-msgstr ""
+msgstr "Opzioni di sistema"
 
 msgid "OPTVAL_4000HZ"
-msgstr ""
+msgstr "4000 Hz"
 
 msgid "OPTVAL_AUTOMAP"
-msgstr ""
+msgstr "Automappa"
 
 msgid "OPTVAL_HUD"
 msgstr ""
 
 msgid "OPTVAL_HUDANDMAP"
-msgstr ""
+msgstr "HUD + Automappa"
 
 msgid "OPTVAL_PMDWINOPNA"
-msgstr ""
+msgstr "PMDWin OPNA"
 
 msgid "OPTVAL_SCALENEAREST"
-msgstr ""
+msgstr "Scalato (più vicino)"
 
 msgid "OPTVAL_SCALELINEAR"
-msgstr ""
+msgstr "Scalato (lineare)"
 
 msgid "PICKER_NETAUTO"
 msgstr ""
@@ -141,7 +142,7 @@ msgstr ""
 
 # Jargon.
 msgid "REVMNU_DENSITY"
-msgstr ""
+msgstr "Densità"
 
 # Jargon.
 msgid "REVMNU_DIFFUSION"
@@ -157,11 +158,11 @@ msgstr ""
 
 # Jargon.
 msgid "REVMNU_ENVIRONMENT_DIFFUSION"
-msgstr ""
+msgstr "Diffusione dell'ambiente"
 
 # Jargon.
 msgid "REVMNU_ENVIRONMENT_SIZE"
-msgstr ""
+msgstr "Dimensioni dell'ambiente"
 
 # Jargon.
 msgid "REVMNU_HF_REFERENCE"
@@ -181,7 +182,7 @@ msgstr ""
 
 # Jargon.
 msgid "REVMNU_REFLECTIONS"
-msgstr ""
+msgstr "Riflessioni"
 
 # Jargon.
 msgid "REVMNU_REFLECTIONS_DELAY"
@@ -201,7 +202,7 @@ msgstr ""
 
 # Jargon.
 msgid "REVMNU_REVERB"
-msgstr ""
+msgstr "Riverbero"
 
 # Jargon.
 msgid "REVMNU_REVERB_DELAY"
@@ -221,7 +222,7 @@ msgstr ""
 
 # Jargon.
 msgid "REVMNU_ROOM"
-msgstr ""
+msgstr "La camera"
 
 # Jargon.
 msgid "REVMNU_ROOM_HF"
@@ -236,109 +237,109 @@ msgid "REVMNU_ROOM_ROLLOFF_FACTOR"
 msgstr ""
 
 msgid "SNDMNU_BACKEND"
-msgstr ""
+msgstr "Backend suono"
 
 msgid "SNDMNU_MENUSOUND"
-msgstr ""
+msgstr "Suono nei menù"
 
 msgid "SNDMNU_MUSENABLED"
-msgstr ""
+msgstr "Abilita la musica"
 
 msgid "SNDMNU_SNDENABLED"
-msgstr ""
+msgstr "Abilita gli effetti sonori"
 
 msgid "VIDMNU_5X4ASPECTRATIO"
-msgstr ""
+msgstr "Abilita le proporzioni 5:4"
 
 msgid "VIDMNU_ASPECTRATIO"
 msgstr "Proporzioni"
 
 msgid "VKMNU_DEVICESELECT"
-msgstr ""
+msgstr "Seleziona il Dispositivo Vulkan"
 
 msgid "VKMNU_ENABLE"
-msgstr ""
+msgstr "Abilita Vulkan"
 
 msgid "CMPTMNU_SOUNDCUTOFF"
-msgstr ""
+msgstr "I suoni si fermano quando gli attori svaniscono"
 
 msgid "DSPLYMNU_TOOLTIP_WHITEPOINT"
 msgstr ""
 
 msgid "DSPLYMNU_TRANSSOUL"
-msgstr ""
+msgstr "Trasparenza anima errante"
 
 msgid "DSPLYMNU_WHITEPOINT"
 msgstr ""
 
 msgid "GLLIGHTMNU_LIGHTDEFS"
-msgstr ""
+msgstr "Abilita le definizioni GLDEFS"
 
 msgid "GLMNU_PREFS"
-msgstr ""
+msgstr "Preferenze"
 
 msgid "GLPREFMNU_PALTONENOGREY"
-msgstr ""
+msgstr "Prevenire le ombre grigie"
 
 msgid "GLTEXMNU_TRIMSPREDGE"
-msgstr ""
+msgstr "Taglia gli spigoli agli sprite"
 
 msgid "JOYMNU_HAPTRIGGERS"
 msgstr ""
 
 msgid "NETMNU_MOVEPREDICTION"
-msgstr ""
+msgstr "Predizione movimenti"
 
 msgid "NETMNU_TICBALANCE"
-msgstr ""
+msgstr "Bilanciamento latenza"
 
 msgid "OPTSTR_NOSOUND"
-msgstr ""
+msgstr "Nessun suono"
 
 msgid "OPTSTR_OPENAL"
 msgstr ""
 
 msgid "OPTVAL_ALLUNACKNOWLEDGED"
-msgstr ""
+msgstr "Tutti non riconosciuti"
 
 msgid "OPTVAL_DEDICATED"
-msgstr ""
+msgstr "Prestazioni massime"
 
 msgid "OPTVAL_DOUBLE"
-msgstr ""
+msgstr "Doppio"
 
 msgid "OPTVAL_INTEGRATED"
-msgstr ""
+msgstr "Risparmio energetico"
 
 msgid "OPTVAL_OPTIMAL"
-msgstr ""
+msgstr "Ottimale"
 
 msgid "OPTVAL_OPTIMIZED"
-msgstr ""
+msgstr "Ottimizzato"
 
 msgid "OPTVAL_ORIGINAL"
-msgstr ""
+msgstr "Originale"
 
 msgid "OPTVAL_PIXELDOUBLE"
-msgstr ""
+msgstr "Pixel doppi"
 
 msgid "OPTVAL_PIXELQUADRUPLE"
-msgstr ""
+msgstr "Pixel quadrupli"
 
 msgid "OPTVAL_QUADRUPLE"
-msgstr ""
+msgstr "Quadruplo"
 
 msgid "OPTVAL_SCALETO640X400"
-msgstr ""
+msgstr "Scala a 640x400"
 
 msgid "OPTVAL_TRIPLE"
-msgstr ""
+msgstr "Triplo"
 
 msgid "OPTVAL_VTAVANILLA"
-msgstr ""
+msgstr "Automatico (Vanilla preferito)"
 
 msgid "OPTVAL_VTAZDOOM"
-msgstr ""
+msgstr "Automatico (ZDoom preferito)"
 
 msgid "TCMNU_TRUECOLOR"
-msgstr ""
+msgstr "Output true color"

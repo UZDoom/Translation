@@ -2,8 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 05:20+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-02-24 05:22+0000\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
+"memory@weblate.org>\n"
 "Language-Team: Bulgarian <https://hosted.weblate.org/projects/uzdoom/unused/"
 "bg/>\n"
 "Language: bg\n"
@@ -37,16 +38,16 @@ msgid "CNTRLMNU_ADJUST_GAMMA"
 msgstr ""
 
 msgid "CNTRLMNU_CHAT"
-msgstr ""
+msgstr "Чат"
 
 msgid "CNTRLMNU_CHAT_TITLE"
-msgstr ""
+msgstr "Персонализиране на контролите за чата"
 
 msgid "DSPLYMNU_ADVANCED"
 msgstr ""
 
 msgid "DSPLYMNU_APPEARANCE"
-msgstr ""
+msgstr "Изглед"
 
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr ""
@@ -70,7 +71,7 @@ msgid "MSGMNU_MESSAGESCALE"
 msgstr ""
 
 msgid "NOTSET"
-msgstr ""
+msgstr "Не е зададено"
 
 msgid "OPTMNU_INPUT"
 msgstr ""
@@ -201,7 +202,7 @@ msgstr ""
 
 # Jargon.
 msgid "REVMNU_REVERB"
-msgstr ""
+msgstr "Реверберация"
 
 # Jargon.
 msgid "REVMNU_REVERB_DELAY"
@@ -251,7 +252,7 @@ msgid "VIDMNU_5X4ASPECTRATIO"
 msgstr ""
 
 msgid "VIDMNU_ASPECTRATIO"
-msgstr ""
+msgstr "Съотношение на аспектите"
 
 msgid "VKMNU_DEVICESELECT"
 msgstr ""
@@ -275,7 +276,7 @@ msgid "GLLIGHTMNU_LIGHTDEFS"
 msgstr ""
 
 msgid "GLMNU_PREFS"
-msgstr ""
+msgstr "Предпочитания"
 
 msgid "GLPREFMNU_PALTONENOGREY"
 msgstr ""
@@ -305,19 +306,19 @@ msgid "OPTVAL_DEDICATED"
 msgstr ""
 
 msgid "OPTVAL_DOUBLE"
-msgstr ""
+msgstr "Двойно"
 
 msgid "OPTVAL_INTEGRATED"
 msgstr ""
 
 msgid "OPTVAL_OPTIMAL"
-msgstr ""
+msgstr "Оптимално"
 
 msgid "OPTVAL_OPTIMIZED"
 msgstr ""
 
 msgid "OPTVAL_ORIGINAL"
-msgstr ""
+msgstr "Оригинал"
 
 msgid "OPTVAL_PIXELDOUBLE"
 msgstr ""

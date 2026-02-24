@@ -2,8 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 05:20+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-02-24 05:38+0000\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
+"memory@weblate.org>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/uzdoom/unused/"
 "pt/>\n"
 "Language: pt\n"
@@ -37,22 +38,22 @@ msgid "CNTRLMNU_ADJUST_GAMMA"
 msgstr ""
 
 msgid "CNTRLMNU_CHAT"
-msgstr ""
+msgstr "Conversar"
 
 msgid "CNTRLMNU_CHAT_TITLE"
-msgstr ""
+msgstr "Configurar Controlos de Chat"
 
 msgid "DSPLYMNU_ADVANCED"
 msgstr ""
 
 msgid "DSPLYMNU_APPEARANCE"
-msgstr ""
+msgstr "Aparência"
 
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr ""
 
 msgid "DSPLYMNU_MESSAGES"
-msgstr ""
+msgstr "Mensagens"
 
 msgid "DSPLYMNU_SBSCALE"
 msgstr ""
@@ -70,7 +71,7 @@ msgid "MSGMNU_MESSAGESCALE"
 msgstr ""
 
 msgid "NOTSET"
-msgstr ""
+msgstr "Não definido"
 
 msgid "OPTMNU_INPUT"
 msgstr ""
@@ -103,7 +104,7 @@ msgid "OPTVAL_PMDWINOPNA"
 msgstr ""
 
 msgid "OPTVAL_SCALENEAREST"
-msgstr ""
+msgstr "Redimensionado (Apróximado)"
 
 msgid "OPTVAL_SCALELINEAR"
 msgstr ""
@@ -181,7 +182,7 @@ msgstr ""
 
 # Jargon.
 msgid "REVMNU_REFLECTIONS"
-msgstr ""
+msgstr "Reflexões"
 
 # Jargon.
 msgid "REVMNU_REFLECTIONS_DELAY"
@@ -201,7 +202,7 @@ msgstr ""
 
 # Jargon.
 msgid "REVMNU_REVERB"
-msgstr ""
+msgstr "Reverberação"
 
 # Jargon.
 msgid "REVMNU_REVERB_DELAY"
@@ -221,7 +222,7 @@ msgstr ""
 
 # Jargon.
 msgid "REVMNU_ROOM"
-msgstr ""
+msgstr "Sala"
 
 # Jargon.
 msgid "REVMNU_ROOM_HF"
@@ -266,16 +267,16 @@ msgid "DSPLYMNU_TOOLTIP_WHITEPOINT"
 msgstr ""
 
 msgid "DSPLYMNU_TRANSSOUL"
-msgstr ""
+msgstr "Translucidez da Alma Penada"
 
 msgid "DSPLYMNU_WHITEPOINT"
 msgstr ""
 
 msgid "GLLIGHTMNU_LIGHTDEFS"
-msgstr ""
+msgstr "Permitir definições de luz"
 
 msgid "GLMNU_PREFS"
-msgstr ""
+msgstr "Preferências"
 
 msgid "GLPREFMNU_PALTONENOGREY"
 msgstr ""
@@ -305,19 +306,19 @@ msgid "OPTVAL_DEDICATED"
 msgstr ""
 
 msgid "OPTVAL_DOUBLE"
-msgstr ""
+msgstr "Duplo"
 
 msgid "OPTVAL_INTEGRATED"
 msgstr ""
 
 msgid "OPTVAL_OPTIMAL"
-msgstr ""
+msgstr "Optimal"
 
 msgid "OPTVAL_OPTIMIZED"
 msgstr ""
 
 msgid "OPTVAL_ORIGINAL"
-msgstr ""
+msgstr "Original"
 
 msgid "OPTVAL_PIXELDOUBLE"
 msgstr ""
@@ -332,10 +333,10 @@ msgid "OPTVAL_SCALETO640X400"
 msgstr ""
 
 msgid "OPTVAL_TRIPLE"
-msgstr ""
+msgstr "Triplo"
 
 msgid "OPTVAL_VTAVANILLA"
-msgstr ""
+msgstr "Automático (De preferência DOS Original)"
 
 msgid "OPTVAL_VTAZDOOM"
 msgstr ""

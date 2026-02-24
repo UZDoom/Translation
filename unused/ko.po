@@ -2,8 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 05:20+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-02-24 06:01+0000\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
+"memory@weblate.org>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/unused/ko/>"
 "\n"
 "Language: ko\n"
@@ -17,36 +18,36 @@ msgid "ADVSNDMNU_ADLOPLCORES"
 msgstr "OPL 에뮬레이터 코어"
 
 msgid "ADVSNDMNU_FLUIDPATCHSET"
-msgstr ""
+msgstr "패치 세트"
 
 msgid "ADVSNDMNU_GUSCONFIG"
-msgstr ""
+msgstr "GUS 코딩 파일"
 
 # Jargon.
 msgid "ADVSNDMNU_TIMIDITYCONFIG"
-msgstr ""
+msgstr "Timidity 코딩 파일"
 
 msgid "ADVSNDMNU_TIMIDITYVOLUME"
-msgstr ""
+msgstr "비교적인 볼륨"
 
 # Jargon.
 msgid "ADVSNDMNU_WILDMIDICONFIG"
-msgstr ""
+msgstr "WildMidi 코딩 파일"
 
 msgid "CNTRLMNU_ADJUST_GAMMA"
-msgstr ""
+msgstr "감마 조정"
 
 msgid "CNTRLMNU_CHAT"
-msgstr ""
+msgstr "채팅"
 
 msgid "CNTRLMNU_CHAT_TITLE"
-msgstr ""
+msgstr "사용자 지정 채팅 컨트롤"
 
 msgid "DSPLYMNU_ADVANCED"
-msgstr ""
+msgstr "고급 디스플레이 옵션"
 
 msgid "DSPLYMNU_APPEARANCE"
-msgstr ""
+msgstr "외형"
 
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr "조준점 크기"
@@ -58,10 +59,10 @@ msgid "DSPLYMNU_SBSCALE"
 msgstr ""
 
 msgid "GLTEXMNU_ENABLEHIRES"
-msgstr ""
+msgstr "고해상도 텍스쳐 사용"
 
 msgid "GLTEXMNU_TEXENABLED"
-msgstr ""
+msgstr "텍스쳐 사용"
 
 msgid "MOUSEMNU_SMOOTHMOUSE"
 msgstr "부드러운 움직임"
@@ -70,43 +71,43 @@ msgid "MSGMNU_MESSAGESCALE"
 msgstr ""
 
 msgid "NOTSET"
-msgstr ""
+msgstr "정하지 않음"
 
 msgid "OPTMNU_INPUT"
-msgstr ""
+msgstr "입력 옵션"
 
 msgid "OPTMNU_LIGHT"
-msgstr ""
+msgstr "조명 옵션"
 
 msgid "OPTMNU_MULTIPLAYER"
-msgstr ""
+msgstr "멀티플레이어 옵션"
 
 msgid "OPTMNU_SPRITE"
-msgstr ""
+msgstr "스프라이트 옵션"
 
 msgid "OPTMNU_SYSTEM"
-msgstr ""
+msgstr "시스템 옵션"
 
 msgid "OPTVAL_4000HZ"
 msgstr ""
 
 msgid "OPTVAL_AUTOMAP"
-msgstr ""
+msgstr "오토맵"
 
 msgid "OPTVAL_HUD"
 msgstr ""
 
 msgid "OPTVAL_HUDANDMAP"
-msgstr ""
+msgstr "HUD + 오토맵"
 
 msgid "OPTVAL_PMDWINOPNA"
 msgstr ""
 
 msgid "OPTVAL_SCALENEAREST"
-msgstr ""
+msgstr "확대 (가깝게)"
 
 msgid "OPTVAL_SCALELINEAR"
-msgstr ""
+msgstr "확대 (선형 식)"
 
 msgid "PICKER_NETAUTO"
 msgstr ""
@@ -125,79 +126,79 @@ msgstr ""
 
 # Jargon.
 msgid "REVMNU_AIR_ABSORPTION_HF"
-msgstr ""
+msgstr "대기 흡수 HF"
 
 # Jargon.
 msgid "REVMNU_DECAY_HF_RATIO"
-msgstr ""
+msgstr "잔향 감쇠 HF 비율"
 
 # Jargon.
 msgid "REVMNU_DECAY_LF_RATIO"
-msgstr ""
+msgstr "잔향 감쇠 LF 비율"
 
 # Jargon.
 msgid "REVMNU_DECAY_TIME"
-msgstr ""
+msgstr "잔향 감쇠 시간"
 
 # Jargon.
 msgid "REVMNU_DENSITY"
-msgstr ""
+msgstr "잔향 밀도"
 
 # Jargon.
 msgid "REVMNU_DIFFUSION"
-msgstr ""
+msgstr "잔향 확산"
 
 # Jargon.
 msgid "REVMNU_ECHO_DEPTH"
-msgstr ""
+msgstr "에코 깊이"
 
 # Jargon.
 msgid "REVMNU_ECHO_TIME"
-msgstr ""
+msgstr "에코 시간"
 
 # Jargon.
 msgid "REVMNU_ENVIRONMENT_DIFFUSION"
-msgstr ""
+msgstr "공간 잔향 확산"
 
 # Jargon.
 msgid "REVMNU_ENVIRONMENT_SIZE"
-msgstr ""
+msgstr "공간 크기"
 
 # Jargon.
 msgid "REVMNU_HF_REFERENCE"
-msgstr ""
+msgstr "HF 참조치"
 
 # Jargon.
 msgid "REVMNU_LF_REFERENCE"
-msgstr ""
+msgstr "LF 참조치"
 
 # Jargon.
 msgid "REVMNU_MODULATION_DEPTH"
-msgstr ""
+msgstr "전조 깊이"
 
 # Jargon.
 msgid "REVMNU_MODULATION_TIME"
-msgstr ""
+msgstr "전조 시간"
 
 # Jargon.
 msgid "REVMNU_REFLECTIONS"
-msgstr ""
+msgstr "룸 반사"
 
 # Jargon.
 msgid "REVMNU_REFLECTIONS_DELAY"
-msgstr ""
+msgstr "룸 반사 딜레이 시간"
 
 # Jargon.
 msgid "REVMNU_REFLECTIONS_PAN_X"
-msgstr ""
+msgstr "X축 룸 반사"
 
 # Jargon.
 msgid "REVMNU_REFLECTIONS_PAN_Y"
-msgstr ""
+msgstr "Y축 룸 반사"
 
 # Jargon.
 msgid "REVMNU_REFLECTIONS_PAN_Z"
-msgstr ""
+msgstr "Z축 룸 반사"
 
 # Jargon.
 msgid "REVMNU_REVERB"
@@ -205,38 +206,38 @@ msgstr "리버브"
 
 # Jargon.
 msgid "REVMNU_REVERB_DELAY"
-msgstr ""
+msgstr "리버브 지연"
 
 # Jargon.
 msgid "REVMNU_REVERB_PAN_X"
-msgstr ""
+msgstr "X축 리버브"
 
 # Jargon.
 msgid "REVMNU_REVERB_PAN_Y"
-msgstr ""
+msgstr "Y축 리버브"
 
 # Jargon.
 msgid "REVMNU_REVERB_PAN_Z"
-msgstr ""
+msgstr "Z축 리버브"
 
 # Jargon.
 msgid "REVMNU_ROOM"
-msgstr ""
+msgstr "룸 효과"
 
 # Jargon.
 msgid "REVMNU_ROOM_HF"
-msgstr ""
+msgstr "룸 효과 HF"
 
 # Jargon.
 msgid "REVMNU_ROOM_LF"
-msgstr ""
+msgstr "룸 효과 LF"
 
 # Jargon.
 msgid "REVMNU_ROOM_ROLLOFF_FACTOR"
-msgstr ""
+msgstr "룸 감쇠 양"
 
 msgid "SNDMNU_BACKEND"
-msgstr ""
+msgstr "음향 말미"
 
 msgid "SNDMNU_MENUSOUND"
 msgstr ""
@@ -248,97 +249,97 @@ msgid "SNDMNU_SNDENABLED"
 msgstr ""
 
 msgid "VIDMNU_5X4ASPECTRATIO"
-msgstr ""
+msgstr "5:4 비율 사용"
 
 msgid "VIDMNU_ASPECTRATIO"
 msgstr "화면 비율"
 
 msgid "VKMNU_DEVICESELECT"
-msgstr ""
+msgstr "벌칸 장치를 고르시오"
 
 msgid "VKMNU_ENABLE"
-msgstr ""
+msgstr "벌칸 렌더러 사용"
 
 msgid "CMPTMNU_SOUNDCUTOFF"
-msgstr ""
+msgstr "효과음 원천 소멸 시 효과음도 중단"
 
 msgid "DSPLYMNU_TOOLTIP_WHITEPOINT"
 msgstr ""
 
 msgid "DSPLYMNU_TRANSSOUL"
-msgstr ""
+msgstr "로스트 소울 반투명도"
 
 msgid "DSPLYMNU_WHITEPOINT"
 msgstr ""
 
 msgid "GLLIGHTMNU_LIGHTDEFS"
-msgstr ""
+msgstr "조명 선명도 사용"
 
 msgid "GLMNU_PREFS"
-msgstr ""
+msgstr "설정"
 
 msgid "GLPREFMNU_PALTONENOGREY"
-msgstr ""
+msgstr "회색 그림자 없에기"
 
 msgid "GLTEXMNU_TRIMSPREDGE"
-msgstr ""
+msgstr "스프라이트 모서리 다듬기"
 
 msgid "JOYMNU_HAPTRIGGERS"
 msgstr ""
 
 msgid "NETMNU_MOVEPREDICTION"
-msgstr ""
+msgstr "움직임 예측도"
 
 msgid "NETMNU_TICBALANCE"
-msgstr ""
+msgstr "지연 시간 조정"
 
 msgid "OPTSTR_NOSOUND"
-msgstr ""
+msgstr "음향 없음"
 
 msgid "OPTSTR_OPENAL"
-msgstr ""
+msgstr "오픈에이엘"
 
 msgid "OPTVAL_ALLUNACKNOWLEDGED"
-msgstr ""
+msgstr "모두 미확인함"
 
 msgid "OPTVAL_DEDICATED"
-msgstr ""
+msgstr "고 성능"
 
 msgid "OPTVAL_DOUBLE"
-msgstr ""
+msgstr "2배"
 
 msgid "OPTVAL_INTEGRATED"
-msgstr ""
+msgstr "저전력"
 
 msgid "OPTVAL_OPTIMAL"
-msgstr ""
+msgstr "최적함"
 
 msgid "OPTVAL_OPTIMIZED"
-msgstr ""
+msgstr "최적화 형"
 
 msgid "OPTVAL_ORIGINAL"
-msgstr ""
+msgstr "원형"
 
 msgid "OPTVAL_PIXELDOUBLE"
-msgstr ""
+msgstr "2배 픽셀"
 
 msgid "OPTVAL_PIXELQUADRUPLE"
-msgstr ""
+msgstr "4배 픽셀"
 
 msgid "OPTVAL_QUADRUPLE"
-msgstr ""
+msgstr "4배"
 
 msgid "OPTVAL_SCALETO640X400"
-msgstr ""
+msgstr "640x400까지 확대"
 
 msgid "OPTVAL_TRIPLE"
-msgstr ""
+msgstr "3배"
 
 msgid "OPTVAL_VTAVANILLA"
-msgstr ""
+msgstr "자동 (바닐라 기본 설정)"
 
 msgid "OPTVAL_VTAZDOOM"
-msgstr ""
+msgstr "자동 (ZDoom 기본 설정)"
 
 msgid "TCMNU_TRUECOLOR"
-msgstr ""
+msgstr "트루 컬러 출력"

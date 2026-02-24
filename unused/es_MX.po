@@ -2,8 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 05:20+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-02-24 06:01+0000\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
+"memory@weblate.org>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/"
 "unused/es_MX/>\n"
 "Language: es_MX\n"
@@ -34,25 +35,25 @@ msgid "ADVSNDMNU_WILDMIDICONFIG"
 msgstr ""
 
 msgid "CNTRLMNU_ADJUST_GAMMA"
-msgstr ""
+msgstr "Ajustar Gamma"
 
 msgid "CNTRLMNU_CHAT"
-msgstr ""
+msgstr "Hablar"
 
 msgid "CNTRLMNU_CHAT_TITLE"
-msgstr ""
+msgstr "Personalizar Controles del Chat"
 
 msgid "DSPLYMNU_ADVANCED"
 msgstr ""
 
 msgid "DSPLYMNU_APPEARANCE"
-msgstr ""
+msgstr "Apariencia"
 
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr ""
 
 msgid "DSPLYMNU_MESSAGES"
-msgstr ""
+msgstr "Mensajes"
 
 msgid "DSPLYMNU_SBSCALE"
 msgstr ""
@@ -70,7 +71,7 @@ msgid "MSGMNU_MESSAGESCALE"
 msgstr ""
 
 msgid "NOTSET"
-msgstr ""
+msgstr "Indefinido"
 
 msgid "OPTMNU_INPUT"
 msgstr ""
@@ -275,7 +276,7 @@ msgid "GLLIGHTMNU_LIGHTDEFS"
 msgstr ""
 
 msgid "GLMNU_PREFS"
-msgstr ""
+msgstr "Preferencias"
 
 msgid "GLPREFMNU_PALTONENOGREY"
 msgstr ""
