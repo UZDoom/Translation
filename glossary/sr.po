@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 17:30+0000\n"
+"PO-Revision-Date: 2026-02-24 18:38+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/uzdoom/glossary/"
 "sr/>\n"
@@ -40,3 +40,15 @@ msgstr "ВајлдМиди"
 
 msgid "Timidity"
 msgstr "Стидљивост"
+
+msgid "GENMIDI"
+msgstr ""
+
+msgid "WAD"
+msgstr ""
+
+msgid "libXMP"
+msgstr "libXMP"
+
+msgid "Dumb"
+msgstr "Dumb"
