@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 16:14+0000\n"
+"PO-Revision-Date: 2026-02-24 19:45+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "uzdoom/zdoom-engine-strings/pt_BR/>\n"
@@ -1085,7 +1085,7 @@ msgid "OB_MPBFG_BOOM"
 msgstr "%k vaporizou %o com sua BFG."
 
 msgid "OB_MPBFG_SPLASH"
-msgstr "%o não conseguiu se esconder da BFG de %k"
+msgstr "%o não conseguiu se esconder da BFG de %k."
 
 msgid "OB_RAILGUN"
 msgstr "%k acertou %o com seu canhão elétrico."
