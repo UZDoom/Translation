@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-23 16:09+0000\n"
-"Last-Translator: Marazed  Visnia <brutdewelopment@gmail.com>\n"
+"PO-Revision-Date: 2026-02-24 02:31+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/pl/>\n"
 "Language: pl\n"
@@ -22,7 +22,7 @@ msgid "SECRETMESSAGE"
 msgstr "Znaleziono sekret!"
 
 msgid "D_DEVSTR"
-msgstr "Tryb bezużyteczny WŁĄCZONY."
+msgstr "Tryb bezużyteczny WŁ"
 
 msgid "QUITMSG"
 msgstr ""
@@ -307,7 +307,7 @@ msgid "STSTR_NCON"
 msgstr "Tryb no-clip WŁ"
 
 msgid "STSTR_NCOFF"
-msgstr "Tryb no-clip WYŁĄCZONY"
+msgstr "Tryb no-clip WYŁ"
 
 msgid "STSTR_NC2ON"
 msgstr "Drugi tryb no-clip WŁ"
@@ -338,22 +338,22 @@ msgid "STSTR_CLEV"
 msgstr "Zmienianie poziomu…"
 
 msgid "TXT_BUDDHAON"
-msgstr "Tryb Buddy WŁĄCZONY"
+msgstr "Tryb Buddy WŁ"
 
 msgid "TXT_BUDDHAOFF"
 msgstr "Tryb Buddy WYŁ"
 
 msgid "TXT_BUDDHA2ON"
-msgstr "Maksymalny Tryb Buddy WŁĄCZONY"
+msgstr "Maksymalny Tryb Buddy WŁ"
 
 msgid "TXT_BUDDHA2OFF"
-msgstr "Maksymalny Tryb Buddy WYŁĄCZONY"
+msgstr "Maksymalny Tryb Buddy WYŁ"
 
 msgid "TXT_CHEATPOWERON"
-msgstr "Zasilanie WŁĄCZONY"
+msgstr "Zasilanie WŁ"
 
 msgid "TXT_CHEATPOWEROFF"
-msgstr "Zasilanie WYŁĄCZONY"
+msgstr "Zasilanie WYŁ"
 
 msgid "TXT_CHEATHEALTH"
 msgstr "Pełne zdrowie"
@@ -374,7 +374,7 @@ msgid "TXT_CHEATIDKFA"
 msgstr "Oszust—nie zasługujesz na broń"
 
 msgid "TXT_CHEATTICKERON"
-msgstr "Wskaźnik włączony"
+msgstr "Wskaźnik WŁ"
 
 msgid "TXT_CHEATTICKEROFF"
 msgstr "Wskaźnik WYŁ"
@@ -416,10 +416,10 @@ msgid "TXT_GRAVITY"
 msgstr "Grawitacja znów cię przyciąga"
 
 msgid "TXT_NOTARGET_ON"
-msgstr "Głuche i Ślepe Potwory WŁĄCZONE"
+msgstr "Głuche i Ślepe Potwory WŁ"
 
 msgid "TXT_NOTARGET_OFF"
-msgstr "Głuche i Ślepe Potwory WYŁĄCZONE"
+msgstr "Głuche i Ślepe Potwory WYŁ"
 
 msgid "TXT_ANUBIS_ON"
 msgstr "\"Drżyj ze strachu!\""
@@ -428,10 +428,10 @@ msgid "TXT_ANUBIS_OFF"
 msgstr "Nigdy więcej Pancerza Ogrów"
 
 msgid "TXT_CHASECAM_ON"
-msgstr "kamera śledzenia WŁĄCZONA"
+msgstr "kamera śledzenia WŁ"
 
 msgid "TXT_CHASECAM_OFF"
-msgstr "kamera śledzenia WYŁĄCZONA"
+msgstr "kamera śledzenia WYŁ"
 
 msgid "TXT_BADDIE_KILLED"
 msgstr "1 zabity przeciwnik"
@@ -455,27 +455,26 @@ msgstr "Wszystkie Artefakty!"
 msgid "TXT_WHAT_KILL"
 msgstr "Co ty chcesz zabić nie będąc w grze?"
 
-#, fuzzy
 msgid "TXT_NOT_FROZEN"
-msgstr "Właściwości zamrożonego gracza wyłączone"
+msgstr "Właściwości zamrożonego gracza WYŁ"
 
 msgid "AMSTR_FOLLOWOFF"
-msgstr "Tryb śledzenia WYŁĄCZONY"
+msgstr "Tryb śledzenia WYŁ"
 
 msgid "AMSTR_FOLLOWON"
-msgstr "Tryb śledzenia WŁĄCZONY"
+msgstr "Tryb śledzenia WŁ"
 
 msgid "AMSTR_GRIDON"
-msgstr "Siatka WŁĄCZONA"
+msgstr "Siatka WŁ"
 
 msgid "AMSTR_GRIDOFF"
-msgstr "Siatka WYŁĄCZONA"
+msgstr "Siatka WYŁ"
 
 msgid "AMSTR_TEXON"
-msgstr "Tekstury WŁĄCZONE"
+msgstr "Tekstury WŁ"
 
 msgid "AMSTR_TEXOFF"
-msgstr "Tekstury WYŁĄCZONE"
+msgstr "Tekstury WYŁ"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Oznaczono miejsce"
@@ -1347,7 +1346,7 @@ msgid "OB_MPCROSSBOW"
 msgstr "%o został@[ao_pl] przebit@[adj_pl] przez eteryczną kuszę %k."
 
 msgid "OB_MPBLASTER"
-msgstr "%o został wysadzony nowy otwór przez %k"
+msgstr "%o został wysadzony nowy otwór przez %k."
 
 msgid "OB_MPSKULLROD"
 msgstr "%o został@[ao_pl] zesłan@[adj_pl] pod piekielny kostur %k."
@@ -1374,7 +1373,7 @@ msgid "OB_MPPBLASTER"
 msgstr "%o został@[ao_pl] rozerwan@[adj_pl] przez smoczy pazur %k"
 
 msgid "OB_MPPSKULLROD"
-msgstr "%k polał@[ao_pl] swoim piekielnym kosturem %o"
+msgstr "%k polał@[ao_pl] swoim piekielnym kosturem %o."
 
 msgid "OB_MPPPHOENIXROD"
 msgstr "%o został@[ao_pl] spalon@[adj_pl] przez różdżkę feniksa %k"
@@ -2570,10 +2569,10 @@ msgid "TXT_KILLED_LOREMASTER"
 msgstr "Zabił@[irreg_3_pl] Mędrca!"
 
 msgid "TXT_YOUFOOL"
-msgstr "Głupcze! Włączył@[irreg_3_pl] alarm!"
+msgstr "Głupcze! Włączył@[irreg_3_pl] alarm."
 
 msgid "TXT_YOUREDEAD"
-msgstr "Już nie żyjesz! Włączył@[irreg_3_pl] alarm!"
+msgstr "Już nie żyjesz! Włączył@[irreg_3_pl] alarm."
 
 msgid "TXT_HAVEENOUGH"
 msgstr "Wydaje się, że już ci wystarczy!"
@@ -2868,11 +2867,11 @@ msgstr ""
 
 msgctxt "chex"
 msgid "STSTR_DQDON"
-msgstr "Tryb Niewrażliwości WŁĄCZONY"
+msgstr "Tryb Niewrażliwości WŁ"
 
 msgctxt "chex"
 msgid "STSTR_DQDOFF"
-msgstr "Tryb Niewrażliwości WYŁĄCZONY"
+msgstr "Tryb Niewrażliwości WYŁ"
 
 msgctxt "chex"
 msgid "STSTR_FAADDED"
