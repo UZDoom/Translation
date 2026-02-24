@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 21:32+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-24 05:03+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/common/"
 "uk/>\n"
 "Language: uk\n"
@@ -1845,3 +1845,9 @@ msgstr "Про програму"
 
 msgid "PICKER_TAB_RELEASE"
 msgstr "Нотатки до випуску"
+
+msgid "DSPLYMNU_MESSAGES"
+msgstr "Повідомлення"
+
+msgid "VIDMNU_ASPECTRATIO"
+msgstr "Співвідношення сторін"
