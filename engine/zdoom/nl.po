@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 02:31+0000\n"
+"PO-Revision-Date: 2026-02-24 16:13+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/nl/>\n"
@@ -358,13 +358,11 @@ msgstr "Volledige gezondheid"
 msgid "TXT_CHEATKEYS"
 msgstr "Alle sleutels"
 
-#, fuzzy
 msgid "TXT_CHEATSOUNDON"
-msgstr "Geluid debug aan"
+msgstr "Geluid debug AAN"
 
-#, fuzzy
 msgid "TXT_CHEATSOUNDOFF"
-msgstr "Geluid debug uit"
+msgstr "Geluid debug UIT"
 
 msgid "TXT_CHEATIDDQD"
 msgstr "Je wou valsspelen, hè? Nu ga je dood!"
