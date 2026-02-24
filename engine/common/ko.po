@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 05:15+0000\n"
+"PO-Revision-Date: 2026-02-24 02:31+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/common/ko/>"
 "\n"
@@ -59,7 +59,7 @@ msgid "MSGOFF"
 msgstr "메시지 끔"
 
 msgid "MSGON"
-msgstr "메시지 켬"
+msgstr "메시지 켜짐"
 
 msgid "TXT_SAY"
 msgstr ""

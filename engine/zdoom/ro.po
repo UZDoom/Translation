@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 05:15+0000\n"
+"PO-Revision-Date: 2026-02-24 02:31+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ro/>\n"
@@ -375,7 +375,7 @@ msgid "TXT_CHEATIDKFA"
 msgstr "Trișor—Nu meriți arme"
 
 msgid "TXT_CHEATTICKERON"
-msgstr "Ticăitoare activată"
+msgstr "Ticăitoare PORNITE"
 
 #, fuzzy
 msgid "TXT_CHEATTICKEROFF"

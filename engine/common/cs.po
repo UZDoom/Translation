@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 05:15+0000\n"
+"PO-Revision-Date: 2026-02-24 02:31+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/uzdoom/common/cs/>"
 "\n"
@@ -343,7 +343,7 @@ msgid "MAPCNTRLMNU_ZOOMOUT"
 msgstr "Oddálit"
 
 msgid "MAPCNTRLMNU_TOGGLEZOOM"
-msgstr "Přiblížení vyp./zap."
+msgstr "Přiblížení vyp/zap"
 
 msgid "MAPCNTRLMNU_TOGGLEFOLLOW"
 msgstr "Sledování hráče vyp/zap"

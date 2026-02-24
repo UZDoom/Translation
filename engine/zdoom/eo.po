@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 03:10+0000\n"
+"PO-Revision-Date: 2026-02-24 02:31+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/eo/>\n"
@@ -372,6 +372,7 @@ msgstr "Provas trompi, ĉu vi? Nun vi mortas!"
 msgid "TXT_CHEATIDKFA"
 msgstr "Trompanto—vi ne meritas armilojn"
 
+#, fuzzy
 msgid "TXT_CHEATTICKERON"
 msgstr "Nombrilo ŝaltita"
 

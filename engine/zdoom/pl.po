@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 21:12+0000\n"
+"PO-Revision-Date: 2026-02-24 02:31+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/pl/>\n"
@@ -22,7 +22,7 @@ msgid "SECRETMESSAGE"
 msgstr "Znaleziono sekret!"
 
 msgid "D_DEVSTR"
-msgstr "Tryb bezużyteczny WŁĄCZONY."
+msgstr "Tryb bezużyteczny WŁ"
 
 msgid "QUITMSG"
 msgstr ""
@@ -307,7 +307,7 @@ msgid "STSTR_NCON"
 msgstr "Tryb no-clip WŁ"
 
 msgid "STSTR_NCOFF"
-msgstr "Tryb no-clip WYŁĄCZONY"
+msgstr "Tryb no-clip WYŁ"
 
 msgid "STSTR_NC2ON"
 msgstr "Drugi tryb no-clip WŁ"
@@ -344,16 +344,16 @@ msgid "TXT_BUDDHAOFF"
 msgstr "Tryb Buddy WYŁ"
 
 msgid "TXT_BUDDHA2ON"
-msgstr "Maksymalny Tryb Buddy WŁĄCZONY"
+msgstr "Maksymalny Tryb Buddy WŁ"
 
 msgid "TXT_BUDDHA2OFF"
-msgstr "Maksymalny Tryb Buddy WYŁĄCZONY"
+msgstr "Maksymalny Tryb Buddy WYŁ"
 
 msgid "TXT_CHEATPOWERON"
-msgstr "Zasilanie WŁĄCZONY"
+msgstr "Zasilanie WŁ"
 
 msgid "TXT_CHEATPOWEROFF"
-msgstr "Zasilanie WYŁĄCZONY"
+msgstr "Zasilanie WYŁ"
 
 msgid "TXT_CHEATHEALTH"
 msgstr "Pełne zdrowie"
@@ -361,13 +361,11 @@ msgstr "Pełne zdrowie"
 msgid "TXT_CHEATKEYS"
 msgstr "Wszystkie klucze"
 
-#, fuzzy
 msgid "TXT_CHEATSOUNDON"
-msgstr "Debugowanie dźwięku włączone"
+msgstr "Debugowanie dźwięku WŁ"
 
-#, fuzzy
 msgid "TXT_CHEATSOUNDOFF"
-msgstr "Debugowanie dźwięku wyłączone"
+msgstr "Debugowanie dźwięku WYŁ"
 
 msgid "TXT_CHEATIDDQD"
 msgstr "Próbujesz oszukiwać, co? Teraz giń!"
@@ -376,11 +374,10 @@ msgid "TXT_CHEATIDKFA"
 msgstr "Oszust—nie zasługujesz na broń"
 
 msgid "TXT_CHEATTICKERON"
-msgstr "Wskaźnik włączony"
+msgstr "Wskaźnik WŁ"
 
-#, fuzzy
 msgid "TXT_CHEATTICKEROFF"
-msgstr "Wskaźnik wyłączony"
+msgstr "Wskaźnik WYŁ"
 
 msgid "TXT_CHEATARTIFACTS3"
 msgstr "Udało ci się"
@@ -394,9 +391,8 @@ msgstr "Zdobył@[irreg_3_pl] parę rzeczy!"
 msgid "TXT_FREEZEON"
 msgstr "Tryb zamrożenia włączony"
 
-#, fuzzy
 msgid "TXT_FREEZEOFF"
-msgstr "Tryb zamrożenia wyłączony"
+msgstr "Tryb zamrożenia WYŁ"
 
 msgid "TXT_STRANGE"
 msgstr "Dziwnie się czujesz…"
@@ -410,9 +406,8 @@ msgstr "Znów czujesz się sobą."
 msgid "TXT_LEADBOOTSON"
 msgstr "Ołowiane buty włączone"
 
-#, fuzzy
 msgid "TXT_LEADBOOTSOFF"
-msgstr "Ołowiane buty wyłączone"
+msgstr "Ołowiane buty WYŁ"
 
 msgid "TXT_LIGHTER"
 msgstr "Czujesz się lżejsz@[adj_pl]"
@@ -421,10 +416,10 @@ msgid "TXT_GRAVITY"
 msgstr "Grawitacja znów cię przyciąga"
 
 msgid "TXT_NOTARGET_ON"
-msgstr "Głuche i Ślepe Potwory WŁĄCZONE"
+msgstr "Głuche i Ślepe Potwory WŁ"
 
 msgid "TXT_NOTARGET_OFF"
-msgstr "Głuche i Ślepe Potwory WYŁĄCZONE"
+msgstr "Głuche i Ślepe Potwory WYŁ"
 
 msgid "TXT_ANUBIS_ON"
 msgstr "\"Drżyj ze strachu!\""
@@ -433,10 +428,10 @@ msgid "TXT_ANUBIS_OFF"
 msgstr "Nigdy więcej Pancerza Ogrów"
 
 msgid "TXT_CHASECAM_ON"
-msgstr "kamera śledzenia WŁĄCZONA"
+msgstr "kamera śledzenia WŁ"
 
 msgid "TXT_CHASECAM_OFF"
-msgstr "kamera śledzenia WYŁĄCZONA"
+msgstr "kamera śledzenia WYŁ"
 
 msgid "TXT_BADDIE_KILLED"
 msgstr "1 zabity przeciwnik"
@@ -460,27 +455,26 @@ msgstr "Wszystkie Artefakty!"
 msgid "TXT_WHAT_KILL"
 msgstr "Co ty chcesz zabić nie będąc w grze?"
 
-#, fuzzy
 msgid "TXT_NOT_FROZEN"
-msgstr "Właściwości zamrożonego gracza wyłączone"
+msgstr "Właściwości zamrożonego gracza WYŁ"
 
 msgid "AMSTR_FOLLOWOFF"
-msgstr "Tryb śledzenia WYŁĄCZONY"
+msgstr "Tryb śledzenia WYŁ"
 
 msgid "AMSTR_FOLLOWON"
-msgstr "Tryb śledzenia WŁĄCZONY"
+msgstr "Tryb śledzenia WŁ"
 
 msgid "AMSTR_GRIDON"
-msgstr "Siatka WŁĄCZONA"
+msgstr "Siatka WŁ"
 
 msgid "AMSTR_GRIDOFF"
-msgstr "Siatka WYŁĄCZONA"
+msgstr "Siatka WYŁ"
 
 msgid "AMSTR_TEXON"
-msgstr "Tekstury WŁĄCZONE"
+msgstr "Tekstury WŁ"
 
 msgid "AMSTR_TEXOFF"
-msgstr "Tekstury WYŁĄCZONE"
+msgstr "Tekstury WYŁ"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Oznaczono miejsce"
@@ -1352,7 +1346,7 @@ msgid "OB_MPCROSSBOW"
 msgstr "%o został@[ao_pl] przebit@[adj_pl] przez eteryczną kuszę %k."
 
 msgid "OB_MPBLASTER"
-msgstr "%o został wysadzony nowy otwór przez %k"
+msgstr "%o został wysadzony nowy otwór przez %k."
 
 msgid "OB_MPSKULLROD"
 msgstr "%o został@[ao_pl] zesłan@[adj_pl] pod piekielny kostur %k."
@@ -1379,7 +1373,7 @@ msgid "OB_MPPBLASTER"
 msgstr "%o został@[ao_pl] rozerwan@[adj_pl] przez smoczy pazur %k"
 
 msgid "OB_MPPSKULLROD"
-msgstr "%k polał@[ao_pl] swoim piekielnym kosturem %o"
+msgstr "%k polał@[ao_pl] swoim piekielnym kosturem %o."
 
 msgid "OB_MPPPHOENIXROD"
 msgstr "%o został@[ao_pl] spalon@[adj_pl] przez różdżkę feniksa %k"
@@ -2575,10 +2569,10 @@ msgid "TXT_KILLED_LOREMASTER"
 msgstr "Zabił@[irreg_3_pl] Mędrca!"
 
 msgid "TXT_YOUFOOL"
-msgstr "Głupcze! Włączył@[irreg_3_pl] alarm!"
+msgstr "Głupcze! Włączył@[irreg_3_pl] alarm."
 
 msgid "TXT_YOUREDEAD"
-msgstr "Już nie żyjesz! Włączył@[irreg_3_pl] alarm!"
+msgstr "Już nie żyjesz! Włączył@[irreg_3_pl] alarm."
 
 msgid "TXT_HAVEENOUGH"
 msgstr "Wydaje się, że już ci wystarczy!"
@@ -2873,11 +2867,11 @@ msgstr ""
 
 msgctxt "chex"
 msgid "STSTR_DQDON"
-msgstr "Tryb Niewrażliwości WŁĄCZONY"
+msgstr "Tryb Niewrażliwości WŁ"
 
 msgctxt "chex"
 msgid "STSTR_DQDOFF"
-msgstr "Tryb Niewrażliwości WYŁĄCZONY"
+msgstr "Tryb Niewrażliwości WYŁ"
 
 msgctxt "chex"
 msgid "STSTR_FAADDED"

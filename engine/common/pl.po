@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 21:32+0000\n"
+"PO-Revision-Date: 2026-02-24 02:31+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/common/pl/>"
 "\n"
@@ -821,9 +821,8 @@ msgstr "Zaawansowane Opcje"
 msgid "SNDMNU_MODREPLAYER"
 msgstr "Opcje Modułu Odtwarzacza"
 
-#, fuzzy
 msgid "SNDMNU_MIDIPLAYER"
-msgstr "Opcje Odtwarzacza Midi"
+msgstr "Opcje Odtwarzacza MIDI"
 
 msgid "SNDMNU_MENUSOUND"
 msgstr "Dźwięk w Menu"
@@ -1502,9 +1501,8 @@ msgstr "Rotacja szybkich zapisów"
 msgid "MISCMNU_QUICKSAVECOUNT"
 msgstr "Ilość szybkich zapisów w rotacji"
 
-#, fuzzy
 msgid "MISCMNU_CLEANMENU"
-msgstr "Wyłącz Skalowanie Menu"
+msgstr "Klasyczne skalowanie menu ZDoom"
 
 msgid "MISCMNU_PAUSEINBACKGROUND"
 msgstr "Zapauzuj grę w tle"
@@ -1674,9 +1672,8 @@ msgstr "ID #2"
 msgid "REVMNU_Create"
 msgstr "Stwórz"
 
-#, fuzzy
 msgid "REVMNU_Save"
-msgstr "Zapisz..."
+msgstr "Zapisz…"
 
 msgid "REVMNU_File_name"
 msgstr "Nazwa pliku"
@@ -2035,3 +2032,9 @@ msgstr "Opcje Dostępności"
 
 msgid "ACCMNU_RESET"
 msgstr "Resetuj Opcje Dostępności"
+
+msgid "MSGMNU_STACKIDENTICAL"
+msgstr "Grupuj powtarzające się wiadomości"
+
+msgid "MSGMNU_MESSAGEQUEUE"
+msgstr "Rozmiar kolejki wiadomości"

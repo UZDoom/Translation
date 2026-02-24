@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 21:11+0000\n"
+"PO-Revision-Date: 2026-02-24 02:31+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/it/>\n"
@@ -341,16 +341,16 @@ msgid "TXT_BUDDHAOFF"
 msgstr "Modalità Buddha SPENTA"
 
 msgid "TXT_BUDDHA2ON"
-msgstr "Modalità Ultimo Buddha ATTIVATA"
+msgstr "Modalità Ultimo Buddha ATTIVA"
 
 msgid "TXT_BUDDHA2OFF"
-msgstr "Modalità Ultimo Buddha DISATTIVATA"
+msgstr "Modalità Ultimo Buddha SPENTA"
 
 msgid "TXT_CHEATPOWERON"
-msgstr "Potere ATTIVATO"
+msgstr "Potere ATTIVO"
 
 msgid "TXT_CHEATPOWEROFF"
-msgstr "Potere DISATTIVATO"
+msgstr "Potere SPENTO"
 
 msgid "TXT_CHEATHEALTH"
 msgstr "Piena salute"
@@ -373,7 +373,7 @@ msgid "TXT_CHEATIDKFA"
 msgstr "Imbroglione—non meriti armi"
 
 msgid "TXT_CHEATTICKERON"
-msgstr "Ticker attivato"
+msgstr "Ticker ATTIVO"
 
 #, fuzzy
 msgid "TXT_CHEATTICKEROFF"

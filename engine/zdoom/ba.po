@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 21:11+0000\n"
+"PO-Revision-Date: 2026-02-24 02:31+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Bashkir <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ba/>\n"
@@ -354,16 +354,18 @@ msgid "TXT_BUDDHAOFF"
 msgstr "Način Bude ҺҮНДЕР"
 
 msgid "TXT_BUDDHA2ON"
-msgstr "Ultimativni način Bude UKLJ"
+msgstr "Ultimativni način Bude ҠАБЫҘ"
 
+#, fuzzy
 msgid "TXT_BUDDHA2OFF"
-msgstr "Ultimativni način Bude ISKLJ"
+msgstr "Ultimativni način Bude ҺҮНДЕР"
 
 msgid "TXT_CHEATPOWERON"
-msgstr "Energija UKLJ"
+msgstr "Energija ҠАБЫҘ"
 
+#, fuzzy
 msgid "TXT_CHEATPOWEROFF"
-msgstr "Energija ISKLJ"
+msgstr "Energija ҺҮНДЕР"
 
 msgid "TXT_CHEATHEALTH"
 msgstr "Puno zdravlje"
@@ -373,7 +375,7 @@ msgstr "Svi ključevi"
 
 #, fuzzy
 msgid "TXT_CHEATSOUNDON"
-msgstr "Debug zvuka UKLJ."
+msgstr "Debug zvuka ҠАБЫҘ"
 
 #, fuzzy
 msgid "TXT_CHEATSOUNDOFF"
@@ -386,7 +388,7 @@ msgid "TXT_CHEATIDKFA"
 msgstr "Varalico! Ajd sad bez oružja se dirkaj"
 
 msgid "TXT_CHEATTICKERON"
-msgstr "Brojač UKLJ."
+msgstr "Brojač ҠАБЫҘ"
 
 #, fuzzy
 msgid "TXT_CHEATTICKEROFF"

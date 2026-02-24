@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 21:12+0000\n"
+"PO-Revision-Date: 2026-02-24 02:31+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/sr/>\n"
@@ -344,17 +344,16 @@ msgid "TXT_BUDDHAOFF"
 msgstr "Буда Мод ИСКЉ"
 
 msgid "TXT_BUDDHA2ON"
-msgstr "Ултимативни Буда Мод УКЉУЧЕН"
+msgstr "Ултимативни Буда Мод УКЉ"
 
 msgid "TXT_BUDDHA2OFF"
-msgstr "Ултимативни Буда Мод ИСКЉУЧЕН"
+msgstr "Ултимативни Буда Мод ИСКЉ"
 
 msgid "TXT_CHEATPOWERON"
-msgstr "Моћ УКЉУЧЕНА"
+msgstr "Моћ УКЉ"
 
-#, fuzzy
 msgid "TXT_CHEATPOWEROFF"
-msgstr "Моћ ИСКЉУЧЕНА"
+msgstr "Моћ ИСКЉ"
 
 msgid "TXT_CHEATHEALTH"
 msgstr "Здравље напуњено"
@@ -377,7 +376,7 @@ msgid "TXT_CHEATIDKFA"
 msgstr "Варалице—ти не заслужујеш оружје"
 
 msgid "TXT_CHEATTICKERON"
-msgstr "Бројач укључен"
+msgstr "Бројач УКЉ"
 
 #, fuzzy
 msgid "TXT_CHEATTICKEROFF"

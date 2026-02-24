@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 05:10+0000\n"
+"PO-Revision-Date: 2026-02-24 02:31+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ko/>\n"
@@ -375,7 +375,7 @@ msgid "TXT_CHEATIDKFA"
 msgstr "사기꾼놈! 너는 무기를 가질 자격이 없어"
 
 msgid "TXT_CHEATTICKERON"
-msgstr "프레임 속도 표시 켬"
+msgstr "프레임 속도 표시 켜짐"
 
 #, fuzzy
 msgid "TXT_CHEATTICKEROFF"
