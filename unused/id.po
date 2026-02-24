@@ -2,8 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 05:20+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-02-24 05:38+0000\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
+"memory@weblate.org>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/uzdoom/unused/"
 "id/>\n"
 "Language: id\n"
@@ -17,187 +18,187 @@ msgid "ADVSNDMNU_ADLOPLCORES"
 msgstr "Inti Emulator OPL"
 
 msgid "ADVSNDMNU_FLUIDPATCHSET"
-msgstr ""
+msgstr "Set patch"
 
 msgid "ADVSNDMNU_GUSCONFIG"
-msgstr ""
+msgstr "File konfigurasi GUS"
 
 # Jargon.
 msgid "ADVSNDMNU_TIMIDITYCONFIG"
-msgstr ""
+msgstr "File konfigurasi Timidity"
 
 msgid "ADVSNDMNU_TIMIDITYVOLUME"
-msgstr ""
+msgstr "Volume relatif"
 
 # Jargon.
 msgid "ADVSNDMNU_WILDMIDICONFIG"
-msgstr ""
+msgstr "File konfigurasi WildMidi"
 
 msgid "CNTRLMNU_ADJUST_GAMMA"
-msgstr ""
+msgstr "Atur Gamma"
 
 msgid "CNTRLMNU_CHAT"
-msgstr ""
+msgstr "Obrolan"
 
 msgid "CNTRLMNU_CHAT_TITLE"
-msgstr ""
+msgstr "Sesuaikan Kontrol Obrolan"
 
 msgid "DSPLYMNU_ADVANCED"
-msgstr ""
+msgstr "Opsi tampilan lanjutan"
 
 msgid "DSPLYMNU_APPEARANCE"
-msgstr ""
+msgstr "Tampilan"
 
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr "Skala bidikan"
 
 msgid "DSPLYMNU_MESSAGES"
-msgstr ""
+msgstr "Pesan"
 
 msgid "DSPLYMNU_SBSCALE"
-msgstr ""
+msgstr "Skala Bilah Status"
 
 msgid "GLTEXMNU_ENABLEHIRES"
-msgstr ""
+msgstr "Aktifkan tekstur resolusi tinggi"
 
 msgid "GLTEXMNU_TEXENABLED"
-msgstr ""
+msgstr "Tekstur diaktifkan"
 
 msgid "MOUSEMNU_SMOOTHMOUSE"
 msgstr "Gerakan mouse halus"
 
 msgid "MSGMNU_MESSAGESCALE"
-msgstr ""
+msgstr "Skala Pesan"
 
 msgid "NOTSET"
-msgstr ""
+msgstr "Belum diatur"
 
 msgid "OPTMNU_INPUT"
-msgstr ""
+msgstr "Opsi input"
 
 msgid "OPTMNU_LIGHT"
-msgstr ""
+msgstr "Opsi pencahayaan"
 
 msgid "OPTMNU_MULTIPLAYER"
-msgstr ""
+msgstr "Opsi multipemain"
 
 msgid "OPTMNU_SPRITE"
-msgstr ""
+msgstr "Opsi sprite"
 
 msgid "OPTMNU_SYSTEM"
-msgstr ""
+msgstr "Opsi sistem"
 
 msgid "OPTVAL_4000HZ"
-msgstr ""
+msgstr "4000 Hz"
 
 msgid "OPTVAL_AUTOMAP"
-msgstr ""
+msgstr "Peta otomatis"
 
 msgid "OPTVAL_HUD"
-msgstr ""
+msgstr "HUD"
 
 msgid "OPTVAL_HUDANDMAP"
-msgstr ""
+msgstr "HUD + Peta otomatis"
 
 msgid "OPTVAL_PMDWINOPNA"
-msgstr ""
+msgstr "PMDWin OPNA"
 
 msgid "OPTVAL_SCALENEAREST"
-msgstr ""
+msgstr "Skala (Terdekat)"
 
 msgid "OPTVAL_SCALELINEAR"
-msgstr ""
+msgstr "Skala (Linear)"
 
 msgid "PICKER_NETAUTO"
-msgstr ""
+msgstr "Otomatis (disarankan)"
 
 msgid "PICKER_NETMODE"
-msgstr ""
+msgstr "Mode jaringan:"
 
 # Players connect to each other individually.
 msgid "PICKER_NETPEER"
-msgstr ""
+msgstr "Peer-to-Peer"
 
 # Connections are routed through the host instead of all players connecting to
 # each other individually.
 msgid "PICKER_NETSERVER"
-msgstr ""
+msgstr "Server paket"
 
 # Jargon.
 msgid "REVMNU_AIR_ABSORPTION_HF"
-msgstr ""
+msgstr "Penyerapan udara HF"
 
 # Jargon.
 msgid "REVMNU_DECAY_HF_RATIO"
-msgstr ""
+msgstr "Rasio peluruhan HF"
 
 # Jargon.
 msgid "REVMNU_DECAY_LF_RATIO"
-msgstr ""
+msgstr "Rasio peluruhan LF"
 
 # Jargon.
 msgid "REVMNU_DECAY_TIME"
-msgstr ""
+msgstr "Waktu peluruhan"
 
 # Jargon.
 msgid "REVMNU_DENSITY"
-msgstr ""
+msgstr "Kepadatan"
 
 # Jargon.
 msgid "REVMNU_DIFFUSION"
-msgstr ""
+msgstr "Difusi"
 
 # Jargon.
 msgid "REVMNU_ECHO_DEPTH"
-msgstr ""
+msgstr "Kedalaman gema"
 
 # Jargon.
 msgid "REVMNU_ECHO_TIME"
-msgstr ""
+msgstr "Waktu gema"
 
 # Jargon.
 msgid "REVMNU_ENVIRONMENT_DIFFUSION"
-msgstr ""
+msgstr "Difusi lingkungan"
 
 # Jargon.
 msgid "REVMNU_ENVIRONMENT_SIZE"
-msgstr ""
+msgstr "Ukuran lingkungan"
 
 # Jargon.
 msgid "REVMNU_HF_REFERENCE"
-msgstr ""
+msgstr "Referensi HF"
 
 # Jargon.
 msgid "REVMNU_LF_REFERENCE"
-msgstr ""
+msgstr "Referensi LF"
 
 # Jargon.
 msgid "REVMNU_MODULATION_DEPTH"
-msgstr ""
+msgstr "Kedalaman modulasi"
 
 # Jargon.
 msgid "REVMNU_MODULATION_TIME"
-msgstr ""
+msgstr "Waktu modulasi"
 
 # Jargon.
 msgid "REVMNU_REFLECTIONS"
-msgstr ""
+msgstr "Refleksi"
 
 # Jargon.
 msgid "REVMNU_REFLECTIONS_DELAY"
-msgstr ""
+msgstr "Tunda refleksi"
 
 # Jargon.
 msgid "REVMNU_REFLECTIONS_PAN_X"
-msgstr ""
+msgstr "Refleksi Pan X"
 
 # Jargon.
 msgid "REVMNU_REFLECTIONS_PAN_Y"
-msgstr ""
+msgstr "Refleksi Pan Y"
 
 # Jargon.
 msgid "REVMNU_REFLECTIONS_PAN_Z"
-msgstr ""
+msgstr "Refleksi Pan Z"
 
 # Jargon.
 msgid "REVMNU_REVERB"
@@ -205,59 +206,59 @@ msgstr "Reverb"
 
 # Jargon.
 msgid "REVMNU_REVERB_DELAY"
-msgstr ""
+msgstr "Tunda gema"
 
 # Jargon.
 msgid "REVMNU_REVERB_PAN_X"
-msgstr ""
+msgstr "Gema Pan X"
 
 # Jargon.
 msgid "REVMNU_REVERB_PAN_Y"
-msgstr ""
+msgstr "Gema Pan Y"
 
 # Jargon.
 msgid "REVMNU_REVERB_PAN_Z"
-msgstr ""
+msgstr "Gema Pan Z"
 
 # Jargon.
 msgid "REVMNU_ROOM"
-msgstr ""
+msgstr "Ruangan"
 
 # Jargon.
 msgid "REVMNU_ROOM_HF"
-msgstr ""
+msgstr "HF ruangan"
 
 # Jargon.
 msgid "REVMNU_ROOM_LF"
-msgstr ""
+msgstr "LF ruangan"
 
 # Jargon.
 msgid "REVMNU_ROOM_ROLLOFF_FACTOR"
-msgstr ""
+msgstr "Faktor pengurangan ruangan"
 
 msgid "SNDMNU_BACKEND"
-msgstr ""
+msgstr "Backend suara"
 
 msgid "SNDMNU_MENUSOUND"
-msgstr ""
+msgstr "Suara di Menu"
 
 msgid "SNDMNU_MUSENABLED"
-msgstr ""
+msgstr "Musik diaktifkan"
 
 msgid "SNDMNU_SNDENABLED"
-msgstr ""
+msgstr "Suara diaktifkan"
 
 msgid "VIDMNU_5X4ASPECTRATIO"
-msgstr ""
+msgstr "Aktifkan rasio aspek 5:4"
 
 msgid "VIDMNU_ASPECTRATIO"
-msgstr ""
+msgstr "Rasio aspek"
 
 msgid "VKMNU_DEVICESELECT"
-msgstr ""
+msgstr "Pilih perangkat Vulkan"
 
 msgid "VKMNU_ENABLE"
-msgstr ""
+msgstr "Aktifkan Vulkan"
 
 msgid "CMPTMNU_SOUNDCUTOFF"
 msgstr ""
@@ -275,7 +276,7 @@ msgid "GLLIGHTMNU_LIGHTDEFS"
 msgstr ""
 
 msgid "GLMNU_PREFS"
-msgstr ""
+msgstr "Preferensi"
 
 msgid "GLPREFMNU_PALTONENOGREY"
 msgstr ""
@@ -305,19 +306,19 @@ msgid "OPTVAL_DEDICATED"
 msgstr ""
 
 msgid "OPTVAL_DOUBLE"
-msgstr ""
+msgstr "Ganda"
 
 msgid "OPTVAL_INTEGRATED"
 msgstr ""
 
 msgid "OPTVAL_OPTIMAL"
-msgstr ""
+msgstr "Optimal"
 
 msgid "OPTVAL_OPTIMIZED"
 msgstr ""
 
 msgid "OPTVAL_ORIGINAL"
-msgstr ""
+msgstr "Asli"
 
 msgid "OPTVAL_PIXELDOUBLE"
 msgstr ""
@@ -332,7 +333,7 @@ msgid "OPTVAL_SCALETO640X400"
 msgstr ""
 
 msgid "OPTVAL_TRIPLE"
-msgstr ""
+msgstr "Tiga"
 
 msgid "OPTVAL_VTAVANILLA"
 msgstr ""
