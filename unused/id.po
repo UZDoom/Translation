@@ -2,17 +2,19 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: \n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-02-24 05:20+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Indonesian <https://hosted.weblate.org/projects/uzdoom/unused/"
+"id/>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.16.1-dev\n"
 
 msgid "ADVSNDMNU_ADLOPLCORES"
-msgstr ""
+msgstr "Inti Emulator OPL"
 
 msgid "ADVSNDMNU_FLUIDPATCHSET"
 msgstr ""
@@ -47,7 +49,7 @@ msgid "DSPLYMNU_APPEARANCE"
 msgstr ""
 
 msgid "DSPLYMNU_CROSSHAIRSCALE"
-msgstr ""
+msgstr "Skala bidikan"
 
 msgid "DSPLYMNU_MESSAGES"
 msgstr ""
@@ -62,7 +64,7 @@ msgid "GLTEXMNU_TEXENABLED"
 msgstr ""
 
 msgid "MOUSEMNU_SMOOTHMOUSE"
-msgstr ""
+msgstr "Gerakan mouse halus"
 
 msgid "MSGMNU_MESSAGESCALE"
 msgstr ""
@@ -199,7 +201,7 @@ msgstr ""
 
 # Jargon.
 msgid "REVMNU_REVERB"
-msgstr ""
+msgstr "Reverb"
 
 # Jargon.
 msgid "REVMNU_REVERB_DELAY"
