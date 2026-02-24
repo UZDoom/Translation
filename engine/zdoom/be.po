@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 21:11+0000\n"
+"PO-Revision-Date: 2026-02-24 02:31+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/be/>\n"
@@ -343,16 +343,16 @@ msgid "TXT_BUDDHAOFF"
 msgstr "Рэжым Буды ВЫКЛ"
 
 msgid "TXT_BUDDHA2ON"
-msgstr "Рэжым ультыматыўнага Буды ЎКЛЮЧАНЫ"
+msgstr "Рэжым ультыматыўнага Буды УКЛ"
 
 msgid "TXT_BUDDHA2OFF"
-msgstr "Рэжым ультыматыўнага Буды ВЫКЛЮЧАНЫ"
+msgstr "Рэжым ультыматыўнага Буды ВЫКЛ"
 
 msgid "TXT_CHEATPOWERON"
-msgstr "Сіла ЎКЛЮЧАНЫ"
+msgstr "Сіла УКЛ"
 
 msgid "TXT_CHEATPOWEROFF"
-msgstr "Сіла ВЫКЛЮЧАНЫ"
+msgstr "Сіла ВЫКЛ"
 
 msgid "TXT_CHEATHEALTH"
 msgstr "Поўнае здароўе"
@@ -375,7 +375,7 @@ msgid "TXT_CHEATIDKFA"
 msgstr "Жулік—ты не заслугоўваеш зброі"
 
 msgid "TXT_CHEATTICKERON"
-msgstr "Лічыльнік уключаны"
+msgstr "Лічыльнік УКЛ"
 
 #, fuzzy
 msgid "TXT_CHEATTICKEROFF"
