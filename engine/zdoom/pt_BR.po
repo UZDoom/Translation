@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 02:31+0000\n"
+"PO-Revision-Date: 2026-02-24 16:14+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "uzdoom/zdoom-engine-strings/pt_BR/>\n"
@@ -360,13 +360,11 @@ msgstr "Saúde completa"
 msgid "TXT_CHEATKEYS"
 msgstr "Todas as chaves"
 
-#, fuzzy
 msgid "TXT_CHEATSOUNDON"
-msgstr "Depuração de som ativada"
+msgstr "Depuração de som ATIVADA"
 
-#, fuzzy
 msgid "TXT_CHEATSOUNDOFF"
-msgstr "Depuração de som desativada"
+msgstr "Depuração de som DESATIVADA"
 
 msgid "TXT_CHEATIDDQD"
 msgstr "Tentando trapacear, né? Morra!"
