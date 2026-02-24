@@ -3,7 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "PO-Revision-Date: 2026-02-24 05:20+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
+"memory@weblate.org>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/uzdoom/unused/el/>"
 "\n"
 "Language: el\n"
@@ -34,19 +35,19 @@ msgid "ADVSNDMNU_WILDMIDICONFIG"
 msgstr ""
 
 msgid "CNTRLMNU_ADJUST_GAMMA"
-msgstr ""
+msgstr "Ρύθμιση Γάμμα"
 
 msgid "CNTRLMNU_CHAT"
-msgstr ""
+msgstr "Μίλα"
 
 msgid "CNTRLMNU_CHAT_TITLE"
-msgstr ""
+msgstr "Προσαρμογή ελέγχου συνομιλίας"
 
 msgid "DSPLYMNU_ADVANCED"
-msgstr ""
+msgstr "Προηγμένες Ρυθμίσεις Οθόνης"
 
 msgid "DSPLYMNU_APPEARANCE"
-msgstr ""
+msgstr "Εμφάνιση"
 
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr ""
@@ -67,10 +68,10 @@ msgid "MOUSEMNU_SMOOTHMOUSE"
 msgstr "Ομαλή κίνηση του ποντικιού"
 
 msgid "MSGMNU_MESSAGESCALE"
-msgstr ""
+msgstr "Μέγεθος μηνύματον"
 
 msgid "NOTSET"
-msgstr ""
+msgstr "Δεν έχει οριστεί"
 
 msgid "OPTMNU_INPUT"
 msgstr ""
@@ -109,10 +110,10 @@ msgid "OPTVAL_SCALELINEAR"
 msgstr ""
 
 msgid "PICKER_NETAUTO"
-msgstr ""
+msgstr "Αυτόματο (Προτεινόμενο)"
 
 msgid "PICKER_NETMODE"
-msgstr ""
+msgstr "Λειτουργία Δικτυου:"
 
 # Players connect to each other individually.
 msgid "PICKER_NETPEER"
@@ -121,7 +122,7 @@ msgstr ""
 # Connections are routed through the host instead of all players connecting to
 # each other individually.
 msgid "PICKER_NETSERVER"
-msgstr ""
+msgstr "Διακομιστής Πακετων"
 
 # Jargon.
 msgid "REVMNU_AIR_ABSORPTION_HF"
@@ -157,11 +158,11 @@ msgstr ""
 
 # Jargon.
 msgid "REVMNU_ENVIRONMENT_DIFFUSION"
-msgstr ""
+msgstr "Διάχυση Περιβάλλοντος"
 
 # Jargon.
 msgid "REVMNU_ENVIRONMENT_SIZE"
-msgstr ""
+msgstr "Μέγεθος Περιβάλλοντος"
 
 # Jargon.
 msgid "REVMNU_HF_REFERENCE"
@@ -181,11 +182,11 @@ msgstr ""
 
 # Jargon.
 msgid "REVMNU_REFLECTIONS"
-msgstr ""
+msgstr "Αντανακλάσεις"
 
 # Jargon.
 msgid "REVMNU_REFLECTIONS_DELAY"
-msgstr ""
+msgstr "Καθυστέρηση Αντανακλάσεων"
 
 # Jargon.
 msgid "REVMNU_REFLECTIONS_PAN_X"
@@ -201,7 +202,7 @@ msgstr ""
 
 # Jargon.
 msgid "REVMNU_REVERB"
-msgstr ""
+msgstr "Αντήχηση"
 
 # Jargon.
 msgid "REVMNU_REVERB_DELAY"
@@ -221,15 +222,15 @@ msgstr ""
 
 # Jargon.
 msgid "REVMNU_ROOM"
-msgstr ""
+msgstr "Δωμάτιο"
 
 # Jargon.
 msgid "REVMNU_ROOM_HF"
-msgstr ""
+msgstr "Δωμάτιο HF"
 
 # Jargon.
 msgid "REVMNU_ROOM_LF"
-msgstr ""
+msgstr "Δωμάτιο LF"
 
 # Jargon.
 msgid "REVMNU_ROOM_ROLLOFF_FACTOR"
@@ -242,22 +243,22 @@ msgid "SNDMNU_MENUSOUND"
 msgstr ""
 
 msgid "SNDMNU_MUSENABLED"
-msgstr ""
+msgstr "Μουσική ενεργοποιημένη"
 
 msgid "SNDMNU_SNDENABLED"
-msgstr ""
+msgstr "Ήχος ενεργοποιημένος"
 
 msgid "VIDMNU_5X4ASPECTRATIO"
 msgstr ""
 
 msgid "VIDMNU_ASPECTRATIO"
-msgstr ""
+msgstr "Αναλογία διαστάσεων"
 
 msgid "VKMNU_DEVICESELECT"
-msgstr ""
+msgstr "Επιλογή Vulkan Συσκευής"
 
 msgid "VKMNU_ENABLE"
-msgstr ""
+msgstr "Ενεργοποιηση του Vulkan"
 
 msgid "CMPTMNU_SOUNDCUTOFF"
 msgstr ""
@@ -275,10 +276,10 @@ msgid "GLLIGHTMNU_LIGHTDEFS"
 msgstr ""
 
 msgid "GLMNU_PREFS"
-msgstr ""
+msgstr "Προτιμήσεις"
 
 msgid "GLPREFMNU_PALTONENOGREY"
-msgstr ""
+msgstr "Απότρεξη γρί σκιών"
 
 msgid "GLTEXMNU_TRIMSPREDGE"
 msgstr ""
@@ -305,19 +306,19 @@ msgid "OPTVAL_DEDICATED"
 msgstr ""
 
 msgid "OPTVAL_DOUBLE"
-msgstr ""
+msgstr "Διπλό"
 
 msgid "OPTVAL_INTEGRATED"
 msgstr ""
 
 msgid "OPTVAL_OPTIMAL"
-msgstr ""
+msgstr "Βέλτιστη"
 
 msgid "OPTVAL_OPTIMIZED"
 msgstr ""
 
 msgid "OPTVAL_ORIGINAL"
-msgstr ""
+msgstr "Πρωτότυπο"
 
 msgid "OPTVAL_PIXELDOUBLE"
 msgstr ""
@@ -332,7 +333,7 @@ msgid "OPTVAL_SCALETO640X400"
 msgstr ""
 
 msgid "OPTVAL_TRIPLE"
-msgstr ""
+msgstr "Τριπλός"
 
 msgid "OPTVAL_VTAVANILLA"
 msgstr ""
@@ -341,4 +342,4 @@ msgid "OPTVAL_VTAZDOOM"
 msgstr ""
 
 msgid "TCMNU_TRUECOLOR"
-msgstr ""
+msgstr "TrueColor παραγωγή"
