@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 05:15+0000\n"
+"PO-Revision-Date: 2026-02-24 02:31+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "uzdoom/zdoom-engine-strings/pt_BR/>\n"
@@ -374,6 +374,7 @@ msgstr "Tentando trapacear, né? Morra!"
 msgid "TXT_CHEATIDKFA"
 msgstr "Trapaceiros não merecem armas"
 
+#, fuzzy
 msgid "TXT_CHEATTICKERON"
 msgstr "Contador ativado"
 
