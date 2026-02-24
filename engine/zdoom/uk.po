@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 05:09+0000\n"
+"PO-Revision-Date: 2026-02-24 02:31+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/uk/>\n"
@@ -350,10 +350,10 @@ msgid "TXT_BUDDHA2OFF"
 msgstr "Ультимативний Будда-мод ВИМК"
 
 msgid "TXT_CHEATPOWERON"
-msgstr "Сила УВІМКНЕНО"
+msgstr "Сила УВІМК"
 
 msgid "TXT_CHEATPOWEROFF"
-msgstr "Сила ВИМКНЕНО"
+msgstr "Сила ВИМК"
 
 msgid "TXT_CHEATHEALTH"
 msgstr "Повне здоров'я"
@@ -376,7 +376,7 @@ msgid "TXT_CHEATIDKFA"
 msgstr "Пройдисвіт—ти не заслужив зброї"
 
 msgid "TXT_CHEATTICKERON"
-msgstr "Лічильник Ввімк."
+msgstr "Лічильник ВВІМК"
 
 #, fuzzy
 msgid "TXT_CHEATTICKEROFF"
@@ -787,13 +787,13 @@ msgid "BETA_BONUS4"
 msgstr "Взято нечестиву біблію."
 
 msgid "PD_BLUEO"
-msgstr "Вам потрібна синя ключ-карта, щоб активувати цей об'єкт"
+msgstr "Вам потрібен синій ключ, щоб активувати цей об'єкт"
 
 msgid "PD_REDO"
-msgstr "Вам потрібна червона ключ-карта, щоб активувати цей об'єкт"
+msgstr "Вам потрібен червоний ключ, щоб активувати цей об'єкт"
 
 msgid "PD_YELLOWO"
-msgstr "Вам потрібна жовта ключ-карта, щоб активувати цей об'єкт"
+msgstr "Вам потрібен жовтий ключ, щоб активувати цей об'єкт"
 
 msgid "PD_BLUEK"
 msgstr "Вам потрібна синя ключ-карта, щоб відкрити ці двері"
