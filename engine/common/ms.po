@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 23:10+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-24 05:03+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Malay <https://hosted.weblate.org/projects/uzdoom/common/ms/>"
 "\n"
 "Language: ms\n"
@@ -1798,3 +1798,6 @@ msgstr ""
 
 msgid "PICKER_TAB_RELEASE"
 msgstr ""
+
+msgid "DSPLYMNU_MESSAGES"
+msgstr "Mesej"
