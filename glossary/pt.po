@@ -64,9 +64,6 @@ msgstr "WildMidi"
 msgid "Timidity"
 msgstr "Timidity"
 
-msgid "GENMIDI"
-msgstr ""
-
 msgid "libXMP"
 msgstr "libXMP"
 
