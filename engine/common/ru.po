@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 05:03+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-02-24 18:38+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/common/"
 "ru/>\n"
 "Language: ru\n"
@@ -974,7 +974,6 @@ msgstr "Наращивание громкости"
 msgid "OPTVAL_LIBXMP"
 msgstr "libXMP"
 
-#, fuzzy
 msgid "OPTVAL_DUMB"
 msgstr "Dumb"
 

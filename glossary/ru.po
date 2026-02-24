@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 16:13+0000\n"
+"PO-Revision-Date: 2026-02-24 18:38+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/glossary/"
 "ru/>\n"
@@ -29,5 +29,26 @@ msgstr "Синтезатор FluidSynth"
 msgid "Freeverb"
 msgstr "Ревербератор Freeverb"
 
-msgid "Timidity++"
-msgstr "Синтезатор Timidity++"
+msgid "ADLMidi"
+msgstr "ADLMidi"
+
+msgid "OPNMidi"
+msgstr "OPNMidi"
+
+msgid "WildMidi"
+msgstr "WildMidi"
+
+msgid "Timidity"
+msgstr "Синтезатор Timidity"
+
+msgid "GENMIDI"
+msgstr ""
+
+msgid "WAD"
+msgstr ""
+
+msgid "libXMP"
+msgstr "libXMP"
+
+msgid "Dumb"
+msgstr "Dumb"
