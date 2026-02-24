@@ -40,9 +40,6 @@ msgstr "WildMidi"
 msgid "Timidity"
 msgstr "Verlegenheid"
 
-msgid "GENMIDI"
-msgstr ""
-
 msgid "libXMP"
 msgstr "libXMP"
 
