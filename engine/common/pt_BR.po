@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 05:03+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-02-24 16:14+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "uzdoom/common/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -817,14 +817,12 @@ msgstr "Núcleo do emulador de OPL"
 msgid "ADVSNDMNU_MIDIVOICES"
 msgstr "Vozes MIDI"
 
-#, fuzzy
 msgid "ADVSNDMNU_FLUIDSYNTH"
 msgstr "FluidSynth"
 
 msgid "ADVSNDMNU_GLOBAL"
 msgstr "Global"
 
-#, fuzzy
 msgid "ADVSNDMNU_FREEVERB"
 msgstr "Freeverb"
 

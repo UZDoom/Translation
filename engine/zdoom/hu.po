@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 02:31+0000\n"
+"PO-Revision-Date: 2026-02-24 16:13+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hu/>\n"
@@ -360,11 +360,9 @@ msgstr "Teljes életerő"
 msgid "TXT_CHEATKEYS"
 msgstr "Összes kulcs"
 
-#, fuzzy
 msgid "TXT_CHEATSOUNDON"
 msgstr "Hang debug BE"
 
-#, fuzzy
 msgid "TXT_CHEATSOUNDOFF"
 msgstr "Hang debug KI"
 

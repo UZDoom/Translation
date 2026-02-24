@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 05:03+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-02-24 16:14+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/de/>\n"
 "Language: de\n"
@@ -358,11 +358,9 @@ msgstr "Volle Lebensenergie"
 msgid "TXT_CHEATKEYS"
 msgstr "Alle Schlüssel"
 
-#, fuzzy
 msgid "TXT_CHEATSOUNDON"
 msgstr "Sound Debug AN"
 
-#, fuzzy
 msgid "TXT_CHEATSOUNDOFF"
 msgstr "Sound Debug AUS"
 

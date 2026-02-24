@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 02:31+0000\n"
+"PO-Revision-Date: 2026-02-24 16:14+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/el/>\n"
@@ -358,13 +358,11 @@ msgstr "Ολόκληρη υγεία"
 msgid "TXT_CHEATKEYS"
 msgstr "Όλα τα κλειδία"
 
-#, fuzzy
 msgid "TXT_CHEATSOUNDON"
-msgstr "Debug ήχου ενεργοποιημένη"
+msgstr "Debug ήχου ΕΝΕΡΓΟ"
 
-#, fuzzy
 msgid "TXT_CHEATSOUNDOFF"
-msgstr "Debug ήχου άπενεργοποιημένη"
+msgstr "Debug ήχου ΑΝΕΝΕΡΓΟ"
 
 msgid "TXT_CHEATIDDQD"
 msgstr "Προσπαθείς να εξαπατήσεις, ε? Τώρα πεθένεις!"

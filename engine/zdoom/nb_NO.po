@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 02:31+0000\n"
+"PO-Revision-Date: 2026-02-24 16:14+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/nb_NO/>\n"
@@ -359,11 +359,9 @@ msgstr "Full helse"
 msgid "TXT_CHEATKEYS"
 msgstr "Alle taster"
 
-#, fuzzy
 msgid "TXT_CHEATSOUNDON"
 msgstr "Lyd feilsøking PÅ"
 
-#, fuzzy
 msgid "TXT_CHEATSOUNDOFF"
 msgstr "Lyd feilsøking AV"
 

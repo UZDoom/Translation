@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 02:31+0000\n"
+"PO-Revision-Date: 2026-02-24 16:13+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/tr/>\n"
@@ -358,13 +358,11 @@ msgstr "Tam sağlık"
 msgid "TXT_CHEATKEYS"
 msgstr "Tüm anahtarlar"
 
-#, fuzzy
 msgid "TXT_CHEATSOUNDON"
-msgstr "Ses hata ayıklama açık"
+msgstr "Ses hata ayıklama AÇIK"
 
-#, fuzzy
 msgid "TXT_CHEATSOUNDOFF"
-msgstr "Ses hata ayıklama kapalı"
+msgstr "Ses hata ayıklama KAPALI"
 
 msgid "TXT_CHEATIDDQD"
 msgstr "Hile yapmaya çalışıyorsun, ha? Şimdi öleceksin!"

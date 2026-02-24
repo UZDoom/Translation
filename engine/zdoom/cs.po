@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 02:31+0000\n"
+"PO-Revision-Date: 2026-02-24 16:13+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/cs/>\n"
@@ -358,11 +358,9 @@ msgstr "Plné zdraví"
 msgid "TXT_CHEATKEYS"
 msgstr "Všechny klíče"
 
-#, fuzzy
 msgid "TXT_CHEATSOUNDON"
 msgstr "Debug zvuku ZAP"
 
-#, fuzzy
 msgid "TXT_CHEATSOUNDOFF"
 msgstr "Debug zvuku VYP"
 

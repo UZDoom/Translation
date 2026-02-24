@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 05:03+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-02-24 16:13+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/uzdoom/"
 "common/nb_NO/>\n"
 "Language: nb_NO\n"
@@ -824,7 +824,7 @@ msgid "ADVSNDMNU_GLOBAL"
 msgstr ""
 
 msgid "ADVSNDMNU_FREEVERB"
-msgstr ""
+msgstr "Freeverb"
 
 msgid "ADVSNDMNU_GLOBAL_FREEVERB"
 msgstr ""
@@ -842,7 +842,7 @@ msgid "ADVSNDMNU_CHORUS"
 msgstr ""
 
 msgid "ADVSNDMNU_TIMIDITY"
-msgstr ""
+msgstr "Timidity++"
 
 msgid "ADVSNDMNU_ADLMIDI"
 msgstr ""

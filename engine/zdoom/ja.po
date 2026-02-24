@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 02:31+0000\n"
+"PO-Revision-Date: 2026-02-24 16:13+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ja/>\n"
@@ -360,11 +360,9 @@ msgstr "ヘルス全回復"
 msgid "TXT_CHEATKEYS"
 msgstr "キー全部"
 
-#, fuzzy
 msgid "TXT_CHEATSOUNDON"
 msgstr "サウンドデバッグ オン"
 
-#, fuzzy
 msgid "TXT_CHEATSOUNDOFF"
 msgstr "サウンドデバッグ オフ"
 

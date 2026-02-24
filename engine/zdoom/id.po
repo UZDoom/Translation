@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 04:53+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-02-24 16:13+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/id/>\n"
 "Language: id\n"
@@ -359,13 +359,11 @@ msgstr "Health penuh"
 msgid "TXT_CHEATKEYS"
 msgstr "Semua kunci"
 
-#, fuzzy
 msgid "TXT_CHEATSOUNDON"
-msgstr "Debug sound nyala"
+msgstr "Debug sound AKTIF"
 
-#, fuzzy
 msgid "TXT_CHEATSOUNDOFF"
-msgstr "Debug sound mati"
+msgstr "Debug sound MATI"
 
 msgid "TXT_CHEATIDDQD"
 msgstr "Mencoba curang, heh? Matilah engkau!"
