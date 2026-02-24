@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 16:14+0000\n"
+"PO-Revision-Date: 2026-02-24 17:30+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/glossary/"
 "de/>\n"
@@ -30,3 +30,15 @@ msgstr "Freeverb"
 
 msgid "Timidity++"
 msgstr "Timidity++"
+
+msgid "ADLMidi"
+msgstr "ADLMidi"
+
+msgid "OPNMidi"
+msgstr "OPNMidi"
+
+msgid "WildMidi"
+msgstr "WildMidi"
+
+msgid "Timidity"
+msgstr "Timidity"
