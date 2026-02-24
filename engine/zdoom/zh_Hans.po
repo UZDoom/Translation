@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "PO-Revision-Date: 2026-02-24 16:13+0000\n"
-"Last-Translator: dwing <12104745@qq.com>\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -370,7 +370,6 @@ msgstr "想作弊，嗯？那你死了！"
 msgid "TXT_CHEATIDKFA"
 msgstr "作弊者——你不配拥有武器"
 
-#, fuzzy
 msgid "TXT_CHEATTICKERON"
 msgstr "Ticker：开"
 
