@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 02:31+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-24 04:53+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/id/>\n"
 "Language: id\n"
@@ -3312,9 +3312,6 @@ msgstr ""
 msgid "CMPTMNU_SECTORSOUNDS"
 msgstr ""
 
-msgid "CMPTMNU_SOUNDCUTOFF"
-msgstr ""
-
 msgid "CMPTMNU_SOUNDTARGET"
 msgstr ""
 
@@ -3337,13 +3334,13 @@ msgid "CMPTMNU_EXPLODE2"
 msgstr ""
 
 msgid "PLYRMNU_RED"
-msgstr ""
+msgstr "Merah"
 
 msgid "PLYRMNU_GREEN"
-msgstr ""
+msgstr "Hijau"
 
 msgid "PLYRMNU_BLUE"
-msgstr ""
+msgstr "Biru"
 
 msgid "PLYRMNU_PLAYERCLASS"
 msgstr ""
@@ -3786,9 +3783,6 @@ msgstr ""
 msgid "DSPLYMNU_OLDTRANS"
 msgstr ""
 
-msgid "DSPLYMNU_TRANSSOUL"
-msgstr ""
-
 msgid "DSPLYMNU_FAKECONTRAST"
 msgstr ""
 
@@ -3942,9 +3936,6 @@ msgstr "Setelan Jaringan"
 msgid "NETMNU_LOCALOPTIONS"
 msgstr ""
 
-msgid "NETMNU_MOVEPREDICTION"
-msgstr ""
-
 msgid "NETMNU_LINESPECIALPREDICTION"
 msgstr ""
 
@@ -3958,15 +3949,6 @@ msgid "NETMNU_HOSTOPTIONS"
 msgstr ""
 
 msgid "NETMNU_EXTRATICS"
-msgstr ""
-
-msgid "NETMNU_TICBALANCE"
-msgstr ""
-
-msgid "OPTVAL_ORIGINAL"
-msgstr ""
-
-msgid "OPTVAL_OPTIMIZED"
 msgstr ""
 
 msgid "OPTVAL_CLASSIC"
@@ -4034,15 +4016,6 @@ msgid "OPTVAL_PLAYER"
 msgstr ""
 
 msgid "OPTVAL_MAP"
-msgstr ""
-
-msgid "OPTVAL_SCALETO640X400"
-msgstr ""
-
-msgid "OPTVAL_PIXELDOUBLE"
-msgstr ""
-
-msgid "OPTVAL_PIXELQUADRUPLE"
 msgstr ""
 
 msgid "OPTVAL_CURRENTWEAPON"
@@ -4138,15 +4111,6 @@ msgstr ""
 msgid "OPTVAL_NODOORS"
 msgstr ""
 
-msgid "OPTVAL_DOUBLE"
-msgstr ""
-
-msgid "OPTVAL_TRIPLE"
-msgstr ""
-
-msgid "OPTVAL_QUADRUPLE"
-msgstr ""
-
 msgid "OPTVAL_ITEMPICKUP"
 msgstr ""
 
@@ -4195,9 +4159,6 @@ msgstr ""
 msgid "OPTVAL_ZDOOM2063"
 msgstr ""
 
-msgid "OPTVAL_ALLUNACKNOWLEDGED"
-msgstr ""
-
 msgid "OPTVAL_ERRORS"
 msgstr ""
 
@@ -4219,12 +4180,6 @@ msgstr ""
 msgid "OPTVAL_SWDOOMTC"
 msgstr ""
 
-msgid "OPTVAL_DEDICATED"
-msgstr ""
-
-msgid "OPTVAL_INTEGRATED"
-msgstr ""
-
 msgid "OPTVAL_VANILLA"
 msgstr ""
 
@@ -4232,12 +4187,6 @@ msgid "OPTVAL_VTFZDOOM"
 msgstr ""
 
 msgid "OPTVAL_VTFVANILLA"
-msgstr ""
-
-msgid "OPTVAL_VTAZDOOM"
-msgstr ""
-
-msgid "OPTVAL_VTAVANILLA"
 msgstr ""
 
 msgid "OPTVAL_SMALL"
@@ -4333,16 +4282,10 @@ msgstr ""
 msgid "OPTSTR_CHEX"
 msgstr ""
 
-msgid "OPTSTR_NOSOUND"
-msgstr ""
-
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr ""
 
 msgid "OPTSTR_SPLINE"
-msgstr ""
-
-msgid "OPTSTR_OPENAL"
 msgstr ""
 
 msgid "DSPLYMNU_GLOPT"
@@ -4357,12 +4300,6 @@ msgstr ""
 msgid "GLMNU_DYNLIGHT"
 msgstr ""
 
-msgid "GLMNU_PREFS"
-msgstr ""
-
-msgid "GLTEXMNU_TRIMSPREDGE"
-msgstr ""
-
 msgid "GLTEXMNU_SORTDRAWLIST"
 msgstr ""
 
@@ -4370,9 +4307,6 @@ msgid "GLLIGHTMNU_TITLE"
 msgstr ""
 
 msgid "GLLIGHTMNU_LIGHTSENABLED"
-msgstr ""
-
-msgid "GLLIGHTMNU_LIGHTDEFS"
 msgstr ""
 
 msgid "GLLIGHTMNU_LIGHTSPRITES"
@@ -4469,9 +4403,6 @@ msgstr ""
 msgid "OPTVAL_SOFTWARE"
 msgstr ""
 
-msgid "OPTVAL_OPTIMAL"
-msgstr ""
-
 msgid "OPTVAL_YAXIS"
 msgstr ""
 
@@ -4545,9 +4476,6 @@ msgid "DSPLYMNU_TCOPT"
 msgstr ""
 
 msgid "TCMNU_TITLE"
-msgstr ""
-
-msgid "TCMNU_TRUECOLOR"
 msgstr ""
 
 msgid "TCMNU_MINFILTER"
@@ -4648,9 +4576,6 @@ msgid "HUDMNU_CROSSHAIRON"
 msgstr ""
 
 msgid "MSGMNU_SUBTITLES"
-msgstr ""
-
-msgid "GLPREFMNU_PALTONENOGREY"
 msgstr ""
 
 msgid "HUDMNU_FONTOPTIONS"
@@ -4946,7 +4871,7 @@ msgid "JOYMNU_THRESHOLD"
 msgstr ""
 
 msgid "OPTVAL_LINEAR"
-msgstr ""
+msgstr "Linear"
 
 msgid "OPTVAL_QUADRATIC"
 msgstr ""
@@ -4962,7 +4887,7 @@ msgid "OPTVAL_TEAMONLYCHAT"
 msgstr ""
 
 msgid "OPTVAL_GLOBALCHAT"
-msgstr ""
+msgstr "Global"
 
 # Disables /me functionality in chat when displaying.
 msgid "NETMNU_NOBOLDCHAT"
@@ -5010,9 +4935,6 @@ msgstr ""
 # Forces a cool down between chat messages for all players when playing
 # online.
 msgid "NETMNU_CHATSLOMO"
-msgstr ""
-
-msgid "JOYMNU_HAPTRIGGERS"
 msgstr ""
 
 msgid "OPTMNU_HAPTICS"
@@ -5177,3 +5099,6 @@ msgstr ""
 
 msgid "CNTRLMNU_COOPSPYCANCEL"
 msgstr ""
+
+msgid "OPTMNU_ACCESSIBILITY"
+msgstr "Opsi Aksesibilitas"

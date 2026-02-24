@@ -3367,9 +3367,6 @@ msgstr "Nagle przesuwające się podłogi nie są ciche"
 msgid "CMPTMNU_SECTORSOUNDS"
 msgstr "Dźwięki sektorów używają środka jako źródła"
 
-msgid "CMPTMNU_SOUNDCUTOFF"
-msgstr "Dźwięki zatrzymują się kiedy aktor znika"
-
 msgid "CMPTMNU_SOUNDTARGET"
 msgstr "Użyj oryginalną obsługę celu dźwięku"
 
@@ -3841,9 +3838,6 @@ msgstr "Użyj efektu szumu"
 msgid "DSPLYMNU_OLDTRANS"
 msgstr "Klasyczna Przezroczystość"
 
-msgid "DSPLYMNU_TRANSSOUL"
-msgstr "Przezroczystość Zagubionych Dusz"
-
 msgid "DSPLYMNU_FAKECONTRAST"
 msgstr "Użyj sztuczny kontrast"
 
@@ -3997,9 +3991,6 @@ msgstr "Opcje Sieci"
 msgid "NETMNU_LOCALOPTIONS"
 msgstr "Opcje Lokalne"
 
-msgid "NETMNU_MOVEPREDICTION"
-msgstr "Przewidywanie Ruchu"
-
 msgid "NETMNU_LINESPECIALPREDICTION"
 msgstr "Przewidź akcje linii"
 
@@ -4014,15 +4005,6 @@ msgstr "Opcje hosta"
 
 msgid "NETMNU_EXTRATICS"
 msgstr "Dodatkowe tiki"
-
-msgid "NETMNU_TICBALANCE"
-msgstr "Balans czasu oczekiwania"
-
-msgid "OPTVAL_ORIGINAL"
-msgstr "Oryginalny"
-
-msgid "OPTVAL_OPTIMIZED"
-msgstr "Zoptymalizowany"
 
 msgid "OPTVAL_CLASSIC"
 msgstr "Klasyczny (szybszy)"
@@ -4090,15 +4072,6 @@ msgstr "Gracz"
 
 msgid "OPTVAL_MAP"
 msgstr "Mapa"
-
-msgid "OPTVAL_SCALETO640X400"
-msgstr "Skaluj do 640x400"
-
-msgid "OPTVAL_PIXELDOUBLE"
-msgstr "Dwukrotnie więcej pikseli"
-
-msgid "OPTVAL_PIXELQUADRUPLE"
-msgstr "Czterokrotnie więcej pikseli"
 
 msgid "OPTVAL_CURRENTWEAPON"
 msgstr "Aktualna broń"
@@ -4193,15 +4166,6 @@ msgstr "Tylko kolory zdefiniowane przez mapę"
 msgid "OPTVAL_NODOORS"
 msgstr "Wszystko oprócz drzwi"
 
-msgid "OPTVAL_DOUBLE"
-msgstr "Podwójny"
-
-msgid "OPTVAL_TRIPLE"
-msgstr "Potrójny"
-
-msgid "OPTVAL_QUADRUPLE"
-msgstr "Poczwórny"
-
 msgid "OPTVAL_ITEMPICKUP"
 msgstr "Podniesienie Przedmiotu"
 
@@ -4250,9 +4214,6 @@ msgstr "MBF21 (dokładny)"
 msgid "OPTVAL_ZDOOM2063"
 msgstr ""
 
-msgid "OPTVAL_ALLUNACKNOWLEDGED"
-msgstr "Wszystkie niepotwierdzone"
-
 msgid "OPTVAL_ERRORS"
 msgstr "Błędy"
 
@@ -4274,12 +4235,6 @@ msgstr "Renderer Oprogramowania Dooma"
 msgid "OPTVAL_SWDOOMTC"
 msgstr "Renderer True Color"
 
-msgid "OPTVAL_DEDICATED"
-msgstr "Wysoka Wydajność"
-
-msgid "OPTVAL_INTEGRATED"
-msgstr "Oszczędzanie Energii"
-
 msgid "OPTVAL_VANILLA"
 msgstr "Oryginalny"
 
@@ -4288,12 +4243,6 @@ msgstr "ZDoom (Wymuszony)"
 
 msgid "OPTVAL_VTFVANILLA"
 msgstr "Czysty (Wymuszony)"
-
-msgid "OPTVAL_VTAZDOOM"
-msgstr "Automatyczny (Preferowany ZDoom)"
-
-msgid "OPTVAL_VTAVANILLA"
-msgstr "Automatyczny (Preferowany oryginalny)"
 
 msgid "OPTVAL_SMALL"
 msgstr "Mały"
@@ -4388,17 +4337,11 @@ msgstr ""
 msgid "OPTSTR_CHEX"
 msgstr ""
 
-msgid "OPTSTR_NOSOUND"
-msgstr "Brak dźwięku"
-
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr "Brak interpolacji"
 
 msgid "OPTSTR_SPLINE"
 msgstr "Splajn"
-
-msgid "OPTSTR_OPENAL"
-msgstr ""
 
 msgid "DSPLYMNU_GLOPT"
 msgstr "Renderer Sprzętowy"
@@ -4412,12 +4355,6 @@ msgstr "Opcje Renderowania Sprzętowego"
 msgid "GLMNU_DYNLIGHT"
 msgstr "Opcje Dynamicznego Oświetlenia"
 
-msgid "GLMNU_PREFS"
-msgstr "Preferencje"
-
-msgid "GLTEXMNU_TRIMSPREDGE"
-msgstr "Przycinanie krawędzi sprite'ów"
-
 msgid "GLTEXMNU_SORTDRAWLIST"
 msgstr "Sortowanie list renderowania wdług tekstur"
 
@@ -4426,9 +4363,6 @@ msgstr "Dynamiczne Oświetlenie"
 
 msgid "GLLIGHTMNU_LIGHTSENABLED"
 msgstr "Dynamiczne Oświetlenie (Sprzętowe)"
-
-msgid "GLLIGHTMNU_LIGHTDEFS"
-msgstr "Włącz definicje światła"
 
 msgid "GLLIGHTMNU_LIGHTSPRITES"
 msgstr "Światło ma wpływ na sprite'y"
@@ -4524,9 +4458,6 @@ msgstr ""
 msgid "OPTVAL_SOFTWARE"
 msgstr "Oprogramowanie"
 
-msgid "OPTVAL_OPTIMAL"
-msgstr "Optymalne"
-
 msgid "OPTVAL_YAXIS"
 msgstr "Oś Y"
 
@@ -4601,9 +4532,6 @@ msgstr "Opcje TrueColor"
 
 msgid "TCMNU_TITLE"
 msgstr "Opcje TrueColor"
-
-msgid "TCMNU_TRUECOLOR"
-msgstr "Wyjście TrueColor"
 
 msgid "TCMNU_MINFILTER"
 msgstr "Liniowy filtr podczas zmniejszania rozmiaru"
@@ -4707,9 +4635,6 @@ msgstr "Celownik"
 
 msgid "MSGMNU_SUBTITLES"
 msgstr "Napisy"
-
-msgid "GLPREFMNU_PALTONENOGREY"
-msgstr "Zapobiegaj szarym cieniom"
 
 msgid "HUDMNU_FONTOPTIONS"
 msgstr "Opcje czcionek"
@@ -5073,9 +4998,6 @@ msgstr "Czas Odliczania Głosowania (sekundy)"
 msgid "NETMNU_CHATSLOMO"
 msgstr "Tryb Wolny Czatu (Sekundy)"
 
-msgid "JOYMNU_HAPTRIGGERS"
-msgstr "Aktywuj Sprzężenie Zwrotne Spustów"
-
 msgid "OPTMNU_HAPTICS"
 msgstr "Opcje Sprzężenia Zwrotnego"
 
@@ -5329,9 +5251,6 @@ msgstr ""
 msgid "DSPLYMNU_BLACKPOINT"
 msgstr "Kompensacja czerni"
 
-msgid "DSPLYMNU_WHITEPOINT"
-msgstr "Kompensacja bieli"
-
 msgid "DSPLYMNU_IMAGEADJUST_BOTTOM"
 msgstr "Dopasuj, aż obszar będzie jednolicie szary."
 
@@ -5339,12 +5258,6 @@ msgid "DSPLYMNU_TOOLTIP_BLACKPOINT"
 msgstr ""
 "Kompensuje monitory, które nieprawidłowo wyświetlają ciemne piksele. "
 "Reguluj, aż diagonalne białe bloki znikną. Używaj tego wyłącznie w celu "
-"skalibrowania obrazu dla Twojego sprzętu, nie do rozjaśniania gry."
-
-msgid "DSPLYMNU_TOOLTIP_WHITEPOINT"
-msgstr ""
-"Kompensuje monitory, które nieprawidłowo wyświetlają jasne piksele. Reguluj, "
-"aż diagonalne czarne bloki znikną. Używaj tego wyłącznie w celu "
 "skalibrowania obrazu dla Twojego sprzętu, nie do rozjaśniania gry."
 
 msgid "OPTMNU_RESETALL"

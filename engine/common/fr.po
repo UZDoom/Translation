@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 05:15+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-24 05:03+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/uzdoom/common/fr/>"
 "\n"
 "Language: fr\n"
@@ -31,9 +31,6 @@ msgstr ""
 
 msgid "SAFEMESSAGE"
 msgstr "Voulez-vous vraiment faire ça ?"
-
-msgid "NOTSET"
-msgstr "Pas paramétré"
 
 msgid "QSPROMPT"
 msgstr ""
@@ -239,17 +236,11 @@ msgstr "Action"
 msgid "CNTRLMNU_ACTION_TITLE"
 msgstr "Changer Contrôles Action"
 
-msgid "CNTRLMNU_CHAT"
-msgstr "Discussions"
-
 msgid "MNU_MULTIPLAYER"
 msgstr "Multijoueur"
 
 msgid "CNTRLMNU_SAY"
 msgstr "Parler"
-
-msgid "CNTRLMNU_CHAT_TITLE"
-msgstr "Changer Contrôles Chat"
 
 msgid "CNTRLMNU_WEAPONS_TITLE"
 msgstr "Changer Contrôles Armes"
@@ -407,9 +398,6 @@ msgstr "Messages On/Off"
 
 msgid "CNTRLMNU_MENU_QUIT"
 msgstr "Quitter le Jeu"
-
-msgid "CNTRLMNU_ADJUST_GAMMA"
-msgstr "Ajuster Gamma"
 
 msgid "MOUSEMNU_ENABLEMOUSE"
 msgstr "Activer Souris"
@@ -661,23 +649,11 @@ msgstr "Synchronisation Verticale"
 msgid "DSPLYMNU_MODELS"
 msgstr "Modèles"
 
-msgid "DSPLYMNU_CROSSHAIRSCALE"
-msgstr "Mise à l'échelle du viseur"
-
-msgid "DSPLYMNU_SBSCALE"
-msgstr "Mise à l'échelle HUD"
-
-msgid "DSPLYMNU_MESSAGES"
-msgstr ""
-
 msgid "MSGMNU_CENTERMESSAGES"
 msgstr "Messages centrés"
 
 msgid "MSGMNU_PULSEMESSAGES"
 msgstr "Messages pulsés"
-
-msgid "MSGMNU_MESSAGESCALE"
-msgstr "Mise à l'échelle Messages"
 
 msgid "MNU_COLORPICKER"
 msgstr "Choisir Couleur"
@@ -699,15 +675,6 @@ msgstr "Couleurs Carte Personnalisées"
 
 msgid "MAPCOLORMNU_DEFAULTMAPCOLORS"
 msgstr "Couleurs par défaut"
-
-msgid "SNDMNU_SNDENABLED"
-msgstr "Son activé"
-
-msgid "SNDMNU_MUSENABLED"
-msgstr "Musique activée"
-
-msgid "OPTVAL_4000HZ"
-msgstr ""
 
 msgid "OPTVAL_8000HZ"
 msgstr ""
@@ -805,9 +772,6 @@ msgstr "Tons sonores aléatoires"
 msgid "SNDMNU_CHANNELS"
 msgstr "Canaux sonores"
 
-msgid "SNDMNU_BACKEND"
-msgstr "Traitement Son"
-
 msgid "SNDMNU_OPENAL"
 msgstr "Options OpenAL"
 
@@ -823,9 +787,6 @@ msgstr "Options lecteur de module"
 #, fuzzy
 msgid "SNDMNU_MIDIPLAYER"
 msgstr "Option lecteur MIDI"
-
-msgid "SNDMNU_MENUSOUND"
-msgstr "Son dans les menus"
 
 msgid "ADVSNDMNU_TITLE"
 msgstr "Options Sonores Avancées"
@@ -866,9 +827,6 @@ msgstr ""
 msgid "ADVSNDMNU_GLOBAL_FREEVERB"
 msgstr "Freeverb Global"
 
-msgid "ADVSNDMNU_FLUIDPATCHSET"
-msgstr "Banque de Sons"
-
 msgid "ADVSNDMNU_FLUIDGAIN"
 msgstr ""
 
@@ -890,17 +848,8 @@ msgstr ""
 msgid "ADVSNDMNU_OPNMIDI"
 msgstr ""
 
-msgid "ADVSNDMNU_TIMIDITYCONFIG"
-msgstr "Fichier de config. TiMidity"
-
-msgid "ADVSNDMNU_TIMIDITYVOLUME"
-msgstr "Volume Relatif"
-
 msgid "ADVSNDMNU_WILDMIDI"
 msgstr ""
-
-msgid "ADVSNDMNU_WILDMIDICONFIG"
-msgstr "Fichier config. WildMidi"
 
 msgid "ADVSNDMNU_SELCONFIG"
 msgstr "Sélectionner configuration"
@@ -910,9 +859,6 @@ msgstr "Resampling Avancé"
 
 msgid "ADVSNDMNU_OPLBANK"
 msgstr "Banque OPL"
-
-msgid "ADVSNDMNU_ADLOPLCORES"
-msgstr "Cœur Emulateur OPL"
 
 msgid "ADVSNDMNU_RUNPCMRATE"
 msgstr "Emulateur utilise cadence PCM"
@@ -937,9 +883,6 @@ msgstr "Cœur émulateur OPN2"
 
 msgid "ADVSNDMNU_GUSEMULATION"
 msgstr "Emulation GUS"
-
-msgid "ADVSNDMNU_GUSCONFIG"
-msgstr "Fichier Config. GUS"
 
 msgid "ADVSNDMNU_DMXGUS"
 msgstr "Lire fichiers DMXGUS"
@@ -1070,9 +1013,6 @@ msgid "OPTVAL_NP2OPNA"
 msgstr ""
 
 msgid "OPTVAL_MAMEOPNA"
-msgstr ""
-
-msgid "OPTVAL_PMDWINOPNA"
 msgstr ""
 
 msgid "OPTVAL_OPALOPL3"
@@ -1315,12 +1255,6 @@ msgstr ""
 msgid "GLTEXMNU_TITLE"
 msgstr "Options Textures"
 
-msgid "GLTEXMNU_TEXENABLED"
-msgstr "Textures activées"
-
-msgid "GLTEXMNU_ENABLEHIRES"
-msgstr "Activer Textures haute résolution"
-
 msgid "GLTEXMNU_HQRESIZE"
 msgstr "Mise à l'échelle haute résolution"
 
@@ -1348,12 +1282,6 @@ msgstr "Mise en cache des textures"
 msgid "VIDMNU_TITLE"
 msgstr "Mode Vidéo"
 
-msgid "OPTVAL_SCALENEAREST"
-msgstr "Mis à l'échelle (Proche Voisin)"
-
-msgid "OPTVAL_SCALELINEAR"
-msgstr "Mis à l'échelle (Linéaire)"
-
 msgid "OPTVAL_LETTERBOX"
 msgstr ""
 
@@ -1369,17 +1297,11 @@ msgstr "Plein écran"
 msgid "VIDMNU_HIDPI"
 msgstr "Support Retina/HiDPI"
 
-msgid "VIDMNU_ASPECTRATIO"
-msgstr "Rapport D'Aspect"
-
 msgid "VIDMNU_FORCEASPECT"
 msgstr "Forcer Rapport"
 
 msgid "VIDMNU_CROPASPECT"
 msgstr "Style de Ratio forcé"
-
-msgid "VIDMNU_5X4ASPECTRATIO"
-msgstr "Activer Rapport 5:4"
 
 msgid "VIDMNU_SCALEMODE"
 msgstr "Echelle de Résolution"
@@ -1548,92 +1470,6 @@ msgstr "Nouveau environnement"
 msgid "REVMNU_REVERT"
 msgstr "Réinitialiser les paramètres"
 
-# Please translate only if you know how to properly name this technical
-# jargon!
-msgid "REVMNU_ENVIRONMENT_SIZE"
-msgstr "Taille Environnement"
-
-msgid "REVMNU_ENVIRONMENT_DIFFUSION"
-msgstr "Diffusion Environnement"
-
-msgid "REVMNU_ROOM"
-msgstr "Salle"
-
-msgid "REVMNU_ROOM_HF"
-msgstr "HF Salle"
-
-msgid "REVMNU_ROOM_LF"
-msgstr "LF Salle"
-
-msgid "REVMNU_DECAY_TIME"
-msgstr "Temps Decay"
-
-msgid "REVMNU_DECAY_HF_RATIO"
-msgstr ""
-
-msgid "REVMNU_DECAY_LF_RATIO"
-msgstr ""
-
-msgid "REVMNU_REFLECTIONS"
-msgstr ""
-
-msgid "REVMNU_REFLECTIONS_DELAY"
-msgstr "Délai Reflections"
-
-msgid "REVMNU_REFLECTIONS_PAN_X"
-msgstr "Orientation Reflections X"
-
-msgid "REVMNU_REFLECTIONS_PAN_Y"
-msgstr "Orientation Reflections Y"
-
-msgid "REVMNU_REFLECTIONS_PAN_Z"
-msgstr "Orientation Reflections Z"
-
-msgid "REVMNU_REVERB"
-msgstr ""
-
-msgid "REVMNU_REVERB_DELAY"
-msgstr "Délai Reverb"
-
-msgid "REVMNU_REVERB_PAN_X"
-msgstr "Orientation Reverb X"
-
-msgid "REVMNU_REVERB_PAN_Y"
-msgstr "Orientation Reverb Y"
-
-msgid "REVMNU_REVERB_PAN_Z"
-msgstr "Orientation Reverb Z"
-
-msgid "REVMNU_ECHO_TIME"
-msgstr "Longueur écho"
-
-msgid "REVMNU_ECHO_DEPTH"
-msgstr "Profondeur écho"
-
-msgid "REVMNU_MODULATION_TIME"
-msgstr "Longueur Modulation"
-
-msgid "REVMNU_MODULATION_DEPTH"
-msgstr "Profondeur Modulation"
-
-msgid "REVMNU_AIR_ABSORPTION_HF"
-msgstr ""
-
-msgid "REVMNU_HF_REFERENCE"
-msgstr ""
-
-msgid "REVMNU_LF_REFERENCE"
-msgstr ""
-
-msgid "REVMNU_ROOM_ROLLOFF_FACTOR"
-msgstr "Facteur de rolloff Salle"
-
-msgid "REVMNU_DIFFUSION"
-msgstr ""
-
-msgid "REVMNU_DENSITY"
-msgstr "Densité"
-
 msgid "REVMNU_Reflections_Scale"
 msgstr "Echelle Reflections"
 
@@ -1689,9 +1525,6 @@ msgstr "Options Vulkan (Expérimental)"
 msgid "VK_TITLE"
 msgstr "Options Vulkan"
 
-msgid "VKMNU_ENABLE"
-msgstr "Activer Vulkan"
-
 msgid "VKMNU_DEVICE"
 msgstr "ID du périphérique Vulkan"
 
@@ -1703,10 +1536,6 @@ msgstr "Attention : Le moteur de rendu Vulkan est très expérimental !"
 
 msgid "VK_RESTART"
 msgstr "Ces options nécessitent un redémarrage."
-
-# This is not yet implemented - but it is planned
-msgid "VKMNU_DEVICESELECT"
-msgstr "Sélectionner périphérique Vulkan"
 
 msgid "OPTVAL_SCALENX"
 msgstr ""
@@ -1777,41 +1606,11 @@ msgstr "Modifié seulement"
 msgid "TXT_UNKNOWN"
 msgstr "Inconnue"
 
-msgid "OPTVAL_HUD"
-msgstr "ATH"
-
-msgid "OPTVAL_AUTOMAP"
-msgstr "Carte"
-
-msgid "OPTVAL_HUDANDMAP"
-msgstr "ATH + Carte"
-
 msgid "TXT_SAVEGAMENEEDS"
 msgstr "Cette sauvegarde nécessite les fichiers suivants"
 
-msgid "OPTMNU_MULTIPLAYER"
-msgstr "Options multijoueurs"
-
-msgid "OPTMNU_INPUT"
-msgstr "Options d'entrée"
-
-msgid "OPTMNU_SYSTEM"
-msgstr "Options du système"
-
-msgid "OPTMNU_LIGHT"
-msgstr "Options de lumière"
-
-msgid "OPTMNU_SPRITE"
-msgstr "Options des sprites"
-
 msgid "GLPREFMNU_CORONAS"
 msgstr "Corons"
-
-msgid "DSPLYMNU_APPEARANCE"
-msgstr "Apparence"
-
-msgid "DSPLYMNU_ADVANCED"
-msgstr "Options d'affichage avancées"
 
 msgid "PICKER_SELECT"
 msgstr "Sélectionner le jeu à jouer"
@@ -1915,21 +1714,6 @@ msgid "PICKER_HOST"
 msgstr ""
 
 msgid "PICKER_JOIN"
-msgstr ""
-
-msgid "PICKER_NETMODE"
-msgstr ""
-
-msgid "PICKER_NETAUTO"
-msgstr ""
-
-# Connections are routed through the host instead of all players connecting to
-# each other individually.
-msgid "PICKER_NETSERVER"
-msgstr ""
-
-# Players connect to each other individually.
-msgid "PICKER_NETPEER"
 msgstr ""
 
 msgid "PICKER_NETRATE"

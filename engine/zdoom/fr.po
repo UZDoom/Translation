@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 02:31+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-24 04:53+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fr/>\n"
 "Language: fr\n"
@@ -3371,9 +3371,6 @@ msgstr "Sols à movement instanté font du bruit"
 msgid "CMPTMNU_SECTORSOUNDS"
 msgstr "Sons secteur utilisent centre comme origine"
 
-msgid "CMPTMNU_SOUNDCUTOFF"
-msgstr "Sons s'arrêtent quand acteur disparait"
-
 msgid "CMPTMNU_SOUNDTARGET"
 msgstr "Ciblage des sons selon algorithme original"
 
@@ -3845,9 +3842,6 @@ msgstr "Effet de bruit"
 msgid "DSPLYMNU_OLDTRANS"
 msgstr "Transparence classique"
 
-msgid "DSPLYMNU_TRANSSOUL"
-msgstr "Transparence des âmes perdues"
-
 msgid "DSPLYMNU_FAKECONTRAST"
 msgstr "Faux Contraste"
 
@@ -4001,9 +3995,6 @@ msgstr "Options Réseau"
 msgid "NETMNU_LOCALOPTIONS"
 msgstr "Options Locales"
 
-msgid "NETMNU_MOVEPREDICTION"
-msgstr "Prédiction de Mouvement"
-
 msgid "NETMNU_LINESPECIALPREDICTION"
 msgstr "Prédiction des actions de ligne"
 
@@ -4018,15 +4009,6 @@ msgstr "Options Hôte"
 
 msgid "NETMNU_EXTRATICS"
 msgstr "Tics supplémentaires"
-
-msgid "NETMNU_TICBALANCE"
-msgstr "Equilibrage de latence"
-
-msgid "OPTVAL_ORIGINAL"
-msgstr ""
-
-msgid "OPTVAL_OPTIMIZED"
-msgstr "Optimisé"
 
 msgid "OPTVAL_CLASSIC"
 msgstr "Classique (+ Rapide)"
@@ -4094,15 +4076,6 @@ msgstr "Joueur"
 
 msgid "OPTVAL_MAP"
 msgstr "Niveau"
-
-msgid "OPTVAL_SCALETO640X400"
-msgstr "Echelle 640x400"
-
-msgid "OPTVAL_PIXELDOUBLE"
-msgstr ""
-
-msgid "OPTVAL_PIXELQUADRUPLE"
-msgstr ""
 
 msgid "OPTVAL_CURRENTWEAPON"
 msgstr "Arme actuelle"
@@ -4197,15 +4170,6 @@ msgstr "Couleurs définies carte seul."
 msgid "OPTVAL_NODOORS"
 msgstr "Tout sauf portes"
 
-msgid "OPTVAL_DOUBLE"
-msgstr ""
-
-msgid "OPTVAL_TRIPLE"
-msgstr ""
-
-msgid "OPTVAL_QUADRUPLE"
-msgstr ""
-
 msgid "OPTVAL_ITEMPICKUP"
 msgstr "Objets Ramassés"
 
@@ -4254,9 +4218,6 @@ msgstr ""
 msgid "OPTVAL_ZDOOM2063"
 msgstr ""
 
-msgid "OPTVAL_ALLUNACKNOWLEDGED"
-msgstr "Tout non-acknowledged"
-
 msgid "OPTVAL_ERRORS"
 msgstr "Erreurs"
 
@@ -4278,12 +4239,6 @@ msgstr "Rendu Software Doom"
 msgid "OPTVAL_SWDOOMTC"
 msgstr "Rendu Software Couleurs Réeles"
 
-msgid "OPTVAL_DEDICATED"
-msgstr "Hautes Performances"
-
-msgid "OPTVAL_INTEGRATED"
-msgstr "Economie d'Energie"
-
 msgid "OPTVAL_VANILLA"
 msgstr ""
 
@@ -4292,12 +4247,6 @@ msgstr "ZDoom (Forcé)"
 
 msgid "OPTVAL_VTFVANILLA"
 msgstr "Vanilla (Forcé)"
-
-msgid "OPTVAL_VTAZDOOM"
-msgstr "Auto (ZDoom Préféré)"
-
-msgid "OPTVAL_VTAVANILLA"
-msgstr "Auto (Vanilla Préféré)"
 
 msgid "OPTVAL_SMALL"
 msgstr "Petit"
@@ -4392,16 +4341,10 @@ msgstr ""
 msgid "OPTSTR_CHEX"
 msgstr ""
 
-msgid "OPTSTR_NOSOUND"
-msgstr "Pas de son"
-
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr "Pas d'interpolation"
 
 msgid "OPTSTR_SPLINE"
-msgstr ""
-
-msgid "OPTSTR_OPENAL"
 msgstr ""
 
 msgid "DSPLYMNU_GLOPT"
@@ -4416,12 +4359,6 @@ msgstr "Options OpenGL"
 msgid "GLMNU_DYNLIGHT"
 msgstr "Options Lumières Dynamiques"
 
-msgid "GLMNU_PREFS"
-msgstr "Préférences"
-
-msgid "GLTEXMNU_TRIMSPREDGE"
-msgstr "Nettoyer le bord des sprites"
-
 msgid "GLTEXMNU_SORTDRAWLIST"
 msgstr "Ordonner liste de rendu par texture"
 
@@ -4430,9 +4367,6 @@ msgstr "Lumières Dynamiques"
 
 msgid "GLLIGHTMNU_LIGHTSENABLED"
 msgstr "Lumières Dynamiques (Hardware)"
-
-msgid "GLLIGHTMNU_LIGHTDEFS"
-msgstr "Activer les définitions de lumière"
 
 msgid "GLLIGHTMNU_LIGHTSPRITES"
 msgstr "Lumières affectent les sprites"
@@ -4528,9 +4462,6 @@ msgstr ""
 msgid "OPTVAL_SOFTWARE"
 msgstr ""
 
-msgid "OPTVAL_OPTIMAL"
-msgstr "Optimiser"
-
 msgid "OPTVAL_YAXIS"
 msgstr "Axe Y"
 
@@ -4605,9 +4536,6 @@ msgstr "Options TrueColor"
 
 msgid "TCMNU_TITLE"
 msgstr "Options TrueColor"
-
-msgid "TCMNU_TRUECOLOR"
-msgstr "Sortie Truecolor"
 
 msgid "TCMNU_MINFILTER"
 msgstr "Filtrage linéaire en réduction"
@@ -4714,9 +4642,6 @@ msgstr "Viseur"
 
 msgid "MSGMNU_SUBTITLES"
 msgstr "Sous-titres"
-
-msgid "GLPREFMNU_PALTONENOGREY"
-msgstr "Eviter les ombres grises"
 
 msgid "HUDMNU_FONTOPTIONS"
 msgstr "Options de police"
@@ -5080,9 +5005,6 @@ msgstr ""
 msgid "NETMNU_CHATSLOMO"
 msgstr ""
 
-msgid "JOYMNU_HAPTRIGGERS"
-msgstr ""
-
 msgid "OPTMNU_HAPTICS"
 msgstr ""
 
@@ -5116,7 +5038,7 @@ msgid "HAPMNU_OPT_WORLD"
 msgstr ""
 
 msgid "PAUSE_STRING"
-msgstr ""
+msgstr "Pause"
 
 msgid "TAG_BACKPACK"
 msgstr ""
@@ -5254,3 +5176,6 @@ msgstr "Correction Gamma"
 
 msgid "DSPLYMNU_CONTRAST"
 msgstr "Contraste"
+
+msgid "OPTMNU_ACCESSIBILITY"
+msgstr "Options d'accessibilité"

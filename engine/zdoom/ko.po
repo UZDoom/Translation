@@ -3368,9 +3368,6 @@ msgstr "즉발식 이동표면 소음효과 제거"
 msgid "CMPTMNU_SECTORSOUNDS"
 msgstr "섹터 중심부를 효과음의 원천으로 판정"
 
-msgid "CMPTMNU_SOUNDCUTOFF"
-msgstr "효과음 원천 소멸 시 효과음도 중단"
-
 msgid "CMPTMNU_SOUNDTARGET"
 msgstr "구형 섹터 경고음 보존법 사용"
 
@@ -3842,9 +3839,6 @@ msgstr "반투명 효과 사용"
 msgid "DSPLYMNU_OLDTRANS"
 msgstr "구형 투명도"
 
-msgid "DSPLYMNU_TRANSSOUL"
-msgstr "로스트 소울 반투명도"
-
 msgid "DSPLYMNU_FAKECONTRAST"
 msgstr "가명암 효과 사용"
 
@@ -3998,9 +3992,6 @@ msgstr "네트워크 설정"
 msgid "NETMNU_LOCALOPTIONS"
 msgstr "로컬 설정"
 
-msgid "NETMNU_MOVEPREDICTION"
-msgstr "움직임 예측도"
-
 msgid "NETMNU_LINESPECIALPREDICTION"
 msgstr "라인 움직임 감지"
 
@@ -4015,15 +4006,6 @@ msgstr "호스트 설정"
 
 msgid "NETMNU_EXTRATICS"
 msgstr "추가 틱"
-
-msgid "NETMNU_TICBALANCE"
-msgstr "지연 시간 조정"
-
-msgid "OPTVAL_ORIGINAL"
-msgstr "원형"
-
-msgid "OPTVAL_OPTIMIZED"
-msgstr "최적화 형"
 
 msgid "OPTVAL_CLASSIC"
 msgstr "구형 (빠르게)"
@@ -4091,15 +4073,6 @@ msgstr "플레이어"
 
 msgid "OPTVAL_MAP"
 msgstr "맵"
-
-msgid "OPTVAL_SCALETO640X400"
-msgstr "640x400까지 확대"
-
-msgid "OPTVAL_PIXELDOUBLE"
-msgstr "2배 픽셀"
-
-msgid "OPTVAL_PIXELQUADRUPLE"
-msgstr "4배 픽셀"
 
 msgid "OPTVAL_CURRENTWEAPON"
 msgstr "현 무기"
@@ -4194,15 +4167,6 @@ msgstr "자체 미니맵 색상 사용"
 msgid "OPTVAL_NODOORS"
 msgstr "문을 제외한 모두"
 
-msgid "OPTVAL_DOUBLE"
-msgstr "2배"
-
-msgid "OPTVAL_TRIPLE"
-msgstr "3배"
-
-msgid "OPTVAL_QUADRUPLE"
-msgstr "4배"
-
 msgid "OPTVAL_ITEMPICKUP"
 msgstr "아이템 획득시"
 
@@ -4251,9 +4215,6 @@ msgstr "마린의 절친한 친구21 (엄격하게)"
 msgid "OPTVAL_ZDOOM2063"
 msgstr "Z둠 2.0.63"
 
-msgid "OPTVAL_ALLUNACKNOWLEDGED"
-msgstr "모두 미확인함"
-
 msgid "OPTVAL_ERRORS"
 msgstr "에러"
 
@@ -4275,12 +4236,6 @@ msgstr "둠 소프트웨어 렌더러"
 msgid "OPTVAL_SWDOOMTC"
 msgstr "트루 컬러 소프트웨어 렌더러"
 
-msgid "OPTVAL_DEDICATED"
-msgstr "고 성능"
-
-msgid "OPTVAL_INTEGRATED"
-msgstr "저전력"
-
 msgid "OPTVAL_VANILLA"
 msgstr "바닐라"
 
@@ -4289,12 +4244,6 @@ msgstr "ZDoom (강제 설정)"
 
 msgid "OPTVAL_VTFVANILLA"
 msgstr "바닐라 (강제 설정)"
-
-msgid "OPTVAL_VTAZDOOM"
-msgstr "자동 (ZDoom 기본 설정)"
-
-msgid "OPTVAL_VTAVANILLA"
-msgstr "자동 (바닐라 기본 설정)"
 
 msgid "OPTVAL_SMALL"
 msgstr "작게"
@@ -4389,17 +4338,11 @@ msgstr "헤러틱 커서"
 msgid "OPTSTR_CHEX"
 msgstr "첵스 커서"
 
-msgid "OPTSTR_NOSOUND"
-msgstr "음향 없음"
-
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr "보간 없음"
 
 msgid "OPTSTR_SPLINE"
 msgstr "스플라인"
-
-msgid "OPTSTR_OPENAL"
-msgstr "오픈에이엘"
 
 msgid "DSPLYMNU_GLOPT"
 msgstr "오픈지엘 렌더러"
@@ -4413,12 +4356,6 @@ msgstr "오픈지엘 설정"
 msgid "GLMNU_DYNLIGHT"
 msgstr "광원 설정"
 
-msgid "GLMNU_PREFS"
-msgstr "성능"
-
-msgid "GLTEXMNU_TRIMSPREDGE"
-msgstr "스프라이트 모서리 다듬기"
-
 msgid "GLTEXMNU_SORTDRAWLIST"
 msgstr "텍스처별로 생성 목록 정렬"
 
@@ -4427,9 +4364,6 @@ msgstr "다이나믹 라이트"
 
 msgid "GLLIGHTMNU_LIGHTSENABLED"
 msgstr "다이나믹 라이트(오픈지엘)"
-
-msgid "GLLIGHTMNU_LIGHTDEFS"
-msgstr "조명 선명도 사용"
 
 msgid "GLLIGHTMNU_LIGHTSPRITES"
 msgstr "조명에 영향받는 스프라이트"
@@ -4525,9 +4459,6 @@ msgstr ""
 msgid "OPTVAL_SOFTWARE"
 msgstr "소프트웨어"
 
-msgid "OPTVAL_OPTIMAL"
-msgstr "최적함"
-
 msgid "OPTVAL_YAXIS"
 msgstr "Y 축"
 
@@ -4602,9 +4533,6 @@ msgstr "트루 컬러 설정"
 
 msgid "TCMNU_TITLE"
 msgstr "트루 컬러 설정"
-
-msgid "TCMNU_TRUECOLOR"
-msgstr "트루 컬러 출력"
 
 msgid "TCMNU_MINFILTER"
 msgstr "축소시 선형 필터링함"
@@ -4711,9 +4639,6 @@ msgstr "조준점"
 
 msgid "MSGMNU_SUBTITLES"
 msgstr "자막"
-
-msgid "GLPREFMNU_PALTONENOGREY"
-msgstr "회색 그림자 없에기"
 
 msgid "HUDMNU_FONTOPTIONS"
 msgstr "폰트 설정"
@@ -5073,9 +4998,6 @@ msgstr ""
 # Forces a cool down between chat messages for all players when playing
 # online.
 msgid "NETMNU_CHATSLOMO"
-msgstr ""
-
-msgid "JOYMNU_HAPTRIGGERS"
 msgstr ""
 
 msgid "OPTMNU_HAPTICS"

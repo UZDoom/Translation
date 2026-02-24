@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-20 23:14+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-24 05:03+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/uzdoom/common/"
 "be/>\n"
 "Language: be\n"
@@ -32,9 +32,6 @@ msgstr ""
 
 msgid "SAFEMESSAGE"
 msgstr "Вы ўпэўнены?"
-
-msgid "NOTSET"
-msgstr "Не ўстаноўлена"
 
 msgid "QSPROMPT"
 msgstr ""
@@ -240,17 +237,11 @@ msgstr "Дзеянне"
 msgid "CNTRLMNU_ACTION_TITLE"
 msgstr "Асноўныя клавішы кіравання"
 
-msgid "CNTRLMNU_CHAT"
-msgstr "Чат"
-
 msgid "MNU_MULTIPLAYER"
 msgstr "Гульня па сетцы"
 
 msgid "CNTRLMNU_SAY"
 msgstr "Паведамленне"
-
-msgid "CNTRLMNU_CHAT_TITLE"
-msgstr "Клавішы кіравання чатам"
 
 msgid "CNTRLMNU_WEAPONS_TITLE"
 msgstr "Клавішы кіравання зброяй"
@@ -408,9 +399,6 @@ msgstr "Паведамленні (перакл.)"
 
 msgid "CNTRLMNU_MENU_QUIT"
 msgstr "Выйсці з гульні"
-
-msgid "CNTRLMNU_ADJUST_GAMMA"
-msgstr "Настройка гамы"
 
 msgid "MOUSEMNU_ENABLEMOUSE"
 msgstr "Выкарыстоўваць мыш"
@@ -663,23 +651,11 @@ msgstr "Вертыкальная сінхранізацыя"
 msgid "DSPLYMNU_MODELS"
 msgstr "Мадэлі"
 
-msgid "DSPLYMNU_CROSSHAIRSCALE"
-msgstr "Памер прыцэла"
-
-msgid "DSPLYMNU_SBSCALE"
-msgstr "Памер радка стану"
-
-msgid "DSPLYMNU_MESSAGES"
-msgstr "Паведамлення"
-
 msgid "MSGMNU_CENTERMESSAGES"
 msgstr "Цэнтраванне паведамленняў"
 
 msgid "MSGMNU_PULSEMESSAGES"
 msgstr "Пульсацыя паведамленняў"
-
-msgid "MSGMNU_MESSAGESCALE"
-msgstr "Памер паведамленняў"
 
 msgid "MNU_COLORPICKER"
 msgstr "Выбар колеру"
@@ -701,15 +677,6 @@ msgstr "Налады колераў аўтакарты"
 
 msgid "MAPCOLORMNU_DEFAULTMAPCOLORS"
 msgstr "Вярнуць колеры па змаўчанні"
-
-msgid "SNDMNU_SNDENABLED"
-msgstr "Гук уключаны"
-
-msgid "SNDMNU_MUSENABLED"
-msgstr "Музыка ўключана"
-
-msgid "OPTVAL_4000HZ"
-msgstr "4000 Гц"
 
 msgid "OPTVAL_8000HZ"
 msgstr "8000 Гц"
@@ -807,9 +774,6 @@ msgstr "Выпадковая вышыня"
 msgid "SNDMNU_CHANNELS"
 msgstr "Колькасць каналаў"
 
-msgid "SNDMNU_BACKEND"
-msgstr "Гукавая падсістэма"
-
 msgid "SNDMNU_OPENAL"
 msgstr "Налады OpenAL"
 
@@ -825,9 +789,6 @@ msgstr "Налады прайгравання модуляў"
 #, fuzzy
 msgid "SNDMNU_MIDIPLAYER"
 msgstr "Налады MIDI-прайгравальніка"
-
-msgid "SNDMNU_MENUSOUND"
-msgstr "Гук у меню"
 
 msgid "ADVSNDMNU_TITLE"
 msgstr "Пашыраныя налады гуку"
@@ -868,9 +829,6 @@ msgstr ""
 msgid "ADVSNDMNU_GLOBAL_FREEVERB"
 msgstr "Глабальны Freeverb"
 
-msgid "ADVSNDMNU_FLUIDPATCHSET"
-msgstr "Патч-набор"
-
 msgid "ADVSNDMNU_FLUIDGAIN"
 msgstr "Узмацненне"
 
@@ -892,17 +850,8 @@ msgstr ""
 msgid "ADVSNDMNU_OPNMIDI"
 msgstr ""
 
-msgid "ADVSNDMNU_TIMIDITYCONFIG"
-msgstr "Файл канфігурацыі Timidity"
-
-msgid "ADVSNDMNU_TIMIDITYVOLUME"
-msgstr "Адносная гучнасць"
-
 msgid "ADVSNDMNU_WILDMIDI"
 msgstr ""
-
-msgid "ADVSNDMNU_WILDMIDICONFIG"
-msgstr "Файл канфігурацыі WildMidi"
 
 msgid "ADVSNDMNU_SELCONFIG"
 msgstr "Выбар канфігурацыі"
@@ -912,9 +861,6 @@ msgstr "Прасунуты рэсэмплінг"
 
 msgid "ADVSNDMNU_OPLBANK"
 msgstr "Банк OPL"
-
-msgid "ADVSNDMNU_ADLOPLCORES"
-msgstr "Ядро эмуляцыі OPL"
 
 msgid "ADVSNDMNU_RUNPCMRATE"
 msgstr "Выкарыстоўваць з частатой PCM"
@@ -939,9 +885,6 @@ msgstr "Ядро эмуляцыі OPN2"
 
 msgid "ADVSNDMNU_GUSEMULATION"
 msgstr "Эмуляцыя GUS"
-
-msgid "ADVSNDMNU_GUSCONFIG"
-msgstr "Файл канфігурацыі для GUS"
 
 msgid "ADVSNDMNU_DMXGUS"
 msgstr "Чытаць файлы DMXGUS"
@@ -1072,9 +1015,6 @@ msgid "OPTVAL_NP2OPNA"
 msgstr ""
 
 msgid "OPTVAL_MAMEOPNA"
-msgstr ""
-
-msgid "OPTVAL_PMDWINOPNA"
 msgstr ""
 
 msgid "OPTVAL_OPALOPL3"
@@ -1317,12 +1257,6 @@ msgstr ""
 msgid "GLTEXMNU_TITLE"
 msgstr "Налады тэкстур"
 
-msgid "GLTEXMNU_TEXENABLED"
-msgstr "Уключыць тэкстуры"
-
-msgid "GLTEXMNU_ENABLEHIRES"
-msgstr "Тэкстуры высокага дазволу"
-
 msgid "GLTEXMNU_HQRESIZE"
 msgstr "Режим высакаякаснага маштабавання тэкстур"
 
@@ -1350,12 +1284,6 @@ msgstr "Кэшаваць GL-тэкстуры"
 msgid "VIDMNU_TITLE"
 msgstr "Налады відэарэжыму"
 
-msgid "OPTVAL_SCALENEAREST"
-msgstr "Маштабаваць (бліжэйшае)"
-
-msgid "OPTVAL_SCALELINEAR"
-msgstr "Маштабаваць (лінейнае)"
-
 msgid "OPTVAL_LETTERBOX"
 msgstr "Экраннае кашэ"
 
@@ -1371,17 +1299,11 @@ msgstr "Поўны экран"
 msgid "VIDMNU_HIDPI"
 msgstr "Падтрымка Retina/HiDPI"
 
-msgid "VIDMNU_ASPECTRATIO"
-msgstr "Суадносіны бакоў"
-
 msgid "VIDMNU_FORCEASPECT"
 msgstr "Прымусовыя суадносіны бакоў"
 
 msgid "VIDMNU_CROPASPECT"
 msgstr "Тип прымусовых суадносін бакоў"
-
-msgid "VIDMNU_5X4ASPECTRATIO"
-msgstr "Уключыць суадносіны бакоў 5:4"
 
 msgid "VIDMNU_SCALEMODE"
 msgstr "Маштабаванне"
@@ -1550,92 +1472,6 @@ msgstr "Новае асяроддзе"
 msgid "REVMNU_REVERT"
 msgstr "Скінуць налады"
 
-# Please translate only if you know how to properly name this technical
-# jargon!
-msgid "REVMNU_ENVIRONMENT_SIZE"
-msgstr ""
-
-msgid "REVMNU_ENVIRONMENT_DIFFUSION"
-msgstr ""
-
-msgid "REVMNU_ROOM"
-msgstr ""
-
-msgid "REVMNU_ROOM_HF"
-msgstr ""
-
-msgid "REVMNU_ROOM_LF"
-msgstr ""
-
-msgid "REVMNU_DECAY_TIME"
-msgstr ""
-
-msgid "REVMNU_DECAY_HF_RATIO"
-msgstr ""
-
-msgid "REVMNU_DECAY_LF_RATIO"
-msgstr ""
-
-msgid "REVMNU_REFLECTIONS"
-msgstr ""
-
-msgid "REVMNU_REFLECTIONS_DELAY"
-msgstr ""
-
-msgid "REVMNU_REFLECTIONS_PAN_X"
-msgstr ""
-
-msgid "REVMNU_REFLECTIONS_PAN_Y"
-msgstr ""
-
-msgid "REVMNU_REFLECTIONS_PAN_Z"
-msgstr ""
-
-msgid "REVMNU_REVERB"
-msgstr ""
-
-msgid "REVMNU_REVERB_DELAY"
-msgstr ""
-
-msgid "REVMNU_REVERB_PAN_X"
-msgstr ""
-
-msgid "REVMNU_REVERB_PAN_Y"
-msgstr ""
-
-msgid "REVMNU_REVERB_PAN_Z"
-msgstr ""
-
-msgid "REVMNU_ECHO_TIME"
-msgstr ""
-
-msgid "REVMNU_ECHO_DEPTH"
-msgstr ""
-
-msgid "REVMNU_MODULATION_TIME"
-msgstr ""
-
-msgid "REVMNU_MODULATION_DEPTH"
-msgstr ""
-
-msgid "REVMNU_AIR_ABSORPTION_HF"
-msgstr ""
-
-msgid "REVMNU_HF_REFERENCE"
-msgstr ""
-
-msgid "REVMNU_LF_REFERENCE"
-msgstr ""
-
-msgid "REVMNU_ROOM_ROLLOFF_FACTOR"
-msgstr ""
-
-msgid "REVMNU_DIFFUSION"
-msgstr ""
-
-msgid "REVMNU_DENSITY"
-msgstr ""
-
 msgid "REVMNU_Reflections_Scale"
 msgstr ""
 
@@ -1690,9 +1526,6 @@ msgstr "Налады Vulkan (эксперыментальныя)"
 msgid "VK_TITLE"
 msgstr "Налады Vulkan"
 
-msgid "VKMNU_ENABLE"
-msgstr "Выкарыстоўваць Vulkan"
-
 msgid "VKMNU_DEVICE"
 msgstr "ID прылады Vulkan"
 
@@ -1704,10 +1537,6 @@ msgstr "Увага: апрацоўшчык Vulkan у стадыі тэсціра
 
 msgid "VK_RESTART"
 msgstr "Для прымянення гэтых змен патрабуецца перазапуск гульні."
-
-# This is not yet implemented - but it is planned
-msgid "VKMNU_DEVICESELECT"
-msgstr "Выбраць прыладу Vulkan"
 
 msgid "OPTVAL_SCALENX"
 msgstr ""
@@ -1778,41 +1607,11 @@ msgstr "Толькі зменены"
 msgid "TXT_UNKNOWN"
 msgstr "Невядома"
 
-msgid "OPTVAL_HUD"
-msgstr "Інтэрфейс"
-
-msgid "OPTVAL_AUTOMAP"
-msgstr "Аўтакарта"
-
-msgid "OPTVAL_HUDANDMAP"
-msgstr "Інтэрфейс + аўтакарта"
-
 msgid "TXT_SAVEGAMENEEDS"
 msgstr "Данное захаванне патрабуе наступныя файлы"
 
-msgid "OPTMNU_MULTIPLAYER"
-msgstr "Налады гульні па сетцы"
-
-msgid "OPTMNU_INPUT"
-msgstr "Налады ўводу"
-
-msgid "OPTMNU_SYSTEM"
-msgstr "Налады сістэмы"
-
-msgid "OPTMNU_LIGHT"
-msgstr "Налады асвятлення"
-
-msgid "OPTMNU_SPRITE"
-msgstr "Налады спрайтаў"
-
 msgid "GLPREFMNU_CORONAS"
 msgstr "Кароны"
-
-msgid "DSPLYMNU_APPEARANCE"
-msgstr "Знешнасць"
-
-msgid "DSPLYMNU_ADVANCED"
-msgstr "Пашыраныя налады экрана"
 
 msgid "PICKER_SELECT"
 msgstr "Выбар файла гульні для запуску."
@@ -1916,21 +1715,6 @@ msgid "PICKER_HOST"
 msgstr ""
 
 msgid "PICKER_JOIN"
-msgstr ""
-
-msgid "PICKER_NETMODE"
-msgstr ""
-
-msgid "PICKER_NETAUTO"
-msgstr ""
-
-# Connections are routed through the host instead of all players connecting to
-# each other individually.
-msgid "PICKER_NETSERVER"
-msgstr ""
-
-# Players connect to each other individually.
-msgid "PICKER_NETPEER"
 msgstr ""
 
 msgid "PICKER_NETRATE"

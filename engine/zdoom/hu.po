@@ -3370,9 +3370,6 @@ msgstr "Halk isntant mozgó padló"
 msgid "CMPTMNU_SECTORSOUNDS"
 msgstr "Center forrás használata a szektor hangoknál"
 
-msgid "CMPTMNU_SOUNDCUTOFF"
-msgstr "Hangok megszűnnek az eltűnéskor"
-
 msgid "CMPTMNU_SOUNDTARGET"
 msgstr "Eredeti hang célpont kezelés"
 
@@ -3844,9 +3841,6 @@ msgstr "Homályosodás effekt használata"
 msgid "DSPLYMNU_OLDTRANS"
 msgstr "Klasszikus átlátszóság"
 
-msgid "DSPLYMNU_TRANSSOUL"
-msgstr "Lost soul átlátszóság"
-
 msgid "DSPLYMNU_FAKECONTRAST"
 msgstr "Hamis kontraszt használata"
 
@@ -4000,9 +3994,6 @@ msgstr "Hálózati Beállítások"
 msgid "NETMNU_LOCALOPTIONS"
 msgstr "Helyi beállítások"
 
-msgid "NETMNU_MOVEPREDICTION"
-msgstr "Mozgás előrejelzés"
-
 msgid "NETMNU_LINESPECIALPREDICTION"
 msgstr "Előrejelzés vonal művelet"
 
@@ -4017,15 +4008,6 @@ msgstr "Host beállítások"
 
 msgid "NETMNU_EXTRATICS"
 msgstr "Extra Tic-ek"
-
-msgid "NETMNU_TICBALANCE"
-msgstr "Válaszidő balanszolás"
-
-msgid "OPTVAL_ORIGINAL"
-msgstr "Eredeti"
-
-msgid "OPTVAL_OPTIMIZED"
-msgstr "Optimalizált"
 
 msgid "OPTVAL_CLASSIC"
 msgstr "Klasszikus (gyorsabb)"
@@ -4093,15 +4075,6 @@ msgstr "Játékos"
 
 msgid "OPTVAL_MAP"
 msgstr "Pálya"
-
-msgid "OPTVAL_SCALETO640X400"
-msgstr "640x480-hoz arányít"
-
-msgid "OPTVAL_PIXELDOUBLE"
-msgstr "Pixel duplázás"
-
-msgid "OPTVAL_PIXELQUADRUPLE"
-msgstr "Pixel négyszerezés"
 
 msgid "OPTVAL_CURRENTWEAPON"
 msgstr "Jelenlegi fegyver"
@@ -4196,15 +4169,6 @@ msgstr "Csak map orientált színek"
 msgid "OPTVAL_NODOORS"
 msgstr "Minden, kivétel az ajtók"
 
-msgid "OPTVAL_DOUBLE"
-msgstr "Dupla"
-
-msgid "OPTVAL_TRIPLE"
-msgstr "Tripla"
-
-msgid "OPTVAL_QUADRUPLE"
-msgstr "Négyszeres"
-
 msgid "OPTVAL_ITEMPICKUP"
 msgstr "Tárgy felvétele"
 
@@ -4253,9 +4217,6 @@ msgstr "MBF21 (szigorú)"
 msgid "OPTVAL_ZDOOM2063"
 msgstr ""
 
-msgid "OPTVAL_ALLUNACKNOWLEDGED"
-msgstr "Minden visszaigazolatlan"
-
 msgid "OPTVAL_ERRORS"
 msgstr "Hibák"
 
@@ -4277,12 +4238,6 @@ msgstr "Doom szoftveres renderer"
 msgid "OPTVAL_SWDOOMTC"
 msgstr ""
 
-msgid "OPTVAL_DEDICATED"
-msgstr "Nagy teljesítmény"
-
-msgid "OPTVAL_INTEGRATED"
-msgstr "Energia takarékos"
-
 msgid "OPTVAL_VANILLA"
 msgstr "Hagyományos"
 
@@ -4291,12 +4246,6 @@ msgstr "ZDoom (erőltetett)"
 
 msgid "OPTVAL_VTFVANILLA"
 msgstr "Hagyományos (erőltettt)"
-
-msgid "OPTVAL_VTAZDOOM"
-msgstr "Automata (ZDoom preferált)"
-
-msgid "OPTVAL_VTAVANILLA"
-msgstr "Automata (Hagyományos preferált)"
 
 msgid "OPTVAL_SMALL"
 msgstr "Kicsi"
@@ -4391,16 +4340,10 @@ msgstr ""
 msgid "OPTSTR_CHEX"
 msgstr ""
 
-msgid "OPTSTR_NOSOUND"
-msgstr "Hang nélkül"
-
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr "Nincs interoláció"
 
 msgid "OPTSTR_SPLINE"
-msgstr ""
-
-msgid "OPTSTR_OPENAL"
 msgstr ""
 
 msgid "DSPLYMNU_GLOPT"
@@ -4415,12 +4358,6 @@ msgstr "Hardver Renderelő Beállítások"
 msgid "GLMNU_DYNLIGHT"
 msgstr "Dinamikus Fény Beállítások"
 
-msgid "GLMNU_PREFS"
-msgstr "Preferenciák"
-
-msgid "GLTEXMNU_TRIMSPREDGE"
-msgstr "Sprite szél igazítása"
-
 msgid "GLTEXMNU_SORTDRAWLIST"
 msgstr "Textúra szerinti kirajzolási lista"
 
@@ -4429,9 +4366,6 @@ msgstr "Dinamikus Fények"
 
 msgid "GLLIGHTMNU_LIGHTSENABLED"
 msgstr "Dinamikus Fények (hardveres)"
-
-msgid "GLLIGHTMNU_LIGHTDEFS"
-msgstr "Fény részletesség"
 
 msgid "GLLIGHTMNU_LIGHTSPRITES"
 msgstr "A fény hatással van a sprite-okra"
@@ -4527,9 +4461,6 @@ msgstr ""
 msgid "OPTVAL_SOFTWARE"
 msgstr "Szoftver"
 
-msgid "OPTVAL_OPTIMAL"
-msgstr "Optimális"
-
 msgid "OPTVAL_YAXIS"
 msgstr "Y tengely"
 
@@ -4604,9 +4535,6 @@ msgstr "TrueColor Beállítások"
 
 msgid "TCMNU_TITLE"
 msgstr "TrueColor Beállítások"
-
-msgid "TCMNU_TRUECOLOR"
-msgstr "Truecolor Kimenet"
 
 msgid "TCMNU_MINFILTER"
 msgstr "Lineáris filterezés leméretezésnél"
@@ -4713,9 +4641,6 @@ msgstr "Célkereszt"
 
 msgid "MSGMNU_SUBTITLES"
 msgstr "Feliratok"
-
-msgid "GLPREFMNU_PALTONENOGREY"
-msgstr "Szürke árnyákok megakadályozása"
 
 msgid "HUDMNU_FONTOPTIONS"
 msgstr "Betű Beállítások"
@@ -5075,9 +5000,6 @@ msgstr ""
 # Forces a cool down between chat messages for all players when playing
 # online.
 msgid "NETMNU_CHATSLOMO"
-msgstr ""
-
-msgid "JOYMNU_HAPTRIGGERS"
 msgstr ""
 
 msgid "OPTMNU_HAPTICS"

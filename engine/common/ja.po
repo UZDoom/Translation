@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-20 23:11+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-24 05:03+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/uzdoom/common/"
 "ja/>\n"
 "Language: ja\n"
@@ -32,9 +32,6 @@ msgstr ""
 
 msgid "SAFEMESSAGE"
 msgstr "本当に実行するのか?"
-
-msgid "NOTSET"
-msgstr "セットされてない"
 
 msgid "QSPROMPT"
 msgstr ""
@@ -240,17 +237,11 @@ msgstr "アクション"
 msgid "CNTRLMNU_ACTION_TITLE"
 msgstr "アクション操作設定"
 
-msgid "CNTRLMNU_CHAT"
-msgstr "チャット"
-
 msgid "MNU_MULTIPLAYER"
 msgstr "マルチプレイヤー"
 
 msgid "CNTRLMNU_SAY"
 msgstr "発言"
-
-msgid "CNTRLMNU_CHAT_TITLE"
-msgstr "チャット操作設定"
 
 msgid "CNTRLMNU_WEAPONS_TITLE"
 msgstr "武器操作設定"
@@ -408,9 +399,6 @@ msgstr "メッセージ表示の切替"
 
 msgid "CNTRLMNU_MENU_QUIT"
 msgstr "ゲームを終了"
-
-msgid "CNTRLMNU_ADJUST_GAMMA"
-msgstr "ガンマ値を調整"
 
 msgid "MOUSEMNU_ENABLEMOUSE"
 msgstr "マウスの使用"
@@ -662,23 +650,11 @@ msgstr "垂直同期"
 msgid "DSPLYMNU_MODELS"
 msgstr "モデル"
 
-msgid "DSPLYMNU_CROSSHAIRSCALE"
-msgstr "照準スケール"
-
-msgid "DSPLYMNU_SBSCALE"
-msgstr "ステータススケール"
-
-msgid "DSPLYMNU_MESSAGES"
-msgstr "メッセージ類"
-
 msgid "MSGMNU_CENTERMESSAGES"
 msgstr "メッセージを中央に"
 
 msgid "MSGMNU_PULSEMESSAGES"
 msgstr "取得時等の文を明滅"
-
-msgid "MSGMNU_MESSAGESCALE"
-msgstr "メッセージスケール"
 
 msgid "MNU_COLORPICKER"
 msgstr "色選択"
@@ -700,15 +676,6 @@ msgstr "カスタム色を決める"
 
 msgid "MAPCOLORMNU_DEFAULTMAPCOLORS"
 msgstr "カスタム色を初期化"
-
-msgid "SNDMNU_SNDENABLED"
-msgstr "サウンド有効"
-
-msgid "SNDMNU_MUSENABLED"
-msgstr "音楽有効"
-
-msgid "OPTVAL_4000HZ"
-msgstr ""
 
 msgid "OPTVAL_8000HZ"
 msgstr ""
@@ -806,9 +773,6 @@ msgstr "ランダマイズ ピッチ"
 msgid "SNDMNU_CHANNELS"
 msgstr "サウンド チャンネル"
 
-msgid "SNDMNU_BACKEND"
-msgstr "サウンド バックエンド"
-
 msgid "SNDMNU_OPENAL"
 msgstr "OpenAL オプション"
 
@@ -824,9 +788,6 @@ msgstr "モジュールリプレイヤー オプション"
 #, fuzzy
 msgid "SNDMNU_MIDIPLAYER"
 msgstr "Midi再生のオプション"
-
-msgid "SNDMNU_MENUSOUND"
-msgstr "メニューでのサウンド"
 
 msgid "ADVSNDMNU_TITLE"
 msgstr "高度なサウンドオプション"
@@ -867,9 +828,6 @@ msgstr "フリーバーブ"
 msgid "ADVSNDMNU_GLOBAL_FREEVERB"
 msgstr "グローバル フリーバーブ"
 
-msgid "ADVSNDMNU_FLUIDPATCHSET"
-msgstr "パッチ セット"
-
 msgid "ADVSNDMNU_FLUIDGAIN"
 msgstr "ゲイン"
 
@@ -891,17 +849,8 @@ msgstr ""
 msgid "ADVSNDMNU_OPNMIDI"
 msgstr ""
 
-msgid "ADVSNDMNU_TIMIDITYCONFIG"
-msgstr "Timidity コンフィグファイル"
-
-msgid "ADVSNDMNU_TIMIDITYVOLUME"
-msgstr "相対音量"
-
 msgid "ADVSNDMNU_WILDMIDI"
 msgstr ""
-
-msgid "ADVSNDMNU_WILDMIDICONFIG"
-msgstr "WildMidi コンフィグファイル"
 
 msgid "ADVSNDMNU_SELCONFIG"
 msgstr "構成選択"
@@ -911,9 +860,6 @@ msgstr "高度なリサンプリング"
 
 msgid "ADVSNDMNU_OPLBANK"
 msgstr ""
-
-msgid "ADVSNDMNU_ADLOPLCORES"
-msgstr "OPL エミュレートコア"
 
 msgid "ADVSNDMNU_RUNPCMRATE"
 msgstr "PCMレートでエミュレート実行"
@@ -938,9 +884,6 @@ msgstr "OPN2 エミュレート コア"
 
 msgid "ADVSNDMNU_GUSEMULATION"
 msgstr "GUS エミュレーション"
-
-msgid "ADVSNDMNU_GUSCONFIG"
-msgstr "GUS コンフィグファイル"
 
 msgid "ADVSNDMNU_DMXGUS"
 msgstr "DMXGUS ランプを読む"
@@ -1071,9 +1014,6 @@ msgid "OPTVAL_NP2OPNA"
 msgstr ""
 
 msgid "OPTVAL_MAMEOPNA"
-msgstr ""
-
-msgid "OPTVAL_PMDWINOPNA"
 msgstr ""
 
 msgid "OPTVAL_OPALOPL3"
@@ -1316,12 +1256,6 @@ msgstr ""
 msgid "GLTEXMNU_TITLE"
 msgstr "テクスチャー オプション"
 
-msgid "GLTEXMNU_TEXENABLED"
-msgstr "テクスチャー有効"
-
-msgid "GLTEXMNU_ENABLEHIRES"
-msgstr "ハイレゾ テクスチャー有効"
-
 msgid "GLTEXMNU_HQRESIZE"
 msgstr "高品質リサイズ モード"
 
@@ -1349,12 +1283,6 @@ msgstr "プリキャッシュGLテクスチャー"
 msgid "VIDMNU_TITLE"
 msgstr "ビデオ調整"
 
-msgid "OPTVAL_SCALENEAREST"
-msgstr "スケーリング (最寄り)"
-
-msgid "OPTVAL_SCALELINEAR"
-msgstr "スケーリング (リニア)"
-
 msgid "OPTVAL_LETTERBOX"
 msgstr "レターボックス"
 
@@ -1370,17 +1298,11 @@ msgstr "全画面"
 msgid "VIDMNU_HIDPI"
 msgstr "Retina/HiDPI サポート"
 
-msgid "VIDMNU_ASPECTRATIO"
-msgstr "アスペクト比"
-
 msgid "VIDMNU_FORCEASPECT"
 msgstr "アスペクト比に従う"
 
 msgid "VIDMNU_CROPASPECT"
 msgstr "比率の形式"
-
-msgid "VIDMNU_5X4ASPECTRATIO"
-msgstr "5:4アスペクト比を可能にする"
 
 msgid "VIDMNU_SCALEMODE"
 msgstr "画面スケール"
@@ -1551,92 +1473,6 @@ msgstr "新規反響設定"
 msgid "REVMNU_REVERT"
 msgstr "設定を戻す"
 
-# Please translate only if you know how to properly name this technical
-# jargon!
-msgid "REVMNU_ENVIRONMENT_SIZE"
-msgstr "反響サイズ"
-
-msgid "REVMNU_ENVIRONMENT_DIFFUSION"
-msgstr "反響伝播"
-
-msgid "REVMNU_ROOM"
-msgstr ""
-
-msgid "REVMNU_ROOM_HF"
-msgstr ""
-
-msgid "REVMNU_ROOM_LF"
-msgstr ""
-
-msgid "REVMNU_DECAY_TIME"
-msgstr ""
-
-msgid "REVMNU_DECAY_HF_RATIO"
-msgstr "Decay HF比率"
-
-msgid "REVMNU_DECAY_LF_RATIO"
-msgstr "Decay LF比率"
-
-msgid "REVMNU_REFLECTIONS"
-msgstr ""
-
-msgid "REVMNU_REFLECTIONS_DELAY"
-msgstr ""
-
-msgid "REVMNU_REFLECTIONS_PAN_X"
-msgstr "Reflections X定位"
-
-msgid "REVMNU_REFLECTIONS_PAN_Y"
-msgstr "Reflections Y定位"
-
-msgid "REVMNU_REFLECTIONS_PAN_Z"
-msgstr "Reflections Z定位"
-
-msgid "REVMNU_REVERB"
-msgstr ""
-
-msgid "REVMNU_REVERB_DELAY"
-msgstr ""
-
-msgid "REVMNU_REVERB_PAN_X"
-msgstr "Reverb X定位"
-
-msgid "REVMNU_REVERB_PAN_Y"
-msgstr "Reverb Y定位"
-
-msgid "REVMNU_REVERB_PAN_Z"
-msgstr "Reverb Z定位"
-
-msgid "REVMNU_ECHO_TIME"
-msgstr ""
-
-msgid "REVMNU_ECHO_DEPTH"
-msgstr ""
-
-msgid "REVMNU_MODULATION_TIME"
-msgstr ""
-
-msgid "REVMNU_MODULATION_DEPTH"
-msgstr ""
-
-msgid "REVMNU_AIR_ABSORPTION_HF"
-msgstr ""
-
-msgid "REVMNU_HF_REFERENCE"
-msgstr "HF参照値"
-
-msgid "REVMNU_LF_REFERENCE"
-msgstr "LF参照値"
-
-msgid "REVMNU_ROOM_ROLLOFF_FACTOR"
-msgstr ""
-
-msgid "REVMNU_DIFFUSION"
-msgstr ""
-
-msgid "REVMNU_DENSITY"
-msgstr "密度"
-
 msgid "REVMNU_Reflections_Scale"
 msgstr "Reflections音階"
 
@@ -1691,9 +1527,6 @@ msgstr "Vulkan機能オプション(実験的)"
 msgid "VK_TITLE"
 msgstr "Vulkan機能オプション"
 
-msgid "VKMNU_ENABLE"
-msgstr "Vulkanを有効化"
-
 msgid "VKMNU_DEVICE"
 msgstr "Vulkanデバイス ID"
 
@@ -1705,10 +1538,6 @@ msgstr "警告：Vulkanレンダラーは実験段階です!"
 
 msgid "VK_RESTART"
 msgstr "これらのオプションを有効にするには再起動が必要です。"
-
-# This is not yet implemented - but it is planned
-msgid "VKMNU_DEVICESELECT"
-msgstr "Vulkanデバイスの選択"
 
 msgid "OPTVAL_SCALENX"
 msgstr ""
@@ -1779,41 +1608,11 @@ msgstr "モディファイのみ"
 msgid "TXT_UNKNOWN"
 msgstr "不明"
 
-msgid "OPTVAL_HUD"
-msgstr ""
-
-msgid "OPTVAL_AUTOMAP"
-msgstr "オートマップ"
-
-msgid "OPTVAL_HUDANDMAP"
-msgstr "HUD+オートマップ"
-
 msgid "TXT_SAVEGAMENEEDS"
 msgstr "このセーブデータには 必要なファイルがある"
 
-msgid "OPTMNU_MULTIPLAYER"
-msgstr "マルチプレイ オプション"
-
-msgid "OPTMNU_INPUT"
-msgstr "入力オプション"
-
-msgid "OPTMNU_SYSTEM"
-msgstr "システムオプション"
-
-msgid "OPTMNU_LIGHT"
-msgstr "光源オプション"
-
-msgid "OPTMNU_SPRITE"
-msgstr "スプライトオプション"
-
 msgid "GLPREFMNU_CORONAS"
 msgstr "光冠"
-
-msgid "DSPLYMNU_APPEARANCE"
-msgstr "アピアランス"
-
-msgid "DSPLYMNU_ADVANCED"
-msgstr "高度なディスプレイオプション"
 
 msgid "PICKER_SELECT"
 msgstr "実行するゲームファイルを選択します。"
@@ -1920,21 +1719,6 @@ msgstr "ホスト"
 
 msgid "PICKER_JOIN"
 msgstr "参加"
-
-msgid "PICKER_NETMODE"
-msgstr "ネットワークモード:"
-
-msgid "PICKER_NETAUTO"
-msgstr "自動 (推奨)"
-
-# Connections are routed through the host instead of all players connecting to
-# each other individually.
-msgid "PICKER_NETSERVER"
-msgstr "パケットサーバー"
-
-# Players connect to each other individually.
-msgid "PICKER_NETPEER"
-msgstr "P2P (直接通信)"
 
 msgid "PICKER_NETRATE"
 msgstr "パケットTicレート:"

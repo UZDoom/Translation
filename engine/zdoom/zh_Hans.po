@@ -3359,9 +3359,6 @@ msgstr "会瞬移的地板不再静音"
 msgid "CMPTMNU_SECTORSOUNDS"
 msgstr "区域音效用中心位置作为声源"
 
-msgid "CMPTMNU_SOUNDCUTOFF"
-msgstr "角色消失时停止音效"
-
 msgid "CMPTMNU_SOUNDTARGET"
 msgstr "使用原版的声音目标处理方式"
 
@@ -3833,9 +3830,6 @@ msgstr "使用模糊效果"
 msgid "DSPLYMNU_OLDTRANS"
 msgstr "经典透明度"
 
-msgid "DSPLYMNU_TRANSSOUL"
-msgstr "丧魂透明度"
-
 msgid "DSPLYMNU_FAKECONTRAST"
 msgstr "使用虚假对比度"
 
@@ -3989,9 +3983,6 @@ msgstr "网络选项"
 msgid "NETMNU_LOCALOPTIONS"
 msgstr "本地选项"
 
-msgid "NETMNU_MOVEPREDICTION"
-msgstr "移动预测"
-
 msgid "NETMNU_LINESPECIALPREDICTION"
 msgstr "预测线动作"
 
@@ -4006,15 +3997,6 @@ msgstr "主机选项"
 
 msgid "NETMNU_EXTRATICS"
 msgstr "预备秒数"
-
-msgid "NETMNU_TICBALANCE"
-msgstr "延迟平衡"
-
-msgid "OPTVAL_ORIGINAL"
-msgstr "原始"
-
-msgid "OPTVAL_OPTIMIZED"
-msgstr "优化"
 
 msgid "OPTVAL_CLASSIC"
 msgstr "经典(更快)"
@@ -4082,15 +4064,6 @@ msgstr "玩家"
 
 msgid "OPTVAL_MAP"
 msgstr "地图"
-
-msgid "OPTVAL_SCALETO640X400"
-msgstr "缩放到640x400"
-
-msgid "OPTVAL_PIXELDOUBLE"
-msgstr "双倍像素"
-
-msgid "OPTVAL_PIXELQUADRUPLE"
-msgstr "四倍像素"
 
 msgid "OPTVAL_CURRENTWEAPON"
 msgstr "当前武器"
@@ -4185,15 +4158,6 @@ msgstr "仅映射指定的颜色"
 msgid "OPTVAL_NODOORS"
 msgstr "除了门以外"
 
-msgid "OPTVAL_DOUBLE"
-msgstr "双倍"
-
-msgid "OPTVAL_TRIPLE"
-msgstr "三倍"
-
-msgid "OPTVAL_QUADRUPLE"
-msgstr "四倍"
-
 msgid "OPTVAL_ITEMPICKUP"
 msgstr "物品拾取"
 
@@ -4242,9 +4206,6 @@ msgstr "MBF21(严格)"
 msgid "OPTVAL_ZDOOM2063"
 msgstr "ZDoom 2.0.63"
 
-msgid "OPTVAL_ALLUNACKNOWLEDGED"
-msgstr "所有未确认的"
-
 msgid "OPTVAL_ERRORS"
 msgstr "错误"
 
@@ -4266,12 +4227,6 @@ msgstr "Doom软件渲染器"
 msgid "OPTVAL_SWDOOMTC"
 msgstr "真彩色软件渲染器"
 
-msgid "OPTVAL_DEDICATED"
-msgstr "高性能"
-
-msgid "OPTVAL_INTEGRATED"
-msgstr "节能"
-
 msgid "OPTVAL_VANILLA"
 msgstr "原版"
 
@@ -4280,12 +4235,6 @@ msgstr "ZDoom(强制)"
 
 msgid "OPTVAL_VTFVANILLA"
 msgstr "原版(强制)"
-
-msgid "OPTVAL_VTAZDOOM"
-msgstr "自动(ZDoom优先)"
-
-msgid "OPTVAL_VTAVANILLA"
-msgstr "自动(原版优先)"
 
 msgid "OPTVAL_SMALL"
 msgstr "小"
@@ -4380,17 +4329,11 @@ msgstr "《异教徒》"
 msgid "OPTSTR_CHEX"
 msgstr "《奇克斯》"
 
-msgid "OPTSTR_NOSOUND"
-msgstr "无声音"
-
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr "无插值"
 
 msgid "OPTSTR_SPLINE"
 msgstr "样条函数"
-
-msgid "OPTSTR_OPENAL"
-msgstr "OpenAL"
 
 msgid "DSPLYMNU_GLOPT"
 msgstr "硬件渲染器"
@@ -4404,12 +4347,6 @@ msgstr "硬件渲染选项"
 msgid "GLMNU_DYNLIGHT"
 msgstr "动态光源选项"
 
-msgid "GLMNU_PREFS"
-msgstr "偏好选项"
-
-msgid "GLTEXMNU_TRIMSPREDGE"
-msgstr "修剪精灵边缘"
-
 msgid "GLTEXMNU_SORTDRAWLIST"
 msgstr "根据纹理排序绘制列表"
 
@@ -4418,9 +4355,6 @@ msgstr "动态光源"
 
 msgid "GLLIGHTMNU_LIGHTSENABLED"
 msgstr "动态光源(硬件)"
-
-msgid "GLLIGHTMNU_LIGHTDEFS"
-msgstr "启用光照定义"
 
 msgid "GLLIGHTMNU_LIGHTSPRITES"
 msgstr "光源影响精灵"
@@ -4516,9 +4450,6 @@ msgstr "Doom遗产"
 msgid "OPTVAL_SOFTWARE"
 msgstr "软件"
 
-msgid "OPTVAL_OPTIMAL"
-msgstr "最佳"
-
 msgid "OPTVAL_YAXIS"
 msgstr "Y轴"
 
@@ -4593,9 +4524,6 @@ msgstr "真彩色选项"
 
 msgid "TCMNU_TITLE"
 msgstr "真彩色选项"
-
-msgid "TCMNU_TRUECOLOR"
-msgstr "真彩色输出"
 
 msgid "TCMNU_MINFILTER"
 msgstr "缩小时用线性过滤"
@@ -4696,9 +4624,6 @@ msgstr "准星"
 
 msgid "MSGMNU_SUBTITLES"
 msgstr "字幕"
-
-msgid "GLPREFMNU_PALTONENOGREY"
-msgstr "防止灰色阴影"
 
 msgid "HUDMNU_FONTOPTIONS"
 msgstr "字体选项"
@@ -5059,9 +4984,6 @@ msgstr "投票倒计时(秒)"
 msgid "NETMNU_CHATSLOMO"
 msgstr "聊天缓动模式(秒)"
 
-msgid "JOYMNU_HAPTRIGGERS"
-msgstr "启用触觉触发器"
-
 msgid "OPTMNU_HAPTICS"
 msgstr "触觉选项"
 
@@ -5314,9 +5236,6 @@ msgstr "请在调整前禁用这些。"
 msgid "DSPLYMNU_BLACKPOINT"
 msgstr "黑点补偿"
 
-msgid "DSPLYMNU_WHITEPOINT"
-msgstr "白点补偿"
-
 msgid "OPTMNU_RESETALL"
 msgstr "全部重置"
 
@@ -5334,11 +5253,6 @@ msgstr ""
 msgid "DSPLYMNU_TOOLTIP_BLACKPOINT"
 msgstr ""
 "用于补偿显示器无法正确显示暗像素的情况。调整直至对角线上的白色方块消失。请勿"
-"用此功能让游戏画面更亮，仅用于确保图像与你的设置相匹配。"
-
-msgid "DSPLYMNU_TOOLTIP_WHITEPOINT"
-msgstr ""
-"用于补偿显示器无法正确显示亮像素的情况。调整直至对角线上的黑色方块消失。请勿"
 "用此功能让游戏画面更亮，仅用于确保图像与你的设置相匹配。"
 
 msgid "DSPLYMNU_TOOLTIP_IMAGEADJUST_RESET"

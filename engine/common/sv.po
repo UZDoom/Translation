@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 21:12+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-24 05:03+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/uzdoom/common/"
 "sv/>\n"
 "Language: sv\n"
@@ -31,9 +31,6 @@ msgstr ""
 
 msgid "SAFEMESSAGE"
 msgstr "Vill du verkligen göra det här?"
-
-msgid "NOTSET"
-msgstr "Inte inställd"
 
 msgid "QSPROMPT"
 msgstr ""
@@ -240,17 +237,11 @@ msgstr "Åtgärd"
 msgid "CNTRLMNU_ACTION_TITLE"
 msgstr "Anpassa kontrollerna för åtgärder"
 
-msgid "CNTRLMNU_CHAT"
-msgstr "Chatt"
-
 msgid "MNU_MULTIPLAYER"
 msgstr "Flera spelare"
 
 msgid "CNTRLMNU_SAY"
 msgstr "Säg"
-
-msgid "CNTRLMNU_CHAT_TITLE"
-msgstr "Anpassa kontrollerna för chatt"
 
 msgid "CNTRLMNU_WEAPONS_TITLE"
 msgstr "Anpassa vapenkontroller"
@@ -408,9 +399,6 @@ msgstr "Växla meddelanden"
 
 msgid "CNTRLMNU_MENU_QUIT"
 msgstr "Avsluta spelet"
-
-msgid "CNTRLMNU_ADJUST_GAMMA"
-msgstr "Justera Gamma"
 
 msgid "MOUSEMNU_ENABLEMOUSE"
 msgstr "Aktivera musen"
@@ -663,23 +651,11 @@ msgstr "Vertikal synkronisering"
 msgid "DSPLYMNU_MODELS"
 msgstr "Modeller"
 
-msgid "DSPLYMNU_CROSSHAIRSCALE"
-msgstr "Skala hårkorset"
-
-msgid "DSPLYMNU_SBSCALE"
-msgstr "Skala för statusfältet"
-
-msgid "DSPLYMNU_MESSAGES"
-msgstr "Meddelanden"
-
 msgid "MSGMNU_CENTERMESSAGES"
 msgstr "Centrerade meddelanden"
 
 msgid "MSGMNU_PULSEMESSAGES"
 msgstr "Pulserande meddelande Visning"
-
-msgid "MSGMNU_MESSAGESCALE"
-msgstr "Meddelandeskala"
 
 msgid "MNU_COLORPICKER"
 msgstr "Välj färg"
@@ -701,15 +677,6 @@ msgstr "Anpassa kartans färger"
 
 msgid "MAPCOLORMNU_DEFAULTMAPCOLORS"
 msgstr "Återställ anpassade standardfärger"
-
-msgid "SNDMNU_SNDENABLED"
-msgstr "Ljud aktiverat"
-
-msgid "SNDMNU_MUSENABLED"
-msgstr "Musik aktiverad"
-
-msgid "OPTVAL_4000HZ"
-msgstr ""
 
 msgid "OPTVAL_8000HZ"
 msgstr ""
@@ -807,9 +774,6 @@ msgstr "Slumpmässiga tonhöjder"
 msgid "SNDMNU_CHANNELS"
 msgstr "Ljudkanaler"
 
-msgid "SNDMNU_BACKEND"
-msgstr "Ljudbakgrund"
-
 msgid "SNDMNU_OPENAL"
 msgstr "OpenAL-alternativ"
 
@@ -825,9 +789,6 @@ msgstr "Alternativ för modulåterspelare"
 #, fuzzy
 msgid "SNDMNU_MIDIPLAYER"
 msgstr "Alternativ för Midi-spelare"
-
-msgid "SNDMNU_MENUSOUND"
-msgstr "Ljud i menyer"
 
 msgid "ADVSNDMNU_TITLE"
 msgstr "Avancerade ljudalternativ"
@@ -868,9 +829,6 @@ msgstr ""
 msgid "ADVSNDMNU_GLOBAL_FREEVERB"
 msgstr ""
 
-msgid "ADVSNDMNU_FLUIDPATCHSET"
-msgstr "Patch-uppsättning"
-
 msgid "ADVSNDMNU_FLUIDGAIN"
 msgstr "Relativ volym"
 
@@ -892,17 +850,8 @@ msgstr ""
 msgid "ADVSNDMNU_OPNMIDI"
 msgstr ""
 
-msgid "ADVSNDMNU_TIMIDITYCONFIG"
-msgstr "Timidity-konfigurationsfil"
-
-msgid "ADVSNDMNU_TIMIDITYVOLUME"
-msgstr "Relativ volym"
-
 msgid "ADVSNDMNU_WILDMIDI"
 msgstr ""
-
-msgid "ADVSNDMNU_WILDMIDICONFIG"
-msgstr "WildMidi-konfigurationsfil"
 
 msgid "ADVSNDMNU_SELCONFIG"
 msgstr "Välj konfiguration"
@@ -912,9 +861,6 @@ msgstr "Avancerad återampling"
 
 msgid "ADVSNDMNU_OPLBANK"
 msgstr "OPL-bank"
-
-msgid "ADVSNDMNU_ADLOPLCORES"
-msgstr "OPL-emulatorns kärna"
 
 msgid "ADVSNDMNU_RUNPCMRATE"
 msgstr "Kör emulatorn med PCM-frekvens"
@@ -939,9 +885,6 @@ msgstr "OPN2-emulatorkärna"
 
 msgid "ADVSNDMNU_GUSEMULATION"
 msgstr "GUS-emulering"
-
-msgid "ADVSNDMNU_GUSCONFIG"
-msgstr "GUS-konfigurationsfil"
 
 msgid "ADVSNDMNU_DMXGUS"
 msgstr "Läsa DMXGUS-filer"
@@ -1072,9 +1015,6 @@ msgid "OPTVAL_NP2OPNA"
 msgstr ""
 
 msgid "OPTVAL_MAMEOPNA"
-msgstr ""
-
-msgid "OPTVAL_PMDWINOPNA"
 msgstr ""
 
 msgid "OPTVAL_OPALOPL3"
@@ -1317,12 +1257,6 @@ msgstr ""
 msgid "GLTEXMNU_TITLE"
 msgstr "Alternativ för textur"
 
-msgid "GLTEXMNU_TEXENABLED"
-msgstr "Texturer aktiverade"
-
-msgid "GLTEXMNU_ENABLEHIRES"
-msgstr "Aktivera texturer med högre upplösning"
-
 msgid "GLTEXMNU_HQRESIZE"
 msgstr "Högkvalitativt storleksanpassningsläge"
 
@@ -1350,12 +1284,6 @@ msgstr "Precache GL-texturer"
 msgid "VIDMNU_TITLE"
 msgstr "Videoläge"
 
-msgid "OPTVAL_SCALENEAREST"
-msgstr "Skalad (närmast)"
-
-msgid "OPTVAL_SCALELINEAR"
-msgstr "Skalad (linjär)"
-
 msgid "OPTVAL_LETTERBOX"
 msgstr "Brevlåda"
 
@@ -1371,17 +1299,11 @@ msgstr "Fullskärm"
 msgid "VIDMNU_HIDPI"
 msgstr "Retina/HiDPI-stöd"
 
-msgid "VIDMNU_ASPECTRATIO"
-msgstr "Bildförhållande"
-
 msgid "VIDMNU_FORCEASPECT"
 msgstr "Forcerat bildförhållande"
 
 msgid "VIDMNU_CROPASPECT"
 msgstr "Stil för tvingat förhållande"
-
-msgid "VIDMNU_5X4ASPECTRATIO"
-msgstr "Aktivera bildförhållandet 5:4"
 
 msgid "VIDMNU_SCALEMODE"
 msgstr "Upplösningsskala"
@@ -1550,92 +1472,6 @@ msgstr "Ny miljö"
 msgid "REVMNU_REVERT"
 msgstr "Återkalla inställningar"
 
-# Please translate only if you know how to properly name this technical
-# jargon!
-msgid "REVMNU_ENVIRONMENT_SIZE"
-msgstr "Miljö storlek"
-
-msgid "REVMNU_ENVIRONMENT_DIFFUSION"
-msgstr "Miljö spridning"
-
-msgid "REVMNU_ROOM"
-msgstr ""
-
-msgid "REVMNU_ROOM_HF"
-msgstr ""
-
-msgid "REVMNU_ROOM_LF"
-msgstr ""
-
-msgid "REVMNU_DECAY_TIME"
-msgstr ""
-
-msgid "REVMNU_DECAY_HF_RATIO"
-msgstr ""
-
-msgid "REVMNU_DECAY_LF_RATIO"
-msgstr ""
-
-msgid "REVMNU_REFLECTIONS"
-msgstr ""
-
-msgid "REVMNU_REFLECTIONS_DELAY"
-msgstr ""
-
-msgid "REVMNU_REFLECTIONS_PAN_X"
-msgstr ""
-
-msgid "REVMNU_REFLECTIONS_PAN_Y"
-msgstr ""
-
-msgid "REVMNU_REFLECTIONS_PAN_Z"
-msgstr ""
-
-msgid "REVMNU_REVERB"
-msgstr ""
-
-msgid "REVMNU_REVERB_DELAY"
-msgstr ""
-
-msgid "REVMNU_REVERB_PAN_X"
-msgstr ""
-
-msgid "REVMNU_REVERB_PAN_Y"
-msgstr ""
-
-msgid "REVMNU_REVERB_PAN_Z"
-msgstr ""
-
-msgid "REVMNU_ECHO_TIME"
-msgstr ""
-
-msgid "REVMNU_ECHO_DEPTH"
-msgstr ""
-
-msgid "REVMNU_MODULATION_TIME"
-msgstr ""
-
-msgid "REVMNU_MODULATION_DEPTH"
-msgstr ""
-
-msgid "REVMNU_AIR_ABSORPTION_HF"
-msgstr ""
-
-msgid "REVMNU_HF_REFERENCE"
-msgstr ""
-
-msgid "REVMNU_LF_REFERENCE"
-msgstr ""
-
-msgid "REVMNU_ROOM_ROLLOFF_FACTOR"
-msgstr ""
-
-msgid "REVMNU_DIFFUSION"
-msgstr ""
-
-msgid "REVMNU_DENSITY"
-msgstr ""
-
 msgid "REVMNU_Reflections_Scale"
 msgstr ""
 
@@ -1691,9 +1527,6 @@ msgstr "Vulkan-alternativ (experimentellt)"
 msgid "VK_TITLE"
 msgstr "Vulkan-alternativ"
 
-msgid "VKMNU_ENABLE"
-msgstr "Aktivera Vulkan"
-
 msgid "VKMNU_DEVICE"
 msgstr "Vulkan-enhets-ID"
 
@@ -1705,10 +1538,6 @@ msgstr "Varning: Vulkan-renderaren är mycket experimentell!"
 
 msgid "VK_RESTART"
 msgstr "De här alternativen kräver en omstart för att få effekt."
-
-# This is not yet implemented - but it is planned
-msgid "VKMNU_DEVICESELECT"
-msgstr "Välj Vulkan-enhet"
 
 msgid "OPTVAL_SCALENX"
 msgstr ""
@@ -1779,41 +1608,11 @@ msgstr "Endast ändrat"
 msgid "TXT_UNKNOWN"
 msgstr "Okänd"
 
-msgid "OPTVAL_HUD"
-msgstr ""
-
-msgid "OPTVAL_AUTOMAP"
-msgstr ""
-
-msgid "OPTVAL_HUDANDMAP"
-msgstr ""
-
 msgid "TXT_SAVEGAMENEEDS"
 msgstr "Detta sparande behöver dessa filer"
 
-msgid "OPTMNU_MULTIPLAYER"
-msgstr "Alternativ för flera spelare"
-
-msgid "OPTMNU_INPUT"
-msgstr "Inmatningsalternativ"
-
-msgid "OPTMNU_SYSTEM"
-msgstr "Systemalternativ"
-
-msgid "OPTMNU_LIGHT"
-msgstr "Alternativ för ljus"
-
-msgid "OPTMNU_SPRITE"
-msgstr "Alternativ för sprite"
-
 msgid "GLPREFMNU_CORONAS"
 msgstr "Koronor"
-
-msgid "DSPLYMNU_APPEARANCE"
-msgstr "Utseende"
-
-msgid "DSPLYMNU_ADVANCED"
-msgstr "Avancerade visningsalternativ"
 
 msgid "PICKER_SELECT"
 msgstr "Välj vilket spel du vill spela"
@@ -1917,21 +1716,6 @@ msgid "PICKER_HOST"
 msgstr ""
 
 msgid "PICKER_JOIN"
-msgstr ""
-
-msgid "PICKER_NETMODE"
-msgstr ""
-
-msgid "PICKER_NETAUTO"
-msgstr ""
-
-# Connections are routed through the host instead of all players connecting to
-# each other individually.
-msgid "PICKER_NETSERVER"
-msgstr ""
-
-# Players connect to each other individually.
-msgid "PICKER_NETPEER"
 msgstr ""
 
 msgid "PICKER_NETRATE"

@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 21:32+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-24 05:03+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/uzdoom/common/"
 "hr/>\n"
 "Language: hr\n"
@@ -32,9 +32,6 @@ msgstr ""
 
 msgid "SAFEMESSAGE"
 msgstr "Želiš li ovo stvarno učiniti?"
-
-msgid "NOTSET"
-msgstr "Nije postavljeno"
 
 msgid "QSPROMPT"
 msgstr ""
@@ -240,17 +237,11 @@ msgstr "Radnja"
 msgid "CNTRLMNU_ACTION_TITLE"
 msgstr "Prilagodi kontrole radnje"
 
-msgid "CNTRLMNU_CHAT"
-msgstr "Čavrljanje"
-
 msgid "MNU_MULTIPLAYER"
 msgstr "Više igrača"
 
 msgid "CNTRLMNU_SAY"
 msgstr "Reci"
-
-msgid "CNTRLMNU_CHAT_TITLE"
-msgstr "Prilagodi kontrole čavrljanja"
 
 msgid "CNTRLMNU_WEAPONS_TITLE"
 msgstr "Prilagodi kontrole oružja"
@@ -408,9 +399,6 @@ msgstr "Prekidač poruka"
 
 msgid "CNTRLMNU_MENU_QUIT"
 msgstr "Izađi iz igre"
-
-msgid "CNTRLMNU_ADJUST_GAMMA"
-msgstr "Prilagodi gamu"
 
 msgid "MOUSEMNU_ENABLEMOUSE"
 msgstr "Omogući miš"
@@ -662,23 +650,11 @@ msgstr "Vertikalna sinkronizacija"
 msgid "DSPLYMNU_MODELS"
 msgstr "Modeli"
 
-msgid "DSPLYMNU_CROSSHAIRSCALE"
-msgstr "Skaliraj ciljnik"
-
-msgid "DSPLYMNU_SBSCALE"
-msgstr "Skaliraj statusnu traku"
-
-msgid "DSPLYMNU_MESSAGES"
-msgstr "Poruke"
-
 msgid "MSGMNU_CENTERMESSAGES"
 msgstr "Centriraj poruke"
 
 msgid "MSGMNU_PULSEMESSAGES"
 msgstr "Prikaz pulsirajućih poruka"
-
-msgid "MSGMNU_MESSAGESCALE"
-msgstr "Skaliraj poruka"
 
 msgid "MNU_COLORPICKER"
 msgstr "Odaberi boju"
@@ -700,15 +676,6 @@ msgstr "Prilagodi boje mape"
 
 msgid "MAPCOLORMNU_DEFAULTMAPCOLORS"
 msgstr "Vrati prilagođene boje na zadane"
-
-msgid "SNDMNU_SNDENABLED"
-msgstr "Zvuk omogućen"
-
-msgid "SNDMNU_MUSENABLED"
-msgstr "Glazba omogućena"
-
-msgid "OPTVAL_4000HZ"
-msgstr "4000 Hz"
 
 msgid "OPTVAL_8000HZ"
 msgstr "8000 Hz"
@@ -806,9 +773,6 @@ msgstr "Nasumična visina tonova"
 msgid "SNDMNU_CHANNELS"
 msgstr "Zvučni kanali"
 
-msgid "SNDMNU_BACKEND"
-msgstr "Zvučna pozadina"
-
 msgid "SNDMNU_OPENAL"
 msgstr "Postavke OpenAL-a"
 
@@ -824,9 +788,6 @@ msgstr "Postavke repriziranja modula"
 #, fuzzy
 msgid "SNDMNU_MIDIPLAYER"
 msgstr "Postavke Midi reproduktora"
-
-msgid "SNDMNU_MENUSOUND"
-msgstr "Zvukovi u izborniku"
 
 msgid "ADVSNDMNU_TITLE"
 msgstr "Napredne postavke zvuka"
@@ -867,9 +828,6 @@ msgstr "Freeverb"
 msgid "ADVSNDMNU_GLOBAL_FREEVERB"
 msgstr "Globalni Freeverb"
 
-msgid "ADVSNDMNU_FLUIDPATCHSET"
-msgstr "Set zakrpa"
-
 msgid "ADVSNDMNU_FLUIDGAIN"
 msgstr "Jačina"
 
@@ -891,17 +849,8 @@ msgstr "ADLMidi"
 msgid "ADVSNDMNU_OPNMIDI"
 msgstr "OPNMidi"
 
-msgid "ADVSNDMNU_TIMIDITYCONFIG"
-msgstr "Konfiguracijska datoteka za Timidity"
-
-msgid "ADVSNDMNU_TIMIDITYVOLUME"
-msgstr "Relativna glasnoća"
-
 msgid "ADVSNDMNU_WILDMIDI"
 msgstr "WildMidi"
-
-msgid "ADVSNDMNU_WILDMIDICONFIG"
-msgstr "Konfiguracijska datoteka za WildMidi"
 
 msgid "ADVSNDMNU_SELCONFIG"
 msgstr "Odabir konfiguracije"
@@ -911,9 +860,6 @@ msgstr "Napredno uzorkovanje"
 
 msgid "ADVSNDMNU_OPLBANK"
 msgstr "OPL banka"
-
-msgid "ADVSNDMNU_ADLOPLCORES"
-msgstr "Jezgra OPL emulatora"
 
 msgid "ADVSNDMNU_RUNPCMRATE"
 msgstr "Pokreni emulator brzinom PCM-a"
@@ -938,9 +884,6 @@ msgstr "Jezgra OPN2 emulatora"
 
 msgid "ADVSNDMNU_GUSEMULATION"
 msgstr "GUS emulacija"
-
-msgid "ADVSNDMNU_GUSCONFIG"
-msgstr "Konfiguracijska datoteka za GUS"
 
 msgid "ADVSNDMNU_DMXGUS"
 msgstr "Čitaj grudice DMXGUS-a"
@@ -1072,9 +1015,6 @@ msgstr "Neko Project II Kai OPNA"
 
 msgid "OPTVAL_MAMEOPNA"
 msgstr "MAME YM2608"
-
-msgid "OPTVAL_PMDWINOPNA"
-msgstr "PMDWin OPNA"
 
 msgid "OPTVAL_OPALOPL3"
 msgstr "Opal OPL3"
@@ -1316,12 +1256,6 @@ msgstr "32×"
 msgid "GLTEXMNU_TITLE"
 msgstr "Postavke tekstura"
 
-msgid "GLTEXMNU_TEXENABLED"
-msgstr "Teksture su omogućene"
-
-msgid "GLTEXMNU_ENABLEHIRES"
-msgstr "Omogući teksture visoke rezolucije"
-
 msgid "GLTEXMNU_HQRESIZE"
 msgstr "Način promjene veličine visoke kvalitete"
 
@@ -1349,12 +1283,6 @@ msgstr "Predmemoriranje GL tekstura"
 msgid "VIDMNU_TITLE"
 msgstr "Video način"
 
-msgid "OPTVAL_SCALENEAREST"
-msgstr "Skaliran (najbliži)"
-
-msgid "OPTVAL_SCALELINEAR"
-msgstr "Skaliran (linearni)"
-
 msgid "OPTVAL_LETTERBOX"
 msgstr "Crni rubovi"
 
@@ -1370,17 +1298,11 @@ msgstr "Puni zaslon"
 msgid "VIDMNU_HIDPI"
 msgstr "Podrška za Retinu/HiDPI"
 
-msgid "VIDMNU_ASPECTRATIO"
-msgstr "Omjer slike"
-
 msgid "VIDMNU_FORCEASPECT"
 msgstr "Forsiraj omjer slike"
 
 msgid "VIDMNU_CROPASPECT"
 msgstr "Stil forsiranog omjera"
-
-msgid "VIDMNU_5X4ASPECTRATIO"
-msgstr "Omogući omjer slike 5:4"
 
 msgid "VIDMNU_SCALEMODE"
 msgstr "Skaliranje rezolucije"
@@ -1549,92 +1471,6 @@ msgstr "Novi okoliš"
 msgid "REVMNU_REVERT"
 msgstr "Povrati postavke"
 
-# Please translate only if you know how to properly name this technical
-# jargon!
-msgid "REVMNU_ENVIRONMENT_SIZE"
-msgstr "Veličina okoliša"
-
-msgid "REVMNU_ENVIRONMENT_DIFFUSION"
-msgstr "Difuzija okoliša"
-
-msgid "REVMNU_ROOM"
-msgstr "Soba"
-
-msgid "REVMNU_ROOM_HF"
-msgstr "Soba visoke frekvencije"
-
-msgid "REVMNU_ROOM_LF"
-msgstr "Soba niske frekvencije"
-
-msgid "REVMNU_DECAY_TIME"
-msgstr "Vrijeme raspadanja"
-
-msgid "REVMNU_DECAY_HF_RATIO"
-msgstr "Omjer raspadanja visoke frekvencije"
-
-msgid "REVMNU_DECAY_LF_RATIO"
-msgstr "Omjer raspadanja niske frekvencije"
-
-msgid "REVMNU_REFLECTIONS"
-msgstr "Odrazi"
-
-msgid "REVMNU_REFLECTIONS_DELAY"
-msgstr "Kašnjenje odraza"
-
-msgid "REVMNU_REFLECTIONS_PAN_X"
-msgstr "Kretanje odraza X"
-
-msgid "REVMNU_REFLECTIONS_PAN_Y"
-msgstr "Kretanje odraza Y"
-
-msgid "REVMNU_REFLECTIONS_PAN_Z"
-msgstr "Kretanje odraza Z"
-
-msgid "REVMNU_REVERB"
-msgstr "Odjekivanje"
-
-msgid "REVMNU_REVERB_DELAY"
-msgstr "Kašnjenje odjekivanja"
-
-msgid "REVMNU_REVERB_PAN_X"
-msgstr "Kretanje odjekivanja X"
-
-msgid "REVMNU_REVERB_PAN_Y"
-msgstr "Kretanje odjekivanja Y"
-
-msgid "REVMNU_REVERB_PAN_Z"
-msgstr "Kretanje odjekivanja Z"
-
-msgid "REVMNU_ECHO_TIME"
-msgstr "Vrijeme jeke"
-
-msgid "REVMNU_ECHO_DEPTH"
-msgstr "Dubina jeke"
-
-msgid "REVMNU_MODULATION_TIME"
-msgstr "Vrijeme modulacije"
-
-msgid "REVMNU_MODULATION_DEPTH"
-msgstr "Dubina modulacije"
-
-msgid "REVMNU_AIR_ABSORPTION_HF"
-msgstr "Apsorpcija zraka visoke frekvencije"
-
-msgid "REVMNU_HF_REFERENCE"
-msgstr "Referenca visoke frekvencije"
-
-msgid "REVMNU_LF_REFERENCE"
-msgstr "Referenca niske frekvencije"
-
-msgid "REVMNU_ROOM_ROLLOFF_FACTOR"
-msgstr "Faktor opadanja prostorije"
-
-msgid "REVMNU_DIFFUSION"
-msgstr "Difuzija okoliša"
-
-msgid "REVMNU_DENSITY"
-msgstr "Gustoća"
-
 msgid "REVMNU_Reflections_Scale"
 msgstr "Skaliranje odraza"
 
@@ -1690,9 +1526,6 @@ msgstr "Postavke Vulkana (eksperimentalno)"
 msgid "VK_TITLE"
 msgstr "Postavke Vulkana"
 
-msgid "VKMNU_ENABLE"
-msgstr "Omogući Vulkan"
-
 msgid "VKMNU_DEVICE"
 msgstr "ID uređaja Vulkan"
 
@@ -1705,10 +1538,6 @@ msgstr "Upozorenje: Vulkan renderer je jako eksperimentalan!"
 msgid "VK_RESTART"
 msgstr ""
 "Ove postavke će zahtijevati ponovno pokretanje kako bi stupile na snagu."
-
-# This is not yet implemented - but it is planned
-msgid "VKMNU_DEVICESELECT"
-msgstr "Odaberi uređaj Vulkana"
 
 msgid "OPTVAL_SCALENX"
 msgstr "ScaleNx"
@@ -1779,41 +1608,11 @@ msgstr "Samo modificirano"
 msgid "TXT_UNKNOWN"
 msgstr "Nepoznato"
 
-msgid "OPTVAL_HUD"
-msgstr "Sučelje"
-
-msgid "OPTVAL_AUTOMAP"
-msgstr "Autokarta"
-
-msgid "OPTVAL_HUDANDMAP"
-msgstr "Sučelje + Autokarta"
-
 msgid "TXT_SAVEGAMENEEDS"
 msgstr "Za ovu spremljenu igru potrebne su ove datoteke"
 
-msgid "OPTMNU_MULTIPLAYER"
-msgstr "Postavke za više igrača"
-
-msgid "OPTMNU_INPUT"
-msgstr "Postavke unosa"
-
-msgid "OPTMNU_SYSTEM"
-msgstr "Postavke sustava"
-
-msgid "OPTMNU_LIGHT"
-msgstr "Postavke svjetla"
-
-msgid "OPTMNU_SPRITE"
-msgstr "Postavke spriteova"
-
 msgid "GLPREFMNU_CORONAS"
 msgstr "Korone"
-
-msgid "DSPLYMNU_APPEARANCE"
-msgstr "Izgled"
-
-msgid "DSPLYMNU_ADVANCED"
-msgstr "Napredne postavke zaslona"
 
 msgid "PICKER_SELECT"
 msgstr "Odaberi koju igru želiš pokrenuti."
@@ -1918,21 +1717,6 @@ msgstr "Poslužitelj"
 
 msgid "PICKER_JOIN"
 msgstr "Pridruži"
-
-msgid "PICKER_NETMODE"
-msgstr "Način rada u mreži:"
-
-msgid "PICKER_NETAUTO"
-msgstr "Automatski (preporučeno)"
-
-# Connections are routed through the host instead of all players connecting to
-# each other individually.
-msgid "PICKER_NETSERVER"
-msgstr "Paketni poslužitelj"
-
-# Players connect to each other individually.
-msgid "PICKER_NETPEER"
-msgstr "Ravnopravno Povezivanje"
 
 msgid "PICKER_NETRATE"
 msgstr "Paket Tikrat:"

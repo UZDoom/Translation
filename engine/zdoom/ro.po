@@ -3381,9 +3381,6 @@ msgstr "Podelele care se mișcă instant nu sunt silențioase"
 msgid "CMPTMNU_SECTORSOUNDS"
 msgstr "Sunetele sectoarelor au ca sursă centrul"
 
-msgid "CMPTMNU_SOUNDCUTOFF"
-msgstr "Sunetele se opresc când actorul sursă dispare"
-
 msgid "CMPTMNU_SOUNDTARGET"
 msgstr "Procesare originală pentru sursele de sunet"
 
@@ -3855,9 +3852,6 @@ msgstr "Mod efect de strălucire"
 msgid "DSPLYMNU_OLDTRANS"
 msgstr "Transparență Clasică"
 
-msgid "DSPLYMNU_TRANSSOUL"
-msgstr "Transparență Suflete Pierdute"
-
 msgid "DSPLYMNU_FAKECONTRAST"
 msgstr "Utilizează contrast fals"
 
@@ -4011,9 +4005,6 @@ msgstr "Setări de Rețea"
 msgid "NETMNU_LOCALOPTIONS"
 msgstr "Setări Locale"
 
-msgid "NETMNU_MOVEPREDICTION"
-msgstr "Anticipare mișcare"
-
 msgid "NETMNU_LINESPECIALPREDICTION"
 msgstr "Anticipează acționarea liniilor"
 
@@ -4028,15 +4019,6 @@ msgstr "Setări gazdă"
 
 msgid "NETMNU_EXTRATICS"
 msgstr "Ticăituri suplimentare"
-
-msgid "NETMNU_TICBALANCE"
-msgstr "Întârzierea echilibrării"
-
-msgid "OPTVAL_ORIGINAL"
-msgstr ""
-
-msgid "OPTVAL_OPTIMIZED"
-msgstr "Optimizat"
 
 msgid "OPTVAL_CLASSIC"
 msgstr "Clasic (Mai rapid)"
@@ -4104,15 +4086,6 @@ msgstr "Jucător"
 
 msgid "OPTVAL_MAP"
 msgstr "Hartă"
-
-msgid "OPTVAL_SCALETO640X400"
-msgstr "Dimensionare la 640x480"
-
-msgid "OPTVAL_PIXELDOUBLE"
-msgstr "Dublare pixeli"
-
-msgid "OPTVAL_PIXELQUADRUPLE"
-msgstr "Împătrire pixeli"
 
 msgid "OPTVAL_CURRENTWEAPON"
 msgstr "Arma curentă"
@@ -4207,15 +4180,6 @@ msgstr "Doar culori definite de hartă"
 msgid "OPTVAL_NODOORS"
 msgstr "Cu excepția ușilor"
 
-msgid "OPTVAL_DOUBLE"
-msgstr "Dublu"
-
-msgid "OPTVAL_TRIPLE"
-msgstr "Triplu"
-
-msgid "OPTVAL_QUADRUPLE"
-msgstr "Cvadruplu"
-
 msgid "OPTVAL_ITEMPICKUP"
 msgstr "Ridicare Obiecte"
 
@@ -4264,9 +4228,6 @@ msgstr ""
 msgid "OPTVAL_ZDOOM2063"
 msgstr ""
 
-msgid "OPTVAL_ALLUNACKNOWLEDGED"
-msgstr "Toate necunoscute"
-
 msgid "OPTVAL_ERRORS"
 msgstr "Erori"
 
@@ -4288,12 +4249,6 @@ msgstr "Software"
 msgid "OPTVAL_SWDOOMTC"
 msgstr "Software Color Complet"
 
-msgid "OPTVAL_DEDICATED"
-msgstr "De înaltă Performanță"
-
-msgid "OPTVAL_INTEGRATED"
-msgstr "Economie de Energie"
-
 msgid "OPTVAL_VANILLA"
 msgstr "Original"
 
@@ -4302,12 +4257,6 @@ msgstr "ZDoom (Forțat)"
 
 msgid "OPTVAL_VTFVANILLA"
 msgstr "Original (Forțat)"
-
-msgid "OPTVAL_VTAZDOOM"
-msgstr "Auto (ZDoom preferat)"
-
-msgid "OPTVAL_VTAVANILLA"
-msgstr "Auto (Original preferat)"
 
 msgid "OPTVAL_SMALL"
 msgstr "Mic"
@@ -4402,16 +4351,10 @@ msgstr ""
 msgid "OPTSTR_CHEX"
 msgstr ""
 
-msgid "OPTSTR_NOSOUND"
-msgstr "Fără Sunet"
-
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr "Fără interpolare"
 
 msgid "OPTSTR_SPLINE"
-msgstr ""
-
-msgid "OPTSTR_OPENAL"
 msgstr ""
 
 msgid "DSPLYMNU_GLOPT"
@@ -4426,12 +4369,6 @@ msgstr "Setări Rendare OpenGL"
 msgid "GLMNU_DYNLIGHT"
 msgstr "Setări Lumini Dinamice"
 
-msgid "GLMNU_PREFS"
-msgstr "Preferințe"
-
-msgid "GLTEXMNU_TRIMSPREDGE"
-msgstr "Tundere margini sprite-uri"
-
 msgid "GLTEXMNU_SORTDRAWLIST"
 msgstr "Sortează listele de texturi"
 
@@ -4440,9 +4377,6 @@ msgstr "Lumini Dinamice"
 
 msgid "GLLIGHTMNU_LIGHTSENABLED"
 msgstr "Lumini Dinamice (Hardware)"
-
-msgid "GLLIGHTMNU_LIGHTDEFS"
-msgstr "Activează definițiile pentru lumini"
 
 msgid "GLLIGHTMNU_LIGHTSPRITES"
 msgstr "Luminile afectează sprite-urile"
@@ -4538,9 +4472,6 @@ msgstr ""
 msgid "OPTVAL_SOFTWARE"
 msgstr ""
 
-msgid "OPTVAL_OPTIMAL"
-msgstr "Optim"
-
 msgid "OPTVAL_YAXIS"
 msgstr "Axa Y"
 
@@ -4615,9 +4546,6 @@ msgstr "Setări Mod Culori Complete"
 
 msgid "TCMNU_TITLE"
 msgstr "Setări Mod Culori Complete"
-
-msgid "TCMNU_TRUECOLOR"
-msgstr "Putere Mod Culori Complete"
 
 msgid "TCMNU_MINFILTER"
 msgstr "Filtru liniar la micșorare"
@@ -4724,9 +4652,6 @@ msgstr "Țintă"
 
 msgid "MSGMNU_SUBTITLES"
 msgstr "Subtitrări"
-
-msgid "GLPREFMNU_PALTONENOGREY"
-msgstr "Prevenire umbre gri"
 
 msgid "HUDMNU_FONTOPTIONS"
 msgstr "Setări Font"
@@ -5091,9 +5016,6 @@ msgstr "Timpul cronometrului de votare (secunde)"
 # online.
 msgid "NETMNU_CHATSLOMO"
 msgstr "Mod chat lent (secunde)"
-
-msgid "JOYMNU_HAPTRIGGERS"
-msgstr "Activează declanșatoarele haptice"
 
 msgid "OPTMNU_HAPTICS"
 msgstr "Setări sistem haptic"

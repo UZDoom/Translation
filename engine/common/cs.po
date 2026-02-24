@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 02:31+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-24 05:03+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/uzdoom/common/cs/>"
 "\n"
 "Language: cs\n"
@@ -31,9 +31,6 @@ msgstr ""
 
 msgid "SAFEMESSAGE"
 msgstr "Vážně to chceš udělat?"
-
-msgid "NOTSET"
-msgstr "Není nastavené"
 
 msgid "QSPROMPT"
 msgstr ""
@@ -239,17 +236,11 @@ msgstr "Akce"
 msgid "CNTRLMNU_ACTION_TITLE"
 msgstr "Nastavení ovládání akcí"
 
-msgid "CNTRLMNU_CHAT"
-msgstr ""
-
 msgid "MNU_MULTIPLAYER"
 msgstr ""
 
 msgid "CNTRLMNU_SAY"
 msgstr "Říct"
-
-msgid "CNTRLMNU_CHAT_TITLE"
-msgstr "Nastavení ovládání chatu"
 
 msgid "CNTRLMNU_WEAPONS_TITLE"
 msgstr "Nastavení ovládání zbraní"
@@ -407,9 +398,6 @@ msgstr "Povolit/skrýt oznámení"
 
 msgid "CNTRLMNU_MENU_QUIT"
 msgstr "Ukončit hru"
-
-msgid "CNTRLMNU_ADJUST_GAMMA"
-msgstr "Nastavit gamu"
 
 msgid "MOUSEMNU_ENABLEMOUSE"
 msgstr "Povolit myš"
@@ -661,23 +649,11 @@ msgstr "Vertikální synchronizace"
 msgid "DSPLYMNU_MODELS"
 msgstr "Modely"
 
-msgid "DSPLYMNU_CROSSHAIRSCALE"
-msgstr "Velikost zaměřovače"
-
-msgid "DSPLYMNU_SBSCALE"
-msgstr "Velikost stavového panelu"
-
-msgid "DSPLYMNU_MESSAGES"
-msgstr "Oznámení"
-
 msgid "MSGMNU_CENTERMESSAGES"
 msgstr "Oznámení na střed"
 
 msgid "MSGMNU_PULSEMESSAGES"
 msgstr "Pulzující oznámení"
-
-msgid "MSGMNU_MESSAGESCALE"
-msgstr "Velikost oznámení"
 
 msgid "MNU_COLORPICKER"
 msgstr "Výběr barvy"
@@ -699,15 +675,6 @@ msgstr "Nastavení barev mapy"
 
 msgid "MAPCOLORMNU_DEFAULTMAPCOLORS"
 msgstr "Obnovit původní vlastní barvy"
-
-msgid "SNDMNU_SNDENABLED"
-msgstr "Zvuk zapnut"
-
-msgid "SNDMNU_MUSENABLED"
-msgstr "Hudba zapnuta"
-
-msgid "OPTVAL_4000HZ"
-msgstr ""
 
 msgid "OPTVAL_8000HZ"
 msgstr ""
@@ -805,9 +772,6 @@ msgstr "Náhodné výšky tónu"
 msgid "SNDMNU_CHANNELS"
 msgstr "Počet zvukových kanálů"
 
-msgid "SNDMNU_BACKEND"
-msgstr "Zvukový systém"
-
 msgid "SNDMNU_OPENAL"
 msgstr "Nastavení OpenAL"
 
@@ -823,9 +787,6 @@ msgstr "Nastavení přehrávače modulů"
 #, fuzzy
 msgid "SNDMNU_MIDIPLAYER"
 msgstr "Nastavení MIDI přehrávače"
-
-msgid "SNDMNU_MENUSOUND"
-msgstr "Zvuk v menu"
 
 msgid "ADVSNDMNU_TITLE"
 msgstr "Pokročilá nastavení zvuku"
@@ -866,9 +827,6 @@ msgstr ""
 msgid "ADVSNDMNU_GLOBAL_FREEVERB"
 msgstr "Globální Freeverb"
 
-msgid "ADVSNDMNU_FLUIDPATCHSET"
-msgstr "Nástrojová sada"
-
 msgid "ADVSNDMNU_FLUIDGAIN"
 msgstr "Zesílení"
 
@@ -890,17 +848,8 @@ msgstr ""
 msgid "ADVSNDMNU_OPNMIDI"
 msgstr ""
 
-msgid "ADVSNDMNU_TIMIDITYCONFIG"
-msgstr "Konfigurační soubor Timidity"
-
-msgid "ADVSNDMNU_TIMIDITYVOLUME"
-msgstr "Relativní hlasitost"
-
 msgid "ADVSNDMNU_WILDMIDI"
 msgstr ""
-
-msgid "ADVSNDMNU_WILDMIDICONFIG"
-msgstr "Konfigurační soubor WildMidi"
 
 msgid "ADVSNDMNU_SELCONFIG"
 msgstr "Vybrat konfiguraci"
@@ -910,9 +859,6 @@ msgstr "Pokročilé převzorkování"
 
 msgid "ADVSNDMNU_OPLBANK"
 msgstr "OPL sada"
-
-msgid "ADVSNDMNU_ADLOPLCORES"
-msgstr "Emulační jádro OPL"
 
 msgid "ADVSNDMNU_RUNPCMRATE"
 msgstr "Emulátor používá PCM vzorkovací frekvenci"
@@ -937,9 +883,6 @@ msgstr "Emulační jádro OPN2"
 
 msgid "ADVSNDMNU_GUSEMULATION"
 msgstr "Emulace GUS"
-
-msgid "ADVSNDMNU_GUSCONFIG"
-msgstr "Konfigurační soubor GUS"
 
 msgid "ADVSNDMNU_DMXGUS"
 msgstr "Načíst DMXGUS soubory"
@@ -1070,9 +1013,6 @@ msgid "OPTVAL_NP2OPNA"
 msgstr ""
 
 msgid "OPTVAL_MAMEOPNA"
-msgstr ""
-
-msgid "OPTVAL_PMDWINOPNA"
 msgstr ""
 
 msgid "OPTVAL_OPALOPL3"
@@ -1315,12 +1255,6 @@ msgstr ""
 msgid "GLTEXMNU_TITLE"
 msgstr "Nastavení textur"
 
-msgid "GLTEXMNU_TEXENABLED"
-msgstr "Povolit textury"
-
-msgid "GLTEXMNU_ENABLEHIRES"
-msgstr "Povolit textury ve vysokém rozlišení"
-
 msgid "GLTEXMNU_HQRESIZE"
 msgstr "Režim zvětšovače textur"
 
@@ -1348,12 +1282,6 @@ msgstr "Přednačíst GL textury do cache"
 msgid "VIDMNU_TITLE"
 msgstr "Režim displeje"
 
-msgid "OPTVAL_SCALENEAREST"
-msgstr "Škálován (nejbližší)"
-
-msgid "OPTVAL_SCALELINEAR"
-msgstr "Škálován (lineární)"
-
 msgid "OPTVAL_LETTERBOX"
 msgstr ""
 
@@ -1369,17 +1297,11 @@ msgstr "Přes celou obrazovku"
 msgid "VIDMNU_HIDPI"
 msgstr "Podpora Retiny/HiDPI"
 
-msgid "VIDMNU_ASPECTRATIO"
-msgstr "Poměr stran"
-
 msgid "VIDMNU_FORCEASPECT"
 msgstr "Vynutit poměr stran"
 
 msgid "VIDMNU_CROPASPECT"
 msgstr "Vynucený poměr stran"
-
-msgid "VIDMNU_5X4ASPECTRATIO"
-msgstr "Povolit poměr stran 5:4"
 
 msgid "VIDMNU_SCALEMODE"
 msgstr "Škálování rozlišení"
@@ -1548,92 +1470,6 @@ msgstr "Nové prostředí"
 msgid "REVMNU_REVERT"
 msgstr "Obnovit nastavení"
 
-# Please translate only if you know how to properly name this technical
-# jargon!
-msgid "REVMNU_ENVIRONMENT_SIZE"
-msgstr ""
-
-msgid "REVMNU_ENVIRONMENT_DIFFUSION"
-msgstr ""
-
-msgid "REVMNU_ROOM"
-msgstr ""
-
-msgid "REVMNU_ROOM_HF"
-msgstr ""
-
-msgid "REVMNU_ROOM_LF"
-msgstr ""
-
-msgid "REVMNU_DECAY_TIME"
-msgstr ""
-
-msgid "REVMNU_DECAY_HF_RATIO"
-msgstr ""
-
-msgid "REVMNU_DECAY_LF_RATIO"
-msgstr ""
-
-msgid "REVMNU_REFLECTIONS"
-msgstr ""
-
-msgid "REVMNU_REFLECTIONS_DELAY"
-msgstr ""
-
-msgid "REVMNU_REFLECTIONS_PAN_X"
-msgstr ""
-
-msgid "REVMNU_REFLECTIONS_PAN_Y"
-msgstr ""
-
-msgid "REVMNU_REFLECTIONS_PAN_Z"
-msgstr ""
-
-msgid "REVMNU_REVERB"
-msgstr ""
-
-msgid "REVMNU_REVERB_DELAY"
-msgstr ""
-
-msgid "REVMNU_REVERB_PAN_X"
-msgstr ""
-
-msgid "REVMNU_REVERB_PAN_Y"
-msgstr ""
-
-msgid "REVMNU_REVERB_PAN_Z"
-msgstr ""
-
-msgid "REVMNU_ECHO_TIME"
-msgstr ""
-
-msgid "REVMNU_ECHO_DEPTH"
-msgstr ""
-
-msgid "REVMNU_MODULATION_TIME"
-msgstr ""
-
-msgid "REVMNU_MODULATION_DEPTH"
-msgstr ""
-
-msgid "REVMNU_AIR_ABSORPTION_HF"
-msgstr ""
-
-msgid "REVMNU_HF_REFERENCE"
-msgstr ""
-
-msgid "REVMNU_LF_REFERENCE"
-msgstr ""
-
-msgid "REVMNU_ROOM_ROLLOFF_FACTOR"
-msgstr ""
-
-msgid "REVMNU_DIFFUSION"
-msgstr ""
-
-msgid "REVMNU_DENSITY"
-msgstr ""
-
 msgid "REVMNU_Reflections_Scale"
 msgstr ""
 
@@ -1689,9 +1525,6 @@ msgstr "Nastavení Vulkanu (Experimentální)"
 msgid "VK_TITLE"
 msgstr "Nastavení Vulkanu"
 
-msgid "VKMNU_ENABLE"
-msgstr "Povolit Vulkan"
-
 msgid "VKMNU_DEVICE"
 msgstr "ID zařízení Vulkanu"
 
@@ -1703,10 +1536,6 @@ msgstr "Varování: Vulkan renderer je velmi experimentální!"
 
 msgid "VK_RESTART"
 msgstr "Tato nastavení vyžadují restart hry."
-
-# This is not yet implemented - but it is planned
-msgid "VKMNU_DEVICESELECT"
-msgstr "Vybrat zařízení Vulkanu"
 
 msgid "OPTVAL_SCALENX"
 msgstr ""
@@ -1777,41 +1606,11 @@ msgstr "Pouze upravené"
 msgid "TXT_UNKNOWN"
 msgstr "Neznámé"
 
-msgid "OPTVAL_HUD"
-msgstr ""
-
-msgid "OPTVAL_AUTOMAP"
-msgstr "Automapa"
-
-msgid "OPTVAL_HUDANDMAP"
-msgstr "HUD + Automapa"
-
 msgid "TXT_SAVEGAMENEEDS"
 msgstr "Uložená hra potřebuje tyto soubory"
 
-msgid "OPTMNU_MULTIPLAYER"
-msgstr "Multiplayer"
-
-msgid "OPTMNU_INPUT"
-msgstr "Vstupní zařízení"
-
-msgid "OPTMNU_SYSTEM"
-msgstr "Systém"
-
-msgid "OPTMNU_LIGHT"
-msgstr "Osvětlení"
-
-msgid "OPTMNU_SPRITE"
-msgstr "Sprity"
-
 msgid "GLPREFMNU_CORONAS"
 msgstr "Záře"
-
-msgid "DSPLYMNU_APPEARANCE"
-msgstr "Vzhled"
-
-msgid "DSPLYMNU_ADVANCED"
-msgstr "Grafika (pokročilé)"
 
 msgid "PICKER_SELECT"
 msgstr "Vyberte, jaký herní soubor spustit."
@@ -1916,21 +1715,6 @@ msgstr "Hostovat"
 
 msgid "PICKER_JOIN"
 msgstr "Připojit se"
-
-msgid "PICKER_NETMODE"
-msgstr "Síťový režim"
-
-msgid "PICKER_NETAUTO"
-msgstr "Automatický (doporučeno)"
-
-# Connections are routed through the host instead of all players connecting to
-# each other individually.
-msgid "PICKER_NETSERVER"
-msgstr "Paketový server"
-
-# Players connect to each other individually.
-msgid "PICKER_NETPEER"
-msgstr ""
 
 msgid "PICKER_NETRATE"
 msgstr "Frekvence paketů:"

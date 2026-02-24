@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 21:11+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-24 05:03+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/uzdoom/common/"
 "it/>\n"
 "Language: it\n"
@@ -31,9 +31,6 @@ msgstr ""
 
 msgid "SAFEMESSAGE"
 msgstr "Sei sicuro di volerlo fare?"
-
-msgid "NOTSET"
-msgstr "Non assegnato"
 
 msgid "QSPROMPT"
 msgstr ""
@@ -240,17 +237,11 @@ msgstr "Azione"
 msgid "CNTRLMNU_ACTION_TITLE"
 msgstr "Personalizza i controlli di azione"
 
-msgid "CNTRLMNU_CHAT"
-msgstr "Chat"
-
 msgid "MNU_MULTIPLAYER"
 msgstr "Multigiocatore"
 
 msgid "CNTRLMNU_SAY"
 msgstr "Parla"
-
-msgid "CNTRLMNU_CHAT_TITLE"
-msgstr "Personalizza i controlli della chat"
 
 msgid "CNTRLMNU_WEAPONS_TITLE"
 msgstr "Personalizza i controlli delle armi"
@@ -408,9 +399,6 @@ msgstr "Toggle messaggi"
 
 msgid "CNTRLMNU_MENU_QUIT"
 msgstr "Esci dal gioco"
-
-msgid "CNTRLMNU_ADJUST_GAMMA"
-msgstr "Aggiustamento Gamma"
 
 msgid "MOUSEMNU_ENABLEMOUSE"
 msgstr "Attiva il mouse"
@@ -662,23 +650,11 @@ msgstr "Sincronia verticale"
 msgid "DSPLYMNU_MODELS"
 msgstr "Modelli"
 
-msgid "DSPLYMNU_CROSSHAIRSCALE"
-msgstr "Scala del mirino"
-
-msgid "DSPLYMNU_SBSCALE"
-msgstr "Dimensioni Status Bar"
-
-msgid "DSPLYMNU_MESSAGES"
-msgstr "Messaggi"
-
 msgid "MSGMNU_CENTERMESSAGES"
 msgstr "Messaggi centrati"
 
 msgid "MSGMNU_PULSEMESSAGES"
 msgstr "Mostra messaggi pulsanti"
-
-msgid "MSGMNU_MESSAGESCALE"
-msgstr "Dimensioni Messaggi"
 
 msgid "MNU_COLORPICKER"
 msgstr "Scegli il colore"
@@ -700,15 +676,6 @@ msgstr "Personalizza i colori della mappa"
 
 msgid "MAPCOLORMNU_DEFAULTMAPCOLORS"
 msgstr "Reimposta i colori personalizzati al default"
-
-msgid "SNDMNU_SNDENABLED"
-msgstr "Abilita gli effetti sonori"
-
-msgid "SNDMNU_MUSENABLED"
-msgstr "Abilita la musica"
-
-msgid "OPTVAL_4000HZ"
-msgstr "4000 Hz"
 
 msgid "OPTVAL_8000HZ"
 msgstr "8000 Hz"
@@ -806,9 +773,6 @@ msgstr "Rendi casuale il tono"
 msgid "SNDMNU_CHANNELS"
 msgstr "Numero canali del suono"
 
-msgid "SNDMNU_BACKEND"
-msgstr "Backend suono"
-
 msgid "SNDMNU_OPENAL"
 msgstr "Opzioni OpenAL"
 
@@ -824,9 +788,6 @@ msgstr "Opzioni Module replayer"
 #, fuzzy
 msgid "SNDMNU_MIDIPLAYER"
 msgstr "Opzioni Midi player"
-
-msgid "SNDMNU_MENUSOUND"
-msgstr "Suono nei menù"
 
 msgid "ADVSNDMNU_TITLE"
 msgstr "Opzioni avanzate dei suoni"
@@ -867,9 +828,6 @@ msgstr ""
 msgid "ADVSNDMNU_GLOBAL_FREEVERB"
 msgstr "Freeverb globale"
 
-msgid "ADVSNDMNU_FLUIDPATCHSET"
-msgstr ""
-
 msgid "ADVSNDMNU_FLUIDGAIN"
 msgstr ""
 
@@ -891,17 +849,8 @@ msgstr ""
 msgid "ADVSNDMNU_OPNMIDI"
 msgstr ""
 
-msgid "ADVSNDMNU_TIMIDITYCONFIG"
-msgstr "File configurazione Timidity"
-
-msgid "ADVSNDMNU_TIMIDITYVOLUME"
-msgstr "Volume relativo"
-
 msgid "ADVSNDMNU_WILDMIDI"
 msgstr ""
-
-msgid "ADVSNDMNU_WILDMIDICONFIG"
-msgstr "File WildMidi config"
 
 msgid "ADVSNDMNU_SELCONFIG"
 msgstr "Seleziona la configurazione"
@@ -910,9 +859,6 @@ msgid "ADVSNDMNU_ADVRESAMPLING"
 msgstr "Resampling avanzato"
 
 msgid "ADVSNDMNU_OPLBANK"
-msgstr ""
-
-msgid "ADVSNDMNU_ADLOPLCORES"
 msgstr ""
 
 msgid "ADVSNDMNU_RUNPCMRATE"
@@ -938,9 +884,6 @@ msgstr ""
 
 msgid "ADVSNDMNU_GUSEMULATION"
 msgstr ""
-
-msgid "ADVSNDMNU_GUSCONFIG"
-msgstr "File GUS config"
 
 msgid "ADVSNDMNU_DMXGUS"
 msgstr "Leggi i lump DMXGUS"
@@ -1072,9 +1015,6 @@ msgstr "Neko Project II Kai OPNA"
 
 msgid "OPTVAL_MAMEOPNA"
 msgstr "MAME YM2608"
-
-msgid "OPTVAL_PMDWINOPNA"
-msgstr "PMDWin OPNA"
 
 msgid "OPTVAL_OPALOPL3"
 msgstr "Opal OPL3"
@@ -1316,12 +1256,6 @@ msgstr ""
 msgid "GLTEXMNU_TITLE"
 msgstr "Opzioni Texture"
 
-msgid "GLTEXMNU_TEXENABLED"
-msgstr "Texture abilitate"
-
-msgid "GLTEXMNU_ENABLEHIRES"
-msgstr "Attiva texture alta qualità"
-
 msgid "GLTEXMNU_HQRESIZE"
 msgstr "Modalità resize alta qualità"
 
@@ -1349,12 +1283,6 @@ msgstr "Precache texture GL"
 msgid "VIDMNU_TITLE"
 msgstr "Modalità video"
 
-msgid "OPTVAL_SCALENEAREST"
-msgstr "Scalato (più vicino)"
-
-msgid "OPTVAL_SCALELINEAR"
-msgstr "Scalato (lineare)"
-
 msgid "OPTVAL_LETTERBOX"
 msgstr "Bande nere"
 
@@ -1370,17 +1298,11 @@ msgstr "Schermata piena"
 msgid "VIDMNU_HIDPI"
 msgstr "Supporto Retina/HiDPi"
 
-msgid "VIDMNU_ASPECTRATIO"
-msgstr "Proporzioni"
-
 msgid "VIDMNU_FORCEASPECT"
 msgstr "Forza le proporzioni video"
 
 msgid "VIDMNU_CROPASPECT"
 msgstr "Forza lo stile delle proporzioni"
-
-msgid "VIDMNU_5X4ASPECTRATIO"
-msgstr "Abilita le proporzioni 5:4"
 
 msgid "VIDMNU_SCALEMODE"
 msgstr "Scala di risoluzione"
@@ -1549,92 +1471,6 @@ msgstr "Nuovo ambiente"
 msgid "REVMNU_REVERT"
 msgstr "Ripristina le impostazioni"
 
-# Please translate only if you know how to properly name this technical
-# jargon!
-msgid "REVMNU_ENVIRONMENT_SIZE"
-msgstr "Dimensioni dell'ambiente"
-
-msgid "REVMNU_ENVIRONMENT_DIFFUSION"
-msgstr "Diffusione dell'ambiente"
-
-msgid "REVMNU_ROOM"
-msgstr ""
-
-msgid "REVMNU_ROOM_HF"
-msgstr ""
-
-msgid "REVMNU_ROOM_LF"
-msgstr ""
-
-msgid "REVMNU_DECAY_TIME"
-msgstr ""
-
-msgid "REVMNU_DECAY_HF_RATIO"
-msgstr ""
-
-msgid "REVMNU_DECAY_LF_RATIO"
-msgstr ""
-
-msgid "REVMNU_REFLECTIONS"
-msgstr ""
-
-msgid "REVMNU_REFLECTIONS_DELAY"
-msgstr ""
-
-msgid "REVMNU_REFLECTIONS_PAN_X"
-msgstr ""
-
-msgid "REVMNU_REFLECTIONS_PAN_Y"
-msgstr ""
-
-msgid "REVMNU_REFLECTIONS_PAN_Z"
-msgstr ""
-
-msgid "REVMNU_REVERB"
-msgstr ""
-
-msgid "REVMNU_REVERB_DELAY"
-msgstr ""
-
-msgid "REVMNU_REVERB_PAN_X"
-msgstr ""
-
-msgid "REVMNU_REVERB_PAN_Y"
-msgstr ""
-
-msgid "REVMNU_REVERB_PAN_Z"
-msgstr ""
-
-msgid "REVMNU_ECHO_TIME"
-msgstr ""
-
-msgid "REVMNU_ECHO_DEPTH"
-msgstr ""
-
-msgid "REVMNU_MODULATION_TIME"
-msgstr ""
-
-msgid "REVMNU_MODULATION_DEPTH"
-msgstr ""
-
-msgid "REVMNU_AIR_ABSORPTION_HF"
-msgstr ""
-
-msgid "REVMNU_HF_REFERENCE"
-msgstr ""
-
-msgid "REVMNU_LF_REFERENCE"
-msgstr ""
-
-msgid "REVMNU_ROOM_ROLLOFF_FACTOR"
-msgstr ""
-
-msgid "REVMNU_DIFFUSION"
-msgstr ""
-
-msgid "REVMNU_DENSITY"
-msgstr ""
-
 msgid "REVMNU_Reflections_Scale"
 msgstr ""
 
@@ -1690,9 +1526,6 @@ msgstr "Opzioni Vulkan (Sperimentale)"
 msgid "VK_TITLE"
 msgstr "Opzioni Vulkan"
 
-msgid "VKMNU_ENABLE"
-msgstr "Abilita Vulkan"
-
 msgid "VKMNU_DEVICE"
 msgstr "Dispositivo ID Vulkan"
 
@@ -1704,10 +1537,6 @@ msgstr "Attenzione: il motore grafico Vulkan è altamente sperimentale!"
 
 msgid "VK_RESTART"
 msgstr "Queste opzioni richiedono il riavvio per avere effetto."
-
-# This is not yet implemented - but it is planned
-msgid "VKMNU_DEVICESELECT"
-msgstr "Seleziona il Dispositivo Vulkan"
 
 msgid "OPTVAL_SCALENX"
 msgstr ""
@@ -1778,41 +1607,11 @@ msgstr "Solo modificato"
 msgid "TXT_UNKNOWN"
 msgstr "Sconosciuto"
 
-msgid "OPTVAL_HUD"
-msgstr ""
-
-msgid "OPTVAL_AUTOMAP"
-msgstr "Automappa"
-
-msgid "OPTVAL_HUDANDMAP"
-msgstr "HUD + Automappa"
-
 msgid "TXT_SAVEGAMENEEDS"
 msgstr "Questo salvataggio ha bisogno di questi file"
 
-msgid "OPTMNU_MULTIPLAYER"
-msgstr "Opzioni multigiocatore"
-
-msgid "OPTMNU_INPUT"
-msgstr "Opzioni di ingresso"
-
-msgid "OPTMNU_SYSTEM"
-msgstr "Opzioni di sistema"
-
-msgid "OPTMNU_LIGHT"
-msgstr "Opzioni luce"
-
-msgid "OPTMNU_SPRITE"
-msgstr "Opzioni Sprite"
-
 msgid "GLPREFMNU_CORONAS"
 msgstr "Corone"
-
-msgid "DSPLYMNU_APPEARANCE"
-msgstr "Aspetto"
-
-msgid "DSPLYMNU_ADVANCED"
-msgstr "Opzioni di visualizzazione avanzate"
 
 msgid "PICKER_SELECT"
 msgstr "Selezionare il file di gioco da eseguire."
@@ -1917,21 +1716,6 @@ msgstr "Ospita"
 
 msgid "PICKER_JOIN"
 msgstr "Unisciti"
-
-msgid "PICKER_NETMODE"
-msgstr ""
-
-msgid "PICKER_NETAUTO"
-msgstr ""
-
-# Connections are routed through the host instead of all players connecting to
-# each other individually.
-msgid "PICKER_NETSERVER"
-msgstr ""
-
-# Players connect to each other individually.
-msgid "PICKER_NETPEER"
-msgstr ""
 
 msgid "PICKER_NETRATE"
 msgstr ""

@@ -3371,9 +3371,6 @@ msgstr "I pavimenti istantanei in movimento non sono silenziosi"
 msgid "CMPTMNU_SECTORSOUNDS"
 msgstr "I suoni usano il centro dei settori come punto di sorgente"
 
-msgid "CMPTMNU_SOUNDCUTOFF"
-msgstr "I suoni si fermano quando gli attori svaniscono"
-
 msgid "CMPTMNU_SOUNDTARGET"
 msgstr "Targeting dei suoni in base all'algoritmo originale"
 
@@ -3845,9 +3842,6 @@ msgstr "Usa l'effetto di fuzz"
 msgid "DSPLYMNU_OLDTRANS"
 msgstr "Trasparenza classica"
 
-msgid "DSPLYMNU_TRANSSOUL"
-msgstr "Trasparenza anima errante"
-
 msgid "DSPLYMNU_FAKECONTRAST"
 msgstr "Usa il falso contrasto"
 
@@ -4001,9 +3995,6 @@ msgstr "Opzioni network"
 msgid "NETMNU_LOCALOPTIONS"
 msgstr "Opzioni locali"
 
-msgid "NETMNU_MOVEPREDICTION"
-msgstr "Predizione movimenti"
-
 msgid "NETMNU_LINESPECIALPREDICTION"
 msgstr "Predizione azioni di linea"
 
@@ -4018,15 +4009,6 @@ msgstr "Opzioni ospitante"
 
 msgid "NETMNU_EXTRATICS"
 msgstr "Tics extra"
-
-msgid "NETMNU_TICBALANCE"
-msgstr "Bilanciamento latenza"
-
-msgid "OPTVAL_ORIGINAL"
-msgstr "Originale"
-
-msgid "OPTVAL_OPTIMIZED"
-msgstr "Ottimizzato"
 
 msgid "OPTVAL_CLASSIC"
 msgstr "Classico (più veloce)"
@@ -4094,15 +4076,6 @@ msgstr "Giocatore"
 
 msgid "OPTVAL_MAP"
 msgstr "Mappa"
-
-msgid "OPTVAL_SCALETO640X400"
-msgstr "Scala a 640x400"
-
-msgid "OPTVAL_PIXELDOUBLE"
-msgstr "Pixel doppi"
-
-msgid "OPTVAL_PIXELQUADRUPLE"
-msgstr "Pixel quadrupli"
 
 msgid "OPTVAL_CURRENTWEAPON"
 msgstr "Arma corrente"
@@ -4197,15 +4170,6 @@ msgstr "Solo i colori definiti dalla mappa"
 msgid "OPTVAL_NODOORS"
 msgstr "Tutti eccetto le porte"
 
-msgid "OPTVAL_DOUBLE"
-msgstr "Doppio"
-
-msgid "OPTVAL_TRIPLE"
-msgstr "Triplo"
-
-msgid "OPTVAL_QUADRUPLE"
-msgstr "Quadruplo"
-
 msgid "OPTVAL_ITEMPICKUP"
 msgstr "Raccolta oggetto"
 
@@ -4254,9 +4218,6 @@ msgstr "MBF21 (rigoroso)"
 msgid "OPTVAL_ZDOOM2063"
 msgstr ""
 
-msgid "OPTVAL_ALLUNACKNOWLEDGED"
-msgstr "Tutti non riconosciuti"
-
 msgid "OPTVAL_ERRORS"
 msgstr "Errori"
 
@@ -4278,12 +4239,6 @@ msgstr "Rendering DOOM software"
 msgid "OPTVAL_SWDOOMTC"
 msgstr "Rendering software a pieni colori"
 
-msgid "OPTVAL_DEDICATED"
-msgstr "Prestazioni massime"
-
-msgid "OPTVAL_INTEGRATED"
-msgstr "Risparmio energetico"
-
 msgid "OPTVAL_VANILLA"
 msgstr ""
 
@@ -4292,12 +4247,6 @@ msgstr "ZDoom (forzato)"
 
 msgid "OPTVAL_VTFVANILLA"
 msgstr "Vanilla (forzato)"
-
-msgid "OPTVAL_VTAZDOOM"
-msgstr "Automatico (ZDoom preferito)"
-
-msgid "OPTVAL_VTAVANILLA"
-msgstr "Automatico (Vanilla preferito)"
 
 msgid "OPTVAL_SMALL"
 msgstr "Piccolo"
@@ -4392,16 +4341,10 @@ msgstr ""
 msgid "OPTSTR_CHEX"
 msgstr ""
 
-msgid "OPTSTR_NOSOUND"
-msgstr "Nessun suono"
-
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr "No interpolazione"
 
 msgid "OPTSTR_SPLINE"
-msgstr ""
-
-msgid "OPTSTR_OPENAL"
 msgstr ""
 
 msgid "DSPLYMNU_GLOPT"
@@ -4416,12 +4359,6 @@ msgstr "Opzioni OpenGL"
 msgid "GLMNU_DYNLIGHT"
 msgstr "Opzioni Luci Dinamiche"
 
-msgid "GLMNU_PREFS"
-msgstr "Preferenze"
-
-msgid "GLTEXMNU_TRIMSPREDGE"
-msgstr "Taglia gli spigoli agli sprite"
-
 msgid "GLTEXMNU_SORTDRAWLIST"
 msgstr "Ordina la lista draw per texture"
 
@@ -4430,9 +4367,6 @@ msgstr "Luci Dinamiche"
 
 msgid "GLLIGHTMNU_LIGHTSENABLED"
 msgstr "Luci Dinamiche (Hardware)"
-
-msgid "GLLIGHTMNU_LIGHTDEFS"
-msgstr "Abilita le definizioni GLDEFS"
 
 msgid "GLLIGHTMNU_LIGHTSPRITES"
 msgstr "Le luci influiscono sugli sprite"
@@ -4528,9 +4462,6 @@ msgstr ""
 msgid "OPTVAL_SOFTWARE"
 msgstr ""
 
-msgid "OPTVAL_OPTIMAL"
-msgstr "Ottimale"
-
 msgid "OPTVAL_YAXIS"
 msgstr "Asse Y"
 
@@ -4605,9 +4536,6 @@ msgstr "Opzioni TrueColor"
 
 msgid "TCMNU_TITLE"
 msgstr "Opzioni TrueColor"
-
-msgid "TCMNU_TRUECOLOR"
-msgstr "Output true color"
 
 msgid "TCMNU_MINFILTER"
 msgstr "Filtro lineare per la riduzione"
@@ -4714,9 +4642,6 @@ msgstr "Mirino"
 
 msgid "MSGMNU_SUBTITLES"
 msgstr "Sottotitoli"
-
-msgid "GLPREFMNU_PALTONENOGREY"
-msgstr "Prevenire le ombre grigie"
 
 msgid "HUDMNU_FONTOPTIONS"
 msgstr "Opzioni per il tipo di carattere"
@@ -5082,9 +5007,6 @@ msgstr ""
 # Forces a cool down between chat messages for all players when playing
 # online.
 msgid "NETMNU_CHATSLOMO"
-msgstr ""
-
-msgid "JOYMNU_HAPTRIGGERS"
 msgstr ""
 
 msgid "OPTMNU_HAPTICS"
