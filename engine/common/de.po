@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 21:32+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-24 05:03+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/common/de/>"
 "\n"
 "Language: de\n"
@@ -1817,3 +1817,210 @@ msgstr "Versionshinweise"
 
 msgid "ACCMNU_TITLE"
 msgstr "Optionen zur Barrierefreiheit"
+
+msgid "NOTSET"
+msgstr "Nicht gesetzt"
+
+msgid "CNTRLMNU_CHAT"
+msgstr "Chat"
+
+msgid "CNTRLMNU_CHAT_TITLE"
+msgstr "Chat-Steuerung anpassen"
+
+msgid "CNTRLMNU_ADJUST_GAMMA"
+msgstr "Gamma-Anpassung"
+
+msgid "DSPLYMNU_CROSSHAIRSCALE"
+msgstr "Fadenkreuz skalieren"
+
+msgid "DSPLYMNU_SBSCALE"
+msgstr "Statusleistengröße"
+
+msgid "DSPLYMNU_MESSAGES"
+msgstr "Nachrichten"
+
+msgid "MSGMNU_MESSAGESCALE"
+msgstr "Nachrichtengröße"
+
+msgid "SNDMNU_SNDENABLED"
+msgstr "Sound aktiv"
+
+msgid "SNDMNU_MUSENABLED"
+msgstr "Musik aktiv"
+
+msgid "OPTVAL_4000HZ"
+msgstr "4000 Hz"
+
+msgid "SNDMNU_BACKEND"
+msgstr "Soundsystem"
+
+msgid "SNDMNU_MENUSOUND"
+msgstr "Sound in Menüs"
+
+msgid "ADVSNDMNU_FLUIDPATCHSET"
+msgstr "Patch-Set"
+
+msgid "ADVSNDMNU_TIMIDITYCONFIG"
+msgstr "Timidity-Konfigurationsdatei"
+
+msgid "ADVSNDMNU_TIMIDITYVOLUME"
+msgstr "Relative Lautstärke"
+
+msgid "ADVSNDMNU_WILDMIDICONFIG"
+msgstr "WildMidi-Konfigurationsdatei"
+
+msgid "ADVSNDMNU_ADLOPLCORES"
+msgstr "OPL Emulatorkern"
+
+msgid "ADVSNDMNU_GUSCONFIG"
+msgstr "GUS-Konfigurationsdatei"
+
+msgid "OPTVAL_PMDWINOPNA"
+msgstr "PMDWin OPNA"
+
+msgid "GLTEXMNU_TEXENABLED"
+msgstr "Texturen aktiviert"
+
+msgid "GLTEXMNU_ENABLEHIRES"
+msgstr "Hochauflösende Texturen aktivieren"
+
+msgid "OPTVAL_SCALENEAREST"
+msgstr "Skaliert (nächster Nachbar)"
+
+msgid "OPTVAL_SCALELINEAR"
+msgstr "Skaliert (linear)"
+
+msgid "VIDMNU_ASPECTRATIO"
+msgstr "Seitenverhältnis"
+
+msgid "VIDMNU_5X4ASPECTRATIO"
+msgstr "Erlaube 5:4-Seitenverhältnis"
+
+msgid "REVMNU_ENVIRONMENT_SIZE"
+msgstr "Umgebungsgröße"
+
+msgid "REVMNU_ENVIRONMENT_DIFFUSION"
+msgstr "Umgebungsdiffusion"
+
+msgid "REVMNU_ROOM"
+msgstr "Zimmer"
+
+msgid "REVMNU_ROOM_HF"
+msgstr "HF Raum"
+
+msgid "REVMNU_ROOM_LF"
+msgstr "LF Raum"
+
+msgid "REVMNU_DECAY_TIME"
+msgstr "Verfallzeit"
+
+msgid "REVMNU_DECAY_HF_RATIO"
+msgstr "HF Verfallrate"
+
+msgid "REVMNU_DECAY_LF_RATIO"
+msgstr "LF Verfallrate"
+
+msgid "REVMNU_REFLECTIONS"
+msgstr "Reflektionen"
+
+msgid "REVMNU_REFLECTIONS_DELAY"
+msgstr "Reflektionsversögerung"
+
+msgid "REVMNU_REFLECTIONS_PAN_X"
+msgstr "X-Reflektionsschwenkung"
+
+msgid "REVMNU_REFLECTIONS_PAN_Y"
+msgstr "Y-Reflektionsschwenkung"
+
+msgid "REVMNU_REFLECTIONS_PAN_Z"
+msgstr "Z-Reflektionsschwenkung"
+
+msgid "REVMNU_REVERB"
+msgstr "Hall"
+
+msgid "REVMNU_REVERB_DELAY"
+msgstr "Hallverzögerung"
+
+msgid "REVMNU_REVERB_PAN_X"
+msgstr "X-Hallschwenkung"
+
+msgid "REVMNU_REVERB_PAN_Y"
+msgstr "Y-Hallschwenkung"
+
+msgid "REVMNU_REVERB_PAN_Z"
+msgstr "Z-Hallschwenkung"
+
+msgid "REVMNU_ECHO_TIME"
+msgstr "Hallzeit"
+
+msgid "REVMNU_ECHO_DEPTH"
+msgstr "Halltiefe"
+
+msgid "REVMNU_MODULATION_TIME"
+msgstr "Modulationszeit"
+
+msgid "REVMNU_MODULATION_DEPTH"
+msgstr "Modulationstiefe"
+
+msgid "REVMNU_AIR_ABSORPTION_HF"
+msgstr "HF-Luftabsorption"
+
+msgid "REVMNU_HF_REFERENCE"
+msgstr "HF Referenz"
+
+msgid "REVMNU_LF_REFERENCE"
+msgstr "LF Referenz"
+
+msgid "REVMNU_ROOM_ROLLOFF_FACTOR"
+msgstr "Raumabrollfaktor"
+
+msgid "REVMNU_DIFFUSION"
+msgstr "Diffusion"
+
+msgid "REVMNU_DENSITY"
+msgstr "Dichte"
+
+msgid "VKMNU_ENABLE"
+msgstr "Aktiviere Vulkan"
+
+msgid "VKMNU_DEVICESELECT"
+msgstr "Vulkan-Gerät auswählen"
+
+msgid "OPTVAL_AUTOMAP"
+msgstr "Automap"
+
+msgid "OPTVAL_HUDANDMAP"
+msgstr "HUD + Automap"
+
+msgid "OPTMNU_MULTIPLAYER"
+msgstr "Mehrspieleroptionen"
+
+msgid "OPTMNU_INPUT"
+msgstr "Eingabeoptionen"
+
+msgid "OPTMNU_SYSTEM"
+msgstr "Systemoptionen"
+
+msgid "OPTMNU_LIGHT"
+msgstr "Beleuchtungsoptionen"
+
+msgid "OPTMNU_SPRITE"
+msgstr "Spriteoptionen"
+
+msgid "DSPLYMNU_APPEARANCE"
+msgstr "Erscheinungsbild"
+
+msgid "DSPLYMNU_ADVANCED"
+msgstr "Erweiterte Anzeigeoptionen"
+
+msgid "PICKER_NETMODE"
+msgstr "Netzwerkmodus:"
+
+msgid "PICKER_NETAUTO"
+msgstr "Automatisch (empfohlen)"
+
+msgid "PICKER_NETSERVER"
+msgstr "Paket-Server"
+
+msgid "PICKER_NETPEER"
+msgstr "Peer-to-Peer"
