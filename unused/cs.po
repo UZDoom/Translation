@@ -2,8 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 05:20+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-02-24 05:38+0000\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
+"memory@weblate.org>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/uzdoom/unused/cs/>"
 "\n"
 "Language: cs\n"
@@ -17,36 +18,36 @@ msgid "ADVSNDMNU_ADLOPLCORES"
 msgstr "Emulační jádro OPL"
 
 msgid "ADVSNDMNU_FLUIDPATCHSET"
-msgstr ""
+msgstr "Nástrojová sada"
 
 msgid "ADVSNDMNU_GUSCONFIG"
-msgstr ""
+msgstr "Konfigurační soubor GUS"
 
 # Jargon.
 msgid "ADVSNDMNU_TIMIDITYCONFIG"
-msgstr ""
+msgstr "Konfigurační soubor Timidity"
 
 msgid "ADVSNDMNU_TIMIDITYVOLUME"
-msgstr ""
+msgstr "Relativní hlasitost"
 
 # Jargon.
 msgid "ADVSNDMNU_WILDMIDICONFIG"
-msgstr ""
+msgstr "Konfigurační soubor WildMidi"
 
 msgid "CNTRLMNU_ADJUST_GAMMA"
-msgstr ""
+msgstr "Nastavit gamu"
 
 msgid "CNTRLMNU_CHAT"
-msgstr ""
+msgstr "Chat"
 
 msgid "CNTRLMNU_CHAT_TITLE"
-msgstr ""
+msgstr "Nastavení ovládání chatu"
 
 msgid "DSPLYMNU_ADVANCED"
-msgstr ""
+msgstr "Grafika (pokročilé)"
 
 msgid "DSPLYMNU_APPEARANCE"
-msgstr ""
+msgstr "Vzhled"
 
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr "Velikost zaměřovače"
@@ -55,64 +56,64 @@ msgid "DSPLYMNU_MESSAGES"
 msgstr "Oznámení"
 
 msgid "DSPLYMNU_SBSCALE"
-msgstr ""
+msgstr "Velikost stavového panelu"
 
 msgid "GLTEXMNU_ENABLEHIRES"
-msgstr ""
+msgstr "Povolit textury ve vysokém rozlišení"
 
 msgid "GLTEXMNU_TEXENABLED"
-msgstr ""
+msgstr "Povolit textury"
 
 msgid "MOUSEMNU_SMOOTHMOUSE"
 msgstr "Vyhladit pohyb myši"
 
 msgid "MSGMNU_MESSAGESCALE"
-msgstr ""
+msgstr "Velikost oznámení"
 
 msgid "NOTSET"
-msgstr ""
+msgstr "Není nastavené"
 
 msgid "OPTMNU_INPUT"
-msgstr ""
+msgstr "Vstupní zařízení"
 
 msgid "OPTMNU_LIGHT"
-msgstr ""
+msgstr "Osvětlení"
 
 msgid "OPTMNU_MULTIPLAYER"
-msgstr ""
+msgstr "Multiplayer"
 
 msgid "OPTMNU_SPRITE"
-msgstr ""
+msgstr "Sprity"
 
 msgid "OPTMNU_SYSTEM"
-msgstr ""
+msgstr "Systém"
 
 msgid "OPTVAL_4000HZ"
 msgstr ""
 
 msgid "OPTVAL_AUTOMAP"
-msgstr ""
+msgstr "Automapa"
 
 msgid "OPTVAL_HUD"
 msgstr ""
 
 msgid "OPTVAL_HUDANDMAP"
-msgstr ""
+msgstr "HUD + Automapa"
 
 msgid "OPTVAL_PMDWINOPNA"
 msgstr ""
 
 msgid "OPTVAL_SCALENEAREST"
-msgstr ""
+msgstr "Škálován (nejbližší)"
 
 msgid "OPTVAL_SCALELINEAR"
-msgstr ""
+msgstr "Škálován (lineární)"
 
 msgid "PICKER_NETAUTO"
-msgstr ""
+msgstr "Automatický (doporučeno)"
 
 msgid "PICKER_NETMODE"
-msgstr ""
+msgstr "Síťový režim"
 
 # Players connect to each other individually.
 msgid "PICKER_NETPEER"
@@ -121,7 +122,7 @@ msgstr ""
 # Connections are routed through the host instead of all players connecting to
 # each other individually.
 msgid "PICKER_NETSERVER"
-msgstr ""
+msgstr "Paketový server"
 
 # Jargon.
 msgid "REVMNU_AIR_ABSORPTION_HF"
@@ -141,7 +142,7 @@ msgstr ""
 
 # Jargon.
 msgid "REVMNU_DENSITY"
-msgstr ""
+msgstr "Hustota"
 
 # Jargon.
 msgid "REVMNU_DIFFUSION"
@@ -181,7 +182,7 @@ msgstr ""
 
 # Jargon.
 msgid "REVMNU_REFLECTIONS"
-msgstr ""
+msgstr "Odrazy"
 
 # Jargon.
 msgid "REVMNU_REFLECTIONS_DELAY"
@@ -221,7 +222,7 @@ msgstr ""
 
 # Jargon.
 msgid "REVMNU_ROOM"
-msgstr ""
+msgstr "Pokoj"
 
 # Jargon.
 msgid "REVMNU_ROOM_HF"
@@ -236,109 +237,109 @@ msgid "REVMNU_ROOM_ROLLOFF_FACTOR"
 msgstr ""
 
 msgid "SNDMNU_BACKEND"
-msgstr ""
+msgstr "Zvukový systém"
 
 msgid "SNDMNU_MENUSOUND"
-msgstr ""
+msgstr "Zvuk v menu"
 
 msgid "SNDMNU_MUSENABLED"
-msgstr ""
+msgstr "Hudba zapnuta"
 
 msgid "SNDMNU_SNDENABLED"
-msgstr ""
+msgstr "Zvuk zapnut"
 
 msgid "VIDMNU_5X4ASPECTRATIO"
-msgstr ""
+msgstr "Povolit poměr stran 5:4"
 
 msgid "VIDMNU_ASPECTRATIO"
 msgstr "Poměr stran"
 
 msgid "VKMNU_DEVICESELECT"
-msgstr ""
+msgstr "Vybrat zařízení Vulkanu"
 
 msgid "VKMNU_ENABLE"
-msgstr ""
+msgstr "Povolit Vulkan"
 
 msgid "CMPTMNU_SOUNDCUTOFF"
-msgstr ""
+msgstr "Utnout zvuky, když jejich objekt zmizí"
 
 msgid "DSPLYMNU_TOOLTIP_WHITEPOINT"
 msgstr ""
 
 msgid "DSPLYMNU_TRANSSOUL"
-msgstr ""
+msgstr "Průhlednost Ztracených duší"
 
 msgid "DSPLYMNU_WHITEPOINT"
 msgstr ""
 
 msgid "GLLIGHTMNU_LIGHTDEFS"
-msgstr ""
+msgstr "Povolit definice světel"
 
 msgid "GLMNU_PREFS"
-msgstr ""
+msgstr "Možnosti"
 
 msgid "GLPREFMNU_PALTONENOGREY"
-msgstr ""
+msgstr "Předejít šedým stínům"
 
 msgid "GLTEXMNU_TRIMSPREDGE"
-msgstr ""
+msgstr "Oříznout okraje spritů"
 
 msgid "JOYMNU_HAPTRIGGERS"
-msgstr ""
+msgstr "Povolit haptické aktivace"
 
 msgid "NETMNU_MOVEPREDICTION"
-msgstr ""
+msgstr "Predikce pohybu"
 
 msgid "NETMNU_TICBALANCE"
-msgstr ""
+msgstr "Vyrovnání latence"
 
 msgid "OPTSTR_NOSOUND"
-msgstr ""
+msgstr "Bez zvuku"
 
 msgid "OPTSTR_OPENAL"
 msgstr ""
 
 msgid "OPTVAL_ALLUNACKNOWLEDGED"
-msgstr ""
+msgstr "Všechny nepotrvzené"
 
 msgid "OPTVAL_DEDICATED"
-msgstr ""
+msgstr "Vysoký výkon"
 
 msgid "OPTVAL_DOUBLE"
-msgstr ""
+msgstr "Dvojitý"
 
 msgid "OPTVAL_INTEGRATED"
-msgstr ""
+msgstr "Nízká spotřeba"
 
 msgid "OPTVAL_OPTIMAL"
-msgstr ""
+msgstr "Optimální"
 
 msgid "OPTVAL_OPTIMIZED"
-msgstr ""
+msgstr "Optimalizovaný"
 
 msgid "OPTVAL_ORIGINAL"
-msgstr ""
+msgstr "Původní"
 
 msgid "OPTVAL_PIXELDOUBLE"
-msgstr ""
+msgstr "Zdvojení pixelů"
 
 msgid "OPTVAL_PIXELQUADRUPLE"
-msgstr ""
+msgstr "Zčtyřnásobení pixelů"
 
 msgid "OPTVAL_QUADRUPLE"
-msgstr ""
+msgstr "Čtveritý"
 
 msgid "OPTVAL_SCALETO640X400"
-msgstr ""
+msgstr "Zvětšit na 640x400"
 
 msgid "OPTVAL_TRIPLE"
-msgstr ""
+msgstr "Trojitý"
 
 msgid "OPTVAL_VTAVANILLA"
-msgstr ""
+msgstr "Auto (preferován původní)"
 
 msgid "OPTVAL_VTAZDOOM"
-msgstr ""
+msgstr "Auto (preferován ZDoom)"
 
 msgid "TCMNU_TRUECOLOR"
-msgstr ""
+msgstr "Výstup True color"
