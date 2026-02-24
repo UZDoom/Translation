@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 02:31+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-24 05:03+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/common/ko/>"
 "\n"
 "Language: ko\n"
@@ -1787,3 +1787,9 @@ msgstr "접근성 설정"
 
 msgid "ACCMNU_RESET"
 msgstr "접근성 설정 초기화"
+
+msgid "DSPLYMNU_MESSAGES"
+msgstr "메시지"
+
+msgid "VIDMNU_ASPECTRATIO"
+msgstr "화면 비율"
