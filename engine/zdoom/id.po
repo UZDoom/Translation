@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 21:11+0000\n"
+"PO-Revision-Date: 2026-02-24 02:31+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/id/>\n"
@@ -340,16 +340,18 @@ msgid "TXT_BUDDHAOFF"
 msgstr "Mode Buddha MATI"
 
 msgid "TXT_BUDDHA2ON"
-msgstr "Mode Buddha Ultimate NYALA"
+msgstr "Mode Buddha Ultimate AKTIF"
 
 msgid "TXT_BUDDHA2OFF"
 msgstr "Mode Buddha Ultimate MATI"
 
+#, fuzzy
 msgid "TXT_CHEATPOWERON"
-msgstr "Menyala"
+msgstr "Kekuatan AKTIF"
 
+#, fuzzy
 msgid "TXT_CHEATPOWEROFF"
-msgstr "Matikan"
+msgstr "Kekuatan MATI"
 
 msgid "TXT_CHEATHEALTH"
 msgstr "Health penuh"
@@ -372,7 +374,7 @@ msgid "TXT_CHEATIDKFA"
 msgstr "Kau curang—tidak pantas memiliki senjata"
 
 msgid "TXT_CHEATTICKERON"
-msgstr "Ticker nyala"
+msgstr "Ticker AKTIF"
 
 #, fuzzy
 msgid "TXT_CHEATTICKEROFF"
