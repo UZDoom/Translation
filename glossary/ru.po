@@ -29,9 +29,6 @@ msgstr "Синтезатор FluidSynth"
 msgid "Freeverb"
 msgstr "Ревербератор Freeverb"
 
-msgid "Timidity++"
-msgstr "Синтезатор Timidity++"
-
 msgid "ADLMidi"
 msgstr "ADLMidi"
 
