@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 21:12+0000\n"
+"PO-Revision-Date: 2026-02-24 02:31+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ru/>\n"
@@ -343,16 +343,16 @@ msgid "TXT_BUDDHAOFF"
 msgstr "Режим Будды ВЫКЛ"
 
 msgid "TXT_BUDDHA2ON"
-msgstr "Окончательный режим Будды ВКЛЮЧЁН"
+msgstr "Окончательный режим Будды ВКЛ"
 
 msgid "TXT_BUDDHA2OFF"
-msgstr "Окончательный режим Будды ОТКЛЮЧЁН"
+msgstr "Окончательный режим Будды ВЫКЛ"
 
 msgid "TXT_CHEATPOWERON"
-msgstr "Сила ВКЛЮЧЁН"
+msgstr "Сила ВКЛ"
 
 msgid "TXT_CHEATPOWEROFF"
-msgstr "Сила ОТКЛЮЧЁН"
+msgstr "Сила ВЫКЛ"
 
 msgid "TXT_CHEATHEALTH"
 msgstr "Полное здоровье"
@@ -375,7 +375,7 @@ msgid "TXT_CHEATIDKFA"
 msgstr "Жулик—ты не заслуживаешь оружия"
 
 msgid "TXT_CHEATTICKERON"
-msgstr "Счётчик включён"
+msgstr "Счётчик ВКЛ"
 
 #, fuzzy
 msgid "TXT_CHEATTICKEROFF"
