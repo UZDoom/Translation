@@ -28,9 +28,6 @@ msgstr "FluidSynth"
 msgid "Freeverb"
 msgstr "Freeverb"
 
-msgid "Timidity++"
-msgstr "Verlegenheid++"
-
 msgid "ADLMidi"
 msgstr "ADLMidi"
 
