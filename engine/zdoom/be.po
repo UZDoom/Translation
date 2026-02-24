@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 02:31+0000\n"
+"PO-Revision-Date: 2026-02-24 16:13+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/be/>\n"
@@ -360,13 +360,11 @@ msgstr "Поўнае здароўе"
 msgid "TXT_CHEATKEYS"
 msgstr "Усе ключы"
 
-#, fuzzy
 msgid "TXT_CHEATSOUNDON"
-msgstr "Адладка гуку ўключана"
+msgstr "Адладка гуку УКЛ"
 
-#, fuzzy
 msgid "TXT_CHEATSOUNDOFF"
-msgstr "Адладка гуку выключана"
+msgstr "Адладка гуку ВЫКЛ"
 
 msgid "TXT_CHEATIDDQD"
 msgstr "Спрабуеш жульнічаць, так? Тады здохні!"
