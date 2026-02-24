@@ -1820,9 +1820,3 @@ msgstr "消息队列大小"
 
 msgid "MSGMNU_STACKIDENTICAL"
 msgstr "堆叠重复消息"
-
-msgid "DSPLYMNU_MESSAGES"
-msgstr "消息"
-
-msgid "VIDMNU_ASPECTRATIO"
-msgstr "宽高比"

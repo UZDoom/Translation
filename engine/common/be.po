@@ -1783,9 +1783,3 @@ msgstr ""
 
 msgid "JOYMNU_ANALOGSTRAFERUN"
 msgstr ""
-
-msgid "DSPLYMNU_MESSAGES"
-msgstr "Паведамлення"
-
-msgid "VIDMNU_ASPECTRATIO"
-msgstr "Суадносіны бакоў"

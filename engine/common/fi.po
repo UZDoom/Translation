@@ -1788,9 +1788,3 @@ msgstr ""
 
 msgid "ACCMNU_TITLE"
 msgstr "Helppokäyttöisyysasetukset"
-
-msgid "DSPLYMNU_MESSAGES"
-msgstr "Viestit"
-
-msgid "VIDMNU_ASPECTRATIO"
-msgstr "Kuvasuhde"

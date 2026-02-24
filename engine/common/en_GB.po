@@ -1820,9 +1820,3 @@ msgstr "Message queue size"
 
 msgid "MSGMNU_STACKIDENTICAL"
 msgstr "Stack repeated messages"
-
-msgid "DSPLYMNU_MESSAGES"
-msgstr "Messages"
-
-msgid "VIDMNU_ASPECTRATIO"
-msgstr "Aspect ratio"

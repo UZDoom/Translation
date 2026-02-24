@@ -1794,9 +1794,3 @@ msgstr "Erişebilirlik Seçeneklerini Sıfırla"
 
 msgid "MSGMNU_MESSAGEQUEUE"
 msgstr "Mesaj sırası boyutu"
-
-msgid "DSPLYMNU_MESSAGES"
-msgstr "Mesajlar"
-
-msgid "VIDMNU_ASPECTRATIO"
-msgstr "En boy oranı"

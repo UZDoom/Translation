@@ -1845,9 +1845,3 @@ msgstr "Про програму"
 
 msgid "PICKER_TAB_RELEASE"
 msgstr "Нотатки до випуску"
-
-msgid "DSPLYMNU_MESSAGES"
-msgstr "Повідомлення"
-
-msgid "VIDMNU_ASPECTRATIO"
-msgstr "Співвідношення сторін"

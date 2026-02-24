@@ -1778,6 +1778,3 @@ msgstr ""
 
 msgid "JOYMNU_ANALOGSTRAFERUN"
 msgstr ""
-
-msgid "VIDMNU_ASPECTRATIO"
-msgstr "Proporção de ecrã"

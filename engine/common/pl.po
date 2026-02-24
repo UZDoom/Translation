@@ -1822,9 +1822,3 @@ msgstr "Grupuj powtarzające się wiadomości"
 
 msgid "MSGMNU_MESSAGEQUEUE"
 msgstr "Rozmiar kolejki wiadomości"
-
-msgid "DSPLYMNU_MESSAGES"
-msgstr "Wiadomości"
-
-msgid "VIDMNU_ASPECTRATIO"
-msgstr "Rozdzielczość"

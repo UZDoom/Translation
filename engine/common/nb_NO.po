@@ -1784,9 +1784,3 @@ msgstr ""
 
 msgid "JOYMNU_ANALOGSTRAFERUN"
 msgstr ""
-
-msgid "DSPLYMNU_MESSAGES"
-msgstr "Meldinger"
-
-msgid "VIDMNU_ASPECTRATIO"
-msgstr "Bildeforhold"

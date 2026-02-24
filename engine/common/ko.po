@@ -1787,9 +1787,3 @@ msgstr "접근성 설정"
 
 msgid "ACCMNU_RESET"
 msgstr "접근성 설정 초기화"
-
-msgid "DSPLYMNU_MESSAGES"
-msgstr "메시지"
-
-msgid "VIDMNU_ASPECTRATIO"
-msgstr "화면 비율"

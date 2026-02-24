@@ -1838,9 +1838,3 @@ msgstr "Sobre"
 
 msgid "PICKER_TAB_RELEASE"
 msgstr "Notas da versão"
-
-msgid "DSPLYMNU_MESSAGES"
-msgstr "Mensagens"
-
-msgid "VIDMNU_ASPECTRATIO"
-msgstr "Proporção de tela"

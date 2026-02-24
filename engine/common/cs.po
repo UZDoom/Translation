@@ -1782,9 +1782,3 @@ msgstr ""
 
 msgid "JOYMNU_ANALOGSTRAFERUN"
 msgstr ""
-
-msgid "DSPLYMNU_MESSAGES"
-msgstr "Oznámení"
-
-msgid "VIDMNU_ASPECTRATIO"
-msgstr "Poměr stran"

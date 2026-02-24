@@ -1790,9 +1790,3 @@ msgstr "Opciones de Accesibilidad"
 
 msgid "ACCMNU_RESET"
 msgstr "Restablecer opciones de accesibilidad"
-
-msgid "DSPLYMNU_MESSAGES"
-msgstr "Mensajes"
-
-msgid "VIDMNU_ASPECTRATIO"
-msgstr "Ratio de aspecto"

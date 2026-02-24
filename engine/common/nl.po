@@ -1862,9 +1862,3 @@ msgstr "Uitgaveopmerkingen"
 
 msgid "ACCMNU_TITLE"
 msgstr "Toegankelijkheidsopties"
-
-msgid "DSPLYMNU_MESSAGES"
-msgstr "Berichten"
-
-msgid "VIDMNU_ASPECTRATIO"
-msgstr "Beeldverhouding"

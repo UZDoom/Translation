@@ -1780,6 +1780,3 @@ msgstr ""
 
 msgid "JOYMNU_ANALOGSTRAFERUN"
 msgstr ""
-
-msgid "DSPLYMNU_MESSAGES"
-msgstr "Съобщения"

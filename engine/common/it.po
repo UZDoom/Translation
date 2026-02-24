@@ -1807,9 +1807,3 @@ msgstr "Impossibile analizzare le note di rilascio"
 
 msgid "NOTES_RELEASED"
 msgstr "rilasciato"
-
-msgid "DSPLYMNU_MESSAGES"
-msgstr "Messaggi"
-
-msgid "VIDMNU_ASPECTRATIO"
-msgstr "Proporzioni"

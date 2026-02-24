@@ -1782,9 +1782,3 @@ msgstr ""
 
 msgid "JOYMNU_ANALOGSTRAFERUN"
 msgstr ""
-
-msgid "DSPLYMNU_MESSAGES"
-msgstr "Üzenetek"
-
-msgid "VIDMNU_ASPECTRATIO"
-msgstr "Képarány"

@@ -1818,9 +1818,3 @@ msgstr "Белешке о издању"
 
 msgid "ACCMNU_TITLE"
 msgstr "Опције приступачности"
-
-msgid "DSPLYMNU_MESSAGES"
-msgstr "Поруке"
-
-msgid "VIDMNU_ASPECTRATIO"
-msgstr "Однос ширине и висине"

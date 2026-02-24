@@ -1788,6 +1788,3 @@ msgstr "Options d'accessibilité"
 
 msgid "ACCMNU_RESET"
 msgstr "Réinitialiser les options d'accessibilité"
-
-msgid "VIDMNU_ASPECTRATIO"
-msgstr "Rapport D'Aspect"

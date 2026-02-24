@@ -1798,6 +1798,3 @@ msgstr ""
 
 msgid "PICKER_TAB_RELEASE"
 msgstr ""
-
-msgid "DSPLYMNU_MESSAGES"
-msgstr "Mesej"

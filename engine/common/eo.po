@@ -1817,9 +1817,3 @@ msgstr "Alireblo-agordoj"
 
 msgid "ACCMNU_RESET"
 msgstr "Restarigi alireblo-agordojn"
-
-msgid "DSPLYMNU_MESSAGES"
-msgstr "Mesaĝoj"
-
-msgid "VIDMNU_ASPECTRATIO"
-msgstr "Proporcio"

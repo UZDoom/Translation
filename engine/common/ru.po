@@ -1842,9 +1842,3 @@ msgstr "Невозможно распознать замечания к верс
 
 msgid "ACCMNU_TITLE"
 msgstr "Настройки Доступности"
-
-msgid "DSPLYMNU_MESSAGES"
-msgstr "Сообщения"
-
-msgid "VIDMNU_ASPECTRATIO"
-msgstr "Соотношение сторон"
