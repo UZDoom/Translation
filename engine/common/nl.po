@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 21:32+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-24 05:03+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/uzdoom/common/nl/>"
 "\n"
 "Language: nl\n"
@@ -1862,3 +1862,9 @@ msgstr "Uitgaveopmerkingen"
 
 msgid "ACCMNU_TITLE"
 msgstr "Toegankelijkheidsopties"
+
+msgid "DSPLYMNU_MESSAGES"
+msgstr "Berichten"
+
+msgid "VIDMNU_ASPECTRATIO"
+msgstr "Beeldverhouding"
