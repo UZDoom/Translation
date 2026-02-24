@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 21:11+0000\n"
+"PO-Revision-Date: 2026-02-24 02:31+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fr/>\n"
@@ -344,16 +344,16 @@ msgid "TXT_BUDDHAOFF"
 msgstr "Mode Bouddha INACTIF"
 
 msgid "TXT_BUDDHA2ON"
-msgstr "Mode Bouddha Ultime ON"
+msgstr "Mode Bouddha Ultime ACTIF"
 
 msgid "TXT_BUDDHA2OFF"
-msgstr "Mode Bouddha Ultime OFF"
+msgstr "Mode Bouddha Ultime INACTIF"
 
 msgid "TXT_CHEATPOWERON"
-msgstr "Pouvoir ACTIVÉE"
+msgstr "Pouvoir ACTIF"
 
 msgid "TXT_CHEATPOWEROFF"
-msgstr "Pouvoir DÉSACTIVÉE"
+msgstr "Pouvoir INACTIVE"
 
 msgid "TXT_CHEATHEALTH"
 msgstr "Pleine Santé"
@@ -362,7 +362,7 @@ msgid "TXT_CHEATKEYS"
 msgstr "Toutes les Clés"
 
 msgid "TXT_CHEATSOUNDON"
-msgstr "Débogage du son activé."
+msgstr "Débogage du son ACTIF"
 
 msgid "TXT_CHEATSOUNDOFF"
 msgstr "Débogage du son désactivé."
@@ -374,7 +374,7 @@ msgid "TXT_CHEATIDKFA"
 msgstr "Tricheur—Tu ne mérite pas ton flingue"
 
 msgid "TXT_CHEATTICKERON"
-msgstr "Compteur allumé"
+msgstr "Compteur ACTIF"
 
 #, fuzzy
 msgid "TXT_CHEATTICKEROFF"
