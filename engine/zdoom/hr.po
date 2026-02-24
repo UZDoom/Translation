@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 02:31+0000\n"
+"PO-Revision-Date: 2026-02-24 16:13+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hr/>\n"
@@ -363,9 +363,8 @@ msgstr "Svi ključevi"
 msgid "TXT_CHEATSOUNDON"
 msgstr "Otklanjanje pogrešaka zvuka UKLJ"
 
-#, fuzzy
 msgid "TXT_CHEATSOUNDOFF"
-msgstr "Otklanjanje pogrešaka zvuka ISKLJ."
+msgstr "Otklanjanje pogrešaka zvuka ISKLJ"
 
 msgid "TXT_CHEATIDDQD"
 msgstr "Pokušavaš varati, ha? Sada, umireš!"
