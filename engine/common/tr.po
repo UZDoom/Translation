@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 05:09+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-24 05:03+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/uzdoom/common/"
 "tr/>\n"
 "Language: tr\n"
@@ -1794,3 +1794,9 @@ msgstr "Erişebilirlik Seçeneklerini Sıfırla"
 
 msgid "MSGMNU_MESSAGEQUEUE"
 msgstr "Mesaj sırası boyutu"
+
+msgid "DSPLYMNU_MESSAGES"
+msgstr "Mesajlar"
+
+msgid "VIDMNU_ASPECTRATIO"
+msgstr "En boy oranı"
