@@ -43,9 +43,6 @@ msgstr "Verlegenheid"
 msgid "GENMIDI"
 msgstr ""
 
-msgid "WAD"
-msgstr ""
-
 msgid "libXMP"
 msgstr "libXMP"
 
