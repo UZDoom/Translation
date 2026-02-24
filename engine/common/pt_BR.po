@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 05:15+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-24 05:03+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "uzdoom/common/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -1838,3 +1838,9 @@ msgstr "Sobre"
 
 msgid "PICKER_TAB_RELEASE"
 msgstr "Notas da versão"
+
+msgid "DSPLYMNU_MESSAGES"
+msgstr "Mensagens"
+
+msgid "VIDMNU_ASPECTRATIO"
+msgstr "Proporção de tela"
