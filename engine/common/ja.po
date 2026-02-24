@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-20 23:11+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-24 05:03+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/uzdoom/common/"
 "ja/>\n"
 "Language: ja\n"
@@ -1786,3 +1786,9 @@ msgstr "上下視点速度"
 
 msgid "JOYMNU_ANALOGSTRAFERUN"
 msgstr "アナログ ストレイフ ラン"
+
+msgid "DSPLYMNU_MESSAGES"
+msgstr "メッセージ類"
+
+msgid "VIDMNU_ASPECTRATIO"
+msgstr "アスペクト比"
