@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 23:09+0000\n"
+"PO-Revision-Date: 2026-02-24 16:14+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/uzdoom/common/he/>"
 "\n"
@@ -816,7 +816,6 @@ msgstr ""
 msgid "ADVSNDMNU_MIDIVOICES"
 msgstr ""
 
-#, fuzzy
 msgid "ADVSNDMNU_FLUIDSYNTH"
 msgstr "FluidSynth"
 
@@ -824,7 +823,7 @@ msgid "ADVSNDMNU_GLOBAL"
 msgstr ""
 
 msgid "ADVSNDMNU_FREEVERB"
-msgstr ""
+msgstr "Freeverb"
 
 msgid "ADVSNDMNU_GLOBAL_FREEVERB"
 msgstr ""
@@ -842,7 +841,7 @@ msgid "ADVSNDMNU_CHORUS"
 msgstr ""
 
 msgid "ADVSNDMNU_TIMIDITY"
-msgstr ""
+msgstr "‭Timidity++‬"
 
 msgid "ADVSNDMNU_ADLMIDI"
 msgstr ""
