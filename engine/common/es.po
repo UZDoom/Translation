@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 05:10+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-24 05:03+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/uzdoom/common/"
 "es/>\n"
 "Language: es\n"
@@ -1790,3 +1790,9 @@ msgstr "Opciones de Accesibilidad"
 
 msgid "ACCMNU_RESET"
 msgstr "Restablecer opciones de accesibilidad"
+
+msgid "DSPLYMNU_MESSAGES"
+msgstr "Mensajes"
+
+msgid "VIDMNU_ASPECTRATIO"
+msgstr "Ratio de aspecto"
