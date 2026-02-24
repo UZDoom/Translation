@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 03:10+0000\n"
+"PO-Revision-Date: 2026-02-24 02:31+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ja/>\n"
@@ -374,6 +374,7 @@ msgstr "その名を唱えたな? 褒美に死をやろう!"
 msgid "TXT_CHEATIDKFA"
 msgstr "不届き者め、貴様が偉業を成すはずがない"
 
+#, fuzzy
 msgid "TXT_CHEATTICKERON"
 msgstr "ティッカー オン"
 
