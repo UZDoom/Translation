@@ -3369,9 +3369,6 @@ msgstr "Böden mit sofortiger Bewegung machen Geräusche"
 msgid "CMPTMNU_SECTORSOUNDS"
 msgstr "Sektor-Sounds benutzen den Mittelpunkt des Sektors"
 
-msgid "CMPTMNU_SOUNDCUTOFF"
-msgstr "Sounds werden beendet, wenn der Akteur verschwindet"
-
 msgid "CMPTMNU_SOUNDTARGET"
 msgstr "Benutze originale Behandlung für das Sound-Ziel"
 
@@ -3844,9 +3841,6 @@ msgstr "Benutze Fuzz-Effekt"
 msgid "DSPLYMNU_OLDTRANS"
 msgstr "Klasssische Transparenz"
 
-msgid "DSPLYMNU_TRANSSOUL"
-msgstr "Transparenz für Verlorene Seelen"
-
 msgid "DSPLYMNU_FAKECONTRAST"
 msgstr "Benutze falschen Kontrast"
 
@@ -4000,9 +3994,6 @@ msgstr "Netzwerkeinstellungen"
 msgid "NETMNU_LOCALOPTIONS"
 msgstr "Lokale Einstellungen"
 
-msgid "NETMNU_MOVEPREDICTION"
-msgstr "Bewegungsvorausberechnung"
-
 msgid "NETMNU_LINESPECIALPREDICTION"
 msgstr "Berechne Linienaktionen voraus"
 
@@ -4017,15 +4008,6 @@ msgstr "Gastoptionen"
 
 msgid "NETMNU_EXTRATICS"
 msgstr "Extra Ticks"
-
-msgid "NETMNU_TICBALANCE"
-msgstr "Latenzbalance"
-
-msgid "OPTVAL_ORIGINAL"
-msgstr "Original"
-
-msgid "OPTVAL_OPTIMIZED"
-msgstr "Optimiert"
 
 msgid "OPTVAL_CLASSIC"
 msgstr "Klassisch (schneller)"
@@ -4093,15 +4075,6 @@ msgstr "Spieler"
 
 msgid "OPTVAL_MAP"
 msgstr "Karte"
-
-msgid "OPTVAL_SCALETO640X400"
-msgstr "Skaliere auf 640x400"
-
-msgid "OPTVAL_PIXELDOUBLE"
-msgstr "Pixelverdopplung"
-
-msgid "OPTVAL_PIXELQUADRUPLE"
-msgstr "Pixelvervierfachung"
 
 msgid "OPTVAL_CURRENTWEAPON"
 msgstr "Aktuelle Waffe"
@@ -4196,15 +4169,6 @@ msgstr "Nur Leveldefinierte Farben"
 msgid "OPTVAL_NODOORS"
 msgstr "Alle außer Türen"
 
-msgid "OPTVAL_DOUBLE"
-msgstr "Doppel"
-
-msgid "OPTVAL_TRIPLE"
-msgstr "Dreifach"
-
-msgid "OPTVAL_QUADRUPLE"
-msgstr "Vierfach"
-
 msgid "OPTVAL_ITEMPICKUP"
 msgstr "Gegenstand aufgehoben"
 
@@ -4250,9 +4214,6 @@ msgstr "MBF21 (strikt)"
 msgid "OPTVAL_ZDOOM2063"
 msgstr "ZDoom 2.0.63"
 
-msgid "OPTVAL_ALLUNACKNOWLEDGED"
-msgstr "Alle unbestätigt"
-
 msgid "OPTVAL_ERRORS"
 msgstr "Fehler"
 
@@ -4274,12 +4235,6 @@ msgstr "Doom Software Renderer"
 msgid "OPTVAL_SWDOOMTC"
 msgstr "True Color SW Renderer"
 
-msgid "OPTVAL_DEDICATED"
-msgstr "Hochleistung"
-
-msgid "OPTVAL_INTEGRATED"
-msgstr "Energiesparend"
-
 msgid "OPTVAL_VANILLA"
 msgstr "Vanilla"
 
@@ -4288,12 +4243,6 @@ msgstr "ZDoom (erzwungen)"
 
 msgid "OPTVAL_VTFVANILLA"
 msgstr "Vanilla (erzwungen)"
-
-msgid "OPTVAL_VTAZDOOM"
-msgstr "Automatisch (ZDoom bevorzugt)"
-
-msgid "OPTVAL_VTAVANILLA"
-msgstr "Automatisch (Vanilla bevorzugt)"
 
 msgid "OPTVAL_SMALL"
 msgstr "Klein"
@@ -4388,17 +4337,11 @@ msgstr "Heretic"
 msgid "OPTSTR_CHEX"
 msgstr "Chex"
 
-msgid "OPTSTR_NOSOUND"
-msgstr "Kein Sound"
-
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr "Keine Interpolation"
 
 msgid "OPTSTR_SPLINE"
 msgstr "Spline"
-
-msgid "OPTSTR_OPENAL"
-msgstr "OpenAL"
 
 msgid "DSPLYMNU_GLOPT"
 msgstr "Hardwarerenderer"
@@ -4412,12 +4355,6 @@ msgstr "Hardware-Renderer Optionen"
 msgid "GLMNU_DYNLIGHT"
 msgstr "Dynamisches-Licht-Optionen"
 
-msgid "GLMNU_PREFS"
-msgstr "Einstellungen"
-
-msgid "GLTEXMNU_TRIMSPREDGE"
-msgstr "Leerraum in Sprites wegschneiden"
-
 msgid "GLTEXMNU_SORTDRAWLIST"
 msgstr "Renderlisten nach Textur sortieren"
 
@@ -4426,9 +4363,6 @@ msgstr "Dynamische Lichter"
 
 msgid "GLLIGHTMNU_LIGHTSENABLED"
 msgstr "Dynamische Lichter (Hardware)"
-
-msgid "GLLIGHTMNU_LIGHTDEFS"
-msgstr "Lichtdefinitionen an"
 
 msgid "GLLIGHTMNU_LIGHTSPRITES"
 msgstr "Sprites werden beleuchtet"
@@ -4524,9 +4458,6 @@ msgstr "Doom Legacy"
 msgid "OPTVAL_SOFTWARE"
 msgstr "Software"
 
-msgid "OPTVAL_OPTIMAL"
-msgstr "Optimal"
-
 msgid "OPTVAL_YAXIS"
 msgstr "Y-Achse"
 
@@ -4601,9 +4532,6 @@ msgstr "TrueColor Optionen"
 
 msgid "TCMNU_TITLE"
 msgstr "TrueColor Optionen"
-
-msgid "TCMNU_TRUECOLOR"
-msgstr "TrueColor Ausgabe"
 
 msgid "TCMNU_MINFILTER"
 msgstr "Linearer Filter beim Herunterskalieren"
@@ -4710,9 +4638,6 @@ msgstr "Fadenkreuz"
 
 msgid "MSGMNU_SUBTITLES"
 msgstr "Untertitel"
-
-msgid "GLPREFMNU_PALTONENOGREY"
-msgstr "Vermeide graue Schatten"
 
 msgid "HUDMNU_FONTOPTIONS"
 msgstr "Zeichensatzoptionen"
@@ -5078,9 +5003,6 @@ msgstr "Wahl-Countdown-Zeit (Sekunden)"
 # online.
 msgid "NETMNU_CHATSLOMO"
 msgstr "Chat-Verlangsamungsmodus (Sekunden)"
-
-msgid "JOYMNU_HAPTRIGGERS"
-msgstr "Haptische Trigger aktivieren"
 
 msgid "OPTMNU_HAPTICS"
 msgstr "Haptik-Optionen"

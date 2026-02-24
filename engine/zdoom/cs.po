@@ -3368,9 +3368,6 @@ msgstr "Okamžitě pohybující se podlahy nejsou tiché"
 msgid "CMPTMNU_SECTORSOUNDS"
 msgstr "Sektorové zvuky používají jeho střed jako zdroj"
 
-msgid "CMPTMNU_SOUNDCUTOFF"
-msgstr "Utnout zvuky, když jejich objekt zmizí"
-
 msgid "CMPTMNU_SOUNDTARGET"
 msgstr "Použít původní chování pro uchování zvukového cíle"
 
@@ -3842,9 +3839,6 @@ msgstr "Typ fuzz efektu"
 msgid "DSPLYMNU_OLDTRANS"
 msgstr "Klasická průhlednost"
 
-msgid "DSPLYMNU_TRANSSOUL"
-msgstr "Průhlednost Ztracených duší"
-
 msgid "DSPLYMNU_FAKECONTRAST"
 msgstr "Použít falešný kontrast"
 
@@ -3998,9 +3992,6 @@ msgstr "Nastavení sítě"
 msgid "NETMNU_LOCALOPTIONS"
 msgstr "Lokální nastavení"
 
-msgid "NETMNU_MOVEPREDICTION"
-msgstr "Predikce pohybu"
-
 msgid "NETMNU_LINESPECIALPREDICTION"
 msgstr "Predikce čárových akcí"
 
@@ -4015,15 +4006,6 @@ msgstr "Nastavení hostitele"
 
 msgid "NETMNU_EXTRATICS"
 msgstr "Extra tiky"
-
-msgid "NETMNU_TICBALANCE"
-msgstr "Vyrovnání latence"
-
-msgid "OPTVAL_ORIGINAL"
-msgstr "Původní"
-
-msgid "OPTVAL_OPTIMIZED"
-msgstr "Optimalizovaný"
 
 msgid "OPTVAL_CLASSIC"
 msgstr "Klasický (rychlejší)"
@@ -4091,15 +4073,6 @@ msgstr "Hráč"
 
 msgid "OPTVAL_MAP"
 msgstr "Level"
-
-msgid "OPTVAL_SCALETO640X400"
-msgstr "Zvětšit na 640x400"
-
-msgid "OPTVAL_PIXELDOUBLE"
-msgstr "Zdvojení pixelů"
-
-msgid "OPTVAL_PIXELQUADRUPLE"
-msgstr "Zčtyřnásobení pixelů"
 
 msgid "OPTVAL_CURRENTWEAPON"
 msgstr "Současná zbraň"
@@ -4194,15 +4167,6 @@ msgstr "Pouze barvy definované mapou"
 msgid "OPTVAL_NODOORS"
 msgstr "Všechny krom dveří"
 
-msgid "OPTVAL_DOUBLE"
-msgstr "Dvojitý"
-
-msgid "OPTVAL_TRIPLE"
-msgstr "Trojitý"
-
-msgid "OPTVAL_QUADRUPLE"
-msgstr "Čtveritý"
-
 msgid "OPTVAL_ITEMPICKUP"
 msgstr "Sebrání předmětu"
 
@@ -4248,9 +4212,6 @@ msgstr "MBF21 (striktní)"
 msgid "OPTVAL_ZDOOM2063"
 msgstr ""
 
-msgid "OPTVAL_ALLUNACKNOWLEDGED"
-msgstr "Všechny nepotrvzené"
-
 msgid "OPTVAL_ERRORS"
 msgstr "Chyby"
 
@@ -4272,12 +4233,6 @@ msgstr "Doom softwarový renderer"
 msgid "OPTVAL_SWDOOMTC"
 msgstr "True color softwarový renderer"
 
-msgid "OPTVAL_DEDICATED"
-msgstr "Vysoký výkon"
-
-msgid "OPTVAL_INTEGRATED"
-msgstr "Nízká spotřeba"
-
 msgid "OPTVAL_VANILLA"
 msgstr "Původní"
 
@@ -4286,12 +4241,6 @@ msgstr "ZDoom (vynucený)"
 
 msgid "OPTVAL_VTFVANILLA"
 msgstr "Původní (vynucený)"
-
-msgid "OPTVAL_VTAZDOOM"
-msgstr "Auto (preferován ZDoom)"
-
-msgid "OPTVAL_VTAVANILLA"
-msgstr "Auto (preferován původní)"
 
 msgid "OPTVAL_SMALL"
 msgstr "Malé"
@@ -4386,17 +4335,11 @@ msgstr ""
 msgid "OPTSTR_CHEX"
 msgstr ""
 
-msgid "OPTSTR_NOSOUND"
-msgstr "Bez zvuku"
-
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr "Bez interpolace"
 
 msgid "OPTSTR_SPLINE"
 msgstr "Křivka"
-
-msgid "OPTSTR_OPENAL"
-msgstr ""
 
 msgid "DSPLYMNU_GLOPT"
 msgstr "Hardwarový renderer"
@@ -4410,12 +4353,6 @@ msgstr "Nastavení hardwarového rendereru"
 msgid "GLMNU_DYNLIGHT"
 msgstr "Nastavení dynamických světel"
 
-msgid "GLMNU_PREFS"
-msgstr "Preference"
-
-msgid "GLTEXMNU_TRIMSPREDGE"
-msgstr "Oříznout okraje spritů"
-
 msgid "GLTEXMNU_SORTDRAWLIST"
 msgstr "Seřadit vykreslování podle textury"
 
@@ -4424,9 +4361,6 @@ msgstr "Dynamická světla"
 
 msgid "GLLIGHTMNU_LIGHTSENABLED"
 msgstr "Dynamická světla (hardware)"
-
-msgid "GLLIGHTMNU_LIGHTDEFS"
-msgstr "Povolit definice světel"
 
 msgid "GLLIGHTMNU_LIGHTSPRITES"
 msgstr "Světla ovlivňují sprity"
@@ -4522,9 +4456,6 @@ msgstr ""
 msgid "OPTVAL_SOFTWARE"
 msgstr ""
 
-msgid "OPTVAL_OPTIMAL"
-msgstr "Optimální"
-
 msgid "OPTVAL_YAXIS"
 msgstr "Po ose Y"
 
@@ -4599,9 +4530,6 @@ msgstr "Nastavení True color"
 
 msgid "TCMNU_TITLE"
 msgstr "Nastavení True color"
-
-msgid "TCMNU_TRUECOLOR"
-msgstr "Výstup True color"
 
 msgid "TCMNU_MINFILTER"
 msgstr "Lineární filtrování při zmenšení"
@@ -4706,9 +4634,6 @@ msgstr "Zaměřovač"
 
 msgid "MSGMNU_SUBTITLES"
 msgstr "Titulky"
-
-msgid "GLPREFMNU_PALTONENOGREY"
-msgstr "Předejít šedým stínům"
 
 msgid "HUDMNU_FONTOPTIONS"
 msgstr "Písma"
@@ -5074,9 +4999,6 @@ msgstr "Čas k hlasování (vteřiny)"
 # online.
 msgid "NETMNU_CHATSLOMO"
 msgstr "Pomalý režim chatu (vteřiny)"
-
-msgid "JOYMNU_HAPTRIGGERS"
-msgstr "Povolit haptické aktivace"
 
 msgid "OPTMNU_HAPTICS"
 msgstr "Nastavení haptiky"

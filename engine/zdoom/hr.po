@@ -3361,9 +3361,6 @@ msgstr "Instalacijski pokretni podovi nisu tihi"
 msgid "CMPTMNU_SECTORSOUNDS"
 msgstr "Sektorski zvukovi koriste središte kao izvor"
 
-msgid "CMPTMNU_SOUNDCUTOFF"
-msgstr "Zvukovi prestaju kada glumac nestane"
-
 msgid "CMPTMNU_SOUNDTARGET"
 msgstr "Koristi originalno rukovanje zvučnim ciljem"
 
@@ -3835,9 +3832,6 @@ msgstr "Koristite efekt pahulja"
 msgid "DSPLYMNU_OLDTRANS"
 msgstr "Klasična transparentnost"
 
-msgid "DSPLYMNU_TRANSSOUL"
-msgstr "Prozirnost Izgubljene duše"
-
 msgid "DSPLYMNU_FAKECONTRAST"
 msgstr "Koristite lažni kontrast"
 
@@ -3991,9 +3985,6 @@ msgstr "Mogućnosti mreže"
 msgid "NETMNU_LOCALOPTIONS"
 msgstr "Lokalne opcije"
 
-msgid "NETMNU_MOVEPREDICTION"
-msgstr "Predviđanje kretanja"
-
 msgid "NETMNU_LINESPECIALPREDICTION"
 msgstr "Predvidi radnje u liniji"
 
@@ -4008,15 +3999,6 @@ msgstr "Opcije domaćina"
 
 msgid "NETMNU_EXTRATICS"
 msgstr "Dodatni tikovi"
-
-msgid "NETMNU_TICBALANCE"
-msgstr "Balansiranje latencije"
-
-msgid "OPTVAL_ORIGINAL"
-msgstr "Original"
-
-msgid "OPTVAL_OPTIMIZED"
-msgstr "Optimizirano"
 
 msgid "OPTVAL_CLASSIC"
 msgstr "Klasični (brži)"
@@ -4084,15 +4066,6 @@ msgstr "Igrač"
 
 msgid "OPTVAL_MAP"
 msgstr "Karta"
-
-msgid "OPTVAL_SCALETO640X400"
-msgstr "Skaliranje na 640x400"
-
-msgid "OPTVAL_PIXELDOUBLE"
-msgstr "Dvostruki piksel"
-
-msgid "OPTVAL_PIXELQUADRUPLE"
-msgstr "Četverostruki piksel"
 
 msgid "OPTVAL_CURRENTWEAPON"
 msgstr "Trenutno oružje"
@@ -4187,15 +4160,6 @@ msgstr "Samo boje definirane kartom"
 msgid "OPTVAL_NODOORS"
 msgstr "Sve osim vrata"
 
-msgid "OPTVAL_DOUBLE"
-msgstr "Dupli"
-
-msgid "OPTVAL_TRIPLE"
-msgstr "Utrostručiti"
-
-msgid "OPTVAL_QUADRUPLE"
-msgstr "Četverostruk"
-
 msgid "OPTVAL_ITEMPICKUP"
 msgstr "Preuzimanje predmeta"
 
@@ -4244,9 +4208,6 @@ msgstr "MBF21 (strogo)"
 msgid "OPTVAL_ZDOOM2063"
 msgstr "ZDoom 2.0.63"
 
-msgid "OPTVAL_ALLUNACKNOWLEDGED"
-msgstr "Sve nepriznato"
-
 msgid "OPTVAL_ERRORS"
 msgstr "Greške"
 
@@ -4268,12 +4229,6 @@ msgstr "Doom softverski renderer"
 msgid "OPTVAL_SWDOOMTC"
 msgstr "Program za renderiranje u pravim bojama"
 
-msgid "OPTVAL_DEDICATED"
-msgstr "Visoke performanse"
-
-msgid "OPTVAL_INTEGRATED"
-msgstr "Ušteda energije"
-
 msgid "OPTVAL_VANILLA"
 msgstr "Vanilija"
 
@@ -4282,12 +4237,6 @@ msgstr "ZDoom (Prisilno)"
 
 msgid "OPTVAL_VTFVANILLA"
 msgstr "Vanilija (prisilna)"
-
-msgid "OPTVAL_VTAZDOOM"
-msgstr "Automatski (preferirano za ZDoom)"
-
-msgid "OPTVAL_VTAVANILLA"
-msgstr "Auto (poželjno vanilija)"
 
 msgid "OPTVAL_SMALL"
 msgstr "Mali"
@@ -4382,17 +4331,11 @@ msgstr "Heretik"
 msgid "OPTSTR_CHEX"
 msgstr "Čehs"
 
-msgid "OPTSTR_NOSOUND"
-msgstr "Nema zvuka"
-
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr "Bez interpolacije"
 
 msgid "OPTSTR_SPLINE"
 msgstr "Krivulja"
-
-msgid "OPTSTR_OPENAL"
-msgstr "OpenAL"
 
 msgid "DSPLYMNU_GLOPT"
 msgstr "Hardverski renderer"
@@ -4406,12 +4349,6 @@ msgstr "Opcije hardverskog renderiranja"
 msgid "GLMNU_DYNLIGHT"
 msgstr "Opcije dinamičkog svjetla"
 
-msgid "GLMNU_PREFS"
-msgstr "Osobne postavke"
-
-msgid "GLTEXMNU_TRIMSPREDGE"
-msgstr "Orezivanje rubova naknadaa"
-
 msgid "GLTEXMNU_SORTDRAWLIST"
 msgstr "Sortiraj popise crteža po teksturi"
 
@@ -4420,9 +4357,6 @@ msgstr "Dinamična svjetla"
 
 msgid "GLLIGHTMNU_LIGHTSENABLED"
 msgstr "Dinamička svjetla (hardver)"
-
-msgid "GLLIGHTMNU_LIGHTDEFS"
-msgstr "Omogući definicije svjetla"
 
 msgid "GLLIGHTMNU_LIGHTSPRITES"
 msgstr "Svjetla utječu na naknadaove"
@@ -4518,9 +4452,6 @@ msgstr "Doom Naslijedno Izdanje"
 msgid "OPTVAL_SOFTWARE"
 msgstr "Softver"
 
-msgid "OPTVAL_OPTIMAL"
-msgstr "Optimalno"
-
 msgid "OPTVAL_YAXIS"
 msgstr "Y os"
 
@@ -4595,9 +4526,6 @@ msgstr "Opcije TrueColor"
 
 msgid "TCMNU_TITLE"
 msgstr "Opcije TrueColor"
-
-msgid "TCMNU_TRUECOLOR"
-msgstr "Izlaz u pravim bojama"
 
 msgid "TCMNU_MINFILTER"
 msgstr "Linearni filter prilikom smanjenja skale"
@@ -4704,9 +4632,6 @@ msgstr "Križić"
 
 msgid "MSGMNU_SUBTITLES"
 msgstr "Podnaslovi"
-
-msgid "GLPREFMNU_PALTONENOGREY"
-msgstr "Spriječite sive sjene"
 
 msgid "HUDMNU_FONTOPTIONS"
 msgstr "Opcije fonta"
@@ -5069,9 +4994,6 @@ msgstr "Vrijeme odbrojavanja glasova (sekunde)"
 # online.
 msgid "NETMNU_CHATSLOMO"
 msgstr "Usporeni način razgovora (sekunde)"
-
-msgid "JOYMNU_HAPTRIGGERS"
-msgstr "Omogući haptičke okidače"
 
 msgid "OPTMNU_HAPTICS"
 msgstr "Haptičke opcije"

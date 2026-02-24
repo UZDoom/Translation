@@ -3369,9 +3369,6 @@ msgstr "Øyeblikkelig bevegelige gulv er ikke stille"
 msgid "CMPTMNU_SECTORSOUNDS"
 msgstr "Sektorlyder bruker senter som kilde"
 
-msgid "CMPTMNU_SOUNDCUTOFF"
-msgstr "Lyder stopper når skuespilleren forsvinner"
-
 msgid "CMPTMNU_SOUNDTARGET"
 msgstr "Bruk original lydmålhåndtering"
 
@@ -3843,9 +3840,6 @@ msgstr "Bruk fuzz-effekt"
 msgid "DSPLYMNU_OLDTRANS"
 msgstr "Klassisk gjennomsiktighet"
 
-msgid "DSPLYMNU_TRANSSOUL"
-msgstr "Lost Soul gjennomskinnelighet"
-
 msgid "DSPLYMNU_FAKECONTRAST"
 msgstr "Bruk falsk kontrast"
 
@@ -3999,9 +3993,6 @@ msgstr "Nettverksalternativer"
 msgid "NETMNU_LOCALOPTIONS"
 msgstr "Lokale alternativer"
 
-msgid "NETMNU_MOVEPREDICTION"
-msgstr "Forutsigelse av bevegelse"
-
 msgid "NETMNU_LINESPECIALPREDICTION"
 msgstr "Forutsi linjehandlinger"
 
@@ -4016,15 +4007,6 @@ msgstr "Vertsalternativer"
 
 msgid "NETMNU_EXTRATICS"
 msgstr "Ekstra tics"
-
-msgid "NETMNU_TICBALANCE"
-msgstr "Balansering av ventetid"
-
-msgid "OPTVAL_ORIGINAL"
-msgstr ""
-
-msgid "OPTVAL_OPTIMIZED"
-msgstr "Optimalisert"
 
 msgid "OPTVAL_CLASSIC"
 msgstr "Klassisk (raskere)"
@@ -4092,15 +4074,6 @@ msgstr "Spiller"
 
 msgid "OPTVAL_MAP"
 msgstr "Kart"
-
-msgid "OPTVAL_SCALETO640X400"
-msgstr "Skala til 640x400"
-
-msgid "OPTVAL_PIXELDOUBLE"
-msgstr "Dobbel piksel"
-
-msgid "OPTVAL_PIXELQUADRUPLE"
-msgstr "Piksel firedoblet"
 
 msgid "OPTVAL_CURRENTWEAPON"
 msgstr "Nåværende våpen"
@@ -4195,15 +4168,6 @@ msgstr "Kun kartdefinerte farger"
 msgid "OPTVAL_NODOORS"
 msgstr "Alle unntatt dører"
 
-msgid "OPTVAL_DOUBLE"
-msgstr "Dobbel"
-
-msgid "OPTVAL_TRIPLE"
-msgstr "Trippel"
-
-msgid "OPTVAL_QUADRUPLE"
-msgstr "Firedoblet"
-
 msgid "OPTVAL_ITEMPICKUP"
 msgstr "Varehenting"
 
@@ -4252,9 +4216,6 @@ msgstr "MBF21 (streng)"
 msgid "OPTVAL_ZDOOM2063"
 msgstr ""
 
-msgid "OPTVAL_ALLUNACKNOWLEDGED"
-msgstr "Alle ubekreftet"
-
 msgid "OPTVAL_ERRORS"
 msgstr "Feil"
 
@@ -4276,12 +4237,6 @@ msgstr ""
 msgid "OPTVAL_SWDOOMTC"
 msgstr ""
 
-msgid "OPTVAL_DEDICATED"
-msgstr "Høy ytelse"
-
-msgid "OPTVAL_INTEGRATED"
-msgstr "Strømsparende"
-
 msgid "OPTVAL_VANILLA"
 msgstr ""
 
@@ -4290,12 +4245,6 @@ msgstr "ZDoom (Tvunget)"
 
 msgid "OPTVAL_VTFVANILLA"
 msgstr "Vanilla (Tvunget)"
-
-msgid "OPTVAL_VTAZDOOM"
-msgstr "Auto (ZDoom foretrukket)"
-
-msgid "OPTVAL_VTAVANILLA"
-msgstr "Auto (Vanilla foretrukket)"
 
 msgid "OPTVAL_SMALL"
 msgstr "Liten"
@@ -4390,16 +4339,10 @@ msgstr ""
 msgid "OPTSTR_CHEX"
 msgstr ""
 
-msgid "OPTSTR_NOSOUND"
-msgstr "Ingen lyd"
-
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr "Ingen interpolasjon"
 
 msgid "OPTSTR_SPLINE"
-msgstr ""
-
-msgid "OPTSTR_OPENAL"
 msgstr ""
 
 msgid "DSPLYMNU_GLOPT"
@@ -4414,12 +4357,6 @@ msgstr "Alternativer for maskinvaregjengivelse"
 msgid "GLMNU_DYNLIGHT"
 msgstr "Alternativer for dynamisk lys"
 
-msgid "GLMNU_PREFS"
-msgstr "Innstillinger"
-
-msgid "GLTEXMNU_TRIMSPREDGE"
-msgstr "Trim sprite kanter"
-
 msgid "GLTEXMNU_SORTDRAWLIST"
 msgstr "Sorter tegningslister etter tekstur"
 
@@ -4428,9 +4365,6 @@ msgstr "Dynamiske lys"
 
 msgid "GLLIGHTMNU_LIGHTSENABLED"
 msgstr "Dynamiske lys (maskinvare)"
-
-msgid "GLLIGHTMNU_LIGHTDEFS"
-msgstr "Aktiver lysdefinisjoner"
 
 msgid "GLLIGHTMNU_LIGHTSPRITES"
 msgstr "Lys påvirker sprites"
@@ -4526,9 +4460,6 @@ msgstr ""
 msgid "OPTVAL_SOFTWARE"
 msgstr ""
 
-msgid "OPTVAL_OPTIMAL"
-msgstr ""
-
 msgid "OPTVAL_YAXIS"
 msgstr "Y-akse"
 
@@ -4600,9 +4531,6 @@ msgstr "TrueColor-alternativer"
 
 msgid "TCMNU_TITLE"
 msgstr "TrueColor-alternativer"
-
-msgid "TCMNU_TRUECOLOR"
-msgstr "Ekte fargeutgang"
 
 msgid "TCMNU_MINFILTER"
 msgstr "Lineært filter ved nedskalering"
@@ -4708,9 +4636,6 @@ msgstr "Trådkors"
 
 msgid "MSGMNU_SUBTITLES"
 msgstr "Undertekster"
-
-msgid "GLPREFMNU_PALTONENOGREY"
-msgstr "Forhindre grå skygger"
 
 msgid "HUDMNU_FONTOPTIONS"
 msgstr "Alternativer for skrifttype"
@@ -5071,9 +4996,6 @@ msgstr ""
 # Forces a cool down between chat messages for all players when playing
 # online.
 msgid "NETMNU_CHATSLOMO"
-msgstr ""
-
-msgid "JOYMNU_HAPTRIGGERS"
 msgstr ""
 
 msgid "OPTMNU_HAPTICS"

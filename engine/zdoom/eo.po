@@ -3367,9 +3367,6 @@ msgstr "Tujaj movantaj plankoj ne estas silentaj"
 msgid "CMPTMNU_SECTORSOUNDS"
 msgstr "Sektorsonoj uzas centron kiel fonto"
 
-msgid "CMPTMNU_SOUNDCUTOFF"
-msgstr "Sonoj ĉesas, kiam aktoro malaperas"
-
 msgid "CMPTMNU_SOUNDTARGET"
 msgstr "Uzi originalan manipuladon por soncelo"
 
@@ -3841,9 +3838,6 @@ msgstr "Uzi barblano-efekton"
 msgid "DSPLYMNU_OLDTRANS"
 msgstr "Klasika Travidebleco"
 
-msgid "DSPLYMNU_TRANSSOUL"
-msgstr "Diafaneco de Perdita Animo"
-
 msgid "DSPLYMNU_FAKECONTRAST"
 msgstr "Uzi malveran kontraston"
 
@@ -3997,9 +3991,6 @@ msgstr "Reta Agordoj"
 msgid "NETMNU_LOCALOPTIONS"
 msgstr "Lokaj agordoj"
 
-msgid "NETMNU_MOVEPREDICTION"
-msgstr "Movprognozado"
-
 msgid "NETMNU_LINESPECIALPREDICTION"
 msgstr "Prognozi linio-agojn"
 
@@ -4014,15 +4005,6 @@ msgstr "Agordoj de Gastiganto"
 
 msgid "NETMNU_EXTRATICS"
 msgstr "Ekstraj Tikoj"
-
-msgid "NETMNU_TICBALANCE"
-msgstr "Respondotempo-balancado"
-
-msgid "OPTVAL_ORIGINAL"
-msgstr "Originala"
-
-msgid "OPTVAL_OPTIMIZED"
-msgstr "Optimumigita"
 
 msgid "OPTVAL_CLASSIC"
 msgstr "Klasika (Pli rapide)"
@@ -4090,15 +4072,6 @@ msgstr "Ludanto"
 
 msgid "OPTVAL_MAP"
 msgstr "Mapo"
-
-msgid "OPTVAL_SCALETO640X400"
-msgstr "Skali al 640x400"
-
-msgid "OPTVAL_PIXELDOUBLE"
-msgstr "Bilderon duobligi"
-
-msgid "OPTVAL_PIXELQUADRUPLE"
-msgstr "Bilderon kvarobligi"
 
 msgid "OPTVAL_CURRENTWEAPON"
 msgstr "Nuntempa armilo"
@@ -4193,15 +4166,6 @@ msgstr "Nur mapaj difinitaj koloroj"
 msgid "OPTVAL_NODOORS"
 msgstr "Ĉiom krom pordoj"
 
-msgid "OPTVAL_DOUBLE"
-msgstr "Duobligi"
-
-msgid "OPTVAL_TRIPLE"
-msgstr "Triobligi"
-
-msgid "OPTVAL_QUADRUPLE"
-msgstr "Kvarobligi"
-
 msgid "OPTVAL_ITEMPICKUP"
 msgstr "Objektoprenado"
 
@@ -4250,9 +4214,6 @@ msgstr "MBF21 (severa)"
 msgid "OPTVAL_ZDOOM2063"
 msgstr "ZDoom 2.0.63"
 
-msgid "OPTVAL_ALLUNACKNOWLEDGED"
-msgstr "Ĉiuj neagnoskitaj"
-
 msgid "OPTVAL_ERRORS"
 msgstr "Eraroj"
 
@@ -4274,12 +4235,6 @@ msgstr "Programar-bildigilo de Doom"
 msgid "OPTVAL_SWDOOMTC"
 msgstr "Programar-bildigilo kun plenkoloro"
 
-msgid "OPTVAL_DEDICATED"
-msgstr "Alta rendimento"
-
-msgid "OPTVAL_INTEGRATED"
-msgstr "Energikonservo"
-
 msgid "OPTVAL_VANILLA"
 msgstr "Originala ludversio"
 
@@ -4288,12 +4243,6 @@ msgstr "ZDoom (devigita)"
 
 msgid "OPTVAL_VTFVANILLA"
 msgstr "Originala ludversio (devigita)"
-
-msgid "OPTVAL_VTAZDOOM"
-msgstr "Aŭtomata (preferata de ZDoom)"
-
-msgid "OPTVAL_VTAVANILLA"
-msgstr "Aŭtomata (preferata de la originala)"
 
 msgid "OPTVAL_SMALL"
 msgstr "Malgranda"
@@ -4388,17 +4337,11 @@ msgstr "Heretic"
 msgid "OPTSTR_CHEX"
 msgstr "Chex"
 
-msgid "OPTSTR_NOSOUND"
-msgstr "Neniu sono"
-
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr "Neniu interpolado"
 
 msgid "OPTSTR_SPLINE"
 msgstr "Splajno"
-
-msgid "OPTSTR_OPENAL"
-msgstr "OpenAL"
 
 msgid "DSPLYMNU_GLOPT"
 msgstr "Aparatara bildigilo"
@@ -4412,12 +4355,6 @@ msgstr "Agordoj de OpenGL (aparatara bildigilo)"
 msgid "GLMNU_DYNLIGHT"
 msgstr "Agordoj de dinamikaj lumoj"
 
-msgid "GLMNU_PREFS"
-msgstr "Preferoj"
-
-msgid "GLTEXMNU_TRIMSPREDGE"
-msgstr "Ĉirkaŭtranĉi randojn de mov-rastrumoj"
-
 msgid "GLTEXMNU_SORTDRAWLIST"
 msgstr "Ordigi desegnado-listojn laŭ teksturo"
 
@@ -4426,9 +4363,6 @@ msgstr "Dinamikaj lumoj"
 
 msgid "GLLIGHTMNU_LIGHTSENABLED"
 msgstr "Dinamikaj lumoj (Aparataro)"
-
-msgid "GLLIGHTMNU_LIGHTDEFS"
-msgstr "Ŝalti lumdifinojn"
 
 msgid "GLLIGHTMNU_LIGHTSPRITES"
 msgstr "Lumoj efikas mov-rastrumojn"
@@ -4524,9 +4458,6 @@ msgstr "Doom Legacy"
 msgid "OPTVAL_SOFTWARE"
 msgstr "Programa bildigilo"
 
-msgid "OPTVAL_OPTIMAL"
-msgstr "Optima"
-
 msgid "OPTVAL_YAXIS"
 msgstr "Y-Akso"
 
@@ -4601,9 +4532,6 @@ msgstr "Plenkolora Agordoj"
 
 msgid "TCMNU_TITLE"
 msgstr "Plenkolora Agordoj"
-
-msgid "TCMNU_TRUECOLOR"
-msgstr "Plenkolora eligo"
 
 msgid "TCMNU_MINFILTER"
 msgstr "Linia filtro kiam subskali"
@@ -4710,9 +4638,6 @@ msgstr "Reteto"
 
 msgid "MSGMNU_SUBTITLES"
 msgstr "Subtekstoj"
-
-msgid "GLPREFMNU_PALTONENOGREY"
-msgstr "Preventi grizajn ombrojn"
 
 msgid "HUDMNU_FONTOPTIONS"
 msgstr "Tiparo-agordoj"
@@ -5076,9 +5001,6 @@ msgstr "Tempo de voĉdono-ĝisnombrado (sekundoj)"
 msgid "NETMNU_CHATSLOMO"
 msgstr "Malrapida babilo-reĝimo (sekundoj)"
 
-msgid "JOYMNU_HAPTRIGGERS"
-msgstr "Ŝalti tuŝ-ekagilojn"
-
 msgid "OPTMNU_HAPTICS"
 msgstr "Tuŝo-agordoj"
 
@@ -5308,9 +5230,6 @@ msgstr "Bildo-kalibro"
 msgid "DSPLYMNU_BLACKPOINT"
 msgstr "Kompenso de nigropunkto"
 
-msgid "DSPLYMNU_WHITEPOINT"
-msgstr "Kompenso de blankopunkto"
-
 msgid "DSPLYMNU_IMAGEADJUST_BOTTOM"
 msgstr "Agordu ĉi tiun ĝis ĝi aspektas kiel unuforma griza koloro."
 
@@ -5356,12 +5275,6 @@ msgstr ""
 "Kompensas la limigojn de via ekrano. Agordu ĝis la vertikalaj grizaj blokoj "
 "dissolvas. Ne uzu ĉi tiun por briligi la ludon, nur uzi ĝin certigi, ke la "
 "bildo estas kalibrita por via agordaĵo."
-
-msgid "DSPLYMNU_TOOLTIP_WHITEPOINT"
-msgstr ""
-"Kompensas por ekranoj, kiuj ne vidigas helajn bilderojn ĝuste. Agordu ĝis la "
-"diagonalaj nigraj blokoj dissolvas. Ne uzu ĉi tiun por briligi la ludon, nur "
-"uzi ĝin certigi, ke la bildo estas kalibrita por via agordaĵo."
 
 msgid "DSPLYMNU_TOOLTIP_BLACKPOINT"
 msgstr ""

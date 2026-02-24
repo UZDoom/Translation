@@ -3369,9 +3369,6 @@ msgstr "Підлога яка моментально рухається не б�
 msgid "CMPTMNU_SECTORSOUNDS"
 msgstr "Звуки секторів використовують центр як джерело звуку"
 
-msgid "CMPTMNU_SOUNDCUTOFF"
-msgstr "Зупиняти звуки при зникненні об'єкту"
-
 msgid "CMPTMNU_SOUNDTARGET"
 msgstr "Використовувати оригінальну обробку звуку"
 
@@ -3843,9 +3840,6 @@ msgstr "Використовувати ефект шуму"
 msgid "DSPLYMNU_OLDTRANS"
 msgstr "Класична прозорість"
 
-msgid "DSPLYMNU_TRANSSOUL"
-msgstr "Прозорість втрачених душ"
-
 msgid "DSPLYMNU_FAKECONTRAST"
 msgstr "Імітація контрастного освітлення"
 
@@ -3999,9 +3993,6 @@ msgstr "Налаштування мережі"
 msgid "NETMNU_LOCALOPTIONS"
 msgstr "Локальні налаштування"
 
-msgid "NETMNU_MOVEPREDICTION"
-msgstr "Прогнозування руху"
-
 msgid "NETMNU_LINESPECIALPREDICTION"
 msgstr "Прогнозування дій на карті"
 
@@ -4016,15 +4007,6 @@ msgstr "Налаштування сервера"
 
 msgid "NETMNU_EXTRATICS"
 msgstr "Додаткові тіки"
-
-msgid "NETMNU_TICBALANCE"
-msgstr "Балансування затримки"
-
-msgid "OPTVAL_ORIGINAL"
-msgstr "Початковий"
-
-msgid "OPTVAL_OPTIMIZED"
-msgstr "Оптимізований"
 
 msgid "OPTVAL_CLASSIC"
 msgstr "Класичний (швидше)"
@@ -4092,15 +4074,6 @@ msgstr "Гравець"
 
 msgid "OPTVAL_MAP"
 msgstr "Карта"
-
-msgid "OPTVAL_SCALETO640X400"
-msgstr "Масштабувати до 640x400"
-
-msgid "OPTVAL_PIXELDOUBLE"
-msgstr "Подвійні пікселі"
-
-msgid "OPTVAL_PIXELQUADRUPLE"
-msgstr "Четверні пікселі"
 
 msgid "OPTVAL_CURRENTWEAPON"
 msgstr "поточної зброї"
@@ -4195,15 +4168,6 @@ msgstr "Тільки кольори, визначені картою"
 msgid "OPTVAL_NODOORS"
 msgstr "Все крім дверей"
 
-msgid "OPTVAL_DOUBLE"
-msgstr "Подвійний"
-
-msgid "OPTVAL_TRIPLE"
-msgstr "Потрійний"
-
-msgid "OPTVAL_QUADRUPLE"
-msgstr "Четверний"
-
 msgid "OPTVAL_ITEMPICKUP"
 msgstr "Підняття предметів"
 
@@ -4252,9 +4216,6 @@ msgstr "MBF21 (суворий)"
 msgid "OPTVAL_ZDOOM2063"
 msgstr "ZDoom 2.0.63"
 
-msgid "OPTVAL_ALLUNACKNOWLEDGED"
-msgstr "Всі невідомі"
-
 msgid "OPTVAL_ERRORS"
 msgstr "Помилки"
 
@@ -4276,12 +4237,6 @@ msgstr "Програмний рендер (Doom)"
 msgid "OPTVAL_SWDOOMTC"
 msgstr "True Color програмний рендер"
 
-msgid "OPTVAL_DEDICATED"
-msgstr "Високопродуктивний"
-
-msgid "OPTVAL_INTEGRATED"
-msgstr "Енергозбереження"
-
 msgid "OPTVAL_VANILLA"
 msgstr "Ванільний"
 
@@ -4290,12 +4245,6 @@ msgstr "ZDoom (примусово)"
 
 msgid "OPTVAL_VTFVANILLA"
 msgstr "Vanilla (примусово)"
-
-msgid "OPTVAL_VTAZDOOM"
-msgstr "Автоматично (переважно ZDoom)"
-
-msgid "OPTVAL_VTAVANILLA"
-msgstr "Автоматично (переважно Vanilla)"
 
 msgid "OPTVAL_SMALL"
 msgstr "Маленький"
@@ -4390,17 +4339,11 @@ msgstr "Heretic"
 msgid "OPTSTR_CHEX"
 msgstr "Chex"
 
-msgid "OPTSTR_NOSOUND"
-msgstr "Без звуку"
-
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr "Без інтерполяції"
 
 msgid "OPTSTR_SPLINE"
 msgstr "Сплайн"
-
-msgid "OPTSTR_OPENAL"
-msgstr "OpenAL"
 
 msgid "DSPLYMNU_GLOPT"
 msgstr "Апаратний рендер"
@@ -4414,12 +4357,6 @@ msgstr "Налаштування апаратного рендеру"
 msgid "GLMNU_DYNLIGHT"
 msgstr "Налаштування динамічного освітлення"
 
-msgid "GLMNU_PREFS"
-msgstr "Налаштування"
-
-msgid "GLTEXMNU_TRIMSPREDGE"
-msgstr "Обрізати краї спрайтів"
-
 msgid "GLTEXMNU_SORTDRAWLIST"
 msgstr "Сортувати списки текстур"
 
@@ -4428,9 +4365,6 @@ msgstr "Динамічне освітлення"
 
 msgid "GLLIGHTMNU_LIGHTSENABLED"
 msgstr "Динамічне освітлення (OpenGL)"
-
-msgid "GLLIGHTMNU_LIGHTDEFS"
-msgstr "Дозволити визначення світла"
 
 msgid "GLLIGHTMNU_LIGHTSPRITES"
 msgstr "Освітлення впливає на спрайти"
@@ -4526,9 +4460,6 @@ msgstr "Doom Legacy"
 msgid "OPTVAL_SOFTWARE"
 msgstr "Програмно"
 
-msgid "OPTVAL_OPTIMAL"
-msgstr "Оптимально"
-
 msgid "OPTVAL_YAXIS"
 msgstr "По горизонталі"
 
@@ -4603,9 +4534,6 @@ msgstr "Режим TrueColor"
 
 msgid "TCMNU_TITLE"
 msgstr "Налаштування TrueColor"
-
-msgid "TCMNU_TRUECOLOR"
-msgstr "Вивід TrueColor"
 
 msgid "TCMNU_MINFILTER"
 msgstr "Лінійний фільтр при зменшенні масштабу"
@@ -4708,9 +4636,6 @@ msgstr "Приціл"
 
 msgid "MSGMNU_SUBTITLES"
 msgstr "Субтитри"
-
-msgid "GLPREFMNU_PALTONENOGREY"
-msgstr "Прибрати сірі тіні"
 
 msgid "HUDMNU_FONTOPTIONS"
 msgstr "Налаштування шрифтів"
@@ -5075,9 +5000,6 @@ msgstr "Таймер голосування (секунди)"
 # online.
 msgid "NETMNU_CHATSLOMO"
 msgstr "Повільний режим чату (секунди)"
-
-msgid "JOYMNU_HAPTRIGGERS"
-msgstr "Увімкнути тактильні курки"
 
 #, fuzzy
 msgid "OPTMNU_HAPTICS"

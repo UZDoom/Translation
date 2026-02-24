@@ -3410,9 +3410,6 @@ msgstr "Direct bewegende vloeren zijn niet geruisloos"
 msgid "CMPTMNU_SECTORSOUNDS"
 msgstr "Sectorgeluiden gebruiken centrum als bron"
 
-msgid "CMPTMNU_SOUNDCUTOFF"
-msgstr "Geluiden stoppen wanneer de acteur verdwijnt"
-
 msgid "CMPTMNU_SOUNDTARGET"
 msgstr "Gebruik originele geluidsdoelwitverwerking"
 
@@ -3886,9 +3883,6 @@ msgstr "Gebruik fuzz effect"
 msgid "DSPLYMNU_OLDTRANS"
 msgstr "Klassieke transparantie"
 
-msgid "DSPLYMNU_TRANSSOUL"
-msgstr "Verloren Ziel doorschijnendheid"
-
 msgid "DSPLYMNU_FAKECONTRAST"
 msgstr "Gebruik vals contrast"
 
@@ -4044,9 +4038,6 @@ msgstr "Netwerkopties"
 msgid "NETMNU_LOCALOPTIONS"
 msgstr "Lokale opties"
 
-msgid "NETMNU_MOVEPREDICTION"
-msgstr "Voorspelling van bewegingen"
-
 msgid "NETMNU_LINESPECIALPREDICTION"
 msgstr "Voorspel lijnacties"
 
@@ -4062,15 +4053,6 @@ msgstr "Verhuurders opties"
 
 msgid "NETMNU_EXTRATICS"
 msgstr "Extra tics"
-
-msgid "NETMNU_TICBALANCE"
-msgstr "Latency balans"
-
-msgid "OPTVAL_ORIGINAL"
-msgstr "Origineel"
-
-msgid "OPTVAL_OPTIMIZED"
-msgstr "Geoptimaliseerd"
 
 msgid "OPTVAL_CLASSIC"
 msgstr "Klassiek (sneller)"
@@ -4143,15 +4125,6 @@ msgstr "Speler"
 
 msgid "OPTVAL_MAP"
 msgstr "Kaart"
-
-msgid "OPTVAL_SCALETO640X400"
-msgstr "Schaal tot 640x400"
-
-msgid "OPTVAL_PIXELDOUBLE"
-msgstr "Pixel dubbel"
-
-msgid "OPTVAL_PIXELQUADRUPLE"
-msgstr "Pixel viervoudig"
 
 msgid "OPTVAL_CURRENTWEAPON"
 msgstr "Huidig wapen"
@@ -4246,15 +4219,6 @@ msgstr "Alleen gedefinieerde kleuren op de kaart"
 msgid "OPTVAL_NODOORS"
 msgstr "Allemaal behalve deuren"
 
-msgid "OPTVAL_DOUBLE"
-msgstr "Dubbele"
-
-msgid "OPTVAL_TRIPLE"
-msgstr "Drievoudig"
-
-msgid "OPTVAL_QUADRUPLE"
-msgstr "Viervoudig"
-
 msgid "OPTVAL_ITEMPICKUP"
 msgstr "Puntafhaling"
 
@@ -4304,9 +4268,6 @@ msgstr "MBF21 (streng)"
 msgid "OPTVAL_ZDOOM2063"
 msgstr "ZDoom 2.0.63"
 
-msgid "OPTVAL_ALLUNACKNOWLEDGED"
-msgstr "Allemaal onbekend"
-
 msgid "OPTVAL_ERRORS"
 msgstr "Fouten"
 
@@ -4329,12 +4290,6 @@ msgstr "Doom Software Renderer"
 msgid "OPTVAL_SWDOOMTC"
 msgstr "True Color SW-renderer"
 
-msgid "OPTVAL_DEDICATED"
-msgstr "Hoogwaardige prestaties"
-
-msgid "OPTVAL_INTEGRATED"
-msgstr "Energiebesparing"
-
 msgid "OPTVAL_VANILLA"
 msgstr "Vanille"
 
@@ -4343,12 +4298,6 @@ msgstr "ZDoom (Gedwongen)"
 
 msgid "OPTVAL_VTFVANILLA"
 msgstr "Vanilla (Gedwongen)"
-
-msgid "OPTVAL_VTAZDOOM"
-msgstr "Auto (bij voorkeur ZDoom)"
-
-msgid "OPTVAL_VTAVANILLA"
-msgstr "Auto (bij voorkeur Vanilla)"
 
 msgid "OPTVAL_SMALL"
 msgstr "Klein"
@@ -4444,18 +4393,11 @@ msgstr "Ketter"
 msgid "OPTSTR_CHEX"
 msgstr "Chex"
 
-msgid "OPTSTR_NOSOUND"
-msgstr "Geen geluid"
-
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr "Geen interpolatie"
 
 msgid "OPTSTR_SPLINE"
 msgstr "Spline"
-
-#, fuzzy
-msgid "OPTSTR_OPENAL"
-msgstr "OpenAL"
 
 msgid "DSPLYMNU_GLOPT"
 msgstr "Hardware-renderer"
@@ -4469,12 +4411,6 @@ msgstr "Hardware Rendering Opties"
 msgid "GLMNU_DYNLIGHT"
 msgstr "Dynamische Licht Opties"
 
-msgid "GLMNU_PREFS"
-msgstr "Voorkeuren"
-
-msgid "GLTEXMNU_TRIMSPREDGE"
-msgstr "Sprite-randen bijsnijden"
-
 msgid "GLTEXMNU_SORTDRAWLIST"
 msgstr "Tekeninglijsten sorteren op textuur"
 
@@ -4483,9 +4419,6 @@ msgstr "Dynamische verlichting"
 
 msgid "GLLIGHTMNU_LIGHTSENABLED"
 msgstr "Dynamische verlichting (hardware)"
-
-msgid "GLLIGHTMNU_LIGHTDEFS"
-msgstr "Lichtdefinities mogelijk maken"
 
 msgid "GLLIGHTMNU_LIGHTSPRITES"
 msgstr "Lichten beïnvloeden sprites"
@@ -4582,9 +4515,6 @@ msgstr "Doom Legacy"
 msgid "OPTVAL_SOFTWARE"
 msgstr "Software"
 
-msgid "OPTVAL_OPTIMAL"
-msgstr "Optimaal"
-
 msgid "OPTVAL_YAXIS"
 msgstr "Y-as"
 
@@ -4660,9 +4590,6 @@ msgstr "TrueColor Opties"
 
 msgid "TCMNU_TITLE"
 msgstr "TrueColor Opties"
-
-msgid "TCMNU_TRUECOLOR"
-msgstr "Ware kleurenoutput"
 
 msgid "TCMNU_MINFILTER"
 msgstr "Lineair filter voor downscaling"
@@ -4769,9 +4696,6 @@ msgstr "Draadkruis"
 
 msgid "MSGMNU_SUBTITLES"
 msgstr "Ondertitels"
-
-msgid "GLPREFMNU_PALTONENOGREY"
-msgstr "Voorkom grijze schaduwen"
 
 msgid "HUDMNU_FONTOPTIONS"
 msgstr "Lettertype opties"
@@ -5140,9 +5064,6 @@ msgstr "Aftellen tot stemming (seconden)"
 # online.
 msgid "NETMNU_CHATSLOMO"
 msgstr "Chat Slow Mode (seconden)"
-
-msgid "JOYMNU_HAPTRIGGERS"
-msgstr "Haptische triggers inschakelen"
 
 msgid "OPTMNU_HAPTICS"
 msgstr "Haptische opties"
