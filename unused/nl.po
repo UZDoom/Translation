@@ -2,8 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 05:20+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-02-24 05:38+0000\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
+"memory@weblate.org>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/uzdoom/unused/nl/>"
 "\n"
 "Language: nl\n"
@@ -17,36 +18,36 @@ msgid "ADVSNDMNU_ADLOPLCORES"
 msgstr "OPL Emulator Kern"
 
 msgid "ADVSNDMNU_FLUIDPATCHSET"
-msgstr ""
+msgstr "Patchset"
 
 msgid "ADVSNDMNU_GUSCONFIG"
-msgstr ""
+msgstr "GUS-configuratiebestand"
 
 # Jargon.
 msgid "ADVSNDMNU_TIMIDITYCONFIG"
-msgstr ""
+msgstr "Timidity++ configuratiebestand"
 
 msgid "ADVSNDMNU_TIMIDITYVOLUME"
-msgstr ""
+msgstr "Relatief volume"
 
 # Jargon.
 msgid "ADVSNDMNU_WILDMIDICONFIG"
-msgstr ""
+msgstr "WildMidi configuratiebestand"
 
 msgid "CNTRLMNU_ADJUST_GAMMA"
-msgstr ""
+msgstr "Gamma aanpassen"
 
 msgid "CNTRLMNU_CHAT"
-msgstr ""
+msgstr "Chat"
 
 msgid "CNTRLMNU_CHAT_TITLE"
-msgstr ""
+msgstr "Chat-controles aanpassen aan uw wensen"
 
 msgid "DSPLYMNU_ADVANCED"
-msgstr ""
+msgstr "Geavanceerde Weergave Opties"
 
 msgid "DSPLYMNU_APPEARANCE"
-msgstr ""
+msgstr "Uiterlijk"
 
 msgid "DSPLYMNU_CROSSHAIRSCALE"
 msgstr "Dradenkruis schalen"
@@ -55,46 +56,46 @@ msgid "DSPLYMNU_MESSAGES"
 msgstr "Berichten"
 
 msgid "DSPLYMNU_SBSCALE"
-msgstr ""
+msgstr "Statusbalkschaal"
 
 msgid "GLTEXMNU_ENABLEHIRES"
-msgstr ""
+msgstr "Hoge-resolutie texturen op"
 
 msgid "GLTEXMNU_TEXENABLED"
-msgstr ""
+msgstr "Texturen ingeschakeld"
 
 msgid "MOUSEMNU_SMOOTHMOUSE"
 msgstr "Vlotte muisbeweging"
 
 msgid "MSGMNU_MESSAGESCALE"
-msgstr ""
+msgstr "Berichtschaal"
 
 msgid "NOTSET"
-msgstr ""
+msgstr "Niet ingesteld"
 
 msgid "OPTMNU_INPUT"
-msgstr ""
+msgstr "In1voeropties"
 
 msgid "OPTMNU_LIGHT"
-msgstr ""
+msgstr "Licht Opties"
 
 msgid "OPTMNU_MULTIPLAYER"
-msgstr ""
+msgstr "Multiplayer Opties"
 
 msgid "OPTMNU_SPRITE"
-msgstr ""
+msgstr "Sprite-opties"
 
 msgid "OPTMNU_SYSTEM"
-msgstr ""
+msgstr "Systeem Opties"
 
 msgid "OPTVAL_4000HZ"
-msgstr ""
+msgstr "4000 Hz"
 
 msgid "OPTVAL_AUTOMAP"
-msgstr ""
+msgstr "Automatische kaart"
 
 msgid "OPTVAL_HUD"
-msgstr ""
+msgstr "HUD"
 
 msgid "OPTVAL_HUDANDMAP"
 msgstr ""
@@ -103,101 +104,101 @@ msgid "OPTVAL_PMDWINOPNA"
 msgstr ""
 
 msgid "OPTVAL_SCALENEAREST"
-msgstr ""
+msgstr "Geschaald (Dichtstbijzijnd)"
 
 msgid "OPTVAL_SCALELINEAR"
-msgstr ""
+msgstr "Geschaald (Lineair)"
 
 msgid "PICKER_NETAUTO"
-msgstr ""
+msgstr "Auto (aanbevolen)"
 
 msgid "PICKER_NETMODE"
-msgstr ""
+msgstr "Netwerkmodus:"
 
 # Players connect to each other individually.
 msgid "PICKER_NETPEER"
-msgstr ""
+msgstr "Peer-to-peer"
 
 # Connections are routed through the host instead of all players connecting to
 # each other individually.
 msgid "PICKER_NETSERVER"
-msgstr ""
+msgstr "Pakket-server"
 
 # Jargon.
 msgid "REVMNU_AIR_ABSORPTION_HF"
-msgstr ""
+msgstr "Luchtabsorptie HF"
 
 # Jargon.
 msgid "REVMNU_DECAY_HF_RATIO"
-msgstr ""
+msgstr "Verval HF-verhouding"
 
 # Jargon.
 msgid "REVMNU_DECAY_LF_RATIO"
-msgstr ""
+msgstr "Verval LF-verhouding"
 
 # Jargon.
 msgid "REVMNU_DECAY_TIME"
-msgstr ""
+msgstr "Vervaldtijd"
 
 # Jargon.
 msgid "REVMNU_DENSITY"
-msgstr ""
+msgstr "Dichtheid"
 
 # Jargon.
 msgid "REVMNU_DIFFUSION"
-msgstr ""
+msgstr "Diffusie"
 
 # Jargon.
 msgid "REVMNU_ECHO_DEPTH"
-msgstr ""
+msgstr "Echo-diepte"
 
 # Jargon.
 msgid "REVMNU_ECHO_TIME"
-msgstr ""
+msgstr "Echotijd"
 
 # Jargon.
 msgid "REVMNU_ENVIRONMENT_DIFFUSION"
-msgstr ""
+msgstr "Milieuverspreiding"
 
 # Jargon.
 msgid "REVMNU_ENVIRONMENT_SIZE"
-msgstr ""
+msgstr "Omgeving Grootte"
 
 # Jargon.
 msgid "REVMNU_HF_REFERENCE"
-msgstr ""
+msgstr "HF-referentie"
 
 # Jargon.
 msgid "REVMNU_LF_REFERENCE"
-msgstr ""
+msgstr "LF-referentie"
 
 # Jargon.
 msgid "REVMNU_MODULATION_DEPTH"
-msgstr ""
+msgstr "Modulatie diepte"
 
 # Jargon.
 msgid "REVMNU_MODULATION_TIME"
-msgstr ""
+msgstr "Modulatietijd"
 
 # Jargon.
 msgid "REVMNU_REFLECTIONS"
-msgstr ""
+msgstr "Reflecties"
 
 # Jargon.
 msgid "REVMNU_REFLECTIONS_DELAY"
-msgstr ""
+msgstr "Reflecties Vertraging"
 
 # Jargon.
 msgid "REVMNU_REFLECTIONS_PAN_X"
-msgstr ""
+msgstr "Reflecties Pan X"
 
 # Jargon.
 msgid "REVMNU_REFLECTIONS_PAN_Y"
-msgstr ""
+msgstr "Reflecties Pan Y"
 
 # Jargon.
 msgid "REVMNU_REFLECTIONS_PAN_Z"
-msgstr ""
+msgstr "Reflecties Pan Z"
 
 # Jargon.
 msgid "REVMNU_REVERB"
@@ -205,7 +206,7 @@ msgstr "Nagalm"
 
 # Jargon.
 msgid "REVMNU_REVERB_DELAY"
-msgstr ""
+msgstr "Reverb-vertraging"
 
 # Jargon.
 msgid "REVMNU_REVERB_PAN_X"
@@ -221,124 +222,124 @@ msgstr ""
 
 # Jargon.
 msgid "REVMNU_ROOM"
-msgstr ""
+msgstr "Kamer"
 
 # Jargon.
 msgid "REVMNU_ROOM_HF"
-msgstr ""
+msgstr "Kamer HF"
 
 # Jargon.
 msgid "REVMNU_ROOM_LF"
-msgstr ""
+msgstr "Kamer LF"
 
 # Jargon.
 msgid "REVMNU_ROOM_ROLLOFF_FACTOR"
-msgstr ""
+msgstr "Ruimte-rolloff-factor"
 
 msgid "SNDMNU_BACKEND"
-msgstr ""
+msgstr "Geluidsarme achterkant"
 
 msgid "SNDMNU_MENUSOUND"
-msgstr ""
+msgstr "Geluid in menu's"
 
 msgid "SNDMNU_MUSENABLED"
-msgstr ""
+msgstr "Muziek actief"
 
 msgid "SNDMNU_SNDENABLED"
-msgstr ""
+msgstr "Geluid actief"
 
 msgid "VIDMNU_5X4ASPECTRATIO"
-msgstr ""
+msgstr "Schakel 5:4 beeldverhouding in"
 
 msgid "VIDMNU_ASPECTRATIO"
 msgstr "Beeldverhouding"
 
 msgid "VKMNU_DEVICESELECT"
-msgstr ""
+msgstr "Selecteer Vulkan Apparaat"
 
 msgid "VKMNU_ENABLE"
-msgstr ""
+msgstr "Vulkan inschakelen"
 
 msgid "CMPTMNU_SOUNDCUTOFF"
-msgstr ""
+msgstr "Geluiden stoppen wanneer de acteur verdwijnt"
 
 msgid "DSPLYMNU_TOOLTIP_WHITEPOINT"
 msgstr ""
 
 msgid "DSPLYMNU_TRANSSOUL"
-msgstr ""
+msgstr "Verloren Ziel doorschijnendheid"
 
 msgid "DSPLYMNU_WHITEPOINT"
 msgstr ""
 
 msgid "GLLIGHTMNU_LIGHTDEFS"
-msgstr ""
+msgstr "Lichtdefinities mogelijk maken"
 
 msgid "GLMNU_PREFS"
-msgstr ""
+msgstr "Voorkeursinstellingen"
 
 msgid "GLPREFMNU_PALTONENOGREY"
-msgstr ""
+msgstr "Voorkom grijze schaduwen"
 
 msgid "GLTEXMNU_TRIMSPREDGE"
-msgstr ""
+msgstr "Sprite-randen bijsnijden"
 
 msgid "JOYMNU_HAPTRIGGERS"
-msgstr ""
+msgstr "Haptische triggers inschakelen"
 
 msgid "NETMNU_MOVEPREDICTION"
-msgstr ""
+msgstr "Voorspelling van bewegingen"
 
 msgid "NETMNU_TICBALANCE"
-msgstr ""
+msgstr "Latency balans"
 
 msgid "OPTSTR_NOSOUND"
-msgstr ""
+msgstr "Geen geluid"
 
 msgid "OPTSTR_OPENAL"
 msgstr ""
 
 msgid "OPTVAL_ALLUNACKNOWLEDGED"
-msgstr ""
+msgstr "Allemaal onbekend"
 
 msgid "OPTVAL_DEDICATED"
-msgstr ""
+msgstr "Hoogwaardige prestaties"
 
 msgid "OPTVAL_DOUBLE"
-msgstr ""
+msgstr "Dubbele"
 
 msgid "OPTVAL_INTEGRATED"
-msgstr ""
+msgstr "Energiebesparing"
 
 msgid "OPTVAL_OPTIMAL"
-msgstr ""
+msgstr "Optimaal"
 
 msgid "OPTVAL_OPTIMIZED"
-msgstr ""
+msgstr "Geoptimaliseerd"
 
 msgid "OPTVAL_ORIGINAL"
-msgstr ""
+msgstr "Origineel"
 
 msgid "OPTVAL_PIXELDOUBLE"
-msgstr ""
+msgstr "Pixel dubbel"
 
 msgid "OPTVAL_PIXELQUADRUPLE"
-msgstr ""
+msgstr "Pixel viervoudig"
 
 msgid "OPTVAL_QUADRUPLE"
-msgstr ""
+msgstr "Viervoudig"
 
 msgid "OPTVAL_SCALETO640X400"
-msgstr ""
+msgstr "Schaal tot 640x400"
 
 msgid "OPTVAL_TRIPLE"
-msgstr ""
+msgstr "Drievoudig"
 
 msgid "OPTVAL_VTAVANILLA"
-msgstr ""
+msgstr "Auto (bij voorkeur Vanilla)"
 
 msgid "OPTVAL_VTAZDOOM"
-msgstr ""
+msgstr "Auto (bij voorkeur ZDoom)"
 
 msgid "TCMNU_TRUECOLOR"
-msgstr ""
+msgstr "Ware kleurenoutput"
