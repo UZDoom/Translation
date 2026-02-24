@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 02:31+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-24 05:02+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/common/pl/>"
 "\n"
 "Language: pl\n"
@@ -1822,3 +1822,9 @@ msgstr "Grupuj powtarzające się wiadomości"
 
 msgid "MSGMNU_MESSAGEQUEUE"
 msgstr "Rozmiar kolejki wiadomości"
+
+msgid "DSPLYMNU_MESSAGES"
+msgstr "Wiadomości"
+
+msgid "VIDMNU_ASPECTRATIO"
+msgstr "Rozdzielczość"
