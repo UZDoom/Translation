@@ -2,18 +2,20 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: \n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-02-24 05:20+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/unused/"
+"ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Weblate 5.16.1-dev\n"
 
 msgid "ADVSNDMNU_ADLOPLCORES"
-msgstr ""
+msgstr "Ядро эмуляции OPL"
 
 msgid "ADVSNDMNU_FLUIDPATCHSET"
 msgstr ""
@@ -48,10 +50,10 @@ msgid "DSPLYMNU_APPEARANCE"
 msgstr ""
 
 msgid "DSPLYMNU_CROSSHAIRSCALE"
-msgstr ""
+msgstr "Размер прицела"
 
 msgid "DSPLYMNU_MESSAGES"
-msgstr ""
+msgstr "Сообщения"
 
 msgid "DSPLYMNU_SBSCALE"
 msgstr ""
@@ -63,7 +65,7 @@ msgid "GLTEXMNU_TEXENABLED"
 msgstr ""
 
 msgid "MOUSEMNU_SMOOTHMOUSE"
-msgstr ""
+msgstr "Плавное перемещение"
 
 msgid "MSGMNU_MESSAGESCALE"
 msgstr ""
@@ -200,7 +202,7 @@ msgstr ""
 
 # Jargon.
 msgid "REVMNU_REVERB"
-msgstr ""
+msgstr "Реверберация"
 
 # Jargon.
 msgid "REVMNU_REVERB_DELAY"
@@ -250,7 +252,7 @@ msgid "VIDMNU_5X4ASPECTRATIO"
 msgstr ""
 
 msgid "VIDMNU_ASPECTRATIO"
-msgstr ""
+msgstr "Соотношение сторон"
 
 msgid "VKMNU_DEVICESELECT"
 msgstr ""
