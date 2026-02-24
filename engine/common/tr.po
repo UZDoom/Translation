@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 18:38+0000\n"
+"PO-Revision-Date: 2026-02-24 19:45+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/uzdoom/common/"
 "tr/>\n"
@@ -1001,7 +1001,7 @@ msgid "OPTVAL_YMFMOPL3"
 msgstr ""
 
 msgid "OPTVAL_NUKEDOPL3"
-msgstr "Bombalanmış OPL3"
+msgstr "Nuked OPL3"
 
 msgid "OPTVAL_LLENUKEDOPL2"
 msgstr "OPL2-LLE (Sisteme ağır!)"
