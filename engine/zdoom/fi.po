@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 21:11+0000\n"
+"PO-Revision-Date: 2026-02-24 02:31+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fi/>\n"
@@ -347,13 +347,13 @@ msgid "TXT_BUDDHA2ON"
 msgstr "Korkein buddhatila PÄÄLLÄ"
 
 msgid "TXT_BUDDHA2OFF"
-msgstr "Korkein buddhatila POIS PÄÄLTÄ"
+msgstr "Korkein buddhatila POIS"
 
 msgid "TXT_CHEATPOWERON"
 msgstr "Voima PÄÄLLÄ"
 
 msgid "TXT_CHEATPOWEROFF"
-msgstr "Voima POIS PÄÄLTÄ"
+msgstr "Voima POIS"
 
 msgid "TXT_CHEATHEALTH"
 msgstr "Täysi terveys"
@@ -375,6 +375,7 @@ msgstr "Yrität huijata, vai? Nyt kuolet!"
 msgid "TXT_CHEATIDKFA"
 msgstr "Huijari—et ansaitse aseita"
 
+#, fuzzy
 msgid "TXT_CHEATTICKERON"
 msgstr "Laskuri päällä"
 
