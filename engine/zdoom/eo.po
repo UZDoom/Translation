@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 02:31+0000\n"
+"PO-Revision-Date: 2026-02-24 16:13+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/eo/>\n"
@@ -358,13 +358,11 @@ msgstr "Plena sano"
 msgid "TXT_CHEATKEYS"
 msgstr "Ĉiuj ŝlosiloj"
 
-#, fuzzy
 msgid "TXT_CHEATSOUNDON"
-msgstr "Sono-sencimiga reĝimo ŝaltita"
+msgstr "Sono-sencimiga reĝimo ŜALTITA"
 
-#, fuzzy
 msgid "TXT_CHEATSOUNDOFF"
-msgstr "Sono-sencimiga reĝimo malŝaltita"
+msgstr "Sono-sencimiga reĝimo MALŜALTITA"
 
 msgid "TXT_CHEATIDDQD"
 msgstr "Provas trompi, ĉu vi? Nun vi mortas!"
