@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 17:30+0000\n"
+"PO-Revision-Date: 2026-02-24 18:38+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/uzdoom/common/fr/>"
 "\n"
@@ -926,7 +926,7 @@ msgid "OPTVAL_LINEAR_3"
 msgstr "Linéaire"
 
 msgid "OPTVAL_NEAREST"
-msgstr "Nearest"
+msgstr "Plus Proche Voisin"
 
 msgid "OPTVAL_PCF_LOW"
 msgstr "PCF (Low)"
@@ -971,10 +971,10 @@ msgid "MODMNU_VOLUMERAMPING"
 msgstr "Rampe du volume"
 
 msgid "OPTVAL_LIBXMP"
-msgstr ""
+msgstr "libXMP"
 
 msgid "OPTVAL_DUMB"
-msgstr ""
+msgstr "Dumb"
 
 msgid "MODMNU_CHIPOMATIC"
 msgstr ""
