@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 17:30+0000\n"
+"PO-Revision-Date: 2026-02-24 18:38+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/uzdoom/common/nl/>"
 "\n"
@@ -978,12 +978,11 @@ msgstr "Kwaliteit"
 msgid "MODMNU_VOLUMERAMPING"
 msgstr "Volume-aanvulling"
 
-#, fuzzy
 msgid "OPTVAL_LIBXMP"
 msgstr "libXMP"
 
 msgid "OPTVAL_DUMB"
-msgstr "Dom"
+msgstr "Dumb"
 
 #, fuzzy
 msgid "MODMNU_CHIPOMATIC"
