@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 02:31+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-24 04:53+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fr/>\n"
 "Language: fr\n"
@@ -5038,7 +5038,7 @@ msgid "HAPMNU_OPT_WORLD"
 msgstr ""
 
 msgid "PAUSE_STRING"
-msgstr ""
+msgstr "Pause"
 
 msgid "TAG_BACKPACK"
 msgstr ""
@@ -5176,3 +5176,6 @@ msgstr "Correction Gamma"
 
 msgid "DSPLYMNU_CONTRAST"
 msgstr "Contraste"
+
+msgid "OPTMNU_ACCESSIBILITY"
+msgstr "Options d'accessibilité"
