@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 16:14+0000\n"
+"PO-Revision-Date: 2026-02-24 18:38+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/el/>\n"
@@ -950,7 +950,7 @@ msgid "OB_STEALTHBABY"
 msgstr "@[art_gr] %o νόμιζε οτι είδε ένα Αραχνοτρόν."
 
 msgid "OB_STEALTHVILE"
-msgstr "@[art_gr] %o νόμιζε οτι είδε ένα Νεκρομάντη"
+msgstr "@[art_gr] %o νόμιζε οτι είδε ένα Νεκρομάντη."
 
 msgid "OB_STEALTHBARON"
 msgstr "@[art_gr] %o νόμιζε οτι είδε ένα Βαρώνο της Κόλασης."
@@ -1064,7 +1064,7 @@ msgid "OB_MPSHOTGUN"
 msgstr "@[art_gr] %o έφαγε το ντουφέκι του/της %k."
 
 msgid "OB_MPSSHOTGUN"
-msgstr "@[art_gr] %o διαλύθηκε απο το διπλό ντουφέκι του/της %k"
+msgstr "@[art_gr] %o διαλύθηκε απο το διπλό ντουφέκι του/της %k."
 
 msgid "OB_MPCHAINGUN"
 msgstr "@[art_gr] %o κοματίαστηκε απο το πολυβόλο του/της %k."
