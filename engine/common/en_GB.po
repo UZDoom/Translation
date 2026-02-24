@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-20 23:14+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-24 05:03+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: English (United Kingdom) <https://hosted.weblate.org/projects/"
 "uzdoom/common/en_GB/>\n"
 "Language: en_GB\n"
@@ -1820,3 +1820,9 @@ msgstr "Message queue size"
 
 msgid "MSGMNU_STACKIDENTICAL"
 msgstr "Stack repeated messages"
+
+msgid "DSPLYMNU_MESSAGES"
+msgstr "Messages"
+
+msgid "VIDMNU_ASPECTRATIO"
+msgstr "Aspect ratio"
