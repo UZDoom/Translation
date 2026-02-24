@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 21:11+0000\n"
+"PO-Revision-Date: 2026-02-24 02:31+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/en/>\n"
@@ -385,7 +385,7 @@ msgid "TXT_CHEATIDKFA"
 msgstr "Cheater—you don't deserve weapons"
 
 msgid "TXT_CHEATTICKERON"
-msgstr "Ticker on"
+msgstr "Ticker ON"
 
 msgid "TXT_CHEATTICKEROFF"
 msgstr "Ticker OFF"
