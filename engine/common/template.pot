@@ -28,9 +28,6 @@ msgstr ""
 msgid "SAFEMESSAGE"
 msgstr ""
 
-msgid "NOTSET"
-msgstr ""
-
 msgid "QSPROMPT"
 msgstr ""
 "\n"
@@ -61,30 +58,39 @@ msgstr ""
 msgid "TXT_QUITENDOOM"
 msgstr ""
 
+# Savegame
 msgid "NEWSAVE"
 msgstr ""
 
+# Savegame
 msgid "GGSAVED"
 msgstr ""
 
+# Savegame
 msgid "SAVECOMMENT_TIME"
 msgstr ""
 
+# Savegame
 msgid "MNU_LOADGAME"
 msgstr ""
 
+# Savegame
 msgid "MNU_SAVEGAME"
 msgstr ""
 
+# Savegame
 msgid "MNU_NOPICTURE"
 msgstr ""
 
+# Savegame
 msgid "MNU_DIFFVERSION"
 msgstr ""
 
+# Savegame
 msgid "MNU_NOFILES"
 msgstr ""
 
+# Savegame
 msgid "MNU_DELETESG"
 msgstr ""
 
@@ -239,16 +245,10 @@ msgstr ""
 msgid "CNTRLMNU_ACTION_TITLE"
 msgstr ""
 
-msgid "CNTRLMNU_CHAT"
-msgstr ""
-
 msgid "MNU_MULTIPLAYER"
 msgstr ""
 
 msgid "CNTRLMNU_SAY"
-msgstr ""
-
-msgid "CNTRLMNU_CHAT_TITLE"
 msgstr ""
 
 msgid "CNTRLMNU_WEAPONS_TITLE"
@@ -269,12 +269,9 @@ msgstr ""
 msgid "CNTRLMNU_PREVIOUSWEAPON"
 msgstr ""
 
-# Todo - make game specific
 msgid "CNTRLMNU_SLOT1"
 msgstr ""
 
-# only show appropriate slots per game
-#
 msgid "CNTRLMNU_SLOT2"
 msgstr ""
 
@@ -317,7 +314,6 @@ msgstr ""
 msgid "CNTRLMNU_PREVIOUSITEM"
 msgstr ""
 
-# most are not used yet but will be
 msgid "MAPCNTRLMNU_TITLE"
 msgstr ""
 
@@ -406,9 +402,6 @@ msgid "CNTRLMNU_TOGGLE_MESSAGES"
 msgstr ""
 
 msgid "CNTRLMNU_MENU_QUIT"
-msgstr ""
-
-msgid "CNTRLMNU_ADJUST_GAMMA"
 msgstr ""
 
 msgid "MOUSEMNU_ENABLEMOUSE"
@@ -661,15 +654,6 @@ msgstr ""
 msgid "DSPLYMNU_MODELS"
 msgstr ""
 
-msgid "DSPLYMNU_CROSSHAIRSCALE"
-msgstr ""
-
-msgid "DSPLYMNU_SBSCALE"
-msgstr ""
-
-msgid "DSPLYMNU_MESSAGES"
-msgstr ""
-
 msgid "MSGMNU_CENTERMESSAGES"
 msgstr ""
 
@@ -680,9 +664,6 @@ msgid "MSGMNU_STACKIDENTICAL"
 msgstr ""
 
 msgid "MSGMNU_PULSEMESSAGES"
-msgstr ""
-
-msgid "MSGMNU_MESSAGESCALE"
 msgstr ""
 
 msgid "MNU_COLORPICKER"
@@ -704,15 +685,6 @@ msgid "MAPCOLORMNU_TITLE"
 msgstr ""
 
 msgid "MAPCOLORMNU_DEFAULTMAPCOLORS"
-msgstr ""
-
-msgid "SNDMNU_SNDENABLED"
-msgstr ""
-
-msgid "SNDMNU_MUSENABLED"
-msgstr ""
-
-msgid "OPTVAL_4000HZ"
 msgstr ""
 
 msgid "OPTVAL_8000HZ"
@@ -811,9 +783,6 @@ msgstr ""
 msgid "SNDMNU_CHANNELS"
 msgstr ""
 
-msgid "SNDMNU_BACKEND"
-msgstr ""
-
 msgid "SNDMNU_OPENAL"
 msgstr ""
 
@@ -827,9 +796,6 @@ msgid "SNDMNU_MODREPLAYER"
 msgstr ""
 
 msgid "SNDMNU_MIDIPLAYER"
-msgstr ""
-
-msgid "SNDMNU_MENUSOUND"
 msgstr ""
 
 msgid "ADVSNDMNU_TITLE"
@@ -859,6 +825,7 @@ msgstr ""
 msgid "ADVSNDMNU_MIDIVOICES"
 msgstr ""
 
+# Jargon.
 msgid "ADVSNDMNU_FLUIDSYNTH"
 msgstr ""
 
@@ -869,9 +836,6 @@ msgid "ADVSNDMNU_FREEVERB"
 msgstr ""
 
 msgid "ADVSNDMNU_GLOBAL_FREEVERB"
-msgstr ""
-
-msgid "ADVSNDMNU_FLUIDPATCHSET"
 msgstr ""
 
 msgid "ADVSNDMNU_FLUIDGAIN"
@@ -886,25 +850,20 @@ msgstr ""
 msgid "ADVSNDMNU_CHORUS"
 msgstr ""
 
+# Jargon.
 msgid "ADVSNDMNU_TIMIDITY"
 msgstr ""
 
+# Jargon.
 msgid "ADVSNDMNU_ADLMIDI"
 msgstr ""
 
+# Jargon.
 msgid "ADVSNDMNU_OPNMIDI"
 msgstr ""
 
-msgid "ADVSNDMNU_TIMIDITYCONFIG"
-msgstr ""
-
-msgid "ADVSNDMNU_TIMIDITYVOLUME"
-msgstr ""
-
+# Jargon.
 msgid "ADVSNDMNU_WILDMIDI"
-msgstr ""
-
-msgid "ADVSNDMNU_WILDMIDICONFIG"
 msgstr ""
 
 msgid "ADVSNDMNU_SELCONFIG"
@@ -914,9 +873,6 @@ msgid "ADVSNDMNU_ADVRESAMPLING"
 msgstr ""
 
 msgid "ADVSNDMNU_OPLBANK"
-msgstr ""
-
-msgid "ADVSNDMNU_ADLOPLCORES"
 msgstr ""
 
 msgid "ADVSNDMNU_RUNPCMRATE"
@@ -941,9 +897,6 @@ msgid "ADVSNDMNU_OPNCORES"
 msgstr ""
 
 msgid "ADVSNDMNU_GUSEMULATION"
-msgstr ""
-
-msgid "ADVSNDMNU_GUSCONFIG"
 msgstr ""
 
 msgid "ADVSNDMNU_DMXGUS"
@@ -981,9 +934,13 @@ msgstr ""
 msgid "OPTVAL_LINEAR_1"
 msgstr ""
 
+# This setting is duplicated threefold in order to allow for different
+# grammatical gender endings
 msgid "OPTVAL_LINEAR_2"
 msgstr ""
 
+# This setting is duplicated threefold in order to allow for different
+# grammatical gender endings
 msgid "OPTVAL_LINEAR_3"
 msgstr ""
 
@@ -1075,9 +1032,6 @@ msgid "OPTVAL_NP2OPNA"
 msgstr ""
 
 msgid "OPTVAL_MAMEOPNA"
-msgstr ""
-
-msgid "OPTVAL_PMDWINOPNA"
 msgstr ""
 
 msgid "OPTVAL_OPALOPL3"
@@ -1179,24 +1133,31 @@ msgstr ""
 msgid "OPTVAL_UNLIMITED"
 msgstr ""
 
+# Jargon.
 msgid "OPTVAL_256K"
 msgstr ""
 
+# Jargon.
 msgid "OPTVAL_512K"
 msgstr ""
 
+# Jargon.
 msgid "OPTVAL_768K"
 msgstr ""
 
+# Jargon.
 msgid "OPTVAL_1024K"
 msgstr ""
 
+# Jargon.
 msgid "OPTVAL_UNCHARTED2"
 msgstr ""
 
+# Jargon.
 msgid "OPTVAL_HEJLDAWSON"
 msgstr ""
 
+# Jargon.
 msgid "OPTVAL_REINHARD"
 msgstr ""
 
@@ -1302,28 +1263,27 @@ msgstr ""
 msgid "OPTVAL_TRILINEAR"
 msgstr ""
 
+# Jargon.
 msgid "OPTVAL_2X"
 msgstr ""
 
+# Jargon.
 msgid "OPTVAL_4X"
 msgstr ""
 
+# Jargon.
 msgid "OPTVAL_8X"
 msgstr ""
 
+# Jargon.
 msgid "OPTVAL_16X"
 msgstr ""
 
+# Jargon.
 msgid "OPTVAL_32X"
 msgstr ""
 
 msgid "GLTEXMNU_TITLE"
-msgstr ""
-
-msgid "GLTEXMNU_TEXENABLED"
-msgstr ""
-
-msgid "GLTEXMNU_ENABLEHIRES"
 msgstr ""
 
 msgid "GLTEXMNU_HQRESIZE"
@@ -1353,12 +1313,6 @@ msgstr ""
 msgid "VIDMNU_TITLE"
 msgstr ""
 
-msgid "OPTVAL_SCALENEAREST"
-msgstr ""
-
-msgid "OPTVAL_SCALELINEAR"
-msgstr ""
-
 msgid "OPTVAL_LETTERBOX"
 msgstr ""
 
@@ -1374,16 +1328,10 @@ msgstr ""
 msgid "VIDMNU_HIDPI"
 msgstr ""
 
-msgid "VIDMNU_ASPECTRATIO"
-msgstr ""
-
 msgid "VIDMNU_FORCEASPECT"
 msgstr ""
 
 msgid "VIDMNU_CROPASPECT"
-msgstr ""
-
-msgid "VIDMNU_5X4ASPECTRATIO"
 msgstr ""
 
 msgid "VIDMNU_SCALEMODE"
@@ -1448,34 +1396,42 @@ msgstr ""
 msgid "VIDMNU_MAXFPS"
 msgstr ""
 
+# Jargon.
 msgid "OPTVAL_60FPS"
 msgstr ""
 
+# Jargon.
 msgid "OPTVAL_75FPS"
 msgstr ""
 
+# Jargon.
 msgid "OPTVAL_90FPS"
 msgstr ""
 
+# Jargon.
 msgid "OPTVAL_120FPS"
 msgstr ""
 
+# Jargon.
 msgid "OPTVAL_144FPS"
 msgstr ""
 
+# Jargon.
 msgid "OPTVAL_200FPS"
 msgstr ""
 
 msgid "VIDMNU_PREFERBACKEND"
 msgstr ""
 
+# Jargon. Rendering backend
 msgid "OPTVAL_OPENGL"
 msgstr ""
 
+# Jargon. Rendering backend
 msgid "OPTVAL_VULKAN"
 msgstr ""
 
-# Rendering backend
+# Jargon. Rendering backend
 msgid "OPTVAL_OPENGLES"
 msgstr ""
 
@@ -1524,7 +1480,6 @@ msgstr ""
 msgid "HUDMNU_CROSSHAIRSCALE"
 msgstr ""
 
-# copied from elsewhere
 msgid "OPTVAL_YES_STANDARD"
 msgstr ""
 
@@ -1552,113 +1507,35 @@ msgstr ""
 msgid "REVMNU_REVERT"
 msgstr ""
 
-# Please translate only if you know how to properly name this technical
-# jargon!
-msgid "REVMNU_ENVIRONMENT_SIZE"
-msgstr ""
-
-msgid "REVMNU_ENVIRONMENT_DIFFUSION"
-msgstr ""
-
-msgid "REVMNU_ROOM"
-msgstr ""
-
-msgid "REVMNU_ROOM_HF"
-msgstr ""
-
-msgid "REVMNU_ROOM_LF"
-msgstr ""
-
-msgid "REVMNU_DECAY_TIME"
-msgstr ""
-
-msgid "REVMNU_DECAY_HF_RATIO"
-msgstr ""
-
-msgid "REVMNU_DECAY_LF_RATIO"
-msgstr ""
-
-msgid "REVMNU_REFLECTIONS"
-msgstr ""
-
-msgid "REVMNU_REFLECTIONS_DELAY"
-msgstr ""
-
-msgid "REVMNU_REFLECTIONS_PAN_X"
-msgstr ""
-
-msgid "REVMNU_REFLECTIONS_PAN_Y"
-msgstr ""
-
-msgid "REVMNU_REFLECTIONS_PAN_Z"
-msgstr ""
-
-msgid "REVMNU_REVERB"
-msgstr ""
-
-msgid "REVMNU_REVERB_DELAY"
-msgstr ""
-
-msgid "REVMNU_REVERB_PAN_X"
-msgstr ""
-
-msgid "REVMNU_REVERB_PAN_Y"
-msgstr ""
-
-msgid "REVMNU_REVERB_PAN_Z"
-msgstr ""
-
-msgid "REVMNU_ECHO_TIME"
-msgstr ""
-
-msgid "REVMNU_ECHO_DEPTH"
-msgstr ""
-
-msgid "REVMNU_MODULATION_TIME"
-msgstr ""
-
-msgid "REVMNU_MODULATION_DEPTH"
-msgstr ""
-
-msgid "REVMNU_AIR_ABSORPTION_HF"
-msgstr ""
-
-msgid "REVMNU_HF_REFERENCE"
-msgstr ""
-
-msgid "REVMNU_LF_REFERENCE"
-msgstr ""
-
-msgid "REVMNU_ROOM_ROLLOFF_FACTOR"
-msgstr ""
-
-msgid "REVMNU_DIFFUSION"
-msgstr ""
-
-msgid "REVMNU_DENSITY"
-msgstr ""
-
+# Jargon.
 msgid "REVMNU_Reflections_Scale"
 msgstr ""
 
+# Jargon.
 msgid "REVMNU_Reflections_Delay_Scale"
 msgstr ""
 
+# Jargon.
 msgid "REVMNU_Decay_Time_Scale"
 msgstr ""
 
+# Jargon.
 msgid "REVMNU_Decay_HF_Limit"
 msgstr ""
 
+# Jargon.
 msgid "REVMNU_Reverb_Scale"
 msgstr ""
 
+# Jargon.
 msgid "REVMNU_Reverb_Delay_Scale"
 msgstr ""
 
+# Jargon.
 msgid "REVMNU_Echo_Time_Scale"
 msgstr ""
 
+# Jargon.
 msgid "REVMNU_Modulation_Time_Scale"
 msgstr ""
 
@@ -1692,9 +1569,6 @@ msgstr ""
 msgid "VK_TITLE"
 msgstr ""
 
-msgid "VKMNU_ENABLE"
-msgstr ""
-
 msgid "VKMNU_DEVICE"
 msgstr ""
 
@@ -1707,40 +1581,47 @@ msgstr ""
 msgid "VK_RESTART"
 msgstr ""
 
-# This is not yet implemented - but it is planned
-msgid "VKMNU_DEVICESELECT"
-msgstr ""
-
+# Jargon.
 msgid "OPTVAL_SCALENX"
 msgstr ""
 
+# Jargon.
 msgid "OPTVAL_NORMALNX"
 msgstr ""
 
+# Jargon.
 msgid "OPTVAL_HQNX"
 msgstr ""
 
+# Jargon.
 msgid "OPTVAL_HQNXMMX"
 msgstr ""
 
+# Jargon.
 msgid "OPTVAL_NXBRZ"
 msgstr ""
 
+# Jargon.
 msgid "OPTVAL_OLD_NXBRZ"
 msgstr ""
 
+# Option Search
 msgid "OS_TITLE"
 msgstr ""
 
+# Option Search
 msgid "OS_ANY"
 msgstr ""
 
+# Option Search
 msgid "OS_ALL"
 msgstr ""
 
+# Option Search
 msgid "OS_NO_RESULTS"
 msgstr ""
 
+# Option Search
 msgid "OS_LABEL"
 msgstr ""
 
@@ -1779,40 +1660,10 @@ msgstr ""
 msgid "TXT_UNKNOWN"
 msgstr ""
 
-msgid "OPTVAL_HUD"
-msgstr ""
-
-msgid "OPTVAL_AUTOMAP"
-msgstr ""
-
-msgid "OPTVAL_HUDANDMAP"
-msgstr ""
-
 msgid "TXT_SAVEGAMENEEDS"
 msgstr ""
 
-msgid "OPTMNU_MULTIPLAYER"
-msgstr ""
-
-msgid "OPTMNU_INPUT"
-msgstr ""
-
-msgid "OPTMNU_SYSTEM"
-msgstr ""
-
-msgid "OPTMNU_LIGHT"
-msgstr ""
-
-msgid "OPTMNU_SPRITE"
-msgstr ""
-
 msgid "GLPREFMNU_CORONAS"
-msgstr ""
-
-msgid "DSPLYMNU_APPEARANCE"
-msgstr ""
-
-msgid "DSPLYMNU_ADVANCED"
 msgstr ""
 
 msgid "PICKER_SELECT"
@@ -1917,21 +1768,6 @@ msgid "PICKER_HOST"
 msgstr ""
 
 msgid "PICKER_JOIN"
-msgstr ""
-
-msgid "PICKER_NETMODE"
-msgstr ""
-
-msgid "PICKER_NETAUTO"
-msgstr ""
-
-# Connections are routed through the host instead of all players connecting to
-# each other individually.
-msgid "PICKER_NETSERVER"
-msgstr ""
-
-# Players connect to each other individually.
-msgid "PICKER_NETPEER"
 msgstr ""
 
 msgid "PICKER_NETRATE"
