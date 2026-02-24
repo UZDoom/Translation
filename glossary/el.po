@@ -47,9 +47,6 @@ msgstr "Timidity"
 msgid "GENMIDI"
 msgstr ""
 
-msgid "WAD"
-msgstr ""
-
 msgid "libXMP"
 msgstr "libXMP"
 
