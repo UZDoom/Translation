@@ -33,9 +33,6 @@ msgstr ""
 msgid "SAFEMESSAGE"
 msgstr "Вы уверены?"
 
-msgid "NOTSET"
-msgstr "Не задан"
-
 msgid "QSPROMPT"
 msgstr ""
 "Перезаписать быстрое сохранение\n"
@@ -240,17 +237,11 @@ msgstr "Основное"
 msgid "CNTRLMNU_ACTION_TITLE"
 msgstr "Основные клавиши управления"
 
-msgid "CNTRLMNU_CHAT"
-msgstr "Чат"
-
 msgid "MNU_MULTIPLAYER"
 msgstr "Сетевая игра"
 
 msgid "CNTRLMNU_SAY"
 msgstr "Сообщение"
-
-msgid "CNTRLMNU_CHAT_TITLE"
-msgstr "Клавиши управления чатом"
 
 msgid "CNTRLMNU_WEAPONS_TITLE"
 msgstr "Клавиши управления оружием"
@@ -408,9 +399,6 @@ msgstr "Переключение сообщений"
 
 msgid "CNTRLMNU_MENU_QUIT"
 msgstr "Выход"
-
-msgid "CNTRLMNU_ADJUST_GAMMA"
-msgstr "Настройка гаммы"
 
 msgid "MOUSEMNU_ENABLEMOUSE"
 msgstr "Использовать мышь"
@@ -662,23 +650,11 @@ msgstr "Вертикальная синхронизация"
 msgid "DSPLYMNU_MODELS"
 msgstr "Модели"
 
-msgid "DSPLYMNU_CROSSHAIRSCALE"
-msgstr "Размер прицела"
-
-msgid "DSPLYMNU_SBSCALE"
-msgstr "Размер строки состояния"
-
-msgid "DSPLYMNU_MESSAGES"
-msgstr "Сообщения"
-
 msgid "MSGMNU_CENTERMESSAGES"
 msgstr "Центрирование сообщений"
 
 msgid "MSGMNU_PULSEMESSAGES"
 msgstr "Пульсация сообщений"
-
-msgid "MSGMNU_MESSAGESCALE"
-msgstr "Размер сообщений"
 
 msgid "MNU_COLORPICKER"
 msgstr "Выбор цвета"
@@ -700,15 +676,6 @@ msgstr "Настройки цветов автокарты"
 
 msgid "MAPCOLORMNU_DEFAULTMAPCOLORS"
 msgstr "Вернуть стандартные цвета"
-
-msgid "SNDMNU_SNDENABLED"
-msgstr "Звук включён"
-
-msgid "SNDMNU_MUSENABLED"
-msgstr "Музыка включена"
-
-msgid "OPTVAL_4000HZ"
-msgstr "4000 Гц"
 
 msgid "OPTVAL_8000HZ"
 msgstr "8000 Гц"
@@ -806,9 +773,6 @@ msgstr "Случайная высота"
 msgid "SNDMNU_CHANNELS"
 msgstr "Количество каналов"
 
-msgid "SNDMNU_BACKEND"
-msgstr "Звуковая подсистема"
-
 msgid "SNDMNU_OPENAL"
 msgstr "Настройки OpenAL"
 
@@ -824,9 +788,6 @@ msgstr "Параметры воспроизведения модулей"
 #, fuzzy
 msgid "SNDMNU_MIDIPLAYER"
 msgstr "Настройки MIDI-проигрывателя"
-
-msgid "SNDMNU_MENUSOUND"
-msgstr "Звук в меню"
 
 msgid "ADVSNDMNU_TITLE"
 msgstr "Расширенные настройки"
@@ -867,9 +828,6 @@ msgstr "Ревербератор Freeverb"
 msgid "ADVSNDMNU_GLOBAL_FREEVERB"
 msgstr "Глобальный Freeverb"
 
-msgid "ADVSNDMNU_FLUIDPATCHSET"
-msgstr "Патч-набор"
-
 msgid "ADVSNDMNU_FLUIDGAIN"
 msgstr "Усиление"
 
@@ -891,17 +849,8 @@ msgstr "ADLMidi"
 msgid "ADVSNDMNU_OPNMIDI"
 msgstr "OPNMidi"
 
-msgid "ADVSNDMNU_TIMIDITYCONFIG"
-msgstr "Файл конфигурации Timidity"
-
-msgid "ADVSNDMNU_TIMIDITYVOLUME"
-msgstr "Относительная громкость"
-
 msgid "ADVSNDMNU_WILDMIDI"
 msgstr "WildMidi"
-
-msgid "ADVSNDMNU_WILDMIDICONFIG"
-msgstr "Файл конфигурации WildMidi"
 
 msgid "ADVSNDMNU_SELCONFIG"
 msgstr "Выбор конфигурации"
@@ -911,9 +860,6 @@ msgstr "Продвинутый ресэмплинг"
 
 msgid "ADVSNDMNU_OPLBANK"
 msgstr "Банк OPL"
-
-msgid "ADVSNDMNU_ADLOPLCORES"
-msgstr "Ядро эмуляции OPL"
 
 msgid "ADVSNDMNU_RUNPCMRATE"
 msgstr "Использовать с частотой PCM"
@@ -938,9 +884,6 @@ msgstr "Ядро эмуляции OPN2"
 
 msgid "ADVSNDMNU_GUSEMULATION"
 msgstr "Эмуляция GUS"
-
-msgid "ADVSNDMNU_GUSCONFIG"
-msgstr "Файл конфигурации для GUS"
 
 msgid "ADVSNDMNU_DMXGUS"
 msgstr "Читать файлы DMXGUS"
@@ -1084,10 +1027,6 @@ msgstr "Neko Project II Kai OPNA"
 #, fuzzy
 msgid "OPTVAL_MAMEOPNA"
 msgstr "MAME YM2608"
-
-#, fuzzy
-msgid "OPTVAL_PMDWINOPNA"
-msgstr "PMDWin OPNA"
 
 #, fuzzy
 msgid "OPTVAL_OPALOPL3"
@@ -1339,12 +1278,6 @@ msgstr "32×"
 msgid "GLTEXMNU_TITLE"
 msgstr "Настройки текстур"
 
-msgid "GLTEXMNU_TEXENABLED"
-msgstr "Включить текстуры"
-
-msgid "GLTEXMNU_ENABLEHIRES"
-msgstr "Текстуры высокого разрешения"
-
 msgid "GLTEXMNU_HQRESIZE"
 msgstr "Режим высококачественного масштабирования текстур"
 
@@ -1372,12 +1305,6 @@ msgstr "Кэшировать GL-текстуры"
 msgid "VIDMNU_TITLE"
 msgstr "Настройки видеорежима"
 
-msgid "OPTVAL_SCALENEAREST"
-msgstr "Масштабировать (ближайшее)"
-
-msgid "OPTVAL_SCALELINEAR"
-msgstr "Масштабировать (линейное)"
-
 msgid "OPTVAL_LETTERBOX"
 msgstr "Экранное каше"
 
@@ -1393,17 +1320,11 @@ msgstr "Полный экран"
 msgid "VIDMNU_HIDPI"
 msgstr "Поддержка Retina/HiDPI"
 
-msgid "VIDMNU_ASPECTRATIO"
-msgstr "Соотношение сторон"
-
 msgid "VIDMNU_FORCEASPECT"
 msgstr "Принудительное соотношение сторон"
 
 msgid "VIDMNU_CROPASPECT"
 msgstr "Тип принудительного соотношения сторон"
-
-msgid "VIDMNU_5X4ASPECTRATIO"
-msgstr "Включить соотношение сторон 5:4"
 
 msgid "VIDMNU_SCALEMODE"
 msgstr "Масштабирование"
@@ -1571,93 +1492,6 @@ msgstr "Новое окружение"
 msgid "REVMNU_REVERT"
 msgstr "Сбросить настройки"
 
-# Please translate only if you know how to properly name this technical
-# jargon!
-msgid "REVMNU_ENVIRONMENT_SIZE"
-msgstr "Размер Окружения"
-
-msgid "REVMNU_ENVIRONMENT_DIFFUSION"
-msgstr "Рассеивание Окружения"
-
-msgid "REVMNU_ROOM"
-msgstr "Комната"
-
-msgid "REVMNU_ROOM_HF"
-msgstr "Комната Высокая Частота"
-
-msgid "REVMNU_ROOM_LF"
-msgstr "Комната Низкая Частота"
-
-msgid "REVMNU_DECAY_TIME"
-msgstr "Время Спада"
-
-msgid "REVMNU_DECAY_HF_RATIO"
-msgstr "Коэффициент Высокой Частоты Спада"
-
-msgid "REVMNU_DECAY_LF_RATIO"
-msgstr "Коэффициент Низкой Частоты Спада"
-
-msgid "REVMNU_REFLECTIONS"
-msgstr "Отражения"
-
-msgid "REVMNU_REFLECTIONS_DELAY"
-msgstr "Задержка Отражений"
-
-msgid "REVMNU_REFLECTIONS_PAN_X"
-msgstr "Панорамирование Отражений X"
-
-msgid "REVMNU_REFLECTIONS_PAN_Y"
-msgstr "Панорамирование Отражений Y"
-
-msgid "REVMNU_REFLECTIONS_PAN_Z"
-msgstr "Панорамирование Отражений Z"
-
-msgid "REVMNU_REVERB"
-msgstr "Реверберация"
-
-msgid "REVMNU_REVERB_DELAY"
-msgstr "Задержка Реверберации"
-
-msgid "REVMNU_REVERB_PAN_X"
-msgstr "Панорамирование Реверберации X"
-
-msgid "REVMNU_REVERB_PAN_Y"
-msgstr "Панорамирование Реверберации Y"
-
-msgid "REVMNU_REVERB_PAN_Z"
-msgstr "Панорамирование Реверберации Z"
-
-msgid "REVMNU_ECHO_TIME"
-msgstr "Время Эхо"
-
-msgid "REVMNU_ECHO_DEPTH"
-msgstr "Глубина Эхо"
-
-msgid "REVMNU_MODULATION_TIME"
-msgstr "Время Модуляции"
-
-msgid "REVMNU_MODULATION_DEPTH"
-msgstr "Глубина Модуляции"
-
-#, fuzzy
-msgid "REVMNU_AIR_ABSORPTION_HF"
-msgstr "Поглощение высокочастотных волн воздухом"
-
-msgid "REVMNU_HF_REFERENCE"
-msgstr "HF Референс"
-
-msgid "REVMNU_LF_REFERENCE"
-msgstr "LF Референс"
-
-msgid "REVMNU_ROOM_ROLLOFF_FACTOR"
-msgstr "Фактор затихания отраженного звука"
-
-msgid "REVMNU_DIFFUSION"
-msgstr "Рассеивание"
-
-msgid "REVMNU_DENSITY"
-msgstr "Плотность"
-
 msgid "REVMNU_Reflections_Scale"
 msgstr "Размер Отражений"
 
@@ -1713,9 +1547,6 @@ msgstr "Настройки Vulkan (экспериментальные)"
 msgid "VK_TITLE"
 msgstr "Настройки Vulkan"
 
-msgid "VKMNU_ENABLE"
-msgstr "Использовать Vulkan"
-
 msgid "VKMNU_DEVICE"
 msgstr "ИД устройства Vulkan"
 
@@ -1727,10 +1558,6 @@ msgstr "Внимание: обработчик Vulkan в стадии тести
 
 msgid "VK_RESTART"
 msgstr "Для применения этих изменений требуется перезапуск игры."
-
-# This is not yet implemented - but it is planned
-msgid "VKMNU_DEVICESELECT"
-msgstr "Выбрать устройство Vulkan"
 
 #, fuzzy
 msgid "OPTVAL_SCALENX"
@@ -1806,41 +1633,11 @@ msgstr "Только изменённый"
 msgid "TXT_UNKNOWN"
 msgstr "Неизвестно"
 
-msgid "OPTVAL_HUD"
-msgstr "Отображение информации"
-
-msgid "OPTVAL_AUTOMAP"
-msgstr "Автокарта"
-
-msgid "OPTVAL_HUDANDMAP"
-msgstr "Интерфейс + автокарта"
-
 msgid "TXT_SAVEGAMENEEDS"
 msgstr "Данное сохранение требует следующие файлы"
 
-msgid "OPTMNU_MULTIPLAYER"
-msgstr "Настройки сетевой игры"
-
-msgid "OPTMNU_INPUT"
-msgstr "Настройки ввода"
-
-msgid "OPTMNU_SYSTEM"
-msgstr "Настройки системы"
-
-msgid "OPTMNU_LIGHT"
-msgstr "Настройки освещения"
-
-msgid "OPTMNU_SPRITE"
-msgstr "Настройки спрайтов"
-
 msgid "GLPREFMNU_CORONAS"
 msgstr "Короны"
-
-msgid "DSPLYMNU_APPEARANCE"
-msgstr "Внешность"
-
-msgid "DSPLYMNU_ADVANCED"
-msgstr "Расширенные настройки экрана"
 
 msgid "PICKER_SELECT"
 msgstr "Выбор файла игры для запуска."
@@ -1945,21 +1742,6 @@ msgstr "Создать"
 
 msgid "PICKER_JOIN"
 msgstr "Присоединиться"
-
-msgid "PICKER_NETMODE"
-msgstr "Режим сети:"
-
-msgid "PICKER_NETAUTO"
-msgstr "Авто (рекомендуется)"
-
-# Connections are routed through the host instead of all players connecting to
-# each other individually.
-msgid "PICKER_NETSERVER"
-msgstr "Пакетный сервер"
-
-# Players connect to each other individually.
-msgid "PICKER_NETPEER"
-msgstr "Пиринговая"
 
 msgid "PICKER_NETRATE"
 msgstr "Пакетный тикрейт:"

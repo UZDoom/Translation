@@ -32,9 +32,6 @@ msgstr ""
 msgid "SAFEMESSAGE"
 msgstr "Biztos ezt akarod tenni?"
 
-msgid "NOTSET"
-msgstr "Nincs beállítva"
-
 msgid "QSPROMPT"
 msgstr ""
 "Felülírod az alábbi mentésedet:\n"
@@ -239,17 +236,11 @@ msgstr "Akció"
 msgid "CNTRLMNU_ACTION_TITLE"
 msgstr "Akció beállítások testreszabása"
 
-msgid "CNTRLMNU_CHAT"
-msgstr ""
-
 msgid "MNU_MULTIPLAYER"
 msgstr "Többjátékos"
 
 msgid "CNTRLMNU_SAY"
 msgstr "Üzenet"
-
-msgid "CNTRLMNU_CHAT_TITLE"
-msgstr "Chatbeállítások testreszabása"
 
 msgid "CNTRLMNU_WEAPONS_TITLE"
 msgstr "Fegyverbeállítások testreszabása"
@@ -407,9 +398,6 @@ msgstr "Üzenetek kapcsolása"
 
 msgid "CNTRLMNU_MENU_QUIT"
 msgstr "Kilépés a játékból"
-
-msgid "CNTRLMNU_ADJUST_GAMMA"
-msgstr "Gamma állítása"
 
 msgid "MOUSEMNU_ENABLEMOUSE"
 msgstr "Egér engedélyezése"
@@ -661,23 +649,11 @@ msgstr "Függőleges szinkronizálás"
 msgid "DSPLYMNU_MODELS"
 msgstr "3D modellek"
 
-msgid "DSPLYMNU_CROSSHAIRSCALE"
-msgstr "Célkereszt méret"
-
-msgid "DSPLYMNU_SBSCALE"
-msgstr "Állapotjelző mérete"
-
-msgid "DSPLYMNU_MESSAGES"
-msgstr "Üzenetek"
-
 msgid "MSGMNU_CENTERMESSAGES"
 msgstr "Üzenetek középre helyezése"
 
 msgid "MSGMNU_PULSEMESSAGES"
 msgstr "Pulzáló üzenet"
-
-msgid "MSGMNU_MESSAGESCALE"
-msgstr "Üzenet mérete"
 
 msgid "MNU_COLORPICKER"
 msgstr "Szín választása"
@@ -699,15 +675,6 @@ msgstr "Térkép színeinek testreszabása"
 
 msgid "MAPCOLORMNU_DEFAULTMAPCOLORS"
 msgstr "Eredeti színek visszaállítása"
-
-msgid "SNDMNU_SNDENABLED"
-msgstr "Hang engedélyezve"
-
-msgid "SNDMNU_MUSENABLED"
-msgstr "Zene engedélyezve"
-
-msgid "OPTVAL_4000HZ"
-msgstr ""
 
 msgid "OPTVAL_8000HZ"
 msgstr ""
@@ -805,9 +772,6 @@ msgstr "Hangmagasság keverése"
 msgid "SNDMNU_CHANNELS"
 msgstr "Hangcsatorna"
 
-msgid "SNDMNU_BACKEND"
-msgstr "Hang backend"
-
 msgid "SNDMNU_OPENAL"
 msgstr "OpenAL beállításai"
 
@@ -823,9 +787,6 @@ msgstr "Modul lejátszó beállításai"
 #, fuzzy
 msgid "SNDMNU_MIDIPLAYER"
 msgstr "Midi lejátszó beállításai"
-
-msgid "SNDMNU_MENUSOUND"
-msgstr "Hang a menükben"
 
 msgid "ADVSNDMNU_TITLE"
 msgstr "Haladó hangbeállítások"
@@ -866,9 +827,6 @@ msgstr ""
 msgid "ADVSNDMNU_GLOBAL_FREEVERB"
 msgstr ""
 
-msgid "ADVSNDMNU_FLUIDPATCHSET"
-msgstr ""
-
 msgid "ADVSNDMNU_FLUIDGAIN"
 msgstr "Visszaverődés"
 
@@ -890,17 +848,8 @@ msgstr ""
 msgid "ADVSNDMNU_OPNMIDI"
 msgstr ""
 
-msgid "ADVSNDMNU_TIMIDITYCONFIG"
-msgstr "Timidity konfigurációs fájl"
-
-msgid "ADVSNDMNU_TIMIDITYVOLUME"
-msgstr "Relatív hangerő"
-
 msgid "ADVSNDMNU_WILDMIDI"
 msgstr ""
-
-msgid "ADVSNDMNU_WILDMIDICONFIG"
-msgstr "WildMidi konfigurációs fájl"
 
 msgid "ADVSNDMNU_SELCONFIG"
 msgstr "Konfiguráció kiválasztása"
@@ -910,9 +859,6 @@ msgstr "Fejlett Resmapling"
 
 msgid "ADVSNDMNU_OPLBANK"
 msgstr ""
-
-msgid "ADVSNDMNU_ADLOPLCORES"
-msgstr "OPL emulátor mag"
 
 msgid "ADVSNDMNU_RUNPCMRATE"
 msgstr "Emulátor futtatása PCM rátán"
@@ -937,9 +883,6 @@ msgstr "OPN2 Emulátor Mag"
 
 msgid "ADVSNDMNU_GUSEMULATION"
 msgstr "GUS Emuláció"
-
-msgid "ADVSNDMNU_GUSCONFIG"
-msgstr "GUS konfigurációs fájl"
 
 msgid "ADVSNDMNU_DMXGUS"
 msgstr "DMXGUS lumpok beolvasása"
@@ -1070,9 +1013,6 @@ msgid "OPTVAL_NP2OPNA"
 msgstr ""
 
 msgid "OPTVAL_MAMEOPNA"
-msgstr ""
-
-msgid "OPTVAL_PMDWINOPNA"
 msgstr ""
 
 msgid "OPTVAL_OPALOPL3"
@@ -1315,12 +1255,6 @@ msgstr ""
 msgid "GLTEXMNU_TITLE"
 msgstr "Textúra Beállítások"
 
-msgid "GLTEXMNU_TEXENABLED"
-msgstr "Textúrák bekapcsolása"
-
-msgid "GLTEXMNU_ENABLEHIRES"
-msgstr "Magas felbontású textúrák bekapcsolása"
-
 msgid "GLTEXMNU_HQRESIZE"
 msgstr "Magas minőségű újraméretező mód"
 
@@ -1348,12 +1282,6 @@ msgstr "Előcachelt GL textúrák"
 msgid "VIDMNU_TITLE"
 msgstr "Videó mód"
 
-msgid "OPTVAL_SCALENEAREST"
-msgstr "Átméretezett (Közeli)"
-
-msgid "OPTVAL_SCALELINEAR"
-msgstr "Átméretezett (Lineáris)"
-
 msgid "OPTVAL_LETTERBOX"
 msgstr "Levágott"
 
@@ -1369,17 +1297,11 @@ msgstr "Teljes Képernyő"
 msgid "VIDMNU_HIDPI"
 msgstr "Retina/HiDPI támogatás"
 
-msgid "VIDMNU_ASPECTRATIO"
-msgstr "Képarány"
-
 msgid "VIDMNU_FORCEASPECT"
 msgstr "Képarány kényszerítése"
 
 msgid "VIDMNU_CROPASPECT"
 msgstr "Kényszerített képarány stílusa"
-
-msgid "VIDMNU_5X4ASPECTRATIO"
-msgstr "5:4 képarány engedélyezése"
 
 msgid "VIDMNU_SCALEMODE"
 msgstr "Felbontás mérete"
@@ -1548,92 +1470,6 @@ msgstr "Új Környezet"
 msgid "REVMNU_REVERT"
 msgstr "Változtatások elvetése"
 
-# Please translate only if you know how to properly name this technical
-# jargon!
-msgid "REVMNU_ENVIRONMENT_SIZE"
-msgstr ""
-
-msgid "REVMNU_ENVIRONMENT_DIFFUSION"
-msgstr ""
-
-msgid "REVMNU_ROOM"
-msgstr ""
-
-msgid "REVMNU_ROOM_HF"
-msgstr ""
-
-msgid "REVMNU_ROOM_LF"
-msgstr ""
-
-msgid "REVMNU_DECAY_TIME"
-msgstr ""
-
-msgid "REVMNU_DECAY_HF_RATIO"
-msgstr ""
-
-msgid "REVMNU_DECAY_LF_RATIO"
-msgstr ""
-
-msgid "REVMNU_REFLECTIONS"
-msgstr ""
-
-msgid "REVMNU_REFLECTIONS_DELAY"
-msgstr ""
-
-msgid "REVMNU_REFLECTIONS_PAN_X"
-msgstr ""
-
-msgid "REVMNU_REFLECTIONS_PAN_Y"
-msgstr ""
-
-msgid "REVMNU_REFLECTIONS_PAN_Z"
-msgstr ""
-
-msgid "REVMNU_REVERB"
-msgstr ""
-
-msgid "REVMNU_REVERB_DELAY"
-msgstr ""
-
-msgid "REVMNU_REVERB_PAN_X"
-msgstr ""
-
-msgid "REVMNU_REVERB_PAN_Y"
-msgstr ""
-
-msgid "REVMNU_REVERB_PAN_Z"
-msgstr ""
-
-msgid "REVMNU_ECHO_TIME"
-msgstr ""
-
-msgid "REVMNU_ECHO_DEPTH"
-msgstr ""
-
-msgid "REVMNU_MODULATION_TIME"
-msgstr ""
-
-msgid "REVMNU_MODULATION_DEPTH"
-msgstr ""
-
-msgid "REVMNU_AIR_ABSORPTION_HF"
-msgstr ""
-
-msgid "REVMNU_HF_REFERENCE"
-msgstr ""
-
-msgid "REVMNU_LF_REFERENCE"
-msgstr ""
-
-msgid "REVMNU_ROOM_ROLLOFF_FACTOR"
-msgstr ""
-
-msgid "REVMNU_DIFFUSION"
-msgstr ""
-
-msgid "REVMNU_DENSITY"
-msgstr ""
-
 msgid "REVMNU_Reflections_Scale"
 msgstr ""
 
@@ -1689,9 +1525,6 @@ msgstr "Vulkan Beállítások (Kísérleti)"
 msgid "VK_TITLE"
 msgstr "Vulkan Beállítások"
 
-msgid "VKMNU_ENABLE"
-msgstr "Vulkan Engedélyezése"
-
 msgid "VKMNU_DEVICE"
 msgstr "Vulkan Eszköz ID"
 
@@ -1703,10 +1536,6 @@ msgstr "Vigyázat: A Vulkan renderer még teljesen kísérleti!"
 
 msgid "VK_RESTART"
 msgstr "Ezen beállítások életbelépéséhez újraindítás szükséges."
-
-# This is not yet implemented - but it is planned
-msgid "VKMNU_DEVICESELECT"
-msgstr "Vulkan eszköz kiválasztása"
 
 msgid "OPTVAL_SCALENX"
 msgstr ""
@@ -1777,41 +1606,11 @@ msgstr "Csak módosított"
 msgid "TXT_UNKNOWN"
 msgstr "Ismeretlen"
 
-msgid "OPTVAL_HUD"
-msgstr ""
-
-msgid "OPTVAL_AUTOMAP"
-msgstr "Auto-térkép"
-
-msgid "OPTVAL_HUDANDMAP"
-msgstr "HUD + Auto-térkép"
-
 msgid "TXT_SAVEGAMENEEDS"
 msgstr "Ehhez a mentéshez a következő fájlok kellenek:"
 
-msgid "OPTMNU_MULTIPLAYER"
-msgstr "Többjátékos lehetőségek"
-
-msgid "OPTMNU_INPUT"
-msgstr "Beviteli beállítások"
-
-msgid "OPTMNU_SYSTEM"
-msgstr "Rendszerbeállítások"
-
-msgid "OPTMNU_LIGHT"
-msgstr "Fénybeállítások"
-
-msgid "OPTMNU_SPRITE"
-msgstr "Sprite beállítások"
-
 msgid "GLPREFMNU_CORONAS"
 msgstr "Coronák"
-
-msgid "DSPLYMNU_APPEARANCE"
-msgstr "Megjelenés"
-
-msgid "DSPLYMNU_ADVANCED"
-msgstr "Speciális megjelenítési beállítások"
 
 msgid "PICKER_SELECT"
 msgstr "Válassza ki, hogy melyik játékfájlt futtassa."
@@ -1915,21 +1714,6 @@ msgid "PICKER_HOST"
 msgstr ""
 
 msgid "PICKER_JOIN"
-msgstr ""
-
-msgid "PICKER_NETMODE"
-msgstr ""
-
-msgid "PICKER_NETAUTO"
-msgstr ""
-
-# Connections are routed through the host instead of all players connecting to
-# each other individually.
-msgid "PICKER_NETSERVER"
-msgstr ""
-
-# Players connect to each other individually.
-msgid "PICKER_NETPEER"
 msgstr ""
 
 msgid "PICKER_NETRATE"

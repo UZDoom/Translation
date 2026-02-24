@@ -32,9 +32,6 @@ msgstr ""
 msgid "SAFEMESSAGE"
 msgstr "Ĉu vi vere volas fari tion?"
 
-msgid "NOTSET"
-msgstr "Ne agordita"
-
 msgid "QSPROMPT"
 msgstr ""
 "Ĉu rapidkonservi anstataŭigante vian ludadon nomitan\n"
@@ -239,17 +236,11 @@ msgstr "Agoj"
 msgid "CNTRLMNU_ACTION_TITLE"
 msgstr "Adapti regilojn de agoj"
 
-msgid "CNTRLMNU_CHAT"
-msgstr "Babili"
-
 msgid "MNU_MULTIPLAYER"
 msgstr "Plurludanta"
 
 msgid "CNTRLMNU_SAY"
 msgstr "Diri"
-
-msgid "CNTRLMNU_CHAT_TITLE"
-msgstr "Adapti regilojn de babilado"
 
 msgid "CNTRLMNU_WEAPONS_TITLE"
 msgstr "Adapti regilojn de armiloj"
@@ -407,9 +398,6 @@ msgstr "Baskuligi mesaĝojn"
 
 msgid "CNTRLMNU_MENU_QUIT"
 msgstr "Mallanĉi ludon"
-
-msgid "CNTRLMNU_ADJUST_GAMMA"
-msgstr "Agordi gamaon"
 
 msgid "MOUSEMNU_ENABLEMOUSE"
 msgstr "Ebligi muson"
@@ -661,23 +649,11 @@ msgstr "Vertikala sinkronigo"
 msgid "DSPLYMNU_MODELS"
 msgstr "Modeloj"
 
-msgid "DSPLYMNU_CROSSHAIRSCALE"
-msgstr "Skali celilon"
-
-msgid "DSPLYMNU_SBSCALE"
-msgstr "Skalo de statobreto"
-
-msgid "DSPLYMNU_MESSAGES"
-msgstr "Mesaĝoj"
-
 msgid "MSGMNU_CENTERMESSAGES"
 msgstr "Centrigi mesaĝojn"
 
 msgid "MSGMNU_PULSEMESSAGES"
 msgstr "Montri mesaĝojn pulsante"
-
-msgid "MSGMNU_MESSAGESCALE"
-msgstr "Skalo de mesaĝoj"
 
 msgid "MNU_COLORPICKER"
 msgstr "Elektu koloron"
@@ -699,15 +675,6 @@ msgstr "Adapti kolorojn de mapo"
 
 msgid "MAPCOLORMNU_DEFAULTMAPCOLORS"
 msgstr "Restaŭri defaŭltajn adaptitajn kolorojn"
-
-msgid "SNDMNU_SNDENABLED"
-msgstr "Sono ebligita"
-
-msgid "SNDMNU_MUSENABLED"
-msgstr "Muziko ebligita"
-
-msgid "OPTVAL_4000HZ"
-msgstr ""
 
 msgid "OPTVAL_8000HZ"
 msgstr ""
@@ -805,9 +772,6 @@ msgstr "Hazardigi tonaltojn"
 msgid "SNDMNU_CHANNELS"
 msgstr "Sonkanaloj"
 
-msgid "SNDMNU_BACKEND"
-msgstr "Sonservilo"
-
 msgid "SNDMNU_OPENAL"
 msgstr "Agordo de OpenAL"
 
@@ -823,9 +787,6 @@ msgstr "Agordo por legilo de moduloj"
 #, fuzzy
 msgid "SNDMNU_MIDIPLAYER"
 msgstr "Agordoj por legilo de MIDI"
-
-msgid "SNDMNU_MENUSOUND"
-msgstr "Sono en menuoj"
 
 msgid "ADVSNDMNU_TITLE"
 msgstr "Altnivelaj agordoj de sono"
@@ -866,9 +827,6 @@ msgstr ""
 msgid "ADVSNDMNU_GLOBAL_FREEVERB"
 msgstr "Malloka Freeverb"
 
-msgid "ADVSNDMNU_FLUIDPATCHSET"
-msgstr "Flikaro"
-
 msgid "ADVSNDMNU_FLUIDGAIN"
 msgstr "Akiro"
 
@@ -890,17 +848,8 @@ msgstr ""
 msgid "ADVSNDMNU_OPNMIDI"
 msgstr ""
 
-msgid "ADVSNDMNU_TIMIDITYCONFIG"
-msgstr "Agorda dosiero de Timidity"
-
-msgid "ADVSNDMNU_TIMIDITYVOLUME"
-msgstr "Relativa laŭteco"
-
 msgid "ADVSNDMNU_WILDMIDI"
 msgstr ""
-
-msgid "ADVSNDMNU_WILDMIDICONFIG"
-msgstr "Agorda dosiero de WildMidi"
 
 msgid "ADVSNDMNU_SELCONFIG"
 msgstr "Elekti agordon"
@@ -910,9 +859,6 @@ msgstr "Altnivela respecimenado"
 
 msgid "ADVSNDMNU_OPLBANK"
 msgstr "Memor-banko por OPL"
-
-msgid "ADVSNDMNU_ADLOPLCORES"
-msgstr "Imitil-kerno por OPL"
 
 msgid "ADVSNDMNU_RUNPCMRATE"
 msgstr "Lanĉi imitilon laŭ rapido de PCM"
@@ -937,9 +883,6 @@ msgstr "Imitil-kerno por OPN2"
 
 msgid "ADVSNDMNU_GUSEMULATION"
 msgstr "Imitado de GUS"
-
-msgid "ADVSNDMNU_GUSCONFIG"
-msgstr "Agorda dosiero de GUS"
 
 msgid "ADVSNDMNU_DMXGUS"
 msgstr "Legi datumarojn DMXGUS"
@@ -1070,9 +1013,6 @@ msgid "OPTVAL_NP2OPNA"
 msgstr ""
 
 msgid "OPTVAL_MAMEOPNA"
-msgstr ""
-
-msgid "OPTVAL_PMDWINOPNA"
 msgstr ""
 
 msgid "OPTVAL_OPALOPL3"
@@ -1316,12 +1256,6 @@ msgstr "32-oble"
 msgid "GLTEXMNU_TITLE"
 msgstr "Agordoj de Teksturoj"
 
-msgid "GLTEXMNU_TEXENABLED"
-msgstr "Teksturoj ŝaltitaj"
-
-msgid "GLTEXMNU_ENABLEHIRES"
-msgstr "Ŝalti Altdistingivajn Teksturojn"
-
 msgid "GLTEXMNU_HQRESIZE"
 msgstr "Reĝimo de Altdistingivigo-Skalilo"
 
@@ -1349,12 +1283,6 @@ msgstr "Antaŭkaŝmemorigi GL-teksturojn"
 msgid "VIDMNU_TITLE"
 msgstr "Video-reĝimo"
 
-msgid "OPTVAL_SCALENEAREST"
-msgstr "Skalita (Plej proksime)"
-
-msgid "OPTVAL_SCALELINEAR"
-msgstr "Skalita (Linie)"
-
 msgid "OPTVAL_LETTERBOX"
 msgstr "Leterkesto"
 
@@ -1370,17 +1298,11 @@ msgstr "Plena ekrano"
 msgid "VIDMNU_HIDPI"
 msgstr "Retino/HiDPI subteno"
 
-msgid "VIDMNU_ASPECTRATIO"
-msgstr "Ekran-proporcio"
-
 msgid "VIDMNU_FORCEASPECT"
 msgstr "Devigi ekran-proporcion"
 
 msgid "VIDMNU_CROPASPECT"
 msgstr "Stilo por devigita proporcio"
-
-msgid "VIDMNU_5X4ASPECTRATIO"
-msgstr "Ŝalti 5:4 ekran-proporcion"
 
 msgid "VIDMNU_SCALEMODE"
 msgstr "Distingivo-skalo"
@@ -1548,92 +1470,6 @@ msgstr "Nova medio"
 msgid "REVMNU_REVERT"
 msgstr "Malfari agordojn"
 
-# Please translate only if you know how to properly name this technical
-# jargon!
-msgid "REVMNU_ENVIRONMENT_SIZE"
-msgstr "Mediamplekso"
-
-msgid "REVMNU_ENVIRONMENT_DIFFUSION"
-msgstr "Medidifuzo"
-
-msgid "REVMNU_ROOM"
-msgstr "Ĉambro"
-
-msgid "REVMNU_ROOM_HF"
-msgstr "Ĉambro (AF)"
-
-msgid "REVMNU_ROOM_LF"
-msgstr "Ĉambro (MaF)"
-
-msgid "REVMNU_DECAY_TIME"
-msgstr "Putriĝo-tempo"
-
-msgid "REVMNU_DECAY_HF_RATIO"
-msgstr "Putriĝo-proporcio (AF)"
-
-msgid "REVMNU_DECAY_LF_RATIO"
-msgstr "Putriĝo-proporcio (MaF)"
-
-msgid "REVMNU_REFLECTIONS"
-msgstr "Reflektoj"
-
-msgid "REVMNU_REFLECTIONS_DELAY"
-msgstr "Prokrasto de reflektoj"
-
-msgid "REVMNU_REFLECTIONS_PAN_X"
-msgstr "Reflektoj alturnas tra X"
-
-msgid "REVMNU_REFLECTIONS_PAN_Y"
-msgstr "Reflektoj alturnas tra Y"
-
-msgid "REVMNU_REFLECTIONS_PAN_Z"
-msgstr "Reflektoj alturnas tra Z"
-
-msgid "REVMNU_REVERB"
-msgstr "Resono"
-
-msgid "REVMNU_REVERB_DELAY"
-msgstr "Prokrasto de resono"
-
-msgid "REVMNU_REVERB_PAN_X"
-msgstr "Resono alturnas tra X"
-
-msgid "REVMNU_REVERB_PAN_Y"
-msgstr "Resono alturnas tra Y"
-
-msgid "REVMNU_REVERB_PAN_Z"
-msgstr "Resono alturnas tra Z"
-
-msgid "REVMNU_ECHO_TIME"
-msgstr "Tempo de eĥo"
-
-msgid "REVMNU_ECHO_DEPTH"
-msgstr "Produndo de eĥo"
-
-msgid "REVMNU_MODULATION_TIME"
-msgstr "Tempo de modulado"
-
-msgid "REVMNU_MODULATION_DEPTH"
-msgstr "Produndo de modulado"
-
-msgid "REVMNU_AIR_ABSORPTION_HF"
-msgstr "Aer-absorbo AF"
-
-msgid "REVMNU_HF_REFERENCE"
-msgstr "AF referenco"
-
-msgid "REVMNU_LF_REFERENCE"
-msgstr "MaF referenco"
-
-msgid "REVMNU_ROOM_ROLLOFF_FACTOR"
-msgstr "Ĉambro-Rolloff-faktoro"
-
-msgid "REVMNU_DIFFUSION"
-msgstr "Difuzo"
-
-msgid "REVMNU_DENSITY"
-msgstr "Denseco"
-
 msgid "REVMNU_Reflections_Scale"
 msgstr "Skalo de reflektoj"
 
@@ -1689,9 +1525,6 @@ msgstr "Agordoj por Vulkan (Eksperimenta)"
 msgid "VK_TITLE"
 msgstr "Agordoj por Vulkan"
 
-msgid "VKMNU_ENABLE"
-msgstr "Ŝalti Vulkan"
-
 msgid "VKMNU_DEVICE"
 msgstr "Identigo de Vulkan-aparato"
 
@@ -1703,10 +1536,6 @@ msgstr "Averto: La bildigilo de Vulkan estas alte eksperimenta!"
 
 msgid "VK_RESTART"
 msgstr "Ĉi tiuj agordoj bezonos relanĉon por efikiĝi."
-
-# This is not yet implemented - but it is planned
-msgid "VKMNU_DEVICESELECT"
-msgstr "Elekti Vulkan-aparaton"
 
 msgid "OPTVAL_SCALENX"
 msgstr ""
@@ -1776,41 +1605,11 @@ msgstr "Nur modifitaj"
 msgid "TXT_UNKNOWN"
 msgstr "Nekonata"
 
-msgid "OPTVAL_HUD"
-msgstr ""
-
-msgid "OPTVAL_AUTOMAP"
-msgstr "Aŭtomata mapo"
-
-msgid "OPTVAL_HUDANDMAP"
-msgstr "HUD + Aŭtomata mapo"
-
 msgid "TXT_SAVEGAMENEEDS"
 msgstr "Ĉi tiu konservita ludo bezonas ĉi tiujn dosierojn"
 
-msgid "OPTMNU_MULTIPLAYER"
-msgstr "Agordoj de la plurludanta reĝimo"
-
-msgid "OPTMNU_INPUT"
-msgstr "Enig-agordoj"
-
-msgid "OPTMNU_SYSTEM"
-msgstr "Agordoj de la sistemo"
-
-msgid "OPTMNU_LIGHT"
-msgstr "Lum-agordoj"
-
-msgid "OPTMNU_SPRITE"
-msgstr "Agordoj de la mov-rastrumoj"
-
 msgid "GLPREFMNU_CORONAS"
 msgstr "Lum-ampoloj"
-
-msgid "DSPLYMNU_APPEARANCE"
-msgstr "Aspekto"
-
-msgid "DSPLYMNU_ADVANCED"
-msgstr "Altnivelaj ekran-agordoj"
 
 msgid "PICKER_SELECT"
 msgstr "Elektu lanĉotan ludon."
@@ -1915,21 +1714,6 @@ msgstr "Gastigi"
 
 msgid "PICKER_JOIN"
 msgstr "Aliĝi"
-
-msgid "PICKER_NETMODE"
-msgstr "Reĝimo de rekonektado:"
-
-msgid "PICKER_NETAUTO"
-msgstr "Aŭtomata (rekomendita)"
-
-# Connections are routed through the host instead of all players connecting to
-# each other individually.
-msgid "PICKER_NETSERVER"
-msgstr "Datumpacketo-servilo"
-
-# Players connect to each other individually.
-msgid "PICKER_NETPEER"
-msgstr "Samtavola komunikada"
 
 msgid "PICKER_NETRATE"
 msgstr "Datumpacketo-tiktakrapidio:"

@@ -32,9 +32,6 @@ msgstr ""
 msgid "SAFEMESSAGE"
 msgstr "정말로 정하시겠습니까?"
 
-msgid "NOTSET"
-msgstr "정하지 않음"
-
 msgid "QSPROMPT"
 msgstr ""
 "빠른 저장을 하시겠습니까?\n"
@@ -239,17 +236,11 @@ msgstr "동작"
 msgid "CNTRLMNU_ACTION_TITLE"
 msgstr "사용자 지정 동작 컨트롤"
 
-msgid "CNTRLMNU_CHAT"
-msgstr "채팅"
-
 msgid "MNU_MULTIPLAYER"
 msgstr "멀티플레이어"
 
 msgid "CNTRLMNU_SAY"
 msgstr "채팅하기"
-
-msgid "CNTRLMNU_CHAT_TITLE"
-msgstr "사용자 지정 채팅 컨트롤"
 
 msgid "CNTRLMNU_WEAPONS_TITLE"
 msgstr "사용자 지정 무기 컨트롤"
@@ -407,9 +398,6 @@ msgstr "메시지 토글"
 
 msgid "CNTRLMNU_MENU_QUIT"
 msgstr "게임 종료"
-
-msgid "CNTRLMNU_ADJUST_GAMMA"
-msgstr "감마 조정"
 
 msgid "MOUSEMNU_ENABLEMOUSE"
 msgstr "마우스 사용"
@@ -661,22 +649,10 @@ msgstr "수직 동기화"
 msgid "DSPLYMNU_MODELS"
 msgstr "모델"
 
-msgid "DSPLYMNU_CROSSHAIRSCALE"
-msgstr "조준점 크기"
-
-msgid "DSPLYMNU_SBSCALE"
-msgstr ""
-
-msgid "DSPLYMNU_MESSAGES"
-msgstr "메시지"
-
 msgid "MSGMNU_CENTERMESSAGES"
 msgstr "메시지 중간에 위치"
 
 msgid "MSGMNU_PULSEMESSAGES"
-msgstr ""
-
-msgid "MSGMNU_MESSAGESCALE"
 msgstr ""
 
 msgid "MNU_COLORPICKER"
@@ -699,15 +675,6 @@ msgstr "미니맵 색상 설정"
 
 msgid "MAPCOLORMNU_DEFAULTMAPCOLORS"
 msgstr "기본 색상으로 복구"
-
-msgid "SNDMNU_SNDENABLED"
-msgstr ""
-
-msgid "SNDMNU_MUSENABLED"
-msgstr ""
-
-msgid "OPTVAL_4000HZ"
-msgstr ""
 
 msgid "OPTVAL_8000HZ"
 msgstr ""
@@ -805,9 +772,6 @@ msgstr "음높이 무작위화"
 msgid "SNDMNU_CHANNELS"
 msgstr "음향 채널"
 
-msgid "SNDMNU_BACKEND"
-msgstr "음향 말미"
-
 msgid "SNDMNU_OPENAL"
 msgstr "오픈에이엘 설정"
 
@@ -823,9 +787,6 @@ msgstr "모듈 재생 설정"
 #, fuzzy
 msgid "SNDMNU_MIDIPLAYER"
 msgstr "MIDI 플레이어 설정"
-
-msgid "SNDMNU_MENUSOUND"
-msgstr ""
 
 msgid "ADVSNDMNU_TITLE"
 msgstr "고급 음향 설정"
@@ -866,9 +827,6 @@ msgstr "프리버브"
 msgid "ADVSNDMNU_GLOBAL_FREEVERB"
 msgstr "전반적 프리버브"
 
-msgid "ADVSNDMNU_FLUIDPATCHSET"
-msgstr "패치 세트"
-
 msgid "ADVSNDMNU_FLUIDGAIN"
 msgstr "쌓기"
 
@@ -890,17 +848,8 @@ msgstr ""
 msgid "ADVSNDMNU_OPNMIDI"
 msgstr ""
 
-msgid "ADVSNDMNU_TIMIDITYCONFIG"
-msgstr "Timidity 코딩 파일"
-
-msgid "ADVSNDMNU_TIMIDITYVOLUME"
-msgstr "비교적인 볼륨"
-
 msgid "ADVSNDMNU_WILDMIDI"
 msgstr ""
-
-msgid "ADVSNDMNU_WILDMIDICONFIG"
-msgstr "WildMidi 코딩 파일"
 
 msgid "ADVSNDMNU_SELCONFIG"
 msgstr "설정을 고르시오"
@@ -910,9 +859,6 @@ msgstr "향상된 리샘플링"
 
 msgid "ADVSNDMNU_OPLBANK"
 msgstr "OPL 뱅크"
-
-msgid "ADVSNDMNU_ADLOPLCORES"
-msgstr "OPL 에뮬레이터 코어"
 
 msgid "ADVSNDMNU_RUNPCMRATE"
 msgstr "PCM 속도로 에뮬레이터 실행"
@@ -937,9 +883,6 @@ msgstr "OPN2 에뮬레이터 코어"
 
 msgid "ADVSNDMNU_GUSEMULATION"
 msgstr "GUS 에뮬레이션"
-
-msgid "ADVSNDMNU_GUSCONFIG"
-msgstr "GUS 코딩 파일"
 
 msgid "ADVSNDMNU_DMXGUS"
 msgstr "DMXGUS 럼프 읽기"
@@ -1071,9 +1014,6 @@ msgstr ""
 
 msgid "OPTVAL_MAMEOPNA"
 msgstr "마메 YM2608"
-
-msgid "OPTVAL_PMDWINOPNA"
-msgstr ""
 
 msgid "OPTVAL_OPALOPL3"
 msgstr ""
@@ -1315,12 +1255,6 @@ msgstr ""
 msgid "GLTEXMNU_TITLE"
 msgstr "텍스쳐 설정"
 
-msgid "GLTEXMNU_TEXENABLED"
-msgstr "텍스쳐 사용"
-
-msgid "GLTEXMNU_ENABLEHIRES"
-msgstr "고해상도 텍스쳐 사용"
-
 msgid "GLTEXMNU_HQRESIZE"
 msgstr "고퀄리티 리사이즈 모드"
 
@@ -1348,12 +1282,6 @@ msgstr "지엘 텍스쳐 미리 캐싱함"
 msgid "VIDMNU_TITLE"
 msgstr "화면 설정"
 
-msgid "OPTVAL_SCALENEAREST"
-msgstr "확대 (가깝게)"
-
-msgid "OPTVAL_SCALELINEAR"
-msgstr "확대 (선형 식)"
-
 msgid "OPTVAL_LETTERBOX"
 msgstr "레터박스"
 
@@ -1369,17 +1297,11 @@ msgstr "전체화면"
 msgid "VIDMNU_HIDPI"
 msgstr "망막/하이DPI 활성화"
 
-msgid "VIDMNU_ASPECTRATIO"
-msgstr "종횡비"
-
 msgid "VIDMNU_FORCEASPECT"
 msgstr "강제 종횡비"
 
 msgid "VIDMNU_CROPASPECT"
 msgstr "강제 비율 스타일"
-
-msgid "VIDMNU_5X4ASPECTRATIO"
-msgstr "5:4 비율 사용"
 
 msgid "VIDMNU_SCALEMODE"
 msgstr "해상도 크기"
@@ -1547,92 +1469,6 @@ msgstr "새로운 환경 생성"
 msgid "REVMNU_REVERT"
 msgstr "설정 되돌리기"
 
-# Please translate only if you know how to properly name this technical
-# jargon!
-msgid "REVMNU_ENVIRONMENT_SIZE"
-msgstr "공간 크기"
-
-msgid "REVMNU_ENVIRONMENT_DIFFUSION"
-msgstr "공간 잔향 확산"
-
-msgid "REVMNU_ROOM"
-msgstr "룸 효과"
-
-msgid "REVMNU_ROOM_HF"
-msgstr "룸 효과 HF"
-
-msgid "REVMNU_ROOM_LF"
-msgstr "룸 효과 LF"
-
-msgid "REVMNU_DECAY_TIME"
-msgstr "잔향 감쇠 시간"
-
-msgid "REVMNU_DECAY_HF_RATIO"
-msgstr "잔향 감쇠 HF 비율"
-
-msgid "REVMNU_DECAY_LF_RATIO"
-msgstr "잔향 감쇠 LF 비율"
-
-msgid "REVMNU_REFLECTIONS"
-msgstr "룸 반사"
-
-msgid "REVMNU_REFLECTIONS_DELAY"
-msgstr "룸 반사 딜레이 시간"
-
-msgid "REVMNU_REFLECTIONS_PAN_X"
-msgstr "X축 룸 반사"
-
-msgid "REVMNU_REFLECTIONS_PAN_Y"
-msgstr "Y축 룸 반사"
-
-msgid "REVMNU_REFLECTIONS_PAN_Z"
-msgstr "Z축 룸 반사"
-
-msgid "REVMNU_REVERB"
-msgstr "리버브"
-
-msgid "REVMNU_REVERB_DELAY"
-msgstr "리버브 지연"
-
-msgid "REVMNU_REVERB_PAN_X"
-msgstr "X축 리버브"
-
-msgid "REVMNU_REVERB_PAN_Y"
-msgstr "Y축 리버브"
-
-msgid "REVMNU_REVERB_PAN_Z"
-msgstr "Z축 리버브"
-
-msgid "REVMNU_ECHO_TIME"
-msgstr "에코 시간"
-
-msgid "REVMNU_ECHO_DEPTH"
-msgstr "에코 깊이"
-
-msgid "REVMNU_MODULATION_TIME"
-msgstr "전조 시간"
-
-msgid "REVMNU_MODULATION_DEPTH"
-msgstr "전조 깊이"
-
-msgid "REVMNU_AIR_ABSORPTION_HF"
-msgstr "대기 흡수 HF"
-
-msgid "REVMNU_HF_REFERENCE"
-msgstr "HF 참조치"
-
-msgid "REVMNU_LF_REFERENCE"
-msgstr "LF 참조치"
-
-msgid "REVMNU_ROOM_ROLLOFF_FACTOR"
-msgstr "룸 감쇠 양"
-
-msgid "REVMNU_DIFFUSION"
-msgstr "잔향 확산"
-
-msgid "REVMNU_DENSITY"
-msgstr "잔향 밀도"
-
 msgid "REVMNU_Reflections_Scale"
 msgstr "룸 반사 음계"
 
@@ -1688,9 +1524,6 @@ msgstr "벌칸 설정(실험적)"
 msgid "VK_TITLE"
 msgstr "벌칸 설정"
 
-msgid "VKMNU_ENABLE"
-msgstr "벌칸 렌더러 사용"
-
 msgid "VKMNU_DEVICE"
 msgstr "벌칸 장치 아이디"
 
@@ -1702,10 +1535,6 @@ msgstr "경고: 벌칸 렌더러는 매우 실험적입니다!"
 
 msgid "VK_RESTART"
 msgstr "이 설정을 적용하려면 게임을 재시작해야 합니다."
-
-# This is not yet implemented - but it is planned
-msgid "VKMNU_DEVICESELECT"
-msgstr "벌칸 장치를 고르시오"
 
 msgid "OPTVAL_SCALENX"
 msgstr ""
@@ -1776,41 +1605,11 @@ msgstr "수정된 것만"
 msgid "TXT_UNKNOWN"
 msgstr "알 수 없음"
 
-msgid "OPTVAL_HUD"
-msgstr ""
-
-msgid "OPTVAL_AUTOMAP"
-msgstr "오토맵"
-
-msgid "OPTVAL_HUDANDMAP"
-msgstr "HUD + 오토맵"
-
 msgid "TXT_SAVEGAMENEEDS"
 msgstr "이 저장 된 게임은 해당 파일이 필요합니다."
 
-msgid "OPTMNU_MULTIPLAYER"
-msgstr "멀티플레이어 옵션"
-
-msgid "OPTMNU_INPUT"
-msgstr "입력 옵션"
-
-msgid "OPTMNU_SYSTEM"
-msgstr "시스템 옵션"
-
-msgid "OPTMNU_LIGHT"
-msgstr "조명 옵션"
-
-msgid "OPTMNU_SPRITE"
-msgstr "스프라이트 옵션"
-
 msgid "GLPREFMNU_CORONAS"
 msgstr "코로나"
-
-msgid "DSPLYMNU_APPEARANCE"
-msgstr "외형"
-
-msgid "DSPLYMNU_ADVANCED"
-msgstr "고급 디스플레이 옵션"
 
 msgid "PICKER_SELECT"
 msgstr "실행할 게임 파일을 선택합니다."
@@ -1914,21 +1713,6 @@ msgid "PICKER_HOST"
 msgstr ""
 
 msgid "PICKER_JOIN"
-msgstr ""
-
-msgid "PICKER_NETMODE"
-msgstr ""
-
-msgid "PICKER_NETAUTO"
-msgstr ""
-
-# Connections are routed through the host instead of all players connecting to
-# each other individually.
-msgid "PICKER_NETSERVER"
-msgstr ""
-
-# Players connect to each other individually.
-msgid "PICKER_NETPEER"
 msgstr ""
 
 msgid "PICKER_NETRATE"

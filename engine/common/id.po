@@ -31,9 +31,6 @@ msgstr ""
 msgid "SAFEMESSAGE"
 msgstr "Apa kamu benar-benar ingin melakukan ini?"
 
-msgid "NOTSET"
-msgstr "Belum diatur"
-
 msgid "QSPROMPT"
 msgstr ""
 "Quicksave menimpa permainanmu bernama\n"
@@ -238,17 +235,11 @@ msgstr "Aksi"
 msgid "CNTRLMNU_ACTION_TITLE"
 msgstr "Sesuaikan Kontrol Aksi"
 
-msgid "CNTRLMNU_CHAT"
-msgstr "Obrolan"
-
 msgid "MNU_MULTIPLAYER"
 msgstr "Multipemain"
 
 msgid "CNTRLMNU_SAY"
 msgstr "Katakan"
-
-msgid "CNTRLMNU_CHAT_TITLE"
-msgstr "Sesuaikan Kontrol Obrolan"
 
 msgid "CNTRLMNU_WEAPONS_TITLE"
 msgstr "Sesuaikan Kontrol Senjata"
@@ -407,9 +398,6 @@ msgstr "Toggle Pesan"
 
 msgid "CNTRLMNU_MENU_QUIT"
 msgstr "Keluar dari Game"
-
-msgid "CNTRLMNU_ADJUST_GAMMA"
-msgstr "Atur Gamma"
 
 msgid "MOUSEMNU_ENABLEMOUSE"
 msgstr "Aktifkan mouse"
@@ -661,23 +649,11 @@ msgstr "Sinkronisasi vertikal"
 msgid "DSPLYMNU_MODELS"
 msgstr "Model"
 
-msgid "DSPLYMNU_CROSSHAIRSCALE"
-msgstr "Skala crosshair"
-
-msgid "DSPLYMNU_SBSCALE"
-msgstr "Skala Bilah Status"
-
-msgid "DSPLYMNU_MESSAGES"
-msgstr "Pesan"
-
 msgid "MSGMNU_CENTERMESSAGES"
 msgstr "Pesan di tengah"
 
 msgid "MSGMNU_PULSEMESSAGES"
 msgstr "Tampilan pesan berdenyut"
-
-msgid "MSGMNU_MESSAGESCALE"
-msgstr "Skala Pesan"
 
 msgid "MNU_COLORPICKER"
 msgstr "Pilih Warna"
@@ -699,15 +675,6 @@ msgstr "Sesuaikan Warna Peta"
 
 msgid "MAPCOLORMNU_DEFAULTMAPCOLORS"
 msgstr "Pulihkan warna kustom default"
-
-msgid "SNDMNU_SNDENABLED"
-msgstr "Suara diaktifkan"
-
-msgid "SNDMNU_MUSENABLED"
-msgstr "Musik diaktifkan"
-
-msgid "OPTVAL_4000HZ"
-msgstr "4000 Hz"
 
 msgid "OPTVAL_8000HZ"
 msgstr "8000 Hz"
@@ -805,9 +772,6 @@ msgstr "Acak nada"
 msgid "SNDMNU_CHANNELS"
 msgstr "Kanal suara"
 
-msgid "SNDMNU_BACKEND"
-msgstr "Backend suara"
-
 msgid "SNDMNU_OPENAL"
 msgstr "Opsi OpenAL"
 
@@ -822,9 +786,6 @@ msgstr "Opsi pemutar modul"
 
 msgid "SNDMNU_MIDIPLAYER"
 msgstr "Opsi pemutar MIDI"
-
-msgid "SNDMNU_MENUSOUND"
-msgstr "Suara di Menu"
 
 msgid "ADVSNDMNU_TITLE"
 msgstr "Opsi Suara Lanjutan"
@@ -865,9 +826,6 @@ msgstr "Freeverb"
 msgid "ADVSNDMNU_GLOBAL_FREEVERB"
 msgstr "Freeverb Global"
 
-msgid "ADVSNDMNU_FLUIDPATCHSET"
-msgstr "Set patch"
-
 msgid "ADVSNDMNU_FLUIDGAIN"
 msgstr "Gain"
 
@@ -889,17 +847,8 @@ msgstr "ADLMidi"
 msgid "ADVSNDMNU_OPNMIDI"
 msgstr "OPNMidi"
 
-msgid "ADVSNDMNU_TIMIDITYCONFIG"
-msgstr "File konfigurasi Timidity"
-
-msgid "ADVSNDMNU_TIMIDITYVOLUME"
-msgstr "Volume relatif"
-
 msgid "ADVSNDMNU_WILDMIDI"
 msgstr "WildMidi"
-
-msgid "ADVSNDMNU_WILDMIDICONFIG"
-msgstr "File konfigurasi WildMidi"
 
 msgid "ADVSNDMNU_SELCONFIG"
 msgstr "Pilih konfigurasi"
@@ -909,9 +858,6 @@ msgstr "Resampling Lanjutan"
 
 msgid "ADVSNDMNU_OPLBANK"
 msgstr "Bank OPL"
-
-msgid "ADVSNDMNU_ADLOPLCORES"
-msgstr "Inti Emulator OPL"
 
 msgid "ADVSNDMNU_RUNPCMRATE"
 msgstr "Jalankan emulator pada laju PCM"
@@ -936,9 +882,6 @@ msgstr "Inti Emulator OPN2"
 
 msgid "ADVSNDMNU_GUSEMULATION"
 msgstr "Emulasi GUS"
-
-msgid "ADVSNDMNU_GUSCONFIG"
-msgstr "File konfigurasi GUS"
 
 msgid "ADVSNDMNU_DMXGUS"
 msgstr "Baca potongan DMXGUS"
@@ -1070,9 +1013,6 @@ msgstr "Neko Project II Kai OPNA"
 
 msgid "OPTVAL_MAMEOPNA"
 msgstr "MAME YM2608"
-
-msgid "OPTVAL_PMDWINOPNA"
-msgstr "PMDWin OPNA"
 
 msgid "OPTVAL_OPALOPL3"
 msgstr "Opal OPL3"
@@ -1314,12 +1254,6 @@ msgstr "32×"
 msgid "GLTEXMNU_TITLE"
 msgstr "Opsi Tekstur"
 
-msgid "GLTEXMNU_TEXENABLED"
-msgstr "Tekstur diaktifkan"
-
-msgid "GLTEXMNU_ENABLEHIRES"
-msgstr "Aktifkan tekstur resolusi tinggi"
-
 msgid "GLTEXMNU_HQRESIZE"
 msgstr "Mode Ubah Ukuran Kualitas Tinggi"
 
@@ -1347,12 +1281,6 @@ msgstr "Pramuat tekstur GL"
 msgid "VIDMNU_TITLE"
 msgstr "Mode Video"
 
-msgid "OPTVAL_SCALENEAREST"
-msgstr "Skala (Terdekat)"
-
-msgid "OPTVAL_SCALELINEAR"
-msgstr "Skala (Linear)"
-
 msgid "OPTVAL_LETTERBOX"
 msgstr "Kotak surat"
 
@@ -1368,17 +1296,11 @@ msgstr "Layar penuh"
 msgid "VIDMNU_HIDPI"
 msgstr "Dukungan Retina/HiDPI"
 
-msgid "VIDMNU_ASPECTRATIO"
-msgstr "Rasio aspek"
-
 msgid "VIDMNU_FORCEASPECT"
 msgstr "Paksa rasio aspek"
 
 msgid "VIDMNU_CROPASPECT"
 msgstr "Gaya rasio paksa"
-
-msgid "VIDMNU_5X4ASPECTRATIO"
-msgstr "Aktifkan rasio aspek 5:4"
 
 msgid "VIDMNU_SCALEMODE"
 msgstr "Skala resolusi"
@@ -1546,92 +1468,6 @@ msgstr "Lingkungan baru"
 msgid "REVMNU_REVERT"
 msgstr "Kembalikan pengaturan"
 
-# Please translate only if you know how to properly name this technical
-# jargon!
-msgid "REVMNU_ENVIRONMENT_SIZE"
-msgstr "Ukuran lingkungan"
-
-msgid "REVMNU_ENVIRONMENT_DIFFUSION"
-msgstr "Difusi lingkungan"
-
-msgid "REVMNU_ROOM"
-msgstr "Ruangan"
-
-msgid "REVMNU_ROOM_HF"
-msgstr "HF ruangan"
-
-msgid "REVMNU_ROOM_LF"
-msgstr "LF ruangan"
-
-msgid "REVMNU_DECAY_TIME"
-msgstr "Waktu peluruhan"
-
-msgid "REVMNU_DECAY_HF_RATIO"
-msgstr "Rasio peluruhan HF"
-
-msgid "REVMNU_DECAY_LF_RATIO"
-msgstr "Rasio peluruhan LF"
-
-msgid "REVMNU_REFLECTIONS"
-msgstr "Refleksi"
-
-msgid "REVMNU_REFLECTIONS_DELAY"
-msgstr "Tunda refleksi"
-
-msgid "REVMNU_REFLECTIONS_PAN_X"
-msgstr "Refleksi Pan X"
-
-msgid "REVMNU_REFLECTIONS_PAN_Y"
-msgstr "Refleksi Pan Y"
-
-msgid "REVMNU_REFLECTIONS_PAN_Z"
-msgstr "Refleksi Pan Z"
-
-msgid "REVMNU_REVERB"
-msgstr "Gema"
-
-msgid "REVMNU_REVERB_DELAY"
-msgstr "Tunda gema"
-
-msgid "REVMNU_REVERB_PAN_X"
-msgstr "Gema Pan X"
-
-msgid "REVMNU_REVERB_PAN_Y"
-msgstr "Gema Pan Y"
-
-msgid "REVMNU_REVERB_PAN_Z"
-msgstr "Gema Pan Z"
-
-msgid "REVMNU_ECHO_TIME"
-msgstr "Waktu gema"
-
-msgid "REVMNU_ECHO_DEPTH"
-msgstr "Kedalaman gema"
-
-msgid "REVMNU_MODULATION_TIME"
-msgstr "Waktu modulasi"
-
-msgid "REVMNU_MODULATION_DEPTH"
-msgstr "Kedalaman modulasi"
-
-msgid "REVMNU_AIR_ABSORPTION_HF"
-msgstr "Penyerapan udara HF"
-
-msgid "REVMNU_HF_REFERENCE"
-msgstr "Referensi HF"
-
-msgid "REVMNU_LF_REFERENCE"
-msgstr "Referensi LF"
-
-msgid "REVMNU_ROOM_ROLLOFF_FACTOR"
-msgstr "Faktor pengurangan ruangan"
-
-msgid "REVMNU_DIFFUSION"
-msgstr "Difusi"
-
-msgid "REVMNU_DENSITY"
-msgstr "Kepadatan"
-
 msgid "REVMNU_Reflections_Scale"
 msgstr "Skala refleksi"
 
@@ -1686,9 +1522,6 @@ msgstr "Opsi Vulkan (Eksperimental)"
 msgid "VK_TITLE"
 msgstr "Opsi Vulkan"
 
-msgid "VKMNU_ENABLE"
-msgstr "Aktifkan Vulkan"
-
 msgid "VKMNU_DEVICE"
 msgstr "ID perangkat Vulkan"
 
@@ -1700,10 +1533,6 @@ msgstr "Peringatan: Renderer Vulkan sangat eksperimental!"
 
 msgid "VK_RESTART"
 msgstr "Opsi ini memerlukan restart untuk diterapkan."
-
-# This is not yet implemented - but it is planned
-msgid "VKMNU_DEVICESELECT"
-msgstr "Pilih perangkat Vulkan"
 
 msgid "OPTVAL_SCALENX"
 msgstr "ScaleNx"
@@ -1773,41 +1602,11 @@ msgstr "Hanya yang dimodifikasi"
 msgid "TXT_UNKNOWN"
 msgstr "Tidak diketahui"
 
-msgid "OPTVAL_HUD"
-msgstr "HUD"
-
-msgid "OPTVAL_AUTOMAP"
-msgstr "Peta otomatis"
-
-msgid "OPTVAL_HUDANDMAP"
-msgstr "HUD + Peta otomatis"
-
 msgid "TXT_SAVEGAMENEEDS"
 msgstr "Simpan permainan ini memerlukan file berikut"
 
-msgid "OPTMNU_MULTIPLAYER"
-msgstr "Opsi multipemain"
-
-msgid "OPTMNU_INPUT"
-msgstr "Opsi input"
-
-msgid "OPTMNU_SYSTEM"
-msgstr "Opsi sistem"
-
-msgid "OPTMNU_LIGHT"
-msgstr "Opsi pencahayaan"
-
-msgid "OPTMNU_SPRITE"
-msgstr "Opsi sprite"
-
 msgid "GLPREFMNU_CORONAS"
 msgstr "Korona"
-
-msgid "DSPLYMNU_APPEARANCE"
-msgstr "Tampilan"
-
-msgid "DSPLYMNU_ADVANCED"
-msgstr "Opsi tampilan lanjutan"
 
 msgid "PICKER_SELECT"
 msgstr "Pilih file game yang akan dijalankan."
@@ -1912,21 +1711,6 @@ msgstr "Host"
 
 msgid "PICKER_JOIN"
 msgstr "Gabung"
-
-msgid "PICKER_NETMODE"
-msgstr "Mode jaringan:"
-
-msgid "PICKER_NETAUTO"
-msgstr "Otomatis (disarankan)"
-
-# Connections are routed through the host instead of all players connecting to
-# each other individually.
-msgid "PICKER_NETSERVER"
-msgstr "Server paket"
-
-# Players connect to each other individually.
-msgid "PICKER_NETPEER"
-msgstr "Peer-to-Peer"
 
 msgid "PICKER_NETRATE"
 msgstr "Tingkat paket:"

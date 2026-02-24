@@ -32,9 +32,6 @@ msgstr ""
 msgid "SAFEMESSAGE"
 msgstr "Wil je dit echt doen?"
 
-msgid "NOTSET"
-msgstr "Niet ingesteld"
-
 msgid "QSPROMPT"
 msgstr ""
 "Snel opslaan over je spel genaamd\n"
@@ -240,17 +237,11 @@ msgstr "Actie"
 msgid "CNTRLMNU_ACTION_TITLE"
 msgstr "Aanpassen van de actiecontroles"
 
-msgid "CNTRLMNU_CHAT"
-msgstr "Chat"
-
 msgid "MNU_MULTIPLAYER"
 msgstr "Meerdere spelers"
 
 msgid "CNTRLMNU_SAY"
 msgstr "Zeg"
-
-msgid "CNTRLMNU_CHAT_TITLE"
-msgstr "Chat-controles aanpassen aan uw wensen"
 
 msgid "CNTRLMNU_WEAPONS_TITLE"
 msgstr "Wapencontroles aanpassen aan uw eigen wensen"
@@ -409,9 +400,6 @@ msgstr "Berichten aan/uit"
 
 msgid "CNTRLMNU_MENU_QUIT"
 msgstr "Stop het spel"
-
-msgid "CNTRLMNU_ADJUST_GAMMA"
-msgstr "Gamma aanpassen"
 
 msgid "MOUSEMNU_ENABLEMOUSE"
 msgstr "Muis inschakelen"
@@ -665,23 +653,11 @@ msgstr "Verticale Sync"
 msgid "DSPLYMNU_MODELS"
 msgstr "Modellen"
 
-msgid "DSPLYMNU_CROSSHAIRSCALE"
-msgstr "Dradenkruis schalen"
-
-msgid "DSPLYMNU_SBSCALE"
-msgstr "Statusbalkschaal"
-
-msgid "DSPLYMNU_MESSAGES"
-msgstr "Berichten"
-
 msgid "MSGMNU_CENTERMESSAGES"
 msgstr "Berichten centreren"
 
 msgid "MSGMNU_PULSEMESSAGES"
 msgstr "Pulserende berichtendisplay"
-
-msgid "MSGMNU_MESSAGESCALE"
-msgstr "Berichtschaal"
 
 msgid "MNU_COLORPICKER"
 msgstr "Selecteer Kleur"
@@ -703,15 +679,6 @@ msgstr "Kaartkleuren aanpassen"
 
 msgid "MAPCOLORMNU_DEFAULTMAPCOLORS"
 msgstr "Standaard aangepaste kleuren herstellen"
-
-msgid "SNDMNU_SNDENABLED"
-msgstr "Geluid actief"
-
-msgid "SNDMNU_MUSENABLED"
-msgstr "Muziek actief"
-
-msgid "OPTVAL_4000HZ"
-msgstr "4000 Hz"
 
 msgid "OPTVAL_8000HZ"
 msgstr "8000 Hz"
@@ -811,9 +778,6 @@ msgstr "Willekeurige plaatsen"
 msgid "SNDMNU_CHANNELS"
 msgstr "Geluidskanalen"
 
-msgid "SNDMNU_BACKEND"
-msgstr "Geluidsarme achterkant"
-
 msgid "SNDMNU_OPENAL"
 msgstr "OpenAL opties"
 
@@ -829,9 +793,6 @@ msgstr "Module replayer opties"
 #, fuzzy
 msgid "SNDMNU_MIDIPLAYER"
 msgstr "Midi speler opties"
-
-msgid "SNDMNU_MENUSOUND"
-msgstr "Geluid in menu's"
 
 msgid "ADVSNDMNU_TITLE"
 msgstr "Geavanceerde geluidsopties"
@@ -874,9 +835,6 @@ msgstr "Freeverb"
 msgid "ADVSNDMNU_GLOBAL_FREEVERB"
 msgstr "Globale Freeverb"
 
-msgid "ADVSNDMNU_FLUIDPATCHSET"
-msgstr "Patchset"
-
 msgid "ADVSNDMNU_FLUIDGAIN"
 msgstr "Relatief volume"
 
@@ -900,18 +858,9 @@ msgstr "ADLMidi"
 msgid "ADVSNDMNU_OPNMIDI"
 msgstr "OPNMidi"
 
-msgid "ADVSNDMNU_TIMIDITYCONFIG"
-msgstr "Timidity++ configuratiebestand"
-
-msgid "ADVSNDMNU_TIMIDITYVOLUME"
-msgstr "Relatief volume"
-
 #, fuzzy
 msgid "ADVSNDMNU_WILDMIDI"
 msgstr "WildMidi"
-
-msgid "ADVSNDMNU_WILDMIDICONFIG"
-msgstr "WildMidi configuratiebestand"
 
 msgid "ADVSNDMNU_SELCONFIG"
 msgstr "Selecteer configuratie"
@@ -922,9 +871,6 @@ msgstr "Geavanceerde herbemonstering"
 #, fuzzy
 msgid "ADVSNDMNU_OPLBANK"
 msgstr "OPL Bank"
-
-msgid "ADVSNDMNU_ADLOPLCORES"
-msgstr "OPL Emulator Kern"
 
 msgid "ADVSNDMNU_RUNPCMRATE"
 msgstr "Emulator maakt gebruik van PCM Samplerate"
@@ -949,9 +895,6 @@ msgstr "OPN2 Emulatorkern van de OPN2-emulator"
 
 msgid "ADVSNDMNU_GUSEMULATION"
 msgstr "GUS-emulatie"
-
-msgid "ADVSNDMNU_GUSCONFIG"
-msgstr "GUS-configuratiebestand"
 
 msgid "ADVSNDMNU_DMXGUS"
 msgstr "DMXGUS-klonten lezen"
@@ -1091,10 +1034,6 @@ msgstr "Neko Project II Kai OPNA"
 
 msgid "OPTVAL_MAMEOPNA"
 msgstr "MAME YM2608"
-
-#, fuzzy
-msgid "OPTVAL_PMDWINOPNA"
-msgstr "PMDWin OPNA"
 
 #, fuzzy
 msgid "OPTVAL_OPALOPL3"
@@ -1347,12 +1286,6 @@ msgstr "32×"
 msgid "GLTEXMNU_TITLE"
 msgstr "Textuur Opties"
 
-msgid "GLTEXMNU_TEXENABLED"
-msgstr "Texturen ingeschakeld"
-
-msgid "GLTEXMNU_ENABLEHIRES"
-msgstr "Hoge-resolutie texturen op"
-
 msgid "GLTEXMNU_HQRESIZE"
 msgstr "Textuurschaalmodus"
 
@@ -1380,12 +1313,6 @@ msgstr "Precache GL texturen"
 msgid "VIDMNU_TITLE"
 msgstr "Videomodus"
 
-msgid "OPTVAL_SCALENEAREST"
-msgstr "Geschaald (Dichtstbijzijnd)"
-
-msgid "OPTVAL_SCALELINEAR"
-msgstr "Geschaald (Lineair)"
-
 msgid "OPTVAL_LETTERBOX"
 msgstr "Brievenbus"
 
@@ -1401,17 +1328,11 @@ msgstr "Volledig scherm"
 msgid "VIDMNU_HIDPI"
 msgstr "Retina / HiDPI-ondersteuning"
 
-msgid "VIDMNU_ASPECTRATIO"
-msgstr "Beeldverhouding"
-
 msgid "VIDMNU_FORCEASPECT"
 msgstr "Geforceerde beeldverhouding"
 
 msgid "VIDMNU_CROPASPECT"
 msgstr "Geforceerde verhoudingsstijl"
-
-msgid "VIDMNU_5X4ASPECTRATIO"
-msgstr "Schakel 5:4 beeldverhouding in"
 
 msgid "VIDMNU_SCALEMODE"
 msgstr "Resolutieschaal"
@@ -1587,96 +1508,6 @@ msgstr "Nieuwe omgeving"
 msgid "REVMNU_REVERT"
 msgstr "Instellingen terugzetten"
 
-# Please translate only if you know how to properly name this technical
-# jargon!
-msgid "REVMNU_ENVIRONMENT_SIZE"
-msgstr "Omgeving Grootte"
-
-msgid "REVMNU_ENVIRONMENT_DIFFUSION"
-msgstr "Milieuverspreiding"
-
-msgid "REVMNU_ROOM"
-msgstr "Kamer"
-
-msgid "REVMNU_ROOM_HF"
-msgstr "Kamer HF"
-
-msgid "REVMNU_ROOM_LF"
-msgstr "Kamer LF"
-
-msgid "REVMNU_DECAY_TIME"
-msgstr "Vervaldtijd"
-
-msgid "REVMNU_DECAY_HF_RATIO"
-msgstr "Verval HF-verhouding"
-
-msgid "REVMNU_DECAY_LF_RATIO"
-msgstr "Verval LF-verhouding"
-
-msgid "REVMNU_REFLECTIONS"
-msgstr "Reflecties"
-
-msgid "REVMNU_REFLECTIONS_DELAY"
-msgstr "Reflecties Vertraging"
-
-msgid "REVMNU_REFLECTIONS_PAN_X"
-msgstr "Reflecties Pan X"
-
-msgid "REVMNU_REFLECTIONS_PAN_Y"
-msgstr "Reflecties Pan Y"
-
-msgid "REVMNU_REFLECTIONS_PAN_Z"
-msgstr "Reflecties Pan Z"
-
-#, fuzzy
-msgid "REVMNU_REVERB"
-msgstr "Reverb"
-
-msgid "REVMNU_REVERB_DELAY"
-msgstr "Reverb-vertraging"
-
-#, fuzzy
-msgid "REVMNU_REVERB_PAN_X"
-msgstr "Reverb Pan X"
-
-#, fuzzy
-msgid "REVMNU_REVERB_PAN_Y"
-msgstr "Reverb Pan Y"
-
-#, fuzzy
-msgid "REVMNU_REVERB_PAN_Z"
-msgstr "Reverb Pan Z"
-
-msgid "REVMNU_ECHO_TIME"
-msgstr "Echotijd"
-
-msgid "REVMNU_ECHO_DEPTH"
-msgstr "Echo-diepte"
-
-msgid "REVMNU_MODULATION_TIME"
-msgstr "Modulatietijd"
-
-msgid "REVMNU_MODULATION_DEPTH"
-msgstr "Modulatie diepte"
-
-msgid "REVMNU_AIR_ABSORPTION_HF"
-msgstr "Luchtabsorptie HF"
-
-msgid "REVMNU_HF_REFERENCE"
-msgstr "HF-referentie"
-
-msgid "REVMNU_LF_REFERENCE"
-msgstr "LF-referentie"
-
-msgid "REVMNU_ROOM_ROLLOFF_FACTOR"
-msgstr "Ruimte-rolloff-factor"
-
-msgid "REVMNU_DIFFUSION"
-msgstr "Diffusie"
-
-msgid "REVMNU_DENSITY"
-msgstr "Dichtheid"
-
 msgid "REVMNU_Reflections_Scale"
 msgstr "Reflectieschaal"
 
@@ -1732,9 +1563,6 @@ msgstr "Vulkan-opties (Experimenteel)"
 msgid "VK_TITLE"
 msgstr "Vulkan-opties"
 
-msgid "VKMNU_ENABLE"
-msgstr "Vulkan inschakelen"
-
 msgid "VKMNU_DEVICE"
 msgstr "Vulkan apparaat-ID"
 
@@ -1746,10 +1574,6 @@ msgstr "Waarschuwing: De Vulkan renderer is zeer experimenteel!"
 
 msgid "VK_RESTART"
 msgstr "Deze opties vereisen een herstart om van kracht te worden."
-
-# This is not yet implemented - but it is planned
-msgid "VKMNU_DEVICESELECT"
-msgstr "Selecteer Vulkan Apparaat"
 
 #, fuzzy
 msgid "OPTVAL_SCALENX"
@@ -1824,42 +1648,11 @@ msgstr "Alleen gewijzigd"
 msgid "TXT_UNKNOWN"
 msgstr "Onbekend"
 
-msgid "OPTVAL_HUD"
-msgstr "HUD"
-
-msgid "OPTVAL_AUTOMAP"
-msgstr "Automatische kaart"
-
-#, fuzzy
-msgid "OPTVAL_HUDANDMAP"
-msgstr "HUD + Automap"
-
 msgid "TXT_SAVEGAMENEEDS"
 msgstr "Dit spel heeft de volgende bestanden nodig"
 
-msgid "OPTMNU_MULTIPLAYER"
-msgstr "Multiplayer Opties"
-
-msgid "OPTMNU_INPUT"
-msgstr "In1voeropties"
-
-msgid "OPTMNU_SYSTEM"
-msgstr "Systeem Opties"
-
-msgid "OPTMNU_LIGHT"
-msgstr "Licht Opties"
-
-msgid "OPTMNU_SPRITE"
-msgstr "Sprite-opties"
-
 msgid "GLPREFMNU_CORONAS"
 msgstr "Corona's"
-
-msgid "DSPLYMNU_APPEARANCE"
-msgstr "Uiterlijk"
-
-msgid "DSPLYMNU_ADVANCED"
-msgstr "Geavanceerde Weergave Opties"
 
 msgid "PICKER_SELECT"
 msgstr "Selecteer welk spel je wilt spelen"
@@ -1965,21 +1758,6 @@ msgstr "Host"
 
 msgid "PICKER_JOIN"
 msgstr "Meedoen"
-
-msgid "PICKER_NETMODE"
-msgstr "Netwerkmodus:"
-
-msgid "PICKER_NETAUTO"
-msgstr "Auto (aanbevolen)"
-
-# Connections are routed through the host instead of all players connecting to
-# each other individually.
-msgid "PICKER_NETSERVER"
-msgstr "Pakket-server"
-
-# Players connect to each other individually.
-msgid "PICKER_NETPEER"
-msgstr "Peer-to-peer"
 
 msgid "PICKER_NETRATE"
 msgstr "Pakket Ticrate:"
