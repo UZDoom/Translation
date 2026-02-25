@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 04:38+0000\n"
+"PO-Revision-Date: 2026-02-25 19:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/sv/>\n"
@@ -2583,9 +2583,8 @@ msgstr "Gå härifrån!"
 msgid "TXT_COMM0"
 msgstr "Inkommande meddelande..."
 
-#, fuzzy
 msgid "TXT_COMM1"
-msgstr "Inkommande meddelande från BlackBird..."
+msgstr "Inkommande meddelande från BlackBird…"
 
 msgid "TXT_FINDHELP"
 msgstr "Hitta hjälp"
@@ -2774,7 +2773,6 @@ msgstr ""
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: Bazoiks grottor"
 
-#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Uppdraget slutfört.\n"
@@ -2786,7 +2784,7 @@ msgstr ""
 "\n"
 "\n"
 "\n"
-"Tryck på escape-tangenten för att fortsätta..."
+"Tryck på escape-tangenten för att fortsätta…"
 
 msgid "CE2TEXT"
 msgstr "Du har gjort det!"
