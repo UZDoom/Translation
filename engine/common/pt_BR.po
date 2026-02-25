@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 19:09+0000\n"
+"PO-Revision-Date: 2026-02-25 21:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "uzdoom/common/pt_BR/>\n"
@@ -1495,7 +1495,7 @@ msgid "REVMNU_Decay_Time_Scale"
 msgstr "Escala de tempo de decaimento"
 
 msgid "REVMNU_Decay_HF_Limit"
-msgstr "Limite de decaimento em alta freq."
+msgstr "Limite de decaimento em alta freq"
 
 msgid "REVMNU_Reverb_Scale"
 msgstr "Escala de reverberação"
@@ -1645,7 +1645,7 @@ msgid "PICKER_FULLSCREEN"
 msgstr "Tela cheia"
 
 msgid "PICKER_NOAUTOLOAD"
-msgstr "Desativar autocarregam."
+msgstr "Desativar autocarregam"
 
 msgid "PICKER_DONTASK"
 msgstr "Não perguntar de novo"
