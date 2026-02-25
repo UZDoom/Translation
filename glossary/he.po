@@ -109,6 +109,3 @@ msgstr "Uncharted 2"
 
 msgid "Reinhard"
 msgstr "Reinhard"
-
-msgid "Hejl Dawson"
-msgstr "Hejl Dawson"
