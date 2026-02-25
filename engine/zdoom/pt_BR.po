@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 19:45+0000\n"
+"PO-Revision-Date: 2026-02-25 04:38+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "uzdoom/zdoom-engine-strings/pt_BR/>\n"
@@ -21,7 +21,7 @@ msgid "SECRETMESSAGE"
 msgstr "Segredo revelado!"
 
 msgid "D_DEVSTR"
-msgstr "Modo inútil ATIVADO."
+msgstr "Modo inútil ATIVADO"
 
 msgid "QUITMSG"
 msgstr ""
@@ -372,13 +372,11 @@ msgstr "Tentando trapacear, né? Morra!"
 msgid "TXT_CHEATIDKFA"
 msgstr "Trapaceiros não merecem armas"
 
-#, fuzzy
 msgid "TXT_CHEATTICKERON"
-msgstr "Contador ativado"
+msgstr "Contador ATIVADO"
 
-#, fuzzy
 msgid "TXT_CHEATTICKEROFF"
-msgstr "Contador desativado"
+msgstr "Contador DESATIVADO"
 
 msgid "TXT_CHEATARTIFACTS3"
 msgstr "Concedido"
@@ -390,11 +388,10 @@ msgid "TXT_GOTSTUFF"
 msgstr "Você ganhou muitas coisas!"
 
 msgid "TXT_FREEZEON"
-msgstr "Modo congelado ativado"
+msgstr "Modo congelado ATIVADO"
 
-#, fuzzy
 msgid "TXT_FREEZEOFF"
-msgstr "Modo congelado desativado"
+msgstr "Modo congelado DESATIVADO"
 
 msgid "TXT_STRANGE"
 msgstr "Você está com uma sensação estranha…"
@@ -406,11 +403,10 @@ msgid "TXT_NOTSTRANGE"
 msgstr "Você se sente normal novamente."
 
 msgid "TXT_LEADBOOTSON"
-msgstr "Botas de chumbo ativadas"
+msgstr "Botas de chumbo ATIVADAS"
 
-#, fuzzy
 msgid "TXT_LEADBOOTSOFF"
-msgstr "Botas de chumbo desativadas"
+msgstr "Botas de chumbo DESATIVADAS"
 
 msgid "TXT_LIGHTER"
 msgstr "Você se sente mais leve"
