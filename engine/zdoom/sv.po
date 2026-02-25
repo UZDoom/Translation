@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 19:09+0000\n"
+"PO-Revision-Date: 2026-02-25 21:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/sv/>\n"
@@ -455,27 +455,26 @@ msgstr "Alla artefakter!"
 msgid "TXT_WHAT_KILL"
 msgstr "Vad vill du döda utanför ett spel?"
 
-#, fuzzy
 msgid "TXT_NOT_FROZEN"
-msgstr "Frysta spelaregenskaper avstängda"
+msgstr "Frysta spelaregenskaper AV"
 
 msgid "AMSTR_FOLLOWOFF"
-msgstr "Följningsläget av"
+msgstr "Följningsläget AV"
 
 msgid "AMSTR_FOLLOWON"
-msgstr "Följningsläget på"
+msgstr "Följningsläget PÅ"
 
 msgid "AMSTR_GRIDON"
-msgstr "Rutnät på"
+msgstr "Rutnät PÅ"
 
 msgid "AMSTR_GRIDOFF"
-msgstr "Rutnät av"
+msgstr "Rutnät AV"
 
 msgid "AMSTR_TEXON"
 msgstr "Texturläge på"
 
 msgid "AMSTR_TEXOFF"
-msgstr "Texturläge av"
+msgstr "Texturläge AV"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Markerad punkt"
@@ -1012,7 +1011,7 @@ msgid "OB_SHOTGUY"
 msgstr "%o blev skjuten av en hagelgevärskille."
 
 msgid "OB_VILE"
-msgstr "%o blev förbränd av en ärkevilde"
+msgstr "%o blev förbränd av en ärkevilde."
 
 msgid "OB_UNDEAD"
 msgstr "%o kunde inte undvika en återfödds eldklot."
@@ -1551,7 +1550,7 @@ msgid "TXT_BLOODSCOURGE_PIECE"
 msgstr "Segment av Bloodscourge"
 
 msgid "TXT_NEED_KEY_STEEL"
-msgstr "Du behöver stålnyckeln."
+msgstr "Du behöver stålnyckeln"
 
 msgid "TXT_NEED_KEY_CAVE"
 msgstr "Du behöver grottnyckeln"
@@ -2075,35 +2074,32 @@ msgstr "Du plockade upp de elektriska bultarna."
 msgid "TXT_AMMOSATCHEL"
 msgstr "Du plockade upp ammunitionsväskan."
 
-#, fuzzy
 msgid "MSG_TALISMANRED"
-msgstr "Du har en känsla av att den inte fick röras..."
+msgstr "Du har en känsla av att den inte fick röras…"
 
-#, fuzzy
 msgid "MSG_TALISMANGREEN"
-msgstr "Vad det än är så hör det inte hemma i den här världen..."
+msgstr "Vad det än är så hör det inte hemma i den här världen…"
 
-#, fuzzy
 msgid "MSG_TALISMANBLUE"
-msgstr "Det måste göra något..."
+msgstr "Det måste göra något…"
 
 msgid "MSG_TALISMANPOWER"
 msgstr "Du har superstyrka!"
 
 msgid "TXT_NEEDKEY"
-msgstr "Du har inte nyckeln."
+msgstr "Du har inte nyckeln"
 
 msgid "TXT_NEED_PASSCARD"
-msgstr "Du behöver ett passerkort."
+msgstr "Du behöver ett passerkort"
 
 msgid "TXT_NEED_PASSCARD_DOOR"
-msgstr "Du behöver ett passerkort för att öppna den här dörren."
+msgstr "Du behöver ett passerkort för att öppna den här dörren"
 
 msgid "TXT_NEED_IDCARD"
 msgstr "Du behöver ett ID-kort"
 
 msgid "TXT_NEED_PRISONKEY"
-msgstr "Du har inte nyckeln till fängelset."
+msgstr "Du har inte nyckeln till fängelset"
 
 msgid "TXT_NEED_HANDPRINT"
 msgstr "Handavtryck finns inte i registret"
@@ -2115,7 +2111,7 @@ msgid "TXT_NEED_IDBADGE"
 msgstr "Du behöver ett ID-bricka"
 
 msgid "TXT_NEED_IDBADGE_DOOR"
-msgstr "Du behöver en ID-bricka för att öppna den här dörren."
+msgstr "Du behöver en ID-bricka för att öppna den här dörren"
 
 msgid "TXT_NEED_SILVERKEY"
 msgstr "Du behöver silvernyckeln"
@@ -2130,10 +2126,10 @@ msgid "TXT_NEED_BLUECRYSTAL"
 msgstr "Du behöver den blå kristallen"
 
 msgid "TXT_RETAIL_ONLY"
-msgstr "Det här området finns bara i detaljhandelsversionen av Strife."
+msgstr "Det här området finns bara i detaljhandelsversionen av Strife"
 
 msgid "TXT_DOES_NOT_WORK"
-msgstr "Det verkar inte fungera."
+msgstr "Det verkar inte fungera"
 
 msgid "TXT_NEED_CHALICE"
 msgstr "Du behöver kalken!"
@@ -2547,13 +2543,13 @@ msgid "TXT_COMPLETED_TRAINING"
 msgstr "Grattis! Du har avslutat träningsområdet"
 
 msgid "TXT_QUEST_14"
-msgstr "Du har sprängt kristallen."
+msgstr "Du har sprängt kristallen"
 
 msgid "TXT_QUEST_16"
-msgstr "Du har sprängt portarna."
+msgstr "Du har sprängt portarna"
 
 msgid "TXT_QUEST_27"
-msgstr "Du har sprängt datorn."
+msgstr "Du har sprängt datorn"
 
 msgid "TXT_KILLED_BISHOP"
 msgstr "Du har dödat biskopen!"
@@ -2579,9 +2575,8 @@ msgstr "Du verkar ha fått nog!"
 msgid "TXT_GOAWAY"
 msgstr "Gå härifrån!"
 
-#, fuzzy
 msgid "TXT_COMM0"
-msgstr "Inkommande meddelande..."
+msgstr "Inkommande meddelande…"
 
 msgid "TXT_COMM1"
 msgstr "Inkommande meddelande från BlackBird…"
@@ -2593,13 +2588,11 @@ msgstr "Hitta hjälp"
 msgid "TXT_TRADE"
 msgstr "för %u"
 
-#, fuzzy
 msgid "GOTCHEXARMOR"
-msgstr "Plockade upp Chex(R) rustningen."
+msgstr "Plockade upp Chex® rustningen."
 
-#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
-msgstr "Plockade upp Super Chex(R) rustningen!"
+msgstr "Plockade upp Super Chex® rustningen!"
 
 msgid "GOTWATER"
 msgstr "Plockade upp ett glas vatten."
@@ -2647,7 +2640,7 @@ msgid "GOTPROPULSORPACK"
 msgstr "Plockade upp en zorch propulsor pack."
 
 msgid "GOTPHASINGZORCHERRECHARGE"
-msgstr "Plockade upp en phasing zorcher-uppladdning."
+msgstr "Plockade upp en phasing zorcher-uppladdning"
 
 msgid "GOTPHASINGZORCHERPACK"
 msgstr "Plockade upp en phasing zorcher pack."
@@ -2798,12 +2791,16 @@ msgstr "Fantastiskt"
 msgid "CLOADNET"
 msgstr ""
 "Du kan inte göra lastning när du är i ett nätspel!\n"
+"\n"
 "Tryck på en tangent."
 
 msgctxt "chex"
 msgid "QSPROMPT"
 msgstr ""
-"Snabbt spara över ditt spel som heter %s?\n"
+"Snabbt spara över ditt spel som heter\n"
+"\n"
+"'%s'?\n"
+"\n"
 "Tryck på Y eller N."
 
 msgctxt "chex"
@@ -2816,12 +2813,16 @@ msgstr ""
 msgctxt "chex"
 msgid "QLPROMPT"
 msgstr ""
-"Vill du snabbladda spelet som heter \"%s\"?\n"
+"Vill du snabbladda spelet som heter\n"
+"\n"
+"\"%s\"?\n"
+"\n"
 "Tryck på Y eller N."
 
 msgid "CNEWGAME"
 msgstr ""
-"Du kan inte starta ett nytt spel när du är i ett nätspel.\n"
+"Du kan inte starta ett nytt \n"
+"pel när du är i ett nätspel.\n"
 "\n"
 "Tryck på en tangent."
 
@@ -2832,10 +2833,9 @@ msgstr ""
 "\n"
 "Tryck på Y eller N."
 
-#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
-"Det här är Chex(R) Quest.\n"
+"Det här är Chex® Quest.\n"
 "\n"
 "framtida nivåer på www.chexquest.com.\n"
 "\n"
@@ -2845,12 +2845,14 @@ msgctxt "chex"
 msgid "NETEND"
 msgstr ""
 "Du kan inte avsluta ett nätspel!\n"
+"\n"
 "Tryck på en tangent."
 
 msgctxt "chex"
 msgid "ENDGAME"
 msgstr ""
 "Är du säker på att du vill avsluta spelet?\n"
+"\n"
 "Tryck på Y eller N."
 
 msgctxt "chex"
@@ -2869,10 +2871,9 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Super Zorch läggs till"
 
-#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
-msgstr "... Ät Chex(R)!"
+msgstr "…Ät Chex®!"
 
 msgctxt "chex"
 msgid "AMMO_CLIP"
@@ -2925,7 +2926,7 @@ msgid "SKILL_NIGHTMARE"
 msgstr "Mardröm!"
 
 msgid "CSKILL_BABY"
-msgstr "Det är lätt att göra det."
+msgstr "Det är lätt att göra det"
 
 msgid "CSKILL_EASY"
 msgstr "Inte så klibbigt"
@@ -3089,10 +3090,10 @@ msgid "GMPLYMNU_NORESPAWN"
 msgstr "Monstren återuppstår inte"
 
 msgid "GMPLYMNU_ITEMSRESPAWN"
-msgstr "Föremål återuppstår."
+msgstr "Föremål återuppstår"
 
 msgid "GMPLYMNU_SUPERRESPAWN"
-msgstr "Stora powerups återuppstår."
+msgstr "Stora powerups återuppstår"
 
 msgid "GMPLYMNU_FASTMONSTERS"
 msgstr "Snabba monster"
@@ -3260,7 +3261,7 @@ msgid "CMPTMNU_MINOTAUR"
 msgstr "Ingen Minotaur golvlåga flammar i vatten"
 
 msgid "CMPTMNU_NOTOSSDROPS"
-msgstr "Spawner föremål faller på golvet."
+msgstr "Spawner föremål faller på golvet"
 
 msgid "CMPTMNU_DEHACKEDBEHAVIOR"
 msgstr "DehackEd-beteende"
@@ -3305,7 +3306,7 @@ msgid "CMPTMNU_PHYSICSBEHAVIOR"
 msgstr "Fysikbeteende"
 
 msgid "CMPTMNU_NOPASSOVER"
-msgstr "Aktörerna är oändligt höga."
+msgstr "Aktörerna är oändligt höga"
 
 msgid "CMPTMNU_BOOMSCROLL"
 msgstr "Boom scrollers är additiva"
@@ -3320,13 +3321,13 @@ msgid "CMPTMNU_RAVENSCROLL"
 msgstr "Raven-skrollers använder ursprunglig hastighet"
 
 msgid "CMPTMNU_TRACE"
-msgstr "Självbetjäningssektorer blockerar inte skott."
+msgstr "Självbetjäningssektorer blockerar inte skott"
 
 msgid "CMPTMNU_HITSCAN"
 msgstr "Använd Doom-kod för hitscan-kontroller"
 
 msgid "CMPTMNU_MISSILECLIP"
-msgstr "Använd Doom-höjder för missilklippning."
+msgstr "Använd Doom-höjder för missilklippning"
 
 msgid "CMPTMNU_RENDERINGBEHAVIOR"
 msgstr "Beteende vid rendering"
@@ -3359,7 +3360,7 @@ msgid "CMPTMNU_SOUNDTARGET"
 msgstr "Använd original ljudmålshantering"
 
 msgid "CMPTMNU_TELEPORT"
-msgstr "Skriptbaserade teleporter utlöser inte sektoråtgärder."
+msgstr "Skriptbaserade teleporter utlöser inte sektoråtgärder"
 
 msgid "CMPTMNU_PUSHWINDOW"
 msgstr "Linjer som inte blockerar kan skjutas"
@@ -3971,7 +3972,7 @@ msgid "MISCMNU_CLEARNODECACHE"
 msgstr "Rensa nodcache"
 
 msgid "MISCMNU_INTERSCROLL"
-msgstr "Tillåt att hoppa över rullgardiner för pauslägen."
+msgstr "Tillåt att hoppa över rullgardiner för pauslägen"
 
 msgid "NETMNU_TITLE"
 msgstr "Nätverksalternativ"
@@ -4541,7 +4542,7 @@ msgstr "Lagbyte har inaktiverats!"
 
 # %s is the player and gender sensitive
 msgid "TXT_JOINED_TEAM"
-msgstr "%s anslöt sig till %t teamet."
+msgstr "%s anslöt sig till %t teamet"
 
 msgid "TXT_LONER"
 msgstr "%s är nu en ensamvarg."
@@ -4550,7 +4551,7 @@ msgid "TXT_LEFTWITHFRAGS"
 msgstr "%s lämnade spelet med %d frags"
 
 msgid "TXT_LEFTTHEGAME"
-msgstr "%s har lämnat spelet."
+msgstr "%s har lämnat spelet"
 
 msgid "TXT_COULDNOTREAD"
 msgstr "Kunde inte läsa sparspelet \"%s\"."
@@ -4591,7 +4592,7 @@ msgid "TXT_NOGLOBALSJSON"
 msgstr "%s\" är inte ett giltigt sparfil: Saknar \"globals.json\"."
 
 msgid "TXT_SGINFOERR"
-msgstr "Misslyckades med att få tillgång till information om sparfilet i \"%s\"."
+msgstr "Misslyckades med att få tillgång till information om sparfilet i \"%s\""
 
 msgid "TXT_SAVEPENDING"
 msgstr "Ett sparande av spelet väntar fortfarande."
@@ -4600,13 +4601,13 @@ msgid "TXT_NOTSAVEABLE"
 msgstr "Inte i ett spel som kan sparas."
 
 msgid "TXT_NOTINLEVEL"
-msgstr "Inte i en nivå."
+msgstr "Inte i en nivå"
 
 msgid "TXT_SPPLAYERDEAD"
-msgstr "Spelaren är död i ett enspelarspel."
+msgstr "Spelaren är död i ett enspelarspel"
 
 msgid "TXT_SAVEFAILED"
-msgstr "Spara misslyckades."
+msgstr "Spara misslyckades"
 
 msgid "TXT_SCREENSHOTERR"
 msgstr "Kunde inte skapa en skärmdump."
@@ -4769,7 +4770,7 @@ msgid "ALTHUDMNU_SHOWTIMESTAT"
 msgstr "Visa tidswidget"
 
 msgid "CMPTMNU_VILEGHOSTS"
-msgstr "Krossade monster återuppstår som spöken."
+msgstr "Krossade monster återuppstår som spöken"
 
 msgid "MISCMNU_FVIEWBOB"
 msgstr "Visa att det guppar när du flyger"
