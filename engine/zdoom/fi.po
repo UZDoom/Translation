@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 04:38+0000\n"
+"PO-Revision-Date: 2026-02-25 19:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fi/>\n"
@@ -2582,13 +2582,11 @@ msgstr "Sinulla näyttää olevan tarpeeksi!"
 msgid "TXT_GOAWAY"
 msgstr "Häivy!"
 
-#, fuzzy
 msgid "TXT_COMM0"
-msgstr "Vastaantuleva viesti..."
+msgstr "Vastaantuleva viesti…"
 
-#, fuzzy
 msgid "TXT_COMM1"
-msgstr "Vastaantuleva viesti Blackbirdiltä..."
+msgstr "Vastaantuleva viesti Blackbirdiltä…"
 
 msgid "TXT_FINDHELP"
 msgstr "Etsi apua"
@@ -2777,7 +2775,6 @@ msgstr ""
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: Bazoikin luolastot"
 
-#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Tehtävä suoritettu.\n"
@@ -2789,7 +2786,7 @@ msgstr ""
 "\n"
 "\n"
 "\n"
-"Paina esc-näppäintä jatkaaksesi..."
+"Paina esc-näppäintä jatkaaksesi…"
 
 msgid "CE2TEXT"
 msgstr "Teit sen!"
