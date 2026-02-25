@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 16:13+0000\n"
+"PO-Revision-Date: 2026-02-25 04:38+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/id/>\n"
@@ -20,7 +20,7 @@ msgid "SECRETMESSAGE"
 msgstr "Sebuah rahasia terungkap!"
 
 msgid "D_DEVSTR"
-msgstr "Mode useless NYALA."
+msgstr "Mode useless AKTIF"
 
 msgid "QUITMSG"
 msgstr ""
@@ -374,9 +374,8 @@ msgstr "Kau curang—tidak pantas memiliki senjata"
 msgid "TXT_CHEATTICKERON"
 msgstr "Ticker AKTIF"
 
-#, fuzzy
 msgid "TXT_CHEATTICKEROFF"
-msgstr "Ticker mati"
+msgstr "Ticker MATI"
 
 msgid "TXT_CHEATARTIFACTS3"
 msgstr "Kau mendapatkannya"
@@ -388,11 +387,10 @@ msgid "TXT_GOTSTUFF"
 msgstr "Dapat barang!"
 
 msgid "TXT_FREEZEON"
-msgstr "Mode Freeze nyala"
+msgstr "Mode Freeze AKTIF"
 
-#, fuzzy
 msgid "TXT_FREEZEOFF"
-msgstr "Mode Freeze mati"
+msgstr "Mode Freeze MATI"
 
 msgid "TXT_STRANGE"
 msgstr "Kau merasa aneh…"
@@ -404,11 +402,10 @@ msgid "TXT_NOTSTRANGE"
 msgstr "Kau merasa tidak aneh lagi."
 
 msgid "TXT_LEADBOOTSON"
-msgstr "Sepatu timbal nyala"
+msgstr "Sepatu timbal AKTIF"
 
-#, fuzzy
 msgid "TXT_LEADBOOTSOFF"
-msgstr "Sepatu timbal mati"
+msgstr "Sepatu timbal MATI"
 
 msgid "TXT_LIGHTER"
 msgstr "Kau merasa ringan"
@@ -417,7 +414,7 @@ msgid "TXT_GRAVITY"
 msgstr "Gravitasi menurunkanmu"
 
 msgid "TXT_NOTARGET_ON"
-msgstr "No Target NYALA"
+msgstr "No Target AKTIF"
 
 msgid "TXT_NOTARGET_OFF"
 msgstr "No Target MATI"
@@ -429,10 +426,10 @@ msgid "TXT_ANUBIS_OFF"
 msgstr "Tiada Ogre Armor lagi"
 
 msgid "TXT_CHASECAM_ON"
-msgstr "chasecam NYALA"
+msgstr "Chase-cam AKTIF"
 
 msgid "TXT_CHASECAM_OFF"
-msgstr "chasecam MATI"
+msgstr "Chasecam MATI"
 
 msgid "TXT_BADDIE_KILLED"
 msgstr "1 penjahat terbunuh"
