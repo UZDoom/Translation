@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 16:13+0000\n"
+"PO-Revision-Date: 2026-02-25 04:38+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/es/>\n"
@@ -21,7 +21,7 @@ msgid "SECRETMESSAGE"
 msgstr "¡Lugar secreto descubierto!"
 
 msgid "D_DEVSTR"
-msgstr "Modo inútil ACTIVADO."
+msgstr "Modo inútil ACTIVADO"
 
 msgid "QUITMSG"
 msgstr ""
@@ -370,13 +370,11 @@ msgstr "¿Tratando de hacer trampas, eh? ¡Muere!"
 msgid "TXT_CHEATIDKFA"
 msgstr "¡Trampos@[ao_esp]! No mereces tener armas"
 
-#, fuzzy
 msgid "TXT_CHEATTICKERON"
-msgstr "Contador activado"
+msgstr "Contador ACTIVADO"
 
-#, fuzzy
 msgid "TXT_CHEATTICKEROFF"
-msgstr "Contador desactivado"
+msgstr "Contador DESACTIVADO"
 
 msgid "TXT_CHEATARTIFACTS3"
 msgstr "Lo tienes"
@@ -388,11 +386,10 @@ msgid "TXT_GOTSTUFF"
 msgstr "¡Tienes un montón de cosas!"
 
 msgid "TXT_FREEZEON"
-msgstr "Modo suspendido activado"
+msgstr "Modo suspendido ACTIVADO"
 
-#, fuzzy
 msgid "TXT_FREEZEOFF"
-msgstr "Modo suspendido desactivado"
+msgstr "Modo suspendido DESACTIVADO"
 
 msgid "TXT_STRANGE"
 msgstr "Te sientes extrañ@[ao_esp]…"
@@ -404,11 +401,10 @@ msgid "TXT_NOTSTRANGE"
 msgstr "Te sientes como tú mism@[ao_esp] otra vez."
 
 msgid "TXT_LEADBOOTSON"
-msgstr "Botas de plomo activadas"
+msgstr "Botas de plomo ACTIVADAS"
 
-#, fuzzy
 msgid "TXT_LEADBOOTSOFF"
-msgstr "Botas de plomo desactivadas"
+msgstr "Botas de plomo DESACTIVADAS"
 
 msgid "TXT_LIGHTER"
 msgstr "Te sientes más liger@[ao_esp]"
