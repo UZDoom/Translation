@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 22:23+0000\n"
+"PO-Revision-Date: 2026-02-25 22:41+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/uzdoom/"
 "glossary/eo/>\n"
@@ -123,3 +123,6 @@ msgstr "OpenGL ES"
 
 msgid "ScaleNx"
 msgstr "ScaleNx"
+
+msgid "ZDoom"
+msgstr "ZDoom"
