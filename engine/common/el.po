@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 19:10+0000\n"
+"PO-Revision-Date: 2026-02-25 21:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/uzdoom/common/el/>"
 "\n"
@@ -1532,7 +1532,7 @@ msgid "VK_WARNING"
 msgstr "Προειδοποίηση: Ο Vulkan renderer είναι υψηλά πειραματικός!"
 
 msgid "VK_RESTART"
-msgstr "Αυτές η ρυθμίσεις θα χρειαστούνε επανεκκίνηση για να ισχύσουν"
+msgstr "Αυτές η ρυθμίσεις θα χρειαστούνε επανεκκίνηση για να ισχύσουν."
 
 msgid "OPTVAL_SCALENX"
 msgstr ""
@@ -1562,7 +1562,7 @@ msgid "OS_ALL"
 msgstr "Αναζήτηση για όλες της λέξεις"
 
 msgid "OS_NO_RESULTS"
-msgstr "Δέν βρέθηκαν αποτελέσματα"
+msgstr "Δέν βρέθηκαν αποτελέσματα."
 
 msgid "OS_LABEL"
 msgstr "Αναζήτηση:"
