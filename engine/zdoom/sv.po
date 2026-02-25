@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 16:13+0000\n"
+"PO-Revision-Date: 2026-02-25 04:38+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/sv/>\n"
@@ -21,7 +21,7 @@ msgid "SECRETMESSAGE"
 msgstr "En hemlighet avslöjas!"
 
 msgid "D_DEVSTR"
-msgstr "Oanvändbart läge på."
+msgstr "Oanvändbart läge PÅ"
 
 #, fuzzy
 msgid "QUITMSG"
@@ -371,13 +371,11 @@ msgstr "Försöker du fuska? Nu dör du!"
 msgid "TXT_CHEATIDKFA"
 msgstr "Fuskare—du förtjänar inte vapen"
 
-#, fuzzy
 msgid "TXT_CHEATTICKERON"
-msgstr "Ticker på"
+msgstr "Ticker PÅ"
 
-#, fuzzy
 msgid "TXT_CHEATTICKEROFF"
-msgstr "Ticker av"
+msgstr "Ticker AV"
 
 msgid "TXT_CHEATARTIFACTS3"
 msgstr "Du fick det"
@@ -389,11 +387,10 @@ msgid "TXT_GOTSTUFF"
 msgstr "Du har grejerna!"
 
 msgid "TXT_FREEZEON"
-msgstr "Frysningsläge på"
+msgstr "Frysningsläge PÅ"
 
-#, fuzzy
 msgid "TXT_FREEZEOFF"
-msgstr "Frysningsläge av"
+msgstr "Frysningsläge AV"
 
 msgid "TXT_STRANGE"
 msgstr "Du känner dig konstig…"
@@ -404,12 +401,12 @@ msgstr "Du känner dig ännu konstigare."
 msgid "TXT_NOTSTRANGE"
 msgstr "Du känner dig som dig själv igen."
 
+#, fuzzy
 msgid "TXT_LEADBOOTSON"
 msgstr "Blystövlar på"
 
-#, fuzzy
 msgid "TXT_LEADBOOTSOFF"
-msgstr "Blykängor av"
+msgstr "Blykängor AV"
 
 msgid "TXT_LIGHTER"
 msgstr "Du känner dig lättare"
@@ -418,10 +415,10 @@ msgid "TXT_GRAVITY"
 msgstr "Tyngdkraften tynger ner dig"
 
 msgid "TXT_NOTARGET_ON"
-msgstr "Inget mål på"
+msgstr "Inget mål PÅ"
 
 msgid "TXT_NOTARGET_OFF"
-msgstr "Inget mål av"
+msgstr "Inget mål AV"
 
 msgid "TXT_ANUBIS_ON"
 msgstr "\"Skräck skakar av rädsla!\""
@@ -430,10 +427,10 @@ msgid "TXT_ANUBIS_OFF"
 msgstr "Inget mer träsktorns rustning"
 
 msgid "TXT_CHASECAM_ON"
-msgstr "chasecam på"
+msgstr "Chasecam PÅ"
 
 msgid "TXT_CHASECAM_OFF"
-msgstr "chasecam av"
+msgstr "Chasecam AV"
 
 msgid "TXT_BADDIE_KILLED"
 msgstr "1 skurk dödad"
@@ -1207,7 +1204,7 @@ msgid "TXT_WPNGAUNTLETS"
 msgstr "Nekromantikerns handskar"
 
 msgid "TXT_NEEDBLUEKEY"
-msgstr "Du behöver en blå nyckel för att öppna den här dörren."
+msgstr "Du behöver en blå nyckel för att öppna den här dörren"
 
 msgid "TXT_NEEDGREENKEY"
 msgstr "Du behöver en grön nyckel för att öppna den här dörren"
@@ -1359,7 +1356,7 @@ msgid "OB_MPPHOENIXROD"
 msgstr "%o blev bränd till aska av %ks fenixstav."
 
 msgid "OB_MPMACE"
-msgstr "%o blev utvisad av %ks eldstöt"
+msgstr "%o blev utvisad av %ks eldstöt."
 
 msgid "OB_MPPSTAFF"
 msgstr "%o fick en klapp av %ks laddade stav."
