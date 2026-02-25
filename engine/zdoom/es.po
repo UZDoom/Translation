@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 19:10+0000\n"
+"PO-Revision-Date: 2026-02-25 21:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/es/>\n"
@@ -176,7 +176,7 @@ msgstr ""
 
 msgid "QUITMSG17"
 msgstr ""
-"Pero tú eres la esperanza...\n"
+"Pero tú eres la esperanza…\n"
 "¡¡Mi única oportunidad!!"
 
 msgid "QUITMSG18"
@@ -205,7 +205,7 @@ msgstr ""
 
 msgid "QUITMSG24"
 msgstr ""
-"No te rindas... ¡o los\n"
+"No te rindas… ¡o los\n"
 "flemoides tendrán ventaja!"
 
 msgid "QUITMSG25"
@@ -451,9 +451,8 @@ msgstr "¡Todos los artefactos!"
 msgid "TXT_WHAT_KILL"
 msgstr "¿Qué intentas matar fuera de un juego?"
 
-#, fuzzy
 msgid "TXT_NOT_FROZEN"
-msgstr "Propiedades de jugador congelado desactivadas"
+msgstr "Propiedades de jugador congelado DESACTIVADAS"
 
 msgid "AMSTR_FOLLOWOFF"
 msgstr "Modo de seguimiento DESACTIVADO"
@@ -2073,17 +2072,14 @@ msgstr "Encuentras flechas eléctricas."
 msgid "TXT_AMMOSATCHEL"
 msgstr "Encuentras un bolso de munición."
 
-#, fuzzy
 msgid "MSG_TALISMANRED"
-msgstr "Tienes la sensación de que no debía ser tocado..."
+msgstr "Tienes la sensación de que no debía ser tocado…"
 
-#, fuzzy
 msgid "MSG_TALISMANGREEN"
-msgstr "Sea lo que sea, no pertenece a este mundo..."
+msgstr "Sea lo que sea, no pertenece a este mundo…"
 
-#, fuzzy
 msgid "MSG_TALISMANBLUE"
-msgstr "Debe hacer algo..."
+msgstr "Debe hacer algo…"
 
 msgid "MSG_TALISMANPOWER"
 msgstr "¡Tienes superfuerza!"
@@ -2095,14 +2091,10 @@ msgid "TXT_NEED_PASSCARD"
 msgstr "Necesitas la llave de la central"
 
 msgid "TXT_NEED_PASSCARD_DOOR"
-msgstr ""
-"Necesitas una llave de la\n"
-"central para abrir esta puerta"
+msgstr "Necesitas una llave de la central para abrir esta puerta"
 
 msgid "TXT_NEED_IDCARD"
-msgstr ""
-"Necesitas una tarjeta\n"
-"de identificación"
+msgstr "Necesitas una tarjeta de identificación"
 
 msgid "TXT_NEED_PRISONKEY"
 msgstr "No tienes la llave a la prisión"
@@ -2114,14 +2106,10 @@ msgid "TXT_NEED_GOLDKEY"
 msgstr "Necesitas la llave dorada"
 
 msgid "TXT_NEED_IDBADGE"
-msgstr ""
-"Necesitas una insignia\n"
-"de la prisión"
+msgstr "Necesitas una insignia de la prisión"
 
 msgid "TXT_NEED_IDBADGE_DOOR"
-msgstr ""
-"Necesitas una insignia de la\n"
-"prisión para abrir esta puerta"
+msgstr "Necesitas una insignia de la prisión para abrir esta puerta"
 
 msgid "TXT_NEED_SILVERKEY"
 msgstr "Necesitas la llave plateada"
@@ -2136,9 +2124,7 @@ msgid "TXT_NEED_BLUECRYSTAL"
 msgstr "Necesitas el cristal azul"
 
 msgid "TXT_RETAIL_ONLY"
-msgstr ""
-"Esta área solo está disponible\n"
-"en la versión completa de Strife"
+msgstr "Esta área solo está disponible en la versión completa de Strife"
 
 msgid "TXT_DOES_NOT_WORK"
 msgstr "Parece que eso no funciona"
@@ -2552,9 +2538,7 @@ msgid "TXT_DESTROYED_CONVERTER"
 msgstr "¡Has destruido el convertidor!"
 
 msgid "TXT_COMPLETED_TRAINING"
-msgstr ""
-"¡Enhorabuena! Has completado\n"
-"la zona de entrenamiento"
+msgstr "¡Enhorabuena! Has completado la zona de entrenamiento"
 
 msgid "TXT_QUEST_14"
 msgstr "Has volado el cristal"
@@ -2575,19 +2559,13 @@ msgid "TXT_KILLED_MACIL"
 msgstr "¡Has matado a Macil!"
 
 msgid "TXT_KILLED_LOREMASTER"
-msgstr ""
-"¡Has matado al\n"
-"Maestro del Conocimiento!"
+msgstr "¡Has matado al Maestro del Conocimiento!"
 
 msgid "TXT_YOUFOOL"
-msgstr ""
-"¡Insensat@[ao_esp]!\n"
-"Has activado la alarma."
+msgstr "¡Insensat@[ao_esp]! Has activado la alarma."
 
 msgid "TXT_YOUREDEAD"
-msgstr ""
-"¡Estás muert@[ao_esp]!\n"
-"Has activado la alarma."
+msgstr "¡Estás muert@[ao_esp]! Has activado la alarma."
 
 msgid "TXT_HAVEENOUGH"
 msgstr "¡Se ve que tienes suficiente!"
@@ -2595,27 +2573,24 @@ msgstr "¡Se ve que tienes suficiente!"
 msgid "TXT_GOAWAY"
 msgstr "¡Lárgate!"
 
-#, fuzzy
 msgid "TXT_COMM0"
-msgstr "Mensaje entrante..."
+msgstr "Mensaje entrante…"
 
 msgid "TXT_COMM1"
 msgstr "Mensaje entrante de Blackbird…"
 
 msgid "TXT_FINDHELP"
-msgstr "Busca ayuda."
+msgstr "Busca ayuda"
 
 # As in for %u amount of money.
 msgid "TXT_TRADE"
-msgstr "por %u de oro."
+msgstr "por %u de oro"
 
-#, fuzzy
 msgid "GOTCHEXARMOR"
-msgstr "Recogiste la Armadura Chex(R)."
+msgstr "Recogiste la Armadura Chex®."
 
-#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
-msgstr "¡Recogiste la Súper-Armadura Chex(R)!"
+msgstr "¡Recogiste la Súper-Armadura Chex®!"
 
 msgid "GOTWATER"
 msgstr "Recogiste un vaso de agua."
@@ -2645,10 +2620,10 @@ msgid "GOTVEGETABLES"
 msgstr "Recogiste un tazón de verduras."
 
 msgid "GOTSLIMESUIT"
-msgstr "Encontraste un traje a prueba de baba."
+msgstr "Encontraste un traje a prueba de baba"
 
 msgid "GOTCHEXMAP"
-msgstr "Encontraste un mapa computarizado del área."
+msgstr "Encontraste un mapa computarizado del área"
 
 msgid "GOTZORCHRECHARGE"
 msgstr "Recogiste una recarga de mini zorch."
@@ -2663,7 +2638,7 @@ msgid "GOTPROPULSORPACK"
 msgstr "Recogiste un paquete de propulsor de zorch."
 
 msgid "GOTPHASINGZORCHERRECHARGE"
-msgstr "Recogiste una recarga de zorch de fase."
+msgstr "Recogiste una recarga de zorch de fase"
 
 msgid "GOTPHASINGZORCHERPACK"
 msgstr "Recogiste un paquete de zorch de fase."
@@ -2699,7 +2674,7 @@ msgid "GOTSUPERLARGEZORCHER"
 msgstr "¡Tienes el Mega Zorcher!"
 
 msgid "GOTMINIZORCHER"
-msgstr "Recogiste un Mini Zorcher"
+msgstr "Recogiste un Mini Zorcher."
 
 msgid "TAG_SPOON"
 msgstr "Cuchara"
@@ -2809,7 +2784,7 @@ msgid "CE3TEXT"
 msgstr "¡Maravilloso!"
 
 msgid "CE4TEXT"
-msgstr "¡Fantástico!"
+msgstr "Fantástico"
 
 msgid "CLOADNET"
 msgstr ""
@@ -2820,7 +2795,9 @@ msgstr ""
 msgctxt "chex"
 msgid "QSPROMPT"
 msgstr ""
-"¿Guardar sobre tu aventura llamada '%s'?\n"
+"¿Guardar sobre tu aventura llamada\n"
+"\n"
+"'%s'?\n"
 "\n"
 "Presiona Y ó N."
 
@@ -2834,13 +2811,16 @@ msgstr ""
 msgctxt "chex"
 msgid "QLPROMPT"
 msgstr ""
-"¿Quieres cargar la aventura llamada '%s'?\n"
+"¿Quieres cargar la aventura llamada\n"
+"\n"
+"'%s'?\n"
 "\n"
 "Presiona Y ó N."
 
 msgid "CNEWGAME"
 msgstr ""
-"No puedes iniciar una nueva aventura mientras estés en una aventura online.\n"
+"No puedes iniciar una nueva aventura\n"
+"mientras estés en una aventura online.\n"
 "\n"
 "Presiona una tecla."
 
@@ -2851,10 +2831,11 @@ msgstr ""
 "\n"
 "Presiona Y ó N."
 
-#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
-"Esto es Chex(R) Quest. Busca nuevos niveles en www.chexquest.com.\n"
+"Esto es Chex® Quest.\n"
+"\n"
+"Busca nuevos niveles en www.chexquest.com.\n"
 "\n"
 "Presiona una tecla."
 
@@ -2888,10 +2869,9 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Súper Zorch añadido"
 
-#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
-msgstr "... Come Chex(R)"
+msgstr "…Come Chex®!"
 
 msgctxt "chex"
 msgid "AMMO_CLIP"
@@ -3210,7 +3190,7 @@ msgid "GMPLYMNU_COOPERATIVE"
 msgstr "Configuración de cooperativo"
 
 msgid "GMPLYMNU_MULTIPLAYERWEAPONS"
-msgstr "Aparecer armas multi."
+msgstr "Aparecer armas multi"
 
 msgid "GMPLYMNU_LOSEINVENTORY"
 msgstr "Perder todo el inventario"
@@ -3651,7 +3631,7 @@ msgid "AUTOMAPMNU_SHOWTIME"
 msgstr "Mostrar tiempo transcurrido"
 
 msgid "AUTOMAPMNU_SHOWTOTALTIME"
-msgstr "Mostrar tiempo total transc."
+msgstr "Mostrar tiempo total transc"
 
 msgid "AUTOMAPMNU_MAPSECRETS"
 msgstr "Mostrar secretos en el mapa"
@@ -3942,7 +3922,7 @@ msgid "HUDMNU_FORCECROSSHAIR"
 msgstr "Forzar retícula por defecto"
 
 msgid "HUDMNU_GROWCROSSHAIR"
-msgstr "Aumentar retícula al obtener obj."
+msgstr "Aumentar retícula al obtener obj"
 
 msgid "HUDMNU_NAMETAGS"
 msgstr "Mostrar etiquetas"
@@ -4586,22 +4566,20 @@ msgstr "La partida guardada '%s' es de una versión no compatible."
 msgid "TXT_OTHERENGINESG"
 msgstr "La partida guardada '%s' es de otro motor basado en ZDoom:"
 
-#, fuzzy
 msgid "TXT_TOOOLDSG"
 msgstr ""
 "La partida guardada '%s' es de una versión anterior: %d (%e es la más "
-"anterior soportada)"
+"anterior soportada)."
 
 # Shouldn’t this say “%e is the newest supported”?
 # 
 # — Undead
 # 
 # Ask Randi: The text is old. I won't change it.
-#, fuzzy
 msgid "TXT_TOONEWSG"
 msgstr ""
 "La partida guardada '%s' es de una versión posterior: %d (%e es la más alta "
-"soportada)"
+"soportada)."
 
 msgid "TXT_NOMAPSG"
 msgstr "La partida guardada '%s' carece del mapa actual."
@@ -4610,7 +4588,7 @@ msgid "TXT_NOGLOBALSJSON"
 msgstr "%s' no es una partida guardada válida: Falta 'globals.json'."
 
 msgid "TXT_SGINFOERR"
-msgstr "Fallo al acceder a información de partida guardada en '%s'."
+msgstr "Fallo al acceder a información de partida guardada en '%s'"
 
 msgid "TXT_SAVEPENDING"
 msgstr "Un guardado de partida aún está pendiente."
