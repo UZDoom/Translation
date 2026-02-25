@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 16:13+0000\n"
+"PO-Revision-Date: 2026-02-25 04:38+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Bashkir <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ba/>\n"
@@ -21,7 +21,7 @@ msgid "SECRETMESSAGE"
 msgstr "Tajna je otkrivena!"
 
 msgid "D_DEVSTR"
-msgstr "Beskorisni način je UKLJ."
+msgstr "Beskorisni način je ҠАБЫҘ"
 
 #, fuzzy
 msgid "QUITMSG"
@@ -312,7 +312,7 @@ msgid "STSTR_NCON"
 msgstr "Lebdoprozirni mod ҠАБЫҘ"
 
 msgid "STSTR_NCOFF"
-msgstr "Lebdoprozirni mod ISKLJ"
+msgstr "Lebdoprozirni mod ҺҮНДЕР"
 
 #, fuzzy
 msgid "STSTR_NC2ON"
@@ -389,9 +389,8 @@ msgstr "Varalico! Ajd sad bez oružja se dirkaj"
 msgid "TXT_CHEATTICKERON"
 msgstr "Brojač ҠАБЫҘ"
 
-#, fuzzy
 msgid "TXT_CHEATTICKEROFF"
-msgstr "Brojač ISKLJ."
+msgstr "Brojač ҺҮНДЕР"
 
 msgid "TXT_CHEATARTIFACTS3"
 msgstr "Možeš ti to"
@@ -403,11 +402,10 @@ msgid "TXT_GOTSTUFF"
 msgstr "Ti si frajer!"
 
 msgid "TXT_FREEZEON"
-msgstr "Zamrznuti mod UKLJ."
+msgstr "Zamrznuti mod ҠАБЫҘ"
 
-#, fuzzy
 msgid "TXT_FREEZEOFF"
-msgstr "Zamrznuti mod ISKLJ."
+msgstr "Zamrznuti mod ҺҮНДЕР"
 
 msgid "TXT_STRANGE"
 msgstr "Osječaš se čudno…"
@@ -419,11 +417,10 @@ msgid "TXT_NOTSTRANGE"
 msgstr "Osječaš se opet ko ti."
 
 msgid "TXT_LEADBOOTSON"
-msgstr "Olovne čizme UKLJ."
+msgstr "Olovne čizme ҠАБЫҘ"
 
-#, fuzzy
 msgid "TXT_LEADBOOTSOFF"
-msgstr "Olovne čizme ISKLJ."
+msgstr "Olovne čizme ҺҮНДЕР"
 
 msgid "TXT_LIGHTER"
 msgstr "Osječaš se laganije"
@@ -432,10 +429,10 @@ msgid "TXT_GRAVITY"
 msgstr "Gravitacija te povija"
 
 msgid "TXT_NOTARGET_ON"
-msgstr "Bez Mete UKLJ."
+msgstr "Bez Mete ҠАБЫҘ"
 
 msgid "TXT_NOTARGET_OFF"
-msgstr "Bez Mete ISKLJ."
+msgstr "Bez Mete ҺҮНДЕР"
 
 msgid "TXT_ANUBIS_ON"
 msgstr "\"Tresite se s strahom!\""
@@ -444,10 +441,10 @@ msgid "TXT_ANUBIS_OFF"
 msgstr "Nema više Ogrovog oklopa"
 
 msgid "TXT_CHASECAM_ON"
-msgstr "pratokamera UKLJ."
+msgstr "Pratokamera ҠАБЫҘ"
 
 msgid "TXT_CHASECAM_OFF"
-msgstr "pratokamera ISKLJ."
+msgstr "Pratokamera ҺҮНДЕР"
 
 msgid "TXT_BADDIE_KILLED"
 msgstr "1 zločac ubijen"
