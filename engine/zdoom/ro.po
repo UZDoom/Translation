@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 21:10+0000\n"
+"PO-Revision-Date: 2026-02-25 22:02+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ro/>\n"
@@ -469,7 +469,7 @@ msgid "AMSTR_GRIDOFF"
 msgstr "Grilă OPRITĂ"
 
 msgid "AMSTR_TEXON"
-msgstr "Modul Texturat ACTIVAT"
+msgstr "Modul Texturat PORNIT"
 
 msgid "AMSTR_TEXOFF"
 msgstr "Modul Texturat OPRIT"
@@ -2857,11 +2857,11 @@ msgstr ""
 
 msgctxt "chex"
 msgid "STSTR_DQDON"
-msgstr "Modul Invincibil ACTIVAT"
+msgstr "Modul Invincibil PORNIT"
 
 msgctxt "chex"
 msgid "STSTR_DQDOFF"
-msgstr "Modul Invincibil DEZACTIVAT"
+msgstr "Modul Invincibil OPRIT"
 
 msgctxt "chex"
 msgid "STSTR_FAADDED"
