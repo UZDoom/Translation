@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 04:38+0000\n"
+"PO-Revision-Date: 2026-02-25 19:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/uzdoom/common/el/>"
 "\n"
@@ -1507,9 +1507,8 @@ msgstr ""
 msgid "REVMNU_Create"
 msgstr "Δημιουργία"
 
-#, fuzzy
 msgid "REVMNU_Save"
-msgstr "Αποθήκευση"
+msgstr "Αποθήκευση…"
 
 msgid "REVMNU_File_name"
 msgstr "Όνομα αρχείου"
