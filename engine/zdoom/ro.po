@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 04:38+0000\n"
+"PO-Revision-Date: 2026-02-25 19:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ro/>\n"
@@ -2583,13 +2583,11 @@ msgstr "Pare că ai destule!"
 msgid "TXT_GOAWAY"
 msgstr "Pleacă!"
 
-#, fuzzy
 msgid "TXT_COMM0"
-msgstr "Mesaj în recepționare..."
+msgstr "Mesaj în recepționare…"
 
-#, fuzzy
 msgid "TXT_COMM1"
-msgstr "Recepționare mesaj de la BlackBird..."
+msgstr "Recepționare mesaj de la BlackBird…"
 
 msgid "TXT_FINDHELP"
 msgstr "Găsește ajutor"
@@ -2780,7 +2778,6 @@ msgstr ""
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: Cavernele lui Bazoik"
 
-#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Misiune îndeplinită.\n"
@@ -2792,7 +2789,7 @@ msgstr ""
 "\n"
 "\n"
 "\n"
-"Apasă Escape pentru a continua..."
+"Apasă Escape pentru a continua…"
 
 msgid "CE2TEXT"
 msgstr "Ai reușit!"
