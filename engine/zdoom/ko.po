@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 16:13+0000\n"
+"PO-Revision-Date: 2026-02-25 04:38+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ko/>\n"
@@ -21,7 +21,7 @@ msgid "SECRETMESSAGE"
 msgstr "비밀 발견!"
 
 msgid "D_DEVSTR"
-msgstr "쓸모없는 모드 켬."
+msgstr "쓸모없는 모드 켜짐"
 
 #, fuzzy
 msgid "QUITMSG"
@@ -375,7 +375,6 @@ msgstr "사기꾼놈! 너는 무기를 가질 자격이 없어"
 msgid "TXT_CHEATTICKERON"
 msgstr "프레임 속도 표시 켜짐"
 
-#, fuzzy
 msgid "TXT_CHEATTICKEROFF"
 msgstr "프레임 속도 표시 끔"
 
@@ -389,9 +388,8 @@ msgid "TXT_GOTSTUFF"
 msgstr "무언가를 얻었다!"
 
 msgid "TXT_FREEZEON"
-msgstr "시간정지 켬"
+msgstr "시간정지 켜짐"
 
-#, fuzzy
 msgid "TXT_FREEZEOFF"
 msgstr "시간정지 끔"
 
@@ -405,9 +403,8 @@ msgid "TXT_NOTSTRANGE"
 msgstr "자기 자신처럼 생각하게 됐다."
 
 msgid "TXT_LEADBOOTSON"
-msgstr "납 부츠 켬"
+msgstr "납 부츠 켜짐"
 
-#, fuzzy
 msgid "TXT_LEADBOOTSOFF"
 msgstr "납 부츠 끔"
 
@@ -418,7 +415,7 @@ msgid "TXT_GRAVITY"
 msgstr "중력이 당신을 붙잡았다"
 
 msgid "TXT_NOTARGET_ON"
-msgstr "적 표적 감지 켬"
+msgstr "적 표적 감지 켜짐"
 
 msgid "TXT_NOTARGET_OFF"
 msgstr "적 표적 감지 끔"
@@ -430,7 +427,7 @@ msgid "TXT_ANUBIS_OFF"
 msgstr "오거 갑옷은 이제 없다."
 
 msgid "TXT_CHASECAM_ON"
-msgstr "3인칭 카메라 켬"
+msgstr "3인칭 카메라 켜짐"
 
 msgid "TXT_CHASECAM_OFF"
 msgstr "3인칭 카메라 끔"

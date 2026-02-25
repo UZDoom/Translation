@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 16:13+0000\n"
+"PO-Revision-Date: 2026-02-25 04:38+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/nl/>\n"
@@ -21,7 +21,7 @@ msgid "SECRETMESSAGE"
 msgstr "Een geheim is onthuld!"
 
 msgid "D_DEVSTR"
-msgstr "Nutteloze modus AAN."
+msgstr "Nutteloze modus AAN"
 
 msgid "QUITMSG"
 msgstr ""
@@ -306,7 +306,7 @@ msgid "STSTR_NCON"
 msgstr "Geen Clipping Modus AAN"
 
 msgid "STSTR_NCOFF"
-msgstr "Geen Clipping Modus OFF"
+msgstr "Geen Clipping Modus UIT"
 
 msgid "STSTR_NC2ON"
 msgstr "Geen Clipping Modus 2 AAN"
@@ -370,13 +370,11 @@ msgstr "Je wou valsspelen, hè? Nu ga je dood!"
 msgid "TXT_CHEATIDKFA"
 msgstr "Valsspeler—je verdient geen wapens"
 
-#, fuzzy
 msgid "TXT_CHEATTICKERON"
-msgstr "Ticker aan"
+msgstr "Ticker AAN"
 
-#, fuzzy
 msgid "TXT_CHEATTICKEROFF"
-msgstr "Ticker uit"
+msgstr "Ticker UIT"
 
 msgid "TXT_CHEATARTIFACTS3"
 msgstr "Je hebt het"
@@ -388,11 +386,10 @@ msgid "TXT_GOTSTUFF"
 msgstr "Je hebt het spul!"
 
 msgid "TXT_FREEZEON"
-msgstr "Bevriesmodus aan"
+msgstr "Bevriesmodus AAN"
 
-#, fuzzy
 msgid "TXT_FREEZEOFF"
-msgstr "Bevriesmodus uit"
+msgstr "Bevriesmodus UIT"
 
 msgid "TXT_STRANGE"
 msgstr "Je voelt je vreemd…"
@@ -404,11 +401,10 @@ msgid "TXT_NOTSTRANGE"
 msgstr "Je voelt je weer als jezelf."
 
 msgid "TXT_LEADBOOTSON"
-msgstr "Loden laarzen aan"
+msgstr "Loden laarzen AAN"
 
-#, fuzzy
 msgid "TXT_LEADBOOTSOFF"
-msgstr "Loden laarzen uit"
+msgstr "Loden laarzen UIT"
 
 msgid "TXT_LIGHTER"
 msgstr "Je voelt je lichter"
@@ -429,10 +425,10 @@ msgid "TXT_ANUBIS_OFF"
 msgstr "Geen Ogre Pantser meer"
 
 msgid "TXT_CHASECAM_ON"
-msgstr "chasecam AAN"
+msgstr "Chasecam AAN"
 
 msgid "TXT_CHASECAM_OFF"
-msgstr "chasecam UIT"
+msgstr "Chasecam UIT"
 
 msgid "TXT_BADDIE_KILLED"
 msgstr "1 slechterik gedood"

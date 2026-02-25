@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 18:38+0000\n"
+"PO-Revision-Date: 2026-02-25 04:38+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/tr/>\n"
@@ -21,7 +21,7 @@ msgid "SECRETMESSAGE"
 msgstr "Bir sır açığa çıkıyor!"
 
 msgid "D_DEVSTR"
-msgstr "Yararsız mod AÇIK."
+msgstr "Yararsız mod AÇIK"
 
 msgid "QUITMSG"
 msgstr ""
@@ -370,13 +370,11 @@ msgstr "Hile yapmaya çalışıyorsun, ha? Şimdi öleceksin!"
 msgid "TXT_CHEATIDKFA"
 msgstr "Hileci, silahları hak etmiyorsun"
 
-#, fuzzy
 msgid "TXT_CHEATTICKERON"
-msgstr "Ticker açık"
+msgstr "Ticker AÇIK"
 
-#, fuzzy
 msgid "TXT_CHEATTICKEROFF"
-msgstr "Ticker kapalı"
+msgstr "Ticker KAPALI"
 
 msgid "TXT_CHEATARTIFACTS3"
 msgstr "Tamamdır"
@@ -388,11 +386,10 @@ msgid "TXT_GOTSTUFF"
 msgstr "Mal sende!"
 
 msgid "TXT_FREEZEON"
-msgstr "Dondurma modu açık"
+msgstr "Dondurma modu AÇIK"
 
-#, fuzzy
 msgid "TXT_FREEZEOFF"
-msgstr "Dondurma modu kapalı"
+msgstr "Dondurma modu KAPALI"
 
 msgid "TXT_STRANGE"
 msgstr "Garip hissediyorsun…"
@@ -404,11 +401,10 @@ msgid "TXT_NOTSTRANGE"
 msgstr "Tekrar kendin gibi hissediyorsun."
 
 msgid "TXT_LEADBOOTSON"
-msgstr "Kurşun çizmeler"
+msgstr "Kurşun çizmeler AÇIK"
 
-#, fuzzy
 msgid "TXT_LEADBOOTSOFF"
-msgstr "Kurşun çizmeler kapalı"
+msgstr "Kurşun çizmeler KAPALI"
 
 msgid "TXT_LIGHTER"
 msgstr "Daha hafif hissediyorsun"
@@ -1084,7 +1080,7 @@ msgid "OB_MPBFG_BOOM"
 msgstr "%o, %k tarafından parçalandı"
 
 msgid "OB_MPBFG_SPLASH"
-msgstr "%o, %k tarafından parçalandı"
+msgstr "%o, %k tarafından parçalandı."
 
 msgid "OB_RAILGUN"
 msgstr "%o %k tarafından kovuldu."
@@ -1204,10 +1200,10 @@ msgid "TXT_WPNGAUNTLETS"
 msgstr "Ölü Çağıranın Eldivenleri"
 
 msgid "TXT_NEEDBLUEKEY"
-msgstr "Bu kapıyı açmak için mavi bir anahtara ihtiyacın var."
+msgstr "Bu kapıyı açmak için mavi bir anahtara ihtiyacın var"
 
 msgid "TXT_NEEDGREENKEY"
-msgstr "Bu kapıyı açmak için yeşil bir anahtara ihtiyacın var."
+msgstr "Bu kapıyı açmak için yeşil bir anahtara ihtiyacın var"
 
 msgid "TXT_NEEDYELLOWKEY"
 msgstr "Bu kapıyı açmak için sarı bir anahtara ihtiyacınız var"

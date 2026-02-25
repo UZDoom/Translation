@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 16:13+0000\n"
+"PO-Revision-Date: 2026-02-25 04:38+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ja/>\n"
@@ -22,7 +22,7 @@ msgid "SECRETMESSAGE"
 msgstr "シークレットを解き明かした!"
 
 msgid "D_DEVSTR"
-msgstr "このモードは使わないでおけ。"
+msgstr "無駄なモード オン"
 
 msgid "QUITMSG"
 msgstr ""
@@ -372,11 +372,9 @@ msgstr "その名を唱えたな? 褒美に死をやろう!"
 msgid "TXT_CHEATIDKFA"
 msgstr "不届き者め、貴様が偉業を成すはずがない"
 
-#, fuzzy
 msgid "TXT_CHEATTICKERON"
 msgstr "ティッカー オン"
 
-#, fuzzy
 msgid "TXT_CHEATTICKEROFF"
 msgstr "ティッカー オフ"
 
@@ -392,7 +390,6 @@ msgstr "スタッフを手に入れた!"
 msgid "TXT_FREEZEON"
 msgstr "フリーズモード オン"
 
-#, fuzzy
 msgid "TXT_FREEZEOFF"
 msgstr "フリーズモード オフ"
 
@@ -408,7 +405,6 @@ msgstr "自分自身の様に感じている。"
 msgid "TXT_LEADBOOTSON"
 msgstr "足枷 オン"
 
-#, fuzzy
 msgid "TXT_LEADBOOTSOFF"
 msgstr "足枷 オフ"
 

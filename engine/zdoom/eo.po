@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 16:13+0000\n"
+"PO-Revision-Date: 2026-02-25 04:38+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/eo/>\n"
@@ -21,7 +21,7 @@ msgid "SECRETMESSAGE"
 msgstr "Vi trovis sekretejon!"
 
 msgid "D_DEVSTR"
-msgstr "Senutila reĝimo ŜALTITA."
+msgstr "Senutila reĝimo ŜALTITA"
 
 msgid "QUITMSG"
 msgstr ""
@@ -370,13 +370,11 @@ msgstr "Provas trompi, ĉu vi? Nun vi mortas!"
 msgid "TXT_CHEATIDKFA"
 msgstr "Trompanto—vi ne meritas armilojn"
 
-#, fuzzy
 msgid "TXT_CHEATTICKERON"
-msgstr "Nombrilo ŝaltita"
+msgstr "Nombrilo ŜALTITA"
 
-#, fuzzy
 msgid "TXT_CHEATTICKEROFF"
-msgstr "Nombrilo malŝaltita"
+msgstr "Nombrilo MALŜALTITA"
 
 msgid "TXT_CHEATARTIFACTS3"
 msgstr "Vi akiris ĝin"
@@ -388,11 +386,10 @@ msgid "TXT_GOTSTUFF"
 msgstr "Vi akiris la aĵojn!"
 
 msgid "TXT_FREEZEON"
-msgstr "Movhalta reĝimo ŝaltita"
+msgstr "Movhalta reĝimo ŜALTITA"
 
-#, fuzzy
 msgid "TXT_FREEZEOFF"
-msgstr "Movhalta reĝimo malŝaltita"
+msgstr "Movhalta reĝimo MALŜALTITA"
 
 msgid "TXT_STRANGE"
 msgstr "Vi sentas vin strange…"
@@ -404,11 +401,10 @@ msgid "TXT_NOTSTRANGE"
 msgstr "Vi denove sentas vin kiel vi mem."
 
 msgid "TXT_LEADBOOTSON"
-msgstr "Botoj el plumbo ŝaltita"
+msgstr "Botoj el plumbo ŜALTITA"
 
-#, fuzzy
 msgid "TXT_LEADBOOTSOFF"
-msgstr "Botoj el plumbo malŝaltita"
+msgstr "Botoj el plumbo MALŜALTITA"
 
 msgid "TXT_LIGHTER"
 msgstr "Vi sentas vin pli malpeza"

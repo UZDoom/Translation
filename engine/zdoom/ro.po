@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 16:14+0000\n"
+"PO-Revision-Date: 2026-02-25 04:38+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ro/>\n"
@@ -22,7 +22,7 @@ msgid "SECRETMESSAGE"
 msgstr "Ai găsit un secret!"
 
 msgid "D_DEVSTR"
-msgstr "Modul inutil ACTIVAT."
+msgstr "Modul inutil PORNIT"
 
 #, fuzzy
 msgid "QUITMSG"
@@ -375,9 +375,8 @@ msgstr "Trișor—Nu meriți arme"
 msgid "TXT_CHEATTICKERON"
 msgstr "Ticăitoare PORNITE"
 
-#, fuzzy
 msgid "TXT_CHEATTICKEROFF"
-msgstr "Ticăitoare dezactivată"
+msgstr "Ticăitoare OPRIT"
 
 msgid "TXT_CHEATARTIFACTS3"
 msgstr "Ai ce trebuie"
@@ -389,11 +388,10 @@ msgid "TXT_GOTSTUFF"
 msgstr "Ai tot ce-ți trebuie!"
 
 msgid "TXT_FREEZEON"
-msgstr "Modul înghețat pornit"
+msgstr "Modul înghețat PORNIT"
 
-#, fuzzy
 msgid "TXT_FREEZEOFF"
-msgstr "Modul înghețat oprit"
+msgstr "Modul înghețat OPRIT"
 
 msgid "TXT_STRANGE"
 msgstr "Te simți ciudat…"
@@ -405,11 +403,10 @@ msgid "TXT_NOTSTRANGE"
 msgstr "Ți-ai revenit în simțiri."
 
 msgid "TXT_LEADBOOTSON"
-msgstr "Bocanci de plumb activați"
+msgstr "Bocanci de plumb PORNIȚI"
 
-#, fuzzy
 msgid "TXT_LEADBOOTSOFF"
-msgstr "Bocanci de plumb dezactivați"
+msgstr "Bocanci de plumb OPRIȚI"
 
 msgid "TXT_LIGHTER"
 msgstr "Te simți mai ușor"
@@ -1363,17 +1360,13 @@ msgid "OB_MPPSTAFF"
 msgstr "%o a fost făcut felii de bastonul încărcat al lui %k."
 
 msgid "OB_MPPGAUNTLETS"
-msgstr ""
-"%o a fost stors până la ultima picătură de sânge\n"
-"de mănușile lui %k."
+msgstr "%o a fost stors până la ultima picătură de sânge de mănușile lui %k."
 
 msgid "OB_MPPGOLDWAND"
 msgstr "%o a fost luat cu asalt de togaiul lui %k."
 
 msgid "OB_MPPCROSSBOW"
-msgstr ""
-"%o a fost pus la proțap de arbaleta lui\n"
-"%k."
+msgstr "%o a fost pus la proțap de arbaleta lui %k."
 
 msgid "OB_MPPBLASTER"
 msgstr "%k a fost făcut bucăți de gheara lui %k."

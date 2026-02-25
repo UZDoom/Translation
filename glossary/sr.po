@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 18:38+0000\n"
+"PO-Revision-Date: 2026-02-24 19:45+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/uzdoom/glossary/"
 "sr/>\n"
@@ -41,14 +41,44 @@ msgstr "ВајлдМиди"
 msgid "Timidity"
 msgstr "Стидљивост"
 
-msgid "GENMIDI"
-msgstr ""
-
-msgid "WAD"
-msgstr ""
-
 msgid "libXMP"
 msgstr "libXMP"
 
 msgid "Dumb"
 msgstr "Dumb"
+
+msgid "Chip-o-matic"
+msgstr "Чип-о-матик"
+
+msgid "MAME"
+msgstr "MAME"
+
+msgid "OPL2"
+msgstr "ОПЛ2"
+
+msgid "DOSBox"
+msgstr "DOSBox"
+
+msgid "OPL3"
+msgstr "ОПЛ3"
+
+msgid "Java"
+msgstr "Јава"
+
+msgid "ESFMu"
+msgstr "ЕСФМу"
+
+msgid "YMFM"
+msgstr "YMFM"
+
+msgid "Nuked"
+msgstr "Nuked"
+
+msgid "YM2612"
+msgstr "YM2612"
+
+msgid "Neko Project II Kai"
+msgstr "Neko Project II Kai"
+
+msgid "OPNA"
+msgstr "OPNA"

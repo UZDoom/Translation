@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 18:38+0000\n"
+"PO-Revision-Date: 2026-02-25 04:38+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/uzdoom/common/"
 "sr/>\n"
@@ -982,7 +982,7 @@ msgid "MODMNU_CHIPOMATIC"
 msgstr "Чип-о-матик"
 
 msgid "OPTVAL_MAMEOPL2"
-msgstr "МАМЕ ОПЛ2"
+msgstr "MAME ОПЛ2"
 
 msgid "OPTVAL_DOSBOXOPL3"
 msgstr "DOSBox OPL3"
@@ -1000,7 +1000,7 @@ msgid "OPTVAL_YMFMOPL3"
 msgstr "YMFM OPL3"
 
 msgid "OPTVAL_NUKEDOPL3"
-msgstr "Нуклеарна бомба OPL3"
+msgstr "Nuked ОПЛ3"
 
 msgid "OPTVAL_LLENUKEDOPL2"
 msgstr "OPL2-LLE (Веома тежак!)"
@@ -1362,7 +1362,7 @@ msgid "OPTVAL_LOWEST"
 msgstr "Најнижа могућа скала"
 
 msgid "OPTVAL_CUSTOM"
-msgstr "Прилагођ."
+msgstr "Прилагођ"
 
 msgid "VIDMNU_MAXFPS"
 msgstr "Макс. фрејмс у секунди"

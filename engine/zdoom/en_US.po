@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 02:31+0000\n"
+"PO-Revision-Date: 2026-02-25 04:38+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/en/>\n"
@@ -23,7 +23,7 @@ msgid "SECRETMESSAGE"
 msgstr "A secret is revealed!"
 
 msgid "D_DEVSTR"
-msgstr "Useless mode ON."
+msgstr "Useless mode ON"
 
 msgid "QUITMSG"
 msgstr ""
@@ -400,7 +400,7 @@ msgid "TXT_GOTSTUFF"
 msgstr "You got the stuff!"
 
 msgid "TXT_FREEZEON"
-msgstr "Freeze mode on"
+msgstr "Freeze mode ON"
 
 msgid "TXT_FREEZEOFF"
 msgstr "Freeze mode OFF"
@@ -415,7 +415,7 @@ msgid "TXT_NOTSTRANGE"
 msgstr "You feel like yourself again."
 
 msgid "TXT_LEADBOOTSON"
-msgstr "Lead boots on"
+msgstr "Lead boots ON"
 
 msgid "TXT_LEADBOOTSOFF"
 msgstr "Lead boots OFF"
@@ -439,10 +439,10 @@ msgid "TXT_ANUBIS_OFF"
 msgstr "No more Ogre Armor"
 
 msgid "TXT_CHASECAM_ON"
-msgstr "chasecam ON"
+msgstr "Chase-cam ON"
 
 msgid "TXT_CHASECAM_OFF"
-msgstr "chasecam OFF"
+msgstr "Chase-cam OFF"
 
 msgid "TXT_BADDIE_KILLED"
 msgstr "1 baddie killed"

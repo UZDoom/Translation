@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 18:38+0000\n"
+"PO-Revision-Date: 2026-02-25 04:38+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fi/>\n"
@@ -21,7 +21,7 @@ msgid "SECRETMESSAGE"
 msgstr "Sala löydetty!"
 
 msgid "D_DEVSTR"
-msgstr "Hyödytön tila PÄÄLLÄ."
+msgstr "Hyödytön tila PÄÄLLÄ"
 
 #, fuzzy
 msgid "QUITMSG"
@@ -373,13 +373,11 @@ msgstr "Yrität huijata, vai? Nyt kuolet!"
 msgid "TXT_CHEATIDKFA"
 msgstr "Huijari—et ansaitse aseita"
 
-#, fuzzy
 msgid "TXT_CHEATTICKERON"
-msgstr "Laskuri päällä"
+msgstr "Laskuri PÄÄLLÄ"
 
-#, fuzzy
 msgid "TXT_CHEATTICKEROFF"
-msgstr "Laskuri pois päältä"
+msgstr "Laskuri POIS"
 
 msgid "TXT_CHEATARTIFACTS3"
 msgstr "Saamasi pitää"
@@ -391,11 +389,10 @@ msgid "TXT_GOTSTUFF"
 msgstr "Sait kamppeet!"
 
 msgid "TXT_FREEZEON"
-msgstr "Jäädytystila päällä"
+msgstr "Jäädytystila PÄÄLLÄ"
 
-#, fuzzy
 msgid "TXT_FREEZEOFF"
-msgstr "Jäädytystila pois päältä"
+msgstr "Jäädytystila POIS"
 
 msgid "TXT_STRANGE"
 msgstr "Sinulla on kummallinen olo…"
@@ -407,11 +404,10 @@ msgid "TXT_NOTSTRANGE"
 msgstr "Tunnet olevasi jälleen oma itsesi."
 
 msgid "TXT_LEADBOOTSON"
-msgstr "Lyijysaappaat päällä"
+msgstr "Lyijysaappaat PÄÄLLÄ"
 
-#, fuzzy
 msgid "TXT_LEADBOOTSOFF"
-msgstr "Lyijysaappaat pois päältä"
+msgstr "Lyijysaappaat POIS"
 
 msgid "TXT_LIGHTER"
 msgstr "Tunnet olosi kevyemmäksi"
@@ -423,7 +419,7 @@ msgid "TXT_NOTARGET_ON"
 msgstr "Hyökkäämättömyystila PÄÄLLÄ"
 
 msgid "TXT_NOTARGET_OFF"
-msgstr "Hyökkäämättömyystila POIS PÄÄLTÄ"
+msgstr "Hyökkäämättömyystila POIS"
 
 msgid "TXT_ANUBIS_ON"
 msgstr "\"Vapise pelosta!\""
@@ -435,7 +431,7 @@ msgid "TXT_CHASECAM_ON"
 msgstr "Seurantakamera PÄÄLLÄ"
 
 msgid "TXT_CHASECAM_OFF"
-msgstr "Seurantakamera POIS PÄÄLTÄ"
+msgstr "Seurantakamera POIS"
 
 msgid "TXT_BADDIE_KILLED"
 msgstr "1 pahis tapettu"

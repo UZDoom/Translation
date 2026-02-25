@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 16:13+0000\n"
+"PO-Revision-Date: 2026-02-25 04:38+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/es_MX/>\n"
@@ -22,7 +22,7 @@ msgid "SECRETMESSAGE"
 msgstr "Un secreto es revelado!"
 
 msgid "D_DEVSTR"
-msgstr "Modo inútil activado."
+msgstr "Modo inútil ACTIVADO"
 
 msgid "QUITMSG"
 msgstr ""
@@ -387,11 +387,10 @@ msgid "TXT_GOTSTUFF"
 msgstr "¡Tienes las cosas!"
 
 msgid "TXT_FREEZEON"
-msgstr "Has detenido el tiempo"
+msgstr "Modo suspendido ACTIVADO"
 
-#, fuzzy
 msgid "TXT_FREEZEOFF"
-msgstr "El tiempo se reanuda"
+msgstr "Modo suspendido DESACTIVADO"
 
 msgid "TXT_STRANGE"
 msgstr "Te sientes raro…"
@@ -403,11 +402,10 @@ msgid "TXT_NOTSTRANGE"
 msgstr "Te sientes como tú mismo otra vez."
 
 msgid "TXT_LEADBOOTSON"
-msgstr "Botas de Acero activadas"
+msgstr "Botas de Acero ACTIVADAS"
 
-#, fuzzy
 msgid "TXT_LEADBOOTSOFF"
-msgstr "Botas de Acero desactivadas"
+msgstr "Botas de Acero DESACTIVADAS"
 
 msgid "TXT_LIGHTER"
 msgstr "Te sientes liviano"

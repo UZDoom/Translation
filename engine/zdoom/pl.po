@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 02:31+0000\n"
+"PO-Revision-Date: 2026-02-25 04:38+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/pl/>\n"
@@ -389,7 +389,7 @@ msgid "TXT_GOTSTUFF"
 msgstr "Zdobył@[irreg_3_pl] parę rzeczy!"
 
 msgid "TXT_FREEZEON"
-msgstr "Tryb zamrożenia włączony"
+msgstr "Tryb zamrożenia WŁ"
 
 msgid "TXT_FREEZEOFF"
 msgstr "Tryb zamrożenia WYŁ"
@@ -404,7 +404,7 @@ msgid "TXT_NOTSTRANGE"
 msgstr "Znów czujesz się sobą."
 
 msgid "TXT_LEADBOOTSON"
-msgstr "Ołowiane buty włączone"
+msgstr "Ołowiane buty WŁ"
 
 msgid "TXT_LEADBOOTSOFF"
 msgstr "Ołowiane buty WYŁ"
@@ -428,10 +428,10 @@ msgid "TXT_ANUBIS_OFF"
 msgstr "Nigdy więcej Pancerza Ogrów"
 
 msgid "TXT_CHASECAM_ON"
-msgstr "kamera śledzenia WŁ"
+msgstr "Kamera śledzenia WŁ"
 
 msgid "TXT_CHASECAM_OFF"
-msgstr "kamera śledzenia WYŁ"
+msgstr "Kamera śledzenia WYŁ"
 
 msgid "TXT_BADDIE_KILLED"
 msgstr "1 zabity przeciwnik"
@@ -1358,16 +1358,16 @@ msgid "OB_MPMACE"
 msgstr "%o został@[ao_pl] wybit@[adj_pl] przez buzdygan ognia %k."
 
 msgid "OB_MPPSTAFF"
-msgstr "%o został@[ao_pl] trzepnięt@[adj_pl] naładowaną laską %k"
+msgstr "%o został@[ao_pl] trzepnięt@[adj_pl] naładowaną laską %k."
 
 msgid "OB_MPPGAUNTLETS"
-msgstr "%o wykrwawił@[ao_pl] się przez rękawice %k"
+msgstr "%o wykrwawił@[ao_pl] się przez rękawice %k."
 
 msgid "OB_MPPGOLDWAND"
 msgstr "%o został@[ao_pl] zaatakowan@[adj_pl] przez elfią różdżkę %k"
 
 msgid "OB_MPPCROSSBOW"
-msgstr "%o został@[ao_pl] wykiwan@[adj_pl] przez eteryczną kuszę %k"
+msgstr "%o został@[ao_pl] wykiwan@[adj_pl] przez eteryczną kuszę %k."
 
 msgid "OB_MPPBLASTER"
 msgstr "%o został@[ao_pl] rozerwan@[adj_pl] przez smoczy pazur %k"
@@ -1376,7 +1376,7 @@ msgid "OB_MPPSKULLROD"
 msgstr "%k polał@[ao_pl] swoim piekielnym kosturem %o."
 
 msgid "OB_MPPPHOENIXROD"
-msgstr "%o został@[ao_pl] spalon@[adj_pl] przez różdżkę feniksa %k"
+msgstr "%o został@[ao_pl] spalon@[adj_pl] przez różdżkę feniksa %k."
 
 msgid "OB_MPPMACE"
 msgstr ""

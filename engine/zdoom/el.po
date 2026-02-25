@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 18:38+0000\n"
+"PO-Revision-Date: 2026-02-25 04:38+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/el/>\n"
@@ -21,7 +21,7 @@ msgid "SECRETMESSAGE"
 msgstr "Ένα μυστικό αποκαλύφθηκε!"
 
 msgid "D_DEVSTR"
-msgstr "Άχρηστη λειτουργία είναι ΑΝΟΙΧΤΗ."
+msgstr "Άχρηστη λειτουργία ΕΝΕΡΓΗ"
 
 #, fuzzy
 msgid "QUITMSG"
@@ -306,7 +306,7 @@ msgid "STSTR_NCON"
 msgstr "Noclip λειτουργία ΕΝΕΡΓΟ"
 
 msgid "STSTR_NCOFF"
-msgstr "Noclip λειτουργία ΆΠΕΝΕΡΓΟΠΟΙΗΜΈΝΗ"
+msgstr "Noclip λειτουργία ΑΝΕΝΕΡΓΟ"
 
 msgid "STSTR_NC2ON"
 msgstr "Δέυτερη noclip λειτουργία ΕΝΕΡΓΟ"
@@ -373,9 +373,8 @@ msgstr "Απατεόνα δέν σου αξήζουν όπλα"
 msgid "TXT_CHEATTICKERON"
 msgstr "Χρονόμετρο ΕΝΕΡΓΟ"
 
-#, fuzzy
 msgid "TXT_CHEATTICKEROFF"
-msgstr "Χρονόμετρο άπενεργοποιημένο"
+msgstr "Χρονόμετρο ΑΝΕΝΕΡΓΟ"
 
 msgid "TXT_CHEATARTIFACTS3"
 msgstr "Το πήρες"
@@ -387,11 +386,10 @@ msgid "TXT_GOTSTUFF"
 msgstr "Πήρες τηατ πράγματα !"
 
 msgid "TXT_FREEZEON"
-msgstr "Παγομένη λειτουργία ΕΝΕΡΓΟΠΟΙΗΜΈΝΗ"
+msgstr "Παγομένη λειτουργία ΕΝΕΡΓΟ"
 
-#, fuzzy
 msgid "TXT_FREEZEOFF"
-msgstr "Παγομένη λειτουργία ΆΠΕΝΕΡΓΟΠΟΙΗΜΈΝΗ"
+msgstr "Παγομένη λειτουργία ΑΝΕΝΕΡΓΟ"
 
 msgid "TXT_STRANGE"
 msgstr "Νιώθης περίεργα…"
@@ -403,11 +401,10 @@ msgid "TXT_NOTSTRANGE"
 msgstr "Νιώθης σάν τον εαύτο σου ξανά..."
 
 msgid "TXT_LEADBOOTSON"
-msgstr "Μολυβδένιες μπότες ΕΝΕΡΓΟΠΟΙΗΜΈΝΕΣ"
+msgstr "Μολυβδένιες μπότες ΕΝΕΡΓΟ"
 
-#, fuzzy
 msgid "TXT_LEADBOOTSOFF"
-msgstr "Μολυβδένιες μπότες ΆΠΕΝΕΡΓΟΠΟΙΗΜΕΝΕΣ"
+msgstr "Μολυβδένιες μπότες ΑΝΕΝΕΡΓΟ"
 
 msgid "TXT_LIGHTER"
 msgstr "Νιώθης πιο ελαφρής"
@@ -416,10 +413,10 @@ msgid "TXT_GRAVITY"
 msgstr "Η βαρύτητα σε πιάνει"
 
 msgid "TXT_NOTARGET_ON"
-msgstr "Αστόχευτη λειτουργία ΕΝΕΡΓΟΠΟΙΗΜΈΝΗ"
+msgstr "Αστόχευτη λειτουργία ΕΝΕΡΓΟ"
 
 msgid "TXT_NOTARGET_OFF"
-msgstr "Αστόχευτη λειτουργία ΆΠΕΝΕΡΓΟΠΟΙΗΜΈΝΗ"
+msgstr "Αστόχευτη λειτουργία ΑΝΕΝΕΡΓΟ"
 
 msgid "TXT_ANUBIS_ON"
 msgstr "\"Τρέμε με φόβο!\""
@@ -428,10 +425,10 @@ msgid "TXT_ANUBIS_OFF"
 msgstr "Καθόλου δρακοντική πανοπλία πια"
 
 msgid "TXT_CHASECAM_ON"
-msgstr "Κάμερα τρίτου πρωσώπου ΕΝΕΡΓΟΠΟΙΗΜΈΝΗ"
+msgstr "Κάμερα τρίτου πρωσώπου ΕΝΕΡΓΟ"
 
 msgid "TXT_CHASECAM_OFF"
-msgstr "Κάμερα τρίτου πρωσώπου ΆΠΕΝΕΡΓΟΠΟΙΗΜΈΝΗ"
+msgstr "Κάμερα τρίτου πρωσώπου ΑΝΕΝΕΡΓΟ"
 
 msgid "TXT_BADDIE_KILLED"
 msgstr "Ενας κακός πέθανε"
