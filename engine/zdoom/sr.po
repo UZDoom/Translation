@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 16:13+0000\n"
+"PO-Revision-Date: 2026-02-25 04:38+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/sr/>\n"
@@ -22,7 +22,7 @@ msgid "SECRETMESSAGE"
 msgstr "Откривена тајна!"
 
 msgid "D_DEVSTR"
-msgstr "Програмерски режим УКЉ."
+msgstr "Програмерски режим УКЉ"
 
 #, fuzzy
 msgid "QUITMSG"
@@ -309,7 +309,7 @@ msgid "STSTR_NCON"
 msgstr "Пролажење кроз зидове УКЉ"
 
 msgid "STSTR_NCOFF"
-msgstr "Пролажење кроз зидове ИСКЉУЧЕНО"
+msgstr "Пролажење кроз зидове ИСКЉ"
 
 msgid "STSTR_NC2ON"
 msgstr "Секундарни режим пролажења кроз зидове УКЉ"
@@ -376,9 +376,8 @@ msgstr "Варалице—ти не заслужујеш оружје"
 msgid "TXT_CHEATTICKERON"
 msgstr "Бројач УКЉ"
 
-#, fuzzy
 msgid "TXT_CHEATTICKEROFF"
-msgstr "Бројач искључен"
+msgstr "Бројач ИСКЉ"
 
 msgid "TXT_CHEATARTIFACTS3"
 msgstr "Уреду"
@@ -390,11 +389,10 @@ msgid "TXT_GOTSTUFF"
 msgstr "Покупили сте ствари!"
 
 msgid "TXT_FREEZEON"
-msgstr "Мод замрзавања УКЉУЧЕН"
+msgstr "Мод замрзавања УКЉ"
 
-#, fuzzy
 msgid "TXT_FREEZEOFF"
-msgstr "Мод замрзавања ИСКЉУЧЕН"
+msgstr "Мод замрзавања ИСКЉ"
 
 msgid "TXT_STRANGE"
 msgstr "Осећате се чудно…"
@@ -406,11 +404,10 @@ msgid "TXT_NOTSTRANGE"
 msgstr "Поново се осећате као ви."
 
 msgid "TXT_LEADBOOTSON"
-msgstr "Оловне чизме УКЉУЧЕНЕ"
+msgstr "Оловне чизме УКЉ"
 
-#, fuzzy
 msgid "TXT_LEADBOOTSOFF"
-msgstr "Оловне чизме ИСКЉУЧЕНЕ"
+msgstr "Оловне чизме ИСКЉ"
 
 msgid "TXT_LIGHTER"
 msgstr "Осећате лакоћу"
@@ -419,10 +416,10 @@ msgid "TXT_GRAVITY"
 msgstr "Гравитација те оптерећује"
 
 msgid "TXT_NOTARGET_ON"
-msgstr "Нема мете УКЉУЧЕНО"
+msgstr "Нема мете УКЉ"
 
 msgid "TXT_NOTARGET_OFF"
-msgstr "Нема мете ИСКЉУЧЕНО"
+msgstr "Нема мете ИСКЉ"
 
 msgid "TXT_ANUBIS_ON"
 msgstr "„Дрхтите у страху!“"
@@ -431,10 +428,10 @@ msgid "TXT_ANUBIS_OFF"
 msgstr "Нема више бауков оклоп"
 
 msgid "TXT_CHASECAM_ON"
-msgstr "Пратећа камера УКЉ."
+msgstr "Пратећа камера УКЉ"
 
 msgid "TXT_CHASECAM_OFF"
-msgstr "Пратећа камера ИСКЉ."
+msgstr "Пратећа камера ИСКЉ"
 
 msgid "TXT_BADDIE_KILLED"
 msgstr "Један зликовац убијен"
