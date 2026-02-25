@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 04:38+0000\n"
+"PO-Revision-Date: 2026-02-25 19:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/uzdoom/common/"
 "eo/>\n"
@@ -1508,9 +1508,8 @@ msgstr "Identigo #2"
 msgid "REVMNU_Create"
 msgstr "Krei"
 
-#, fuzzy
 msgid "REVMNU_Save"
-msgstr "Konservi..."
+msgstr "Konservi…"
 
 msgid "REVMNU_File_name"
 msgstr "Dosiernomo"
