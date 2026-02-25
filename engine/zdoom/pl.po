@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 04:38+0000\n"
+"PO-Revision-Date: 2026-02-25 19:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/pl/>\n"
@@ -2580,13 +2580,11 @@ msgstr "Wydaje się, że już ci wystarczy!"
 msgid "TXT_GOAWAY"
 msgstr "Idź stąd!"
 
-#, fuzzy
 msgid "TXT_COMM0"
-msgstr "Nadchodzi wiadomość..."
+msgstr "Nadchodzi wiadomość…"
 
-#, fuzzy
 msgid "TXT_COMM1"
-msgstr "Nadchodzi wiadomość od BlackBird..."
+msgstr "Nadchodzi wiadomość od BlackBird…"
 
 msgid "TXT_FINDHELP"
 msgstr "Znajdź pomoc"
@@ -2775,7 +2773,6 @@ msgstr ""
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: Jaskinie Bazoik"
 
-#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Misja zakończona.\n"
@@ -2786,7 +2783,8 @@ msgstr ""
 "\n"
 "\n"
 "\n"
-"Wciśnij klawisz escape by kontynuować..."
+"\n"
+"Wciśnij klawisz escape by kontynuować…"
 
 msgid "CE2TEXT"
 msgstr "Udało ci się!"
