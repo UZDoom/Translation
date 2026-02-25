@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 19:09+0000\n"
+"PO-Revision-Date: 2026-02-25 21:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/sr/>\n"
@@ -159,7 +159,7 @@ msgstr ""
 
 msgid "QUITMSG13"
 msgstr ""
-"Иди, иди... али када се вратиш,\n"
+"Иди, иди… али када се вратиш,\n"
 "чекаћу те са палицом."
 
 msgid "QUITMSG14"
@@ -454,27 +454,26 @@ msgstr "Сви артифакти!"
 msgid "TXT_WHAT_KILL"
 msgstr "Шта желите да убијете ван игре?"
 
-#, fuzzy
 msgid "TXT_NOT_FROZEN"
-msgstr "Смрзнути играчи искључени"
+msgstr "Смрзнути играчи ИСКЉ"
 
 msgid "AMSTR_FOLLOWOFF"
-msgstr "Праћење ИСКЉУЧЕНО"
+msgstr "Праћење ИСКЉ"
 
 msgid "AMSTR_FOLLOWON"
-msgstr "Праћење УКЉУЧЕНО"
+msgstr "Праћење УКЉ"
 
 msgid "AMSTR_GRIDON"
-msgstr "Мрежа УКЉУЧЕНА"
+msgstr "Мрежа УКЉ"
 
 msgid "AMSTR_GRIDOFF"
-msgstr "Мрежа ИСКЉУЧЕНА"
+msgstr "Мрежа ИСКЉ"
 
 msgid "AMSTR_TEXON"
 msgstr "Текстуре УКЉУЧЕНЕ"
 
 msgid "AMSTR_TEXOFF"
-msgstr "Текстуре ИСКЉУЧЕНЕ"
+msgstr "Текстуре ИСКЉ"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Означено место"
@@ -2075,17 +2074,14 @@ msgstr "Покупили сте електричне стреле."
 msgid "TXT_AMMOSATCHEL"
 msgstr "Покупили сте торбицу муниције."
 
-#, fuzzy
 msgid "MSG_TALISMANRED"
-msgstr "Имаш осећај да није требало бити дирано..."
+msgstr "Имаш осећај да није требало бити дирано…"
 
-#, fuzzy
 msgid "MSG_TALISMANGREEN"
-msgstr "Шта год да је, не припада овом свету..."
+msgstr "Шта год да је, не припада овом свету…"
 
-#, fuzzy
 msgid "MSG_TALISMANBLUE"
-msgstr "Мора урадити нешто..."
+msgstr "Мора урадити нешто…"
 
 msgid "MSG_TALISMANPOWER"
 msgstr "Имаш супер снагу!"
@@ -2579,9 +2575,8 @@ msgstr "Изгледа да ти је доста!"
 msgid "TXT_GOAWAY"
 msgstr "Одлази!"
 
-#, fuzzy
 msgid "TXT_COMM0"
-msgstr "Наилази порука..."
+msgstr "Наилази порука…"
 
 msgid "TXT_COMM1"
 msgstr "Наилази порука од Црне птице…"
@@ -2803,7 +2798,12 @@ msgstr ""
 
 msgctxt "chex"
 msgid "QSPROMPT"
-msgstr "Брзо-сачувајте преко ваше потраге назване '%s'? Притисните Y или N."
+msgstr ""
+"Брзо-сачувајте преко ваше потраге назване\n"
+"\n"
+"'%s'?\n"
+"\n"
+"Притисните Y или N."
 
 msgctxt "chex"
 msgid "QLOADNET"
@@ -2815,19 +2815,23 @@ msgstr ""
 msgctxt "chex"
 msgid "QLPROMPT"
 msgstr ""
-"Да ли желиш да брзо-учиташ потрагу названу '%s'?\n"
+"Да ли желиш да брзо-учиташ потрагу названу\n"
+"\n"
+"'%s'?\n"
 "\n"
 "Притисните Y или N."
 
 msgid "CNEWGAME"
 msgstr ""
-"Не можете почети нову потрагу док сте у мрежној потрази.\n"
+"Не можете почети нову потрагу\n"
+"док сте у мрежној потрази.\n"
 "\n"
 "Притисните тастер."
 
 msgid "CNIGHTMARE"
 msgstr ""
-"Пажљиво, ово је ће бити тешко. Да ли желиш да наставиш?\n"
+"Пажљиво, ово је ће бити тешко.\n"
+"Да ли желиш да наставиш?\n"
 "\n"
 "Притисните Y или N."
 
@@ -2870,10 +2874,9 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Супер зорч додат"
 
-#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
-msgstr "... Једи Chex(R)!"
+msgstr "…Једи Chex®!"
 
 msgctxt "chex"
 msgid "AMMO_CLIP"
@@ -3031,7 +3034,7 @@ msgid "MNU_RANDOM"
 msgstr "Насумично"
 
 msgid "MNU_EPISODE"
-msgstr "Изаберите кампању"
+msgstr "Изаберите кампању?"
 
 msgctxt "strife"
 msgid "MNU_EPISODE"
@@ -4567,19 +4570,17 @@ msgstr "Сачувана игра %s је из инкомпетабилне ве
 msgid "TXT_OTHERENGINESG"
 msgstr "Сачувана игра %s је из други ZDoom-базиран енџин:"
 
-#, fuzzy
 msgid "TXT_TOOOLDSG"
 msgstr ""
-"Сачувана игра „%s“ је из старије верзије: %d (%e је најстарија подржана)"
+"Сачувана игра „%s“ је из старије верзије: %d (%e је најстарија подржана)."
 
 # Shouldn’t this say “%e is the newest supported”?
 # 
 # — Undead
 # 
 # Ask Randi: The text is old. I won't change it.
-#, fuzzy
 msgid "TXT_TOONEWSG"
-msgstr "Сачувана игра „%s“ је из новије верзије: %d (%e је најновија подржана)"
+msgstr "Сачувана игра „%s“ је из новије верзије: %d (%e је најновија подржана)."
 
 msgid "TXT_NOMAPSG"
 msgstr "Сачувана игри „%s“ недостаје тренутна мапа."
