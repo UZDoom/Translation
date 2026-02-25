@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 19:09+0000\n"
+"PO-Revision-Date: 2026-02-25 21:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/nl/>\n"
@@ -452,9 +452,8 @@ msgstr "Alle artefacten!"
 msgid "TXT_WHAT_KILL"
 msgstr "Wat wil je buiten een spel om doden?"
 
-#, fuzzy
 msgid "TXT_NOT_FROZEN"
-msgstr "Eigenschappen van de bevroren speler uitgeschakeld"
+msgstr "Eigenschappen van de bevroren speler UIT"
 
 msgid "AMSTR_FOLLOWOFF"
 msgstr "Volgmodus UIT"
@@ -2099,17 +2098,14 @@ msgstr "Je hebt de elektrische bouten opgepakt."
 msgid "TXT_AMMOSATCHEL"
 msgstr "Je hebt de munitietas opgepakt."
 
-#, fuzzy
 msgid "MSG_TALISMANRED"
-msgstr "Je hebt het gevoel dat het niet aangeraakt dient te worden..."
+msgstr "Je hebt het gevoel dat het niet aangeraakt dient te worden…"
 
-#, fuzzy
 msgid "MSG_TALISMANGREEN"
-msgstr "Wat het ook is, het hoort niet thuis in deze wereld..."
+msgstr "Wat het ook is, het hoort niet thuis in deze wereld…"
 
-#, fuzzy
 msgid "MSG_TALISMANBLUE"
-msgstr "Het moet iets doen...."
+msgstr "Het moet iets doen…"
 
 msgid "MSG_TALISMANPOWER"
 msgstr "Je hebt superkracht!"
@@ -2623,13 +2619,11 @@ msgstr "Zoek hulp"
 msgid "TXT_TRADE"
 msgstr "voor %u"
 
-#, fuzzy
 msgid "GOTCHEXARMOR"
-msgstr "Je hebt het Chex(R) harnas opgepakt."
+msgstr "Je hebt het Chex® harnas opgepakt."
 
-#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
-msgstr "Je hebt het Super-Chex(R) harnas opgehaald!"
+msgstr "Je hebt het Super-Chex® harnas opgehaald!"
 
 msgid "GOTWATER"
 msgstr "Je hebt een glas water opgepakt."
@@ -2871,10 +2865,9 @@ msgstr ""
 "\n"
 "Druk op Y of N."
 
-#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
-"Dit is Chex(R) Quest. Zoek naar\n"
+"Dit is Chex® Quest. Zoek naar\n"
 "\n"
 "toekomstige niveaus op www.chexquest.com\n"
 "\n"
@@ -2910,10 +2903,9 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Super Zorch toegevoegd"
 
-#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
-msgstr "... Eet Chex(R)!"
+msgstr "…Eet Chex®!"
 
 msgctxt "chex"
 msgid "AMMO_CLIP"
@@ -4628,22 +4620,20 @@ msgstr "Savegame '%s' komt uit een incompatibele versie."
 msgid "TXT_OTHERENGINESG"
 msgstr "Savegame '%s' is van een andere ZDoom-gebaseerde engine:"
 
-#, fuzzy
 msgid "TXT_TOOOLDSG"
 msgstr ""
 "Savegame '%s' is van een oudere versie: %d (%e is de oudste ondersteunde "
-"versie)"
+"versie)."
 
 # Shouldn’t this say “%e is the newest supported”?
 # 
 # — Undead
 # 
 # Ask Randi: The text is old. I won't change it.
-#, fuzzy
 msgid "TXT_TOONEWSG"
 msgstr ""
 "Savegame '%s' is van een nieuwere versie: %d (%e is de hoogst ondersteunde "
-"versie)"
+"versie)."
 
 msgid "TXT_NOMAPSG"
 msgstr "Savegame '%s' mist de huidige kaart."
