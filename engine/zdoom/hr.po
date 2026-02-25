@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 16:13+0000\n"
+"PO-Revision-Date: 2026-02-25 04:38+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hr/>\n"
@@ -22,7 +22,7 @@ msgid "SECRETMESSAGE"
 msgstr "Tajna je otkrivena!"
 
 msgid "D_DEVSTR"
-msgstr "Beskorisni način UKLJ."
+msgstr "Beskorisni način UKLJ"
 
 msgid "QUITMSG"
 msgstr ""
@@ -375,9 +375,8 @@ msgstr "Varalico! Pička ti matera! Ne zaslužuješ oružja"
 msgid "TXT_CHEATTICKERON"
 msgstr "Brojač UKLJ"
 
-#, fuzzy
 msgid "TXT_CHEATTICKEROFF"
-msgstr "Brojač ISKLJ."
+msgstr "Brojač ISKLJ"
 
 msgid "TXT_CHEATARTIFACTS3"
 msgstr "Možeš ti to"
@@ -389,11 +388,10 @@ msgid "TXT_GOTSTUFF"
 msgstr "Imaš sve što ti treba!"
 
 msgid "TXT_FREEZEON"
-msgstr "Način zamrzavanja uključen"
+msgstr "Način zamrzavanja UKLJ"
 
-#, fuzzy
 msgid "TXT_FREEZEOFF"
-msgstr "Način zamrzavanja isključen"
+msgstr "Način zamrzavanja ISKLJ"
 
 msgid "TXT_STRANGE"
 msgstr "Osjećaš se čudno…"
@@ -405,11 +403,10 @@ msgid "TXT_NOTSTRANGE"
 msgstr "Osjećaš se opet kao ti."
 
 msgid "TXT_LEADBOOTSON"
-msgstr "Olovne čizme na nogama"
+msgstr "Olovne čizme UKLJ"
 
-#, fuzzy
 msgid "TXT_LEADBOOTSOFF"
-msgstr "Skinite olovne čizme"
+msgstr "Olovne čizme ISKLJ"
 
 msgid "TXT_LIGHTER"
 msgstr "Osjećaš se lakše"
@@ -418,10 +415,10 @@ msgid "TXT_GRAVITY"
 msgstr "Gravitacija te opterećuje"
 
 msgid "TXT_NOTARGET_ON"
-msgstr "Nema cilja UKLJUČENO"
+msgstr "Nema cilja UKLJ"
 
 msgid "TXT_NOTARGET_OFF"
-msgstr "Bez cilja ISKLJUČENO"
+msgstr "Bez cilja ISKLJ"
 
 msgid "TXT_ANUBIS_ON"
 msgstr "\"Drhti od straha!\""
@@ -430,10 +427,10 @@ msgid "TXT_ANUBIS_OFF"
 msgstr "Nema više Ogre oklopa"
 
 msgid "TXT_CHASECAM_ON"
-msgstr "Prateća kamera UKLJ."
+msgstr "Prateća kamera UKLJ"
 
 msgid "TXT_CHASECAM_OFF"
-msgstr "Prateća kamera ISKLJ."
+msgstr "Prateća kamera ISKLJ"
 
 msgid "TXT_BADDIE_KILLED"
 msgstr "1 zlikovac ubijen"
