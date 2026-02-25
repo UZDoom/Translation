@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 04:38+0000\n"
+"PO-Revision-Date: 2026-02-25 19:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/nl/>\n"
@@ -2610,13 +2610,11 @@ msgstr "Je lijkt genoeg te hebben!"
 msgid "TXT_GOAWAY"
 msgstr "Ga weg!"
 
-#, fuzzy
 msgid "TXT_COMM0"
-msgstr "Inkomend bericht...."
+msgstr "Inkomend bericht…"
 
-#, fuzzy
 msgid "TXT_COMM1"
-msgstr "Inkomend bericht van BlackBird...."
+msgstr "Inkomend bericht van BlackBird…"
 
 msgid "TXT_FINDHELP"
 msgstr "Zoek hulp"
@@ -2806,7 +2804,6 @@ msgstr "E1M4: Arboretum"
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: Grotten van Bazoik"
 
-#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Missie volbracht.\n"
@@ -2818,7 +2815,7 @@ msgstr ""
 "\n"
 "\n"
 "\n"
-"Druk op de Escape-toets om verder te gaan...."
+"Druk op de Escape-toets om verder te gaan…"
 
 msgid "CE2TEXT"
 msgstr "Het is je gelukt!"
