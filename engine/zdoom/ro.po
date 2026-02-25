@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 19:10+0000\n"
+"PO-Revision-Date: 2026-02-25 21:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ro/>\n"
@@ -453,9 +453,8 @@ msgstr "Toate Artefactele!"
 msgid "TXT_WHAT_KILL"
 msgstr "Ce vrei să ucizi în afara jocului?"
 
-#, fuzzy
 msgid "TXT_NOT_FROZEN"
-msgstr "Proprietăți jucători înghețați DEZACTIVATE"
+msgstr "Proprietăți jucători înghețați OPRITE"
 
 msgid "AMSTR_FOLLOWOFF"
 msgstr "Mod Urmărire OPRIT"
@@ -467,13 +466,13 @@ msgid "AMSTR_GRIDON"
 msgstr "Grilă ACTIVATĂ"
 
 msgid "AMSTR_GRIDOFF"
-msgstr "Grilă DEZACTIVATĂ"
+msgstr "Grilă OPRITĂ"
 
 msgid "AMSTR_TEXON"
 msgstr "Modul Texturat ACTIVAT"
 
 msgid "AMSTR_TEXOFF"
-msgstr "Modul Netexturat DEZACTIVAT"
+msgstr "Modul Texturat OPRIT"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Loc Marcat"
@@ -1855,9 +1854,7 @@ msgid "OB_MPMWEAPLIGHTNING"
 msgstr "%o a avut parte de o revelație șocantă de la %k."
 
 msgid "OB_MPMWEAPBLOODSCOURGE"
-msgstr ""
-"%o a fost ras de pe fața universului de\n"
-"Flagelul lui %k."
+msgstr "%o a fost ras de pe fața universului de Flagelul lui %k."
 
 msgid "TXT_METALARMOR"
 msgstr "Ai ridicat Armura de Metal."
@@ -2076,17 +2073,14 @@ msgstr "Ai ridicat bolțurile electrice."
 msgid "TXT_AMMOSATCHEL"
 msgstr "Ai ridicat sacoșa de muniție."
 
-#, fuzzy
 msgid "MSG_TALISMANRED"
-msgstr "Ai sentimentul că nu trebuia atinsă..."
+msgstr "Ai sentimentul că nu trebuia atinsă…"
 
-#, fuzzy
 msgid "MSG_TALISMANGREEN"
-msgstr "Orice ar fi, nu are ce căuta în lumea asta..."
+msgstr "Orice ar fi, nu are ce căuta în lumea asta…"
 
-#, fuzzy
 msgid "MSG_TALISMANBLUE"
-msgstr "Trebuie să fie bun la ceva..."
+msgstr "Trebuie să fie bun la ceva…"
 
 msgid "MSG_TALISMANPOWER"
 msgstr "Ai super forță!"
@@ -2513,9 +2507,7 @@ msgid "OB_MPPOISONBOLT"
 msgstr "%o a primit o doză letală din furia lui %k."
 
 msgid "OB_MPASSAULTGUN"
-msgstr ""
-"%o a fost umplut de găuri de pușca lui\n"
-"%k."
+msgstr "%o a fost umplut de găuri de pușca lui %k."
 
 msgid "OB_MPMINIMISSILELAUNCHER"
 msgstr "%o a înghițit proiectilul lui %k."
@@ -2572,10 +2564,10 @@ msgid "TXT_KILLED_LOREMASTER"
 msgstr "L-ai omorât pe Maestrul Cunoștințelor!"
 
 msgid "TXT_YOUFOOL"
-msgstr "Nesăbuitule! Ai declanșat alarma!"
+msgstr "Nesăbuitule! Ai declanșat alarma."
 
 msgid "TXT_YOUREDEAD"
-msgstr "Ești mort! Ai declanșat alarma!"
+msgstr "Ești mort! Ai declanșat alarma."
 
 msgid "TXT_HAVEENOUGH"
 msgstr "Pare că ai destule!"
@@ -2596,13 +2588,11 @@ msgstr "Găsește ajutor"
 msgid "TXT_TRADE"
 msgstr "pentru %u"
 
-#, fuzzy
 msgid "GOTCHEXARMOR"
-msgstr "Ai ridicat Armura Chex(R)."
+msgstr "Ai ridicat Armura Chex®."
 
-#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
-msgstr "Ai ridicat Super Armura Chex(R)!"
+msgstr "Ai ridicat Super Armura Chex®!"
 
 msgid "GOTWATER"
 msgstr "Ai ridicat un pahar de apă."
@@ -2635,7 +2625,7 @@ msgid "GOTSLIMESUIT"
 msgstr "Ai ridicat un Costum Rezistent la Mâzgă"
 
 msgid "GOTCHEXMAP"
-msgstr "Ai ridicat o Hartă Computerizată a Zonei."
+msgstr "Ai ridicat o Hartă Computerizată a Zonei"
 
 msgid "GOTZORCHRECHARGE"
 msgstr "Ai ridicat o mini încărcătură pentru zorch."
@@ -2653,9 +2643,7 @@ msgid "GOTPHASINGZORCHERRECHARGE"
 msgstr "Ai ridicat o încărcătură fazată pentru zorcher"
 
 msgid "GOTPHASINGZORCHERPACK"
-msgstr ""
-"Ai ridicat un pachet de încărcături fazate pentru \n"
-"zorcher."
+msgstr "Ai ridicat un pachet de încărcături fazate pentru zorcher."
 
 msgid "GOTLARGEZORCHERRECHARGE"
 msgstr "Ai ridicat o încărcătură mare pentru zorcher."
@@ -2833,7 +2821,8 @@ msgstr ""
 
 msgid "CNEWGAME"
 msgstr ""
-"Nu poți începe o căutare nouă în timpul unei căutări!\n"
+"Nu poți începe o căutare nouă\n"
+"în timpul unei căutări!\n"
 "\n"
 "Apasă orice tastă."
 
@@ -2844,10 +2833,9 @@ msgstr ""
 "\n"
 "Apasă Y sau N."
 
-#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
-"Acesta este Chex(R) Quest, pentru mai multe\n"
+"Acesta este Chex® Quest, pentru mai multe\n"
 "\n"
 "niveluri vizitează www.chexquest.com.\n"
 "\n"
@@ -2883,10 +2871,9 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Super Lingură Adăugată"
 
-#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
-msgstr "... Mănâncă Chex(R)!"
+msgstr "…Mănâncă Chex®!"
 
 msgctxt "chex"
 msgid "AMMO_CLIP"
@@ -4558,7 +4545,7 @@ msgid "TXT_JOINED_TEAM"
 msgstr "%s s-a alăturat echipei %t"
 
 msgid "TXT_LONER"
-msgstr "%s este singur acum"
+msgstr "%s este singur acum."
 
 msgid "TXT_LEFTWITHFRAGS"
 msgstr "%s a părăsit jocul cu %d victime"
@@ -4570,7 +4557,7 @@ msgid "TXT_COULDNOTREAD"
 msgstr "Salvarea '%s' nu a putut fi citită."
 
 msgid "TXT_NOINFOJSON"
-msgstr "%s' nu este o salvare validă. Lipsește 'info.json'"
+msgstr "%s' nu este o salvare validă. Lipsește 'info.json'."
 
 msgid "TXT_FAILEDTOREADSG"
 msgstr "Nu s-au putut accesa informațiile din salvarea '%s'."
@@ -4581,22 +4568,20 @@ msgstr "Salvarea '%s' este dintr-o versiune incompatibilă."
 msgid "TXT_OTHERENGINESG"
 msgstr "Salvarea '%s' este dintr-un alt motor care are ca bază ZDoom:"
 
-#, fuzzy
 msgid "TXT_TOOOLDSG"
 msgstr ""
 "Salvarea '%s' este dintr-o versiune mai veche: %d (%e e cea mai veche "
-"suportată)"
+"suportată)."
 
 # Shouldn’t this say “%e is the newest supported”?
 # 
 # — Undead
 # 
 # Ask Randi: The text is old. I won't change it.
-#, fuzzy
 msgid "TXT_TOONEWSG"
 msgstr ""
 "Salvarea '%s' e dintr-o versiune mai nouă: %d (%e este cea mai nouă "
-"suportată)"
+"suportată)."
 
 msgid "TXT_NOMAPSG"
 msgstr "Salvării '%s' îi lipsește harta actuală."
@@ -4785,7 +4770,7 @@ msgid "ALTHUDMNU_SHOWTIMESTAT"
 msgstr "Afișare ceas"
 
 msgid "CMPTMNU_VILEGHOSTS"
-msgstr "Monștrii striviți sunt readuși la viață ca fantome."
+msgstr "Monștrii striviți sunt readuși la viață ca fantome"
 
 msgid "MISCMNU_FVIEWBOB"
 msgstr "Mișcare cameră în timpul zborului"
