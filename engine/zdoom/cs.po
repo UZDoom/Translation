@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 19:10+0000\n"
+"PO-Revision-Date: 2026-02-25 21:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/cs/>\n"
@@ -395,7 +395,7 @@ msgid "TXT_STRANGE"
 msgstr "Cítíš se divně…"
 
 msgid "TXT_STRANGER"
-msgstr "Cítíš se ještě divněji..."
+msgstr "Cítíš se ještě divněji."
 
 msgid "TXT_NOTSTRANGE"
 msgstr "Cítíš se opět jako ty."
@@ -451,9 +451,8 @@ msgstr "Všechny artefakty!"
 msgid "TXT_WHAT_KILL"
 msgstr "Co chceš zabít, když nejsi ve hře?"
 
-#, fuzzy
 msgid "TXT_NOT_FROZEN"
-msgstr "Vlastnosti držící hráče na místě vypnuty"
+msgstr "Vlastnosti držící hráče na místě VYP"
 
 msgid "AMSTR_FOLLOWOFF"
 msgstr "Režim sledování VYP"
@@ -1889,7 +1888,7 @@ msgid "TXT_SHADOWARMOR"
 msgstr "Sebral@[ao_cs] jsi krycí brnění."
 
 msgid "TXT_ENVSUIT"
-msgstr "Sebral@[ao_cs] jsi ochranný oděv"
+msgstr "Sebral@[ao_cs] jsi ochranný oděv."
 
 msgid "TXT_GUARDUNIFORM"
 msgstr "Sebral@[ao_cs] jsi hlídačovu uniformu."
@@ -2072,65 +2071,62 @@ msgstr "Sebral@[ao_cs] jsi elektrické šípy."
 msgid "TXT_AMMOSATCHEL"
 msgstr "Sebral@[ao_cs] jsi brašnu na munici."
 
-#, fuzzy
 msgid "MSG_TALISMANRED"
-msgstr "Máš pocit, že jsi na to sahat neměl@[ao_cs]..."
+msgstr "Máš pocit, že jsi na to sahat neměl@[ao_cs]…"
 
-#, fuzzy
 msgid "MSG_TALISMANGREEN"
-msgstr "Je jedno, co to je, do tohoto světa to nepatří..."
+msgstr "Je jedno, co to je, do tohoto světa to nepatří…"
 
-#, fuzzy
 msgid "MSG_TALISMANBLUE"
-msgstr "Něco to dělat musí..."
+msgstr "Něco to dělat musí…"
 
 msgid "MSG_TALISMANPOWER"
 msgstr "Získal@[ao_cs] jsi super sílu!"
 
 msgid "TXT_NEEDKEY"
-msgstr "Nemáš klíč."
+msgstr "Nemáš klíč"
 
 msgid "TXT_NEED_PASSCARD"
-msgstr "Potřebuješ průkaz."
+msgstr "Potřebuješ průkaz"
 
 msgid "TXT_NEED_PASSCARD_DOOR"
-msgstr "Pro otevření dveří potřebuješ průkaz."
+msgstr "Pro otevření dveří potřebuješ průkaz"
 
 msgid "TXT_NEED_IDCARD"
-msgstr "Potřebuješ identifikační kartu."
+msgstr "Potřebuješ identifikační kartu"
 
 msgid "TXT_NEED_PRISONKEY"
-msgstr "Nemáš klíč do vězení."
+msgstr "Nemáš klíč do vězení"
 
 msgid "TXT_NEED_HANDPRINT"
-msgstr "Otisk ruky není v databázi."
+msgstr "Otisk ruky není v databázi"
 
 msgid "TXT_NEED_GOLDKEY"
-msgstr "Potřebuješ zlatý klíč."
+msgstr "Potřebuješ zlatý klíč"
 
 msgid "TXT_NEED_IDBADGE"
-msgstr "Potřebuješ identifikační odznak."
+msgstr "Potřebuješ identifikační odznak"
 
 msgid "TXT_NEED_IDBADGE_DOOR"
-msgstr "Pro otevření dveří potřebuješ identifikační odznak."
+msgstr "Pro otevření dveří potřebuješ identifikační odznak"
 
 msgid "TXT_NEED_SILVERKEY"
-msgstr "Potřebuješ stříbrný klíč."
+msgstr "Potřebuješ stříbrný klíč"
 
 msgid "TXT_NEED_BRASSKEY"
-msgstr "Potřebuješ mosazný klíč."
+msgstr "Potřebuješ mosazný klíč"
 
 msgid "TXT_NEED_REDCRYSTAL"
-msgstr "Potřebuješ červený krystal."
+msgstr "Potřebuješ červený krystal"
 
 msgid "TXT_NEED_BLUECRYSTAL"
-msgstr "Potřebuješ modrý krystal."
+msgstr "Potřebuješ modrý krystal"
 
 msgid "TXT_RETAIL_ONLY"
-msgstr "Tato oblast je dostupná pouze v registrované verzi."
+msgstr "Tato oblast je dostupná pouze v registrované verzi"
 
 msgid "TXT_DOES_NOT_WORK"
-msgstr "Takhle to nepůjde."
+msgstr "Takhle to nepůjde"
 
 msgid "TXT_NEED_CHALICE"
 msgstr "Potřebuješ kalich!"
@@ -2460,7 +2456,7 @@ msgid "OB_ALIENSPECTRE"
 msgstr "%o byl@[ao_cs] zničen@[ao_cs] přízrakem."
 
 msgid "OB_ENTITY"
-msgstr "%o pocítil@[ao_cs] vztek Jediného Boha"
+msgstr "%o pocítil@[ao_cs] vztek Jediného Boha."
 
 msgid "OB_LOREMASTER"
 msgstr "%o nemohl@[ao_cs] utéct Dějepiscově sevření."
@@ -2565,10 +2561,10 @@ msgid "TXT_KILLED_LOREMASTER"
 msgstr "Zabil@[ao_cs] jsi Dějepisce!"
 
 msgid "TXT_YOUFOOL"
-msgstr "Blázne! Spustil@[ao_cs] jsi alarm!"
+msgstr "Blázne! Spustil@[ao_cs] jsi alarm."
 
 msgid "TXT_YOUREDEAD"
-msgstr "Jsi mrtv@[adj_cs]! Spustil@[ao_cs] jsi alarm!"
+msgstr "Jsi mrtv@[adj_cs]! Spustil@[ao_cs] jsi alarm."
 
 msgid "TXT_HAVEENOUGH"
 msgstr "Ty už máš přece dost!"
@@ -2583,19 +2579,17 @@ msgid "TXT_COMM1"
 msgstr "Příchozí zpráva od Straky…"
 
 msgid "TXT_FINDHELP"
-msgstr "Najdi pomoc."
+msgstr "Najdi pomoc"
 
 # As in for %u amount of money.
 msgid "TXT_TRADE"
 msgstr "za %u zlatých"
 
-#, fuzzy
 msgid "GOTCHEXARMOR"
-msgstr "Sebráno Chex(R) brnění."
+msgstr "Sebráno Chex® brnění."
 
-#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
-msgstr "Sebráno Super Chex(R) brnění!"
+msgstr "Sebráno Super Chex(® brnění!"
 
 msgid "GOTWATER"
 msgstr "Sebrána sklenice vody."
@@ -2625,10 +2619,10 @@ msgid "GOTVEGETABLES"
 msgstr "Sebrána mísa se zeleninou."
 
 msgid "GOTSLIMESUIT"
-msgstr "Nalezen slizu odolný oblek."
+msgstr "Nalezen slizu odolný oblek"
 
 msgid "GOTCHEXMAP"
-msgstr "Nalezena počítačová mapa oblasti."
+msgstr "Nalezena počítačová mapa oblasti"
 
 msgid "GOTZORCHRECHARGE"
 msgstr "Sebrán minibzukový náboj."
@@ -2643,7 +2637,7 @@ msgid "GOTPROPULSORPACK"
 msgstr "Sebrán balík pro bzukový propulzor."
 
 msgid "GOTPHASINGZORCHERRECHARGE"
-msgstr "Sebrán náboj pro fázovací bzukr."
+msgstr "Sebrán náboj pro fázovací bzukr"
 
 msgid "GOTPHASINGZORCHERPACK"
 msgstr "Sebrán balík pro fázovací bzukr."
@@ -2658,7 +2652,7 @@ msgid "GOTZORCHPACK"
 msgstr "Sebrán Bzukrbatoh!"
 
 msgid "GOTLAZDEVICE"
-msgstr "Získal@[ao_cs] jsi velkodosahový bzukr! Cooo?"
+msgstr "Získal@[ao_cs] jsi velkodosahový bzukr! Wút!"
 
 msgid "GOTRAPIDZORCHER"
 msgstr "Získal@[ao_cs] jsi rychlobzukr!"
@@ -2824,7 +2818,8 @@ msgstr ""
 
 msgid "CNEWGAME"
 msgstr ""
-"Nemůžeš začít nové pátrání dokud jsi v síťové hře.\n"
+"Nemůžeš začít nové pátrání\n"
+"dokud jsi v síťové hře.\n"
 "\n"
 "Stiskni libovolnou klávesu."
 
@@ -2835,10 +2830,9 @@ msgstr ""
 "\n"
 "Stiskni Y nebo N."
 
-#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
-"Toto je Chex(R) Quest. Najdi\n"
+"Toto je Chex® Quest. Najdi\n"
 "\n"
 "další levely na www.chexquest.com.\n"
 "\n"
@@ -2849,7 +2843,7 @@ msgid "NETEND"
 msgstr ""
 "Nemůžeš ukončit síťové pátrání!\n"
 "\n"
-"Stiskni libovolnou klávesu"
+"Stiskni libovolnou klávesu."
 
 msgctxt "chex"
 msgid "ENDGAME"
@@ -2874,10 +2868,9 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Superbzukry přidány"
 
-#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
-msgstr "... Jez Chex(R)!"
+msgstr "…Jez Chex®!"
 
 msgctxt "chex"
 msgid "AMMO_CLIP"
@@ -2960,19 +2953,19 @@ msgid "SSKILL_NIGHTMARE"
 msgstr "Krveřežba"
 
 msgid "MNU_WETNURSE"
-msgstr "Potřěbuješ krmlici?"
+msgstr "Potřěbuješ krmlici"
 
 msgid "MNU_YELLOWBELLIES"
 msgstr "Nemehla, tož jsme my"
 
 msgid "MNU_BRINGEST"
-msgstr "Chtějúci se práti?"
+msgstr "Chtějúci se práti"
 
 msgid "MNU_SMITE"
 msgstr "Ktož jsú boží bojovníci"
 
 msgid "MNU_BLACKPLAGUE"
-msgstr "Jsúci Smrtonošem morovým!"
+msgstr "Jsúci Smrtonošem morovým"
 
 msgid "MNU_SQUIRE"
 msgstr "Panoš"
@@ -4543,7 +4536,7 @@ msgstr "Změna týmu je vypnuta!"
 
 # %s is the player and gender sensitive
 msgid "TXT_JOINED_TEAM"
-msgstr "%s se připojil@[ao_cs] k týmu %t."
+msgstr "%s se připojil@[ao_cs] k týmu %t"
 
 msgid "TXT_LONER"
 msgstr "%s je teď @[self_cs]."
@@ -4569,20 +4562,18 @@ msgstr "Uložená hra '%s' je z nekompatibilní verze."
 msgid "TXT_OTHERENGINESG"
 msgstr "Uložená hra '%s' je z jiného enginu založeného na ZDoomu:"
 
-#, fuzzy
 msgid "TXT_TOOOLDSG"
 msgstr ""
-"Uložená hra '%s' je ze starší verze: %d (%e je nejstarší podporovaná verze)"
+"Uložená hra '%s' je ze starší verze: %d (%e je nejstarší podporovaná verze)."
 
 # Shouldn’t this say “%e is the newest supported”?
 # 
 # — Undead
 # 
 # Ask Randi: The text is old. I won't change it.
-#, fuzzy
 msgid "TXT_TOONEWSG"
 msgstr ""
-"Uložená hra '%s' je z novější verze: %d (%e je nejvyšší podporovaná verze)"
+"Uložená hra '%s' je z novější verze: %d (%e je nejvyšší podporovaná verze)."
 
 msgid "TXT_NOMAPSG"
 msgstr "Uložená hra '%s' neobsahuje současný level."
@@ -4591,7 +4582,7 @@ msgid "TXT_NOGLOBALSJSON"
 msgstr "%s' není funkční uloženou hrou: Chybí 'globals.json'."
 
 msgid "TXT_SGINFOERR"
-msgstr "Nepodařilo se načíst informace v uložené hře '%s'."
+msgstr "Nepodařilo se načíst informace v uložené hře '%s'"
 
 msgid "TXT_SAVEPENDING"
 msgstr "Stále se čeká na uložení hry."
@@ -4600,13 +4591,13 @@ msgid "TXT_NOTSAVEABLE"
 msgstr "Nejsi v uložitelné hře."
 
 msgid "TXT_NOTINLEVEL"
-msgstr "Nejsi v levelu."
+msgstr "Nejsi v levelu"
 
 msgid "TXT_SPPLAYERDEAD"
-msgstr "Hráč je mrtvý v singleplayer hře."
+msgstr "Hráč je mrtvý v singleplayer hře"
 
 msgid "TXT_SAVEFAILED"
-msgstr "Uložení se nezdařilo."
+msgstr "Uložení se nezdařilo"
 
 msgid "TXT_SCREENSHOTERR"
 msgstr "Nepodařilo se pořídit snímek obrazovky."
@@ -4847,7 +4838,7 @@ msgid "SNDMNU_FOOTSTEPVOLUME"
 msgstr "Hlasitost kroků"
 
 msgid "ID24_GOTINCINERATOR"
-msgstr "Sebrán plamenomet."
+msgstr "Sebrán plamenomet!"
 
 # Also known as Heatwave Generator.
 msgid "ID24_GOTCALAMITYBLADE"
