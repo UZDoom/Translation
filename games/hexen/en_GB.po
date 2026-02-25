@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-22 21:49+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-26 04:53+0000\n"
+"Last-Translator: Andi Chandler <andi@gowling.com>\n"
 "Language-Team: English (United Kingdom) <https://hosted.weblate.org/projects/"
 "doom-engine-games/hexen/en_GB/>\n"
 "Language: en_GB\n"
@@ -203,3 +203,54 @@ msgstr ""
 "shadows. In the distance you can\n"
 "see a raised dais, and upon it the\n"
 "only source of light in this world."
+
+msgid "TXT_HEXEN_WIN2MSG"
+msgstr ""
+"This can only be the chaos sphere,\n"
+"the source of korax's power. with\n"
+"this, you can create worlds... or\n"
+"destroy them. By rights of battle\n"
+"and conquest it is yours, and with\n"
+"trembling hands you reach to grasp\n"
+"it. Perhaps, now, a new player will\n"
+"join the cosmic game of power. Like\n"
+"the pawn who is promoted to queen,\n"
+"suddenly the very reaches of the\n"
+"board seem to be within your grasp."
+
+msgid "TXT_HEXEN_WIN3MSG"
+msgstr ""
+"\\n"
+"but there are other players mightier\n"
+"than you, and who can know their\n"
+"next moves?"
+
+msgid "TXT_ACS_MAP01_5_THEDO"
+msgstr "The door is locked"
+
+msgid "TXT_ACS_MAP02_9_GREET"
+msgstr "Greetings, mortal"
+
+msgid "TXT_ACS_MAP02_11_AREYO"
+msgstr "Are you ready to die?"
+
+msgid "TXT_ACS_MAP02_20_ADOOR"
+msgstr "A door opened on the Guardian of Ice"
+
+msgid "TXT_ACS_MAP03_12_THISP"
+msgstr "This path is barred"
+
+msgid "TXT_ACS_MAP04_9_ONEHA"
+msgstr "One half of the puzzle has been solved"
+
+msgid "TXT_ACS_MAP04_10_ONTHE"
+msgstr "on the Seven Portals"
+
+msgid "TXT_ACS_MAP04_11_ONETH"
+msgstr "One third of the puzzle has been solved"
+
+msgid "TXT_ACS_MAP04_12_STAIR"
+msgstr "Stairs have risen on the Seven Portals"
+
+msgid "TXT_ACS_MAP05_6_ONETH"
+msgstr "One third of the puzzle has been solved"
