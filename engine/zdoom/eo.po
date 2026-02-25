@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 04:38+0000\n"
+"PO-Revision-Date: 2026-02-25 22:02+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/eo/>\n"
@@ -176,8 +176,8 @@ msgstr ""
 
 msgid "QUITMSG17"
 msgstr ""
-"Sed vi estas la espero...\n"
-"Mia ununura ŝanco!!"
+"Sed vi estas la espero\n"
+"—Mia ununura ŝanco!!"
 
 msgid "QUITMSG18"
 msgstr "Neniu forlasas Merlon."
@@ -288,7 +288,7 @@ msgid "STSTR_DQDON"
 msgstr "Nevundebla Reĝimo ŜALTITA"
 
 msgid "STSTR_DQDOFF"
-msgstr "Nevundebla Reĝimo MALŜALT"
+msgstr "Nevundebla Reĝimo MALŜALTITA"
 
 msgid "STSTR_DQD2ON"
 msgstr "Pleja Nevundebla Reĝimo ŜALTITA"
@@ -451,9 +451,8 @@ msgstr "Ĉiuj Artefaktoj!"
 msgid "TXT_WHAT_KILL"
 msgstr "Kion vi volas mortigi ekster ludo?"
 
-#, fuzzy
 msgid "TXT_NOT_FROZEN"
-msgstr "Atributoj de movhaltitaj ludantoj malŝaltitaj"
+msgstr "Atributoj de movhaltitaj ludantoj MALŜALTITA"
 
 msgid "AMSTR_FOLLOWOFF"
 msgstr "Sekvigreĝimo MALŜALTITA"
@@ -1491,7 +1490,7 @@ msgid "TXT_ARTIPUZZGEAR"
 msgstr "Dentrado de Horloĝo"
 
 msgid "TXT_USEPUZZLEFAILED"
-msgstr "Vi ne povas uzi ĉi tion ĉi tie."
+msgstr "Vi ne povas uzi ĉi tion ĉi tie"
 
 msgid "TXT_ARMOR1"
 msgstr "Marŝkiraso"
@@ -1887,7 +1886,7 @@ msgid "TXT_SHADOWARMOR"
 msgstr "Vi trovis ombran armaĵon."
 
 msgid "TXT_ENVSUIT"
-msgstr "Vi trovis medi-ŝirman veston"
+msgstr "Vi trovis medi-ŝirman veston."
 
 msgid "TXT_GUARDUNIFORM"
 msgstr "Vi havas la uniformon de gardisto."
@@ -1990,7 +1989,7 @@ msgid "TXT_SILVERKEY"
 msgstr "Vi havas arĝentan ŝlosilon."
 
 msgid "TXT_ORACLEKEY"
-msgstr "Vi havas ŝlosilon de la Orakolo"
+msgstr "Vi havas ŝlosilon de la Orakolo."
 
 msgid "TXT_MILITARYID"
 msgstr "Vi havas militan identigilon."
@@ -2008,7 +2007,7 @@ msgid "TXT_REDCRYSTAL"
 msgstr "Vi trovis la ruĝkristalan ŝlosilon."
 
 msgid "TXT_BLUECRYSTAL"
-msgstr "Vi trovis la blukristalan ŝlosilon"
+msgstr "Vi trovis la blukristalan ŝlosilon."
 
 msgid "TXT_CHAPELKEY"
 msgstr "Vi trovis la ŝlosilon de la kapelo."
@@ -2070,17 +2069,14 @@ msgstr "Vi trovis elektrajn sagojn."
 msgid "TXT_AMMOSATCHEL"
 msgstr "Vi trovis munici-sakon."
 
-#, fuzzy
 msgid "MSG_TALISMANRED"
-msgstr "Vi sentas, ke vi ne devis tuŝi ĝin..."
+msgstr "Vi sentas, ke vi ne devis tuŝi ĝin…"
 
-#, fuzzy
 msgid "MSG_TALISMANGREEN"
-msgstr "Tio ajn, kio ĝi estas, ĝi ne apartenas al ĉi tiu mondo..."
+msgstr "Tio ajn, kio ĝi estas, ĝi ne apartenas al ĉi tiu mondo…"
 
-#, fuzzy
 msgid "MSG_TALISMANBLUE"
-msgstr "Ĝi devas fari ion..."
+msgstr "Ĝi devas fari ion…"
 
 msgid "MSG_TALISMANPOWER"
 msgstr "Vi havas superan forton!"
@@ -2574,28 +2570,24 @@ msgstr "Vi ŝajnas havi sufiĉe!"
 msgid "TXT_GOAWAY"
 msgstr "Foriru!"
 
-#, fuzzy
 msgid "TXT_COMM0"
-msgstr "Alvenas mesaĝo..."
+msgstr "Alvenas mesaĝo…"
 
-#, fuzzy
 msgid "TXT_COMM1"
-msgstr "Alvenas mesaĝo de Merlo..."
+msgstr "Alvenas mesaĝo de Merlo…"
 
 msgid "TXT_FINDHELP"
-msgstr "Trovu helpon."
+msgstr "Trovu helpon"
 
 # As in for %u amount of money.
 msgid "TXT_TRADE"
-msgstr "kontraŭ %u da oro."
+msgstr "kontraŭ %u da oro"
 
-#, fuzzy
 msgid "GOTCHEXARMOR"
-msgstr "Prenis la Chex(R)-kirason."
+msgstr "Prenis la Chex®-kirason."
 
-#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
-msgstr "Prenis la superan Chex(R)-kirason!"
+msgstr "Prenis la superan Chex®-kirason!"
 
 msgid "GOTWATER"
 msgstr "Prenis glason de akvo."
@@ -2625,16 +2617,16 @@ msgid "GOTVEGETABLES"
 msgstr "Prenis bovlon de legomoj."
 
 msgid "GOTSLIMESUIT"
-msgstr "Trovis muk-imunan kompleton."
+msgstr "Trovis muk-imunan kompleton"
 
 msgid "GOTCHEXMAP"
-msgstr "Trovis komputilan regionmapon."
+msgstr "Trovis komputilan regionmapon"
 
 msgid "GOTZORCHRECHARGE"
 msgstr "Prenis zorĉreŝargeton."
 
 msgid "GOTMINIZORCHPACK"
-msgstr "Prenis zorĉpaketon"
+msgstr "Prenis zorĉpaketon."
 
 msgid "GOTPROPULSORRECHARGE"
 msgstr "Prenis zorĉpropulsilo-reŝargon."
@@ -2643,7 +2635,7 @@ msgid "GOTPROPULSORPACK"
 msgstr "Prenis zorĉpropulsilo-pakon."
 
 msgid "GOTPHASINGZORCHERRECHARGE"
-msgstr "Prenis fluktuantzorĉilo-reŝargon."
+msgstr "Prenis fluktuantzorĉilo-reŝargon"
 
 msgid "GOTPHASINGZORCHERPACK"
 msgstr "Prenis fluktuantzorĉilo-pakon."
@@ -2673,7 +2665,7 @@ msgid "GOTPHASINGZORCHER"
 msgstr "Vi prenis la Fluktuantzorĉilon!"
 
 msgid "GOTLARGEZORCHER"
-msgstr "Vi prenis la Grandzorĉilon"
+msgstr "Vi prenis la Grandzorĉilon!"
 
 msgid "GOTSUPERLARGEZORCHER"
 msgstr "Vi prenis la Grandegzorĉilon!"
@@ -2769,7 +2761,6 @@ msgstr "E1M4: Arbejo"
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: Kavernoj de Bazojko"
 
-#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Misio elfarita.\n"
@@ -2781,7 +2772,7 @@ msgstr ""
 "\n"
 "\n"
 "\n"
-"Premu la eskapan klavon por daŭri..."
+"Premu la eskapan klavon por daŭri…"
 
 msgid "CE2TEXT"
 msgstr "Vi sukcesis!"
@@ -2837,10 +2828,9 @@ msgstr ""
 "\n"
 "Premu Y aŭ N."
 
-#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
-"Ĉi tio estas Chex(R) Quest. Serĉu\n"
+"Ĉi tio estas Chex® Quest. Serĉu\n"
 "\n"
 "novajn nivelojn ĉe www.chexquest.com.\n"
 "\n"
@@ -2876,10 +2866,9 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Supera Zorĉo Aldonita"
 
-#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
-msgstr "... Manĝu Chex(R)-on!"
+msgstr "…Manĝu Chex®-on!"
 
 msgctxt "chex"
 msgid "AMMO_CLIP"
@@ -4573,22 +4562,20 @@ msgstr "Konservita ludado '%s' estas el nekongrua versio."
 msgid "TXT_OTHERENGINESG"
 msgstr "Konservita ludado '%s' estas el alia ZDoom-bazita modulo:"
 
-#, fuzzy
 msgid "TXT_TOOOLDSG"
 msgstr ""
 "Konservita ludado '%s' estas el pli malnova versio: %d (%e estas la plej "
-"malnova subtenata)"
+"malnova subtenata)."
 
 # Shouldn’t this say “%e is the newest supported”?
 # 
 # — Undead
 # 
 # Ask Randi: The text is old. I won't change it.
-#, fuzzy
 msgid "TXT_TOONEWSG"
 msgstr ""
 "Konservita ludado '%s' estas el pli nova versio: %d (%e estas la plej nova "
-"subtenata)"
+"subtenata)."
 
 msgid "TXT_NOMAPSG"
 msgstr "Al la konservita ludado '%s' mankas la nuna mapo."
@@ -5109,10 +5096,10 @@ msgid "TAG_REPELLENT"
 msgstr "Muk-forigilo"
 
 msgid "TAG_CHEXARMOR"
-msgstr "Chex(R)-kiraso"
+msgstr "Chex®-kiraso"
 
 msgid "TAG_SUPERCHEXARMOR"
-msgstr "Supera Chex(R)-kiraso"
+msgstr "Supera Chex®-kiraso"
 
 msgid "TAG_CHEXMAP"
 msgstr "Komputila regionmapo"

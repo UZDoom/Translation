@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 04:38+0000\n"
+"PO-Revision-Date: 2026-02-25 22:23+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/uzdoom/common/"
 "eo/>\n"
@@ -1127,13 +1127,13 @@ msgid "OPTVAL_1024K"
 msgstr ""
 
 msgid "OPTVAL_UNCHARTED2"
-msgstr ""
+msgstr "Uncharted 2"
 
 msgid "OPTVAL_HEJLDAWSON"
-msgstr ""
+msgstr "Hejl-Dawson"
 
 msgid "OPTVAL_REINHARD"
-msgstr ""
+msgstr "Reinhard"
 
 msgid "OPTVAL_PALETTE"
 msgstr "Kolorpaletro"
@@ -1387,14 +1387,14 @@ msgid "VIDMNU_PREFERBACKEND"
 msgstr "Preferita bildigado de API"
 
 msgid "OPTVAL_OPENGL"
-msgstr ""
+msgstr "OpenGL"
 
 msgid "OPTVAL_VULKAN"
-msgstr ""
+msgstr "Vulkan"
 
 # Rendering backend
 msgid "OPTVAL_OPENGLES"
-msgstr ""
+msgstr "OpenGL ES"
 
 msgid "MISCMNU_MERGEKEYS"
 msgstr "Kunigi maldekstran kaj dekstran Alt/Ctrl/Shift"
@@ -1508,9 +1508,8 @@ msgstr "Identigo #2"
 msgid "REVMNU_Create"
 msgstr "Krei"
 
-#, fuzzy
 msgid "REVMNU_Save"
-msgstr "Konservi..."
+msgstr "Konservi…"
 
 msgid "REVMNU_File_name"
 msgstr "Dosiernomo"
@@ -1537,7 +1536,7 @@ msgid "VK_RESTART"
 msgstr "Ĉi tiuj agordoj bezonos relanĉon por efikiĝi."
 
 msgid "OPTVAL_SCALENX"
-msgstr ""
+msgstr "ScaleNx"
 
 msgid "OPTVAL_NORMALNX"
 msgstr ""
@@ -1702,7 +1701,7 @@ msgid "PICKER_TAB_MULTI"
 msgstr "Plurludanta"
 
 msgid "PICKER_LOADSAVE"
-msgstr "Ŝargi konservitan dosieron"
+msgstr "Ŝargi konservitan dosieron:"
 
 msgid "PICKER_REMSAVE"
 msgstr "Memori konservitan dosieron"

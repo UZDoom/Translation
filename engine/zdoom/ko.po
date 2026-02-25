@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 04:38+0000\n"
+"PO-Revision-Date: 2026-02-25 22:02+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ko/>\n"
@@ -287,7 +287,7 @@ msgid "STSTR_NOMUS"
 msgstr "불가능한 선택입니다"
 
 msgid "STSTR_DQDON"
-msgstr "무미건조한 모드 켬"
+msgstr "무미건조한 모드 켜짐"
 
 msgid "STSTR_DQDOFF"
 msgstr "무미건조한 모드 끔"
@@ -424,7 +424,7 @@ msgid "TXT_ANUBIS_ON"
 msgstr "“공포에 떨어라!”"
 
 msgid "TXT_ANUBIS_OFF"
-msgstr "오거 갑옷은 이제 없다."
+msgstr "오거 갑옷은 이제 없다"
 
 msgid "TXT_CHASECAM_ON"
 msgstr "3인칭 카메라 켜짐"
@@ -436,7 +436,7 @@ msgid "TXT_BADDIE_KILLED"
 msgstr "1 명의 나쁜놈이 사살됨"
 
 msgid "TXT_BADDIES_KILLED"
-msgstr "%d 명의 나쁜놈들이 사살됨."
+msgstr "%d 명의 나쁜놈들이 사살됨"
 
 msgid "TXT_MONSTER_KILLED"
 msgstr "1 마리의 몬스터가 사살됨"
@@ -453,24 +453,23 @@ msgstr "모든 유물들!"
 msgid "TXT_WHAT_KILL"
 msgstr "게임 밖에서 무엇을 죽이고 싶습니까?"
 
-#, fuzzy
 msgid "TXT_NOT_FROZEN"
-msgstr "플레이어 정지 속성이 꺼졌습니다."
+msgstr "플레이어 정지 속성: 끔"
 
 msgid "AMSTR_FOLLOWOFF"
 msgstr "추적 모드 끔"
 
 msgid "AMSTR_FOLLOWON"
-msgstr "추적 모드 켬"
+msgstr "추적 모드 켜짐"
 
 msgid "AMSTR_GRIDON"
-msgstr "격자 켬"
+msgstr "격자 켜짐"
 
 msgid "AMSTR_GRIDOFF"
 msgstr "격자 끔"
 
 msgid "AMSTR_TEXON"
-msgstr "텍스쳐 모드 켬"
+msgstr "텍스쳐 모드 켜짐"
 
 msgid "AMSTR_TEXOFF"
 msgstr "텍스쳐 모드 끔"
@@ -2073,17 +2072,14 @@ msgstr "전격 볼트를 획득했다."
 msgid "TXT_AMMOSATCHEL"
 msgstr "탄약 배낭을 획득했다."
 
-#, fuzzy
 msgid "MSG_TALISMANRED"
-msgstr "결코, 만지면 안 된다는 생각이 든다..."
+msgstr "결코, 만지면 안 된다는 생각이 든다…"
 
-#, fuzzy
 msgid "MSG_TALISMANGREEN"
-msgstr "뭔지는 몰라도 이 세상에 속한 것이 아닌 것 같다..."
+msgstr "뭔지는 몰라도 이 세상에 속한 것이 아닌 것 같다…"
 
-#, fuzzy
 msgid "MSG_TALISMANBLUE"
-msgstr "분명히 뭔가를 할 것이다..."
+msgstr "분명히 뭔가를 할 것이다…"
 
 msgid "MSG_TALISMANPOWER"
 msgstr "엄청난 힘이 솟는다!"
@@ -2542,7 +2538,7 @@ msgid "TXT_DESTROYED_CONVERTER"
 msgstr "개조 장치를 파괴했다!"
 
 msgid "TXT_COMPLETED_TRAINING"
-msgstr "훈련 코스를 마쳤다. 능력치 업!"
+msgstr "축하한다! 훈련 코스를 마쳤다"
 
 msgid "TXT_QUEST_14"
 msgstr "수정체를 파괴했다"
@@ -2566,24 +2562,22 @@ msgid "TXT_KILLED_LOREMASTER"
 msgstr "로어마스터의 목숨에 종지부를 찍었다!"
 
 msgid "TXT_YOUFOOL"
-msgstr "어리석은 것! 알람이 작동되었다고!"
+msgstr "어리석은 것! 알람이 작동되었다고."
 
 msgid "TXT_YOUREDEAD"
-msgstr "알람이 작동되었다. 넌 죽었어!"
+msgstr "넌 죽었어! 알람이 작동되었다."
 
 msgid "TXT_HAVEENOUGH"
-msgstr "충분히 가진 것 같은데?"
+msgstr "충분히 가진 것 같은데!"
 
 msgid "TXT_GOAWAY"
 msgstr "저리 가!"
 
-#, fuzzy
 msgid "TXT_COMM0"
-msgstr "메시지가 옴..."
+msgstr "메시지가 옴…"
 
-#, fuzzy
 msgid "TXT_COMM1"
-msgstr "블랙버드로부터 메시지가 옴..."
+msgstr "블랙버드로부터 메시지가 옴…"
 
 msgid "TXT_FINDHELP"
 msgstr "도움말"
@@ -2592,13 +2586,11 @@ msgstr "도움말"
 msgid "TXT_TRADE"
 msgstr "(가격: %u)"
 
-#, fuzzy
 msgid "GOTCHEXARMOR"
-msgstr "첵스(R) 갑옷 획득."
+msgstr "첵스® 갑옷 획득."
 
-#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
-msgstr "슈퍼 첵스(R) 갑옷 획득!"
+msgstr "슈퍼 첵스® 갑옷 획득!"
 
 msgid "GOTWATER"
 msgstr "물 한 컵 섭취."
@@ -2628,10 +2620,10 @@ msgid "GOTVEGETABLES"
 msgstr "채소 한 그릇 섭취."
 
 msgid "GOTSLIMESUIT"
-msgstr "오물 보호복 사용."
+msgstr "오물 보호복 사용"
 
 msgid "GOTCHEXMAP"
-msgstr "컴퓨터 지도 사용."
+msgstr "컴퓨터 지도 사용"
 
 msgid "GOTZORCHRECHARGE"
 msgstr "소형 저치 전지 획득."
@@ -2646,7 +2638,7 @@ msgid "GOTPROPULSORPACK"
 msgstr "저치 추진 팩 획득."
 
 msgid "GOTPHASINGZORCHERRECHARGE"
-msgstr "저치 전자 충전기 획득."
+msgstr "저치 전자 충전기 획득"
 
 msgid "GOTPHASINGZORCHERPACK"
 msgstr "특대 저치 충전기 획득."
@@ -2772,7 +2764,6 @@ msgstr "E1M4: 수목원"
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: 바조이크의 대동굴"
 
-#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "퀘스트 완료.\n"
@@ -2784,7 +2775,7 @@ msgstr ""
 "\n"
 "\n"
 "\n"
-"ESCAPE키를 누르시오..."
+"Escape키를 누르시오…"
 
 msgid "CE2TEXT"
 msgstr "해내셨습니다!"
@@ -2828,20 +2819,21 @@ msgstr ""
 
 msgid "CNEWGAME"
 msgstr ""
-"네트워크 퀘스트 중엔 새로운 퀘스트를 시작 할 수 없습니다.\n"
+"네트워크 퀘스트 중엔 새로운\n"
+"퀘스트를 시작 할 수 없습니다.\n"
 "\n"
 "키를 누르시오."
 
 msgid "CNIGHTMARE"
 msgstr ""
-"이 퀘스트는 아주 위험하고 어렵습니다. 그래도 도전하시겠습니까?\n"
+"이 퀘스트는 아주 위험하고 어렵습니다.\n"
+"그래도 도전하시겠습니까?\n"
 "\n"
 "Y키 나 N키를 누르시오."
 
-#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
-"이 게임은 첵스(R) 퀘스트입니다.\n"
+"이 게임은 첵스® 퀘스트입니다.\n"
 "\n"
 "레벨 관련 소식은 여기서 확인해주시길 바랍니다: www.chexquest.com\n"
 "\n"
@@ -2863,7 +2855,7 @@ msgstr ""
 
 msgctxt "chex"
 msgid "STSTR_DQDON"
-msgstr "무적 모드 켬"
+msgstr "무적 모드 켜짐"
 
 msgctxt "chex"
 msgid "STSTR_DQDOFF"
@@ -2875,12 +2867,11 @@ msgstr "모든 저치 에너지 추가"
 
 msgctxt "chex"
 msgid "STSTR_KFAADDED"
-msgstr "모든 아이템 습득!"
+msgstr "모든 아이템 습득"
 
-#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
-msgstr "... 첵스(R) 를 많이 먹자!"
+msgstr "…첵스® 를 많이 먹자!"
 
 msgctxt "chex"
 msgid "AMMO_CLIP"
@@ -3039,7 +3030,7 @@ msgid "MNU_RANDOM"
 msgstr "랜덤"
 
 msgid "MNU_EPISODE"
-msgstr "에피소드 선택:"
+msgstr "에피소드 선택?"
 
 msgctxt "strife"
 msgid "MNU_EPISODE"
@@ -4555,16 +4546,16 @@ msgid "TXT_LONER"
 msgstr "%s 은(는) 혼자 남음."
 
 msgid "TXT_LEFTWITHFRAGS"
-msgstr "%s 이(가) 게임에서 %d 의 점수를 기록하고 퇴장 함."
+msgstr "%s 이(가) 게임에서 %d 의 점수를 기록하고 퇴장 함"
 
 msgid "TXT_LEFTTHEGAME"
-msgstr "%s 이(가) 게임을 떠남."
+msgstr "%s 이(가) 게임을 떠남"
 
 msgid "TXT_COULDNOTREAD"
-msgstr "저장된 게임을 불러올 수 없습니다.'%s'"
+msgstr "저장된 게임을 불러올 수 없습니다.'%s'."
 
 msgid "TXT_NOINFOJSON"
-msgstr "%s' 는 유효하지 않습니다: 파일이 없습니다.'info.json'"
+msgstr "%s' 는 유효하지 않습니다: 파일이 없습니다.'info.json'."
 
 msgid "TXT_FAILEDTOREADSG"
 msgstr "%s'의 저장된 게임 정보에 액세스 할 수 없습니다."
@@ -4575,31 +4566,29 @@ msgstr "저장된 게임'%s'은(는) 호환되지 않는 버전입니다."
 msgid "TXT_OTHERENGINESG"
 msgstr "저장된 게임 '%s'은(는) 다른 Z둠 기반 엔진입니다:"
 
-#, fuzzy
 msgid "TXT_TOOOLDSG"
 msgstr ""
 "저장된 게임'%s'은(는) 구 버전입니다: %d (%e 이 지원되는 버전 중 가장 오래된 "
-"버전)"
+"버전)."
 
 # Shouldn’t this say “%e is the newest supported”?
 # 
 # — Undead
 # 
 # Ask Randi: The text is old. I won't change it.
-#, fuzzy
 msgid "TXT_TOONEWSG"
 msgstr ""
 "저장된 게임'%s'은(는) 새 버전입니다: %d (%e 이 지원되는 버전 중 가장 최근 "
-"버전)"
+"버전)."
 
 msgid "TXT_NOMAPSG"
 msgstr "저장된 게임 '%s'에 현재 맵이 없습니다."
 
 msgid "TXT_NOGLOBALSJSON"
-msgstr "%s' 는 유효하지 않습니다: 파일이 없습니다.'globals.json'"
+msgstr "%s' 는 유효하지 않습니다: 파일이 없습니다.'globals.json'."
 
 msgid "TXT_SGINFOERR"
-msgstr "%s'의 저장된 게임 정보에 액세스 할 수 없습니다."
+msgstr "%s'의 저장된 게임 정보에 액세스 할 수 없습니다"
 
 msgid "TXT_SAVEPENDING"
 msgstr "게임 저장이 아직 보류 중입니다."
@@ -4608,10 +4597,10 @@ msgid "TXT_NOTSAVEABLE"
 msgstr "저장 가능한 게임에선 불가능 합니다."
 
 msgid "TXT_NOTINLEVEL"
-msgstr "레벨 안에선 불가능 합니다."
+msgstr "레벨 안에선 불가능 합니다"
 
 msgid "TXT_SPPLAYERDEAD"
-msgstr "플레이어가 싱글 플레이 게임에서 죽었습니다."
+msgstr "플레이어가 싱글 플레이 게임에서 죽었습니다"
 
 msgid "TXT_SAVEFAILED"
 msgstr "저장 실패"
@@ -4778,7 +4767,7 @@ msgid "ALTHUDMNU_SHOWTIMESTAT"
 msgstr "시간 표시 위젯"
 
 msgid "CMPTMNU_VILEGHOSTS"
-msgstr "분쇄된 몬스터는 유령으로 부활합니다."
+msgstr "분쇄된 몬스터는 유령으로 부활합니다"
 
 msgid "MISCMNU_FVIEWBOB"
 msgstr "비행 중 흔들림 보기"

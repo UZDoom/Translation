@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 04:38+0000\n"
+"PO-Revision-Date: 2026-02-25 22:03+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fi/>\n"
@@ -455,12 +455,11 @@ msgstr "Kaikki artefaktit!"
 msgid "TXT_WHAT_KILL"
 msgstr "Mitä haluat tappaa pelin ulkopuolella?"
 
-#, fuzzy
 msgid "TXT_NOT_FROZEN"
-msgstr "Jäätyneen pelaajan ominaisuudet kytketty pois päältä"
+msgstr "Jäätyneen pelaajan ominaisuudet kytketty POIS"
 
 msgid "AMSTR_FOLLOWOFF"
-msgstr "Seuraamistila POIS PÄÄLTÄ"
+msgstr "Seuraamistila POIS"
 
 msgid "AMSTR_FOLLOWON"
 msgstr "Seuraamistila PÄÄLLÄ"
@@ -469,13 +468,13 @@ msgid "AMSTR_GRIDON"
 msgstr "Ruudukko PÄÄLLÄ"
 
 msgid "AMSTR_GRIDOFF"
-msgstr "Ruudukko POIS PÄÄLTÄ"
+msgstr "Ruudukko POIS"
 
 msgid "AMSTR_TEXON"
 msgstr "Pintakuviointitila PÄÄLLÄ"
 
 msgid "AMSTR_TEXOFF"
-msgstr "Pintakuviointitila POIS PÄÄLTÄ"
+msgstr "Pintakuviointitila POIS"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Merkitty paikka"
@@ -1041,7 +1040,7 @@ msgid "OB_KNIGHT"
 msgstr "%o joutui hornanritarin repimäksi."
 
 msgid "OB_SPIDER"
-msgstr "%o kunnioitti syvästi hämähäkkidemonia"
+msgstr "%o kunnioitti syvästi hämähäkkidemonia."
 
 msgid "OB_BABY"
 msgstr "%o antoi anaktrotronin saada hänet."
@@ -2078,17 +2077,14 @@ msgstr "Poimit sähkönuolia."
 msgid "TXT_AMMOSATCHEL"
 msgstr "Poimit ammuslaukun."
 
-#, fuzzy
 msgid "MSG_TALISMANRED"
-msgstr "Sinusta tuntuu, ettei siihen olisi pitänyt koskea."
+msgstr "Sinusta tuntuu, ettei siihen olisi pitänyt koskea…"
 
-#, fuzzy
 msgid "MSG_TALISMANGREEN"
-msgstr "Mikä ikinä se onkaan, se ei kuulu tähän maailmaan..."
+msgstr "Mikä ikinä se onkaan, se ei kuulu tähän maailmaan…"
 
-#, fuzzy
 msgid "MSG_TALISMANBLUE"
-msgstr "Sen on pakko tehdä jotakin..."
+msgstr "Sen on pakko tehdä jotakin…"
 
 msgid "MSG_TALISMANPOWER"
 msgstr "Sinulla on supervoimat!"
@@ -2142,7 +2138,7 @@ msgid "TXT_NEED_CHALICE"
 msgstr "Tarvitset maljan!"
 
 msgid "TXT_NEED_OPASS"
-msgstr "Tarvitset Oraakkelin passin"
+msgstr "Tarvitset Oraakkelin passin!"
 
 msgid "TAG_PUNCHDAGGER"
 msgstr "Tikari"
@@ -2582,13 +2578,11 @@ msgstr "Sinulla näyttää olevan tarpeeksi!"
 msgid "TXT_GOAWAY"
 msgstr "Häivy!"
 
-#, fuzzy
 msgid "TXT_COMM0"
-msgstr "Vastaantuleva viesti..."
+msgstr "Vastaantuleva viesti…"
 
-#, fuzzy
 msgid "TXT_COMM1"
-msgstr "Vastaantuleva viesti Blackbirdiltä..."
+msgstr "Vastaantuleva viesti Blackbirdiltä…"
 
 msgid "TXT_FINDHELP"
 msgstr "Etsi apua"
@@ -2597,13 +2591,11 @@ msgstr "Etsi apua"
 msgid "TXT_TRADE"
 msgstr "hintaan %u"
 
-#, fuzzy
 msgid "GOTCHEXARMOR"
-msgstr "Poimit Chex(R)-panssarin."
+msgstr "Poimit Chex®-panssarin."
 
-#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
-msgstr "Poimit Super-Chex(R)-panssarin!"
+msgstr "Poimit Super-Chex®-panssarin!"
 
 msgid "GOTWATER"
 msgstr "Poimit vesilasin."
@@ -2651,13 +2643,13 @@ msgid "GOTPROPULSORPACK"
 msgstr "Poimit zorchtyöntimen paketin."
 
 msgid "GOTPHASINGZORCHERRECHARGE"
-msgstr "Poimit vaiheiszorcherin latauksen."
+msgstr "Poimit vaiheiszorcherin latauksen"
 
 msgid "GOTPHASINGZORCHERPACK"
 msgstr "Poimit vaiheiszorcherin paketin."
 
 msgid "GOTLARGEZORCHERRECHARGE"
-msgstr "Poimit ison zorcherin latauksen"
+msgstr "Poimit ison zorcherin latauksen."
 
 msgid "GOTLARGEZORCHERPACK"
 msgstr "Poimit ison zorcherin paketin."
@@ -2777,7 +2769,6 @@ msgstr ""
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: Bazoikin luolastot"
 
-#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Tehtävä suoritettu.\n"
@@ -2789,7 +2780,7 @@ msgstr ""
 "\n"
 "\n"
 "\n"
-"Paina esc-näppäintä jatkaaksesi..."
+"Paina esc-näppäintä jatkaaksesi…"
 
 msgid "CE2TEXT"
 msgstr "Teit sen!"
@@ -2809,7 +2800,9 @@ msgstr ""
 msgctxt "chex"
 msgid "QSPROMPT"
 msgstr ""
-"Haluatko tallentaa pelin %s päälle?\n"
+"Haluatko tallentaa pelin \n"
+"\n"
+"'%s' päälle?\n"
 "\n"
 "Paina Y tai N."
 
@@ -2823,13 +2816,16 @@ msgstr ""
 msgctxt "chex"
 msgid "QLPROMPT"
 msgstr ""
-"Haluatko pikaladata pelin %s?\n"
+"Haluatko pikaladata pelin\n"
+"\n"
+"'%s'?\n"
 "\n"
 "Paina Y tai N."
 
 msgid "CNEWGAME"
 msgstr ""
-"Et voi aloittaa uutta peliä verkkopelin aikana.\n"
+"Et voi aloittaa uutta peliä\n"
+"verkkopelin aikana.\n"
 "\n"
 "Paina jotain näppäintä."
 
@@ -2840,10 +2836,9 @@ msgstr ""
 "\n"
 "Paina Y tai N."
 
-#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
-"Tämä on Chex(R)-seikkailu. Hae\n"
+"Tämä on Chex®-seikkailu. Hae\n"
 "\n"
 "lisätasoja osoitteesta www.chexquest.com.\n"
 "\n"
@@ -2869,7 +2864,7 @@ msgstr "Kuolemattomuustila PÄÄLLÄ"
 
 msgctxt "chex"
 msgid "STSTR_DQDOFF"
-msgstr "Kuolemattomuustila POIS PÄÄLLÄ"
+msgstr "Kuolemattomuustila POIS"
 
 msgctxt "chex"
 msgid "STSTR_FAADDED"
@@ -2879,10 +2874,9 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Superzorch lisätty"
 
-#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
-msgstr "... Syö Chex(R):ä!"
+msgstr "…Syö Chex®:ä!"
 
 msgctxt "chex"
 msgid "AMMO_CLIP"
@@ -4576,22 +4570,20 @@ msgid "TXT_INCOMPATIBLESG"
 msgstr "Pelitallenne '%s' on yhteensopimattomasta versiosta."
 
 msgid "TXT_OTHERENGINESG"
-msgstr "Pelitallenne '%s' on toisesta ZDoom-pohjaisesta moottorista."
+msgstr "Pelitallenne '%s' on toisesta ZDoom-pohjaisesta moottorista:"
 
-#, fuzzy
 msgid "TXT_TOOOLDSG"
 msgstr ""
-"Pelitallenne '%s' on vanhemmasta versiosta: %d (%e on vanhin tuettu versio)"
+"Pelitallenne '%s' on vanhemmasta versiosta: %d (%e on vanhin tuettu versio)."
 
 # Shouldn’t this say “%e is the newest supported”?
 # 
 # — Undead
 # 
 # Ask Randi: The text is old. I won't change it.
-#, fuzzy
 msgid "TXT_TOONEWSG"
 msgstr ""
-"Pelitallenne '%s' on uudemmasta versiosta: %d (%e on korkein tuettu versio)"
+"Pelitallenne '%s' on uudemmasta versiosta: %d (%e on korkein tuettu versio)."
 
 msgid "TXT_NOMAPSG"
 msgstr "Pelitallenteesta '%s' puuttuu nykyinen taso."
@@ -4600,7 +4592,7 @@ msgid "TXT_NOGLOBALSJSON"
 msgstr "%s' ei ole kelvollinen pelitallenne. Puuttuva 'globals.json'."
 
 msgid "TXT_SGINFOERR"
-msgstr "Tiedoston '%s' pelitallennetietoihin ei päästy käsiksi."
+msgstr "Tiedoston '%s' pelitallennetietoihin ei päästy käsiksi"
 
 msgid "TXT_SAVEPENDING"
 msgstr "Pelin tallennus on vielä kesken."
@@ -4779,7 +4771,7 @@ msgid "ALTHUDMNU_SHOWTIMESTAT"
 msgstr "Näytä aikatyökalu"
 
 msgid "CMPTMNU_VILEGHOSTS"
-msgstr "Murskatut hirviöt heräävät henkiin aaveina..."
+msgstr "Murskatut hirviöt heräävät henkiin aaveina"
 
 msgid "MISCMNU_FVIEWBOB"
 msgstr ""

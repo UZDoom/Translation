@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 04:38+0000\n"
+"PO-Revision-Date: 2026-02-25 21:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/tr/>\n"
@@ -190,7 +190,7 @@ msgstr "İyi! Sadece öldür ve kaç!"
 
 msgid "QUITMSG21"
 msgstr ""
-"Bırakabilirsin...\n"
+"Bırakabilirsin…\n"
 "ama saklanamazsın…"
 
 msgid "QUITMSG22"
@@ -451,9 +451,8 @@ msgstr "Tüm eserler!"
 msgid "TXT_WHAT_KILL"
 msgstr "Oyun dışında ne öldürmek istiyorsun?"
 
-#, fuzzy
 msgid "TXT_NOT_FROZEN"
-msgstr "Dondurulmuş oyuncu özellikleri kapatıldı"
+msgstr "Dondurulmuş oyuncu özellikleri KAPALI"
 
 msgid "AMSTR_FOLLOWOFF"
 msgstr "Takip Modu KAPALI"
@@ -1053,31 +1052,31 @@ msgid "OB_MPFIST"
 msgstr "%o, %k tarafından öldürüldü."
 
 msgid "OB_MPCHAINSAW"
-msgstr "%o, %k tarafından biçildi"
+msgstr "%o, %k tarafından biçildi."
 
 msgid "OB_MPPISTOL"
-msgstr "%o, %k tarafından gıdıklandı"
+msgstr "%o, %k tarafından gıdıklandı."
 
 msgid "OB_MPSHOTGUN"
-msgstr "%o, %k tarafından patlatıldı"
+msgstr "%o, %k tarafından patlatıldı."
 
 msgid "OB_MPSSHOTGUN"
 msgstr "%o, %k tarafından sıçratıldı."
 
 msgid "OB_MPCHAINGUN"
-msgstr "%o, %k tarafından biçildi"
+msgstr "%o, %k tarafından biçildi."
 
 msgid "OB_MPROCKET"
-msgstr "%o, %k tarafından sıçratıldı"
+msgstr "%o, %k tarafından sıçratıldı."
 
 msgid "OB_MPR_SPLASH"
-msgstr "%o, %k tarafından sıçratıldı"
+msgstr "%o, %k tarafından sıçratıldı."
 
 msgid "OB_MPPLASMARIFLE"
-msgstr "%o, %k tarafından eritildi"
+msgstr "%o, %k tarafından eritildi."
 
 msgid "OB_MPBFG_BOOM"
-msgstr "%o, %k tarafından parçalandı"
+msgstr "%o, %k tarafından parçalandı."
 
 msgid "OB_MPBFG_SPLASH"
 msgstr "%o, %k tarafından parçalandı."
@@ -1086,7 +1085,7 @@ msgid "OB_RAILGUN"
 msgstr "%o %k tarafından kovuldu."
 
 msgid "OB_MPBFG_MBF"
-msgstr "%o %k tarafından yakıldı"
+msgstr "%o %k tarafından yakıldı."
 
 msgid "TXT_GOTBLUEKEY"
 msgstr "Mavi Anahtar"
@@ -1560,7 +1559,7 @@ msgid "TXT_NEED_KEY_FIRE"
 msgstr "Ateş Anahtarına ihtiyacın var"
 
 msgid "TXT_NEED_KEY_EMERALD"
-msgstr "Zümrüt Anahtarı'na ihtiyacın var."
+msgstr "Zümrüt Anahtarı'na ihtiyacın var"
 
 msgid "TXT_NEED_KEY_DUNGEON"
 msgstr "Zindan Anahtarına ihtiyacın var"
@@ -1569,13 +1568,13 @@ msgid "TXT_NEED_KEY_SILVER"
 msgstr "Gümüş Anahtara ihtiyacın var"
 
 msgid "TXT_NEED_KEY_RUSTED"
-msgstr "Paslı Anahtar'a ihtiyacın var."
+msgstr "Paslı Anahtar'a ihtiyacın var"
 
 msgid "TXT_NEED_KEY_HORN"
 msgstr "Korna Anahtarına ihtiyacınız var"
 
 msgid "TXT_NEED_KEY_SWAMP"
-msgstr "Bataklık Anahtarına ihtiyacın var."
+msgstr "Bataklık Anahtarına ihtiyacın var"
 
 msgid "TXT_NEED_KEY_CASTLE"
 msgstr "Kale Anahtarına ihtiyacın var"
@@ -2072,23 +2071,20 @@ msgstr "Elektrikli cıvataları aldın."
 msgid "TXT_AMMOSATCHEL"
 msgstr "Cephane çantasını aldın."
 
-#, fuzzy
 msgid "MSG_TALISMANRED"
-msgstr "İçinizde dokunulmaması gerektiğine dair bir his var."
+msgstr "İçinizde dokunulmaması gerektiğine dair bir his var…"
 
-#, fuzzy
 msgid "MSG_TALISMANGREEN"
-msgstr "O her neyse, bu dünyaya ait değil."
+msgstr "O her neyse, bu dünyaya ait değil…"
 
-#, fuzzy
 msgid "MSG_TALISMANBLUE"
-msgstr "Bir şey yapmalı."
+msgstr "Bir şey yapmalı…"
 
 msgid "MSG_TALISMANPOWER"
 msgstr "Süper gücün var!"
 
 msgid "TXT_NEEDKEY"
-msgstr "Anahtar sende değil."
+msgstr "Anahtar sende değil"
 
 msgid "TXT_NEED_PASSCARD"
 msgstr "Bir erişim kartına ihtiyacınız var"
@@ -2100,7 +2096,7 @@ msgid "TXT_NEED_IDCARD"
 msgstr "Bir kimlik kartına ihtiyacınız var"
 
 msgid "TXT_NEED_PRISONKEY"
-msgstr "Hapishanenin anahtarı sende değil."
+msgstr "Hapishanenin anahtarı sende değil"
 
 msgid "TXT_NEED_HANDPRINT"
 msgstr "El izi dosyada yok"
@@ -2121,16 +2117,16 @@ msgid "TXT_NEED_BRASSKEY"
 msgstr "Pirinç Anahtara ihtiyacın var"
 
 msgid "TXT_NEED_REDCRYSTAL"
-msgstr "Kırmızı Kristal'e ihtiyacın var."
+msgstr "Kırmızı Kristal'e ihtiyacın var"
 
 msgid "TXT_NEED_BLUECRYSTAL"
-msgstr "Mavi Kristal'e ihtiyacın var."
+msgstr "Mavi Kristal'e ihtiyacın var"
 
 msgid "TXT_RETAIL_ONLY"
 msgstr "Bu alan yalnızca Strife'ın perakende sürümünde mevcuttur"
 
 msgid "TXT_DOES_NOT_WORK"
-msgstr "Bu işe yaramıyor gibi görünüyor."
+msgstr "Bu işe yaramıyor gibi görünüyor"
 
 msgid "TXT_NEED_CHALICE"
 msgstr "Kadehe ihtiyacın var!"
@@ -2544,13 +2540,13 @@ msgid "TXT_COMPLETED_TRAINING"
 msgstr "Tebrikler! Eğitim alanını tamamladınız"
 
 msgid "TXT_QUEST_14"
-msgstr "Kristali havaya uçurdun."
+msgstr "Kristali havaya uçurdun"
 
 msgid "TXT_QUEST_16"
-msgstr "Kapıları havaya uçurdun."
+msgstr "Kapıları havaya uçurdun"
 
 msgid "TXT_QUEST_27"
-msgstr "Bilgisayarı havaya uçurdun."
+msgstr "Bilgisayarı havaya uçurdun"
 
 msgid "TXT_KILLED_BISHOP"
 msgstr "Piskoposu öldürdün!"
@@ -2576,13 +2572,11 @@ msgstr "Yeterince var gibi görünüyor!"
 msgid "TXT_GOAWAY"
 msgstr "Git başımdan!"
 
-#, fuzzy
 msgid "TXT_COMM0"
-msgstr "Gelen Mesaj..."
+msgstr "Gelen Mesaj…"
 
-#, fuzzy
 msgid "TXT_COMM1"
-msgstr "Gelen Mesaj..."
+msgstr "Gelen Mesaj…"
 
 msgid "TXT_FINDHELP"
 msgstr "Yardım bul"
@@ -2591,13 +2585,11 @@ msgstr "Yardım bul"
 msgid "TXT_TRADE"
 msgstr "için %u"
 
-#, fuzzy
 msgid "GOTCHEXARMOR"
-msgstr "Chex(R) Zırhı'nı aldım."
+msgstr "Chex® Zırhı'nı aldım."
 
-#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
-msgstr "Süper Chex(R) Zırhı'nı aldı!"
+msgstr "Süper Chex® Zırhı'nı aldı!"
 
 msgid "GOTWATER"
 msgstr "Bir bardak su aldım."
@@ -2771,7 +2763,6 @@ msgstr ""
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: Bazoik Mağaraları"
 
-#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Görev tamamlandı.\n"
@@ -2783,7 +2774,7 @@ msgstr ""
 "\n"
 "\n"
 "\n"
-"Devam etmek için kaçış tuşuna basın..."
+"Devam etmek için kaçış tuşuna basın…"
 
 msgid "CE2TEXT"
 msgstr "Başardınız!"
@@ -2813,6 +2804,7 @@ msgctxt "chex"
 msgid "QLOADNET"
 msgstr ""
 "Bir ağ oyunu sırasında hızlı yükleme yapamazsınız!\n"
+"\n"
 "Bir tuşa basın."
 
 msgctxt "chex"
@@ -2838,10 +2830,9 @@ msgstr ""
 "\n"
 "Y veya N tuşuna basın."
 
-#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
-"Bu Chex(R) Görevi.\n"
+"Bu Chex® Görevi.\n"
 "\n"
 "www.chexquest.com adresinde gelecekteki seviyeler.\n"
 "\n"
@@ -2877,10 +2868,9 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Süper Zorch Eklendi"
 
-#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
-msgstr "... Chex(R) yiyin!"
+msgstr "…Chex® yiyin!"
 
 msgctxt "chex"
 msgid "AMMO_CLIP"
@@ -2933,7 +2923,7 @@ msgid "SKILL_NIGHTMARE"
 msgstr "Kabus!"
 
 msgid "CSKILL_BABY"
-msgstr "Sakin ol."
+msgstr "Sakin ol"
 
 msgid "CSKILL_EASY"
 msgstr "Çok yapışkan değil"
@@ -2963,7 +2953,7 @@ msgid "SSKILL_NIGHTMARE"
 msgstr "Kan banyosu"
 
 msgid "MNU_WETNURSE"
-msgstr "Islak bir hemşireye ihtiyacın var."
+msgstr "Islak bir hemşireye ihtiyacın var"
 
 msgid "MNU_YELLOWBELLIES"
 msgstr "Birleşik Korkak Kediler"
@@ -3328,7 +3318,7 @@ msgid "CMPTMNU_RAVENSCROLL"
 msgstr "Kuzgun kaydırıcılar orijinal hızı kullanır"
 
 msgid "CMPTMNU_TRACE"
-msgstr "Kendi kendine hakemlik yapan sektörler atışları engellemez."
+msgstr "Kendi kendine hakemlik yapan sektörler atışları engellemez"
 
 msgid "CMPTMNU_HITSCAN"
 msgstr "Hitscan kontrolleri için Doom kodunu kullanın"
@@ -4575,21 +4565,19 @@ msgstr "%s' kayıt oyunu uyumsuz bir sürüme ait."
 msgid "TXT_OTHERENGINESG"
 msgstr "%s' kayıt oyunu başka bir ZDoom tabanlı motordan:"
 
-#, fuzzy
 msgid "TXT_TOOOLDSG"
 msgstr ""
-"%s' kayıt oyunu daha eski bir sürümden: %d (%e desteklenen en eski sürümdür)"
+"%s' kayıt oyunu daha eski bir sürümden: %d (%e desteklenen en eski sürümdür)."
 
 # Shouldn’t this say “%e is the newest supported”?
 # 
 # — Undead
 # 
 # Ask Randi: The text is old. I won't change it.
-#, fuzzy
 msgid "TXT_TOONEWSG"
 msgstr ""
 "%s' kayıt oyunu daha yeni bir sürümden: %d (%e desteklenen en yüksek "
-"sürümdür)"
+"sürümdür)."
 
 msgid "TXT_NOMAPSG"
 msgstr "%s' kayıt oyununda geçerli harita eksik."

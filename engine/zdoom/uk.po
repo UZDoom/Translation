@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 04:38+0000\n"
+"PO-Revision-Date: 2026-02-25 22:03+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/uk/>\n"
@@ -126,7 +126,7 @@ msgstr ""
 "я намилю тобі шию."
 
 msgid "QUITMSG7"
-msgstr "Давай, йди... ніби мені не все одно."
+msgstr "Давай, йди… ніби мені не все одно."
 
 # More info here.
 msgid "QUITMSG8"
@@ -454,27 +454,26 @@ msgstr "Усі артефакти!"
 msgid "TXT_WHAT_KILL"
 msgstr "Що, хочеш вбивати в реальності?"
 
-#, fuzzy
 msgid "TXT_NOT_FROZEN"
-msgstr "Властивості замороженого гравця вимкнено"
+msgstr "Властивості замороженого гравця ВИМК"
 
 msgid "AMSTR_FOLLOWOFF"
-msgstr "Прив'язка до гравца ВВІМК."
+msgstr "Прив'язка до гравца ВИМК"
 
 msgid "AMSTR_FOLLOWON"
-msgstr "Прив'язка до гравца ВИМК."
+msgstr "Прив'язка до гравца УВІМК"
 
 msgid "AMSTR_GRIDON"
-msgstr "Сітка ВВІМК."
+msgstr "Сітка ВВІМК"
 
 msgid "AMSTR_GRIDOFF"
-msgstr "Сітка ВИМК."
+msgstr "Сітка ВИМК"
 
 msgid "AMSTR_TEXON"
-msgstr "Текстурний режим ВВІМК."
+msgstr "Текстурний режим ВВІМК"
 
 msgid "AMSTR_TEXOFF"
-msgstr "Текстурний режим ВИМК."
+msgstr "Текстурний режим ВИМК"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Позначка"
@@ -1227,7 +1226,7 @@ msgid "FN_DSPARIL"
 msgstr "Д'Спаріл"
 
 msgid "FN_HERETICIMP"
-msgstr "Ґарґуйль."
+msgstr "Ґарґуйль"
 
 msgid "FN_IRONLICH"
 msgstr "Залізний Ліч"
@@ -1830,7 +1829,7 @@ msgid "OB_MPFWEAPHAMMERR"
 msgstr "Душа %o була наново перекована молотом %k."
 
 msgid "OB_MPFWEAPQUIETUS"
-msgstr "%k упокої@[adj_1_ua] %o. З миром?"
+msgstr "%k упокої@[adj_1_ua] %o. З миром."
 
 msgid "OB_MPCWEAPMACE"
 msgstr "%o отрима@[adj_1_ua] по пиці булавою %k."
@@ -1993,7 +1992,7 @@ msgid "TXT_IDCARD"
 msgstr "Взято ідентифікаційну карту."
 
 msgid "TXT_SILVERKEY"
-msgstr "Взято срібний ключ"
+msgstr "Взято срібний ключ."
 
 msgid "TXT_ORACLEKEY"
 msgstr "Взято ключ Оракула."
@@ -2076,17 +2075,14 @@ msgstr "Взято електричні болти."
 msgid "TXT_AMMOSATCHEL"
 msgstr "Взято сумку для набоїв."
 
-#, fuzzy
 msgid "MSG_TALISMANRED"
-msgstr "Ви відчуваєте, що не слід це чіпати..."
+msgstr "Ви відчуваєте, що не слід це чіпати…"
 
-#, fuzzy
 msgid "MSG_TALISMANGREEN"
-msgstr "Що б це не було, воно не належить цьому світу..."
+msgstr "Що б це не було, воно не належить цьому світу…"
 
-#, fuzzy
 msgid "MSG_TALISMANBLUE"
-msgstr "Воно повинно мати якесь призначення..."
+msgstr "Воно повинно мати якесь призначення…"
 
 msgid "MSG_TALISMANPOWER"
 msgstr "Ви отримали суперсилу!"
@@ -2101,10 +2097,10 @@ msgid "TXT_NEED_PASSCARD_DOOR"
 msgstr "Вам потрібна карта доступу, щоб відкрити ці двері"
 
 msgid "TXT_NEED_IDCARD"
-msgstr "Вам потрібна ідентифікаційна карта."
+msgstr "Вам потрібна ідентифікаційна карта"
 
 msgid "TXT_NEED_PRISONKEY"
-msgstr "У вас немає ключа від в'язниці."
+msgstr "У вас немає ключа від в'язниці"
 
 msgid "TXT_NEED_HANDPRINT"
 msgstr "Відбиток руки не упізнано"
@@ -2267,7 +2263,7 @@ msgid "TAG_HEGRENADES"
 msgstr "В'язка гранат"
 
 msgid "TAG_PHGRENADES"
-msgstr "В'язка фосфорних гранат."
+msgstr "В'язка фосфорних гранат"
 
 msgid "TAG_CLIPOFBULLETS"
 msgstr "Набійниця"
@@ -2580,13 +2576,11 @@ msgstr "Здається, тобі досить!"
 msgid "TXT_GOAWAY"
 msgstr "Йди геть!"
 
-#, fuzzy
 msgid "TXT_COMM0"
-msgstr "Вхідне повідомлення..."
+msgstr "Вхідне повідомлення…"
 
-#, fuzzy
 msgid "TXT_COMM1"
-msgstr "Вхідне повідомлення від Чорного Дрозда..."
+msgstr "Вхідне повідомлення від Чорного Дрозда…"
 
 msgid "TXT_FINDHELP"
 msgstr "Знайди допомогу"
@@ -2595,13 +2589,11 @@ msgstr "Знайди допомогу"
 msgid "TXT_TRADE"
 msgstr "за %u"
 
-#, fuzzy
 msgid "GOTCHEXARMOR"
-msgstr "Взято Chex(R) броню."
+msgstr "Взято Chex® броню."
 
-#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
-msgstr "Взято Chex(R) супер броню!"
+msgstr "Взято Chex® супер броню!"
 
 msgid "GOTWATER"
 msgstr "Взято стакан води."
@@ -2649,7 +2641,7 @@ msgid "GOTPROPULSORPACK"
 msgstr "Взято батарею Зорч-прискорювача."
 
 msgid "GOTPHASINGZORCHERRECHARGE"
-msgstr "Взято заряд фазового Зорчера."
+msgstr "Взято заряд фазового Зорчера"
 
 msgid "GOTPHASINGZORCHERPACK"
 msgstr "Взято батарею фазового Зорчера."
@@ -2775,7 +2767,6 @@ msgstr "E1M4: Дендропарк"
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: Печери Базойка"
 
-#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Місія виконана.\n"
@@ -2787,7 +2778,7 @@ msgstr ""
 "\n"
 "\n"
 "\n"
-"Натисни клавішу escape, щоб продовжити..."
+"Натисни клавішу escape, щоб продовжити…"
 
 msgid "CE2TEXT"
 msgstr "У тебе вийшло!"
@@ -2831,7 +2822,8 @@ msgstr ""
 
 msgid "CNEWGAME"
 msgstr ""
-"Ти не можеш почати новий квест під час мережевого квесту!\n"
+"Ти не можеш почати новий квест\n"
+"під час мережевого квесту!\n"
 "\n"
 "Натисни будь яку клавішу."
 
@@ -2842,10 +2834,11 @@ msgstr ""
 "\n"
 "Натисни Y або N."
 
-#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
-"Ти граєш в Chex(R) Quest. Інші рівні тут - www.chexquest.com.\n"
+"Ти граєш в Chex® Quest.\n"
+"\n"
+"Інші рівні тут - www.chexquest.com.\n"
 "\n"
 "Натисни Y або N."
 
@@ -2865,11 +2858,11 @@ msgstr ""
 
 msgctxt "chex"
 msgid "STSTR_DQDON"
-msgstr "Невразливість увімкнено"
+msgstr "Невразливість УВІМК"
 
 msgctxt "chex"
 msgid "STSTR_DQDOFF"
-msgstr "Невразливість вимкнено"
+msgstr "Невразливість ВИМК"
 
 msgctxt "chex"
 msgid "STSTR_FAADDED"
@@ -2879,10 +2872,9 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Додано Супер Зорч"
 
-#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
-msgstr "... Їж Chex(R)!"
+msgstr "…Їж Chex®!"
 
 msgctxt "chex"
 msgid "AMMO_CLIP"
@@ -3320,7 +3312,7 @@ msgid "CMPTMNU_BOOMSCROLL"
 msgstr "BOOM-скролери є адитивними"
 
 msgid "CMPTMNU_BADANGLES"
-msgstr "Заборона руху прямо на Пн., Пд., Сх., Зх."
+msgstr "Заборона руху прямо на Пн., Пд., Сх., Зх"
 
 msgid "CMPTMNU_WALLRUN"
 msgstr "Увімкнути Wallrun (швидкий біг біля стін)"
@@ -4576,18 +4568,16 @@ msgstr "Збереження \"%s\" з несумісної версії пор�
 msgid "TXT_OTHERENGINESG"
 msgstr "Збереження \"%s\" з іншого двигуна на базі ZDoom:"
 
-#, fuzzy
 msgid "TXT_TOOOLDSG"
-msgstr "Збереження \"%s\" з старішої версії: %d (%e остання сумісна)"
+msgstr "Збереження \"%s\" з старішої версії: %d (%e остання сумісна)."
 
 # Shouldn’t this say “%e is the newest supported”?
 # 
 # — Undead
 # 
 # Ask Randi: The text is old. I won't change it.
-#, fuzzy
 msgid "TXT_TOONEWSG"
-msgstr "Збереження \"%s\" з новіщої версії: %d (%e остання сумісна)"
+msgstr "Збереження \"%s\" з новіщої версії: %d (%e остання сумісна)."
 
 msgid "TXT_NOMAPSG"
 msgstr "В збереженні \"%s\" відстутня дана карта."
@@ -4596,7 +4586,7 @@ msgid "TXT_NOGLOBALSJSON"
 msgstr "\"%s\" є недійсним збереженням: Відсутній \"globals.json\"."
 
 msgid "TXT_SGINFOERR"
-msgstr "Неможливо отримати доступ до збереження в \"%s\"."
+msgstr "Неможливо отримати доступ до збереження в \"%s\""
 
 msgid "TXT_SAVEPENDING"
 msgstr "Збереження гри все ще очікується."

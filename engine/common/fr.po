@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 19:45+0000\n"
+"PO-Revision-Date: 2026-02-25 22:23+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/uzdoom/common/fr/>"
 "\n"
@@ -50,7 +50,7 @@ msgstr ""
 
 # This is a gender sensitive message where %s represents the player
 msgid "TXT_X_CHEATS"
-msgstr "%s triche."
+msgstr "%s triche"
 
 msgid "MSGOFF"
 msgstr "Messages INACTIFS"
@@ -140,7 +140,7 @@ msgid "OPTMNU_DEFAULTS"
 msgstr "Réinitialiser les paramètres"
 
 msgid "OPTMNU_RESETTOSAVED"
-msgstr "Recharger dernière config."
+msgstr "Recharger dernière config"
 
 msgid "OPTMNU_WRITEINI"
 msgstr "Sauvegarde des Paramètres Actuels"
@@ -152,7 +152,7 @@ msgid "OPTMNU_NETWORK"
 msgstr "Options Réseau"
 
 msgid "OPTMNU_REVERB"
-msgstr "Editeur environement de révérb."
+msgstr "Editeur environement de révérb"
 
 msgid "CNTRLMNU_SWITCHTEXT1"
 msgstr "ENTREE pour changer, RET. ARRIERE pour effacer"
@@ -834,7 +834,7 @@ msgid "ADVSNDMNU_REVERB"
 msgstr "Réverbération"
 
 msgid "ADVSNDMNU_REVERB_LEVEL"
-msgstr "Niveau Réverb."
+msgstr "Niveau Réverb"
 
 msgid "ADVSNDMNU_CHORUS"
 msgstr ""
@@ -1127,13 +1127,13 @@ msgid "OPTVAL_1024K"
 msgstr ""
 
 msgid "OPTVAL_UNCHARTED2"
-msgstr ""
+msgstr "Uncharted 2"
 
 msgid "OPTVAL_HEJLDAWSON"
-msgstr ""
+msgstr "Hejl-Dawson"
 
 msgid "OPTVAL_REINHARD"
-msgstr ""
+msgstr "Reinhard"
 
 msgid "OPTVAL_PALETTE"
 msgstr ""
@@ -1387,14 +1387,14 @@ msgid "VIDMNU_PREFERBACKEND"
 msgstr "API de rendu préférée"
 
 msgid "OPTVAL_OPENGL"
-msgstr ""
+msgstr "OpenGL"
 
 msgid "OPTVAL_VULKAN"
-msgstr ""
+msgstr "Vulkan"
 
 # Rendering backend
 msgid "OPTVAL_OPENGLES"
-msgstr ""
+msgstr "OpenGL ES"
 
 msgid "MISCMNU_MERGEKEYS"
 msgstr "Combiner Alt/Ctrl/maj gauche & droite"
@@ -1509,9 +1509,8 @@ msgstr ""
 msgid "REVMNU_Create"
 msgstr "Créer"
 
-#, fuzzy
 msgid "REVMNU_Save"
-msgstr "Sauvegarder..."
+msgstr "Sauvegarder…"
 
 msgid "REVMNU_File_name"
 msgstr "Nom de fichier"
@@ -1538,7 +1537,7 @@ msgid "VK_RESTART"
 msgstr "Ces options nécessitent un redémarrage."
 
 msgid "OPTVAL_SCALENX"
-msgstr ""
+msgstr "ScaleNx"
 
 msgid "OPTVAL_NORMALNX"
 msgstr ""
@@ -1565,7 +1564,7 @@ msgid "OS_ALL"
 msgstr "Tous les mots"
 
 msgid "OS_NO_RESULTS"
-msgstr "Pas de résultat trouvé"
+msgstr "Pas de résultat trouvé."
 
 msgid "OS_LABEL"
 msgstr "Recherche :"
@@ -1613,7 +1612,7 @@ msgid "GLPREFMNU_CORONAS"
 msgstr "Corons"
 
 msgid "PICKER_SELECT"
-msgstr "Sélectionner le jeu à jouer"
+msgstr "Sélectionner le jeu à jouer."
 
 msgid "PICKER_PLAY"
 msgstr "Démarrer le jeu"

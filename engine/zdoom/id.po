@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 04:38+0000\n"
+"PO-Revision-Date: 2026-02-25 22:03+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/id/>\n"
@@ -453,24 +453,23 @@ msgstr "Semua Artefak!"
 msgid "TXT_WHAT_KILL"
 msgstr "Mau bunuh apa diluar game?"
 
-#, fuzzy
 msgid "TXT_NOT_FROZEN"
-msgstr "Properti player Frozen dimatikan"
+msgstr "Properti player Frozen MATI"
 
 msgid "AMSTR_FOLLOWOFF"
 msgstr "Mode Follow MATI"
 
 msgid "AMSTR_FOLLOWON"
-msgstr "Mode Follow NYALA"
+msgstr "Mode Follow AKTIF"
 
 msgid "AMSTR_GRIDON"
-msgstr "Grid NYALA"
+msgstr "Grid AKTIF"
 
 msgid "AMSTR_GRIDOFF"
 msgstr "Grid MATI"
 
 msgid "AMSTR_TEXON"
-msgstr "Mode Texture NYALA"
+msgstr "Mode Texture AKTIF"
 
 msgid "AMSTR_TEXOFF"
 msgstr "Mode Texture MATI"

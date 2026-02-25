@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 04:38+0000\n"
+"PO-Revision-Date: 2026-02-25 22:02+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/it/>\n"
@@ -452,27 +452,26 @@ msgstr "Tutti gli Artefatti!"
 msgid "TXT_WHAT_KILL"
 msgstr "Cosa vorresti uccidere fuori dal gioco?"
 
-#, fuzzy
 msgid "TXT_NOT_FROZEN"
-msgstr "Proprietà del giocatore ghiacciato disattivate"
+msgstr "Proprietà del giocatore ghiacciato SPENTE"
 
 msgid "AMSTR_FOLLOWOFF"
-msgstr "Mappa scorribile ATTIVATA"
+msgstr "Modalità inseguimento: SPENTA"
 
 msgid "AMSTR_FOLLOWON"
-msgstr "Mappa scorribile DISATTIVATA"
+msgstr "Modalità inseguimento: ATTIVA"
 
 msgid "AMSTR_GRIDON"
-msgstr "Griglia ATTIVATA"
+msgstr "Griglia ATTIVA"
 
 msgid "AMSTR_GRIDOFF"
-msgstr "Griglia DISATTIVATA"
+msgstr "Griglia SPENTA"
 
 msgid "AMSTR_TEXON"
-msgstr "Modalità Texture ATTIVATA"
+msgstr "Modalità Texture ATTIVA"
 
 msgid "AMSTR_TEXOFF"
-msgstr "Modalità Texture DISATTIVATA"
+msgstr "Modalità Texture SPENTA"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Posizione segnata"
@@ -1760,7 +1759,7 @@ msgid "OB_FIREDEMON"
 msgstr "%o ha assaggiato il fuoco di un Afrit."
 
 msgid "OB_DEMON1"
-msgstr "%o è stato sciolto da un Serpente del Caos"
+msgstr "%o è stato sciolto da un Serpente del Caos."
 
 msgid "OB_DEMON2"
 msgstr "%o è stato avvelenato da un Serpente del Caos."
@@ -1793,7 +1792,7 @@ msgid "OB_WRAITH"
 msgstr "%o è stato carbonizzato da un Incursore."
 
 msgid "OB_WRAITHHIT"
-msgstr "%o ha permesso che un Incursore prosciugasse la sua vita"
+msgstr "%o ha permesso che un Incursore prosciugasse la sua vita."
 
 msgid "OB_DRAGON"
 msgstr "%o è stato incenerito da una Viverna Mortale."
@@ -1976,22 +1975,22 @@ msgid "TXT_SEVEREDHAND"
 msgstr "Hai raccolto la Mano Mozzata."
 
 msgid "TXT_POWER1KEY"
-msgstr "Hai raccolto la chiave della Centrale n.1"
+msgstr "Hai raccolto la chiave della Centrale n.1."
 
 msgid "TXT_POWER2KEY"
-msgstr "Hai raccolto la chiave della Centrale n.2"
+msgstr "Hai raccolto la chiave della Centrale n.2."
 
 msgid "TXT_POWER3KEY"
-msgstr "Hai raccolto la chiave della Centrale n.3"
+msgstr "Hai raccolto la chiave della Centrale n.3."
 
 msgid "TXT_GOLDKEY"
-msgstr "Hai raccolto la chiave dorata"
+msgstr "Hai raccolto la chiave dorata."
 
 msgid "TXT_IDCARD"
 msgstr "Hai raccolto la Tessera di Identificazione."
 
 msgid "TXT_SILVERKEY"
-msgstr "Hai raccolto la chiave argentata"
+msgstr "Hai raccolto la chiave argentata."
 
 msgid "TXT_ORACLEKEY"
 msgstr "Hai raccolto la chiave dell'Oracolo."
@@ -2015,7 +2014,7 @@ msgid "TXT_BLUECRYSTAL"
 msgstr "Hai raccolto la chiave del Cristallo Blu."
 
 msgid "TXT_CHAPELKEY"
-msgstr "Hai raccolto la chiave della Cappella"
+msgstr "Hai raccolto la chiave della Cappella."
 
 msgid "TXT_CATACOMBKEY"
 msgstr "Hai raccolto la chiave delle Catacombe."
@@ -2036,13 +2035,13 @@ msgid "TXT_MINEKEY"
 msgstr "Hai raccolto la chiave della Miniera."
 
 msgid "TXT_NEWKEY5"
-msgstr "Hai raccolto la Nuova Chiave n.5"
+msgstr "Hai raccolto la Nuova Chiave n.5."
 
 msgid "TXT_ORACLEPASS"
 msgstr "Hai raccolto il Lasciapassare dell'Oracolo."
 
 msgid "TXT_HEGRENADES"
-msgstr "Hai raccolto delle granate ad Alto Potenziale"
+msgstr "Hai raccolto delle granate ad Alto Potenziale."
 
 msgid "TXT_PHGRENADES"
 msgstr "Hai raccolto delle Granate al Fosforo."
@@ -2074,17 +2073,14 @@ msgstr "Hai raccolto dei dardi elettrici."
 msgid "TXT_AMMOSATCHEL"
 msgstr "Hai raccolto una Borsa delle Munizioni."
 
-#, fuzzy
 msgid "MSG_TALISMANRED"
-msgstr "Hai la sensazione che non doveva essere toccato..."
+msgstr "Hai la sensazione che non doveva essere toccato…"
 
-#, fuzzy
 msgid "MSG_TALISMANGREEN"
-msgstr "Qualunque cosa sia, non appartiene a questo mondo..."
+msgstr "Qualunque cosa sia, non appartiene a questo mondo…"
 
-#, fuzzy
 msgid "MSG_TALISMANBLUE"
-msgstr "Deve fare qualcosa..."
+msgstr "Deve fare qualcosa…"
 
 msgid "MSG_TALISMANPOWER"
 msgstr "Hai la super forza!"
@@ -2096,10 +2092,10 @@ msgid "TXT_NEED_PASSCARD"
 msgstr "Ti serve un lasciapassare"
 
 msgid "TXT_NEED_PASSCARD_DOOR"
-msgstr "Ti serve una tessera lasciapassare per aprire questa porta."
+msgstr "Ti serve una tessera lasciapassare per aprire questa porta"
 
 msgid "TXT_NEED_IDCARD"
-msgstr "Ti serve una tessera identificativa."
+msgstr "Ti serve una tessera identificativa"
 
 msgid "TXT_NEED_PRISONKEY"
 msgstr "Ti manca la chiave per la prigione"
@@ -2129,16 +2125,16 @@ msgid "TXT_NEED_BLUECRYSTAL"
 msgstr "Ti serve il Cristallo Blu"
 
 msgid "TXT_RETAIL_ONLY"
-msgstr "Quest'area è disponibile solo nella versione completa di Strife."
+msgstr "Quest'area è disponibile solo nella versione completa di Strife"
 
 msgid "TXT_DOES_NOT_WORK"
 msgstr "Non sembra funzionare"
 
 msgid "TXT_NEED_CHALICE"
-msgstr "Hai bisogno del calice."
+msgstr "Hai bisogno del calice!"
 
 msgid "TXT_NEED_OPASS"
-msgstr "Hai bisogno del pass dell'Oracolo."
+msgstr "Hai bisogno del pass dell'Oracolo!"
 
 msgid "TAG_PUNCHDAGGER"
 msgstr "Pugnale"
@@ -2578,13 +2574,11 @@ msgstr "Sembri averne abbastanza!"
 msgid "TXT_GOAWAY"
 msgstr "Vattene via!"
 
-#, fuzzy
 msgid "TXT_COMM0"
-msgstr "Messaggio in arrivo..."
+msgstr "Messaggio in arrivo…"
 
-#, fuzzy
 msgid "TXT_COMM1"
-msgstr "Messaggio in arrivo da Blackbird..."
+msgstr "Messaggio in arrivo da Blackbird…"
 
 msgid "TXT_FINDHELP"
 msgstr "Trova aiuto"
@@ -2593,13 +2587,11 @@ msgstr "Trova aiuto"
 msgid "TXT_TRADE"
 msgstr "per %u"
 
-#, fuzzy
 msgid "GOTCHEXARMOR"
-msgstr "Raccolta un'Armatura Chex(R)."
+msgstr "Raccolta un'Armatura Chex®."
 
-#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
-msgstr "Raccolta la Super Armatura Chex(R)!"
+msgstr "Raccolta la Super Armatura Chex®!"
 
 msgid "GOTWATER"
 msgstr "Raccolto un bicchiere d'acqua."
@@ -2773,7 +2765,6 @@ msgstr "E1M4: Arboreto"
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: Caverne di Bazoik"
 
-#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Missione compiuta.\n"
@@ -2785,7 +2776,7 @@ msgstr ""
 "\n"
 "\n"
 "\n"
-"Premi il tasto 'esc' per continuare..."
+"Premi il tasto 'esc' per continuare…"
 
 msgid "CE2TEXT"
 msgstr "Ce l'hai fatta!"
@@ -2841,10 +2832,9 @@ msgstr ""
 "\n"
 "Premi Y oppure N."
 
-#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
-"Questo è Chex(R) Quest. cerca\n"
+"Questo è Chex® Quest. cerca\n"
 "\n"
 "i futuri livelli su www.chexquest.com\n"
 "\n"
@@ -2866,11 +2856,11 @@ msgstr ""
 
 msgctxt "chex"
 msgid "STSTR_DQDON"
-msgstr "Modalità invincibile attivata"
+msgstr "Modalità invincibile ATTIVA"
 
 msgctxt "chex"
 msgid "STSTR_DQDOFF"
-msgstr "Modalità invincibile disattivata"
+msgstr "Modalità invincibile SPENTA"
 
 msgctxt "chex"
 msgid "STSTR_FAADDED"
@@ -2880,10 +2870,9 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Super Zorch aggiunto"
 
-#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
-msgstr "... Mangia I Chex(R)!"
+msgstr "…Mangia I Chex®!"
 
 msgctxt "chex"
 msgid "AMMO_CLIP"
@@ -2924,7 +2913,7 @@ msgid "SKILL_BABY"
 msgstr "Troppo giovane per morire."
 
 msgid "SKILL_EASY"
-msgstr "Ehi, non troppo duro!"
+msgstr "Ehi, non troppo duro."
 
 msgid "SKILL_NORMAL"
 msgstr "Fammi molto male."
@@ -2935,8 +2924,9 @@ msgstr "Ultra-violenza."
 msgid "SKILL_NIGHTMARE"
 msgstr "Incubo!"
 
+#, fuzzy
 msgid "CSKILL_BABY"
-msgstr "Facile no?"
+msgstr "Fai con calma"
 
 msgid "CSKILL_EASY"
 msgstr "Non così appiccicoso"
@@ -4403,7 +4393,7 @@ msgid "GLPREFMNU_SPRBILLBOARD"
 msgstr ""
 
 msgid "GLPREFMNU_SPRBILLFACECAMERA"
-msgstr "Gli sprite sono rivolti alla telecamera."
+msgstr "Gli sprite sono rivolti alla telecamera"
 
 msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr "Stile particelle"
@@ -4555,7 +4545,7 @@ msgid "TXT_JOINED_TEAM"
 msgstr "%s entra nel team %t"
 
 msgid "TXT_LONER"
-msgstr "%s è da solo"
+msgstr "%s è da solo."
 
 msgid "TXT_LEFTWITHFRAGS"
 msgstr "%s ha lasciato il gioco con %d frag"
@@ -4578,22 +4568,20 @@ msgstr "Il salvataggio '%s' proviene da una versione incompatibile."
 msgid "TXT_OTHERENGINESG"
 msgstr "Il salvataggio '%s' proviene da un altro motore basato su ZDoom:"
 
-#, fuzzy
 msgid "TXT_TOOOLDSG"
 msgstr ""
 "Il salvataggio '%s' proviene da una versione precedente: %d (%e è la più "
-"vecchia supportata)"
+"vecchia supportata)."
 
 # Shouldn’t this say “%e is the newest supported”?
 # 
 # — Undead
 # 
 # Ask Randi: The text is old. I won't change it.
-#, fuzzy
 msgid "TXT_TOONEWSG"
 msgstr ""
 "Il salvataggio '%s' proviene da una versione recente: %d (%e è la più "
-"recente supportata)"
+"recente supportata)."
 
 msgid "TXT_NOMAPSG"
 msgstr "Il salvataggio '%s' non contiene la mappa corrente."

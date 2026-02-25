@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 19:45+0000\n"
+"PO-Revision-Date: 2026-02-25 22:22+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/common/ko/>"
 "\n"
@@ -515,7 +515,7 @@ msgid "JOYMNU_DEADZONE"
 msgstr "불감대"
 
 msgid "JOYMNU_NOAXES"
-msgstr "설정할 방향키가 없습니다."
+msgstr "설정할 방향키가 없습니다"
 
 msgid "OPTVAL_NONE"
 msgstr "없음"
@@ -1007,7 +1007,7 @@ msgid "OPTVAL_LLENUKEDOPL3"
 msgstr ""
 
 msgid "OPTVAL_MAMEOPN2"
-msgstr "마메 YM2612"
+msgstr "마메 OPN2 (YM2612)"
 
 msgid "OPTVAL_NP2OPNA"
 msgstr ""
@@ -1127,13 +1127,13 @@ msgid "OPTVAL_1024K"
 msgstr ""
 
 msgid "OPTVAL_UNCHARTED2"
-msgstr ""
+msgstr "Uncharted 2"
 
 msgid "OPTVAL_HEJLDAWSON"
-msgstr ""
+msgstr "Hejl-Dawson"
 
 msgid "OPTVAL_REINHARD"
-msgstr ""
+msgstr "Reinhard"
 
 msgid "OPTVAL_PALETTE"
 msgstr "팔레트"
@@ -1387,20 +1387,20 @@ msgid "VIDMNU_PREFERBACKEND"
 msgstr "기본적인 API 랜더링"
 
 msgid "OPTVAL_OPENGL"
-msgstr ""
+msgstr "OpenGL"
 
 msgid "OPTVAL_VULKAN"
-msgstr ""
+msgstr "Vulkan"
 
 # Rendering backend
 msgid "OPTVAL_OPENGLES"
-msgstr ""
+msgstr "OpenGL ES"
 
 msgid "MISCMNU_MERGEKEYS"
-msgstr "양쪽 ALT/CTRL/SHIFT키 합병"
+msgstr "양쪽 Alt/Ctrl/Shift키 합병"
 
 msgid "MISCMNU_WINFULLSCREENTOGGLE"
-msgstr "ALT+ENTER키로 전체화면 조정"
+msgstr "Alt+Enter키로 전체화면 조정"
 
 msgid "MISCMNU_MACFULLSCREENTOGGLE"
 msgstr "COMMAND+F키로 전체화면 조정"
@@ -1508,9 +1508,8 @@ msgstr "아이디 #2"
 msgid "REVMNU_Create"
 msgstr "생성"
 
-#, fuzzy
 msgid "REVMNU_Save"
-msgstr "저장 하기..."
+msgstr "저장 하기…"
 
 msgid "REVMNU_File_name"
 msgstr "파일 이름"
@@ -1537,7 +1536,7 @@ msgid "VK_RESTART"
 msgstr "이 설정을 적용하려면 게임을 재시작해야 합니다."
 
 msgid "OPTVAL_SCALENX"
-msgstr ""
+msgstr "ScaleNx"
 
 msgid "OPTVAL_NORMALNX"
 msgstr ""
@@ -1606,7 +1605,7 @@ msgid "TXT_UNKNOWN"
 msgstr "알 수 없음"
 
 msgid "TXT_SAVEGAMENEEDS"
-msgstr "이 저장 된 게임은 해당 파일이 필요합니다."
+msgstr "이 저장 된 게임은 해당 파일이 필요합니다"
 
 msgid "GLPREFMNU_CORONAS"
 msgstr "코로나"
@@ -1645,7 +1644,7 @@ msgid "PICKER_WIDESCREEN"
 msgstr "와이드스크린"
 
 msgid "PICKER_ADDPARM"
-msgstr "환영합니다: %s!"
+msgstr "환영합니다:"
 
 msgid "PICKER_WELCOME"
 msgstr "에 오신 것을 환영합니다!"

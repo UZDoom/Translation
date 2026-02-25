@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 04:38+0000\n"
+"PO-Revision-Date: 2026-02-25 22:23+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/uzdoom/common/"
 "sr/>\n"
@@ -465,7 +465,7 @@ msgid "OPTSTR_SYSTEMCURSOR"
 msgstr "Системска стрелица"
 
 msgid "OPTVAL_DEFAULT"
-msgstr "Подраз."
+msgstr "Подраз"
 
 msgid "JOYMNU_TITLE"
 msgstr "Конфигурација контролера"
@@ -1009,25 +1009,25 @@ msgid "OPTVAL_LLENUKEDOPL3"
 msgstr "OPL3-LLE (Веома тежак!)"
 
 msgid "OPTVAL_MAMEOPN2"
-msgstr "MAME YM2612"
+msgstr "MAME OPN2 (YM2612)"
 
 msgid "OPTVAL_NP2OPNA"
-msgstr "Неко Пројекат II Каи ОПНА"
+msgstr "Неко Пројекат II Каи ОПНA"
 
 msgid "OPTVAL_MAMEOPNA"
 msgstr "MAME YM2608"
 
 msgid "OPTVAL_OPALOPL3"
-msgstr "Опал OPL3"
+msgstr "Опал ОПЛ3"
 
 msgid "OPTVAL_NUKEDOPL3174"
-msgstr "Нуклерани OPL3 v1.7.4"
+msgstr "Nuked ОПЛ3 v1.7.4"
 
 msgid "OPTVAL_NUKEDOPN2YM3438"
-msgstr "Нуклеарна експлозија на OPN2 (YM3438)"
+msgstr "Nuked OPN2 (YM3438)"
 
 msgid "OPTVAL_NUKEDOPN2YM2612"
-msgstr "Нуклеарна експлозија OPN2 (YM2612)"
+msgstr "Nuked OPN2 (YM2612)"
 
 msgid "OPTVAL_OPN2YM2612LLE"
 msgstr "OPN2-LLE (YM2612) (Веома тежак!)"
@@ -1039,7 +1039,7 @@ msgid "OPTVAL_OPN2YMF276LLE"
 msgstr "OPN2-LLE (YMF276) (Веома тежак!)"
 
 msgid "OPTVAL_GENSOPN2"
-msgstr "GENS YM2612"
+msgstr "GENS OPN2 (YM2612)"
 
 msgid "OPTVAL_YMFMOPN2"
 msgstr "YMFM OPN2"
@@ -1132,7 +1132,7 @@ msgid "OPTVAL_UNCHARTED2"
 msgstr "Неистражено 2"
 
 msgid "OPTVAL_HEJLDAWSON"
-msgstr "Хејл Досон"
+msgstr "Хејл-Досон"
 
 msgid "OPTVAL_REINHARD"
 msgstr "Рајнхард"
@@ -1511,9 +1511,8 @@ msgstr "ИД бр. 2"
 msgid "REVMNU_Create"
 msgstr "Направи"
 
-#, fuzzy
 msgid "REVMNU_Save"
-msgstr "Сачувај..."
+msgstr "Сачувај…"
 
 msgid "REVMNU_File_name"
 msgstr "Назив фајла"
@@ -1534,10 +1533,10 @@ msgid "VKMNU_HDR"
 msgstr "HDR"
 
 msgid "VK_WARNING"
-msgstr "УПОЗОРЕЊЕ: Vulkan рендерер је врло експерименталан!"
+msgstr "Упозорење: Vulkan рендерер је врло експерименталан!"
 
 msgid "VK_RESTART"
-msgstr "Морате поново покренути GZDoom да би промене ступиле на снагу."
+msgstr "Ове опције ће захтевати поновно покретање да би ступиле на снагу."
 
 msgid "OPTVAL_SCALENX"
 msgstr "ScaleNx"

@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 04:38+0000\n"
+"PO-Revision-Date: 2026-02-25 22:23+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/uzdoom/common/el/>"
 "\n"
@@ -1126,13 +1126,13 @@ msgid "OPTVAL_1024K"
 msgstr ""
 
 msgid "OPTVAL_UNCHARTED2"
-msgstr ""
+msgstr "Uncharted 2"
 
 msgid "OPTVAL_HEJLDAWSON"
-msgstr ""
+msgstr "Hejl-Dawson"
 
 msgid "OPTVAL_REINHARD"
-msgstr ""
+msgstr "Reinhard"
 
 msgid "OPTVAL_PALETTE"
 msgstr "Παλέτα"
@@ -1386,14 +1386,14 @@ msgid "VIDMNU_PREFERBACKEND"
 msgstr "Προτιμούμενο Rendering API"
 
 msgid "OPTVAL_OPENGL"
-msgstr ""
+msgstr "OpenGL"
 
 msgid "OPTVAL_VULKAN"
-msgstr ""
+msgstr "Vulkan"
 
 # Rendering backend
 msgid "OPTVAL_OPENGLES"
-msgstr ""
+msgstr "OpenGL ES"
 
 msgid "MISCMNU_MERGEKEYS"
 msgstr ""
@@ -1507,9 +1507,8 @@ msgstr ""
 msgid "REVMNU_Create"
 msgstr "Δημιουργία"
 
-#, fuzzy
 msgid "REVMNU_Save"
-msgstr "Αποθήκευση"
+msgstr "Αποθήκευση…"
 
 msgid "REVMNU_File_name"
 msgstr "Όνομα αρχείου"
@@ -1533,10 +1532,10 @@ msgid "VK_WARNING"
 msgstr "Προειδοποίηση: Ο Vulkan renderer είναι υψηλά πειραματικός!"
 
 msgid "VK_RESTART"
-msgstr "Αυτές η ρυθμίσεις θα χρειαστούνε επανεκκίνηση για να ισχύσουν"
+msgstr "Αυτές η ρυθμίσεις θα χρειαστούνε επανεκκίνηση για να ισχύσουν."
 
 msgid "OPTVAL_SCALENX"
-msgstr ""
+msgstr "ScaleNx"
 
 msgid "OPTVAL_NORMALNX"
 msgstr ""
@@ -1563,7 +1562,7 @@ msgid "OS_ALL"
 msgstr "Αναζήτηση για όλες της λέξεις"
 
 msgid "OS_NO_RESULTS"
-msgstr "Δέν βρέθηκαν αποτελέσματα"
+msgstr "Δέν βρέθηκαν αποτελέσματα."
 
 msgid "OS_LABEL"
 msgstr "Αναζήτηση:"

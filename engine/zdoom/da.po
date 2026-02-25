@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 04:38+0000\n"
+"PO-Revision-Date: 2026-02-25 21:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/da/>\n"
@@ -451,15 +451,14 @@ msgstr "Alle artefakter!"
 msgid "TXT_WHAT_KILL"
 msgstr "Hvad vil du dræbe uden for et spil?"
 
-#, fuzzy
 msgid "TXT_NOT_FROZEN"
-msgstr "Frysningstilstand er slået fra."
+msgstr "Frysningstilstand er slået FRA"
 
 msgid "AMSTR_FOLLOWOFF"
-msgstr "Følg-tilstand TIL"
+msgstr "Følg-tilstand FRA"
 
 msgid "AMSTR_FOLLOWON"
-msgstr "Følg-tilstand FRA"
+msgstr "Følg-tilstand TIL"
 
 msgid "AMSTR_GRIDON"
 msgstr "Raster TIL"
@@ -2070,17 +2069,14 @@ msgstr "Du samlede de elektriske bolte op."
 msgid "TXT_AMMOSATCHEL"
 msgstr "Du samlede ammunitionstasken op."
 
-#, fuzzy
 msgid "MSG_TALISMANRED"
-msgstr "Du har en fornemmelse af, at den ikke måtte røres..."
+msgstr "Du har en fornemmelse af, at den ikke måtte røres…"
 
-#, fuzzy
 msgid "MSG_TALISMANGREEN"
-msgstr "Uanset hvad det er, hører det ikke hjemme i denne verden..."
+msgstr "Uanset hvad det er, hører det ikke hjemme i denne verden…"
 
-#, fuzzy
 msgid "MSG_TALISMANBLUE"
-msgstr "Det må gøre noget..."
+msgstr "Det må gøre noget…"
 
 msgid "MSG_TALISMANPOWER"
 msgstr "Du har superstyrke!"
@@ -2542,13 +2538,13 @@ msgid "TXT_COMPLETED_TRAINING"
 msgstr "Tillykke med det! Du har gennemført træningsområdet"
 
 msgid "TXT_QUEST_14"
-msgstr "Du ødelagde krystallen."
+msgstr "Du ødelagde krystallen"
 
 msgid "TXT_QUEST_16"
-msgstr "Du åbnede portene."
+msgstr "Du åbnede portene"
 
 msgid "TXT_QUEST_27"
-msgstr "Du har ødelagt computeren."
+msgstr "Du har ødelagt computeren"
 
 msgid "TXT_KILLED_BISHOP"
 msgstr "Du har dræbt biskoppen!"
@@ -2574,13 +2570,11 @@ msgstr "Du ser ud til at have nok!"
 msgid "TXT_GOAWAY"
 msgstr "Gå væk!"
 
-#, fuzzy
 msgid "TXT_COMM0"
-msgstr "Indkommende besked..."
+msgstr "Indkommende besked…"
 
-#, fuzzy
 msgid "TXT_COMM1"
-msgstr "Indkommende besked fra BlackBird..."
+msgstr "Indkommende besked fra BlackBird…"
 
 msgid "TXT_FINDHELP"
 msgstr "Find hjælp"
@@ -2589,13 +2583,11 @@ msgstr "Find hjælp"
 msgid "TXT_TRADE"
 msgstr "til %u"
 
-#, fuzzy
 msgid "GOTCHEXARMOR"
-msgstr "Hentede Chex(R) Rustning."
+msgstr "Hentede Chex® Rustning."
 
-#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
-msgstr "Hentede Super Chex(R) Rustning!"
+msgstr "Hentede Super Chex® Rustning!"
 
 msgid "GOTWATER"
 msgstr "Samlede et glas vand op."
@@ -2643,7 +2635,7 @@ msgid "GOTPROPULSORPACK"
 msgstr "Afhentede en zorch propulsorpakke."
 
 msgid "GOTPHASINGZORCHERRECHARGE"
-msgstr "Afhentede en zorcher-opladning til faseopladning."
+msgstr "Afhentede en zorcher-opladning til faseopladning"
 
 msgid "GOTPHASINGZORCHERPACK"
 msgstr "Afhentede en phasing zorcher-pakke."
@@ -2769,7 +2761,6 @@ msgstr ""
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: Bazoiks grotter"
 
-#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Missionen er fuldført.\n"
@@ -2781,7 +2772,7 @@ msgstr ""
 "\n"
 "\n"
 "\n"
-"Tryk på ESC-tasten for at fortsætte..."
+"Tryk på Esc-tasten for at fortsætte…"
 
 msgid "CE2TEXT"
 msgstr "Du har gjort det!"
@@ -2839,10 +2830,9 @@ msgstr ""
 "\n"
 "Tryk på Y eller N."
 
-#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
-"Dette er Chex(R) Quest.\n"
+"Dette er Chex® Quest.\n"
 "\n"
 "fremtidige kort på www.chexquest.com.\n"
 "\n"
@@ -2878,10 +2868,9 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Super Zorch Tilføjet"
 
-#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
-msgstr "... Spis Chex(R)!"
+msgstr "…Spis Chex®!"
 
 msgctxt "chex"
 msgid "AMMO_CLIP"
@@ -4573,21 +4562,19 @@ msgstr "Savegame '%s' er fra en inkompatibel version."
 msgid "TXT_OTHERENGINESG"
 msgstr "Savegame '%s' er fra en anden ZDoom-baseret engine:"
 
-#, fuzzy
 msgid "TXT_TOOOLDSG"
 msgstr ""
 "Savegame '%s' er fra en ældre version: %d (%e er den ældste understøttede "
-"version)"
+"version)."
 
 # Shouldn’t this say “%e is the newest supported”?
 # 
 # — Undead
 # 
 # Ask Randi: The text is old. I won't change it.
-#, fuzzy
 msgid "TXT_TOONEWSG"
 msgstr ""
-"Savegame '%s' er fra en nyere version: %d (%e er den højest understøttede)"
+"Savegame '%s' er fra en nyere version: %d (%e er den højest understøttede)."
 
 msgid "TXT_NOMAPSG"
 msgstr "Savegame '%s' mangler det aktuelle kort."

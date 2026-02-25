@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 04:38+0000\n"
+"PO-Revision-Date: 2026-02-25 21:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ja/>\n"
@@ -453,9 +453,8 @@ msgstr "全アーティファクト!"
 msgid "TXT_WHAT_KILL"
 msgstr "ゲーム外で何を殺す気だ?"
 
-#, fuzzy
 msgid "TXT_NOT_FROZEN"
-msgstr "凍ったプレイヤーのプロパティを無効化"
+msgstr "凍ったプレイヤーのプロパティ オフ"
 
 msgid "AMSTR_FOLLOWOFF"
 msgstr "追従モード: オフ"
@@ -2587,12 +2586,11 @@ msgstr "助けを探せ"
 msgid "TXT_TRADE"
 msgstr "%u ゴールド"
 
-#, fuzzy
 msgid "GOTCHEXARMOR"
-msgstr "チェックス(R)アーマー をてにいれた。"
+msgstr "チェックス®アーマー をてにいれた。"
 
 msgid "GOTSUPERCHEXARMOR"
-msgstr "スーパーチェックス(R)アーマー をてにいれた!"
+msgstr "スーパーチェックス®アーマー をてにいれた!"
 
 msgid "GOTWATER"
 msgstr "コップいっぱいの みずをひろった。"
@@ -2786,7 +2784,7 @@ msgid "CE3TEXT"
 msgstr "ワンダフル!"
 
 msgid "CE4TEXT"
-msgstr "すばらしい!"
+msgstr "すばらしい"
 
 msgid "CLOADNET"
 msgstr ""
@@ -2833,10 +2831,9 @@ msgstr ""
 "\n"
 "Y か N をおしてください。"
 
-#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
-"これは チェックス(R)クエスト。\n"
+"これは チェックス®クエスト。\n"
 "\n"
 "つづきは doomwiki.org/wiki/Chex_Questからさがしてね。\n"
 "\n"
@@ -2872,10 +2869,9 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "スーパーゾーチ ついか"
 
-#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
-msgstr "...Chex(R)をたべよう!"
+msgstr "…Chex®をたべよう!"
 
 msgctxt "chex"
 msgid "AMMO_CLIP"
@@ -4570,18 +4566,16 @@ msgstr "%s' は互換性の無いバージョンのセーブデータだ。"
 msgid "TXT_OTHERENGINESG"
 msgstr "%s' は別のZDoom型のセーブデータだ。"
 
-#, fuzzy
 msgid "TXT_TOOOLDSG"
-msgstr "%s' はバージョンが合わないセーブデータだ: %d(%e は旧式版の物)"
+msgstr "%s' はバージョンが合わないセーブデータだ: %d(%e は旧式版の物)。"
 
 # Shouldn’t this say “%e is the newest supported”?
 # 
 # — Undead
 # 
 # Ask Randi: The text is old. I won't change it.
-#, fuzzy
 msgid "TXT_TOONEWSG"
-msgstr "%s' はバージョンが合わないセーブデータだ: %d(%e は最新版の物)"
+msgstr "%s' はバージョンが合わないセーブデータだ: %d(%e は最新版の物)。"
 
 msgid "TXT_NOMAPSG"
 msgstr "セーブデータ '%s'に現在のマップはない。"
@@ -4596,7 +4590,7 @@ msgid "TXT_SAVEPENDING"
 msgstr "セーブ中だ。"
 
 msgid "TXT_NOTSAVEABLE"
-msgstr "セーブ可能なゲームではない"
+msgstr "セーブ可能なゲームではない。"
 
 msgid "TXT_NOTINLEVEL"
 msgstr "レベル内ではない"
@@ -5102,10 +5096,10 @@ msgid "TAG_REPELLENT"
 msgstr "スライム はんぱつざい"
 
 msgid "TAG_CHEXARMOR"
-msgstr "チェックス(R)アーマー"
+msgstr "チェックス®アーマー"
 
 msgid "TAG_SUPERCHEXARMOR"
-msgstr "スーパーチェックス(R)アーマー"
+msgstr "スーパーチェックス®アーマー"
 
 msgid "TAG_CHEXMAP"
 msgstr "コンピューターエリアマップ"

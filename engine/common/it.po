@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 19:45+0000\n"
+"PO-Revision-Date: 2026-02-25 22:22+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/uzdoom/common/"
 "it/>\n"
@@ -1008,7 +1008,7 @@ msgid "OPTVAL_LLENUKEDOPL3"
 msgstr "OPL2-LLE (Elevato carico CPU)"
 
 msgid "OPTVAL_MAMEOPN2"
-msgstr "MAME YM2612"
+msgstr "MAME OPN2 (YM2612)"
 
 msgid "OPTVAL_NP2OPNA"
 msgstr "Neko Project II Kai OPNA"
@@ -1128,13 +1128,13 @@ msgid "OPTVAL_1024K"
 msgstr ""
 
 msgid "OPTVAL_UNCHARTED2"
-msgstr ""
+msgstr "Uncharted 2"
 
 msgid "OPTVAL_HEJLDAWSON"
-msgstr ""
+msgstr "Hejl-Dawson"
 
 msgid "OPTVAL_REINHARD"
-msgstr ""
+msgstr "Reinhard"
 
 msgid "OPTVAL_PALETTE"
 msgstr "Palette"
@@ -1388,14 +1388,14 @@ msgid "VIDMNU_PREFERBACKEND"
 msgstr "API di rendering preferita"
 
 msgid "OPTVAL_OPENGL"
-msgstr ""
+msgstr "OpenGL"
 
 msgid "OPTVAL_VULKAN"
-msgstr ""
+msgstr "Vulkan"
 
 # Rendering backend
 msgid "OPTVAL_OPENGLES"
-msgstr ""
+msgstr "OpenGL ES"
 
 msgid "MISCMNU_MERGEKEYS"
 msgstr "Unisci sinistra+destra Alt/Control/Maiusc"
@@ -1510,9 +1510,8 @@ msgstr "ID N°2"
 msgid "REVMNU_Create"
 msgstr "Creare"
 
-#, fuzzy
 msgid "REVMNU_Save"
-msgstr "Salvare..."
+msgstr "Salvare…"
 
 msgid "REVMNU_File_name"
 msgstr "Nome del file"
@@ -1539,7 +1538,7 @@ msgid "VK_RESTART"
 msgstr "Queste opzioni richiedono il riavvio per avere effetto."
 
 msgid "OPTVAL_SCALENX"
-msgstr ""
+msgstr "ScaleNx"
 
 msgid "OPTVAL_NORMALNX"
 msgstr ""

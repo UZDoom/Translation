@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 04:38+0000\n"
+"PO-Revision-Date: 2026-02-25 21:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/pt/>\n"
@@ -707,7 +707,7 @@ msgid "GOTMSPHERE"
 msgstr ""
 
 msgid "GOTCLIP"
-msgstr "Apanhaste um carregador"
+msgstr "Apanhaste um carregador."
 
 msgid "GOTCLIPBOX"
 msgstr "Apanhaste uma caixa de balas."
@@ -719,7 +719,7 @@ msgid "GOTROCKBOX"
 msgstr "Apanhaste uma caixa de mísseis."
 
 msgid "GOTCELL"
-msgstr "Apanhaste uma célula de energia"
+msgstr "Apanhaste uma célula de energia."
 
 msgid "GOTCELLBOX"
 msgstr "Apanhaste um pacote de células de energia."
@@ -728,7 +728,7 @@ msgid "GOTSHELLS"
 msgstr "Apanhaste 4 cartuchos de espingarda."
 
 msgid "GOTSHELLBOX"
-msgstr "Apanhaste uma caixa de cartuchos de espingarda"
+msgstr "Apanhaste uma caixa de cartuchos de espingarda."
 
 msgid "GOTBACKPACK"
 msgstr "Apanhaste uma mochila cheia de munição!"
@@ -764,7 +764,7 @@ msgid "BETA_BONUS2"
 msgstr "Apanhaste um cofre caveira."
 
 msgid "BETA_BONUS3"
-msgstr "Apanhaste um cetro maligno"
+msgstr "Apanhaste um cetro maligno."
 
 msgid "BETA_BONUS4"
 msgstr "Apanhaste uma bíblia profana."
@@ -1932,7 +1932,7 @@ msgid "TXT_ASSAULTGUN"
 msgstr "Apanhaste a arma de assalto."
 
 msgid "TXT_MMLAUNCHER"
-msgstr "Apanhaste o mini lança-mísseis"
+msgstr "Apanhaste o mini lança-mísseis."
 
 msgid "TXT_FLAMER"
 msgstr "Apanhaste o lança-chamas."
@@ -1944,7 +1944,7 @@ msgid "TXT_GLAUNCHER"
 msgstr "Apanhaste o lança-granadas."
 
 msgid "TXT_SIGIL"
-msgstr "Apanhaste o SIGILO"
+msgstr "Apanhaste o SIGILO."
 
 msgid "TXT_BASEKEY"
 msgstr "Apanhaste a Chave da Base."
@@ -1956,7 +1956,7 @@ msgid "TXT_PASSCARD"
 msgstr "Apanhaste o Cartão de Acesso."
 
 msgid "TXT_IDBADGE"
-msgstr "Apanhaste o Crachá de Identificação"
+msgstr "Apanhaste o Crachá de Identificação."
 
 msgid "TXT_PRISONKEY"
 msgstr "Apanhaste a Chave da Prisão."
@@ -1965,22 +1965,22 @@ msgid "TXT_SEVEREDHAND"
 msgstr "Apanhaste a Mão Desmenbrada."
 
 msgid "TXT_POWER1KEY"
-msgstr "Apanhaste a Chave Energética 1"
+msgstr "Apanhaste a Chave Energética 1."
 
 msgid "TXT_POWER2KEY"
-msgstr "Apanhaste a Chave Energética 2"
+msgstr "Apanhaste a Chave Energética 2."
 
 msgid "TXT_POWER3KEY"
-msgstr "Apanhaste a Chave Energética 3"
+msgstr "Apanhaste a Chave Energética 3."
 
 msgid "TXT_GOLDKEY"
-msgstr "Apanhaste a Chave de Ouro"
+msgstr "Apanhaste a Chave de Ouro."
 
 msgid "TXT_IDCARD"
-msgstr "Apanhaste o Cartão de Identificação"
+msgstr "Apanhaste o Cartão de Identificação."
 
 msgid "TXT_SILVERKEY"
-msgstr "Apanhaste a Chave de Prata"
+msgstr "Apanhaste a Chave de Prata."
 
 msgid "TXT_ORACLEKEY"
 msgstr "Apanhaste a Chave do Oráculo."
@@ -1992,10 +1992,10 @@ msgid "TXT_ORDERKEY"
 msgstr "Apanhaste a Chave da Ordem."
 
 msgid "TXT_WAREHOUSEKEY"
-msgstr "Apanhaste a Chave do Armazém"
+msgstr "Apanhaste a Chave do Armazém."
 
 msgid "TXT_BRASSKEY"
-msgstr "Apanhaste a Chave de Latão"
+msgstr "Apanhaste a Chave de Latão."
 
 msgid "TXT_REDCRYSTAL"
 msgstr "Apanhaste a Chave de Cristal Vermelho."
@@ -2010,7 +2010,7 @@ msgid "TXT_CATACOMBKEY"
 msgstr "Apanhaste a Chave da Catacumba."
 
 msgid "TXT_SECURITYKEY"
-msgstr "Apanhaste a Chave de Segurança"
+msgstr "Apanhaste a Chave de Segurança."
 
 msgid "TXT_COREKEY"
 msgstr "Apanhaste a Chave do Núcleo."
@@ -2063,17 +2063,14 @@ msgstr "Apanhaste as setas electricas."
 msgid "TXT_AMMOSATCHEL"
 msgstr "Apanhaste a mochila de munição."
 
-#, fuzzy
 msgid "MSG_TALISMANRED"
-msgstr "Tens um pressentimento que não devias ter mexido nisso."
+msgstr "Tens um pressentimento que não devias ter mexido nisso…"
 
-#, fuzzy
 msgid "MSG_TALISMANGREEN"
-msgstr "O que quer que isso seja, não pertence a este mundo..."
+msgstr "O que quer que isso seja, não pertence a este mundo…"
 
-#, fuzzy
 msgid "MSG_TALISMANBLUE"
-msgstr "Devia fazer alguma coisa."
+msgstr "Devia fazer alguma coisa…"
 
 msgid "MSG_TALISMANPOWER"
 msgstr "Tu tens super força!"
@@ -2547,7 +2544,7 @@ msgid "TXT_KILLED_BISHOP"
 msgstr "Mataste o Bispo!"
 
 msgid "TXT_KILLED_ORACLE"
-msgstr "Mataste o Oráculo"
+msgstr "Mataste o Oráculo!"
 
 msgid "TXT_KILLED_MACIL"
 msgstr "Mataste Macil!"
@@ -2567,13 +2564,11 @@ msgstr "Pareces ter o suficiente!"
 msgid "TXT_GOAWAY"
 msgstr "Vai-te embora!"
 
-#, fuzzy
 msgid "TXT_COMM0"
-msgstr "A Receber Mensagem..."
+msgstr "A Receber Mensagem…"
 
-#, fuzzy
 msgid "TXT_COMM1"
-msgstr "A Receber Mensagem de BlackBird..."
+msgstr "A Receber Mensagem de BlackBird…"
 
 msgid "TXT_FINDHELP"
 msgstr "Procura ajuda"
@@ -2582,13 +2577,11 @@ msgstr "Procura ajuda"
 msgid "TXT_TRADE"
 msgstr ""
 
-#, fuzzy
 msgid "GOTCHEXARMOR"
-msgstr "Apanhaste uma Armadura Chex(R)."
+msgstr "Apanhaste uma Armadura Chex®."
 
-#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
-msgstr "Apanhaste uma Super Armadura Chex(R)!"
+msgstr "Apanhaste uma Super Armadura Chex®!"
 
 msgid "GOTWATER"
 msgstr "Apanhaste um copo de água."
@@ -2618,10 +2611,10 @@ msgid "GOTVEGETABLES"
 msgstr "Apanhaste uma tigela com vegetais."
 
 msgid "GOTSLIMESUIT"
-msgstr "Apanhaste um Fato Anti-Gosma."
+msgstr "Apanhaste um Fato Anti-Gosma"
 
 msgid "GOTCHEXMAP"
-msgstr "Apanhaste um Mapa Digital."
+msgstr "Apanhaste um Mapa Digital"
 
 msgid "GOTZORCHRECHARGE"
 msgstr "Apanhaste uma recarga para o mini zorch."
@@ -2633,13 +2626,13 @@ msgid "GOTPROPULSORRECHARGE"
 msgstr "Apanhaste recarga para o propulsor de zorch."
 
 msgid "GOTPROPULSORPACK"
-msgstr "Apanhaste um pacote de recargas para o propulsor de zorch"
+msgstr "Apanhaste um pacote de recargas para o propulsor de zorch."
 
 msgid "GOTPHASINGZORCHERRECHARGE"
 msgstr "Apanhaste recarga para o zorcher fásico"
 
 msgid "GOTPHASINGZORCHERPACK"
-msgstr "Apanhaste um pacote de recargas para o zorcher fásico"
+msgstr "Apanhaste um pacote de recargas para o zorcher fásico."
 
 msgid "GOTLARGEZORCHERRECHARGE"
 msgstr "Apanhaste recarga para o zorcher grande."
@@ -2762,7 +2755,6 @@ msgstr ""
 msgid "CHUSTR_E1M5"
 msgstr ""
 
-#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Missão cumprida.\n"
@@ -2774,7 +2766,7 @@ msgstr ""
 "\n"
 "\n"
 "\n"
-"Carrega ESC para continuar..."
+"Carrega Esc para continuar…"
 
 msgid "CE2TEXT"
 msgstr "Conseguiste!"
@@ -2818,7 +2810,8 @@ msgstr ""
 
 msgid "CNEWGAME"
 msgstr ""
-"Não é possível iniciar uma nova aventura durante uma aventura em rede.\n"
+"Não é possível iniciar uma nova aventura\n"
+"durante uma aventura em rede.\n"
 "\n"
 "Carrega numa tecla qualquer."
 
@@ -2829,10 +2822,9 @@ msgstr ""
 "\n"
 "Carrega Y ou N."
 
-#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
-"Este é o Chex(R) Quest. Procure por\n"
+"Este é o Chex® Quest. Procure por\n"
 "\n"
 "novos níveis em www.chexquest.com.\n"
 "\n"
@@ -4553,9 +4545,7 @@ msgid "TXT_COULDNOTREAD"
 msgstr "Não foi possível ler o jogo guardado \"%s\"."
 
 msgid "TXT_NOINFOJSON"
-msgstr ""
-"\"%s\" não é um jogo gravado válido: Está faltando\n"
-"\"info.json\"."
+msgstr "\"%s\" não é um jogo gravado válido: Está faltando \"info.json\"."
 
 msgid "TXT_FAILEDTOREADSG"
 msgstr "Não foi possível acessar a informação do jogo gravado em \"%s\"."
@@ -4566,33 +4556,29 @@ msgstr "O jogo gravado \"%s\" é de uma versão incompatível."
 msgid "TXT_OTHERENGINESG"
 msgstr "O jogo gravado \"%s\" é de outro motor baseado em ZDoom:"
 
-#, fuzzy
 msgid "TXT_TOOOLDSG"
 msgstr ""
 "O jogo gravado \"%s\" é de uma versão mais antiga: %d (%e sendo a mais "
-"antiga suportada)"
+"antiga suportada)."
 
 # Shouldn’t this say “%e is the newest supported”?
 # 
 # — Undead
 # 
 # Ask Randi: The text is old. I won't change it.
-#, fuzzy
 msgid "TXT_TOONEWSG"
 msgstr ""
 "O jogo gravado \"%s\" é de uma versão mais nova: %d (%e sendo a mais recente "
-"suportada)"
+"suportada)."
 
 msgid "TXT_NOMAPSG"
 msgstr "O jogo gravado \"%s\" não possui o mapa atual."
 
 msgid "TXT_NOGLOBALSJSON"
-msgstr ""
-"\"%s\" não é um jogo gravado válido: Está faltando\n"
-"\"globals.json\"."
+msgstr "\"%s\" não é um jogo gravado válido: Está faltando \"globals.json\"."
 
 msgid "TXT_SGINFOERR"
-msgstr "Não foi possível acessar a informação do jogo gravado em \"%s\"."
+msgstr "Não foi possível acessar a informação do jogo gravado em \"%s\""
 
 msgid "TXT_SAVEPENDING"
 msgstr "Jogo gravado ainda pendente."
@@ -4601,16 +4587,16 @@ msgid "TXT_NOTSAVEABLE"
 msgstr "Não estás numa partida que possa ser gravada."
 
 msgid "TXT_NOTINLEVEL"
-msgstr "Não estás em nenhum nível."
+msgstr "Não estás em nenhum nível"
 
 msgid "TXT_SPPLAYERDEAD"
-msgstr "Jogador está morto numa partida single player."
+msgstr "Jogador está morto numa partida single player"
 
 msgid "TXT_SAVEFAILED"
 msgstr "Falha ao gravar"
 
 msgid "TXT_SCREENSHOTERR"
-msgstr "Não foi possível capturar ecrã"
+msgstr "Não foi possível capturar ecrã."
 
 # As in paused by player %s.
 msgid "TXT_BY"

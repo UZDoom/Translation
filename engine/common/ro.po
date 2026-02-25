@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 04:38+0000\n"
+"PO-Revision-Date: 2026-02-25 22:23+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/uzdoom/common/"
 "ro/>\n"
@@ -1128,13 +1128,13 @@ msgid "OPTVAL_1024K"
 msgstr ""
 
 msgid "OPTVAL_UNCHARTED2"
-msgstr ""
+msgstr "Uncharted 2"
 
 msgid "OPTVAL_HEJLDAWSON"
-msgstr ""
+msgstr "Hejl-Dawson"
 
 msgid "OPTVAL_REINHARD"
-msgstr ""
+msgstr "Reinhard"
 
 msgid "OPTVAL_PALETTE"
 msgstr "Paletă"
@@ -1389,14 +1389,14 @@ msgid "VIDMNU_PREFERBACKEND"
 msgstr "API Video Preferat"
 
 msgid "OPTVAL_OPENGL"
-msgstr ""
+msgstr "OpenGL"
 
 msgid "OPTVAL_VULKAN"
-msgstr ""
+msgstr "Vulkan"
 
 # Rendering backend
 msgid "OPTVAL_OPENGLES"
-msgstr ""
+msgstr "OpenGL ES"
 
 msgid "MISCMNU_MERGEKEYS"
 msgstr "Combină Alt/Ctrl/Shift stânga+dreapta"
@@ -1430,7 +1430,7 @@ msgid "MISCMNU_CLEANMENU"
 msgstr "Dezactivează Scara Nouă a Meniurilor"
 
 msgid "MISCMNU_PAUSEINBACKGROUND"
-msgstr "Pauză dacă jocul este minimizat."
+msgstr "Pauză dacă jocul este minimizat"
 
 msgid "HUDMNU_CROSSHAIR"
 msgstr "Țintă implicită"
@@ -1511,9 +1511,8 @@ msgstr ""
 msgid "REVMNU_Create"
 msgstr "Creează"
 
-#, fuzzy
 msgid "REVMNU_Save"
-msgstr "Salvează..."
+msgstr "Salvează…"
 
 msgid "REVMNU_File_name"
 msgstr "Nume fișier"
@@ -1537,10 +1536,10 @@ msgid "VK_WARNING"
 msgstr "Atenție: Modul Vulkan este încă în curs de testare!"
 
 msgid "VK_RESTART"
-msgstr "Aceste setări necesită o repornire pentru a putea fi aplicate"
+msgstr "Aceste setări necesită o repornire pentru a putea fi aplicate."
 
 msgid "OPTVAL_SCALENX"
-msgstr ""
+msgstr "ScaleNx"
 
 msgid "OPTVAL_NORMALNX"
 msgstr ""
@@ -1706,7 +1705,7 @@ msgid "PICKER_TAB_MULTI"
 msgstr "Joc Online"
 
 msgid "PICKER_LOADSAVE"
-msgstr "Încarcă Salvarea"
+msgstr "Încarcă Salvarea:"
 
 msgid "PICKER_REMSAVE"
 msgstr "Reține Salvarea"
@@ -1764,7 +1763,7 @@ msgid "PICKER_TEAMHINT"
 msgstr "255 = Aleatoriu"
 
 msgid "PICKER_IP"
-msgstr "IP Server"
+msgstr "IP Server:"
 
 msgid "PICKER_TDMLABEL"
 msgstr "Deathmatch în Echipă:"

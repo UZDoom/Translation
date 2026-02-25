@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 04:38+0000\n"
+"PO-Revision-Date: 2026-02-25 21:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/pl/>\n"
@@ -1364,13 +1364,13 @@ msgid "OB_MPPGAUNTLETS"
 msgstr "%o wykrwawił@[ao_pl] się przez rękawice %k."
 
 msgid "OB_MPPGOLDWAND"
-msgstr "%o został@[ao_pl] zaatakowan@[adj_pl] przez elfią różdżkę %k"
+msgstr "%o został@[ao_pl] zaatakowan@[adj_pl] przez elfią różdżkę %k."
 
 msgid "OB_MPPCROSSBOW"
 msgstr "%o został@[ao_pl] wykiwan@[adj_pl] przez eteryczną kuszę %k."
 
 msgid "OB_MPPBLASTER"
-msgstr "%o został@[ao_pl] rozerwan@[adj_pl] przez smoczy pazur %k"
+msgstr "%o został@[ao_pl] rozerwan@[adj_pl] przez smoczy pazur %k."
 
 msgid "OB_MPPSKULLROD"
 msgstr "%k polał@[ao_pl] swoim piekielnym kosturem %o."
@@ -1379,8 +1379,7 @@ msgid "OB_MPPPHOENIXROD"
 msgstr "%o został@[ao_pl] spalon@[adj_pl] przez różdżkę feniksa %k."
 
 msgid "OB_MPPMACE"
-msgstr ""
-"%o został@[ao_pl] zmiażdżon@[adj_pl] przez ogromną kulę z buzdygana %k"
+msgstr "%o został@[ao_pl] zmiażdżon@[adj_pl] przez ogromną kulę z buzdygana %k."
 
 msgid "TXT_MANA_1"
 msgstr "Niebieska Mana"
@@ -2038,7 +2037,7 @@ msgid "TXT_MINEKEY"
 msgstr "Podniosł@[irreg_3_pl] Klucz do Kopalni."
 
 msgid "TXT_NEWKEY5"
-msgstr "Podniosł@[irreg_3_pl] Nowy Klucz5"
+msgstr "Podniosł@[irreg_3_pl] Nowy Klucz5."
 
 msgid "TXT_ORACLEPASS"
 msgstr "Podniosł@[irreg_3_pl] Przepustkę Wyroczni."
@@ -2076,17 +2075,14 @@ msgstr "Podniosł@[irreg_3_pl] elektryczne bełty."
 msgid "TXT_AMMOSATCHEL"
 msgstr "Podniosł@[irreg_3_pl] torbę z amunicją."
 
-#, fuzzy
 msgid "MSG_TALISMANRED"
-msgstr "Czujesz, że trzeba było tego nie dotykać..."
+msgstr "Czujesz, że trzeba było tego nie dotykać…"
 
-#, fuzzy
 msgid "MSG_TALISMANGREEN"
-msgstr "Cokolwiek to jest, nie należy to do tego świata..."
+msgstr "Cokolwiek to jest, nie należy to do tego świata…"
 
-#, fuzzy
 msgid "MSG_TALISMANBLUE"
-msgstr "To musi coś robić..."
+msgstr "To musi coś robić…"
 
 msgid "MSG_TALISMANPOWER"
 msgstr "Masz super siłę!"
@@ -2539,7 +2535,7 @@ msgid "TXT_STRIFE_EPI"
 msgstr "Poszukiwanie Pieczęci"
 
 msgid "TXT_FREED_PRISONERS"
-msgstr "Uwolnił@[irreg_3_pl] więźniów"
+msgstr "Uwolnił@[irreg_3_pl] więźniów!"
 
 msgid "TXT_DESTROYED_CONVERTER"
 msgstr "Zniszczył@[irreg_3_pl] Transformator!"
@@ -2580,13 +2576,11 @@ msgstr "Wydaje się, że już ci wystarczy!"
 msgid "TXT_GOAWAY"
 msgstr "Idź stąd!"
 
-#, fuzzy
 msgid "TXT_COMM0"
-msgstr "Nadchodzi wiadomość..."
+msgstr "Nadchodzi wiadomość…"
 
-#, fuzzy
 msgid "TXT_COMM1"
-msgstr "Nadchodzi wiadomość od BlackBird..."
+msgstr "Nadchodzi wiadomość od BlackBird…"
 
 msgid "TXT_FINDHELP"
 msgstr "Znajdź pomoc"
@@ -2595,13 +2589,11 @@ msgstr "Znajdź pomoc"
 msgid "TXT_TRADE"
 msgstr "za %u"
 
-#, fuzzy
 msgid "GOTCHEXARMOR"
-msgstr "Zebrano Pancerz Chex(R)."
+msgstr "Zebrano Pancerz Chex®."
 
-#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
-msgstr "Zebrano Super Pancerz Chex(R)!"
+msgstr "Zebrano Super Pancerz Chex®!"
 
 msgid "GOTWATER"
 msgstr "Zebrano szklankę wody."
@@ -2649,7 +2641,7 @@ msgid "GOTPROPULSORPACK"
 msgstr "Zebrano paczkę pędnika zorch."
 
 msgid "GOTPHASINGZORCHERRECHARGE"
-msgstr "Zebrano ładunek do fazowego zorchera."
+msgstr "Zebrano ładunek do fazowego zorchera"
 
 msgid "GOTPHASINGZORCHERPACK"
 msgstr "Zebrano paczkę fazowego zorchera."
@@ -2661,7 +2653,7 @@ msgid "GOTLARGEZORCHERPACK"
 msgstr "Zebrano paczkę dużego zorchera."
 
 msgid "GOTZORCHPACK"
-msgstr "Zebrano Paczkę Zorch."
+msgstr "Zebrano Paczkę Zorch!"
 
 msgid "GOTLAZDEVICE"
 msgstr "Zdobył@[irreg_3_pl] urządzenie LAZ! Juhu!"
@@ -2775,7 +2767,6 @@ msgstr ""
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: Jaskinie Bazoik"
 
-#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Misja zakończona.\n"
@@ -2786,7 +2777,8 @@ msgstr ""
 "\n"
 "\n"
 "\n"
-"Wciśnij klawisz escape by kontynuować..."
+"\n"
+"Wciśnij klawisz escape by kontynuować…"
 
 msgid "CE2TEXT"
 msgstr "Udało ci się!"
@@ -2842,10 +2834,9 @@ msgstr ""
 "\n"
 "Wciśnij Y lub N."
 
-#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
-"To jest Chex(R) Quest. Szukaj\n"
+"To jest Chex® Quest. Szukaj\n"
 "\n"
 "kolejnych poziomów na www.chexquest.com.\n"
 "\n"
@@ -2881,10 +2872,9 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Super Zorch dodany"
 
-#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
-msgstr "... jedz płatki Chex(R)!"
+msgstr "…jedz płatki Chex®!"
 
 msgctxt "chex"
 msgid "AMMO_CLIP"
@@ -4556,7 +4546,7 @@ msgid "TXT_JOINED_TEAM"
 msgstr "%s dołącza do drużyny %t"
 
 msgid "TXT_LONER"
-msgstr "%s jest teraz sam@[ao_pl]"
+msgstr "%s jest teraz sam@[ao_pl]."
 
 msgid "TXT_LEFTWITHFRAGS"
 msgstr "%s opuścił@[ao_pl] grę z %d fragami"
@@ -4568,7 +4558,7 @@ msgid "TXT_COULDNOTREAD"
 msgstr "Nie można odczytać zapisu „%s”."
 
 msgid "TXT_NOINFOJSON"
-msgstr "„%s” nie jest prawidłowym zapisem gry: Brak „info.json”"
+msgstr "„%s” nie jest prawidłowym zapisem gry: Brak „info.json”."
 
 msgid "TXT_FAILEDTOREADSG"
 msgstr "Nie udało się dostać informacji zapisu „%s”."
@@ -4579,28 +4569,26 @@ msgstr "Zapis gry „%s” jest z niekompatybilnej wersji."
 msgid "TXT_OTHERENGINESG"
 msgstr "Zapis gry „%s” jest z innego silnika bazowanego na ZDoomie:"
 
-#, fuzzy
 msgid "TXT_TOOOLDSG"
 msgstr ""
-"Zapis gry „%s” jest ze starszej wersji: %d (%e jest najstarszą wspieraną)"
+"Zapis gry „%s” jest ze starszej wersji: %d (%e jest najstarszą wspieraną)."
 
 # Shouldn’t this say “%e is the newest supported”?
 # 
 # — Undead
 # 
 # Ask Randi: The text is old. I won't change it.
-#, fuzzy
 msgid "TXT_TOONEWSG"
-msgstr "Zapis gry „%s” jest z nowszej wersji: %d (%e jest najwyższą wspieraną)"
+msgstr "Zapis gry „%s” jest z nowszej wersji: %d (%e jest najwyższą wspieraną)."
 
 msgid "TXT_NOMAPSG"
 msgstr "W zapisie gry „%s” brakuje obecnej mapy."
 
 msgid "TXT_NOGLOBALSJSON"
-msgstr "„%s” nie jest prawidłowym zapisem gry: Brak „globals.json”"
+msgstr "„%s” nie jest prawidłowym zapisem gry: Brak „globals.json”."
 
 msgid "TXT_SGINFOERR"
-msgstr "Nie udało się dostać informacji zapisu „%s”."
+msgstr "Nie udało się dostać informacji zapisu „%s”"
 
 msgid "TXT_SAVEPENDING"
 msgstr "Zapis gry jest wciąż w toku."
@@ -4609,7 +4597,7 @@ msgid "TXT_NOTSAVEABLE"
 msgstr "Nie w grze do zapisywania."
 
 msgid "TXT_NOTINLEVEL"
-msgstr "Nie w poziomie."
+msgstr "Nie w poziomie"
 
 msgid "TXT_SPPLAYERDEAD"
 msgstr "Gracz jest martwy w grze dla jednego gracza"
@@ -4785,7 +4773,7 @@ msgid "MISCMNU_FVIEWBOB"
 msgstr "Pokaż bujanie podczas lotu"
 
 msgid "OB_DEMON1HIT"
-msgstr "Wąż skaleczył gracza %o"
+msgstr "Wąż skaleczył gracza %o."
 
 msgid "AUTOMAPMNU_LINEANTIALIASING"
 msgstr "Linie Antyaliasowe"
@@ -5195,7 +5183,7 @@ msgid "ERROR_FATAL"
 msgstr "Krytyczny błąd"
 
 msgid "ERROR_ABORT"
-msgstr "Wykonanie nie może być kontynuowane"
+msgstr "Wykonanie nie może być kontynuowane."
 
 msgid "FILEPICKER_ANY"
 msgstr "Wszystkie pliki"

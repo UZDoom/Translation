@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 04:38+0000\n"
+"PO-Revision-Date: 2026-02-25 22:03+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ru/>\n"
@@ -157,7 +157,7 @@ msgstr ""
 
 msgid "QUITMSG13"
 msgstr ""
-"Уходи, уходи... но когда вернёшься,\n"
+"Уходи, уходи… но когда вернёшься,\n"
 "я буду ждать тебя с битой."
 
 msgid "QUITMSG14"
@@ -453,27 +453,26 @@ msgstr "Все артефакты!"
 msgid "TXT_WHAT_KILL"
 msgstr "Что вы хотите убить вне игры?"
 
-#, fuzzy
 msgid "TXT_NOT_FROZEN"
-msgstr "Свойства замороженного игрока отключены"
+msgstr "Свойства замороженного игрока ВЫКЛ"
 
 msgid "AMSTR_FOLLOWOFF"
-msgstr "Привязка к игроку ОТКЛЮЧЕНА"
+msgstr "Привязка к игроку ВЫКЛ"
 
 msgid "AMSTR_FOLLOWON"
-msgstr "Привязка к игроку ВКЛЮЧЕНА"
+msgstr "Привязка к игроку ВКЛ"
 
 msgid "AMSTR_GRIDON"
-msgstr "Сетка ВКЛЮЧЕНА"
+msgstr "Сетка ВКЛ"
 
 msgid "AMSTR_GRIDOFF"
-msgstr "Сетка ОТКЛЮЧЕНА"
+msgstr "Сетка ВЫКЛ"
 
 msgid "AMSTR_TEXON"
-msgstr "Текстурный режим ВКЛЮЧЁН"
+msgstr "Текстурный режим ВКЛ"
 
 msgid "AMSTR_TEXOFF"
-msgstr "Текстурный режим ОТКЛЮЧЁН"
+msgstr "Текстурный режим ВЫКЛ"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Отметка"
@@ -2071,17 +2070,14 @@ msgstr "Получены электрические болты."
 msgid "TXT_AMMOSATCHEL"
 msgstr "Получен ранец боеприпасов."
 
-#, fuzzy
 msgid "MSG_TALISMANRED"
-msgstr "Кажется, эту вещь лучше не трогать..."
+msgstr "Кажется, эту вещь лучше не трогать…"
 
-#, fuzzy
 msgid "MSG_TALISMANGREEN"
-msgstr "Что бы это ни было, оно не из этого мира..."
+msgstr "Что бы это ни было, оно не из этого мира…"
 
-#, fuzzy
 msgid "MSG_TALISMANBLUE"
-msgstr "Оно ведь зачем-то нужно?.."
+msgstr "Оно ведь зачем-то нужно?…"
 
 msgid "MSG_TALISMANPOWER"
 msgstr "Вы получили сверхсилу!"
@@ -2564,10 +2560,10 @@ msgid "TXT_KILLED_LOREMASTER"
 msgstr "Хранитель мудрости убит!"
 
 msgid "TXT_YOUFOOL"
-msgstr "Глупец. Ты привёл в действие сигнализацию!"
+msgstr "Глупец! Ты привёл в действие сигнализацию."
 
 msgid "TXT_YOUREDEAD"
-msgstr "Ты поднял тревогу! Готовься к смерти!"
+msgstr "Готовься к смерти! Ты поднял тревогу."
 
 msgid "TXT_HAVEENOUGH"
 msgstr "Кажется, тебе хватит!"
@@ -2575,13 +2571,11 @@ msgstr "Кажется, тебе хватит!"
 msgid "TXT_GOAWAY"
 msgstr "Уходи!"
 
-#, fuzzy
 msgid "TXT_COMM0"
-msgstr "Входящее сообщение..."
+msgstr "Входящее сообщение…"
 
-#, fuzzy
 msgid "TXT_COMM1"
-msgstr "Входящее сообщение от «Чёрного дрозда»..."
+msgstr "Входящее сообщение от «Чёрного дрозда»…"
 
 msgid "TXT_FINDHELP"
 msgstr "Найди помощь"
@@ -2590,13 +2584,11 @@ msgstr "Найди помощь"
 msgid "TXT_TRADE"
 msgstr "за %u"
 
-#, fuzzy
 msgid "GOTCHEXARMOR"
-msgstr "Получена Chex(R)-броня."
+msgstr "Получена Chex®-броня."
 
-#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
-msgstr "Получена Chex(R)-сверхброня!"
+msgstr "Получена Chex®-сверхброня!"
 
 msgid "GOTWATER"
 msgstr "Получен стакан воды."
@@ -2644,7 +2636,7 @@ msgid "GOTPROPULSORPACK"
 msgstr "Получена батарея ускорителя зорча."
 
 msgid "GOTPHASINGZORCHERRECHARGE"
-msgstr "Получена зарядка фазерного зорчера."
+msgstr "Получена зарядка фазерного зорчера"
 
 msgid "GOTPHASINGZORCHERPACK"
 msgstr "Получена батарея фазерного зорчера."
@@ -2770,7 +2762,6 @@ msgstr "E1M4: Дендрарий"
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: Пещеры Базоика"
 
-#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Миссия выполнена.\n"
@@ -2782,7 +2773,7 @@ msgstr ""
 "\n"
 "\n"
 "\n"
-"Нажмите ESC для продолжения..."
+"Нажмите Esc для продолжения…"
 
 msgid "CE2TEXT"
 msgstr "Вы справились!"
@@ -2791,7 +2782,7 @@ msgid "CE3TEXT"
 msgstr "Превосходная работа!"
 
 msgid "CE4TEXT"
-msgstr "Великолепно."
+msgstr "Великолепно"
 
 msgid "CLOADNET"
 msgstr ""
@@ -2838,10 +2829,9 @@ msgstr ""
 "\n"
 "Нажмите Y или N."
 
-#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
-"Вы играете в Chex(R) Quest. Остальные\n"
+"Вы играете в Chex® Quest. Остальные\n"
 "\n"
 "уровни на www.chexquest.com.\n"
 "\n"
@@ -2863,11 +2853,11 @@ msgstr ""
 
 msgctxt "chex"
 msgid "STSTR_DQDON"
-msgstr "Режим неуязвимости ВКЛЮЧЁН"
+msgstr "Режим неуязвимости ВКЛ"
 
 msgctxt "chex"
 msgid "STSTR_DQDOFF"
-msgstr "Режим неуязвимости ОТКЛЮЧЁН"
+msgstr "Режим неуязвимости ВЫКЛ"
 
 msgctxt "chex"
 msgid "STSTR_FAADDED"
@@ -2877,10 +2867,9 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Получен суперзорч"
 
-#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
-msgstr "...ешь Chex(R)!"
+msgstr "…ешь Chex®!"
 
 msgctxt "chex"
 msgid "AMMO_CLIP"
@@ -4115,7 +4104,7 @@ msgid "OPTVAL_AMMOIMAGETEXT"
 msgstr "Изображение и текст"
 
 msgid "OPTVAL_AMMOTEXTIMAGE"
-msgstr "Текст и изобр."
+msgstr "Текст и изобр"
 
 msgid "OPTVAL_SCRIPTSONLY"
 msgstr "Только скрипты"
@@ -4605,7 +4594,7 @@ msgid "TXT_NOGLOBALSJSON"
 msgstr "Сохранение «%s» некорректно: отсутствует «globals.json»."
 
 msgid "TXT_SGINFOERR"
-msgstr "Невозможно получить информацию из сохранения «%s»."
+msgstr "Невозможно получить информацию из сохранения «%s»"
 
 msgid "TXT_SAVEPENDING"
 msgstr "Сохранение в очереди."
