@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 04:38+0000\n"
+"PO-Revision-Date: 2026-02-25 21:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/el/>\n"
@@ -395,10 +395,10 @@ msgid "TXT_STRANGE"
 msgstr "Νιώθης περίεργα…"
 
 msgid "TXT_STRANGER"
-msgstr "Νιώθης ακόμα πιό περίεργα..."
+msgstr "Νιώθης ακόμα πιό περίεργα."
 
 msgid "TXT_NOTSTRANGE"
-msgstr "Νιώθης σάν τον εαύτο σου ξανά..."
+msgstr "Νιώθης σάν τον εαύτο σου ξανά."
 
 msgid "TXT_LEADBOOTSON"
 msgstr "Μολυβδένιες μπότες ΕΝΕΡΓΟ"
@@ -451,27 +451,26 @@ msgstr "Όλα τα τεχνουργίματα!"
 msgid "TXT_WHAT_KILL"
 msgstr "Τί θέλεις να σκοτώσεις έξω απο ένα παιχνίδι ?"
 
-#, fuzzy
 msgid "TXT_NOT_FROZEN"
-msgstr "Η ιδιότητες ενος παγομένου παίχτη απενεργοποίθηκαν"
+msgstr "Η ιδιότητες ενος παγομένου παίχτη ΑΝΕΝΕΡΓΟ"
 
 msgid "AMSTR_FOLLOWOFF"
-msgstr "Ακολούθηση ΆΠΕΝΕΡΓΟΠΟΙΗΜΈΝΗ"
+msgstr "Ακολούθηση ΑΝΕΝΕΡΓΟ"
 
 msgid "AMSTR_FOLLOWON"
-msgstr "Ακολούθηση ΕΝΕΡΓΟΠΟΙΗΜΈΝΗ"
+msgstr "Ακολούθηση ΕΝΕΡΓΟ"
 
 msgid "AMSTR_GRIDON"
-msgstr "Πλέχμα ΕΝΕΡΓΟΠΟΙΜΈΝΟ"
+msgstr "Πλέχμα ΕΝΕΡΓΟ"
 
 msgid "AMSTR_GRIDOFF"
-msgstr "Πλέχμα ΆΠΕΝΕΡΓΟΠΟΙΜΈΝΟ"
+msgstr "Πλέχμα ΑΝΕΝΕΡΓΟ"
 
 msgid "AMSTR_TEXON"
 msgstr "Γραφικός χάρτης ΕΝΕΡΓΟΠΟΙΜΈΝΟΣ"
 
 msgid "AMSTR_TEXOFF"
-msgstr "Γραφικός χάρτης ΑΠΕΝΕΡΓΟΠΟΙΜΈΝΟΣ"
+msgstr "Γραφικός χάρτης ΑΝΕΝΕΡΓΟ"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Μαρκαρησμένη τοποθεσεία"
@@ -596,40 +595,40 @@ msgid "OB_CRUSH"
 msgstr "@[art_gr] %o συνθλίφτηκε."
 
 msgid "OB_EXIT"
-msgstr "@[art_gr] %o προσπάθησε να φύγει"
+msgstr "@[art_gr] %o προσπάθησε να φύγει."
 
 msgid "OB_WATER"
-msgstr "@[art_gr] %o δέν μπορεί να κολυμπήσει"
+msgstr "@[art_gr] %o δέν μπορεί να κολυμπήσει."
 
 msgid "OB_SLIME"
 msgstr "@[art_gr] %o μεταλάχθηκε."
 
 msgid "OB_LAVA"
-msgstr "@[art_gr] %o έλειοσε"
+msgstr "@[art_gr] %o έλειοσε."
 
 msgid "OB_BARREL"
 msgstr "@[art_gr] %o έσκασε."
 
 msgid "OB_SPLASH"
-msgstr "@[art_gr] %o έκατσε στο λάθος σημείο"
+msgstr "@[art_gr] %o έκατσε στο λάθος σημείο."
 
 msgid "OB_R_SPLASH"
-msgstr "@[art_gr] %o έπρεπε να είχε κάτσι πίσω"
+msgstr "@[art_gr] %o έπρεπε να είχε κάτσι πίσω."
 
 msgid "OB_ROCKET"
-msgstr "@[art_gr] %o έπρεπε να είχε κάτσι πίσω"
+msgstr "@[art_gr] %o έπρεπε να είχε κάτσι πίσω."
 
 msgid "OB_KILLEDSELF"
 msgstr "@[art_gr] %o αυτοκτόνησε."
 
 msgid "OB_VOODOO"
-msgstr "@[art_gr] %o πέθανε απο τη δύναμη του βουντου"
+msgstr "@[art_gr] %o πέθανε απο τη δύναμη του βουντου."
 
 msgid "OB_MPTELEFRAG"
-msgstr "@[art_gr] %o κοματιάστηκε μέσω τηλεμεταφοράς απο τον/την %k"
+msgstr "@[art_gr] %o κοματιάστηκε μέσω τηλεμεταφοράς απο τον/την %k."
 
 msgid "OB_MONTELEFRAG"
-msgstr "@[art_gr] %o κοματιάστηκε μέσω τηλεμεταφοράς"
+msgstr "@[art_gr] %o κοματιάστηκε μέσω τηλεμεταφοράς."
 
 msgid "OB_DEFAULT"
 msgstr "@[art_gr] %o πέθανε."
@@ -638,7 +637,7 @@ msgid "OB_MPDEFAULT"
 msgstr "@[art_gr] %o στοτώθηκε απο τον/την %k."
 
 msgid "OB_FRIENDLY1"
-msgstr "Ο/Η %k σκότωσε έναν σύμαχο"
+msgstr "Ο/Η %k σκότωσε έναν σύμαχο."
 
 # English was changed to remove problematic pronoun referencing the killer
 msgid "OB_FRIENDLY2"
@@ -648,7 +647,7 @@ msgid "OB_FRIENDLY3"
 msgstr "Ο/Η %k πάιρνει έναν κοματιασμό για την άλλη ομάδα."
 
 msgid "OB_FRIENDLY4"
-msgstr "Ο/Η %k χάνει ακόμα έναν αλλο φίλο"
+msgstr "Ο/Η %k χάνει ακόμα έναν αλλο φίλο."
 
 msgid "GOTARMOR"
 msgstr "Πήρες την πανοπλία."
@@ -1031,7 +1030,7 @@ msgid "OB_BARON"
 msgstr "@[art_gr] %o γρατζουνήθηκε απο ένα Βαρώνο της Κόλασης."
 
 msgid "OB_KNIGHT"
-msgstr "@[art_gr] %o απλώθηκε απο έναν Ιππότη της Κόλασης"
+msgstr "@[art_gr] %o απλώθηκε απο έναν Ιππότη της Κόλασης."
 
 msgid "OB_SPIDER"
 msgstr "@[art_gr] %o στάθηκε με δέος μπροστά στόν αραχνοδαίμονα."
@@ -1546,7 +1545,7 @@ msgid "TXT_BLOODSCOURGE_PIECE"
 msgstr ""
 
 msgid "TXT_NEED_KEY_STEEL"
-msgstr "Χρειάζεσε το Ατσάλινο κλειδί."
+msgstr "Χρειάζεσε το Ατσάλινο κλειδί"
 
 msgid "TXT_NEED_KEY_CAVE"
 msgstr ""
@@ -1564,10 +1563,10 @@ msgid "TXT_NEED_KEY_DUNGEON"
 msgstr ""
 
 msgid "TXT_NEED_KEY_SILVER"
-msgstr "Χρειάζεσε το Ασυμένιο κλειδί."
+msgstr "Χρειάζεσε το Ασυμένιο κλειδί"
 
 msgid "TXT_NEED_KEY_RUSTED"
-msgstr "Χρειάζεσε το Σκουριασμένο κλειδί."
+msgstr "Χρειάζεσε το Σκουριασμένο κλειδί"
 
 msgid "TXT_NEED_KEY_HORN"
 msgstr ""
@@ -1903,7 +1902,7 @@ msgid "TXT_REPORT"
 msgstr ""
 
 msgid "TXT_INFO"
-msgstr "Πήρες της πληροφορίες"
+msgstr "Πήρες της πληροφορίες."
 
 msgid "TXT_TARGETER"
 msgstr "Πήρες τον Στοχευτή."
@@ -1934,7 +1933,7 @@ msgid "TXT_PRISONPASS"
 msgstr ""
 
 msgid "TXT_STRIFECROSSBOW"
-msgstr "Πήρες το τόξο"
+msgstr "Πήρες το τόξο."
 
 msgid "TXT_ASSAULTGUN"
 msgstr "Πήρες το πολυβόλο."
@@ -2074,13 +2073,11 @@ msgstr ""
 msgid "MSG_TALISMANRED"
 msgstr ""
 
-#, fuzzy
 msgid "MSG_TALISMANGREEN"
-msgstr "Οτιδήποτε είναι, δέν είναι απο αυτό τον κόσμο..."
+msgstr "Οτιδήποτε είναι, δέν είναι απο αυτό τον κόσμο…"
 
-#, fuzzy
 msgid "MSG_TALISMANBLUE"
-msgstr "Πρέπει να κάνι κάτι..."
+msgstr "Πρέπει να κάνι κάτι…"
 
 msgid "MSG_TALISMANPOWER"
 msgstr ""
@@ -2865,16 +2862,16 @@ msgid "MNU_CHOOSESKILL"
 msgstr "Επίλεξε ΔυσκολΊα:"
 
 msgid "SKILL_BABY"
-msgstr "Είμαι πολύ νεαρός για να πεθάνω!"
+msgstr "Είμαι πολύ νεαρός για να πεθάνω."
 
 msgid "SKILL_EASY"
-msgstr "Όχι πολύ δύσκολο"
+msgstr "Όχι πολύ δύσκολο."
 
 msgid "SKILL_NORMAL"
-msgstr "Πόνεσε με"
+msgstr "Πόνεσε με."
 
 msgid "SKILL_HARD"
-msgstr "Ύπερ-Βία"
+msgstr "Ύπερ-Βία."
 
 msgid "SKILL_NIGHTMARE"
 msgstr "Εφιάλτης!"
@@ -4498,7 +4495,7 @@ msgid "TXT_JOINED_TEAM"
 msgstr "@[art_gr] %s έγινε μέλος τής %t ομάδας"
 
 msgid "TXT_LONER"
-msgstr "@[art_gr] %s είναι τώρα μόνο/ς/η @[pro4_gr]"
+msgstr "@[art_gr] %s είναι τώρα μόνο/ς/η @[pro4_gr]."
 
 msgid "TXT_LEFTWITHFRAGS"
 msgstr "@[art_gr] %s έφυγε με %d κοματιασμόυς"
@@ -4507,51 +4504,49 @@ msgid "TXT_LEFTTHEGAME"
 msgstr "@[art_gr] %s έφυγε"
 
 msgid "TXT_COULDNOTREAD"
-msgstr "Το αρχείο αποθήκευσης %s δέν μπόρε να φορτωθεί"
+msgstr "Το αρχείο αποθήκευσης %s δέν μπόρε να φορτωθεί."
 
 msgid "TXT_NOINFOJSON"
-msgstr "Το %s δεν είναι ένα έγκυρο αρχείο αποθήκευσης: Το info.json λείπει"
+msgstr "Το %s δεν είναι ένα έγκυρο αρχείο αποθήκευσης: Το info.json λείπει."
 
 msgid "TXT_FAILEDTOREADSG"
-msgstr "Η πρόσβαση πληροφοριών του αρχείου αποθήκευσης %s δέν ήταν επιτυχής"
+msgstr "Η πρόσβαση πληροφοριών του αρχείου αποθήκευσης %s δέν ήταν επιτυχής."
 
 msgid "TXT_INCOMPATIBLESG"
-msgstr "Το αρχείο αποθήκευσης %s είναι απο μια ασύμβατη έκδοση"
+msgstr "Το αρχείο αποθήκευσης %s είναι απο μια ασύμβατη έκδοση."
 
 msgid "TXT_OTHERENGINESG"
-msgstr "Το αρχείο αποθήκευσης %s είναι απο μια άλλη ZDoom βασισμένη μηχανή"
+msgstr "Το αρχείο αποθήκευσης %s είναι απο μια άλλη ZDoom βασισμένη μηχανή:"
 
-#, fuzzy
 msgid "TXT_TOOOLDSG"
 msgstr ""
 "Το αρχείο αποθήκευσης %s είναι απο την %d έκδοση (H %e είναι η παλιότερη "
-"υποστηριζώμενη)"
+"υποστηριζώμενη)."
 
 # Shouldn’t this say “%e is the newest supported”?
 #
 # — Undead
 #
 # Ask Randi: The text is old. I won't change it.
-#, fuzzy
 msgid "TXT_TOONEWSG"
 msgstr ""
 "Το αρχείο αποθήκευσης %s είναι απο μια πιο καινούρια έκδοση: %d (Η %e είναι "
-"η πιο καινούρια που υποστηρίζεται)"
+"η πιο καινούρια που υποστηρίζεται)."
 
 msgid "TXT_NOMAPSG"
-msgstr "Το αρχείο αποθήκευσης %s δέν έχει την τωρινή πίστα"
+msgstr "Το αρχείο αποθήκευσης %s δέν έχει την τωρινή πίστα."
 
 msgid "TXT_NOGLOBALSJSON"
-msgstr "Το %s δεν είναι ένα έγκυρο αρχείο αποθήκευσης: Το globals.json λείπει"
+msgstr "Το %s δεν είναι ένα έγκυρο αρχείο αποθήκευσης: Το globals.json λείπει."
 
 msgid "TXT_SGINFOERR"
 msgstr "Η πρόσβαση πληροφοριών του αρχείου αποθήκευσης %s δέν ήταν επιτυχής"
 
 msgid "TXT_SAVEPENDING"
-msgstr "Μια αποθήκευση παιχνιδίου είναι ακόμα σε αναμονή"
+msgstr "Μια αποθήκευση παιχνιδίου είναι ακόμα σε αναμονή."
 
 msgid "TXT_NOTSAVEABLE"
-msgstr "Δέν είσαι σε ένα παιχνίδει που μπορεί να αποθηκευτεί"
+msgstr "Δέν είσαι σε ένα παιχνίδει που μπορεί να αποθηκευτεί."
 
 msgid "TXT_NOTINLEVEL"
 msgstr "Δέν ε'ισαι σε μια πίστα"
@@ -4563,7 +4558,7 @@ msgid "TXT_SAVEFAILED"
 msgstr "Η αποθήκευση απέτυχε"
 
 msgid "TXT_SCREENSHOTERR"
-msgstr "Ένα screenshot δέν μπόρεσε να τραβυχτεί"
+msgstr "Ένα screenshot δέν μπόρεσε να τραβυχτεί."
 
 # As in paused by player %s.
 msgid "TXT_BY"
