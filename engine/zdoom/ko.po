@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 04:38+0000\n"
+"PO-Revision-Date: 2026-02-25 19:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ko/>\n"
@@ -2577,13 +2577,11 @@ msgstr "충분히 가진 것 같은데?"
 msgid "TXT_GOAWAY"
 msgstr "저리 가!"
 
-#, fuzzy
 msgid "TXT_COMM0"
-msgstr "메시지가 옴..."
+msgstr "메시지가 옴…"
 
-#, fuzzy
 msgid "TXT_COMM1"
-msgstr "블랙버드로부터 메시지가 옴..."
+msgstr "블랙버드로부터 메시지가 옴…"
 
 msgid "TXT_FINDHELP"
 msgstr "도움말"
@@ -2772,7 +2770,6 @@ msgstr "E1M4: 수목원"
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: 바조이크의 대동굴"
 
-#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "퀘스트 완료.\n"
@@ -2784,7 +2781,7 @@ msgstr ""
 "\n"
 "\n"
 "\n"
-"ESCAPE키를 누르시오..."
+"Escape키를 누르시오…"
 
 msgid "CE2TEXT"
 msgstr "해내셨습니다!"
