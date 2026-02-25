@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 19:09+0000\n"
+"PO-Revision-Date: 2026-02-25 21:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/uzdoom/common/"
 "es/>\n"
@@ -958,7 +958,7 @@ msgid "OPTVAL_SINC"
 msgstr "Seno cardinal"
 
 msgid "OPTVAL_NOTEONOFFONLY"
-msgstr "Solo notas de Activ./Desact."
+msgstr "Solo notas de Activ/Desact"
 
 msgid "OPTVAL_FULLRAMPING"
 msgstr "Aumento completo"
@@ -1399,7 +1399,7 @@ msgid "OPTVAL_OPENGLES"
 msgstr ""
 
 msgid "MISCMNU_MERGEKEYS"
-msgstr "Combinar Alt/Ctrl/Mayús izq. y der."
+msgstr "Combinar Alt/Ctrl/Mayús izq. y der"
 
 msgid "MISCMNU_WINFULLSCREENTOGGLE"
 msgstr "Alt+Enter alterna pantalla completa"
