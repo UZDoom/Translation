@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-24 19:45+0000\n"
+"PO-Revision-Date: 2026-02-25 22:02+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/uzdoom/glossary/"
 "sr/>\n"
@@ -78,7 +78,37 @@ msgid "YM2612"
 msgstr "YM2612"
 
 msgid "Neko Project II Kai"
-msgstr "Neko Project II Kai"
+msgstr "Неко Пројекат II Каи"
 
 msgid "OPNA"
-msgstr "OPNA"
+msgstr "ОПНА"
+
+msgid "YM2608"
+msgstr "YM2608"
+
+msgid "Opal"
+msgstr "Опал"
+
+msgid "YM3438"
+msgstr "YM3438"
+
+msgid "OPN2"
+msgstr "OPN2"
+
+msgid "OPN2-LLE"
+msgstr "OPN2-LLE"
+
+msgid "YMF276"
+msgstr "YMF276"
+
+msgid "GENS"
+msgstr "GENS"
+
+msgid "Uncharted 2"
+msgstr "Неистражено 2"
+
+msgid "Reinhard"
+msgstr "Рајнхард"
+
+msgid "Hejl Dawson"
+msgstr "Hejl Dawson"
