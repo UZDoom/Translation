@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 21:09+0000\n"
+"PO-Revision-Date: 2026-02-25 22:03+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/sv/>\n"
@@ -471,7 +471,7 @@ msgid "AMSTR_GRIDOFF"
 msgstr "Rutnät AV"
 
 msgid "AMSTR_TEXON"
-msgstr "Texturläge på"
+msgstr "Texturläge PÅ"
 
 msgid "AMSTR_TEXOFF"
 msgstr "Texturläge AV"
@@ -2857,11 +2857,11 @@ msgstr ""
 
 msgctxt "chex"
 msgid "STSTR_DQDON"
-msgstr "Oövervinnerligt läge på"
+msgstr "Oövervinnerligt läge PÅ"
 
 msgctxt "chex"
 msgid "STSTR_DQDOFF"
-msgstr "Oövervinnerligt läge av"
+msgstr "Oövervinnerligt läge AV"
 
 msgctxt "chex"
 msgid "STSTR_FAADDED"
