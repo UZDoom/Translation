@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 04:38+0000\n"
+"PO-Revision-Date: 2026-02-25 19:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/sr/>\n"
@@ -2583,9 +2583,8 @@ msgstr "Одлази!"
 msgid "TXT_COMM0"
 msgstr "Наилази порука..."
 
-#, fuzzy
 msgid "TXT_COMM1"
-msgstr "Наилази порука од Црне птице...."
+msgstr "Наилази порука од Црне птице…"
 
 msgid "TXT_FINDHELP"
 msgstr "Нађи помоћ"
@@ -2774,7 +2773,6 @@ msgstr "Е1М4: Ботаничка башта"
 msgid "CHUSTR_E1M5"
 msgstr "Е1М5: Пећине Базоика"
 
-#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Мисија је извршена.\n"
@@ -2786,7 +2784,7 @@ msgstr ""
 "\n"
 "\n"
 "\n"
-"Притисни ESC да наставиш..."
+"Притисни Esc да наставиш…"
 
 msgid "CE2TEXT"
 msgstr "Урадио си то!"
