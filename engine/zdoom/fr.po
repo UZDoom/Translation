@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 04:38+0000\n"
+"PO-Revision-Date: 2026-02-25 19:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fr/>\n"
@@ -508,16 +508,16 @@ msgid "SPREE25"
 msgstr "%k est tout-puissant !"
 
 msgid "MULTI2"
-msgstr "Double kill!"
+msgstr "Double kill !"
 
 msgid "MULTI3"
-msgstr "Multi kill!"
+msgstr "Multi kill !"
 
 msgid "MULTI4"
 msgstr "Ultra kill !"
 
 msgid "MULTI5"
-msgstr "Monster kill!"
+msgstr "Monster kill !"
 
 #, fuzzy
 msgid "SCORE_BONUS"
@@ -2579,13 +2579,11 @@ msgstr "Vous avez l'air d'en avoir assez !"
 msgid "TXT_GOAWAY"
 msgstr "Allez-vous en !"
 
-#, fuzzy
 msgid "TXT_COMM0"
-msgstr "Message reçu."
+msgstr "Message reçu…"
 
-#, fuzzy
 msgid "TXT_COMM1"
-msgstr "Message reçu de BlackBird"
+msgstr "Message reçu de BlackBird…"
 
 msgid "TXT_FINDHELP"
 msgstr "Trouvez de L'aide"
@@ -2773,7 +2771,6 @@ msgstr "E1M4 : L'Arboretum"
 msgid "CHUSTR_E1M5"
 msgstr "E1M5 : Les cavernes de Bazoik"
 
-#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Mission accomplie.\n"
@@ -2785,7 +2782,7 @@ msgstr ""
 "\n"
 "\n"
 "\n"
-"Appuyez sur échap pour continuer..."
+"Appuyez sur échap pour continuer…"
 
 msgid "CE2TEXT"
 msgstr "Vous l'avez fait !"
