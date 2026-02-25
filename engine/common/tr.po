@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 21:10+0000\n"
+"PO-Revision-Date: 2026-02-25 22:03+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/uzdoom/common/"
 "tr/>\n"
@@ -1022,13 +1022,13 @@ msgid "OPTVAL_OPALOPL3"
 msgstr ""
 
 msgid "OPTVAL_NUKEDOPL3174"
-msgstr "Bombalanmış OPL3 v1.7.4"
+msgstr "Nuked OPL3 v1.7.4"
 
 msgid "OPTVAL_NUKEDOPN2YM3438"
-msgstr "Bombalanmış OPN2 (YM3438)"
+msgstr "Nuked OPN2 (YM3438)"
 
 msgid "OPTVAL_NUKEDOPN2YM2612"
-msgstr "Bombalanmış OPN2 (YM2612)"
+msgstr "Nuked OPN2 (YM2612)"
 
 msgid "OPTVAL_OPN2YM2612LLE"
 msgstr "OPN2-LLE (YM2612) (Sisteme ağır!)"
@@ -1130,13 +1130,13 @@ msgid "OPTVAL_1024K"
 msgstr ""
 
 msgid "OPTVAL_UNCHARTED2"
-msgstr ""
+msgstr "Uncharted 2"
 
 msgid "OPTVAL_HEJLDAWSON"
-msgstr ""
+msgstr "Hejl Dawson"
 
 msgid "OPTVAL_REINHARD"
-msgstr ""
+msgstr "Reinhard"
 
 msgid "OPTVAL_PALETTE"
 msgstr "Palet"
