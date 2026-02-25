@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 04:38+0000\n"
+"PO-Revision-Date: 2026-02-25 19:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ru/>\n"
@@ -2575,13 +2575,11 @@ msgstr "Кажется, тебе хватит!"
 msgid "TXT_GOAWAY"
 msgstr "Уходи!"
 
-#, fuzzy
 msgid "TXT_COMM0"
-msgstr "Входящее сообщение..."
+msgstr "Входящее сообщение…"
 
-#, fuzzy
 msgid "TXT_COMM1"
-msgstr "Входящее сообщение от «Чёрного дрозда»..."
+msgstr "Входящее сообщение от «Чёрного дрозда»…"
 
 msgid "TXT_FINDHELP"
 msgstr "Найди помощь"
@@ -2770,7 +2768,6 @@ msgstr "E1M4: Дендрарий"
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: Пещеры Базоика"
 
-#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Миссия выполнена.\n"
@@ -2782,7 +2779,7 @@ msgstr ""
 "\n"
 "\n"
 "\n"
-"Нажмите ESC для продолжения..."
+"Нажмите Esc для продолжения…"
 
 msgid "CE2TEXT"
 msgstr "Вы справились!"
