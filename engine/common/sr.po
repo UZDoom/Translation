@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 22:02+0000\n"
+"PO-Revision-Date: 2026-02-25 22:23+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/uzdoom/common/"
 "sr/>\n"
@@ -1132,7 +1132,7 @@ msgid "OPTVAL_UNCHARTED2"
 msgstr "Неистражено 2"
 
 msgid "OPTVAL_HEJLDAWSON"
-msgstr "Хејл Досон"
+msgstr "Хејл-Досон"
 
 msgid "OPTVAL_REINHARD"
 msgstr "Рајнхард"
@@ -1533,10 +1533,10 @@ msgid "VKMNU_HDR"
 msgstr "HDR"
 
 msgid "VK_WARNING"
-msgstr "УПОЗОРЕЊЕ: Vulkan рендерер је врло експерименталан!"
+msgstr "Упозорење: Vulkan рендерер је врло експерименталан!"
 
 msgid "VK_RESTART"
-msgstr "Морате поново покренути GZDoom да би промене ступиле на снагу."
+msgstr "Ове опције ће захтевати поновно покретање да би ступиле на снагу."
 
 msgid "OPTVAL_SCALENX"
 msgstr "ScaleNx"
