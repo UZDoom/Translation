@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 04:38+0000\n"
+"PO-Revision-Date: 2026-02-25 21:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/be/>\n"
@@ -453,27 +453,26 @@ msgstr "Усе артэфакты!"
 msgid "TXT_WHAT_KILL"
 msgstr "Што вы хочаце забіць па-за гульнёй?"
 
-#, fuzzy
 msgid "TXT_NOT_FROZEN"
-msgstr "Уласцівасці замарожанага гульца адключаны"
+msgstr "Уласцівасці замарожанага гульца ВЫКЛ"
 
 msgid "AMSTR_FOLLOWOFF"
-msgstr "Прывязка да гульца ВЫКЛЮЧАНА"
+msgstr "Прывязка да гульца ВЫКЛ"
 
 msgid "AMSTR_FOLLOWON"
-msgstr "Прывязка да гульца ЎКЛЮЧАНА"
+msgstr "Прывязка да гульца УКЛ"
 
 msgid "AMSTR_GRIDON"
-msgstr "Сетка ЎКЛЮЧАНА"
+msgstr "Сетка УКЛ"
 
 msgid "AMSTR_GRIDOFF"
-msgstr "Сетка ВЫКЛЮЧАНА"
+msgstr "Сетка ВЫКЛ"
 
 msgid "AMSTR_TEXON"
-msgstr "Тэкстурны рэжым УКЛЮЧАНЫ"
+msgstr "Тэкстурны рэжым УКЛ"
 
 msgid "AMSTR_TEXOFF"
-msgstr "Тэкстурны рэжым ВЫКЛЮЧАНЫ"
+msgstr "Тэкстурны рэжым ВЫКЛ"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Метка"
