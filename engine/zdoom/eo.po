@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 04:38+0000\n"
+"PO-Revision-Date: 2026-02-25 19:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/eo/>\n"
@@ -2574,13 +2574,11 @@ msgstr "Vi ŝajnas havi sufiĉe!"
 msgid "TXT_GOAWAY"
 msgstr "Foriru!"
 
-#, fuzzy
 msgid "TXT_COMM0"
-msgstr "Alvenas mesaĝo..."
+msgstr "Alvenas mesaĝo…"
 
-#, fuzzy
 msgid "TXT_COMM1"
-msgstr "Alvenas mesaĝo de Merlo..."
+msgstr "Alvenas mesaĝo de Merlo…"
 
 msgid "TXT_FINDHELP"
 msgstr "Trovu helpon."
@@ -2769,7 +2767,6 @@ msgstr "E1M4: Arbejo"
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: Kavernoj de Bazojko"
 
-#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Misio elfarita.\n"
@@ -2781,7 +2778,7 @@ msgstr ""
 "\n"
 "\n"
 "\n"
-"Premu la eskapan klavon por daŭri..."
+"Premu la eskapan klavon por daŭri…"
 
 msgid "CE2TEXT"
 msgstr "Vi sukcesis!"
