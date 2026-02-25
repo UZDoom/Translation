@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 19:10+0000\n"
+"PO-Revision-Date: 2026-02-25 21:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/uzdoom/common/"
 "ro/>\n"
@@ -1430,7 +1430,7 @@ msgid "MISCMNU_CLEANMENU"
 msgstr "Dezactivează Scara Nouă a Meniurilor"
 
 msgid "MISCMNU_PAUSEINBACKGROUND"
-msgstr "Pauză dacă jocul este minimizat."
+msgstr "Pauză dacă jocul este minimizat"
 
 msgid "HUDMNU_CROSSHAIR"
 msgstr "Țintă implicită"
@@ -1536,7 +1536,7 @@ msgid "VK_WARNING"
 msgstr "Atenție: Modul Vulkan este încă în curs de testare!"
 
 msgid "VK_RESTART"
-msgstr "Aceste setări necesită o repornire pentru a putea fi aplicate"
+msgstr "Aceste setări necesită o repornire pentru a putea fi aplicate."
 
 msgid "OPTVAL_SCALENX"
 msgstr ""
@@ -1705,7 +1705,7 @@ msgid "PICKER_TAB_MULTI"
 msgstr "Joc Online"
 
 msgid "PICKER_LOADSAVE"
-msgstr "Încarcă Salvarea"
+msgstr "Încarcă Salvarea:"
 
 msgid "PICKER_REMSAVE"
 msgstr "Reține Salvarea"
@@ -1763,7 +1763,7 @@ msgid "PICKER_TEAMHINT"
 msgstr "255 = Aleatoriu"
 
 msgid "PICKER_IP"
-msgstr "IP Server"
+msgstr "IP Server:"
 
 msgid "PICKER_TDMLABEL"
 msgstr "Deathmatch în Echipă:"
