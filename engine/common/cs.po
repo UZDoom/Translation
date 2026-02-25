@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 19:10+0000\n"
+"PO-Revision-Date: 2026-02-25 21:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/uzdoom/common/cs/>"
 "\n"
@@ -340,13 +340,13 @@ msgid "MAPCNTRLMNU_TOGGLEFOLLOW"
 msgstr "Sledování hráče vyp/zap"
 
 msgid "MAPCNTRLMNU_TOGGLEGRID"
-msgstr "Mřížka vyp./zap."
+msgstr "Mřížka vyp/zap"
 
 msgid "MAPCNTRLMNU_ROTATE"
-msgstr "Otáčení vyp./zap."
+msgstr "Otáčení vyp/zap"
 
 msgid "MAPCNTRLMNU_TOGGLETEXTURE"
-msgstr "Textury vyp./zap."
+msgstr "Textury vyp/zap"
 
 msgid "CNTRLMNU_AUTOMAP"
 msgstr "Otevřít/zavřít automapu"
@@ -1746,7 +1746,7 @@ msgid "PICKER_PLAYERS"
 msgstr "Maximální počet hráčů:"
 
 msgid "PICKER_PORT"
-msgstr "Port hostitele"
+msgstr "Port hostitele:"
 
 # Max number of players.
 msgid "PICKER_PLAYERHINT"
@@ -1761,7 +1761,7 @@ msgid "PICKER_TEAMHINT"
 msgstr "255 = náhodný"
 
 msgid "PICKER_IP"
-msgstr "IP hostitele"
+msgstr "IP hostitele:"
 
 msgid "PICKER_TDMLABEL"
 msgstr "Týmový deathmatch:"
