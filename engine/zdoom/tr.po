@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 04:38+0000\n"
+"PO-Revision-Date: 2026-02-25 19:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/tr/>\n"
@@ -2580,9 +2580,8 @@ msgstr "Git başımdan!"
 msgid "TXT_COMM0"
 msgstr "Gelen Mesaj..."
 
-#, fuzzy
 msgid "TXT_COMM1"
-msgstr "Gelen Mesaj..."
+msgstr "Gelen Mesaj…"
 
 msgid "TXT_FINDHELP"
 msgstr "Yardım bul"
@@ -2771,7 +2770,6 @@ msgstr ""
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: Bazoik Mağaraları"
 
-#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Görev tamamlandı.\n"
@@ -2783,7 +2781,7 @@ msgstr ""
 "\n"
 "\n"
 "\n"
-"Devam etmek için kaçış tuşuna basın..."
+"Devam etmek için kaçış tuşuna basın…"
 
 msgid "CE2TEXT"
 msgstr "Başardınız!"
