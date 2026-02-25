@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 04:38+0000\n"
+"PO-Revision-Date: 2026-02-25 19:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/pt/>\n"
@@ -2567,13 +2567,11 @@ msgstr "Pareces ter o suficiente!"
 msgid "TXT_GOAWAY"
 msgstr "Vai-te embora!"
 
-#, fuzzy
 msgid "TXT_COMM0"
-msgstr "A Receber Mensagem..."
+msgstr "A Receber Mensagem…"
 
-#, fuzzy
 msgid "TXT_COMM1"
-msgstr "A Receber Mensagem de BlackBird..."
+msgstr "A Receber Mensagem de BlackBird…"
 
 msgid "TXT_FINDHELP"
 msgstr "Procura ajuda"
@@ -2762,7 +2760,6 @@ msgstr ""
 msgid "CHUSTR_E1M5"
 msgstr ""
 
-#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Missão cumprida.\n"
@@ -2774,7 +2771,7 @@ msgstr ""
 "\n"
 "\n"
 "\n"
-"Carrega ESC para continuar..."
+"Carrega Esc para continuar…"
 
 msgid "CE2TEXT"
 msgstr "Conseguiste!"
