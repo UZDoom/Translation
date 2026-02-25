@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 19:10+0000\n"
+"PO-Revision-Date: 2026-02-25 21:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fr/>\n"
@@ -396,7 +396,7 @@ msgid "TXT_STRANGE"
 msgstr "Vous vous sentez mal à l'aise…"
 
 msgid "TXT_STRANGER"
-msgstr "Vous vous sentez très mal à l'aise..."
+msgstr "Vous vous sentez très mal à l'aise."
 
 msgid "TXT_NOTSTRANGE"
 msgstr "Vous vous sentez vachement moins mal à l'aise."
@@ -452,27 +452,26 @@ msgstr "Tous les artéfacts !"
 msgid "TXT_WHAT_KILL"
 msgstr "Vous voulez tuer quoi en dehors d'une partie ?"
 
-#, fuzzy
 msgid "TXT_NOT_FROZEN"
-msgstr "Propriété gelée du joueur annulée."
+msgstr "Propriété gelée INACTIVE"
 
 msgid "AMSTR_FOLLOWOFF"
-msgstr "Suivi du Joueur OFF"
+msgstr "Suivi du Joueur INACTIF"
 
 msgid "AMSTR_FOLLOWON"
-msgstr "Suivi du Joueur ON"
+msgstr "Suivi du Joueur ACTIF"
 
 msgid "AMSTR_GRIDON"
-msgstr "Quadrillage ON"
+msgstr "Quadrillage ACTIF"
 
 msgid "AMSTR_GRIDOFF"
-msgstr "Quadrillage OFF"
+msgstr "Quadrillage INACTIF"
 
 msgid "AMSTR_TEXON"
 msgstr "Mode Texturé ON"
 
 msgid "AMSTR_TEXOFF"
-msgstr "Mode Texturé OFF"
+msgstr "Mode Texturé INACTIF"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Repère marqué"
@@ -616,10 +615,10 @@ msgid "OB_SPLASH"
 msgstr "%o s'est tenu@[e_fr] au mauvais endroit."
 
 msgid "OB_R_SPLASH"
-msgstr "%o n'avait qu'a reculer, et pourtant..."
+msgstr "%o n'avait qu'a reculer, et pourtan."
 
 msgid "OB_ROCKET"
-msgstr "%o n'avait qu'a reculer, et pourtant..."
+msgstr "%o n'avait qu'a reculer, et pourtant."
 
 msgid "OB_KILLEDSELF"
 msgstr "%o s'est tué@[e_fr]."
@@ -1000,7 +999,7 @@ msgid "OB_BARONHIT"
 msgstr "%o a été déchiré@[e_fr] par un Baron des Enfers."
 
 msgid "OB_KNIGHTHIT"
-msgstr "%o a été étripé@[e_fr] par un un chevalier infernal."
+msgstr "%o a été étripé@[e_fr] par un chevalier infernal."
 
 msgid "OB_ZOMBIE"
 msgstr "%o a été tué@[e_fr] par un zombie."
@@ -1494,7 +1493,7 @@ msgid "TXT_ARTIPUZZGEAR"
 msgstr "Rouage d'Horloge"
 
 msgid "TXT_USEPUZZLEFAILED"
-msgstr "Vous ne pouvez pas utiliser cela ici."
+msgstr "Vous ne pouvez pas utiliser cela ici"
 
 msgid "TXT_ARMOR1"
 msgstr "Armure de Mailles"
@@ -1836,7 +1835,7 @@ msgid "OB_MPCWEAPSTAFFM"
 msgstr "%o s'est fait@[e_fr] mordre par le Bâton du Serpent %k."
 
 msgid "OB_MPCWEAPSTAFFR"
-msgstr "%o s'est étranglé@[e_fr] sur le Bâton du Serpent de %k"
+msgstr "%o s'est étranglé@[e_fr] sur le Bâton du Serpent de %k."
 
 msgid "OB_MPCWEAPFLAME"
 msgstr "%o s'est fait@[e_fr] allumer par %k."
@@ -1873,7 +1872,7 @@ msgid "TXT_SURGERYKIT"
 msgstr "Vous avez pris le kit de chirurgie."
 
 msgid "TXT_STRIFEMAP"
-msgstr "Vous avez pris la carte"
+msgstr "Vous avez pris la carte."
 
 msgid "TXT_BELDINSRING"
 msgstr "Vous avez pris l'anneau."
@@ -1912,7 +1911,7 @@ msgid "TXT_TARGETER"
 msgstr "Vous avez pris le cibleur."
 
 msgid "TXT_COMMUNICATOR"
-msgstr "Vous avez pris le Communicateur"
+msgstr "Vous avez pris le Communicateur."
 
 msgid "TXT_COIN"
 msgstr "Vous avez pris la pièce."
@@ -1951,7 +1950,7 @@ msgid "TXT_MAULER"
 msgstr "Vous avez pris le Broyeur."
 
 msgid "TXT_GLAUNCHER"
-msgstr "Vous avez pris le lance-grenades"
+msgstr "Vous avez pris le lance-grenades."
 
 msgid "TXT_SIGIL"
 msgstr "Vous avez pris le SIGIL."
@@ -2071,67 +2070,64 @@ msgid "TXT_ELECTRICBOLTS"
 msgstr "Vous avez pris les carreaux électriques."
 
 msgid "TXT_AMMOSATCHEL"
-msgstr "Vous avez pris la sacoche de munitions"
+msgstr "Vous avez pris la sacoche de munitions."
 
-#, fuzzy
 msgid "MSG_TALISMANRED"
-msgstr "Vous avez un pressentiment qu'il ne fallait pas y toucher....."
+msgstr "Vous avez un pressentiment qu'il ne fallait pas y toucher…"
 
-#, fuzzy
 msgid "MSG_TALISMANGREEN"
-msgstr "Quel que soit cette chose, elle ne devrait pas être ici..."
+msgstr "Quel que soit cette chose, elle ne devrait pas être ici…"
 
-#, fuzzy
 msgid "MSG_TALISMANBLUE"
-msgstr "Ca doit servir a quelque chose..."
+msgstr "Ca doit servir a quelque chose…"
 
 msgid "MSG_TALISMANPOWER"
 msgstr "Vous avez une puissance inégalée !"
 
 msgid "TXT_NEEDKEY"
-msgstr "Vous n'avez pas la clé."
+msgstr "Vous n'avez pas la clé"
 
 msgid "TXT_NEED_PASSCARD"
-msgstr "Vous avez besoin du passe."
+msgstr "Vous avez besoin du passe"
 
 msgid "TXT_NEED_PASSCARD_DOOR"
-msgstr "Vous avez besoin du passe ouvrir cette porte."
+msgstr "Vous avez besoin du passe ouvrir cette porte"
 
 msgid "TXT_NEED_IDCARD"
-msgstr "Vous avez besoin d'une carte d'identité."
+msgstr "Vous avez besoin d'une carte d'identité"
 
 msgid "TXT_NEED_PRISONKEY"
-msgstr "Vous n'avez pas la clé de la prison."
+msgstr "Vous n'avez pas la clé de la prison"
 
 msgid "TXT_NEED_HANDPRINT"
-msgstr "Votre main n'est pas reconnue par le scanner."
+msgstr "Votre main n'est pas reconnue par le scanner"
 
 msgid "TXT_NEED_GOLDKEY"
-msgstr "Vous avez besoin d'une clé d'or."
+msgstr "Vous avez besoin d'une clé d'or"
 
 msgid "TXT_NEED_IDBADGE"
-msgstr "Vous avez besoin d'un badge d'identification."
+msgstr "Vous avez besoin d'un badge d'identification"
 
 msgid "TXT_NEED_IDBADGE_DOOR"
-msgstr "Vous avez besoin d'un badge d'identification pour ouvrir cette porte."
+msgstr "Vous avez besoin d'un badge d'identification pour ouvrir cette porte"
 
 msgid "TXT_NEED_SILVERKEY"
-msgstr "Vous avez besoin de la clé en argent."
+msgstr "Vous avez besoin de la clé en argent"
 
 msgid "TXT_NEED_BRASSKEY"
-msgstr "Vous avez besoin de la clé en bronze."
+msgstr "Vous avez besoin de la clé en bronze"
 
 msgid "TXT_NEED_REDCRYSTAL"
-msgstr "Vous avez besoin du cristal rouge."
+msgstr "Vous avez besoin du cristal rouge"
 
 msgid "TXT_NEED_BLUECRYSTAL"
-msgstr "Vous avez besoin du cristal bleu."
+msgstr "Vous avez besoin du cristal bleu"
 
 msgid "TXT_RETAIL_ONLY"
-msgstr "Cette zone n'est accessible que dans la version complète de Strife."
+msgstr "Cette zone n'est accessible que dans la version complète de Strife"
 
 msgid "TXT_DOES_NOT_WORK"
-msgstr "Cela ne semble pas fonctionner."
+msgstr "Cela ne semble pas fonctionner"
 
 msgid "TXT_NEED_CHALICE"
 msgstr "Vous avez besoin du calice !"
@@ -2592,9 +2588,8 @@ msgstr "Trouvez de L'aide"
 msgid "TXT_TRADE"
 msgstr "pour %u"
 
-#, fuzzy
 msgid "GOTCHEXARMOR"
-msgstr "Vous avez pris l'armure Chex(R)."
+msgstr "Vous avez pris l'armure Chex®."
 
 msgid "GOTSUPERCHEXARMOR"
 msgstr "Vous avez pris la super armure Chex® !"
@@ -2630,7 +2625,7 @@ msgid "GOTSLIMESUIT"
 msgstr "Combinaison pare-gelée"
 
 msgid "GOTCHEXMAP"
-msgstr "Vous avez trouve une carte informatique de la zone."
+msgstr "Vous avez trouve une carte informatique de la zone"
 
 msgid "GOTZORCHRECHARGE"
 msgstr "Vous avez pris une mini recharge zorch."
@@ -2645,7 +2640,7 @@ msgid "GOTPROPULSORPACK"
 msgstr "Vous avez pris un paquet propulseur zorch."
 
 msgid "GOTPHASINGZORCHERRECHARGE"
-msgstr "Vous avez pris une recharge zorch phasée."
+msgstr "Vous avez pris une recharge zorch phasée"
 
 msgid "GOTPHASINGZORCHERPACK"
 msgstr "Vous avez pris un pack de recharges zorch phasée."
@@ -2795,8 +2790,7 @@ msgstr "Fantastique"
 
 msgid "CLOADNET"
 msgstr ""
-"Vous ne pouvez pas charger quand\n"
-"vous êtes en ligne!\n"
+"Vous ne pouvez pas charger quand vous êtes en ligne!\n"
 "\n"
 "Appuyez sur une touche."
 
@@ -2812,8 +2806,7 @@ msgstr ""
 msgctxt "chex"
 msgid "QLOADNET"
 msgstr ""
-"Vous ne pouvez pas charger quand\n"
-"vous êtes en ligne!\n"
+"Vous ne pouvez pas charger quand vous êtes en ligne!\n"
 "\n"
 "Appuyez sur une touche."
 
@@ -2835,15 +2828,14 @@ msgstr ""
 
 msgid "CNIGHTMARE"
 msgstr ""
-"Attention, ce mode n'y va pas avec tact...\n"
+"Attention, ce mode n'y va pas avec tact.\n"
 "Voulez-vous continuer?\n"
 "\n"
 "Appuyez sur Y ou N."
 
-#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
-"Ceci est Chex(R) Quest. Attendez-vous\n"
+"Ceci est Chex® Quest. Attendez-vous\n"
 "\n"
 "à de futur niveaux sur www.chexquest.com.\n"
 "\n"
@@ -2852,8 +2844,7 @@ msgstr ""
 msgctxt "chex"
 msgid "NETEND"
 msgstr ""
-"Vous ne pouvez pas arrêter la partie quand\n"
-"vous êtes en ligne!\n"
+"Vous ne pouvez pas arrêter la partie quand vous êtes en ligne!\n"
 "\n"
 "Appuyez sur une touche."
 
@@ -4158,7 +4149,7 @@ msgid "OPTVAL_ROTATED"
 msgstr "Tournés"
 
 msgid "OPTVAL_MAPDEFINEDCOLORSONLY"
-msgstr "Couleurs définies carte seul."
+msgstr "Couleurs définies carte seul"
 
 msgid "OPTVAL_NODOORS"
 msgstr "Tout sauf portes"
@@ -4550,16 +4541,16 @@ msgstr "Les changements d'équipe sont désactivés !"
 
 # %s is the player and gender sensitive
 msgid "TXT_JOINED_TEAM"
-msgstr "%s a rejoint l'équipe %t."
+msgstr "%s a rejoint l'équipe %t"
 
 msgid "TXT_LONER"
 msgstr "%s joue maintenant tout seul."
 
 msgid "TXT_LEFTWITHFRAGS"
-msgstr "%s a quitté le jeu avec %d frags."
+msgstr "%s a quitté le jeu avec %d frags"
 
 msgid "TXT_LEFTTHEGAME"
-msgstr "%s a quitté le jeu."
+msgstr "%s a quitté le jeu"
 
 msgid "TXT_COULDNOTREAD"
 msgstr "Impossible de lire la sauvegarde '%s'."
@@ -4576,22 +4567,20 @@ msgstr "La sauvegarde '%s' vient d'une version incompatible."
 msgid "TXT_OTHERENGINESG"
 msgstr "La sauvegarde '%s' vient d'un autre moteur basé sur ZDoom :"
 
-#, fuzzy
 msgid "TXT_TOOOLDSG"
 msgstr ""
 "La sauvegarde '%s' vient d'une version obsolète : %d (%e est la plus "
-"ancienne supportée.)"
+"ancienne supportée)."
 
 # Shouldn’t this say “%e is the newest supported”?
 # 
 # — Undead
 # 
 # Ask Randi: The text is old. I won't change it.
-#, fuzzy
 msgid "TXT_TOONEWSG"
 msgstr ""
 "La sauvegarde '%s' vient d'une version plus récente : %d (%e est la plus "
-"récente supportée.)"
+"récente supportée)."
 
 msgid "TXT_NOMAPSG"
 msgstr "La sauvegarde '%s' ne contient pas la carte actuelle."
@@ -4600,7 +4589,7 @@ msgid "TXT_NOGLOBALSJSON"
 msgstr "%s n'est pas une sauvegarde valide. Fichier 'global.json' manquant."
 
 msgid "TXT_SGINFOERR"
-msgstr "Impossible d'accéder aux infos de sauvegarde dans le fichier '%s'."
+msgstr "Impossible d'accéder aux infos de sauvegarde dans le fichier '%s'"
 
 msgid "TXT_SAVEPENDING"
 msgstr "Une sauvegarde est déjà en cours."
@@ -4609,13 +4598,13 @@ msgid "TXT_NOTSAVEABLE"
 msgstr "Vous n'êtes pas dans une partie sauvegardable."
 
 msgid "TXT_NOTINLEVEL"
-msgstr "Vous n'êtes pas dans un niveau."
+msgstr "Vous n'êtes pas dans un niveau"
 
 msgid "TXT_SPPLAYERDEAD"
-msgstr "Le joueur est mort en mode solo."
+msgstr "Le joueur est mort en mode solo"
 
 msgid "TXT_SAVEFAILED"
-msgstr "La sauvegarde à échoué."
+msgstr "La sauvegarde à échoué"
 
 msgid "TXT_SCREENSHOTERR"
 msgstr "La capture d'écran à échoué."
