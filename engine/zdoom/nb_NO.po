@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 19:10+0000\n"
+"PO-Revision-Date: 2026-02-25 21:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/nb_NO/>\n"
@@ -452,9 +452,8 @@ msgstr "Alle artefakter!"
 msgid "TXT_WHAT_KILL"
 msgstr "Hva vil du drepe utenfor et spill?"
 
-#, fuzzy
 msgid "TXT_NOT_FROZEN"
-msgstr "Frosne spilleregenskaper slått av"
+msgstr "Frosne spilleregenskaper slått AV"
 
 msgid "AMSTR_FOLLOWOFF"
 msgstr "Følgemodus AV"
@@ -951,7 +950,7 @@ msgid "OB_STEALTHVILE"
 msgstr "%o trodde @[pro_dk] så en erkefiende."
 
 msgid "OB_STEALTHBARON"
-msgstr "%o trodde @[pro_dk] så en helvetesbaron"
+msgstr "%o trodde @[pro_dk] så en helvetesbaron."
 
 msgid "OB_STEALTHCACO"
 msgstr "%o trodde @[pro_dk] så en kakodemon."
@@ -2071,17 +2070,14 @@ msgstr "Du plukket opp de elektriske boltene."
 msgid "TXT_AMMOSATCHEL"
 msgstr "Du plukket opp ammunisjonsvesken."
 
-#, fuzzy
 msgid "MSG_TALISMANRED"
-msgstr "Du har en følelse av at den ikke skulle røres..."
+msgstr "Du har en følelse av at den ikke skulle røres…"
 
-#, fuzzy
 msgid "MSG_TALISMANGREEN"
-msgstr "Uansett hva det er, hører det ikke hjemme i denne verden..."
+msgstr "Uansett hva det er, hører det ikke hjemme i denne verden…"
 
-#, fuzzy
 msgid "MSG_TALISMANBLUE"
-msgstr "Det må gjøre noe..."
+msgstr "Det må gjøre noe…"
 
 msgid "MSG_TALISMANPOWER"
 msgstr "Du har superkrefter!"
@@ -2093,13 +2089,13 @@ msgid "TXT_NEED_PASSCARD"
 msgstr "Du trenger et passerkort"
 
 msgid "TXT_NEED_PASSCARD_DOOR"
-msgstr "Du trenger en passerkortnøkkel for å åpne denne døren."
+msgstr "Du trenger en passerkortnøkkel for å åpne denne døren"
 
 msgid "TXT_NEED_IDCARD"
 msgstr "Du trenger et ID-kort"
 
 msgid "TXT_NEED_PRISONKEY"
-msgstr "Du har ikke nøkkelen til fengselet."
+msgstr "Du har ikke nøkkelen til fengselet"
 
 msgid "TXT_NEED_HANDPRINT"
 msgstr "Håndavtrykk finnes ikke i filen"
@@ -2126,7 +2122,7 @@ msgid "TXT_NEED_BLUECRYSTAL"
 msgstr "Du trenger den blå krystallen"
 
 msgid "TXT_RETAIL_ONLY"
-msgstr "Dette området er bare tilgjengelig i salgsversjonen av Strife."
+msgstr "Dette området er bare tilgjengelig i salgsversjonen av Strife"
 
 msgid "TXT_DOES_NOT_WORK"
 msgstr "Det ser ikke ut til å virke"
@@ -2588,13 +2584,11 @@ msgstr "Finn hjelp"
 msgid "TXT_TRADE"
 msgstr "til %u"
 
-#, fuzzy
 msgid "GOTCHEXARMOR"
-msgstr "Plukket opp Chex(R) Armor."
+msgstr "Plukket opp Chex® Armor."
 
-#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
-msgstr "Plukket opp Super Chex(R) Armor!"
+msgstr "Plukket opp Super Chex® Armor!"
 
 msgid "GOTWATER"
 msgstr "Hentet et glass vann."
@@ -2642,7 +2636,7 @@ msgid "GOTPROPULSORPACK"
 msgstr "Plukket opp en zorch fremdriftspakke."
 
 msgid "GOTPHASINGZORCHERRECHARGE"
-msgstr "Plukket opp en fasing zorcher oppladning."
+msgstr "Plukket opp en fasing zorcher oppladning"
 
 msgid "GOTPHASINGZORCHERPACK"
 msgstr "Plukket opp en fasing zorcher-pakke."
@@ -2788,7 +2782,7 @@ msgid "CE3TEXT"
 msgstr "Fantastisk jobb!"
 
 msgid "CE4TEXT"
-msgstr "Fantastisk!"
+msgstr "Fantastisk"
 
 msgid "CLOADNET"
 msgstr ""
@@ -2835,10 +2829,9 @@ msgstr ""
 "\n"
 "Trykk Y eller N."
 
-#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
-"Dette er Chex(R) Quest. se etter fremtidige nivåer på\n"
+"Dette er Chex Quest®. Se etter fremtidige nivåer på\n"
 "\n"
 "fremtidige nivåer på www.chexquest.com.\n"
 "\n"
@@ -2874,10 +2867,9 @@ msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Super Zorch lagt til"
 
-#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
-msgstr "... Spis Chex(R)!"
+msgstr "…Spis Chex®!"
 
 msgctxt "chex"
 msgid "AMMO_CLIP"
@@ -3325,7 +3317,7 @@ msgid "CMPTMNU_RAVENSCROLL"
 msgstr "Raven scrollers bruker original hastighet"
 
 msgid "CMPTMNU_TRACE"
-msgstr "Selvrefererende sektorer blokkerer ikke skudd."
+msgstr "Selvrefererende sektorer blokkerer ikke skudd"
 
 msgid "CMPTMNU_HITSCAN"
 msgstr "Bruk Doom-kode for treffkontroll"
@@ -3745,7 +3737,7 @@ msgid "ALTHUDMNU_AMMORED"
 msgstr "Rød visning av ammunisjonsnivå under %"
 
 msgid "ALTHUDMNU_AMMOYELLOW"
-msgstr "Gult ammunisjonsdisplay under %."
+msgstr "Gult ammunisjonsdisplay under %"
 
 msgid "ALTHUDMNU_HEALTHRED"
 msgstr "Rød helsevisning under"
@@ -4592,7 +4584,7 @@ msgid "TXT_NOGLOBALSJSON"
 msgstr "%s' er ikke et gyldig lagringsspill: Mangler 'globals.json'."
 
 msgid "TXT_SGINFOERR"
-msgstr "Kunne ikke få tilgang til lagringsinformasjon i '%s'."
+msgstr "Kunne ikke få tilgang til lagringsinformasjon i '%s'"
 
 msgid "TXT_SAVEPENDING"
 msgstr "En spilloppdatering venter fortsatt."
@@ -4923,7 +4915,7 @@ msgid "JOYMNU_THRESHOLD"
 msgstr ""
 
 msgid "OPTVAL_LINEAR"
-msgstr "Lineær Lineær"
+msgstr "Lineær"
 
 msgid "OPTVAL_QUADRATIC"
 msgstr ""
