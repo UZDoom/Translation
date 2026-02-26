@@ -4321,9 +4321,6 @@ msgstr "Tirkizna"
 msgid "OPTSTR_HERETIC"
 msgstr "Heretik"
 
-msgid "OPTSTR_CHEX"
-msgstr "Čehs®"
-
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr "Bez interpolacije"
 
