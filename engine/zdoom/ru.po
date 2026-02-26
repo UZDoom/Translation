@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-26 03:13+0000\n"
+"PO-Revision-Date: 2026-02-26 04:12+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ru/>\n"
@@ -4051,7 +4051,6 @@ msgstr "Оба"
 msgid "OPTVAL_ZDOOM"
 msgstr "ZDoom"
 
-#, fuzzy
 msgid "OPTVAL_STRIFE"
 msgstr "Strife"
 
@@ -4169,14 +4168,12 @@ msgstr "Не по союзникам"
 msgid "OPTVAL_ONLYMONSTERS"
 msgstr "Для монстров"
 
-#, fuzzy
 msgid "OPTVAL_HEXEN"
 msgstr "Hexen"
 
 msgid "OPTVAL_OLD"
 msgstr "Старый"
 
-#, fuzzy
 msgid "OPTVAL_DOOM"
 msgstr "Doom"
 
@@ -4184,7 +4181,7 @@ msgid "OPTVAL_DOOMSTRICT"
 msgstr "Doom (строгий)"
 
 msgid "OPTVAL_BOOM"
-msgstr "Boom"
+msgstr "бум"
 
 msgid "OPTVAL_BOOMSTRICT"
 msgstr "Boom (строгий)"
@@ -4327,9 +4324,8 @@ msgstr "\\czМорской"
 msgid "OPTSTR_HERETIC"
 msgstr "Еретик"
 
-#, fuzzy
 msgid "OPTSTR_CHEX"
-msgstr "Chex"
+msgstr "Chex®"
 
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr "Без сглаживания"
