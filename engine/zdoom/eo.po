@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 22:02+0000\n"
+"PO-Revision-Date: 2026-02-26 03:13+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/eo/>\n"
@@ -1924,7 +1924,6 @@ msgstr "Vi trovis degninan minaĵon."
 msgid "TXT_SCANNER"
 msgstr "Vi trovis skanilon."
 
-#, fuzzy
 msgid "TXT_NEEDMAP"
 msgstr "La skanilo ne funkcias sen mapo!"
 
@@ -4317,6 +4316,7 @@ msgstr "\\czBluverda"
 msgid "OPTSTR_HERETIC"
 msgstr "Heretic"
 
+#, fuzzy
 msgid "OPTSTR_CHEX"
 msgstr "Chex"
 
@@ -4333,7 +4333,7 @@ msgid "DSPLYMNU_SWOPT"
 msgstr "Programara bildigilo"
 
 msgid "GLMNU_TITLE"
-msgstr "Agordoj de OpenGL (aparatara bildigilo)"
+msgstr "Agordoj de aparatara bildigilo"
 
 msgid "GLMNU_DYNLIGHT"
 msgstr "Agordoj de dinamikaj lumoj"
