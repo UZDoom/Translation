@@ -4664,11 +4664,6 @@ msgstr "Faktor skaliranja"
 msgid "SCALEMNU_RATIO"
 msgstr "Omjer proporcija"
 
-# as in "Build engine". This should not be translated unless there is a
-# translated name for the engine
-msgid "OPTVAL_BUILD"
-msgstr "Build"
-
 # sv_alwaystally
 msgid "MISCMNU_ALWAYSTALLY"
 msgstr "Prikaži zaslon za prebrojavanje na izlazu s razine"
