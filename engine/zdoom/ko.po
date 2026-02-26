@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-26 04:41+0000\n"
+"PO-Revision-Date: 2026-02-26 04:50+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ko/>\n"
@@ -4321,7 +4321,7 @@ msgid "OPTSTR_HERETIC"
 msgstr "헤러틱 커서"
 
 msgid "OPTSTR_CHEX"
-msgstr "첵스 커서"
+msgstr "첵스® 커서"
 
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr "보간 없음"
