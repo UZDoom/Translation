@@ -4320,9 +4320,6 @@ msgstr "\\cz碧"
 msgid "OPTSTR_HERETIC"
 msgstr "Heretic"
 
-msgid "OPTSTR_CHEX"
-msgstr "Chex®"
-
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr "補間無し"
 
