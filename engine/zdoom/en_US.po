@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-26 04:50+0000\n"
+"PO-Revision-Date: 2026-02-26 23:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/en/>\n"
@@ -16,15 +16,19 @@ msgstr ""
 
 # In some languages, it may make more sense to translate “Press a key” as
 # “Press any key.”
+#, fuzzy
 msgid "PRESSKEY"
 msgstr "Press a key."
 
+#, fuzzy
 msgid "SECRETMESSAGE"
 msgstr "A secret is revealed!"
 
+#, fuzzy
 msgid "D_DEVSTR"
 msgstr "Useless mode ON"
 
+#, fuzzy
 msgid "QUITMSG"
 msgstr ""
 "Are you sure you want to\n"
@@ -32,6 +36,7 @@ msgstr ""
 
 # In some languages, it may make more sense to translate “Press a key” as
 # “Press any key.”
+#, fuzzy
 msgid "LOADNET"
 msgstr ""
 "You can't do load while in a net game!\n"
@@ -40,6 +45,7 @@ msgstr ""
 
 # In some languages, it may make more sense to translate “Press a key” as
 # “Press any key.”
+#, fuzzy
 msgid "QLOADNET"
 msgstr ""
 "You can't quickload during a netgame!\n"
@@ -48,6 +54,7 @@ msgstr ""
 
 # In some languages, it may make more sense to translate “Press a key” as
 # “Press any key.”
+#, fuzzy
 msgid "QSAVESPOT"
 msgstr ""
 "You haven't picked a quicksave slot yet!\n"
@@ -56,6 +63,7 @@ msgstr ""
 
 # In some languages, it may make more sense to translate “Press a key” as
 # “Press any key.”
+#, fuzzy
 msgid "NEWGAME"
 msgstr ""
 "You can't start a new game\n"
@@ -65,6 +73,7 @@ msgstr ""
 
 # In some languages, it may make more sense to translate “Press a key” as
 # “Press any key.”
+#, fuzzy
 msgid "NIGHTMARE"
 msgstr ""
 "Are you sure? This skill level\n"
@@ -74,6 +83,7 @@ msgstr ""
 
 # In some languages, it may make more sense to translate “Press a key” as
 # “Press any key.”
+#, fuzzy
 msgid "SWSTRING"
 msgstr ""
 "This is the shareware version of Doom.\n"
@@ -84,62 +94,75 @@ msgstr ""
 
 # In some languages, it may make more sense to translate “Press a key” as
 # “Press any key.”
+#, fuzzy
 msgid "NETEND"
 msgstr ""
 "You can't end a netgame!\n"
 "\n"
 "Press a key."
 
+#, fuzzy
 msgid "ENDGAME"
 msgstr ""
 "Are you sure you want to end the game?\n"
 "\n"
 "Press Y or N."
 
+#, fuzzy
 msgid "RAVENQUITMSG"
 msgstr "Are you sure you want to quit?"
 
+#, fuzzy
 msgctxt "heretic"
 msgid "SWSTRING"
 msgstr "Only available in the registered version"
 
+#, fuzzy
 msgid "DOSY"
 msgstr "(Press Y to quit)"
 
+#, fuzzy
 msgid "QUITMSG1"
 msgstr ""
 "Please don't leave, there's more\n"
 "demons to toast!"
 
+#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
 "Let's beat it—this is turning\n"
 "into a bloodbath!"
 
+#, fuzzy
 msgid "QUITMSG3"
 msgstr ""
 "I wouldn't leave if I were you.\n"
 "DOS is much worse."
 
+#, fuzzy
 msgid "QUITMSG4"
 msgstr ""
 "You're trying to say you like DOS\n"
 "better than me, right?"
 
+#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
 "Don't leave yet—there's a\n"
 "demon around that corner!"
 
+#, fuzzy
 msgid "QUITMSG6"
 msgstr ""
 "Ya know, next time you come in here\n"
 "I'm gonna toast ya."
 
+#, fuzzy
 msgid "QUITMSG7"
 msgstr "Go ahead and leave. see if I care."
 
 # More info here: https://everything2.com/title/Thou+hast+lost+an+eighth%2521
+#, fuzzy
 msgid "QUITMSG8"
 msgstr ""
 "You want to quit?\n"
@@ -147,27 +170,32 @@ msgstr ""
 
 # A “dimensional shambler” is a creature appearing in the works of H. P.
 # Lovecraft.
+#, fuzzy
 msgid "QUITMSG9"
 msgstr ""
 "Don't go now, there's a \n"
 "dimensional shambler waiting\n"
 "at the DOS prompt!"
 
+#, fuzzy
 msgid "QUITMSG10"
 msgstr ""
 "Get outta here and go back\n"
 "to your boring programs."
 
+#, fuzzy
 msgid "QUITMSG11"
 msgstr ""
 "If I were your boss, I'd \n"
 "deathmatch ya in a minute!"
 
+#, fuzzy
 msgid "QUITMSG12"
 msgstr ""
 "Look, bud. you leave now\n"
 "and you forfeit your body count!"
 
+#, fuzzy
 msgid "QUITMSG13"
 msgstr ""
 "Just leave. when you come\n"
