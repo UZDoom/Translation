@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-26 04:12+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-26 04:14+0000\n"
+"Last-Translator: egoranuchin <Egoranuchin@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ru/>\n"
 "Language: ru\n"
@@ -4047,7 +4047,6 @@ msgstr "Оружие"
 msgid "OPTVAL_BOTH"
 msgstr "Оба"
 
-#, fuzzy
 msgid "OPTVAL_ZDOOM"
 msgstr "ZDoom"
 
