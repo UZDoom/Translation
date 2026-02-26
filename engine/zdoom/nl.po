@@ -4368,9 +4368,6 @@ msgstr "\\czteal"
 msgid "OPTSTR_HERETIC"
 msgstr "Ketter"
 
-msgid "OPTSTR_CHEX"
-msgstr "Chex®"
-
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr "Geen interpolatie"
 
