@@ -4320,9 +4320,6 @@ msgstr "\\cz암청록색"
 msgid "OPTSTR_HERETIC"
 msgstr "헤러틱 커서"
 
-msgid "OPTSTR_CHEX"
-msgstr "첵스 커서"
-
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr "보간 없음"
 
