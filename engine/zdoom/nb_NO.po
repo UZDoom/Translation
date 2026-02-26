@@ -4660,11 +4660,6 @@ msgstr "Skaleringsfaktor"
 msgid "SCALEMNU_RATIO"
 msgstr "Bildeforhold"
 
-# as in "Build engine". This should not be translated unless there is a
-# translated name for the engine
-msgid "OPTVAL_BUILD"
-msgstr ""
-
 # sv_alwaystally
 msgid "MISCMNU_ALWAYSTALLY"
 msgstr "Vis Tally-skjerm på nivåutgang"
