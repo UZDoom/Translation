@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-26 04:14+0000\n"
+"PO-Revision-Date: 2026-02-26 04:50+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/nl/>\n"
@@ -4368,7 +4368,7 @@ msgid "OPTSTR_HERETIC"
 msgstr "Ketter"
 
 msgid "OPTSTR_CHEX"
-msgstr "Chex"
+msgstr "Chex®"
 
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr "Geen interpolatie"
