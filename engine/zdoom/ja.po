@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 21:10+0000\n"
+"PO-Revision-Date: 2026-02-26 03:13+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ja/>\n"
@@ -1927,7 +1927,6 @@ msgstr "デグニン鉱石 取得。"
 msgid "TXT_SCANNER"
 msgstr "スキャナー 入手。"
 
-#, fuzzy
 msgid "TXT_NEEDMAP"
 msgstr "マップが無ければ スキャナーは機能しない!"
 
@@ -4349,7 +4348,7 @@ msgid "GLLIGHTMNU_TITLE"
 msgstr "ダイナミックライト"
 
 msgid "GLLIGHTMNU_LIGHTSENABLED"
-msgstr "ダイナミックライト(OpenGL)"
+msgstr "ダイナミックライト(ハードウェア)"
 
 msgid "GLLIGHTMNU_LIGHTSPRITES"
 msgstr "ライトがスプライトに影響"
