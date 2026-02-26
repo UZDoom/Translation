@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 21:10+0000\n"
+"PO-Revision-Date: 2026-02-26 03:13+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/cs/>\n"
@@ -1926,7 +1926,6 @@ msgstr "Sebral@[ao_cs] jsi degninskou rudu."
 msgid "TXT_SCANNER"
 msgstr "Sebral@[ao_cs] jsi skener."
 
-#, fuzzy
 msgid "TXT_NEEDMAP"
 msgstr "Skener bez mapy fungovat nebude!"
 
