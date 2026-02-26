@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 21:10+0000\n"
+"PO-Revision-Date: 2026-02-26 03:13+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hu/>\n"
@@ -1927,7 +1927,6 @@ msgstr "Felvetted a Degnin Ércet."
 msgid "TXT_SCANNER"
 msgstr "Felvetted a szkennert."
 
-#, fuzzy
 msgid "TXT_NEEDMAP"
 msgstr "Térkép nélkül nem fog működni a szkenner!"
 
@@ -3619,7 +3618,7 @@ msgid "AUTOMAPMNU_TEXTURED"
 msgstr "Textúrázott térkép"
 
 msgid "AUTOMAPMNU_SHOWITEMS"
-msgstr "Tárgy számláló mutatása"
+msgstr "Tárgy számlálók mutatása"
 
 msgid "AUTOMAPMNU_SHOWMONSTERS"
 msgstr "Szörny számláló mutatása"
