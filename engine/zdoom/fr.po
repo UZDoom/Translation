@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-26 04:31+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-02-26 04:41+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fr/>\n"
 "Language: fr\n"
@@ -4639,7 +4639,6 @@ msgstr "Sortie rapide"
 msgid "DSPLYMNU_CUSTOMINVERTMAP"
 msgstr "Couleurs inverses personnalisées"
 
-#, fuzzy
 msgid "DSPLYMNU_CUSTOMINVERTC1"
 msgstr "Couleur foncée pour l'inversion"
 
