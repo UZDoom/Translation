@@ -4325,6 +4325,9 @@ msgstr "\\czТиркизна"
 msgid "OPTSTR_HERETIC"
 msgstr "Јеретик"
 
+msgid "OPTSTR_CHEX"
+msgstr "Чекс"
+
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr "Нема уметања"
 

@@ -4325,6 +4325,9 @@ msgstr "\\cz蓝绿色"
 msgid "OPTSTR_HERETIC"
 msgstr "《异教徒》"
 
+msgid "OPTSTR_CHEX"
+msgstr "《奇克斯》"
+
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr "无插值"
 

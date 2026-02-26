@@ -4323,6 +4323,9 @@ msgstr "\\czМорской"
 msgid "OPTSTR_HERETIC"
 msgstr "Еретик"
 
+msgid "OPTSTR_CHEX"
+msgstr "Chex"
+
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr "Без сглаживания"
 
