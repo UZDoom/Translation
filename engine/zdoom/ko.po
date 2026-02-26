@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-26 03:13+0000\n"
+"PO-Revision-Date: 2026-02-26 04:12+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ko/>\n"
@@ -4180,7 +4180,7 @@ msgid "OPTVAL_DOOMSTRICT"
 msgstr "둠 (엄격하게)"
 
 msgid "OPTVAL_BOOM"
-msgstr "Boom"
+msgstr "붐"
 
 msgid "OPTVAL_BOOMSTRICT"
 msgstr "붐 (엄격하게)"
@@ -4198,7 +4198,7 @@ msgid "OPTVAL_MBF21STRICT"
 msgstr "마린의 절친한 친구21 (엄격하게)"
 
 msgid "OPTVAL_ZDOOM2063"
-msgstr "ZDoom 2.0.63"
+msgstr "Z둠 2.0.63"
 
 msgid "OPTVAL_ERRORS"
 msgstr "에러"
@@ -4320,7 +4320,6 @@ msgstr "\\cz암청록색"
 msgid "OPTSTR_HERETIC"
 msgstr "헤러틱 커서"
 
-#, fuzzy
 msgid "OPTSTR_CHEX"
 msgstr "첵스 커서"
 
