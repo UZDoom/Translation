@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-26 04:12+0000\n"
+"PO-Revision-Date: 2026-02-26 04:41+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/uk/>\n"
@@ -4636,7 +4636,6 @@ msgstr "Швидкий вихід"
 msgid "DSPLYMNU_CUSTOMINVERTMAP"
 msgstr "Налаштування кольорів безсмертя"
 
-#, fuzzy
 msgid "DSPLYMNU_CUSTOMINVERTC1"
 msgstr "Темні кольори"
 
