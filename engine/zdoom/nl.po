@@ -4712,11 +4712,6 @@ msgstr "Schaalfactor"
 msgid "SCALEMNU_RATIO"
 msgstr "Beeldverhouding"
 
-# as in "Build engine". This should not be translated unless there is a
-# translated name for the engine
-msgid "OPTVAL_BUILD"
-msgstr "Bouw"
-
 # sv_alwaystally
 msgid "MISCMNU_ALWAYSTALLY"
 msgstr "Toon tellingen na eind van het level"
