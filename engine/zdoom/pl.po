@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 21:09+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-26 04:14+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/pl/>\n"
 "Language: pl\n"
@@ -1930,7 +1930,6 @@ msgstr "Podniosł@[irreg_3_pl] Rudę Degninu."
 msgid "TXT_SCANNER"
 msgstr "Podniosł@[irreg_3_pl] skaner."
 
-#, fuzzy
 msgid "TXT_NEEDMAP"
 msgstr "Skaner nie zadziała bez mapy!"
 
@@ -3622,7 +3621,7 @@ msgid "AUTOMAPMNU_TEXTURED"
 msgstr "Włącz oteksturowanie mapy"
 
 msgid "AUTOMAPMNU_SHOWITEMS"
-msgstr "Pokaż liczbę przedmiotów"
+msgstr "Pokaż liczby przedmiotów"
 
 msgid "AUTOMAPMNU_SHOWMONSTERS"
 msgstr "Pokaż liczbę potworów"
@@ -4052,10 +4051,10 @@ msgid "OPTVAL_BOTH"
 msgstr "Oba"
 
 msgid "OPTVAL_ZDOOM"
-msgstr ""
+msgstr "ZDoom"
 
 msgid "OPTVAL_STRIFE"
-msgstr ""
+msgstr "Strife"
 
 msgid "OPTVAL_PLAYER"
 msgstr "Gracz"
@@ -4172,19 +4171,19 @@ msgid "OPTVAL_ONLYMONSTERS"
 msgstr "Tylko potwory"
 
 msgid "OPTVAL_HEXEN"
-msgstr ""
+msgstr "Hexen"
 
 msgid "OPTVAL_OLD"
 msgstr "Stare"
 
 msgid "OPTVAL_DOOM"
-msgstr ""
+msgstr "Doom"
 
 msgid "OPTVAL_DOOMSTRICT"
 msgstr "Doom (dokładny)"
 
 msgid "OPTVAL_BOOM"
-msgstr ""
+msgstr "Boom"
 
 msgid "OPTVAL_BOOMSTRICT"
 msgstr "Boom (dokładny)"
@@ -4322,10 +4321,7 @@ msgid "C_TEAL"
 msgstr "\\czmorski"
 
 msgid "OPTSTR_HERETIC"
-msgstr ""
-
-msgid "OPTSTR_CHEX"
-msgstr ""
+msgstr "Heretic"
 
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr "Brak interpolacji"

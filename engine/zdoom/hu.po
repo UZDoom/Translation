@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 21:10+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-26 04:14+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hu/>\n"
 "Language: hu\n"
@@ -1927,7 +1927,6 @@ msgstr "Felvetted a Degnin Ércet."
 msgid "TXT_SCANNER"
 msgstr "Felvetted a szkennert."
 
-#, fuzzy
 msgid "TXT_NEEDMAP"
 msgstr "Térkép nélkül nem fog működni a szkenner!"
 
@@ -3619,7 +3618,7 @@ msgid "AUTOMAPMNU_TEXTURED"
 msgstr "Textúrázott térkép"
 
 msgid "AUTOMAPMNU_SHOWITEMS"
-msgstr "Tárgy számláló mutatása"
+msgstr "Tárgy számlálók mutatása"
 
 msgid "AUTOMAPMNU_SHOWMONSTERS"
 msgstr "Szörny számláló mutatása"
@@ -4049,10 +4048,10 @@ msgid "OPTVAL_BOTH"
 msgstr "Mindkettő"
 
 msgid "OPTVAL_ZDOOM"
-msgstr ""
+msgstr "ZDoom"
 
 msgid "OPTVAL_STRIFE"
-msgstr ""
+msgstr "Strife"
 
 msgid "OPTVAL_PLAYER"
 msgstr "Játékos"
@@ -4169,19 +4168,19 @@ msgid "OPTVAL_ONLYMONSTERS"
 msgstr "Csak szörnyeket"
 
 msgid "OPTVAL_HEXEN"
-msgstr ""
+msgstr "Hexen"
 
 msgid "OPTVAL_OLD"
 msgstr "Régi"
 
 msgid "OPTVAL_DOOM"
-msgstr ""
+msgstr "Doom"
 
 msgid "OPTVAL_DOOMSTRICT"
 msgstr "Doom (szigorú)"
 
 msgid "OPTVAL_BOOM"
-msgstr ""
+msgstr "Boom"
 
 msgid "OPTVAL_BOOMSTRICT"
 msgstr "Boom (szigorú)"
@@ -4319,10 +4318,7 @@ msgid "C_TEAL"
 msgstr "\\cztürkiz"
 
 msgid "OPTSTR_HERETIC"
-msgstr ""
-
-msgid "OPTSTR_CHEX"
-msgstr ""
+msgstr "Heretic"
 
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr "Nincs interoláció"

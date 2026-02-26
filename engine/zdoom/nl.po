@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 21:10+0000\n"
+"PO-Revision-Date: 2026-02-26 04:14+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/nl/>\n"
@@ -4095,11 +4095,9 @@ msgstr "Wapens"
 msgid "OPTVAL_BOTH"
 msgstr "Beide"
 
-#, fuzzy
 msgid "OPTVAL_ZDOOM"
 msgstr "ZDoom"
 
-#, fuzzy
 msgid "OPTVAL_STRIFE"
 msgstr "Strife"
 
@@ -4217,21 +4215,18 @@ msgstr "Nooit vrienden"
 msgid "OPTVAL_ONLYMONSTERS"
 msgstr "Alleen monsters"
 
-#, fuzzy
 msgid "OPTVAL_HEXEN"
 msgstr "Hexen"
 
 msgid "OPTVAL_OLD"
 msgstr "Oud"
 
-#, fuzzy
 msgid "OPTVAL_DOOM"
 msgstr "Doom"
 
 msgid "OPTVAL_DOOMSTRICT"
 msgstr "Doom (streng)"
 
-#, fuzzy
 msgid "OPTVAL_BOOM"
 msgstr "Boom"
 
@@ -4371,10 +4366,6 @@ msgstr "\\czteal"
 
 msgid "OPTSTR_HERETIC"
 msgstr "Ketter"
-
-#, fuzzy
-msgid "OPTSTR_CHEX"
-msgstr "Chex"
 
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr "Geen interpolatie"

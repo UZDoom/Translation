@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 21:10+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-26 04:14+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/cs/>\n"
 "Language: cs\n"
@@ -1926,7 +1926,6 @@ msgstr "Sebral@[ao_cs] jsi degninskou rudu."
 msgid "TXT_SCANNER"
 msgstr "Sebral@[ao_cs] jsi skener."
 
-#, fuzzy
 msgid "TXT_NEEDMAP"
 msgstr "Skener bez mapy fungovat nebude!"
 
@@ -4048,10 +4047,10 @@ msgid "OPTVAL_BOTH"
 msgstr "Obojí"
 
 msgid "OPTVAL_ZDOOM"
-msgstr ""
+msgstr "ZDoom"
 
 msgid "OPTVAL_STRIFE"
-msgstr ""
+msgstr "Strife"
 
 msgid "OPTVAL_PLAYER"
 msgstr "Hráč"
@@ -4168,19 +4167,19 @@ msgid "OPTVAL_ONLYMONSTERS"
 msgstr "Pouze příšery"
 
 msgid "OPTVAL_HEXEN"
-msgstr ""
+msgstr "Hexen"
 
 msgid "OPTVAL_OLD"
 msgstr "Starý"
 
 msgid "OPTVAL_DOOM"
-msgstr ""
+msgstr "Doom"
 
 msgid "OPTVAL_DOOMSTRICT"
 msgstr "Doom (striktní)"
 
 msgid "OPTVAL_BOOM"
-msgstr ""
+msgstr "Boom"
 
 msgid "OPTVAL_BOOMSTRICT"
 msgstr "Boom (striktní)"
@@ -4315,10 +4314,7 @@ msgid "C_TEAL"
 msgstr "\\czModrozelená"
 
 msgid "OPTSTR_HERETIC"
-msgstr ""
-
-msgid "OPTSTR_CHEX"
-msgstr ""
+msgstr "Heretic"
 
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr "Bez interpolace"

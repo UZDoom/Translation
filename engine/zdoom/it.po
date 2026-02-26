@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 22:02+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-26 04:14+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/it/>\n"
 "Language: it\n"
@@ -1928,7 +1928,6 @@ msgstr "Hai raccolto il Minerale Degnin."
 msgid "TXT_SCANNER"
 msgstr "Hai raccolto lo Scanner."
 
-#, fuzzy
 msgid "TXT_NEEDMAP"
 msgstr "Lo scanner non può funzionare senza una mappa!"
 
@@ -3285,19 +3284,19 @@ msgid "CMPTMNU_NODOORLIGHT"
 msgstr "Disabilitato l'effetto Boom della luce della porta"
 
 msgid "CMPTMNU_LIGHT"
-msgstr "Trova le luci vicine come in DOOM"
+msgstr "Trova le luci vicine come in Doom"
 
 msgid "CMPTMNU_SHORTTEX"
-msgstr "Trova le texture più piccole come in DOOM"
+msgstr "Trova le texture più piccole come in Doom"
 
 msgid "CMPTMNU_STAIRS"
 msgstr "Usa la struttura a scalinate più buggata"
 
 msgid "CMPTMNU_FLOORMOVE"
-msgstr "Adotta il comportamento di DOOM per il movimento sul pavimento"
+msgstr "Adotta il comportamento di Doom per il movimento sul pavimento"
 
 msgid "CMPTMNU_POINTONLINE"
-msgstr "Usa l'algoritmo del 'punto giacente sulla linea' di DOOM"
+msgstr "Usa l'algoritmo del 'punto giacente sulla linea' di Doom"
 
 msgid "CMPTMNU_MULTIEXIT"
 msgstr "L'uscita del livello può attivarsi più di una volta"
@@ -3309,7 +3308,7 @@ msgid "CMPTMNU_NOPASSOVER"
 msgstr "Gli attori sono infinitamente alti"
 
 msgid "CMPTMNU_BOOMSCROLL"
-msgstr "Le barre di scorrimento BOOM sono additivi"
+msgstr "Le barre di scorrimento Boom sono additivi"
 
 msgid "CMPTMNU_BADANGLES"
 msgstr "Non si può viaggiare esattamente nelle direzioni cardinali"
@@ -3324,10 +3323,10 @@ msgid "CMPTMNU_TRACE"
 msgstr "Settori autoreferenziati non bloccano i colpi"
 
 msgid "CMPTMNU_HITSCAN"
-msgstr "Usa il codice DOOM per il controllo sugli hitscan"
+msgstr "Usa il codice Doom per il controllo sugli hitscan"
 
 msgid "CMPTMNU_MISSILECLIP"
-msgstr "Usa le altezze di DOOM per il clipping del razzo"
+msgstr "Usa le altezze di Doom per il clipping del razzo"
 
 msgid "CMPTMNU_RENDERINGBEHAVIOR"
 msgstr "Comportamento della grafica"
@@ -3375,7 +3374,7 @@ msgid "CMPTMNU_EXPLODE1"
 msgstr "Nessuna spinta verticale dalle esplosioni"
 
 msgid "CMPTMNU_EXPLODE2"
-msgstr "Usa l'originale comportamento dell'esplosione di DOOM"
+msgstr "Usa l'originale comportamento dell'esplosione di Doom"
 
 msgid "PLYRMNU_RED"
 msgstr "Rosso"
@@ -3621,7 +3620,7 @@ msgid "AUTOMAPMNU_TEXTURED"
 msgstr "Abilita la mostra texture"
 
 msgid "AUTOMAPMNU_SHOWITEMS"
-msgstr "Mostra il conteggio degli oggetti"
+msgstr "Mostra i conteggi degli oggetti"
 
 msgid "AUTOMAPMNU_SHOWMONSTERS"
 msgstr "Mostra il conteggio dei mostri"
@@ -4051,10 +4050,10 @@ msgid "OPTVAL_BOTH"
 msgstr "Entrambi"
 
 msgid "OPTVAL_ZDOOM"
-msgstr ""
+msgstr "ZDoom"
 
 msgid "OPTVAL_STRIFE"
-msgstr ""
+msgstr "Strife"
 
 msgid "OPTVAL_PLAYER"
 msgstr "Giocatore"
@@ -4117,7 +4116,7 @@ msgid "OPTVAL_ONLYLASTONE"
 msgstr "Solo l'ultimo"
 
 msgid "OPTVAL_TRADITIONALDOOM"
-msgstr "DOOM tradizionale"
+msgstr "Doom tradizionale"
 
 msgid "OPTVAL_TRADITIONALSTRIFE"
 msgstr "Strife tradizionale"
@@ -4171,19 +4170,19 @@ msgid "OPTVAL_ONLYMONSTERS"
 msgstr "Solo i mostri"
 
 msgid "OPTVAL_HEXEN"
-msgstr ""
+msgstr "Hexen"
 
 msgid "OPTVAL_OLD"
 msgstr "Vecchio"
 
 msgid "OPTVAL_DOOM"
-msgstr ""
+msgstr "Doom"
 
 msgid "OPTVAL_DOOMSTRICT"
 msgstr "Doom (rigoroso)"
 
 msgid "OPTVAL_BOOM"
-msgstr ""
+msgstr "Boom"
 
 msgid "OPTVAL_BOOMSTRICT"
 msgstr "Boom (rigoroso)"
@@ -4219,7 +4218,7 @@ msgid "OPTVAL_HWPOLY"
 msgstr "Accelerazione Hardware"
 
 msgid "OPTVAL_SWDOOM"
-msgstr "Rendering DOOM software"
+msgstr "Rendering Doom software"
 
 msgid "OPTVAL_SWDOOMTC"
 msgstr "Rendering software a pieni colori"
@@ -4321,10 +4320,7 @@ msgid "C_TEAL"
 msgstr "\\czverde acqua"
 
 msgid "OPTSTR_HERETIC"
-msgstr ""
-
-msgid "OPTSTR_CHEX"
-msgstr ""
+msgstr "Heretic"
 
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr "No interpolazione"
@@ -4339,7 +4335,7 @@ msgid "DSPLYMNU_SWOPT"
 msgstr "Rendering Software"
 
 msgid "GLMNU_TITLE"
-msgstr "Opzioni OpenGL"
+msgstr "Opzioni Rendering Hardware"
 
 msgid "GLMNU_DYNLIGHT"
 msgstr "Opzioni Luci Dinamiche"

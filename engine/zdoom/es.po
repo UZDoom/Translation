@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 21:10+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-26 04:14+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/es/>\n"
 "Language: es\n"
@@ -1927,7 +1927,6 @@ msgstr "Encuentras mineral de Degnin."
 msgid "TXT_SCANNER"
 msgstr "Encuentras un escáner."
 
-#, fuzzy
 msgid "TXT_NEEDMAP"
 msgstr "¡El escáner no funciona sin un mapa!"
 
@@ -3373,7 +3372,7 @@ msgid "CMPTMNU_EXPLODE1"
 msgstr "No causar empuje vertical en explosiones"
 
 msgid "CMPTMNU_EXPLODE2"
-msgstr "Usar comportamiento de explosiones del DOOM original"
+msgstr "Usar comportamiento de explosiones del Doom original"
 
 msgid "PLYRMNU_RED"
 msgstr "Rojo"
@@ -4049,10 +4048,10 @@ msgid "OPTVAL_BOTH"
 msgstr "Ambos"
 
 msgid "OPTVAL_ZDOOM"
-msgstr ""
+msgstr "ZDoom"
 
 msgid "OPTVAL_STRIFE"
-msgstr ""
+msgstr "Strife"
 
 msgid "OPTVAL_PLAYER"
 msgstr "Jugador"
@@ -4169,19 +4168,19 @@ msgid "OPTVAL_ONLYMONSTERS"
 msgstr "Solo monstruos"
 
 msgid "OPTVAL_HEXEN"
-msgstr ""
+msgstr "Hexen"
 
 msgid "OPTVAL_OLD"
 msgstr "Viejo"
 
 msgid "OPTVAL_DOOM"
-msgstr ""
+msgstr "Doom"
 
 msgid "OPTVAL_DOOMSTRICT"
 msgstr "Doom (estricto)"
 
 msgid "OPTVAL_BOOM"
-msgstr ""
+msgstr "Boom"
 
 msgid "OPTVAL_BOOMSTRICT"
 msgstr "Boom (estricto)"
@@ -4319,10 +4318,7 @@ msgid "C_TEAL"
 msgstr "\\czTurquesa"
 
 msgid "OPTSTR_HERETIC"
-msgstr ""
-
-msgid "OPTSTR_CHEX"
-msgstr ""
+msgstr "Heretic"
 
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr "Sin interpolación"
@@ -4337,7 +4333,7 @@ msgid "DSPLYMNU_SWOPT"
 msgstr "Renderizado por «software»"
 
 msgid "GLMNU_TITLE"
-msgstr "Opciones de OpenGL"
+msgstr "Opciones de renderizado por «hardware»"
 
 msgid "GLMNU_DYNLIGHT"
 msgstr "Opciones de luz dinámica"

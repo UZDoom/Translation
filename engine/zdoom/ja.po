@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 21:10+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-26 04:14+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ja/>\n"
 "Language: ja\n"
@@ -1927,7 +1927,6 @@ msgstr "デグニン鉱石 取得。"
 msgid "TXT_SCANNER"
 msgstr "スキャナー 入手。"
 
-#, fuzzy
 msgid "TXT_NEEDMAP"
 msgstr "マップが無ければ スキャナーは機能しない!"
 
@@ -4049,10 +4048,10 @@ msgid "OPTVAL_BOTH"
 msgstr "両方"
 
 msgid "OPTVAL_ZDOOM"
-msgstr ""
+msgstr "ZDoom"
 
 msgid "OPTVAL_STRIFE"
-msgstr ""
+msgstr "Strife"
 
 msgid "OPTVAL_PLAYER"
 msgstr "プレイヤー"
@@ -4169,19 +4168,19 @@ msgid "OPTVAL_ONLYMONSTERS"
 msgstr "モンスターのみ"
 
 msgid "OPTVAL_HEXEN"
-msgstr ""
+msgstr "Hexen"
 
 msgid "OPTVAL_OLD"
 msgstr "旧式"
 
 msgid "OPTVAL_DOOM"
-msgstr ""
+msgstr "Doom"
 
 msgid "OPTVAL_DOOMSTRICT"
 msgstr "Doom(厳密)"
 
 msgid "OPTVAL_BOOM"
-msgstr ""
+msgstr "Boom"
 
 msgid "OPTVAL_BOOMSTRICT"
 msgstr "Boom(厳密)"
@@ -4319,10 +4318,7 @@ msgid "C_TEAL"
 msgstr "\\cz碧"
 
 msgid "OPTSTR_HERETIC"
-msgstr ""
-
-msgid "OPTSTR_CHEX"
-msgstr ""
+msgstr "Heretic"
 
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr "補間無し"
@@ -4349,7 +4345,7 @@ msgid "GLLIGHTMNU_TITLE"
 msgstr "ダイナミックライト"
 
 msgid "GLLIGHTMNU_LIGHTSENABLED"
-msgstr "ダイナミックライト(OpenGL)"
+msgstr "ダイナミックライト(ハードウェア)"
 
 msgid "GLLIGHTMNU_LIGHTSPRITES"
 msgstr "ライトがスプライトに影響"

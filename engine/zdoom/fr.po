@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 22:02+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-26 04:14+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fr/>\n"
 "Language: fr\n"
@@ -2511,8 +2511,7 @@ msgid "OB_MPMINIMISSILELAUNCHER"
 msgstr "%o a avalé le missile de %k."
 
 msgid "OB_MPSTRIFEGRENADE"
-msgstr ""
-"%o a été mis@[e_fr] sens dessus dessous par la grenade explosive de %k."
+msgstr "%o a été mis@[e_fr] sens dessus dessous par la grenade explosive de %k."
 
 msgid "OB_MPPHOSPHOROUSGRENADE"
 msgstr ""
@@ -2790,7 +2789,7 @@ msgstr "Fantastique"
 
 msgid "CLOADNET"
 msgstr ""
-"Vous ne pouvez pas charger quand vous êtes en ligne!\n"
+"Vous ne pouvez pas charger rapidement quand vous êtes en ligne!\n"
 "\n"
 "Appuyez sur une touche."
 
@@ -3284,7 +3283,7 @@ msgid "CMPTMNU_NODOORLIGHT"
 msgstr "Pas d'effet de lumière BOOM sur portes"
 
 msgid "CMPTMNU_LIGHT"
-msgstr "Trouver prochaine texture comme DOOM"
+msgstr "Trouver prochaine texture comme Doom"
 
 msgid "CMPTMNU_SHORTTEX"
 msgstr "Trouver plus petite texture comme Doom"
@@ -3293,10 +3292,10 @@ msgid "CMPTMNU_STAIRS"
 msgstr "Construction d'escalier plus buggée"
 
 msgid "CMPTMNU_FLOORMOVE"
-msgstr "Mouvement des sols à la DOOM"
+msgstr "Mouvement des sols à la Doom"
 
 msgid "CMPTMNU_POINTONLINE"
-msgstr "Algorithme point-sur-ligne de DOOM"
+msgstr "Algorithme point-sur-ligne de Doom"
 
 msgid "CMPTMNU_MULTIEXIT"
 msgstr "Sortie niveau utilisable plusieures fois"
@@ -3308,7 +3307,7 @@ msgid "CMPTMNU_NOPASSOVER"
 msgstr "Hauteur des acteurs infinie"
 
 msgid "CMPTMNU_BOOMSCROLL"
-msgstr "Glisseurs BOOM additifs"
+msgstr "Glisseurs Boom additifs"
 
 msgid "CMPTMNU_BADANGLES"
 msgstr "Direction pure NSEO impossible"
@@ -3323,10 +3322,10 @@ msgid "CMPTMNU_TRACE"
 msgstr "Secteur autoréférencé ne bloque pas les tirs"
 
 msgid "CMPTMNU_HITSCAN"
-msgstr "Vérification Hitscan à la DOOM"
+msgstr "Vérification Hitscan à la Doom"
 
 msgid "CMPTMNU_MISSILECLIP"
-msgstr "Clipping des missiles à la DOOM"
+msgstr "Clipping des missiles à la Doom"
 
 msgid "CMPTMNU_RENDERINGBEHAVIOR"
 msgstr "Comportement d'affichage"
@@ -4050,10 +4049,10 @@ msgid "OPTVAL_BOTH"
 msgstr "Les Deux"
 
 msgid "OPTVAL_ZDOOM"
-msgstr ""
+msgstr "ZDoom"
 
 msgid "OPTVAL_STRIFE"
-msgstr ""
+msgstr "Strife"
 
 msgid "OPTVAL_PLAYER"
 msgstr "Joueur"
@@ -4176,13 +4175,13 @@ msgid "OPTVAL_OLD"
 msgstr "Ancien"
 
 msgid "OPTVAL_DOOM"
-msgstr ""
+msgstr "Doom"
 
 msgid "OPTVAL_DOOMSTRICT"
 msgstr ""
 
 msgid "OPTVAL_BOOM"
-msgstr ""
+msgstr "Boom"
 
 msgid "OPTVAL_BOOMSTRICT"
 msgstr ""
@@ -4320,10 +4319,7 @@ msgid "C_TEAL"
 msgstr "\\czturquoise"
 
 msgid "OPTSTR_HERETIC"
-msgstr ""
-
-msgid "OPTSTR_CHEX"
-msgstr ""
+msgstr "Heretic"
 
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr "Pas d'interpolation"
@@ -4338,7 +4334,7 @@ msgid "DSPLYMNU_SWOPT"
 msgstr "Moteur de Rendu Software"
 
 msgid "GLMNU_TITLE"
-msgstr "Options OpenGL"
+msgstr "Options Moteur de Rendu Hardware"
 
 msgid "GLMNU_DYNLIGHT"
 msgstr "Options Lumières Dynamiques"

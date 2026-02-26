@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 22:03+0000\n"
+"PO-Revision-Date: 2026-02-26 04:12+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/de/>\n"
@@ -3293,7 +3293,7 @@ msgid "CMPTMNU_FLOORMOVE"
 msgstr "Benutze Dooms Verhalten für bewegende Böden"
 
 msgid "CMPTMNU_POINTONLINE"
-msgstr "Benutze Dooms Punkt-auf-Linie Algorithmus"
+msgstr "Benutze Doom's Punkt-auf-Linie Algorithmus"
 
 msgid "CMPTMNU_MULTIEXIT"
 msgstr "Ausgang kann mehr als einmal aktiviert werden"
@@ -3618,7 +3618,7 @@ msgid "AUTOMAPMNU_TEXTURED"
 msgstr "Texturiertes Display aktivieren"
 
 msgid "AUTOMAPMNU_SHOWITEMS"
-msgstr "Gegenstandanzahl anzeigen"
+msgstr "Gegenstandszahlen anzeigen"
 
 msgid "AUTOMAPMNU_SHOWMONSTERS"
 msgstr "Monsteranzahl anzeigen"
@@ -4316,9 +4316,6 @@ msgstr "\\czBlaugrün"
 
 msgid "OPTSTR_HERETIC"
 msgstr "Heretic"
-
-msgid "OPTSTR_CHEX"
-msgstr "Chex"
 
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr "Keine Interpolation"

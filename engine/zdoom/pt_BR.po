@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 21:10+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-26 04:14+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "uzdoom/zdoom-engine-strings/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -3619,7 +3619,7 @@ msgid "AUTOMAPMNU_TEXTURED"
 msgstr "Habilitar automapa texturizado"
 
 msgid "AUTOMAPMNU_SHOWITEMS"
-msgstr "Exibir contagem de itens"
+msgstr "Exibir contagens de itens"
 
 msgid "AUTOMAPMNU_SHOWMONSTERS"
 msgstr "Exibir contagem de monstros"
@@ -4049,10 +4049,10 @@ msgid "OPTVAL_BOTH"
 msgstr "Ambos"
 
 msgid "OPTVAL_ZDOOM"
-msgstr ""
+msgstr "ZDoom"
 
 msgid "OPTVAL_STRIFE"
-msgstr ""
+msgstr "Strife"
 
 msgid "OPTVAL_PLAYER"
 msgstr "Jogador"
@@ -4169,19 +4169,19 @@ msgid "OPTVAL_ONLYMONSTERS"
 msgstr "Somente monstros"
 
 msgid "OPTVAL_HEXEN"
-msgstr ""
+msgstr "Hexen"
 
 msgid "OPTVAL_OLD"
 msgstr "Antigo"
 
 msgid "OPTVAL_DOOM"
-msgstr ""
+msgstr "Doom"
 
 msgid "OPTVAL_DOOMSTRICT"
 msgstr "Doom (estritamente)"
 
 msgid "OPTVAL_BOOM"
-msgstr ""
+msgstr "Boom"
 
 msgid "OPTVAL_BOOMSTRICT"
 msgstr "Boom (estritamente)"
@@ -4319,10 +4319,7 @@ msgid "C_TEAL"
 msgstr "\\czturquesa"
 
 msgid "OPTSTR_HERETIC"
-msgstr ""
-
-msgid "OPTSTR_CHEX"
-msgstr ""
+msgstr "Heretic"
 
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr "Sem interpolação"
