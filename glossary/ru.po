@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-26 03:13+0000\n"
+"PO-Revision-Date: 2026-02-26 04:12+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/glossary/"
 "ru/>\n"
@@ -141,7 +141,7 @@ msgid "Doom"
 msgstr "Doom"
 
 msgid "Boom"
-msgstr "Boom"
+msgstr "бум"
 
 msgid "Strife"
 msgstr "Strife"
@@ -150,7 +150,10 @@ msgid "Hexen"
 msgstr "Hexen"
 
 msgid "Heretic"
-msgstr "Heretic"
+msgstr "Еретик"
 
 msgid "Chex®"
 msgstr "Chex®"
+
+msgid "Chex"
+msgstr "Chex"
