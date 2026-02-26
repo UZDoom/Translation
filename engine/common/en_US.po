@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-26 03:12+0000\n"
+"PO-Revision-Date: 2026-02-26 23:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/uzdoom/common/"
 "en/>\n"
@@ -14,24 +14,30 @@ msgstr ""
 "X-Generator: Weblate 5.16.1-dev\n"
 "X-HeaderCode: default\n"
 
+#, fuzzy
 msgid "PRESSYN"
 msgstr "Press Y or N."
 
+#, fuzzy
 msgid "TXT_YES"
 msgstr "Yes"
 
+#, fuzzy
 msgid "TXT_NO"
 msgstr "No"
 
+#, fuzzy
 msgid "SAVEDEAD"
 msgstr ""
 "You can't save if you aren't playing!\n"
 "\n"
 "Press a key."
 
+#, fuzzy
 msgid "SAFEMESSAGE"
 msgstr "Do you really want to do this?"
 
+#, fuzzy
 msgid "QSPROMPT"
 msgstr ""
 "Quicksave over your game named\n"
@@ -40,6 +46,7 @@ msgstr ""
 "\n"
 "Press Y or N."
 
+#, fuzzy
 msgid "QLPROMPT"
 msgstr ""
 "Do you want to quickload the game named\n"
@@ -49,26 +56,33 @@ msgstr ""
 "Press Y or N."
 
 # This is a gender sensitive message where %s represents the player
+#, fuzzy
 msgid "TXT_X_CHEATS"
 msgstr "%s cheats"
 
+#, fuzzy
 msgid "MSGOFF"
 msgstr "Messages: OFF"
 
+#, fuzzy
 msgid "MSGON"
 msgstr "Messages: ON"
 
+#, fuzzy
 msgid "TXT_SAY"
 msgstr "Say:"
 
+#, fuzzy
 msgid "TXT_QUITENDOOM"
 msgstr "Press any key or click anywhere in the window to quit."
 
 # Savegame
+#, fuzzy
 msgid "NEWSAVE"
 msgstr "<New Save Game>"
 
 # Savegame
+#, fuzzy
 msgid "GGSAVED"
 msgstr "Game saved."
 
@@ -77,47 +91,59 @@ msgid "SAVECOMMENT_TIME"
 msgstr "Time"
 
 # Savegame
+#, fuzzy
 msgid "MNU_LOADGAME"
 msgstr "Load Game"
 
 # Savegame
+#, fuzzy
 msgid "MNU_SAVEGAME"
 msgstr "Save Game"
 
 # Savegame
+#, fuzzy
 msgid "MNU_NOPICTURE"
 msgstr "No Picture"
 
 # Savegame
+#, fuzzy
 msgid "MNU_DIFFVERSION"
 msgstr "Different Version"
 
 # Savegame
+#, fuzzy
 msgid "MNU_NOFILES"
 msgstr "No files"
 
 # Savegame
+#, fuzzy
 msgid "MNU_DELETESG"
 msgstr "Do you really want to delete the savegame?"
 
+#, fuzzy
 msgid "OPTVAL_OFF"
 msgstr "Off"
 
+#, fuzzy
 msgid "OPTVAL_ON"
 msgstr "On"
 
+#, fuzzy
 msgid "OPTVAL_AUTO"
 msgstr "Auto"
 
 msgid "OPTMNU_TITLE"
 msgstr "Options"
 
+#, fuzzy
 msgid "OPTMNU_CONTROLS"
 msgstr "Customize Controls"
 
+#, fuzzy
 msgid "OPTMNU_MOUSE"
 msgstr "Mouse Options"
 
+#, fuzzy
 msgid "OPTMNU_JOYSTICK"
 msgstr "Controller Options"
 
