@@ -4665,11 +4665,6 @@ msgstr "Фактор за скалирање"
 msgid "SCALEMNU_RATIO"
 msgstr "Однос ширине и висине"
 
-# as in "Build engine". This should not be translated unless there is a
-# translated name for the engine
-msgid "OPTVAL_BUILD"
-msgstr "Build"
-
 # sv_alwaystally
 msgid "MISCMNU_ALWAYSTALLY"
 msgstr "Прикажи екран за израчунавање на излазу из нивоа"
