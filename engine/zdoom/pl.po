@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 21:09+0000\n"
+"PO-Revision-Date: 2026-02-26 03:13+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/pl/>\n"
@@ -1930,7 +1930,6 @@ msgstr "Podniosł@[irreg_3_pl] Rudę Degninu."
 msgid "TXT_SCANNER"
 msgstr "Podniosł@[irreg_3_pl] skaner."
 
-#, fuzzy
 msgid "TXT_NEEDMAP"
 msgstr "Skaner nie zadziała bez mapy!"
 
@@ -3622,7 +3621,7 @@ msgid "AUTOMAPMNU_TEXTURED"
 msgstr "Włącz oteksturowanie mapy"
 
 msgid "AUTOMAPMNU_SHOWITEMS"
-msgstr "Pokaż liczbę przedmiotów"
+msgstr "Pokaż liczby przedmiotów"
 
 msgid "AUTOMAPMNU_SHOWMONSTERS"
 msgstr "Pokaż liczbę potworów"
