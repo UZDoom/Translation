@@ -151,8 +151,5 @@ msgstr "헥센"
 msgid "Heretic"
 msgstr "헤러틱"
 
-msgid "Chex®"
-msgstr "첵스"
-
 msgid "Chex"
 msgstr "Chex"
