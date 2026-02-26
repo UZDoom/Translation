@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-26 03:13+0000\n"
+"PO-Revision-Date: 2026-02-26 04:12+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ro/>\n"
@@ -4053,7 +4053,7 @@ msgid "OPTVAL_ZDOOM"
 msgstr ""
 
 msgid "OPTVAL_STRIFE"
-msgstr ""
+msgstr "Strife"
 
 msgid "OPTVAL_PLAYER"
 msgstr "Jucător"
@@ -4170,19 +4170,19 @@ msgid "OPTVAL_ONLYMONSTERS"
 msgstr "Doar monștrilor"
 
 msgid "OPTVAL_HEXEN"
-msgstr ""
+msgstr "Hexen"
 
 msgid "OPTVAL_OLD"
 msgstr "Vechi"
 
 msgid "OPTVAL_DOOM"
-msgstr ""
+msgstr "Doom"
 
 msgid "OPTVAL_DOOMSTRICT"
 msgstr ""
 
 msgid "OPTVAL_BOOM"
-msgstr ""
+msgstr "Boom"
 
 msgid "OPTVAL_BOOMSTRICT"
 msgstr ""
@@ -4218,7 +4218,7 @@ msgid "OPTVAL_HWPOLY"
 msgstr "Accelerat Hardware"
 
 msgid "OPTVAL_SWDOOM"
-msgstr "Software"
+msgstr "Randare software Doom"
 
 msgid "OPTVAL_SWDOOMTC"
 msgstr "Software Color Complet"
@@ -4320,10 +4320,10 @@ msgid "C_TEAL"
 msgstr "\\czMare"
 
 msgid "OPTSTR_HERETIC"
-msgstr ""
+msgstr "Heretic"
 
 msgid "OPTSTR_CHEX"
-msgstr ""
+msgstr "Chex®"
 
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr "Fără interpolare"
