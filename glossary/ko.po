@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-26 03:13+0000\n"
+"PO-Revision-Date: 2026-02-26 04:12+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/glossary/"
 "ko/>\n"
@@ -125,7 +125,7 @@ msgid "ScaleNx"
 msgstr "ScaleNx"
 
 msgid "ZDoom"
-msgstr "ZDoom"
+msgstr "Z둠"
 
 msgid "NormalNx"
 msgstr "NormalNx"
@@ -140,7 +140,7 @@ msgid "Doom"
 msgstr "둠"
 
 msgid "Boom"
-msgstr "Boom"
+msgstr "붐"
 
 msgid "Strife"
 msgstr "스트라이프"
@@ -149,7 +149,10 @@ msgid "Hexen"
 msgstr "헥센"
 
 msgid "Heretic"
-msgstr "Heretic"
+msgstr "헤러틱"
 
 msgid "Chex®"
-msgstr "Chex®"
+msgstr "첵스"
+
+msgid "Chex"
+msgstr "Chex"
