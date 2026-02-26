@@ -4660,11 +4660,6 @@ msgstr "Skalierungsfaktor"
 msgid "SCALEMNU_RATIO"
 msgstr "Seitenverhältnis"
 
-# as in "Build engine". This should not be translated unless there is a
-# translated name for the engine
-msgid "OPTVAL_BUILD"
-msgstr "Build"
-
 # sv_alwaystally
 msgid "MISCMNU_ALWAYSTALLY"
 msgstr "Zeige Ergebnisse beim Verlassen des Levels"
