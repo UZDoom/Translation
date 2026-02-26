@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-26 04:12+0000\n"
+"PO-Revision-Date: 2026-02-26 04:50+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/sr/>\n"
@@ -4326,7 +4326,7 @@ msgid "OPTSTR_HERETIC"
 msgstr "Јеретик"
 
 msgid "OPTSTR_CHEX"
-msgstr "Чекс"
+msgstr "Чекс®"
 
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr "Нема уметања"
