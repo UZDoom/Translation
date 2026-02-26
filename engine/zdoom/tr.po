@@ -4320,6 +4320,9 @@ msgstr "\\czDeniz mavisi"
 msgid "OPTSTR_HERETIC"
 msgstr "Heretic"
 
+msgid "OPTSTR_CHEX"
+msgstr ""
+
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr "Enterpolasyon yok"
 
