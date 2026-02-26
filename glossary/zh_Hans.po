@@ -151,8 +151,5 @@ msgstr "《毁灭巫师》"
 msgid "Heretic"
 msgstr "《异教徒》"
 
-msgid "Chex®"
-msgstr "《奇克斯》"
-
 msgid "Chex"
 msgstr "奇克斯"
