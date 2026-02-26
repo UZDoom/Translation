@@ -4661,11 +4661,6 @@ msgstr "Значення масштабування"
 msgid "SCALEMNU_RATIO"
 msgstr "Співвідношення сторін"
 
-# as in "Build engine". This should not be translated unless there is a
-# translated name for the engine
-msgid "OPTVAL_BUILD"
-msgstr "Build"
-
 # sv_alwaystally
 msgid "MISCMNU_ALWAYSTALLY"
 msgstr "Показати екран статистики після виходу з карти"
