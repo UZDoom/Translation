@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-26 04:12+0000\n"
+"PO-Revision-Date: 2026-02-26 04:14+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/nl/>\n"
@@ -4095,7 +4095,6 @@ msgstr "Wapens"
 msgid "OPTVAL_BOTH"
 msgstr "Beide"
 
-#, fuzzy
 msgid "OPTVAL_ZDOOM"
 msgstr "ZDoom"
 
