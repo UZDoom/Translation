@@ -152,8 +152,5 @@ msgstr "Heksen"
 msgid "Heretic"
 msgstr "Heretik"
 
-msgid "Chex®"
-msgstr "Čehs®"
-
 msgid "Chex"
 msgstr "Čehs"
