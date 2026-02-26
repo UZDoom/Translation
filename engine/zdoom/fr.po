@@ -4664,11 +4664,6 @@ msgstr "Facteur de mise à l'échelle"
 msgid "SCALEMNU_RATIO"
 msgstr "Rapport D'Aspect"
 
-# as in "Build engine". This should not be translated unless there is a
-# translated name for the engine
-msgid "OPTVAL_BUILD"
-msgstr ""
-
 # sv_alwaystally
 msgid "MISCMNU_ALWAYSTALLY"
 msgstr "Montrer les scores en fin de niveau"
