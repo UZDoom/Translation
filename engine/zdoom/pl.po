@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-26 04:31+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-02-26 04:41+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/pl/>\n"
 "Language: pl\n"
@@ -4638,7 +4638,6 @@ msgstr "Szybkie wyjście"
 msgid "DSPLYMNU_CUSTOMINVERTMAP"
 msgstr "Niestandardowa inwersja kolory"
 
-#, fuzzy
 msgid "DSPLYMNU_CUSTOMINVERTC1"
 msgstr "Ciemny kolor do inwersji"
 
