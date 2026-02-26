@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 21:10+0000\n"
+"PO-Revision-Date: 2026-02-26 03:13+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "uzdoom/zdoom-engine-strings/pt_BR/>\n"
@@ -3619,7 +3619,7 @@ msgid "AUTOMAPMNU_TEXTURED"
 msgstr "Habilitar automapa texturizado"
 
 msgid "AUTOMAPMNU_SHOWITEMS"
-msgstr "Exibir contagem de itens"
+msgstr "Exibir contagens de itens"
 
 msgid "AUTOMAPMNU_SHOWMONSTERS"
 msgstr "Exibir contagem de monstros"
