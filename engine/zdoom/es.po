@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 21:10+0000\n"
+"PO-Revision-Date: 2026-02-26 03:13+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/es/>\n"
@@ -1927,7 +1927,6 @@ msgstr "Encuentras mineral de Degnin."
 msgid "TXT_SCANNER"
 msgstr "Encuentras un escáner."
 
-#, fuzzy
 msgid "TXT_NEEDMAP"
 msgstr "¡El escáner no funciona sin un mapa!"
 
@@ -3373,7 +3372,7 @@ msgid "CMPTMNU_EXPLODE1"
 msgstr "No causar empuje vertical en explosiones"
 
 msgid "CMPTMNU_EXPLODE2"
-msgstr "Usar comportamiento de explosiones del DOOM original"
+msgstr "Usar comportamiento de explosiones del Doom original"
 
 msgid "PLYRMNU_RED"
 msgstr "Rojo"
@@ -4337,7 +4336,7 @@ msgid "DSPLYMNU_SWOPT"
 msgstr "Renderizado por «software»"
 
 msgid "GLMNU_TITLE"
-msgstr "Opciones de OpenGL"
+msgstr "Opciones de renderizado por «hardware»"
 
 msgid "GLMNU_DYNLIGHT"
 msgstr "Opciones de luz dinámica"
