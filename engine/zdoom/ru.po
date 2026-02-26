@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-26 04:14+0000\n"
-"Last-Translator: egoranuchin <Egoranuchin@gmail.com>\n"
+"PO-Revision-Date: 2026-02-26 04:50+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ru/>\n"
 "Language: ru\n"
@@ -4324,7 +4324,7 @@ msgid "OPTSTR_HERETIC"
 msgstr "Еретик"
 
 msgid "OPTSTR_CHEX"
-msgstr "Chex"
+msgstr "Chex®"
 
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr "Без сглаживания"
@@ -4640,7 +4640,6 @@ msgstr "Быстрый выход"
 msgid "DSPLYMNU_CUSTOMINVERTMAP"
 msgstr "Настроить цвета при неуязвимости"
 
-#, fuzzy
 msgid "DSPLYMNU_CUSTOMINVERTC1"
 msgstr "Тёмный цвет"
 
@@ -4665,11 +4664,6 @@ msgstr "Значение масштабирования"
 
 msgid "SCALEMNU_RATIO"
 msgstr "Соотношение сторон"
-
-# as in "Build engine". This should not be translated unless there is a
-# translated name for the engine
-msgid "OPTVAL_BUILD"
-msgstr "Билд"
 
 # sv_alwaystally
 msgid "MISCMNU_ALWAYSTALLY"

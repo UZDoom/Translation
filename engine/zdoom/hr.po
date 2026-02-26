@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-26 04:12+0000\n"
+"PO-Revision-Date: 2026-02-26 04:50+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hr/>\n"
@@ -4322,7 +4322,7 @@ msgid "OPTSTR_HERETIC"
 msgstr "Heretik"
 
 msgid "OPTSTR_CHEX"
-msgstr "Čehs"
+msgstr "Čehs®"
 
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr "Bez interpolacije"
@@ -4663,11 +4663,6 @@ msgstr "Faktor skaliranja"
 
 msgid "SCALEMNU_RATIO"
 msgstr "Omjer proporcija"
-
-# as in "Build engine". This should not be translated unless there is a
-# translated name for the engine
-msgid "OPTVAL_BUILD"
-msgstr "Build"
 
 # sv_alwaystally
 msgid "MISCMNU_ALWAYSTALLY"

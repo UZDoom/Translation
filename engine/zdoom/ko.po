@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-26 04:12+0000\n"
+"PO-Revision-Date: 2026-02-26 04:50+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ko/>\n"
@@ -4321,7 +4321,7 @@ msgid "OPTSTR_HERETIC"
 msgstr "헤러틱 커서"
 
 msgid "OPTSTR_CHEX"
-msgstr "첵스 커서"
+msgstr "첵스® 커서"
 
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr "보간 없음"
@@ -4638,7 +4638,6 @@ msgstr "빠른 종료"
 msgid "DSPLYMNU_CUSTOMINVERTMAP"
 msgstr "사용자 지정 반전 맵"
 
-#, fuzzy
 msgid "DSPLYMNU_CUSTOMINVERTC1"
 msgstr "사용자 지정 어두운 반전 색상"
 
@@ -4663,11 +4662,6 @@ msgstr "스케일링 계수"
 
 msgid "SCALEMNU_RATIO"
 msgstr "화면 비율"
-
-# as in "Build engine". This should not be translated unless there is a
-# translated name for the engine
-msgid "OPTVAL_BUILD"
-msgstr ""
 
 # sv_alwaystally
 msgid "MISCMNU_ALWAYSTALLY"
