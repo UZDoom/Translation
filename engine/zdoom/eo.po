@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-26 04:12+0000\n"
+"PO-Revision-Date: 2026-02-26 04:41+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/eo/>\n"
@@ -4634,7 +4634,6 @@ msgstr "Rapida eliro"
 msgid "DSPLYMNU_CUSTOMINVERTMAP"
 msgstr "Agordi inversan mapon"
 
-#, fuzzy
 msgid "DSPLYMNU_CUSTOMINVERTC1"
 msgstr "Agordi inversan malhelan koloron"
 
