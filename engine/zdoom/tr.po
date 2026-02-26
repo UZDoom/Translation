@@ -4662,11 +4662,6 @@ msgstr "Ölçekleme faktörü"
 msgid "SCALEMNU_RATIO"
 msgstr "En boy oranı"
 
-# as in "Build engine". This should not be translated unless there is a
-# translated name for the engine
-msgid "OPTVAL_BUILD"
-msgstr ""
-
 # sv_alwaystally
 msgid "MISCMNU_ALWAYSTALLY"
 msgstr "Seviye Çıkışında Çetele Ekranını Göster"
