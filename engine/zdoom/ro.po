@@ -4666,11 +4666,6 @@ msgstr "Factor de scalare"
 msgid "SCALEMNU_RATIO"
 msgstr "Aspect imagine"
 
-# as in "Build engine". This should not be translated unless there is a
-# translated name for the engine
-msgid "OPTVAL_BUILD"
-msgstr ""
-
 # sv_alwaystally
 msgid "MISCMNU_ALWAYSTALLY"
 msgstr "Afișează Totalul la Ieșirea din Nivel"
