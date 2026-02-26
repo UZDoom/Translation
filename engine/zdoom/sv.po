@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 22:03+0000\n"
+"PO-Revision-Date: 2026-02-26 03:13+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/sv/>\n"
@@ -2790,7 +2790,7 @@ msgstr "Fantastiskt"
 
 msgid "CLOADNET"
 msgstr ""
-"Du kan inte göra lastning när du är i ett nätspel!\n"
+"Du kan inte göra snabbladdning när du är i ett nätspel!\n"
 "\n"
 "Tryck på en tangent."
 
