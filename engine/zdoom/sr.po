@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-26 03:13+0000\n"
+"PO-Revision-Date: 2026-02-26 04:12+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/sr/>\n"
@@ -4185,7 +4185,7 @@ msgid "OPTVAL_DOOMSTRICT"
 msgstr "Doom (строг)"
 
 msgid "OPTVAL_BOOM"
-msgstr "Boom"
+msgstr "Бум"
 
 msgid "OPTVAL_BOOMSTRICT"
 msgstr "Boom (строг)"
@@ -4203,7 +4203,7 @@ msgid "OPTVAL_MBF21STRICT"
 msgstr "MBF21 (строг)"
 
 msgid "OPTVAL_ZDOOM2063"
-msgstr "ZDoom 2.0.63"
+msgstr "ЗДум 2.0.63"
 
 msgid "OPTVAL_ERRORS"
 msgstr "Грешка"
@@ -4325,9 +4325,8 @@ msgstr "\\czТиркизна"
 msgid "OPTSTR_HERETIC"
 msgstr "Јеретик"
 
-#, fuzzy
 msgid "OPTSTR_CHEX"
-msgstr "Чекс"
+msgstr "Чекс®"
 
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr "Нема уметања"
