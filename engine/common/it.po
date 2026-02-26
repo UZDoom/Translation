@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 22:22+0000\n"
+"PO-Revision-Date: 2026-02-26 03:13+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/uzdoom/common/"
 "it/>\n"
@@ -785,9 +785,8 @@ msgstr "Opzioni avanzate"
 msgid "SNDMNU_MODREPLAYER"
 msgstr "Opzioni Module replayer"
 
-#, fuzzy
 msgid "SNDMNU_MIDIPLAYER"
-msgstr "Opzioni Midi player"
+msgstr "Opzioni MIDI player"
 
 msgid "ADVSNDMNU_TITLE"
 msgstr "Opzioni avanzate dei suoni"
@@ -1541,16 +1540,16 @@ msgid "OPTVAL_SCALENX"
 msgstr "ScaleNx"
 
 msgid "OPTVAL_NORMALNX"
-msgstr ""
+msgstr "NormalNx"
 
 msgid "OPTVAL_HQNX"
-msgstr ""
+msgstr "hqNx"
 
 msgid "OPTVAL_HQNXMMX"
 msgstr ""
 
 msgid "OPTVAL_NXBRZ"
-msgstr ""
+msgstr "xBRZ"
 
 msgid "OPTVAL_OLD_NXBRZ"
 msgstr "Vecchio xBRZ"
