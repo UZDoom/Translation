@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-26 04:14+0000\n"
+"PO-Revision-Date: 2026-02-26 04:31+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/es_MX/>\n"
@@ -4274,7 +4274,7 @@ msgid "OPTSTR_HERETIC"
 msgstr "Heretic"
 
 msgid "OPTSTR_CHEX"
-msgstr ""
+msgstr "Chex"
 
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr ""
