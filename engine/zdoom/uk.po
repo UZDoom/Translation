@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 22:03+0000\n"
+"PO-Revision-Date: 2026-02-26 03:13+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/uk/>\n"
@@ -1930,7 +1930,6 @@ msgstr "Взято Дегінську руду."
 msgid "TXT_SCANNER"
 msgstr "Отримано сканер."
 
-#, fuzzy
 msgid "TXT_NEEDMAP"
 msgstr "Сканер не буде працювати без карти!"
 
@@ -3309,7 +3308,7 @@ msgid "CMPTMNU_NOPASSOVER"
 msgstr "Всі об'єкти нескінченно високі"
 
 msgid "CMPTMNU_BOOMSCROLL"
-msgstr "BOOM-скролери є адитивними"
+msgstr "Boom-скролери є адитивними"
 
 msgid "CMPTMNU_BADANGLES"
 msgstr "Заборона руху прямо на Пн., Пд., Сх., Зх"
@@ -3621,7 +3620,7 @@ msgid "AUTOMAPMNU_TEXTURED"
 msgstr "Дозволити текстури на автокарті"
 
 msgid "AUTOMAPMNU_SHOWITEMS"
-msgstr "Показати кількість предметів"
+msgstr "Показати лічильники предметів"
 
 msgid "AUTOMAPMNU_SHOWMONSTERS"
 msgstr "Показати кількість монстрів"
@@ -4323,6 +4322,7 @@ msgstr "\\czБірюзовий"
 msgid "OPTSTR_HERETIC"
 msgstr "Heretic"
 
+#, fuzzy
 msgid "OPTSTR_CHEX"
 msgstr "Chex"
 
@@ -4351,7 +4351,7 @@ msgid "GLLIGHTMNU_TITLE"
 msgstr "Динамічне освітлення"
 
 msgid "GLLIGHTMNU_LIGHTSENABLED"
-msgstr "Динамічне освітлення (OpenGL)"
+msgstr "Динамічне освітлення (Апаратний)"
 
 msgid "GLLIGHTMNU_LIGHTSPRITES"
 msgstr "Освітлення впливає на спрайти"
