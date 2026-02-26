@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-26 04:41+0000\n"
+"PO-Revision-Date: 2026-02-26 23:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/glossary/"
 "ko/>\n"
@@ -153,3 +153,9 @@ msgstr "헤러틱"
 
 msgid "Chex"
 msgstr "첵스"
+
+msgid "Press Y or N"
+msgstr "Y키 또는 N키를 누르시오"
+
+msgid "Press a key"
+msgstr "키를 누르시오"
