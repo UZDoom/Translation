@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-25 22:03+0000\n"
+"PO-Revision-Date: 2026-02-26 03:13+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fi/>\n"
@@ -1932,7 +1932,6 @@ msgstr "Poimit Degnin-malmia."
 msgid "TXT_SCANNER"
 msgstr "Poimit skannerin."
 
-#, fuzzy
 msgid "TXT_NEEDMAP"
 msgstr "Skanneri ei toimi ilman karttaa!"
 
@@ -3624,7 +3623,7 @@ msgid "AUTOMAPMNU_TEXTURED"
 msgstr "Ota käyttöön pintakuvioinnit"
 
 msgid "AUTOMAPMNU_SHOWITEMS"
-msgstr "Näytä esineiden lukumäärä"
+msgstr "Näytä esineiden lukumäärät"
 
 msgid "AUTOMAPMNU_SHOWMONSTERS"
 msgstr "Näytä hirviöiden lukumäärä"
