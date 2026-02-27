@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-26 03:12+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-26 17:11+0000\n"
+"Last-Translator: Kaled Marrero <kaledmarrero9@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/uzdoom/common/"
 "es/>\n"
 "Language: es\n"
@@ -1788,3 +1788,6 @@ msgstr "Opciones de Accesibilidad"
 
 msgid "ACCMNU_RESET"
 msgstr "Restablecer opciones de accesibilidad"
+
+msgid "MSGMNU_STACKIDENTICAL"
+msgstr "Apilar mensajes repetidos"

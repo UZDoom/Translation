@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-26 04:50+0000\n"
+"PO-Revision-Date: 2026-02-27 05:50+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/nl/>\n"
@@ -1408,6 +1408,7 @@ msgstr "Grotsleutel"
 msgid "TXT_KEY_AXE"
 msgstr "Bijlsleutel"
 
+#, fuzzy
 msgid "TXT_KEY_FIRE"
 msgstr "Vuursleutel"
 

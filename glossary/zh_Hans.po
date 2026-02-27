@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-26 04:12+0000\n"
+"PO-Revision-Date: 2026-02-26 23:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/glossary/zh_Hans/>\n"
@@ -153,3 +153,9 @@ msgstr "《异教徒》"
 
 msgid "Chex"
 msgstr "奇克斯"
+
+msgid "Press Y or N"
+msgstr "按Y键确认，按N键取消"
+
+msgid "Press a key"
+msgstr "按下任意键"

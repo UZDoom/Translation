@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-26 04:12+0000\n"
+"PO-Revision-Date: 2026-02-26 23:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/glossary/"
 "de/>\n"
@@ -153,3 +153,9 @@ msgstr "Heretic"
 
 msgid "Chex"
 msgstr "Chex"
+
+msgid "Press Y or N"
+msgstr "Drücke Y oder N"
+
+msgid "Press a key"
+msgstr "Drücke eine Taste"
