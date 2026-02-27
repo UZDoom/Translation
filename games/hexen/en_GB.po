@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-26 04:53+0000\n"
+"PO-Revision-Date: 2026-02-26 19:09+0000\n"
 "Last-Translator: Andi Chandler <andi@gowling.com>\n"
 "Language-Team: English (United Kingdom) <https://hosted.weblate.org/projects/"
 "doom-engine-games/hexen/en_GB/>\n"
@@ -254,3 +254,18 @@ msgstr "Stairs have risen on the Seven Portals"
 
 msgid "TXT_ACS_MAP05_6_ONETH"
 msgstr "One third of the puzzle has been solved"
+
+msgid "TXT_ACS_MAP05_7_ONTHE"
+msgstr "on the Seven Portals"
+
+msgid "TXT_ACS_MAP05_8_STAIR"
+msgstr "Stairs have risen on the Seven Portals"
+
+msgid "TXT_ACS_MAP05_9_YOUHA"
+msgstr "You have to find another switch..."
+
+msgid "TXT_ACS_MAP05_10_STONE"
+msgstr "Stones grind on the Seven Portals"
+
+msgid "TXT_ACS_MAP08_6_ONESI"
+msgstr "One sixth of the puzzle has been solved"
