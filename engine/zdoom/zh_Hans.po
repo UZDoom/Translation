@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-27 05:50+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-02-28 04:21+0000\n"
+"Last-Translator: dwing <12104745@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -64,7 +64,7 @@ msgstr ""
 
 msgid "SWSTRING"
 msgstr ""
-"这是毁灭战士的共享软件版本。\n"
+"这是Doom的共享软件版本。\n"
 "\n"
 "你需要购买完整的三部曲。\n"
 "\n"
@@ -3143,7 +3143,7 @@ msgid "GMPLYMNU_DONTCHECKAMMO"
 msgstr "武器切换时检查武器弹药"
 
 msgid "GMPLYMNU_KILLBOSSSPAWNS"
-msgstr "罪恶圣像(最终BOSS)死亡时杀死其刷出来的怪物"
+msgstr "罪恶圣像(最终Boss)死亡时杀死其刷出来的怪物"
 
 msgid "GMPLYMNU_NOCOUNTENDMONSTER"
 msgstr "(关底)最终区域的怪物数也计入击杀"
@@ -3281,25 +3281,25 @@ msgid "CMPTMNU_USEBLOCKING"
 msgstr "所有特殊线都能阻止<use>"
 
 msgid "CMPTMNU_ANYBOSSDEATH"
-msgstr "允许所有关卡特殊的BOSS死法"
+msgstr "允许所有关卡特殊的Boss死法"
 
 msgid "CMPTMNU_NODOORLIGHT"
 msgstr "禁用BOOM门光效"
 
 msgid "CMPTMNU_LIGHT"
-msgstr "像DOOM那样寻找临近区域的光照"
+msgstr "像Doom那样寻找临近区域的光照"
 
 msgid "CMPTMNU_SHORTTEX"
-msgstr "像DOOM那样寻找最短纹理"
+msgstr "像Doom那样寻找最短纹理"
 
 msgid "CMPTMNU_STAIRS"
 msgstr "使用带bug的楼梯生成"
 
 msgid "CMPTMNU_FLOORMOVE"
-msgstr "使用DOOM的地面移动算法"
+msgstr "使用Doom的地面移动算法"
 
 msgid "CMPTMNU_POINTONLINE"
-msgstr "使用DOOM的判断点在线上算法"
+msgstr "使用Doom的判断点在线上算法"
 
 msgid "CMPTMNU_MULTIEXIT"
 msgstr "可以多次触发关卡出口"
@@ -3311,7 +3311,7 @@ msgid "CMPTMNU_NOPASSOVER"
 msgstr "角色都是无限高度"
 
 msgid "CMPTMNU_BOOMSCROLL"
-msgstr "BOOM型的地面滚动是叠加的"
+msgstr "Boom型的地面滚动是叠加的"
 
 msgid "CMPTMNU_BADANGLES"
 msgstr "不允许沿NSEW方向的直线走法"
@@ -3326,10 +3326,10 @@ msgid "CMPTMNU_TRACE"
 msgstr "自我参照的区域不会阻挡射击"
 
 msgid "CMPTMNU_HITSCAN"
-msgstr "使用DOOM代码做瞬间击中判定检测"
+msgstr "使用Doom代码做瞬间击中判定检测"
 
 msgid "CMPTMNU_MISSILECLIP"
-msgstr "使用DOOM高度做炮弹碰撞判定"
+msgstr "使用Doom高度做炮弹碰撞判定"
 
 msgid "CMPTMNU_RENDERINGBEHAVIOR"
 msgstr "渲染行为"
@@ -3377,7 +3377,7 @@ msgid "CMPTMNU_EXPLODE1"
 msgstr "爆炸不会有垂直方向的冲击"
 
 msgid "CMPTMNU_EXPLODE2"
-msgstr "使用原始DOOM的爆炸行为"
+msgstr "使用原始Doom的爆炸行为"
 
 msgid "PLYRMNU_RED"
 msgstr "红色"
