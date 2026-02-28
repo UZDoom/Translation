@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-27 05:50+0000\n"
+"PO-Revision-Date: 2026-02-28 23:45+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/en/>\n"
@@ -2085,6 +2085,7 @@ msgstr "Serpent"
 msgid "FN_ETTIN"
 msgstr "Ettin"
 
+#, fuzzy
 msgid "FN_CENTAUR"
 msgstr "Centaur"
 
@@ -2560,824 +2561,1095 @@ msgstr "You picked up the mini missile launcher."
 msgid "TXT_FLAMER"
 msgstr "You picked up the flame thrower."
 
+#, fuzzy
 msgid "TXT_MAULER"
 msgstr "You picked up the mauler."
 
+#, fuzzy
 msgid "TXT_GLAUNCHER"
 msgstr "You picked up the Grenade launcher."
 
+#, fuzzy
 msgid "TXT_SIGIL"
 msgstr "You picked up the SIGIL."
 
+#, fuzzy
 msgid "TXT_BASEKEY"
 msgstr "You picked up the Base Key."
 
+#, fuzzy
 msgid "TXT_GOVSKEY"
 msgstr "You picked up the Govs Key."
 
+#, fuzzy
 msgid "TXT_PASSCARD"
 msgstr "You picked up the Passcard."
 
+#, fuzzy
 msgid "TXT_IDBADGE"
 msgstr "You picked up the ID Badge."
 
+#, fuzzy
 msgid "TXT_PRISONKEY"
 msgstr "You picked up the Prison Key."
 
+#, fuzzy
 msgid "TXT_SEVEREDHAND"
 msgstr "You picked up the Severed Hand."
 
+#, fuzzy
 msgid "TXT_POWER1KEY"
 msgstr "You picked up the Power1 Key."
 
+#, fuzzy
 msgid "TXT_POWER2KEY"
 msgstr "You picked up the Power2 Key."
 
+#, fuzzy
 msgid "TXT_POWER3KEY"
 msgstr "You picked up the Power3 Key."
 
+#, fuzzy
 msgid "TXT_GOLDKEY"
 msgstr "You picked up the Gold Key."
 
+#, fuzzy
 msgid "TXT_IDCARD"
 msgstr "You picked up the ID Card."
 
+#, fuzzy
 msgid "TXT_SILVERKEY"
 msgstr "You picked up the Silver Key."
 
+#, fuzzy
 msgid "TXT_ORACLEKEY"
 msgstr "You picked up the Oracle Key."
 
+#, fuzzy
 msgid "TXT_MILITARYID"
 msgstr "You picked up the Military ID."
 
+#, fuzzy
 msgid "TXT_ORDERKEY"
 msgstr "You picked up the Order Key."
 
+#, fuzzy
 msgid "TXT_WAREHOUSEKEY"
 msgstr "You picked up the Warehouse Key."
 
+#, fuzzy
 msgid "TXT_BRASSKEY"
 msgstr "You picked up the Brass Key."
 
+#, fuzzy
 msgid "TXT_REDCRYSTAL"
 msgstr "You picked up the Red Crystal Key."
 
+#, fuzzy
 msgid "TXT_BLUECRYSTAL"
 msgstr "You picked up the Blue Crystal Key."
 
+#, fuzzy
 msgid "TXT_CHAPELKEY"
 msgstr "You picked up the Chapel Key."
 
+#, fuzzy
 msgid "TXT_CATACOMBKEY"
 msgstr "You picked up the Catacomb Key."
 
+#, fuzzy
 msgid "TXT_SECURITYKEY"
 msgstr "You picked up the Security Key."
 
+#, fuzzy
 msgid "TXT_COREKEY"
 msgstr "You picked up the Core Key."
 
+#, fuzzy
 msgid "TXT_MAULERKEY"
 msgstr "You picked up the Mauler Key."
 
+#, fuzzy
 msgid "TXT_FACTORYKEY"
 msgstr "You picked up the Factory Key."
 
+#, fuzzy
 msgid "TXT_MINEKEY"
 msgstr "You picked up the Mine Key."
 
+#, fuzzy
 msgid "TXT_NEWKEY5"
 msgstr "You picked up the New Key5."
 
+#, fuzzy
 msgid "TXT_ORACLEPASS"
 msgstr "You picked up the Oracle Pass."
 
+#, fuzzy
 msgid "TXT_HEGRENADES"
 msgstr "You picked up the HE-Grenade Rounds."
 
+#, fuzzy
 msgid "TXT_PHGRENADES"
 msgstr "You picked up the Phosphorus-Grenade Rounds."
 
+#, fuzzy
 msgid "TXT_CLIPOFBULLETS"
 msgstr "You picked up the clip of bullets."
 
+#, fuzzy
 msgid "TXT_BOXOFBULLETS"
 msgstr "You picked up the box of bullets."
 
+#, fuzzy
 msgid "TXT_MINIMISSILES"
 msgstr "You picked up the mini missiles."
 
+#, fuzzy
 msgid "TXT_CRATEOFMISSILES"
 msgstr "You picked up the crate of missiles."
 
+#, fuzzy
 msgid "TXT_ENERGYPOD"
 msgstr "You picked up the energy pod."
 
+#, fuzzy
 msgid "TXT_ENERGYPACK"
 msgstr "You picked up the energy pack."
 
+#, fuzzy
 msgid "TXT_POISONBOLTS"
 msgstr "You picked up the poison bolts."
 
+#, fuzzy
 msgid "TXT_ELECTRICBOLTS"
 msgstr "You picked up the electric bolts."
 
+#, fuzzy
 msgid "TXT_AMMOSATCHEL"
 msgstr "You picked up the ammo satchel."
 
+#, fuzzy
 msgid "MSG_TALISMANRED"
 msgstr "You have a feeling that it wasn't to be touched…"
 
+#, fuzzy
 msgid "MSG_TALISMANGREEN"
 msgstr "Whatever it is, it doesn't belong in this world…"
 
+#, fuzzy
 msgid "MSG_TALISMANBLUE"
 msgstr "It must do something…"
 
+#, fuzzy
 msgid "MSG_TALISMANPOWER"
 msgstr "You have super strength!"
 
+#, fuzzy
 msgid "TXT_NEEDKEY"
 msgstr "You don't have the key"
 
+#, fuzzy
 msgid "TXT_NEED_PASSCARD"
 msgstr "You need a passcard"
 
+#, fuzzy
 msgid "TXT_NEED_PASSCARD_DOOR"
 msgstr "You need a pass card key to open this door"
 
+#, fuzzy
 msgid "TXT_NEED_IDCARD"
 msgstr "You need an ID card"
 
+#, fuzzy
 msgid "TXT_NEED_PRISONKEY"
 msgstr "You don't have the key to the prison"
 
+#, fuzzy
 msgid "TXT_NEED_HANDPRINT"
 msgstr "Hand print not on file"
 
+#, fuzzy
 msgid "TXT_NEED_GOLDKEY"
 msgstr "You need the Gold Key"
 
+#, fuzzy
 msgid "TXT_NEED_IDBADGE"
 msgstr "You need an ID Badge"
 
+#, fuzzy
 msgid "TXT_NEED_IDBADGE_DOOR"
 msgstr "You need an ID Badge to open this door"
 
+#, fuzzy
 msgid "TXT_NEED_SILVERKEY"
 msgstr "You need the Silver Key"
 
+#, fuzzy
 msgid "TXT_NEED_BRASSKEY"
 msgstr "You need the Brass Key"
 
+#, fuzzy
 msgid "TXT_NEED_REDCRYSTAL"
 msgstr "You need the Red Crystal"
 
+#, fuzzy
 msgid "TXT_NEED_BLUECRYSTAL"
 msgstr "You need the Blue Crystal"
 
+#, fuzzy
 msgid "TXT_RETAIL_ONLY"
 msgstr "This area is only available in the retail version of Strife"
 
+#, fuzzy
 msgid "TXT_DOES_NOT_WORK"
 msgstr "That doesn't seem to work"
 
+#, fuzzy
 msgid "TXT_NEED_CHALICE"
 msgstr "You need the chalice!"
 
+#, fuzzy
 msgid "TXT_NEED_OPASS"
 msgstr "You need the Oracle Pass!"
 
+#, fuzzy
 msgid "TAG_PUNCHDAGGER"
 msgstr "Dagger"
 
 # Crossbow with electric bolts
+#, fuzzy
 msgid "TAG_STRIFECROSSBOW1"
 msgstr "Crossbow"
 
 # Crossbow with poison bolts
+#, fuzzy
 msgid "TAG_STRIFECROSSBOW2"
 msgstr "Crossbow"
 
+#, fuzzy
 msgid "TAG_ASSAULTGUN"
 msgstr "Assault Gun"
 
+#, fuzzy
 msgid "TAG_MMLAUNCHER"
 msgstr "Mini Missile Launcher"
 
+#, fuzzy
 msgid "TAG_FLAMER"
 msgstr "Flame Thrower"
 
+#, fuzzy
 msgid "TAG_MAULER1"
 msgstr "Mauler"
 
+#, fuzzy
 msgid "TAG_MAULER2"
 msgstr "Mauler"
 
 # High-explosive grenade launcher
+#, fuzzy
 msgid "TAG_GLAUNCHER1"
 msgstr "Grenade Launcher"
 
 # White phosphorous grenade launcher 
+#, fuzzy
 msgid "TAG_GLAUNCHER2"
 msgstr "Grenade Launcher"
 
+#, fuzzy
 msgid "TAG_SIGIL"
 msgstr "Sigil"
 
+#, fuzzy
 msgid "TAG_COIN"
 msgstr "Coin"
 
+#, fuzzy
 msgid "TAG_MEDPATCH"
 msgstr "Med patch"
 
+#, fuzzy
 msgid "TAG_MEDICALKIT"
 msgstr "Medical kit"
 
+#, fuzzy
 msgid "TAG_SURGERYKIT"
 msgstr "Surgery Kit"
 
+#, fuzzy
 msgid "TAG_BELDINSRING"
 msgstr "Ring"
 
+#, fuzzy
 msgid "TAG_OFFERINGCHALICE"
 msgstr "Offering Chalice"
 
+#, fuzzy
 msgid "TAG_EAR"
 msgstr "Ear"
 
+#, fuzzy
 msgid "TAG_BROKENCOUPLING"
 msgstr "Broken Power Coupling"
 
+#, fuzzy
 msgid "TAG_SHADOWARMOR"
 msgstr "Shadow Armor"
 
+#, fuzzy
 msgid "TAG_ENVSUIT"
 msgstr "Environmental Suit"
 
+#, fuzzy
 msgid "TAG_GUARDUNIFORM"
 msgstr "Guard Uniform"
 
+#, fuzzy
 msgid "TAG_OFFICERSUNIFORM"
 msgstr "Officer's Uniform"
 
+#, fuzzy
 msgid "TAG_FTHROWERPARTS"
 msgstr "Flame Thrower Parts"
 
+#, fuzzy
 msgid "TAG_REPORT"
 msgstr "Report"
 
+#, fuzzy
 msgid "TAG_INFO"
 msgstr "Info"
 
+#, fuzzy
 msgid "TAG_TARGETER"
 msgstr "Targeter"
 
+#, fuzzy
 msgid "TAG_COMMUNICATOR"
 msgstr "Communicator"
 
+#, fuzzy
 msgid "TAG_DEGNINORE"
 msgstr "Degnin Ore"
 
+#, fuzzy
 msgid "TAG_GUNTRAINING"
 msgstr "Accuracy"
 
+#, fuzzy
 msgid "TAG_HEALTHTRAINING"
 msgstr "Toughness"
 
+#, fuzzy
 msgid "TAG_SCANNER"
 msgstr "Scanner"
 
+#, fuzzy
 msgid "TAG_PRISONPASS"
 msgstr "Prison Pass"
 
+#, fuzzy
 msgid "TAG_ALARM"
 msgstr "Alarm"
 
+#, fuzzy
 msgid "TAG_AMMOFILLUP"
 msgstr "Ammo"
 
+#, fuzzy
 msgid "TAG_HEALTHFILLUP"
 msgstr "Health"
 
+#, fuzzy
 msgid "TAG_TELEPORTERBEACON"
 msgstr "Teleporter Beacon"
 
+#, fuzzy
 msgid "TAG_METALARMOR"
 msgstr "Metal Armor"
 
+#, fuzzy
 msgid "TAG_LEATHER"
 msgstr "Leather Armor"
 
+#, fuzzy
 msgid "TAG_HEGRENADES"
 msgstr "HE-Grenade Rounds"
 
+#, fuzzy
 msgid "TAG_PHGRENADES"
 msgstr "Phosphorus-Grenade Rounds"
 
+#, fuzzy
 msgid "TAG_CLIPOFBULLETS"
 msgstr "Clip of Bullets"
 
+#, fuzzy
 msgid "TAG_BOXOFBULLETS"
 msgstr "Ammo"
 
+#, fuzzy
 msgid "TAG_MINIMISSILES"
 msgstr "Mini Missiles"
 
+#, fuzzy
 msgid "TAG_CRATEOFMISSILES"
 msgstr "Crate of Missiles"
 
+#, fuzzy
 msgid "TAG_ENERGYPOD"
 msgstr "Energy Pod"
 
+#, fuzzy
 msgid "TAG_ENERGYPACK"
 msgstr "Energy Pack"
 
+#, fuzzy
 msgid "TAG_POISONBOLTS"
 msgstr "Poison Bolts"
 
+#, fuzzy
 msgid "TAG_ELECTRICBOLTS"
 msgstr "Electric Bolts"
 
+#, fuzzy
 msgid "TAG_AMMOSATCHEL"
 msgstr "Ammo Satchel"
 
 # In-game key list. Use short strings.
+#, fuzzy
 msgid "TAG_BASEKEY"
 msgstr "Base Key"
 
+#, fuzzy
 msgid "TAG_GOVSKEY"
 msgstr "Govs Key"
 
+#, fuzzy
 msgid "TAG_PASSCARD"
 msgstr "Passcard"
 
+#, fuzzy
 msgid "TAG_IDBADGE"
 msgstr "ID Badge"
 
+#, fuzzy
 msgid "TAG_PRISONKEY"
 msgstr "Prison Key"
 
+#, fuzzy
 msgid "TAG_SEVEREDHAND"
 msgstr "Severed Hand"
 
+#, fuzzy
 msgid "TAG_POWER1KEY"
 msgstr "Power1 Key"
 
+#, fuzzy
 msgid "TAG_POWER2KEY"
 msgstr "Power2 Key"
 
+#, fuzzy
 msgid "TAG_POWER3KEY"
 msgstr "Power3 Key"
 
+#, fuzzy
 msgid "TAG_GOLDKEY"
 msgstr "Gold Key"
 
+#, fuzzy
 msgid "TAG_IDCARD"
 msgstr "ID Card"
 
+#, fuzzy
 msgid "TAG_SILVERKEY"
 msgstr "Silver Key"
 
+#, fuzzy
 msgid "TAG_ORACLEKEY"
 msgstr "Oracle Key"
 
+#, fuzzy
 msgid "TAG_MILITARYID"
 msgstr "Military ID"
 
+#, fuzzy
 msgid "TAG_ORDERKEY"
 msgstr "Order Key"
 
+#, fuzzy
 msgid "TAG_WAREHOUSEKEY"
 msgstr "Warehouse Key"
 
+#, fuzzy
 msgid "TAG_BRASSKEY"
 msgstr "Brass Key"
 
+#, fuzzy
 msgid "TAG_REDCRYSTALKEY"
 msgstr "Red Crystal Key"
 
+#, fuzzy
 msgid "TAG_BLUECRYSTALKEY"
 msgstr "Blue Crystal Key"
 
+#, fuzzy
 msgid "TAG_CHAPELKEY"
 msgstr "Chapel Key"
 
+#, fuzzy
 msgid "TAG_CATACOMBKEY"
 msgstr "Catacomb Key"
 
+#, fuzzy
 msgid "TAG_SECURITYKEY"
 msgstr "Security Key"
 
+#, fuzzy
 msgid "TAG_COREKEY"
 msgstr "Core Key"
 
+#, fuzzy
 msgid "TAG_MAULERKEY"
 msgstr "Mauler Key"
 
+#, fuzzy
 msgid "TAG_FACTORYKEY"
 msgstr "Factory Key"
 
+#, fuzzy
 msgid "TAG_MINEKEY"
 msgstr "Mine Key"
 
+#, fuzzy
 msgid "TAG_NEWKEY5"
 msgstr "New Key5"
 
 # End of key list.
+#, fuzzy
 msgid "TAG_ORACLEPASS"
 msgstr "Oracle Pass"
 
+#, fuzzy
 msgid "TAG_10GOLD"
 msgstr "10 gold"
 
+#, fuzzy
 msgid "TAG_25GOLD"
 msgstr "25 gold"
 
+#, fuzzy
 msgid "TAG_50GOLD"
 msgstr "50 gold"
 
+#, fuzzy
 msgid "TAG_300GOLD"
 msgstr "300 gold"
 
+#, fuzzy
 msgid "TXT_PERSON"
 msgstr "Person"
 
+#, fuzzy
 msgid "TAG_ACOLYTE"
 msgstr "Acolyte"
 
+#, fuzzy
 msgid "TAG_ARMORER"
 msgstr "Armorer"
 
+#, fuzzy
 msgid "TAG_BARKEEP"
 msgstr "Bar Keep"
 
+#, fuzzy
 msgid "TAG_BEGGAR"
 msgstr "Beggar"
 
+#, fuzzy
 msgid "TAG_MACIL1"
 msgstr "Macil"
 
+#, fuzzy
 msgid "TAG_MACIL2"
 msgstr "Macil"
 
+#, fuzzy
 msgid "TAG_MEDIC"
 msgstr "Medic"
 
+#, fuzzy
 msgid "TAG_ORACLE"
 msgstr "Oracle"
 
+#, fuzzy
 msgid "TAG_PRIEST"
 msgstr "Priest"
 
+#, fuzzy
 msgid "TAG_RATBUDDY"
 msgstr "Rat Buddy"
 
+#, fuzzy
 msgid "TAG_REBEL"
 msgstr "Rebel"
 
+#, fuzzy
 msgid "TAG_TEMPLAR"
 msgstr "Templar"
 
+#, fuzzy
 msgid "TAG_WEAPONSMITH"
 msgstr "Weapon Smith"
 
+#, fuzzy
 msgid "TAG_TALISMANRED"
 msgstr "Red Talisman"
 
+#, fuzzy
 msgid "TAG_TALISMANGREEN"
 msgstr "Green Talisman"
 
+#, fuzzy
 msgid "TAG_TALISMANBLUE"
 msgstr "Blue Talisman"
 
+#, fuzzy
 msgid "OB_ACOLYTE"
 msgstr "%o was zealously shot down by an Acolyte."
 
+#, fuzzy
 msgid "OB_MACIL"
 msgstr "%o should have never rebelled against Macil."
 
+#, fuzzy
 msgid "OB_REBEL"
 msgstr "%o was gunned down by a Rebel."
 
+#, fuzzy
 msgid "OB_BEGGAR"
 msgstr "%o was beaten to death by the poor."
 
+#, fuzzy
 msgid "OB_PEASANT"
 msgstr "%o should have never picked a fight with a civilian."
 
+#, fuzzy
 msgid "OB_ALIENSPECTRE"
 msgstr "%o was struck down by the Spectre."
 
+#, fuzzy
 msgid "OB_ENTITY"
 msgstr "%o felt the wrath of The One God."
 
+#, fuzzy
 msgid "OB_LOREMASTER"
 msgstr "%o couldn't escape from the Lore Master's grasp."
 
+#, fuzzy
 msgid "OB_PROGRAMMER"
 msgstr "%o was deleted by the Programmer."
 
+#, fuzzy
 msgid "OB_STFBISHOP"
 msgstr "%o was blown away by the Bishop."
 
+#, fuzzy
 msgid "OB_SENTINEL"
 msgstr "%o was shot down by a Sentinel."
 
+#, fuzzy
 msgid "OB_CRUSADER"
 msgstr "%o was swept away by a Crusader."
 
+#, fuzzy
 msgid "OB_INQUISITOR"
 msgstr "%o was sentenced by an Inquisitor."
 
+#, fuzzy
 msgid "OB_STALKER"
 msgstr "%o was bugged by a Stalker."
 
+#, fuzzy
 msgid "OB_TURRET"
 msgstr "%o triggered the automatic defenses."
 
+#, fuzzy
 msgid "OB_TEMPLARHIT"
 msgstr "%o was clawed by a Templar."
 
+#, fuzzy
 msgid "OB_TEMPLAR"
 msgstr "%o was vaporized by a Templar."
 
+#, fuzzy
 msgid "OB_REAVERHIT"
 msgstr "%o was sliced open by a Reaver."
 
+#, fuzzy
 msgid "OB_REAVER"
 msgstr "%o was shot down by a Reaver."
 
+#, fuzzy
 msgid "OB_MPPUNCHDAGGER"
 msgstr "%o was unwittingly backstabbed by %k."
 
+#, fuzzy
 msgid "OB_MPELECTRICBOLT"
 msgstr "%o got bolted to the wall by %k."
 
+#, fuzzy
 msgid "OB_MPPOISONBOLT"
 msgstr "%o received a lethal dose of %k's wrath."
 
+#, fuzzy
 msgid "OB_MPASSAULTGUN"
 msgstr "%o was drilled full of holes by %k's assault gun."
 
+#, fuzzy
 msgid "OB_MPMINIMISSILELAUNCHER"
 msgstr "%o gulped down %k's missile."
 
+#, fuzzy
 msgid "OB_MPSTRIFEGRENADE"
 msgstr "%o was inverted by %k's H-E grenade."
 
+#, fuzzy
 msgid "OB_MPPHOSPHOROUSGRENADE"
 msgstr "%o took a flame bath in %k's phosphorous pyre."
 
+#, fuzzy
 msgid "OB_MPFLAMETHROWER"
 msgstr "%o was barbecued by %k."
 
+#, fuzzy
 msgid "OB_MPMAULER1"
 msgstr "%o was zapped by %k."
 
+#, fuzzy
 msgid "OB_MPMAULER"
 msgstr "%o was viciously vaporized by %k."
 
+#, fuzzy
 msgid "OB_MPSIGIL"
 msgstr "%o bowed down to the sheer power of %k's Sigil."
 
+#, fuzzy
 msgid "TXT_STRIFE_EPI"
 msgstr "Quest for the Sigil"
 
+#, fuzzy
 msgid "TXT_FREED_PRISONERS"
 msgstr "You've freed the prisoners!"
 
+#, fuzzy
 msgid "TXT_DESTROYED_CONVERTER"
 msgstr "You've destroyed the Converter!"
 
+#, fuzzy
 msgid "TXT_COMPLETED_TRAINING"
 msgstr "Congratulations! You have completed the training area"
 
+#, fuzzy
 msgid "TXT_QUEST_14"
 msgstr "You've blown up the Crystal"
 
+#, fuzzy
 msgid "TXT_QUEST_16"
 msgstr "You've blown up the Gates"
 
+#, fuzzy
 msgid "TXT_QUEST_27"
 msgstr "You've blown up the Computer"
 
+#, fuzzy
 msgid "TXT_KILLED_BISHOP"
 msgstr "You killed the Bishop!"
 
+#, fuzzy
 msgid "TXT_KILLED_ORACLE"
 msgstr "You've killed the Oracle!"
 
+#, fuzzy
 msgid "TXT_KILLED_MACIL"
 msgstr "You killed Macil!"
 
+#, fuzzy
 msgid "TXT_KILLED_LOREMASTER"
 msgstr "You've killed the Loremaster!"
 
+#, fuzzy
 msgid "TXT_YOUFOOL"
 msgstr "You fool! You've set off the alarm."
 
+#, fuzzy
 msgid "TXT_YOUREDEAD"
 msgstr "You're dead! You set off the alarm."
 
+#, fuzzy
 msgid "TXT_HAVEENOUGH"
 msgstr "You seem to have enough!"
 
+#, fuzzy
 msgid "TXT_GOAWAY"
 msgstr "Go away!"
 
+#, fuzzy
 msgid "TXT_COMM0"
 msgstr "Incoming Message…"
 
+#, fuzzy
 msgid "TXT_COMM1"
 msgstr "Incoming Message from BlackBird…"
 
+#, fuzzy
 msgid "TXT_FINDHELP"
 msgstr "Find help"
 
 # As in for %u amount of money.
+#, fuzzy
 msgid "TXT_TRADE"
 msgstr "for %u"
 
+#, fuzzy
 msgid "GOTCHEXARMOR"
 msgstr "Picked up the Chex® Armor."
 
+#, fuzzy
 msgid "GOTSUPERCHEXARMOR"
 msgstr "Picked up the Super Chex® Armor!"
 
+#, fuzzy
 msgid "GOTWATER"
 msgstr "Picked up a glass of water."
 
+#, fuzzy
 msgid "GOTREPELLENT"
 msgstr "Picked up slime repellent."
 
+#, fuzzy
 msgid "GOTBREAKFAST"
 msgstr "Supercharge Breakfast!"
 
+#, fuzzy
 msgid "GOTCBLUEKEY"
 msgstr "Picked up a blue key."
 
+#, fuzzy
 msgid "GOTCYELLOWKEY"
 msgstr "Picked up a yellow key."
 
+#, fuzzy
 msgid "GOTCREDKEY"
 msgstr "Picked up a red key."
 
+#, fuzzy
 msgid "GOTFRUIT"
 msgstr "Picked up a bowl of fruit."
 
+#, fuzzy
 msgid "GOTVEGETABLESNEED"
 msgstr "Vegetables are REALLY good for you!"
 
+#, fuzzy
 msgid "GOTVEGETABLES"
 msgstr "Picked up a bowl of vegetables."
 
+#, fuzzy
 msgid "GOTSLIMESUIT"
 msgstr "Found a Slime-Proof Suit"
 
+#, fuzzy
 msgid "GOTCHEXMAP"
 msgstr "Found a Computer Area Map"
 
+#, fuzzy
 msgid "GOTZORCHRECHARGE"
 msgstr "Picked up a mini zorch recharge."
 
+#, fuzzy
 msgid "GOTMINIZORCHPACK"
 msgstr "Picked up a mini zorch pack."
 
+#, fuzzy
 msgid "GOTPROPULSORRECHARGE"
 msgstr "Picked up a zorch propulsor recharge."
 
+#, fuzzy
 msgid "GOTPROPULSORPACK"
 msgstr "Picked up a zorch propulsor pack."
 
+#, fuzzy
 msgid "GOTPHASINGZORCHERRECHARGE"
 msgstr "Picked up a phasing zorcher recharge"
 
+#, fuzzy
 msgid "GOTPHASINGZORCHERPACK"
 msgstr "Picked up a phasing zorcher pack."
 
+#, fuzzy
 msgid "GOTLARGEZORCHERRECHARGE"
 msgstr "Picked up a large zorcher recharge."
 
+#, fuzzy
 msgid "GOTLARGEZORCHERPACK"
 msgstr "Picked up a large zorcher pack."
 
+#, fuzzy
 msgid "GOTZORCHPACK"
 msgstr "Picked up a Zorchpak!"
 
+#, fuzzy
 msgid "GOTLAZDEVICE"
 msgstr "You got the LAZ Device! Woot!"
 
+#, fuzzy
 msgid "GOTRAPIDZORCHER"
 msgstr "You got the Rapid Zorcher!"
 
+#, fuzzy
 msgid "GOTSUPERBOOTSPORK"
 msgstr "You got the Super Bootspork!"
 
+#, fuzzy
 msgid "GOTZORCHPROPULSOR"
 msgstr "You got the Zorch Propulsor!"
 
+#, fuzzy
 msgid "GOTPHASINGZORCHER"
 msgstr "You got the Phasing Zorcher!"
 
+#, fuzzy
 msgid "GOTLARGEZORCHER"
 msgstr "You got the Large Zorcher!"
 
+#, fuzzy
 msgid "GOTSUPERLARGEZORCHER"
 msgstr "You got the Mega Zorcher!"
 
+#, fuzzy
 msgid "GOTMINIZORCHER"
 msgstr "Picked up a Mini Zorcher."
 
+#, fuzzy
 msgid "TAG_SPOON"
 msgstr "Spoon"
 
+#, fuzzy
 msgid "TAG_SPORK"
 msgstr "Super Bootspork"
 
+#, fuzzy
 msgid "TAG_MINIZORCHER"
 msgstr "Mini Zorcher"
 
+#, fuzzy
 msgid "TAG_LARGEZORCHER"
 msgstr "Large Zorcher"
 
+#, fuzzy
 msgid "TAG_SUPERLARGEZORCHER"
 msgstr "Super-Large Zorcher"
 
+#, fuzzy
 msgid "TAG_RAPIDZORCHER"
 msgstr "Rapid Zorcher"
 
+#, fuzzy
 msgid "TAG_ZORCHPROPULSOR"
 msgstr "Zorch Propulsor"
 
+#, fuzzy
 msgid "TAG_PHASINGZORCHER"
 msgstr "Phasing Zorcher"
 
+#, fuzzy
 msgid "TAG_LAZDEVICE"
 msgstr "LAZ Device"
 
+#, fuzzy
 msgid "OB_COMMONUS"
 msgstr "%o was slimed by a flemoid."
 
+#, fuzzy
 msgid "OB_BIPEDICUS"
 msgstr "%o was slimed by a bipedicus."
 
+#, fuzzy
 msgid "OB_BIPEDICUS2"
 msgstr "%o was slimed by an armored bipedicus."
 
+#, fuzzy
 msgid "OB_CYCLOPTIS"
 msgstr "%o was slimed by a cycloptis."
 
+#, fuzzy
 msgid "OB_FLEMBRANE"
 msgstr "%o was defeated by the Flembrane."
 
+#, fuzzy
 msgid "OB_MPSPOON"
 msgstr "%o was spoon fed by %k."
 
+#, fuzzy
 msgid "OB_MPBOOTSPORK"
 msgstr "%o was thoroughly mixed with %k's bootspork."
 
+#, fuzzy
 msgid "OB_MPZORCH"
 msgstr "%o was zorched by %k."
 
+#, fuzzy
 msgid "OB_MPMEGAZORCH"
 msgstr "%o was hit by %k's mega-zorcher."
 
+#, fuzzy
 msgid "OB_MPRAPIDZORCH"
 msgstr "%o was rapid zorched by %k."
 
+#, fuzzy
 msgid "OB_MPPROPULSOR"
 msgstr "%o was zorched by %k's propulsor."
 
+#, fuzzy
 msgid "OB_MPP_SPLASH"
 msgstr "%o was hit by %k's propulsor."
 
+#, fuzzy
 msgid "OB_MPPHASEZORCH"
 msgstr "%o was phase zorched by %k."
 
+#, fuzzy
 msgid "OB_MPLAZ_BOOM"
 msgstr "%o fell prey to %k's LAZ device."
 
+#, fuzzy
 msgctxt "chex"
 msgid "OB_MPBFG_SPLASH"
 msgstr "%o was lazzed by %k."
 
+#, fuzzy
 msgid "CHUSTR_E1M1"
 msgstr "E1M1: Landing Zone"
 
+#, fuzzy
 msgid "CHUSTR_E1M2"
 msgstr "E1M2: Storage Facility"
 
+#, fuzzy
 msgid "CHUSTR_E1M3"
 msgstr "E1M3: Experimental Lab"
 
+#, fuzzy
 msgid "CHUSTR_E1M4"
 msgstr "E1M4: Arboretum"
 
+#, fuzzy
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: Caverns of Bazoik"
 
+#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "Mission accomplished.\n"
@@ -3391,21 +3663,26 @@ msgstr ""
 "\n"
 "Press the escape key to continue…"
 
+#, fuzzy
 msgid "CE2TEXT"
 msgstr "You've done it!"
 
+#, fuzzy
 msgid "CE3TEXT"
 msgstr "Wonderful Job!"
 
+#, fuzzy
 msgid "CE4TEXT"
 msgstr "Fantastic"
 
+#, fuzzy
 msgid "CLOADNET"
 msgstr ""
 "You can't do load while in a net quest!\n"
 "\n"
 "Press a key."
 
+#, fuzzy
 msgctxt "chex"
 msgid "QSPROMPT"
 msgstr ""
@@ -3415,6 +3692,7 @@ msgstr ""
 "\n"
 "Press Y or N."
 
+#, fuzzy
 msgctxt "chex"
 msgid "QLOADNET"
 msgstr ""
@@ -3422,6 +3700,7 @@ msgstr ""
 "\n"
 "Press a key."
 
+#, fuzzy
 msgctxt "chex"
 msgid "QLPROMPT"
 msgstr ""
@@ -3431,6 +3710,7 @@ msgstr ""
 "\n"
 "Press Y or N."
 
+#, fuzzy
 msgid "CNEWGAME"
 msgstr ""
 "You can't start a new quest\n"
@@ -3438,6 +3718,7 @@ msgstr ""
 "\n"
 "Press a key."
 
+#, fuzzy
 msgid "CNIGHTMARE"
 msgstr ""
 "Careful, this will be tough.\n"
@@ -3445,6 +3726,7 @@ msgstr ""
 "\n"
 "Press Y or N."
 
+#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
 "This is Chex® Quest. Look for\n"
@@ -3453,6 +3735,7 @@ msgstr ""
 "\n"
 "Press a key."
 
+#, fuzzy
 msgctxt "chex"
 msgid "NETEND"
 msgstr ""
@@ -3460,6 +3743,7 @@ msgstr ""
 "\n"
 "Press a key."
 
+#, fuzzy
 msgctxt "chex"
 msgid "ENDGAME"
 msgstr ""
@@ -3467,51 +3751,63 @@ msgstr ""
 "\n"
 "Press Y or N."
 
+#, fuzzy
 msgctxt "chex"
 msgid "STSTR_DQDON"
 msgstr "Invincible Mode ON"
 
+#, fuzzy
 msgctxt "chex"
 msgid "STSTR_DQDOFF"
 msgstr "Invincible Mode OFF"
 
+#, fuzzy
 msgctxt "chex"
 msgid "STSTR_FAADDED"
 msgstr "Zorch Added"
 
+#, fuzzy
 msgctxt "chex"
 msgid "STSTR_KFAADDED"
 msgstr "Super Zorch Added"
 
+#, fuzzy
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
 msgstr "…Eat Chex®!"
 
+#, fuzzy
 msgctxt "chex"
 msgid "AMMO_CLIP"
 msgstr "Mini Zorch Charge"
 
+#, fuzzy
 msgctxt "chex"
 msgid "AMMO_SHELLS"
 msgstr "Large Zorcher Charge"
 
+#, fuzzy
 msgctxt "chex"
 msgid "AMMO_ROCKETS"
 msgstr "Propulsor Charge"
 
+#, fuzzy
 msgctxt "chex"
 msgid "AMMO_CELLS"
 msgstr "Phasing Zorcher Charge"
 
+#, fuzzy
 msgid "MNU_NEWGAME"
 msgstr "New Game"
 
 msgid "MNU_OPTIONS"
 msgstr "Options"
 
+#, fuzzy
 msgid "MNU_GAMEFILES"
 msgstr "Game Files"
 
+#, fuzzy
 msgid "MNU_INFO"
 msgstr "Info"
 
@@ -3519,472 +3815,628 @@ msgid "MNU_QUITGAME"
 msgstr "Quit Game"
 
 # This text is extremely space limited!
+#, fuzzy
 msgid "MNU_CHOOSESKILL"
 msgstr "Choose Skill Level:"
 
+#, fuzzy
 msgid "SKILL_BABY"
 msgstr "I'm too young to die."
 
+#, fuzzy
 msgid "SKILL_EASY"
 msgstr "Hey, not too rough."
 
+#, fuzzy
 msgid "SKILL_NORMAL"
 msgstr "Hurt me plenty."
 
+#, fuzzy
 msgid "SKILL_HARD"
 msgstr "Ultra-Violence."
 
+#, fuzzy
 msgid "SKILL_NIGHTMARE"
 msgstr "Nightmare!"
 
+#, fuzzy
 msgid "CSKILL_BABY"
 msgstr "Easy does it"
 
+#, fuzzy
 msgid "CSKILL_EASY"
 msgstr "Not so sticky"
 
+#, fuzzy
 msgid "CSKILL_NORMAL"
 msgstr "Gobs of goo"
 
+#, fuzzy
 msgid "CSKILL_HARD"
 msgstr "Extreme Ooze"
 
+#, fuzzy
 msgid "CSKILL_NIGHTMARE"
 msgstr "Super Slimey!"
 
+#, fuzzy
 msgid "SSKILL_BABY"
 msgstr "Training"
 
+#, fuzzy
 msgid "SSKILL_EASY"
 msgstr "Rookie"
 
+#, fuzzy
 msgid "SSKILL_NORMAL"
 msgstr "Veteran"
 
+#, fuzzy
 msgid "SSKILL_HARD"
 msgstr "Elite"
 
+#, fuzzy
 msgid "SSKILL_NIGHTMARE"
 msgstr "Bloodbath"
 
+#, fuzzy
 msgid "MNU_WETNURSE"
 msgstr "Thou needeth a Wet-Nurse"
 
+#, fuzzy
 msgid "MNU_YELLOWBELLIES"
 msgstr "Yellowbellies-R-Us"
 
+#, fuzzy
 msgid "MNU_BRINGEST"
 msgstr "Bringest Them Oneth"
 
+#, fuzzy
 msgid "MNU_SMITE"
 msgstr "Thou art a Smite-Meister"
 
+#, fuzzy
 msgid "MNU_BLACKPLAGUE"
 msgstr "Black Plague Possesses Thee"
 
+#, fuzzy
 msgid "MNU_SQUIRE"
 msgstr "Squire"
 
+#, fuzzy
 msgid "MNU_KNIGHT"
 msgstr "Knight"
 
+#, fuzzy
 msgid "MNU_WARRIOR"
 msgstr "Warrior"
 
+#, fuzzy
 msgid "MNU_BERSERKER"
 msgstr "Berserker"
 
+#, fuzzy
 msgid "MNU_TITAN"
 msgstr "Titan"
 
+#, fuzzy
 msgid "MNU_ALTARBOY"
 msgstr "Altar Boy"
 
+#, fuzzy
 msgid "MNU_ACOLYTE"
 msgstr "Acolyte"
 
+#, fuzzy
 msgid "MNU_PRIEST"
 msgstr "Priest"
 
+#, fuzzy
 msgid "MNU_CARDINAL"
 msgstr "Cardinal"
 
+#, fuzzy
 msgid "MNU_POPE"
 msgstr "Pope"
 
+#, fuzzy
 msgid "MNU_APPRENTICE"
 msgstr "Apprentice"
 
+#, fuzzy
 msgid "MNU_ENCHANTER"
 msgstr "Enchanter"
 
+#, fuzzy
 msgid "MNU_SORCERER"
 msgstr "Sorcerer"
 
+#, fuzzy
 msgid "MNU_WARLOCK"
 msgstr "Warlock"
 
+#, fuzzy
 msgid "MNU_ARCHMAGE"
 msgstr "Archimage"
 
+#, fuzzy
 msgid "MNU_CHOOSECLASS"
 msgstr "Choose Class:"
 
+#, fuzzy
 msgid "MNU_FIGHTER"
 msgstr "Fighter"
 
+#, fuzzy
 msgid "MNU_CLERIC"
 msgstr "Cleric"
 
+#, fuzzy
 msgid "MNU_MAGE"
 msgstr "Mage"
 
+#, fuzzy
 msgid "MNU_RANDOM"
 msgstr "Random"
 
+#, fuzzy
 msgid "MNU_EPISODE"
 msgstr "Which Episode?"
 
+#, fuzzy
 msgctxt "strife"
 msgid "MNU_EPISODE"
 msgstr "Choose Campaign"
 
+#, fuzzy
 msgid "MNU_COTD"
 msgstr "City of the Damned"
 
+#, fuzzy
 msgid "MNU_HELLSMAW"
 msgstr "Hell's Maw"
 
+#, fuzzy
 msgid "MNU_DOME"
 msgstr "The Dome of D'Sparil"
 
+#, fuzzy
 msgid "MNU_OSSUARY"
 msgstr "The Ossuary"
 
+#, fuzzy
 msgid "MNU_DEMESNE"
 msgstr "The Stagnant Demesne"
 
+#, fuzzy
 msgid "GMPLYMNU_TEAMPLAY"
 msgstr "Teamplay"
 
+#, fuzzy
 msgid "GMPLYMNU_TEAMDAMAGE"
 msgstr "Team damage scalar"
 
+#, fuzzy
 msgid "GMPLYMNU_SMARTAUTOAIM"
 msgstr "Smart Autoaim"
 
+#, fuzzy
 msgid "GMPLYMNU_FALLINGDAMAGE"
 msgstr "Falling damage"
 
+#, fuzzy
 msgid "GMPLYMNU_DROPWEAPON"
 msgstr "Drop weapon"
 
+#, fuzzy
 msgid "GMPLYMNU_DOUBLEAMMO"
 msgstr "Double ammo"
 
+#, fuzzy
 msgid "GMPLYMNU_INFINITEAMMO"
 msgstr "Infinite ammo"
 
+#, fuzzy
 msgid "GMPLYMNU_INFINITEINVENTORY"
 msgstr "Infinite inventory"
 
+#, fuzzy
 msgid "GMPLYMNU_NOMONSTERS"
 msgstr "No monsters"
 
+#, fuzzy
 msgid "GMPLYMNU_NOMONSTERSTOEXIT"
 msgstr "No monsters to exit"
 
+#, fuzzy
 msgid "GMPLYMNU_MONSTERSRESPAWN"
 msgstr "Monsters respawn"
 
+#, fuzzy
 msgid "GMPLYMNU_NORESPAWN"
 msgstr "Monsters do not respawn"
 
+#, fuzzy
 msgid "GMPLYMNU_ITEMSRESPAWN"
 msgstr "Items respawn"
 
+#, fuzzy
 msgid "GMPLYMNU_SUPERRESPAWN"
 msgstr "Big powerups respawn"
 
+#, fuzzy
 msgid "GMPLYMNU_FASTMONSTERS"
 msgstr "Fast monsters"
 
+#, fuzzy
 msgid "GMPLYMNU_INSTANTREACTION"
 msgstr "Monsters Nightmare Reflexes"
 
+#, fuzzy
 msgid "GMPLYMNU_DEGENERATION"
 msgstr "Degeneration"
 
+#, fuzzy
 msgid "GMPLYMNU_NOAUTOAIM"
 msgstr "Allow Autoaim"
 
+#, fuzzy
 msgid "GMPLYMNU_ALLOWSUICIDE"
 msgstr "Allow Suicide"
 
+#, fuzzy
 msgid "GMPLYMNU_ALLOWJUMP"
 msgstr "Allow jump"
 
+#, fuzzy
 msgid "GMPLYMNU_ALLOWCROUCH"
 msgstr "Allow crouch"
 
+#, fuzzy
 msgid "GMPLYMNU_ALLOWFREELOOK"
 msgstr "Allow freelook"
 
+#, fuzzy
 msgid "GMPLYMNU_ALLOWFOV"
 msgstr "Allow FOV"
 
+#, fuzzy
 msgid "GMPLYMNU_BFGFREEAIM"
 msgstr "Allow BFG aiming"
 
+#, fuzzy
 msgid "GMPLYMNU_ALLOWAUTOMAP"
 msgstr "Allow automap"
 
+#, fuzzy
 msgid "GMPLYMNU_AUTOMAPALLIES"
 msgstr "Automap allies"
 
+#, fuzzy
 msgid "GMPLYMNU_ALLOWSPYING"
 msgstr "Allow spying"
 
+#, fuzzy
 msgid "GMPLYMNU_CHASECAM"
 msgstr "Chasecam cheat"
 
+#, fuzzy
 msgid "GMPLYMNU_DONTCHECKAMMO"
 msgstr "Check ammo for weapon switch"
 
+#, fuzzy
 msgid "GMPLYMNU_KILLBOSSSPAWNS"
 msgstr "Icon's death kills its spawns"
 
+#, fuzzy
 msgid "GMPLYMNU_NOCOUNTENDMONSTER"
 msgstr "End sector counts for kill %"
 
+#, fuzzy
 msgid "GMPLYMNU_DEATHMATCH"
 msgstr "Deathmatch Settings"
 
+#, fuzzy
 msgid "GMPLYMNU_WEAPONSSTAY"
 msgstr "Weapons stay"
 
+#, fuzzy
 msgid "GMPLYMNU_ALLOWPOWERUPS"
 msgstr "Allow powerups"
 
+#, fuzzy
 msgid "GMPLYMNU_ALLOWHEALTH"
 msgstr "Allow health"
 
+#, fuzzy
 msgid "GMPLYMNU_ALLOWARMOR"
 msgstr "Allow armor"
 
+#, fuzzy
 msgid "GMPLYMNU_SPAWNFARTHEST"
 msgstr "Spawn farthest"
 
+#, fuzzy
 msgid "GMPLYMNU_SAMEMAP"
 msgstr "Same map"
 
+#, fuzzy
 msgid "GMPLYMNU_FORCERESPAWN"
 msgstr "Force respawn"
 
+#, fuzzy
 msgid "GMPLYMNU_ALLOWEXIT"
 msgstr "Allow exit"
 
+#, fuzzy
 msgid "GMPLYMNU_BARRELSRESPAWN"
 msgstr "Barrels respawn"
 
+#, fuzzy
 msgid "GMPLYMNU_RESPAWNPROTECTION"
 msgstr "Respawn protection"
 
+#, fuzzy
 msgid "GMPLYMNU_LOSEFRAG"
 msgstr "Lose frag if fragged"
 
+#, fuzzy
 msgid "GMPLYMNU_KEEPFRAGS"
 msgstr "Keep frags gained"
 
+#, fuzzy
 msgid "GMPLYMNU_NOTEAMSWITCH"
 msgstr "No team switching"
 
+#, fuzzy
 msgid "GMPLYMNU_COOPERATIVE"
 msgstr "Cooperative Settings"
 
+#, fuzzy
 msgid "GMPLYMNU_MULTIPLAYERWEAPONS"
 msgstr "Spawn multiplayer weapons"
 
+#, fuzzy
 msgid "GMPLYMNU_LOSEINVENTORY"
 msgstr "Lose entire inventory"
 
+#, fuzzy
 msgid "GMPLYMNU_KEEPKEYS"
 msgstr "Keep keys"
 
+#, fuzzy
 msgid "GMPLYMNU_KEEPWEAPONS"
 msgstr "Keep weapons"
 
+#, fuzzy
 msgid "GMPLYMNU_KEEPARMOR"
 msgstr "Keep armor"
 
+#, fuzzy
 msgid "GMPLYMNU_KEEPPOWERUPS"
 msgstr "Keep powerups"
 
+#, fuzzy
 msgid "GMPLYMNU_KEEPAMMO"
 msgstr "Keep ammo"
 
+#, fuzzy
 msgid "GMPLYMNU_LOSEHALFAMMO"
 msgstr "Lose half ammo"
 
+#, fuzzy
 msgid "GMPLYMNU_SPAWNWHEREDIED"
 msgstr "Spawn where died"
 
+#, fuzzy
 msgid "GMPLYMNU_ALWAYSSPAWNMULTI"
 msgstr "Always spawn multiplayer objects"
 
+#, fuzzy
 msgid "GMPLYMNU_NOVERTSPREAD"
 msgstr "Allow Vertical Bullet Spread"
 
+#, fuzzy
 msgid "GMPLYMNU_NOEXTRAAMMO"
 msgstr "Weapons give extra ammo (DM)"
 
+#, fuzzy
 msgid "OPTMNU_COMPATIBILITY"
 msgstr "Compatibility Options"
 
+#, fuzzy
 msgid "CMPTMNU_TITLE"
 msgstr "Compatibility Options"
 
+#, fuzzy
 msgid "CMPTMNU_MODE"
 msgstr "Compatibility mode"
 
+#, fuzzy
 msgid "CMPTMNU_ACTORBEHAVIOR"
 msgstr "Actor Behavior"
 
+#, fuzzy
 msgid "CMPTMNU_NOBLOCKFRIENDS"
 msgstr "Friendly monsters aren't blocked"
 
+#, fuzzy
 msgid "CMPTMNU_LIMITPAIN"
 msgstr "Limit Pain Elementals' Lost Souls"
 
+#, fuzzy
 msgid "CMPTMNU_MBFMONSTERMOVE"
 msgstr "Monster movement is affected by effects"
 
+#, fuzzy
 msgid "CMPTMNU_CROSSDROPOFF"
 msgstr "Monsters cannot cross dropoffs"
 
+#, fuzzy
 msgid "CMPTMNU_DROPOFF"
 msgstr "Monsters get stuck over dropoffs"
 
+#, fuzzy
 msgid "CMPTMNU_INVISIBILITY"
 msgstr "Monsters see invisible players"
 
+#, fuzzy
 msgid "CMPTMNU_MINOTAUR"
 msgstr "No Minotaur floor flames in water"
 
+#, fuzzy
 msgid "CMPTMNU_NOTOSSDROPS"
 msgstr "Spawn item drops on the floor"
 
+#, fuzzy
 msgid "CMPTMNU_DEHACKEDBEHAVIOR"
 msgstr "DehackEd Behavior"
 
+#, fuzzy
 msgid "CMPTMNU_DEHHEALTH"
 msgstr "DEH health settings like Doom2.exe"
 
+#, fuzzy
 msgid "CMPTMNU_MUSHROOM"
 msgstr "Original A_Mushroom speed in DEH mods"
 
+#, fuzzy
 msgid "CMPTMNU_MAPACTIONBEHAVIOR"
 msgstr "Map/Action Behavior"
 
+#, fuzzy
 msgid "CMPTMNU_USEBLOCKING"
 msgstr "All special lines can block <use>"
 
+#, fuzzy
 msgid "CMPTMNU_ANYBOSSDEATH"
 msgstr "Allow any bossdeath for level special"
 
+#, fuzzy
 msgid "CMPTMNU_NODOORLIGHT"
 msgstr "Disable BOOM door light effect"
 
+#, fuzzy
 msgid "CMPTMNU_LIGHT"
 msgstr "Find neighboring light like Doom"
 
+#, fuzzy
 msgid "CMPTMNU_SHORTTEX"
 msgstr "Find shortest textures like Doom"
 
+#, fuzzy
 msgid "CMPTMNU_STAIRS"
 msgstr "Use buggier stair building"
 
+#, fuzzy
 msgid "CMPTMNU_FLOORMOVE"
 msgstr "Use Doom's floor motion behavior"
 
+#, fuzzy
 msgid "CMPTMNU_POINTONLINE"
 msgstr "Use Doom's point-on-line algorithm"
 
+#, fuzzy
 msgid "CMPTMNU_MULTIEXIT"
 msgstr "Level exit can be triggered more than once"
 
+#, fuzzy
 msgid "CMPTMNU_PHYSICSBEHAVIOR"
 msgstr "Physics Behavior"
 
+#, fuzzy
 msgid "CMPTMNU_NOPASSOVER"
 msgstr "Actors are infinitely tall"
 
+#, fuzzy
 msgid "CMPTMNU_BOOMSCROLL"
 msgstr "Boom scrollers are additive"
 
+#, fuzzy
 msgid "CMPTMNU_BADANGLES"
 msgstr "Cannot travel straight NSEW"
 
+#, fuzzy
 msgid "CMPTMNU_WALLRUN"
 msgstr "Enable wall running"
 
+#, fuzzy
 msgid "CMPTMNU_RAVENSCROLL"
 msgstr "Raven scrollers use original speed"
 
+#, fuzzy
 msgid "CMPTMNU_TRACE"
 msgstr "Self ref. sectors don't block shots"
 
+#, fuzzy
 msgid "CMPTMNU_HITSCAN"
 msgstr "Use Doom code for hitscan checks"
 
+#, fuzzy
 msgid "CMPTMNU_MISSILECLIP"
 msgstr "Use Doom heights for missile clipping"
 
+#, fuzzy
 msgid "CMPTMNU_RENDERINGBEHAVIOR"
 msgstr "Rendering Behavior"
 
+#, fuzzy
 msgid "CMPTMNU_POLYOBJ"
 msgstr "Draw polyobjects like Hexen"
 
+#, fuzzy
 msgid "CMPTMNU_MASKEDMIDTEX"
 msgstr "Ignore Y offsets on masked midtextures"
 
+#, fuzzy
 msgid "CMPTMNU_SPRITESORT"
 msgstr "Invert sprite sorting"
 
+#, fuzzy
 msgid "CMPTMNU_SOUNDBEHAVIOR"
 msgstr "Sound Behavior"
 
+#, fuzzy
 msgid "CMPTMNU_SOUNDSLOTS"
 msgstr "Cripple sound for silent BFG trick"
 
+#, fuzzy
 msgid "CMPTMNU_SILENTPICKUP"
 msgstr "Don't let others hear your pickups"
 
+#, fuzzy
 msgid "CMPTMNU_SILENTINSTANTFLOORS"
 msgstr "Inst. moving floors are not silent"
 
+#, fuzzy
 msgid "CMPTMNU_SECTORSOUNDS"
 msgstr "Sector sounds use center as source"
 
+#, fuzzy
 msgid "CMPTMNU_SOUNDTARGET"
 msgstr "Use original sound target handling"
 
+#, fuzzy
 msgid "CMPTMNU_TELEPORT"
 msgstr "Scripted teleports don't trigger sector actions"
 
+#, fuzzy
 msgid "CMPTMNU_PUSHWINDOW"
 msgstr "Non-blocking lines can be pushed"
 
+#, fuzzy
 msgid "CMPTMNU_CHECKSWITCHRANGE"
 msgstr "Enable buggy CheckSwitchRange behavior"
 
+#, fuzzy
 msgid "CMPTMNU_RAILINGHACK"
 msgstr "Enable buggy Strife railing"
 
+#, fuzzy
 msgid "CMPTMNU_EXPLODE1"
 msgstr "No vertical thrust from explosions"
 
+#, fuzzy
 msgid "CMPTMNU_EXPLODE2"
 msgstr "Use original Doom explosion behavior"
 
@@ -3997,667 +4449,884 @@ msgstr "Green"
 msgid "PLYRMNU_BLUE"
 msgstr "Blue"
 
+#, fuzzy
 msgid "PLYRMNU_PLAYERCLASS"
 msgstr "Class"
 
+#, fuzzy
 msgid "PLYRMNU_PLAYERSKIN"
 msgstr "Skin"
 
+#, fuzzy
 msgid "PLYRMNU_SWITCHONPICKUP"
 msgstr "Switch on pickup"
 
+#, fuzzy
 msgid "PLYRMNU_PRESSSPACE"
 msgstr "Press \\cjSPACE"
 
+#, fuzzy
 msgid "PLYRMNU_SEEFRONT"
 msgstr "to see front"
 
+#, fuzzy
 msgid "PLYRMNU_SEEBACK"
 msgstr "to see back"
 
+#, fuzzy
 msgid "PLYRMNU_VERTSPREAD"
 msgstr "Vertical Bullet Spread"
 
+#, fuzzy
 msgid "CNTRLMNU_ZOOM"
 msgstr "Weapon Zoom"
 
+#, fuzzy
 msgid "CNTRLMNU_USER1"
 msgstr "Weapon State 1"
 
+#, fuzzy
 msgid "CNTRLMNU_USER2"
 msgstr "Weapon State 2"
 
+#, fuzzy
 msgid "CNTRLMNU_USER3"
 msgstr "Weapon State 3"
 
+#, fuzzy
 msgid "CNTRLMNU_USER4"
 msgstr "Weapon State 4"
 
+#, fuzzy
 msgid "CNTRLMNU_MOVEUP"
 msgstr "Fly / Swim up"
 
+#, fuzzy
 msgid "CNTRLMNU_MOVEDOWN"
 msgstr "Fly / Swim down"
 
+#, fuzzy
 msgid "CNTRLMNU_LAND"
 msgstr "Stop flying"
 
+#, fuzzy
 msgid "CNTRLMNU_KEYBOARDLOOK"
 msgstr "Keyboard look"
 
+#, fuzzy
 msgid "CNTRLMNU_POPUPS_TITLE"
 msgstr "Strife Popup Screens Controls"
 
+#, fuzzy
 msgid "CNTRLMNU_TEAMSAY"
 msgstr "Team say"
 
+#, fuzzy
 msgid "CNTRLMNU_DROPITEM"
 msgstr "Drop item"
 
+#, fuzzy
 msgid "CNTRLMNU_QUERYITEM"
 msgstr "Query item"
 
+#, fuzzy
 msgid "CNTRLMNU_DROPWEAPON"
 msgstr "Drop weapon"
 
+#, fuzzy
 msgid "CNTRLMNU_OTHER"
 msgstr "Other"
 
+#, fuzzy
 msgid "CNTRLMNU_COOPSPY"
 msgstr "Coop spy next"
 
+#, fuzzy
 msgid "CNTRLMNU_POPUPS"
 msgstr "Strife Popup Screens"
 
+#, fuzzy
 msgid "CNTRLMNU_MISSION"
 msgstr "Mission objectives"
 
+#, fuzzy
 msgid "CNTRLMNU_KEYS"
 msgstr "Keys list"
 
+#, fuzzy
 msgid "CNTRLMNU_STATS"
 msgstr "Weapons/ammo/stats"
 
+#, fuzzy
 msgid "CNTRLMNU_TOGGLESCOREBOARD"
 msgstr "Toggle Scoreboard"
 
+#, fuzzy
 msgid "MOUSEMNU_LOOKSPRING"
 msgstr "Lookspring"
 
+#, fuzzy
 msgid "MOUSEMNU_LOOKSTRAFE"
 msgstr "Lookstrafe"
 
+#, fuzzy
 msgid "MAPCOLORMNU_BACKCOLOR"
 msgstr "Background"
 
+#, fuzzy
 msgid "MAPCOLORMNU_YOURCOLOR"
 msgstr "You"
 
+#, fuzzy
 msgid "MAPCOLORMNU_WALLCOLOR"
 msgstr "1-sided walls"
 
+#, fuzzy
 msgid "MAPCOLORMNU_FDWALLCOLOR"
 msgstr "2-sided walls with different floors"
 
+#, fuzzy
 msgid "MAPCOLORMNU_CDWALLCOLOR"
 msgstr "2-sided walls with different ceilings"
 
+#, fuzzy
 msgid "MAPCOLORMNU_EFWALLCOLOR"
 msgstr "2-sided walls with 3D floors"
 
+#, fuzzy
 msgid "MAPCOLORMNU_GRIDCOLOR"
 msgstr "Map grid"
 
+#, fuzzy
 msgid "MAPCOLORMNU_XHAIRCOLOR"
 msgstr "Center point"
 
+#, fuzzy
 msgid "MAPCOLORMNU_NOTSEENCOLOR"
 msgstr "Not-yet-seen walls"
 
+#, fuzzy
 msgid "MAPCOLORMNU_LOCKEDCOLOR"
 msgstr "Locked doors"
 
+#, fuzzy
 msgid "MAPCOLORMNU_INTRALEVELCOLOR"
 msgstr "Teleporter to the same map"
 
+#, fuzzy
 msgid "MAPCOLORMNU_INTERLEVELCOLOR"
 msgstr "Teleporter to a different map"
 
+#, fuzzy
 msgid "MAPCOLORMNU_SECRETSECTORCOLOR"
 msgstr "Secret sector"
 
+#, fuzzy
 msgid "MAPCOLORMNU_UNEXPLOREDSECRETCOLOR"
 msgstr "Unexplored secret"
 
+#, fuzzy
 msgid "MAPCOLORMNU_SPECIALWALLCOLOR"
 msgstr "Special trigger lines"
 
+#, fuzzy
 msgid "MAPCOLORMNU_CHEATMODE"
 msgstr "Cheat Mode"
 
+#, fuzzy
 msgid "MAPCOLORMNU_TSWALLCOLOR"
 msgstr "Invisible 2-sided walls"
 
+#, fuzzy
 msgid "MAPCOLORMNU_SECRETWALLCOLOR"
 msgstr "Secret walls"
 
+#, fuzzy
 msgid "MAPCOLORMNU_THINGCOLOR"
 msgstr "Actors"
 
+#, fuzzy
 msgid "MAPCOLORMNU_MONSTERCOLOR"
 msgstr "Monsters"
 
+#, fuzzy
 msgid "MAPCOLORMNU_NONCOUNTINGMONSTERCOLOR"
 msgstr "Non-counting Monsters"
 
+#, fuzzy
 msgid "MAPCOLORMNU_FRIENDCOLOR"
 msgstr "Friends"
 
+#, fuzzy
 msgid "MAPCOLORMNU_ITEMCOLOR"
 msgstr "Items"
 
+#, fuzzy
 msgid "MAPCOLORMNU_COUNTITEMCOLOR"
 msgstr "Count Items"
 
+#, fuzzy
 msgid "MAPCOLORMNU_OVERLAY"
 msgstr "Overlay Mode"
 
+#, fuzzy
 msgid "MAPCOLORMNU_OVCHEATMODE"
 msgstr "Overlay Cheat Mode"
 
+#, fuzzy
 msgid "MAPCOLORMNU_PORTAL"
 msgstr "Portal Overlays"
 
+#, fuzzy
 msgid "MSGMNU_TITLE"
 msgstr "Messages"
 
+#, fuzzy
 msgid "MSGMNU_SHOWMESSAGES"
 msgstr "Show messages"
 
+#, fuzzy
 msgid "MSGMNU_SHOWOBITUARIES"
 msgstr "Show obituaries"
 
+#, fuzzy
 msgid "MSGMNU_SHOWSECRETS"
 msgstr "Show secret notifications"
 
+#, fuzzy
 msgid "MSGMNU_MESSAGELEVEL"
 msgstr "Minimum message level"
 
+#, fuzzy
 msgid "MSGMNU_MESSAGECOLORS"
 msgstr "Message Colors"
 
+#, fuzzy
 msgid "MSGMNU_ITEMPICKUP"
 msgstr "Item Pickup"
 
+#, fuzzy
 msgid "MSGMNU_OBITUARIES"
 msgstr "Obituaries"
 
+#, fuzzy
 msgid "MSGMNU_CRITICALMESSAGES"
 msgstr "Critical Messages"
 
+#, fuzzy
 msgid "MSGMNU_CHATMESSAGES"
 msgstr "Chat Messages"
 
+#, fuzzy
 msgid "MSGMNU_TEAMMESSAGES"
 msgstr "Team Messages"
 
+#, fuzzy
 msgid "MSGMNU_CENTEREDMESSAGES"
 msgstr "Centered Messages"
 
+#, fuzzy
 msgid "MSGMNU_SCREENSHOTMESSAGES"
 msgstr "Screenshot messages"
 
+#, fuzzy
 msgid "MSGMNU_LONGSAVEMESSAGES"
 msgstr "Detailed save messages"
 
+#, fuzzy
 msgid "MSGMNU_DEVELOPER"
 msgstr "Developer message mode"
 
+#, fuzzy
 msgid "AUTOMAPMNU_COLORSET"
 msgstr "Map color set"
 
+#, fuzzy
 msgid "AUTOMAPMNU_CUSTOMCOLORS"
 msgstr "Allow map defined colors"
 
+#, fuzzy
 msgid "AUTOMAPMNU_SETCUSTOMCOLORS"
 msgstr "Set custom colors"
 
+#, fuzzy
 msgid "AUTOMAPMNU_CONTROLS"
 msgstr "Customize map controls"
 
+#, fuzzy
 msgid "AUTOMAPMNU_OVERLAY"
 msgstr "Overlay automap"
 
+#, fuzzy
 msgid "AUTOMAPMNU_TEXTURED"
 msgstr "Enable textured display"
 
+#, fuzzy
 msgid "AUTOMAPMNU_SHOWITEMS"
 msgstr "Show item counts"
 
+#, fuzzy
 msgid "AUTOMAPMNU_SHOWMONSTERS"
 msgstr "Show monster counts"
 
+#, fuzzy
 msgid "AUTOMAPMNU_SHOWSECRETS"
 msgstr "Show secret counts"
 
+#, fuzzy
 msgid "AUTOMAPMNU_SHOWTIME"
 msgstr "Show time elapsed"
 
+#, fuzzy
 msgid "AUTOMAPMNU_SHOWTOTALTIME"
 msgstr "Show total time elapsed"
 
+#, fuzzy
 msgid "AUTOMAPMNU_MAPSECRETS"
 msgstr "Show secrets on map"
 
+#, fuzzy
 msgid "AUTOMAPMNU_SHOWMAPLABEL"
 msgstr "Show map label"
 
+#, fuzzy
 msgid "AUTOMAPMNU_DRAWMAPBACK"
 msgstr "Draw map background"
 
+#, fuzzy
 msgid "AUTOMAPMNU_SHOWKEYS"
 msgstr "Show keys (cheat)"
 
+#, fuzzy
 msgid "AUTOMAPMNU_SHOWTRIGGERLINES"
 msgstr "Show trigger lines"
 
+#, fuzzy
 msgid "AUTOMAPMNU_SHOWTHINGSPRITES"
 msgstr "Show things as sprites"
 
+#, fuzzy
 msgid "AUTOMAPMNU_PTOVERLAY"
 msgstr "Overlay portals"
 
+#, fuzzy
 msgid "AUTOMAPMNU_EMPTYSPACEMARGIN"
 msgstr "Empty space margin"
 
+#, fuzzy
 msgid "AUTOMAPMNU_MARKFONT"
 msgstr "Mark font"
 
+#, fuzzy
 msgid "AUTOMAPMNU_MARKCOLOR"
 msgstr "Mark color"
 
+#, fuzzy
 msgid "MAPCNTRLMNU_SETMARK"
 msgstr "Set mark"
 
+#, fuzzy
 msgid "MAPCNTRLMNU_CLEARMARK"
 msgstr "Clear mark"
 
+#, fuzzy
 msgid "DSPLYMNU_SCOREBOARD"
 msgstr "Scoreboard Options"
 
+#, fuzzy
 msgid "SCRBRDMNU_TITLE"
 msgstr "Scoreboard Options"
 
+#, fuzzy
 msgid "SCRBRDMNU_COOPERATIVE"
 msgstr "Cooperative Options"
 
+#, fuzzy
 msgid "SCRBRDMNU_ENABLE"
 msgstr "Enable Scoreboard"
 
+#, fuzzy
 msgid "SCRBRDMNU_HEADERCOLOR"
 msgstr "Header Color"
 
+#, fuzzy
 msgid "SCRBRDMNU_YOURCOLOR"
 msgstr "Your Player Color"
 
+#, fuzzy
 msgid "SCRBRDMNU_OTHERPLAYERCOLOR"
 msgstr "Other Players' Color"
 
+#, fuzzy
 msgid "SCRBRDMNU_DEATHMATCH"
 msgstr "Deathmatch Options"
 
+#, fuzzy
 msgid "SCRBRDMNU_TEAMDEATHMATCH"
 msgstr "Team Deathmatch Options"
 
+#, fuzzy
 msgid "ALTHUDMNU_TITLE"
 msgstr "Alternative HUD"
 
+#, fuzzy
 msgid "ALTHUDMNU_ENABLE"
 msgstr "Enable alternative HUD"
 
+#, fuzzy
 msgid "ALTHUDMNU_SHOWSECRETS"
 msgstr "Show secret count"
 
+#, fuzzy
 msgid "ALTHUDMNU_SHOWMONSTERS"
 msgstr "Show monster count"
 
+#, fuzzy
 msgid "ALTHUDMNU_SHOWITEMS"
 msgstr "Show item count"
 
+#, fuzzy
 msgid "ALTHUDMNU_SHOWSTATS"
 msgstr "Show stamina and accuracy"
 
+#, fuzzy
 msgid "ALTHUDMNU_SHOWBERSERK"
 msgstr "Show berserk"
 
+#, fuzzy
 msgid "ALTHUDMNU_SHOWWEAPONS"
 msgstr "Show weapons"
 
+#, fuzzy
 msgid "ALTHUDMNU_SHOWAMMO"
 msgstr "Show ammo for"
 
+#, fuzzy
 msgid "ALTHUDMNU_SHOWTIME"
 msgstr "Show time"
 
+#, fuzzy
 msgid "ALTHUDMNU_TIMECOLOR"
 msgstr "Time color"
 
+#, fuzzy
 msgid "ALTHUDMNU_SHOWLAG"
 msgstr "Show network latency"
 
+#, fuzzy
 msgid "ALTHUDMNU_AMMOORDER"
 msgstr "Ammo display order"
 
+#, fuzzy
 msgid "ALTHUDMNU_AMMORED"
 msgstr "Red ammo display below %"
 
+#, fuzzy
 msgid "ALTHUDMNU_AMMOYELLOW"
 msgstr "Yellow ammo display below %"
 
+#, fuzzy
 msgid "ALTHUDMNU_HEALTHRED"
 msgstr "Red health display below"
 
+#, fuzzy
 msgid "ALTHUDMNU_HEALTHYELLOW"
 msgstr "Yellow health display below"
 
+#, fuzzy
 msgid "ALTHUDMNU_HEALTHGREEN"
 msgstr "Green health display below"
 
+#, fuzzy
 msgid "ALTHUDMNU_ARMORRED"
 msgstr "Red armor display below"
 
+#, fuzzy
 msgid "ALTHUDMNU_ARMORYELLOW"
 msgstr "Yellow armor display below"
 
+#, fuzzy
 msgid "ALTHUDMNU_ARMORGREEN"
 msgstr "Green armor display below"
 
+#, fuzzy
 msgid "ALTHUDMNU_AUTOMAPHUD"
 msgstr "Alternative Automap HUD"
 
+#, fuzzy
 msgid "ALTHUDMNU_TITLECOLOR"
 msgstr "Map title color"
 
+#, fuzzy
 msgid "ALTHUDMNU_MAPTIMECOLOR"
 msgstr "Map time color"
 
+#, fuzzy
 msgid "ALTHUDMNU_HUBTIMECOLOR"
 msgstr "Hub time color"
 
+#, fuzzy
 msgid "ALTHUDMNU_TOTALTIMECOLOR"
 msgstr "Total time color"
 
+#, fuzzy
 msgid "ALTHUDMNU_COORDINATECOLOR"
 msgstr "Coordinate color"
 
+#, fuzzy
 msgid "ALTHUDMNU_COORDINATEMODE"
 msgstr "Coordinate mode"
 
+#, fuzzy
 msgid "ALTHUDMNU_STATSNAMECOLOR"
 msgstr "Statistics name color"
 
+#, fuzzy
 msgid "ALTHUDMNU_STATSCOLOR"
 msgstr "Statistics color"
 
+#, fuzzy
 msgid "DSPLYMNU_CAPFPS"
 msgstr "Rendering Interpolation"
 
+#, fuzzy
 msgid "DSPLYMNU_BLENDMETHOD"
 msgstr "Transparency render mode"
 
+#, fuzzy
 msgid "DSPLYMNU_WIPETYPE"
 msgstr "Screen wipe style"
 
+#, fuzzy
 msgid "DSPLYMNU_SHOWENDOOM"
 msgstr "Show ENDOOM screen"
 
+#, fuzzy
 msgid "DSPLYMNU_BLOODFADE"
 msgstr "Blood Flash Intensity"
 
+#, fuzzy
 msgid "DSPLYMNU_PICKUPFADE"
 msgstr "Pickup Flash Intensity"
 
+#, fuzzy
 msgid "DSPLYMNU_WATERFADE"
 msgstr "Underwater Blend Intensity"
 
+#, fuzzy
 msgid "DSPLYMNU_SKYMODE"
 msgstr "Sky render mode"
 
+#, fuzzy
 msgid "DSPLYMNU_LINEARSKY"
 msgstr "Linear skies"
 
+#, fuzzy
 msgid "DSPLYMNU_GZDFULLBRIGHT"
 msgstr "Fullbright overrides sector color"
 
+#, fuzzy
 msgid "DSPLYMNU_SCALEFUZZ"
 msgstr "Scale fuzz effect"
 
+#, fuzzy
 msgid "DSPLYMNU_DRAWFUZZ"
 msgstr "Use fuzz effect"
 
+#, fuzzy
 msgid "DSPLYMNU_OLDTRANS"
 msgstr "Classic Transparency"
 
+#, fuzzy
 msgid "DSPLYMNU_FAKECONTRAST"
 msgstr "Use fake contrast"
 
+#, fuzzy
 msgid "DSPLYMNU_ROCKETTRAILS"
 msgstr "Rocket Trails"
 
+#, fuzzy
 msgid "DSPLYMNU_BLOODTYPE"
 msgstr "Blood Type"
 
+#, fuzzy
 msgid "DSPLYMNU_PUFFTYPE"
 msgstr "Bullet Puff Type"
 
+#, fuzzy
 msgid "DSPLYMNU_MAXPARTICLES"
 msgstr "Number of particles"
 
+#, fuzzy
 msgid "DSPLYMNU_MAXDECALS"
 msgstr "Number of decals"
 
+#, fuzzy
 msgid "DSPLYMNU_PLAYERSPRITES"
 msgstr "Show player sprites"
 
+#, fuzzy
 msgid "DSPLYMNU_DEATHCAM"
 msgstr "Death camera"
 
+#, fuzzy
 msgid "DSPLYMNU_TELEZOOM"
 msgstr "Teleporter zoom"
 
+#, fuzzy
 msgid "DSPLYMNU_QUAKEINTENSITY"
 msgstr "Earthquake shake intensity"
 
+#, fuzzy
 msgid "DSPLYMNU_NOMONSTERINTERPOLATION"
 msgstr "Interpolate monster movement"
 
+#, fuzzy
 msgid "DSPLYMNU_MENUDIM"
 msgstr "Menu dim"
 
+#, fuzzy
 msgid "DSPLYMNU_DIMCOLOR"
 msgstr "Dim color"
 
+#, fuzzy
 msgid "DSPLYMNU_MOVEBOB"
 msgstr "View bob amount while moving"
 
+#, fuzzy
 msgid "DSPLYMNU_STILLBOB"
 msgstr "View bob amount while not moving"
 
+#, fuzzy
 msgid "DSPLYMNU_BOBSPEED"
 msgstr "Weapon bob speed"
 
+#, fuzzy
 msgid "SCALEMNU_TITLE"
 msgstr "Scaling Options"
 
+#, fuzzy
 msgid "SCALEMNU_OVERRIDE"
 msgstr "Overrides for above setting"
 
+#, fuzzy
 msgid "SCALEMNU_MESSAGES"
 msgstr "Messages"
 
+#, fuzzy
 msgid "SCALEMNU_CONSOLE"
 msgstr "Console"
 
+#, fuzzy
 msgid "SCALEMNU_STATBAR"
 msgstr "Status bar"
 
+#, fuzzy
 msgid "SCALEMNU_HUD"
 msgstr "Fullscreen HUD"
 
+#, fuzzy
 msgid "SCALEMNU_ALTHUD"
 msgstr "Alternative HUD"
 
+#, fuzzy
 msgid "SCALEMNU_HUDASPECT"
 msgstr "HUD preserves aspect ratio"
 
+#, fuzzy
 msgid "SCALEMNU_USEUI"
 msgstr "Use default scale"
 
+#, fuzzy
 msgid "SCALEMNU_USEFS"
 msgstr "Scale to fullscreen"
 
+#, fuzzy
 msgid "SCALEMNU_ADAPT"
 msgstr "Adapt to screen size"
 
 msgid "HUDMNU_TITLE"
 msgstr "HUD Options"
 
+#, fuzzy
 msgid "HUDMNU_ALTHUD"
 msgstr "Alternative HUD"
 
+#, fuzzy
 msgid "HUDMNU_MESSAGE"
 msgstr "Message Options"
 
+#, fuzzy
 msgid "HUDMNU_UISCALE"
 msgstr "User interface scale"
 
+#, fuzzy
 msgid "HUDMNU_FORCECROSSHAIR"
 msgstr "Force default crosshair"
 
+#, fuzzy
 msgid "HUDMNU_GROWCROSSHAIR"
 msgstr "Grow crosshair when picking up items"
 
+#, fuzzy
 msgid "HUDMNU_NAMETAGS"
 msgstr "Display nametags"
 
+#, fuzzy
 msgid "HUDMNU_NAMETAGCOLOR"
 msgstr "Nametag color"
 
+#, fuzzy
 msgid "HUDMNU_OLDOUCH"
 msgstr "Use old ouch mug shot formula"
 
+#, fuzzy
 msgid "HUDMNU_HEXENFLASHES"
 msgstr "Hexen weapon flashes"
 
+#, fuzzy
 msgid "HUDMNU_POISONFLASHES"
 msgstr "Poison damage flashes"
 
+#, fuzzy
 msgid "HUDMNU_ICEFLASHES"
 msgstr "Ice death flashes"
 
+#, fuzzy
 msgid "HUDMNU_HAZARDFLASHES"
 msgstr "Poison Buildup flashes"
 
+#, fuzzy
 msgid "HUDMNU_SCALEOPT"
 msgstr "Scaling Options"
 
+#, fuzzy
 msgid "MISCMNU_QUERYIWAD"
 msgstr "Show IWAD selection dialog"
 
+#, fuzzy
 msgid "MISCMNU_ALLCHEATS"
 msgstr "Enable cheats from all games"
 
+#, fuzzy
 msgid "MISCMNU_ENABLESCRIPTSCREENSHOTS"
 msgstr "Enable making screenshots by scripts"
 
+#, fuzzy
 msgid "MISCMNU_DEHLOAD"
 msgstr "Load *.deh/*.bex lumps"
 
+#, fuzzy
 msgid "MISCMNU_CACHENODES"
 msgstr "Cache nodes"
 
+#, fuzzy
 msgid "MISCMNU_CACHETIME"
 msgstr "Time threshold for node caching"
 
+#, fuzzy
 msgid "MISCMNU_CLEARNODECACHE"
 msgstr "Clear node cache"
 
+#, fuzzy
 msgid "MISCMNU_INTERSCROLL"
 msgstr "Allow skipping of intermission scrollers"
 
 msgid "NETMNU_TITLE"
 msgstr "Network Options"
 
+#, fuzzy
 msgid "NETMNU_LOCALOPTIONS"
 msgstr "Local options"
 
+#, fuzzy
 msgid "NETMNU_LINESPECIALPREDICTION"
 msgstr "Predict line actions"
 
+#, fuzzy
 msgid "NETMNU_PREDICTIONLERPSCALE"
 msgstr "Prediction Lerp Scale"
 
+#, fuzzy
 msgid "NETMNU_LERPTHRESHOLD"
 msgstr "Lerp Threshold"
 
+#, fuzzy
 msgid "NETMNU_HOSTOPTIONS"
 msgstr "Host options"
 
+#, fuzzy
 msgid "NETMNU_EXTRATICS"
 msgstr "Extra Tics"
 
+#, fuzzy
 msgid "OPTVAL_CLASSIC"
 msgstr "Classic (Faster)"
 
+#, fuzzy
 msgid "OPTVAL_PRECISE"
 msgstr "Precise"
 
+#, fuzzy
 msgid "OPTVAL_CAPPED"
 msgstr "Capped"
 
+#, fuzzy
 msgid "OPTVAL_PARTICLES"
 msgstr "Particles"
 
+#, fuzzy
 msgid "OPTVAL_SPRITES"
 msgstr "Sprites"
 
+#, fuzzy
 msgid "OPTVAL_SPRITESPARTICLES"
 msgstr "Sprites & Particles"
 
+#, fuzzy
 msgid "OPTVAL_MELT"
 msgstr "Melt"
 
+#, fuzzy
 msgid "OPTVAL_BURN"
 msgstr "Burn"
 
+#, fuzzy
 msgid "OPTVAL_CROSSFADE"
 msgstr "Crossfade"
 
 # This setting is duplicated in order to allow for different grammatical
 # gender endings
+#, fuzzy
 msgid "OPTVAL_SMOOTH_1"
 msgstr "Smooth"
 
 # This setting is duplicated in order to allow for different grammatical
 # gender endings
+#, fuzzy
 msgid "OPTVAL_SMOOTH_2"
 msgstr "Smooth"
 
+#, fuzzy
 msgid "OPTVAL_TRANSLUCENT"
 msgstr "Translucent"
 
+#, fuzzy
 msgid "OPTVAL_FUZZ"
 msgstr "Fuzz"
 
+#, fuzzy
 msgid "OPTVAL_SHADOW"
 msgstr "Shadow"
 
+#, fuzzy
 msgid "OPTVAL_ITEMS"
 msgstr "Items"
 
 msgid "OPTVAL_WEAPONS"
 msgstr "Weapons"
 
+#, fuzzy
 msgid "OPTVAL_BOTH"
 msgstr "Both"
 
@@ -4667,869 +5336,1145 @@ msgstr "ZDoom"
 msgid "OPTVAL_STRIFE"
 msgstr "Strife"
 
+#, fuzzy
 msgid "OPTVAL_PLAYER"
 msgstr "Player"
 
+#, fuzzy
 msgid "OPTVAL_MAP"
 msgstr "Map"
 
+#, fuzzy
 msgid "OPTVAL_CURRENTWEAPON"
 msgstr "Current weapon"
 
+#, fuzzy
 msgid "OPTVAL_AVAILABLEWEAPONS"
 msgstr "Available weapons"
 
+#, fuzzy
 msgid "OPTVAL_ALLWEAPONS"
 msgstr "All weapons"
 
+#, fuzzy
 msgid "OPTVAL_LEVELMILLISECONDS"
 msgstr "Level, milliseconds"
 
+#, fuzzy
 msgid "OPTVAL_LEVELSECONDS"
 msgstr "Level, seconds"
 
+#, fuzzy
 msgid "OPTVAL_LEVEL"
 msgstr "Level"
 
+#, fuzzy
 msgid "OPTVAL_HUBSECONDS"
 msgstr "Hub, seconds"
 
+#, fuzzy
 msgid "OPTVAL_HUB"
 msgstr "Hub"
 
+#, fuzzy
 msgid "OPTVAL_TOTALSECONDS"
 msgstr "Total, seconds"
 
+#, fuzzy
 msgid "OPTVAL_TOTAL"
 msgstr "Total"
 
+#, fuzzy
 msgid "OPTVAL_SYSTEMSECONDS"
 msgstr "System, seconds"
 
+#, fuzzy
 msgid "OPTVAL_SYSTEM"
 msgstr "System"
 
+#, fuzzy
 msgid "OPTVAL_NETGAMESONLY"
 msgstr "Netgames only"
 
+#, fuzzy
 msgid "OPTVAL_AMMOIMAGETEXT"
 msgstr "Image and Text"
 
+#, fuzzy
 msgid "OPTVAL_AMMOTEXTIMAGE"
 msgstr "Text and Image"
 
+#, fuzzy
 msgid "OPTVAL_SCRIPTSONLY"
 msgstr "Scripts Only"
 
+#, fuzzy
 msgid "OPTVAL_ALL"
 msgstr "All"
 
+#, fuzzy
 msgid "OPTVAL_ONLYLASTONE"
 msgstr "Only last one"
 
+#, fuzzy
 msgid "OPTVAL_TRADITIONALDOOM"
 msgstr "Traditional Doom"
 
+#, fuzzy
 msgid "OPTVAL_TRADITIONALSTRIFE"
 msgstr "Traditional Strife"
 
+#, fuzzy
 msgid "OPTVAL_TRADITIONALRAVEN"
 msgstr "Traditional Raven"
 
+#, fuzzy
 msgid "OPTVAL_ONLYWHENFOUND"
 msgstr "Only when found"
 
+#, fuzzy
 msgid "OPTVAL_ONFOROVERLAYONLY"
 msgstr "On for overlay only"
 
+#, fuzzy
 msgid "OPTVAL_OVERLAYNORMAL"
 msgstr "Overlay+Normal"
 
+#, fuzzy
 msgid "OPTVAL_OVERLAYONLY"
 msgstr "Overlay Only"
 
+#, fuzzy
 msgid "OPTVAL_NOTFORHUBS"
 msgstr "Not for hubs"
 
+#, fuzzy
 msgid "OPTVAL_FRONT"
 msgstr "Front"
 
+#, fuzzy
 msgid "OPTVAL_ANIMATED"
 msgstr "Animated"
 
+#, fuzzy
 msgid "OPTVAL_ROTATED"
 msgstr "Rotated"
 
+#, fuzzy
 msgid "OPTVAL_MAPDEFINEDCOLORSONLY"
 msgstr "Map defined colors only"
 
+#, fuzzy
 msgid "OPTVAL_NODOORS"
 msgstr "All except doors"
 
+#, fuzzy
 msgid "OPTVAL_ITEMPICKUP"
 msgstr "Item Pickup"
 
+#, fuzzy
 msgid "OPTVAL_OBITUARIES"
 msgstr "Obituaries"
 
+#, fuzzy
 msgid "OPTVAL_CRITICALMESSAGES"
 msgstr "Critical Messages"
 
+#, fuzzy
 msgid "OPTVAL_NEVERFRIENDS"
 msgstr "Never friends"
 
+#, fuzzy
 msgid "OPTVAL_ONLYMONSTERS"
 msgstr "Only monsters"
 
 msgid "OPTVAL_HEXEN"
 msgstr "Hexen"
 
+#, fuzzy
 msgid "OPTVAL_OLD"
 msgstr "Old"
 
 msgid "OPTVAL_DOOM"
 msgstr "Doom"
 
+#, fuzzy
 msgid "OPTVAL_DOOMSTRICT"
 msgstr "Doom (strict)"
 
 msgid "OPTVAL_BOOM"
 msgstr "Boom"
 
+#, fuzzy
 msgid "OPTVAL_BOOMSTRICT"
 msgstr "Boom (strict)"
 
+#, fuzzy
 msgid "OPTVAL_MBF"
 msgstr "MBF"
 
+#, fuzzy
 msgid "OPTVAL_MBFSTRICT"
 msgstr "MBF (strict)"
 
+#, fuzzy
 msgid "OPTVAL_MBF21"
 msgstr "MBF21"
 
+#, fuzzy
 msgid "OPTVAL_MBF21STRICT"
 msgstr "MBF21 (strict)"
 
+#, fuzzy
 msgid "OPTVAL_ZDOOM2063"
 msgstr "ZDoom 2.0.63"
 
+#, fuzzy
 msgid "OPTVAL_ERRORS"
 msgstr "Errors"
 
+#, fuzzy
 msgid "OPTVAL_WARNINGS"
 msgstr "Warnings"
 
+#, fuzzy
 msgid "OPTVAL_NOTIFICATIONS"
 msgstr "Notifications"
 
+#, fuzzy
 msgid "OPTVAL_EVERYTHING"
 msgstr "Everything"
 
+#, fuzzy
 msgid "OPTVAL_HWPOLY"
 msgstr "Hardware accelerated"
 
+#, fuzzy
 msgid "OPTVAL_SWDOOM"
 msgstr "Doom Software Renderer"
 
+#, fuzzy
 msgid "OPTVAL_SWDOOMTC"
 msgstr "True Color SW Renderer"
 
+#, fuzzy
 msgid "OPTVAL_VANILLA"
 msgstr "Vanilla"
 
+#, fuzzy
 msgid "OPTVAL_VTFZDOOM"
 msgstr "ZDoom (Forced)"
 
+#, fuzzy
 msgid "OPTVAL_VTFVANILLA"
 msgstr "Vanilla (Forced)"
 
+#, fuzzy
 msgid "OPTVAL_SMALL"
 msgstr "Small"
 
+#, fuzzy
 msgid "OPTVAL_LARGE"
 msgstr "Large"
 
+#, fuzzy
 msgid "OPTVAL_CONSOLE"
 msgstr "Console"
 
+#, fuzzy
 msgid "C_BRICK"
 msgstr "\\caBrick"
 
+#, fuzzy
 msgid "C_TAN"
 msgstr "\\cbTan"
 
+#, fuzzy
 msgid "C_GRAY"
 msgstr "\\ccGray"
 
+#, fuzzy
 msgid "C_GREEN"
 msgstr "\\cdGreen"
 
+#, fuzzy
 msgid "C_BROWN"
 msgstr "\\ceBrown"
 
+#, fuzzy
 msgid "C_GOLD"
 msgstr "\\cfGold"
 
+#, fuzzy
 msgid "C_RED"
 msgstr "\\cgRed"
 
+#, fuzzy
 msgid "C_BLUE"
 msgstr "\\chBlue"
 
+#, fuzzy
 msgid "C_ORANGE"
 msgstr "\\ciOrange"
 
+#, fuzzy
 msgid "C_WHITE"
 msgstr "\\cjWhite"
 
+#, fuzzy
 msgid "C_YELLOW"
 msgstr "\\ckYellow"
 
+#, fuzzy
 msgid "C_DEFAULT"
 msgstr "\\clDefault"
 
+#, fuzzy
 msgid "C_BLACK"
 msgstr "\\cmBlack"
 
+#, fuzzy
 msgid "C_LIGHTBLUE"
 msgstr "\\cnLight blue"
 
+#, fuzzy
 msgid "C_CREAM"
 msgstr "\\coCream"
 
+#, fuzzy
 msgid "C_OLIVE"
 msgstr "\\cpOlive"
 
+#, fuzzy
 msgid "C_DARKGREEN"
 msgstr "\\cqDark green"
 
+#, fuzzy
 msgid "C_DARKRED"
 msgstr "\\crDark red"
 
+#, fuzzy
 msgid "C_DARKBROWN"
 msgstr "\\csDark brown"
 
+#, fuzzy
 msgid "C_PURPLE"
 msgstr "\\ctPurple"
 
+#, fuzzy
 msgid "C_DARKGRAY"
 msgstr "\\cuDark gray"
 
+#, fuzzy
 msgid "C_CYAN"
 msgstr "\\cvCyan"
 
+#, fuzzy
 msgid "C_ICE"
 msgstr "\\cwIce"
 
+#, fuzzy
 msgid "C_FIRE"
 msgstr "\\cxFire"
 
+#, fuzzy
 msgid "C_SAPPHIRE"
 msgstr "\\cySapphire"
 
+#, fuzzy
 msgid "C_TEAL"
 msgstr "\\czTeal"
 
 msgid "OPTSTR_HERETIC"
 msgstr "Heretic"
 
+#, fuzzy
 msgid "OPTSTR_CHEX"
 msgstr "Chex®"
 
+#, fuzzy
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr "No interpolation"
 
+#, fuzzy
 msgid "OPTSTR_SPLINE"
 msgstr "Spline"
 
+#, fuzzy
 msgid "DSPLYMNU_GLOPT"
 msgstr "Hardware Renderer"
 
+#, fuzzy
 msgid "DSPLYMNU_SWOPT"
 msgstr "Software Renderer"
 
+#, fuzzy
 msgid "GLMNU_TITLE"
 msgstr "Hardware Rendering Options"
 
+#, fuzzy
 msgid "GLMNU_DYNLIGHT"
 msgstr "Dynamic Light Options"
 
+#, fuzzy
 msgid "GLTEXMNU_SORTDRAWLIST"
 msgstr "Sort draw lists by texture"
 
+#, fuzzy
 msgid "GLLIGHTMNU_TITLE"
 msgstr "Dynamic Lights"
 
+#, fuzzy
 msgid "GLLIGHTMNU_LIGHTSENABLED"
 msgstr "Dynamic Lights (Hardware)"
 
+#, fuzzy
 msgid "GLLIGHTMNU_LIGHTSPRITES"
 msgstr "Lights affect sprites"
 
+#, fuzzy
 msgid "GLLIGHTMNU_LIGHTPARTICLES"
 msgstr "Lights affect particles"
 
+#, fuzzy
 msgid "GLLIGHTMNU_LIGHTSHADOWMAP"
 msgstr "Light shadowmaps"
 
+#, fuzzy
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPQUALITY"
 msgstr "Shadowmap quality"
 
+#, fuzzy
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
 msgstr "Shadowmap filter"
 
+#, fuzzy
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr "Fog forces fullbright"
 
+#, fuzzy
 msgid "GLPREFMNU_WPNLIGHTSTR"
 msgstr "Weapon light strength"
 
+#, fuzzy
 msgid "GLPREFMNU_ENV"
 msgstr "Enhanced night vision mode"
 
+#, fuzzy
 msgid "GLPREFMNU_ENVSTEALTH"
 msgstr "ENV shows stealth monsters"
 
+#, fuzzy
 msgid "GLPREFMNU_SPRCLIP"
 msgstr "Adjust sprite clipping"
 
+#, fuzzy
 msgid "GLPREFMNU_SPRBLEND"
 msgstr "Smooth sprite edges"
 
+#, fuzzy
 msgid "GLPREFMNU_FUZZSTYLE"
 msgstr "Fuzz Style"
 
+#, fuzzy
 msgid "GLPREFMNU_SPRBILLBOARD"
 msgstr "Sprite billboard"
 
+#, fuzzy
 msgid "GLPREFMNU_SPRBILLFACECAMERA"
 msgstr "Sprites face camera"
 
+#, fuzzy
 msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr "Particle style"
 
+#, fuzzy
 msgid "GLPREFMNU_VRMODE"
 msgstr "Stereo 3D VR"
 
+#, fuzzy
 msgid "GLPREFMNU_VRQUADSTEREO"
 msgstr "Enable Quad Stereo"
 
+#, fuzzy
 msgid "GLPREFMNU_SWLMBANDED"
 msgstr "Banded SW Lightmode"
 
+#, fuzzy
 msgid "GLPREFMNU_VRIPD"
 msgstr "Distance Between Your Eyes"
 
+#, fuzzy
 msgid "GLPREFMNU_VRSCREENDIST"
 msgstr "Distance From Your Screen"
 
+#, fuzzy
 msgid "OPTVAL_SMART"
 msgstr "Smart"
 
+#, fuzzy
 msgid "OPTVAL_SMARTER"
 msgstr "Smarter"
 
+#, fuzzy
 msgid "OPTVAL_INFRAREDONLY"
 msgstr "Infrared only"
 
+#, fuzzy
 msgid "OPTVAL_INFRAREDANDTORCH"
 msgstr "Infrared and torch"
 
+#, fuzzy
 msgid "OPTVAL_ANYFIXEDCOLORMAP"
 msgstr "Any fixed colormap"
 
+#, fuzzy
 msgid "OPTVAL_USEASPALETTE"
 msgstr "Use as palette"
 
+#, fuzzy
 msgid "OPTVAL_BLEND"
 msgstr "Blend"
 
+#, fuzzy
 msgid "OPTVAL_BRIGHT"
 msgstr "Bright"
 
+#, fuzzy
 msgid "OPTVAL_DARK"
 msgstr "Dark"
 
 # This refers to the Doom Legacy port, not a legacy lighting style!
+#, fuzzy
 msgid "OPTVAL_LEGACY"
 msgstr "Doom Legacy"
 
+#, fuzzy
 msgid "OPTVAL_SOFTWARE"
 msgstr "Software"
 
+#, fuzzy
 msgid "OPTVAL_YAXIS"
 msgstr "Y Axis"
 
+#, fuzzy
 msgid "OPTVAL_XYAXIS"
 msgstr "X/Y Axis"
 
+#, fuzzy
 msgid "OPTVAL_SQUARE"
 msgstr "Square"
 
+#, fuzzy
 msgid "OPTVAL_ROUND"
 msgstr "Round"
 
+#, fuzzy
 msgid "OPTVAL_PIXELFUZZ"
 msgstr "Pixel fuzz"
 
+#, fuzzy
 msgid "OPTVAL_SMOOTHFUZZ"
 msgstr "Smooth fuzz"
 
+#, fuzzy
 msgid "OPTVAL_SWIRLYFUZZ"
 msgstr "Swirly fuzz"
 
+#, fuzzy
 msgid "OPTVAL_TRANSLUCENTFUZZ"
 msgstr "Translucent fuzz"
 
+#, fuzzy
 msgid "OPTVAL_NOISE"
 msgstr "Noise"
 
+#, fuzzy
 msgid "OPTVAL_SMOOTHNOISE"
 msgstr "Smooth Noise"
 
+#, fuzzy
 msgid "OPTVAL_JAGGEDFUZZ"
 msgstr "Jagged fuzz"
 
+#, fuzzy
 msgid "OPTVAL_GREENMAGENTA"
 msgstr "Green/Magenta"
 
+#, fuzzy
 msgid "OPTVAL_REDCYAN"
 msgstr "Red/Cyan"
 
+#, fuzzy
 msgid "OPTVAL_AMBERBLUE"
 msgstr "Amber/Blue"
 
+#, fuzzy
 msgid "OPTVAL_LEFTEYE"
 msgstr "Left Eye"
 
+#, fuzzy
 msgid "OPTVAL_RIGHTEYE"
 msgstr "Right Eye"
 
+#, fuzzy
 msgid "OPTVAL_SBSFULL"
 msgstr "Side-by-side Full"
 
+#, fuzzy
 msgid "OPTVAL_SBSNARROW"
 msgstr "Side-by-side Narrow"
 
+#, fuzzy
 msgid "OPTVAL_TOPBOTTOM"
 msgstr "Top/Bottom"
 
+#, fuzzy
 msgid "OPTVAL_ROWINTERLEAVED"
 msgstr "Row Interleaved"
 
+#, fuzzy
 msgid "OPTVAL_COLUMNINTERLEAVED"
 msgstr "Column Interleaved"
 
+#, fuzzy
 msgid "OPTVAL_CHECKERBOARD"
 msgstr "Checkerboard"
 
+#, fuzzy
 msgid "OPTVAL_QUADBUFFERED"
 msgstr "Quad-buffered"
 
+#, fuzzy
 msgid "DSPLYMNU_TCOPT"
 msgstr "TrueColor Options"
 
+#, fuzzy
 msgid "TCMNU_TITLE"
 msgstr "TrueColor Options"
 
+#, fuzzy
 msgid "TCMNU_MINFILTER"
 msgstr "Linear filter when downscaling"
 
+#, fuzzy
 msgid "TCMNU_MAGFILTER"
 msgstr "Linear filter when upscaling"
 
+#, fuzzy
 msgid "TCMNU_MIPMAP"
 msgstr "Use mipmapped textures"
 
+#, fuzzy
 msgid "TCMNU_DYNLIGHTS"
 msgstr "Dynamic lights (Software)"
 
+#, fuzzy
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Always show keys"
 
+#, fuzzy
 msgid "TXT_NO_TEAM_CHANGE"
 msgstr "Team changing has been disabled!"
 
 # %s is the player and gender sensitive
+#, fuzzy
 msgid "TXT_JOINED_TEAM"
 msgstr "%s joined the %t team"
 
+#, fuzzy
 msgid "TXT_LONER"
 msgstr "%s is now a loner."
 
+#, fuzzy
 msgid "TXT_LEFTWITHFRAGS"
 msgstr "%s left the game with %d frags"
 
+#, fuzzy
 msgid "TXT_LEFTTHEGAME"
 msgstr "%s left the game"
 
+#, fuzzy
 msgid "TXT_COULDNOTREAD"
 msgstr "Could not read savegame '%s'."
 
+#, fuzzy
 msgid "TXT_NOINFOJSON"
 msgstr "%s' is not a valid savegame: Missing 'info.json'."
 
+#, fuzzy
 msgid "TXT_FAILEDTOREADSG"
 msgstr "Failed to access savegame info in '%s'."
 
+#, fuzzy
 msgid "TXT_INCOMPATIBLESG"
 msgstr "Savegame '%s' is from an incompatible version."
 
+#, fuzzy
 msgid "TXT_OTHERENGINESG"
 msgstr "Savegame '%s' is from another ZDoom-based engine:"
 
+#, fuzzy
 msgid "TXT_TOOOLDSG"
 msgstr ""
-"Savegame '%s' is from an older version (%d). The oldest supported version is %e."
+"Savegame '%s' is from an older version (%d). The oldest supported version is "
+"%e."
 
+#, fuzzy
 msgid "TXT_TOONEWSG"
 msgstr ""
-"Savegame '%s' is from a newer version (%d). The highest supported version is %e."
+"Savegame '%s' is from a newer version (%d). The highest supported version is "
+"%e."
 
+#, fuzzy
 msgid "TXT_NOMAPSG"
 msgstr "Savegame '%s' is missing the current map."
 
+#, fuzzy
 msgid "TXT_NOGLOBALSJSON"
 msgstr "%s' is not a valid savegame: Missing 'globals.json'."
 
+#, fuzzy
 msgid "TXT_SGINFOERR"
 msgstr "Failed to access savegame info in '%s'"
 
+#, fuzzy
 msgid "TXT_SAVEPENDING"
 msgstr "A game save is still pending."
 
+#, fuzzy
 msgid "TXT_NOTSAVEABLE"
 msgstr "Not in a saveable game."
 
+#, fuzzy
 msgid "TXT_NOTINLEVEL"
 msgstr "Not in a level"
 
+#, fuzzy
 msgid "TXT_SPPLAYERDEAD"
 msgstr "Player is dead in a single-player game"
 
+#, fuzzy
 msgid "TXT_SAVEFAILED"
 msgstr "Save failed"
 
+#, fuzzy
 msgid "TXT_SCREENSHOTERR"
 msgstr "Could not create screenshot."
 
 # As in paused by player %s.
+#, fuzzy
 msgid "TXT_BY"
 msgstr "By %s"
 
+#, fuzzy
 msgid "HUDMNU_FLASH"
 msgstr "Screen Blend Options"
 
+#, fuzzy
 msgid "GLMNU_3DMODE"
 msgstr "3D mode"
 
+#, fuzzy
 msgid "HUDMNU_CROSSHAIRON"
 msgstr "Crosshair"
 
+#, fuzzy
 msgid "MSGMNU_SUBTITLES"
 msgstr "Subtitles"
 
+#, fuzzy
 msgid "HUDMNU_FONTOPTIONS"
 msgstr "Font Options"
 
+#, fuzzy
 msgid "FONTMNU_LOG"
 msgstr "Use standard font for log display"
 
+#, fuzzy
 msgid "FONTMNU_DLG"
 msgstr "Use standard font for dialogues"
 
+#, fuzzy
 msgid "MISCMNU_QUICKEXIT"
 msgstr "Quick Exit"
 
+#, fuzzy
 msgid "DSPLYMNU_CUSTOMINVERTMAP"
 msgstr "Custom Inverse Map"
 
+#, fuzzy
 msgid "DSPLYMNU_CUSTOMINVERTC1"
 msgstr "Custom Inverse Color Dark"
 
+#, fuzzy
 msgid "DSPLYMNU_CUSTOMINVERTC2"
 msgstr "Custom Inverse Color Light"
 
+#, fuzzy
 msgid "DSPLYMNU_BOBFIRE"
 msgstr "Weapon bob amount when firing"
 
 # HUD->Scaling Options
+#, fuzzy
 msgid "SCALEMNU_SCALECLASSIC"
 msgstr "Intermission and Screen Border Classic Scaling"
 
+#, fuzzy
 msgid "SCALEMNU_INTER"
 msgstr "Intermission background"
 
+#, fuzzy
 msgid "SCALEMNU_BORDER"
 msgstr "Screen border"
 
+#, fuzzy
 msgid "SCALEMNU_FACTOR"
 msgstr "Scaling factor"
 
+#, fuzzy
 msgid "SCALEMNU_RATIO"
 msgstr "Aspect ratio"
 
 # sv_alwaystally
+#, fuzzy
 msgid "MISCMNU_ALWAYSTALLY"
 msgstr "Show Tally Screen On Level Exit"
 
 # this is '==0'
+#, fuzzy
 msgid "OPTVAL_MODDEFINED"
 msgstr "Mod Defined"
 
+#, fuzzy
 msgid "OPTVAL_NOTHUBS"
 msgstr "Always, except within hubs"
 
+#, fuzzy
 msgid "OPTVAL_WITHHUBS"
 msgstr "Always, even within hubs"
 
+#, fuzzy
 msgid "CNTRLMNU_LAYOUT"
 msgstr "Preferred keyboard layout"
 
+#, fuzzy
 msgid "OPTVAL_CLASSICZ"
 msgstr "Classic ZDoom"
 
+#, fuzzy
 msgid "OPTVAL_MODERN"
 msgstr "Modern (WASD)"
 
+#, fuzzy
 msgid "OPTVAL_MODERNLEFT"
 msgstr "Modern (Keypad)"
 
+#, fuzzy
 msgid "MISCMNU_SETSLOTSTRICT"
 msgstr "Strict KEYCONF Weapons/Players"
 
+#, fuzzy
 msgid "MISCMNU_WIPERCENT"
 msgstr "Use percents on summary screen"
 
+#, fuzzy
 msgid "MISCMNU_CLEANSTAT"
 msgstr "Classic ZDoom scaling on summary screen"
 
 # Called "citizens" according to Doomwiki
+#, fuzzy
 msgid "TAG_STRIFEZOMBIE"
 msgstr "Citizen"
 
+#, fuzzy
 msgid "TAG_CEILINGTURRET"
 msgstr "Ceiling Turret"
 
 # Names need to match the obituaries!
+#, fuzzy
 msgid "TAG_CRUSADER"
 msgstr "Crusader"
 
+#, fuzzy
 msgid "TAG_INQUISITOR"
 msgstr "Inquisitor"
 
+#, fuzzy
 msgid "TAG_PEASANT"
 msgstr "Peasant"
 
+#, fuzzy
 msgid "TAG_REAVER"
 msgstr "Reaver"
 
+#, fuzzy
 msgid "TAG_SENTINEL"
 msgstr "Sentinel"
 
+#, fuzzy
 msgid "TAG_STALKER"
 msgstr "Stalker"
 
+#, fuzzy
 msgid "TAG_BISHOP"
 msgstr "The Bishop"
 
+#, fuzzy
 msgid "TAG_ENTITY"
 msgstr "The One God"
 
+#, fuzzy
 msgid "TAG_PROGRAMMER"
 msgstr "The Programmer"
 
+#, fuzzy
 msgid "TAG_ALIENSPECTRE"
 msgstr "The Spectre"
 
+#, fuzzy
 msgid "TAG_KNEELINGGUY"
 msgstr "Kneeling Guy"
 
+#, fuzzy
 msgid "GMPLYMNU_MULTIPLAYERTHINGS"
 msgstr "Spawn multiplayer things in coop"
 
+#, fuzzy
 msgid "DSPLYMNU_SPRITESHADOW"
 msgstr "Sprite shadows"
 
 # Will enable sprite shadows for monster and player sprites
+#, fuzzy
 msgid "OPTVAL_SPRSHADALWAYS"
 msgstr "Monsters and players"
 
 # the FOV slider
+#, fuzzy
 msgid "DSPLYMNU_FOV"
 msgstr "FOV"
 
+#, fuzzy
 msgid "CMPTMNU_NOMBF21"
 msgstr "Disable MBF21 features"
 
+#, fuzzy
 msgid "ALTHUDMNU_SHOWTIMESTAT"
 msgstr "Show time widget"
 
+#, fuzzy
 msgid "CMPTMNU_VILEGHOSTS"
 msgstr "Crushed monsters get resurrected as ghosts"
 
+#, fuzzy
 msgid "MISCMNU_FVIEWBOB"
 msgstr "View bobbing while flying"
 
+#, fuzzy
 msgid "OB_DEMON1HIT"
 msgstr "%o was maimed by a Serpent."
 
+#, fuzzy
 msgid "AUTOMAPMNU_LINEANTIALIASING"
 msgstr "Antialias Lines"
 
+#, fuzzy
 msgid "GMPLYMNU_NOPLAYERCLIP"
 msgstr "Move and shoot through other players"
 
+#, fuzzy
 msgid "GMPLYMNU_SHAREKEYS"
 msgstr "Share keys with all players"
 
+#, fuzzy
 msgid "GLPREFMNU_SPRBILLFACECAMERAFORCE"
 msgstr "Disallow override of camera facing mode"
 
+#, fuzzy
 msgid "ALTHUDMNU_SWAPHEALTHARMOR"
 msgstr "Swap health and armor"
 
 # hud_oldscale
+#, fuzzy
 msgid "SCALEMNU_HUD_OLDSCALE"
 msgstr "Use classic HUD scaling"
 
 # hud_scalefactor
+#, fuzzy
 msgid "SCALEMNU_HUD_SCALEFACTOR"
 msgstr "HUD scale factor"
 
 # Any Actor that only appears in co-op is disabled
+#, fuzzy
 msgid "GMPLYMNU_COOPTHINGS"
 msgstr "Spawn co-op only things in multiplayer"
 
 # Items that only appear in co-op are disabled
+#, fuzzy
 msgid "GMPLYMNU_COOPITEMS"
 msgstr "Spawn co-op only pickup items in multiplayer"
 
 # Items are picked up client-side rather than fully taken by the client who
 # picked it up
+#, fuzzy
 msgid "GMPLYMNU_LOCALITEMS"
 msgstr "Players pick up their own copy of items in multiplayer"
 
 # Drops from Actors aren't picked up locally
+#, fuzzy
 msgid "GMPLYMNU_NOLOCALDROP"
 msgstr "Disable client-side pick ups on dropped items"
 
 # Disables autoloading save on death
+#, fuzzy
 msgid "MISCMNU_RESTARTONDEATH"
 msgstr "Pistol start on death"
 
 # Resets inventory on every map
+#, fuzzy
 msgid "GMPLYMNU_PISTOLSTART"
 msgstr "Pistol start every map"
 
+#, fuzzy
 msgid "CMPTMNU_VOODOOZOMBIES"
 msgstr "Allow creation of zombie players"
 
+#, fuzzy
 msgid "CMPTMNU_FDTELEPORT"
 msgstr "Ignore floor Z when teleporting"
 
 # Hardware Sprite Clipping mode that gives the illusion of a sprite being in a
 # different position than it really is, allowing it to be rendered under the
 # floor despite clipping
+#, fuzzy
 msgid "OPTVAL_ANAMORPHIC"
 msgstr "Forced-Perspective"
 
+#, fuzzy
 msgid "SNDMNU_FOOTSTEPVOLUME"
 msgstr "Footstep Volume"
 
+#, fuzzy
 msgid "ID24_GOTINCINERATOR"
 msgstr "You got the incinerator!"
 
 # Also known as Heatwave Generator.
+#, fuzzy
 msgid "ID24_GOTCALAMITYBLADE"
 msgstr "You got the calamity blade!  Hot damn!"
 
+#, fuzzy
 msgid "ID24_GOTFUELCAN"
 msgstr "Picked up a fuel can."
 
+#, fuzzy
 msgid "ID24_GOTFUELTANK"
 msgstr "Picked up a fuel tank."
 
+#, fuzzy
 msgid "TAG_ID24INCINERATOR"
 msgstr "Incinerator"
 
+#, fuzzy
 msgid "TAG_ID24CALAMITYBLADE"
 msgstr "Calamity Blade"
 
+#, fuzzy
 msgid "AMMO_ID24FUEL"
 msgstr "Fuel Can"
 
+#, fuzzy
 msgid "AMMO_ID24FUELTANK"
 msgstr "Fuel Tank"
 
+#, fuzzy
 msgid "ID24_CC_GHOUL"
 msgstr "Ghoul"
 
+#, fuzzy
 msgid "ID24_CC_BANSHEE"
 msgstr "Banshee"
 
 # Also known as Plasmaguy.
+#, fuzzy
 msgid "ID24_CC_SHOCKTROOPER"
 msgstr "Shocktrooper"
 
+#, fuzzy
 msgid "ID24_CC_MINDWEAVER"
 msgstr "Mindweaver"
 
+#, fuzzy
 msgid "ID24_CC_VASSAGO"
 msgstr "Vassago"
 
+#, fuzzy
 msgid "ID24_CC_TYRANT"
 msgstr "Tyrant"
 
+#, fuzzy
 msgid "ID24_OB_GHOUL"
 msgstr "%o caught a ghoul's energy ball."
 
+#, fuzzy
 msgid "ID24_OB_BANSHEE"
 msgstr "%o was terminated by a banshee."
 
+#, fuzzy
 msgid "ID24_OB_SHOCKTROOPER"
 msgstr "%o was melted by a shocktrooper."
 
+#, fuzzy
 msgid "ID24_OB_MINDWEAVER"
 msgstr "%o was mowed down by a mindweaver."
 
+#, fuzzy
 msgid "ID24_OB_VASSAGO"
 msgstr "%o was scorched by a vassago."
 
+#, fuzzy
 msgid "ID24_OB_TYRANT"
 msgstr "%o was blown apart by a tyrant."
 
+#, fuzzy
 msgid "AUTOMAPMNU_SHOWLEVELNAME"
 msgstr "Show level name"
 
 # As seen in Options - Customize Controls - Inventory for Heretic, Hexen and
 # Strife
+#, fuzzy
 msgid "CNTRLMNU_INVENTORY_HOTKEYS"
 msgstr "Inventory Hotkeys"
 
+#, fuzzy
 msgid "JOYMNU_HAPTICS"
 msgstr "Haptic feedback strength"
 
+#, fuzzy
 msgid "JOYMNU_CURVE"
 msgstr "Response Curve"
 
+#, fuzzy
 msgid "JOYMNU_THRESHOLD"
 msgstr "Digital Threshold"
 
 msgid "OPTVAL_LINEAR"
 msgstr "Linear"
 
+#, fuzzy
 msgid "OPTVAL_QUADRATIC"
 msgstr "Quadratic"
 
 # The type of chat messages the player wants to be visible to them.
+#, fuzzy
 msgid "NETMNU_CHATTYPE"
 msgstr "Chat Type"
 
+#, fuzzy
 msgid "OPTVAL_DISABLECHAT"
 msgstr "Disabled"
 
+#, fuzzy
 msgid "OPTVAL_TEAMONLYCHAT"
 msgstr "Teammates Only"
 
@@ -5537,240 +6482,311 @@ msgid "OPTVAL_GLOBALCHAT"
 msgstr "Global"
 
 # Disables /me functionality in chat when displaying.
+#, fuzzy
 msgid "NETMNU_NOBOLDCHAT"
 msgstr "Disable Bold Text In Chat"
 
 # Turns off the sound that plays when someone receives a message.
+#, fuzzy
 msgid "NETMNU_NOCHATSND"
 msgstr "Disable Chat Sound"
 
 # Tries to make online games less stuttery.
+#, fuzzy
 msgid "NETMNU_BALANCETICS"
 msgstr "Stabilize Connections"
 
+#, fuzzy
 msgid "NETMNU_LIMITCONVO"
 msgstr "Limit Conversations to Host"
 
 # Helps stop things like e.g. door open/close spam when playing online.
+#, fuzzy
 msgid "NETMNU_REPEATCOOLDOWN"
 msgstr "Cool Down on Repeatable Actions"
 
+#, fuzzy
 msgid "NETMNU_DISABLEPAUSE"
 msgstr "Disable Pausing"
 
+#, fuzzy
 msgid "OPTVAL_HOSTONLY"
 msgstr "Host Only"
 
 # Type of vote system to use to bypass intermissions when playing online.
+#, fuzzy
 msgid "NETMNU_READYTYPE"
 msgstr "Intermission Skipping Type"
 
+#, fuzzy
 msgid "OPTVAL_VOTE"
 msgstr "Vote"
 
+#, fuzzy
 msgid "OPTVAL_ANYONE"
 msgstr "Anyone"
 
 # If this percent of players or more are ready, starts a countdown when in
 # Vote intermission skip mode.
+#, fuzzy
 msgid "NETMNU_READYPERCENT"
 msgstr "Vote Skip Percent"
 
+#, fuzzy
 msgid "NETMNU_READYCOUNTDOWN"
 msgstr "Vote Countdown Time (Seconds)"
 
 # Forces a cool down between chat messages for all players when playing
 # online.
+#, fuzzy
 msgid "NETMNU_CHATSLOMO"
 msgstr "Chat Slow Mode (Seconds)"
 
+#, fuzzy
 msgid "OPTMNU_HAPTICS"
 msgstr "Haptics options"
 
 # How the engine should handle haptics in old mods
+#, fuzzy
 msgid "HAPMNU_COMPAT"
 msgstr "Haptic feedback compatibility level"
 
+#, fuzzy
 msgid "OPTVAL_MATCH"
 msgstr "Match"
 
+#, fuzzy
 msgid "OPTVAL_WARN"
 msgstr "Warn"
 
+#, fuzzy
 msgid "HAPMNU_OPTIONS"
 msgstr "Customize haptic feedback sources"
 
 # Rumble when using ui elements
+#, fuzzy
 msgid "HAPMNU_OPT_MENU"
 msgstr "From using menus"
 
 # Rumble when doing things such as pressing buttons and firing weapon
+#, fuzzy
 msgid "HAPMNU_OPT_ACTION"
 msgstr "From taking action"
 
 # Rumble when dying and getting hurt
+#, fuzzy
 msgid "HAPMNU_OPT_DAMAGE"
 msgstr "By receiving damage"
 
 # Rumble from bumping into things, crossing lines, and quakes
+#, fuzzy
 msgid "HAPMNU_OPT_WORLD"
 msgstr "From interacting with the world"
 
 msgid "PAUSE_STRING"
 msgstr "Pause"
 
+#, fuzzy
 msgid "TAG_BACKPACK"
 msgstr "Backpack"
 
+#, fuzzy
 msgid "TAG_ARMORBONUS"
 msgstr "Spiritual Armor"
 
+#, fuzzy
 msgid "TAG_GREENARMOR"
 msgstr "Security Armor"
 
+#, fuzzy
 msgid "TAG_BLUEARMOR"
 msgstr "Combat Armor"
 
+#, fuzzy
 msgid "TAG_INVULSPHERE"
 msgstr "Invulnerability Artifact"
 
+#, fuzzy
 msgid "TAG_SOULSPHERE"
 msgstr "Soul Sphere"
 
+#, fuzzy
 msgid "TAG_MEGAPSHERE"
 msgstr "Mega Sphere"
 
+#, fuzzy
 msgid "TAG_INVISSPHERE"
 msgstr "Blur Artifact"
 
+#, fuzzy
 msgid "TAG_RADSUIT"
 msgstr "Radiation Suit"
 
+#, fuzzy
 msgid "TAG_VISOR"
 msgstr "Light Amplification Visor"
 
+#, fuzzy
 msgid "TAG_ALLMAP"
 msgstr "Computer Map"
 
+#, fuzzy
 msgid "TAG_BERSERK"
 msgstr "Berserk Pack"
 
+#, fuzzy
 msgid "TAG_HEALTHBONUS"
 msgstr "Health Potion"
 
+#, fuzzy
 msgid "TAG_STIMPACK"
 msgstr "Stimpack"
 
+#, fuzzy
 msgid "TAG_MEDIKIT"
 msgstr "Medikit"
 
+#, fuzzy
 msgid "TAG_BLUECARD"
 msgstr "Blue Keycard"
 
+#, fuzzy
 msgid "TAG_YELLOWCARD"
 msgstr "Yellow Keycard"
 
+#, fuzzy
 msgid "TAG_REDCARD"
 msgstr "Red Keycard"
 
+#, fuzzy
 msgid "TAG_BLUESKULL"
 msgstr "Blue Skull Key"
 
+#, fuzzy
 msgid "TAG_YELLOWSKULL"
 msgstr "Yellow Skull Key"
 
+#, fuzzy
 msgid "TAG_REDSKULL"
 msgstr "Red Skull Key"
 
+#, fuzzy
 msgid "TAG_GLASSOFWATER"
 msgstr "Glass of Water"
 
+#, fuzzy
 msgid "TAG_BOWLOFFRUIT"
 msgstr "Bowl of Fruit"
 
+#, fuzzy
 msgid "TAG_BOWLOFVEGETABLES"
 msgstr "Bowl of Vegetables"
 
+#, fuzzy
 msgid "TAG_BREAKFAST"
 msgstr "Supercharge Breakfast"
 
+#, fuzzy
 msgid "TAG_REPELLENT"
 msgstr "Slime Repellent"
 
+#, fuzzy
 msgid "TAG_CHEXARMOR"
 msgstr "Chex Armor"
 
+#, fuzzy
 msgid "TAG_SUPERCHEXARMOR"
 msgstr "Super Chex Armor"
 
+#, fuzzy
 msgid "TAG_CHEXMAP"
 msgstr "Computer Area Map"
 
+#, fuzzy
 msgid "TAG_SLIMESUIT"
 msgstr "Slime Proof Suit"
 
+#, fuzzy
 msgid "TAG_ZORCHPACK"
 msgstr "Zorch Pack"
 
+#, fuzzy
 msgid "TAG_CBLUEKEY"
 msgstr "Blue Key"
 
+#, fuzzy
 msgid "TAG_CYELLOWKEY"
 msgstr "Yellow Key"
 
+#, fuzzy
 msgid "TAG_CREDKEY"
 msgstr "Red Key"
 
 # Option to make the view weapon sprites be lit exactly as the sector's
 # brightness. Without this option, weapon sprites are generally brighter
 # compared to the sector's brightness
+#, fuzzy
 msgid "GLPREFMNU_WPNPURELIGHT"
 msgstr "Use sector brightness on weapon sprites"
 
 # Mark the player as ready to advance during the intermission in multiplayer
 # games
+#, fuzzy
 msgid "NET_CONTINUE_MKB"
 msgstr "Press Space or LMB to ready up"
 
+#, fuzzy
 msgid "NET_CONTINUE_CONTROLLER"
 msgstr "Press A to ready up"
 
+#, fuzzy
 msgid "NET_CONTINUE_JOYSTICK"
 msgstr "Press Joy 1 to ready up"
 
+#, fuzzy
 msgid "GMPLYMNU_REMEMBERWEAP"
 msgstr "Remember selected weapon on respawn"
 
+#, fuzzy
 msgid "CNTRLMNU_COOPSPYPREV"
 msgstr "Coop spy previous"
 
+#, fuzzy
 msgid "CNTRLMNU_COOPSPYCANCEL"
 msgstr "Clear coop spy"
 
 msgid "OPTMNU_ACCESSIBILITY"
 msgstr "Accessibility Options"
 
+#, fuzzy
 msgid "JOYMNU_ANALOGRUN"
 msgstr "Analog Run"
 
+#, fuzzy
 msgid "ACCMNU_TOOLTIP_LINES"
 msgstr "Tooltip Lines"
 
+#, fuzzy
 msgid "ACCMNU_TOOLTIP_SPEED"
 msgstr "Tooltip Scroll Speed"
 
+#, fuzzy
 msgid "ACCMNU_TOOLTIP_DELAY"
 msgstr "Tooltip Scroll Delay"
 
+#, fuzzy
 msgid "ACCMNU_TOOLTIP_ALPHA"
 msgstr "Tooltip Background Alpha"
 
+#, fuzzy
 msgid "ACCMNU_TOOLTIP_CAP"
 msgstr "Limit Tooltip Width"
 
+#, fuzzy
 msgid "ACCMNU_TOOLTIP_SCALE"
 msgstr "Large Tooltip Text"
 
+#, fuzzy
 msgid "ACCMNU_TOOLTIP_EXAMPLE"
 msgstr ""
 "This is an example tooltip.\n"
@@ -5780,153 +6796,198 @@ msgstr ""
 "ever having anything interesting to say, seemingly only being so long "
 "because the developers are having a hard time explaining what an option does."
 
+#, fuzzy
 msgid "ACCMNU_TOOLTIP"
 msgstr "Tooltips"
 
+#, fuzzy
 msgid "ACCMNU_LIGHT_EXTRA"
 msgstr "Extra Lighting"
 
+#, fuzzy
 msgid "ACCMNU_TOOLTIP_LIGHT_RADIUS"
 msgstr ""
 "Controls the light radius distance around the player in map units. Larger "
 "values make the scene brighter."
 
+#, fuzzy
 msgid "ACCMNU_TOOLTIP_LIGHT_EXTRA"
 msgstr ""
 "Amount of sector lighting to add on top of existing sector light levels, "
 "while preserving the existing lighting mode."
 
+#, fuzzy
 msgid "ACCMNU_LIGHT_RADIUS"
 msgstr "Player Light Radius"
 
+#, fuzzy
 msgid "ACCMNU_LIGHT"
 msgstr "Lighting"
 
+#, fuzzy
 msgid "DSPLYMNU_ROCKETEXPSTYLE"
 msgstr "Explosion Display Style"
 
+#, fuzzy
 msgid "OPTVAL_ROCKETEXP_STYLE_ADD"
 msgstr "Additive"
 
+#, fuzzy
 msgid "OPTVAL_ROCKETEXP_STYLE_TRANS"
 msgstr "Transparent"
 
+#, fuzzy
 msgid "OPTVAL_LAX"
 msgstr "Relaxed"
 
+#, fuzzy
 msgid "OPTVAL_STRICT"
 msgstr "Strict"
 
+#, fuzzy
 msgid "PICKER_FILELOADING"
 msgstr "File Loading"
 
+#, fuzzy
 msgid "DSPLYMNU_IMAGEADJUST"
 msgstr "Image Calibration"
 
+#, fuzzy
 msgid "DSPLYMNU_IMAGEADJUST_TOP1"
 msgstr "From a normal viewing distance, adjust these sliders."
 
+#, fuzzy
 msgid "DSPLYMNU_IMAGEADJUST_TOP2"
 msgstr "Upscaling/Supersampling may result in incorrect output."
 
+#, fuzzy
 msgid "DSPLYMNU_IMAGEADJUST_TOP3"
 msgstr "Please disable them before adjusting."
 
+#, fuzzy
 msgid "DSPLYMNU_TOOLTIP_GAMMA"
 msgstr ""
 "Compensates for your monitor's limitations. Adjust until vertical grey "
 "blocks fade. Do not use this to make the game brighter, only to ensure the "
 "image is calibrated for your setup."
 
+#, fuzzy
 msgid "DSPLYMNU_BLACKPOINT"
 msgstr "Blackpoint compensation"
 
+#, fuzzy
 msgid "DSPLYMNU_TOOLTIP_BLACKPOINT"
 msgstr ""
 "Compensates for monitors that fail to display dark pixels correctly. Adjust "
 "until diagonal white blocks fade. Do not use this to make the game brighter, "
 "only to ensure the image is calibrated for your setup."
 
+#, fuzzy
 msgid "OPTMNU_RESETALL"
 msgstr "Reset All"
 
+#, fuzzy
 msgid "DSPLYMNU_TOOLTIP_IMAGEADJUST_RESET"
 msgstr "Resets all options in this menu to default settings."
 
+#, fuzzy
 msgid "DSPLYMNU_TOOLTIP_BRIGHTNESS"
 msgstr ""
 "Applies linear brightness adjustment. Adjust to personal taste, or to see in "
 "the dark."
 
+#, fuzzy
 msgid "DSPLYMNU_TOOLTIP_CONTRAST"
 msgstr ""
 "Adjusts perceived difference between similar colors. Controls how sharp/"
 "washed out the images looks. Adjust to personal taste."
 
+#, fuzzy
 msgid "DSPLYMNU_TOOLTIP_SATURATION"
 msgstr ""
 "Adjusts the intensity of colors, making the image look more vivid or muted. "
 "Adjust to personal taste."
 
+#, fuzzy
 msgid "DSPLYMNU_IMAGEADJUST_BOTTOM"
 msgstr "Adjust until this looks like a uniform Gray color."
 
+#, fuzzy
 msgid "DSPLYMNU_BRIGHTNESS"
 msgstr "Brightness"
 
+#, fuzzy
 msgid "DSPLYMNU_GAMMA"
 msgstr "Gamma correction"
 
+#, fuzzy
 msgid "DSPLYMNU_CONTRAST"
 msgstr "Contrast"
 
+#, fuzzy
 msgid "DSPLYMNU_SATURATION"
 msgstr "Saturation"
 
+#, fuzzy
 msgid "ACTION_COPYTOCLIPBOARD"
 msgstr "Copy to clipboard"
 
+#, fuzzy
 msgid "ACTION_RESTART"
 msgstr "Restart"
 
+#, fuzzy
 msgid "ACTION_ABORT"
 msgstr "Abort"
 
+#, fuzzy
 msgid "ACTION_STARTGAME"
 msgstr "Start Game"
 
+#, fuzzy
 msgid "ACTION_KICK"
 msgstr "Kick"
 
+#, fuzzy
 msgid "ACTION_BAN"
 msgstr "Ban"
 
+#, fuzzy
 msgid "ERRORMNU_SAVE"
 msgstr "Save Report"
 
+#, fuzzy
 msgid "ERROR_FATAL"
 msgstr "Fatal Error"
 
+#, fuzzy
 msgid "ERROR_ABORT"
 msgstr "Execution could not continue."
 
+#, fuzzy
 msgid "FILEPICKER_ANY"
 msgstr "All Files"
 
+#, fuzzy
 msgid "FILEPICKER_REPORTS"
 msgstr "Crash Report Zip Files"
 
+#, fuzzy
 msgid "HAPMNU_TITLE"
 msgstr "Haptic Feedback Options"
 
+#, fuzzy
 msgid "CMPTMNU_AUTO"
 msgstr "Auto-detect compatibility settings"
 
+#, fuzzy
 msgid "DSPLYMNU_POWERUPFADE"
 msgstr "Powerup tint intensity"
 
+#, fuzzy
 msgid "PICKER_PLAYERCLASS"
 msgstr "Player Class"
 
+#, fuzzy
 msgid "OPTVAL_SBSLETTERBOX"
 msgstr "Side-by-side Letterboxed"
