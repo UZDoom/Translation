@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-27 05:50+0000\n"
+"PO-Revision-Date: 2026-02-28 04:21+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/en/>\n"
@@ -2085,6 +2085,7 @@ msgstr "Serpent"
 msgid "FN_ETTIN"
 msgstr "Ettin"
 
+#, fuzzy
 msgid "FN_CENTAUR"
 msgstr "Centaur"
 
@@ -2560,483 +2561,641 @@ msgstr "You picked up the mini missile launcher."
 msgid "TXT_FLAMER"
 msgstr "You picked up the flame thrower."
 
+#, fuzzy
 msgid "TXT_MAULER"
 msgstr "You picked up the mauler."
 
+#, fuzzy
 msgid "TXT_GLAUNCHER"
 msgstr "You picked up the Grenade launcher."
 
+#, fuzzy
 msgid "TXT_SIGIL"
 msgstr "You picked up the SIGIL."
 
+#, fuzzy
 msgid "TXT_BASEKEY"
 msgstr "You picked up the Base Key."
 
+#, fuzzy
 msgid "TXT_GOVSKEY"
 msgstr "You picked up the Govs Key."
 
+#, fuzzy
 msgid "TXT_PASSCARD"
 msgstr "You picked up the Passcard."
 
+#, fuzzy
 msgid "TXT_IDBADGE"
 msgstr "You picked up the ID Badge."
 
+#, fuzzy
 msgid "TXT_PRISONKEY"
 msgstr "You picked up the Prison Key."
 
+#, fuzzy
 msgid "TXT_SEVEREDHAND"
 msgstr "You picked up the Severed Hand."
 
+#, fuzzy
 msgid "TXT_POWER1KEY"
 msgstr "You picked up the Power1 Key."
 
+#, fuzzy
 msgid "TXT_POWER2KEY"
 msgstr "You picked up the Power2 Key."
 
+#, fuzzy
 msgid "TXT_POWER3KEY"
 msgstr "You picked up the Power3 Key."
 
+#, fuzzy
 msgid "TXT_GOLDKEY"
 msgstr "You picked up the Gold Key."
 
+#, fuzzy
 msgid "TXT_IDCARD"
 msgstr "You picked up the ID Card."
 
+#, fuzzy
 msgid "TXT_SILVERKEY"
 msgstr "You picked up the Silver Key."
 
+#, fuzzy
 msgid "TXT_ORACLEKEY"
 msgstr "You picked up the Oracle Key."
 
+#, fuzzy
 msgid "TXT_MILITARYID"
 msgstr "You picked up the Military ID."
 
+#, fuzzy
 msgid "TXT_ORDERKEY"
 msgstr "You picked up the Order Key."
 
+#, fuzzy
 msgid "TXT_WAREHOUSEKEY"
 msgstr "You picked up the Warehouse Key."
 
+#, fuzzy
 msgid "TXT_BRASSKEY"
 msgstr "You picked up the Brass Key."
 
+#, fuzzy
 msgid "TXT_REDCRYSTAL"
 msgstr "You picked up the Red Crystal Key."
 
+#, fuzzy
 msgid "TXT_BLUECRYSTAL"
 msgstr "You picked up the Blue Crystal Key."
 
+#, fuzzy
 msgid "TXT_CHAPELKEY"
 msgstr "You picked up the Chapel Key."
 
+#, fuzzy
 msgid "TXT_CATACOMBKEY"
 msgstr "You picked up the Catacomb Key."
 
+#, fuzzy
 msgid "TXT_SECURITYKEY"
 msgstr "You picked up the Security Key."
 
+#, fuzzy
 msgid "TXT_COREKEY"
 msgstr "You picked up the Core Key."
 
+#, fuzzy
 msgid "TXT_MAULERKEY"
 msgstr "You picked up the Mauler Key."
 
+#, fuzzy
 msgid "TXT_FACTORYKEY"
 msgstr "You picked up the Factory Key."
 
+#, fuzzy
 msgid "TXT_MINEKEY"
 msgstr "You picked up the Mine Key."
 
+#, fuzzy
 msgid "TXT_NEWKEY5"
 msgstr "You picked up the New Key5."
 
+#, fuzzy
 msgid "TXT_ORACLEPASS"
 msgstr "You picked up the Oracle Pass."
 
+#, fuzzy
 msgid "TXT_HEGRENADES"
 msgstr "You picked up the HE-Grenade Rounds."
 
+#, fuzzy
 msgid "TXT_PHGRENADES"
 msgstr "You picked up the Phosphorus-Grenade Rounds."
 
+#, fuzzy
 msgid "TXT_CLIPOFBULLETS"
 msgstr "You picked up the clip of bullets."
 
+#, fuzzy
 msgid "TXT_BOXOFBULLETS"
 msgstr "You picked up the box of bullets."
 
+#, fuzzy
 msgid "TXT_MINIMISSILES"
 msgstr "You picked up the mini missiles."
 
+#, fuzzy
 msgid "TXT_CRATEOFMISSILES"
 msgstr "You picked up the crate of missiles."
 
+#, fuzzy
 msgid "TXT_ENERGYPOD"
 msgstr "You picked up the energy pod."
 
+#, fuzzy
 msgid "TXT_ENERGYPACK"
 msgstr "You picked up the energy pack."
 
+#, fuzzy
 msgid "TXT_POISONBOLTS"
 msgstr "You picked up the poison bolts."
 
+#, fuzzy
 msgid "TXT_ELECTRICBOLTS"
 msgstr "You picked up the electric bolts."
 
+#, fuzzy
 msgid "TXT_AMMOSATCHEL"
 msgstr "You picked up the ammo satchel."
 
+#, fuzzy
 msgid "MSG_TALISMANRED"
 msgstr "You have a feeling that it wasn't to be touched…"
 
+#, fuzzy
 msgid "MSG_TALISMANGREEN"
 msgstr "Whatever it is, it doesn't belong in this world…"
 
+#, fuzzy
 msgid "MSG_TALISMANBLUE"
 msgstr "It must do something…"
 
+#, fuzzy
 msgid "MSG_TALISMANPOWER"
 msgstr "You have super strength!"
 
+#, fuzzy
 msgid "TXT_NEEDKEY"
 msgstr "You don't have the key"
 
+#, fuzzy
 msgid "TXT_NEED_PASSCARD"
 msgstr "You need a passcard"
 
+#, fuzzy
 msgid "TXT_NEED_PASSCARD_DOOR"
 msgstr "You need a pass card key to open this door"
 
+#, fuzzy
 msgid "TXT_NEED_IDCARD"
 msgstr "You need an ID card"
 
+#, fuzzy
 msgid "TXT_NEED_PRISONKEY"
 msgstr "You don't have the key to the prison"
 
+#, fuzzy
 msgid "TXT_NEED_HANDPRINT"
 msgstr "Hand print not on file"
 
+#, fuzzy
 msgid "TXT_NEED_GOLDKEY"
 msgstr "You need the Gold Key"
 
+#, fuzzy
 msgid "TXT_NEED_IDBADGE"
 msgstr "You need an ID Badge"
 
+#, fuzzy
 msgid "TXT_NEED_IDBADGE_DOOR"
 msgstr "You need an ID Badge to open this door"
 
+#, fuzzy
 msgid "TXT_NEED_SILVERKEY"
 msgstr "You need the Silver Key"
 
+#, fuzzy
 msgid "TXT_NEED_BRASSKEY"
 msgstr "You need the Brass Key"
 
+#, fuzzy
 msgid "TXT_NEED_REDCRYSTAL"
 msgstr "You need the Red Crystal"
 
+#, fuzzy
 msgid "TXT_NEED_BLUECRYSTAL"
 msgstr "You need the Blue Crystal"
 
+#, fuzzy
 msgid "TXT_RETAIL_ONLY"
 msgstr "This area is only available in the retail version of Strife"
 
+#, fuzzy
 msgid "TXT_DOES_NOT_WORK"
 msgstr "That doesn't seem to work"
 
+#, fuzzy
 msgid "TXT_NEED_CHALICE"
 msgstr "You need the chalice!"
 
+#, fuzzy
 msgid "TXT_NEED_OPASS"
 msgstr "You need the Oracle Pass!"
 
+#, fuzzy
 msgid "TAG_PUNCHDAGGER"
 msgstr "Dagger"
 
 # Crossbow with electric bolts
+#, fuzzy
 msgid "TAG_STRIFECROSSBOW1"
 msgstr "Crossbow"
 
 # Crossbow with poison bolts
+#, fuzzy
 msgid "TAG_STRIFECROSSBOW2"
 msgstr "Crossbow"
 
+#, fuzzy
 msgid "TAG_ASSAULTGUN"
 msgstr "Assault Gun"
 
+#, fuzzy
 msgid "TAG_MMLAUNCHER"
 msgstr "Mini Missile Launcher"
 
+#, fuzzy
 msgid "TAG_FLAMER"
 msgstr "Flame Thrower"
 
+#, fuzzy
 msgid "TAG_MAULER1"
 msgstr "Mauler"
 
+#, fuzzy
 msgid "TAG_MAULER2"
 msgstr "Mauler"
 
 # High-explosive grenade launcher
+#, fuzzy
 msgid "TAG_GLAUNCHER1"
 msgstr "Grenade Launcher"
 
 # White phosphorous grenade launcher 
+#, fuzzy
 msgid "TAG_GLAUNCHER2"
 msgstr "Grenade Launcher"
 
+#, fuzzy
 msgid "TAG_SIGIL"
 msgstr "Sigil"
 
+#, fuzzy
 msgid "TAG_COIN"
 msgstr "Coin"
 
+#, fuzzy
 msgid "TAG_MEDPATCH"
 msgstr "Med patch"
 
+#, fuzzy
 msgid "TAG_MEDICALKIT"
 msgstr "Medical kit"
 
+#, fuzzy
 msgid "TAG_SURGERYKIT"
 msgstr "Surgery Kit"
 
+#, fuzzy
 msgid "TAG_BELDINSRING"
 msgstr "Ring"
 
+#, fuzzy
 msgid "TAG_OFFERINGCHALICE"
 msgstr "Offering Chalice"
 
+#, fuzzy
 msgid "TAG_EAR"
 msgstr "Ear"
 
+#, fuzzy
 msgid "TAG_BROKENCOUPLING"
 msgstr "Broken Power Coupling"
 
+#, fuzzy
 msgid "TAG_SHADOWARMOR"
 msgstr "Shadow Armor"
 
+#, fuzzy
 msgid "TAG_ENVSUIT"
 msgstr "Environmental Suit"
 
+#, fuzzy
 msgid "TAG_GUARDUNIFORM"
 msgstr "Guard Uniform"
 
+#, fuzzy
 msgid "TAG_OFFICERSUNIFORM"
 msgstr "Officer's Uniform"
 
+#, fuzzy
 msgid "TAG_FTHROWERPARTS"
 msgstr "Flame Thrower Parts"
 
+#, fuzzy
 msgid "TAG_REPORT"
 msgstr "Report"
 
+#, fuzzy
 msgid "TAG_INFO"
 msgstr "Info"
 
+#, fuzzy
 msgid "TAG_TARGETER"
 msgstr "Targeter"
 
+#, fuzzy
 msgid "TAG_COMMUNICATOR"
 msgstr "Communicator"
 
+#, fuzzy
 msgid "TAG_DEGNINORE"
 msgstr "Degnin Ore"
 
+#, fuzzy
 msgid "TAG_GUNTRAINING"
 msgstr "Accuracy"
 
+#, fuzzy
 msgid "TAG_HEALTHTRAINING"
 msgstr "Toughness"
 
+#, fuzzy
 msgid "TAG_SCANNER"
 msgstr "Scanner"
 
+#, fuzzy
 msgid "TAG_PRISONPASS"
 msgstr "Prison Pass"
 
+#, fuzzy
 msgid "TAG_ALARM"
 msgstr "Alarm"
 
+#, fuzzy
 msgid "TAG_AMMOFILLUP"
 msgstr "Ammo"
 
+#, fuzzy
 msgid "TAG_HEALTHFILLUP"
 msgstr "Health"
 
+#, fuzzy
 msgid "TAG_TELEPORTERBEACON"
 msgstr "Teleporter Beacon"
 
+#, fuzzy
 msgid "TAG_METALARMOR"
 msgstr "Metal Armor"
 
+#, fuzzy
 msgid "TAG_LEATHER"
 msgstr "Leather Armor"
 
+#, fuzzy
 msgid "TAG_HEGRENADES"
 msgstr "HE-Grenade Rounds"
 
+#, fuzzy
 msgid "TAG_PHGRENADES"
 msgstr "Phosphorus-Grenade Rounds"
 
+#, fuzzy
 msgid "TAG_CLIPOFBULLETS"
 msgstr "Clip of Bullets"
 
+#, fuzzy
 msgid "TAG_BOXOFBULLETS"
 msgstr "Ammo"
 
+#, fuzzy
 msgid "TAG_MINIMISSILES"
 msgstr "Mini Missiles"
 
+#, fuzzy
 msgid "TAG_CRATEOFMISSILES"
 msgstr "Crate of Missiles"
 
+#, fuzzy
 msgid "TAG_ENERGYPOD"
 msgstr "Energy Pod"
 
+#, fuzzy
 msgid "TAG_ENERGYPACK"
 msgstr "Energy Pack"
 
+#, fuzzy
 msgid "TAG_POISONBOLTS"
 msgstr "Poison Bolts"
 
+#, fuzzy
 msgid "TAG_ELECTRICBOLTS"
 msgstr "Electric Bolts"
 
+#, fuzzy
 msgid "TAG_AMMOSATCHEL"
 msgstr "Ammo Satchel"
 
 # In-game key list. Use short strings.
+#, fuzzy
 msgid "TAG_BASEKEY"
 msgstr "Base Key"
 
+#, fuzzy
 msgid "TAG_GOVSKEY"
 msgstr "Govs Key"
 
+#, fuzzy
 msgid "TAG_PASSCARD"
 msgstr "Passcard"
 
+#, fuzzy
 msgid "TAG_IDBADGE"
 msgstr "ID Badge"
 
+#, fuzzy
 msgid "TAG_PRISONKEY"
 msgstr "Prison Key"
 
+#, fuzzy
 msgid "TAG_SEVEREDHAND"
 msgstr "Severed Hand"
 
+#, fuzzy
 msgid "TAG_POWER1KEY"
 msgstr "Power1 Key"
 
+#, fuzzy
 msgid "TAG_POWER2KEY"
 msgstr "Power2 Key"
 
+#, fuzzy
 msgid "TAG_POWER3KEY"
 msgstr "Power3 Key"
 
+#, fuzzy
 msgid "TAG_GOLDKEY"
 msgstr "Gold Key"
 
+#, fuzzy
 msgid "TAG_IDCARD"
 msgstr "ID Card"
 
+#, fuzzy
 msgid "TAG_SILVERKEY"
 msgstr "Silver Key"
 
+#, fuzzy
 msgid "TAG_ORACLEKEY"
 msgstr "Oracle Key"
 
+#, fuzzy
 msgid "TAG_MILITARYID"
 msgstr "Military ID"
 
+#, fuzzy
 msgid "TAG_ORDERKEY"
 msgstr "Order Key"
 
+#, fuzzy
 msgid "TAG_WAREHOUSEKEY"
 msgstr "Warehouse Key"
 
+#, fuzzy
 msgid "TAG_BRASSKEY"
 msgstr "Brass Key"
 
+#, fuzzy
 msgid "TAG_REDCRYSTALKEY"
 msgstr "Red Crystal Key"
 
+#, fuzzy
 msgid "TAG_BLUECRYSTALKEY"
 msgstr "Blue Crystal Key"
 
+#, fuzzy
 msgid "TAG_CHAPELKEY"
 msgstr "Chapel Key"
 
+#, fuzzy
 msgid "TAG_CATACOMBKEY"
 msgstr "Catacomb Key"
 
+#, fuzzy
 msgid "TAG_SECURITYKEY"
 msgstr "Security Key"
 
+#, fuzzy
 msgid "TAG_COREKEY"
 msgstr "Core Key"
 
+#, fuzzy
 msgid "TAG_MAULERKEY"
 msgstr "Mauler Key"
 
+#, fuzzy
 msgid "TAG_FACTORYKEY"
 msgstr "Factory Key"
 
+#, fuzzy
 msgid "TAG_MINEKEY"
 msgstr "Mine Key"
 
+#, fuzzy
 msgid "TAG_NEWKEY5"
 msgstr "New Key5"
 
 # End of key list.
+#, fuzzy
 msgid "TAG_ORACLEPASS"
 msgstr "Oracle Pass"
 
+#, fuzzy
 msgid "TAG_10GOLD"
 msgstr "10 gold"
 
+#, fuzzy
 msgid "TAG_25GOLD"
 msgstr "25 gold"
 
+#, fuzzy
 msgid "TAG_50GOLD"
 msgstr "50 gold"
 
+#, fuzzy
 msgid "TAG_300GOLD"
 msgstr "300 gold"
 
+#, fuzzy
 msgid "TXT_PERSON"
 msgstr "Person"
 
+#, fuzzy
 msgid "TAG_ACOLYTE"
 msgstr "Acolyte"
 
+#, fuzzy
 msgid "TAG_ARMORER"
 msgstr "Armorer"
 
+#, fuzzy
 msgid "TAG_BARKEEP"
 msgstr "Bar Keep"
 
+#, fuzzy
 msgid "TAG_BEGGAR"
 msgstr "Beggar"
 
+#, fuzzy
 msgid "TAG_MACIL1"
 msgstr "Macil"
 
+#, fuzzy
 msgid "TAG_MACIL2"
 msgstr "Macil"
 
+#, fuzzy
 msgid "TAG_MEDIC"
 msgstr "Medic"
 
+#, fuzzy
 msgid "TAG_ORACLE"
 msgstr "Oracle"
 
+#, fuzzy
 msgid "TAG_PRIEST"
 msgstr "Priest"
 
+#, fuzzy
 msgid "TAG_RATBUDDY"
 msgstr "Rat Buddy"
 
+#, fuzzy
 msgid "TAG_REBEL"
 msgstr "Rebel"
 
+#, fuzzy
 msgid "TAG_TEMPLAR"
 msgstr "Templar"
 
@@ -3094,6 +3253,7 @@ msgstr "%o was sentenced by an Inquisitor."
 msgid "OB_STALKER"
 msgstr "%o was bugged by a Stalker."
 
+#, fuzzy
 msgid "OB_TURRET"
 msgstr "%o triggered the automatic defenses."
 
@@ -3284,24 +3444,31 @@ msgstr "You got the Phasing Zorcher!"
 msgid "GOTLARGEZORCHER"
 msgstr "You got the Large Zorcher!"
 
+#, fuzzy
 msgid "GOTSUPERLARGEZORCHER"
 msgstr "You got the Mega Zorcher!"
 
+#, fuzzy
 msgid "GOTMINIZORCHER"
 msgstr "Picked up a Mini Zorcher."
 
+#, fuzzy
 msgid "TAG_SPOON"
 msgstr "Spoon"
 
+#, fuzzy
 msgid "TAG_SPORK"
 msgstr "Super Bootspork"
 
+#, fuzzy
 msgid "TAG_MINIZORCHER"
 msgstr "Mini Zorcher"
 
+#, fuzzy
 msgid "TAG_LARGEZORCHER"
 msgstr "Large Zorcher"
 
+#, fuzzy
 msgid "TAG_SUPERLARGEZORCHER"
 msgstr "Super-Large Zorcher"
 
