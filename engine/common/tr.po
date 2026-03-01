@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-26 03:13+0000\n"
+"PO-Revision-Date: 2026-03-01 23:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/uzdoom/common/"
 "tr/>\n"
@@ -32,6 +32,7 @@ msgstr ""
 msgid "SAFEMESSAGE"
 msgstr "Bunu gerçekten yapmak istiyor musun?"
 
+#, fuzzy
 msgid "QSPROMPT"
 msgstr ""
 "%s'\n"
@@ -40,6 +41,7 @@ msgstr ""
 "\n"
 "Y veya N tuşuna basın."
 
+#, fuzzy
 msgid "QLPROMPT"
 msgstr ""
 "%s'\n"
