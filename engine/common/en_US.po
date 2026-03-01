@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-27 03:06+0000\n"
+"PO-Revision-Date: 2026-03-01 02:38+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/uzdoom/common/"
 "en/>\n"
@@ -26,7 +26,6 @@ msgstr "Yes"
 msgid "TXT_NO"
 msgstr "No"
 
-#, fuzzy
 msgid "SAVEDEAD"
 msgstr ""
 "You can't save if you aren't playing!\n"
@@ -37,7 +36,6 @@ msgstr ""
 msgid "SAFEMESSAGE"
 msgstr "Do you really want to do this?"
 
-#, fuzzy
 msgid "QSPROMPT"
 msgstr ""
 "Quicksave over your game named\n"
@@ -46,7 +44,6 @@ msgstr ""
 "\n"
 "Press Y or N."
 
-#, fuzzy
 msgid "QLPROMPT"
 msgstr ""
 "Do you want to quickload the game named\n"
