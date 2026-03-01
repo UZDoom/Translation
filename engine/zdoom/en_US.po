@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-28 23:45+0000\n"
+"PO-Revision-Date: 2026-03-01 02:38+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/en/>\n"
@@ -36,7 +36,6 @@ msgstr ""
 
 # In some languages, it may make more sense to translate “Press a key” as
 # “Press any key.”
-#, fuzzy
 msgid "LOADNET"
 msgstr ""
 "You can't do load while in a net game!\n"
@@ -45,7 +44,6 @@ msgstr ""
 
 # In some languages, it may make more sense to translate “Press a key” as
 # “Press any key.”
-#, fuzzy
 msgid "QLOADNET"
 msgstr ""
 "You can't quickload during a netgame!\n"
@@ -54,7 +52,6 @@ msgstr ""
 
 # In some languages, it may make more sense to translate “Press a key” as
 # “Press any key.”
-#, fuzzy
 msgid "QSAVESPOT"
 msgstr ""
 "You haven't picked a quicksave slot yet!\n"
@@ -63,7 +60,6 @@ msgstr ""
 
 # In some languages, it may make more sense to translate “Press a key” as
 # “Press any key.”
-#, fuzzy
 msgid "NEWGAME"
 msgstr ""
 "You can't start a new game\n"
@@ -73,7 +69,6 @@ msgstr ""
 
 # In some languages, it may make more sense to translate “Press a key” as
 # “Press any key.”
-#, fuzzy
 msgid "NIGHTMARE"
 msgstr ""
 "Are you sure? This skill level\n"
@@ -83,7 +78,6 @@ msgstr ""
 
 # In some languages, it may make more sense to translate “Press a key” as
 # “Press any key.”
-#, fuzzy
 msgid "SWSTRING"
 msgstr ""
 "This is the shareware version of Doom.\n"
@@ -94,14 +88,12 @@ msgstr ""
 
 # In some languages, it may make more sense to translate “Press a key” as
 # “Press any key.”
-#, fuzzy
 msgid "NETEND"
 msgstr ""
 "You can't end a netgame!\n"
 "\n"
 "Press a key."
 
-#, fuzzy
 msgid "ENDGAME"
 msgstr ""
 "Are you sure you want to end the game?\n"
