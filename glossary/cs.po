@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-26 23:09+0000\n"
+"PO-Revision-Date: 2026-03-01 02:38+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/uzdoom/glossary/"
 "cs/>\n"
@@ -159,3 +159,23 @@ msgstr "Stiskni Y nebo N"
 
 msgid "Press a key"
 msgstr "Stiskni klávesu"
+
+msgctxt "1"
+msgid "Doom"
+msgstr "Doomu"
+
+msgctxt "1"
+msgid "Boom"
+msgstr "BOOMu"
+
+msgctxt "1"
+msgid "Strife"
+msgstr "Strifu"
+
+msgctxt "1"
+msgid "Hexen"
+msgstr "Hexenu"
+
+msgctxt "1"
+msgid "ZDoom"
+msgstr "ZDoomu"
