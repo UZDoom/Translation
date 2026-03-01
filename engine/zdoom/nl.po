@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-28 23:45+0000\n"
+"PO-Revision-Date: 2026-03-01 23:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/nl/>\n"
@@ -76,6 +76,7 @@ msgstr ""
 "\n"
 "Druk op een toets."
 
+#, fuzzy
 msgid "ENDGAME"
 msgstr ""
 "Weet je zeker dat je het spel wilt beëindigen?\n"
