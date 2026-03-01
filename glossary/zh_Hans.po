@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-28 23:45+0000\n"
+"PO-Revision-Date: 2026-03-01 02:38+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/glossary/zh_Hans/>\n"
@@ -143,13 +143,13 @@ msgid "Boom"
 msgstr "Boom"
 
 msgid "Strife"
-msgstr "《抗争》"
+msgstr "抗争"
 
 msgid "Hexen"
-msgstr "《毁灭巫师》"
+msgstr "毁灭巫师"
 
 msgid "Heretic"
-msgstr "《异教徒》"
+msgstr "异教徒"
 
 msgid "Chex"
 msgstr "奇克斯"
