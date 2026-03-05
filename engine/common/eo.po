@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-01 01:12+0000\n"
+"PO-Revision-Date: 2026-03-05 03:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/uzdoom/common/"
 "eo/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16.1-dev\n"
+"X-Generator: Weblate 5.17-dev\n"
 "X-HeaderCode: eo\n"
 
 msgid "PRESSYN"
@@ -896,19 +896,19 @@ msgid "ADVSNDMNU_OPNGAIN"
 msgstr "Akiro"
 
 msgid "ADVSNDMNU_ADLCUSTOMBANK"
-msgstr "Uzi propran WOPLan memor-bankon"
+msgstr "Uzi propran WOPL-an memor-bankon"
 
 msgid "ADVSNDMNU_ADLUSEWADBANK"
 msgstr "Uzi la GENMIDI-bankon de WAD kiel adaptita banko"
 
 msgid "ADVSNDMNU_OPLBANKFILE"
-msgstr "Dosiero de WOPLa memor-banko"
+msgstr "Dosiero de WOPL-a memor-banko"
 
 msgid "ADVSNDMNU_OPNCUSTOMBANK"
-msgstr "Uzi propran WOPNan memor-bankon"
+msgstr "Uzi propran WOPN-an memor-bankon"
 
 msgid "ADVSNDMNU_OPNBANKFILE"
-msgstr "Dosiero de WOPNa memor-banko"
+msgstr "Dosiero de WOPN-a memor-banko"
 
 msgid "OPTVAL_ALIASING"
 msgstr "Grajneca"
