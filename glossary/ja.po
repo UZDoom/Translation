@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-05 01:46+0000\n"
+"PO-Revision-Date: 2026-03-05 03:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/uzdoom/glossary/"
 "ja/>\n"
@@ -159,3 +159,9 @@ msgstr "YかNで答えろ"
 
 msgid "Press a key"
 msgstr "何かキーを押せ"
+
+msgid "WOPN"
+msgstr "WOPN"
+
+msgid "WOPL"
+msgstr "WOPL"
