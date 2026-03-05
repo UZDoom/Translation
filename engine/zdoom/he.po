@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-01 02:38+0000\n"
+"PO-Revision-Date: 2026-03-05 01:46+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/he/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
 "n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Weblate 5.16.1-dev\n"
+"X-Generator: Weblate 5.17-dev\n"
 
 #, fuzzy
 msgid "PRESSKEY"
@@ -4202,9 +4202,8 @@ msgstr ""
 msgid "OPTSTR_HERETIC"
 msgstr "Heretic"
 
-#, fuzzy
 msgid "OPTSTR_CHEX"
-msgstr "Chex"
+msgstr "Chex‭®"
 
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr ""
