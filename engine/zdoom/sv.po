@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-05 01:46+0000\n"
+"PO-Revision-Date: 2026-03-06 23:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/sv/>\n"
@@ -71,14 +71,12 @@ msgstr ""
 "\n"
 "Tryck på en tangent."
 
-#, fuzzy
 msgid "NETEND"
 msgstr ""
 "Du kan inte avsluta ett nätspel!\n"
 "\n"
 "Tryck på en tangent."
 
-#, fuzzy
 msgid "ENDGAME"
 msgstr ""
 "Är du säker på att du vill avsluta spelet?\n"
