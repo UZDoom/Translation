@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-05 01:46+0000\n"
+"PO-Revision-Date: 2026-03-06 23:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fi/>\n"
@@ -49,7 +49,6 @@ msgstr ""
 "\n"
 "Paina jotain näppäintä."
 
-#, fuzzy
 msgid "NEWGAME"
 msgstr ""
 "Et voi aloittaa uutta peliä\n"
@@ -72,14 +71,12 @@ msgstr ""
 "\n"
 "Paina jotain näppäintä."
 
-#, fuzzy
 msgid "NETEND"
 msgstr ""
 "Et voi päättää verkkopeliä!\n"
 "\n"
 "Paina jotain näppäintä."
 
-#, fuzzy
 msgid "ENDGAME"
 msgstr ""
 "Haluatko varmasti päättää pelin?\n"
