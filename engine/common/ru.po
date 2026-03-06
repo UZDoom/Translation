@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-26 03:13+0000\n"
+"PO-Revision-Date: 2026-03-06 23:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/common/"
 "ru/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.16.1-dev\n"
+"X-Generator: Weblate 5.17-dev\n"
 "X-HeaderCode: ru\n"
 
 msgid "PRESSYN"
@@ -105,7 +105,7 @@ msgid "OPTMNU_TITLE"
 msgstr "Настройки"
 
 msgid "OPTMNU_CONTROLS"
-msgstr "Управление"
+msgstr "Настройка управления"
 
 msgid "OPTMNU_MOUSE"
 msgstr "Мышь"
@@ -114,13 +114,13 @@ msgid "OPTMNU_JOYSTICK"
 msgstr "Контроллер"
 
 msgid "OPTMNU_PLAYER"
-msgstr "Игрок"
+msgstr "Настройка игрока"
 
 msgid "OPTMNU_GAMEPLAY"
 msgstr "Игра"
 
 msgid "OPTMNU_AUTOMAP"
-msgstr "Автокарта"
+msgstr "Настройки автокарты"
 
 msgid "OPTMNU_HUD"
 msgstr "Интерфейс"
