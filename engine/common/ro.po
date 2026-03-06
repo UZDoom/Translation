@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-05 03:09+0000\n"
+"PO-Revision-Date: 2026-03-06 23:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/uzdoom/common/"
 "ro/>\n"
@@ -120,7 +120,7 @@ msgid "OPTMNU_GAMEPLAY"
 msgstr "Setări de Joc"
 
 msgid "OPTMNU_AUTOMAP"
-msgstr "Hartă Computerizată"
+msgstr "Opțiuni Automapă"
 
 msgid "OPTMNU_HUD"
 msgstr "Setări Interfață"
