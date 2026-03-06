@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-26 03:13+0000\n"
+"PO-Revision-Date: 2026-03-05 03:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/uzdoom/common/"
 "ro/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2;\n"
-"X-Generator: Weblate 5.16.1-dev\n"
+"X-Generator: Weblate 5.17-dev\n"
 "X-HeaderCode: ro\n"
 
 msgid "PRESSYN"
@@ -897,13 +897,13 @@ msgid "ADVSNDMNU_OPNGAIN"
 msgstr "Amplificare"
 
 msgid "ADVSNDMNU_ADLCUSTOMBANK"
-msgstr "Utilizați propria bancă WOPN"
+msgstr "Utilizați propria bancă WOPL"
 
 msgid "ADVSNDMNU_ADLUSEWADBANK"
 msgstr "Folosește GENMIDI de la WAD drept bancă proprie"
 
 msgid "ADVSNDMNU_OPLBANKFILE"
-msgstr "Fișier bancă WOPN"
+msgstr "Fișier bancă WOPL"
 
 msgid "ADVSNDMNU_OPNCUSTOMBANK"
 msgstr "Utilizați propria bancă WOPN"
