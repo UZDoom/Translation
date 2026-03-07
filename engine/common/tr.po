@@ -1784,8 +1784,5 @@ msgstr ""
 msgid "ACCMNU_TITLE"
 msgstr "Erişebilirlik Seçenekleri"
 
-msgid "ACCMNU_RESET"
-msgstr "Erişebilirlik Seçeneklerini Sıfırla"
-
 msgid "MSGMNU_MESSAGEQUEUE"
 msgstr "Mesaj sırası boyutu"
