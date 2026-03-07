@@ -358,9 +358,6 @@ msgstr "Cameră urmăritoare"
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "Captură de ecran"
 
-msgid "CNTRLMNU_CONSOLE"
-msgstr "Deschide consola"
-
 msgid "CNTRLMNU_PAUSE"
 msgstr "Pauză"
 
