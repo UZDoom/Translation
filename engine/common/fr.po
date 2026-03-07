@@ -357,9 +357,6 @@ msgstr "Caméra 3ième personne"
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "Capture d'écran"
 
-msgid "CNTRLMNU_CONSOLE"
-msgstr "Ouvrir Console"
-
 msgid "CNTRLMNU_PAUSE"
 msgstr "Pause"
 
@@ -1466,9 +1463,6 @@ msgstr "Modifier un environnement"
 msgid "REVMNU_NEW"
 msgstr "Nouveau environnement"
 
-msgid "REVMNU_REVERT"
-msgstr "Réinitialiser les paramètres"
-
 msgid "REVMNU_Reflections_Scale"
 msgstr "Echelle Reflections"
 
@@ -1783,6 +1777,3 @@ msgstr ""
 
 msgid "ACCMNU_TITLE"
 msgstr "Options d'accessibilité"
-
-msgid "ACCMNU_RESET"
-msgstr "Réinitialiser les options d'accessibilité"

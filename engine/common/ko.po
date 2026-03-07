@@ -357,9 +357,6 @@ msgstr "3인칭 카메라"
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "스크린샷"
 
-msgid "CNTRLMNU_CONSOLE"
-msgstr "콘솔 열기"
-
 msgid "CNTRLMNU_PAUSE"
 msgstr "일시정지"
 
@@ -1465,9 +1462,6 @@ msgstr "환경 편집"
 msgid "REVMNU_NEW"
 msgstr "새로운 환경 생성"
 
-msgid "REVMNU_REVERT"
-msgstr "설정 되돌리기"
-
 msgid "REVMNU_Reflections_Scale"
 msgstr "룸 반사 음계"
 
@@ -1781,6 +1775,3 @@ msgstr ""
 
 msgid "ACCMNU_TITLE"
 msgstr "접근성 설정"
-
-msgid "ACCMNU_RESET"
-msgstr "접근성 설정 초기화"

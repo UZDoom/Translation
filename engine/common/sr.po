@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-05 03:10+0000\n"
+"PO-Revision-Date: 2026-03-06 23:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/uzdoom/common/"
 "sr/>\n"
@@ -106,7 +106,7 @@ msgid "OPTMNU_TITLE"
 msgstr "Подешавања"
 
 msgid "OPTMNU_CONTROLS"
-msgstr "Контроле"
+msgstr "Прилагоди контроле"
 
 msgid "OPTMNU_MOUSE"
 msgstr "Миш"
@@ -115,7 +115,7 @@ msgid "OPTMNU_JOYSTICK"
 msgstr "Контролер"
 
 msgid "OPTMNU_PLAYER"
-msgstr "Играч"
+msgstr "Подешавање играча"
 
 msgid "OPTMNU_GAMEPLAY"
 msgstr "Гејмплеј"
@@ -130,7 +130,7 @@ msgid "OPTMNU_MISCELLANEOUS"
 msgstr "Разно"
 
 msgid "OPTMNU_SOUND"
-msgstr "Звук"
+msgstr "Настройки звука"
 
 msgid "OPTMNU_DISPLAY"
 msgstr "Приказ"
@@ -358,9 +358,6 @@ msgstr "Чејс-кем"
 
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "Усликај"
-
-msgid "CNTRLMNU_CONSOLE"
-msgstr "Отвори консолу"
 
 msgid "CNTRLMNU_PAUSE"
 msgstr "Пауза"
@@ -1467,9 +1464,6 @@ msgstr "Уреди окружење"
 
 msgid "REVMNU_NEW"
 msgstr "Ново окружење"
-
-msgid "REVMNU_REVERT"
-msgstr "Врати подешавања"
 
 msgid "REVMNU_Reflections_Scale"
 msgstr "Скала рефлексија"

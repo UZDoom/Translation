@@ -357,9 +357,6 @@ msgstr "Κάμερα τρίτου προσώπου"
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "Στιγμιότυπο"
 
-msgid "CNTRLMNU_CONSOLE"
-msgstr "Ανοίξτε την κονσόλα"
-
 msgid "CNTRLMNU_PAUSE"
 msgstr "Πάυση"
 
@@ -1464,9 +1461,6 @@ msgstr "Επεξεργασία Περιβάλλοντος"
 
 msgid "REVMNU_NEW"
 msgstr "Νέο Περιβάλλον"
-
-msgid "REVMNU_REVERT"
-msgstr "Επαναφορά Ρυθμίσεων"
 
 msgid "REVMNU_Reflections_Scale"
 msgstr ""

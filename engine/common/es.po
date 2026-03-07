@@ -359,9 +359,6 @@ msgstr "Cámara de seguimiento"
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "Captura de pantalla"
 
-msgid "CNTRLMNU_CONSOLE"
-msgstr "Abrir consola"
-
 msgid "CNTRLMNU_PAUSE"
 msgstr "Pausa"
 
@@ -1469,9 +1466,6 @@ msgstr "Editar ambiente"
 msgid "REVMNU_NEW"
 msgstr "Nuevo ambiente"
 
-msgid "REVMNU_REVERT"
-msgstr "Revertir configuración"
-
 msgid "REVMNU_Reflections_Scale"
 msgstr "Escala de reflejos"
 
@@ -1786,9 +1780,6 @@ msgstr ""
 
 msgid "ACCMNU_TITLE"
 msgstr "Opciones de Accesibilidad"
-
-msgid "ACCMNU_RESET"
-msgstr "Restablecer opciones de accesibilidad"
 
 msgid "MSGMNU_STACKIDENTICAL"
 msgstr "Apilar mensajes repetidos"

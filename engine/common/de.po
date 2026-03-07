@@ -360,9 +360,6 @@ msgstr "Verfolgerkamera"
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "Bildschrimfoto"
 
-msgid "CNTRLMNU_CONSOLE"
-msgstr "Konsole öffnen"
-
 msgid "CNTRLMNU_PAUSE"
 msgstr "Pause"
 
@@ -1470,9 +1467,6 @@ msgstr "Umgebung editieren"
 
 msgid "REVMNU_NEW"
 msgstr "Umgebung erstellen"
-
-msgid "REVMNU_REVERT"
-msgstr "Einstellungen zurücksetzen"
 
 msgid "REVMNU_Reflections_Scale"
 msgstr "Reflektionsskalierung"

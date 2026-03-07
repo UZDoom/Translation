@@ -360,9 +360,6 @@ msgstr "Chasecam"
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "Skærmbillede"
 
-msgid "CNTRLMNU_CONSOLE"
-msgstr "Åbn konsollen"
-
 msgid "CNTRLMNU_PAUSE"
 msgstr ""
 
@@ -1471,9 +1468,6 @@ msgstr "Rediger miljø"
 
 msgid "REVMNU_NEW"
 msgstr "Nyt miljø"
-
-msgid "REVMNU_REVERT"
-msgstr "Tilbageføre indstillinger"
 
 msgid "REVMNU_Reflections_Scale"
 msgstr ""

@@ -358,9 +358,6 @@ msgstr "Cámara trasera"
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "Capturar pantalla"
 
-msgid "CNTRLMNU_CONSOLE"
-msgstr "Abrir consola"
-
 msgid "CNTRLMNU_PAUSE"
 msgstr "Pausar"
 
@@ -1466,9 +1463,6 @@ msgstr ""
 msgid "REVMNU_NEW"
 msgstr ""
 
-msgid "REVMNU_REVERT"
-msgstr ""
-
 msgid "REVMNU_Reflections_Scale"
 msgstr ""
 
@@ -1782,6 +1776,3 @@ msgstr ""
 
 msgid "ACCMNU_TITLE"
 msgstr "Opciones de Accesibilidad"
-
-msgid "ACCMNU_RESET"
-msgstr "Reiniciar Opciones de Accesibilidad"

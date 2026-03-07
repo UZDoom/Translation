@@ -358,9 +358,6 @@ msgstr ""
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "Skärmdump"
 
-msgid "CNTRLMNU_CONSOLE"
-msgstr "Öppna konsolen"
-
 msgid "CNTRLMNU_PAUSE"
 msgstr "Pausa"
 
@@ -1467,9 +1464,6 @@ msgstr "Redigera miljön"
 
 msgid "REVMNU_NEW"
 msgstr "Ny miljö"
-
-msgid "REVMNU_REVERT"
-msgstr "Återkalla inställningar"
 
 msgid "REVMNU_Reflections_Scale"
 msgstr ""

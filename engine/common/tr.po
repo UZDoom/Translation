@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-01 23:09+0000\n"
+"PO-Revision-Date: 2026-03-06 23:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/uzdoom/common/"
 "tr/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16.1-dev\n"
+"X-Generator: Weblate 5.17-dev\n"
 "X-HeaderCode: tr\n"
 
 msgid "PRESSYN"
@@ -32,19 +32,17 @@ msgstr ""
 msgid "SAFEMESSAGE"
 msgstr "Bunu gerçekten yapmak istiyor musun?"
 
-#, fuzzy
 msgid "QSPROMPT"
 msgstr ""
-"%s'\n"
+"'%s'\n"
 "\n"
 "adlı oyununuzun üzerine hızlı kaydetme?\n"
 "\n"
 "Y veya N tuşuna basın."
 
-#, fuzzy
 msgid "QLPROMPT"
 msgstr ""
-"%s'\n"
+"'%s'\n"
 "\n"
 "adlı oyunu hızlı yüklemek istiyor musunuz?\n"
 "\n"
@@ -360,9 +358,6 @@ msgstr "Takip Kamerası"
 
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "Ekran görüntüsü"
-
-msgid "CNTRLMNU_CONSOLE"
-msgstr "Açık konsol"
 
 msgid "CNTRLMNU_PAUSE"
 msgstr "Duraklat"
@@ -1471,9 +1466,6 @@ msgstr "Ortamı Düzenle"
 msgid "REVMNU_NEW"
 msgstr "Yeni Çevre"
 
-msgid "REVMNU_REVERT"
-msgstr "Ayarları geri döndür"
-
 msgid "REVMNU_Reflections_Scale"
 msgstr "Yansıma boyutu"
 
@@ -1788,9 +1780,6 @@ msgstr ""
 
 msgid "ACCMNU_TITLE"
 msgstr "Erişebilirlik Seçenekleri"
-
-msgid "ACCMNU_RESET"
-msgstr "Erişebilirlik Seçeneklerini Sıfırla"
 
 msgid "MSGMNU_MESSAGEQUEUE"
 msgstr "Mesaj sırası boyutu"

@@ -358,9 +358,6 @@ msgstr "Від ад трэцяй асобы"
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "Здымак экрана"
 
-msgid "CNTRLMNU_CONSOLE"
-msgstr "Адкрыць кансоль"
-
 msgid "CNTRLMNU_PAUSE"
 msgstr "Паўза"
 
@@ -1467,9 +1464,6 @@ msgstr "Рэдагаваць асяроддзе"
 
 msgid "REVMNU_NEW"
 msgstr "Новае асяроддзе"
-
-msgid "REVMNU_REVERT"
-msgstr "Скінуць налады"
 
 msgid "REVMNU_Reflections_Scale"
 msgstr ""

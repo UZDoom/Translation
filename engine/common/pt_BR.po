@@ -358,9 +358,6 @@ msgstr "Câmera em terceira pessoa"
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "Captura de tela"
 
-msgid "CNTRLMNU_CONSOLE"
-msgstr "Abrir console"
-
 msgid "CNTRLMNU_PAUSE"
 msgstr "Pausar"
 
@@ -1480,9 +1477,6 @@ msgstr "Editar ambiente"
 msgid "REVMNU_NEW"
 msgstr "Novo ambiente"
 
-msgid "REVMNU_REVERT"
-msgstr "Reverter configurações"
-
 msgid "REVMNU_Reflections_Scale"
 msgstr "Escala de reflexos"
 
@@ -1797,9 +1791,6 @@ msgstr "Corrida com strafe analógico"
 
 msgid "ACCMNU_TITLE"
 msgstr "Opções de Acessibilidade"
-
-msgid "ACCMNU_RESET"
-msgstr "Redefinir opções de acessibilidade"
 
 msgid "NOTES_FAIL"
 msgstr "Não foi possível analisar as notas de lançamento"

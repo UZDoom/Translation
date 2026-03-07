@@ -357,9 +357,6 @@ msgstr "Külsőnézetű kamera"
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "Képernyő lefényképezése"
 
-msgid "CNTRLMNU_CONSOLE"
-msgstr "Konzol megnyitása"
-
 msgid "CNTRLMNU_PAUSE"
 msgstr "Szünet"
 
@@ -1465,9 +1462,6 @@ msgstr "Környezet Szerkesztése"
 
 msgid "REVMNU_NEW"
 msgstr "Új Környezet"
-
-msgid "REVMNU_REVERT"
-msgstr "Változtatások elvetése"
 
 msgid "REVMNU_Reflections_Scale"
 msgstr ""

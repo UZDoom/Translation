@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-01 01:12+0000\n"
+"PO-Revision-Date: 2026-03-06 23:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/uzdoom/common/cs/>"
 "\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
-"X-Generator: Weblate 5.16.1-dev\n"
+"X-Generator: Weblate 5.17-dev\n"
 "X-HeaderCode: cs\n"
 
 msgid "PRESSYN"
@@ -104,7 +104,7 @@ msgid "OPTMNU_TITLE"
 msgstr "Možnosti"
 
 msgid "OPTMNU_CONTROLS"
-msgstr "Ovládání"
+msgstr "Nastavení ovládání"
 
 msgid "OPTMNU_MOUSE"
 msgstr "Myš"
@@ -113,7 +113,7 @@ msgid "OPTMNU_JOYSTICK"
 msgstr "Ovladač"
 
 msgid "OPTMNU_PLAYER"
-msgstr "Hráč"
+msgstr "Nastavení hráče"
 
 msgid "OPTMNU_GAMEPLAY"
 msgstr "Herní mechaniky"
@@ -125,10 +125,10 @@ msgid "OPTMNU_HUD"
 msgstr "Rozhraní a HUD"
 
 msgid "OPTMNU_MISCELLANEOUS"
-msgstr "Ostatní"
+msgstr "Ostatní nastavení"
 
 msgid "OPTMNU_SOUND"
-msgstr "Zvuk"
+msgstr "Nastavení zvuku"
 
 msgid "OPTMNU_DISPLAY"
 msgstr "Grafika"
@@ -356,9 +356,6 @@ msgstr "Kamera z třetí osoby"
 
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "Pořídit snímek obrazovky"
-
-msgid "CNTRLMNU_CONSOLE"
-msgstr "Otevřít konzoli"
 
 msgid "CNTRLMNU_PAUSE"
 msgstr "Pauza"
@@ -1465,9 +1462,6 @@ msgstr "Upravit prostředí"
 
 msgid "REVMNU_NEW"
 msgstr "Nové prostředí"
-
-msgid "REVMNU_REVERT"
-msgstr "Obnovit nastavení"
 
 msgid "REVMNU_Reflections_Scale"
 msgstr ""

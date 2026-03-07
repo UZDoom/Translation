@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-05 03:09+0000\n"
+"PO-Revision-Date: 2026-03-07 01:31+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/uzdoom/common/"
 "en/>\n"
@@ -168,10 +168,6 @@ msgstr "Sound Options"
 
 msgid "ACCMNU_TITLE"
 msgstr "Accessibility Options"
-
-#, fuzzy
-msgid "ACCMNU_RESET"
-msgstr "Reset Accessibility Options"
 
 #, fuzzy
 msgid "OPTMNU_DISPLAY"
@@ -467,10 +463,6 @@ msgstr "Chasecam"
 #, fuzzy
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "Screenshot"
-
-#, fuzzy
-msgid "CNTRLMNU_CONSOLE"
-msgstr "Open console"
 
 msgid "CNTRLMNU_PAUSE"
 msgstr "Pause"
@@ -1953,10 +1945,6 @@ msgstr "Edit Environment"
 #, fuzzy
 msgid "REVMNU_NEW"
 msgstr "New Environment"
-
-#, fuzzy
-msgid "REVMNU_REVERT"
-msgstr "Revert settings"
 
 # Jargon.
 #, fuzzy

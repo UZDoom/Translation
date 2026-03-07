@@ -357,9 +357,6 @@ msgstr "Chasecam"
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "Screenshot"
 
-msgid "CNTRLMNU_CONSOLE"
-msgstr "Open console"
-
 msgid "CNTRLMNU_PAUSE"
 msgstr "Pause"
 
@@ -1465,9 +1462,6 @@ msgstr "Edit Environment"
 msgid "REVMNU_NEW"
 msgstr "New Environment"
 
-msgid "REVMNU_REVERT"
-msgstr "Revert settings"
-
 msgid "REVMNU_Reflections_Scale"
 msgstr "Reflections Scale"
 
@@ -1811,9 +1805,6 @@ msgstr "Release Notes"
 
 msgid "ACCMNU_TITLE"
 msgstr "Accessibility Options"
-
-msgid "ACCMNU_RESET"
-msgstr "Reset Accessibility Options"
 
 msgid "MSGMNU_MESSAGEQUEUE"
 msgstr "Message queue size"

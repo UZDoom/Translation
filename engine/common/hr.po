@@ -358,9 +358,6 @@ msgstr "Prateća kamera"
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "Snimka zaslona"
 
-msgid "CNTRLMNU_CONSOLE"
-msgstr "Otvori konzolu"
-
 msgid "CNTRLMNU_PAUSE"
 msgstr "Pauza"
 
@@ -1466,9 +1463,6 @@ msgstr "Uredi okoliš"
 
 msgid "REVMNU_NEW"
 msgstr "Novi okoliš"
-
-msgid "REVMNU_REVERT"
-msgstr "Povrati postavke"
 
 msgid "REVMNU_Reflections_Scale"
 msgstr "Skaliranje odraza"

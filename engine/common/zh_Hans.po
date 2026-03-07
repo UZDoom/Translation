@@ -357,9 +357,6 @@ msgstr "跟随镜头"
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "截屏"
 
-msgid "CNTRLMNU_CONSOLE"
-msgstr "打开控制台"
-
 msgid "CNTRLMNU_PAUSE"
 msgstr "暂停"
 
@@ -1465,9 +1462,6 @@ msgstr "编辑环境"
 msgid "REVMNU_NEW"
 msgstr "新建环境"
 
-msgid "REVMNU_REVERT"
-msgstr "还原设置"
-
 msgid "REVMNU_Reflections_Scale"
 msgstr "反射比例"
 
@@ -1811,9 +1805,6 @@ msgstr "发布说明"
 
 msgid "ACCMNU_TITLE"
 msgstr "辅助选项"
-
-msgid "ACCMNU_RESET"
-msgstr "重置辅助选项"
 
 msgid "MSGMNU_MESSAGEQUEUE"
 msgstr "消息队列大小"

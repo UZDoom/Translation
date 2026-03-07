@@ -5261,9 +5261,6 @@ msgstr ""
 "until diagonal white blocks fade. Do not use this to make the game brighter, "
 "only to ensure the image is calibrated for your setup."
 
-msgid "OPTMNU_RESETALL"
-msgstr "Reset All"
-
 msgid "DSPLYMNU_TOOLTIP_IMAGEADJUST_RESET"
 msgstr "Resets all options in this menu to default settings."
 

@@ -6875,10 +6875,6 @@ msgstr ""
 "only to ensure the image is calibrated for your setup."
 
 #, fuzzy
-msgid "OPTMNU_RESETALL"
-msgstr "Reset All"
-
-#, fuzzy
 msgid "DSPLYMNU_TOOLTIP_IMAGEADJUST_RESET"
 msgstr "Resets all options in this menu to default settings."
 

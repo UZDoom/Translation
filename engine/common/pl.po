@@ -358,9 +358,6 @@ msgstr "Kamera Śledzenia"
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "Zrzut ekranu"
 
-msgid "CNTRLMNU_CONSOLE"
-msgstr "Otwórz konsolę"
-
 msgid "CNTRLMNU_PAUSE"
 msgstr "Pauza"
 
@@ -1466,9 +1463,6 @@ msgstr "Edytuj Środowisko"
 msgid "REVMNU_NEW"
 msgstr "Nowe Środowisko"
 
-msgid "REVMNU_REVERT"
-msgstr "Przywróć ustawienia"
-
 msgid "REVMNU_Reflections_Scale"
 msgstr "Rozmiar Odbić"
 
@@ -1813,9 +1807,6 @@ msgstr "Błąd wczytywania listy zmian"
 
 msgid "ACCMNU_TITLE"
 msgstr "Opcje Dostępności"
-
-msgid "ACCMNU_RESET"
-msgstr "Resetuj Opcje Dostępności"
 
 msgid "MSGMNU_STACKIDENTICAL"
 msgstr "Grupuj powtarzające się wiadomości"

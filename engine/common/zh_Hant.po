@@ -344,9 +344,6 @@ msgstr ""
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr ""
 
-msgid "CNTRLMNU_CONSOLE"
-msgstr ""
-
 msgid "CNTRLMNU_PAUSE"
 msgstr ""
 
@@ -1450,9 +1447,6 @@ msgid "REVMNU_EDIT"
 msgstr ""
 
 msgid "REVMNU_NEW"
-msgstr ""
-
-msgid "REVMNU_REVERT"
 msgstr ""
 
 msgid "REVMNU_Reflections_Scale"

@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-01 23:09+0000\n"
+"PO-Revision-Date: 2026-03-06 23:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/uzdoom/common/"
 "it/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16.1-dev\n"
+"X-Generator: Weblate 5.17-dev\n"
 "X-HeaderCode: it\n"
 
 msgid "PRESSYN"
@@ -32,10 +32,9 @@ msgstr ""
 msgid "SAFEMESSAGE"
 msgstr "Sei sicuro di volerlo fare?"
 
-#, fuzzy
 msgid "QSPROMPT"
 msgstr ""
-"Sovrascrivere il salvataggio\n"
+"Salvataggio rapido sul tuo gioco denominato\n"
 "\n"
 "'%s'?\n"
 "\n"
@@ -358,9 +357,6 @@ msgstr "Telecamera di inseguimento"
 
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "Cattura schermo"
-
-msgid "CNTRLMNU_CONSOLE"
-msgstr "Apri la console"
 
 msgid "CNTRLMNU_PAUSE"
 msgstr "Pausa"
@@ -1468,9 +1464,6 @@ msgstr "Modifica ambiente"
 msgid "REVMNU_NEW"
 msgstr "Nuovo ambiente"
 
-msgid "REVMNU_REVERT"
-msgstr "Ripristina le impostazioni"
-
 msgid "REVMNU_Reflections_Scale"
 msgstr ""
 
@@ -1785,9 +1778,6 @@ msgstr ""
 
 msgid "ACCMNU_TITLE"
 msgstr "Opzioni Accessibilità"
-
-msgid "ACCMNU_RESET"
-msgstr "Ripristina opzioni Accessibilità"
 
 msgid "MSGMNU_MESSAGEQUEUE"
 msgstr "Dimensione della coda dei messaggi"

@@ -357,9 +357,6 @@ msgstr "背後視点"
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "画面キャプチャ"
 
-msgid "CNTRLMNU_CONSOLE"
-msgstr "コンソールを開く"
-
 msgid "CNTRLMNU_PAUSE"
 msgstr "ポーズ"
 
@@ -1467,9 +1464,6 @@ msgstr "反響編集"
 
 msgid "REVMNU_NEW"
 msgstr "新規反響設定"
-
-msgid "REVMNU_REVERT"
-msgstr "設定を戻す"
 
 msgid "REVMNU_Reflections_Scale"
 msgstr "Reflections音階"

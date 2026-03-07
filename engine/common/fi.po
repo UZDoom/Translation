@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-01 23:10+0000\n"
+"PO-Revision-Date: 2026-03-06 23:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/uzdoom/common/"
 "fi/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16.1-dev\n"
+"X-Generator: Weblate 5.17-dev\n"
 "X-HeaderCode: fi\n"
 
 msgid "PRESSYN"
@@ -41,7 +41,6 @@ msgstr ""
 "\n"
 "Paina Y tai N."
 
-#, fuzzy
 msgid "QLPROMPT"
 msgstr ""
 "Haluatko pikaladata pelin\n"
@@ -360,9 +359,6 @@ msgstr "Seurantakamera"
 
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "Kuvakaappaus"
-
-msgid "CNTRLMNU_CONSOLE"
-msgstr "Avaa konsoli"
 
 msgid "CNTRLMNU_PAUSE"
 msgstr "Tauko"
@@ -1469,9 +1465,6 @@ msgstr "Muokkaa tilaa"
 
 msgid "REVMNU_NEW"
 msgstr "Uusi tila"
-
-msgid "REVMNU_REVERT"
-msgstr "Palauta asetukset"
 
 msgid "REVMNU_Reflections_Scale"
 msgstr "Ensiheijastusten skaala"
