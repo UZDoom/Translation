@@ -1811,9 +1811,6 @@ msgstr "Błąd wczytywania listy zmian"
 msgid "ACCMNU_TITLE"
 msgstr "Opcje Dostępności"
 
-msgid "ACCMNU_RESET"
-msgstr "Resetuj Opcje Dostępności"
-
 msgid "MSGMNU_STACKIDENTICAL"
 msgstr "Grupuj powtarzające się wiadomości"
 
