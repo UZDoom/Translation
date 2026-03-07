@@ -1464,9 +1464,6 @@ msgstr ""
 msgid "REVMNU_NEW"
 msgstr ""
 
-msgid "REVMNU_REVERT"
-msgstr ""
-
 msgid "REVMNU_Reflections_Scale"
 msgstr ""
 
