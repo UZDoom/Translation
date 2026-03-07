@@ -1808,6 +1808,3 @@ msgstr "Ne kapablas sintake analizi eldonajn notojn"
 
 msgid "ACCMNU_TITLE"
 msgstr "Alireblo-agordoj"
-
-msgid "ACCMNU_RESET"
-msgstr "Restarigi alireblo-agordojn"
