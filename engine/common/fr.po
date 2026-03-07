@@ -357,9 +357,6 @@ msgstr "Caméra 3ième personne"
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "Capture d'écran"
 
-msgid "CNTRLMNU_CONSOLE"
-msgstr "Ouvrir Console"
-
 msgid "CNTRLMNU_PAUSE"
 msgstr "Pause"
 
