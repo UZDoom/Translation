@@ -1472,9 +1472,6 @@ msgstr "Редагувати оточення"
 msgid "REVMNU_NEW"
 msgstr "Нове оточення"
 
-msgid "REVMNU_REVERT"
-msgstr "Налаштування за замовчуванням"
-
 msgid "REVMNU_Reflections_Scale"
 msgstr ""
 
