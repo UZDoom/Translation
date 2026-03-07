@@ -1809,9 +1809,6 @@ msgstr "发布说明"
 msgid "ACCMNU_TITLE"
 msgstr "辅助选项"
 
-msgid "ACCMNU_RESET"
-msgstr "重置辅助选项"
-
 msgid "MSGMNU_MESSAGEQUEUE"
 msgstr "消息队列大小"
 
