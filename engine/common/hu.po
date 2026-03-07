@@ -1463,9 +1463,6 @@ msgstr "Környezet Szerkesztése"
 msgid "REVMNU_NEW"
 msgstr "Új Környezet"
 
-msgid "REVMNU_REVERT"
-msgstr "Változtatások elvetése"
-
 msgid "REVMNU_Reflections_Scale"
 msgstr ""
 
