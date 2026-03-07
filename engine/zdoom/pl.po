@@ -5241,9 +5241,6 @@ msgstr ""
 "Reguluj, aż diagonalne białe bloki znikną. Używaj tego wyłącznie w celu "
 "skalibrowania obrazu dla Twojego sprzętu, nie do rozjaśniania gry."
 
-msgid "OPTMNU_RESETALL"
-msgstr "Resetuj Wszystko"
-
 msgid "DSPLYMNU_TOOLTIP_IMAGEADJUST_RESET"
 msgstr "Przywraca wszystkie opcje w tym menu do ustawień domyślnych."
 
