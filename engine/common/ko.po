@@ -1462,9 +1462,6 @@ msgstr "환경 편집"
 msgid "REVMNU_NEW"
 msgstr "새로운 환경 생성"
 
-msgid "REVMNU_REVERT"
-msgstr "설정 되돌리기"
-
 msgid "REVMNU_Reflections_Scale"
 msgstr "룸 반사 음계"
 
