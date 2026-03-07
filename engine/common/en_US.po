@@ -170,10 +170,6 @@ msgid "ACCMNU_TITLE"
 msgstr "Accessibility Options"
 
 #, fuzzy
-msgid "ACCMNU_RESET"
-msgstr "Reset Accessibility Options"
-
-#, fuzzy
 msgid "OPTMNU_DISPLAY"
 msgstr "Display Options"
 
