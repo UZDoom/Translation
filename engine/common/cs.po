@@ -357,9 +357,6 @@ msgstr "Kamera z třetí osoby"
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "Pořídit snímek obrazovky"
 
-msgid "CNTRLMNU_CONSOLE"
-msgstr "Otevřít konzoli"
-
 msgid "CNTRLMNU_PAUSE"
 msgstr "Pauza"
 
