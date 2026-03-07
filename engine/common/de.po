@@ -360,9 +360,6 @@ msgstr "Verfolgerkamera"
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "Bildschrimfoto"
 
-msgid "CNTRLMNU_CONSOLE"
-msgstr "Konsole öffnen"
-
 msgid "CNTRLMNU_PAUSE"
 msgstr "Pause"
 
