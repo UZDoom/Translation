@@ -1466,9 +1466,6 @@ msgstr "Muokkaa tilaa"
 msgid "REVMNU_NEW"
 msgstr "Uusi tila"
 
-msgid "REVMNU_REVERT"
-msgstr "Palauta asetukset"
-
 msgid "REVMNU_Reflections_Scale"
 msgstr "Ensiheijastusten skaala"
 
