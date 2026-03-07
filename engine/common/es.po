@@ -1784,8 +1784,5 @@ msgstr ""
 msgid "ACCMNU_TITLE"
 msgstr "Opciones de Accesibilidad"
 
-msgid "ACCMNU_RESET"
-msgstr "Restablecer opciones de accesibilidad"
-
 msgid "MSGMNU_STACKIDENTICAL"
 msgstr "Apilar mensajes repetidos"
