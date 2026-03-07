@@ -358,9 +358,6 @@ msgstr "Cámara trasera"
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "Capturar pantalla"
 
-msgid "CNTRLMNU_CONSOLE"
-msgstr "Abrir consola"
-
 msgid "CNTRLMNU_PAUSE"
 msgstr "Pausar"
 
