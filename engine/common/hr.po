@@ -1464,9 +1464,6 @@ msgstr "Uredi okoliš"
 msgid "REVMNU_NEW"
 msgstr "Novi okoliš"
 
-msgid "REVMNU_REVERT"
-msgstr "Povrati postavke"
-
 msgid "REVMNU_Reflections_Scale"
 msgstr "Skaliranje odraza"
 
