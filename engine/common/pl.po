@@ -358,9 +358,6 @@ msgstr "Kamera Śledzenia"
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "Zrzut ekranu"
 
-msgid "CNTRLMNU_CONSOLE"
-msgstr "Otwórz konsolę"
-
 msgid "CNTRLMNU_PAUSE"
 msgstr "Pauza"
 
