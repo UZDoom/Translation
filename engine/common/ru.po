@@ -358,9 +358,6 @@ msgstr "Вид от 3-го лица"
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "Снимок экрана"
 
-msgid "CNTRLMNU_CONSOLE"
-msgstr "Открыть консоль"
-
 msgid "CNTRLMNU_PAUSE"
 msgstr "Пауза"
 
