@@ -357,9 +357,6 @@ msgstr "Κάμερα τρίτου προσώπου"
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "Στιγμιότυπο"
 
-msgid "CNTRLMNU_CONSOLE"
-msgstr "Ανοίξτε την κονσόλα"
-
 msgid "CNTRLMNU_PAUSE"
 msgstr "Πάυση"
 
