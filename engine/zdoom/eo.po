@@ -5172,9 +5172,6 @@ msgstr ""
 "interesan por diri, ŝajne nur tiel longa ĉar la programistoj malfacile "
 "klarigas, kion faras opcio."
 
-msgid "OPTMNU_RESETALL"
-msgstr "Restarigi ĉiujn"
-
 msgid "OPTVAL_STRICT"
 msgstr "Severa"
 
