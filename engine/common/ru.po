@@ -1478,9 +1478,6 @@ msgstr "Редактировать окружение"
 msgid "REVMNU_NEW"
 msgstr "Новое окружение"
 
-msgid "REVMNU_REVERT"
-msgstr "Сбросить настройки"
-
 msgid "REVMNU_Reflections_Scale"
 msgstr "Размер Отражений"
 
