@@ -360,9 +360,6 @@ msgstr ""
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "Skjermbilde"
 
-msgid "CNTRLMNU_CONSOLE"
-msgstr "Åpne konsoll"
-
 msgid "CNTRLMNU_PAUSE"
 msgstr ""
 
