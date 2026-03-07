@@ -1463,9 +1463,6 @@ msgstr "Upravit prostředí"
 msgid "REVMNU_NEW"
 msgstr "Nové prostředí"
 
-msgid "REVMNU_REVERT"
-msgstr "Obnovit nastavení"
-
 msgid "REVMNU_Reflections_Scale"
 msgstr ""
 
