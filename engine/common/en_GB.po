@@ -1809,9 +1809,6 @@ msgstr "Release Notes"
 msgid "ACCMNU_TITLE"
 msgstr "Accessibility Options"
 
-msgid "ACCMNU_RESET"
-msgstr "Reset Accessibility Options"
-
 msgid "MSGMNU_MESSAGEQUEUE"
 msgstr "Message queue size"
 
