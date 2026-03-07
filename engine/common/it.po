@@ -1782,9 +1782,6 @@ msgstr ""
 msgid "ACCMNU_TITLE"
 msgstr "Opzioni Accessibilità"
 
-msgid "ACCMNU_RESET"
-msgstr "Ripristina opzioni Accessibilità"
-
 msgid "MSGMNU_MESSAGEQUEUE"
 msgstr "Dimensione della coda dei messaggi"
 
