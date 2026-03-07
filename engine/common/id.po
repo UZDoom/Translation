@@ -1462,9 +1462,6 @@ msgstr "Edit lingkungan"
 msgid "REVMNU_NEW"
 msgstr "Lingkungan baru"
 
-msgid "REVMNU_REVERT"
-msgstr "Kembalikan pengaturan"
-
 msgid "REVMNU_Reflections_Scale"
 msgstr "Skala refleksi"
 
