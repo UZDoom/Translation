@@ -357,9 +357,6 @@ msgstr "3인칭 카메라"
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "스크린샷"
 
-msgid "CNTRLMNU_CONSOLE"
-msgstr "콘솔 열기"
-
 msgid "CNTRLMNU_PAUSE"
 msgstr "일시정지"
 
