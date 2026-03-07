@@ -360,9 +360,6 @@ msgstr "Chasecam"
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "Skærmbillede"
 
-msgid "CNTRLMNU_CONSOLE"
-msgstr "Åbn konsollen"
-
 msgid "CNTRLMNU_PAUSE"
 msgstr ""
 
