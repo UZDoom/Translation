@@ -1465,9 +1465,6 @@ msgstr "Editează Mediul"
 msgid "REVMNU_NEW"
 msgstr "Mediu Nou"
 
-msgid "REVMNU_REVERT"
-msgstr "Revenire la setările anterioare"
-
 msgid "REVMNU_Reflections_Scale"
 msgstr ""
 
