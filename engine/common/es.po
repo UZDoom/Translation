@@ -359,9 +359,6 @@ msgstr "Cámara de seguimiento"
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "Captura de pantalla"
 
-msgid "CNTRLMNU_CONSOLE"
-msgstr "Abrir consola"
-
 msgid "CNTRLMNU_PAUSE"
 msgstr "Pausa"
 
