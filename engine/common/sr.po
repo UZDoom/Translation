@@ -1465,9 +1465,6 @@ msgstr "Уреди окружење"
 msgid "REVMNU_NEW"
 msgstr "Ново окружење"
 
-msgid "REVMNU_REVERT"
-msgstr "Врати подешавања"
-
 msgid "REVMNU_Reflections_Scale"
 msgstr "Скала рефлексија"
 
