@@ -5230,9 +5230,6 @@ msgstr "请在调整前禁用这些。"
 msgid "DSPLYMNU_BLACKPOINT"
 msgstr "黑点补偿"
 
-msgid "OPTMNU_RESETALL"
-msgstr "全部重置"
-
 msgid "DSPLYMNU_IMAGEADJUST_TOP1"
 msgstr "以正常观看的距离，来调整这些滑动条。"
 
