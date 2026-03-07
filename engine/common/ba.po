@@ -360,9 +360,6 @@ msgstr "Prateća kamera"
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "Spasite zaslon"
 
-msgid "CNTRLMNU_CONSOLE"
-msgstr "Otvorite konzolu"
-
 msgid "CNTRLMNU_PAUSE"
 msgstr "Pauza"
 
