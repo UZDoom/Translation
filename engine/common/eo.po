@@ -357,9 +357,6 @@ msgstr "Sekvanta kamerao"
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "Ekrankopio"
 
-msgid "CNTRLMNU_CONSOLE"
-msgstr "Malfermi konzolon"
-
 msgid "CNTRLMNU_PAUSE"
 msgstr "Paŭzo"
 
