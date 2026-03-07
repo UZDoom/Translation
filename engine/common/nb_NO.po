@@ -1466,9 +1466,6 @@ msgstr "Rediger miljø"
 msgid "REVMNU_NEW"
 msgstr "Nytt miljø"
 
-msgid "REVMNU_REVERT"
-msgstr "Tilbake innstillinger"
-
 msgid "REVMNU_Reflections_Scale"
 msgstr ""
 
