@@ -357,9 +357,6 @@ msgstr "Chasecam"
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "Screenshot"
 
-msgid "CNTRLMNU_CONSOLE"
-msgstr "Open console"
-
 msgid "CNTRLMNU_PAUSE"
 msgstr "Pause"
 
