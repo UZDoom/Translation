@@ -1946,10 +1946,6 @@ msgstr "Edit Environment"
 msgid "REVMNU_NEW"
 msgstr "New Environment"
 
-#, fuzzy
-msgid "REVMNU_REVERT"
-msgstr "Revert settings"
-
 # Jargon.
 #, fuzzy
 msgid "REVMNU_Reflections_Scale"
