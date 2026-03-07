@@ -1488,9 +1488,6 @@ msgstr "Omgeving bewerken"
 msgid "REVMNU_NEW"
 msgstr "Nieuwe omgeving"
 
-msgid "REVMNU_REVERT"
-msgstr "Instellingen terugzetten"
-
 msgid "REVMNU_Reflections_Scale"
 msgstr "Reflectieschaal"
 
