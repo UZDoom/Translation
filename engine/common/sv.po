@@ -358,9 +358,6 @@ msgstr ""
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "Skärmdump"
 
-msgid "CNTRLMNU_CONSOLE"
-msgstr "Öppna konsolen"
-
 msgid "CNTRLMNU_PAUSE"
 msgstr "Pausa"
 
