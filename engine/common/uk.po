@@ -1801,9 +1801,6 @@ msgstr "Аналоговий стрейф-біг"
 msgid "ACCMNU_TITLE"
 msgstr "Параметри доступності"
 
-msgid "ACCMNU_RESET"
-msgstr "Скинути налаштування доступності"
-
 msgid "MSGMNU_MESSAGEQUEUE"
 msgstr "Розмір черги повідомлень"
 
