@@ -1468,9 +1468,6 @@ msgstr "Umgebung editieren"
 msgid "REVMNU_NEW"
 msgstr "Umgebung erstellen"
 
-msgid "REVMNU_REVERT"
-msgstr "Einstellungen zurücksetzen"
-
 msgid "REVMNU_Reflections_Scale"
 msgstr "Reflektionsskalierung"
 
