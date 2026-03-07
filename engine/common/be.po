@@ -1465,9 +1465,6 @@ msgstr "Рэдагаваць асяроддзе"
 msgid "REVMNU_NEW"
 msgstr "Новае асяроддзе"
 
-msgid "REVMNU_REVERT"
-msgstr "Скінуць налады"
-
 msgid "REVMNU_Reflections_Scale"
 msgstr ""
 
