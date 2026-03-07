@@ -358,9 +358,6 @@ msgstr "Telecamera di inseguimento"
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "Cattura schermo"
 
-msgid "CNTRLMNU_CONSOLE"
-msgstr "Apri la console"
-
 msgid "CNTRLMNU_PAUSE"
 msgstr "Pausa"
 
