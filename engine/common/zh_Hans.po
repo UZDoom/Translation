@@ -357,9 +357,6 @@ msgstr "跟随镜头"
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "截屏"
 
-msgid "CNTRLMNU_CONSOLE"
-msgstr "打开控制台"
-
 msgid "CNTRLMNU_PAUSE"
 msgstr "暂停"
 
