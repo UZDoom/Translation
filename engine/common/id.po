@@ -1782,9 +1782,6 @@ msgstr "Catatan Rilis"
 msgid "ACCMNU_TITLE"
 msgstr "Opsi Aksesibilitas"
 
-msgid "ACCMNU_RESET"
-msgstr "Reset Opsi Aksesibilitas"
-
 msgid "MSGMNU_MESSAGEQUEUE"
 msgstr "Ukuran antrean pesan"
 
