@@ -1778,6 +1778,3 @@ msgstr ""
 
 msgid "ACCMNU_TITLE"
 msgstr "접근성 설정"
-
-msgid "ACCMNU_RESET"
-msgstr "접근성 설정 초기화"
