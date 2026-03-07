@@ -360,9 +360,6 @@ msgstr "Seurantakamera"
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "Kuvakaappaus"
 
-msgid "CNTRLMNU_CONSOLE"
-msgstr "Avaa konsoli"
-
 msgid "CNTRLMNU_PAUSE"
 msgstr "Tauko"
 
