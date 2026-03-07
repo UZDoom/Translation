@@ -1462,9 +1462,6 @@ msgstr "Modifi medion"
 msgid "REVMNU_NEW"
 msgstr "Nova medio"
 
-msgid "REVMNU_REVERT"
-msgstr "Malfari agordojn"
-
 msgid "REVMNU_Reflections_Scale"
 msgstr "Skalo de reflektoj"
 
