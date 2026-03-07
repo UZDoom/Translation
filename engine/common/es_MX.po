@@ -1779,6 +1779,3 @@ msgstr ""
 
 msgid "ACCMNU_TITLE"
 msgstr "Opciones de Accesibilidad"
-
-msgid "ACCMNU_RESET"
-msgstr "Reiniciar Opciones de Accesibilidad"
