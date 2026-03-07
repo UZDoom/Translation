@@ -1463,9 +1463,6 @@ msgstr "Modifier un environnement"
 msgid "REVMNU_NEW"
 msgstr "Nouveau environnement"
 
-msgid "REVMNU_REVERT"
-msgstr "Réinitialiser les paramètres"
-
 msgid "REVMNU_Reflections_Scale"
 msgstr "Echelle Reflections"
 
