@@ -357,9 +357,6 @@ msgstr "Kamera Mengejar"
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "Screenshot"
 
-msgid "CNTRLMNU_CONSOLE"
-msgstr "Buka konsol"
-
 msgid "CNTRLMNU_PAUSE"
 msgstr "Jeda"
 
