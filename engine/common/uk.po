@@ -358,9 +358,6 @@ msgstr "Вид від третьої особи"
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "Скріншот"
 
-msgid "CNTRLMNU_CONSOLE"
-msgstr "Відкрити консоль"
-
 msgid "CNTRLMNU_PAUSE"
 msgstr "Пауза"
 
