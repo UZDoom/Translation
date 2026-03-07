@@ -1465,9 +1465,6 @@ msgstr "反響編集"
 msgid "REVMNU_NEW"
 msgstr "新規反響設定"
 
-msgid "REVMNU_REVERT"
-msgstr "設定を戻す"
-
 msgid "REVMNU_Reflections_Scale"
 msgstr "Reflections音階"
 
