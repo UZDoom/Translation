@@ -359,9 +359,6 @@ msgstr "Чејс-кем"
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "Усликај"
 
-msgid "CNTRLMNU_CONSOLE"
-msgstr "Отвори консолу"
-
 msgid "CNTRLMNU_PAUSE"
 msgstr "Пауза"
 
