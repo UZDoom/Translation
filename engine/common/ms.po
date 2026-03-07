@@ -347,9 +347,6 @@ msgstr ""
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "Tangkapan Layar"
 
-msgid "CNTRLMNU_CONSOLE"
-msgstr ""
-
 msgid "CNTRLMNU_PAUSE"
 msgstr "Jeda"
 
