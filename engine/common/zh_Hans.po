@@ -1462,9 +1462,6 @@ msgstr "编辑环境"
 msgid "REVMNU_NEW"
 msgstr "新建环境"
 
-msgid "REVMNU_REVERT"
-msgstr "还原设置"
-
 msgid "REVMNU_Reflections_Scale"
 msgstr "反射比例"
 
