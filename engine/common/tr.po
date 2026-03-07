@@ -359,9 +359,6 @@ msgstr "Takip Kamerası"
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "Ekran görüntüsü"
 
-msgid "CNTRLMNU_CONSOLE"
-msgstr "Açık konsol"
-
 msgid "CNTRLMNU_PAUSE"
 msgstr "Duraklat"
 
