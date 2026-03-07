@@ -1463,9 +1463,6 @@ msgstr "Edytuj Środowisko"
 msgid "REVMNU_NEW"
 msgstr "Nowe Środowisko"
 
-msgid "REVMNU_REVERT"
-msgstr "Przywróć ustawienia"
-
 msgid "REVMNU_Reflections_Scale"
 msgstr "Rozmiar Odbić"
 
