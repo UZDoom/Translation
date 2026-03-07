@@ -1795,9 +1795,6 @@ msgstr "Corrida com strafe analógico"
 msgid "ACCMNU_TITLE"
 msgstr "Opções de Acessibilidade"
 
-msgid "ACCMNU_RESET"
-msgstr "Redefinir opções de acessibilidade"
-
 msgid "NOTES_FAIL"
 msgstr "Não foi possível analisar as notas de lançamento"
 
