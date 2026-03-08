@@ -6979,3 +6979,19 @@ msgstr "Player Class"
 #, fuzzy
 msgid "OPTVAL_SBSLETTERBOX"
 msgstr "Side-by-side Letterboxed"
+
+#, fuzzy
+msgid "OPTVAL_DIRECTMIX"
+msgstr "Direct Mix"
+
+#, fuzzy
+msgid "OPTVAL_SUPERSTEREO"
+msgstr "Super Stereo"
+
+#, fuzzy
+msgid "OPENALMNU_MUSICMODE"
+msgstr "Music Mode"
+
+#, fuzzy
+msgid "OPENALMNU_SUPERSTEREOWIDTH"
+msgstr "Super Stereo Width"
