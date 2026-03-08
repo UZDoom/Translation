@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-05 03:10+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-03-09 00:04+0000\n"
+"Last-Translator: Skyler Shirra <skyler.shirra@gmail.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/uzdoom/common/"
 "eo/>\n"
 "Language: eo\n"
@@ -1805,3 +1805,9 @@ msgstr "Ne kapablas sintake analizi eldonajn notojn"
 
 msgid "ACCMNU_TITLE"
 msgstr "Alireblo-agordoj"
+
+msgid "MSGMNU_MESSAGEQUEUE"
+msgstr "Grando de mesaĝa atendovico"
+
+msgid "MSGMNU_STACKIDENTICAL"
+msgstr "Staki ripetitajn mesaĝojn"
