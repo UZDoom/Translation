@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-26 04:50+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-03-08 06:09+0000\n"
+"Last-Translator: Naufal _su_bi_ng <humaidnaufalsubing@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/id/>\n"
 "Language: id\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.16.1-dev\n"
+"X-Generator: Weblate 5.17-dev\n"
 
 msgid "PRESSKEY"
 msgstr "Tekan tombol apapun."
@@ -272,7 +272,7 @@ msgid "HUSTR_TALKTOSELF4"
 msgstr "Anda mulai berdansa"
 
 msgid "HUSTR_TALKTOSELF5"
-msgstr "Anda khawatir sendiri…"
+msgstr "Anda hilang akal…"
 
 msgid "HUSTR_MESSAGESENT"
 msgstr "[Pesan terkirim]"
@@ -322,8 +322,9 @@ msgstr "Mode No Clipping 2 MATI"
 msgid "STSTR_BEHOLD"
 msgstr "inVuln, Str, Inviso, Rad, Allmap, atau Lite-amp"
 
+#, fuzzy
 msgid "STSTR_BEHOLDX"
-msgstr ""
+msgstr "Kekuatan beralih"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
@@ -3430,19 +3431,19 @@ msgid "MAPCOLORMNU_BACKCOLOR"
 msgstr ""
 
 msgid "MAPCOLORMNU_YOURCOLOR"
-msgstr ""
+msgstr "Anda"
 
 msgid "MAPCOLORMNU_WALLCOLOR"
-msgstr ""
+msgstr "Dinding 1 sisi"
 
 msgid "MAPCOLORMNU_FDWALLCOLOR"
-msgstr ""
+msgstr "Dinding 2 sisi dengan lantai berbeda-beda"
 
 msgid "MAPCOLORMNU_CDWALLCOLOR"
-msgstr ""
+msgstr "Dinding 2 sisi dengan atap berbeda-beda"
 
 msgid "MAPCOLORMNU_EFWALLCOLOR"
-msgstr ""
+msgstr "Dinding 2 sisi dengan lantai 3D"
 
 msgid "MAPCOLORMNU_GRIDCOLOR"
 msgstr ""
@@ -3454,37 +3455,37 @@ msgid "MAPCOLORMNU_NOTSEENCOLOR"
 msgstr ""
 
 msgid "MAPCOLORMNU_LOCKEDCOLOR"
-msgstr ""
+msgstr "Pintu Terkunci"
 
 msgid "MAPCOLORMNU_INTRALEVELCOLOR"
-msgstr ""
+msgstr "Alat Teleportasi ke peta sama"
 
 msgid "MAPCOLORMNU_INTERLEVELCOLOR"
-msgstr ""
+msgstr "Alat Teleportasi ke peta lain"
 
 msgid "MAPCOLORMNU_SECRETSECTORCOLOR"
-msgstr ""
+msgstr "Sektor Rahasia"
 
 msgid "MAPCOLORMNU_UNEXPLOREDSECRETCOLOR"
-msgstr ""
+msgstr "Rahasia belum ditemukan"
 
 msgid "MAPCOLORMNU_SPECIALWALLCOLOR"
 msgstr ""
 
 msgid "MAPCOLORMNU_CHEATMODE"
-msgstr ""
+msgstr "Mode Cheat"
 
 msgid "MAPCOLORMNU_TSWALLCOLOR"
-msgstr ""
+msgstr "Dinding 2 sisi tak terlihat"
 
 msgid "MAPCOLORMNU_SECRETWALLCOLOR"
-msgstr ""
+msgstr "Dinding rahasia"
 
 msgid "MAPCOLORMNU_THINGCOLOR"
-msgstr ""
+msgstr "Aktor"
 
 msgid "MAPCOLORMNU_MONSTERCOLOR"
-msgstr ""
+msgstr "Monster"
 
 msgid "MAPCOLORMNU_NONCOUNTINGMONSTERCOLOR"
 msgstr ""
@@ -3493,58 +3494,62 @@ msgid "MAPCOLORMNU_FRIENDCOLOR"
 msgstr ""
 
 msgid "MAPCOLORMNU_ITEMCOLOR"
-msgstr ""
+msgstr "Barang"
 
 msgid "MAPCOLORMNU_COUNTITEMCOLOR"
-msgstr ""
+msgstr "Hitung Barang"
 
 msgid "MAPCOLORMNU_OVERLAY"
-msgstr ""
+msgstr "Mode Lapisan Atas"
 
 msgid "MAPCOLORMNU_OVCHEATMODE"
-msgstr ""
+msgstr "Mode Lapisan Cheat"
 
+#, fuzzy
 msgid "MAPCOLORMNU_PORTAL"
-msgstr ""
+msgstr "Lapisan Portal"
 
 msgid "MSGMNU_TITLE"
-msgstr ""
+msgstr "Pesan"
 
 msgid "MSGMNU_SHOWMESSAGES"
-msgstr ""
+msgstr "Tampilkan Pesan"
 
+#, fuzzy
 msgid "MSGMNU_SHOWOBITUARIES"
-msgstr ""
+msgstr "Tampilkan berita kematian"
 
 msgid "MSGMNU_SHOWSECRETS"
-msgstr ""
+msgstr "Tampilkan notifikasi rahasia"
 
 msgid "MSGMNU_MESSAGELEVEL"
 msgstr ""
 
 msgid "MSGMNU_MESSAGECOLORS"
-msgstr ""
+msgstr "Warna Pesan"
 
 msgid "MSGMNU_ITEMPICKUP"
 msgstr ""
 
 msgid "MSGMNU_OBITUARIES"
-msgstr ""
+msgstr "Kematian"
 
 msgid "MSGMNU_CRITICALMESSAGES"
-msgstr ""
+msgstr "Pesan Pokok"
 
+#, fuzzy
 msgid "MSGMNU_CHATMESSAGES"
-msgstr ""
+msgstr "Pesan Cakap"
 
 msgid "MSGMNU_TEAMMESSAGES"
-msgstr ""
+msgstr "Pesan Tim"
 
+#, fuzzy
 msgid "MSGMNU_CENTEREDMESSAGES"
-msgstr ""
+msgstr "Pesan Pertengahan"
 
 msgid "MSGMNU_SCREENSHOTMESSAGES"
-msgstr ""
+msgstr "Pesan cuplikan layar"
 
 msgid "MSGMNU_LONGSAVEMESSAGES"
 msgstr ""
@@ -3559,37 +3564,38 @@ msgid "AUTOMAPMNU_CUSTOMCOLORS"
 msgstr ""
 
 msgid "AUTOMAPMNU_SETCUSTOMCOLORS"
-msgstr ""
+msgstr "Atur warna pilihan"
 
+#, fuzzy
 msgid "AUTOMAPMNU_CONTROLS"
-msgstr ""
+msgstr "Sesuaikan kontrol peta"
 
 msgid "AUTOMAPMNU_OVERLAY"
-msgstr ""
+msgstr "Lapisan peta otomatis"
 
 msgid "AUTOMAPMNU_TEXTURED"
 msgstr ""
 
 msgid "AUTOMAPMNU_SHOWITEMS"
-msgstr ""
+msgstr "Tampilkan jumlah barang"
 
 msgid "AUTOMAPMNU_SHOWMONSTERS"
-msgstr ""
+msgstr "Tampilkan jumlah monster"
 
 msgid "AUTOMAPMNU_SHOWSECRETS"
-msgstr ""
+msgstr "Tampilkan jumlah rahasia"
 
 msgid "AUTOMAPMNU_SHOWTIME"
-msgstr ""
+msgstr "Tampilkan waktu yang lewat"
 
 msgid "AUTOMAPMNU_SHOWTOTALTIME"
-msgstr ""
+msgstr "Tampilkan total waktu yang lewat"
 
 msgid "AUTOMAPMNU_MAPSECRETS"
-msgstr ""
+msgstr "Tampilkan rahasia pada peta"
 
 msgid "AUTOMAPMNU_SHOWMAPLABEL"
-msgstr ""
+msgstr "Tampilkan label peta"
 
 msgid "AUTOMAPMNU_DRAWMAPBACK"
 msgstr ""
@@ -3862,13 +3868,13 @@ msgid "HUDMNU_TITLE"
 msgstr "Setelan HUD"
 
 msgid "HUDMNU_ALTHUD"
-msgstr ""
+msgstr "Antarmuka Alternatif"
 
 msgid "HUDMNU_MESSAGE"
 msgstr ""
 
 msgid "HUDMNU_UISCALE"
-msgstr ""
+msgstr "Skala Antarmuka"
 
 msgid "HUDMNU_FORCECROSSHAIR"
 msgstr ""
@@ -3897,14 +3903,16 @@ msgstr ""
 msgid "HUDMNU_HAZARDFLASHES"
 msgstr ""
 
+#, fuzzy
 msgid "HUDMNU_SCALEOPT"
-msgstr ""
+msgstr "Opsi Skala"
 
 msgid "MISCMNU_QUERYIWAD"
 msgstr ""
 
+#, fuzzy
 msgid "MISCMNU_ALLCHEATS"
-msgstr ""
+msgstr "Hidupkan cheat dari semua gim"
 
 msgid "MISCMNU_ENABLESCRIPTSCREENSHOTS"
 msgstr ""
@@ -4564,7 +4572,7 @@ msgid "HUDMNU_FLASH"
 msgstr ""
 
 msgid "GLMNU_3DMODE"
-msgstr ""
+msgstr "Mode 3D"
 
 msgid "HUDMNU_CROSSHAIRON"
 msgstr ""
@@ -4572,8 +4580,9 @@ msgstr ""
 msgid "MSGMNU_SUBTITLES"
 msgstr ""
 
+#, fuzzy
 msgid "HUDMNU_FONTOPTIONS"
-msgstr ""
+msgstr "Opsi Font"
 
 msgid "FONTMNU_LOG"
 msgstr ""
@@ -4758,12 +4767,14 @@ msgid "GMPLYMNU_NOLOCALDROP"
 msgstr ""
 
 # Disables autoloading save on death
+#, fuzzy
 msgid "MISCMNU_RESTARTONDEATH"
-msgstr ""
+msgstr "Mulai dengan Pistol setelah mati"
 
 # Resets inventory on every map
+#, fuzzy
 msgid "GMPLYMNU_PISTOLSTART"
-msgstr ""
+msgstr "Mulai dengan Pistol di setiap tempat"
 
 msgid "CMPTMNU_VOODOOZOMBIES"
 msgstr ""
@@ -4778,7 +4789,7 @@ msgid "OPTVAL_ANAMORPHIC"
 msgstr ""
 
 msgid "SNDMNU_FOOTSTEPVOLUME"
-msgstr ""
+msgstr "Volume Jejak kaki"
 
 msgid "ID24_GOTINCINERATOR"
 msgstr ""
@@ -4788,10 +4799,10 @@ msgid "ID24_GOTCALAMITYBLADE"
 msgstr ""
 
 msgid "ID24_GOTFUELCAN"
-msgstr ""
+msgstr "Mendapatkan jerigen."
 
 msgid "ID24_GOTFUELTANK"
-msgstr ""
+msgstr "Mendapatkan tangki bensin."
 
 msgid "TAG_ID24INCINERATOR"
 msgstr ""
@@ -4800,10 +4811,10 @@ msgid "TAG_ID24CALAMITYBLADE"
 msgstr ""
 
 msgid "AMMO_ID24FUEL"
-msgstr ""
+msgstr "Jerigen"
 
 msgid "AMMO_ID24FUELTANK"
-msgstr ""
+msgstr "Tangki Bensin"
 
 msgid "ID24_CC_GHOUL"
 msgstr ""
@@ -4870,64 +4881,68 @@ msgid "NETMNU_CHATTYPE"
 msgstr ""
 
 msgid "OPTVAL_DISABLECHAT"
-msgstr ""
+msgstr "Mati"
 
 msgid "OPTVAL_TEAMONLYCHAT"
-msgstr ""
+msgstr "Hanya Tim"
 
 msgid "OPTVAL_GLOBALCHAT"
 msgstr "Global"
 
 # Disables /me functionality in chat when displaying.
 msgid "NETMNU_NOBOLDCHAT"
-msgstr ""
+msgstr "Matikan Tulisan Tebal Di Chat"
 
 # Turns off the sound that plays when someone receives a message.
 msgid "NETMNU_NOCHATSND"
-msgstr ""
+msgstr "Matikan Suara Chat"
 
 # Tries to make online games less stuttery.
 msgid "NETMNU_BALANCETICS"
-msgstr ""
+msgstr "Stabilkan Jaringan"
 
+#, fuzzy
 msgid "NETMNU_LIMITCONVO"
-msgstr ""
+msgstr "Batasi Percakapan ke Pembuat"
 
 # Helps stop things like e.g. door open/close spam when playing online.
 msgid "NETMNU_REPEATCOOLDOWN"
 msgstr ""
 
+#, fuzzy
 msgid "NETMNU_DISABLEPAUSE"
-msgstr ""
+msgstr "Matikan Jeda"
 
+#, fuzzy
 msgid "OPTVAL_HOSTONLY"
-msgstr ""
+msgstr "Hanya Pembuat"
 
 # Type of vote system to use to bypass intermissions when playing online.
 msgid "NETMNU_READYTYPE"
 msgstr ""
 
+#, fuzzy
 msgid "OPTVAL_VOTE"
-msgstr ""
+msgstr "Pilih"
 
 msgid "OPTVAL_ANYONE"
-msgstr ""
+msgstr "Siapapun"
 
 # If this percent of players or more are ready, starts a countdown when in
 # Vote intermission skip mode.
 msgid "NETMNU_READYPERCENT"
-msgstr ""
+msgstr "Persentase Skip Pemilihan"
 
 msgid "NETMNU_READYCOUNTDOWN"
-msgstr ""
+msgstr "Batas Waktu Pemilihan (Detik)"
 
 # Forces a cool down between chat messages for all players when playing
 # online.
 msgid "NETMNU_CHATSLOMO"
-msgstr ""
+msgstr "Mode Lambat Chat (Detik)"
 
 msgid "OPTMNU_HAPTICS"
-msgstr ""
+msgstr "Opsi Haptik"
 
 # How the engine should handle haptics in old mods
 msgid "HAPMNU_COMPAT"
@@ -4959,10 +4974,10 @@ msgid "HAPMNU_OPT_WORLD"
 msgstr ""
 
 msgid "PAUSE_STRING"
-msgstr "Tunda"
+msgstr "Jeda"
 
 msgid "TAG_BACKPACK"
-msgstr ""
+msgstr "Ransel"
 
 msgid "TAG_ARMORBONUS"
 msgstr ""
@@ -4992,7 +5007,7 @@ msgid "TAG_VISOR"
 msgstr ""
 
 msgid "TAG_ALLMAP"
-msgstr ""
+msgstr "Peta Komputer"
 
 msgid "TAG_BERSERK"
 msgstr ""
@@ -5007,31 +5022,31 @@ msgid "TAG_MEDIKIT"
 msgstr ""
 
 msgid "TAG_BLUECARD"
-msgstr ""
+msgstr "Kartu Biru"
 
 msgid "TAG_YELLOWCARD"
-msgstr ""
+msgstr "Kartu Kuning"
 
 msgid "TAG_REDCARD"
-msgstr ""
+msgstr "Kartu Merah"
 
 msgid "TAG_BLUESKULL"
-msgstr ""
+msgstr "Kunci Tengkorak Biru"
 
 msgid "TAG_YELLOWSKULL"
-msgstr ""
+msgstr "Kunci Tengkorak Kuning"
 
 msgid "TAG_REDSKULL"
-msgstr ""
+msgstr "Kunci Tengkorak Merah"
 
 msgid "TAG_GLASSOFWATER"
-msgstr ""
+msgstr "Secangkir Air"
 
 msgid "TAG_BOWLOFFRUIT"
-msgstr ""
+msgstr "Semangkuk Buah"
 
 msgid "TAG_BOWLOFVEGETABLES"
-msgstr ""
+msgstr "Semangkuk Sayuran"
 
 msgid "TAG_BREAKFAST"
 msgstr ""
@@ -5046,7 +5061,7 @@ msgid "TAG_SUPERCHEXARMOR"
 msgstr ""
 
 msgid "TAG_CHEXMAP"
-msgstr ""
+msgstr "Peta Areal Komputer"
 
 msgid "TAG_SLIMESUIT"
 msgstr ""
@@ -5055,13 +5070,13 @@ msgid "TAG_ZORCHPACK"
 msgstr ""
 
 msgid "TAG_CBLUEKEY"
-msgstr ""
+msgstr "Kunci Biru"
 
 msgid "TAG_CYELLOWKEY"
-msgstr ""
+msgstr "Kunci Kuning"
 
 msgid "TAG_CREDKEY"
-msgstr ""
+msgstr "Kunci Merah"
 
 # Option to make the view weapon sprites be lit exactly as the sector's
 # brightness. Without this option, weapon sprites are generally brighter
@@ -5091,3 +5106,116 @@ msgstr ""
 
 msgid "OPTMNU_ACCESSIBILITY"
 msgstr "Opsi Aksesibilitas"
+
+#, fuzzy
+msgid "PICKER_PLAYERCLASS"
+msgstr "Kelas Pemain"
+
+msgid "FILEPICKER_ANY"
+msgstr "Semua File"
+
+msgid "ACTION_KICK"
+msgstr "Usir"
+
+msgid "ACTION_BAN"
+msgstr "Larang"
+
+msgid "ERRORMNU_SAVE"
+msgstr "Simpan Laporan"
+
+msgid "ERROR_FATAL"
+msgstr "Kesalahan Fatal"
+
+msgid "ERROR_ABORT"
+msgstr "Eksekusi tidak dapat terus berjalan."
+
+msgid "FILEPICKER_REPORTS"
+msgstr "File Zip Laporan Crash"
+
+msgid "HAPMNU_TITLE"
+msgstr "Opsi Haptik"
+
+msgid "CMPTMNU_AUTO"
+msgstr "Deteksi kompatibilitas otomatis"
+
+msgid "ACTION_ABORT"
+msgstr "Batalkan"
+
+msgid "ACTION_STARTGAME"
+msgstr "Mulai Game"
+
+msgid "ACTION_RESTART"
+msgstr "Ulangi"
+
+msgid "DSPLYMNU_BRIGHTNESS"
+msgstr "Kecerahan"
+
+msgid "DSPLYMNU_GAMMA"
+msgstr "Koreksi Gamma"
+
+msgid "DSPLYMNU_CONTRAST"
+msgstr "Kontras"
+
+msgid "DSPLYMNU_SATURATION"
+msgstr "Jenuh Warna"
+
+msgid "ACTION_COPYTOCLIPBOARD"
+msgstr "Salin ke Clipboard"
+
+msgid "DSPLYMNU_IMAGEADJUST_BOTTOM"
+msgstr "Sesuaikan hingga terlihat seperti abu-abu merata."
+
+msgid "DSPLYMNU_IMAGEADJUST_TOP1"
+msgstr "Dari jarak pandang normal, sesuaikan slider ini."
+
+msgid "DSPLYMNU_IMAGEADJUST_TOP2"
+msgstr "Upscaling/Supersampling bisa mengasilkan output salah."
+
+msgid "DSPLYMNU_IMAGEADJUST_TOP3"
+msgstr "Mohon dimatikan sebelum mengatur."
+
+msgid "DSPLYMNU_TOOLTIP_GAMMA"
+msgstr ""
+"Mengimbangi kebatasan monitor. Atur hingga blok abu-abu vertikal menghilang. "
+"Jangan menggunakan ini untuk membuat game lebih cerah, melainkan untuk "
+"memastikan gambar terkalibrasi untuk setup anda."
+
+msgid "DSPLYMNU_BLACKPOINT"
+msgstr "Pengimbangan titik hitam"
+
+msgid "DSPLYMNU_TOOLTIP_BLACKPOINT"
+msgstr ""
+"Mengimbangi monitor yang gagal menampilkan pixel gelap dengan benar. Atur "
+"hingga blok putih diagonal menghilang. Jangan menggunakan ini untuk membuat "
+"game lebih cerah, melainkan untuk memastikan gambar terkalibrasi untuk setup "
+"anda."
+
+msgid "DSPLYMNU_TOOLTIP_IMAGEADJUST_RESET"
+msgstr "Mengembalikan semua opsi di menu ini ke aturan bawaan."
+
+msgid "OPTVAL_LAX"
+msgstr "Longgar"
+
+msgid "OPTVAL_STRICT"
+msgstr "Ketat"
+
+msgid "DSPLYMNU_IMAGEADJUST"
+msgstr "Kalibrasi Gambar"
+
+msgid "DSPLYMNU_TOOLTIP_BRIGHTNESS"
+msgstr ""
+"Menerapkan penyesuaian kecerahan linear. Atur untuk selera sendiri, atau "
+"untuk melihat di kegelapan."
+
+msgid "DSPLYMNU_TOOLTIP_CONTRAST"
+msgstr ""
+"Mengatur perbedaan yang tampak terhadap warna-warna mirip. Mengontrol "
+"seberapa tajam/pudar gambar terlihat. Atur untuk selera sendiri."
+
+msgid "DSPLYMNU_TOOLTIP_SATURATION"
+msgstr ""
+"Mengatur kejenuhan warna, membuat gambar terlihat lebih jernih atau pudar. "
+"Atur untuk selera sendiri."
+
+msgid "OPTVAL_ROCKETEXP_STYLE_TRANS"
+msgstr "Transparan"

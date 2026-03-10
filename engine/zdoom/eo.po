@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-05 01:46+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-03-09 15:08+0000\n"
+"Last-Translator: Skyler Shirra <skyler.shirra@gmail.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/eo/>\n"
 "Language: eo\n"
@@ -5271,3 +5271,51 @@ msgid "DSPLYMNU_TOOLTIP_BRIGHTNESS"
 msgstr ""
 "Aplikas linian heleco-ĝustigon. Agordu laŭ via prefero, aŭ por vidi en la "
 "mallumo."
+
+msgid "ACTION_COPYTOCLIPBOARD"
+msgstr "Kopii al tondujo"
+
+msgid "ACTION_RESTART"
+msgstr "Restartigi"
+
+msgid "ACTION_ABORT"
+msgstr "Ĉesigi"
+
+msgid "ACTION_STARTGAME"
+msgstr "Startigi ludon"
+
+msgid "ACTION_KICK"
+msgstr "Forpeli"
+
+msgid "ACTION_BAN"
+msgstr "Forbari"
+
+msgid "ERRORMNU_SAVE"
+msgstr "Konservi raporton"
+
+msgid "ERROR_FATAL"
+msgstr "Neriparebla eraro"
+
+msgid "ERROR_ABORT"
+msgstr "Plenumo ne povis daŭrigi."
+
+msgid "FILEPICKER_ANY"
+msgstr "Ĉiuj dosieroj"
+
+msgid "FILEPICKER_REPORTS"
+msgstr "Zip-dosieroj de prikolapsa raporto"
+
+msgid "HAPMNU_TITLE"
+msgstr "Tuŝ-retrokupladaj agordoj"
+
+msgid "CMPTMNU_AUTO"
+msgstr "Aŭtomate detekti kongruo-agordojn"
+
+msgid "DSPLYMNU_POWERUPFADE"
+msgstr "Intenseco de plifortigaĵo-nuancon"
+
+msgid "PICKER_PLAYERCLASS"
+msgstr "Ludanta klaso"
+
+msgid "OPTVAL_SBSLETTERBOX"
+msgstr "Flankalflanke leterkestita"
