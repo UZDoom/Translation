@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-06 23:10+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-03-10 11:09+0000\n"
+"Last-Translator: Никита Скатьков <nikita.ska4oK@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/common/"
 "ru/>\n"
 "Language: ru\n"
@@ -1823,3 +1823,9 @@ msgstr "Невозможно распознать замечания к верс
 
 msgid "ACCMNU_TITLE"
 msgstr "Настройки Доступности"
+
+msgid "MSGMNU_STACKIDENTICAL"
+msgstr "Куча повторяющихся сообщений"
+
+msgid "MSGMNU_MESSAGEQUEUE"
+msgstr "Размер очереди в сообщениях"
