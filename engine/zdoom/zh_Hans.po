@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-05 01:46+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-03-10 11:09+0000\n"
+"Last-Translator: dwing <12104745@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -5310,3 +5310,15 @@ msgstr "玩家类别"
 
 msgid "OPTVAL_SBSLETTERBOX"
 msgstr "并排信箱模式"
+
+msgid "OPTVAL_DIRECTMIX"
+msgstr "直接混合"
+
+msgid "OPTVAL_SUPERSTEREO"
+msgstr "超级立体声"
+
+msgid "OPENALMNU_MUSICMODE"
+msgstr "音乐模式"
+
+msgid "OPENALMNU_SUPERSTEREOWIDTH"
+msgstr "超级立体声展宽"
