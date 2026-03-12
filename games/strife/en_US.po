@@ -10,7 +10,6 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-HeaderCode: default\n"
 
 msgid "TXT_STRIFE_MAP01"
 msgstr "AREA 1: Sanctuary"

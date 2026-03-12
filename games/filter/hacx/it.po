@@ -9,7 +9,6 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-HeaderCode: it\n"
 
 msgid "QUITMSG1"
 msgstr "Questi errori sono troppo difficili per te?"

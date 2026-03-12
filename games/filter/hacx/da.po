@@ -9,7 +9,6 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-HeaderCode: da\n"
 
 msgid "QUITMSG1"
 msgstr "Er disse bugs for hårde for dig?"
