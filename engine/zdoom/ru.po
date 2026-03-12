@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-05 01:46+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-03-10 11:09+0000\n"
+"Last-Translator: Никита Скатьков <nikita.ska4oK@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ru/>\n"
 "Language: ru\n"
@@ -268,7 +268,7 @@ msgid "HUSTR_TALKTOSELF2"
 msgstr "Кто там?"
 
 msgid "HUSTR_TALKTOSELF3"
-msgstr ""
+msgstr "Вы себя боитесь"
 
 msgid "HUSTR_TALKTOSELF4"
 msgstr "Вы бредите"
@@ -5281,3 +5281,61 @@ msgid "DSPLYMNU_IMAGEADJUST_BOTTOM"
 msgstr ""
 "Регулируйте настройки до тех пор, пока это изображение не приобретет "
 "однородный серый оттенок."
+
+#, fuzzy
+msgid "OPENALMNU_SUPERSTEREOWIDTH"
+msgstr "Широкое Супер Стерео"
+
+#, fuzzy
+msgid "OPENALMNU_MUSICMODE"
+msgstr "Режим Музыки"
+
+msgid "ACTION_COPYTOCLIPBOARD"
+msgstr "Копировать в буфер обмена"
+
+msgid "ACTION_RESTART"
+msgstr "Перезапустить"
+
+msgid "ACTION_ABORT"
+msgstr "Прервать"
+
+msgid "ACTION_STARTGAME"
+msgstr "Начать игру"
+
+msgid "ACTION_KICK"
+msgstr "Исключить"
+
+msgid "ACTION_BAN"
+msgstr "Заблокировать"
+
+msgid "ERRORMNU_SAVE"
+msgstr "Сохранить отчёт"
+
+msgid "FILEPICKER_ANY"
+msgstr "Все файлы"
+
+msgid "FILEPICKER_REPORTS"
+msgstr "Архив отчетах о сбоях"
+
+msgid "HAPMNU_TITLE"
+msgstr "Варианты тактильной обратной связи"
+
+msgid "CMPTMNU_AUTO"
+msgstr "Авто-обнаружение настроек совместимости"
+
+msgid "DSPLYMNU_POWERUPFADE"
+msgstr "Интенсивность оттенков бонусов"
+
+msgid "PICKER_PLAYERCLASS"
+msgstr "Класс игрока"
+
+#, fuzzy
+msgid "OPTVAL_DIRECTMIX"
+msgstr "Прямой"
+
+#, fuzzy
+msgid "OPTVAL_SUPERSTEREO"
+msgstr "Супер Стерео"
+
+msgid "ERROR_ABORT"
+msgstr "Запуск не удался."
