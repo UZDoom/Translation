@@ -136,9 +136,6 @@ msgstr ""
 msgid "ACCMNU_TITLE"
 msgstr ""
 
-msgid "ACCMNU_RESET"
-msgstr ""
-
 msgid "OPTMNU_DISPLAY"
 msgstr ""
 
@@ -360,9 +357,6 @@ msgid "CNTRLMNU_CHASECAM"
 msgstr ""
 
 msgid "CNTRLMNU_SCREENSHOT"
-msgstr ""
-
-msgid "CNTRLMNU_CONSOLE"
 msgstr ""
 
 msgid "CNTRLMNU_PAUSE"
@@ -1502,9 +1496,6 @@ msgid "REVMNU_EDIT"
 msgstr ""
 
 msgid "REVMNU_NEW"
-msgstr ""
-
-msgid "REVMNU_REVERT"
 msgstr ""
 
 # Jargon.

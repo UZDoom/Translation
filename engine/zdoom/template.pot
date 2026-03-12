@@ -22,6 +22,7 @@ msgstr ""
 msgid "D_DEVSTR"
 msgstr ""
 
+#, fuzzy
 msgid "QUITMSG"
 msgstr "\n"
 
@@ -93,21 +94,27 @@ msgstr ""
 msgid "DOSY"
 msgstr ""
 
+#, fuzzy
 msgid "QUITMSG1"
 msgstr "\n"
 
+#, fuzzy
 msgid "QUITMSG2"
 msgstr "\n"
 
+#, fuzzy
 msgid "QUITMSG3"
 msgstr "\n"
 
+#, fuzzy
 msgid "QUITMSG4"
 msgstr "\n"
 
+#, fuzzy
 msgid "QUITMSG5"
 msgstr "\n"
 
+#, fuzzy
 msgid "QUITMSG6"
 msgstr "\n"
 
@@ -115,37 +122,47 @@ msgid "QUITMSG7"
 msgstr ""
 
 # More info here: https://everything2.com/title/Thou+hast+lost+an+eighth%2521
+#, fuzzy
 msgid "QUITMSG8"
 msgstr "\n"
 
 # A “dimensional shambler” is a creature appearing in the works of H. P.
 # Lovecraft.
+#, fuzzy
 msgid "QUITMSG9"
 msgstr ""
 "\n"
 "\n"
 
+#, fuzzy
 msgid "QUITMSG10"
 msgstr "\n"
 
+#, fuzzy
 msgid "QUITMSG11"
 msgstr "\n"
 
+#, fuzzy
 msgid "QUITMSG12"
 msgstr "\n"
 
+#, fuzzy
 msgid "QUITMSG13"
 msgstr "\n"
 
+#, fuzzy
 msgid "QUITMSG14"
 msgstr "\n"
 
+#, fuzzy
 msgid "QUITMSG15"
 msgstr "\n"
 
+#, fuzzy
 msgid "QUITMSG16"
 msgstr "\n"
 
+#, fuzzy
 msgid "QUITMSG17"
 msgstr "\n"
 
@@ -158,30 +175,39 @@ msgstr ""
 msgid "QUITMSG20"
 msgstr ""
 
+#, fuzzy
 msgid "QUITMSG21"
 msgstr "\n"
 
+#, fuzzy
 msgid "QUITMSG22"
 msgstr "\n"
 
+#, fuzzy
 msgid "QUITMSG23"
 msgstr "\n"
 
+#, fuzzy
 msgid "QUITMSG24"
 msgstr "\n"
 
+#, fuzzy
 msgid "QUITMSG25"
 msgstr "\n"
 
+#, fuzzy
 msgid "QUITMSG26"
 msgstr "\n"
 
+#, fuzzy
 msgid "QUITMSG27"
 msgstr "\n"
 
+#, fuzzy
 msgid "QUITMSG28"
 msgstr "\n"
 
+#, fuzzy
 msgid "QUITMSG29"
 msgstr "\n"
 
@@ -2711,6 +2737,7 @@ msgstr ""
 msgid "CHUSTR_E1M5"
 msgstr ""
 
+#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "\n"
@@ -2732,11 +2759,13 @@ msgstr ""
 msgid "CE4TEXT"
 msgstr ""
 
+#, fuzzy
 msgid "CLOADNET"
 msgstr ""
 "\n"
 "\n"
 
+#, fuzzy
 msgctxt "chex"
 msgid "QSPROMPT"
 msgstr ""
@@ -2745,12 +2774,14 @@ msgstr ""
 "\n"
 "\n"
 
+#, fuzzy
 msgctxt "chex"
 msgid "QLOADNET"
 msgstr ""
 "\n"
 "\n"
 
+#, fuzzy
 msgctxt "chex"
 msgid "QLPROMPT"
 msgstr ""
@@ -2759,18 +2790,21 @@ msgstr ""
 "\n"
 "\n"
 
+#, fuzzy
 msgid "CNEWGAME"
 msgstr ""
 "\n"
 "\n"
 "\n"
 
+#, fuzzy
 msgid "CNIGHTMARE"
 msgstr ""
 "\n"
 "\n"
 "\n"
 
+#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
 "\n"
@@ -2778,12 +2812,14 @@ msgstr ""
 "\n"
 "\n"
 
+#, fuzzy
 msgctxt "chex"
 msgid "NETEND"
 msgstr ""
 "\n"
 "\n"
 
+#, fuzzy
 msgctxt "chex"
 msgid "ENDGAME"
 msgstr ""
@@ -4591,11 +4627,6 @@ msgstr ""
 msgid "SCALEMNU_RATIO"
 msgstr ""
 
-# as in "Build engine". This should not be translated unless there is a
-# translated name for the engine
-msgid "OPTVAL_BUILD"
-msgstr ""
-
 # sv_alwaystally
 msgid "MISCMNU_ALWAYSTALLY"
 msgstr ""
@@ -5097,6 +5128,7 @@ msgstr ""
 msgid "ACCMNU_TOOLTIP_SCALE"
 msgstr ""
 
+#, fuzzy
 msgid "ACCMNU_TOOLTIP_EXAMPLE"
 msgstr ""
 "\n"
@@ -5158,9 +5190,6 @@ msgid "DSPLYMNU_BLACKPOINT"
 msgstr ""
 
 msgid "DSPLYMNU_TOOLTIP_BLACKPOINT"
-msgstr ""
-
-msgid "OPTMNU_RESETALL"
 msgstr ""
 
 msgid "DSPLYMNU_TOOLTIP_IMAGEADJUST_RESET"
@@ -5236,4 +5265,16 @@ msgid "PICKER_PLAYERCLASS"
 msgstr ""
 
 msgid "OPTVAL_SBSLETTERBOX"
+msgstr ""
+
+msgid "OPTVAL_DIRECTMIX"
+msgstr ""
+
+msgid "OPTVAL_SUPERSTEREO"
+msgstr ""
+
+msgid "OPENALMNU_MUSICMODE"
+msgstr ""
+
+msgid "OPENALMNU_SUPERSTEREOWIDTH"
 msgstr ""
