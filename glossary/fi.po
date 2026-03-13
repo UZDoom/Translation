@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-05 03:10+0000\n"
+"PO-Revision-Date: 2026-03-13 22:54+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/uzdoom/glossary/"
 "fi/>\n"
@@ -169,3 +169,11 @@ msgstr "WOPN"
 
 msgid "WOPL"
 msgstr "WOPL"
+
+msgctxt "1"
+msgid "ZDoom"
+msgstr "ZDoomin"
+
+msgctxt "1"
+msgid "ZDoom"
+msgstr "ZDoomin"

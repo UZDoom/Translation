@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-05 01:46+0000\n"
+"PO-Revision-Date: 2026-03-13 22:53+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/en/>\n"
@@ -5517,7 +5517,6 @@ msgstr "MBF21"
 msgid "OPTVAL_MBF21STRICT"
 msgstr "MBF21 (strict)"
 
-#, fuzzy
 msgid "OPTVAL_ZDOOM2063"
 msgstr "ZDoom 2.0.63"
 
@@ -5553,7 +5552,6 @@ msgstr "True Color SW Renderer"
 msgid "OPTVAL_VANILLA"
 msgstr "Vanilla"
 
-#, fuzzy
 msgid "OPTVAL_VTFZDOOM"
 msgstr "ZDoom (Forced)"
 
@@ -6002,7 +6000,6 @@ msgstr "Failed to access savegame info in '%s'."
 msgid "TXT_INCOMPATIBLESG"
 msgstr "Savegame '%s' is from an incompatible version."
 
-#, fuzzy
 msgid "TXT_OTHERENGINESG"
 msgstr "Savegame '%s' is from another ZDoom-based engine:"
 
@@ -6150,7 +6147,6 @@ msgstr "Always, even within hubs"
 msgid "CNTRLMNU_LAYOUT"
 msgstr "Preferred keyboard layout"
 
-#, fuzzy
 msgid "OPTVAL_CLASSICZ"
 msgstr "Classic ZDoom"
 
@@ -6170,9 +6166,8 @@ msgstr "Strict KEYCONF Weapons/Players"
 msgid "MISCMNU_WIPERCENT"
 msgstr "Use percents on summary screen"
 
-#, fuzzy
 msgid "MISCMNU_CLEANSTAT"
-msgstr "Classic ZDoom scaling on summary screen"
+msgstr "Classic ZDoom scaling for summary screen"
 
 # Called "citizens" according to Doomwiki
 #, fuzzy

@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-05 01:46+0000\n"
+"PO-Revision-Date: 2026-03-13 22:54+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/pl/>\n"
@@ -4695,6 +4695,7 @@ msgstr "Surowe opcje KEYCONF dla broni/graczy"
 msgid "MISCMNU_WIPERCENT"
 msgstr "Używaj procentów w ekranie wyników pod koniec poziomu"
 
+#, fuzzy
 msgid "MISCMNU_CLEANSTAT"
 msgstr "Klasyczne skalowanie ekranu z wynikami poziomu"
 

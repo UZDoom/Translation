@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-05 01:46+0000\n"
+"PO-Revision-Date: 2026-03-13 22:54+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ko/>\n"
@@ -4226,7 +4226,7 @@ msgid "OPTVAL_VANILLA"
 msgstr "바닐라"
 
 msgid "OPTVAL_VTFZDOOM"
-msgstr "ZDoom (강제 설정)"
+msgstr "Z둠 (강제 설정)"
 
 msgid "OPTVAL_VTFVANILLA"
 msgstr "바닐라 (강제 설정)"
@@ -4682,7 +4682,7 @@ msgid "CNTRLMNU_LAYOUT"
 msgstr "기본 키보드 레이아웃"
 
 msgid "OPTVAL_CLASSICZ"
-msgstr "클래식 ZDoom"
+msgstr "클래식 Z둠"
 
 msgid "OPTVAL_MODERN"
 msgstr "모던(WASD)"
@@ -4697,7 +4697,7 @@ msgid "MISCMNU_WIPERCENT"
 msgstr "요약 화면에서 퍼센트 사용"
 
 msgid "MISCMNU_CLEANSTAT"
-msgstr "요약 화면에서 클래식 ZDoom 스케일링"
+msgstr "요약 화면에서 클래식 Z둠 스케일링"
 
 # Called "citizens" according to Doomwiki
 msgid "TAG_STRIFEZOMBIE"

@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-07 01:31+0000\n"
+"PO-Revision-Date: 2026-03-13 22:54+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/uzdoom/common/"
 "en/>\n"
@@ -177,7 +177,6 @@ msgstr "Display Options"
 msgid "OPTMNU_VIDEO"
 msgstr "Set video mode"
 
-#, fuzzy
 msgid "OPTMNU_DEFAULTS"
 msgstr "Reset to defaults"
 
@@ -189,7 +188,6 @@ msgstr "Reset to last saved"
 msgid "OPTMNU_WRITEINI"
 msgstr "Save current settings"
 
-#, fuzzy
 msgid "OPTMNU_CONSOLE"
 msgstr "Go to console"
 
@@ -1313,13 +1311,11 @@ msgstr "YMFM OPL3"
 msgid "OPTVAL_NUKEDOPL3"
 msgstr "Nuked OPL3"
 
-#, fuzzy
 msgid "OPTVAL_LLENUKEDOPL2"
-msgstr "OPL2-LLE (Extra heavy!)"
+msgstr "OPL2-LLE (performance intensive)"
 
-#, fuzzy
 msgid "OPTVAL_LLENUKEDOPL3"
-msgstr "OPL3-LLE (Extra heavy!)"
+msgstr "OPL3-LLE (performance intensive)"
 
 #, fuzzy
 msgid "OPTVAL_MAMEOPN2"
@@ -1349,17 +1345,14 @@ msgstr "Nuked OPN2 (YM3438)"
 msgid "OPTVAL_NUKEDOPN2YM2612"
 msgstr "Nuked OPN2 (YM2612)"
 
-#, fuzzy
 msgid "OPTVAL_OPN2YM2612LLE"
-msgstr "OPN2-LLE (YM2612) (Extra heavy!)"
+msgstr "OPN2-LLE (YM2612) (performance intensive)"
 
-#, fuzzy
 msgid "OPTVAL_OPN2YM3438LLE"
-msgstr "OPN2-LLE (YM3438) (Extra heavy!)"
+msgstr "OPN2-LLE (YM3438) (performance intensive)"
 
-#, fuzzy
 msgid "OPTVAL_OPN2YMF276LLE"
-msgstr "OPN2-LLE (YMF276) (Extra heavy!)"
+msgstr "OPN2-LLE (YMF276) (performance intensive)"
 
 #, fuzzy
 msgid "OPTVAL_GENSOPN2"
@@ -1890,7 +1883,6 @@ msgstr "Quicksave rotation"
 msgid "MISCMNU_QUICKSAVECOUNT"
 msgstr "Number of quicksaves in rotation"
 
-#, fuzzy
 msgid "MISCMNU_CLEANMENU"
 msgstr "Classic ZDoom menu scaling"
 
