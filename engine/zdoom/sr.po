@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-05 01:46+0000\n"
+"PO-Revision-Date: 2026-03-13 22:53+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/sr/>\n"
@@ -4227,7 +4227,7 @@ msgid "OPTVAL_VANILLA"
 msgstr "Ванила"
 
 msgid "OPTVAL_VTFZDOOM"
-msgstr "ZDoom (присиљен)"
+msgstr "ЗДум (присиљен)"
 
 msgid "OPTVAL_VTFVANILLA"
 msgstr "Ванила (присиљен)"
@@ -4565,7 +4565,7 @@ msgid "TXT_INCOMPATIBLESG"
 msgstr "Сачувана игра %s је из инкомпетабилне верзије."
 
 msgid "TXT_OTHERENGINESG"
-msgstr "Сачувана игра %s је из други ZDoom-базиран енџин:"
+msgstr "Сачувана игра %s је из други ЗДум-базиран енџин:"
 
 msgid "TXT_TOOOLDSG"
 msgstr ""
@@ -4680,7 +4680,7 @@ msgid "CNTRLMNU_LAYOUT"
 msgstr "Жељени распоред тастатуре"
 
 msgid "OPTVAL_CLASSICZ"
-msgstr "Цлассиц ЗДоом"
+msgstr "Цлассиц ЗДум"
 
 msgid "OPTVAL_MODERN"
 msgstr "Модерно (WASD)"
@@ -4695,7 +4695,7 @@ msgid "MISCMNU_WIPERCENT"
 msgstr "Користите проценте на екрану резимеа"
 
 msgid "MISCMNU_CLEANSTAT"
-msgstr "Класично ZDoom скалирање на екрану сажетка"
+msgstr "Класично ЗДум скалирање на екрану сажетка"
 
 # Called "citizens" according to Doomwiki
 msgid "TAG_STRIFEZOMBIE"
