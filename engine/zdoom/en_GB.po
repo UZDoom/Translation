@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-05 01:46+0000\n"
+"PO-Revision-Date: 2026-03-13 22:53+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English (United Kingdom) <https://hosted.weblate.org/projects/"
 "uzdoom/zdoom-engine-strings/en_GB/>\n"
@@ -4692,7 +4692,7 @@ msgid "MISCMNU_WIPERCENT"
 msgstr "Use percents on summary screen"
 
 msgid "MISCMNU_CLEANSTAT"
-msgstr "Classic ZDoom scaling on summary screen"
+msgstr "Classic ZDoom scaling for summary screen"
 
 # Called "citizens" according to Doomwiki
 msgid "TAG_STRIFEZOMBIE"
