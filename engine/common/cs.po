@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-06 23:09+0000\n"
+"PO-Revision-Date: 2026-03-13 22:53+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/uzdoom/common/cs/>"
 "\n"
@@ -996,11 +996,13 @@ msgstr ""
 msgid "OPTVAL_NUKEDOPL3"
 msgstr ""
 
+#, fuzzy
 msgid "OPTVAL_LLENUKEDOPL2"
-msgstr "Nuked OP2-LLE (náročné na výkon!)"
+msgstr "Nuked OPL2-LLE (náročné na výkon!)"
 
+#, fuzzy
 msgid "OPTVAL_LLENUKEDOPL3"
-msgstr "Nuked OP3-LLE (náročné na výkon!)"
+msgstr "Nuked OPL3-LLE (náročné na výkon!)"
 
 msgid "OPTVAL_MAMEOPN2"
 msgstr ""
