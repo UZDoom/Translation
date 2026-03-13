@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-06 23:10+0000\n"
+"PO-Revision-Date: 2026-03-13 22:53+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/uzdoom/common/"
 "tr/>\n"
@@ -999,9 +999,11 @@ msgstr ""
 msgid "OPTVAL_NUKEDOPL3"
 msgstr "Nuked OPL3"
 
+#, fuzzy
 msgid "OPTVAL_LLENUKEDOPL2"
 msgstr "OPL2-LLE (Sisteme ağır!)"
 
+#, fuzzy
 msgid "OPTVAL_LLENUKEDOPL3"
 msgstr "OPL3-LLE (Sisteme ağır!)"
 
@@ -1026,12 +1028,15 @@ msgstr "Nuked OPN2 (YM3438)"
 msgid "OPTVAL_NUKEDOPN2YM2612"
 msgstr "Nuked OPN2 (YM2612)"
 
+#, fuzzy
 msgid "OPTVAL_OPN2YM2612LLE"
 msgstr "OPN2-LLE (YM2612) (Sisteme ağır!)"
 
+#, fuzzy
 msgid "OPTVAL_OPN2YM3438LLE"
 msgstr "OPN2-LLE (YM3438) (Sisteme ağır!)"
 
+#, fuzzy
 msgid "OPTVAL_OPN2YMF276LLE"
 msgstr "OPN2-LLE (YMF276) (Sisteme ağır!)"
 
