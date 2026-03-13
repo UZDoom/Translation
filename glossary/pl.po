@@ -170,7 +170,3 @@ msgstr "WOPL"
 msgctxt "1"
 msgid "ZDoom"
 msgstr "ZDoomie"
-
-msgctxt "1"
-msgid "ZDoom"
-msgstr "ZDoomie"

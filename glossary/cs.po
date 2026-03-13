@@ -185,11 +185,3 @@ msgstr "WOPN"
 
 msgid "WOPL"
 msgstr "WOPL"
-
-msgctxt "1"
-msgid "ZDoom"
-msgstr "ZDoomu"
-
-msgctxt "1"
-msgid "ZDoom"
-msgstr "ZDoomu"
