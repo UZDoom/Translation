@@ -6,7 +6,7 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v6
 
     - name: validate
       shell: bash
@@ -55,7 +55,7 @@ jobs:
           infiles: engine/zdoom
 
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v6
 
     - name: build
       shell: bash
@@ -65,7 +65,7 @@ jobs:
         python3 -B -E -s scripts/compile.py ${{ matrix.config.infiles }} $outfile
 
     - name: upload
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v7
       with:
         name: temp-${{ matrix.config.name }}
         path: out
@@ -75,7 +75,7 @@ jobs:
     needs: build
     steps:
     - name: download
-      uses: actions/download-artifact@v4
+      uses: actions/download-artifact@v8
       with:
         pattern: temp-*
         path: files
@@ -89,7 +89,7 @@ jobs:
         find . -type f -exec sh -c 'printf "\n%s\n\n" $1; csvclean -a $1 >/dev/null' _ {} \;
 
     - name: upload
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v7
       with:
         name: bundle
         path: files
