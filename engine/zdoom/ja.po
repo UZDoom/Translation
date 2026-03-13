@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-05 01:46+0000\n"
+"PO-Revision-Date: 2026-03-13 22:54+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ja/>\n"
@@ -4692,7 +4692,7 @@ msgid "MISCMNU_WIPERCENT"
 msgstr "集計画面でパーセント表示"
 
 msgid "MISCMNU_CLEANSTAT"
-msgstr "集計画面で従来のZDスケール"
+msgstr "集計画面で従来のZDoomスケール"
 
 # Called "citizens" according to Doomwiki
 msgid "TAG_STRIFEZOMBIE"
