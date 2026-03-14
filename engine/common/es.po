@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-05 03:10+0000\n"
+"PO-Revision-Date: 2026-03-14 22:34+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/uzdoom/common/"
 "es/>\n"
@@ -520,15 +520,18 @@ msgstr "No hay ejes configurables"
 msgid "OPTVAL_NONE"
 msgstr "Ninguno"
 
+#, fuzzy
 msgid "OPTVAL_TURNING"
 msgstr "Girar"
 
 msgid "OPTVAL_LOOKINGUPDOWN"
 msgstr "Mirar hacia arriba/abajo"
 
+#, fuzzy
 msgid "OPTVAL_MOVINGFORWARD"
 msgstr "Avanzar"
 
+#, fuzzy
 msgid "OPTVAL_STRAFING"
 msgstr "Desplazarse"
 
