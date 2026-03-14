@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-13 22:54+0000\n"
+"PO-Revision-Date: 2026-03-14 18:31+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/uzdoom/common/"
 "en/>\n"
@@ -1283,31 +1283,24 @@ msgstr "Dumb"
 msgid "MODMNU_CHIPOMATIC"
 msgstr "Chip-o-matic"
 
-#, fuzzy
 msgid "OPTVAL_MAMEOPL2"
 msgstr "MAME OPL2"
 
-#, fuzzy
 msgid "OPTVAL_DOSBOXOPL3"
 msgstr "DOSBox OPL3"
 
-#, fuzzy
 msgid "OPTVAL_JAVAOPL3"
 msgstr "Java OPL3"
 
-#, fuzzy
 msgid "OPTVAL_ESFMu"
 msgstr "ESFMu OPL3"
 
-#, fuzzy
 msgid "OPTVAL_YMFMOPL2"
 msgstr "YMFM OPL2"
 
-#, fuzzy
 msgid "OPTVAL_YMFMOPL3"
 msgstr "YMFM OPL3"
 
-#, fuzzy
 msgid "OPTVAL_NUKEDOPL3"
 msgstr "Nuked OPL3"
 
@@ -1321,27 +1314,21 @@ msgstr "OPL3-LLE (performance intensive)"
 msgid "OPTVAL_MAMEOPN2"
 msgstr "MAME OPN2 (YM2612)"
 
-#, fuzzy
 msgid "OPTVAL_NP2OPNA"
 msgstr "Neko Project II Kai OPNA"
 
-#, fuzzy
 msgid "OPTVAL_MAMEOPNA"
 msgstr "MAME YM2608"
 
-#, fuzzy
 msgid "OPTVAL_OPALOPL3"
 msgstr "Opal OPL3"
 
-#, fuzzy
 msgid "OPTVAL_NUKEDOPL3174"
 msgstr "Nuked OPL3 v1.7.4"
 
-#, fuzzy
 msgid "OPTVAL_NUKEDOPN2YM3438"
 msgstr "Nuked OPN2 (YM3438)"
 
-#, fuzzy
 msgid "OPTVAL_NUKEDOPN2YM2612"
 msgstr "Nuked OPN2 (YM2612)"
 
