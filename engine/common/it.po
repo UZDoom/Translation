@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-13 22:54+0000\n"
+"PO-Revision-Date: 2026-03-14 22:34+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/uzdoom/common/"
 "it/>\n"
@@ -518,15 +518,18 @@ msgstr "Nessun asse configurabile"
 msgid "OPTVAL_NONE"
 msgstr "Nessuno"
 
+#, fuzzy
 msgid "OPTVAL_TURNING"
 msgstr "Rotazione"
 
 msgid "OPTVAL_LOOKINGUPDOWN"
 msgstr "Sguardo Sopra/Sotto"
 
+#, fuzzy
 msgid "OPTVAL_MOVINGFORWARD"
 msgstr "Movimento in avanti"
 
+#, fuzzy
 msgid "OPTVAL_STRAFING"
 msgstr "Movimento laterale"
 
