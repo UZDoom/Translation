@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-28 23:45+0000\n"
+"PO-Revision-Date: 2026-03-15 00:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/es_MX/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16.1-dev\n"
+"X-Generator: Weblate 5.17-dev\n"
 "X-HeaderCode: esm esn esg esc esa esd esv eso esr ess esf esl esy esz esb "
 "ese esh esi esu\n"
 
@@ -22,7 +22,7 @@ msgid "SECRETMESSAGE"
 msgstr "Un secreto es revelado!"
 
 msgid "D_DEVSTR"
-msgstr "Modo inútil ACTIVADO"
+msgstr "Modo inútil: ACTIVADO"
 
 msgid "QUITMSG"
 msgstr ""
@@ -461,17 +461,18 @@ msgstr "Modo Seguimiento DESACTIVADO"
 msgid "AMSTR_FOLLOWON"
 msgstr "Modo Seguimiento ACTIVADO"
 
+#, fuzzy
 msgid "AMSTR_GRIDON"
 msgstr "Cuadrícula ACTIVADA"
 
 msgid "AMSTR_GRIDOFF"
-msgstr "Cuadrícula DESACTIVADA"
+msgstr "Cuadrícula: DESACTIVADA"
 
 msgid "AMSTR_TEXON"
-msgstr "Modo Textura ACTIVADO"
+msgstr "Modo Textura: ACTIVADO"
 
 msgid "AMSTR_TEXOFF"
-msgstr "Modo Textura DESACTIVADO"
+msgstr "Modo Textura: DESACTIVADO"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Punto Marcado"
