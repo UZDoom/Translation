@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-13 22:54+0000\n"
+"PO-Revision-Date: 2026-03-15 00:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/uk/>\n"
@@ -22,7 +22,7 @@ msgid "SECRETMESSAGE"
 msgstr "Знайдено схованку!"
 
 msgid "D_DEVSTR"
-msgstr "Марний режим УВІМК"
+msgstr "Марний режим: УВІМК"
 
 #, fuzzy
 msgid "QUITMSG"
@@ -463,17 +463,18 @@ msgstr "Прив'язка до гравца ВИМК"
 msgid "AMSTR_FOLLOWON"
 msgstr "Прив'язка до гравца УВІМК"
 
+#, fuzzy
 msgid "AMSTR_GRIDON"
 msgstr "Сітка ВВІМК"
 
 msgid "AMSTR_GRIDOFF"
-msgstr "Сітка ВИМК"
+msgstr "Сітка: ВИМК"
 
 msgid "AMSTR_TEXON"
-msgstr "Текстурний режим ВВІМК"
+msgstr "Текстурний режим: ВВІМК"
 
 msgid "AMSTR_TEXOFF"
-msgstr "Текстурний режим ВИМК"
+msgstr "Текстурний режим: ВИМК"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Позначка"
@@ -2857,11 +2858,11 @@ msgstr ""
 
 msgctxt "chex"
 msgid "STSTR_DQDON"
-msgstr "Невразливість УВІМК"
+msgstr "Невразливість: УВІМК"
 
 msgctxt "chex"
 msgid "STSTR_DQDOFF"
-msgstr "Невразливість ВИМК"
+msgstr "Невразливість: ВИМК"
 
 msgctxt "chex"
 msgid "STSTR_FAADDED"
