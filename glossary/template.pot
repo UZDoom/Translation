@@ -92,9 +92,6 @@ msgstr ""
 msgid "OPN2"
 msgstr ""
 
-msgid "OPN2-LLE"
-msgstr ""
-
 msgid "YMF276"
 msgstr ""
 
