@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-13 22:54+0000\n"
+"PO-Revision-Date: 2026-03-14 22:34+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ro/>\n"
@@ -286,9 +286,11 @@ msgstr "Schimbă Muzica"
 msgid "STSTR_NOMUS"
 msgstr "Selecție Imposibilă"
 
+#, fuzzy
 msgid "STSTR_DQDON"
 msgstr "Modul Invincibil PORNIT"
 
+#, fuzzy
 msgid "STSTR_DQDOFF"
 msgstr "Modul Invincibil OPRIT"
 
