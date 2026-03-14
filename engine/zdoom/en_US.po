@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-14 22:34+0000\n"
+"PO-Revision-Date: 2026-03-15 00:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/en/>\n"
@@ -24,9 +24,8 @@ msgstr "Press a key."
 msgid "SECRETMESSAGE"
 msgstr "A secret is revealed!"
 
-#, fuzzy
 msgid "D_DEVSTR"
-msgstr "Useless mode ON"
+msgstr "Useless mode: ON"
 
 #, fuzzy
 msgid "QUITMSG"
@@ -581,21 +580,17 @@ msgstr "Follow Mode OFF"
 msgid "AMSTR_FOLLOWON"
 msgstr "Follow Mode ON"
 
-#, fuzzy
 msgid "AMSTR_GRIDON"
-msgstr "Grid ON"
+msgstr "Grid: ON"
 
-#, fuzzy
 msgid "AMSTR_GRIDOFF"
-msgstr "Grid OFF"
+msgstr "Grid: OFF"
 
-#, fuzzy
 msgid "AMSTR_TEXON"
-msgstr "Texture Mode ON"
+msgstr "Texture Mode: ON"
 
-#, fuzzy
 msgid "AMSTR_TEXOFF"
-msgstr "Texture Mode OFF"
+msgstr "Texture Mode: OFF"
 
 #, fuzzy
 msgid "AMSTR_MARKEDSPOT"
@@ -3740,15 +3735,13 @@ msgstr ""
 "\n"
 "Press Y or N."
 
-#, fuzzy
 msgctxt "chex"
 msgid "STSTR_DQDON"
-msgstr "Invincible Mode ON"
+msgstr "Invincible Mode: ON"
 
-#, fuzzy
 msgctxt "chex"
 msgid "STSTR_DQDOFF"
-msgstr "Invincible Mode OFF"
+msgstr "Invincible Mode: OFF"
 
 #, fuzzy
 msgctxt "chex"
