@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-14 18:31+0000\n"
+"PO-Revision-Date: 2026-03-14 20:03+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/uzdoom/common/"
 "en/>\n"
@@ -1341,15 +1341,12 @@ msgstr "OPN2-LLE (YM3438) (performance intensive)"
 msgid "OPTVAL_OPN2YMF276LLE"
 msgstr "OPN2-LLE (YMF276) (performance intensive)"
 
-#, fuzzy
 msgid "OPTVAL_GENSOPN2"
 msgstr "GENS OPN2 (YM2612)"
 
-#, fuzzy
 msgid "OPTVAL_YMFMOPN2"
 msgstr "YMFM OPN2"
 
-#, fuzzy
 msgid "OPTVAL_YMFMOPNA"
 msgstr "YMFM OPNA"
 
@@ -1381,7 +1378,6 @@ msgstr "OPN Native"
 msgid "ADLVLMODEL_DMX"
 msgstr "DMX (Accurate, with AM bug)"
 
-#, fuzzy
 msgid "OPNVLMODEL_DMX"
 msgstr "Like in DMX"
 
@@ -1446,22 +1442,18 @@ msgid "OPTVAL_UNLIMITED"
 msgstr "Unlimited"
 
 # Jargon.
-#, fuzzy
 msgid "OPTVAL_256K"
 msgstr "256K"
 
 # Jargon.
-#, fuzzy
 msgid "OPTVAL_512K"
 msgstr "512K"
 
 # Jargon.
-#, fuzzy
 msgid "OPTVAL_768K"
 msgstr "768K"
 
 # Jargon.
-#, fuzzy
 msgid "OPTVAL_1024K"
 msgstr "1024K"
 
@@ -1614,27 +1606,22 @@ msgid "OPTVAL_TRILINEAR"
 msgstr "Trilinear"
 
 # Jargon.
-#, fuzzy
 msgid "OPTVAL_2X"
 msgstr "2×"
 
 # Jargon.
-#, fuzzy
 msgid "OPTVAL_4X"
 msgstr "4×"
 
 # Jargon.
-#, fuzzy
 msgid "OPTVAL_8X"
 msgstr "8×"
 
 # Jargon.
-#, fuzzy
 msgid "OPTVAL_16X"
 msgstr "16×"
 
 # Jargon.
-#, fuzzy
 msgid "OPTVAL_32X"
 msgstr "32×"
 
@@ -2033,7 +2020,6 @@ msgid "OPTVAL_HQNX"
 msgstr "hqNx"
 
 # Jargon.
-#, fuzzy
 msgid "OPTVAL_HQNXMMX"
 msgstr "hqNx MMX"
 
@@ -2080,7 +2066,6 @@ msgstr "0"
 # This should list all uppercase characters that are REQUIRED for proper
 # language display. If it is acceptable that accents get omitted a character
 # should NOT be listed here!
-#, fuzzy
 msgid "REQUIRED_CHARACTERS"
 msgstr "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
