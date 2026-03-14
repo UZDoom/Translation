@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-13 22:54+0000\n"
+"PO-Revision-Date: 2026-03-15 00:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/da/>\n"
@@ -21,7 +21,7 @@ msgid "SECRETMESSAGE"
 msgstr "En hemmelighed bliver afsløret!"
 
 msgid "D_DEVSTR"
-msgstr "Ubrugelig tilstand slået TIL"
+msgstr "Ubrugelig tilstand slået: TIL"
 
 msgid "QUITMSG"
 msgstr ""
@@ -461,16 +461,16 @@ msgid "AMSTR_FOLLOWON"
 msgstr "Følg-tilstand TIL"
 
 msgid "AMSTR_GRIDON"
-msgstr "Raster TIL"
+msgstr "Raster: TIL"
 
 msgid "AMSTR_GRIDOFF"
-msgstr "Raster FRA"
+msgstr "Raster: FRA"
 
 msgid "AMSTR_TEXON"
-msgstr "Teksturtilstand TIL"
+msgstr "Teksturtilstand: TIL"
 
 msgid "AMSTR_TEXOFF"
-msgstr "Teksturtilstand FRA"
+msgstr "Teksturtilstand: FRA"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Markeret placering"
@@ -2854,11 +2854,11 @@ msgstr ""
 
 msgctxt "chex"
 msgid "STSTR_DQDON"
-msgstr "Uovervindelig tilstand TIL"
+msgstr "Uovervindelig tilstand: TIL"
 
 msgctxt "chex"
 msgid "STSTR_DQDOFF"
-msgstr "Uovervindelig tilstand FRA"
+msgstr "Uovervindelig tilstand: FRA"
 
 msgctxt "chex"
 msgid "STSTR_FAADDED"
