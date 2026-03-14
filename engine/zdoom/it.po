@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-13 22:54+0000\n"
+"PO-Revision-Date: 2026-03-15 00:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/it/>\n"
@@ -21,7 +21,7 @@ msgid "SECRETMESSAGE"
 msgstr "È stato svelato un segreto!"
 
 msgid "D_DEVSTR"
-msgstr "Modalità inutile ATTIVA"
+msgstr "Modalità inutile: ATTIVA"
 
 msgid "QUITMSG"
 msgstr ""
@@ -462,16 +462,16 @@ msgid "AMSTR_FOLLOWON"
 msgstr "Modalità inseguimento: ATTIVA"
 
 msgid "AMSTR_GRIDON"
-msgstr "Griglia ATTIVA"
+msgstr "Griglia: ATTIVA"
 
 msgid "AMSTR_GRIDOFF"
-msgstr "Griglia SPENTA"
+msgstr "Griglia: SPENTA"
 
 msgid "AMSTR_TEXON"
-msgstr "Modalità Texture ATTIVA"
+msgstr "Modalità Texture: ATTIVA"
 
 msgid "AMSTR_TEXOFF"
-msgstr "Modalità Texture SPENTA"
+msgstr "Modalità Texture: SPENTA"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Posizione segnata"
@@ -2855,11 +2855,11 @@ msgstr ""
 
 msgctxt "chex"
 msgid "STSTR_DQDON"
-msgstr "Modalità invincibile ATTIVA"
+msgstr "Modalità invincibile: ATTIVA"
 
 msgctxt "chex"
 msgid "STSTR_DQDOFF"
-msgstr "Modalità invincibile SPENTA"
+msgstr "Modalità invincibile: SPENTA"
 
 msgctxt "chex"
 msgid "STSTR_FAADDED"
