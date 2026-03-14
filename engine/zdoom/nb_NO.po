@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-13 22:54+0000\n"
+"PO-Revision-Date: 2026-03-15 00:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/nb_NO/>\n"
@@ -21,7 +21,7 @@ msgid "SECRETMESSAGE"
 msgstr "En hemmelighet er avslørt!"
 
 msgid "D_DEVSTR"
-msgstr "Ubrukelig modus PÅ"
+msgstr "Ubrukelig modus: PÅ"
 
 #, fuzzy
 msgid "QUITMSG"
@@ -462,16 +462,16 @@ msgid "AMSTR_FOLLOWON"
 msgstr "Følgemodus PÅ"
 
 msgid "AMSTR_GRIDON"
-msgstr "Rutenett PÅ"
+msgstr "Rutenett: PÅ"
 
 msgid "AMSTR_GRIDOFF"
-msgstr "Rutenett AV"
+msgstr "Rutenett: AV"
 
 msgid "AMSTR_TEXON"
-msgstr "Teksturmodus PÅ"
+msgstr "Teksturmodus: PÅ"
 
 msgid "AMSTR_TEXOFF"
-msgstr "Teksturmodus AV"
+msgstr "Teksturmodus: AV"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Markert punkt"
@@ -2853,11 +2853,11 @@ msgstr ""
 
 msgctxt "chex"
 msgid "STSTR_DQDON"
-msgstr "Uovervinnelig modus PÅ"
+msgstr "Uovervinnelig modus: PÅ"
 
 msgctxt "chex"
 msgid "STSTR_DQDOFF"
-msgstr "Uovervinnelig modus AV"
+msgstr "Uovervinnelig modus: AV"
 
 msgctxt "chex"
 msgid "STSTR_FAADDED"
