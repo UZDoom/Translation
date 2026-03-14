@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-13 22:54+0000\n"
+"PO-Revision-Date: 2026-03-15 00:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
@@ -2854,11 +2854,11 @@ msgstr ""
 
 msgctxt "chex"
 msgid "STSTR_DQDON"
-msgstr "无敌模式开启"
+msgstr "无敌模式：开启"
 
 msgctxt "chex"
 msgid "STSTR_DQDOFF"
-msgstr "无敌模式关闭"
+msgstr "无敌模式：关闭"
 
 #, fuzzy
 msgctxt "chex"
