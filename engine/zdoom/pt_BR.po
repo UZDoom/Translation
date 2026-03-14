@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-14 22:34+0000\n"
+"PO-Revision-Date: 2026-03-15 00:11+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "uzdoom/zdoom-engine-strings/pt_BR/>\n"
@@ -21,7 +21,7 @@ msgid "SECRETMESSAGE"
 msgstr "Segredo revelado!"
 
 msgid "D_DEVSTR"
-msgstr "Modo inútil ATIVADO"
+msgstr "Modo inútil: ATIVADO"
 
 msgid "QUITMSG"
 msgstr ""
@@ -465,17 +465,18 @@ msgstr "Modo de seguimento DESATIVADO"
 msgid "AMSTR_FOLLOWON"
 msgstr "Modo de seguimento ATIVADO"
 
+#, fuzzy
 msgid "AMSTR_GRIDON"
 msgstr "Grade ATIVADA"
 
 msgid "AMSTR_GRIDOFF"
-msgstr "Grade DESATIVADA"
+msgstr "Grade: DESATIVADA"
 
 msgid "AMSTR_TEXON"
-msgstr "Modo de textura ATIVADO"
+msgstr "Modo de textura: ATIVADO"
 
 msgid "AMSTR_TEXOFF"
-msgstr "Modo de textura DESATIVADO"
+msgstr "Modo de textura: DESATIVADO"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Posição marcada"
@@ -2857,11 +2858,11 @@ msgstr ""
 
 msgctxt "chex"
 msgid "STSTR_DQDON"
-msgstr "Modo invencível ATIVADO"
+msgstr "Modo invencível: ATIVADO"
 
 msgctxt "chex"
 msgid "STSTR_DQDOFF"
-msgstr "Modo invencível DESATIVADO"
+msgstr "Modo invencível: DESATIVADO"
 
 msgctxt "chex"
 msgid "STSTR_FAADDED"
