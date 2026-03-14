@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-05 03:09+0000\n"
+"PO-Revision-Date: 2026-03-14 18:31+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/uzdoom/"
 "glossary/nb_NO/>\n"
@@ -94,9 +94,6 @@ msgstr "YM3438"
 msgid "OPN2"
 msgstr "OPN2"
 
-msgid "OPN2-LLE"
-msgstr "OPN2-LLE"
-
 msgid "YMF276"
 msgstr "YMF276"
 
@@ -165,3 +162,6 @@ msgstr "WOPN"
 
 msgid "WOPL"
 msgstr "WOPL"
+
+msgid "LLE"
+msgstr "LLE"
