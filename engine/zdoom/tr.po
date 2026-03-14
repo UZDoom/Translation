@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-13 22:54+0000\n"
+"PO-Revision-Date: 2026-03-15 00:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/tr/>\n"
@@ -21,7 +21,7 @@ msgid "SECRETMESSAGE"
 msgstr "Bir sır açığa çıkıyor!"
 
 msgid "D_DEVSTR"
-msgstr "Yararsız mod AÇIK"
+msgstr "Yararsız mod: AÇIK"
 
 msgid "QUITMSG"
 msgstr ""
@@ -460,17 +460,18 @@ msgstr "Takip Modu KAPALI"
 msgid "AMSTR_FOLLOWON"
 msgstr "Takip Modu AÇIK"
 
+#, fuzzy
 msgid "AMSTR_GRIDON"
 msgstr "Izgara AÇIK"
 
 msgid "AMSTR_GRIDOFF"
-msgstr "Izgara KAPALI"
+msgstr "Izgara: KAPALI"
 
 msgid "AMSTR_TEXON"
-msgstr "Doku Modu AÇIK"
+msgstr "Doku Modu: AÇIK"
 
 msgid "AMSTR_TEXOFF"
-msgstr "Doku Modu KAPALI"
+msgstr "Doku Modu: KAPALI"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "İşaretli Nokta"
@@ -2854,11 +2855,11 @@ msgstr ""
 
 msgctxt "chex"
 msgid "STSTR_DQDON"
-msgstr "Yenilmez Mod AÇIK"
+msgstr "Yenilmez Mod: AÇIK"
 
 msgctxt "chex"
 msgid "STSTR_DQDOFF"
-msgstr "Yenilmez Modu KAPALI"
+msgstr "Yenilmez Modu: KAPALI"
 
 msgctxt "chex"
 msgid "STSTR_FAADDED"
