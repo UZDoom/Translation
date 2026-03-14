@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-13 22:54+0000\n"
+"PO-Revision-Date: 2026-03-15 00:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/sv/>\n"
@@ -21,7 +21,7 @@ msgid "SECRETMESSAGE"
 msgstr "En hemlighet avslöjas!"
 
 msgid "D_DEVSTR"
-msgstr "Oanvändbart läge PÅ"
+msgstr "Oanvändbart läge: PÅ"
 
 #, fuzzy
 msgid "QUITMSG"
@@ -464,17 +464,18 @@ msgstr "Följningsläget AV"
 msgid "AMSTR_FOLLOWON"
 msgstr "Följningsläget PÅ"
 
+#, fuzzy
 msgid "AMSTR_GRIDON"
 msgstr "Rutnät PÅ"
 
 msgid "AMSTR_GRIDOFF"
-msgstr "Rutnät AV"
+msgstr "Rutnät: AV"
 
 msgid "AMSTR_TEXON"
-msgstr "Texturläge PÅ"
+msgstr "Texturläge: PÅ"
 
 msgid "AMSTR_TEXOFF"
-msgstr "Texturläge AV"
+msgstr "Texturläge: AV"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Markerad punkt"
@@ -2857,11 +2858,11 @@ msgstr ""
 
 msgctxt "chex"
 msgid "STSTR_DQDON"
-msgstr "Oövervinnerligt läge PÅ"
+msgstr "Oövervinnerligt läge: PÅ"
 
 msgctxt "chex"
 msgid "STSTR_DQDOFF"
-msgstr "Oövervinnerligt läge AV"
+msgstr "Oövervinnerligt läge: AV"
 
 msgctxt "chex"
 msgid "STSTR_FAADDED"
