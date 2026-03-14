@@ -30,29 +30,16 @@ jobs:
       fail-fast: false
       matrix:
         config:
-        - name: support
-          outfile: game_support.pk3/language.csv
-          infiles: games/doom games/doom2 games/chex games/heretic games/hexen games/hexen-deathkings games/plutonia games/tnt games/strife
-
-        - name: filter-chex3
-          outfile: game_support.pk3/filter/chex.chex3/language.csv
-          infiles: games/filter/chex_quest_3
-
-        - name: filter-harmony
-          outfile: game_support.pk3/filter/harmony/language.csv
-          infiles: games/filter/harmony
-
-        - name: filter-hacx
-          outfile: game_support.pk3/filter/hacx.hacx1/after_iwad/language.csv
-          infiles: games/filter/hacx
-
-        - name: engine-common
-          outfile: uzdoom.pk3/language.0
-          infiles: engine/common
-
-        - name: engine-zdoom
+        - name: ENGINE
           outfile: uzdoom.pk3/language.csv
-          infiles: engine/zdoom
+        - name: GAMES
+          outfile: game_support.pk3/language.csv
+        - name: GAMES_CHEX3
+          outfile: game_support.pk3/filter/chex.chex3/language.csv
+        - name: GAMES_HARMONY
+          outfile: game_support.pk3/filter/harmony/language.csv
+        - name: GAMES_HACX
+          outfile: game_support.pk3/filter/hacx.hacx1/after_iwad/language.csv
 
     steps:
     - uses: actions/checkout@v6
@@ -62,7 +49,7 @@ jobs:
       run: |
         outfile=out/${{ matrix.config.outfile }}
         mkdir -p $(dirname $outfile)
-        python3 -B -E -s scripts/compile.py ${{ matrix.config.infiles }} $outfile
+        python3 -B -E -s scripts/compile.py ${{ matrix.config.name }} $outfile
 
     - name: upload
       uses: actions/upload-artifact@v7
@@ -95,6 +82,6 @@ jobs:
         path: files
 
     - name: cleanup
-      uses: geekyeggo/delete-artifact@v5
+      uses: geekyeggo/delete-artifact@v6
       with:
         name: temp-*
