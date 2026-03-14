@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-13 22:54+0000\n"
+"PO-Revision-Date: 2026-03-15 00:11+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/cs/>\n"
@@ -21,7 +21,7 @@ msgid "SECRETMESSAGE"
 msgstr "Nalezl[@ao_cs] jsi skrýš!"
 
 msgid "D_DEVSTR"
-msgstr "Zbytečný režim ZAP"
+msgstr "Zbytečný režim: ZAP"
 
 msgid "QUITMSG"
 msgstr ""
@@ -461,16 +461,16 @@ msgid "AMSTR_FOLLOWON"
 msgstr "Režim sledování ZAP"
 
 msgid "AMSTR_GRIDON"
-msgstr "Mřížka ZAP"
+msgstr "Mřížka: ZAP"
 
 msgid "AMSTR_GRIDOFF"
-msgstr "Mrizka VYP"
+msgstr "Mrizka: VYP"
 
 msgid "AMSTR_TEXON"
-msgstr "Texturovaný režim ZAP"
+msgstr "Texturovaný režim: ZAP"
 
 msgid "AMSTR_TEXOFF"
-msgstr "Texturovaný režim VYP"
+msgstr "Texturovaný režim: VYP"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Značka"
@@ -2854,11 +2854,11 @@ msgstr ""
 
 msgctxt "chex"
 msgid "STSTR_DQDON"
-msgstr "Režim nezranitelnosti ZAP"
+msgstr "Režim nezranitelnosti: ZAP"
 
 msgctxt "chex"
 msgid "STSTR_DQDOFF"
-msgstr "Režim nezranitelnosti VYP"
+msgstr "Režim nezranitelnosti: VYP"
 
 msgctxt "chex"
 msgid "STSTR_FAADDED"
