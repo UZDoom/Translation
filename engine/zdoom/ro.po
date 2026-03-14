@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-14 22:34+0000\n"
+"PO-Revision-Date: 2026-03-15 00:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ro/>\n"
@@ -22,7 +22,7 @@ msgid "SECRETMESSAGE"
 msgstr "Ai găsit un secret!"
 
 msgid "D_DEVSTR"
-msgstr "Modul inutil PORNIT"
+msgstr "Modul inutil: PORNIT"
 
 #, fuzzy
 msgid "QUITMSG"
@@ -464,17 +464,18 @@ msgstr "Mod Urmărire OPRIT"
 msgid "AMSTR_FOLLOWON"
 msgstr "Mod Urmărire PORNIT"
 
+#, fuzzy
 msgid "AMSTR_GRIDON"
 msgstr "Grilă ACTIVATĂ"
 
 msgid "AMSTR_GRIDOFF"
-msgstr "Grilă OPRITĂ"
+msgstr "Grilă: OPRITĂ"
 
 msgid "AMSTR_TEXON"
-msgstr "Modul Texturat PORNIT"
+msgstr "Modul Texturat: PORNIT"
 
 msgid "AMSTR_TEXOFF"
-msgstr "Modul Texturat OPRIT"
+msgstr "Modul Texturat: OPRIT"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Loc Marcat"
@@ -2858,11 +2859,11 @@ msgstr ""
 
 msgctxt "chex"
 msgid "STSTR_DQDON"
-msgstr "Modul Invincibil PORNIT"
+msgstr "Modul Invincibil: PORNIT"
 
 msgctxt "chex"
 msgid "STSTR_DQDOFF"
-msgstr "Modul Invincibil OPRIT"
+msgstr "Modul Invincibil: OPRIT"
 
 msgctxt "chex"
 msgid "STSTR_FAADDED"
