@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-13 22:54+0000\n"
+"PO-Revision-Date: 2026-03-15 00:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/de/>\n"
@@ -21,7 +21,7 @@ msgid "SECRETMESSAGE"
 msgstr "Ein Geheimnis ist enthüllt!"
 
 msgid "D_DEVSTR"
-msgstr "Nutzloser Modus AN"
+msgstr "Nutzloser Modus: AN"
 
 msgid "QUITMSG"
 msgstr ""
@@ -463,16 +463,16 @@ msgid "AMSTR_FOLLOWON"
 msgstr "Folgen-Modus AN"
 
 msgid "AMSTR_GRIDON"
-msgstr "Gitter AN"
+msgstr "Gitter: AN"
 
 msgid "AMSTR_GRIDOFF"
-msgstr "Gitter AUS"
+msgstr "Gitter: AUS"
 
 msgid "AMSTR_TEXON"
-msgstr "Texturmodus AN"
+msgstr "Texturmodus: AN"
 
 msgid "AMSTR_TEXOFF"
-msgstr "Texturmodus AUS"
+msgstr "Texturmodus: AUS"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Punkt markiert"
@@ -2854,11 +2854,11 @@ msgstr ""
 
 msgctxt "chex"
 msgid "STSTR_DQDON"
-msgstr "Unbesiegbarer Modus AN"
+msgstr "Unbesiegbarer Modus: AN"
 
 msgctxt "chex"
 msgid "STSTR_DQDOFF"
-msgstr "Unbesiegbarer Modus AUS"
+msgstr "Unbesiegbarer Modus: AUS"
 
 msgctxt "chex"
 msgid "STSTR_FAADDED"
