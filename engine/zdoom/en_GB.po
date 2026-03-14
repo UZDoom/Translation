@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-13 22:54+0000\n"
+"PO-Revision-Date: 2026-03-15 00:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English (United Kingdom) <https://hosted.weblate.org/projects/"
 "uzdoom/zdoom-engine-strings/en_GB/>\n"
@@ -21,7 +21,7 @@ msgid "SECRETMESSAGE"
 msgstr "A secret is revealed!"
 
 msgid "D_DEVSTR"
-msgstr "Useless mode ON"
+msgstr "Useless mode: ON"
 
 msgid "QUITMSG"
 msgstr ""
@@ -461,16 +461,16 @@ msgid "AMSTR_FOLLOWON"
 msgstr "Follow Mode ON"
 
 msgid "AMSTR_GRIDON"
-msgstr "Grid ON"
+msgstr "Grid: ON"
 
 msgid "AMSTR_GRIDOFF"
-msgstr "Grid OFF"
+msgstr "Grid: OFF"
 
 msgid "AMSTR_TEXON"
-msgstr "Texture Mode ON"
+msgstr "Texture Mode: ON"
 
 msgid "AMSTR_TEXOFF"
-msgstr "Texture Mode OFF"
+msgstr "Texture Mode: OFF"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Marked Spot"
@@ -2851,11 +2851,11 @@ msgstr ""
 
 msgctxt "chex"
 msgid "STSTR_DQDON"
-msgstr "Invincible Mode ON"
+msgstr "Invincible Mode: ON"
 
 msgctxt "chex"
 msgid "STSTR_DQDOFF"
-msgstr "Invincible Mode OFF"
+msgstr "Invincible Mode: OFF"
 
 msgctxt "chex"
 msgid "STSTR_FAADDED"
