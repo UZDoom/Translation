@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-13 22:54+0000\n"
+"PO-Revision-Date: 2026-03-14 22:34+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/uzdoom/common/"
 "tr/>\n"
@@ -519,12 +519,14 @@ msgstr "Yapılandırılabilir eksen yok"
 msgid "OPTVAL_NONE"
 msgstr "Hiçbiri"
 
+#, fuzzy
 msgid "OPTVAL_TURNING"
 msgstr "Dönüş"
 
 msgid "OPTVAL_LOOKINGUPDOWN"
 msgstr "Yukarı/Aşağı Bakmak"
 
+#, fuzzy
 msgid "OPTVAL_MOVINGFORWARD"
 msgstr "İleriye Doğru"
 
