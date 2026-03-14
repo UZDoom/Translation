@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-13 22:54+0000\n"
+"PO-Revision-Date: 2026-03-15 00:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hu/>\n"
@@ -21,7 +21,7 @@ msgid "SECRETMESSAGE"
 msgstr "Egy rejtekhely feltárva!"
 
 msgid "D_DEVSTR"
-msgstr "Haszontalan mód BE"
+msgstr "Haszontalan mód: BE"
 
 msgid "QUITMSG"
 msgstr ""
@@ -463,16 +463,16 @@ msgid "AMSTR_FOLLOWON"
 msgstr "Követés mód BE"
 
 msgid "AMSTR_GRIDON"
-msgstr "Rács BE"
+msgstr "Rács: BE"
 
 msgid "AMSTR_GRIDOFF"
-msgstr "Rács KI"
+msgstr "Rács: KI"
 
 msgid "AMSTR_TEXON"
-msgstr "Textúrák mód BE"
+msgstr "Textúrák mód: BE"
 
 msgid "AMSTR_TEXOFF"
-msgstr "Textúrák mód KI"
+msgstr "Textúrák mód: KI"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Megjelölt hely"
@@ -2854,11 +2854,11 @@ msgstr ""
 
 msgctxt "chex"
 msgid "STSTR_DQDON"
-msgstr "Sérthetetlen mód BE"
+msgstr "Sérthetetlen mód: BE"
 
 msgctxt "chex"
 msgid "STSTR_DQDOFF"
-msgstr "Sérthetetlen mód KI"
+msgstr "Sérthetetlen mód: KI"
 
 msgctxt "chex"
 msgid "STSTR_FAADDED"
