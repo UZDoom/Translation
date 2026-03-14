@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-26 03:13+0000\n"
+"PO-Revision-Date: 2026-03-14 22:34+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/common/ko/>"
 "\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.16.1-dev\n"
+"X-Generator: Weblate 5.17-dev\n"
 "X-HeaderCode: ko\n"
 
 msgid "PRESSYN"
@@ -517,15 +517,18 @@ msgstr "설정할 방향키가 없습니다"
 msgid "OPTVAL_NONE"
 msgstr "없음"
 
+#, fuzzy
 msgid "OPTVAL_TURNING"
 msgstr "회전"
 
 msgid "OPTVAL_LOOKINGUPDOWN"
 msgstr "위/아래로 보기"
 
+#, fuzzy
 msgid "OPTVAL_MOVINGFORWARD"
 msgstr "앞으로 전진"
 
+#, fuzzy
 msgid "OPTVAL_STRAFING"
 msgstr "양옆으로 이동"
 
