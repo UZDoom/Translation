@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-14 22:34+0000\n"
+"PO-Revision-Date: 2026-03-15 00:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/uzdoom/common/"
 "be/>\n"
@@ -54,7 +54,7 @@ msgid "TXT_X_CHEATS"
 msgstr "%s выкарыстоўвае чыт-коды"
 
 msgid "MSGOFF"
-msgstr "Паведамленні ВЫКЛ"
+msgstr "Паведамленні: ВЫКЛ"
 
 msgid "MSGON"
 msgstr "Паведамленні: УКЛ"
