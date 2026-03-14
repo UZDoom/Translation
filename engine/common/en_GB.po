@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-13 22:54+0000\n"
+"PO-Revision-Date: 2026-03-14 22:34+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English (United Kingdom) <https://hosted.weblate.org/projects/"
 "uzdoom/common/en_GB/>\n"
@@ -518,16 +518,16 @@ msgid "OPTVAL_NONE"
 msgstr "None"
 
 msgid "OPTVAL_TURNING"
-msgstr "Turning"
+msgstr "Looking Left/Right"
 
 msgid "OPTVAL_LOOKINGUPDOWN"
 msgstr "Looking Up/Down"
 
 msgid "OPTVAL_MOVINGFORWARD"
-msgstr "Moving Forward"
+msgstr "Moving Forward/Backward"
 
 msgid "OPTVAL_STRAFING"
-msgstr "Strafing"
+msgstr "Moving Left/Right"
 
 msgid "OPTVAL_MOVINGUPDOWN"
 msgstr "Moving Up/Down"
