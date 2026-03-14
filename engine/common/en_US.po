@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-14 20:03+0000\n"
+"PO-Revision-Date: 2026-03-14 22:34+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/uzdoom/common/"
 "en/>\n"
@@ -226,7 +226,6 @@ msgstr "Weapon Reload"
 msgid "CNTRLMNU_USE"
 msgstr "Use / Open"
 
-#, fuzzy
 msgid "CNTRLMNU_FORWARD"
 msgstr "Move forward"
 
@@ -266,7 +265,6 @@ msgstr "Crouch"
 msgid "CNTRLMNU_TOGGLECROUCH"
 msgstr "Crouch Toggle"
 
-#, fuzzy
 msgid "CNTRLMNU_MOUSELOOK"
 msgstr "Mouse look"
 
@@ -291,7 +289,6 @@ msgstr "Run"
 msgid "CNTRLMNU_TOGGLERUN"
 msgstr "Toggle Run"
 
-#, fuzzy
 msgid "CNTRLMNU_STRAFE"
 msgstr "Strafe"
 
@@ -673,21 +670,18 @@ msgstr "No configurable axes"
 msgid "OPTVAL_NONE"
 msgstr "None"
 
-#, fuzzy
 msgid "OPTVAL_TURNING"
-msgstr "Turning"
+msgstr "Looking Left/Right"
 
 #, fuzzy
 msgid "OPTVAL_LOOKINGUPDOWN"
 msgstr "Looking Up/Down"
 
-#, fuzzy
 msgid "OPTVAL_MOVINGFORWARD"
-msgstr "Moving Forward"
+msgstr "Moving Forward/Backward"
 
-#, fuzzy
 msgid "OPTVAL_STRAFING"
-msgstr "Strafing"
+msgstr "Moving Left/Right"
 
 #, fuzzy
 msgid "OPTVAL_MOVINGUPDOWN"
