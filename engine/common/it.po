@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-14 22:34+0000\n"
+"PO-Revision-Date: 2026-03-15 00:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/uzdoom/common/"
 "it/>\n"
@@ -53,10 +53,10 @@ msgid "TXT_X_CHEATS"
 msgstr "%s imbroglia"
 
 msgid "MSGOFF"
-msgstr "Messaggi SPENTI"
+msgstr "Messaggi: SPENTI"
 
 msgid "MSGON"
-msgstr "Messaggi ATTIVI"
+msgstr "Messaggi: ATTIVI"
 
 msgid "TXT_SAY"
 msgstr "Parla:"
