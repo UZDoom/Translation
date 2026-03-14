@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-13 22:53+0000\n"
+"PO-Revision-Date: 2026-03-14 20:03+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/en/>\n"
@@ -2105,7 +2105,6 @@ msgstr "Reiver"
 msgid "FN_DRAGON"
 msgstr "Death Wyvern"
 
-#, fuzzy
 msgid "FN_KORAX"
 msgstr "Korax"
 
@@ -5501,7 +5500,6 @@ msgstr "Boom"
 msgid "OPTVAL_BOOMSTRICT"
 msgstr "Boom (strict)"
 
-#, fuzzy
 msgid "OPTVAL_MBF"
 msgstr "MBF"
 
@@ -5509,7 +5507,6 @@ msgstr "MBF"
 msgid "OPTVAL_MBFSTRICT"
 msgstr "MBF (strict)"
 
-#, fuzzy
 msgid "OPTVAL_MBF21"
 msgstr "MBF21"
 
@@ -5835,7 +5832,6 @@ msgid "OPTVAL_DARK"
 msgstr "Dark"
 
 # This refers to the Doom Legacy port, not a legacy lighting style!
-#, fuzzy
 msgid "OPTVAL_LEGACY"
 msgstr "Doom Legacy"
 
@@ -6313,12 +6309,10 @@ msgid "GMPLYMNU_NOLOCALDROP"
 msgstr "Disable client-side pick ups on dropped items"
 
 # Disables autoloading save on death
-#, fuzzy
 msgid "MISCMNU_RESTARTONDEATH"
 msgstr "Pistol start on death"
 
 # Resets inventory on every map
-#, fuzzy
 msgid "GMPLYMNU_PISTOLSTART"
 msgstr "Pistol start every map"
 

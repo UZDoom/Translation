@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-14 18:31+0000\n"
+"PO-Revision-Date: 2026-03-14 20:03+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/uzdoom/common/"
 "sr/>\n"
@@ -1046,7 +1046,7 @@ msgid "OPTVAL_YMFMOPN2"
 msgstr "YMFM OPN2"
 
 msgid "OPTVAL_YMFMOPNA"
-msgstr "YMFM OPNA"
+msgstr "YMFM ОПНА"
 
 msgid "ADLVLMODEL_AUTO"
 msgstr "Аутоматски (користи намештену банку)"
