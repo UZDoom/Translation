@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-14 20:03+0000\n"
+"PO-Revision-Date: 2026-03-15 00:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/sr/>\n"
@@ -22,7 +22,7 @@ msgid "SECRETMESSAGE"
 msgstr "Откривена тајна!"
 
 msgid "D_DEVSTR"
-msgstr "Програмерски режим УКЉ"
+msgstr "Програмерски режим: УКЉ"
 
 #, fuzzy
 msgid "QUITMSG"
@@ -463,17 +463,18 @@ msgstr "Праћење ИСКЉ"
 msgid "AMSTR_FOLLOWON"
 msgstr "Праћење УКЉ"
 
+#, fuzzy
 msgid "AMSTR_GRIDON"
 msgstr "Мрежа УКЉ"
 
 msgid "AMSTR_GRIDOFF"
-msgstr "Мрежа ИСКЉ"
+msgstr "Мрежа: ИСКЉ"
 
 msgid "AMSTR_TEXON"
-msgstr "Текстуре УКЉ"
+msgstr "Текстуре: УКЉ"
 
 msgid "AMSTR_TEXOFF"
-msgstr "Текстуре ИСКЉ"
+msgstr "Текстуре: ИСКЉ"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Означено место"
@@ -2857,11 +2858,11 @@ msgstr ""
 
 msgctxt "chex"
 msgid "STSTR_DQDON"
-msgstr "Неуништив УКЉ"
+msgstr "Неуништив: УКЉ"
 
 msgctxt "chex"
 msgid "STSTR_DQDOFF"
-msgstr "Неуништив ИСКЉ"
+msgstr "Неуништив: ИСКЉ"
 
 msgctxt "chex"
 msgid "STSTR_FAADDED"
