@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-13 22:54+0000\n"
+"PO-Revision-Date: 2026-03-15 00:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/nl/>\n"
@@ -21,7 +21,7 @@ msgid "SECRETMESSAGE"
 msgstr "Een geheim is onthuld!"
 
 msgid "D_DEVSTR"
-msgstr "Nutteloze modus AAN"
+msgstr "Nutteloze modus: AAN"
 
 msgid "QUITMSG"
 msgstr ""
@@ -462,16 +462,16 @@ msgid "AMSTR_FOLLOWON"
 msgstr "Volgmodus AAN"
 
 msgid "AMSTR_GRIDON"
-msgstr "Raster AAN"
+msgstr "Raster: AAN"
 
 msgid "AMSTR_GRIDOFF"
-msgstr "Raster UIT"
+msgstr "Raster: UIT"
 
 msgid "AMSTR_TEXON"
-msgstr "Textuurmodus AAN"
+msgstr "Textuurmodus: AAN"
 
 msgid "AMSTR_TEXOFF"
-msgstr "Textuurmodus UIT"
+msgstr "Textuurmodus: UIT"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Gemarkeerde plek"
@@ -2890,11 +2890,11 @@ msgstr ""
 
 msgctxt "chex"
 msgid "STSTR_DQDON"
-msgstr "Onoverwinnelijke modus AAN"
+msgstr "Onoverwinnelijke modus: AAN"
 
 msgctxt "chex"
 msgid "STSTR_DQDOFF"
-msgstr "Onoverwinnelijke modus UIT"
+msgstr "Onoverwinnelijke modus: UIT"
 
 msgctxt "chex"
 msgid "STSTR_FAADDED"
