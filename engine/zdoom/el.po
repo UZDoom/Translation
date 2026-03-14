@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-01 02:38+0000\n"
+"PO-Revision-Date: 2026-03-15 00:11+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/el/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16.1-dev\n"
+"X-Generator: Weblate 5.17-dev\n"
 "X-HeaderCode: el\n"
 
 msgid "PRESSKEY"
@@ -21,7 +21,7 @@ msgid "SECRETMESSAGE"
 msgstr "Ένα μυστικό αποκαλύφθηκε!"
 
 msgid "D_DEVSTR"
-msgstr "Άχρηστη λειτουργία ΕΝΕΡΓΗ"
+msgstr "Άχρηστη λειτουργία: ΕΝΕΡΓΗ"
 
 #, fuzzy
 msgid "QUITMSG"
@@ -461,16 +461,16 @@ msgid "AMSTR_FOLLOWON"
 msgstr "Ακολούθηση ΕΝΕΡΓΟ"
 
 msgid "AMSTR_GRIDON"
-msgstr "Πλέχμα ΕΝΕΡΓΟ"
+msgstr "Πλέχμα: ΕΝΕΡΓΟ"
 
 msgid "AMSTR_GRIDOFF"
-msgstr "Πλέχμα ΑΝΕΝΕΡΓΟ"
+msgstr "Πλέχμα: ΑΝΕΝΕΡΓΟ"
 
 msgid "AMSTR_TEXON"
-msgstr "Γραφικός χάρτης ΕΝΕΡΓΟ"
+msgstr "Γραφικός χάρτης: ΕΝΕΡΓΟ"
 
 msgid "AMSTR_TEXOFF"
-msgstr "Γραφικός χάρτης ΑΝΕΝΕΡΓΟ"
+msgstr "Γραφικός χάρτης: ΑΝΕΝΕΡΓΟ"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Μαρκαρησμένη τοποθεσεία"
