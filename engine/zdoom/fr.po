@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-13 22:54+0000\n"
+"PO-Revision-Date: 2026-03-15 00:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fr/>\n"
@@ -21,7 +21,7 @@ msgid "SECRETMESSAGE"
 msgstr "Vous avez découvert un secret !"
 
 msgid "D_DEVSTR"
-msgstr "Mode inutile ACTIF"
+msgstr "Mode inutile : ACTIF"
 
 msgid "QUITMSG"
 msgstr ""
@@ -462,16 +462,16 @@ msgid "AMSTR_FOLLOWON"
 msgstr "Suivi du Joueur ACTIF"
 
 msgid "AMSTR_GRIDON"
-msgstr "Quadrillage ACTIF"
+msgstr "Quadrillage : ACTIF"
 
 msgid "AMSTR_GRIDOFF"
-msgstr "Quadrillage INACTIF"
+msgstr "Quadrillage : INACTIF"
 
 msgid "AMSTR_TEXON"
-msgstr "Mode Texturé ACTIF"
+msgstr "Mode Texturé : ACTIF"
 
 msgid "AMSTR_TEXOFF"
-msgstr "Mode Texturé INACTIF"
+msgstr "Mode Texturé : INACTIF"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Repère marqué"
@@ -2856,11 +2856,11 @@ msgstr ""
 
 msgctxt "chex"
 msgid "STSTR_DQDON"
-msgstr "Mode invincible ACTIF"
+msgstr "Mode invincible : ACTIF"
 
 msgctxt "chex"
 msgid "STSTR_DQDOFF"
-msgstr "Mode invincible INACTIF"
+msgstr "Mode invincible : INACTIF"
 
 msgctxt "chex"
 msgid "STSTR_FAADDED"
