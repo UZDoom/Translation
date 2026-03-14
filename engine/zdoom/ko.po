@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-14 20:03+0000\n"
+"PO-Revision-Date: 2026-03-15 00:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ko/>\n"
@@ -21,7 +21,7 @@ msgid "SECRETMESSAGE"
 msgstr "비밀 발견!"
 
 msgid "D_DEVSTR"
-msgstr "쓸모없는 모드 켜짐"
+msgstr "쓸모없는 모드: 켜짐"
 
 #, fuzzy
 msgid "QUITMSG"
@@ -464,16 +464,16 @@ msgid "AMSTR_FOLLOWON"
 msgstr "추적 모드 켜짐"
 
 msgid "AMSTR_GRIDON"
-msgstr "격자 켜짐"
+msgstr "격자: 켜짐"
 
 msgid "AMSTR_GRIDOFF"
-msgstr "격자 끔"
+msgstr "격자: 끔"
 
 msgid "AMSTR_TEXON"
-msgstr "텍스쳐 모드 켜짐"
+msgstr "텍스쳐 모드: 켜짐"
 
 msgid "AMSTR_TEXOFF"
-msgstr "텍스쳐 모드 끔"
+msgstr "텍스쳐 모드: 끔"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "지점 추가"
@@ -2855,11 +2855,11 @@ msgstr ""
 
 msgctxt "chex"
 msgid "STSTR_DQDON"
-msgstr "무적 모드 켜짐"
+msgstr "무적 모드: 켜짐"
 
 msgctxt "chex"
 msgid "STSTR_DQDOFF"
-msgstr "무적 모드 끔"
+msgstr "무적 모드: 끔"
 
 msgctxt "chex"
 msgid "STSTR_FAADDED"
