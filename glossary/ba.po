@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-14 18:31+0000\n"
+"PO-Revision-Date: 2026-03-14 20:03+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Bashkir <https://hosted.weblate.org/projects/uzdoom/glossary/"
 "ba/>\n"
@@ -165,3 +165,18 @@ msgstr "WOPL"
 
 msgid "LLE"
 msgstr "LLE"
+
+msgid "DMX"
+msgstr "DMX"
+
+msgid "MMX"
+msgstr "MMX"
+
+msgid "Discord"
+msgstr "Discord"
+
+msgid "MBF"
+msgstr "MBF"
+
+msgid "MBF21"
+msgstr "MBF21"
