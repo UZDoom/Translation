@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-14 22:34+0000\n"
+"PO-Revision-Date: 2026-03-15 00:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fi/>\n"
@@ -21,7 +21,7 @@ msgid "SECRETMESSAGE"
 msgstr "Sala löydetty!"
 
 msgid "D_DEVSTR"
-msgstr "Hyödytön tila PÄÄLLÄ"
+msgstr "Hyödytön tila: PÄÄLLÄ"
 
 #, fuzzy
 msgid "QUITMSG"
@@ -467,16 +467,16 @@ msgid "AMSTR_FOLLOWON"
 msgstr "Seuraamistila PÄÄLLÄ"
 
 msgid "AMSTR_GRIDON"
-msgstr "Ruudukko PÄÄLLÄ"
+msgstr "Ruudukko: PÄÄLLÄ"
 
 msgid "AMSTR_GRIDOFF"
-msgstr "Ruudukko POIS"
+msgstr "Ruudukko: POIS"
 
 msgid "AMSTR_TEXON"
-msgstr "Pintakuviointitila PÄÄLLÄ"
+msgstr "Pintakuviointitila: PÄÄLLÄ"
 
 msgid "AMSTR_TEXOFF"
-msgstr "Pintakuviointitila POIS"
+msgstr "Pintakuviointitila: POIS"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Merkitty paikka"
@@ -2862,11 +2862,11 @@ msgstr ""
 
 msgctxt "chex"
 msgid "STSTR_DQDON"
-msgstr "Kuolemattomuustila PÄÄLLÄ"
+msgstr "Kuolemattomuustila: PÄÄLLÄ"
 
 msgctxt "chex"
 msgid "STSTR_DQDOFF"
-msgstr "Kuolemattomuustila POIS"
+msgstr "Kuolemattomuustila: POIS"
 
 msgctxt "chex"
 msgid "STSTR_FAADDED"
