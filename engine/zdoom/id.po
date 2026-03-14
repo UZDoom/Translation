@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-08 06:09+0000\n"
-"Last-Translator: Naufal _su_bi_ng <humaidnaufalsubing@gmail.com>\n"
+"PO-Revision-Date: 2026-03-15 00:10+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/id/>\n"
 "Language: id\n"
@@ -20,7 +20,7 @@ msgid "SECRETMESSAGE"
 msgstr "Sebuah rahasia terungkap!"
 
 msgid "D_DEVSTR"
-msgstr "Mode useless AKTIF"
+msgstr "Mode useless: AKTIF"
 
 msgid "QUITMSG"
 msgstr ""
@@ -464,16 +464,16 @@ msgid "AMSTR_FOLLOWON"
 msgstr "Mode Follow AKTIF"
 
 msgid "AMSTR_GRIDON"
-msgstr "Grid AKTIF"
+msgstr "Grid: AKTIF"
 
 msgid "AMSTR_GRIDOFF"
-msgstr "Grid MATI"
+msgstr "Grid: MATI"
 
 msgid "AMSTR_TEXON"
-msgstr "Mode Texture AKTIF"
+msgstr "Mode Texture: AKTIF"
 
 msgid "AMSTR_TEXOFF"
-msgstr "Mode Texture MATI"
+msgstr "Mode Texture: MATI"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Spot Ditandai"
