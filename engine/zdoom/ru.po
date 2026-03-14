@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-13 22:54+0000\n"
+"PO-Revision-Date: 2026-03-15 00:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ru/>\n"
@@ -22,7 +22,7 @@ msgid "SECRETMESSAGE"
 msgstr "Обнаружен тайник!"
 
 msgid "D_DEVSTR"
-msgstr "Бесполезный режим ВКЛ"
+msgstr "Бесполезный режим: ВКЛ"
 
 msgid "QUITMSG"
 msgstr ""
@@ -462,17 +462,18 @@ msgstr "Привязка к игроку ВЫКЛ"
 msgid "AMSTR_FOLLOWON"
 msgstr "Привязка к игроку ВКЛ"
 
+#, fuzzy
 msgid "AMSTR_GRIDON"
 msgstr "Сетка ВКЛ"
 
 msgid "AMSTR_GRIDOFF"
-msgstr "Сетка ВЫКЛ"
+msgstr "Сетка: ВЫКЛ"
 
 msgid "AMSTR_TEXON"
-msgstr "Текстурный режим ВКЛ"
+msgstr "Текстурный режим: ВКЛ"
 
 msgid "AMSTR_TEXOFF"
-msgstr "Текстурный режим ВЫКЛ"
+msgstr "Текстурный режим: ВЫКЛ"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Отметка"
@@ -2853,11 +2854,11 @@ msgstr ""
 
 msgctxt "chex"
 msgid "STSTR_DQDON"
-msgstr "Режим неуязвимости ВКЛ"
+msgstr "Режим неуязвимости: ВКЛ"
 
 msgctxt "chex"
 msgid "STSTR_DQDOFF"
-msgstr "Режим неуязвимости ВЫКЛ"
+msgstr "Режим неуязвимости: ВЫКЛ"
 
 msgctxt "chex"
 msgid "STSTR_FAADDED"
