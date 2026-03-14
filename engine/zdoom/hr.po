@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-13 22:54+0000\n"
+"PO-Revision-Date: 2026-03-15 00:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hr/>\n"
@@ -22,7 +22,7 @@ msgid "SECRETMESSAGE"
 msgstr "Tajna je otkrivena!"
 
 msgid "D_DEVSTR"
-msgstr "Beskorisni način UKLJ"
+msgstr "Beskorisni način: UKLJ"
 
 msgid "QUITMSG"
 msgstr ""
@@ -463,16 +463,16 @@ msgid "AMSTR_FOLLOWON"
 msgstr "Način praćenja UKLJ"
 
 msgid "AMSTR_GRIDON"
-msgstr "Mreža UKLJ"
+msgstr "Mreža: UKLJ"
 
 msgid "AMSTR_GRIDOFF"
-msgstr "Mreža ISKLJ"
+msgstr "Mreža: ISKLJ"
 
 msgid "AMSTR_TEXON"
-msgstr "Način tekstura UKLJ"
+msgstr "Način tekstura: UKLJ"
 
 msgid "AMSTR_TEXOFF"
-msgstr "Način tekstura ISKLJ"
+msgstr "Način tekstura: ISKLJ"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Označena točka"
@@ -2856,11 +2856,11 @@ msgstr ""
 
 msgctxt "chex"
 msgid "STSTR_DQDON"
-msgstr "Nepobjedivi način rada UKLJ"
+msgstr "Nepobjedivi način rada: UKLJ"
 
 msgctxt "chex"
 msgid "STSTR_DQDOFF"
-msgstr "Nepobjedivi način rada ISKLJ"
+msgstr "Nepobjedivi način rada: ISKLJ"
 
 msgctxt "chex"
 msgid "STSTR_FAADDED"
