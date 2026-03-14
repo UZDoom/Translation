@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-01 02:38+0000\n"
+"PO-Revision-Date: 2026-03-15 00:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Bashkir <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ba/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16.1-dev\n"
+"X-Generator: Weblate 5.17-dev\n"
 "X-HeaderCode: ba\n"
 
 msgid "PRESSKEY"
@@ -21,7 +21,7 @@ msgid "SECRETMESSAGE"
 msgstr "Tajna je otkrivena!"
 
 msgid "D_DEVSTR"
-msgstr "Beskorisni način je ҠАБЫҘ"
+msgstr "Beskorisni način je: ҠАБЫҘ"
 
 #, fuzzy
 msgid "QUITMSG"
@@ -477,16 +477,16 @@ msgid "AMSTR_FOLLOWON"
 msgstr "Način praćenja ҠАБЫҘ"
 
 msgid "AMSTR_GRIDON"
-msgstr "Mreža ҠАБЫҘ"
+msgstr "Mreža: ҠАБЫҘ"
 
 msgid "AMSTR_GRIDOFF"
-msgstr "Mreža ҺҮНДЕР"
+msgstr "Mreža: ҺҮНДЕР"
 
 msgid "AMSTR_TEXON"
-msgstr "Način tekstura ҠАБЫҘ"
+msgstr "Način tekstura: ҠАБЫҘ"
 
 msgid "AMSTR_TEXOFF"
-msgstr "Način tekstura ҺҮНДЕР"
+msgstr "Način tekstura: ҺҮНДЕР"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Označena točka"
