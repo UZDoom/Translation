@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-13 22:54+0000\n"
+"PO-Revision-Date: 2026-03-15 00:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/pl/>\n"
@@ -22,7 +22,7 @@ msgid "SECRETMESSAGE"
 msgstr "Znaleziono sekret!"
 
 msgid "D_DEVSTR"
-msgstr "Tryb bezużyteczny WŁ"
+msgstr "Tryb bezużyteczny: WŁ"
 
 msgid "QUITMSG"
 msgstr ""
@@ -465,16 +465,16 @@ msgid "AMSTR_FOLLOWON"
 msgstr "Tryb śledzenia WŁ"
 
 msgid "AMSTR_GRIDON"
-msgstr "Siatka WŁ"
+msgstr "Siatka: WŁ"
 
 msgid "AMSTR_GRIDOFF"
-msgstr "Siatka WYŁ"
+msgstr "Siatka: WYŁ"
 
 msgid "AMSTR_TEXON"
-msgstr "Tekstury WŁ"
+msgstr "Tekstury: WŁ"
 
 msgid "AMSTR_TEXOFF"
-msgstr "Tekstury WYŁ"
+msgstr "Tekstury: WYŁ"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Oznaczono miejsce"
@@ -2857,11 +2857,11 @@ msgstr ""
 
 msgctxt "chex"
 msgid "STSTR_DQDON"
-msgstr "Tryb Niewrażliwości WŁ"
+msgstr "Tryb Niewrażliwości: WŁ"
 
 msgctxt "chex"
 msgid "STSTR_DQDOFF"
-msgstr "Tryb Niewrażliwości WYŁ"
+msgstr "Tryb Niewrażliwości: WYŁ"
 
 msgctxt "chex"
 msgid "STSTR_FAADDED"
