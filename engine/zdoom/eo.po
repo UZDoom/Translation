@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-13 22:54+0000\n"
+"PO-Revision-Date: 2026-03-15 00:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/eo/>\n"
@@ -21,7 +21,7 @@ msgid "SECRETMESSAGE"
 msgstr "Vi trovis sekretejon!"
 
 msgid "D_DEVSTR"
-msgstr "Senutila reĝimo ŜALTITA"
+msgstr "Senutila reĝimo: ŜALTITA"
 
 msgid "QUITMSG"
 msgstr ""
@@ -461,16 +461,16 @@ msgid "AMSTR_FOLLOWON"
 msgstr "Sekvigreĝimo ŜALTITA"
 
 msgid "AMSTR_GRIDON"
-msgstr "Krado ŜALTITA"
+msgstr "Krado: ŜALTITA"
 
 msgid "AMSTR_GRIDOFF"
-msgstr "Krado MALŜALTITA"
+msgstr "Krado: MALŜALTITA"
 
 msgid "AMSTR_TEXON"
-msgstr "Tekstura Reĝimo ŜALTITA"
+msgstr "Tekstura Reĝimo: ŜALTITA"
 
 msgid "AMSTR_TEXOFF"
-msgstr "Tekstura Reĝimo MALŜALTITA"
+msgstr "Tekstura Reĝimo: MALŜALTITA"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Loko Markita"
@@ -2851,11 +2851,11 @@ msgstr ""
 
 msgctxt "chex"
 msgid "STSTR_DQDON"
-msgstr "Nevenkebla-reĝimo ŜALTITA"
+msgstr "Nevenkebla-reĝimo: ŜALTITA"
 
 msgctxt "chex"
 msgid "STSTR_DQDOFF"
-msgstr "Nevenkebla-reĝimo MALŜALTITA"
+msgstr "Nevenkebla-reĝimo: MALŜALTITA"
 
 msgctxt "chex"
 msgid "STSTR_FAADDED"
