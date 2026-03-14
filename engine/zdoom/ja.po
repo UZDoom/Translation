@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-13 22:54+0000\n"
+"PO-Revision-Date: 2026-03-15 00:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ja/>\n"
@@ -22,7 +22,7 @@ msgid "SECRETMESSAGE"
 msgstr "シークレットを解き明かした!"
 
 msgid "D_DEVSTR"
-msgstr "無駄なモード オン"
+msgstr "無駄なモード: オン"
 
 msgid "QUITMSG"
 msgstr ""
@@ -2854,11 +2854,11 @@ msgstr ""
 
 msgctxt "chex"
 msgid "STSTR_DQDON"
-msgstr "むてきモード オン"
+msgstr "むてきモード: オン"
 
 msgctxt "chex"
 msgid "STSTR_DQDOFF"
-msgstr "むてきモード オフ"
+msgstr "むてきモード: オフ"
 
 msgctxt "chex"
 msgid "STSTR_FAADDED"
