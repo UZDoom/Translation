@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-13 22:54+0000\n"
+"PO-Revision-Date: 2026-03-14 22:34+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/common/"
 "ru/>\n"
@@ -518,15 +518,18 @@ msgstr "Нет настраиваемых осей"
 msgid "OPTVAL_NONE"
 msgstr "Откл"
 
+#, fuzzy
 msgid "OPTVAL_TURNING"
 msgstr "Поворот"
 
 msgid "OPTVAL_LOOKINGUPDOWN"
 msgstr "Взгляд вверх/вниз"
 
+#, fuzzy
 msgid "OPTVAL_MOVINGFORWARD"
 msgstr "Движение вперёд"
 
+#, fuzzy
 msgid "OPTVAL_STRAFING"
 msgstr "Движение боком"
 

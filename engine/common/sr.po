@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-14 20:03+0000\n"
+"PO-Revision-Date: 2026-03-14 22:34+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/uzdoom/common/"
 "sr/>\n"
@@ -519,15 +519,18 @@ msgstr "Нема конфигурационих оса"
 msgid "OPTVAL_NONE"
 msgstr "Ништа"
 
+#, fuzzy
 msgid "OPTVAL_TURNING"
 msgstr "Скретање"
 
 msgid "OPTVAL_LOOKINGUPDOWN"
 msgstr "Гледање горе/доле"
 
+#, fuzzy
 msgid "OPTVAL_MOVINGFORWARD"
 msgstr "Кретање напред"
 
+#, fuzzy
 msgid "OPTVAL_STRAFING"
 msgstr "Кретање у страну"
 

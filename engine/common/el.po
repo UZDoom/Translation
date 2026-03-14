@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-13 22:54+0000\n"
+"PO-Revision-Date: 2026-03-14 22:34+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/uzdoom/common/el/>"
 "\n"
@@ -517,6 +517,7 @@ msgstr "Κανένας ρυθμιζόμενος άξονας"
 msgid "OPTVAL_NONE"
 msgstr "Τίποτα"
 
+#, fuzzy
 msgid "OPTVAL_TURNING"
 msgstr "Στροφή"
 
@@ -526,6 +527,7 @@ msgstr "Κοίταγμα πάνω/κάτω"
 msgid "OPTVAL_MOVINGFORWARD"
 msgstr ""
 
+#, fuzzy
 msgid "OPTVAL_STRAFING"
 msgstr "Σφυροκόπημα"
 

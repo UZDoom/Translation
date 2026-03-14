@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-13 22:54+0000\n"
+"PO-Revision-Date: 2026-03-14 22:34+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fi/>\n"
@@ -285,9 +285,11 @@ msgstr "Musiikin vaihtaminen"
 msgid "STSTR_NOMUS"
 msgstr "Valinta ei mahdollinen"
 
+#, fuzzy
 msgid "STSTR_DQDON"
 msgstr "Kuolemattomuustila PÄÄLLÄ"
 
+#, fuzzy
 msgid "STSTR_DQDOFF"
 msgstr "Kuolemattomuustila POIS"
 

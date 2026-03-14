@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-13 22:54+0000\n"
+"PO-Revision-Date: 2026-03-14 22:34+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/uzdoom/common/cs/>"
 "\n"
@@ -517,15 +517,18 @@ msgstr "Žádné nastavitelné osy"
 msgid "OPTVAL_NONE"
 msgstr "Žádný"
 
+#, fuzzy
 msgid "OPTVAL_TURNING"
 msgstr "Otáčení"
 
 msgid "OPTVAL_LOOKINGUPDOWN"
 msgstr "Dívání se nahoru/dolů"
 
+#, fuzzy
 msgid "OPTVAL_MOVINGFORWARD"
 msgstr "Pohyb vpřed"
 
+#, fuzzy
 msgid "OPTVAL_STRAFING"
 msgstr "Pohyb do stran"
 

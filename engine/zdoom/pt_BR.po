@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-13 22:54+0000\n"
+"PO-Revision-Date: 2026-03-14 22:34+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "uzdoom/zdoom-engine-strings/pt_BR/>\n"
@@ -284,9 +284,11 @@ msgstr "Trocando música"
 msgid "STSTR_NOMUS"
 msgstr "Seleção impossível"
 
+#, fuzzy
 msgid "STSTR_DQDON"
 msgstr "Modo invencível ATIVADO"
 
+#, fuzzy
 msgid "STSTR_DQDOFF"
 msgstr "Modo invencível DESATIVADO"
 

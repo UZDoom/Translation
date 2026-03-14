@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-06 23:10+0000\n"
+"PO-Revision-Date: 2026-03-14 22:34+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/uzdoom/common/"
 "fi/>\n"
@@ -520,15 +520,18 @@ msgstr "Ei säädettäviä akseleita"
 msgid "OPTVAL_NONE"
 msgstr "Ei mitään"
 
+#, fuzzy
 msgid "OPTVAL_TURNING"
 msgstr "Kääntyminen"
 
 msgid "OPTVAL_LOOKINGUPDOWN"
 msgstr "Ylös/Alas katsominen"
 
+#, fuzzy
 msgid "OPTVAL_MOVINGFORWARD"
 msgstr "Eteenpäin liikkuminen"
 
+#, fuzzy
 msgid "OPTVAL_STRAFING"
 msgstr "Sivuttaisastunta"
 

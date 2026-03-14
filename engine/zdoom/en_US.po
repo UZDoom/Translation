@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-14 20:03+0000\n"
+"PO-Revision-Date: 2026-03-14 22:34+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/en/>\n"
@@ -351,11 +351,9 @@ msgstr "Music Change"
 msgid "STSTR_NOMUS"
 msgstr "Impossible Selection"
 
-#, fuzzy
 msgid "STSTR_DQDON"
 msgstr "Degreelessness Mode ON"
 
-#, fuzzy
 msgid "STSTR_DQDOFF"
 msgstr "Degreelessness Mode OFF"
 

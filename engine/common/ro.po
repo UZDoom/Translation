@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-13 22:54+0000\n"
+"PO-Revision-Date: 2026-03-14 22:34+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/uzdoom/common/"
 "ro/>\n"
@@ -518,15 +518,18 @@ msgstr "Nicio axă configurabilă"
 msgid "OPTVAL_NONE"
 msgstr "Niciuna"
 
+#, fuzzy
 msgid "OPTVAL_TURNING"
 msgstr "Rotire"
 
 msgid "OPTVAL_LOOKINGUPDOWN"
 msgstr "Privire Sus/Jos"
 
+#, fuzzy
 msgid "OPTVAL_MOVINGFORWARD"
 msgstr "Deplasare în Față"
 
+#, fuzzy
 msgid "OPTVAL_STRAFING"
 msgstr "Fugă în Diagonală"
 

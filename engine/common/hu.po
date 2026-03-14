@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-13 22:54+0000\n"
+"PO-Revision-Date: 2026-03-14 22:34+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/uzdoom/common/"
 "hu/>\n"
@@ -517,15 +517,18 @@ msgstr "Nincs beállítható tengely"
 msgid "OPTVAL_NONE"
 msgstr "Nincs"
 
+#, fuzzy
 msgid "OPTVAL_TURNING"
 msgstr "Fordulás"
 
 msgid "OPTVAL_LOOKINGUPDOWN"
 msgstr "Fel-/lenézés"
 
+#, fuzzy
 msgid "OPTVAL_MOVINGFORWARD"
 msgstr "Előre mozgás"
 
+#, fuzzy
 msgid "OPTVAL_STRAFING"
 msgstr "Oldalazás"
 
