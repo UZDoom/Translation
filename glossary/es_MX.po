@@ -118,9 +118,6 @@ msgstr "YM3438"
 msgid "OPN2"
 msgstr "OPN2"
 
-msgid "OPN2-LLE"
-msgstr "OPN2-LLE"
-
 msgid "YMF276"
 msgstr "YMF276"
 
