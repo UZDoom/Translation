@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 13:09+0000\n"
-"Last-Translator: Andras Varro <varro.andras20@gmail.com>\n"
+"PO-Revision-Date: 2026-03-15 23:40+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hu/>\n"
 "Language: hu\n"
@@ -285,16 +285,16 @@ msgid "STSTR_NOMUS"
 msgstr "Lehetetlen Kiválasztás"
 
 msgid "STSTR_DQDON"
-msgstr "Sérthetetlenség Mód BE"
+msgstr "Sérthetetlenség Mód: BE"
 
 msgid "STSTR_DQDOFF"
-msgstr "Sérthetetlenség Mód KI"
+msgstr "Sérthetetlenség Mód: KI"
 
 msgid "STSTR_DQD2ON"
-msgstr "Tökéletes Sérthetetlenség Mód BE"
+msgstr "Tökéletes Sérthetetlenség Mód: BE"
 
 msgid "STSTR_DQD2OFF"
-msgstr "Tökéletes Sérthetetlenség Mód KI"
+msgstr "Tökéletes Sérthetetlenség Mód: KI"
 
 msgid "STSTR_KFAADDED"
 msgstr "Összes Lőszer Megadva"
@@ -303,16 +303,18 @@ msgid "STSTR_FAADDED"
 msgstr "Lőszer (nincsenek kulcsok) Megadva"
 
 msgid "STSTR_NCON"
-msgstr "Falonátmenés Mód BE"
+msgstr "Falonátmenés Mód: BE"
 
 msgid "STSTR_NCOFF"
-msgstr "Falonátmenés Mód KI"
+msgstr "Falonátmenés Mód: KI"
 
+#, fuzzy
 msgid "STSTR_NC2ON"
-msgstr "Falonátmenés 2. Mód BE"
+msgstr "Falonátmenés 2. Mód: BE"
 
+#, fuzzy
 msgid "STSTR_NC2OFF"
-msgstr "Falonátmenés 2 Mód KI"
+msgstr "Falonátmenés 2 Mód: KI"
 
 # “inVuln”: Invulnerability sphere
 # “Str”: Berserk
@@ -337,13 +339,13 @@ msgid "STSTR_CLEV"
 msgstr "Pályaváltás…"
 
 msgid "TXT_BUDDHAON"
-msgstr "Buddha Mód BE"
+msgstr "Buddha Mód: BE"
 
 msgid "TXT_BUDDHAOFF"
-msgstr "Buddha Mód KI"
+msgstr "Buddha Mód: KI"
 
 msgid "TXT_BUDDHA2ON"
-msgstr "Tökéletes Buddha Mód BE"
+msgstr "Tökéletes Buddha Mód: BE"
 
 msgid "TXT_BUDDHA2OFF"
 msgstr "Tökéletes Buddha Mód: KI"
