@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 00:09+0000\n"
+"PO-Revision-Date: 2026-03-15 03:49+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/it/>\n"
@@ -344,13 +344,13 @@ msgid "TXT_BUDDHA2ON"
 msgstr "Modalità Ultimo Buddha ATTIVA"
 
 msgid "TXT_BUDDHA2OFF"
-msgstr "Modalità Ultimo Buddha SPENTA"
+msgstr "Modalità Ultimo Buddha: SPENTA"
 
 msgid "TXT_CHEATPOWERON"
-msgstr "Potere ATTIVO"
+msgstr "Potere: ATTIVO"
 
 msgid "TXT_CHEATPOWEROFF"
-msgstr "Potere SPENTO"
+msgstr "Potere: SPENTO"
 
 msgid "TXT_CHEATHEALTH"
 msgstr "Piena salute"
@@ -359,10 +359,10 @@ msgid "TXT_CHEATKEYS"
 msgstr "Tutte le chiavi"
 
 msgid "TXT_CHEATSOUNDON"
-msgstr "Debug del suono ATTIVO"
+msgstr "Debug del suono: ATTIVO"
 
 msgid "TXT_CHEATSOUNDOFF"
-msgstr "Debug del suono SPENTO"
+msgstr "Debug del suono: SPENTO"
 
 msgid "TXT_CHEATIDDQD"
 msgstr "Cerchi di barare, eh? Allora muori!"
@@ -371,10 +371,10 @@ msgid "TXT_CHEATIDKFA"
 msgstr "Imbroglione—non meriti armi"
 
 msgid "TXT_CHEATTICKERON"
-msgstr "Ticker ATTIVO"
+msgstr "Ticker: ATTIVO"
 
 msgid "TXT_CHEATTICKEROFF"
-msgstr "Ticker SPENTO"
+msgstr "Ticker: SPENTO"
 
 msgid "TXT_CHEATARTIFACTS3"
 msgstr "Concesso"
@@ -386,10 +386,10 @@ msgid "TXT_GOTSTUFF"
 msgstr "Hai avuto il materiale!"
 
 msgid "TXT_FREEZEON"
-msgstr "Modalità arresto del tempo ATTIVA"
+msgstr "Modalità arresto del tempo: ATTIVA"
 
 msgid "TXT_FREEZEOFF"
-msgstr "Modalità arresto del tempo SPENTA"
+msgstr "Modalità arresto del tempo: SPENTA"
 
 msgid "TXT_STRANGE"
 msgstr "Ti senti strano…"
@@ -401,10 +401,10 @@ msgid "TXT_NOTSTRANGE"
 msgstr "Ti senti di nuovo te stesso."
 
 msgid "TXT_LEADBOOTSON"
-msgstr "Stivali di Piombo ATTIVI"
+msgstr "Stivali di Piombo: ATTIVI"
 
 msgid "TXT_LEADBOOTSOFF"
-msgstr "Stivali di Piombo SPENTI"
+msgstr "Stivali di Piombo: SPENTI"
 
 msgid "TXT_LIGHTER"
 msgstr "Ti senti più leggero"
@@ -413,10 +413,10 @@ msgid "TXT_GRAVITY"
 msgstr "La gravità ti riporta a terra"
 
 msgid "TXT_NOTARGET_ON"
-msgstr "Modalità Mostri ciechi e sordi ATTIVA"
+msgstr "Modalità Mostri ciechi e sordi: ATTIVA"
 
 msgid "TXT_NOTARGET_OFF"
-msgstr "Modalità Mostri ciechi e sordi SPENTA"
+msgstr "Modalità Mostri ciechi e sordi: SPENTA"
 
 msgid "TXT_ANUBIS_ON"
 msgstr "\"Trema con terrore!\""
@@ -425,10 +425,10 @@ msgid "TXT_ANUBIS_OFF"
 msgstr "Niente più armatura Ogre"
 
 msgid "TXT_CHASECAM_ON"
-msgstr "Modalità camera da inseguimento ATTIVA"
+msgstr "Modalità camera da inseguimento: ATTIVA"
 
 msgid "TXT_CHASECAM_OFF"
-msgstr "Modalità camera da inseguimento SPENTA"
+msgstr "Modalità camera da inseguimento: SPENTA"
 
 msgid "TXT_BADDIE_KILLED"
 msgstr "Ucciso 1 maligno"
@@ -453,7 +453,7 @@ msgid "TXT_WHAT_KILL"
 msgstr "Cosa vorresti uccidere fuori dal gioco?"
 
 msgid "TXT_NOT_FROZEN"
-msgstr "Proprietà del giocatore ghiacciato SPENTE"
+msgstr "Proprietà del giocatore ghiacciato: SPENTE"
 
 msgid "AMSTR_FOLLOWOFF"
 msgstr "Modalità inseguimento: SPENTA"
