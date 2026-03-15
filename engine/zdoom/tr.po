@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 03:49+0000\n"
+"PO-Revision-Date: 2026-03-15 23:40+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/tr/>\n"
@@ -285,16 +285,16 @@ msgid "STSTR_NOMUS"
 msgstr "İmkansız Seçim"
 
 msgid "STSTR_DQDON"
-msgstr "Dokunulmazlık Modu AÇIK"
+msgstr "Dokunulmazlık Modu: AÇIK"
 
 msgid "STSTR_DQDOFF"
-msgstr "Dokunulmazlık Modu KAPALI"
+msgstr "Dokunulmazlık Modu: KAPALI"
 
 msgid "STSTR_DQD2ON"
-msgstr "Nihai Dokunulmazlık Modu AÇIK"
+msgstr "Nihai Dokunulmazlık Modu: AÇIK"
 
 msgid "STSTR_DQD2OFF"
-msgstr "Nihai Dokunulmazlık Modu KAPALI"
+msgstr "Nihai Dokunulmazlık Modu: KAPALI"
 
 msgid "STSTR_KFAADDED"
 msgstr "Çok Mutlu Cephane Eklendi"
@@ -303,16 +303,18 @@ msgid "STSTR_FAADDED"
 msgstr "Cephane (anahtar yok) Eklendi"
 
 msgid "STSTR_NCON"
-msgstr "Klipsleme Yok Modu AÇIK"
+msgstr "Klipsleme Yok Modu: AÇIK"
 
 msgid "STSTR_NCOFF"
-msgstr "Klipsleme Yok Modu KAPALI"
+msgstr "Klipsleme Yok Modu: KAPALI"
 
+#, fuzzy
 msgid "STSTR_NC2ON"
-msgstr "Klipsleme Yok Modu 2 AÇIK"
+msgstr "Klipsleme Yok Modu 2: AÇIK"
 
+#, fuzzy
 msgid "STSTR_NC2OFF"
-msgstr "Klipsleme Yok Modu 2 KAPALI"
+msgstr "Klipsleme Yok Modu 2: KAPALI"
 
 # “inVuln”: Invulnerability sphere
 # “Str”: Berserk
@@ -335,13 +337,13 @@ msgid "STSTR_CLEV"
 msgstr "Seviye Değiştiriliyor…"
 
 msgid "TXT_BUDDHAON"
-msgstr "Buda modu AÇIK"
+msgstr "Buda modu: AÇIK"
 
 msgid "TXT_BUDDHAOFF"
-msgstr "Buda modu KAPALI"
+msgstr "Buda modu: KAPALI"
 
 msgid "TXT_BUDDHA2ON"
-msgstr "Nihai Buda Modu AÇIK"
+msgstr "Nihai Buda Modu: AÇIK"
 
 msgid "TXT_BUDDHA2OFF"
 msgstr "Nihai Buda Modu: KAPALI"
