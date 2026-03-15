@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 00:11+0000\n"
+"PO-Revision-Date: 2026-03-15 03:49+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/cs/>\n"
@@ -344,13 +344,13 @@ msgid "TXT_BUDDHA2ON"
 msgstr "Super Buddha mód ZAP"
 
 msgid "TXT_BUDDHA2OFF"
-msgstr "Super Buddha mód VYP"
+msgstr "Super Buddha mód: VYP"
 
 msgid "TXT_CHEATPOWERON"
-msgstr "Energie ZAP"
+msgstr "Energie: ZAP"
 
 msgid "TXT_CHEATPOWEROFF"
-msgstr "Energie VYP"
+msgstr "Energie: VYP"
 
 msgid "TXT_CHEATHEALTH"
 msgstr "Plné zdraví"
@@ -359,10 +359,10 @@ msgid "TXT_CHEATKEYS"
 msgstr "Všechny klíče"
 
 msgid "TXT_CHEATSOUNDON"
-msgstr "Debug zvuku ZAP"
+msgstr "Debug zvuku: ZAP"
 
 msgid "TXT_CHEATSOUNDOFF"
-msgstr "Debug zvuku VYP"
+msgstr "Debug zvuku: VYP"
 
 msgid "TXT_CHEATIDDQD"
 msgstr "Pokoušíš se cheatovat, co? Teď zemřeš!"
@@ -371,10 +371,10 @@ msgid "TXT_CHEATIDKFA"
 msgstr "Podvodníku—nezasloužíš si zbraně"
 
 msgid "TXT_CHEATTICKERON"
-msgstr "Počítadlo ZAP"
+msgstr "Počítadlo: ZAP"
 
 msgid "TXT_CHEATTICKEROFF"
-msgstr "Počítadlo VYP"
+msgstr "Počítadlo: VYP"
 
 msgid "TXT_CHEATARTIFACTS3"
 msgstr "Máš to mít"
@@ -386,10 +386,10 @@ msgid "TXT_GOTSTUFF"
 msgstr "Dostal jsi věci!"
 
 msgid "TXT_FREEZEON"
-msgstr "Režim zamrznutí ZAP"
+msgstr "Režim zamrznutí: ZAP"
 
 msgid "TXT_FREEZEOFF"
-msgstr "Režim zamrznutí VYP"
+msgstr "Režim zamrznutí: VYP"
 
 msgid "TXT_STRANGE"
 msgstr "Cítíš se divně…"
@@ -401,10 +401,10 @@ msgid "TXT_NOTSTRANGE"
 msgstr "Cítíš se opět jako ty."
 
 msgid "TXT_LEADBOOTSON"
-msgstr "Olověné boty ZAP"
+msgstr "Olověné boty: ZAP"
 
 msgid "TXT_LEADBOOTSOFF"
-msgstr "Olověné boty VYP"
+msgstr "Olověné boty: VYP"
 
 msgid "TXT_LIGHTER"
 msgstr "Cítíš se lehčí"
@@ -413,10 +413,10 @@ msgid "TXT_GRAVITY"
 msgstr "Gravitace tě táhne dolů"
 
 msgid "TXT_NOTARGET_ON"
-msgstr "Neútočící příšery ZAP"
+msgstr "Neútočící příšery: ZAP"
 
 msgid "TXT_NOTARGET_OFF"
-msgstr "Neútočící příšery VYP"
+msgstr "Neútočící příšery: VYP"
 
 msgid "TXT_ANUBIS_ON"
 msgstr "„Třeste se strachy!“"
@@ -425,10 +425,10 @@ msgid "TXT_ANUBIS_OFF"
 msgstr "Už žádné zlobří brnění"
 
 msgid "TXT_CHASECAM_ON"
-msgstr "Pohled z třetí osoby ZAP"
+msgstr "Pohled z třetí osoby: ZAP"
 
 msgid "TXT_CHASECAM_OFF"
-msgstr "Pohled z třetí osoby VYP"
+msgstr "Pohled z třetí osoby: VYP"
 
 msgid "TXT_BADDIE_KILLED"
 msgstr "1 zloun zabit"
@@ -452,13 +452,13 @@ msgid "TXT_WHAT_KILL"
 msgstr "Co chceš zabít, když nejsi ve hře?"
 
 msgid "TXT_NOT_FROZEN"
-msgstr "Vlastnosti držící hráče na místě VYP"
+msgstr "Vlastnosti držící hráče na místě: VYP"
 
 msgid "AMSTR_FOLLOWOFF"
-msgstr "Režim sledování VYP"
+msgstr "Režim sledování: VYP"
 
 msgid "AMSTR_FOLLOWON"
-msgstr "Režim sledování ZAP"
+msgstr "Režim sledování: ZAP"
 
 msgid "AMSTR_GRIDON"
 msgstr "Mřížka: ZAP"
