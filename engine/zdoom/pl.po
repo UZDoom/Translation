@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 03:49+0000\n"
+"PO-Revision-Date: 2026-03-15 23:40+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/pl/>\n"
@@ -289,13 +289,13 @@ msgid "STSTR_DQDON"
 msgstr "Tryb oblanej magisterki: WŁ"
 
 msgid "STSTR_DQDOFF"
-msgstr "Tryb oblanej magisterki WYŁ"
+msgstr "Tryb oblanej magisterki: WYŁ"
 
 msgid "STSTR_DQD2ON"
-msgstr "Tryb oblanego licencjatu WŁ"
+msgstr "Tryb oblanego licencjatu: WŁ"
 
 msgid "STSTR_DQD2OFF"
-msgstr "Tryb oblanego licencjatu WYŁ"
+msgstr "Tryb oblanego licencjatu: WYŁ"
 
 msgid "STSTR_KFAADDED"
 msgstr "Bardzo szczęśliwa amunicja dodana"
@@ -304,16 +304,18 @@ msgid "STSTR_FAADDED"
 msgstr "Amunicja (bez kluczy) dodana"
 
 msgid "STSTR_NCON"
-msgstr "Tryb no-clip WŁ"
+msgstr "Tryb no-clip: WŁ"
 
 msgid "STSTR_NCOFF"
-msgstr "Tryb no-clip WYŁ"
+msgstr "Tryb no-clip: WYŁ"
 
+#, fuzzy
 msgid "STSTR_NC2ON"
-msgstr "Drugi tryb no-clip WŁ"
+msgstr "Drugi tryb no-clip: WŁ"
 
+#, fuzzy
 msgid "STSTR_NC2OFF"
-msgstr "Drugy tryb no-clip WYŁ"
+msgstr "Drugy tryb no-clip: WYŁ"
 
 # “inVuln”: Invulnerability sphere
 # “Str”: Berserk
@@ -338,13 +340,13 @@ msgid "STSTR_CLEV"
 msgstr "Zmienianie poziomu…"
 
 msgid "TXT_BUDDHAON"
-msgstr "Tryb Buddy WŁ"
+msgstr "Tryb Buddy: WŁ"
 
 msgid "TXT_BUDDHAOFF"
-msgstr "Tryb Buddy WYŁ"
+msgstr "Tryb Buddy: WYŁ"
 
 msgid "TXT_BUDDHA2ON"
-msgstr "Maksymalny Tryb Buddy WŁ"
+msgstr "Maksymalny Tryb Buddy: WŁ"
 
 msgid "TXT_BUDDHA2OFF"
 msgstr "Maksymalny Tryb Buddy: WYŁ"
