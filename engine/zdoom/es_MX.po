@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 03:49+0000\n"
+"PO-Revision-Date: 2026-03-15 23:40+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/es_MX/>\n"
@@ -286,16 +286,16 @@ msgid "STSTR_NOMUS"
 msgstr "Selección Imposible"
 
 msgid "STSTR_DQDON"
-msgstr "Modo Dios ACTIVADO"
+msgstr "Modo Dios: ACTIVADO"
 
 msgid "STSTR_DQDOFF"
-msgstr "Modo Dios DESACTIVADO"
+msgstr "Modo Dios: DESACTIVADO"
 
 msgid "STSTR_DQD2ON"
-msgstr "Modo Dios Supremo ACTIVADO"
+msgstr "Modo Dios Supremo: ACTIVADO"
 
 msgid "STSTR_DQD2OFF"
-msgstr "Modo Dios Supremo DESACTIVADO"
+msgstr "Modo Dios Supremo: DESACTIVADO"
 
 msgid "STSTR_KFAADDED"
 msgstr "Munición Alegre Añadida"
@@ -304,16 +304,18 @@ msgid "STSTR_FAADDED"
 msgstr "Munición (sin llaves) Añadida"
 
 msgid "STSTR_NCON"
-msgstr "Modo Noclip ACTIVADO"
+msgstr "Modo Noclip: ACTIVADO"
 
 msgid "STSTR_NCOFF"
-msgstr "Modo Noclip Desactivado"
+msgstr "Modo Noclip: DESACTIVADO"
 
+#, fuzzy
 msgid "STSTR_NC2ON"
-msgstr "Modo Noclip 2 ACTIVADO"
+msgstr "Modo Noclip 2: ACTIVADO"
 
+#, fuzzy
 msgid "STSTR_NC2OFF"
-msgstr "Modo Noclip 2 DESACTIVADO"
+msgstr "Modo Noclip 2: DESACTIVADO"
 
 # “inVuln”: Invulnerability sphere
 # “Str”: Berserk
@@ -336,13 +338,13 @@ msgid "STSTR_CLEV"
 msgstr "Cambiando de Nivel…"
 
 msgid "TXT_BUDDHAON"
-msgstr "Modo Buda ACTIVADO"
+msgstr "Modo Buda: ACTIVADO"
 
 msgid "TXT_BUDDHAOFF"
-msgstr "Modo Buda DESACTIVADO"
+msgstr "Modo Buda: DESACTIVADO"
 
 msgid "TXT_BUDDHA2ON"
-msgstr "Modo Buda Supremo ACTIVADO"
+msgstr "Modo Buda Supremo: ACTIVADO"
 
 msgid "TXT_BUDDHA2OFF"
 msgstr "Modo Buda Supremo: DESACTIVADO"
