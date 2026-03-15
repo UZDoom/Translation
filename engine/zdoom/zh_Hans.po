@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "PO-Revision-Date: 2026-03-15 03:49+0000\n"
-"Last-Translator: dwing <12104745@qq.com>\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -361,6 +361,7 @@ msgstr "所有钥匙"
 msgid "TXT_CHEATSOUNDON"
 msgstr "声音调试：开"
 
+#, fuzzy
 msgid "TXT_CHEATSOUNDOFF"
 msgstr "声音调试：关"
 
