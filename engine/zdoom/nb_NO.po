@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 03:49+0000\n"
+"PO-Revision-Date: 2026-03-15 23:40+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/nb_NO/>\n"
@@ -286,16 +286,16 @@ msgid "STSTR_NOMUS"
 msgstr "Umulig valg"
 
 msgid "STSTR_DQDON"
-msgstr "Gradløshetsmodus PÅ"
+msgstr "Gradløshetsmodus: PÅ"
 
 msgid "STSTR_DQDOFF"
-msgstr "Gradløshetsmodus AV"
+msgstr "Gradløshetsmodus: AV"
 
 msgid "STSTR_DQD2ON"
-msgstr "Ultimativ gradløshetsmodus PÅ"
+msgstr "Ultimativ gradløshetsmodus: PÅ"
 
 msgid "STSTR_DQD2OFF"
-msgstr "Ultimativ gradløshetsmodus AV"
+msgstr "Ultimativ gradløshetsmodus: AV"
 
 msgid "STSTR_KFAADDED"
 msgstr "Veldig glad ammunisjon lagt til"
@@ -304,16 +304,18 @@ msgid "STSTR_FAADDED"
 msgstr "Ammo (ingen nøkler) Lagt til"
 
 msgid "STSTR_NCON"
-msgstr "Ingen klipping-modus PÅ"
+msgstr "Ingen klipping-modus: PÅ"
 
 msgid "STSTR_NCOFF"
-msgstr "Ingen klippemodus AV"
+msgstr "Ingen klippemodus: AV"
 
+#, fuzzy
 msgid "STSTR_NC2ON"
-msgstr "No Clipping Mode 2 PÅ"
+msgstr "No Clipping Mode 2: PÅ"
 
+#, fuzzy
 msgid "STSTR_NC2OFF"
-msgstr "Ingen klippemodus 2 AV"
+msgstr "Ingen klippemodus 2: AV"
 
 # “inVuln”: Invulnerability sphere
 # “Str”: Berserk
@@ -336,13 +338,13 @@ msgid "STSTR_CLEV"
 msgstr "Endre nivå…"
 
 msgid "TXT_BUDDHAON"
-msgstr "Buddha-modus PÅ"
+msgstr "Buddha-modus: PÅ"
 
 msgid "TXT_BUDDHAOFF"
-msgstr "Buddha-modus AV"
+msgstr "Buddha-modus: AV"
 
 msgid "TXT_BUDDHA2ON"
-msgstr "Ultimativ Buddha-modus PÅ"
+msgstr "Ultimativ Buddha-modus: PÅ"
 
 msgid "TXT_BUDDHA2OFF"
 msgstr "Ultimativ Buddha-modus: AV"
