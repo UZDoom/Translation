@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 00:10+0000\n"
+"PO-Revision-Date: 2026-03-15 03:49+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/nl/>\n"
@@ -344,13 +344,13 @@ msgid "TXT_BUDDHA2ON"
 msgstr "Ultieme Boeddha-modus AAN"
 
 msgid "TXT_BUDDHA2OFF"
-msgstr "Ultieme Boeddha-modus UIT"
+msgstr "Ultieme Boeddha-modus: UIT"
 
 msgid "TXT_CHEATPOWERON"
-msgstr "Vermogen AAN"
+msgstr "Vermogen: AAN"
 
 msgid "TXT_CHEATPOWEROFF"
-msgstr "Vermogen UIT"
+msgstr "Vermogen: UIT"
 
 msgid "TXT_CHEATHEALTH"
 msgstr "Volledige gezondheid"
@@ -359,10 +359,10 @@ msgid "TXT_CHEATKEYS"
 msgstr "Alle sleutels"
 
 msgid "TXT_CHEATSOUNDON"
-msgstr "Geluid debug AAN"
+msgstr "Geluid debug: AAN"
 
 msgid "TXT_CHEATSOUNDOFF"
-msgstr "Geluid debug UIT"
+msgstr "Geluid debug: UIT"
 
 msgid "TXT_CHEATIDDQD"
 msgstr "Je wou valsspelen, hè? Nu ga je dood!"
@@ -371,10 +371,10 @@ msgid "TXT_CHEATIDKFA"
 msgstr "Valsspeler—je verdient geen wapens"
 
 msgid "TXT_CHEATTICKERON"
-msgstr "Ticker AAN"
+msgstr "Ticker: AAN"
 
 msgid "TXT_CHEATTICKEROFF"
-msgstr "Ticker UIT"
+msgstr "Ticker: UIT"
 
 msgid "TXT_CHEATARTIFACTS3"
 msgstr "Je hebt het"
@@ -386,10 +386,10 @@ msgid "TXT_GOTSTUFF"
 msgstr "Je hebt het spul!"
 
 msgid "TXT_FREEZEON"
-msgstr "Bevriesmodus AAN"
+msgstr "Bevriesmodus: AAN"
 
 msgid "TXT_FREEZEOFF"
-msgstr "Bevriesmodus UIT"
+msgstr "Bevriesmodus: UIT"
 
 msgid "TXT_STRANGE"
 msgstr "Je voelt je vreemd…"
@@ -401,10 +401,10 @@ msgid "TXT_NOTSTRANGE"
 msgstr "Je voelt je weer als jezelf."
 
 msgid "TXT_LEADBOOTSON"
-msgstr "Loden laarzen AAN"
+msgstr "Loden laarzen: AAN"
 
 msgid "TXT_LEADBOOTSOFF"
-msgstr "Loden laarzen UIT"
+msgstr "Loden laarzen: UIT"
 
 msgid "TXT_LIGHTER"
 msgstr "Je voelt je lichter"
@@ -413,10 +413,10 @@ msgid "TXT_GRAVITY"
 msgstr "De zwaartekracht drukt je naar beneden"
 
 msgid "TXT_NOTARGET_ON"
-msgstr "Geen doelwit AAN"
+msgstr "Geen doelwit: AAN"
 
 msgid "TXT_NOTARGET_OFF"
-msgstr "Geen doelwit UIT"
+msgstr "Geen doelwit: UIT"
 
 msgid "TXT_ANUBIS_ON"
 msgstr "„Beving van angst!“"
@@ -425,10 +425,10 @@ msgid "TXT_ANUBIS_OFF"
 msgstr "Geen Ogre Pantser meer"
 
 msgid "TXT_CHASECAM_ON"
-msgstr "Chasecam AAN"
+msgstr "Chasecam: AAN"
 
 msgid "TXT_CHASECAM_OFF"
-msgstr "Chasecam UIT"
+msgstr "Chasecam: UIT"
 
 msgid "TXT_BADDIE_KILLED"
 msgstr "1 slechterik gedood"
@@ -453,13 +453,13 @@ msgid "TXT_WHAT_KILL"
 msgstr "Wat wil je buiten een spel om doden?"
 
 msgid "TXT_NOT_FROZEN"
-msgstr "Eigenschappen van de bevroren speler UIT"
+msgstr "Eigenschappen van de bevroren speler: UIT"
 
 msgid "AMSTR_FOLLOWOFF"
-msgstr "Volgmodus UIT"
+msgstr "Volgmodus: UIT"
 
 msgid "AMSTR_FOLLOWON"
-msgstr "Volgmodus AAN"
+msgstr "Volgmodus: AAN"
 
 msgid "AMSTR_GRIDON"
 msgstr "Raster: AAN"
