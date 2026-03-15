@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "PO-Revision-Date: 2026-03-15 03:49+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"Last-Translator: dwing <12104745@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -427,7 +427,6 @@ msgstr "再也没有食人魔盔甲"
 msgid "TXT_CHASECAM_ON"
 msgstr "跟随视角：开"
 
-#, fuzzy
 msgid "TXT_CHASECAM_OFF"
 msgstr "跟随视角：关"
 
@@ -2855,11 +2854,11 @@ msgstr ""
 
 msgctxt "chex"
 msgid "STSTR_DQDON"
-msgstr "无敌模式：开启"
+msgstr "无敌模式：开"
 
 msgctxt "chex"
 msgid "STSTR_DQDOFF"
-msgstr "无敌模式：关闭"
+msgstr "无敌模式：关"
 
 #, fuzzy
 msgctxt "chex"
