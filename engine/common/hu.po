@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-14 22:34+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-03-15 13:09+0000\n"
+"Last-Translator: Andras Varro <varro.andras20@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/uzdoom/common/"
 "hu/>\n"
 "Language: hu\n"
@@ -517,16 +517,14 @@ msgstr "Nincs beállítható tengely"
 msgid "OPTVAL_NONE"
 msgstr "Nincs"
 
-#, fuzzy
 msgid "OPTVAL_TURNING"
-msgstr "Fordulás"
+msgstr "Balra/Jobbra nézés"
 
 msgid "OPTVAL_LOOKINGUPDOWN"
 msgstr "Fel-/lenézés"
 
-#, fuzzy
 msgid "OPTVAL_MOVINGFORWARD"
-msgstr "Előre mozgás"
+msgstr "Előre/Hátra mozgás"
 
 #, fuzzy
 msgid "OPTVAL_STRAFING"
@@ -677,43 +675,43 @@ msgid "MAPCOLORMNU_DEFAULTMAPCOLORS"
 msgstr "Eredeti színek visszaállítása"
 
 msgid "OPTVAL_8000HZ"
-msgstr ""
+msgstr "8000 Hz"
 
 msgid "OPTVAL_11025HZ"
-msgstr ""
+msgstr "11025 Hz"
 
 msgid "OPTVAL_22050HZ"
-msgstr ""
+msgstr "22050 Hz"
 
 msgid "OPTVAL_32000HZ"
-msgstr ""
+msgstr "32000 Hz"
 
 msgid "OPTVAL_44100HZ"
-msgstr ""
+msgstr "44100 Hz"
 
 msgid "OPTVAL_48000HZ"
-msgstr ""
+msgstr "48000 Hz"
 
 msgid "OPTVAL_64SAMPLES"
-msgstr ""
+msgstr "64 minta"
 
 msgid "OPTVAL_128SAMPLES"
-msgstr ""
+msgstr "128 minta"
 
 msgid "OPTVAL_256SAMPLES"
-msgstr ""
+msgstr "256 minta"
 
 msgid "OPTVAL_512SAMPLES"
-msgstr ""
+msgstr "512 minta"
 
 msgid "OPTVAL_1024SAMPLES"
-msgstr ""
+msgstr "1024 minta"
 
 msgid "OPTVAL_2048SAMPLES"
-msgstr ""
+msgstr "2048 minta"
 
 msgid "OPTVAL_4096SAMPLES"
-msgstr ""
+msgstr "4096 minta"
 
 msgid "OPTSTR_AUTO"
 msgstr "Automatikus"
@@ -725,10 +723,10 @@ msgid "OPTSTR_STEREO"
 msgstr "Sztereó"
 
 msgid "OPTSTR_PROLOGIC"
-msgstr ""
+msgstr "Dolby Pro Logic Dekódoló"
 
 msgid "OPTSTR_QUAD"
-msgstr ""
+msgstr "Négyszeres"
 
 msgid "OPTSTR_SURROUND"
 msgstr "5 hangfal"
@@ -746,7 +744,7 @@ msgid "OPENALMNU_ENABLEEFX"
 msgstr "EFX engedélyezése"
 
 msgid "OPENALMNU_RESAMPLER"
-msgstr ""
+msgstr "Minta-újravételező"
 
 msgid "SNDMNU_SFXVOLUME"
 msgstr "Effektek hangereje"
@@ -809,7 +807,7 @@ msgid "ADVSNDMNU_OPLFULLPAN"
 msgstr "Teljes MIDI sztereó tájolás"
 
 msgid "ADVSNDMNU_OPLCORES"
-msgstr ""
+msgstr "OPL Emulátor Mag"
 
 msgid "ADVSNDMNU_MIDIVOICES"
 msgstr "MIDI hangok"
@@ -818,13 +816,13 @@ msgid "ADVSNDMNU_FLUIDSYNTH"
 msgstr "FluidSynth"
 
 msgid "ADVSNDMNU_GLOBAL"
-msgstr ""
+msgstr "Globális"
 
 msgid "ADVSNDMNU_FREEVERB"
 msgstr "Freeverb"
 
 msgid "ADVSNDMNU_GLOBAL_FREEVERB"
-msgstr ""
+msgstr "Globális Freeverb"
 
 msgid "ADVSNDMNU_FLUIDGAIN"
 msgstr "Visszaverődés"
@@ -836,7 +834,7 @@ msgid "ADVSNDMNU_REVERB_LEVEL"
 msgstr "Visszhang szintje"
 
 msgid "ADVSNDMNU_CHORUS"
-msgstr ""
+msgstr "Kórus"
 
 msgid "ADVSNDMNU_TIMIDITY"
 msgstr "Timidity++"
@@ -857,7 +855,7 @@ msgid "ADVSNDMNU_ADVRESAMPLING"
 msgstr "Fejlett Resmapling"
 
 msgid "ADVSNDMNU_OPLBANK"
-msgstr ""
+msgstr "OPL Bank"
 
 msgid "ADVSNDMNU_RUNPCMRATE"
 msgstr "Emulátor futtatása PCM rátán"
@@ -979,34 +977,34 @@ msgid "MODMNU_CHIPOMATIC"
 msgstr "Chip-o-matic"
 
 msgid "OPTVAL_MAMEOPL2"
-msgstr ""
+msgstr "MAME OPL2"
 
 msgid "OPTVAL_DOSBOXOPL3"
-msgstr ""
+msgstr "DOSBox OPL3"
 
 msgid "OPTVAL_JAVAOPL3"
-msgstr ""
+msgstr "Java OPL3"
 
 msgid "OPTVAL_ESFMu"
-msgstr ""
+msgstr "ESFMu OPL3"
 
 msgid "OPTVAL_YMFMOPL2"
-msgstr ""
+msgstr "YMFM OPL2"
 
 msgid "OPTVAL_YMFMOPL3"
-msgstr ""
+msgstr "YMFM OPL3"
 
 msgid "OPTVAL_NUKEDOPL3"
-msgstr ""
+msgstr "Nuked OPL3"
 
 msgid "OPTVAL_LLENUKEDOPL2"
-msgstr ""
+msgstr "OPL2-LLE (erőforrás-igényes)"
 
 msgid "OPTVAL_LLENUKEDOPL3"
-msgstr ""
+msgstr "OPL3-LLE (erőforrás-igényes)"
 
 msgid "OPTVAL_MAMEOPN2"
-msgstr ""
+msgstr "MAME OPN2 (YM2612)"
 
 msgid "OPTVAL_NP2OPNA"
 msgstr ""
@@ -1099,7 +1097,7 @@ msgid "ADLVLMODEL_HMIOLD"
 msgstr "HMI SOS (Régi, bugokkal)"
 
 msgid "ADLCHANALLOC_AUTO"
-msgstr ""
+msgstr "Automatikus"
 
 msgid "ADLCHANALLOC_OFFDELAY"
 msgstr ""
@@ -1237,19 +1235,19 @@ msgid "OPTVAL_TRILINEAR"
 msgstr "Trilineáris"
 
 msgid "OPTVAL_2X"
-msgstr ""
+msgstr "2-szeres"
 
 msgid "OPTVAL_4X"
-msgstr ""
+msgstr "4-szeres"
 
 msgid "OPTVAL_8X"
-msgstr ""
+msgstr "8-szoros"
 
 msgid "OPTVAL_16X"
-msgstr ""
+msgstr "16-szoros"
 
 msgid "OPTVAL_32X"
-msgstr ""
+msgstr "32-szeres"
 
 msgid "GLTEXMNU_TITLE"
 msgstr "Textúra Beállítások"
@@ -1362,25 +1360,25 @@ msgid "OPTVAL_CUSTOM"
 msgstr "Egyéni"
 
 msgid "VIDMNU_MAXFPS"
-msgstr ""
+msgstr "Maximum FPS"
 
 msgid "OPTVAL_60FPS"
-msgstr ""
+msgstr "60 fps"
 
 msgid "OPTVAL_75FPS"
-msgstr ""
+msgstr "75 fps"
 
 msgid "OPTVAL_90FPS"
-msgstr ""
+msgstr "90 fps"
 
 msgid "OPTVAL_120FPS"
-msgstr ""
+msgstr "120 fps"
 
 msgid "OPTVAL_144FPS"
-msgstr ""
+msgstr "144 fps"
 
 msgid "OPTVAL_200FPS"
-msgstr ""
+msgstr "200 fps"
 
 msgid "VIDMNU_PREFERBACKEND"
 msgstr "Előnyben részesített renderelő API"
@@ -1422,9 +1420,8 @@ msgstr "Gyorsmentés forgás"
 msgid "MISCMNU_QUICKSAVECOUNT"
 msgstr "Gyorsmentések száma a forgásban"
 
-#, fuzzy
 msgid "MISCMNU_CLEANMENU"
-msgstr "Menü Tisztaarányítás kikapcsolása"
+msgstr "Klasszikus ZDoom menü méretezés"
 
 msgid "MISCMNU_PAUSEINBACKGROUND"
 msgstr "Játék megállítása a háttérben"
@@ -1635,7 +1632,7 @@ msgid "PICKER_LIGHTS"
 msgstr "Fények"
 
 msgid "PICKER_BRIGHTMAPS"
-msgstr "Brightmaps"
+msgstr "Fénytérképek (brightmaps)"
 
 msgid "PICKER_WIDESCREEN"
 msgstr "Szélesképernyő"
@@ -1777,3 +1774,12 @@ msgstr ""
 
 msgid "JOYMNU_ANALOGSTRAFERUN"
 msgstr ""
+
+msgid "ACCMNU_TITLE"
+msgstr "Akadálymentességi beállítások"
+
+msgid "MSGMNU_MESSAGEQUEUE"
+msgstr "Üzenetsor mérete"
+
+msgid "MSGMNU_STACKIDENTICAL"
+msgstr "Ismételt üzenetek felhalmozása"
