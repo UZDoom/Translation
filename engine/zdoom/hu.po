@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 03:49+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-03-15 13:09+0000\n"
+"Last-Translator: Andras Varro <varro.andras20@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hu/>\n"
 "Language: hu\n"
@@ -531,9 +531,8 @@ msgstr "Titok"
 msgid "SCORE_NAME"
 msgstr "Név"
 
-#, fuzzy
 msgid "SCORE_DELAY"
-msgstr "Késleltetés (ms)"
+msgstr "Késleltetés"
 
 msgid "SCORE_FRAGS"
 msgstr "Frag-ek"
@@ -930,7 +929,7 @@ msgid "TAG_PLASMARIFLE"
 msgstr "Plazmafegyver"
 
 msgid "TAG_BFG9000"
-msgstr ""
+msgstr "BFG 9000"
 
 msgid "AMMO_CLIP"
 msgstr "Töltények"
