@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 03:49+0000\n"
+"PO-Revision-Date: 2026-03-15 23:40+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/cs/>\n"
@@ -288,13 +288,13 @@ msgid "STSTR_DQDON"
 msgstr "Nesmrtelnost: ZAP"
 
 msgid "STSTR_DQDOFF"
-msgstr "Nesmrtelnost VYP"
+msgstr "Nesmrtelnost: VYP"
 
 msgid "STSTR_DQD2ON"
-msgstr "Supernesmrtelnost ZAP"
+msgstr "Supernesmrtelnost: ZAP"
 
 msgid "STSTR_DQD2OFF"
-msgstr "Supernesmrtelnost VYP"
+msgstr "Supernesmrtelnost: VYP"
 
 msgid "STSTR_KFAADDED"
 msgstr "Velmi veselá munice přidána"
@@ -303,16 +303,18 @@ msgid "STSTR_FAADDED"
 msgstr "Munice (bez klíčú) přidána"
 
 msgid "STSTR_NCON"
-msgstr "Bezkolizní režim ZAP"
+msgstr "Bezkolizní režim: ZAP"
 
 msgid "STSTR_NCOFF"
-msgstr "Bezkolizní režim VYP"
+msgstr "Bezkolizní režim: VYP"
 
+#, fuzzy
 msgid "STSTR_NC2ON"
-msgstr "Bezkolizní režim 2 ZAP"
+msgstr "Bezkolizní režim 2: ZAP"
 
+#, fuzzy
 msgid "STSTR_NC2OFF"
-msgstr "Bezkolizní režim 2 VYP"
+msgstr "Bezkolizní režim 2: VYP"
 
 # “inVuln”: Invulnerability sphere
 # “Str”: Berserk
@@ -335,13 +337,13 @@ msgid "STSTR_CLEV"
 msgstr "Měním level…"
 
 msgid "TXT_BUDDHAON"
-msgstr "Buddha mód ZAP"
+msgstr "Buddha mód: ZAP"
 
 msgid "TXT_BUDDHAOFF"
-msgstr "Buddha mód VYP"
+msgstr "Buddha mód: VYP"
 
 msgid "TXT_BUDDHA2ON"
-msgstr "Super Buddha mód ZAP"
+msgstr "Super Buddha mód: ZAP"
 
 msgid "TXT_BUDDHA2OFF"
 msgstr "Super Buddha mód: VYP"
