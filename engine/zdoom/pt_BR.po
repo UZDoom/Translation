@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 03:49+0000\n"
+"PO-Revision-Date: 2026-03-15 23:40+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "uzdoom/zdoom-engine-strings/pt_BR/>\n"
@@ -284,19 +284,17 @@ msgstr "Trocando música"
 msgid "STSTR_NOMUS"
 msgstr "Seleção impossível"
 
-#, fuzzy
 msgid "STSTR_DQDON"
-msgstr "Modo invencível ATIVADO"
+msgstr "Modo invencível: ATIVADO"
 
-#, fuzzy
 msgid "STSTR_DQDOFF"
-msgstr "Modo invencível DESATIVADO"
+msgstr "Modo invencível: DESATIVADO"
 
 msgid "STSTR_DQD2ON"
-msgstr "Modo invencível supremo ATIVADO"
+msgstr "Modo invencível supremo: ATIVADO"
 
 msgid "STSTR_DQD2OFF"
-msgstr "Modo invencível supremo DESATIVADO"
+msgstr "Modo invencível supremo: DESATIVADO"
 
 msgid "STSTR_KFAADDED"
 msgstr "Equipamento completo"
@@ -305,16 +303,18 @@ msgid "STSTR_FAADDED"
 msgstr "Equipamento completo (sem chaves)"
 
 msgid "STSTR_NCON"
-msgstr "Modo sem colisão ATIVADO"
+msgstr "Modo sem colisão: ATIVADO"
 
 msgid "STSTR_NCOFF"
-msgstr "Modo sem colisão DESATIVADO"
+msgstr "Modo sem colisão: DESATIVADO"
 
+#, fuzzy
 msgid "STSTR_NC2ON"
-msgstr "Modo sem colisão 2 ATIVADO"
+msgstr "Modo sem colisão 2: ATIVADO"
 
+#, fuzzy
 msgid "STSTR_NC2OFF"
-msgstr "Modo sem colisão 2 DESATIVADO"
+msgstr "Modo sem colisão 2: DESATIVADO"
 
 # “inVuln”: Invulnerability sphere
 # “Str”: Berserk
@@ -339,13 +339,13 @@ msgid "STSTR_CLEV"
 msgstr "Trocando de fase…"
 
 msgid "TXT_BUDDHAON"
-msgstr "Modo Buda ATIVADO"
+msgstr "Modo Buda: ATIVADO"
 
 msgid "TXT_BUDDHAOFF"
-msgstr "Modo Buda DESATIVADO"
+msgstr "Modo Buda: DESATIVADO"
 
 msgid "TXT_BUDDHA2ON"
-msgstr "Modo Buda supremo ATIVADO"
+msgstr "Modo Buda supremo: ATIVADO"
 
 msgid "TXT_BUDDHA2OFF"
 msgstr "Modo Buda supremo: DESATIVADO"
