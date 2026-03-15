@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 00:10+0000\n"
+"PO-Revision-Date: 2026-03-15 03:49+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/sr/>\n"
@@ -347,13 +347,13 @@ msgid "TXT_BUDDHA2ON"
 msgstr "Ултимативни Буда Мод УКЉ"
 
 msgid "TXT_BUDDHA2OFF"
-msgstr "Ултимативни Буда Мод ИСКЉ"
+msgstr "Ултимативни Буда Мод: ИСКЉ"
 
 msgid "TXT_CHEATPOWERON"
-msgstr "Моћ УКЉ"
+msgstr "Моћ: УКЉ"
 
 msgid "TXT_CHEATPOWEROFF"
-msgstr "Моћ ИСКЉ"
+msgstr "Моћ: ИСКЉ"
 
 msgid "TXT_CHEATHEALTH"
 msgstr "Здравље напуњено"
@@ -362,10 +362,10 @@ msgid "TXT_CHEATKEYS"
 msgstr "Сви кључеви"
 
 msgid "TXT_CHEATSOUNDON"
-msgstr "Дебаговање звука УКЉ"
+msgstr "Дебаговање звука: УКЉ"
 
 msgid "TXT_CHEATSOUNDOFF"
-msgstr "Дебаговање звука ИСКЉ"
+msgstr "Дебаговање звука: ИСКЉ"
 
 msgid "TXT_CHEATIDDQD"
 msgstr "Покушаваш да вараш, ех? Сада умиреш!"
@@ -374,10 +374,10 @@ msgid "TXT_CHEATIDKFA"
 msgstr "Варалице—ти не заслужујеш оружје"
 
 msgid "TXT_CHEATTICKERON"
-msgstr "Бројач УКЉ"
+msgstr "Бројач: УКЉ"
 
 msgid "TXT_CHEATTICKEROFF"
-msgstr "Бројач ИСКЉ"
+msgstr "Бројач: ИСКЉ"
 
 msgid "TXT_CHEATARTIFACTS3"
 msgstr "Уреду"
@@ -389,10 +389,10 @@ msgid "TXT_GOTSTUFF"
 msgstr "Покупили сте ствари!"
 
 msgid "TXT_FREEZEON"
-msgstr "Мод замрзавања УКЉ"
+msgstr "Мод замрзавања: УКЉ"
 
 msgid "TXT_FREEZEOFF"
-msgstr "Мод замрзавања ИСКЉ"
+msgstr "Мод замрзавања: ИСКЉ"
 
 msgid "TXT_STRANGE"
 msgstr "Осећате се чудно…"
@@ -404,10 +404,10 @@ msgid "TXT_NOTSTRANGE"
 msgstr "Поново се осећате као ви."
 
 msgid "TXT_LEADBOOTSON"
-msgstr "Оловне чизме УКЉ"
+msgstr "Оловне чизме: УКЉ"
 
 msgid "TXT_LEADBOOTSOFF"
-msgstr "Оловне чизме ИСКЉ"
+msgstr "Оловне чизме: ИСКЉ"
 
 msgid "TXT_LIGHTER"
 msgstr "Осећате лакоћу"
@@ -416,10 +416,10 @@ msgid "TXT_GRAVITY"
 msgstr "Гравитација те оптерећује"
 
 msgid "TXT_NOTARGET_ON"
-msgstr "Нема мете УКЉ"
+msgstr "Нема мете: УКЉ"
 
 msgid "TXT_NOTARGET_OFF"
-msgstr "Нема мете ИСКЉ"
+msgstr "Нема мете: ИСКЉ"
 
 msgid "TXT_ANUBIS_ON"
 msgstr "„Дрхтите у страху!“"
@@ -428,10 +428,10 @@ msgid "TXT_ANUBIS_OFF"
 msgstr "Нема више бауков оклоп"
 
 msgid "TXT_CHASECAM_ON"
-msgstr "Пратећа камера УКЉ"
+msgstr "Пратећа камера: УКЉ"
 
 msgid "TXT_CHASECAM_OFF"
-msgstr "Пратећа камера ИСКЉ"
+msgstr "Пратећа камера: ИСКЉ"
 
 msgid "TXT_BADDIE_KILLED"
 msgstr "Један зликовац убијен"
@@ -455,17 +455,16 @@ msgid "TXT_WHAT_KILL"
 msgstr "Шта желите да убијете ван игре?"
 
 msgid "TXT_NOT_FROZEN"
-msgstr "Смрзнути играчи ИСКЉ"
+msgstr "Смрзнути играчи: ИСКЉ"
 
 msgid "AMSTR_FOLLOWOFF"
-msgstr "Праћење ИСКЉ"
+msgstr "Праћење: ИСКЉ"
 
 msgid "AMSTR_FOLLOWON"
-msgstr "Праћење УКЉ"
+msgstr "Праћење: УКЉ"
 
-#, fuzzy
 msgid "AMSTR_GRIDON"
-msgstr "Мрежа УКЉ"
+msgstr "Мрежа: УКЉ"
 
 msgid "AMSTR_GRIDOFF"
 msgstr "Мрежа: ИСКЉ"
