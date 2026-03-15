@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 00:10+0000\n"
+"PO-Revision-Date: 2026-03-15 03:49+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/da/>\n"
@@ -344,13 +344,13 @@ msgid "TXT_BUDDHA2ON"
 msgstr "Ultimate Buddha-tilstand TIL"
 
 msgid "TXT_BUDDHA2OFF"
-msgstr "Ultimate Buddha-tilstand FRA"
+msgstr "Ultimate Buddha-tilstand: FRA"
 
 msgid "TXT_CHEATPOWERON"
-msgstr "Evne TIL"
+msgstr "Evne: TIL"
 
 msgid "TXT_CHEATPOWEROFF"
-msgstr "Evne FRA"
+msgstr "Evne: FRA"
 
 msgid "TXT_CHEATHEALTH"
 msgstr "Fuldt helbred"
@@ -359,10 +359,10 @@ msgid "TXT_CHEATKEYS"
 msgstr "Alle taster"
 
 msgid "TXT_CHEATSOUNDON"
-msgstr "Sound debug TIL"
+msgstr "Sound debug: TIL"
 
 msgid "TXT_CHEATSOUNDOFF"
-msgstr "Sound debug FRA"
+msgstr "Sound debug: FRA"
 
 msgid "TXT_CHEATIDDQD"
 msgstr "Prøver du at snyde, hva'? Nu dør du!"
@@ -371,10 +371,10 @@ msgid "TXT_CHEATIDKFA"
 msgstr "Snyder—du fortjener ikke våben"
 
 msgid "TXT_CHEATTICKERON"
-msgstr "Ticker TIL"
+msgstr "Ticker: TIL"
 
 msgid "TXT_CHEATTICKEROFF"
-msgstr "Ticker FRA"
+msgstr "Ticker: FRA"
 
 msgid "TXT_CHEATARTIFACTS3"
 msgstr "Du fik det"
@@ -386,10 +386,10 @@ msgid "TXT_GOTSTUFF"
 msgstr "Du har det hele!"
 
 msgid "TXT_FREEZEON"
-msgstr "Frysetilstand TIL"
+msgstr "Frysetilstand: TIL"
 
 msgid "TXT_FREEZEOFF"
-msgstr "Frysetilstand FRA"
+msgstr "Frysetilstand: FRA"
 
 msgid "TXT_STRANGE"
 msgstr "Du føler dig mærkelig…"
@@ -401,10 +401,10 @@ msgid "TXT_NOTSTRANGE"
 msgstr "Du føler dig som dig selv igen."
 
 msgid "TXT_LEADBOOTSON"
-msgstr "Blystøvler TIL"
+msgstr "Blystøvler: TIL"
 
 msgid "TXT_LEADBOOTSOFF"
-msgstr "Blystøvler FRA"
+msgstr "Blystøvler: FRA"
 
 msgid "TXT_LIGHTER"
 msgstr "Du føler dig lettere"
@@ -413,10 +413,10 @@ msgid "TXT_GRAVITY"
 msgstr "Tyngdekraften tynger dig ned"
 
 msgid "TXT_NOTARGET_ON"
-msgstr "Ingen mål TIL"
+msgstr "Ingen mål: TIL"
 
 msgid "TXT_NOTARGET_OFF"
-msgstr "Ingen mål FRA"
+msgstr "Ingen mål: FRA"
 
 msgid "TXT_ANUBIS_ON"
 msgstr "\"Skælv af frygt!\""
@@ -425,10 +425,10 @@ msgid "TXT_ANUBIS_OFF"
 msgstr "Ikke mere troldepanser"
 
 msgid "TXT_CHASECAM_ON"
-msgstr "Chasecam TIL"
+msgstr "Chasecam: TIL"
 
 msgid "TXT_CHASECAM_OFF"
-msgstr "Chasecam FRA"
+msgstr "Chasecam: FRA"
 
 msgid "TXT_BADDIE_KILLED"
 msgstr "1 baddie dræbt"
@@ -452,13 +452,13 @@ msgid "TXT_WHAT_KILL"
 msgstr "Hvad vil du dræbe uden for et spil?"
 
 msgid "TXT_NOT_FROZEN"
-msgstr "Frysningstilstand er slået FRA"
+msgstr "Frysningstilstand er slået: FRA"
 
 msgid "AMSTR_FOLLOWOFF"
-msgstr "Følg-tilstand FRA"
+msgstr "Følg-tilstand: FRA"
 
 msgid "AMSTR_FOLLOWON"
-msgstr "Følg-tilstand TIL"
+msgstr "Følg-tilstand: TIL"
 
 msgid "AMSTR_GRIDON"
 msgstr "Raster: TIL"
