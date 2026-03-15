@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 03:49+0000\n"
+"PO-Revision-Date: 2026-03-15 23:40+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/es/>\n"
@@ -285,16 +285,16 @@ msgid "STSTR_NOMUS"
 msgstr "Selección imposible"
 
 msgid "STSTR_DQDON"
-msgstr "Invulnerabilidad ACTIVADA"
+msgstr "Invulnerabilidad: ACTIVADA"
 
 msgid "STSTR_DQDOFF"
-msgstr "Invulnerabilidad DESACTIVADA"
+msgstr "Invulnerabilidad: DESACTIVADA"
 
 msgid "STSTR_DQD2ON"
-msgstr "Invulnerabilidad absoluta ACTIVADA"
+msgstr "Invulnerabilidad absoluta: ACTIVADA"
 
 msgid "STSTR_DQD2OFF"
-msgstr "Invulnerabilidad absoluta DESACTIVADA"
+msgstr "Invulnerabilidad absoluta: DESACTIVADA"
 
 msgid "STSTR_KFAADDED"
 msgstr "Munición añadida hasta el tope"
@@ -303,16 +303,18 @@ msgid "STSTR_FAADDED"
 msgstr "Munición añadida (sin llaves)"
 
 msgid "STSTR_NCON"
-msgstr "Modo de traspaso ACTIVADO"
+msgstr "Modo de traspaso: ACTIVADO"
 
 msgid "STSTR_NCOFF"
-msgstr "Modo de traspaso DESACTIVADO"
+msgstr "Modo de traspaso: DESACTIVADO"
 
+#, fuzzy
 msgid "STSTR_NC2ON"
-msgstr "Modo de traspaso 2 ACTIVADO"
+msgstr "Modo de traspaso 2: ACTIVADO"
 
+#, fuzzy
 msgid "STSTR_NC2OFF"
-msgstr "Modo de traspaso 2 DESACTIVADO"
+msgstr "Modo de traspaso 2: DESACTIVADO"
 
 # “inVuln”: Invulnerability sphere
 # “Str”: Berserk
@@ -335,13 +337,13 @@ msgid "STSTR_CLEV"
 msgstr "Cambiando de nivel…"
 
 msgid "TXT_BUDDHAON"
-msgstr "Modo Buda ACTIVADO"
+msgstr "Modo Buda: ACTIVADO"
 
 msgid "TXT_BUDDHAOFF"
-msgstr "Modo Buda DESACTIVADO"
+msgstr "Modo Buda: DESACTIVADO"
 
 msgid "TXT_BUDDHA2ON"
-msgstr "Modo Buda Supremo ACTIVADO"
+msgstr "Modo Buda Supremo: ACTIVADO"
 
 msgid "TXT_BUDDHA2OFF"
 msgstr "Modo Buda Supremo: DESACTIVADO"
