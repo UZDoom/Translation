@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 00:10+0000\n"
+"PO-Revision-Date: 2026-03-15 03:49+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/be/>\n"
@@ -346,13 +346,13 @@ msgid "TXT_BUDDHA2ON"
 msgstr "Рэжым ультыматыўнага Буды УКЛ"
 
 msgid "TXT_BUDDHA2OFF"
-msgstr "Рэжым ультыматыўнага Буды ВЫКЛ"
+msgstr "Рэжым ультыматыўнага Буды: ВЫКЛ"
 
 msgid "TXT_CHEATPOWERON"
-msgstr "Сіла УКЛ"
+msgstr "Сіла: УКЛ"
 
 msgid "TXT_CHEATPOWEROFF"
-msgstr "Сіла ВЫКЛ"
+msgstr "Сіла: ВЫКЛ"
 
 msgid "TXT_CHEATHEALTH"
 msgstr "Поўнае здароўе"
@@ -361,10 +361,10 @@ msgid "TXT_CHEATKEYS"
 msgstr "Усе ключы"
 
 msgid "TXT_CHEATSOUNDON"
-msgstr "Адладка гуку УКЛ"
+msgstr "Адладка гуку: УКЛ"
 
 msgid "TXT_CHEATSOUNDOFF"
-msgstr "Адладка гуку ВЫКЛ"
+msgstr "Адладка гуку: ВЫКЛ"
 
 msgid "TXT_CHEATIDDQD"
 msgstr "Спрабуеш жульнічаць, так? Тады здохні!"
@@ -373,10 +373,10 @@ msgid "TXT_CHEATIDKFA"
 msgstr "Жулік—ты не заслугоўваеш зброі"
 
 msgid "TXT_CHEATTICKERON"
-msgstr "Лічыльнік УКЛ"
+msgstr "Лічыльнік: УКЛ"
 
 msgid "TXT_CHEATTICKEROFF"
-msgstr "Лічыльнік ВЫКЛ"
+msgstr "Лічыльнік: ВЫКЛ"
 
 msgid "TXT_CHEATARTIFACTS3"
 msgstr "Вы атрымалі гэта"
@@ -388,10 +388,10 @@ msgid "TXT_GOTSTUFF"
 msgstr "Рэчы атрыманы!"
 
 msgid "TXT_FREEZEON"
-msgstr "Рэжым замарозкі УКЛ"
+msgstr "Рэжым замарозкі: УКЛ"
 
 msgid "TXT_FREEZEOFF"
-msgstr "Рэжым замарозкі ВЫКЛ"
+msgstr "Рэжым замарозкі: ВЫКЛ"
 
 msgid "TXT_STRANGE"
 msgstr "Вы адчуваеце сябе дзіўна…"
@@ -403,10 +403,10 @@ msgid "TXT_NOTSTRANGE"
 msgstr "Вы зноў адчуваеце сябе сабой."
 
 msgid "TXT_LEADBOOTSON"
-msgstr "Свінцовыя боты УКЛ"
+msgstr "Свінцовыя боты: УКЛ"
 
 msgid "TXT_LEADBOOTSOFF"
-msgstr "Свінцовыя боты ВЫКЛ"
+msgstr "Свінцовыя боты: ВЫКЛ"
 
 msgid "TXT_LIGHTER"
 msgstr "Вы адчуваеце сябе лягчэй"
@@ -415,10 +415,10 @@ msgid "TXT_GRAVITY"
 msgstr "Гравітацыя цягне вас уніз"
 
 msgid "TXT_NOTARGET_ON"
-msgstr "Незаўважнасць УКЛ"
+msgstr "Незаўважнасць: УКЛ"
 
 msgid "TXT_NOTARGET_OFF"
-msgstr "Незаўважнасць ВЫКЛ"
+msgstr "Незаўважнасць: ВЫКЛ"
 
 msgid "TXT_ANUBIS_ON"
 msgstr "«Дрыжыцеся ад страху!»"
@@ -427,10 +427,10 @@ msgid "TXT_ANUBIS_OFF"
 msgstr "Браня огра знята"
 
 msgid "TXT_CHASECAM_ON"
-msgstr "Від ад трэцяй асобы УКЛ"
+msgstr "Від ад трэцяй асобы: УКЛ"
 
 msgid "TXT_CHASECAM_OFF"
-msgstr "Від ад трэцяй асобы ВЫКЛ"
+msgstr "Від ад трэцяй асобы: ВЫКЛ"
 
 msgid "TXT_BADDIE_KILLED"
 msgstr "1 благіш забіты"
@@ -454,13 +454,13 @@ msgid "TXT_WHAT_KILL"
 msgstr "Што вы хочаце забіць па-за гульнёй?"
 
 msgid "TXT_NOT_FROZEN"
-msgstr "Уласцівасці замарожанага гульца ВЫКЛ"
+msgstr "Уласцівасці замарожанага гульца: ВЫКЛ"
 
 msgid "AMSTR_FOLLOWOFF"
-msgstr "Прывязка да гульца ВЫКЛ"
+msgstr "Прывязка да гульца: ВЫКЛ"
 
 msgid "AMSTR_FOLLOWON"
-msgstr "Прывязка да гульца УКЛ"
+msgstr "Прывязка да гульца: УКЛ"
 
 msgid "AMSTR_GRIDON"
 msgstr "Сетка: УКЛ"
