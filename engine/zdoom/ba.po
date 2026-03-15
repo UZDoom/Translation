@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 00:10+0000\n"
+"PO-Revision-Date: 2026-03-15 03:49+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Bashkir <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ba/>\n"
@@ -356,16 +356,14 @@ msgstr "Način Bude ҺҮНДЕР"
 msgid "TXT_BUDDHA2ON"
 msgstr "Ultimativni način Bude ҠАБЫҘ"
 
-#, fuzzy
 msgid "TXT_BUDDHA2OFF"
-msgstr "Ultimativni način Bude ҺҮНДЕР"
+msgstr "Ultimativni način Bude: ҺҮНДЕР"
 
 msgid "TXT_CHEATPOWERON"
-msgstr "Energija ҠАБЫҘ"
+msgstr "Energija: ҠАБЫҘ"
 
-#, fuzzy
 msgid "TXT_CHEATPOWEROFF"
-msgstr "Energija ҺҮНДЕР"
+msgstr "Energija: ҺҮНДЕР"
 
 msgid "TXT_CHEATHEALTH"
 msgstr "Puno zdravlje"
@@ -373,12 +371,11 @@ msgstr "Puno zdravlje"
 msgid "TXT_CHEATKEYS"
 msgstr "Svi ključevi"
 
-#, fuzzy
 msgid "TXT_CHEATSOUNDON"
-msgstr "Debug zvuka ҠАБЫҘ"
+msgstr "Debug zvuka: ҠАБЫҘ"
 
 msgid "TXT_CHEATSOUNDOFF"
-msgstr "Debug zvuka ҺҮНДЕР"
+msgstr "Debug zvuka: ҺҮНДЕР"
 
 msgid "TXT_CHEATIDDQD"
 msgstr "Pokušavaš varati, ha? Evo ti smrt na!"
@@ -387,10 +384,10 @@ msgid "TXT_CHEATIDKFA"
 msgstr "Varalico! Ajd sad bez oružja se dirkaj"
 
 msgid "TXT_CHEATTICKERON"
-msgstr "Brojač ҠАБЫҘ"
+msgstr "Brojač: ҠАБЫҘ"
 
 msgid "TXT_CHEATTICKEROFF"
-msgstr "Brojač ҺҮНДЕР"
+msgstr "Brojač: ҺҮНДЕР"
 
 msgid "TXT_CHEATARTIFACTS3"
 msgstr "Možeš ti to"
@@ -402,10 +399,10 @@ msgid "TXT_GOTSTUFF"
 msgstr "Ti si frajer!"
 
 msgid "TXT_FREEZEON"
-msgstr "Zamrznuti mod ҠАБЫҘ"
+msgstr "Zamrznuti mod: ҠАБЫҘ"
 
 msgid "TXT_FREEZEOFF"
-msgstr "Zamrznuti mod ҺҮНДЕР"
+msgstr "Zamrznuti mod: ҺҮНДЕР"
 
 msgid "TXT_STRANGE"
 msgstr "Osječaš se čudno…"
@@ -417,10 +414,10 @@ msgid "TXT_NOTSTRANGE"
 msgstr "Osječaš se opet ko ti."
 
 msgid "TXT_LEADBOOTSON"
-msgstr "Olovne čizme ҠАБЫҘ"
+msgstr "Olovne čizme: ҠАБЫҘ"
 
 msgid "TXT_LEADBOOTSOFF"
-msgstr "Olovne čizme ҺҮНДЕР"
+msgstr "Olovne čizme: ҺҮНДЕР"
 
 msgid "TXT_LIGHTER"
 msgstr "Osječaš se laganije"
@@ -429,10 +426,10 @@ msgid "TXT_GRAVITY"
 msgstr "Gravitacija te povija"
 
 msgid "TXT_NOTARGET_ON"
-msgstr "Bez Mete ҠАБЫҘ"
+msgstr "Bez Mete: ҠАБЫҘ"
 
 msgid "TXT_NOTARGET_OFF"
-msgstr "Bez Mete ҺҮНДЕР"
+msgstr "Bez Mete: ҺҮНДЕР"
 
 msgid "TXT_ANUBIS_ON"
 msgstr "\"Tresite se s strahom!\""
@@ -441,10 +438,10 @@ msgid "TXT_ANUBIS_OFF"
 msgstr "Nema više Ogrovog oklopa"
 
 msgid "TXT_CHASECAM_ON"
-msgstr "Pratokamera ҠАБЫҘ"
+msgstr "Pratokamera: ҠАБЫҘ"
 
 msgid "TXT_CHASECAM_OFF"
-msgstr "Pratokamera ҺҮНДЕР"
+msgstr "Pratokamera: ҺҮНДЕР"
 
 msgid "TXT_BADDIE_KILLED"
 msgstr "1 zločac ubijen"
@@ -468,13 +465,13 @@ msgid "TXT_WHAT_KILL"
 msgstr "Šta želite ubiti van igre?"
 
 msgid "TXT_NOT_FROZEN"
-msgstr "Svojstva zamrznutog igrača su ҺҮНДЕР"
+msgstr "Svojstva zamrznutog igrača su: ҺҮНДЕР"
 
 msgid "AMSTR_FOLLOWOFF"
-msgstr "Način praćenja ҺҮНДЕР"
+msgstr "Način praćenja: ҺҮНДЕР"
 
 msgid "AMSTR_FOLLOWON"
-msgstr "Način praćenja ҠАБЫҘ"
+msgstr "Način praćenja: ҠАБЫҘ"
 
 msgid "AMSTR_GRIDON"
 msgstr "Mreža: ҠАБЫҘ"
