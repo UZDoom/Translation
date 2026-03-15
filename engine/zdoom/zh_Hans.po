@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 00:09+0000\n"
+"PO-Revision-Date: 2026-03-15 03:49+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
@@ -427,6 +427,7 @@ msgstr "再也没有食人魔盔甲"
 msgid "TXT_CHASECAM_ON"
 msgstr "跟随视角：开"
 
+#, fuzzy
 msgid "TXT_CHASECAM_OFF"
 msgstr "跟随视角：关"
 
