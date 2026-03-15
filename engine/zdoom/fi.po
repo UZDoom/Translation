@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 00:10+0000\n"
+"PO-Revision-Date: 2026-03-15 03:49+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fi/>\n"
@@ -349,13 +349,13 @@ msgid "TXT_BUDDHA2ON"
 msgstr "Korkein buddhatila PÄÄLLÄ"
 
 msgid "TXT_BUDDHA2OFF"
-msgstr "Korkein buddhatila POIS"
+msgstr "Korkein buddhatila: POIS"
 
 msgid "TXT_CHEATPOWERON"
-msgstr "Voima PÄÄLLÄ"
+msgstr "Voima: PÄÄLLÄ"
 
 msgid "TXT_CHEATPOWEROFF"
-msgstr "Voima POIS"
+msgstr "Voima: POIS"
 
 msgid "TXT_CHEATHEALTH"
 msgstr "Täysi terveys"
@@ -364,10 +364,10 @@ msgid "TXT_CHEATKEYS"
 msgstr "Kaikki avaimet"
 
 msgid "TXT_CHEATSOUNDON"
-msgstr "Äänen vianmääritystila PÄÄLLÄ"
+msgstr "Äänen vianmääritystila: PÄÄLLÄ"
 
 msgid "TXT_CHEATSOUNDOFF"
-msgstr "Äänen vianmääritystila POIS"
+msgstr "Äänen vianmääritystila: POIS"
 
 msgid "TXT_CHEATIDDQD"
 msgstr "Yrität huijata, vai? Nyt kuolet!"
@@ -376,10 +376,10 @@ msgid "TXT_CHEATIDKFA"
 msgstr "Huijari—et ansaitse aseita"
 
 msgid "TXT_CHEATTICKERON"
-msgstr "Laskuri PÄÄLLÄ"
+msgstr "Laskuri: PÄÄLLÄ"
 
 msgid "TXT_CHEATTICKEROFF"
-msgstr "Laskuri POIS"
+msgstr "Laskuri: POIS"
 
 msgid "TXT_CHEATARTIFACTS3"
 msgstr "Saamasi pitää"
@@ -391,10 +391,10 @@ msgid "TXT_GOTSTUFF"
 msgstr "Sait kamppeet!"
 
 msgid "TXT_FREEZEON"
-msgstr "Jäädytystila PÄÄLLÄ"
+msgstr "Jäädytystila: PÄÄLLÄ"
 
 msgid "TXT_FREEZEOFF"
-msgstr "Jäädytystila POIS"
+msgstr "Jäädytystila: POIS"
 
 msgid "TXT_STRANGE"
 msgstr "Sinulla on kummallinen olo…"
@@ -406,10 +406,10 @@ msgid "TXT_NOTSTRANGE"
 msgstr "Tunnet olevasi jälleen oma itsesi."
 
 msgid "TXT_LEADBOOTSON"
-msgstr "Lyijysaappaat PÄÄLLÄ"
+msgstr "Lyijysaappaat: PÄÄLLÄ"
 
 msgid "TXT_LEADBOOTSOFF"
-msgstr "Lyijysaappaat POIS"
+msgstr "Lyijysaappaat: POIS"
 
 msgid "TXT_LIGHTER"
 msgstr "Tunnet olosi kevyemmäksi"
@@ -418,10 +418,10 @@ msgid "TXT_GRAVITY"
 msgstr "Painovoima painaa sinua alas"
 
 msgid "TXT_NOTARGET_ON"
-msgstr "Hyökkäämättömyystila PÄÄLLÄ"
+msgstr "Hyökkäämättömyystila: PÄÄLLÄ"
 
 msgid "TXT_NOTARGET_OFF"
-msgstr "Hyökkäämättömyystila POIS"
+msgstr "Hyökkäämättömyystila: POIS"
 
 msgid "TXT_ANUBIS_ON"
 msgstr "\"Vapise pelosta!\""
@@ -430,10 +430,10 @@ msgid "TXT_ANUBIS_OFF"
 msgstr "Ei enää örkkipanssaria"
 
 msgid "TXT_CHASECAM_ON"
-msgstr "Seurantakamera PÄÄLLÄ"
+msgstr "Seurantakamera: PÄÄLLÄ"
 
 msgid "TXT_CHASECAM_OFF"
-msgstr "Seurantakamera POIS"
+msgstr "Seurantakamera: POIS"
 
 msgid "TXT_BADDIE_KILLED"
 msgstr "1 pahis tapettu"
@@ -458,13 +458,13 @@ msgid "TXT_WHAT_KILL"
 msgstr "Mitä haluat tappaa pelin ulkopuolella?"
 
 msgid "TXT_NOT_FROZEN"
-msgstr "Jäätyneen pelaajan ominaisuudet kytketty POIS"
+msgstr "Jäätyneen pelaajan ominaisuudet kytketty: POIS"
 
 msgid "AMSTR_FOLLOWOFF"
-msgstr "Seuraamistila POIS"
+msgstr "Seuraamistila: POIS"
 
 msgid "AMSTR_FOLLOWON"
-msgstr "Seuraamistila PÄÄLLÄ"
+msgstr "Seuraamistila: PÄÄLLÄ"
 
 msgid "AMSTR_GRIDON"
 msgstr "Ruudukko: PÄÄLLÄ"
