@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 03:49+0000\n"
+"PO-Revision-Date: 2026-03-15 23:40+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ro/>\n"
@@ -286,19 +286,17 @@ msgstr "Schimbă Muzica"
 msgid "STSTR_NOMUS"
 msgstr "Selecție Imposibilă"
 
-#, fuzzy
 msgid "STSTR_DQDON"
-msgstr "Modul Invincibil PORNIT"
+msgstr "Modul Invincibil: PORNIT"
 
-#, fuzzy
 msgid "STSTR_DQDOFF"
-msgstr "Modul Invincibil OPRIT"
+msgstr "Modul Invincibil: OPRIT"
 
 msgid "STSTR_DQD2ON"
-msgstr "Analfabetismul total este PORNIT"
+msgstr "Analfabetismul total este: PORNIT"
 
 msgid "STSTR_DQD2OFF"
-msgstr "Analfabetismul total este OPRIT"
+msgstr "Analfabetismul total este: OPRIT"
 
 msgid "STSTR_KFAADDED"
 msgstr "Muniția pentru fericire a fost reumplută"
@@ -307,16 +305,18 @@ msgid "STSTR_FAADDED"
 msgstr "Muniție reîncărcată (fără chei)"
 
 msgid "STSTR_NCON"
-msgstr "Modul fără Coliziune PORNIT"
+msgstr "Modul fără Coliziune: PORNIT"
 
 msgid "STSTR_NCOFF"
-msgstr "Modul fără Coliziune OPRIT"
+msgstr "Modul fără Coliziune: OPRIT"
 
+#, fuzzy
 msgid "STSTR_NC2ON"
-msgstr "Modul fără Coliziune 2 PORNIT"
+msgstr "Modul fără Coliziune 2: PORNIT"
 
+#, fuzzy
 msgid "STSTR_NC2OFF"
-msgstr "Modul fără Coliziune 2 OPRIT"
+msgstr "Modul fără Coliziune 2: OPRIT"
 
 # “inVuln”: Invulnerability sphere
 # “Str”: Berserk
@@ -339,13 +339,13 @@ msgid "STSTR_CLEV"
 msgstr "Schimbare Hartă…"
 
 msgid "TXT_BUDDHAON"
-msgstr "Modul Buddha PORNIT"
+msgstr "Modul Buddha: PORNIT"
 
 msgid "TXT_BUDDHAOFF"
-msgstr "Modul Buddha OPRIT"
+msgstr "Modul Buddha: OPRIT"
 
 msgid "TXT_BUDDHA2ON"
-msgstr "Modul Buddha Suprem PORNIT"
+msgstr "Modul Buddha Suprem: PORNIT"
 
 msgid "TXT_BUDDHA2OFF"
 msgstr "Modul Buddha Suprem: OPRIT"
