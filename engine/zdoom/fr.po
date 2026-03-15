@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 03:49+0000\n"
+"PO-Revision-Date: 2026-03-15 23:40+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fr/>\n"
@@ -285,16 +285,16 @@ msgid "STSTR_NOMUS"
 msgstr "Séléction Impossible"
 
 msgid "STSTR_DQDON"
-msgstr "Invulnérabilité ACTIF"
+msgstr "Invulnérabilité : ACTIF"
 
 msgid "STSTR_DQDOFF"
-msgstr "Invulnérabilité INACTIVE"
+msgstr "Invulnérabilité : INACTIVE"
 
 msgid "STSTR_DQD2ON"
-msgstr "Parfaite Invulnérabilité ACTIVE"
+msgstr "Parfaite Invulnérabilité : ACTIVE"
 
 msgid "STSTR_DQD2OFF"
-msgstr "Parfaite Invulnérabilité INACTIF"
+msgstr "Parfaite Invulnérabilité : INACTIF"
 
 msgid "STSTR_KFAADDED"
 msgstr "Armement Maximum"
@@ -303,16 +303,16 @@ msgid "STSTR_FAADDED"
 msgstr "Arsenal ajouté. (Pas de clés !)"
 
 msgid "STSTR_NCON"
-msgstr "Mode Passe-muraille ACTIF"
+msgstr "Mode Passe-muraille : ACTIF"
 
 msgid "STSTR_NCOFF"
-msgstr "Mode Passe-muraille INACTIF"
+msgstr "Mode Passe-muraille: INACTIF"
 
 msgid "STSTR_NC2ON"
-msgstr "Mode Passe-muraille 3D ACTIF"
+msgstr "Mode Passe-muraille 3D : ACTIF"
 
 msgid "STSTR_NC2OFF"
-msgstr "Mode Passe-muraille 3D INACTIF"
+msgstr "Mode Passe-muraille 3D : INACTIF"
 
 # “inVuln”: Invulnerability sphere
 # “Str”: Berserk
@@ -336,13 +336,13 @@ msgid "STSTR_CLEV"
 msgstr "Changement de niveau…"
 
 msgid "TXT_BUDDHAON"
-msgstr "Mode Bouddha ACTIF"
+msgstr "Mode Bouddha : ACTIF"
 
 msgid "TXT_BUDDHAOFF"
-msgstr "Mode Bouddha INACTIF"
+msgstr "Mode Bouddha : INACTIF"
 
 msgid "TXT_BUDDHA2ON"
-msgstr "Mode Bouddha Ultime ACTIF"
+msgstr "Mode Bouddha Ultime : ACTIF"
 
 msgid "TXT_BUDDHA2OFF"
 msgstr "Mode Bouddha Ultime : INACTIF"
