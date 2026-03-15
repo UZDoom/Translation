@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 00:11+0000\n"
+"PO-Revision-Date: 2026-03-15 03:49+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "uzdoom/zdoom-engine-strings/pt_BR/>\n"
@@ -348,13 +348,13 @@ msgid "TXT_BUDDHA2ON"
 msgstr "Modo Buda supremo ATIVADO"
 
 msgid "TXT_BUDDHA2OFF"
-msgstr "Modo Buda supremo DESATIVADO"
+msgstr "Modo Buda supremo: DESATIVADO"
 
 msgid "TXT_CHEATPOWERON"
-msgstr "Poder ATIVADO"
+msgstr "Poder: ATIVADO"
 
 msgid "TXT_CHEATPOWEROFF"
-msgstr "Poder DESATIVADO"
+msgstr "Poder: DESATIVADO"
 
 msgid "TXT_CHEATHEALTH"
 msgstr "Saúde completa"
@@ -363,10 +363,10 @@ msgid "TXT_CHEATKEYS"
 msgstr "Todas as chaves"
 
 msgid "TXT_CHEATSOUNDON"
-msgstr "Depuração de som ATIVADA"
+msgstr "Depuração de som: ATIVADA"
 
 msgid "TXT_CHEATSOUNDOFF"
-msgstr "Depuração de som DESATIVADA"
+msgstr "Depuração de som: DESATIVADA"
 
 msgid "TXT_CHEATIDDQD"
 msgstr "Tentando trapacear, né? Morra!"
@@ -375,10 +375,10 @@ msgid "TXT_CHEATIDKFA"
 msgstr "Trapaceiros não merecem armas"
 
 msgid "TXT_CHEATTICKERON"
-msgstr "Contador ATIVADO"
+msgstr "Contador: ATIVADO"
 
 msgid "TXT_CHEATTICKEROFF"
-msgstr "Contador DESATIVADO"
+msgstr "Contador: DESATIVADO"
 
 msgid "TXT_CHEATARTIFACTS3"
 msgstr "Concedido"
@@ -390,10 +390,10 @@ msgid "TXT_GOTSTUFF"
 msgstr "Você ganhou muitas coisas!"
 
 msgid "TXT_FREEZEON"
-msgstr "Modo congelado ATIVADO"
+msgstr "Modo congelado: ATIVADO"
 
 msgid "TXT_FREEZEOFF"
-msgstr "Modo congelado DESATIVADO"
+msgstr "Modo congelado: DESATIVADO"
 
 msgid "TXT_STRANGE"
 msgstr "Você está com uma sensação estranha…"
@@ -405,10 +405,10 @@ msgid "TXT_NOTSTRANGE"
 msgstr "Você se sente normal novamente."
 
 msgid "TXT_LEADBOOTSON"
-msgstr "Botas de chumbo ATIVADAS"
+msgstr "Botas de chumbo: ATIVADAS"
 
 msgid "TXT_LEADBOOTSOFF"
-msgstr "Botas de chumbo DESATIVADAS"
+msgstr "Botas de chumbo: DESATIVADAS"
 
 msgid "TXT_LIGHTER"
 msgstr "Você se sente mais leve"
@@ -417,10 +417,10 @@ msgid "TXT_GRAVITY"
 msgstr "A gravidade volta a funcionar normalmente"
 
 msgid "TXT_NOTARGET_ON"
-msgstr "Sem alvos ATIVADO"
+msgstr "Sem alvos: ATIVADO"
 
 msgid "TXT_NOTARGET_OFF"
-msgstr "Sem alvos DESATIVADO"
+msgstr "Sem alvos: DESATIVADO"
 
 msgid "TXT_ANUBIS_ON"
 msgstr "\"Trema de medo!\""
@@ -429,10 +429,10 @@ msgid "TXT_ANUBIS_OFF"
 msgstr "Chega de Armadura de Ogro"
 
 msgid "TXT_CHASECAM_ON"
-msgstr "Câmera em terceira pessoa ATIVADA"
+msgstr "Câmera em terceira pessoa: ATIVADA"
 
 msgid "TXT_CHASECAM_OFF"
-msgstr "Câmera em terceira pessoa DESATIVADA"
+msgstr "Câmera em terceira pessoa: DESATIVADA"
 
 msgid "TXT_BADDIE_KILLED"
 msgstr "1 inimigo morto"
@@ -457,17 +457,16 @@ msgid "TXT_WHAT_KILL"
 msgstr "O que você gostaria de matar fora de um jogo?"
 
 msgid "TXT_NOT_FROZEN"
-msgstr "Propriedades de jogador congelado DESATIVADAS"
+msgstr "Propriedades de jogador congelado: DESATIVADAS"
 
 msgid "AMSTR_FOLLOWOFF"
-msgstr "Modo de seguimento DESATIVADO"
+msgstr "Modo de seguimento: DESATIVADO"
 
 msgid "AMSTR_FOLLOWON"
-msgstr "Modo de seguimento ATIVADO"
+msgstr "Modo de seguimento: ATIVADO"
 
-#, fuzzy
 msgid "AMSTR_GRIDON"
-msgstr "Grade ATIVADA"
+msgstr "Grade: ATIVADA"
 
 msgid "AMSTR_GRIDOFF"
 msgstr "Grade: DESATIVADA"
