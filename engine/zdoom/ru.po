@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 00:10+0000\n"
+"PO-Revision-Date: 2026-03-15 03:49+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ru/>\n"
@@ -346,13 +346,13 @@ msgid "TXT_BUDDHA2ON"
 msgstr "Окончательный режим Будды ВКЛ"
 
 msgid "TXT_BUDDHA2OFF"
-msgstr "Окончательный режим Будды ВЫКЛ"
+msgstr "Окончательный режим Будды: ВЫКЛ"
 
 msgid "TXT_CHEATPOWERON"
-msgstr "Сила ВКЛ"
+msgstr "Сила: ВКЛ"
 
 msgid "TXT_CHEATPOWEROFF"
-msgstr "Сила ВЫКЛ"
+msgstr "Сила: ВЫКЛ"
 
 msgid "TXT_CHEATHEALTH"
 msgstr "Полное здоровье"
@@ -361,10 +361,10 @@ msgid "TXT_CHEATKEYS"
 msgstr "Все ключи"
 
 msgid "TXT_CHEATSOUNDON"
-msgstr "Отладка звука ВКЛ"
+msgstr "Отладка звука: ВКЛ"
 
 msgid "TXT_CHEATSOUNDOFF"
-msgstr "Отладка звука ВЫКЛ"
+msgstr "Отладка звука: ВЫКЛ"
 
 msgid "TXT_CHEATIDDQD"
 msgstr "Жульничаешь, э? Так умри!"
@@ -373,10 +373,10 @@ msgid "TXT_CHEATIDKFA"
 msgstr "Жулик—ты не заслуживаешь оружия"
 
 msgid "TXT_CHEATTICKERON"
-msgstr "Счётчик ВКЛ"
+msgstr "Счётчик: ВКЛ"
 
 msgid "TXT_CHEATTICKEROFF"
-msgstr "Счётчик ВЫКЛ"
+msgstr "Счётчик: ВЫКЛ"
 
 msgid "TXT_CHEATARTIFACTS3"
 msgstr "Вы получили это"
@@ -388,10 +388,10 @@ msgid "TXT_GOTSTUFF"
 msgstr "Получены предметы!"
 
 msgid "TXT_FREEZEON"
-msgstr "Режим заморозки ВКЛ"
+msgstr "Режим заморозки: ВКЛ"
 
 msgid "TXT_FREEZEOFF"
-msgstr "Режим заморозки ВЫКЛ"
+msgstr "Режим заморозки: ВЫКЛ"
 
 msgid "TXT_STRANGE"
 msgstr "Вы чувствуете себя странно…"
@@ -403,10 +403,10 @@ msgid "TXT_NOTSTRANGE"
 msgstr "Вы снова чувствуете себя собой."
 
 msgid "TXT_LEADBOOTSON"
-msgstr "Свинцовые сапоги ВКЛ"
+msgstr "Свинцовые сапоги: ВКЛ"
 
 msgid "TXT_LEADBOOTSOFF"
-msgstr "Свинцовые сапоги ВЫКЛ"
+msgstr "Свинцовые сапоги: ВЫКЛ"
 
 msgid "TXT_LIGHTER"
 msgstr "Вы чувствуете лёгкость"
@@ -415,10 +415,10 @@ msgid "TXT_GRAVITY"
 msgstr "Гравитация тянет вас вниз"
 
 msgid "TXT_NOTARGET_ON"
-msgstr "Незаметность ВКЛ"
+msgstr "Незаметность: ВКЛ"
 
 msgid "TXT_NOTARGET_OFF"
-msgstr "Незаметность ВЫКЛ"
+msgstr "Незаметность: ВЫКЛ"
 
 msgid "TXT_ANUBIS_ON"
 msgstr "«Дрожите от страха!»"
@@ -427,10 +427,10 @@ msgid "TXT_ANUBIS_OFF"
 msgstr "Броня огра снята"
 
 msgid "TXT_CHASECAM_ON"
-msgstr "Вид от третьего лица ВКЛ"
+msgstr "Вид от третьего лица: ВКЛ"
 
 msgid "TXT_CHASECAM_OFF"
-msgstr "Вид от третьего лица ВЫКЛ"
+msgstr "Вид от третьего лица: ВЫКЛ"
 
 msgid "TXT_BADDIE_KILLED"
 msgstr "1 плохиш убит"
@@ -454,17 +454,16 @@ msgid "TXT_WHAT_KILL"
 msgstr "Что вы хотите убить вне игры?"
 
 msgid "TXT_NOT_FROZEN"
-msgstr "Свойства замороженного игрока ВЫКЛ"
+msgstr "Свойства замороженного игрока: ВЫКЛ"
 
 msgid "AMSTR_FOLLOWOFF"
-msgstr "Привязка к игроку ВЫКЛ"
+msgstr "Привязка к игроку: ВЫКЛ"
 
 msgid "AMSTR_FOLLOWON"
-msgstr "Привязка к игроку ВКЛ"
+msgstr "Привязка к игроку: ВКЛ"
 
-#, fuzzy
 msgid "AMSTR_GRIDON"
-msgstr "Сетка ВКЛ"
+msgstr "Сетка: ВКЛ"
 
 msgid "AMSTR_GRIDOFF"
 msgstr "Сетка: ВЫКЛ"
