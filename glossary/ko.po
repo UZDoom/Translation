@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-14 20:03+0000\n"
+"PO-Revision-Date: 2026-03-15 00:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/glossary/"
 "ko/>\n"
@@ -178,6 +178,5 @@ msgstr "Discord"
 msgid "MBF"
 msgstr "마린의 절친한 친구"
 
-#, fuzzy
 msgid "MBF21"
 msgstr "모더의 절친한 친구"

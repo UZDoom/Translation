@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-13 22:54+0000\n"
+"PO-Revision-Date: 2026-03-15 03:49+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/tr/>\n"
@@ -21,7 +21,7 @@ msgid "SECRETMESSAGE"
 msgstr "Bir sır açığa çıkıyor!"
 
 msgid "D_DEVSTR"
-msgstr "Yararsız mod AÇIK"
+msgstr "Yararsız mod: AÇIK"
 
 msgid "QUITMSG"
 msgstr ""
@@ -344,13 +344,13 @@ msgid "TXT_BUDDHA2ON"
 msgstr "Nihai Buda Modu AÇIK"
 
 msgid "TXT_BUDDHA2OFF"
-msgstr "Nihai Buda Modu KAPALI"
+msgstr "Nihai Buda Modu: KAPALI"
 
 msgid "TXT_CHEATPOWERON"
-msgstr "Güç AÇIK"
+msgstr "Güç: AÇIK"
 
 msgid "TXT_CHEATPOWEROFF"
-msgstr "Güç KAPALI"
+msgstr "Güç: KAPALI"
 
 msgid "TXT_CHEATHEALTH"
 msgstr "Tam sağlık"
@@ -359,10 +359,10 @@ msgid "TXT_CHEATKEYS"
 msgstr "Tüm anahtarlar"
 
 msgid "TXT_CHEATSOUNDON"
-msgstr "Ses hata ayıklama AÇIK"
+msgstr "Ses hata ayıklama: AÇIK"
 
 msgid "TXT_CHEATSOUNDOFF"
-msgstr "Ses hata ayıklama KAPALI"
+msgstr "Ses hata ayıklama: KAPALI"
 
 msgid "TXT_CHEATIDDQD"
 msgstr "Hile yapmaya çalışıyorsun, ha? Şimdi öleceksin!"
@@ -371,10 +371,10 @@ msgid "TXT_CHEATIDKFA"
 msgstr "Hileci, silahları hak etmiyorsun"
 
 msgid "TXT_CHEATTICKERON"
-msgstr "Ticker AÇIK"
+msgstr "Ticker: AÇIK"
 
 msgid "TXT_CHEATTICKEROFF"
-msgstr "Ticker KAPALI"
+msgstr "Ticker: KAPALI"
 
 msgid "TXT_CHEATARTIFACTS3"
 msgstr "Tamamdır"
@@ -386,10 +386,10 @@ msgid "TXT_GOTSTUFF"
 msgstr "Mal sende!"
 
 msgid "TXT_FREEZEON"
-msgstr "Dondurma modu AÇIK"
+msgstr "Dondurma modu: AÇIK"
 
 msgid "TXT_FREEZEOFF"
-msgstr "Dondurma modu KAPALI"
+msgstr "Dondurma modu: KAPALI"
 
 msgid "TXT_STRANGE"
 msgstr "Garip hissediyorsun…"
@@ -401,10 +401,10 @@ msgid "TXT_NOTSTRANGE"
 msgstr "Tekrar kendin gibi hissediyorsun."
 
 msgid "TXT_LEADBOOTSON"
-msgstr "Kurşun çizmeler AÇIK"
+msgstr "Kurşun çizmeler: AÇIK"
 
 msgid "TXT_LEADBOOTSOFF"
-msgstr "Kurşun çizmeler KAPALI"
+msgstr "Kurşun çizmeler: KAPALI"
 
 msgid "TXT_LIGHTER"
 msgstr "Daha hafif hissediyorsun"
@@ -413,10 +413,10 @@ msgid "TXT_GRAVITY"
 msgstr "Yerçekimi seni ağırlaştırır"
 
 msgid "TXT_NOTARGET_ON"
-msgstr "Hedef Yok AÇIK"
+msgstr "Hedef Yok: AÇIK"
 
 msgid "TXT_NOTARGET_OFF"
-msgstr "Hedef Yok KAPALI"
+msgstr "Hedef Yok: KAPALI"
 
 msgid "TXT_ANUBIS_ON"
 msgstr "\"Korkudan titre!\""
@@ -425,10 +425,10 @@ msgid "TXT_ANUBIS_OFF"
 msgstr "Artık Ogre Zırhı yok"
 
 msgid "TXT_CHASECAM_ON"
-msgstr "Chasecam AÇIK"
+msgstr "Chasecam: AÇIK"
 
 msgid "TXT_CHASECAM_OFF"
-msgstr "Chasecam KAPALI"
+msgstr "Chasecam: KAPALI"
 
 msgid "TXT_BADDIE_KILLED"
 msgstr "1 kötü öldürüldü"
@@ -452,25 +452,25 @@ msgid "TXT_WHAT_KILL"
 msgstr "Oyun dışında ne öldürmek istiyorsun?"
 
 msgid "TXT_NOT_FROZEN"
-msgstr "Dondurulmuş oyuncu özellikleri KAPALI"
+msgstr "Dondurulmuş oyuncu özellikleri: KAPALI"
 
 msgid "AMSTR_FOLLOWOFF"
-msgstr "Takip Modu KAPALI"
+msgstr "Takip Modu: KAPALI"
 
 msgid "AMSTR_FOLLOWON"
-msgstr "Takip Modu AÇIK"
+msgstr "Takip Modu: AÇIK"
 
 msgid "AMSTR_GRIDON"
-msgstr "Izgara AÇIK"
+msgstr "Izgara: AÇIK"
 
 msgid "AMSTR_GRIDOFF"
-msgstr "Izgara KAPALI"
+msgstr "Izgara: KAPALI"
 
 msgid "AMSTR_TEXON"
-msgstr "Doku Modu AÇIK"
+msgstr "Doku Modu: AÇIK"
 
 msgid "AMSTR_TEXOFF"
-msgstr "Doku Modu KAPALI"
+msgstr "Doku Modu: KAPALI"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "İşaretli Nokta"
@@ -2854,11 +2854,11 @@ msgstr ""
 
 msgctxt "chex"
 msgid "STSTR_DQDON"
-msgstr "Yenilmez Mod AÇIK"
+msgstr "Yenilmez Mod: AÇIK"
 
 msgctxt "chex"
 msgid "STSTR_DQDOFF"
-msgstr "Yenilmez Modu KAPALI"
+msgstr "Yenilmez Modu: KAPALI"
 
 msgctxt "chex"
 msgid "STSTR_FAADDED"

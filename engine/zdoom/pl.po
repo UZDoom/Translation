@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-13 22:54+0000\n"
+"PO-Revision-Date: 2026-03-15 03:49+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/pl/>\n"
@@ -22,7 +22,7 @@ msgid "SECRETMESSAGE"
 msgstr "Znaleziono sekret!"
 
 msgid "D_DEVSTR"
-msgstr "Tryb bezużyteczny WŁ"
+msgstr "Tryb bezużyteczny: WŁ"
 
 msgid "QUITMSG"
 msgstr ""
@@ -347,13 +347,13 @@ msgid "TXT_BUDDHA2ON"
 msgstr "Maksymalny Tryb Buddy WŁ"
 
 msgid "TXT_BUDDHA2OFF"
-msgstr "Maksymalny Tryb Buddy WYŁ"
+msgstr "Maksymalny Tryb Buddy: WYŁ"
 
 msgid "TXT_CHEATPOWERON"
-msgstr "Zasilanie WŁ"
+msgstr "Zasilanie: WŁ"
 
 msgid "TXT_CHEATPOWEROFF"
-msgstr "Zasilanie WYŁ"
+msgstr "Zasilanie: WYŁ"
 
 msgid "TXT_CHEATHEALTH"
 msgstr "Pełne zdrowie"
@@ -362,10 +362,10 @@ msgid "TXT_CHEATKEYS"
 msgstr "Wszystkie klucze"
 
 msgid "TXT_CHEATSOUNDON"
-msgstr "Debugowanie dźwięku WŁ"
+msgstr "Debugowanie dźwięku: WŁ"
 
 msgid "TXT_CHEATSOUNDOFF"
-msgstr "Debugowanie dźwięku WYŁ"
+msgstr "Debugowanie dźwięku: WYŁ"
 
 msgid "TXT_CHEATIDDQD"
 msgstr "Próbujesz oszukiwać, co? Teraz giń!"
@@ -374,10 +374,10 @@ msgid "TXT_CHEATIDKFA"
 msgstr "Oszust—nie zasługujesz na broń"
 
 msgid "TXT_CHEATTICKERON"
-msgstr "Wskaźnik WŁ"
+msgstr "Wskaźnik: WŁ"
 
 msgid "TXT_CHEATTICKEROFF"
-msgstr "Wskaźnik WYŁ"
+msgstr "Wskaźnik: WYŁ"
 
 msgid "TXT_CHEATARTIFACTS3"
 msgstr "Udało ci się"
@@ -389,10 +389,10 @@ msgid "TXT_GOTSTUFF"
 msgstr "Zdobył@[irreg_3_pl] parę rzeczy!"
 
 msgid "TXT_FREEZEON"
-msgstr "Tryb zamrożenia WŁ"
+msgstr "Tryb zamrożenia: WŁ"
 
 msgid "TXT_FREEZEOFF"
-msgstr "Tryb zamrożenia WYŁ"
+msgstr "Tryb zamrożenia: WYŁ"
 
 msgid "TXT_STRANGE"
 msgstr "Dziwnie się czujesz…"
@@ -404,10 +404,10 @@ msgid "TXT_NOTSTRANGE"
 msgstr "Znów czujesz się sobą."
 
 msgid "TXT_LEADBOOTSON"
-msgstr "Ołowiane buty WŁ"
+msgstr "Ołowiane buty: WŁ"
 
 msgid "TXT_LEADBOOTSOFF"
-msgstr "Ołowiane buty WYŁ"
+msgstr "Ołowiane buty: WYŁ"
 
 msgid "TXT_LIGHTER"
 msgstr "Czujesz się lżejsz@[adj_pl]"
@@ -416,10 +416,10 @@ msgid "TXT_GRAVITY"
 msgstr "Grawitacja znów cię przyciąga"
 
 msgid "TXT_NOTARGET_ON"
-msgstr "Głuche i Ślepe Potwory WŁ"
+msgstr "Głuche i Ślepe Potwory: WŁ"
 
 msgid "TXT_NOTARGET_OFF"
-msgstr "Głuche i Ślepe Potwory WYŁ"
+msgstr "Głuche i Ślepe Potwory: WYŁ"
 
 msgid "TXT_ANUBIS_ON"
 msgstr "\"Drżyj ze strachu!\""
@@ -428,10 +428,10 @@ msgid "TXT_ANUBIS_OFF"
 msgstr "Nigdy więcej Pancerza Ogrów"
 
 msgid "TXT_CHASECAM_ON"
-msgstr "Kamera śledzenia WŁ"
+msgstr "Kamera śledzenia: WŁ"
 
 msgid "TXT_CHASECAM_OFF"
-msgstr "Kamera śledzenia WYŁ"
+msgstr "Kamera śledzenia: WYŁ"
 
 msgid "TXT_BADDIE_KILLED"
 msgstr "1 zabity przeciwnik"
@@ -456,25 +456,25 @@ msgid "TXT_WHAT_KILL"
 msgstr "Co ty chcesz zabić nie będąc w grze?"
 
 msgid "TXT_NOT_FROZEN"
-msgstr "Właściwości zamrożonego gracza WYŁ"
+msgstr "Właściwości zamrożonego gracza: WYŁ"
 
 msgid "AMSTR_FOLLOWOFF"
-msgstr "Tryb śledzenia WYŁ"
+msgstr "Tryb śledzenia: WYŁ"
 
 msgid "AMSTR_FOLLOWON"
-msgstr "Tryb śledzenia WŁ"
+msgstr "Tryb śledzenia: WŁ"
 
 msgid "AMSTR_GRIDON"
-msgstr "Siatka WŁ"
+msgstr "Siatka: WŁ"
 
 msgid "AMSTR_GRIDOFF"
-msgstr "Siatka WYŁ"
+msgstr "Siatka: WYŁ"
 
 msgid "AMSTR_TEXON"
-msgstr "Tekstury WŁ"
+msgstr "Tekstury: WŁ"
 
 msgid "AMSTR_TEXOFF"
-msgstr "Tekstury WYŁ"
+msgstr "Tekstury: WYŁ"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Oznaczono miejsce"
@@ -2857,11 +2857,11 @@ msgstr ""
 
 msgctxt "chex"
 msgid "STSTR_DQDON"
-msgstr "Tryb Niewrażliwości WŁ"
+msgstr "Tryb Niewrażliwości: WŁ"
 
 msgctxt "chex"
 msgid "STSTR_DQDOFF"
-msgstr "Tryb Niewrażliwości WYŁ"
+msgstr "Tryb Niewrażliwości: WYŁ"
 
 msgctxt "chex"
 msgid "STSTR_FAADDED"

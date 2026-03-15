@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-13 22:54+0000\n"
+"PO-Revision-Date: 2026-03-15 03:49+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/eo/>\n"
@@ -21,7 +21,7 @@ msgid "SECRETMESSAGE"
 msgstr "Vi trovis sekretejon!"
 
 msgid "D_DEVSTR"
-msgstr "Senutila reĝimo ŜALTITA"
+msgstr "Senutila reĝimo: ŜALTITA"
 
 msgid "QUITMSG"
 msgstr ""
@@ -344,13 +344,13 @@ msgid "TXT_BUDDHA2ON"
 msgstr "Pleja Budha Reĝimo ŜALTITA"
 
 msgid "TXT_BUDDHA2OFF"
-msgstr "Pleja Budha Reĝimo MALŜALTITA"
+msgstr "Pleja Budha Reĝimo: MALŜALTITA"
 
 msgid "TXT_CHEATPOWERON"
-msgstr "Povo ŜALTITA"
+msgstr "Povo: ŜALTITA"
 
 msgid "TXT_CHEATPOWEROFF"
-msgstr "Povo MALŜALTITA"
+msgstr "Povo: MALŜALTITA"
 
 msgid "TXT_CHEATHEALTH"
 msgstr "Plena sano"
@@ -359,10 +359,10 @@ msgid "TXT_CHEATKEYS"
 msgstr "Ĉiuj ŝlosiloj"
 
 msgid "TXT_CHEATSOUNDON"
-msgstr "Sono-sencimiga reĝimo ŜALTITA"
+msgstr "Sono-sencimiga reĝimo: ŜALTITA"
 
 msgid "TXT_CHEATSOUNDOFF"
-msgstr "Sono-sencimiga reĝimo MALŜALTITA"
+msgstr "Sono-sencimiga reĝimo: MALŜALTITA"
 
 msgid "TXT_CHEATIDDQD"
 msgstr "Provas trompi, ĉu vi? Nun vi mortas!"
@@ -371,10 +371,10 @@ msgid "TXT_CHEATIDKFA"
 msgstr "Trompanto—vi ne meritas armilojn"
 
 msgid "TXT_CHEATTICKERON"
-msgstr "Nombrilo ŜALTITA"
+msgstr "Nombrilo: ŜALTITA"
 
 msgid "TXT_CHEATTICKEROFF"
-msgstr "Nombrilo MALŜALTITA"
+msgstr "Nombrilo: MALŜALTITA"
 
 msgid "TXT_CHEATARTIFACTS3"
 msgstr "Vi akiris ĝin"
@@ -386,10 +386,10 @@ msgid "TXT_GOTSTUFF"
 msgstr "Vi akiris la aĵojn!"
 
 msgid "TXT_FREEZEON"
-msgstr "Movhalta reĝimo ŜALTITA"
+msgstr "Movhalta reĝimo: ŜALTITA"
 
 msgid "TXT_FREEZEOFF"
-msgstr "Movhalta reĝimo MALŜALTITA"
+msgstr "Movhalta reĝimo: MALŜALTITA"
 
 msgid "TXT_STRANGE"
 msgstr "Vi sentas vin strange…"
@@ -401,10 +401,10 @@ msgid "TXT_NOTSTRANGE"
 msgstr "Vi denove sentas vin kiel vi mem."
 
 msgid "TXT_LEADBOOTSON"
-msgstr "Botoj el plumbo ŜALTITA"
+msgstr "Botoj el plumbo: ŜALTITA"
 
 msgid "TXT_LEADBOOTSOFF"
-msgstr "Botoj el plumbo MALŜALTITA"
+msgstr "Botoj el plumbo: MALŜALTITA"
 
 msgid "TXT_LIGHTER"
 msgstr "Vi sentas vin pli malpeza"
@@ -413,10 +413,10 @@ msgid "TXT_GRAVITY"
 msgstr "Gravito pezigas vin"
 
 msgid "TXT_NOTARGET_ON"
-msgstr "Neniu Celo ŜALTITA"
+msgstr "Neniu Celo: ŜALTITA"
 
 msgid "TXT_NOTARGET_OFF"
-msgstr "Neniu Celo MALŜALTITA"
+msgstr "Neniu Celo: MALŜALTITA"
 
 msgid "TXT_ANUBIS_ON"
 msgstr "\"Tremu pro timo!\""
@@ -425,10 +425,10 @@ msgid "TXT_ANUBIS_OFF"
 msgstr "Ne plu Ogrokiraso"
 
 msgid "TXT_CHASECAM_ON"
-msgstr "Ĉaskamerao ŜALTITA"
+msgstr "Ĉaskamerao: ŜALTITA"
 
 msgid "TXT_CHASECAM_OFF"
-msgstr "Ĉaskamerao MALŜALTITA"
+msgstr "Ĉaskamerao: MALŜALTITA"
 
 msgid "TXT_BADDIE_KILLED"
 msgstr "1 malbonulo mortigita"
@@ -452,25 +452,25 @@ msgid "TXT_WHAT_KILL"
 msgstr "Kion vi volas mortigi ekster ludo?"
 
 msgid "TXT_NOT_FROZEN"
-msgstr "Atributoj de movhaltitaj ludantoj MALŜALTITA"
+msgstr "Atributoj de movhaltitaj ludantoj: MALŜALTITA"
 
 msgid "AMSTR_FOLLOWOFF"
-msgstr "Sekvigreĝimo MALŜALTITA"
+msgstr "Sekvigreĝimo: MALŜALTITA"
 
 msgid "AMSTR_FOLLOWON"
-msgstr "Sekvigreĝimo ŜALTITA"
+msgstr "Sekvigreĝimo: ŜALTITA"
 
 msgid "AMSTR_GRIDON"
-msgstr "Krado ŜALTITA"
+msgstr "Krado: ŜALTITA"
 
 msgid "AMSTR_GRIDOFF"
-msgstr "Krado MALŜALTITA"
+msgstr "Krado: MALŜALTITA"
 
 msgid "AMSTR_TEXON"
-msgstr "Tekstura Reĝimo ŜALTITA"
+msgstr "Tekstura Reĝimo: ŜALTITA"
 
 msgid "AMSTR_TEXOFF"
-msgstr "Tekstura Reĝimo MALŜALTITA"
+msgstr "Tekstura Reĝimo: MALŜALTITA"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Loko Markita"
@@ -2851,11 +2851,11 @@ msgstr ""
 
 msgctxt "chex"
 msgid "STSTR_DQDON"
-msgstr "Nevenkebla-reĝimo ŜALTITA"
+msgstr "Nevenkebla-reĝimo: ŜALTITA"
 
 msgctxt "chex"
 msgid "STSTR_DQDOFF"
-msgstr "Nevenkebla-reĝimo MALŜALTITA"
+msgstr "Nevenkebla-reĝimo: MALŜALTITA"
 
 msgctxt "chex"
 msgid "STSTR_FAADDED"

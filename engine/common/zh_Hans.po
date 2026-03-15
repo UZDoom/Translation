@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-14 22:34+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-03-15 03:49+0000\n"
+"Last-Translator: dwing <12104745@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/common/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -517,20 +517,17 @@ msgstr "没有可配置的轴"
 msgid "OPTVAL_NONE"
 msgstr "无"
 
-#, fuzzy
 msgid "OPTVAL_TURNING"
-msgstr "转身"
+msgstr "向左/右看"
 
 msgid "OPTVAL_LOOKINGUPDOWN"
 msgstr "向上/下看"
 
-#, fuzzy
 msgid "OPTVAL_MOVINGFORWARD"
-msgstr "前移"
+msgstr "前进/后退"
 
-#, fuzzy
 msgid "OPTVAL_STRAFING"
-msgstr "平移"
+msgstr "左/右平移"
 
 msgid "OPTVAL_MOVINGUPDOWN"
 msgstr "上/下移"

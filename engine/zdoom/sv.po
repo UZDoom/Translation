@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-13 22:54+0000\n"
+"PO-Revision-Date: 2026-03-15 03:49+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/sv/>\n"
@@ -21,7 +21,7 @@ msgid "SECRETMESSAGE"
 msgstr "En hemlighet avslöjas!"
 
 msgid "D_DEVSTR"
-msgstr "Oanvändbart läge PÅ"
+msgstr "Oanvändbart läge: PÅ"
 
 #, fuzzy
 msgid "QUITMSG"
@@ -345,13 +345,13 @@ msgid "TXT_BUDDHA2ON"
 msgstr "Ultimat Buddha-läge på"
 
 msgid "TXT_BUDDHA2OFF"
-msgstr "Ultimat Buddha-läge AV"
+msgstr "Ultimat Buddha-läge: AV"
 
 msgid "TXT_CHEATPOWERON"
-msgstr "Makt PÅ"
+msgstr "Makt: PÅ"
 
 msgid "TXT_CHEATPOWEROFF"
-msgstr "Makt AV"
+msgstr "Makt: AV"
 
 msgid "TXT_CHEATHEALTH"
 msgstr "Full hälsa"
@@ -360,10 +360,10 @@ msgid "TXT_CHEATKEYS"
 msgstr "Alla tangenter"
 
 msgid "TXT_CHEATSOUNDON"
-msgstr "Ljud felsökning PÅ"
+msgstr "Ljud felsökning: PÅ"
 
 msgid "TXT_CHEATSOUNDOFF"
-msgstr "Ljud felsökning AV"
+msgstr "Ljud felsökning: AV"
 
 msgid "TXT_CHEATIDDQD"
 msgstr "Försöker du fuska? Nu dör du!"
@@ -372,10 +372,10 @@ msgid "TXT_CHEATIDKFA"
 msgstr "Fuskare—du förtjänar inte vapen"
 
 msgid "TXT_CHEATTICKERON"
-msgstr "Ticker PÅ"
+msgstr "Ticker: PÅ"
 
 msgid "TXT_CHEATTICKEROFF"
-msgstr "Ticker AV"
+msgstr "Ticker: AV"
 
 msgid "TXT_CHEATARTIFACTS3"
 msgstr "Du fick det"
@@ -387,10 +387,10 @@ msgid "TXT_GOTSTUFF"
 msgstr "Du har grejerna!"
 
 msgid "TXT_FREEZEON"
-msgstr "Frysningsläge PÅ"
+msgstr "Frysningsläge: PÅ"
 
 msgid "TXT_FREEZEOFF"
-msgstr "Frysningsläge AV"
+msgstr "Frysningsläge: AV"
 
 msgid "TXT_STRANGE"
 msgstr "Du känner dig konstig…"
@@ -401,12 +401,11 @@ msgstr "Du känner dig ännu konstigare."
 msgid "TXT_NOTSTRANGE"
 msgstr "Du känner dig som dig själv igen."
 
-#, fuzzy
 msgid "TXT_LEADBOOTSON"
-msgstr "Blystövlar på"
+msgstr "Blystövlar: PÅ"
 
 msgid "TXT_LEADBOOTSOFF"
-msgstr "Blykängor AV"
+msgstr "Blykängor: AV"
 
 msgid "TXT_LIGHTER"
 msgstr "Du känner dig lättare"
@@ -415,10 +414,10 @@ msgid "TXT_GRAVITY"
 msgstr "Tyngdkraften tynger ner dig"
 
 msgid "TXT_NOTARGET_ON"
-msgstr "Inget mål PÅ"
+msgstr "Inget mål: PÅ"
 
 msgid "TXT_NOTARGET_OFF"
-msgstr "Inget mål AV"
+msgstr "Inget mål: AV"
 
 msgid "TXT_ANUBIS_ON"
 msgstr "\"Skräck skakar av rädsla!\""
@@ -427,10 +426,10 @@ msgid "TXT_ANUBIS_OFF"
 msgstr "Inget mer träsktorns rustning"
 
 msgid "TXT_CHASECAM_ON"
-msgstr "Chasecam PÅ"
+msgstr "Chasecam: PÅ"
 
 msgid "TXT_CHASECAM_OFF"
-msgstr "Chasecam AV"
+msgstr "Chasecam: AV"
 
 msgid "TXT_BADDIE_KILLED"
 msgstr "1 skurk dödad"
@@ -456,25 +455,25 @@ msgid "TXT_WHAT_KILL"
 msgstr "Vad vill du döda utanför ett spel?"
 
 msgid "TXT_NOT_FROZEN"
-msgstr "Frysta spelaregenskaper AV"
+msgstr "Frysta spelaregenskaper: AV"
 
 msgid "AMSTR_FOLLOWOFF"
-msgstr "Följningsläget AV"
+msgstr "Följningsläget: AV"
 
 msgid "AMSTR_FOLLOWON"
-msgstr "Följningsläget PÅ"
+msgstr "Följningsläget: PÅ"
 
 msgid "AMSTR_GRIDON"
-msgstr "Rutnät PÅ"
+msgstr "Rutnät: PÅ"
 
 msgid "AMSTR_GRIDOFF"
-msgstr "Rutnät AV"
+msgstr "Rutnät: AV"
 
 msgid "AMSTR_TEXON"
-msgstr "Texturläge PÅ"
+msgstr "Texturläge: PÅ"
 
 msgid "AMSTR_TEXOFF"
-msgstr "Texturläge AV"
+msgstr "Texturläge: AV"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Markerad punkt"
@@ -2857,11 +2856,11 @@ msgstr ""
 
 msgctxt "chex"
 msgid "STSTR_DQDON"
-msgstr "Oövervinnerligt läge PÅ"
+msgstr "Oövervinnerligt läge: PÅ"
 
 msgctxt "chex"
 msgid "STSTR_DQDOFF"
-msgstr "Oövervinnerligt läge AV"
+msgstr "Oövervinnerligt läge: AV"
 
 msgctxt "chex"
 msgid "STSTR_FAADDED"

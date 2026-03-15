@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-05 01:46+0000\n"
+"PO-Revision-Date: 2026-03-15 03:49+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/pt/>\n"
@@ -420,10 +420,10 @@ msgid "TXT_ANUBIS_OFF"
 msgstr "Chega de Armadura de Ogre"
 
 msgid "TXT_CHASECAM_ON"
-msgstr "Câmara em Terceira Pessoa ATIVADA"
+msgstr "Câmara em Terceira Pessoa: ATIVADA"
 
 msgid "TXT_CHASECAM_OFF"
-msgstr "Câmara em Terceira Pessoa DESATIVADA"
+msgstr "Câmara em Terceira Pessoa: DESATIVADA"
 
 msgid "TXT_BADDIE_KILLED"
 msgstr ""
@@ -456,10 +456,10 @@ msgid "AMSTR_FOLLOWON"
 msgstr ""
 
 msgid "AMSTR_GRIDON"
-msgstr "Grelha ATIVADA"
+msgstr "Grelha: ATIVADA"
 
 msgid "AMSTR_GRIDOFF"
-msgstr "Grelha DESATIVADA"
+msgstr "Grelha: DESATIVADA"
 
 msgid "AMSTR_TEXON"
 msgstr ""

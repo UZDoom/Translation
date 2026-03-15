@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-13 22:54+0000\n"
+"PO-Revision-Date: 2026-03-15 03:49+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/de/>\n"
@@ -21,7 +21,7 @@ msgid "SECRETMESSAGE"
 msgstr "Ein Geheimnis ist enthüllt!"
 
 msgid "D_DEVSTR"
-msgstr "Nutzloser Modus AN"
+msgstr "Nutzloser Modus: AN"
 
 msgid "QUITMSG"
 msgstr ""
@@ -344,13 +344,13 @@ msgid "TXT_BUDDHA2ON"
 msgstr "Ultimativer Buddhamodus AN"
 
 msgid "TXT_BUDDHA2OFF"
-msgstr "Ultimativer Buddhamodus AUS"
+msgstr "Ultimativer Buddhamodus: AUS"
 
 msgid "TXT_CHEATPOWERON"
-msgstr "Fähigkeit AN"
+msgstr "Fähigkeit: AN"
 
 msgid "TXT_CHEATPOWEROFF"
-msgstr "Fähigkeit AUS"
+msgstr "Fähigkeit: AUS"
 
 msgid "TXT_CHEATHEALTH"
 msgstr "Volle Lebensenergie"
@@ -359,10 +359,10 @@ msgid "TXT_CHEATKEYS"
 msgstr "Alle Schlüssel"
 
 msgid "TXT_CHEATSOUNDON"
-msgstr "Sound Debug AN"
+msgstr "Sound Debug: AN"
 
 msgid "TXT_CHEATSOUNDOFF"
-msgstr "Sound Debug AUS"
+msgstr "Sound Debug: AUS"
 
 msgid "TXT_CHEATIDDQD"
 msgstr "Versuchst zu betrügen, was? Nun stirbst du!"
@@ -371,10 +371,10 @@ msgid "TXT_CHEATIDKFA"
 msgstr "Betrüger—du verdienst keine Waffen"
 
 msgid "TXT_CHEATTICKERON"
-msgstr "Zähler AN"
+msgstr "Zähler: AN"
 
 msgid "TXT_CHEATTICKEROFF"
-msgstr "Zähler AUS"
+msgstr "Zähler: AUS"
 
 msgid "TXT_CHEATARTIFACTS3"
 msgstr "Du hast es"
@@ -386,10 +386,10 @@ msgid "TXT_GOTSTUFF"
 msgstr "Du hast den Kram erhalten!"
 
 msgid "TXT_FREEZEON"
-msgstr "Gefriermodus AN"
+msgstr "Gefriermodus: AN"
 
 msgid "TXT_FREEZEOFF"
-msgstr "Gefriermodus AUS"
+msgstr "Gefriermodus: AUS"
 
 msgid "TXT_STRANGE"
 msgstr "Du fühlst dich merkwürdig…"
@@ -401,10 +401,10 @@ msgid "TXT_NOTSTRANGE"
 msgstr "Du fühlst dich wieder wie du selbst."
 
 msgid "TXT_LEADBOOTSON"
-msgstr "Bleistiefel AN"
+msgstr "Bleistiefel: AN"
 
 msgid "TXT_LEADBOOTSOFF"
-msgstr "Bleistiefel AUS"
+msgstr "Bleistiefel: AUS"
 
 msgid "TXT_LIGHTER"
 msgstr "Du fühlst dich leichter"
@@ -413,10 +413,10 @@ msgid "TXT_GRAVITY"
 msgstr "Schwerkraft belastet dich"
 
 msgid "TXT_NOTARGET_ON"
-msgstr "notarget AN"
+msgstr "notarget: AN"
 
 msgid "TXT_NOTARGET_OFF"
-msgstr "notarget AUS"
+msgstr "notarget: AUS"
 
 msgid "TXT_ANUBIS_ON"
 msgstr "„Zittere vor Angst!“"
@@ -425,10 +425,10 @@ msgid "TXT_ANUBIS_OFF"
 msgstr "Keine Ogerrüstung mehr"
 
 msgid "TXT_CHASECAM_ON"
-msgstr "Chasecam AN"
+msgstr "Chasecam: AN"
 
 msgid "TXT_CHASECAM_OFF"
-msgstr "Chasecam AUS"
+msgstr "Chasecam: AUS"
 
 msgid "TXT_BADDIE_KILLED"
 msgstr "1 Bösewicht getötet"
@@ -454,25 +454,25 @@ msgid "TXT_WHAT_KILL"
 msgstr "Was willst du eigentlich außerhalb eines Spiels töten?"
 
 msgid "TXT_NOT_FROZEN"
-msgstr "Gefrier-Modus AUS"
+msgstr "Gefrier-Modus: AUS"
 
 msgid "AMSTR_FOLLOWOFF"
-msgstr "Folgen-Modus AUS"
+msgstr "Folgen-Modus: AUS"
 
 msgid "AMSTR_FOLLOWON"
-msgstr "Folgen-Modus AN"
+msgstr "Folgen-Modus: AN"
 
 msgid "AMSTR_GRIDON"
-msgstr "Gitter AN"
+msgstr "Gitter: AN"
 
 msgid "AMSTR_GRIDOFF"
-msgstr "Gitter AUS"
+msgstr "Gitter: AUS"
 
 msgid "AMSTR_TEXON"
-msgstr "Texturmodus AN"
+msgstr "Texturmodus: AN"
 
 msgid "AMSTR_TEXOFF"
-msgstr "Texturmodus AUS"
+msgstr "Texturmodus: AUS"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Punkt markiert"
@@ -2854,11 +2854,11 @@ msgstr ""
 
 msgctxt "chex"
 msgid "STSTR_DQDON"
-msgstr "Unbesiegbarer Modus AN"
+msgstr "Unbesiegbarer Modus: AN"
 
 msgctxt "chex"
 msgid "STSTR_DQDOFF"
-msgstr "Unbesiegbarer Modus AUS"
+msgstr "Unbesiegbarer Modus: AUS"
 
 msgctxt "chex"
 msgid "STSTR_FAADDED"

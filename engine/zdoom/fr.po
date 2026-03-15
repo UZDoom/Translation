@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-13 22:54+0000\n"
+"PO-Revision-Date: 2026-03-15 03:49+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fr/>\n"
@@ -21,7 +21,7 @@ msgid "SECRETMESSAGE"
 msgstr "Vous avez découvert un secret !"
 
 msgid "D_DEVSTR"
-msgstr "Mode inutile ACTIF"
+msgstr "Mode inutile : ACTIF"
 
 msgid "QUITMSG"
 msgstr ""
@@ -345,13 +345,13 @@ msgid "TXT_BUDDHA2ON"
 msgstr "Mode Bouddha Ultime ACTIF"
 
 msgid "TXT_BUDDHA2OFF"
-msgstr "Mode Bouddha Ultime INACTIF"
+msgstr "Mode Bouddha Ultime : INACTIF"
 
 msgid "TXT_CHEATPOWERON"
-msgstr "Pouvoir ACTIF"
+msgstr "Pouvoir : ACTIF"
 
 msgid "TXT_CHEATPOWEROFF"
-msgstr "Pouvoir INACTIVE"
+msgstr "Pouvoir : INACTIVE"
 
 msgid "TXT_CHEATHEALTH"
 msgstr "Pleine Santé"
@@ -360,10 +360,10 @@ msgid "TXT_CHEATKEYS"
 msgstr "Toutes les Clés"
 
 msgid "TXT_CHEATSOUNDON"
-msgstr "Débogage du son ACTIF"
+msgstr "Débogage du son : ACTIF"
 
 msgid "TXT_CHEATSOUNDOFF"
-msgstr "Débogage du son INACTIF"
+msgstr "Débogage du son : INACTIF"
 
 msgid "TXT_CHEATIDDQD"
 msgstr "Tu essaie de tricher, hein ? Et bah tu crève !"
@@ -372,10 +372,10 @@ msgid "TXT_CHEATIDKFA"
 msgstr "Tricheur—Tu ne mérite pas ton flingue"
 
 msgid "TXT_CHEATTICKERON"
-msgstr "Compteur ACTIF"
+msgstr "Compteur : ACTIF"
 
 msgid "TXT_CHEATTICKEROFF"
-msgstr "Compteur INACTIF"
+msgstr "Compteur : INACTIF"
 
 msgid "TXT_CHEATARTIFACTS3"
 msgstr "C'est à vous"
@@ -387,10 +387,10 @@ msgid "TXT_GOTSTUFF"
 msgstr "Voilà ton équipement !"
 
 msgid "TXT_FREEZEON"
-msgstr "Mode Figé ACTIF"
+msgstr "Mode Figé : ACTIF"
 
 msgid "TXT_FREEZEOFF"
-msgstr "Mode Figé INACTIF"
+msgstr "Mode Figé : INACTIF"
 
 msgid "TXT_STRANGE"
 msgstr "Vous vous sentez mal à l'aise…"
@@ -402,10 +402,10 @@ msgid "TXT_NOTSTRANGE"
 msgstr "Vous vous sentez vachement moins mal à l'aise."
 
 msgid "TXT_LEADBOOTSON"
-msgstr "Bottes en plomb ACTIVES"
+msgstr "Bottes en plomb : ACTIVES"
 
 msgid "TXT_LEADBOOTSOFF"
-msgstr "Bottes en plomb INACTIVES"
+msgstr "Bottes en plomb : INACTIVES"
 
 msgid "TXT_LIGHTER"
 msgstr "Vous vous sentez très léger"
@@ -414,10 +414,10 @@ msgid "TXT_GRAVITY"
 msgstr "La gravité vous ramène au sol"
 
 msgid "TXT_NOTARGET_ON"
-msgstr "Monstres aveugles et sourds ACTIFS"
+msgstr "Monstres aveugles et sourds : ACTIFS"
 
 msgid "TXT_NOTARGET_OFF"
-msgstr "Monstres aveugles et sourds INACTIFS"
+msgstr "Monstres aveugles et sourds : INACTIFS"
 
 msgid "TXT_ANUBIS_ON"
 msgstr "« Tremblez de terreur ! »"
@@ -453,25 +453,25 @@ msgid "TXT_WHAT_KILL"
 msgstr "Vous voulez tuer quoi en dehors d'une partie ?"
 
 msgid "TXT_NOT_FROZEN"
-msgstr "Propriété gelée INACTIVE"
+msgstr "Propriété gelée : INACTIVE"
 
 msgid "AMSTR_FOLLOWOFF"
-msgstr "Suivi du Joueur INACTIF"
+msgstr "Suivi du Joueur : INACTIF"
 
 msgid "AMSTR_FOLLOWON"
-msgstr "Suivi du Joueur ACTIF"
+msgstr "Suivi du Joueur : ACTIF"
 
 msgid "AMSTR_GRIDON"
-msgstr "Quadrillage ACTIF"
+msgstr "Quadrillage : ACTIF"
 
 msgid "AMSTR_GRIDOFF"
-msgstr "Quadrillage INACTIF"
+msgstr "Quadrillage : INACTIF"
 
 msgid "AMSTR_TEXON"
-msgstr "Mode Texturé ACTIF"
+msgstr "Mode Texturé : ACTIF"
 
 msgid "AMSTR_TEXOFF"
-msgstr "Mode Texturé INACTIF"
+msgstr "Mode Texturé : INACTIF"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Repère marqué"
@@ -2856,11 +2856,11 @@ msgstr ""
 
 msgctxt "chex"
 msgid "STSTR_DQDON"
-msgstr "Mode invincible ACTIF"
+msgstr "Mode invincible : ACTIF"
 
 msgctxt "chex"
 msgid "STSTR_DQDOFF"
-msgstr "Mode invincible INACTIF"
+msgstr "Mode invincible : INACTIF"
 
 msgctxt "chex"
 msgid "STSTR_FAADDED"

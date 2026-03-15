@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-01 02:38+0000\n"
+"PO-Revision-Date: 2026-03-15 03:49+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/el/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16.1-dev\n"
+"X-Generator: Weblate 5.17-dev\n"
 "X-HeaderCode: el\n"
 
 msgid "PRESSKEY"
@@ -21,7 +21,7 @@ msgid "SECRETMESSAGE"
 msgstr "Ένα μυστικό αποκαλύφθηκε!"
 
 msgid "D_DEVSTR"
-msgstr "Άχρηστη λειτουργία ΕΝΕΡΓΗ"
+msgstr "Άχρηστη λειτουργία: ΕΝΕΡΓΗ"
 
 #, fuzzy
 msgid "QUITMSG"
@@ -344,13 +344,13 @@ msgid "TXT_BUDDHA2ON"
 msgstr "Λειτουργία Απόλητου Βουδα ΕΝΕΡΓΟ"
 
 msgid "TXT_BUDDHA2OFF"
-msgstr "Λειτουργία Απόλητου Βουδα ΑΝΕΝΕΡΓΟ"
+msgstr "Λειτουργία Απόλητου Βουδα: ΑΝΕΝΕΡΓΟ"
 
 msgid "TXT_CHEATPOWERON"
-msgstr "Δύναμη ΕΝΕΡΓΟ"
+msgstr "Δύναμη: ΕΝΕΡΓΟ"
 
 msgid "TXT_CHEATPOWEROFF"
-msgstr "Δύναμη ΑΝΕΝΕΡΓΟ"
+msgstr "Δύναμη: ΑΝΕΝΕΡΓΟ"
 
 msgid "TXT_CHEATHEALTH"
 msgstr "Ολόκληρη υγεία"
@@ -359,10 +359,10 @@ msgid "TXT_CHEATKEYS"
 msgstr "Όλα τα κλειδία"
 
 msgid "TXT_CHEATSOUNDON"
-msgstr "Debug ήχου ΕΝΕΡΓΟ"
+msgstr "Debug ήχου: ΕΝΕΡΓΟ"
 
 msgid "TXT_CHEATSOUNDOFF"
-msgstr "Debug ήχου ΑΝΕΝΕΡΓΟ"
+msgstr "Debug ήχου: ΑΝΕΝΕΡΓΟ"
 
 msgid "TXT_CHEATIDDQD"
 msgstr "Προσπαθείς να εξαπατήσεις, ε? Τώρα πεθένεις!"
@@ -371,10 +371,10 @@ msgid "TXT_CHEATIDKFA"
 msgstr "Απατεόνα δέν σου αξήζουν όπλα"
 
 msgid "TXT_CHEATTICKERON"
-msgstr "Χρονόμετρο ΕΝΕΡΓΟ"
+msgstr "Χρονόμετρο: ΕΝΕΡΓΟ"
 
 msgid "TXT_CHEATTICKEROFF"
-msgstr "Χρονόμετρο ΑΝΕΝΕΡΓΟ"
+msgstr "Χρονόμετρο: ΑΝΕΝΕΡΓΟ"
 
 msgid "TXT_CHEATARTIFACTS3"
 msgstr "Το πήρες"
@@ -386,10 +386,10 @@ msgid "TXT_GOTSTUFF"
 msgstr "Πήρες τηατ πράγματα !"
 
 msgid "TXT_FREEZEON"
-msgstr "Παγομένη λειτουργία ΕΝΕΡΓΟ"
+msgstr "Παγομένη λειτουργία: ΕΝΕΡΓΟ"
 
 msgid "TXT_FREEZEOFF"
-msgstr "Παγομένη λειτουργία ΑΝΕΝΕΡΓΟ"
+msgstr "Παγομένη λειτουργία: ΑΝΕΝΕΡΓΟ"
 
 msgid "TXT_STRANGE"
 msgstr "Νιώθης περίεργα…"
@@ -401,10 +401,10 @@ msgid "TXT_NOTSTRANGE"
 msgstr "Νιώθης σάν τον εαύτο σου ξανά."
 
 msgid "TXT_LEADBOOTSON"
-msgstr "Μολυβδένιες μπότες ΕΝΕΡΓΟ"
+msgstr "Μολυβδένιες μπότες: ΕΝΕΡΓΟ"
 
 msgid "TXT_LEADBOOTSOFF"
-msgstr "Μολυβδένιες μπότες ΑΝΕΝΕΡΓΟ"
+msgstr "Μολυβδένιες μπότες: ΑΝΕΝΕΡΓΟ"
 
 msgid "TXT_LIGHTER"
 msgstr "Νιώθης πιο ελαφρής"
@@ -413,10 +413,10 @@ msgid "TXT_GRAVITY"
 msgstr "Η βαρύτητα σε πιάνει"
 
 msgid "TXT_NOTARGET_ON"
-msgstr "Αστόχευτη λειτουργία ΕΝΕΡΓΟ"
+msgstr "Αστόχευτη λειτουργία: ΕΝΕΡΓΟ"
 
 msgid "TXT_NOTARGET_OFF"
-msgstr "Αστόχευτη λειτουργία ΑΝΕΝΕΡΓΟ"
+msgstr "Αστόχευτη λειτουργία: ΑΝΕΝΕΡΓΟ"
 
 msgid "TXT_ANUBIS_ON"
 msgstr "\"Τρέμε με φόβο!\""
@@ -425,10 +425,10 @@ msgid "TXT_ANUBIS_OFF"
 msgstr "Καθόλου δρακοντική πανοπλία πια"
 
 msgid "TXT_CHASECAM_ON"
-msgstr "Κάμερα τρίτου πρωσώπου ΕΝΕΡΓΟ"
+msgstr "Κάμερα τρίτου πρωσώπου: ΕΝΕΡΓΟ"
 
 msgid "TXT_CHASECAM_OFF"
-msgstr "Κάμερα τρίτου πρωσώπου ΑΝΕΝΕΡΓΟ"
+msgstr "Κάμερα τρίτου πρωσώπου: ΑΝΕΝΕΡΓΟ"
 
 msgid "TXT_BADDIE_KILLED"
 msgstr "Ενας κακός πέθανε"
@@ -452,25 +452,25 @@ msgid "TXT_WHAT_KILL"
 msgstr "Τί θέλεις να σκοτώσεις έξω απο ένα παιχνίδι ?"
 
 msgid "TXT_NOT_FROZEN"
-msgstr "Η ιδιότητες ενος παγομένου παίχτη ΑΝΕΝΕΡΓΟ"
+msgstr "Η ιδιότητες ενος παγομένου παίχτη: ΑΝΕΝΕΡΓΟ"
 
 msgid "AMSTR_FOLLOWOFF"
-msgstr "Ακολούθηση ΑΝΕΝΕΡΓΟ"
+msgstr "Ακολούθηση: ΑΝΕΝΕΡΓΟ"
 
 msgid "AMSTR_FOLLOWON"
-msgstr "Ακολούθηση ΕΝΕΡΓΟ"
+msgstr "Ακολούθηση: ΕΝΕΡΓΟ"
 
 msgid "AMSTR_GRIDON"
-msgstr "Πλέχμα ΕΝΕΡΓΟ"
+msgstr "Πλέχμα: ΕΝΕΡΓΟ"
 
 msgid "AMSTR_GRIDOFF"
-msgstr "Πλέχμα ΑΝΕΝΕΡΓΟ"
+msgstr "Πλέχμα: ΑΝΕΝΕΡΓΟ"
 
 msgid "AMSTR_TEXON"
-msgstr "Γραφικός χάρτης ΕΝΕΡΓΟ"
+msgstr "Γραφικός χάρτης: ΕΝΕΡΓΟ"
 
 msgid "AMSTR_TEXOFF"
-msgstr "Γραφικός χάρτης ΑΝΕΝΕΡΓΟ"
+msgstr "Γραφικός χάρτης: ΑΝΕΝΕΡΓΟ"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Μαρκαρησμένη τοποθεσεία"
