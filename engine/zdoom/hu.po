@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 00:09+0000\n"
+"PO-Revision-Date: 2026-03-15 03:49+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hu/>\n"
@@ -346,13 +346,13 @@ msgid "TXT_BUDDHA2ON"
 msgstr "Tökéletes Buddha Mód BE"
 
 msgid "TXT_BUDDHA2OFF"
-msgstr "Tökéletes Buddha Mód KI"
+msgstr "Tökéletes Buddha Mód: KI"
 
 msgid "TXT_CHEATPOWERON"
-msgstr "Energia BE"
+msgstr "Energia: BE"
 
 msgid "TXT_CHEATPOWEROFF"
-msgstr "Energia KI"
+msgstr "Energia: KI"
 
 msgid "TXT_CHEATHEALTH"
 msgstr "Teljes életerő"
@@ -361,10 +361,10 @@ msgid "TXT_CHEATKEYS"
 msgstr "Összes kulcs"
 
 msgid "TXT_CHEATSOUNDON"
-msgstr "Hang debug BE"
+msgstr "Hang debug: BE"
 
 msgid "TXT_CHEATSOUNDOFF"
-msgstr "Hang debug KI"
+msgstr "Hang debug: KI"
 
 msgid "TXT_CHEATIDDQD"
 msgstr "Csalni akarsz, mi? Most meghalsz!"
@@ -373,10 +373,10 @@ msgid "TXT_CHEATIDKFA"
 msgstr "Csaló—nem érdemelsz fegyvert"
 
 msgid "TXT_CHEATTICKERON"
-msgstr "Számláló BE"
+msgstr "Számláló: BE"
 
 msgid "TXT_CHEATTICKEROFF"
-msgstr "Számláló KI"
+msgstr "Számláló: KI"
 
 msgid "TXT_CHEATARTIFACTS3"
 msgstr "Megkaptad"
@@ -388,10 +388,10 @@ msgid "TXT_GOTSTUFF"
 msgstr "Megkaptad a cuccot!"
 
 msgid "TXT_FREEZEON"
-msgstr "Fagyasztás BE"
+msgstr "Fagyasztás: BE"
 
 msgid "TXT_FREEZEOFF"
-msgstr "Fagyasztás KI"
+msgstr "Fagyasztás: KI"
 
 msgid "TXT_STRANGE"
 msgstr "Furán érzed magad…"
@@ -403,10 +403,10 @@ msgid "TXT_NOTSTRANGE"
 msgstr "Magadhoz tértél."
 
 msgid "TXT_LEADBOOTSON"
-msgstr "Ólomcsizma BE"
+msgstr "Ólomcsizma: BE"
 
 msgid "TXT_LEADBOOTSOFF"
-msgstr "Ólomcsizma KI"
+msgstr "Ólomcsizma: KI"
 
 msgid "TXT_LIGHTER"
 msgstr "Könnyűnek érzed magad"
@@ -415,10 +415,10 @@ msgid "TXT_GRAVITY"
 msgstr "A gravitáció lehúz téged"
 
 msgid "TXT_NOTARGET_ON"
-msgstr "Nem támadnak a szörnyek BE"
+msgstr "Nem támadnak a szörnyek: BE"
 
 msgid "TXT_NOTARGET_OFF"
-msgstr "Nem támadnak a szörnyek KI"
+msgstr "Nem támadnak a szörnyek: KI"
 
 msgid "TXT_ANUBIS_ON"
 msgstr "\"Reszkess, halandó!\""
@@ -427,10 +427,10 @@ msgid "TXT_ANUBIS_OFF"
 msgstr "Ogre pajzs lejárt"
 
 msgid "TXT_CHASECAM_ON"
-msgstr "Követő kamera BE"
+msgstr "Követő kamera: BE"
 
 msgid "TXT_CHASECAM_OFF"
-msgstr "Követő kamera KI"
+msgstr "Követő kamera: KI"
 
 msgid "TXT_BADDIE_KILLED"
 msgstr "1 rosszfiú kinyírva"
@@ -454,13 +454,13 @@ msgid "TXT_WHAT_KILL"
 msgstr "Mit tudnál megölni játékon kívül?"
 
 msgid "TXT_NOT_FROZEN"
-msgstr "Fagyasztott játékos tulajdonságai KI"
+msgstr "Fagyasztott játékos tulajdonságai: KI"
 
 msgid "AMSTR_FOLLOWOFF"
-msgstr "Követés mód KI"
+msgstr "Követés mód: KI"
 
 msgid "AMSTR_FOLLOWON"
-msgstr "Követés mód BE"
+msgstr "Követés mód: BE"
 
 msgid "AMSTR_GRIDON"
 msgstr "Rács: BE"
