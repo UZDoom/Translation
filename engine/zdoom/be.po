@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 03:49+0000\n"
+"PO-Revision-Date: 2026-03-15 23:40+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/be/>\n"
@@ -286,16 +286,16 @@ msgid "STSTR_NOMUS"
 msgstr "Немагчымы выбар"
 
 msgid "STSTR_DQDON"
-msgstr "Рэжым непісьменнасці УКЛ"
+msgstr "Рэжым непісьменнасці: УКЛ"
 
 msgid "STSTR_DQDOFF"
-msgstr "Рэжым непісьменнасці ВЫКЛ"
+msgstr "Рэжым непісьменнасці: ВЫКЛ"
 
 msgid "STSTR_DQD2ON"
-msgstr "Рэжым поўнай непісьменнасці УКЛ"
+msgstr "Рэжым поўнай непісьменнасці: УКЛ"
 
 msgid "STSTR_DQD2OFF"
-msgstr "Рэжым поўнай непісьменнасці ВЫКЛ"
+msgstr "Рэжым поўнай непісьменнасці: ВЫКЛ"
 
 msgid "STSTR_KFAADDED"
 msgstr "Боезапас на шчасце папоўнены"
@@ -304,16 +304,18 @@ msgid "STSTR_FAADDED"
 msgstr "Боезапас (без ключоў) папоўнены"
 
 msgid "STSTR_NCON"
-msgstr "Рэжым без сутыкненняў УКЛ"
+msgstr "Рэжым без сутыкненняў: УКЛ"
 
 msgid "STSTR_NCOFF"
-msgstr "Рэжым без сутыкненняў ВЫКЛ"
+msgstr "Рэжым без сутыкненняў: ВЫКЛ"
 
+#, fuzzy
 msgid "STSTR_NC2ON"
-msgstr "Рэжым без сутыкненняў 2 УКЛ"
+msgstr "Рэжым без сутыкненняў 2: УКЛ"
 
+#, fuzzy
 msgid "STSTR_NC2OFF"
-msgstr "Рэжым без сутыкненняў 2 ВЫКЛ"
+msgstr "Рэжым без сутыкненняў 2: ВЫКЛ"
 
 # “inVuln”: Invulnerability sphere
 # “Str”: Berserk
@@ -337,13 +339,13 @@ msgid "STSTR_CLEV"
 msgstr "Змена ўзроўню…"
 
 msgid "TXT_BUDDHAON"
-msgstr "Рэжым Буды УКЛ"
+msgstr "Рэжым Буды: УКЛ"
 
 msgid "TXT_BUDDHAOFF"
-msgstr "Рэжым Буды ВЫКЛ"
+msgstr "Рэжым Буды: ВЫКЛ"
 
 msgid "TXT_BUDDHA2ON"
-msgstr "Рэжым ультыматыўнага Буды УКЛ"
+msgstr "Рэжым ультыматыўнага Буды: УКЛ"
 
 msgid "TXT_BUDDHA2OFF"
 msgstr "Рэжым ультыматыўнага Буды: ВЫКЛ"

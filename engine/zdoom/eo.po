@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 03:49+0000\n"
+"PO-Revision-Date: 2026-03-15 23:40+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/eo/>\n"
@@ -285,16 +285,16 @@ msgid "STSTR_NOMUS"
 msgstr "Malebla Elektaĵo"
 
 msgid "STSTR_DQDON"
-msgstr "Nevundebla Reĝimo ŜALTITA"
+msgstr "Nevundebla Reĝimo: ŜALTITA"
 
 msgid "STSTR_DQDOFF"
-msgstr "Nevundebla Reĝimo MALŜALTITA"
+msgstr "Nevundebla Reĝimo: MALŜALTITA"
 
 msgid "STSTR_DQD2ON"
-msgstr "Pleja Nevundebla Reĝimo ŜALTITA"
+msgstr "Pleja Nevundebla Reĝimo: ŜALTITA"
 
 msgid "STSTR_DQD2OFF"
-msgstr "Pleja Nevundebla Reĝimo MALŜALTITA"
+msgstr "Pleja Nevundebla Reĝimo: MALŜALTITA"
 
 msgid "STSTR_KFAADDED"
 msgstr "Tre Feliĉa Municio Aldonita"
@@ -303,16 +303,18 @@ msgid "STSTR_FAADDED"
 msgstr "Municio (neniuj ŝlosiloj) Aldonita"
 
 msgid "STSTR_NCON"
-msgstr "Reĝimo de Neniu Tondado ŜALTITA"
+msgstr "Reĝimo de Neniu Tondado: ŜALTITA"
 
 msgid "STSTR_NCOFF"
-msgstr "Reĝimo de Neniu Tondado MALŜALTITA"
+msgstr "Reĝimo de Neniu Tondado: MALŜALTITA"
 
+#, fuzzy
 msgid "STSTR_NC2ON"
-msgstr "Reĝimo de Neniu Tondado 2 ŜALTITA"
+msgstr "Reĝimo de Neniu Tondado 2: ŜALTITA"
 
+#, fuzzy
 msgid "STSTR_NC2OFF"
-msgstr "Reĝimo de Neniu Tondado 2 MALŜALTITA"
+msgstr "Reĝimo de Neniu Tondado 2: MALŜALTITA"
 
 # “inVuln”: Invulnerability sphere
 # “Str”: Berserk
@@ -335,13 +337,13 @@ msgid "STSTR_CLEV"
 msgstr "Ŝanĝante Nivelon…"
 
 msgid "TXT_BUDDHAON"
-msgstr "Budha reĝimo ŜALTITA"
+msgstr "Budha reĝimo: ŜALTITA"
 
 msgid "TXT_BUDDHAOFF"
-msgstr "Budha reĝimo MALŜALTITA"
+msgstr "Budha reĝimo: MALŜALTITA"
 
 msgid "TXT_BUDDHA2ON"
-msgstr "Pleja Budha Reĝimo ŜALTITA"
+msgstr "Pleja Budha Reĝimo: ŜALTITA"
 
 msgid "TXT_BUDDHA2OFF"
 msgstr "Pleja Budha Reĝimo: MALŜALTITA"

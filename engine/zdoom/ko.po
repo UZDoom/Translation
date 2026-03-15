@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 03:49+0000\n"
+"PO-Revision-Date: 2026-03-15 23:40+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ko/>\n"
@@ -288,16 +288,16 @@ msgid "STSTR_NOMUS"
 msgstr "불가능한 선택입니다"
 
 msgid "STSTR_DQDON"
-msgstr "무미건조한 모드 켜짐"
+msgstr "무미건조한 모드: 켜짐"
 
 msgid "STSTR_DQDOFF"
-msgstr "무미건조한 모드 끔"
+msgstr "무미건조한 모드: 끔"
 
 msgid "STSTR_DQD2ON"
-msgstr "엄청나게 무미건조한 모드 켬"
+msgstr "엄청나게 무미건조한 모드: 켜짐"
 
 msgid "STSTR_DQD2OFF"
-msgstr "엄청나게 무미건조한 모드 끔"
+msgstr "엄청나게 무미건조한 모드: 끔"
 
 msgid "STSTR_KFAADDED"
 msgstr "아주 행복한 탄약 추가됨"
@@ -306,16 +306,18 @@ msgid "STSTR_FAADDED"
 msgstr "탄약(열쇠 없이) 추가됨"
 
 msgid "STSTR_NCON"
-msgstr "노 클립 모드 켬"
+msgstr "노 클립 모드: 켜짐"
 
 msgid "STSTR_NCOFF"
-msgstr "노 클립 모드 끔"
+msgstr "노 클립 모드: 끔"
 
+#, fuzzy
 msgid "STSTR_NC2ON"
-msgstr "노 클립 모드 2 켬"
+msgstr "노 클립 모드 2: 켜짐"
 
+#, fuzzy
 msgid "STSTR_NC2OFF"
-msgstr "노 클립 모드 2 끔"
+msgstr "노 클립 모드 2: 끔"
 
 # “inVuln”: Invulnerability sphere
 # “Str”: Berserk
@@ -338,13 +340,13 @@ msgid "STSTR_CLEV"
 msgstr "레벨 변경 중…"
 
 msgid "TXT_BUDDHAON"
-msgstr "부처 모드 켬"
+msgstr "부처 모드: 켜짐"
 
 msgid "TXT_BUDDHAOFF"
-msgstr "부처 모드 끔"
+msgstr "부처 모드: 끔"
 
 msgid "TXT_BUDDHA2ON"
-msgstr "나무 아미타불 모드 켬"
+msgstr "나무 아미타불 모드: 켜짐"
 
 msgid "TXT_BUDDHA2OFF"
 msgstr "나무 아미타불 모드: 끔"

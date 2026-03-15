@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 03:49+0000\n"
+"PO-Revision-Date: 2026-03-15 23:40+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hr/>\n"
@@ -290,13 +290,13 @@ msgid "STSTR_DQDON"
 msgstr "Način bezstupnjevnosti: UKLJ"
 
 msgid "STSTR_DQDOFF"
-msgstr "Način bezstupnjevnosti ISKLJ"
+msgstr "Način bezstupnjevnosti: ISKLJ"
 
 msgid "STSTR_DQD2ON"
-msgstr "Način krajnje bezstupnjevnosti UKLJ"
+msgstr "Način krajnje bezstupnjevnosti: UKLJ"
 
 msgid "STSTR_DQD2OFF"
-msgstr "Način krajnje bezstupnjevnosti ISKLJ"
+msgstr "Način krajnje bezstupnjevnosti: ISKLJ"
 
 msgid "STSTR_KFAADDED"
 msgstr "Jako sretno streljivo je dodano"
@@ -305,16 +305,18 @@ msgid "STSTR_FAADDED"
 msgstr "Streljivo (bez ključeva) je dodano"
 
 msgid "STSTR_NCON"
-msgstr "Bez načina presjecanja UKLJ"
+msgstr "Bez načina presjecanja: UKLJ"
 
 msgid "STSTR_NCOFF"
-msgstr "Bez načina presjecanja ISKLJ"
+msgstr "Bez načina presjecanja: ISKLJ"
 
+#, fuzzy
 msgid "STSTR_NC2ON"
-msgstr "Bez načina presjecanja 2 UKLJ"
+msgstr "Bez načina presjecanja 2: UKLJ"
 
+#, fuzzy
 msgid "STSTR_NC2OFF"
-msgstr "Bez načina presjecanja 2 ISKLJ"
+msgstr "Bez načina presjecanja 2: ISKLJ"
 
 # “inVuln”: Invulnerability sphere
 # “Str”: Berserk
@@ -337,13 +339,13 @@ msgid "STSTR_CLEV"
 msgstr "Promjena razine…"
 
 msgid "TXT_BUDDHAON"
-msgstr "Način Bude UKLJ"
+msgstr "Način Bude: UKLJ"
 
 msgid "TXT_BUDDHAOFF"
-msgstr "Način Bude ISKLJ"
+msgstr "Način Bude: ISKLJ"
 
 msgid "TXT_BUDDHA2ON"
-msgstr "Ultimativni način Bude UKLJ"
+msgstr "Ultimativni način Bude: UKLJ"
 
 msgid "TXT_BUDDHA2OFF"
 msgstr "Ultimativni način Bude: ISKLJ"

@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 03:49+0000\n"
+"PO-Revision-Date: 2026-03-15 23:40+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/sv/>\n"
@@ -286,16 +286,16 @@ msgid "STSTR_NOMUS"
 msgstr "Omöjligt val"
 
 msgid "STSTR_DQDON"
-msgstr "Gradlöshetsläge PÅ"
+msgstr "Gradlöshetsläge: PÅ"
 
 msgid "STSTR_DQDOFF"
-msgstr "Gradlöshetsläge AV"
+msgstr "Gradlöshetsläge: AV"
 
 msgid "STSTR_DQD2ON"
-msgstr "Ultimat gradlöshetsläge PÅ"
+msgstr "Ultimat gradlöshetsläge: PÅ"
 
 msgid "STSTR_DQD2OFF"
-msgstr "Ultimat gradlöshetsläge AV"
+msgstr "Ultimat gradlöshetsläge: AV"
 
 msgid "STSTR_KFAADDED"
 msgstr "Mycket lycklig ammunition har lagts till"
@@ -304,16 +304,18 @@ msgid "STSTR_FAADDED"
 msgstr "Ammo (inga nycklar) Tillagd"
 
 msgid "STSTR_NCON"
-msgstr "Inget klippningsläge PÅ"
+msgstr "Inget klippningsläge: PÅ"
 
 msgid "STSTR_NCOFF"
-msgstr "Inget klippningsläge av"
+msgstr "Inget klippningsläge: AV"
 
+#, fuzzy
 msgid "STSTR_NC2ON"
-msgstr "Inget klippningsläge 2 PÅ"
+msgstr "Inget klippningsläge 2: PÅ"
 
+#, fuzzy
 msgid "STSTR_NC2OFF"
-msgstr "Inget klippningsläge 2 AV"
+msgstr "Inget klippningsläge 2: AV"
 
 # “inVuln”: Invulnerability sphere
 # “Str”: Berserk
@@ -336,13 +338,13 @@ msgid "STSTR_CLEV"
 msgstr "Ändrad nivå…"
 
 msgid "TXT_BUDDHAON"
-msgstr "Buddha-läge PÅ"
+msgstr "Buddha-läge: PÅ"
 
 msgid "TXT_BUDDHAOFF"
-msgstr "Buddha-läge AV"
+msgstr "Buddha-läge: AV"
 
 msgid "TXT_BUDDHA2ON"
-msgstr "Ultimat Buddha-läge på"
+msgstr "Ultimat Buddha-läge: PÅ"
 
 msgid "TXT_BUDDHA2OFF"
 msgstr "Ultimat Buddha-läge: AV"

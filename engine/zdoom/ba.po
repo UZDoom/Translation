@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 03:49+0000\n"
+"PO-Revision-Date: 2026-03-15 23:40+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Bashkir <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ba/>\n"
@@ -285,21 +285,17 @@ msgstr "Promjena glazbe"
 msgid "STSTR_NOMUS"
 msgstr "Nemogući odabir"
 
-#, fuzzy
 msgid "STSTR_DQDON"
-msgstr "Način bezstupnjevnosti ҠАБЫҘ"
+msgstr "Način bezstupnjevnosti: ҠАБЫҘ"
 
-#, fuzzy
 msgid "STSTR_DQDOFF"
-msgstr "Način bezstupnjevnosti ҺҮНДЕР"
+msgstr "Način bezstupnjevnosti: ҺҮНДЕР"
 
-#, fuzzy
 msgid "STSTR_DQD2ON"
-msgstr "Način krajnje bezstupnjevnosti ҠАБЫҘ"
+msgstr "Način krajnje bezstupnjevnosti: ҠАБЫҘ"
 
-#, fuzzy
 msgid "STSTR_DQD2OFF"
-msgstr "Način krajnje bezstupnjevnosti ҺҮНДЕР"
+msgstr "Način krajnje bezstupnjevnosti: ҺҮНДЕР"
 
 msgid "STSTR_KFAADDED"
 msgstr "Jako sretna municija je dodana"
@@ -307,20 +303,19 @@ msgstr "Jako sretna municija je dodana"
 msgid "STSTR_FAADDED"
 msgstr "Municija (bez ključeva) je dodana"
 
-#, fuzzy
 msgid "STSTR_NCON"
-msgstr "Lebdoprozirni mod ҠАБЫҘ"
+msgstr "Lebdoprozirni mod: ҠАБЫҘ"
 
 msgid "STSTR_NCOFF"
-msgstr "Lebdoprozirni mod ҺҮНДЕР"
+msgstr "Lebdoprozirni mod: ҺҮНДЕР"
 
 #, fuzzy
 msgid "STSTR_NC2ON"
-msgstr "Lebdoprozirni mod 2 ҠАБЫҘ"
+msgstr "Lebdoprozirni mod 2: ҠАБЫҘ"
 
 #, fuzzy
 msgid "STSTR_NC2OFF"
-msgstr "Lebdoprozirni mod 2 ҺҮНДЕР"
+msgstr "Lebdoprozirni mod 2: ҺҮНДЕР"
 
 # “inVuln”: Invulnerability sphere
 # “Str”: Berserk
@@ -345,16 +340,14 @@ msgstr "… nije sranje - GM"
 msgid "STSTR_CLEV"
 msgstr "Promjena razine…"
 
-#, fuzzy
 msgid "TXT_BUDDHAON"
-msgstr "Način Bude ҠАБЫҘ"
+msgstr "Način Bude: ҠАБЫҘ"
 
-#, fuzzy
 msgid "TXT_BUDDHAOFF"
-msgstr "Način Bude ҺҮНДЕР"
+msgstr "Način Bude: ҺҮНДЕР"
 
 msgid "TXT_BUDDHA2ON"
-msgstr "Ultimativni način Bude ҠАБЫҘ"
+msgstr "Ultimativni način Bude: ҠАБЫҘ"
 
 msgid "TXT_BUDDHA2OFF"
 msgstr "Ultimativni način Bude: ҺҮНДЕР"
