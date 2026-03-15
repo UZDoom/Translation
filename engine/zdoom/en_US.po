@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 00:09+0000\n"
+"PO-Revision-Date: 2026-03-15 03:49+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/en/>\n"
@@ -424,17 +424,14 @@ msgstr "Buddha mode OFF"
 msgid "TXT_BUDDHA2ON"
 msgstr "Ultimate Buddha Mode ON"
 
-#, fuzzy
 msgid "TXT_BUDDHA2OFF"
-msgstr "Ultimate Buddha Mode OFF"
+msgstr "Ultimate Buddha Mode: OFF"
 
-#, fuzzy
 msgid "TXT_CHEATPOWERON"
-msgstr "Power ON"
+msgstr "Power: ON"
 
-#, fuzzy
 msgid "TXT_CHEATPOWEROFF"
-msgstr "Power OFF"
+msgstr "Power: OFF"
 
 #, fuzzy
 msgid "TXT_CHEATHEALTH"
@@ -444,13 +441,11 @@ msgstr "Full health"
 msgid "TXT_CHEATKEYS"
 msgstr "All keys"
 
-#, fuzzy
 msgid "TXT_CHEATSOUNDON"
-msgstr "Sound debug ON"
+msgstr "Sound debug: ON"
 
-#, fuzzy
 msgid "TXT_CHEATSOUNDOFF"
-msgstr "Sound debug OFF"
+msgstr "Sound debug: OFF"
 
 #, fuzzy
 msgid "TXT_CHEATIDDQD"
@@ -460,13 +455,11 @@ msgstr "Trying to cheat, eh? Now you die!"
 msgid "TXT_CHEATIDKFA"
 msgstr "Cheater—you don't deserve weapons"
 
-#, fuzzy
 msgid "TXT_CHEATTICKERON"
-msgstr "Ticker ON"
+msgstr "Ticker: ON"
 
-#, fuzzy
 msgid "TXT_CHEATTICKEROFF"
-msgstr "Ticker OFF"
+msgstr "Ticker: OFF"
 
 #, fuzzy
 msgid "TXT_CHEATARTIFACTS3"
@@ -480,13 +473,11 @@ msgstr "You got the Midas Touch, baby"
 msgid "TXT_GOTSTUFF"
 msgstr "You got the stuff!"
 
-#, fuzzy
 msgid "TXT_FREEZEON"
-msgstr "Freeze mode ON"
+msgstr "Freeze mode: ON"
 
-#, fuzzy
 msgid "TXT_FREEZEOFF"
-msgstr "Freeze mode OFF"
+msgstr "Freeze mode: OFF"
 
 #, fuzzy
 msgid "TXT_STRANGE"
@@ -500,13 +491,11 @@ msgstr "You feel even stranger."
 msgid "TXT_NOTSTRANGE"
 msgstr "You feel like yourself again."
 
-#, fuzzy
 msgid "TXT_LEADBOOTSON"
-msgstr "Lead boots ON"
+msgstr "Lead boots: ON"
 
-#, fuzzy
 msgid "TXT_LEADBOOTSOFF"
-msgstr "Lead boots OFF"
+msgstr "Lead boots: OFF"
 
 #, fuzzy
 msgid "TXT_LIGHTER"
@@ -516,13 +505,11 @@ msgstr "You feel lighter"
 msgid "TXT_GRAVITY"
 msgstr "Gravity weighs you down"
 
-#, fuzzy
 msgid "TXT_NOTARGET_ON"
-msgstr "No Target ON"
+msgstr "No Target: ON"
 
-#, fuzzy
 msgid "TXT_NOTARGET_OFF"
-msgstr "No Target OFF"
+msgstr "No Target: OFF"
 
 #, fuzzy
 msgid "TXT_ANUBIS_ON"
@@ -532,13 +519,11 @@ msgstr "\"Quake with fear!\""
 msgid "TXT_ANUBIS_OFF"
 msgstr "No more Ogre Armor"
 
-#, fuzzy
 msgid "TXT_CHASECAM_ON"
-msgstr "Chase-cam ON"
+msgstr "Chase-cam: ON"
 
-#, fuzzy
 msgid "TXT_CHASECAM_OFF"
-msgstr "Chase-cam OFF"
+msgstr "Chase-cam: OFF"
 
 #, fuzzy
 msgid "TXT_BADDIE_KILLED"
@@ -568,17 +553,14 @@ msgstr "All Artifacts!"
 msgid "TXT_WHAT_KILL"
 msgstr "What do you want to kill outside of a game?"
 
-#, fuzzy
 msgid "TXT_NOT_FROZEN"
-msgstr "Frozen player properties turned OFF"
+msgstr "Frozen player properties: OFF"
 
-#, fuzzy
 msgid "AMSTR_FOLLOWOFF"
-msgstr "Follow Mode OFF"
+msgstr "Follow Mode: OFF"
 
-#, fuzzy
 msgid "AMSTR_FOLLOWON"
-msgstr "Follow Mode ON"
+msgstr "Follow Mode: ON"
 
 msgid "AMSTR_GRIDON"
 msgstr "Grid: ON"
