@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 03:49+0000\n"
+"PO-Revision-Date: 2026-03-15 23:40+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/uk/>\n"
@@ -288,16 +288,16 @@ msgid "STSTR_NOMUS"
 msgstr "Некоректний Вибір"
 
 msgid "STSTR_DQDON"
-msgstr "Безсмертя ВВІМК"
+msgstr "Безсмертя: ВВІМК"
 
 msgid "STSTR_DQDOFF"
-msgstr "Безсмертя ВИМК"
+msgstr "Безсмертя: ВИМК"
 
 msgid "STSTR_DQD2ON"
-msgstr "Повне безсмертя ВВІМК"
+msgstr "Повне безсмертя: ВВІМК"
 
 msgid "STSTR_DQD2OFF"
-msgstr "Повне безсмертя ВИМК"
+msgstr "Повне безсмертя: ВИМК"
 
 msgid "STSTR_KFAADDED"
 msgstr "Спорядження поповнено"
@@ -306,16 +306,18 @@ msgid "STSTR_FAADDED"
 msgstr "Спорядження поповнено (без ключів)"
 
 msgid "STSTR_NCON"
-msgstr "Прохід крізь стіни ВВІМК"
+msgstr "Прохід крізь стіни: ВВІМК"
 
 msgid "STSTR_NCOFF"
-msgstr "Прохід крізь стіни ВИМК"
+msgstr "Прохід крізь стіни: ВИМК"
 
+#, fuzzy
 msgid "STSTR_NC2ON"
-msgstr "Проліт крізь стіни ВВІМК"
+msgstr "Проліт крізь стіни: ВВІМК"
 
+#, fuzzy
 msgid "STSTR_NC2OFF"
-msgstr "Проліт крізь стіни ВИМК"
+msgstr "Проліт крізь стіни: ВИМК"
 
 # “inVuln”: Invulnerability sphere
 # “Str”: Berserk
@@ -338,13 +340,13 @@ msgid "STSTR_CLEV"
 msgstr "Зміна рівня…"
 
 msgid "TXT_BUDDHAON"
-msgstr "Будда-мод ВВІМК"
+msgstr "Будда-мод: ВВІМК"
 
 msgid "TXT_BUDDHAOFF"
-msgstr "Будда-мод ВИМК"
+msgstr "Будда-мод: ВИМК"
 
 msgid "TXT_BUDDHA2ON"
-msgstr "Ультимативний Будда-мод ВВІМК"
+msgstr "Ультимативний Будда-мод: ВВІМК"
 
 msgid "TXT_BUDDHA2OFF"
 msgstr "Ультимативний Будда-мод: ВИМК"
