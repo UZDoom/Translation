@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 00:10+0000\n"
+"PO-Revision-Date: 2026-03-15 03:49+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/es_MX/>\n"
@@ -345,13 +345,13 @@ msgid "TXT_BUDDHA2ON"
 msgstr "Modo Buda Supremo ACTIVADO"
 
 msgid "TXT_BUDDHA2OFF"
-msgstr "Modo Buda Supremo DESACTIVADO"
+msgstr "Modo Buda Supremo: DESACTIVADO"
 
 msgid "TXT_CHEATPOWERON"
-msgstr "Poder ACTIVADO"
+msgstr "Poder: ACTIVADO"
 
 msgid "TXT_CHEATPOWEROFF"
-msgstr "Poder DESACTIVADO"
+msgstr "Poder: DESACTIVADO"
 
 msgid "TXT_CHEATHEALTH"
 msgstr "Salud Llena"
@@ -360,10 +360,10 @@ msgid "TXT_CHEATKEYS"
 msgstr "Todas las llaves"
 
 msgid "TXT_CHEATSOUNDON"
-msgstr "Depuración de Sonido ACTIVADO"
+msgstr "Depuración de Sonido: ACTIVADO"
 
 msgid "TXT_CHEATSOUNDOFF"
-msgstr "Depuración de Sonido DESACTIVADO"
+msgstr "Depuración de Sonido: DESACTIVADO"
 
 msgid "TXT_CHEATIDDQD"
 msgstr "¿Intentando usar trucos? ¡Muere!"
@@ -387,10 +387,10 @@ msgid "TXT_GOTSTUFF"
 msgstr "¡Tienes las cosas!"
 
 msgid "TXT_FREEZEON"
-msgstr "Modo suspendido ACTIVADO"
+msgstr "Modo suspendido: ACTIVADO"
 
 msgid "TXT_FREEZEOFF"
-msgstr "Modo suspendido DESACTIVADO"
+msgstr "Modo suspendido: DESACTIVADO"
 
 msgid "TXT_STRANGE"
 msgstr "Te sientes raro…"
@@ -402,10 +402,10 @@ msgid "TXT_NOTSTRANGE"
 msgstr "Te sientes como tú mismo otra vez."
 
 msgid "TXT_LEADBOOTSON"
-msgstr "Botas de Acero ACTIVADAS"
+msgstr "Botas de Acero: ACTIVADAS"
 
 msgid "TXT_LEADBOOTSOFF"
-msgstr "Botas de Acero DESACTIVADAS"
+msgstr "Botas de Acero: DESACTIVADAS"
 
 msgid "TXT_LIGHTER"
 msgstr "Te sientes liviano"
@@ -414,10 +414,10 @@ msgid "TXT_GRAVITY"
 msgstr "La gravedad te arrastra"
 
 msgid "TXT_NOTARGET_ON"
-msgstr "Ningún Objetivo ACTIVADO"
+msgstr "Ningún Objetivo: ACTIVADO"
 
 msgid "TXT_NOTARGET_OFF"
-msgstr "Ningún Objetivo DESACTIVADO"
+msgstr "Ningún Objetivo: DESACTIVADO"
 
 msgid "TXT_ANUBIS_ON"
 msgstr "\"¡Tiemblen de miedo!\""
@@ -426,10 +426,10 @@ msgid "TXT_ANUBIS_OFF"
 msgstr "No más Armadura de Ogro"
 
 msgid "TXT_CHASECAM_ON"
-msgstr "Cámara trasera ACTIVADA"
+msgstr "Cámara trasera: ACTIVADA"
 
 msgid "TXT_CHASECAM_OFF"
-msgstr "Cámara trasera DESACTIVADA"
+msgstr "Cámara trasera: DESACTIVADA"
 
 msgid "TXT_BADDIE_KILLED"
 msgstr "Un malito asesinado"
@@ -453,17 +453,16 @@ msgid "TXT_WHAT_KILL"
 msgstr "¿Qué quieres matar fuera de un juego?"
 
 msgid "TXT_NOT_FROZEN"
-msgstr "Propiedades de jugador congelado DESACTIVADAS"
+msgstr "Propiedades de jugador congelado: DESACTIVADAS"
 
 msgid "AMSTR_FOLLOWOFF"
-msgstr "Modo Seguimiento DESACTIVADO"
+msgstr "Modo Seguimiento: DESACTIVADO"
 
 msgid "AMSTR_FOLLOWON"
-msgstr "Modo Seguimiento ACTIVADO"
+msgstr "Modo Seguimiento: ACTIVADO"
 
-#, fuzzy
 msgid "AMSTR_GRIDON"
-msgstr "Cuadrícula ACTIVADA"
+msgstr "Cuadrícula: ACTIVADA"
 
 msgid "AMSTR_GRIDOFF"
 msgstr "Cuadrícula: DESACTIVADA"
