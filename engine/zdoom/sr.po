@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 03:49+0000\n"
+"PO-Revision-Date: 2026-03-15 23:40+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/sr/>\n"
@@ -288,16 +288,16 @@ msgid "STSTR_NOMUS"
 msgstr "Немогући Избор"
 
 msgid "STSTR_DQDON"
-msgstr "Нерањивост УКЉ"
+msgstr "Нерањивост: УКЉ"
 
 msgid "STSTR_DQDOFF"
-msgstr "Нерањивост ИСКЉ"
+msgstr "Нерањивост: ИСКЉ"
 
 msgid "STSTR_DQD2ON"
-msgstr "Ултимативна нерањивост УКЉ"
+msgstr "Ултимативна нерањивост: УКЉ"
 
 msgid "STSTR_DQD2OFF"
-msgstr "Ултимативна нерањивост ИСКЉ"
+msgstr "Ултимативна нерањивост: ИСКЉ"
 
 msgid "STSTR_KFAADDED"
 msgstr "Веома Срећна Муниција Додана"
@@ -306,16 +306,18 @@ msgid "STSTR_FAADDED"
 msgstr "Муниција (без кључева) Додана"
 
 msgid "STSTR_NCON"
-msgstr "Пролажење кроз зидове УКЉ"
+msgstr "Пролажење кроз зидове: УКЉ"
 
 msgid "STSTR_NCOFF"
-msgstr "Пролажење кроз зидове ИСКЉ"
+msgstr "Пролажење кроз зидове: ИСКЉ"
 
+#, fuzzy
 msgid "STSTR_NC2ON"
-msgstr "Секундарни режим пролажења кроз зидове УКЉ"
+msgstr "Секундарни режим пролажења кроз зидове: УКЉ"
 
+#, fuzzy
 msgid "STSTR_NC2OFF"
-msgstr "Секундарни режим пролажења кроз зидове ИСКЉ"
+msgstr "Секундарни режим пролажења кроз зидове: ИСКЉ"
 
 # “inVuln”: Invulnerability sphere
 # “Str”: Berserk
@@ -338,13 +340,13 @@ msgid "STSTR_CLEV"
 msgstr "Мењам ниво…"
 
 msgid "TXT_BUDDHAON"
-msgstr "Буда Мод УКЉ"
+msgstr "Буда Мод: УКЉ"
 
 msgid "TXT_BUDDHAOFF"
-msgstr "Буда Мод ИСКЉ"
+msgstr "Буда Мод: ИСКЉ"
 
 msgid "TXT_BUDDHA2ON"
-msgstr "Ултимативни Буда Мод УКЉ"
+msgstr "Ултимативни Буда Мод: УКЉ"
 
 msgid "TXT_BUDDHA2OFF"
 msgstr "Ултимативни Буда Мод: ИСКЉ"
