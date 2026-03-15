@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 00:10+0000\n"
+"PO-Revision-Date: 2026-03-15 03:49+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ro/>\n"
@@ -348,13 +348,13 @@ msgid "TXT_BUDDHA2ON"
 msgstr "Modul Buddha Suprem PORNIT"
 
 msgid "TXT_BUDDHA2OFF"
-msgstr "Modul Buddha Suprem OPRIT"
+msgstr "Modul Buddha Suprem: OPRIT"
 
 msgid "TXT_CHEATPOWERON"
-msgstr "Putere PORNIT"
+msgstr "Putere: PORNIT"
 
 msgid "TXT_CHEATPOWEROFF"
-msgstr "Putere OPRIT"
+msgstr "Putere: OPRIT"
 
 msgid "TXT_CHEATHEALTH"
 msgstr "Sănătate întreagă"
@@ -363,10 +363,10 @@ msgid "TXT_CHEATKEYS"
 msgstr "Toate cheile"
 
 msgid "TXT_CHEATSOUNDON"
-msgstr "Debug sunet PORNIT"
+msgstr "Debug sunet: PORNIT"
 
 msgid "TXT_CHEATSOUNDOFF"
-msgstr "Debug sunet OPRIT"
+msgstr "Debug sunet: OPRIT"
 
 msgid "TXT_CHEATIDDQD"
 msgstr "Încerci să trișezi, ei? Acum mori!"
@@ -375,10 +375,10 @@ msgid "TXT_CHEATIDKFA"
 msgstr "Trișor—Nu meriți arme"
 
 msgid "TXT_CHEATTICKERON"
-msgstr "Ticăitoare PORNITE"
+msgstr "Ticăitoare: PORNITE"
 
 msgid "TXT_CHEATTICKEROFF"
-msgstr "Ticăitoare OPRIT"
+msgstr "Ticăitoare: OPRIT"
 
 msgid "TXT_CHEATARTIFACTS3"
 msgstr "Ai ce trebuie"
@@ -390,10 +390,10 @@ msgid "TXT_GOTSTUFF"
 msgstr "Ai tot ce-ți trebuie!"
 
 msgid "TXT_FREEZEON"
-msgstr "Modul înghețat PORNIT"
+msgstr "Modul înghețat: PORNIT"
 
 msgid "TXT_FREEZEOFF"
-msgstr "Modul înghețat OPRIT"
+msgstr "Modul înghețat: OPRIT"
 
 msgid "TXT_STRANGE"
 msgstr "Te simți ciudat…"
@@ -405,10 +405,10 @@ msgid "TXT_NOTSTRANGE"
 msgstr "Ți-ai revenit în simțiri."
 
 msgid "TXT_LEADBOOTSON"
-msgstr "Bocanci de plumb PORNIȚI"
+msgstr "Bocanci de plumb: PORNIȚI"
 
 msgid "TXT_LEADBOOTSOFF"
-msgstr "Bocanci de plumb OPRIȚI"
+msgstr "Bocanci de plumb: OPRIȚI"
 
 msgid "TXT_LIGHTER"
 msgstr "Te simți mai ușor"
@@ -417,10 +417,10 @@ msgid "TXT_GRAVITY"
 msgstr "Gravitația te trage în jos"
 
 msgid "TXT_NOTARGET_ON"
-msgstr "Modul Ascuns PORNIT"
+msgstr "Modul Ascuns: PORNIT"
 
 msgid "TXT_NOTARGET_OFF"
-msgstr "Modul Ascuns OPRIT"
+msgstr "Modul Ascuns: OPRIT"
 
 msgid "TXT_ANUBIS_ON"
 msgstr "\"Tremură de Frică!\""
@@ -429,10 +429,10 @@ msgid "TXT_ANUBIS_OFF"
 msgstr "Gata cu Armura de Căpcăun"
 
 msgid "TXT_CHASECAM_ON"
-msgstr "Perspectivă la Persoana a 3-a PORNITĂ"
+msgstr "Perspectivă la Persoana a 3-a: PORNITĂ"
 
 msgid "TXT_CHASECAM_OFF"
-msgstr "Perspectivă la Persoana a 3-a OPRITĂ"
+msgstr "Perspectivă la Persoana a 3-a: OPRITĂ"
 
 msgid "TXT_BADDIE_KILLED"
 msgstr "1 slab ucis"
@@ -456,17 +456,16 @@ msgid "TXT_WHAT_KILL"
 msgstr "Ce vrei să ucizi în afara jocului?"
 
 msgid "TXT_NOT_FROZEN"
-msgstr "Proprietăți jucători înghețați OPRITE"
+msgstr "Proprietăți jucători înghețați: OPRITE"
 
 msgid "AMSTR_FOLLOWOFF"
-msgstr "Mod Urmărire OPRIT"
+msgstr "Mod Urmărire: OPRIT"
 
 msgid "AMSTR_FOLLOWON"
-msgstr "Mod Urmărire PORNIT"
+msgstr "Mod Urmărire: PORNIT"
 
-#, fuzzy
 msgid "AMSTR_GRIDON"
-msgstr "Grilă ACTIVATĂ"
+msgstr "Grilă: PORNITĂ"
 
 msgid "AMSTR_GRIDOFF"
 msgstr "Grilă: OPRITĂ"
