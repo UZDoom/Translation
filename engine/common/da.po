@@ -585,9 +585,6 @@ msgstr "Oliven"
 msgid "TXT_COLOR_BEIGE"
 msgstr "Beige"
 
-msgid "TXT_COLOR_LIGHTGREEN"
-msgstr "Lysegrøn"
-
 msgid "TXT_COLOR_LIGHTBLUE"
 msgstr "Lys blå"
 
