@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-16 23:09+0000\n"
+"PO-Revision-Date: 2026-03-16 23:34+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fi/>\n"
@@ -3373,6 +3373,7 @@ msgstr "Ei-tukkivia viivoja voi työntää"
 msgid "CMPTMNU_CHECKSWITCHRANGE"
 msgstr "Ota käyttöön viallinen CheckSwitchRange-käyttäytyminen"
 
+#, fuzzy
 msgid "CMPTMNU_RAILINGHACK"
 msgstr "Ota käyttöön Strifen vialliset kaiteet"
 
@@ -3942,7 +3943,7 @@ msgid "HUDMNU_OLDOUCH"
 msgstr "Käytä vanhaa auts-naamakuvan kaavaa"
 
 msgid "HUDMNU_HEXENFLASHES"
-msgstr "Hexenin asevälähdykset"
+msgstr "Hexen asevälähdykset"
 
 msgid "HUDMNU_POISONFLASHES"
 msgstr "Myrkkyvahinkovälähdykset"
