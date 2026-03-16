@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-16 15:31+0000\n"
+"PO-Revision-Date: 2026-03-16 23:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ru/>\n"
@@ -3278,7 +3278,7 @@ msgid "CMPTMNU_ANYBOSSDEATH"
 msgstr "Любой вызов A_BossDeath активирует special уровня"
 
 msgid "CMPTMNU_NODOORLIGHT"
-msgstr "Отключить световой эффект из BOOM на дверях"
+msgstr "Отключить световой эффект из бум на дверях"
 
 msgid "CMPTMNU_LIGHT"
 msgstr "Искать соседний источник света как в Doom"
@@ -3305,7 +3305,7 @@ msgid "CMPTMNU_NOPASSOVER"
 msgstr "Агенты бесконечно высокие"
 
 msgid "CMPTMNU_BOOMSCROLL"
-msgstr "Конвейеры из Boom складываются с собой"
+msgstr "Конвейеры из бум складываются с собой"
 
 msgid "CMPTMNU_BADANGLES"
 msgstr "Запрещено двигаться прямо на С/Ю/З/В"
@@ -4183,7 +4183,7 @@ msgid "OPTVAL_BOOM"
 msgstr "бум"
 
 msgid "OPTVAL_BOOMSTRICT"
-msgstr "Boom (строгий)"
+msgstr "бум (строгий)"
 
 msgid "OPTVAL_MBF"
 msgstr "MBF"

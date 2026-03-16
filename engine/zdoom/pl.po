@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-16 07:08+0000\n"
+"PO-Revision-Date: 2026-03-16 23:34+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/pl/>\n"
@@ -3296,7 +3296,7 @@ msgid "CMPTMNU_STAIRS"
 msgstr "Użyj wadliwej funkcji budowania schodów"
 
 msgid "CMPTMNU_FLOORMOVE"
-msgstr "Użyj zachowanie ruchu podłogi Dooma"
+msgstr "Użyj zachowania ruchu podłóg w Doomie"
 
 msgid "CMPTMNU_POINTONLINE"
 msgstr "Użyj algorytmu punktu na linii z Dooma"
@@ -3326,10 +3326,10 @@ msgid "CMPTMNU_TRACE"
 msgstr "Sektory odnoszoce się do siebie nie blokują strzałów"
 
 msgid "CMPTMNU_HITSCAN"
-msgstr "Użyj kod Dooma dla hitscanu"
+msgstr "Użyj kodu hitscanu w Doomie"
 
 msgid "CMPTMNU_MISSILECLIP"
-msgstr "Użyj wysokości Dooma dla przenikania pocisków"
+msgstr "Użyj wysokości w Doomie dla przenikania pocisków"
 
 msgid "CMPTMNU_RENDERINGBEHAVIOR"
 msgstr "Zachowanie Renderowania"
@@ -3938,7 +3938,7 @@ msgid "HUDMNU_OLDOUCH"
 msgstr "Używaj starej formuły portretu twarzy 'ouch'"
 
 msgid "HUDMNU_HEXENFLASHES"
-msgstr "Błysk przy podnoszeniu broni z Hexena"
+msgstr "Błyski broni w Hexenie"
 
 msgid "HUDMNU_POISONFLASHES"
 msgstr "Efekt obrażeń przy zatruciu"

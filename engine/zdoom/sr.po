@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 23:40+0000\n"
+"PO-Revision-Date: 2026-03-16 23:34+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/sr/>\n"
@@ -2128,7 +2128,7 @@ msgid "TXT_NEED_BLUECRYSTAL"
 msgstr "Треба ти плави кристал"
 
 msgid "TXT_RETAIL_ONLY"
-msgstr "Ова област је само доступна у пуној верзији Strife-а"
+msgstr "Ова област је само доступна у пуној верзији Сукоб-а"
 
 msgid "TXT_DOES_NOT_WORK"
 msgstr "То изгледа да не ради"
@@ -3283,7 +3283,7 @@ msgid "CMPTMNU_ANYBOSSDEATH"
 msgstr "Било који случај A_BossDeath активира special на нивоу"
 
 msgid "CMPTMNU_NODOORLIGHT"
-msgstr "Онемогући светлосни ефекат из BOOM-а на вратима"
+msgstr "Онемогући светлосни ефекат из Бум-а на вратима"
 
 msgid "CMPTMNU_LIGHT"
 msgstr "Нађи суседно светло као у Doom-у"
@@ -3310,7 +3310,7 @@ msgid "CMPTMNU_NOPASSOVER"
 msgstr "Глумци су бесконачно велики"
 
 msgid "CMPTMNU_BOOMSCROLL"
-msgstr "Boom скролери су додаци"
+msgstr "Бум скролери су додаци"
 
 msgid "CMPTMNU_BADANGLES"
 msgstr "Немогуће путовати право на NSEW"
@@ -3334,7 +3334,7 @@ msgid "CMPTMNU_RENDERINGBEHAVIOR"
 msgstr "Понашање рендовања"
 
 msgid "CMPTMNU_POLYOBJ"
-msgstr "Цртај поли-објекте као Hexen"
+msgstr "Цртај поли-објекте као Хексен"
 
 msgid "CMPTMNU_MASKEDMIDTEX"
 msgstr "Игнориши Y нагиб на маскиране средње текстуре"
@@ -3370,7 +3370,7 @@ msgid "CMPTMNU_CHECKSWITCHRANGE"
 msgstr "Омогући баговано CheckSwitchRange понашање"
 
 msgid "CMPTMNU_RAILINGHACK"
-msgstr "Омогући непоправљену ограду у Strife-у"
+msgstr "Омогући непоправљену ограду у Сукоб-у"
 
 msgid "CMPTMNU_EXPLODE1"
 msgstr "Нема вертикалног гурања од експлозија"
@@ -3436,7 +3436,7 @@ msgid "CNTRLMNU_KEYBOARDLOOK"
 msgstr "Гледај тастатуром"
 
 msgid "CNTRLMNU_POPUPS_TITLE"
-msgstr "Искакајући прикази контроле у Strife-у"
+msgstr "Искакајући прикази контроле у Сукоб-у"
 
 msgid "CNTRLMNU_TEAMSAY"
 msgstr "Пиши тиму"
@@ -3457,7 +3457,7 @@ msgid "CNTRLMNU_COOPSPY"
 msgstr "Поглед од другог играча"
 
 msgid "CNTRLMNU_POPUPS"
-msgstr "Информација у Strife-у"
+msgstr "Информација у Сукоб-у"
 
 msgid "CNTRLMNU_MISSION"
 msgstr "Циљ мисије"
@@ -3937,7 +3937,7 @@ msgid "HUDMNU_OLDOUCH"
 msgstr "Стара формула за приказ лика"
 
 msgid "HUDMNU_HEXENFLASHES"
-msgstr "Треперење оружја у Hexen-у"
+msgstr "Треперење оружја у Хексен-у"
 
 msgid "HUDMNU_POISONFLASHES"
 msgstr "Треперење током тровања"
@@ -4121,7 +4121,7 @@ msgid "OPTVAL_TRADITIONALDOOM"
 msgstr "Традиционални Doom"
 
 msgid "OPTVAL_TRADITIONALSTRIFE"
-msgstr "Традиционални Strife"
+msgstr "Традиционални Сукоб"
 
 msgid "OPTVAL_TRADITIONALRAVEN"
 msgstr "Традиционални Raven"
@@ -4187,7 +4187,7 @@ msgid "OPTVAL_BOOM"
 msgstr "Бум"
 
 msgid "OPTVAL_BOOMSTRICT"
-msgstr "Boom (строг)"
+msgstr "Бум (строг)"
 
 msgid "OPTVAL_MBF"
 msgstr "МБФ"
@@ -4199,7 +4199,7 @@ msgid "OPTVAL_MBF21"
 msgstr "МБФ21"
 
 msgid "OPTVAL_MBF21STRICT"
-msgstr "MBF21 (строг)"
+msgstr "МБФ21 (строг)"
 
 msgid "OPTVAL_ZDOOM2063"
 msgstr "ЗДум 2.0.63"
@@ -4755,7 +4755,7 @@ msgid "DSPLYMNU_FOV"
 msgstr "Видно поље"
 
 msgid "CMPTMNU_NOMBF21"
-msgstr "Онемогућите функције MBF21"
+msgstr "Онемогућите функције МБФ21"
 
 msgid "ALTHUDMNU_SHOWTIMESTAT"
 msgstr "Прикажи виџет времена"

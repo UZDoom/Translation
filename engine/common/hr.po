@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-14 22:34+0000\n"
+"PO-Revision-Date: 2026-03-16 23:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/uzdoom/common/"
 "hr/>\n"
@@ -1392,7 +1392,7 @@ msgid "OPTVAL_OPENGL"
 msgstr "OpenGL"
 
 msgid "OPTVAL_VULKAN"
-msgstr "Vulkan"
+msgstr "Vulkana"
 
 # Rendering backend
 msgid "OPTVAL_OPENGLES"
@@ -1524,13 +1524,13 @@ msgid "VK_TITLE"
 msgstr "Postavke Vulkana"
 
 msgid "VKMNU_DEVICE"
-msgstr "ID uređaja Vulkan"
+msgstr "ID uređaja Vulkana"
 
 msgid "VKMNU_HDR"
 msgstr "Visoki dinamički raspon (HDR)"
 
 msgid "VK_WARNING"
-msgstr "Upozorenje: Vulkan renderer je jako eksperimentalan!"
+msgstr "Upozorenje: Vulkana renderer je jako eksperimentalan!"
 
 msgid "VK_RESTART"
 msgstr ""

@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-16 07:08+0000\n"
+"PO-Revision-Date: 2026-03-16 23:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/tr/>\n"
@@ -3308,7 +3308,7 @@ msgid "CMPTMNU_NOPASSOVER"
 msgstr "Aktörler sonsuz uzunlukta"
 
 msgid "CMPTMNU_BOOMSCROLL"
-msgstr "Bom kaydırıcıları katkı maddelidir"
+msgstr "Boom kaydırıcıları katkı maddelidir"
 
 msgid "CMPTMNU_BADANGLES"
 msgstr "Düz seyahat edemez KGDB"

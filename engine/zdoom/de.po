@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-16 21:17+0000\n"
+"PO-Revision-Date: 2026-03-16 23:34+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/de/>\n"
@@ -3290,7 +3290,7 @@ msgid "CMPTMNU_STAIRS"
 msgstr "Benutze fehlerhafte Treppenbaufunktion"
 
 msgid "CMPTMNU_FLOORMOVE"
-msgstr "Benutze Dooms Verhalten für bewegende Böden"
+msgstr "Doom-Verhalten für bewegte Böden verwenden"
 
 msgid "CMPTMNU_POINTONLINE"
 msgstr "Benutze Doom's Punkt-auf-Linie Algorithmus"
@@ -4212,7 +4212,7 @@ msgid "OPTVAL_HWPOLY"
 msgstr "Hardwarebeschleunigt"
 
 msgid "OPTVAL_SWDOOM"
-msgstr "Doom Software Renderer"
+msgstr "Doom-Software-Renderer"
 
 msgid "OPTVAL_SWDOOMTC"
 msgstr "True Color SW Renderer"

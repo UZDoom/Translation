@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-16 21:16+0000\n"
+"PO-Revision-Date: 2026-03-16 23:34+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/en/>\n"
@@ -16,11 +16,9 @@ msgstr ""
 
 # In some languages, it may make more sense to translate “Press a key” as
 # “Press any key.”
-#, fuzzy
 msgid "PRESSKEY"
 msgstr "Press a key."
 
-#, fuzzy
 msgid "SECRETMESSAGE"
 msgstr "A secret is revealed!"
 
@@ -240,37 +238,31 @@ msgstr ""
 "Whaaa, what's the matter?\n"
 "Mommy says dinnertime?"
 
-#, fuzzy
 msgid "QUITMSG23"
 msgstr ""
 "Don't quit now, there are still\n"
 "flemoids on the loose!"
 
-#, fuzzy
 msgid "QUITMSG24"
 msgstr ""
 "Don't give up—the flemoids will\n"
 "get the upper hand!"
 
-#, fuzzy
 msgid "QUITMSG25"
 msgstr ""
 "Don't leave now.\n"
 "We need your help!"
 
-#, fuzzy
 msgid "QUITMSG26"
 msgstr ""
 "I hope you're just taking a\n"
 "break for Chex® party mix."
 
-#, fuzzy
 msgid "QUITMSG27"
 msgstr ""
 "Don't quit now!\n"
 "We need your help!"
 
-#, fuzzy
 msgid "QUITMSG28"
 msgstr ""
 "Don't abandon the\n"
@@ -2750,7 +2742,6 @@ msgstr "You need the Red Crystal"
 msgid "TXT_NEED_BLUECRYSTAL"
 msgstr "You need the Blue Crystal"
 
-#, fuzzy
 msgid "TXT_RETAIL_ONLY"
 msgstr "This area is only available in the retail version of Strife"
 
@@ -4247,7 +4238,6 @@ msgstr "Use Doom heights for missile clipping"
 msgid "CMPTMNU_RENDERINGBEHAVIOR"
 msgstr "Rendering Behavior"
 
-#, fuzzy
 msgid "CMPTMNU_POLYOBJ"
 msgstr "Draw polyobjects like Hexen"
 
@@ -4303,7 +4293,6 @@ msgstr "Enable buggy Strife railing"
 msgid "CMPTMNU_EXPLODE1"
 msgstr "No vertical thrust from explosions"
 
-#, fuzzy
 msgid "CMPTMNU_EXPLODE2"
 msgstr "Use original Doom explosion behavior"
 
@@ -4380,7 +4369,6 @@ msgstr "Stop flying"
 msgid "CNTRLMNU_KEYBOARDLOOK"
 msgstr "Keyboard look"
 
-#, fuzzy
 msgid "CNTRLMNU_POPUPS_TITLE"
 msgstr "Strife Popup Screens Controls"
 
@@ -4408,7 +4396,6 @@ msgstr "Other"
 msgid "CNTRLMNU_COOPSPY"
 msgstr "Coop spy next"
 
-#, fuzzy
 msgid "CNTRLMNU_POPUPS"
 msgstr "Strife Popup Screens"
 
@@ -5047,7 +5034,6 @@ msgstr "Nametag color"
 msgid "HUDMNU_OLDOUCH"
 msgstr "Use old ouch mug shot formula"
 
-#, fuzzy
 msgid "HUDMNU_HEXENFLASHES"
 msgstr "Hexen weapon flashes"
 
@@ -5283,11 +5269,9 @@ msgstr "All"
 msgid "OPTVAL_ONLYLASTONE"
 msgstr "Only last one"
 
-#, fuzzy
 msgid "OPTVAL_TRADITIONALDOOM"
 msgstr "Traditional Doom"
 
-#, fuzzy
 msgid "OPTVAL_TRADITIONALSTRIFE"
 msgstr "Traditional Strife"
 
@@ -5372,7 +5356,6 @@ msgstr "Doom (strict)"
 msgid "OPTVAL_BOOM"
 msgstr "Boom"
 
-#, fuzzy
 msgid "OPTVAL_BOOMSTRICT"
 msgstr "Boom (strict)"
 
@@ -5386,7 +5369,6 @@ msgstr "MBF (strict)"
 msgid "OPTVAL_MBF21"
 msgstr "MBF21"
 
-#, fuzzy
 msgid "OPTVAL_MBF21STRICT"
 msgstr "MBF21 (strict)"
 
@@ -5413,7 +5395,6 @@ msgstr "Everything"
 msgid "OPTVAL_HWPOLY"
 msgstr "Hardware accelerated"
 
-#, fuzzy
 msgid "OPTVAL_SWDOOM"
 msgstr "Doom Software Renderer"
 
@@ -6113,7 +6094,6 @@ msgstr "Monsters and players"
 msgid "DSPLYMNU_FOV"
 msgstr "FOV"
 
-#, fuzzy
 msgid "CMPTMNU_NOMBF21"
 msgstr "Disable MBF21 features"
 

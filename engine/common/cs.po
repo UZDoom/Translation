@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 00:10+0000\n"
+"PO-Revision-Date: 2026-03-16 23:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/uzdoom/common/cs/>"
 "\n"
@@ -1388,7 +1388,7 @@ msgid "OPTVAL_OPENGL"
 msgstr "OpenGL"
 
 msgid "OPTVAL_VULKAN"
-msgstr "Vulkan"
+msgstr "Vulkanu"
 
 # Rendering backend
 msgid "OPTVAL_OPENGLES"
@@ -1526,7 +1526,7 @@ msgid "VKMNU_HDR"
 msgstr "Vysoký dynamický rozsah (HDR)"
 
 msgid "VK_WARNING"
-msgstr "Varování: Vulkan renderer je velmi experimentální!"
+msgstr "Varování: Vulkanu renderer je velmi experimentální!"
 
 msgid "VK_RESTART"
 msgstr "Tato nastavení vyžadují restart hry."

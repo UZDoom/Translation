@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-16 07:08+0000\n"
+"PO-Revision-Date: 2026-03-16 23:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/cs/>\n"
@@ -2123,9 +2123,8 @@ msgstr "Potřebuješ červený krystal"
 msgid "TXT_NEED_BLUECRYSTAL"
 msgstr "Potřebuješ modrý krystal"
 
-#, fuzzy
 msgid "TXT_RETAIL_ONLY"
-msgstr "Tato oblast je dostupná pouze v registrované verzi"
+msgstr "Tato oblast je dostupná pouze v registrované verzi hry Strifu"
 
 msgid "TXT_DOES_NOT_WORK"
 msgstr "Takhle to nepůjde"
