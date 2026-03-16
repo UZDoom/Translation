@@ -184,9 +184,6 @@ msgstr "MBF21"
 msgid "Menelkir"
 msgstr ""
 
-msgid "Banshee"
-msgstr ""
-
 msgid "Vassago"
 msgstr ""
 
