@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-16 15:31+0000\n"
+"PO-Revision-Date: 2026-03-16 23:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/uzdoom/common/"
 "en/>\n"
@@ -1966,15 +1966,12 @@ msgstr "File name"
 msgid "REVMNU_Environments_to_save"
 msgstr "Environments to save"
 
-#, fuzzy
 msgid "DSPLYMNU_VKOPT"
 msgstr "Vulkan Options (Experimental)"
 
-#, fuzzy
 msgid "VK_TITLE"
 msgstr "Vulkan Options"
 
-#, fuzzy
 msgid "VKMNU_DEVICE"
 msgstr "Vulkan Device ID"
 
@@ -1982,7 +1979,6 @@ msgstr "Vulkan Device ID"
 msgid "VKMNU_HDR"
 msgstr "High Dynamic Range"
 
-#, fuzzy
 msgid "VK_WARNING"
 msgstr "Warning: The Vulkan renderer is highly experimental!"
 
