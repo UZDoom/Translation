@@ -184,9 +184,6 @@ msgstr "MBF21"
 msgid "OPL"
 msgstr "OPL"
 
-msgid "Bank"
-msgstr "Bank"
-
 msgid "Wendigo"
 msgstr ""
 
