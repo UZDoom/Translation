@@ -577,9 +577,6 @@ msgstr "Olíva"
 msgid "TXT_COLOR_BEIGE"
 msgstr "Bézs"
 
-msgid "TXT_COLOR_LIGHTGREEN"
-msgstr "Világoszöld"
-
 msgid "TXT_COLOR_LIGHTBLUE"
 msgstr "Világoskék"
 
