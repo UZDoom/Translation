@@ -579,9 +579,6 @@ msgstr ""
 msgid "TXT_COLOR_BEIGE"
 msgstr ""
 
-msgid "TXT_COLOR_LIGHTGREEN"
-msgstr ""
-
 msgid "TXT_COLOR_LIGHTBLUE"
 msgstr ""
 
