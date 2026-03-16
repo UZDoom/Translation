@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-16 21:17+0000\n"
+"PO-Revision-Date: 2026-03-16 23:34+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/es/>\n"
@@ -3434,7 +3434,7 @@ msgid "CNTRLMNU_KEYBOARDLOOK"
 msgstr "Vista con teclado"
 
 msgid "CNTRLMNU_POPUPS_TITLE"
-msgstr "Ventanas emergentes de Strife"
+msgstr "Controles de ventanas emergentes de Strife"
 
 msgid "CNTRLMNU_TEAMSAY"
 msgstr "Hablar al equipo"
