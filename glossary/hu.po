@@ -187,9 +187,6 @@ msgstr ""
 msgid "Menelkir"
 msgstr ""
 
-msgid "Macil"
-msgstr ""
-
 msgid "Spline"
 msgstr ""
 
