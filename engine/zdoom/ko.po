@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-16 21:17+0000\n"
+"PO-Revision-Date: 2026-03-16 23:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ko/>\n"
@@ -2126,7 +2126,7 @@ msgid "TXT_NEED_BLUECRYSTAL"
 msgstr "청색 크리스탈이 필요하다"
 
 msgid "TXT_RETAIL_ONLY"
-msgstr "이 구역은 정품 버전에서만 입장이 가능합니다"
+msgstr "이 구역은 스트라이프 정품 버전에서만 입장이 가능합니다"
 
 msgid "TXT_DOES_NOT_WORK"
 msgstr "작동이 안 되는 것 같다"
@@ -3285,16 +3285,16 @@ msgid "CMPTMNU_NODOORLIGHT"
 msgstr "붐 문간 조명보정 효과 끄기"
 
 msgid "CMPTMNU_LIGHT"
-msgstr "고전적인 조명추적 사용"
+msgstr "둠 방식의 조명추적 사용"
 
 msgid "CMPTMNU_SHORTTEX"
-msgstr "고전적인 텍스처분류 사용"
+msgstr "둠 방식의 텍스처분류 사용"
 
 msgid "CMPTMNU_STAIRS"
 msgstr "구형 계단상승 효과 사용"
 
 msgid "CMPTMNU_FLOORMOVE"
-msgstr "표면이나 천장이 서로 통과가 가능함"
+msgstr "둠 방식의 바닥 이동 동작 사용"
 
 msgid "CMPTMNU_POINTONLINE"
 msgstr "구형 선상 지점 정의법 사용"
@@ -3324,10 +3324,10 @@ msgid "CMPTMNU_TRACE"
 msgstr "자기 참조 섹터가 총탄을 막지 않음"
 
 msgid "CMPTMNU_HITSCAN"
-msgstr "구형 총탄 판정법 사용"
+msgstr "둠 방식 총탄 판정 사용"
 
 msgid "CMPTMNU_MISSILECLIP"
-msgstr "구형 발사체 판정법 사용"
+msgstr "둠 방식 발사체 판정 사용"
 
 msgid "CMPTMNU_RENDERINGBEHAVIOR"
 msgstr "렌더링 관련 설정"
@@ -4198,7 +4198,7 @@ msgid "OPTVAL_MBF21"
 msgstr "모더의 절친한 친구"
 
 msgid "OPTVAL_MBF21STRICT"
-msgstr "마린의 절친한 친구21 (엄격하게)"
+msgstr "모더의 절친한 친구 (엄격하게)"
 
 msgid "OPTVAL_ZDOOM2063"
 msgstr "Z둠 2.0.63"
@@ -4757,7 +4757,7 @@ msgid "DSPLYMNU_FOV"
 msgstr ""
 
 msgid "CMPTMNU_NOMBF21"
-msgstr "MBF21 기능 비활성화"
+msgstr "모더의 절친한 친구 기능 비활성화"
 
 msgid "ALTHUDMNU_SHOWTIMESTAT"
 msgstr "시간 표시 위젯"
