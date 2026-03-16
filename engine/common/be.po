@@ -582,9 +582,6 @@ msgstr "Каламутна-зялёны"
 msgid "TXT_COLOR_BEIGE"
 msgstr "Бэжавы"
 
-msgid "TXT_COLOR_LIGHTGREEN"
-msgstr "Светла-зялёны"
-
 msgid "TXT_COLOR_LIGHTBLUE"
 msgstr "Светла-сіні"
 
