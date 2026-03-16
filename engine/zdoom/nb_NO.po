@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-16 23:10+0000\n"
+"PO-Revision-Date: 2026-03-16 23:34+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/nb_NO/>\n"
@@ -4115,10 +4115,10 @@ msgid "OPTVAL_ONLYLASTONE"
 msgstr "Bare den siste"
 
 msgid "OPTVAL_TRADITIONALDOOM"
-msgstr "Tradisjonell undergang"
+msgstr "Tradisjonell Doom"
 
 msgid "OPTVAL_TRADITIONALSTRIFE"
-msgstr "Tradisjonell strid"
+msgstr "Tradisjonell Strife"
 
 msgid "OPTVAL_TRADITIONALRAVEN"
 msgstr "Tradisjonell ravn"
