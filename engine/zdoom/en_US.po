@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 23:40+0000\n"
+"PO-Revision-Date: 2026-03-16 15:31+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/en/>\n"
@@ -625,7 +625,6 @@ msgstr "Ultra kill!"
 msgid "MULTI5"
 msgstr "Monster kill!"
 
-#, fuzzy
 msgid "SCORE_BONUS"
 msgstr "Bonus"
 
@@ -643,7 +642,6 @@ msgstr "Name"
 msgid "SCORE_DELAY"
 msgstr "Delay"
 
-#, fuzzy
 msgid "SCORE_FRAGS"
 msgstr "Frags"
 
@@ -682,7 +680,6 @@ msgstr "Secrets"
 msgid "TXT_IMTIME"
 msgstr "Time"
 
-#, fuzzy
 msgid "TXT_IMPAR"
 msgstr "Par"
 
@@ -6950,4 +6947,4 @@ msgid "OPENALMNU_SUPERSTEREOWIDTH"
 msgstr "Super Stereo Width"
 
 msgid "CNTRLMNU_ADJUST_LIGHTS"
-msgstr "Boost Lighting"
+msgstr "Lighting Adjustment"
