@@ -580,9 +580,6 @@ msgstr "Olivkolora"
 msgid "TXT_COLOR_BEIGE"
 msgstr "Flavgriza"
 
-msgid "TXT_COLOR_LIGHTGREEN"
-msgstr "Helverda"
-
 msgid "TXT_COLOR_LIGHTBLUE"
 msgstr "Helblua"
 
