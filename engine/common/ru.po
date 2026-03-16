@@ -581,9 +581,6 @@ msgstr "Мутно-зелёный"
 msgid "TXT_COLOR_BEIGE"
 msgstr "Бежевый"
 
-msgid "TXT_COLOR_LIGHTGREEN"
-msgstr "Светло-зелёный"
-
 msgid "TXT_COLOR_LIGHTBLUE"
 msgstr "Светло-синий"
 
