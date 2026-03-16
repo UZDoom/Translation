@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-16 07:08+0000\n"
+"PO-Revision-Date: 2026-03-16 09:09+0000\n"
 "Last-Translator: Andras Varro <varro.andras20@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hu/>\n"
@@ -1729,7 +1729,7 @@ msgid "TAG_ARTIPUZZBOOK1"
 msgstr "Démon Kódex"
 
 msgid "TAG_ARTIPUZZBOOK2"
-msgstr ""
+msgstr "Setét Könyv (Liber Oscura)"
 
 msgid "TAG_ARTIPUZZSKULL2"
 msgstr "Láng Maszk"
@@ -2401,10 +2401,10 @@ msgid "TAG_BEGGAR"
 msgstr "Koldus"
 
 msgid "TAG_MACIL1"
-msgstr ""
+msgstr "Macil"
 
 msgid "TAG_MACIL2"
-msgstr ""
+msgstr "Macil"
 
 msgid "TAG_MEDIC"
 msgstr "Szanitéc"
@@ -4196,7 +4196,7 @@ msgid "OPTVAL_MBF21STRICT"
 msgstr "MBF21 (szigorú)"
 
 msgid "OPTVAL_ZDOOM2063"
-msgstr ""
+msgstr "ZDoom 2.0.63"
 
 msgid "OPTVAL_ERRORS"
 msgstr "Hibák"
@@ -4217,7 +4217,7 @@ msgid "OPTVAL_SWDOOM"
 msgstr "Doom szoftveres renderer"
 
 msgid "OPTVAL_SWDOOMTC"
-msgstr ""
+msgstr "Valódi Színes (True Color) Szoftveres Renderer"
 
 msgid "OPTVAL_VANILLA"
 msgstr "Hagyományos"
@@ -4325,7 +4325,7 @@ msgid "OPTSTR_NOINTERPOLATION"
 msgstr "Nincs interoláció"
 
 msgid "OPTSTR_SPLINE"
-msgstr ""
+msgstr "Spline"
 
 msgid "DSPLYMNU_GLOPT"
 msgstr "Hardver Render"
@@ -4355,13 +4355,13 @@ msgid "GLLIGHTMNU_LIGHTPARTICLES"
 msgstr "A fény hatással van a részecskékre"
 
 msgid "GLLIGHTMNU_LIGHTSHADOWMAP"
-msgstr ""
+msgstr "Fény árnyéktérképek"
 
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPQUALITY"
 msgstr "Shadowmap minőség"
 
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
-msgstr ""
+msgstr "Árnytérkép filter"
 
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr "Köd Fullbright-ot erőltet ki"
