@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-16 23:10+0000\n"
+"PO-Revision-Date: 2026-03-16 23:34+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/sr/>\n"
@@ -3334,7 +3334,7 @@ msgid "CMPTMNU_RENDERINGBEHAVIOR"
 msgstr "Понашање рендовања"
 
 msgid "CMPTMNU_POLYOBJ"
-msgstr "Цртај поли-објекте као Hexen"
+msgstr "Цртај поли-објекте као Хексен"
 
 msgid "CMPTMNU_MASKEDMIDTEX"
 msgstr "Игнориши Y нагиб на маскиране средње текстуре"
@@ -3370,7 +3370,7 @@ msgid "CMPTMNU_CHECKSWITCHRANGE"
 msgstr "Омогући баговано CheckSwitchRange понашање"
 
 msgid "CMPTMNU_RAILINGHACK"
-msgstr "Омогући непоправљену ограду у Strife-у"
+msgstr "Омогући непоправљену ограду у Сукоб-у"
 
 msgid "CMPTMNU_EXPLODE1"
 msgstr "Нема вертикалног гурања од експлозија"
@@ -3436,7 +3436,7 @@ msgid "CNTRLMNU_KEYBOARDLOOK"
 msgstr "Гледај тастатуром"
 
 msgid "CNTRLMNU_POPUPS_TITLE"
-msgstr "Искакајући прикази контроле у Strife-у"
+msgstr "Искакајући прикази контроле у Сукоб-у"
 
 msgid "CNTRLMNU_TEAMSAY"
 msgstr "Пиши тиму"
@@ -3457,7 +3457,7 @@ msgid "CNTRLMNU_COOPSPY"
 msgstr "Поглед од другог играча"
 
 msgid "CNTRLMNU_POPUPS"
-msgstr "Информација у Strife-у"
+msgstr "Информација у Сукоб-у"
 
 msgid "CNTRLMNU_MISSION"
 msgstr "Циљ мисије"
@@ -3937,7 +3937,7 @@ msgid "HUDMNU_OLDOUCH"
 msgstr "Стара формула за приказ лика"
 
 msgid "HUDMNU_HEXENFLASHES"
-msgstr "Треперење оружја у Hexen-у"
+msgstr "Треперење оружја у Хексен-у"
 
 msgid "HUDMNU_POISONFLASHES"
 msgstr "Треперење током тровања"
@@ -4121,7 +4121,7 @@ msgid "OPTVAL_TRADITIONALDOOM"
 msgstr "Традиционални Doom"
 
 msgid "OPTVAL_TRADITIONALSTRIFE"
-msgstr "Традиционални Strife"
+msgstr "Традиционални Сукоб"
 
 msgid "OPTVAL_TRADITIONALRAVEN"
 msgstr "Традиционални Raven"
