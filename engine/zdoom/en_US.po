@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-16 23:09+0000\n"
+"PO-Revision-Date: 2026-03-16 23:34+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/en/>\n"
@@ -16,11 +16,9 @@ msgstr ""
 
 # In some languages, it may make more sense to translate “Press a key” as
 # “Press any key.”
-#, fuzzy
 msgid "PRESSKEY"
 msgstr "Press a key."
 
-#, fuzzy
 msgid "SECRETMESSAGE"
 msgstr "A secret is revealed!"
 
@@ -4240,7 +4238,6 @@ msgstr "Use Doom heights for missile clipping"
 msgid "CMPTMNU_RENDERINGBEHAVIOR"
 msgstr "Rendering Behavior"
 
-#, fuzzy
 msgid "CMPTMNU_POLYOBJ"
 msgstr "Draw polyobjects like Hexen"
 
@@ -4296,7 +4293,6 @@ msgstr "Enable buggy Strife railing"
 msgid "CMPTMNU_EXPLODE1"
 msgstr "No vertical thrust from explosions"
 
-#, fuzzy
 msgid "CMPTMNU_EXPLODE2"
 msgstr "Use original Doom explosion behavior"
 
@@ -4373,7 +4369,6 @@ msgstr "Stop flying"
 msgid "CNTRLMNU_KEYBOARDLOOK"
 msgstr "Keyboard look"
 
-#, fuzzy
 msgid "CNTRLMNU_POPUPS_TITLE"
 msgstr "Strife Popup Screens Controls"
 
@@ -4401,7 +4396,6 @@ msgstr "Other"
 msgid "CNTRLMNU_COOPSPY"
 msgstr "Coop spy next"
 
-#, fuzzy
 msgid "CNTRLMNU_POPUPS"
 msgstr "Strife Popup Screens"
 
@@ -5040,7 +5034,6 @@ msgstr "Nametag color"
 msgid "HUDMNU_OLDOUCH"
 msgstr "Use old ouch mug shot formula"
 
-#, fuzzy
 msgid "HUDMNU_HEXENFLASHES"
 msgstr "Hexen weapon flashes"
 
@@ -5276,11 +5269,9 @@ msgstr "All"
 msgid "OPTVAL_ONLYLASTONE"
 msgstr "Only last one"
 
-#, fuzzy
 msgid "OPTVAL_TRADITIONALDOOM"
 msgstr "Traditional Doom"
 
-#, fuzzy
 msgid "OPTVAL_TRADITIONALSTRIFE"
 msgstr "Traditional Strife"
 
@@ -5404,7 +5395,6 @@ msgstr "Everything"
 msgid "OPTVAL_HWPOLY"
 msgstr "Hardware accelerated"
 
-#, fuzzy
 msgid "OPTVAL_SWDOOM"
 msgstr "Doom Software Renderer"
 
