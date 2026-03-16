@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-16 07:08+0000\n"
+"PO-Revision-Date: 2026-03-16 23:34+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ro/>\n"
@@ -3376,7 +3376,7 @@ msgid "CMPTMNU_EXPLODE1"
 msgstr "Fără împingere verticală la explozii"
 
 msgid "CMPTMNU_EXPLODE2"
-msgstr "Utilizează comportamentul original la explozii"
+msgstr "Utilizează comportamentul original al exploziilor din Doomie"
 
 msgid "PLYRMNU_RED"
 msgstr "Roșu"
