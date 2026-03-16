@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 23:40+0000\n"
+"PO-Revision-Date: 2026-03-16 23:34+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/eo/>\n"
@@ -3430,7 +3430,7 @@ msgid "CNTRLMNU_KEYBOARDLOOK"
 msgstr "Klavar-rigardo"
 
 msgid "CNTRLMNU_POPUPS_TITLE"
-msgstr "Ŝprucfenestraĵoj de Strife"
+msgstr "Regiloj pro Ŝprucfenestraĵoj de Strife"
 
 msgid "CNTRLMNU_TEAMSAY"
 msgstr "Teama diro"
