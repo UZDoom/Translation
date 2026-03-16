@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-16 07:08+0000\n"
+"PO-Revision-Date: 2026-03-16 23:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fi/>\n"
@@ -3299,7 +3299,7 @@ msgid "CMPTMNU_STAIRS"
 msgstr "Käytä viallisempaa portaanrakennusfunktiota"
 
 msgid "CMPTMNU_FLOORMOVE"
-msgstr "Lattialiike käyttäytyy kuin Doomissa"
+msgstr "Käytä Doomin lattialiikekäyttäytymistä"
 
 msgid "CMPTMNU_POINTONLINE"
 msgstr "Käytä Doomin piste viivalla -algoritmia"
