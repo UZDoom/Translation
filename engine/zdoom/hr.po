@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-16 21:16+0000\n"
+"PO-Revision-Date: 2026-03-16 23:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hr/>\n"
@@ -2127,7 +2127,7 @@ msgid "TXT_NEED_BLUECRYSTAL"
 msgstr "Treba ti Plavi kristal"
 
 msgid "TXT_RETAIL_ONLY"
-msgstr "Ovo područje je dostupno samo u maloprodajnoj verziji Strife-a"
+msgstr "Ovo područje je dostupno samo u maloprodajnoj verziji Svađa-a"
 
 msgid "TXT_DOES_NOT_WORK"
 msgstr "To izgleda ne funkcionira"
@@ -3282,8 +3282,9 @@ msgid "CMPTMNU_ANYBOSSDEATH"
 msgstr "Dopusti smrt bilo kojeg šefa za posebnu razinu"
 
 msgid "CMPTMNU_NODOORLIGHT"
-msgstr "Onemogući svjetlosni efekt vrata BOOM"
+msgstr "Onemogući svjetlosni efekt vrata Bum"
 
+#, fuzzy
 msgid "CMPTMNU_LIGHT"
 msgstr "Pronađite susjedno svjetlo poput Dooma"
 
@@ -3294,7 +3295,7 @@ msgid "CMPTMNU_STAIRS"
 msgstr "Koristite buggiersku gradnju stepenica"
 
 msgid "CMPTMNU_FLOORMOVE"
-msgstr "Koristi Doomovo ponašanje kretanja poda"
+msgstr "Koristi Doom ponašanje podova"
 
 msgid "CMPTMNU_POINTONLINE"
 msgstr "Koristite Doomov algoritam točke na mreži"
@@ -3309,7 +3310,7 @@ msgid "CMPTMNU_NOPASSOVER"
 msgstr "Glumci su beskonačno visoki"
 
 msgid "CMPTMNU_BOOMSCROLL"
-msgstr "Boom skroleri su aditivni"
+msgstr "Bum skroleri su aditivni"
 
 msgid "CMPTMNU_BADANGLES"
 msgstr "Ne mogu putovati ravno NSEW"
