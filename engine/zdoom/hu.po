@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "PO-Revision-Date: 2026-03-16 15:31+0000\n"
-"Last-Translator: Andras Varro <varro.andras20@gmail.com>\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hu/>\n"
 "Language: hu\n"
@@ -5154,6 +5154,7 @@ msgstr "Telítettség"
 msgid "OPTMNU_ACCESSIBILITY"
 msgstr "Akadálymentességi beállítások"
 
+#, fuzzy
 msgid "CNTRLMNU_ADJUST_LIGHTS"
 msgstr "Világítás felerősítése"
 
