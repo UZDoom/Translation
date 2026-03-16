@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-16 07:16+0000\n"
+"PO-Revision-Date: 2026-03-16 09:09+0000\n"
 "Last-Translator: Andras Varro <varro.andras20@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/uzdoom/common/"
 "hu/>\n"
@@ -854,7 +854,7 @@ msgid "ADVSNDMNU_ADVRESAMPLING"
 msgstr "Fejlett Resmapling"
 
 msgid "ADVSNDMNU_OPLBANK"
-msgstr ""
+msgstr "OPL Bank"
 
 msgid "ADVSNDMNU_RUNPCMRATE"
 msgstr "Emulátor futtatása PCM rátán"
@@ -1762,7 +1762,7 @@ msgid "TXT_SAYTEAM"
 msgstr "Mond (Csapat):"
 
 msgid "MISCMNU_DISCORDRPC"
-msgstr ""
+msgstr "Discord Gazdag Jelenlét (Rich Presence)"
 
 msgid "JOYMNU_TURNSPEED"
 msgstr "Fordulási sebesség"
@@ -1771,7 +1771,7 @@ msgid "JOYMNU_LOOKSPEED"
 msgstr "Nézési sebesség"
 
 msgid "JOYMNU_ANALOGSTRAFERUN"
-msgstr ""
+msgstr "Analóg oldalazó futás"
 
 msgid "ACCMNU_TITLE"
 msgstr "Akadálymentességi beállítások"
