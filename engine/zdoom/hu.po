@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-16 09:09+0000\n"
+"PO-Revision-Date: 2026-03-16 09:25+0000\n"
 "Last-Translator: Andras Varro <varro.andras20@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hu/>\n"
@@ -4394,7 +4394,7 @@ msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr "Részecske stílusa"
 
 msgid "GLPREFMNU_VRMODE"
-msgstr ""
+msgstr "Sztereo 3D VR"
 
 msgid "GLPREFMNU_VRQUADSTEREO"
 msgstr "Quad Sztereó bekapcsolása"
@@ -4437,7 +4437,7 @@ msgstr "Sötét"
 
 # This refers to the Doom Legacy port, not a legacy lighting style!
 msgid "OPTVAL_LEGACY"
-msgstr ""
+msgstr "Doom Legacy (port)"
 
 msgid "OPTVAL_SOFTWARE"
 msgstr "Szoftver"
@@ -4682,7 +4682,7 @@ msgid "OPTVAL_CLASSICZ"
 msgstr "Klasszikus ZDoom"
 
 msgid "OPTVAL_MODERN"
-msgstr ""
+msgstr "Modern (WASD)"
 
 msgid "OPTVAL_MODERNLEFT"
 msgstr "Modern (numpad)"
