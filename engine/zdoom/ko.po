@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-16 23:10+0000\n"
+"PO-Revision-Date: 2026-03-16 23:34+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ko/>\n"
@@ -3333,7 +3333,7 @@ msgid "CMPTMNU_RENDERINGBEHAVIOR"
 msgstr "렌더링 관련 설정"
 
 msgid "CMPTMNU_POLYOBJ"
-msgstr "구형 폴리오브젝트 시스템 사용"
+msgstr "헥센 방식 폴리오브젝트 시스템 사용"
 
 msgid "CMPTMNU_MASKEDMIDTEX"
 msgstr "이면선분의 중앙 텍스쳐의 Y축값 무시"
