@@ -583,9 +583,6 @@ msgstr "Oliva"
 msgid "TXT_COLOR_BEIGE"
 msgstr "Beis"
 
-msgid "TXT_COLOR_LIGHTGREEN"
-msgstr "Verde claro"
-
 msgid "TXT_COLOR_LIGHTBLUE"
 msgstr "Azul claro"
 
