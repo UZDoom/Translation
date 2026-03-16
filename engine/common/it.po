@@ -581,9 +581,6 @@ msgstr "Verde pallido"
 msgid "TXT_COLOR_BEIGE"
 msgstr "Beige"
 
-msgid "TXT_COLOR_LIGHTGREEN"
-msgstr "Verde chiaro"
-
 msgid "TXT_COLOR_LIGHTBLUE"
 msgstr "Blu chiaro"
 

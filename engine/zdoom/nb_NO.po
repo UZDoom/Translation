@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 23:40+0000\n"
+"PO-Revision-Date: 2026-03-16 21:17+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/nb_NO/>\n"
@@ -2829,7 +2829,7 @@ msgstr ""
 "Forsiktig, dette blir vanskelig.\n"
 "Ønsker du å fortsette?\n"
 "\n"
-"Trykk Y eller N."
+"Trykk på Y eller N."
 
 msgid "CSWSTRING"
 msgstr ""
@@ -4187,13 +4187,13 @@ msgid "OPTVAL_BOOMSTRICT"
 msgstr "Boom (streng)"
 
 msgid "OPTVAL_MBF"
-msgstr ""
+msgstr "MBF"
 
 msgid "OPTVAL_MBFSTRICT"
 msgstr "MBF (streng)"
 
 msgid "OPTVAL_MBF21"
-msgstr ""
+msgstr "MBF21"
 
 msgid "OPTVAL_MBF21STRICT"
 msgstr "MBF21 (streng)"

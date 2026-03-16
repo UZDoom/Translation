@@ -580,9 +580,6 @@ msgstr "암녹색"
 msgid "TXT_COLOR_BEIGE"
 msgstr "담갈색"
 
-msgid "TXT_COLOR_LIGHTGREEN"
-msgstr "옅은 녹색"
-
 msgid "TXT_COLOR_LIGHTBLUE"
 msgstr "옅은 청색"
 

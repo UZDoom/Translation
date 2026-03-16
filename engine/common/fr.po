@@ -580,9 +580,6 @@ msgstr "Vert pâle"
 msgid "TXT_COLOR_BEIGE"
 msgstr ""
 
-msgid "TXT_COLOR_LIGHTGREEN"
-msgstr "Vert clair"
-
 msgid "TXT_COLOR_LIGHTBLUE"
 msgstr "Bleu clair"
 

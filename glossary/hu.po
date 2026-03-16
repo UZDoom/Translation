@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-14 20:03+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-03-16 15:31+0000\n"
+"Last-Translator: Andras Varro <varro.andras20@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/uzdoom/"
 "glossary/hu/>\n"
 "Language: hu\n"
@@ -180,3 +180,12 @@ msgstr "MBF"
 
 msgid "MBF21"
 msgstr "MBF21"
+
+msgid "Vassago"
+msgstr ""
+
+msgid "Modern"
+msgstr ""
+
+msgid "WASD"
+msgstr ""

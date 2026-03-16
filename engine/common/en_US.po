@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 00:09+0000\n"
+"PO-Revision-Date: 2026-03-16 15:31+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/uzdoom/common/"
 "en/>\n"
@@ -449,7 +449,6 @@ msgstr "Toggle texture"
 msgid "CNTRLMNU_AUTOMAP"
 msgstr "Toggle automap"
 
-#, fuzzy
 msgid "CNTRLMNU_CHASECAM"
 msgstr "Chasecam"
 
@@ -519,7 +518,6 @@ msgstr "Enable mouse in menus"
 msgid "MOUSEMNU_SHOWBACKBUTTON"
 msgstr "Show back button"
 
-#, fuzzy
 msgid "MOUSEMNU_CURSOR"
 msgstr "Cursor"
 
@@ -619,7 +617,6 @@ msgstr "Enable DirectInput controllers"
 msgid "JOYMNU_XINPUT"
 msgstr "Enable XInput controllers"
 
-#, fuzzy
 msgid "JOYMNU_PS2"
 msgstr "Enable raw PlayStation 2 adapters"
 
@@ -738,13 +735,8 @@ msgstr "Purple"
 msgid "TXT_COLOR_DULLGREEN"
 msgstr "Olive"
 
-#, fuzzy
 msgid "TXT_COLOR_BEIGE"
 msgstr "Beige"
-
-#, fuzzy
-msgid "TXT_COLOR_LIGHTGREEN"
-msgstr "Light Green"
 
 #, fuzzy
 msgid "TXT_COLOR_LIGHTBLUE"
@@ -762,7 +754,6 @@ msgstr "Light Brown"
 msgid "TXT_COLOR_GOLD"
 msgstr "Gold"
 
-#, fuzzy
 msgid "TXT_COLOR_BRIGHTGREEN"
 msgstr "Bright Green"
 

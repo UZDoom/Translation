@@ -581,9 +581,6 @@ msgstr "Maslinasta"
 msgid "TXT_COLOR_BEIGE"
 msgstr "Bež"
 
-msgid "TXT_COLOR_LIGHTGREEN"
-msgstr "Svijetlozelena"
-
 msgid "TXT_COLOR_LIGHTBLUE"
 msgstr "Svijetloplava"
 

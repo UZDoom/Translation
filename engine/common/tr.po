@@ -582,9 +582,6 @@ msgstr "Zeytin"
 msgid "TXT_COLOR_BEIGE"
 msgstr "Bej"
 
-msgid "TXT_COLOR_LIGHTGREEN"
-msgstr "Açık Yeşil"
-
 msgid "TXT_COLOR_LIGHTBLUE"
 msgstr "Açık Mavi"
 

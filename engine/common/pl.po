@@ -581,9 +581,6 @@ msgstr "Matowa Zieleń"
 msgid "TXT_COLOR_BEIGE"
 msgstr "Beżowy"
 
-msgid "TXT_COLOR_LIGHTGREEN"
-msgstr "Jasonzielony"
-
 msgid "TXT_COLOR_LIGHTBLUE"
 msgstr "Jasnoniebieski"
 

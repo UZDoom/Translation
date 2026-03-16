@@ -580,9 +580,6 @@ msgstr "苔"
 msgid "TXT_COLOR_BEIGE"
 msgstr "淡"
 
-msgid "TXT_COLOR_LIGHTGREEN"
-msgstr "葵"
-
 msgid "TXT_COLOR_LIGHTBLUE"
 msgstr "空"
 

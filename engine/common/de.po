@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 00:10+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-03-16 09:09+0000\n"
+"Last-Translator: Madoc <madocdoyu@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/common/de/>"
 "\n"
 "Language: de\n"
@@ -40,14 +40,13 @@ msgstr ""
 "\n"
 "Drücke Y oder N."
 
-#, fuzzy
 msgid "QLPROMPT"
 msgstr ""
-"Möchtest du das Spiel schnell laden namens\n"
+"Möchtest du das Spiel schnell namens\n"
 "\n"
-"\"%s\"?\n"
+"\"%s\"\n"
 "\n"
-"Drücke Y oder N."
+"schnell laden? Drücke Y oder N."
 
 # This is a gender sensitive message where %s represents the player
 msgid "TXT_X_CHEATS"
@@ -520,20 +519,17 @@ msgstr "Keine konfigurierbaren Achsen"
 msgid "OPTVAL_NONE"
 msgstr "Nichts"
 
-#, fuzzy
 msgid "OPTVAL_TURNING"
-msgstr "Umdrehen"
+msgstr "Drehung links/rechts"
 
 msgid "OPTVAL_LOOKINGUPDOWN"
 msgstr "Hoch/runterblicken"
 
-#, fuzzy
 msgid "OPTVAL_MOVINGFORWARD"
-msgstr "Vorwärtsbewegung"
+msgstr "Vorwärts/rückwärts"
 
-#, fuzzy
 msgid "OPTVAL_STRAFING"
-msgstr "Seitwärtsbewegung"
+msgstr "Seitwärts"
 
 msgid "OPTVAL_MOVINGUPDOWN"
 msgstr "Auf/abwärtsbewegung"
@@ -582,9 +578,6 @@ msgstr "Blassgrün"
 
 msgid "TXT_COLOR_BEIGE"
 msgstr "Beige"
-
-msgid "TXT_COLOR_LIGHTGREEN"
-msgstr "Hellgrün"
 
 msgid "TXT_COLOR_LIGHTBLUE"
 msgstr "Hellblau"
@@ -1003,13 +996,11 @@ msgstr "YMFM OPL3"
 msgid "OPTVAL_NUKEDOPL3"
 msgstr "Nuked OPL3"
 
-#, fuzzy
 msgid "OPTVAL_LLENUKEDOPL2"
-msgstr "OPL2-LLE (performance-intensiv!)"
+msgstr "OPL2-LLE (leistungsintensiv)"
 
-#, fuzzy
 msgid "OPTVAL_LLENUKEDOPL3"
-msgstr "OPL3-LLE (performance-intensiv!)"
+msgstr "OPL3-LLE (leistungsintensiv)"
 
 msgid "OPTVAL_MAMEOPN2"
 msgstr "MAME OPN2 (YM2612)"
@@ -1032,17 +1023,14 @@ msgstr "Nuked OPN2 (YM3438)"
 msgid "OPTVAL_NUKEDOPN2YM2612"
 msgstr "Nuked OPN2 (YM2612)"
 
-#, fuzzy
 msgid "OPTVAL_OPN2YM2612LLE"
-msgstr "OPN2-LLE (YM2612) (performance-intensiv!)"
+msgstr "OPN2-LLE (YM2612) (leistungsintensiv)"
 
-#, fuzzy
 msgid "OPTVAL_OPN2YM3438LLE"
-msgstr "OPN2-LLE (YM3438) (performance-intensiv!)"
+msgstr "OPN2-LLE (YM3438) (leistungsintensiv)"
 
-#, fuzzy
 msgid "OPTVAL_OPN2YMF276LLE"
-msgstr "OPN2-LLE (YMF276) (performance-intensiv!)"
+msgstr "OPN2-LLE (YMF276) (leistungsintensiv)"
 
 msgid "OPTVAL_GENSOPN2"
 msgstr "GENS OPN2 (YM2612)"
@@ -1098,11 +1086,9 @@ msgstr "DMX (ohne AM-Stimmenfehler)"
 msgid "ADLVLMODEL_APOGEE_FIXED"
 msgstr "Apogee (ohne AM-Stimmenfehler)"
 
-#, fuzzy
 msgid "ADLVLMODEL_AIL"
 msgstr "IBM Audio Library Interface"
 
-#, fuzzy
 msgid "ADLVLMODEL_HMI"
 msgstr "HMI Sound Operating System"
 
@@ -1819,3 +1805,9 @@ msgstr "Versionshinweise"
 
 msgid "ACCMNU_TITLE"
 msgstr "Optionen zur Barrierefreiheit"
+
+msgid "MSGMNU_MESSAGEQUEUE"
+msgstr "Größe Nachrichtenpuffer"
+
+msgid "MSGMNU_STACKIDENTICAL"
+msgstr "Wiederholte Nachrichten stapeln"

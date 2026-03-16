@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 23:40+0000\n"
+"PO-Revision-Date: 2026-03-16 15:31+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hu/>\n"
@@ -308,13 +308,11 @@ msgstr "Falonátmenés Mód: BE"
 msgid "STSTR_NCOFF"
 msgstr "Falonátmenés Mód: KI"
 
-#, fuzzy
 msgid "STSTR_NC2ON"
-msgstr "Falonátmenés 2. Mód: BE"
+msgstr "3D Falonátmenési Mód: BE"
 
-#, fuzzy
 msgid "STSTR_NC2OFF"
-msgstr "Falonátmenés 2 Mód: KI"
+msgstr "3D Falonátmenési Mód: KI"
 
 # “inVuln”: Invulnerability sphere
 # “Str”: Berserk
@@ -1221,7 +1219,7 @@ msgid "FN_CLINK"
 msgstr "Szablyakarom"
 
 msgid "FN_DSPARIL"
-msgstr ""
+msgstr "D'Szparil"
 
 msgid "FN_HERETICIMP"
 msgstr "Vízköpő"
@@ -1233,7 +1231,7 @@ msgid "FN_BONEKNIGHT"
 msgstr "Élőhalott harcos"
 
 msgid "FN_MINOTAUR"
-msgstr ""
+msgstr "Maulotaurusz"
 
 msgid "FN_MUMMY"
 msgstr "Gólem"
@@ -1476,7 +1474,7 @@ msgid "TXT_ARTIPUZZBOOK1"
 msgstr "Démon Kódex"
 
 msgid "TXT_ARTIPUZZBOOK2"
-msgstr ""
+msgstr "Setét Könyv (Liber Obscura)"
 
 msgid "TXT_ARTIPUZZSKULL2"
 msgstr "Láng Maszk"
@@ -1581,13 +1579,13 @@ msgid "TXT_NEED_KEY_CASTLE"
 msgstr "A Kastély Kulcsra van szükséged"
 
 msgid "FN_FIREDEMON"
-msgstr ""
+msgstr "Afrita"
 
 msgid "FN_DEMON1"
 msgstr "Kígyó"
 
 msgid "FN_ETTIN"
-msgstr ""
+msgstr "Ettin"
 
 msgid "FN_CENTAUR"
 msgstr "Kentaur"
@@ -1599,7 +1597,7 @@ msgid "FN_BISHOP"
 msgstr "Érsek"
 
 msgid "FN_ICEGUY"
-msgstr ""
+msgstr "Wendigo"
 
 msgid "FN_SERPENT"
 msgstr "Orvhalász"
@@ -1611,13 +1609,13 @@ msgid "FN_DRAGON"
 msgstr "A Halál Sárkánya"
 
 msgid "FN_KORAX"
-msgstr ""
+msgstr "Korax"
 
 msgid "FN_FBOSS"
-msgstr ""
+msgstr "Zedek"
 
 msgid "FN_MBOSS"
-msgstr ""
+msgstr "Menelkir"
 
 msgid "FN_CBOSS"
 msgstr "Traduktusz"
@@ -1731,7 +1729,7 @@ msgid "TAG_ARTIPUZZBOOK1"
 msgstr "Démon Kódex"
 
 msgid "TAG_ARTIPUZZBOOK2"
-msgstr ""
+msgstr "Setét Könyv (Liber Oscura)"
 
 msgid "TAG_ARTIPUZZSKULL2"
 msgstr "Láng Maszk"
@@ -2403,10 +2401,10 @@ msgid "TAG_BEGGAR"
 msgstr "Koldus"
 
 msgid "TAG_MACIL1"
-msgstr ""
+msgstr "Macil"
 
 msgid "TAG_MACIL2"
-msgstr ""
+msgstr "Macil"
 
 msgid "TAG_MEDIC"
 msgstr "Szanitéc"
@@ -3010,7 +3008,6 @@ msgstr "Varázsló"
 msgid "MNU_WARLOCK"
 msgstr "Boszorkánymester"
 
-#, fuzzy
 msgid "MNU_ARCHMAGE"
 msgstr "Főmágus"
 
@@ -3982,10 +3979,10 @@ msgid "NETMNU_LINESPECIALPREDICTION"
 msgstr "Előrejelzés vonal művelet"
 
 msgid "NETMNU_PREDICTIONLERPSCALE"
-msgstr "Előrejelzés LERP Arány"
+msgstr "Előrejelzés Lerp Arány"
 
 msgid "NETMNU_LERPTHRESHOLD"
-msgstr "LERP küszöbérték"
+msgstr "Lerp küszöbérték"
 
 msgid "NETMNU_HOSTOPTIONS"
 msgstr "Host beállítások"
@@ -4187,19 +4184,19 @@ msgid "OPTVAL_BOOMSTRICT"
 msgstr "Boom (szigorú)"
 
 msgid "OPTVAL_MBF"
-msgstr ""
+msgstr "MBF"
 
 msgid "OPTVAL_MBFSTRICT"
 msgstr "MBF (szigorú)"
 
 msgid "OPTVAL_MBF21"
-msgstr ""
+msgstr "MBF21"
 
 msgid "OPTVAL_MBF21STRICT"
 msgstr "MBF21 (szigorú)"
 
 msgid "OPTVAL_ZDOOM2063"
-msgstr ""
+msgstr "ZDoom 2.0.63"
 
 msgid "OPTVAL_ERRORS"
 msgstr "Hibák"
@@ -4220,7 +4217,7 @@ msgid "OPTVAL_SWDOOM"
 msgstr "Doom szoftveres renderer"
 
 msgid "OPTVAL_SWDOOMTC"
-msgstr ""
+msgstr "Valódi Színes (True Color) Szoftveres Renderer"
 
 msgid "OPTVAL_VANILLA"
 msgstr "Hagyományos"
@@ -4328,7 +4325,7 @@ msgid "OPTSTR_NOINTERPOLATION"
 msgstr "Nincs interoláció"
 
 msgid "OPTSTR_SPLINE"
-msgstr ""
+msgstr "Spline"
 
 msgid "DSPLYMNU_GLOPT"
 msgstr "Hardver Render"
@@ -4358,13 +4355,13 @@ msgid "GLLIGHTMNU_LIGHTPARTICLES"
 msgstr "A fény hatással van a részecskékre"
 
 msgid "GLLIGHTMNU_LIGHTSHADOWMAP"
-msgstr ""
+msgstr "Fény árnyéktérképek"
 
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPQUALITY"
 msgstr "Shadowmap minőség"
 
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
-msgstr ""
+msgstr "Árnytérkép filter"
 
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr "Köd Fullbright-ot erőltet ki"
@@ -4397,7 +4394,7 @@ msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr "Részecske stílusa"
 
 msgid "GLPREFMNU_VRMODE"
-msgstr ""
+msgstr "Sztereo 3D VR"
 
 msgid "GLPREFMNU_VRQUADSTEREO"
 msgstr "Quad Sztereó bekapcsolása"
@@ -4440,7 +4437,7 @@ msgstr "Sötét"
 
 # This refers to the Doom Legacy port, not a legacy lighting style!
 msgid "OPTVAL_LEGACY"
-msgstr ""
+msgstr "Doom Legacy (port)"
 
 msgid "OPTVAL_SOFTWARE"
 msgstr "Szoftver"
@@ -4685,7 +4682,7 @@ msgid "OPTVAL_CLASSICZ"
 msgstr "Klasszikus ZDoom"
 
 msgid "OPTVAL_MODERN"
-msgstr ""
+msgstr "Modern (WASD)"
 
 msgid "OPTVAL_MODERNLEFT"
 msgstr "Modern (numpad)"
@@ -4767,140 +4764,141 @@ msgid "MISCMNU_FVIEWBOB"
 msgstr "Nézet repüléskori billegése"
 
 msgid "OB_DEMON1HIT"
-msgstr ""
+msgstr "%o meg lett csonkítva egy kígyó által."
 
 msgid "AUTOMAPMNU_LINEANTIALIASING"
-msgstr ""
+msgstr "Simított éles vonalak"
 
 msgid "GMPLYMNU_NOPLAYERCLIP"
-msgstr ""
+msgstr "Mozogj és lőj utat magadnak más játékosokon át"
 
 msgid "GMPLYMNU_SHAREKEYS"
-msgstr ""
+msgstr "Oszd meg a kulcsokat az összes játékossal"
 
 msgid "GLPREFMNU_SPRBILLFACECAMERAFORCE"
-msgstr ""
+msgstr "Kamera nézeti mód felülírásának tiltása"
 
 msgid "ALTHUDMNU_SWAPHEALTHARMOR"
-msgstr ""
+msgstr "Élet és páncél felcserélése"
 
 # hud_oldscale
 msgid "SCALEMNU_HUD_OLDSCALE"
-msgstr ""
+msgstr "Klasszikus HUD méretezés használata"
 
 # hud_scalefactor
 msgid "SCALEMNU_HUD_SCALEFACTOR"
-msgstr ""
+msgstr "HUD méretezési arány"
 
 # Any Actor that only appears in co-op is disabled
 msgid "GMPLYMNU_COOPTHINGS"
-msgstr ""
+msgstr "Csak kooperatívos dolgok megjelenítése többjátékos módban"
 
 # Items that only appear in co-op are disabled
 msgid "GMPLYMNU_COOPITEMS"
-msgstr ""
+msgstr "Csak kooperatívos felvehető tárgyak megjelenítése többjátékos módban"
 
 # Items are picked up client-side rather than fully taken by the client who
 # picked it up
 msgid "GMPLYMNU_LOCALITEMS"
 msgstr ""
+"Többjátékos módban a játékosok a saját másolatukat veszik fel a tárgyakból"
 
 # Drops from Actors aren't picked up locally
 msgid "GMPLYMNU_NOLOCALDROP"
-msgstr ""
+msgstr "Kliens oldali dobott tárgyak felvételének kikapcsolása"
 
 # Disables autoloading save on death
 msgid "MISCMNU_RESTARTONDEATH"
-msgstr ""
+msgstr "Pisztoly-kezdés halál esetén"
 
 # Resets inventory on every map
 msgid "GMPLYMNU_PISTOLSTART"
-msgstr ""
+msgstr "Pisztoly-kezdés minden pályán"
 
 msgid "CMPTMNU_VOODOOZOMBIES"
-msgstr ""
+msgstr "Zombi (Voodoo) játékosok engedélyezése"
 
 msgid "CMPTMNU_FDTELEPORT"
-msgstr ""
+msgstr "Padló Z-indexének figyelmen kívül hagyása teleportálás esetén"
 
 # Hardware Sprite Clipping mode that gives the illusion of a sprite being in a
 # different position than it really is, allowing it to be rendered under the
 # floor despite clipping
 msgid "OPTVAL_ANAMORPHIC"
-msgstr ""
+msgstr "Fejlett sprite elhelyezés"
 
 msgid "SNDMNU_FOOTSTEPVOLUME"
-msgstr ""
+msgstr "Lépések hangereje"
 
 msgid "ID24_GOTINCINERATOR"
-msgstr ""
+msgstr "Megkaparintottad a hamvasztót!"
 
 # Also known as Heatwave Generator.
 msgid "ID24_GOTCALAMITYBLADE"
-msgstr ""
+msgstr "Megkaptad a Balsors Pengéjét!  A fenébe is!"
 
 msgid "ID24_GOTFUELCAN"
-msgstr ""
+msgstr "Felszedtél egy üzemanyagos kannát."
 
 msgid "ID24_GOTFUELTANK"
-msgstr ""
+msgstr "Felszedtél egy üzemanyagos hordót."
 
 msgid "TAG_ID24INCINERATOR"
-msgstr ""
+msgstr "Hamvasztó"
 
 msgid "TAG_ID24CALAMITYBLADE"
-msgstr ""
+msgstr "A Balsors Pengéje"
 
 msgid "AMMO_ID24FUEL"
-msgstr ""
+msgstr "Üzemanyagos kanna"
 
 msgid "AMMO_ID24FUELTANK"
-msgstr ""
+msgstr "Üzemanyagos hordó"
 
 msgid "ID24_CC_GHOUL"
-msgstr ""
+msgstr "Vérszívó"
 
 msgid "ID24_CC_BANSHEE"
-msgstr ""
+msgstr "Banshee"
 
 # Also known as Plasmaguy.
 msgid "ID24_CC_SHOCKTROOPER"
-msgstr ""
+msgstr "Sokk-osztagos"
 
 msgid "ID24_CC_MINDWEAVER"
-msgstr ""
+msgstr "Elmeszövő"
 
 msgid "ID24_CC_VASSAGO"
-msgstr ""
+msgstr "Vassago"
 
 msgid "ID24_CC_TYRANT"
-msgstr ""
+msgstr "Elnyomó"
 
 msgid "ID24_OB_GHOUL"
-msgstr ""
+msgstr "%o elkapott egy ghoul energialabdát."
 
 msgid "ID24_OB_BANSHEE"
-msgstr ""
+msgstr "%o meg lett szüntetve egy banshee által."
 
 msgid "ID24_OB_SHOCKTROOPER"
-msgstr ""
+msgstr "%o szét lett olvasztva egy sokk-osztagos által."
 
 msgid "ID24_OB_MINDWEAVER"
-msgstr ""
+msgstr "%o szét lett nyírva egy elmeszövő által."
 
 msgid "ID24_OB_VASSAGO"
-msgstr ""
+msgstr "%o szét lett perzselve egy vassago által."
 
 msgid "ID24_OB_TYRANT"
-msgstr ""
+msgstr "%o szerte-széjjel lett robbantva egy elnyomó által."
 
 msgid "AUTOMAPMNU_SHOWLEVELNAME"
-msgstr ""
+msgstr "Szint név megjelenítése"
 
 # As seen in Options - Customize Controls - Inventory for Heretic, Hexen and
 # Strife
 msgid "CNTRLMNU_INVENTORY_HOTKEYS"
-msgstr ""
+msgstr "Eszköztár Gyorsgombok"
 
 msgid "JOYMNU_HAPTICS"
 msgstr ""
@@ -4909,61 +4907,61 @@ msgid "JOYMNU_CURVE"
 msgstr ""
 
 msgid "JOYMNU_THRESHOLD"
-msgstr ""
+msgstr "Digitális Határ"
 
 msgid "OPTVAL_LINEAR"
 msgstr "Lineáris"
 
 msgid "OPTVAL_QUADRATIC"
-msgstr ""
+msgstr "Kvadratikus (4-szeres)"
 
 # The type of chat messages the player wants to be visible to them.
 msgid "NETMNU_CHATTYPE"
-msgstr ""
+msgstr "Chatt Típusa"
 
 msgid "OPTVAL_DISABLECHAT"
-msgstr ""
+msgstr "Kikapcsolva"
 
 msgid "OPTVAL_TEAMONLYCHAT"
-msgstr ""
+msgstr "Csak Csapattársak"
 
 msgid "OPTVAL_GLOBALCHAT"
-msgstr ""
+msgstr "Globális"
 
 # Disables /me functionality in chat when displaying.
 msgid "NETMNU_NOBOLDCHAT"
-msgstr ""
+msgstr "Félkövér szöveg kikapcsolása a chatben"
 
 # Turns off the sound that plays when someone receives a message.
 msgid "NETMNU_NOCHATSND"
-msgstr ""
+msgstr "Hangok kikapcsolása a chatben"
 
 # Tries to make online games less stuttery.
 msgid "NETMNU_BALANCETICS"
-msgstr ""
+msgstr "Kpacsolódások stabilizálása"
 
 msgid "NETMNU_LIMITCONVO"
-msgstr ""
+msgstr "Csak a szervezővel lehet beszélgetni"
 
 # Helps stop things like e.g. door open/close spam when playing online.
 msgid "NETMNU_REPEATCOOLDOWN"
-msgstr ""
+msgstr "Idő ismételhető tevékenységek között"
 
 msgid "NETMNU_DISABLEPAUSE"
-msgstr ""
+msgstr "Megállítás kikapcsolása"
 
 msgid "OPTVAL_HOSTONLY"
-msgstr ""
+msgstr "Csak a szervező"
 
 # Type of vote system to use to bypass intermissions when playing online.
 msgid "NETMNU_READYTYPE"
-msgstr ""
+msgstr "Megszakítások megszakításának típusa"
 
 msgid "OPTVAL_VOTE"
-msgstr ""
+msgstr "Szavaz"
 
 msgid "OPTVAL_ANYONE"
-msgstr ""
+msgstr "Bárki"
 
 # If this percent of players or more are ready, starts a countdown when in
 # Vote intermission skip mode.
@@ -4986,10 +4984,10 @@ msgid "HAPMNU_COMPAT"
 msgstr ""
 
 msgid "OPTVAL_MATCH"
-msgstr ""
+msgstr "Mérkőzés"
 
 msgid "OPTVAL_WARN"
-msgstr ""
+msgstr "Figyelmeztet"
 
 msgid "HAPMNU_OPTIONS"
 msgstr ""
@@ -5014,126 +5012,126 @@ msgid "PAUSE_STRING"
 msgstr "Szünet"
 
 msgid "TAG_BACKPACK"
-msgstr ""
+msgstr "Hátizsák"
 
 msgid "TAG_ARMORBONUS"
-msgstr ""
+msgstr "Spirituális páncélzat"
 
 msgid "TAG_GREENARMOR"
-msgstr ""
+msgstr "Zöld páncélzat"
 
 msgid "TAG_BLUEARMOR"
-msgstr ""
+msgstr "Kék páncélzat"
 
 msgid "TAG_INVULSPHERE"
-msgstr ""
+msgstr "Halhatatlansági ereklye"
 
 msgid "TAG_SOULSPHERE"
-msgstr ""
+msgstr "Lélekgömb"
 
 msgid "TAG_MEGAPSHERE"
-msgstr ""
+msgstr "Hatalmas lélekgömb"
 
 msgid "TAG_INVISSPHERE"
-msgstr ""
+msgstr "Láthatalansági ereklye"
 
 msgid "TAG_RADSUIT"
-msgstr ""
+msgstr "Vegyvédelmi ruha"
 
 msgid "TAG_VISOR"
-msgstr ""
+msgstr "Éjjellátó szemüveg"
 
 msgid "TAG_ALLMAP"
-msgstr ""
+msgstr "Gépi térkép"
 
 msgid "TAG_BERSERK"
-msgstr ""
+msgstr "Dühöngő Ereklye"
 
 msgid "TAG_HEALTHBONUS"
-msgstr ""
+msgstr "Élettöltő ital"
 
 msgid "TAG_STIMPACK"
-msgstr ""
+msgstr "Ragtapaszcsomag"
 
 msgid "TAG_MEDIKIT"
-msgstr ""
+msgstr "Orvosi csomag"
 
 msgid "TAG_BLUECARD"
-msgstr ""
+msgstr "Kék kulcskártya"
 
 msgid "TAG_YELLOWCARD"
-msgstr ""
+msgstr "Sárga kulcskártya"
 
 msgid "TAG_REDCARD"
-msgstr ""
+msgstr "Piros kulcskártya"
 
 msgid "TAG_BLUESKULL"
-msgstr ""
+msgstr "Kék koponyakártya"
 
 msgid "TAG_YELLOWSKULL"
-msgstr ""
+msgstr "Sárga koponyakártya"
 
 msgid "TAG_REDSKULL"
-msgstr ""
+msgstr "Piros koponyakártya"
 
 msgid "TAG_GLASSOFWATER"
-msgstr ""
+msgstr "Egy pohár víz"
 
 msgid "TAG_BOWLOFFRUIT"
-msgstr ""
+msgstr "Egy tálnyi gyümölcs"
 
 msgid "TAG_BOWLOFVEGETABLES"
-msgstr ""
+msgstr "Egy tálnyi zöldség"
 
 msgid "TAG_BREAKFAST"
-msgstr ""
+msgstr "Feltöltő reggeli"
 
 msgid "TAG_REPELLENT"
-msgstr ""
+msgstr "Ragacs riasztó"
 
 msgid "TAG_CHEXARMOR"
-msgstr ""
+msgstr "Chex® páncélzat"
 
 msgid "TAG_SUPERCHEXARMOR"
-msgstr ""
+msgstr "Szuper Chex® páncélzat"
 
 msgid "TAG_CHEXMAP"
-msgstr ""
+msgstr "Gépi területi térkép"
 
 msgid "TAG_SLIMESUIT"
-msgstr ""
+msgstr "Ragacsvédő ruha"
 
 msgid "TAG_ZORCHPACK"
-msgstr ""
+msgstr "Zorch csomag"
 
 msgid "TAG_CBLUEKEY"
-msgstr ""
+msgstr "Kék kártya"
 
 msgid "TAG_CYELLOWKEY"
-msgstr ""
+msgstr "Sárga kártya"
 
 msgid "TAG_CREDKEY"
-msgstr ""
+msgstr "Piros kártya"
 
 # Option to make the view weapon sprites be lit exactly as the sector's
 # brightness. Without this option, weapon sprites are generally brighter
 # compared to the sector's brightness
 msgid "GLPREFMNU_WPNPURELIGHT"
-msgstr ""
+msgstr "Szektor világosság használata a fegyverek sprite-jain"
 
 # Mark the player as ready to advance during the intermission in multiplayer
 # games
 msgid "NET_CONTINUE_MKB"
-msgstr ""
+msgstr "A Space vagy az LMB megnyomása a felkészüléshez"
 
 msgid "NET_CONTINUE_CONTROLLER"
-msgstr ""
+msgstr "Az A megnyomása a felkészüléshez"
 
 msgid "NET_CONTINUE_JOYSTICK"
-msgstr ""
+msgstr "A Joy 1 megnyomása a felkészüléshez"
 
 msgid "GMPLYMNU_REMEMBERWEAP"
-msgstr ""
+msgstr "Emlékezz a kijelölt fegyverre újraéledésnél"
 
 msgid "CNTRLMNU_COOPSPYPREV"
 msgstr ""
@@ -5152,3 +5150,88 @@ msgstr "Kontraszt"
 
 msgid "DSPLYMNU_SATURATION"
 msgstr "Telítettség"
+
+msgid "OPTMNU_ACCESSIBILITY"
+msgstr "Akadálymentességi beállítások"
+
+#, fuzzy
+msgid "CNTRLMNU_ADJUST_LIGHTS"
+msgstr "Világítás felerősítése"
+
+msgid "OPENALMNU_SUPERSTEREOWIDTH"
+msgstr "Szuper sztereo szélesség"
+
+msgid "OPENALMNU_MUSICMODE"
+msgstr "Zenemód"
+
+msgid "OPTVAL_SUPERSTEREO"
+msgstr "Szuper sztereo"
+
+msgid "PICKER_PLAYERCLASS"
+msgstr "Játékos osztály"
+
+msgid "ACTION_RESTART"
+msgstr "Újrakezdés"
+
+msgid "ACTION_ABORT"
+msgstr "Mégsem"
+
+msgid "ACTION_STARTGAME"
+msgstr "Játék indítása"
+
+msgid "ACTION_KICK"
+msgstr "Rúgás"
+
+msgid "ACTION_BAN"
+msgstr "Kitiltás"
+
+msgid "ERRORMNU_SAVE"
+msgstr "Jelentés mentése"
+
+msgid "ERROR_FATAL"
+msgstr "Végzetes hiba"
+
+msgid "ERROR_ABORT"
+msgstr "A végrehajtás nem tudott folytatódni."
+
+msgid "FILEPICKER_ANY"
+msgstr "Minden fájl"
+
+msgid "FILEPICKER_REPORTS"
+msgstr "Összeomlási napló Zip fájljai"
+
+msgid "CMPTMNU_AUTO"
+msgstr "Kompatibilitási beállítások automatikus érzékelése"
+
+msgid "OPTVAL_DIRECTMIX"
+msgstr "Direkt Mix"
+
+msgid "ACTION_COPYTOCLIPBOARD"
+msgstr "Másolás a vágólapra"
+
+msgid "ACCMNU_LIGHT"
+msgstr "Világítás"
+
+msgid "OPTVAL_ROCKETEXP_STYLE_TRANS"
+msgstr "Átlátszó"
+
+msgid "OPTVAL_LAX"
+msgstr "Csillapított"
+
+msgid "OPTVAL_STRICT"
+msgstr "Szigorú"
+
+msgid "PICKER_FILELOADING"
+msgstr "Fájl betöltés"
+
+msgid "DSPLYMNU_IMAGEADJUST"
+msgstr "Kép kalibráció"
+
+msgid "DSPLYMNU_IMAGEADJUST_TOP1"
+msgstr "Egy megfelelő látótávolságból módosítsa a csúszkákat."
+
+msgid "DSPLYMNU_IMAGEADJUST_TOP2"
+msgstr "Felméretezés/Túlmintázás rossz kimenetet okozhat."
+
+msgid "DSPLYMNU_IMAGEADJUST_TOP3"
+msgstr "Kérjük kapcsolja ki őket módosítás előtt."

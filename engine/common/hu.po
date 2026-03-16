@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 16:09+0000\n"
+"PO-Revision-Date: 2026-03-16 09:09+0000\n"
 "Last-Translator: Andras Varro <varro.andras20@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/uzdoom/common/"
 "hu/>\n"
@@ -526,9 +526,8 @@ msgstr "Fel-/lenézés"
 msgid "OPTVAL_MOVINGFORWARD"
 msgstr "Előre/Hátra mozgás"
 
-#, fuzzy
 msgid "OPTVAL_STRAFING"
-msgstr "Oldalazás"
+msgstr "Mozgás Balra/Jobbra"
 
 msgid "OPTVAL_MOVINGUPDOWN"
 msgstr "Felfele/Lefele mozgás"
@@ -577,9 +576,6 @@ msgstr "Olíva"
 
 msgid "TXT_COLOR_BEIGE"
 msgstr "Bézs"
-
-msgid "TXT_COLOR_LIGHTGREEN"
-msgstr "Világoszöld"
 
 msgid "TXT_COLOR_LIGHTBLUE"
 msgstr "Világoskék"
@@ -792,7 +788,7 @@ msgid "ADVSNDMNU_SAMPLERATE"
 msgstr "Mintavételezési ráta"
 
 msgid "ADVSNDMNU_HRTF"
-msgstr ""
+msgstr "HRTF"
 
 msgid "ADVSNDMNU_OPLSYNTHESIS"
 msgstr "OPL szintézis"
@@ -801,7 +797,7 @@ msgid "ADVSNDMNU_OPLNUMCHIPS"
 msgstr "Emulált OPL csipek száma"
 
 msgid "ADVSNDMNU_OPLGAIN"
-msgstr ""
+msgstr "Növekedés (gain)"
 
 msgid "ADVSNDMNU_OPLFULLPAN"
 msgstr "Teljes MIDI sztereó tájolás"
@@ -870,10 +866,10 @@ msgid "ADVSNDMNU_VLMODEL"
 msgstr "Hangmodell"
 
 msgid "ADVSNDMNU_CHANALLOC"
-msgstr ""
+msgstr "Csatorna lefoglalási módszer"
 
 msgid "ADVSNDMNU_AUTOARPEGGIO"
-msgstr ""
+msgstr "Automatikus arpeggio"
 
 msgid "ADVSNDMNU_OPNCORES"
 msgstr "OPN2 Emulátor Mag"
@@ -897,7 +893,7 @@ msgid "ADVSNDMNU_ADLCUSTOMBANK"
 msgstr "Saját WOPL bank használata"
 
 msgid "ADVSNDMNU_ADLUSEWADBANK"
-msgstr ""
+msgstr "A WAD GENMIDI bankjának használata, mint saját bank"
 
 msgid "ADVSNDMNU_OPLBANKFILE"
 msgstr "WOPL Bank fájl"
@@ -909,7 +905,7 @@ msgid "ADVSNDMNU_OPNBANKFILE"
 msgstr "WOPN Bank fájl"
 
 msgid "OPTVAL_ALIASING"
-msgstr ""
+msgstr "Aliasing"
 
 # This setting is duplicated threefold in order to allow for different
 # grammatical gender endings
@@ -950,7 +946,7 @@ msgid "OPTVAL_CUBICSLOW"
 msgstr "Négyzetes (Lassabb)"
 
 msgid "OPTVAL_SINC"
-msgstr ""
+msgstr "Sinc"
 
 msgid "OPTVAL_NOTEONOFFONLY"
 msgstr "Hangjegy ki/be csak"
@@ -965,7 +961,7 @@ msgid "MODMNU_QUALITY"
 msgstr "Minőség"
 
 msgid "MODMNU_VOLUMERAMPING"
-msgstr ""
+msgstr "Hangerő ramping"
 
 msgid "OPTVAL_LIBXMP"
 msgstr "libXMP"
@@ -1007,40 +1003,40 @@ msgid "OPTVAL_MAMEOPN2"
 msgstr "MAME OPN2 (YM2612)"
 
 msgid "OPTVAL_NP2OPNA"
-msgstr ""
+msgstr "Neko Project II Kai OPNA"
 
 msgid "OPTVAL_MAMEOPNA"
-msgstr ""
+msgstr "MAME YM2608"
 
 msgid "OPTVAL_OPALOPL3"
-msgstr ""
+msgstr "Opal OPL3"
 
 msgid "OPTVAL_NUKEDOPL3174"
-msgstr ""
+msgstr "Nuked OPL3 v1.7.4"
 
 msgid "OPTVAL_NUKEDOPN2YM3438"
-msgstr ""
+msgstr "Nuked OPN2 (YM3438)"
 
 msgid "OPTVAL_NUKEDOPN2YM2612"
-msgstr ""
+msgstr "Nuked OPN2 (YM2612)"
 
 msgid "OPTVAL_OPN2YM2612LLE"
-msgstr ""
+msgstr "OPN2-LLE (YM2612) (erőforrás-igényes)"
 
 msgid "OPTVAL_OPN2YM3438LLE"
-msgstr ""
+msgstr "OPN2-LLE (YM3438) (erőforrás-igényes)"
 
 msgid "OPTVAL_OPN2YMF276LLE"
-msgstr ""
+msgstr "OPN2-LLE (YMF276) (erőforrás-igényes)"
 
 msgid "OPTVAL_GENSOPN2"
-msgstr ""
+msgstr "GENS OPN2 (YM2612)"
 
 msgid "OPTVAL_YMFMOPN2"
-msgstr ""
+msgstr "YMFM OPN2"
 
 msgid "OPTVAL_YMFMOPNA"
-msgstr ""
+msgstr "YMFM OPNA"
 
 msgid "ADLVLMODEL_AUTO"
 msgstr "Automatikus (Beállított bank használata)"
@@ -1064,13 +1060,13 @@ msgid "ADLVLMODEL_DMX"
 msgstr "DMX (Pontos, de AM buggal)"
 
 msgid "OPNVLMODEL_DMX"
-msgstr ""
+msgstr "Mint a DMX-ben"
 
 msgid "ADLVLMODEL_APOGEE"
 msgstr "Apogee (Pontos, de AM buggal)"
 
 msgid "OPNVLMODEL_APOGEE"
-msgstr ""
+msgstr "Mint az Apogee Hangrendszerben (Sound System)"
 
 msgid "OPNVLMODEL_WIN9X"
 msgstr "Win9X szerű"
@@ -1100,28 +1096,28 @@ msgid "ADLCHANALLOC_AUTO"
 msgstr "Automatikus"
 
 msgid "ADLCHANALLOC_OFFDELAY"
-msgstr ""
+msgstr "Hang ki késleltetés mérése"
 
 msgid "ADLCHANALLOC_SAMEINST"
-msgstr ""
+msgstr "Első kiadott hangjegy újrahasználata azonos hangszernél"
 
 msgid "ADLCHANALLOC_ANYREL"
-msgstr ""
+msgstr "Első kiadott hangjegy újrahasználata mindig"
 
 msgid "OPTVAL_UNLIMITED"
 msgstr "Végtelen"
 
 msgid "OPTVAL_256K"
-msgstr ""
+msgstr "256K"
 
 msgid "OPTVAL_512K"
-msgstr ""
+msgstr "512K"
 
 msgid "OPTVAL_768K"
-msgstr ""
+msgstr "768K"
 
 msgid "OPTVAL_1024K"
-msgstr ""
+msgstr "1024K"
 
 msgid "OPTVAL_UNCHARTED2"
 msgstr "Uncharted 2"
@@ -1154,7 +1150,7 @@ msgid "OPTVAL_REVERSEFIRST"
 msgstr "Fordított"
 
 msgid "GLMNU_POSTPROCESS"
-msgstr ""
+msgstr "Utófeldolgozás"
 
 msgid "GLPREFMNU_TONEMAP"
 msgstr "Színleképzés módja"
@@ -1175,7 +1171,7 @@ msgid "GLPREFMNU_PALTONEMAPPOWER"
 msgstr "Tonemap Paletta Exponens"
 
 msgid "GLPREFMNU_MULTISAMPLE"
-msgstr ""
+msgstr "Többmintás"
 
 msgid "GLPREFMNU_BLOOM"
 msgstr "Bloom effekt"
@@ -1464,28 +1460,28 @@ msgid "REVMNU_NEW"
 msgstr "Új Környezet"
 
 msgid "REVMNU_Reflections_Scale"
-msgstr ""
+msgstr "Tükröződési Arány"
 
 msgid "REVMNU_Reflections_Delay_Scale"
-msgstr ""
+msgstr "Tükröződési Késleltetési Arány"
 
 msgid "REVMNU_Decay_Time_Scale"
-msgstr ""
+msgstr "Decay Idő Arány"
 
 msgid "REVMNU_Decay_HF_Limit"
-msgstr ""
+msgstr "Decay HF Limitje"
 
 msgid "REVMNU_Reverb_Scale"
-msgstr ""
+msgstr "Reverb Arány"
 
 msgid "REVMNU_Reverb_Delay_Scale"
-msgstr ""
+msgstr "Reverb Késleltetési Arány"
 
 msgid "REVMNU_Echo_Time_Scale"
-msgstr ""
+msgstr "Visszhang Idő Arány"
 
 msgid "REVMNU_Modulation_Time_Scale"
-msgstr ""
+msgstr "Modulációs Idő Arány"
 
 msgid "REVMNU_Based_on"
 msgstr "Minta"
@@ -1494,10 +1490,10 @@ msgid "REVMNU_Name"
 msgstr "Név"
 
 msgid "REVMNU_ID_1"
-msgstr ""
+msgstr "AZON #1"
 
 msgid "REVMNU_ID_2"
-msgstr ""
+msgstr "AZON #2"
 
 msgid "REVMNU_Create"
 msgstr "Készítés"
@@ -1521,7 +1517,7 @@ msgid "VKMNU_DEVICE"
 msgstr "Vulkan Eszköz ID"
 
 msgid "VKMNU_HDR"
-msgstr ""
+msgstr "Magas Dinamikus Tartomány"
 
 msgid "VK_WARNING"
 msgstr "Vigyázat: A Vulkan renderer még teljesen kísérleti!"
@@ -1539,7 +1535,7 @@ msgid "OPTVAL_HQNX"
 msgstr "hqNx"
 
 msgid "OPTVAL_HQNXMMX"
-msgstr ""
+msgstr "hqNx MMX"
 
 msgid "OPTVAL_NXBRZ"
 msgstr "xBRZ"
@@ -1570,7 +1566,6 @@ msgstr "0"
 # This should list all uppercase characters that are REQUIRED for proper
 # language display. If it is acceptable that accents get omitted a character
 # should NOT be listed here!
-#, fuzzy
 msgid "REQUIRED_CHARACTERS"
 msgstr "ÁÉÍÓÖÚÜŐŰ"
 
@@ -1661,12 +1656,12 @@ msgid "CNTRLMNU_OPEN_MAIN"
 msgstr "Főmenü megnyitása"
 
 msgid "MODMNU_REPLAYER"
-msgstr ""
+msgstr "Modul újrajátszó"
 
 # This is enabled per-controller, it means to enable "this" controller in the
 # background when GZDoom is not in focus.
 msgid "JOYMNU_JOYENABLEINBACKGROUND"
-msgstr ""
+msgstr "Kontroller inputjának engedélyezése a háttérben"
 
 # Order to sort the list of saved games in the save and load game menu. This
 # used to only be alphabetical.
@@ -1690,7 +1685,7 @@ msgstr "Emlékezz a paraméterekre"
 
 # For stuff like id24.
 msgid "PICKER_SUPPORTWADS"
-msgstr ""
+msgstr "Támogatási WAD betöltése (például id24-hez)"
 
 msgid "PICKER_TAB_MULTI"
 msgstr "Többjátékos"
@@ -1709,12 +1704,12 @@ msgid "PICKER_JOIN"
 msgstr "Csatlakozás"
 
 msgid "PICKER_NETRATE"
-msgstr ""
+msgstr "Csomag ticsebessége:"
 
 # Sends out duplicate copies of packets to help with spotty connections e.g.
 # wifi.
 msgid "PICKER_NETBACKUP"
-msgstr ""
+msgstr "Dupla csomag küldése"
 
 msgid "PICKER_GAMEMODE"
 msgstr "Játékmód:"
@@ -1723,7 +1718,7 @@ msgid "PICKER_COOP"
 msgstr "Kooperítív"
 
 msgid "PICKER_DM"
-msgstr ""
+msgstr "Mérkőzés a halálig"
 
 msgid "PICKER_TDM"
 msgstr "Csapatos deathmatch"
@@ -1761,19 +1756,19 @@ msgstr "Csapatos deathmatch:"
 
 # Same context as TXT_SAY.
 msgid "TXT_SAYTEAM"
-msgstr ""
+msgstr "Mond (Csapat):"
 
 msgid "MISCMNU_DISCORDRPC"
-msgstr ""
+msgstr "Discord Gazdag Jelenlét (Rich Presence)"
 
 msgid "JOYMNU_TURNSPEED"
-msgstr ""
+msgstr "Fordulási sebesség"
 
 msgid "JOYMNU_LOOKSPEED"
-msgstr ""
+msgstr "Nézési sebesség"
 
 msgid "JOYMNU_ANALOGSTRAFERUN"
-msgstr ""
+msgstr "Analóg oldalazó futás"
 
 msgid "ACCMNU_TITLE"
 msgstr "Akadálymentességi beállítások"

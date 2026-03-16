@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 23:40+0000\n"
+"PO-Revision-Date: 2026-03-16 15:31+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ru/>\n"
@@ -309,13 +309,11 @@ msgstr "Режим без столкновений: ВКЛ"
 msgid "STSTR_NCOFF"
 msgstr "Режим без столкновений: ВЫКЛ"
 
-#, fuzzy
 msgid "STSTR_NC2ON"
-msgstr "Режим без столкновений 2: ВКЛ"
+msgstr "Режим без столкновений 3D: ВКЛ"
 
-#, fuzzy
 msgid "STSTR_NC2OFF"
-msgstr "Режим без столкновений 2: ВЫКЛ"
+msgstr "Режим без столкновений 3D: ВЫКЛ"
 
 # “inVuln”: Invulnerability sphere
 # “Str”: Berserk
@@ -4187,14 +4185,12 @@ msgstr "бум"
 msgid "OPTVAL_BOOMSTRICT"
 msgstr "Boom (строгий)"
 
-#, fuzzy
 msgid "OPTVAL_MBF"
 msgstr "MBF"
 
 msgid "OPTVAL_MBFSTRICT"
 msgstr "MBF (строгий)"
 
-#, fuzzy
 msgid "OPTVAL_MBF21"
 msgstr "MBF21"
 
@@ -5341,3 +5337,7 @@ msgstr "Супер Стерео"
 
 msgid "ERROR_ABORT"
 msgstr "Запуск не удался."
+
+#, fuzzy
+msgid "CNTRLMNU_ADJUST_LIGHTS"
+msgstr "Усилить освещение"

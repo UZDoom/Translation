@@ -580,9 +580,6 @@ msgstr "Bledě zelená"
 msgid "TXT_COLOR_BEIGE"
 msgstr "Béžová"
 
-msgid "TXT_COLOR_LIGHTGREEN"
-msgstr "Světle zelená"
-
 msgid "TXT_COLOR_LIGHTBLUE"
 msgstr "Světle modrá"
 

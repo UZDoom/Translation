@@ -583,9 +583,6 @@ msgstr "Haaleanvihreä"
 msgid "TXT_COLOR_BEIGE"
 msgstr "Beesi"
 
-msgid "TXT_COLOR_LIGHTGREEN"
-msgstr "Vaaleanvihreä"
-
 msgid "TXT_COLOR_LIGHTBLUE"
 msgstr "Vaaleansininen"
 
