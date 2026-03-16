@@ -202,9 +202,6 @@ msgstr ""
 msgid "Spline"
 msgstr ""
 
-msgid "Modern (WASD)"
-msgstr ""
-
 msgid "Banshee"
 msgstr ""
 
