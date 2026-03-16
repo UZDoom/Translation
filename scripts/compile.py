@@ -11,6 +11,24 @@ from pathlib import Path
 
 SOURCE_LANG = "en_US"
 
+# auto-add once a certain portion of strings have been translated
+THRESHOLD = 0.5
+
+# add to table  even if THRESHOLD is not met
+ENABLED = [
+	"en_US",
+	"eng enc ena enz eni ens enj enb enl ent enw"
+]
+
+# Don't add to table even if THRESHOLD is met
+# If adding a language here, please add a comment why, so it can be re-evaluated later
+DISABLED = [
+	"arz", # no rtl support in uzdoom yet
+	"he", # no rtl support in uzdoom yet
+]
+
+KEEP_REMARKS = False
+
 def dump_csv(destination, table):
 	"""Writes the matrix table to a CSV file at the specified destination."""
 
@@ -129,7 +147,7 @@ def build_matrix(languages, po_files):
 			_matrix[k] = [
 				v["string"] if "string" in v else "",
 				v["id"],
-				v["remarks"] if "remarks" in v else "",
+				v["remarks"] if "remarks" in v and KEEP_REMARKS else "",
 				v["filter"] if "filter" in v else ""
 			]
 
@@ -143,6 +161,38 @@ def build_matrix(languages, po_files):
 
 	return matrix
 
+def postprocess_matrix(languages, matrix):
+	"""make the matrix smaller"""
+
+	if not matrix:
+		return [ languages, matrix ]
+
+	total = len(matrix)
+	tally = [ 0 for l in languages ]
+	skip = 3 # default, remarks, filter
+
+	for k in matrix:
+		v = matrix[k]
+		for i in range(skip, len(v)):
+			if v[i]:
+				tally[i-skip-1] += 1
+			# just use the fallback
+			if v[i] == v[0]:
+				v[i] = ""
+
+	for i, v in enumerate(tally):
+		v /= total
+		if languages[i] in ENABLED: v += 1
+		if languages[i] in DISABLED: v -= 1
+		tally[i] = v >= THRESHOLD
+	languages = [ languages[i] for i in range(len(tally)) if tally[i]]
+	tally = [ True for i in range(skip+1) ] + tally
+
+	for k in matrix:
+		matrix[k] = [ v for i,v in enumerate(matrix[k]) if tally[i] ]
+
+	return [ languages, matrix ]
+
 def main(args):
 	"""loading, matrix building, CSV export"""
 
@@ -155,8 +205,8 @@ def main(args):
 	languages = po_files["languages"]
 	po_files = po_files["files"]
 
+	[ languages, matrix ] = postprocess_matrix(languages, build_matrix(languages, po_files))
 	header = [ po_files[0][SOURCE_LANG]["meta"]["id"], "Identifier", "Remarks", "Filter" ] + languages
-	matrix = build_matrix(languages, po_files)
 
 	table = [ header ] + [ matrix[k] for k in sorted(matrix) ]
 
