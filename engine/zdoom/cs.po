@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 23:40+0000\n"
+"PO-Revision-Date: 2026-03-16 07:08+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/cs/>\n"
@@ -4188,7 +4188,7 @@ msgid "OPTVAL_BOOMSTRICT"
 msgstr "Boom (striktní)"
 
 msgid "OPTVAL_MBF"
-msgstr ""
+msgstr "MBF"
 
 msgid "OPTVAL_MBFSTRICT"
 msgstr "MBF (striktní)"
@@ -4757,7 +4757,7 @@ msgid "ALTHUDMNU_SHOWTIMESTAT"
 msgstr "Zobrazit widget s časem"
 
 msgid "OPTVAL_MBF21"
-msgstr ""
+msgstr "MBF21"
 
 msgid "CMPTMNU_VILEGHOSTS"
 msgstr "Oživovat rozdrcené příšery jako duchy"
