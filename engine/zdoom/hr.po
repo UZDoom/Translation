@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-16 23:10+0000\n"
+"PO-Revision-Date: 2026-03-16 23:34+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hr/>\n"
@@ -3334,7 +3334,7 @@ msgid "CMPTMNU_RENDERINGBEHAVIOR"
 msgstr "Ponašanje pri renderiranju"
 
 msgid "CMPTMNU_POLYOBJ"
-msgstr "Crtanje poliobjekata poput Hexena"
+msgstr "Crtanje poliobjekata poput Heksenie"
 
 msgid "CMPTMNU_MASKEDMIDTEX"
 msgstr "Zanemari Y pomake na maskiranim srednjim teksturama"
@@ -3937,7 +3937,7 @@ msgid "HUDMNU_OLDOUCH"
 msgstr "Koristi staru formulu za policijsku fotografiju"
 
 msgid "HUDMNU_HEXENFLASHES"
-msgstr "Bljeskovi oružja Hexena"
+msgstr "Bljeskovi oružja u Heksenie"
 
 msgid "HUDMNU_POISONFLASHES"
 msgstr "Bljeskovi štete od otrova"
@@ -4121,7 +4121,7 @@ msgid "OPTVAL_TRADITIONALDOOM"
 msgstr "Tradicionalni doom"
 
 msgid "OPTVAL_TRADITIONALSTRIFE"
-msgstr "Tradicionalni sukob"
+msgstr "Tradicionalni Strife"
 
 msgid "OPTVAL_TRADITIONALRAVEN"
 msgstr "Tradicionalni gavran"
