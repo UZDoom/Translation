@@ -579,9 +579,6 @@ msgstr "Blassgrün"
 msgid "TXT_COLOR_BEIGE"
 msgstr "Beige"
 
-msgid "TXT_COLOR_LIGHTGREEN"
-msgstr "Hellgrün"
-
 msgid "TXT_COLOR_LIGHTBLUE"
 msgstr "Hellblau"
 
