@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-16 09:27+0000\n"
+"PO-Revision-Date: 2026-03-16 09:53+0000\n"
 "Last-Translator: Andras Varro <varro.andras20@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hu/>\n"
@@ -4764,114 +4764,115 @@ msgid "MISCMNU_FVIEWBOB"
 msgstr "Nézet repüléskori billegése"
 
 msgid "OB_DEMON1HIT"
-msgstr ""
+msgstr "%o meg lett csonkítva egy kígyó által."
 
 msgid "AUTOMAPMNU_LINEANTIALIASING"
-msgstr ""
+msgstr "Simított éles vonalak"
 
 msgid "GMPLYMNU_NOPLAYERCLIP"
-msgstr ""
+msgstr "Mozogj és lőj utat magadnak más játékosokon át"
 
 msgid "GMPLYMNU_SHAREKEYS"
-msgstr ""
+msgstr "Oszd meg a kulcsokat az összes játékossal"
 
 msgid "GLPREFMNU_SPRBILLFACECAMERAFORCE"
 msgstr ""
 
 msgid "ALTHUDMNU_SWAPHEALTHARMOR"
-msgstr ""
+msgstr "Élet és páncél felcserélése"
 
 # hud_oldscale
 msgid "SCALEMNU_HUD_OLDSCALE"
-msgstr ""
+msgstr "Klasszikus HUD méretezés használata"
 
 # hud_scalefactor
 msgid "SCALEMNU_HUD_SCALEFACTOR"
-msgstr ""
+msgstr "HUD méretezési arány"
 
 # Any Actor that only appears in co-op is disabled
 msgid "GMPLYMNU_COOPTHINGS"
-msgstr ""
+msgstr "Csak kooperatívos dolgok megjelenítése többjátékos módban"
 
 # Items that only appear in co-op are disabled
 msgid "GMPLYMNU_COOPITEMS"
-msgstr ""
+msgstr "Csak kooperatívos felvehető tárgyak megjelenítése többjátékos módban"
 
 # Items are picked up client-side rather than fully taken by the client who
 # picked it up
 msgid "GMPLYMNU_LOCALITEMS"
 msgstr ""
+"Többjátékos módban a játékosok a saját másolatukat veszik fel a tárgyakból"
 
 # Drops from Actors aren't picked up locally
 msgid "GMPLYMNU_NOLOCALDROP"
-msgstr ""
+msgstr "Kliens oldali dobott tárgyak felvételének kikapcsolása"
 
 # Disables autoloading save on death
 msgid "MISCMNU_RESTARTONDEATH"
-msgstr ""
+msgstr "Pisztoly-kezdés halál esetén"
 
 # Resets inventory on every map
 msgid "GMPLYMNU_PISTOLSTART"
-msgstr ""
+msgstr "Pisztoly-kezdés minden pályán"
 
 msgid "CMPTMNU_VOODOOZOMBIES"
-msgstr ""
+msgstr "Zombi (Voodoo) játékosok engedélyezése"
 
 msgid "CMPTMNU_FDTELEPORT"
-msgstr ""
+msgstr "Padló Z-indexének figyelmen kívül hagyása teleportálás esetén"
 
 # Hardware Sprite Clipping mode that gives the illusion of a sprite being in a
 # different position than it really is, allowing it to be rendered under the
 # floor despite clipping
 msgid "OPTVAL_ANAMORPHIC"
-msgstr ""
+msgstr "Fejlett sprite elhelyezés"
 
 msgid "SNDMNU_FOOTSTEPVOLUME"
-msgstr ""
+msgstr "Lépések hangereje"
 
 msgid "ID24_GOTINCINERATOR"
-msgstr ""
+msgstr "Megkaparintottad a hamvasztót!"
 
 # Also known as Heatwave Generator.
 msgid "ID24_GOTCALAMITYBLADE"
-msgstr ""
+msgstr "Megkaptad a Balsors Pengéjét!  A fenébe is!"
 
 msgid "ID24_GOTFUELCAN"
-msgstr ""
+msgstr "Felszedtél egy üzemanyagos kannát."
 
 msgid "ID24_GOTFUELTANK"
-msgstr ""
+msgstr "Felszedtél egy üzemanyagos hordót."
 
 msgid "TAG_ID24INCINERATOR"
-msgstr ""
+msgstr "Hamvasztó"
 
 msgid "TAG_ID24CALAMITYBLADE"
-msgstr ""
+msgstr "A Balsors Pengéje"
 
 msgid "AMMO_ID24FUEL"
-msgstr ""
+msgstr "Üzemanyagos kanna"
 
 msgid "AMMO_ID24FUELTANK"
-msgstr ""
+msgstr "Üzemanyagos hordó"
 
 msgid "ID24_CC_GHOUL"
-msgstr ""
+msgstr "Vérszívó"
 
 msgid "ID24_CC_BANSHEE"
-msgstr ""
+msgstr "Banshee"
 
 # Also known as Plasmaguy.
 msgid "ID24_CC_SHOCKTROOPER"
-msgstr ""
+msgstr "Sokk-osztagos"
 
 msgid "ID24_CC_MINDWEAVER"
-msgstr ""
+msgstr "Elmeszövő"
 
 msgid "ID24_CC_VASSAGO"
-msgstr ""
+msgstr "Vassago"
 
 msgid "ID24_CC_TYRANT"
-msgstr ""
+msgstr "Elnyomó"
 
 msgid "ID24_OB_GHOUL"
 msgstr ""
