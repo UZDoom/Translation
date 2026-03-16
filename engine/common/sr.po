@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 00:10+0000\n"
+"PO-Revision-Date: 2026-03-16 23:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/uzdoom/common/"
 "sr/>\n"
@@ -1519,19 +1519,19 @@ msgid "REVMNU_Environments_to_save"
 msgstr "Окружења за чување"
 
 msgid "DSPLYMNU_VKOPT"
-msgstr "Vulkan подешавања (експериментална)"
+msgstr "Вулкан подешавања (експериментална)"
 
 msgid "VK_TITLE"
-msgstr "Vulkan подешавања"
+msgstr "Вулкан подешавања"
 
 msgid "VKMNU_DEVICE"
-msgstr "Vulkan ID уређаја"
+msgstr "Вулкан ID уређаја"
 
 msgid "VKMNU_HDR"
 msgstr "HDR"
 
 msgid "VK_WARNING"
-msgstr "Упозорење: Vulkan рендерер је врло експерименталан!"
+msgstr "Упозорење: Вулкан рендерер је врло експерименталан!"
 
 msgid "VK_RESTART"
 msgstr "Ове опције ће захтевати поновно покретање да би ступиле на снагу."
