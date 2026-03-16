@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-16 07:08+0000\n"
-"Last-Translator: hawkwind3 <hawkwinds_messages@hotmail.com>\n"
+"PO-Revision-Date: 2026-03-16 15:31+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English (United Kingdom) <https://hosted.weblate.org/projects/"
 "uzdoom/zdoom-engine-strings/en_GB/>\n"
 "Language: en_GB\n"
@@ -5317,6 +5317,7 @@ msgstr "Player Class"
 msgid "OPTVAL_SBSLETTERBOX"
 msgstr "Side-by-side Letterboxed"
 
+#, fuzzy
 msgid "CNTRLMNU_ADJUST_LIGHTS"
 msgstr "Boost Lighting"
 
