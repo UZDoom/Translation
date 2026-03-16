@@ -582,9 +582,6 @@ msgstr "Тупа зелена"
 msgid "TXT_COLOR_BEIGE"
 msgstr "Беж"
 
-msgid "TXT_COLOR_LIGHTGREEN"
-msgstr "Светло зелена"
-
 msgid "TXT_COLOR_LIGHTBLUE"
 msgstr "Светло плава"
 
