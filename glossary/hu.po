@@ -181,9 +181,6 @@ msgstr "MBF"
 msgid "MBF21"
 msgstr "MBF21"
 
-msgid "Wendigo"
-msgstr ""
-
 msgid "Korax"
 msgstr ""
 
