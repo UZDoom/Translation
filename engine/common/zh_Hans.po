@@ -577,9 +577,6 @@ msgstr "黄褐色"
 msgid "TXT_COLOR_BEIGE"
 msgstr "米黄色"
 
-msgid "TXT_COLOR_LIGHTGREEN"
-msgstr "浅绿色"
-
 msgid "TXT_COLOR_LIGHTBLUE"
 msgstr "浅蓝色"
 
