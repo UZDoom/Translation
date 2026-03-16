@@ -187,9 +187,6 @@ msgstr "OPL"
 msgid "Bank"
 msgstr "Bank"
 
-msgid "Ettin"
-msgstr ""
-
 msgid "Wendigo"
 msgstr ""
 
