@@ -581,9 +581,6 @@ msgstr "Măsliniu"
 msgid "TXT_COLOR_BEIGE"
 msgstr "Bej"
 
-msgid "TXT_COLOR_LIGHTGREEN"
-msgstr "Verde Deschis"
-
 msgid "TXT_COLOR_LIGHTBLUE"
 msgstr "Albastru Deschis"
 
