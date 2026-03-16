@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 00:11+0000\n"
+"PO-Revision-Date: 2026-03-16 23:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/uzdoom/common/el/>"
 "\n"
@@ -1385,7 +1385,7 @@ msgid "OPTVAL_OPENGL"
 msgstr "OpenGL"
 
 msgid "OPTVAL_VULKAN"
-msgstr "Vulkan"
+msgstr "Vulka"
 
 # Rendering backend
 msgid "OPTVAL_OPENGLES"
@@ -1513,16 +1513,16 @@ msgid "DSPLYMNU_VKOPT"
 msgstr "Vulka Ρυθμίσεις (Πειραματικές)"
 
 msgid "VK_TITLE"
-msgstr "Vulkan Ρυθμίσεις"
+msgstr "Vulka Ρυθμίσεις"
 
 msgid "VKMNU_DEVICE"
-msgstr "Vulkan ID Συσκευής"
+msgstr "Vulka ID Συσκευής"
 
 msgid "VKMNU_HDR"
 msgstr "Υψηλό Δυναμική Εμβέλεια"
 
 msgid "VK_WARNING"
-msgstr "Προειδοποίηση: Ο Vulkan renderer είναι υψηλά πειραματικός!"
+msgstr "Προειδοποίηση: Ο Vulka renderer είναι υψηλά πειραματικός!"
 
 msgid "VK_RESTART"
 msgstr "Αυτές η ρυθμίσεις θα χρειαστούνε επανεκκίνηση για να ισχύσουν."
