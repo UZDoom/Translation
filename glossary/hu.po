@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-16 09:09+0000\n"
+"PO-Revision-Date: 2026-03-16 09:25+0000\n"
 "Last-Translator: Andras Varro <varro.andras20@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/uzdoom/"
 "glossary/hu/>\n"
@@ -201,3 +201,6 @@ msgstr ""
 
 msgid "Spline"
 msgstr ""
+
+msgid "Modern (WASD)"
+msgstr "Modern (WASD)"
