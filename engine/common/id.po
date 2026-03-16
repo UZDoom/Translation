@@ -580,9 +580,6 @@ msgstr "Zaitun"
 msgid "TXT_COLOR_BEIGE"
 msgstr "Beige"
 
-msgid "TXT_COLOR_LIGHTGREEN"
-msgstr "Hijau Muda"
-
 msgid "TXT_COLOR_LIGHTBLUE"
 msgstr "Biru Muda"
 
