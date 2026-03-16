@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-16 23:10+0000\n"
+"PO-Revision-Date: 2026-03-16 23:34+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/pl/>\n"
@@ -3938,7 +3938,7 @@ msgid "HUDMNU_OLDOUCH"
 msgstr "Używaj starej formuły portretu twarzy 'ouch'"
 
 msgid "HUDMNU_HEXENFLASHES"
-msgstr "Błysk przy podnoszeniu broni z Hexena"
+msgstr "Błyski broni w Hexenie"
 
 msgid "HUDMNU_POISONFLASHES"
 msgstr "Efekt obrażeń przy zatruciu"
