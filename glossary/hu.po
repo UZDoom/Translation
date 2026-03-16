@@ -201,6 +201,3 @@ msgstr ""
 
 msgid "Spline"
 msgstr ""
-
-msgid "Modern (WASD)"
-msgstr "Modern (WASD)"
