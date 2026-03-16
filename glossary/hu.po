@@ -187,9 +187,6 @@ msgstr ""
 msgid "Menelkir"
 msgstr ""
 
-msgid "OPL Bank"
-msgstr ""
-
 msgid "Macil"
 msgstr ""
 
