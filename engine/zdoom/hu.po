@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-16 23:36+0000\n"
+"PO-Revision-Date: 2026-03-16 23:49+0000\n"
 "Last-Translator: Andras Varro <varro.andras20@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hu/>\n"
@@ -3466,10 +3466,10 @@ msgid "CNTRLMNU_TOGGLESCOREBOARD"
 msgstr "Eredményjelző kapcsoló"
 
 msgid "MOUSEMNU_LOOKSPRING"
-msgstr ""
+msgstr "Lookspring"
 
 msgid "MOUSEMNU_LOOKSTRAFE"
-msgstr ""
+msgstr "Mindig egyenes nézés"
 
 msgid "MAPCOLORMNU_BACKCOLOR"
 msgstr "Háttér"
@@ -4966,15 +4966,15 @@ msgstr "Bárki"
 # If this percent of players or more are ready, starts a countdown when in
 # Vote intermission skip mode.
 msgid "NETMNU_READYPERCENT"
-msgstr ""
+msgstr "Megszakítás átugrásának szavazási minimuma"
 
 msgid "NETMNU_READYCOUNTDOWN"
-msgstr ""
+msgstr "Szavazási idő (másodperc)"
 
 # Forces a cool down between chat messages for all players when playing
 # online.
 msgid "NETMNU_CHATSLOMO"
-msgstr ""
+msgstr "Lassú char mód (másodperc)"
 
 msgid "OPTMNU_HAPTICS"
 msgstr ""
