@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-16 23:34+0000\n"
+"PO-Revision-Date: 2026-03-17 02:16+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/de/>\n"
@@ -154,6 +154,7 @@ msgstr ""
 "Also, Kumpel, wenn du jetzt abhaust,\n"
 "begehst du Fahnenflucht!"
 
+#, fuzzy
 msgid "QUITMSG13"
 msgstr ""
 "Geh doch. Wenn du zurückkommst,\n"
