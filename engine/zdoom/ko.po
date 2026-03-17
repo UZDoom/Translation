@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-16 23:34+0000\n"
+"PO-Revision-Date: 2026-03-17 02:16+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ko/>\n"
@@ -156,6 +156,7 @@ msgstr ""
 "이봐, 친구. 지금 여기서 나가버리면\n"
 "네가 올린 킬 스코어는 전부 몰수야!"
 
+#, fuzzy
 msgid "QUITMSG13"
 msgstr ""
 "그냥 나가봐. 돌아올 때까지\n"

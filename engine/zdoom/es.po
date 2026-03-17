@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-16 23:34+0000\n"
+"PO-Revision-Date: 2026-03-17 02:16+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/es/>\n"
@@ -154,6 +154,7 @@ msgstr ""
 "A ver, amig@[ao_esp]. ¡Te vas ahora\n"
 "y pierdes tu número de bajas!"
 
+#, fuzzy
 msgid "QUITMSG13"
 msgstr ""
 "Solo lárgate. Cuando vuelvas,\n"

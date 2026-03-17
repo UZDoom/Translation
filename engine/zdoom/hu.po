@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-16 23:36+0000\n"
-"Last-Translator: Andras Varro <varro.andras20@gmail.com>\n"
+"PO-Revision-Date: 2026-03-17 02:16+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hu/>\n"
 "Language: hu\n"
@@ -154,6 +154,7 @@ msgstr ""
 "Nézd, haver. Ha most kilépsz,\n"
 "feladod a pontjaidat!"
 
+#, fuzzy
 msgid "QUITMSG13"
 msgstr ""
 "Menj csak. amikor visszajössz \n"
@@ -3466,10 +3467,10 @@ msgid "CNTRLMNU_TOGGLESCOREBOARD"
 msgstr "Eredményjelző kapcsoló"
 
 msgid "MOUSEMNU_LOOKSPRING"
-msgstr ""
+msgstr "Nézet visszahúzása középre (lookspring)"
 
 msgid "MOUSEMNU_LOOKSTRAFE"
-msgstr ""
+msgstr "Mindig egyenes nézés"
 
 msgid "MAPCOLORMNU_BACKCOLOR"
 msgstr "Háttér"
@@ -4400,7 +4401,7 @@ msgid "GLPREFMNU_VRQUADSTEREO"
 msgstr "Quad Sztereó bekapcsolása"
 
 msgid "GLPREFMNU_SWLMBANDED"
-msgstr ""
+msgstr "Sávos szoftveres fénymód"
 
 msgid "GLPREFMNU_VRIPD"
 msgstr "Szemek közötti távolság"
@@ -4901,7 +4902,7 @@ msgid "CNTRLMNU_INVENTORY_HOTKEYS"
 msgstr "Eszköztár Gyorsgombok"
 
 msgid "JOYMNU_HAPTICS"
-msgstr ""
+msgstr "Érintéses visszajelzés erőssége"
 
 msgid "JOYMNU_CURVE"
 msgstr "Visszajelzési ív"
@@ -4966,22 +4967,22 @@ msgstr "Bárki"
 # If this percent of players or more are ready, starts a countdown when in
 # Vote intermission skip mode.
 msgid "NETMNU_READYPERCENT"
-msgstr ""
+msgstr "Megszakítás átugrásának szavazási minimuma"
 
 msgid "NETMNU_READYCOUNTDOWN"
-msgstr ""
+msgstr "Szavazási idő (másodperc)"
 
 # Forces a cool down between chat messages for all players when playing
 # online.
 msgid "NETMNU_CHATSLOMO"
-msgstr ""
+msgstr "Lassú char mód (másodperc)"
 
 msgid "OPTMNU_HAPTICS"
-msgstr ""
+msgstr "Érintéssel kapcsolatos beállítások"
 
 # How the engine should handle haptics in old mods
 msgid "HAPMNU_COMPAT"
-msgstr ""
+msgstr "Érintéses visszajelzés kompatibilitási szint"
 
 msgid "OPTVAL_MATCH"
 msgstr "Mérkőzés"
@@ -4990,23 +4991,23 @@ msgid "OPTVAL_WARN"
 msgstr "Figyelmeztet"
 
 msgid "HAPMNU_OPTIONS"
-msgstr ""
+msgstr "Érintéses visszajelzési források személyre szabálya"
 
 # Rumble when using ui elements
 msgid "HAPMNU_OPT_MENU"
-msgstr ""
+msgstr "A menük használatakor"
 
 # Rumble when doing things such as pressing buttons and firing weapon
 msgid "HAPMNU_OPT_ACTION"
-msgstr ""
+msgstr "Tevékenység során"
 
 # Rumble when dying and getting hurt
 msgid "HAPMNU_OPT_DAMAGE"
-msgstr ""
+msgstr "Sebződéskor"
 
 # Rumble from bumping into things, crossing lines, and quakes
 msgid "HAPMNU_OPT_WORLD"
-msgstr ""
+msgstr "A világgal való interakciókor"
 
 msgid "PAUSE_STRING"
 msgstr "Szünet"
@@ -5134,10 +5135,10 @@ msgid "GMPLYMNU_REMEMBERWEAP"
 msgstr "Emlékezz a kijelölt fegyverre újraéledésnél"
 
 msgid "CNTRLMNU_COOPSPYPREV"
-msgstr ""
+msgstr "Betekintés az előzőbe (kooperatív)"
 
 msgid "CNTRLMNU_COOPSPYCANCEL"
-msgstr ""
+msgstr "Betekintés az előzőbe törlése (kooperatív)"
 
 msgid "DSPLYMNU_BRIGHTNESS"
 msgstr "Fényerő"
@@ -5154,9 +5155,8 @@ msgstr "Telítettség"
 msgid "OPTMNU_ACCESSIBILITY"
 msgstr "Akadálymentességi beállítások"
 
-#, fuzzy
 msgid "CNTRLMNU_ADJUST_LIGHTS"
-msgstr "Világítás felerősítése"
+msgstr "Világítás szabályozása"
 
 msgid "OPENALMNU_SUPERSTEREOWIDTH"
 msgstr "Szuper sztereo szélesség"
@@ -5235,3 +5235,107 @@ msgstr "Felméretezés/Túlmintázás rossz kimenetet okozhat."
 
 msgid "DSPLYMNU_IMAGEADJUST_TOP3"
 msgstr "Kérjük kapcsolja ki őket módosítás előtt."
+
+msgid "JOYMNU_ANALOGRUN"
+msgstr "Analóg futás"
+
+msgid "ACCMNU_TOOLTIP_CAP"
+msgstr "Tippek szélességének korlátozása"
+
+msgid "ACCMNU_TOOLTIP_SPEED"
+msgstr "Tipp görgetési sebessége"
+
+msgid "ACCMNU_TOOLTIP_DELAY"
+msgstr "Tipp görgetési késleltetése"
+
+msgid "ACCMNU_TOOLTIP_ALPHA"
+msgstr "Tipp háttér átlátszósága (alpha)"
+
+msgid "ACCMNU_TOOLTIP_LINES"
+msgstr "Tipp vonalak"
+
+msgid "ACCMNU_TOOLTIP_SCALE"
+msgstr "Nagy tipp szöveg"
+
+msgid "ACCMNU_TOOLTIP_EXAMPLE"
+msgstr ""
+"Ez egy példa a tippre.\n"
+"Itt egy kiegészítő szöveg.\n"
+"...\n"
+"Itt van egy nagyon hosszú sor, ami úgy tűnik, hogy soha nem ér véget, "
+"miközben semmi érdemlegeset sem közöl, látszólag csak azért, mert a "
+"fejlesztők nem tudják röviden összefoglalni azt, hogy egy adott lehetőség "
+"mégis mit csinál."
+
+msgid "ACCMNU_TOOLTIP"
+msgstr "Tippek"
+
+msgid "ACCMNU_LIGHT_EXTRA"
+msgstr "Extra megvilágítás"
+
+msgid "ACCMNU_LIGHT_RADIUS"
+msgstr "Játékos körüli fény sugara"
+
+msgid "DSPLYMNU_TOOLTIP_IMAGEADJUST_RESET"
+msgstr ""
+"Az összes lehetőséget visszaállítja az alapértelmezett értékekere ebben a "
+"menüben."
+
+msgid "ACCMNU_TOOLTIP_LIGHT_RADIUS"
+msgstr ""
+"A játékos körüli fény sugarát határozza meg, map unitban. A magasabb érték "
+"világosabbá teszi a helyet."
+
+msgid "DSPLYMNU_ROCKETEXPSTYLE"
+msgstr "Robbanások megjelenítési módja"
+
+msgid "OPTVAL_ROCKETEXP_STYLE_ADD"
+msgstr "Összeadó"
+
+msgid "DSPLYMNU_POWERUPFADE"
+msgstr "Bónuszok árnyalási erőssége"
+
+msgid "DSPLYMNU_BLACKPOINT"
+msgstr "Feketepontos kiegyenlítés"
+
+msgid "DSPLYMNU_TOOLTIP_BRIGHTNESS"
+msgstr ""
+"Lineáris fényesség igazítása. Módosítsa kedve szerint vagy hogy jobban láss "
+"a sötétben."
+
+msgid "DSPLYMNU_IMAGEADJUST_BOTTOM"
+msgstr "Igazítson rajta amég teljesen szürke színűnek nem tűnik."
+
+msgid "HAPMNU_TITLE"
+msgstr "Érintéses visszajelzési lehetőségek"
+
+msgid "ACCMNU_TOOLTIP_LIGHT_EXTRA"
+msgstr ""
+"Az extra világítás mértéke, ami a szektorok alapértelmezett fényerejéhez "
+"hozzáadódik, közben megőrizve azt."
+
+msgid "DSPLYMNU_TOOLTIP_GAMMA"
+msgstr ""
+"A monitorja limitációit kompenzálja. Igazítsa, amég a szürke blokkok el nem "
+"tűnnek. Ne használja a játék világosabbá tételére, csakis arra, hogy "
+"megbizonyosodjon, hogy a kép megfelelően fog megjelenni."
+
+msgid "DSPLYMNU_TOOLTIP_BLACKPOINT"
+msgstr ""
+"Olyan monitorok számára kompenzációt nyújt, amelyek nem képesek a fekete "
+"pixeleket megjeleníteni. Igazítsa, amég az átlós fehér blokkok el nem "
+"tűnnik. Ne használja a játék világosabbá tételére, csakis arra, hogy "
+"megbizonyosodjon, hogy a kép megfelelően fog megjelenni."
+
+msgid "DSPLYMNU_TOOLTIP_CONTRAST"
+msgstr ""
+"A hasonló színek közötti érzékelhető különbséget igazítja. Módosítja, hogy "
+"milyen élesnek/elmosódottnak látszódik a kép. Módosítsa kedve szerint."
+
+msgid "DSPLYMNU_TOOLTIP_SATURATION"
+msgstr ""
+"A szynk erősségét igazítja, ezzel a képet élénkebbé vagy visszafogottabbá "
+"teszi. Módosítsa kedve szerint."
+
+msgid "OPTVAL_SBSLETTERBOX"
+msgstr "Egymás melletti, letterbox-olt"

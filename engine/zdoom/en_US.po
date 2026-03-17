@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-16 23:34+0000\n"
+"PO-Revision-Date: 2026-03-17 02:16+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/en/>\n"
@@ -25,7 +25,6 @@ msgstr "A secret is revealed!"
 msgid "D_DEVSTR"
 msgstr "Useless mode: ON"
 
-#, fuzzy
 msgid "QUITMSG"
 msgstr ""
 "Are you sure you want to\n"
@@ -97,7 +96,6 @@ msgstr ""
 "\n"
 "Press Y or N."
 
-#, fuzzy
 msgid "RAVENQUITMSG"
 msgstr "Are you sure you want to quit?"
 
@@ -110,48 +108,40 @@ msgstr "Only available in the registered version"
 msgid "DOSY"
 msgstr "(Press Y to quit)"
 
-#, fuzzy
 msgid "QUITMSG1"
 msgstr ""
 "Please don't leave, there's more\n"
 "demons to toast!"
 
-#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
 "Let's beat it—this is turning\n"
 "into a bloodbath!"
 
-#, fuzzy
 msgid "QUITMSG3"
 msgstr ""
 "I wouldn't leave if I were you.\n"
 "DOS is much worse."
 
-#, fuzzy
 msgid "QUITMSG4"
 msgstr ""
 "You're trying to say you like DOS\n"
 "better than me, right?"
 
-#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
 "Don't leave yet—there's a\n"
 "demon around that corner!"
 
-#, fuzzy
 msgid "QUITMSG6"
 msgstr ""
 "Ya know, next time you come in here\n"
 "I'm gonna toast ya."
 
-#, fuzzy
 msgid "QUITMSG7"
 msgstr "Go ahead and leave. see if I care."
 
 # More info here: https://everything2.com/title/Thou+hast+lost+an+eighth%2521
-#, fuzzy
 msgid "QUITMSG8"
 msgstr ""
 "You want to quit?\n"
@@ -159,80 +149,66 @@ msgstr ""
 
 # A “dimensional shambler” is a creature appearing in the works of H. P.
 # Lovecraft.
-#, fuzzy
 msgid "QUITMSG9"
 msgstr ""
 "Don't go now, there's a \n"
 "dimensional shambler waiting\n"
 "at the DOS prompt!"
 
-#, fuzzy
 msgid "QUITMSG10"
 msgstr ""
 "Get outta here and go back\n"
 "to your boring programs."
 
-#, fuzzy
 msgid "QUITMSG11"
 msgstr ""
 "If I were your boss, I'd \n"
 "deathmatch ya in a minute!"
 
-#, fuzzy
 msgid "QUITMSG12"
 msgstr ""
 "Look, bud. you leave now\n"
 "and you forfeit your body count!"
 
-#, fuzzy
 msgid "QUITMSG13"
 msgstr ""
-"Just leave. when you come\n"
+"Just leave. When you come\n"
 "back, I'll be waiting with a bat."
 
-#, fuzzy
 msgid "QUITMSG14"
 msgstr ""
 "You're lucky I don't smack\n"
 "you for thinking about leaving."
 
-#, fuzzy
 msgid "QUITMSG15"
 msgstr ""
 "Where are you going?!\n"
 "What about the rebellion?"
 
-#, fuzzy
 msgid "QUITMSG16"
 msgstr ""
 "Carnage interruptus…\n"
 "What a tease!"
 
-#, fuzzy
 msgid "QUITMSG17"
 msgstr ""
 "But you're the hope\n"
 "—my only chance!!"
 
-#, fuzzy
 msgid "QUITMSG18"
 msgstr "Nobody walks out on Blackbird."
 
-#, fuzzy
 msgid "QUITMSG19"
 msgstr "I thought you were different…"
 
-#, fuzzy
 msgid "QUITMSG20"
 msgstr "Fine! just kill and run!"
 
-#, fuzzy
 msgid "QUITMSG21"
 msgstr ""
 "You can quit…\n"
 "but you can't hide…"
 
-#, fuzzy
 msgid "QUITMSG22"
 msgstr ""
 "Whaaa, what's the matter?\n"

@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-16 23:34+0000\n"
+"PO-Revision-Date: 2026-03-17 02:16+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ro/>\n"
@@ -156,6 +156,7 @@ msgstr ""
 "Uite, amice, pleci acum și renunți la numărul de\n"
 "cadavre!"
 
+#, fuzzy
 msgid "QUITMSG13"
 msgstr ""
 "Doar pleacă. Când te întorci o să te aștept cu o\n"
