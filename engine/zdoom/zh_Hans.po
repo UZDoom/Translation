@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-16 21:16+0000\n"
-"Last-Translator: dwing <12104745@qq.com>\n"
+"PO-Revision-Date: 2026-03-17 02:16+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -154,6 +154,7 @@ msgstr ""
 "你看，伙计。你现在离开\n"
 "就等于放弃你的击杀数！"
 
+#, fuzzy
 msgid "QUITMSG13"
 msgstr ""
 "走吧。你回来的时候，\n"
