@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-16 23:34+0000\n"
+"PO-Revision-Date: 2026-03-17 02:16+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hr/>\n"
@@ -156,6 +156,7 @@ msgstr ""
 "Gle, lega. Ako sada odeš,\n"
 "predaješ i svoj broj smrti!"
 
+#, fuzzy
 msgid "QUITMSG13"
 msgstr ""
 "Samo otiđi. Kad se vratiš,\n"
