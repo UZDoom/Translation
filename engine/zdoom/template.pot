@@ -11,8 +11,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
 
-# In some languages, it may make more sense to translate “Press a key” as
-# “Press any key.”
 msgid "PRESSKEY"
 msgstr ""
 
@@ -22,49 +20,36 @@ msgstr ""
 msgid "D_DEVSTR"
 msgstr ""
 
-#, fuzzy
 msgid "QUITMSG"
 msgstr "\n"
 
-# In some languages, it may make more sense to translate “Press a key” as
-# “Press any key.”
 msgid "LOADNET"
 msgstr ""
 "\n"
 "\n"
 
-# In some languages, it may make more sense to translate “Press a key” as
-# “Press any key.”
 msgid "QLOADNET"
 msgstr ""
 "\n"
 "\n"
 
-# In some languages, it may make more sense to translate “Press a key” as
-# “Press any key.”
 msgid "QSAVESPOT"
 msgstr ""
 "\n"
 "\n"
 
-# In some languages, it may make more sense to translate “Press a key” as
-# “Press any key.”
 msgid "NEWGAME"
 msgstr ""
 "\n"
 "\n"
 "\n"
 
-# In some languages, it may make more sense to translate “Press a key” as
-# “Press any key.”
 msgid "NIGHTMARE"
 msgstr ""
 "\n"
 "\n"
 "\n"
 
-# In some languages, it may make more sense to translate “Press a key” as
-# “Press any key.”
 msgid "SWSTRING"
 msgstr ""
 "\n"
@@ -72,8 +57,6 @@ msgstr ""
 "\n"
 "\n"
 
-# In some languages, it may make more sense to translate “Press a key” as
-# “Press any key.”
 msgid "NETEND"
 msgstr ""
 "\n"
@@ -94,75 +77,56 @@ msgstr ""
 msgid "DOSY"
 msgstr ""
 
-#, fuzzy
 msgid "QUITMSG1"
 msgstr "\n"
 
-#, fuzzy
 msgid "QUITMSG2"
 msgstr "\n"
 
-#, fuzzy
 msgid "QUITMSG3"
 msgstr "\n"
 
-#, fuzzy
 msgid "QUITMSG4"
 msgstr "\n"
 
-#, fuzzy
 msgid "QUITMSG5"
 msgstr "\n"
 
-#, fuzzy
 msgid "QUITMSG6"
 msgstr "\n"
 
 msgid "QUITMSG7"
 msgstr ""
 
-# More info here: https://everything2.com/title/Thou+hast+lost+an+eighth%2521
-#, fuzzy
 msgid "QUITMSG8"
 msgstr "\n"
 
-# A “dimensional shambler” is a creature appearing in the works of H. P.
-# Lovecraft.
-#, fuzzy
 msgid "QUITMSG9"
 msgstr ""
 "\n"
 "\n"
 
-#, fuzzy
 msgid "QUITMSG10"
 msgstr "\n"
 
-#, fuzzy
 msgid "QUITMSG11"
 msgstr "\n"
 
-#, fuzzy
 msgid "QUITMSG12"
 msgstr "\n"
 
-#, fuzzy
 msgid "QUITMSG13"
 msgstr "\n"
 
-#, fuzzy
 msgid "QUITMSG14"
 msgstr "\n"
 
-#, fuzzy
 msgid "QUITMSG15"
 msgstr "\n"
 
-#, fuzzy
 msgid "QUITMSG16"
 msgstr "\n"
 
-#, fuzzy
 msgid "QUITMSG17"
 msgstr "\n"
 
@@ -175,39 +139,30 @@ msgstr ""
 msgid "QUITMSG20"
 msgstr ""
 
-#, fuzzy
 msgid "QUITMSG21"
 msgstr "\n"
 
-#, fuzzy
 msgid "QUITMSG22"
 msgstr "\n"
 
-#, fuzzy
 msgid "QUITMSG23"
 msgstr "\n"
 
-#, fuzzy
 msgid "QUITMSG24"
 msgstr "\n"
 
-#, fuzzy
 msgid "QUITMSG25"
 msgstr "\n"
 
-#, fuzzy
 msgid "QUITMSG26"
 msgstr "\n"
 
-#, fuzzy
 msgid "QUITMSG27"
 msgstr "\n"
 
-#, fuzzy
 msgid "QUITMSG28"
 msgstr "\n"
 
-#, fuzzy
 msgid "QUITMSG29"
 msgstr "\n"
 
@@ -292,20 +247,12 @@ msgstr ""
 msgid "STSTR_NC2OFF"
 msgstr ""
 
-# “inVuln”: Invulnerability sphere
-# “Str”: Berserk
-# “Inviso”: Blur sphere
-# “Rad”: Radiation-shielding suit
-# “Allmap”: Computer area map
-# “Lite-amp”: Light-amplification visor
 msgid "STSTR_BEHOLD"
 msgstr ""
 
 msgid "STSTR_BEHOLDX"
 msgstr ""
 
-# Printed when entering the idchoppers cheat, which gives the player a
-# chainsaw
 msgid "STSTR_CHOPPERS"
 msgstr ""
 
@@ -808,11 +755,9 @@ msgstr ""
 msgid "CC_ZOMBIE"
 msgstr ""
 
-# a.k.a. (former human) sergeant
 msgid "CC_SHOTGUN"
 msgstr ""
 
-# a.k.a. former commando
 msgid "CC_HEAVY"
 msgstr ""
 
@@ -1185,11 +1130,9 @@ msgstr ""
 msgid "FN_CHICKEN"
 msgstr ""
 
-# Wordplay: werewolf
 msgid "FN_BEAST"
 msgstr ""
 
-# Wordplay: sabre-tooth
 msgid "FN_CLINK"
 msgstr ""
 
@@ -2111,11 +2054,9 @@ msgstr ""
 msgid "TAG_PUNCHDAGGER"
 msgstr ""
 
-# Crossbow with electric bolts
 msgid "TAG_STRIFECROSSBOW1"
 msgstr ""
 
-# Crossbow with poison bolts
 msgid "TAG_STRIFECROSSBOW2"
 msgstr ""
 
@@ -2134,11 +2075,9 @@ msgstr ""
 msgid "TAG_MAULER2"
 msgstr ""
 
-# High-explosive grenade launcher
 msgid "TAG_GLAUNCHER1"
 msgstr ""
 
-# White phosphorous grenade launcher 
 msgid "TAG_GLAUNCHER2"
 msgstr ""
 
@@ -2262,7 +2201,6 @@ msgstr ""
 msgid "TAG_AMMOSATCHEL"
 msgstr ""
 
-# In-game key list. Use short strings.
 msgid "TAG_BASEKEY"
 msgstr ""
 
@@ -2344,7 +2282,6 @@ msgstr ""
 msgid "TAG_NEWKEY5"
 msgstr ""
 
-# End of key list.
 msgid "TAG_ORACLEPASS"
 msgstr ""
 
@@ -2555,7 +2492,6 @@ msgstr ""
 msgid "TXT_FINDHELP"
 msgstr ""
 
-# As in for %u amount of money.
 msgid "TXT_TRADE"
 msgstr ""
 
@@ -2737,7 +2673,6 @@ msgstr ""
 msgid "CHUSTR_E1M5"
 msgstr ""
 
-#, fuzzy
 msgid "CE1TEXT"
 msgstr ""
 "\n"
@@ -2759,13 +2694,11 @@ msgstr ""
 msgid "CE4TEXT"
 msgstr ""
 
-#, fuzzy
 msgid "CLOADNET"
 msgstr ""
 "\n"
 "\n"
 
-#, fuzzy
 msgctxt "chex"
 msgid "QSPROMPT"
 msgstr ""
@@ -2774,14 +2707,12 @@ msgstr ""
 "\n"
 "\n"
 
-#, fuzzy
 msgctxt "chex"
 msgid "QLOADNET"
 msgstr ""
 "\n"
 "\n"
 
-#, fuzzy
 msgctxt "chex"
 msgid "QLPROMPT"
 msgstr ""
@@ -2790,21 +2721,18 @@ msgstr ""
 "\n"
 "\n"
 
-#, fuzzy
 msgid "CNEWGAME"
 msgstr ""
 "\n"
 "\n"
 "\n"
 
-#, fuzzy
 msgid "CNIGHTMARE"
 msgstr ""
 "\n"
 "\n"
 "\n"
 
-#, fuzzy
 msgid "CSWSTRING"
 msgstr ""
 "\n"
@@ -2812,14 +2740,12 @@ msgstr ""
 "\n"
 "\n"
 
-#, fuzzy
 msgctxt "chex"
 msgid "NETEND"
 msgstr ""
 "\n"
 "\n"
 
-#, fuzzy
 msgctxt "chex"
 msgid "ENDGAME"
 msgstr ""
@@ -2877,7 +2803,6 @@ msgstr ""
 msgid "MNU_QUITGAME"
 msgstr ""
 
-# This text is extremely space limited!
 msgid "MNU_CHOOSESKILL"
 msgstr ""
 
@@ -3992,13 +3917,9 @@ msgstr ""
 msgid "OPTVAL_CROSSFADE"
 msgstr ""
 
-# This setting is duplicated in order to allow for different grammatical
-# gender endings
 msgid "OPTVAL_SMOOTH_1"
 msgstr ""
 
-# This setting is duplicated in order to allow for different grammatical
-# gender endings
 msgid "OPTVAL_SMOOTH_2"
 msgstr ""
 
@@ -4410,7 +4331,6 @@ msgstr ""
 msgid "OPTVAL_DARK"
 msgstr ""
 
-# This refers to the Doom Legacy port, not a legacy lighting style!
 msgid "OPTVAL_LEGACY"
 msgstr ""
 
@@ -4510,7 +4430,6 @@ msgstr ""
 msgid "TXT_NO_TEAM_CHANGE"
 msgstr ""
 
-# %s is the player and gender sensitive
 msgid "TXT_JOINED_TEAM"
 msgstr ""
 
@@ -4571,7 +4490,6 @@ msgstr ""
 msgid "TXT_SCREENSHOTERR"
 msgstr ""
 
-# As in paused by player %s.
 msgid "TXT_BY"
 msgstr ""
 
@@ -4611,7 +4529,6 @@ msgstr ""
 msgid "DSPLYMNU_BOBFIRE"
 msgstr ""
 
-# HUD->Scaling Options
 msgid "SCALEMNU_SCALECLASSIC"
 msgstr ""
 
@@ -4627,11 +4544,9 @@ msgstr ""
 msgid "SCALEMNU_RATIO"
 msgstr ""
 
-# sv_alwaystally
 msgid "MISCMNU_ALWAYSTALLY"
 msgstr ""
 
-# this is '==0'
 msgid "OPTVAL_MODDEFINED"
 msgstr ""
 
@@ -4662,14 +4577,12 @@ msgstr ""
 msgid "MISCMNU_CLEANSTAT"
 msgstr ""
 
-# Called "citizens" according to Doomwiki
 msgid "TAG_STRIFEZOMBIE"
 msgstr ""
 
 msgid "TAG_CEILINGTURRET"
 msgstr ""
 
-# Names need to match the obituaries!
 msgid "TAG_CRUSADER"
 msgstr ""
 
@@ -4709,11 +4622,9 @@ msgstr ""
 msgid "DSPLYMNU_SPRITESHADOW"
 msgstr ""
 
-# Will enable sprite shadows for monster and player sprites
 msgid "OPTVAL_SPRSHADALWAYS"
 msgstr ""
 
-# the FOV slider
 msgid "DSPLYMNU_FOV"
 msgstr ""
 
@@ -4747,36 +4658,27 @@ msgstr ""
 msgid "ALTHUDMNU_SWAPHEALTHARMOR"
 msgstr ""
 
-# hud_oldscale
 msgid "SCALEMNU_HUD_OLDSCALE"
 msgstr ""
 
-# hud_scalefactor
 msgid "SCALEMNU_HUD_SCALEFACTOR"
 msgstr ""
 
-# Any Actor that only appears in co-op is disabled
 msgid "GMPLYMNU_COOPTHINGS"
 msgstr ""
 
-# Items that only appear in co-op are disabled
 msgid "GMPLYMNU_COOPITEMS"
 msgstr ""
 
-# Items are picked up client-side rather than fully taken by the client who
-# picked it up
 msgid "GMPLYMNU_LOCALITEMS"
 msgstr ""
 
-# Drops from Actors aren't picked up locally
 msgid "GMPLYMNU_NOLOCALDROP"
 msgstr ""
 
-# Disables autoloading save on death
 msgid "MISCMNU_RESTARTONDEATH"
 msgstr ""
 
-# Resets inventory on every map
 msgid "GMPLYMNU_PISTOLSTART"
 msgstr ""
 
@@ -4786,9 +4688,6 @@ msgstr ""
 msgid "CMPTMNU_FDTELEPORT"
 msgstr ""
 
-# Hardware Sprite Clipping mode that gives the illusion of a sprite being in a
-# different position than it really is, allowing it to be rendered under the
-# floor despite clipping
 msgid "OPTVAL_ANAMORPHIC"
 msgstr ""
 
@@ -4798,7 +4697,6 @@ msgstr ""
 msgid "ID24_GOTINCINERATOR"
 msgstr ""
 
-# Also known as Heatwave Generator.
 msgid "ID24_GOTCALAMITYBLADE"
 msgstr ""
 
@@ -4826,7 +4724,6 @@ msgstr ""
 msgid "ID24_CC_BANSHEE"
 msgstr ""
 
-# Also known as Plasmaguy.
 msgid "ID24_CC_SHOCKTROOPER"
 msgstr ""
 
@@ -4860,8 +4757,6 @@ msgstr ""
 msgid "AUTOMAPMNU_SHOWLEVELNAME"
 msgstr ""
 
-# As seen in Options - Customize Controls - Inventory for Heretic, Hexen and
-# Strife
 msgid "CNTRLMNU_INVENTORY_HOTKEYS"
 msgstr ""
 
@@ -4880,7 +4775,6 @@ msgstr ""
 msgid "OPTVAL_QUADRATIC"
 msgstr ""
 
-# The type of chat messages the player wants to be visible to them.
 msgid "NETMNU_CHATTYPE"
 msgstr ""
 
@@ -4893,22 +4787,18 @@ msgstr ""
 msgid "OPTVAL_GLOBALCHAT"
 msgstr ""
 
-# Disables /me functionality in chat when displaying.
 msgid "NETMNU_NOBOLDCHAT"
 msgstr ""
 
-# Turns off the sound that plays when someone receives a message.
 msgid "NETMNU_NOCHATSND"
 msgstr ""
 
-# Tries to make online games less stuttery.
 msgid "NETMNU_BALANCETICS"
 msgstr ""
 
 msgid "NETMNU_LIMITCONVO"
 msgstr ""
 
-# Helps stop things like e.g. door open/close spam when playing online.
 msgid "NETMNU_REPEATCOOLDOWN"
 msgstr ""
 
@@ -4918,7 +4808,6 @@ msgstr ""
 msgid "OPTVAL_HOSTONLY"
 msgstr ""
 
-# Type of vote system to use to bypass intermissions when playing online.
 msgid "NETMNU_READYTYPE"
 msgstr ""
 
@@ -4928,23 +4817,18 @@ msgstr ""
 msgid "OPTVAL_ANYONE"
 msgstr ""
 
-# If this percent of players or more are ready, starts a countdown when in
-# Vote intermission skip mode.
 msgid "NETMNU_READYPERCENT"
 msgstr ""
 
 msgid "NETMNU_READYCOUNTDOWN"
 msgstr ""
 
-# Forces a cool down between chat messages for all players when playing
-# online.
 msgid "NETMNU_CHATSLOMO"
 msgstr ""
 
 msgid "OPTMNU_HAPTICS"
 msgstr ""
 
-# How the engine should handle haptics in old mods
 msgid "HAPMNU_COMPAT"
 msgstr ""
 
@@ -4957,19 +4841,15 @@ msgstr ""
 msgid "HAPMNU_OPTIONS"
 msgstr ""
 
-# Rumble when using ui elements
 msgid "HAPMNU_OPT_MENU"
 msgstr ""
 
-# Rumble when doing things such as pressing buttons and firing weapon
 msgid "HAPMNU_OPT_ACTION"
 msgstr ""
 
-# Rumble when dying and getting hurt
 msgid "HAPMNU_OPT_DAMAGE"
 msgstr ""
 
-# Rumble from bumping into things, crossing lines, and quakes
 msgid "HAPMNU_OPT_WORLD"
 msgstr ""
 
@@ -5078,14 +4958,9 @@ msgstr ""
 msgid "TAG_CREDKEY"
 msgstr ""
 
-# Option to make the view weapon sprites be lit exactly as the sector's
-# brightness. Without this option, weapon sprites are generally brighter
-# compared to the sector's brightness
 msgid "GLPREFMNU_WPNPURELIGHT"
 msgstr ""
 
-# Mark the player as ready to advance during the intermission in multiplayer
-# games
 msgid "NET_CONTINUE_MKB"
 msgstr ""
 
@@ -5277,4 +5152,13 @@ msgid "OPENALMNU_MUSICMODE"
 msgstr ""
 
 msgid "OPENALMNU_SUPERSTEREOWIDTH"
+msgstr ""
+
+msgid "CNTRLMNU_ADJUST_LIGHTS"
+msgstr ""
+
+msgid "LANG_NATIVE"
+msgstr ""
+
+msgid "LANG_ENG"
 msgstr ""

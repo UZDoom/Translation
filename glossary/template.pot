@@ -160,3 +160,21 @@ msgstr ""
 
 msgid "WOPL"
 msgstr ""
+
+msgid "LLE"
+msgstr ""
+
+msgid "DMX"
+msgstr ""
+
+msgid "MMX"
+msgstr ""
+
+msgid "Discord"
+msgstr ""
+
+msgid "MBF"
+msgstr ""
+
+msgid "MBF21"
+msgstr ""
