@@ -14,8 +14,6 @@ msgstr ""
 "X-Generator: Weblate 5.17-dev\n"
 "X-HeaderCode: default\n"
 
-# In some languages, it may make more sense to translate “Press a key” as
-# “Press any key.”
 msgid "PRESSKEY"
 msgstr "Press a key."
 
@@ -30,32 +28,24 @@ msgstr ""
 "Are you sure you want to\n"
 "quit this great game?"
 
-# In some languages, it may make more sense to translate “Press a key” as
-# “Press any key.”
 msgid "LOADNET"
 msgstr ""
 "You can't do load while in a net game!\n"
 "\n"
 "Press a key."
 
-# In some languages, it may make more sense to translate “Press a key” as
-# “Press any key.”
 msgid "QLOADNET"
 msgstr ""
 "You can't quickload during a netgame!\n"
 "\n"
 "Press a key."
 
-# In some languages, it may make more sense to translate “Press a key” as
-# “Press any key.”
 msgid "QSAVESPOT"
 msgstr ""
 "You haven't picked a quicksave slot yet!\n"
 "\n"
 "Press a key."
 
-# In some languages, it may make more sense to translate “Press a key” as
-# “Press any key.”
 msgid "NEWGAME"
 msgstr ""
 "You can't start a new game\n"
@@ -63,8 +53,6 @@ msgstr ""
 "\n"
 "Press a key."
 
-# In some languages, it may make more sense to translate “Press a key” as
-# “Press any key.”
 msgid "NIGHTMARE"
 msgstr ""
 "Are you sure? This skill level\n"
@@ -72,8 +60,6 @@ msgstr ""
 "\n"
 "Press Y or N."
 
-# In some languages, it may make more sense to translate “Press a key” as
-# “Press any key.”
 msgid "SWSTRING"
 msgstr ""
 "This is the shareware version of Doom.\n"
@@ -82,8 +68,6 @@ msgstr ""
 "\n"
 "Press a key."
 
-# In some languages, it may make more sense to translate “Press a key” as
-# “Press any key.”
 msgid "NETEND"
 msgstr ""
 "You can't end a netgame!\n"
@@ -141,14 +125,11 @@ msgstr ""
 msgid "QUITMSG7"
 msgstr "Go ahead and leave. see if I care."
 
-# More info here: https://everything2.com/title/Thou+hast+lost+an+eighth%2521
 msgid "QUITMSG8"
 msgstr ""
 "You want to quit?\n"
 "Then, thou hast lost an eighth!"
 
-# A “dimensional shambler” is a creature appearing in the works of H. P.
-# Lovecraft.
 msgid "QUITMSG9"
 msgstr ""
 "Don't go now, there's a \n"
@@ -349,12 +330,6 @@ msgstr "3D No Clipping Mode: ON"
 msgid "STSTR_NC2OFF"
 msgstr "3D No Clipping Mode: OFF"
 
-# “inVuln”: Invulnerability sphere
-# “Str”: Berserk
-# “Inviso”: Blur sphere
-# “Rad”: Radiation-shielding suit
-# “Allmap”: Computer area map
-# “Lite-amp”: Light-amplification visor
 #, fuzzy
 msgid "STSTR_BEHOLD"
 msgstr "inVuln, Str, Inviso, Rad, Allmap, or Lite-amp"
@@ -363,8 +338,6 @@ msgstr "inVuln, Str, Inviso, Rad, Allmap, or Lite-amp"
 msgid "STSTR_BEHOLDX"
 msgstr "Power-up Toggled"
 
-# Printed when entering the idchoppers cheat, which gives the player a
-# chainsaw
 #, fuzzy
 msgid "STSTR_CHOPPERS"
 msgstr "… doesn't suck - GM"
@@ -1003,12 +976,10 @@ msgstr "You need a yellow skull to open this door"
 msgid "CC_ZOMBIE"
 msgstr "Zombieman"
 
-# a.k.a. (former human) sergeant
 #, fuzzy
 msgid "CC_SHOTGUN"
 msgstr "Shotgun Guy"
 
-# a.k.a. former commando
 #, fuzzy
 msgid "CC_HEAVY"
 msgstr "Heavy Weapon Dude"
@@ -1505,12 +1476,10 @@ msgstr "You need a yellow key to open this door"
 msgid "FN_CHICKEN"
 msgstr "Chicken"
 
-# Wordplay: werewolf
 #, fuzzy
 msgid "FN_BEAST"
 msgstr "Weredragon"
 
-# Wordplay: sabre-tooth
 #, fuzzy
 msgid "FN_CLINK"
 msgstr "Sabreclaw"
@@ -2737,12 +2706,10 @@ msgstr "You need the Oracle Pass!"
 msgid "TAG_PUNCHDAGGER"
 msgstr "Dagger"
 
-# Crossbow with electric bolts
 #, fuzzy
 msgid "TAG_STRIFECROSSBOW1"
 msgstr "Crossbow"
 
-# Crossbow with poison bolts
 #, fuzzy
 msgid "TAG_STRIFECROSSBOW2"
 msgstr "Crossbow"
@@ -2767,12 +2734,10 @@ msgstr "Mauler"
 msgid "TAG_MAULER2"
 msgstr "Mauler"
 
-# High-explosive grenade launcher
 #, fuzzy
 msgid "TAG_GLAUNCHER1"
 msgstr "Grenade Launcher"
 
-# White phosphorous grenade launcher 
 #, fuzzy
 msgid "TAG_GLAUNCHER2"
 msgstr "Grenade Launcher"
@@ -2937,7 +2902,6 @@ msgstr "Electric Bolts"
 msgid "TAG_AMMOSATCHEL"
 msgstr "Ammo Satchel"
 
-# In-game key list. Use short strings.
 #, fuzzy
 msgid "TAG_BASEKEY"
 msgstr "Base Key"
@@ -3046,7 +3010,6 @@ msgstr "Mine Key"
 msgid "TAG_NEWKEY5"
 msgstr "New Key5"
 
-# End of key list.
 #, fuzzy
 msgid "TAG_ORACLEPASS"
 msgstr "Oracle Pass"
@@ -3327,7 +3290,6 @@ msgstr "Incoming Message from BlackBird…"
 msgid "TXT_FINDHELP"
 msgstr "Find help"
 
-# As in for %u amount of money.
 #, fuzzy
 msgid "TXT_TRADE"
 msgstr "for %u"
@@ -3653,7 +3615,6 @@ msgstr "Info"
 msgid "MNU_QUITGAME"
 msgstr "Quit Game"
 
-# This text is extremely space limited!
 #, fuzzy
 msgid "MNU_CHOOSESKILL"
 msgstr "Choose Skill Level:"
@@ -5124,14 +5085,10 @@ msgstr "Burn"
 msgid "OPTVAL_CROSSFADE"
 msgstr "Crossfade"
 
-# This setting is duplicated in order to allow for different grammatical
-# gender endings
 #, fuzzy
 msgid "OPTVAL_SMOOTH_1"
 msgstr "Smooth"
 
-# This setting is duplicated in order to allow for different grammatical
-# gender endings
 #, fuzzy
 msgid "OPTVAL_SMOOTH_2"
 msgstr "Smooth"
@@ -5664,7 +5621,6 @@ msgstr "Bright"
 msgid "OPTVAL_DARK"
 msgstr "Dark"
 
-# This refers to the Doom Legacy port, not a legacy lighting style!
 msgid "OPTVAL_LEGACY"
 msgstr "Doom Legacy"
 
@@ -5796,7 +5752,6 @@ msgstr "Always show keys"
 msgid "TXT_NO_TEAM_CHANGE"
 msgstr "Team changing has been disabled!"
 
-# %s is the player and gender sensitive
 #, fuzzy
 msgid "TXT_JOINED_TEAM"
 msgstr "%s joined the %t team"
@@ -5880,7 +5835,6 @@ msgstr "Save failed"
 msgid "TXT_SCREENSHOTERR"
 msgstr "Could not create screenshot."
 
-# As in paused by player %s.
 #, fuzzy
 msgid "TXT_BY"
 msgstr "By %s"
@@ -5933,7 +5887,6 @@ msgstr "Custom Inverse Color Light"
 msgid "DSPLYMNU_BOBFIRE"
 msgstr "Weapon bob amount when firing"
 
-# HUD->Scaling Options
 #, fuzzy
 msgid "SCALEMNU_SCALECLASSIC"
 msgstr "Intermission and Screen Border Classic Scaling"
@@ -5954,12 +5907,10 @@ msgstr "Scaling factor"
 msgid "SCALEMNU_RATIO"
 msgstr "Aspect ratio"
 
-# sv_alwaystally
 #, fuzzy
 msgid "MISCMNU_ALWAYSTALLY"
 msgstr "Show Tally Screen On Level Exit"
 
-# this is '==0'
 #, fuzzy
 msgid "OPTVAL_MODDEFINED"
 msgstr "Mod Defined"
@@ -5998,7 +5949,6 @@ msgstr "Use percents on summary screen"
 msgid "MISCMNU_CLEANSTAT"
 msgstr "Classic ZDoom scaling for summary screen"
 
-# Called "citizens" according to Doomwiki
 #, fuzzy
 msgid "TAG_STRIFEZOMBIE"
 msgstr "Citizen"
@@ -6007,7 +5957,6 @@ msgstr "Citizen"
 msgid "TAG_CEILINGTURRET"
 msgstr "Ceiling Turret"
 
-# Names need to match the obituaries!
 #, fuzzy
 msgid "TAG_CRUSADER"
 msgstr "Crusader"
@@ -6060,12 +6009,10 @@ msgstr "Spawn multiplayer things in coop"
 msgid "DSPLYMNU_SPRITESHADOW"
 msgstr "Sprite shadows"
 
-# Will enable sprite shadows for monster and player sprites
 #, fuzzy
 msgid "OPTVAL_SPRSHADALWAYS"
 msgstr "Monsters and players"
 
-# the FOV slider
 #, fuzzy
 msgid "DSPLYMNU_FOV"
 msgstr "FOV"
@@ -6109,42 +6056,33 @@ msgstr "Disallow override of camera facing mode"
 msgid "ALTHUDMNU_SWAPHEALTHARMOR"
 msgstr "Swap health and armor"
 
-# hud_oldscale
 #, fuzzy
 msgid "SCALEMNU_HUD_OLDSCALE"
 msgstr "Use classic HUD scaling"
 
-# hud_scalefactor
 #, fuzzy
 msgid "SCALEMNU_HUD_SCALEFACTOR"
 msgstr "HUD scale factor"
 
-# Any Actor that only appears in co-op is disabled
 #, fuzzy
 msgid "GMPLYMNU_COOPTHINGS"
 msgstr "Spawn co-op only things in multiplayer"
 
-# Items that only appear in co-op are disabled
 #, fuzzy
 msgid "GMPLYMNU_COOPITEMS"
 msgstr "Spawn co-op only pickup items in multiplayer"
 
-# Items are picked up client-side rather than fully taken by the client who
-# picked it up
 #, fuzzy
 msgid "GMPLYMNU_LOCALITEMS"
 msgstr "Players pick up their own copy of items in multiplayer"
 
-# Drops from Actors aren't picked up locally
 #, fuzzy
 msgid "GMPLYMNU_NOLOCALDROP"
 msgstr "Disable client-side pick ups on dropped items"
 
-# Disables autoloading save on death
 msgid "MISCMNU_RESTARTONDEATH"
 msgstr "Pistol start on death"
 
-# Resets inventory on every map
 msgid "GMPLYMNU_PISTOLSTART"
 msgstr "Pistol start every map"
 
@@ -6156,9 +6094,6 @@ msgstr "Allow creation of zombie players"
 msgid "CMPTMNU_FDTELEPORT"
 msgstr "Ignore floor Z when teleporting"
 
-# Hardware Sprite Clipping mode that gives the illusion of a sprite being in a
-# different position than it really is, allowing it to be rendered under the
-# floor despite clipping
 #, fuzzy
 msgid "OPTVAL_ANAMORPHIC"
 msgstr "Forced-Perspective"
@@ -6171,7 +6106,6 @@ msgstr "Footstep Volume"
 msgid "ID24_GOTINCINERATOR"
 msgstr "You got the incinerator!"
 
-# Also known as Heatwave Generator.
 #, fuzzy
 msgid "ID24_GOTCALAMITYBLADE"
 msgstr "You got the calamity blade!  Hot damn!"
@@ -6208,7 +6142,6 @@ msgstr "Ghoul"
 msgid "ID24_CC_BANSHEE"
 msgstr "Banshee"
 
-# Also known as Plasmaguy.
 #, fuzzy
 msgid "ID24_CC_SHOCKTROOPER"
 msgstr "Shocktrooper"
@@ -6253,8 +6186,6 @@ msgstr "%o was blown apart by a tyrant."
 msgid "AUTOMAPMNU_SHOWLEVELNAME"
 msgstr "Show level name"
 
-# As seen in Options - Customize Controls - Inventory for Heretic, Hexen and
-# Strife
 #, fuzzy
 msgid "CNTRLMNU_INVENTORY_HOTKEYS"
 msgstr "Inventory Hotkeys"
@@ -6278,7 +6209,6 @@ msgstr "Linear"
 msgid "OPTVAL_QUADRATIC"
 msgstr "Quadratic"
 
-# The type of chat messages the player wants to be visible to them.
 #, fuzzy
 msgid "NETMNU_CHATTYPE"
 msgstr "Chat Type"
@@ -6294,17 +6224,14 @@ msgstr "Teammates Only"
 msgid "OPTVAL_GLOBALCHAT"
 msgstr "Global"
 
-# Disables /me functionality in chat when displaying.
 #, fuzzy
 msgid "NETMNU_NOBOLDCHAT"
 msgstr "Disable Bold Text In Chat"
 
-# Turns off the sound that plays when someone receives a message.
 #, fuzzy
 msgid "NETMNU_NOCHATSND"
 msgstr "Disable Chat Sound"
 
-# Tries to make online games less stuttery.
 #, fuzzy
 msgid "NETMNU_BALANCETICS"
 msgstr "Stabilize Connections"
@@ -6313,7 +6240,6 @@ msgstr "Stabilize Connections"
 msgid "NETMNU_LIMITCONVO"
 msgstr "Limit Conversations to Host"
 
-# Helps stop things like e.g. door open/close spam when playing online.
 #, fuzzy
 msgid "NETMNU_REPEATCOOLDOWN"
 msgstr "Cool Down on Repeatable Actions"
@@ -6326,7 +6252,6 @@ msgstr "Disable Pausing"
 msgid "OPTVAL_HOSTONLY"
 msgstr "Host Only"
 
-# Type of vote system to use to bypass intermissions when playing online.
 #, fuzzy
 msgid "NETMNU_READYTYPE"
 msgstr "Intermission Skipping Type"
@@ -6339,8 +6264,6 @@ msgstr "Vote"
 msgid "OPTVAL_ANYONE"
 msgstr "Anyone"
 
-# If this percent of players or more are ready, starts a countdown when in
-# Vote intermission skip mode.
 #, fuzzy
 msgid "NETMNU_READYPERCENT"
 msgstr "Vote Skip Percent"
@@ -6349,8 +6272,6 @@ msgstr "Vote Skip Percent"
 msgid "NETMNU_READYCOUNTDOWN"
 msgstr "Vote Countdown Time (Seconds)"
 
-# Forces a cool down between chat messages for all players when playing
-# online.
 #, fuzzy
 msgid "NETMNU_CHATSLOMO"
 msgstr "Chat Slow Mode (Seconds)"
@@ -6359,7 +6280,6 @@ msgstr "Chat Slow Mode (Seconds)"
 msgid "OPTMNU_HAPTICS"
 msgstr "Haptics options"
 
-# How the engine should handle haptics in old mods
 #, fuzzy
 msgid "HAPMNU_COMPAT"
 msgstr "Haptic feedback compatibility level"
@@ -6376,22 +6296,18 @@ msgstr "Warn"
 msgid "HAPMNU_OPTIONS"
 msgstr "Customize haptic feedback sources"
 
-# Rumble when using ui elements
 #, fuzzy
 msgid "HAPMNU_OPT_MENU"
 msgstr "From using menus"
 
-# Rumble when doing things such as pressing buttons and firing weapon
 #, fuzzy
 msgid "HAPMNU_OPT_ACTION"
 msgstr "From taking action"
 
-# Rumble when dying and getting hurt
 #, fuzzy
 msgid "HAPMNU_OPT_DAMAGE"
 msgstr "By receiving damage"
 
-# Rumble from bumping into things, crossing lines, and quakes
 #, fuzzy
 msgid "HAPMNU_OPT_WORLD"
 msgstr "From interacting with the world"
@@ -6535,15 +6451,10 @@ msgstr "Yellow Key"
 msgid "TAG_CREDKEY"
 msgstr "Red Key"
 
-# Option to make the view weapon sprites be lit exactly as the sector's
-# brightness. Without this option, weapon sprites are generally brighter
-# compared to the sector's brightness
 #, fuzzy
 msgid "GLPREFMNU_WPNPURELIGHT"
 msgstr "Use sector brightness on weapon sprites"
 
-# Mark the player as ready to advance during the intermission in multiplayer
-# games
 #, fuzzy
 msgid "NET_CONTINUE_MKB"
 msgstr "Press Space or LMB to ready up"
@@ -6819,3 +6730,9 @@ msgstr "Super Stereo Width"
 
 msgid "CNTRLMNU_ADJUST_LIGHTS"
 msgstr "Lighting Adjustment"
+
+msgid "LANG_NATIVE"
+msgstr "English (US)"
+
+msgid "LANG_ENG"
+msgstr "English (US)"
