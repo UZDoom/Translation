@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-17 02:16+0000\n"
+"PO-Revision-Date: 2026-03-17 23:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/uzdoom/common/"
 "en/>\n"
@@ -58,16 +58,13 @@ msgstr "Messages: OFF"
 msgid "MSGON"
 msgstr "Messages: ON"
 
-#, fuzzy
 msgid "TXT_SAY"
 msgstr "Say:"
 
-#, fuzzy
 msgid "TXT_QUITENDOOM"
 msgstr "Press any key or click anywhere in the window to quit."
 
 # Savegame
-#, fuzzy
 msgid "NEWSAVE"
 msgstr "<New Save Game>"
 
