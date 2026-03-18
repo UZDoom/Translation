@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-17 02:16+0000\n"
+"PO-Revision-Date: 2026-03-18 03:02+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/it/>\n"
@@ -5165,3 +5165,15 @@ msgstr "Saturazione"
 
 msgid "OPTMNU_ACCESSIBILITY"
 msgstr "Opzioni Accessibilità"
+
+#, fuzzy
+msgid "OPTVAL_SMOOTH"
+msgstr "Liscio"
+
+#, fuzzy
+msgid "TAG_MAULER"
+msgstr "Pestatore"
+
+#, fuzzy
+msgid "TAG_GLAUNCHER"
+msgstr "Lanciagranate"
