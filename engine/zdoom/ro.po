@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-17 02:16+0000\n"
+"PO-Revision-Date: 2026-03-18 03:02+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ro/>\n"
@@ -5157,3 +5157,15 @@ msgstr "Gamma"
 
 msgid "DSPLYMNU_SATURATION"
 msgstr "Saturație"
+
+#, fuzzy
+msgid "OPTVAL_SMOOTH"
+msgstr "Fin"
+
+#, fuzzy
+msgid "TAG_MAULER"
+msgstr "Sfâșietor"
+
+#, fuzzy
+msgid "TAG_GLAUNCHER"
+msgstr "Lansator de Grenade"
