@@ -6736,3 +6736,19 @@ msgstr "English (US)"
 
 msgid "LANG_ENG"
 msgstr "English (US)"
+
+#, fuzzy
+msgid "OPTVAL_SMOOTH"
+msgstr "Smooth"
+
+#, fuzzy
+msgid "TAG_MACIL"
+msgstr "Macil"
+
+#, fuzzy
+msgid "TAG_MAULER"
+msgstr "Mauler"
+
+#, fuzzy
+msgid "TAG_GLAUNCHER"
+msgstr "Grenade Launcher"

@@ -48,7 +48,6 @@ msgstr ""
 "\n"
 "Press Y or N."
 
-# This is a gender sensitive message where %s represents the player
 msgid "TXT_X_CHEATS"
 msgstr "%s cheats"
 
@@ -64,45 +63,36 @@ msgstr "Say:"
 msgid "TXT_QUITENDOOM"
 msgstr "Press any key or click anywhere in the window to quit."
 
-# Savegame
 msgid "NEWSAVE"
 msgstr "<New Save Game>"
 
-# Savegame
 #, fuzzy
 msgid "GGSAVED"
 msgstr "Game saved."
 
-# Savegame
 msgid "SAVECOMMENT_TIME"
 msgstr "Time"
 
-# Savegame
 #, fuzzy
 msgid "MNU_LOADGAME"
 msgstr "Load Game"
 
-# Savegame
 #, fuzzy
 msgid "MNU_SAVEGAME"
 msgstr "Save Game"
 
-# Savegame
 #, fuzzy
 msgid "MNU_NOPICTURE"
 msgstr "No Picture"
 
-# Savegame
 #, fuzzy
 msgid "MNU_DIFFVERSION"
 msgstr "Different Version"
 
-# Savegame
 #, fuzzy
 msgid "MNU_NOFILES"
 msgstr "No files"
 
-# Savegame
 #, fuzzy
 msgid "MNU_DELETESG"
 msgstr "Do you really want to delete the savegame?"
@@ -259,7 +249,6 @@ msgstr "Crouch Toggle"
 msgid "CNTRLMNU_MOUSELOOK"
 msgstr "Mouse look"
 
-# Look doesn't change the aim! It only alters the view pitch
 #, fuzzy
 msgid "CNTRLMNU_LOOKUP"
 msgstr "Look up"
@@ -625,7 +614,6 @@ msgstr "Configure controllers:"
 msgid "JOYMNU_DISABLED1"
 msgstr "Controller support must be"
 
-# Supposed to be empty in Russian and Serbian.
 #, fuzzy
 msgid "JOYMNU_DISABLED2"
 msgstr "enabled to detect any"
@@ -1044,7 +1032,6 @@ msgstr "OPL Emulator Core"
 msgid "ADVSNDMNU_MIDIVOICES"
 msgstr "MIDI voices"
 
-# Jargon.
 msgid "ADVSNDMNU_FLUIDSYNTH"
 msgstr "FluidSynth"
 
@@ -1074,20 +1061,16 @@ msgstr "Reverb Level"
 msgid "ADVSNDMNU_CHORUS"
 msgstr "Chorus"
 
-# Jargon.
 #, fuzzy
 msgid "ADVSNDMNU_TIMIDITY"
 msgstr "Timidity++"
 
-# Jargon.
 msgid "ADVSNDMNU_ADLMIDI"
 msgstr "ADLMidi"
 
-# Jargon.
 msgid "ADVSNDMNU_OPNMIDI"
 msgstr "OPNMidi"
 
-# Jargon.
 msgid "ADVSNDMNU_WILDMIDI"
 msgstr "WildMidi"
 
@@ -1175,18 +1158,12 @@ msgstr "WOPN Bank file"
 msgid "OPTVAL_ALIASING"
 msgstr "Aliasing"
 
-# This setting is duplicated threefold in order to allow for different
-# grammatical gender endings
 msgid "OPTVAL_LINEAR_1"
 msgstr "Linear"
 
-# This setting is duplicated threefold in order to allow for different
-# grammatical gender endings
 msgid "OPTVAL_LINEAR_2"
 msgstr "Linear"
 
-# This setting is duplicated threefold in order to allow for different
-# grammatical gender endings
 msgid "OPTVAL_LINEAR_3"
 msgstr "Linear"
 
@@ -1417,31 +1394,24 @@ msgstr "Reuse any first released note"
 msgid "OPTVAL_UNLIMITED"
 msgstr "Unlimited"
 
-# Jargon.
 msgid "OPTVAL_256K"
 msgstr "256K"
 
-# Jargon.
 msgid "OPTVAL_512K"
 msgstr "512K"
 
-# Jargon.
 msgid "OPTVAL_768K"
 msgstr "768K"
 
-# Jargon.
 msgid "OPTVAL_1024K"
 msgstr "1024K"
 
-# Jargon.
 msgid "OPTVAL_UNCHARTED2"
 msgstr "Uncharted 2"
 
-# Jargon.
 msgid "OPTVAL_HEJLDAWSON"
 msgstr "Hejl-Dawson"
 
-# Jargon.
 msgid "OPTVAL_REINHARD"
 msgstr "Reinhard"
 
@@ -1581,23 +1551,18 @@ msgstr "Bilinear"
 msgid "OPTVAL_TRILINEAR"
 msgstr "Trilinear"
 
-# Jargon.
 msgid "OPTVAL_2X"
 msgstr "2×"
 
-# Jargon.
 msgid "OPTVAL_4X"
 msgstr "4×"
 
-# Jargon.
 msgid "OPTVAL_8X"
 msgstr "8×"
 
-# Jargon.
 msgid "OPTVAL_16X"
 msgstr "16×"
 
-# Jargon.
 msgid "OPTVAL_32X"
 msgstr "32×"
 
@@ -1737,8 +1702,6 @@ msgstr "21:9 Aspect"
 msgid "OPTVAL_NORMAL"
 msgstr "Normal"
 
-# This describes vid_scalemode 1, which represents the lowest possible scaling
-# to fill the allocated screen area
 #, fuzzy
 msgid "OPTVAL_LOWEST"
 msgstr "Lowest Possible Scale"
@@ -1751,32 +1714,26 @@ msgstr "Custom"
 msgid "VIDMNU_MAXFPS"
 msgstr "Max FPS"
 
-# Jargon.
 #, fuzzy
 msgid "OPTVAL_60FPS"
 msgstr "60 fps"
 
-# Jargon.
 #, fuzzy
 msgid "OPTVAL_75FPS"
 msgstr "75 fps"
 
-# Jargon.
 #, fuzzy
 msgid "OPTVAL_90FPS"
 msgstr "90 fps"
 
-# Jargon.
 #, fuzzy
 msgid "OPTVAL_120FPS"
 msgstr "120 fps"
 
-# Jargon.
 #, fuzzy
 msgid "OPTVAL_144FPS"
 msgstr "144 fps"
 
-# Jargon.
 #, fuzzy
 msgid "OPTVAL_200FPS"
 msgstr "200 fps"
@@ -1785,15 +1742,12 @@ msgstr "200 fps"
 msgid "VIDMNU_PREFERBACKEND"
 msgstr "Preferred Rendering API"
 
-# Jargon. Rendering backend
 msgid "OPTVAL_OPENGL"
 msgstr "OpenGL"
 
-# Jargon. Rendering backend
 msgid "OPTVAL_VULKAN"
 msgstr "Vulkan"
 
-# Jargon. Rendering backend
 msgid "OPTVAL_OPENGLES"
 msgstr "OpenGL ES"
 
@@ -1888,42 +1842,34 @@ msgstr "Edit Environment"
 msgid "REVMNU_NEW"
 msgstr "New Environment"
 
-# Jargon.
 #, fuzzy
 msgid "REVMNU_Reflections_Scale"
 msgstr "Reflections Scale"
 
-# Jargon.
 #, fuzzy
 msgid "REVMNU_Reflections_Delay_Scale"
 msgstr "Reflections Delay Scale"
 
-# Jargon.
 #, fuzzy
 msgid "REVMNU_Decay_Time_Scale"
 msgstr "Decay Time Scale"
 
-# Jargon.
 #, fuzzy
 msgid "REVMNU_Decay_HF_Limit"
 msgstr "Decay HF Limit"
 
-# Jargon.
 #, fuzzy
 msgid "REVMNU_Reverb_Scale"
 msgstr "Reverb Scale"
 
-# Jargon.
 #, fuzzy
 msgid "REVMNU_Reverb_Delay_Scale"
 msgstr "Reverb Delay Scale"
 
-# Jargon.
 #, fuzzy
 msgid "REVMNU_Echo_Time_Scale"
 msgstr "Echo Time Scale"
 
-# Jargon.
 #, fuzzy
 msgid "REVMNU_Modulation_Time_Scale"
 msgstr "Modulation Time Scale"
@@ -1979,65 +1925,49 @@ msgstr "Warning: The Vulkan renderer is highly experimental!"
 msgid "VK_RESTART"
 msgstr "These options will require a restart to take effect."
 
-# Jargon.
 msgid "OPTVAL_SCALENX"
 msgstr "ScaleNx"
 
-# Jargon.
 msgid "OPTVAL_NORMALNX"
 msgstr "NormalNx"
 
-# Jargon.
 msgid "OPTVAL_HQNX"
 msgstr "hqNx"
 
-# Jargon.
 msgid "OPTVAL_HQNXMMX"
 msgstr "hqNx MMX"
 
-# Jargon.
 msgid "OPTVAL_NXBRZ"
 msgstr "xBRZ"
 
-# Jargon.
 #, fuzzy
 msgid "OPTVAL_OLD_NXBRZ"
 msgstr "Old xBRZ"
 
-# Option Search
 #, fuzzy
 msgid "OS_TITLE"
 msgstr "Option Search"
 
-# Option Search
 #, fuzzy
 msgid "OS_ANY"
 msgstr "Search for any term"
 
-# Option Search
 #, fuzzy
 msgid "OS_ALL"
 msgstr "Search for all terms"
 
-# Option Search
 #, fuzzy
 msgid "OS_NO_RESULTS"
 msgstr "No results found."
 
-# Option Search
 #, fuzzy
 msgid "OS_LABEL"
 msgstr "Search:"
 
-# This is not a text to be translated but an engine switch for complex
-# languages.
 #, fuzzy
 msgid "USE_GENERIC_FONT"
 msgstr "0"
 
-# This should list all uppercase characters that are REQUIRED for proper
-# language display. If it is acceptable that accents get omitted a character
-# should NOT be listed here!
 msgid "REQUIRED_CHARACTERS"
 msgstr "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
@@ -2145,8 +2075,6 @@ msgstr "Rendering API"
 msgid "PICKER_TAB_PLAY"
 msgstr "Game"
 
-# Option to enable or disable individual controllers/joysticks when
-# configuring it in the Controller Options menu
 #, fuzzy
 msgid "JOYMNU_JOYENABLE"
 msgstr "Enable this controller"
@@ -2159,14 +2087,10 @@ msgstr "Open Main Menu"
 msgid "MODMNU_REPLAYER"
 msgstr "Module replayer"
 
-# This is enabled per-controller, it means to enable "this" controller in the
-# background when GZDoom is not in focus.
 #, fuzzy
 msgid "JOYMNU_JOYENABLEINBACKGROUND"
 msgstr "Allow Background Controller Input"
 
-# Order to sort the list of saved games in the save and load game menu. This
-# used to only be alphabetical.
 #, fuzzy
 msgid "MISCMNU_SAVEORDER"
 msgstr "Save Game Sorting Order"
@@ -2191,7 +2115,6 @@ msgstr "Join Game"
 msgid "PICKER_REMPARM"
 msgstr "Remember Parameters"
 
-# For stuff like id24.
 #, fuzzy
 msgid "PICKER_SUPPORTWADS"
 msgstr "Load Support WADs"
@@ -2208,7 +2131,6 @@ msgstr "Load Save File:"
 msgid "PICKER_REMSAVE"
 msgstr "Remember Save File"
 
-# As in, to host a game.
 #, fuzzy
 msgid "PICKER_HOST"
 msgstr "Host"
@@ -2221,8 +2143,6 @@ msgstr "Join"
 msgid "PICKER_NETRATE"
 msgstr "Packet Ticrate:"
 
-# Sends out duplicate copies of packets to help with spotty connections e.g.
-# wifi.
 #, fuzzy
 msgid "PICKER_NETBACKUP"
 msgstr "Send Backup Packets"
@@ -2243,7 +2163,6 @@ msgstr "Deathmatch"
 msgid "PICKER_TDM"
 msgstr "Team Deathmatch"
 
-# Which team the player wants to be assigned to.
 #, fuzzy
 msgid "PICKER_TEAM"
 msgstr "Team #:"
@@ -2260,17 +2179,14 @@ msgstr "Max Players:"
 msgid "PICKER_PORT"
 msgstr "Host Port:"
 
-# Max number of players.
 #, fuzzy
 msgid "PICKER_PLAYERHINT"
 msgstr "Max 64"
 
-# GZDoom's default port.
 #, fuzzy
 msgid "PICKER_PORTHINT"
 msgstr "Default 5029"
 
-# Team 255 randomizes which team the player gets put on.
 #, fuzzy
 msgid "PICKER_TEAMHINT"
 msgstr "255 = Random"
@@ -2283,7 +2199,6 @@ msgstr "Host IP:"
 msgid "PICKER_TDMLABEL"
 msgstr "Team Deathmatch:"
 
-# Same context as TXT_SAY.
 #, fuzzy
 msgid "TXT_SAYTEAM"
 msgstr "Say (Team):"
