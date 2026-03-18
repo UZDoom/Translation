@@ -5162,3 +5162,15 @@ msgstr ""
 
 msgid "LANG_ENG"
 msgstr ""
+
+msgid "OPTVAL_SMOOTH"
+msgstr ""
+
+msgid "TAG_MACIL"
+msgstr ""
+
+msgid "TAG_MAULER"
+msgstr ""
+
+msgid "TAG_GLAUNCHER"
+msgstr ""

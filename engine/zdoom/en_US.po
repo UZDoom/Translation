@@ -6752,7 +6752,3 @@ msgstr "Mauler"
 #, fuzzy
 msgid "TAG_GLAUNCHER"
 msgstr "Grenade Launcher"
-
-#, fuzzy
-msgid "OPTVAL_LINEAR"
-msgstr "Linear"
