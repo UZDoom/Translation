@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-17 02:16+0000\n"
+"PO-Revision-Date: 2026-03-18 03:02+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/uk/>\n"
@@ -5252,3 +5252,19 @@ msgstr ""
 "Налаштовуйте, доки діагональні білі блоки не зникнуть. Не використовуйте це "
 "для того, щоб зробити гру яскравішою, лише щоб переконатися, що зображення "
 "калібрується відповідно до вашого пристрою."
+
+#, fuzzy
+msgid "OPTVAL_SMOOTH"
+msgstr "Плавний"
+
+#, fuzzy
+msgid "TAG_MACIL"
+msgstr "Масіл"
+
+#, fuzzy
+msgid "TAG_MAULER"
+msgstr "Розсіювач"
+
+#, fuzzy
+msgid "TAG_GLAUNCHER"
+msgstr "Гранатомет"
