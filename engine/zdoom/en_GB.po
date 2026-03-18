@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-17 02:16+0000\n"
+"PO-Revision-Date: 2026-03-18 03:02+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English (United Kingdom) <https://hosted.weblate.org/projects/"
 "uzdoom/zdoom-engine-strings/en_GB/>\n"
@@ -154,10 +154,9 @@ msgstr ""
 "Look, bud. you leave now\n"
 "and you forfeit your body count!"
 
-#, fuzzy
 msgid "QUITMSG13"
 msgstr ""
-"Just leave. when you come\n"
+"Just leave. When you come\n"
 "back, I'll be waiting with a bat."
 
 msgid "QUITMSG14"
@@ -5318,9 +5317,8 @@ msgstr "Player Class"
 msgid "OPTVAL_SBSLETTERBOX"
 msgstr "Side-by-side Letterboxed"
 
-#, fuzzy
 msgid "CNTRLMNU_ADJUST_LIGHTS"
-msgstr "Boost Lighting"
+msgstr "Lighting Adjustment"
 
 msgid "OPENALMNU_SUPERSTEREOWIDTH"
 msgstr "Super Stereo Width"
@@ -5333,3 +5331,25 @@ msgstr "Super Stereo"
 
 msgid "OPTVAL_DIRECTMIX"
 msgstr "Direct Mix"
+
+msgid "LANG_NATIVE"
+msgstr "English (UK)"
+
+msgid "LANG_ENG"
+msgstr "English (UK)"
+
+#, fuzzy
+msgid "OPTVAL_SMOOTH"
+msgstr "Smooth"
+
+#, fuzzy
+msgid "TAG_MACIL"
+msgstr "Macil"
+
+#, fuzzy
+msgid "TAG_MAULER"
+msgstr "Mauler"
+
+#, fuzzy
+msgid "TAG_GLAUNCHER"
+msgstr "Grenade Launcher"
