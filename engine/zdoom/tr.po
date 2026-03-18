@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-17 02:16+0000\n"
+"PO-Revision-Date: 2026-03-18 03:02+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/tr/>\n"
@@ -5158,3 +5158,19 @@ msgstr "Doygunluk"
 
 msgid "OPTMNU_ACCESSIBILITY"
 msgstr "Erişebilirlik Seçenekleri"
+
+#, fuzzy
+msgid "OPTVAL_SMOOTH"
+msgstr "Pürüzsüz"
+
+#, fuzzy
+msgid "TAG_MACIL"
+msgstr "Macil"
+
+#, fuzzy
+msgid "TAG_MAULER"
+msgstr "Parçalayıcı"
+
+#, fuzzy
+msgid "TAG_GLAUNCHER"
+msgstr "El Bombası Fırlatıcı"
