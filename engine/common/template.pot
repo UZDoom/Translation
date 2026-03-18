@@ -42,7 +42,6 @@ msgstr ""
 "\n"
 "\n"
 
-# This is a gender sensitive message where %s represents the player
 msgid "TXT_X_CHEATS"
 msgstr ""
 
@@ -58,39 +57,30 @@ msgstr ""
 msgid "TXT_QUITENDOOM"
 msgstr ""
 
-# Savegame
 msgid "NEWSAVE"
 msgstr ""
 
-# Savegame
 msgid "GGSAVED"
 msgstr ""
 
-# Savegame
 msgid "SAVECOMMENT_TIME"
 msgstr ""
 
-# Savegame
 msgid "MNU_LOADGAME"
 msgstr ""
 
-# Savegame
 msgid "MNU_SAVEGAME"
 msgstr ""
 
-# Savegame
 msgid "MNU_NOPICTURE"
 msgstr ""
 
-# Savegame
 msgid "MNU_DIFFVERSION"
 msgstr ""
 
-# Savegame
 msgid "MNU_NOFILES"
 msgstr ""
 
-# Savegame
 msgid "MNU_DELETESG"
 msgstr ""
 
@@ -214,7 +204,6 @@ msgstr ""
 msgid "CNTRLMNU_MOUSELOOK"
 msgstr ""
 
-# Look doesn't change the aim! It only alters the view pitch
 msgid "CNTRLMNU_LOOKUP"
 msgstr ""
 
@@ -494,7 +483,6 @@ msgstr ""
 msgid "JOYMNU_DISABLED1"
 msgstr ""
 
-# Supposed to be empty in Russian and Serbian.
 msgid "JOYMNU_DISABLED2"
 msgstr ""
 
@@ -816,7 +804,6 @@ msgstr ""
 msgid "ADVSNDMNU_MIDIVOICES"
 msgstr ""
 
-# Jargon.
 msgid "ADVSNDMNU_FLUIDSYNTH"
 msgstr ""
 
@@ -841,19 +828,15 @@ msgstr ""
 msgid "ADVSNDMNU_CHORUS"
 msgstr ""
 
-# Jargon.
 msgid "ADVSNDMNU_TIMIDITY"
 msgstr ""
 
-# Jargon.
 msgid "ADVSNDMNU_ADLMIDI"
 msgstr ""
 
-# Jargon.
 msgid "ADVSNDMNU_OPNMIDI"
 msgstr ""
 
-# Jargon.
 msgid "ADVSNDMNU_WILDMIDI"
 msgstr ""
 
@@ -920,18 +903,12 @@ msgstr ""
 msgid "OPTVAL_ALIASING"
 msgstr ""
 
-# This setting is duplicated threefold in order to allow for different
-# grammatical gender endings
 msgid "OPTVAL_LINEAR_1"
 msgstr ""
 
-# This setting is duplicated threefold in order to allow for different
-# grammatical gender endings
 msgid "OPTVAL_LINEAR_2"
 msgstr ""
 
-# This setting is duplicated threefold in order to allow for different
-# grammatical gender endings
 msgid "OPTVAL_LINEAR_3"
 msgstr ""
 
@@ -1124,31 +1101,24 @@ msgstr ""
 msgid "OPTVAL_UNLIMITED"
 msgstr ""
 
-# Jargon.
 msgid "OPTVAL_256K"
 msgstr ""
 
-# Jargon.
 msgid "OPTVAL_512K"
 msgstr ""
 
-# Jargon.
 msgid "OPTVAL_768K"
 msgstr ""
 
-# Jargon.
 msgid "OPTVAL_1024K"
 msgstr ""
 
-# Jargon.
 msgid "OPTVAL_UNCHARTED2"
 msgstr ""
 
-# Jargon.
 msgid "OPTVAL_HEJLDAWSON"
 msgstr ""
 
-# Jargon.
 msgid "OPTVAL_REINHARD"
 msgstr ""
 
@@ -1254,23 +1224,18 @@ msgstr ""
 msgid "OPTVAL_TRILINEAR"
 msgstr ""
 
-# Jargon.
 msgid "OPTVAL_2X"
 msgstr ""
 
-# Jargon.
 msgid "OPTVAL_4X"
 msgstr ""
 
-# Jargon.
 msgid "OPTVAL_8X"
 msgstr ""
 
-# Jargon.
 msgid "OPTVAL_16X"
 msgstr ""
 
-# Jargon.
 msgid "OPTVAL_32X"
 msgstr ""
 
@@ -1376,8 +1341,6 @@ msgstr ""
 msgid "OPTVAL_NORMAL"
 msgstr ""
 
-# This describes vid_scalemode 1, which represents the lowest possible scaling
-# to fill the allocated screen area
 msgid "OPTVAL_LOWEST"
 msgstr ""
 
@@ -1387,42 +1350,33 @@ msgstr ""
 msgid "VIDMNU_MAXFPS"
 msgstr ""
 
-# Jargon.
 msgid "OPTVAL_60FPS"
 msgstr ""
 
-# Jargon.
 msgid "OPTVAL_75FPS"
 msgstr ""
 
-# Jargon.
 msgid "OPTVAL_90FPS"
 msgstr ""
 
-# Jargon.
 msgid "OPTVAL_120FPS"
 msgstr ""
 
-# Jargon.
 msgid "OPTVAL_144FPS"
 msgstr ""
 
-# Jargon.
 msgid "OPTVAL_200FPS"
 msgstr ""
 
 msgid "VIDMNU_PREFERBACKEND"
 msgstr ""
 
-# Jargon. Rendering backend
 msgid "OPTVAL_OPENGL"
 msgstr ""
 
-# Jargon. Rendering backend
 msgid "OPTVAL_VULKAN"
 msgstr ""
 
-# Jargon. Rendering backend
 msgid "OPTVAL_OPENGLES"
 msgstr ""
 
@@ -1495,35 +1449,27 @@ msgstr ""
 msgid "REVMNU_NEW"
 msgstr ""
 
-# Jargon.
 msgid "REVMNU_Reflections_Scale"
 msgstr ""
 
-# Jargon.
 msgid "REVMNU_Reflections_Delay_Scale"
 msgstr ""
 
-# Jargon.
 msgid "REVMNU_Decay_Time_Scale"
 msgstr ""
 
-# Jargon.
 msgid "REVMNU_Decay_HF_Limit"
 msgstr ""
 
-# Jargon.
 msgid "REVMNU_Reverb_Scale"
 msgstr ""
 
-# Jargon.
 msgid "REVMNU_Reverb_Delay_Scale"
 msgstr ""
 
-# Jargon.
 msgid "REVMNU_Echo_Time_Scale"
 msgstr ""
 
-# Jargon.
 msgid "REVMNU_Modulation_Time_Scale"
 msgstr ""
 
@@ -1569,58 +1515,42 @@ msgstr ""
 msgid "VK_RESTART"
 msgstr ""
 
-# Jargon.
 msgid "OPTVAL_SCALENX"
 msgstr ""
 
-# Jargon.
 msgid "OPTVAL_NORMALNX"
 msgstr ""
 
-# Jargon.
 msgid "OPTVAL_HQNX"
 msgstr ""
 
-# Jargon.
 msgid "OPTVAL_HQNXMMX"
 msgstr ""
 
-# Jargon.
 msgid "OPTVAL_NXBRZ"
 msgstr ""
 
-# Jargon.
 msgid "OPTVAL_OLD_NXBRZ"
 msgstr ""
 
-# Option Search
 msgid "OS_TITLE"
 msgstr ""
 
-# Option Search
 msgid "OS_ANY"
 msgstr ""
 
-# Option Search
 msgid "OS_ALL"
 msgstr ""
 
-# Option Search
 msgid "OS_NO_RESULTS"
 msgstr ""
 
-# Option Search
 msgid "OS_LABEL"
 msgstr ""
 
-# This is not a text to be translated but an engine switch for complex
-# languages.
 msgid "USE_GENERIC_FONT"
 msgstr ""
 
-# This should list all uppercase characters that are REQUIRED for proper
-# language display. If it is acceptable that accents get omitted a character
-# should NOT be listed here!
 msgid "REQUIRED_CHARACTERS"
 msgstr ""
 
@@ -1702,8 +1632,6 @@ msgstr ""
 msgid "PICKER_TAB_PLAY"
 msgstr ""
 
-# Option to enable or disable individual controllers/joysticks when
-# configuring it in the Controller Options menu
 msgid "JOYMNU_JOYENABLE"
 msgstr ""
 
@@ -1713,13 +1641,9 @@ msgstr ""
 msgid "MODMNU_REPLAYER"
 msgstr ""
 
-# This is enabled per-controller, it means to enable "this" controller in the
-# background when GZDoom is not in focus.
 msgid "JOYMNU_JOYENABLEINBACKGROUND"
 msgstr ""
 
-# Order to sort the list of saved games in the save and load game menu. This
-# used to only be alphabetical.
 msgid "MISCMNU_SAVEORDER"
 msgstr ""
 
@@ -1738,7 +1662,6 @@ msgstr ""
 msgid "PICKER_REMPARM"
 msgstr ""
 
-# For stuff like id24.
 msgid "PICKER_SUPPORTWADS"
 msgstr ""
 
@@ -1751,7 +1674,6 @@ msgstr ""
 msgid "PICKER_REMSAVE"
 msgstr ""
 
-# As in, to host a game.
 msgid "PICKER_HOST"
 msgstr ""
 
@@ -1761,8 +1683,6 @@ msgstr ""
 msgid "PICKER_NETRATE"
 msgstr ""
 
-# Sends out duplicate copies of packets to help with spotty connections e.g.
-# wifi.
 msgid "PICKER_NETBACKUP"
 msgstr ""
 
@@ -1778,7 +1698,6 @@ msgstr ""
 msgid "PICKER_TDM"
 msgstr ""
 
-# Which team the player wants to be assigned to.
 msgid "PICKER_TEAM"
 msgstr ""
 
@@ -1791,15 +1710,12 @@ msgstr ""
 msgid "PICKER_PORT"
 msgstr ""
 
-# Max number of players.
 msgid "PICKER_PLAYERHINT"
 msgstr ""
 
-# GZDoom's default port.
 msgid "PICKER_PORTHINT"
 msgstr ""
 
-# Team 255 randomizes which team the player gets put on.
 msgid "PICKER_TEAMHINT"
 msgstr ""
 
@@ -1809,7 +1725,6 @@ msgstr ""
 msgid "PICKER_TDMLABEL"
 msgstr ""
 
-# Same context as TXT_SAY.
 msgid "TXT_SAYTEAM"
 msgstr ""
 
