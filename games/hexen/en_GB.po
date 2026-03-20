@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-26 19:09+0000\n"
-"Last-Translator: Andi Chandler <andi@gowling.com>\n"
+"PO-Revision-Date: 2026-03-18 01:09+0000\n"
+"Last-Translator: hawkwind3 <hawkwinds_messages@hotmail.com>\n"
 "Language-Team: English (United Kingdom) <https://hosted.weblate.org/projects/"
 "doom-engine-games/hexen/en_GB/>\n"
 "Language: en_GB\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16.1-dev\n"
+"X-Generator: Weblate 5.17-dev\n"
 "X-HeaderCode: eng enc ena enz eni ens enj enb enl ent enw\n"
 
 msgid "TXT_HEXEN_CLUS3MSG"
@@ -269,3 +269,96 @@ msgstr "Stones grind on the Seven Portals"
 
 msgid "TXT_ACS_MAP08_6_ONESI"
 msgstr "One sixth of the puzzle has been solved"
+
+msgid "TXT_ACS_MAP08_7_ONTHE"
+msgstr "on the Shadow Wood"
+
+msgid "TXT_ACS_MAP08_10_THEDO"
+msgstr "The door is barred from the inside"
+
+msgid "TXT_ACS_MAP08_11_YOUHE"
+msgstr "You hear a door open in the distance"
+
+msgid "TXT_ACS_MAP09_6_ONESI"
+msgstr "One sixth of the puzzle has been solved"
+
+msgid "TXT_ACS_MAP09_7_ONTHE"
+msgstr "on the Shadow Wood"
+
+msgid "TXT_ACS_MAP10_6_ONESI"
+msgstr "One sixth of the puzzle has been solved"
+
+msgid "TXT_ACS_MAP10_7_ONTHE"
+msgstr "on the Shadow Wood"
+
+msgid "TXT_ACS_MAP11_0_ETTIN"
+msgstr "\\ ettins left"
+
+msgid "TXT_ACS_MAP11_1_YOUWA"
+msgstr "You waited too long, now you die!"
+
+msgid "TXT_ACS_MAP11_7_ADOOR"
+msgstr "A door opened on the Forsaken Outpost"
+
+msgid "TXT_ACS_MAP12_9_THISD"
+msgstr "This door won't open yet"
+
+msgid "TXT_ACS_MAP13_11_MYSER"
+msgstr "My servants can smell your blood, human"
+
+msgid "TXT_ACS_MAP21_0_ADOOR"
+msgstr "A door opened in the Gibbet"
+
+msgid "TXT_ACS_MAP21_2_THEDO"
+msgstr "The door is barred from the inside"
+
+msgid "TXT_ACS_MAP22_3_APLAT"
+msgstr "A platform has lowered in the tower"
+
+msgid "TXT_ACS_MAP22_27_YOUHA"
+msgstr "You have played this game too long, mortal..."
+
+msgid "TXT_ACS_MAP22_29_ITHIN"
+msgstr "I think I shall remove you from the board"
+
+msgid "TXT_ACS_MAP23_10_YOUHE"
+msgstr "You hear a door open upstairs"
+
+msgid "TXT_ACS_MAP27_8_WORSH"
+msgstr "Worship me, and I may yet be merciful"
+
+msgid "TXT_ACS_MAP27_10_THENA"
+msgstr "Then again, maybe not"
+
+msgid "TXT_ACS_MAP28_6_ONENI"
+msgstr "One ninth of the puzzle has been solved"
+
+msgid "TXT_ACS_MAP28_7_ONTHE"
+msgstr "On the Monastery"
+
+msgid "TXT_ACS_MAP30_6_ONENI"
+msgstr "One ninth of the puzzle has been solved"
+
+msgid "TXT_ACS_MAP30_7_ONTHE"
+msgstr "On the Monastery"
+
+msgid "TXT_ACS_MAP34_1_ONENI"
+msgstr "One ninth of the puzzle has been solved"
+
+msgid "TXT_ACS_MAP34_2_ONTHE"
+msgstr "On the Monastery"
+
+msgid "TXT_ACS_MAP35_0_THEPO"
+msgstr "The portal has been sealed"
+
+msgid "TXT_ACS_MAP35_1_CHOOS"
+msgstr "Choose your fate"
+
+msgid "TXT_ACS_MAP35_3_THEDO"
+msgstr "The door is barred from the inside"
+
+msgid "TXT_ACS_MAP35_12_AREYO"
+msgstr "Are you strong enough"
+
+msgid "TXT_ACS_MAP35_14_TOFAC"
+msgstr "To face your own masters?"
