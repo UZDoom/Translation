@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-17 02:16+0000\n"
+"PO-Revision-Date: 2026-03-18 03:02+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/pl/>\n"
@@ -5265,3 +5265,15 @@ msgstr ""
 
 msgid "ERRORMNU_SAVE"
 msgstr "Zapisz Raport"
+
+#, fuzzy
+msgid "OPTVAL_SMOOTH"
+msgstr "Gładki"
+
+#, fuzzy
+msgid "TAG_MAULER"
+msgstr "Miażdżyciel"
+
+#, fuzzy
+msgid "TAG_GLAUNCHER"
+msgstr "Wyrzutnia Granatów"

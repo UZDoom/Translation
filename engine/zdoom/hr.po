@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-17 02:16+0000\n"
+"PO-Revision-Date: 2026-03-18 03:02+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hr/>\n"
@@ -5162,3 +5162,19 @@ msgstr "Kontrast"
 
 msgid "DSPLYMNU_SATURATION"
 msgstr "Saturacija"
+
+#, fuzzy
+msgid "OPTVAL_SMOOTH"
+msgstr "Glatko"
+
+#, fuzzy
+msgid "TAG_MACIL"
+msgstr "Mejsil"
+
+#, fuzzy
+msgid "TAG_MAULER"
+msgstr "Mlatenik"
+
+#, fuzzy
+msgid "TAG_GLAUNCHER"
+msgstr "Bacač granata"

@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-17 02:16+0000\n"
+"PO-Revision-Date: 2026-03-18 03:02+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ko/>\n"
@@ -5158,3 +5158,19 @@ msgstr "채도"
 
 msgid "OPTMNU_ACCESSIBILITY"
 msgstr "접근성 설정"
+
+#, fuzzy
+msgid "OPTVAL_SMOOTH"
+msgstr "부드럽게"
+
+#, fuzzy
+msgid "TAG_MACIL"
+msgstr "마실"
+
+#, fuzzy
+msgid "TAG_MAULER"
+msgstr "마울러"
+
+#, fuzzy
+msgid "TAG_GLAUNCHER"
+msgstr "유탄발사기"

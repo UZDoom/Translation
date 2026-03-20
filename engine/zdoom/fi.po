@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-17 02:16+0000\n"
+"PO-Revision-Date: 2026-03-18 03:02+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/fi/>\n"
@@ -5163,3 +5163,12 @@ msgstr "Värikylläisyys"
 
 msgid "OPTMNU_ACCESSIBILITY"
 msgstr "Helppokäyttöisyysasetukset"
+
+msgid "OPTVAL_SMOOTH"
+msgstr "Pehmeä"
+
+msgid "TAG_MAULER"
+msgstr "Moukari"
+
+msgid "TAG_GLAUNCHER"
+msgstr "Kranaatinheitin"

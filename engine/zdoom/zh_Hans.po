@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-17 23:09+0000\n"
+"PO-Revision-Date: 2026-03-19 06:09+0000\n"
 "Last-Translator: dwing <12104745@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
@@ -5327,3 +5327,22 @@ msgstr "光照调整"
 
 msgid "LANG_NATIVE"
 msgstr "简体中文"
+
+#, fuzzy
+msgid "OPTVAL_SMOOTH"
+msgstr "平滑"
+
+#, fuzzy
+msgid "TAG_MACIL"
+msgstr "马希尔"
+
+#, fuzzy
+msgid "TAG_MAULER"
+msgstr "毛勒"
+
+#, fuzzy
+msgid "TAG_GLAUNCHER"
+msgstr "榴弹发射器"
+
+msgid "LANG_ENG"
+msgstr "Simplified Chinese"
