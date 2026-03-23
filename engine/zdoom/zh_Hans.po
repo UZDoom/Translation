@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-19 06:09+0000\n"
-"Last-Translator: dwing <12104745@qq.com>\n"
+"PO-Revision-Date: 2026-03-24 12:09+0000\n"
+"Last-Translator: yhmtxt <yhmtxt@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -346,10 +346,10 @@ msgid "TXT_BUDDHA2OFF"
 msgstr "终极佛陀模式：关"
 
 msgid "TXT_CHEATPOWERON"
-msgstr "电源：开"
+msgstr "力量：开"
 
 msgid "TXT_CHEATPOWEROFF"
-msgstr "电源：关"
+msgstr "力量：关"
 
 msgid "TXT_CHEATHEALTH"
 msgstr "生命全满"
@@ -2591,7 +2591,7 @@ msgid "GOTWATER"
 msgstr "拾取了一杯水。"
 
 msgid "GOTREPELLENT"
-msgstr "拾取了slime repellent."
+msgstr "拾取了黏液防护剂。"
 
 msgid "GOTBREAKFAST"
 msgstr "超级充能早餐！"
@@ -2621,25 +2621,25 @@ msgid "GOTCHEXMAP"
 msgstr "发现了一张电子区域地图"
 
 msgid "GOTZORCHRECHARGE"
-msgstr "拾取了一个迷你zorch recharge."
+msgstr "拾取了一个迷你zorch充能。"
 
 msgid "GOTMINIZORCHPACK"
 msgstr "拾取了一个迷你zorch包."
 
 msgid "GOTPROPULSORRECHARGE"
-msgstr "拾取了一个zorch propulsor recharge."
+msgstr "拾取了一个zorch推进器充能。"
 
 msgid "GOTPROPULSORPACK"
-msgstr "拾取了一个zorch propulsor包."
+msgstr "拾取了一个zorch推进器包。"
 
 msgid "GOTPHASINGZORCHERRECHARGE"
-msgstr "拾取了一个phasing zorcher recharge"
+msgstr "拾取了一个相位zorcher充能"
 
 msgid "GOTPHASINGZORCHERPACK"
-msgstr "拾取了一个phasing zorcher包."
+msgstr "拾取了一个相位zorcher包。"
 
 msgid "GOTLARGEZORCHERRECHARGE"
-msgstr "拾取了一个大型zorcher recharge."
+msgstr "拾取了一个大型zorcher充能。"
 
 msgid "GOTLARGEZORCHERPACK"
 msgstr "拾取了一个大型zorcher包."
@@ -2648,19 +2648,19 @@ msgid "GOTZORCHPACK"
 msgstr "拾取了一个Zorchpak!"
 
 msgid "GOTLAZDEVICE"
-msgstr "你得到了the LAZ装置！Woot!"
+msgstr "你得到了LAZ装置！好耶！"
 
 msgid "GOTRAPIDZORCHER"
-msgstr "你得到了the Rapid Zorcher!"
+msgstr "你得到了速射Zorcher！"
 
 msgid "GOTSUPERBOOTSPORK"
-msgstr "你得到了超级Bootspork!"
+msgstr "你得到了超级靴叉勺！"
 
 msgid "GOTZORCHPROPULSOR"
-msgstr "你得到了the Zorch Propulsor!"
+msgstr "你得到了Zorch推进器！"
 
 msgid "GOTPHASINGZORCHER"
-msgstr "你得到了the Phasing Zorcher!"
+msgstr "你得到了相位Zorcher！"
 
 msgid "GOTLARGEZORCHER"
 msgstr "你得到了大型Zorcher!"
@@ -2675,7 +2675,7 @@ msgid "TAG_SPOON"
 msgstr "勺子"
 
 msgid "TAG_SPORK"
-msgstr "超级Bootspork"
+msgstr "超级靴叉勺"
 
 msgid "TAG_MINIZORCHER"
 msgstr "迷你Zorcher"
@@ -2701,16 +2701,16 @@ msgid "TAG_LAZDEVICE"
 msgstr "LAZ装置"
 
 msgid "OB_COMMONUS"
-msgstr "%o 被a flemoid粘住了。"
+msgstr "%o 被黏液怪粘住了。"
 
 msgid "OB_BIPEDICUS"
-msgstr "%o 被a bipedicus粘住了。"
+msgstr "%o 被双足型黏液怪粘住了。"
 
 msgid "OB_BIPEDICUS2"
-msgstr "%o 被an armored bipedicus粘住了。"
+msgstr "%o 被披甲双足型黏液怪粘住了。"
 
 msgid "OB_CYCLOPTIS"
-msgstr "%o 被一只独眼巨人粘住了。"
+msgstr "%o 被独眼型黏液怪粘住了。"
 
 msgid "OB_FLEMBRANE"
 msgstr "%o 被黏液膜击败了。"
@@ -2719,13 +2719,13 @@ msgid "OB_MPSPOON"
 msgstr "%o 被 %k 喂的饭撑死了。"
 
 msgid "OB_MPBOOTSPORK"
-msgstr "%o 被 %k 的靴叉搅成了渣。"
+msgstr "%o 被 %k 的靴叉勺搅成了渣。"
 
 msgid "OB_MPZORCH"
 msgstr "%o被%k用Zorcher传送走了。"
 
 msgid "OB_MPMEGAZORCH"
-msgstr "%o 被 %k 的mega-zorcher击中了。"
+msgstr "%o 被 %k 的巨型zorcher击中了。"
 
 msgid "OB_MPRAPIDZORCH"
 msgstr "%o被%k用速射Zorcher传送走了。"
