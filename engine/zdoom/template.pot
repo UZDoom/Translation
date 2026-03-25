@@ -5174,3 +5174,12 @@ msgstr ""
 
 msgid "TAG_GLAUNCHER"
 msgstr ""
+
+msgid "ACTION_OPENWADDIR"
+msgstr ""
+
+msgid "ACTION_OPENCONFIGDIR"
+msgstr ""
+
+msgid "OPTMNU_OPENWADS"
+msgstr ""

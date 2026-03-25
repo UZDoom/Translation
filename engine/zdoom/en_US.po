@@ -6751,3 +6751,15 @@ msgstr "Mauler"
 #, fuzzy
 msgid "TAG_GLAUNCHER"
 msgstr "Grenade Launcher"
+
+#, fuzzy
+msgid "ACTION_OPENWADDIR"
+msgstr "Browse WADs"
+
+#, fuzzy
+msgid "ACTION_OPENCONFIGDIR"
+msgstr "Browse Configs"
+
+#, fuzzy
+msgid "OPTMNU_OPENWADS"
+msgstr "Browse IWAD Folder"
