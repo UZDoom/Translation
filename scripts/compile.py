@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-Usage: ./compile.py path_to_po_files path_to_output.csv
+Usage: ./compile.py recipe path_to_output.csv
 """
 
 import os
@@ -10,6 +10,24 @@ import csv
 import json
 import polib
 from pathlib import Path
+
+RECIPES = {
+	"ENGINE": [ "engine/common", "engine/zdoom" ],
+	"GAMES": [
+		"games/chex",
+		"games/doom",
+		"games/doom2",
+		"games/heretic",
+		"games/hexen",
+		"games/hexen-deathkings",
+		"games/plutonia",
+		"games/strife",
+		"games/tnt",
+	],
+	"GAMES_CHEX3": [ "games/filter/chex_quest_3" ],
+	"GAMES_HARMONY": [ "games/filter/harmony" ],
+	"GAMES_HACX": [ "games/filter/hacx" ]
+}
 
 SOURCE_LANG = "en_US"
 
@@ -233,10 +251,14 @@ def postprocess_matrix(languages, matrix):
 def main(args):
 	"""loading, matrix building, CSV export"""
 
-	po_files = get_po_files([ Path(f) for f in args[1:-1] ]) if len(args) >= 3 else None
+	root_dir = Path(__file__).parent.parent;
+
+	po_files = RECIPES[args[1]] if len(args) == 3 and args[1] in RECIPES else None
+	po_files = po_files and get_po_files([ root_dir / f for f in po_files ])
 
 	if po_files is None:
 		print(__doc__)
+		print(f"Available recipes: { " ".join(RECIPES.keys()) }")
 		exit(1)
 
 	languages = po_files["languages"]
