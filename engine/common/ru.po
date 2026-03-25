@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-22 03:09+0000\n"
+"PO-Revision-Date: 2026-03-22 19:09+0000\n"
 "Last-Translator: Никита Скатьков <nikita.ska4oK@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/common/"
 "ru/>\n"
@@ -517,20 +517,18 @@ msgstr "Нет настраиваемых осей"
 msgid "OPTVAL_NONE"
 msgstr "Откл"
 
-#, fuzzy
 msgid "OPTVAL_TURNING"
-msgstr "Поворот"
+msgstr "Смотреть Лево/Право"
 
 msgid "OPTVAL_LOOKINGUPDOWN"
 msgstr "Взгляд вверх/вниз"
 
-#, fuzzy
 msgid "OPTVAL_MOVINGFORWARD"
-msgstr "Движение вперёд"
+msgstr "Движение вперёд/назад"
 
 #, fuzzy
 msgid "OPTVAL_STRAFING"
-msgstr "Движение боком"
+msgstr "Движение лево/право (боком)"
 
 msgid "OPTVAL_MOVINGUPDOWN"
 msgstr "Движение вверх/вниз"
@@ -1003,13 +1001,11 @@ msgstr "YMFM OPL3"
 msgid "OPTVAL_NUKEDOPL3"
 msgstr "Nuked OPL3"
 
-#, fuzzy
 msgid "OPTVAL_LLENUKEDOPL2"
-msgstr "OPL2-LLE (очень тяжёлый)"
+msgstr "OPL2-LLE (интенсивно производительный)"
 
-#, fuzzy
 msgid "OPTVAL_LLENUKEDOPL3"
-msgstr "OPL3-LLE (очень тяжёлый)"
+msgstr "OPL3-LLE (интенсивно производительный)"
 
 msgid "OPTVAL_MAMEOPN2"
 msgstr "MAME OPN2 (YM2612)"
@@ -1038,17 +1034,14 @@ msgstr "Nuked OPN2 (YM3438)"
 msgid "OPTVAL_NUKEDOPN2YM2612"
 msgstr "Nuked OPN2 (YM2612)"
 
-#, fuzzy
 msgid "OPTVAL_OPN2YM2612LLE"
-msgstr "OPN2-LLE (YM2612) (очень тяжёлый!)"
+msgstr "OPN2-LLE (YM2612) (интенсивно производительный)"
 
-#, fuzzy
 msgid "OPTVAL_OPN2YM3438LLE"
-msgstr "OPN2-LLE (YM3438) (очень тяжёлый!!)"
+msgstr "OPN2-LLE (YM3438) (интенсивно производительный)"
 
-#, fuzzy
 msgid "OPTVAL_OPN2YMF276LLE"
-msgstr "OPN2-LLE (YMF276) (очень тяжёлый!!)"
+msgstr "OPN2-LLE (YMF276) (интенсивно производительный)"
 
 msgid "OPTVAL_GENSOPN2"
 msgstr "GENS OPN2 (YM2612)"

@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-18 03:02+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-03-22 19:09+0000\n"
+"Last-Translator: Никита Скатьков <nikita.ska4oK@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ru/>\n"
 "Language: ru\n"
@@ -154,10 +154,9 @@ msgstr ""
 "Послушай, дружище. Выйдешь —\n"
 "и сбросишь свой счётчик убийств!"
 
-#, fuzzy
 msgid "QUITMSG13"
 msgstr ""
-"Уходи, уходи… но когда вернёшься,\n"
+"Уходи, уходи… Но когда вернёшься,\n"
 "я буду ждать тебя с битой."
 
 msgid "QUITMSG14"
@@ -4809,9 +4808,8 @@ msgid "GMPLYMNU_NOLOCALDROP"
 msgstr "Отключить подбирание выпавших предметов на стороне клиента"
 
 # Disables autoloading save on death
-#, fuzzy
 msgid "MISCMNU_RESTARTONDEATH"
-msgstr "Перезапуск уровня после смерти"
+msgstr "Пистолет после смерти"
 
 # Resets inventory on every map
 #, fuzzy
@@ -5338,9 +5336,8 @@ msgstr "Супер Стерео"
 msgid "ERROR_ABORT"
 msgstr "Запуск не удался."
 
-#, fuzzy
 msgid "CNTRLMNU_ADJUST_LIGHTS"
-msgstr "Усилить освещение"
+msgstr "Регулировка освещения"
 
 #, fuzzy
 msgid "OPTVAL_SMOOTH"
