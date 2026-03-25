@@ -37,25 +37,24 @@ THRESHOLD = 0.5
 
 # add to table  even if THRESHOLD is not met
 ENABLED = [
-    "en_US",
-    "eng enc ena enz eni ens enj enb enl ent enw",
+    "en_GB",  # eng enc ena enz eni ens enj enb enl ent enw
     "cs",
     "da",
     "de",
     "es",
-    "esm",
+    "es_MX",  # esm
     "eo",
     "fi",
     "fr",
     "hu",
     "it",
-    "jp",
+    "ja",  # jp
     "ko",
     "nl",
-    "no",
+    "nb_NO",  # no
     "pl",
-    "ptg",
-    "pt",
+    "pt",  # ptg
+    "pt_BR",  # pt
     "ro",
     "ru",
     "sr",
@@ -72,9 +71,9 @@ DISABLED = [
 
 KEEP_REMARKS = False
 
-DEBUG = False
+DEBUG = True
 try:
-    DEBUG = 'DEBUG_LANGUAGE' in os.environ
+    DEBUG = DEBUG or 'DEBUG_LANGUAGE' in os.environ
 except OSError:
     pass
 
@@ -236,6 +235,11 @@ def postprocess_matrix(languages, matrix):
 
     if not matrix:
         return [languages, matrix]
+
+    if DEBUG:
+        notfound = [v for v in ENABLED + DISABLED if v not in languages]
+        if notfound:
+            print(notfound)
 
     langcount = len(matrix)
     tally = [0 for _ in languages]
