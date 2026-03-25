@@ -12,7 +12,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 5.17-dev\n"
-"X-HeaderCode: eng enc ena enz eni ens enj enb enl ent enw\n"
 
 msgid "TXT_HEXDD_MAP53"
 msgstr "Armoury"
