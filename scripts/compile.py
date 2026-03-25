@@ -4,8 +4,10 @@
 Usage: ./compile.py path_to_po_files path_to_output.csv
 """
 
+import os
 import sys
 import csv
+import json
 import polib
 from pathlib import Path
 
@@ -17,7 +19,28 @@ THRESHOLD = 0.5
 # add to table  even if THRESHOLD is not met
 ENABLED = [
 	"en_US",
-	"eng enc ena enz eni ens enj enb enl ent enw"
+	"eng enc ena enz eni ens enj enb enl ent enw",
+	"cs",
+	"da",
+	"de",
+	"es",
+	"esm",
+	"eo",
+	"fi",
+	"fr",
+	"hu",
+	"it",
+	"jp",
+	"ko",
+	"nl",
+	"no",
+	"pl",
+	"ptg",
+	"pt",
+	"ro",
+	"ru",
+	"sr",
+	"tr",
 ]
 
 # Don't add to table even if THRESHOLD is met
@@ -28,6 +51,12 @@ DISABLED = [
 ]
 
 KEEP_REMARKS = False
+
+DEBUG = False
+try:
+	DEBUG = 'DEBUG_LANGUAGE' in os.environ
+except:
+	pass
 
 def dump_csv(destination, table):
 	"""Writes the matrix table to a CSV file at the specified destination."""
@@ -180,13 +209,18 @@ def postprocess_matrix(languages, matrix):
 			if v[i] == v[0]:
 				v[i] = ""
 
+
+	progress = {} if DEBUG else None
 	for i, v in enumerate(tally):
 		v /= total
-		if languages[i] in ENABLED: v += 1
-		if languages[i] in DISABLED: v -= 1
-		tally[i] = v >= THRESHOLD
+		m = 0 + (1 if languages[i] in ENABLED else 0) - (1 if languages[i] in DISABLED else 0)
+		tally[i] = (v+m) >= THRESHOLD
+		if DEBUG:
+			progress[languages[i]] = f"{f"{v:.2f}".lstrip('0')[:3]}={(v>=THRESHOLD)*1}{m:+}"
 	languages = [ languages[i] for i in range(len(tally)) if tally[i]]
 	tally = [ True for i in range(skip+1) ] + tally
+	if DEBUG:
+		print(json.dumps(progress, separators=(',', ':')))
 
 	for k in matrix:
 		matrix[k] = [ v for i,v in enumerate(matrix[k]) if tally[i] ]
