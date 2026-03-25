@@ -1,13 +1,14 @@
 #!/usr/bin/env python3
 
 """
-Usage: ./compile.py recipe path_to_output.csv
+Builds language files
 """
 
 import os
 import sys
 import csv
 import json
+import argparse
 from pathlib import Path
 
 import polib
@@ -281,8 +282,7 @@ def main(args):
 
     root_dir = Path(__file__).parent.parent
 
-    po_files = RECIPES[args[1]] if len(
-        args) == 3 and args[1] in RECIPES else None
+    po_files = RECIPES[args.recipe] if args.recipe in RECIPES else None
     po_files = po_files and get_po_files([root_dir / f for f in po_files])
 
     if po_files is None:
@@ -301,8 +301,15 @@ def main(args):
 
     table = [header] + [matrix[k] for k in sorted(matrix)]
 
-    dump_csv(args[-1], table)
+    dump_csv(args.output, table)
 
 
 if __name__ == "__main__":
-    main(sys.argv)
+    parser = argparse.ArgumentParser(
+        prog=Path(__file__).name,
+        description=__doc__)
+
+    parser.add_argument("--recipe", required=True)
+    parser.add_argument("--output", required=True, type=Path)
+
+    main(parser.parse_args(sys.argv[1:]))
