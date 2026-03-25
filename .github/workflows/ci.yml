@@ -63,7 +63,7 @@ jobs:
       run: |
         outfile=out/${{ matrix.config.outfile }}
         mkdir -p $(dirname $outfile)
-        python3 -B -E -s scripts/compile.py ${{ matrix.config.name }} $outfile
+        python3 -B -E -s scripts/compile.py --recipe ${{ matrix.config.name }} --output $outfile
 
     - name: upload
       uses: actions/upload-artifact@v7
