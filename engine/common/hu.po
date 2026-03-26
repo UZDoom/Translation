@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-26 06:13+0000\n"
+"PO-Revision-Date: 2026-03-26 08:09+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/uzdoom/common/"
 "hu/>\n"
@@ -1778,8 +1778,9 @@ msgstr "Üzenetsor mérete"
 msgid "MSGMNU_STACKIDENTICAL"
 msgstr "Ismételt üzenetek felhalmozása"
 
+#, fuzzy
 msgid "NOTES_DETAILS"
-msgstr "További részletekért keresd:"
+msgstr "További részletekért keresd: %s"
 
 msgid "PICKER_SHOWTHIS"
 msgstr "Ez az oldal megjelenítése frissítések után"
