@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 00:10+0000\n"
+"PO-Revision-Date: 2026-03-26 06:13+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/uzdoom/common/nl/>"
 "\n"
@@ -1818,6 +1818,7 @@ msgstr "versie"
 msgid "NOTES_UNKNOWN"
 msgstr "Onbekend"
 
+#, fuzzy
 msgid "NOTES_RELEASED"
 msgstr "uitgebracht"
 
