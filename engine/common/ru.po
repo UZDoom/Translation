@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-22 19:09+0000\n"
-"Last-Translator: Никита Скатьков <nikita.ska4oK@gmail.com>\n"
+"PO-Revision-Date: 2026-03-26 06:13+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/common/"
 "ru/>\n"
 "Language: ru\n"
@@ -1800,6 +1800,7 @@ msgstr "Версия"
 msgid "NOTES_UNKNOWN"
 msgstr "Неизвестный"
 
+#, fuzzy
 msgid "NOTES_RELEASED"
 msgstr "выпущен"
 
