@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-14 22:34+0000\n"
+"PO-Revision-Date: 2026-03-26 06:13+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/uzdoom/common/"
 "eo/>\n"
@@ -1790,6 +1790,7 @@ msgstr "versio"
 msgid "NOTES_UNKNOWN"
 msgstr "Nekonata"
 
+#, fuzzy
 msgid "NOTES_RELEASED"
 msgstr "eldonita"
 
