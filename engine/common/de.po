@@ -1775,9 +1775,6 @@ msgstr "Analoger Strafe-Run"
 msgid "NOTES_FAIL"
 msgstr "Versionshinweise konnten nicht automatisch verarbeitet werden"
 
-msgid "NOTES_VERSION"
-msgstr "version"
-
 msgid "NOTES_UNKNOWN"
 msgstr "Unbekannt"
 
