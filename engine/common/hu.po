@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-26 08:09+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-03-26 10:12+0000\n"
+"Last-Translator: Andras Varro <varro.andras20@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/uzdoom/common/"
 "hu/>\n"
 "Language: hu\n"
@@ -850,7 +850,7 @@ msgid "ADVSNDMNU_ADVRESAMPLING"
 msgstr "Fejlett Resmapling"
 
 msgid "ADVSNDMNU_OPLBANK"
-msgstr "OPL Bank"
+msgstr "OPL-Bank"
 
 msgid "ADVSNDMNU_RUNPCMRATE"
 msgstr "Emulátor futtatása PCM rátán"
@@ -1778,9 +1778,8 @@ msgstr "Üzenetsor mérete"
 msgid "MSGMNU_STACKIDENTICAL"
 msgstr "Ismételt üzenetek felhalmozása"
 
-#, fuzzy
 msgid "NOTES_DETAILS"
-msgstr "További részletekért keresd: %s"
+msgstr "További részletek: %s"
 
 msgid "PICKER_SHOWTHIS"
 msgstr "Ez az oldal megjelenítése frissítések után"
@@ -1800,9 +1799,8 @@ msgstr "Leírás nem elérhető."
 msgid "NOTES_UNKNOWN"
 msgstr "Ismeretlen"
 
-#, fuzzy
 msgid "NOTES_RELEASED"
-msgstr "kiadás"
+msgstr "%s verzió %s, kiadva %s"
 
 msgid "NOTES_FAIL"
 msgstr "Kiadási jegyzetek feldolgozása nem sikerült"
