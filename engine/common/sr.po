@@ -1784,9 +1784,6 @@ msgstr "Аналогно трчање"
 msgid "NOTES_FAIL"
 msgstr "Немогуће је парсирати белешке о издању"
 
-msgid "NOTES_VERSION"
-msgstr "верзија"
-
 msgid "NOTES_UNKNOWN"
 msgstr "Непознато"
 
