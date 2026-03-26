@@ -30,8 +30,10 @@ RECIPES = {
     "GAMES_HARMONY": ["games/filter/harmony"],
     "GAMES_HACX": ["games/filter/hacx"]
 }
+RECIPES["ALL"] = list(sum(RECIPES.values(), []))
 
 SOURCE_LANG = "en_US"
+SOURCE_LANG_ALT = SOURCE_LANG.split("_", maxsplit=1)[0]
 
 # auto-add once a certain portion of strings have been translated
 THRESHOLD = 0.5
@@ -120,7 +122,7 @@ def fill_dict(path):
     meta["valid"] = True
 
     # for now uzdoom needs the top left cell to be "default"
-    if meta["id"] == "en_US":
+    if meta["id"] == SOURCE_LANG or meta["id"] == SOURCE_LANG_ALT:
         meta["id"] = "default"
 
     for e in po:
