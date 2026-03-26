@@ -1794,9 +1794,6 @@ msgstr "Показывать эту страницу после обновлен
 msgid "PICKER_TAB_ABOUT"
 msgstr "О"
 
-msgid "NOTES_VERSION"
-msgstr "Версия"
-
 msgid "NOTES_UNKNOWN"
 msgstr "Неизвестный"
 
