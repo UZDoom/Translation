@@ -1812,9 +1812,6 @@ msgstr "Analoge strafe run"
 msgid "NOTES_FAIL"
 msgstr "Kan uitgaveopmerkingen niet parseren"
 
-msgid "NOTES_VERSION"
-msgstr "versie"
-
 msgid "NOTES_UNKNOWN"
 msgstr "Onbekend"
 
