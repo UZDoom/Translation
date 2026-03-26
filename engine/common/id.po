@@ -1793,9 +1793,6 @@ msgstr "Tumpuk pesan berulang"
 msgid "NOTES_FAIL"
 msgstr "Tidak dapat membaca catatan rilis"
 
-msgid "NOTES_VERSION"
-msgstr "versi"
-
 msgid "NOTES_UNKNOWN"
 msgstr "Tidak diketahui"
 
