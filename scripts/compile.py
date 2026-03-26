@@ -303,6 +303,9 @@ def main(args):
 
     table = [header] + [matrix[k] for k in sorted(matrix)]
 
+    if not KEEP_REMARKS:
+        table = [r[0:2] + r[3:] for r in table]
+
     dump_csv(args.output, table)
 
 
