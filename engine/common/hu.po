@@ -1799,9 +1799,6 @@ msgstr "Leírás nem elérhető."
 msgid "NOTES_UNKNOWN"
 msgstr "Ismeretlen"
 
-msgid "NOTES_VERSION"
-msgstr "verzió"
-
 #, fuzzy
 msgid "NOTES_RELEASED"
 msgstr "kiadás"
