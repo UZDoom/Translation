@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-16 09:09+0000\n"
-"Last-Translator: Andras Varro <varro.andras20@gmail.com>\n"
+"PO-Revision-Date: 2026-03-26 06:13+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/uzdoom/common/"
 "hu/>\n"
 "Language: hu\n"
@@ -1802,6 +1802,7 @@ msgstr "Ismeretlen"
 msgid "NOTES_VERSION"
 msgstr "verzió"
 
+#, fuzzy
 msgid "NOTES_RELEASED"
 msgstr "kiadás"
 
