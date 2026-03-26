@@ -2223,10 +2223,6 @@ msgid "NOTES_FAIL"
 msgstr "Unable to parse release notes"
 
 #, fuzzy
-msgid "NOTES_VERSION"
-msgstr "version"
-
-#, fuzzy
 msgid "NOTES_UNKNOWN"
 msgstr "Unknown"
 
