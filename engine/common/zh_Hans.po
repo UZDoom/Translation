@@ -1772,9 +1772,6 @@ msgstr "模拟平移跑"
 msgid "NOTES_FAIL"
 msgstr "无法匹配发布说明"
 
-msgid "NOTES_VERSION"
-msgstr "版本"
-
 msgid "NOTES_UNKNOWN"
 msgstr "未知"
 
