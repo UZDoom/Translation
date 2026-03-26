@@ -1783,9 +1783,6 @@ msgstr "Analogni strejf trk"
 msgid "NOTES_FAIL"
 msgstr "Nije moguće obraditi bilješke o izdanju"
 
-msgid "NOTES_VERSION"
-msgstr "verzija"
-
 msgid "NOTES_UNKNOWN"
 msgstr "Nepoznato"
 
