@@ -1796,9 +1796,6 @@ msgstr "Opções de Acessibilidade"
 msgid "NOTES_FAIL"
 msgstr "Não foi possível analisar as notas de lançamento"
 
-msgid "NOTES_VERSION"
-msgstr "Versão"
-
 msgid "NOTES_UNKNOWN"
 msgstr "Desconhecido"
 
