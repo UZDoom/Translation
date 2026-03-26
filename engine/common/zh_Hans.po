@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-26 06:13+0000\n"
+"PO-Revision-Date: 2026-03-26 08:10+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/common/zh_Hans/>\n"
@@ -1782,8 +1782,9 @@ msgstr "已发布"
 msgid "NOTES_EMPTY"
 msgstr "未提供描述。"
 
+#, fuzzy
 msgid "NOTES_DETAILS"
-msgstr "更多细节查看："
+msgstr "更多细节查看：%s"
 
 msgid "PICKER_SHOWTHIS"
 msgstr "更新后展示此页"
