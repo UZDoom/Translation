@@ -1772,9 +1772,6 @@ msgstr "Analogue strafe run"
 msgid "NOTES_FAIL"
 msgstr "Unable to parse release notes"
 
-msgid "NOTES_VERSION"
-msgstr "version"
-
 msgid "NOTES_UNKNOWN"
 msgstr "Unknown"
 
