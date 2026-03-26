@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-15 00:09+0000\n"
+"PO-Revision-Date: 2026-03-26 06:13+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/common/pl/>"
 "\n"
@@ -1794,6 +1794,7 @@ msgstr "Pokaż listę zmian"
 msgid "PICKER_TAB_RELEASE"
 msgstr "Lista Zmian"
 
+#, fuzzy
 msgid "NOTES_RELEASED"
 msgstr "Wydane"
 
