@@ -141,7 +141,7 @@ def fill_dict(path):
             if meta["valid"]:
                 print(f"in: {path}")
             meta["valid"] = False
-            print(f"redefining: {entry["msgid"]}")
+            print(f"redefining: {entry['msgid']}")
             continue
 
         data[specific_id] = entry
@@ -289,7 +289,7 @@ def main(args):
 
     if po_files is None:
         print(__doc__)
-        print("Available recipes: " + " ".join(RECIPES.keys()))
+        print(f"Available recipes: {' '.join(RECIPES.keys())}")
         sys.exit(1)
 
     languages = po_files["languages"]
