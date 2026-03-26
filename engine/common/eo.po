@@ -1784,9 +1784,6 @@ msgstr "Montri eldonajn notojn"
 msgid "PICKER_SHOWTHIS"
 msgstr "Montri ĉi tiun paĝon post ĝisdatigoj"
 
-msgid "NOTES_VERSION"
-msgstr "versio"
-
 msgid "NOTES_UNKNOWN"
 msgstr "Nekonata"
 
