@@ -1804,9 +1804,6 @@ msgstr "Pokaż tę stronę po aktualizacji"
 msgid "PICKER_TAB_ABOUT"
 msgstr "O"
 
-msgid "NOTES_VERSION"
-msgstr "wersja"
-
 msgid "NOTES_FAIL"
 msgstr "Błąd wczytywania listy zmian"
 
