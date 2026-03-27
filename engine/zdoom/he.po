@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-16 07:08+0000\n"
+"PO-Revision-Date: 2026-03-27 02:33+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/he/>\n"
@@ -51,6 +51,10 @@ msgstr ""
 
 msgid "NEWGAME"
 msgstr ""
+"אתה לא יכול להתחיל משחק חדש\n"
+"בזמן שאתה במשחק על הרשת.\n"
+"\n"
+"תלחץ על כל מקש."
 
 msgid "NIGHTMARE"
 msgstr ""
@@ -63,6 +67,9 @@ msgstr ""
 
 msgid "ENDGAME"
 msgstr ""
+"אתה בטוח שאתה רוצה לסיים את המשחק?\n"
+"\n"
+"תלחץ על Y או N."
 
 msgid "RAVENQUITMSG"
 msgstr ""
@@ -82,9 +89,13 @@ msgstr ""
 
 msgid "QUITMSG3"
 msgstr ""
+"אני לא הייתי יוצא אם הייתי אתה.\n"
+"DOS הרבא יותר נוראי."
 
 msgid "QUITMSG4"
 msgstr ""
+"אתה מנסה לומר שאתה מעדיף DOS\n"
+"יותר ממני, נכון?"
 
 msgid "QUITMSG5"
 msgstr ""
@@ -93,7 +104,7 @@ msgid "QUITMSG6"
 msgstr ""
 
 msgid "QUITMSG7"
-msgstr ""
+msgstr "קדימה, תחפף מפה! תראה אם אכפת לי."
 
 # More info here.
 msgid "QUITMSG8"
@@ -3257,13 +3268,13 @@ msgid "CMPTMNU_EXPLODE2"
 msgstr ""
 
 msgid "PLYRMNU_RED"
-msgstr ""
+msgstr "אדום"
 
 msgid "PLYRMNU_GREEN"
-msgstr ""
+msgstr "ירוק"
 
 msgid "PLYRMNU_BLUE"
-msgstr ""
+msgstr "כחול"
 
 msgid "PLYRMNU_PLAYERCLASS"
 msgstr ""
@@ -3302,13 +3313,13 @@ msgid "CNTRLMNU_USER4"
 msgstr ""
 
 msgid "CNTRLMNU_MOVEUP"
-msgstr ""
+msgstr "תעופה / שחיה למעלה"
 
 msgid "CNTRLMNU_MOVEDOWN"
-msgstr ""
+msgstr "תעופה / שחיה למטה"
 
 msgid "CNTRLMNU_LAND"
-msgstr ""
+msgstr "להפסיק לעוף"
 
 msgid "CNTRLMNU_KEYBOARDLOOK"
 msgstr ""
@@ -3329,7 +3340,7 @@ msgid "CNTRLMNU_DROPWEAPON"
 msgstr ""
 
 msgid "CNTRLMNU_OTHER"
-msgstr ""
+msgstr "אחר"
 
 msgid "CNTRLMNU_COOPSPY"
 msgstr ""
@@ -3359,7 +3370,7 @@ msgid "MAPCOLORMNU_BACKCOLOR"
 msgstr ""
 
 msgid "MAPCOLORMNU_YOURCOLOR"
-msgstr ""
+msgstr "אתה"
 
 msgid "MAPCOLORMNU_WALLCOLOR"
 msgstr ""
@@ -3377,13 +3388,13 @@ msgid "MAPCOLORMNU_GRIDCOLOR"
 msgstr ""
 
 msgid "MAPCOLORMNU_XHAIRCOLOR"
-msgstr ""
+msgstr "נקודת אמצע"
 
 msgid "MAPCOLORMNU_NOTSEENCOLOR"
 msgstr ""
 
 msgid "MAPCOLORMNU_LOCKEDCOLOR"
-msgstr ""
+msgstr "דלתות נעולות"
 
 msgid "MAPCOLORMNU_INTRALEVELCOLOR"
 msgstr ""
@@ -3413,13 +3424,13 @@ msgid "MAPCOLORMNU_THINGCOLOR"
 msgstr ""
 
 msgid "MAPCOLORMNU_MONSTERCOLOR"
-msgstr ""
+msgstr "מפלצות"
 
 msgid "MAPCOLORMNU_NONCOUNTINGMONSTERCOLOR"
 msgstr ""
 
 msgid "MAPCOLORMNU_FRIENDCOLOR"
-msgstr ""
+msgstr "חברים"
 
 msgid "MAPCOLORMNU_ITEMCOLOR"
 msgstr ""
@@ -3437,7 +3448,7 @@ msgid "MAPCOLORMNU_PORTAL"
 msgstr ""
 
 msgid "MSGMNU_TITLE"
-msgstr ""
+msgstr "הודאות"
 
 msgid "MSGMNU_SHOWMESSAGES"
 msgstr ""
