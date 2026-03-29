@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-29 00:09+0000\n"
+"PO-Revision-Date: 2026-03-29 17:49+0000\n"
 "Last-Translator: RageSpark <bgamer332ofc@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "uzdoom/zdoom-engine-strings/pt_BR/>\n"
@@ -5250,3 +5250,12 @@ msgstr "Ajuste de Iluminação"
 
 msgid "LANG_ENG"
 msgstr "Portuguese (Brazil)"
+
+msgid "DSPLYMNU_IMAGEADJUST_TOP1"
+msgstr "De uma distância normal, ajuste as opções abaixo."
+
+msgid "ACTION_COPYTOCLIPBOARD"
+msgstr "Copiar"
+
+msgid "HAPMNU_TITLE"
+msgstr "Opções de Vibração"
