@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-29 00:09+0000\n"
+"PO-Revision-Date: 2026-03-29 17:49+0000\n"
 "Last-Translator: RageSpark <bgamer332ofc@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "uzdoom/common/pt_BR/>\n"
@@ -524,9 +524,8 @@ msgstr "Olhar para a Esquerda/Direita"
 msgid "OPTVAL_LOOKINGUPDOWN"
 msgstr "Olhar para cima/baixo"
 
-#, fuzzy
 msgid "OPTVAL_MOVINGFORWARD"
-msgstr "Mover-se para a frente"
+msgstr "Mover-se para a frente/trás"
 
 #, fuzzy
 msgid "OPTVAL_STRAFING"
@@ -1820,3 +1819,6 @@ msgstr "Sobre"
 
 msgid "PICKER_TAB_RELEASE"
 msgstr "Notas da versão"
+
+msgid "MSGMNU_MESSAGEQUEUE"
+msgstr "Quantidade de Mensagens"
