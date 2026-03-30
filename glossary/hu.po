@@ -196,8 +196,5 @@ msgstr "Zedek"
 msgid "Macil"
 msgstr "Macil"
 
-msgid "Modern (WASD)"
-msgstr "Modern (WASD)"
-
 msgid "Banshee"
 msgstr "Banshee"
