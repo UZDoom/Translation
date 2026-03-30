@@ -184,9 +184,6 @@ msgstr "MBF21"
 msgid "Vassago"
 msgstr "Vassago"
 
-msgid "WASD"
-msgstr "WASD"
-
 msgid "Korax"
 msgstr "Korax"
 
