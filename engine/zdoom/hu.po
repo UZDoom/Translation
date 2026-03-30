@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-30 09:46+0000\n"
+"PO-Revision-Date: 2026-03-31 03:10+0000\n"
 "Last-Translator: Andras Varro <varro.andras20@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/hu/>\n"
@@ -4681,10 +4681,10 @@ msgid "OPTVAL_CLASSICZ"
 msgstr "Klasszikus ZDoom"
 
 msgid "OPTVAL_MODERN"
-msgstr "Modern (WASD)"
+msgstr "Új (WASD)"
 
 msgid "OPTVAL_MODERNLEFT"
-msgstr "Modern (numpad)"
+msgstr "Új (Nyilak)"
 
 msgid "MISCMNU_SETSLOTSTRICT"
 msgstr "Szigorú KEYCONF a Fegyverek/Játékosok esetében"
