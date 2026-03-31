@@ -5183,3 +5183,6 @@ msgstr ""
 
 msgid "OPTMNU_OPENWADS"
 msgstr ""
+
+msgid "SNDMNU_NOMIDIOPTIONS"
+msgstr ""
