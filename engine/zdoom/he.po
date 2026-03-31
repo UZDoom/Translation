@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-29 17:49+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-03-31 03:09+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/he/>\n"
 "Language: he\n"
@@ -5040,3 +5040,6 @@ msgstr ""
 
 msgid "CNTRLMNU_COOPSPYCANCEL"
 msgstr ""
+
+msgid "OPTMNU_ACCESSIBILITY"
+msgstr "הגדרות נגישות"
