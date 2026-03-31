@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-29 17:49+0000\n"
+"PO-Revision-Date: 2026-03-31 03:10+0000\n"
 "Last-Translator: RageSpark <bgamer332ofc@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "uzdoom/zdoom-engine-strings/pt_BR/>\n"
@@ -153,7 +153,6 @@ msgstr ""
 "Olha, se você sair agora, vai perder\n"
 "a sua contagem de vítimas!"
 
-#, fuzzy
 msgid "QUITMSG13"
 msgstr ""
 "Sai daqui. Quando você voltar,\n"
@@ -1277,7 +1276,7 @@ msgid "OB_BEAST"
 msgstr "%o foi carbonizad@[ao_ptb] por um homem-dragão."
 
 msgid "OB_CLINK"
-msgstr "Um Unhas-de-sabre cortou %o."
+msgstr "%o foi cortad@[ao_ptb] por um Unhas-de-sabre."
 
 msgid "OB_DSPARIL1"
 msgstr "%o foi escaldad@[ao_ptb] pela serpente de D'Sparil."
@@ -5259,3 +5258,15 @@ msgstr "Copiar"
 
 msgid "HAPMNU_TITLE"
 msgstr "Opções de Vibração"
+
+msgid "ACCMNU_TOOLTIP_LIGHT_EXTRA"
+msgstr ""
+
+msgid "DSPLYMNU_ROCKETEXPSTYLE"
+msgstr "Estilo Visual da Explosão"
+
+msgid "ACCMNU_LIGHT"
+msgstr "Iluminação"
+
+msgid "LANG_NATIVE"
+msgstr "Português (Brasil)"

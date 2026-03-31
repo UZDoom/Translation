@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-26 03:27+0000\n"
+"PO-Revision-Date: 2026-03-31 03:09+0000\n"
 "Last-Translator: dwing <12104745@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
@@ -5350,3 +5350,6 @@ msgstr "浏览配置"
 
 msgid "OPTMNU_OPENWADS"
 msgstr "浏览IWAD文件夹"
+
+msgid "SNDMNU_NOMIDIOPTIONS"
+msgstr "Midi设备没有提供任何选项。"
