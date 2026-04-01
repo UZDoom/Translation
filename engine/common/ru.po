@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-31 03:10+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-03-31 21:09+0000\n"
+"Last-Translator: Blueberry <igory.ygr200@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/common/"
 "ru/>\n"
 "Language: ru\n"
@@ -53,7 +53,7 @@ msgid "TXT_X_CHEATS"
 msgstr "%s использует чит-коды"
 
 msgid "MSGOFF"
-msgstr "Сообщения: ВЫКЛ"
+msgstr "Сообщения: ОТКЛ"
 
 msgid "MSGON"
 msgstr "Сообщения: ВКЛ"
@@ -116,7 +116,7 @@ msgid "OPTMNU_PLAYER"
 msgstr "Настройка игрока"
 
 msgid "OPTMNU_GAMEPLAY"
-msgstr "Настройки геймплея"
+msgstr "Настройки игры"
 
 msgid "OPTMNU_AUTOMAP"
 msgstr "Настройки автокарты"
@@ -526,9 +526,8 @@ msgstr "Взгляд вверх/вниз"
 msgid "OPTVAL_MOVINGFORWARD"
 msgstr "Движение вперёд/назад"
 
-#, fuzzy
 msgid "OPTVAL_STRAFING"
-msgstr "Движение лево/право (боком)"
+msgstr "Движение влево/вправо"
 
 msgid "OPTVAL_MOVINGUPDOWN"
 msgstr "Движение вверх/вниз"
@@ -1819,7 +1818,7 @@ msgid "NOTES_FAIL"
 msgstr "Невозможно распознать замечания к версии"
 
 msgid "ACCMNU_TITLE"
-msgstr "Настройки Доступности"
+msgstr "Настройки доступности"
 
 msgid "MSGMNU_STACKIDENTICAL"
 msgstr "Куча повторяющихся сообщений"
