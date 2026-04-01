@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-22 03:21+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-04-01 17:09+0000\n"
+"Last-Translator: Andras Varro <varro.andras20@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/doom-engine-"
 "games/chex-quest-3-filter/hu/>\n"
 "Language: hu\n"
@@ -27,16 +27,16 @@ msgid "GOTGOGGLES"
 msgstr "Ultraszemüveg felvéve"
 
 msgid "PD_BLUECO"
-msgstr "Egy kék kulcs szükséges az objektum aktiválásához."
+msgstr "Egy kék kulcs szükséges az objektum aktiválásához"
 
 msgid "PD_REDCO"
-msgstr "Egy piros kulcs szükséges az objektum aktiválásához."
+msgstr "Egy piros kulcs szükséges az objektum aktiválásához"
 
 msgid "PD_YELLOWCO"
 msgstr "Egy sárga kulcs szükséges az objektum aktiválásához"
 
 msgid "PD_BLUEFO"
-msgstr "Egy kék slejmkulcs szükséges az objektum aktiválásához."
+msgstr "Egy kék slejmkulcs szükséges az objektum aktiválásához"
 
 msgid "PD_REDFO"
 msgstr "Egy piros slejmkulcs szükséges az objektum aktiválásához."
@@ -237,13 +237,13 @@ msgid "M_EPI3"
 msgstr "Invázió!"
 
 msgid "TAG_GOGGLES"
-msgstr ""
+msgstr "Ultra Szemüveg"
 
 msgid "TAG_BLUEFLEMKEY"
-msgstr ""
+msgstr "Kék Flemkulcs"
 
 msgid "TAG_YELLOWFLEMKEY"
-msgstr ""
+msgstr "Sárga Flemkulcs"
 
 msgid "TAG_REDFLEMKEY"
-msgstr ""
+msgstr "Piros Flemkulcs"
