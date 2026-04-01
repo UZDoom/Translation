@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-31 21:09+0000\n"
+"PO-Revision-Date: 2026-04-01 15:09+0000\n"
 "Last-Translator: Blueberry <igory.ygr200@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/common/"
 "ru/>\n"
@@ -778,7 +778,6 @@ msgstr "Расширенные настройки"
 msgid "SNDMNU_MODREPLAYER"
 msgstr "Параметры воспроизведения модулей"
 
-#, fuzzy
 msgid "SNDMNU_MIDIPLAYER"
 msgstr "Настройки MIDI-проигрывателя"
 
@@ -973,31 +972,24 @@ msgstr "Dumb"
 msgid "MODMNU_CHIPOMATIC"
 msgstr "Chip-o-matic"
 
-#, fuzzy
 msgid "OPTVAL_MAMEOPL2"
 msgstr "MAME OPL2"
 
-#, fuzzy
 msgid "OPTVAL_DOSBOXOPL3"
 msgstr "DOSBox OPL3"
 
-#, fuzzy
 msgid "OPTVAL_JAVAOPL3"
 msgstr "Java OPL3"
 
-#, fuzzy
 msgid "OPTVAL_ESFMu"
 msgstr "ESFMu OPL3"
 
-#, fuzzy
 msgid "OPTVAL_YMFMOPL2"
 msgstr "YMFM OPL2"
 
-#, fuzzy
 msgid "OPTVAL_YMFMOPL3"
 msgstr "YMFM OPL3"
 
-#, fuzzy
 msgid "OPTVAL_NUKEDOPL3"
 msgstr "Nuked OPL3"
 
@@ -1010,27 +1002,21 @@ msgstr "OPL3-LLE (интенсивно производительный)"
 msgid "OPTVAL_MAMEOPN2"
 msgstr "MAME OPN2 (YM2612)"
 
-#, fuzzy
 msgid "OPTVAL_NP2OPNA"
 msgstr "Neko Project II Kai OPNA"
 
-#, fuzzy
 msgid "OPTVAL_MAMEOPNA"
 msgstr "MAME YM2608"
 
-#, fuzzy
 msgid "OPTVAL_OPALOPL3"
 msgstr "Opal OPL3"
 
-#, fuzzy
 msgid "OPTVAL_NUKEDOPL3174"
-msgstr "Nuked OPL3 v1.7.4"
+msgstr "Nuked OPL3 вер. 1.7.4"
 
-#, fuzzy
 msgid "OPTVAL_NUKEDOPN2YM3438"
 msgstr "Nuked OPN2 (YM3438)"
 
-#, fuzzy
 msgid "OPTVAL_NUKEDOPN2YM2612"
 msgstr "Nuked OPN2 (YM2612)"
 
@@ -1046,11 +1032,9 @@ msgstr "OPN2-LLE (YMF276) (интенсивно производительный
 msgid "OPTVAL_GENSOPN2"
 msgstr "GENS OPN2 (YM2612)"
 
-#, fuzzy
 msgid "OPTVAL_YMFMOPN2"
 msgstr "YMFM OPN2"
 
-#, fuzzy
 msgid "OPTVAL_YMFMOPNA"
 msgstr "YMFM OPNA"
 
@@ -1550,7 +1534,6 @@ msgstr "NormalNx"
 msgid "OPTVAL_HQNX"
 msgstr "hqNx"
 
-#, fuzzy
 msgid "OPTVAL_HQNXMMX"
 msgstr "hqNx MMX"
 
@@ -1583,9 +1566,8 @@ msgstr "0"
 # This should list all uppercase characters that are REQUIRED for proper
 # language display. If it is acceptable that accents get omitted a character
 # should NOT be listed here!
-#, fuzzy
 msgid "REQUIRED_CHARACTERS"
-msgstr "АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ"
+msgstr "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ"
 
 msgid "OPTMNU_FULLOPTIONS"
 msgstr "Полное меню настроек"
@@ -1797,14 +1779,12 @@ msgstr "О"
 msgid "NOTES_UNKNOWN"
 msgstr "Неизвестный"
 
-#, fuzzy
 msgid "NOTES_RELEASED"
-msgstr "выпущен"
+msgstr "Версия %s %s, выпущена %s"
 
 msgid "NOTES_EMPTY"
 msgstr "Описание не приводится."
 
-#, fuzzy
 msgid "NOTES_DETAILS"
 msgstr "Более подробно здесь: %s"
 

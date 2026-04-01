@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-30 09:46+0000\n"
+"PO-Revision-Date: 2026-04-01 17:58+0000\n"
 "Last-Translator: Andras Varro <varro.andras20@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/uzdoom/"
 "glossary/hu/>\n"
@@ -198,3 +198,7 @@ msgstr "Macil"
 
 msgid "Banshee"
 msgstr "Banshee"
+
+msgctxt "Jargon."
+msgid "Locus Requiescat"
+msgstr "Locus Requiescat"
