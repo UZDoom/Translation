@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-04-01 13:09+0000\n"
+"PO-Revision-Date: 2026-04-01 15:09+0000\n"
 "Last-Translator: Blueberry <igory.ygr200@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/common/"
 "ru/>\n"
@@ -1012,7 +1012,7 @@ msgid "OPTVAL_OPALOPL3"
 msgstr "Opal OPL3"
 
 msgid "OPTVAL_NUKEDOPL3174"
-msgstr "Nuked OPL3 v1.7.4"
+msgstr "Nuked OPL3 вер. 1.7.4"
 
 msgid "OPTVAL_NUKEDOPN2YM3438"
 msgstr "Nuked OPN2 (YM3438)"
