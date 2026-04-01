@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-18 01:09+0000\n"
+"PO-Revision-Date: 2026-04-01 17:09+0000\n"
 "Last-Translator: Andras Varro <varro.andras20@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/doom-engine-"
 "games/hacx-filter/hu/>\n"
@@ -17,13 +17,15 @@ msgid "QUITMSG1"
 msgstr "Túl erősek neked a bogarak is?"
 
 msgid "QUITMSG"
-msgstr "Biztos vagy benne, hogy kihúzod a kábelt?"
+msgstr ""
+"Biztos vagy benne, hogy\\n"
+"kihúzod a kábelt?"
 
 msgid "QUITMSG2"
 msgstr "Próbálasz kilépni? És még te nevezed magad hekkernek?"
 
 msgid "QUITMSG3"
-msgstr "Gyere csak vissza, mielőtt feldugok neked egy vírust."
+msgstr "Gyere csak vissza, mielőtt feldugok neked egy vírust!"
 
 msgid "QUITMSG4"
 msgstr "Az igazi hekkerek sosem húzzák ki a kábelt."
@@ -32,7 +34,7 @@ msgid "QUITMSG5"
 msgstr "Nemár! Még nem is láttad a legjobb részt!"
 
 msgid "QUITMSG6"
-msgstr "Ha most feladod, akkor a cyberspacenek lőttek."
+msgstr "Ha most feladod, akkor a cyberspacenek lőttek!"
 
 msgid "QUITMSG7"
 msgstr "GENIE üdvözletét küldi, te mocsok!"
@@ -370,7 +372,7 @@ msgstr ""
 "Már...csak Te maradtál."
 
 msgid "TXT_HACXMAP01"
-msgstr ""
+msgstr "GenEmp Kft."
 
 msgid "TXT_HACXMAP02"
 msgstr "Kanális Község"
@@ -385,7 +387,7 @@ msgid "TXT_HACXMAP05"
 msgstr "Kiber Cirkusz"
 
 msgid "TXT_HACXMAP06"
-msgstr ""
+msgstr "Digitális-Ota"
 
 msgid "TXT_HACXMAP07"
 msgstr "A Nagy Fal"
