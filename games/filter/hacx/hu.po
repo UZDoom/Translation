@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-04-02 19:09+0000\n"
+"PO-Revision-Date: 2026-04-02 21:09+0000\n"
 "Last-Translator: Andras Varro <varro.andras20@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/doom-engine-"
 "games/hacx-filter/hu/>\n"
@@ -49,28 +49,28 @@ msgid "QUITMSG10"
 msgstr "Inkább a kék pirulát kellett volna választanod."
 
 msgid "QUITMSG11"
-msgstr "A játék neve nem Twitch n' Megfutamodás."
+msgstr "A játék neve nem Twitch n' Megfutamodás!"
 
 msgid "QUITMSG12"
 msgstr "Semmi pánik. A világmegmentés várhat, nemde?"
 
 msgid "QUITMSG13"
-msgstr "Kettéváglak mint a netsplit a kapcsolatot."
+msgstr "Kettéváglak mint a netsplit a kapcsolatot!"
 
 msgid "QUITMSG14"
 msgstr "Ha elkalandozol, ne feletkezz meg a HacX-ről!"
 
 msgid "OB_SUICIDE"
-msgstr "%o kitörölte magát az univerzumból"
+msgstr "%o kitörölte magát az univerzumból."
 
 msgid "OB_FALLING"
 msgstr "%o egy Kansas méretű krátert hagyott maga után."
 
 msgid "OB_CRUSH"
-msgstr "%o palacsintává lapult"
+msgstr "%o emberi palacsintává lapult."
 
 msgid "OB_EXIT"
-msgstr "%o ki akarta húzni a kábelét"
+msgstr "%o ki akarta húzni a kábelét."
 
 msgid "OB_WATER"
 msgstr "%o úgy úszik mint egy tégla."
@@ -94,7 +94,7 @@ msgid "OB_ROCKET"
 msgstr "%o meg akarta tudni %g hogy néz ki belülről."
 
 msgid "OB_KILLEDSELF"
-msgstr "%o kitörölte magát az univerzumból"
+msgstr "%o kitörölte magát az univerzumból."
 
 msgid "OB_THUG"
 msgstr "Már nem %o a csúcsragadozó."
@@ -250,7 +250,7 @@ msgid "GOTFORCEFIELD"
 msgstr "Erőtér!"
 
 msgid "GOTMICROTEL"
-msgstr ""
+msgstr "007Mikrotel"
 
 msgid "GOTENKBLIND"
 msgstr "EnK védett lettél!"
@@ -295,7 +295,7 @@ msgid "GOTBODYARMOR"
 msgstr "Testpáncél!"
 
 msgid "GOTCENTROPHENOXINE"
-msgstr ""
+msgstr "Centrophenixine"
 
 msgid "GOTKEVLARVEST"
 msgstr "Felkapsz egy Golyóálló Mellényt!"
@@ -438,7 +438,7 @@ msgid "TXT_HACXMAP17"
 msgstr "Vérfolyó"
 
 msgid "TXT_HACXMAP18"
-msgstr ""
+msgstr "Bizárró"
 
 msgid "TXT_HACXMAP19"
 msgstr "Háborús Terem"
@@ -503,7 +503,8 @@ msgstr "- nyomj Y-t a nyúlcipő felhúzáshoz -"
 
 msgid "ENDGAME"
 msgstr ""
-"Őrült vagy, vagy csak simán rosszul vagy összerakva? Nos? Igen vagy Nem!"
+"Őrült vagy, vagy csak simán rosszul vagy összerakva?\n"
+"Nos? Igen vagy Nem!"
 
 msgid "NIGHTMARE"
 msgstr ""
@@ -533,16 +534,16 @@ msgid "CC_THUG"
 msgstr "Bandatag"
 
 msgid "CC_ANDROID"
-msgstr ""
+msgstr "Android"
 
 msgid "CC_ICE"
-msgstr ""
+msgstr "Jég"
 
 msgid "CC_BUZZER"
 msgstr "Sokkoló"
 
 msgid "CC_DMAN"
-msgstr ""
+msgstr "D-Ember"
 
 msgid "CC_PHAGE"
 msgstr "Fekély"
@@ -554,13 +555,13 @@ msgid "CC_MECH"
 msgstr "Mecha Megszállott"
 
 msgid "CC_TERMI"
-msgstr ""
+msgstr "Terminátrix"
 
 msgid "CC_THORN"
 msgstr "Tövis Úrnő"
 
 msgid "CC_MAJONG"
-msgstr ""
+msgstr "Madzsong 7"
 
 msgid "CC_HERO"
 msgstr ""
