@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-18 01:09+0000\n"
+"PO-Revision-Date: 2026-04-02 19:09+0000\n"
 "Last-Translator: Andras Varro <varro.andras20@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/doom-engine-"
 "games/strife/hu/>\n"
@@ -2325,9 +2325,8 @@ msgstr "Remek, ez könnyűnek hangzik."
 
 msgid "TXT_DLG_SCRIPT17_D12128_THERE"
 msgstr ""
-"Van amúgy egy előnye a számítógép szobának, ott tartják ugyanis a torony "
-"terveit ott tárolják. Mi lenne mondjuk ha véletlen magaddal hoznád őket? heh "
-"heh!"
+"Okos ötlet szétrombolni a számítógépet, hiszen a torony terveit ott "
+"tárolják. Mondhatni, kiverheted a biztosítékot? Heh heh!"
 
 msgid "TXT_RPLY0_SCRIPT17_D12128_ANYTH"
 msgstr "Valami más még?"
@@ -4375,7 +4374,7 @@ msgid "TXT_SUB_LOG30"
 msgstr "Pont ez hiányzott. Még több barna trutymák."
 
 msgid "TXT_SUB_LOG31"
-msgstr "Nézz oda! Azt hiszem ez az az ajtó amit félig ki akar nyitni Weran."
+msgstr "Nézz oda! Azt hiszem ez az a kapu, amit félig ki akar nyitni Weran!"
 
 msgid "TXT_SUB_LOG32"
 msgstr ""
@@ -4422,7 +4421,7 @@ msgstr ""
 "lobogó... amondó vagyok megleltük."
 
 msgid "TXT_SUB_LOG43"
-msgstr "Ez a hírhedt Progamozó? Nincs az az isten!"
+msgstr "Ez a hírhedt Programozó? Nincs az az isten!"
 
 msgid "TXT_SUB_LOG44"
 msgstr ""
