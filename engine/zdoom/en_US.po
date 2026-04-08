@@ -6763,3 +6763,6 @@ msgstr "Browse IWAD Folder"
 
 msgid "SNDMNU_NOMIDIOPTIONS"
 msgstr "Midi device does not expose any options."
+
+msgid "CMPTMNU_EMULATEMIKOPORTALS"
+msgstr "Emulate Mikoportals"
