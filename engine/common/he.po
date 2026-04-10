@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-29 17:49+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-04-08 03:09+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/uzdoom/common/he/>"
 "\n"
 "Language: he\n"
@@ -541,13 +541,13 @@ msgid "OPTVAL_NOTINVERTED"
 msgstr ""
 
 msgid "TXT_COLOR_BLUE"
-msgstr ""
+msgstr "כחול"
 
 msgid "TXT_COLOR_RED"
-msgstr ""
+msgstr "אדום"
 
 msgid "TXT_COLOR_GREEN"
-msgstr ""
+msgstr "ירוק"
 
 msgid "TXT_COLOR_GRAY"
 msgstr ""
