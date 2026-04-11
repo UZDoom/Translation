@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-31 03:10+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-04-11 10:11+0000\n"
+"Last-Translator: Ron Dallas <Lot_bohdan@ukr.net>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/common/"
 "uk/>\n"
 "Language: uk\n"
@@ -310,10 +310,10 @@ msgstr "Попередній предмет"
 
 # most are not used yet but will be
 msgid "MAPCNTRLMNU_TITLE"
-msgstr "Клавіші керування автомапою"
+msgstr "Клавіші керування автокартою"
 
 msgid "MAPCNTRLMNU_CONTROLS"
-msgstr "Автомапа"
+msgstr "Автокарта"
 
 msgid "MAPCNTRLMNU_PANLEFT"
 msgstr "Зсув вліво"
@@ -349,7 +349,7 @@ msgid "MAPCNTRLMNU_TOGGLETEXTURE"
 msgstr "Увімкнути текстури"
 
 msgid "CNTRLMNU_AUTOMAP"
-msgstr "Відкрити автомапу"
+msgstr "Відкрити автокарту"
 
 msgid "CNTRLMNU_CHASECAM"
 msgstr "Вид від третьої особи"
@@ -517,20 +517,17 @@ msgstr "Немає настроюваних осей"
 msgid "OPTVAL_NONE"
 msgstr "Вимк"
 
-#, fuzzy
 msgid "OPTVAL_TURNING"
-msgstr "Поворот"
+msgstr "Дивитися вліво/вправо"
 
 msgid "OPTVAL_LOOKINGUPDOWN"
 msgstr "Дивитись вгору"
 
-#, fuzzy
 msgid "OPTVAL_MOVINGFORWARD"
-msgstr "Рухатись вперед"
+msgstr "Рухатись вперед/назад"
 
-#, fuzzy
 msgid "OPTVAL_STRAFING"
-msgstr "Рухатись боком"
+msgstr "Рухатись вліво/вправо"
 
 msgid "OPTVAL_MOVINGUPDOWN"
 msgstr "Рухатись вгору/вниз"
@@ -781,9 +778,8 @@ msgstr "Розширені налаштування"
 msgid "SNDMNU_MODREPLAYER"
 msgstr "Параметри \"Module replayer\""
 
-#, fuzzy
 msgid "SNDMNU_MIDIPLAYER"
-msgstr "Параметри MIDI-програвача"
+msgstr "Параметри MIDI-пристрою"
 
 msgid "ADVSNDMNU_TITLE"
 msgstr "Розширені налаштування звуку"
@@ -1028,17 +1024,14 @@ msgstr "Nuked OPN2 (YM3438)"
 msgid "OPTVAL_NUKEDOPN2YM2612"
 msgstr "Nuked OPN2 (YM2612)"
 
-#, fuzzy
 msgid "OPTVAL_OPN2YM2612LLE"
-msgstr "OPN2-LLE (YM2612) (Дуже важке!)"
+msgstr "OPN2-LLE (YM2612) (вимогливе до продуктивності)"
 
-#, fuzzy
 msgid "OPTVAL_OPN2YM3438LLE"
-msgstr "OPN2-LLE (YM3438) (Дуже важке!)"
+msgstr "OPN2-LLE (YM3438) (вимогливе до продуктивності)"
 
-#, fuzzy
 msgid "OPTVAL_OPN2YMF276LLE"
-msgstr "OPN2-LLE (YMF276) (Дуже важке!)"
+msgstr "OPN2-LLE (YMF276) (вимогливе до продуктивності)"
 
 msgid "OPTVAL_GENSOPN2"
 msgstr "GENS OPN2 (YM2612)"
@@ -1148,22 +1141,22 @@ msgid "OPTVAL_PALETTE"
 msgstr "Палітра гри"
 
 msgid "OPTVAL_LOW"
-msgstr "Низьке"
+msgstr "Низька"
 
 msgid "OPTVAL_MEDIUM"
-msgstr "Середнє"
+msgstr "Середня"
 
 msgid "OPTVAL_HIGH"
-msgstr "Високе"
+msgstr "Висока"
 
 msgid "OPTVAL_EXTREME"
-msgstr "Максимальне"
+msgstr "Максимальна"
 
 msgid "OPTVAL_OBVERSEFIRST"
 msgstr "Прямий"
 
 msgid "OPTVAL_REVERSEFIRST"
-msgstr "Зворотний"
+msgstr "Зворотній"
 
 msgid "GLMNU_POSTPROCESS"
 msgstr "Постобробка"
@@ -1369,7 +1362,7 @@ msgid "OPTVAL_LOWEST"
 msgstr "Найменш можливий масштаб"
 
 msgid "OPTVAL_CUSTOM"
-msgstr "Корист"
+msgstr "Користувацьке"
 
 msgid "VIDMNU_MAXFPS"
 msgstr "Макс. частота кадрів"
@@ -1436,7 +1429,7 @@ msgid "MISCMNU_CLEANMENU"
 msgstr "Класичне масштабування меню ZDoom"
 
 msgid "MISCMNU_PAUSEINBACKGROUND"
-msgstr "Пауза при згортуванні вікна"
+msgstr "Пауза при згортанні вікна"
 
 msgid "HUDMNU_CROSSHAIR"
 msgstr "Типи прицілів"
@@ -1476,10 +1469,10 @@ msgid "REVMNU_NEW"
 msgstr "Нове оточення"
 
 msgid "REVMNU_Reflections_Scale"
-msgstr ""
+msgstr "Масштаб віддзеркалень"
 
 msgid "REVMNU_Reflections_Delay_Scale"
-msgstr ""
+msgstr "Масштаб затримки віддзеркалень"
 
 msgid "REVMNU_Decay_Time_Scale"
 msgstr ""
@@ -1635,16 +1628,16 @@ msgid "PICKER_FULLSCREEN"
 msgstr "Повноекранний режим"
 
 msgid "PICKER_NOAUTOLOAD"
-msgstr "Вимкнути автозавантаження"
+msgstr "Вимкнути автозавант."
 
 msgid "PICKER_DONTASK"
 msgstr "Не запитуйте мене більше"
 
 msgid "PICKER_LIGHTS"
-msgstr "Освітлення"
+msgstr "Динамічне освітлення"
 
 msgid "PICKER_BRIGHTMAPS"
-msgstr "Яскраві карти"
+msgstr "Карти яскравості"
 
 msgid "PICKER_WIDESCREEN"
 msgstr "Широкоформатний"
@@ -1703,7 +1696,7 @@ msgstr "Запам'ятати параметри"
 
 # For stuff like id24.
 msgid "PICKER_SUPPORTWADS"
-msgstr "Завантажити допоміжні вади"
+msgstr "Підключити допоміжні WADи"
 
 msgid "PICKER_TAB_MULTI"
 msgstr "Гра в мережі"
@@ -1754,7 +1747,7 @@ msgid "PICKER_ALTDM"
 msgstr "Використовувати альтернативні правила дезматчу"
 
 msgid "PICKER_PLAYERS"
-msgstr "Максимум гравців:"
+msgstr "Макс. гравців:"
 
 #, fuzzy
 msgid "PICKER_PORT"
@@ -1813,9 +1806,8 @@ msgstr "Не вдалося проаналізувати нотатки до в�
 msgid "NOTES_UNKNOWN"
 msgstr "Невідомо"
 
-#, fuzzy
 msgid "NOTES_RELEASED"
-msgstr "випущено"
+msgstr "%s версії %s, випущено %s"
 
 msgid "NOTES_EMPTY"
 msgstr "Опис не надано."
