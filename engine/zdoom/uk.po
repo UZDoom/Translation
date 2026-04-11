@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-04-11 10:11+0000\n"
+"PO-Revision-Date: 2026-04-11 23:09+0000\n"
 "Last-Translator: Ron Dallas <Lot_bohdan@ukr.net>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/uk/>\n"
@@ -5295,3 +5295,65 @@ msgstr ""
 "Регулює сприйняття відмінностей між схожими кольорами. Контролює, наскільки "
 "чіткими/розмитими виглядатимуть зображення. Налаштуйте відповідно до власних "
 "уподобань."
+
+msgid "DSPLYMNU_TOOLTIP_SATURATION"
+msgstr ""
+"Регулює інтенсивність кольорів, роблячи зображення більш яскравим або "
+"приглушеним. Налаштуйте відповідно до власних уподобань."
+
+msgid "DSPLYMNU_IMAGEADJUST_BOTTOM"
+msgstr "Регулюйте, поки колір не стане рівномірним сірим."
+
+msgid "ACTION_COPYTOCLIPBOARD"
+msgstr "Скопіювати в буфер обміну"
+
+msgid "ACTION_RESTART"
+msgstr "Рестарт"
+
+msgid "ACTION_ABORT"
+msgstr "Скасувати"
+
+msgid "ACTION_STARTGAME"
+msgstr "Почати гру"
+
+msgid "ACTION_KICK"
+msgstr "Викинути"
+
+msgid "ACTION_BAN"
+msgstr "Забанити"
+
+msgid "ERRORMNU_SAVE"
+msgstr "Зберегти звіт"
+
+msgid "ERROR_FATAL"
+msgstr "Критична помилка"
+
+msgid "ERROR_ABORT"
+msgstr "Не вдалося продовжити виконання."
+
+msgid "FILEPICKER_ANY"
+msgstr "Усі файли"
+
+msgid "FILEPICKER_REPORTS"
+msgstr "ZIP-архів із звітами про збої"
+
+msgid "PICKER_PLAYERCLASS"
+msgstr "Клас гравця"
+
+msgid "LANG_NATIVE"
+msgstr "Англійська (США)"
+
+msgid "LANG_ENG"
+msgstr "Англійська (США)"
+
+msgid "ACTION_OPENWADDIR"
+msgstr "Оглянути WAD-и"
+
+msgid "ACTION_OPENCONFIGDIR"
+msgstr "Оглянути файли конфігурацій"
+
+msgid "OPTMNU_OPENWADS"
+msgstr "Оглянути папку IWAD-ів"
+
+msgid "SNDMNU_NOMIDIOPTIONS"
+msgstr "Пристрій Midi не надає жодних налаштувань."
