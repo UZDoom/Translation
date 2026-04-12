@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-18 03:02+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-04-11 23:09+0000\n"
+"Last-Translator: Ron Dallas <Lot_bohdan@ukr.net>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/uk/>\n"
 "Language: uk\n"
@@ -156,11 +156,10 @@ msgstr ""
 "Слухай друже. Якщо підеш зараз –\n"
 "твій лічильник вбивств впаде до нуля!"
 
-#, fuzzy
 msgid "QUITMSG13"
 msgstr ""
-"Давай, йди.\n"
-"Бита почекає тебе."
+"Давай, йди. Коли ти повернешся,\n"
+"я з битою чекатиму на тебе."
 
 msgid "QUITMSG14"
 msgstr ""
@@ -311,13 +310,11 @@ msgstr "Прохід крізь стіни: ВВІМК"
 msgid "STSTR_NCOFF"
 msgstr "Прохід крізь стіни: ВИМК"
 
-#, fuzzy
 msgid "STSTR_NC2ON"
-msgstr "Проліт крізь стіни: ВВІМК"
+msgstr "3D Проліт крізь стіни: Увімк."
 
-#, fuzzy
 msgid "STSTR_NC2OFF"
-msgstr "Проліт крізь стіни: ВИМК"
+msgstr "3D Проліт крізь стіни: Вимк."
 
 # “inVuln”: Invulnerability sphere
 # “Str”: Berserk
@@ -535,9 +532,8 @@ msgstr "Схованки"
 msgid "SCORE_NAME"
 msgstr "Гравець"
 
-#, fuzzy
 msgid "SCORE_DELAY"
-msgstr "Затримка (мс)"
+msgstr "Затримка"
 
 msgid "SCORE_FRAGS"
 msgstr "Фраги"
@@ -3127,7 +3123,7 @@ msgid "GMPLYMNU_BFGFREEAIM"
 msgstr "Дозволити прицілювання з BFG"
 
 msgid "GMPLYMNU_ALLOWAUTOMAP"
-msgstr "Дозволити автомапу"
+msgstr "Дозволити автокарту"
 
 msgid "GMPLYMNU_AUTOMAPALLIES"
 msgstr "Показувати союзників на автокарті"
@@ -3148,7 +3144,7 @@ msgid "GMPLYMNU_NOCOUNTENDMONSTER"
 msgstr "Враховувати до % вбивства монстрів в секторах виходу (Е1М8)"
 
 msgid "GMPLYMNU_DEATHMATCH"
-msgstr "Налаштування смертельної сутички"
+msgstr "Налаштування дезматчу"
 
 msgid "GMPLYMNU_WEAPONSSTAY"
 msgstr "Залишати зброю після підняття"
@@ -3259,7 +3255,7 @@ msgid "CMPTMNU_INVISIBILITY"
 msgstr "Монстри бачать невидимих гравців"
 
 msgid "CMPTMNU_MINOTAUR"
-msgstr "Мінотаури не створюють вогонь в воді"
+msgstr "Мінотаври не створюють вогонь в воді"
 
 msgid "CMPTMNU_NOTOSSDROPS"
 msgstr "Викинуті предмети з'являються на землі"
@@ -3394,7 +3390,7 @@ msgid "PLYRMNU_PLAYERSKIN"
 msgstr "Скін"
 
 msgid "PLYRMNU_SWITCHONPICKUP"
-msgstr "Зміна зброї при підйомі"
+msgstr "Зміна зброї при піднятті"
 
 msgid "PLYRMNU_PRESSSPACE"
 msgstr "Натисніть \\cjПРОБІЛ"
@@ -3652,7 +3648,7 @@ msgid "AUTOMAPMNU_SHOWTRIGGERLINES"
 msgstr "Показати трігер лінії"
 
 msgid "AUTOMAPMNU_SHOWTHINGSPRITES"
-msgstr "Показати спрайте об'єктів"
+msgstr "Показати спрайти об'єктів"
 
 msgid "AUTOMAPMNU_PTOVERLAY"
 msgstr "Показати портали в режимі оверлею"
@@ -3694,10 +3690,10 @@ msgid "SCRBRDMNU_OTHERPLAYERCOLOR"
 msgstr "Колір інших гравців"
 
 msgid "SCRBRDMNU_DEATHMATCH"
-msgstr "Параметри бою на смерть"
+msgstr "Параметри дезматчу"
 
 msgid "SCRBRDMNU_TEAMDEATHMATCH"
-msgstr "Параметри командного бою на смерть"
+msgstr "Параметри командного дезматчу"
 
 msgid "ALTHUDMNU_TITLE"
 msgstr "Альтернативний інтерфейс"
@@ -3952,7 +3948,7 @@ msgid "HUDMNU_SCALEOPT"
 msgstr "Налаштування масштабування"
 
 msgid "MISCMNU_QUERYIWAD"
-msgstr "Показувати вибір IWAD при запуску"
+msgstr "Показувати вікно вибору IWAD при запуску"
 
 msgid "MISCMNU_ALLCHEATS"
 msgstr "Використовувати чіти з усіх ігр"
@@ -4693,7 +4689,7 @@ msgid "MISCMNU_SETSLOTSTRICT"
 msgstr "Суворе налаштування клавіш для зброї/гравців"
 
 msgid "MISCMNU_WIPERCENT"
-msgstr "Використовуйте відсотки на екрані статистики"
+msgstr "Використовувати відсотки на екрані статистики"
 
 msgid "MISCMNU_CLEANSTAT"
 msgstr "Класичний розмір екрану статистики ZDoom"
@@ -4811,12 +4807,11 @@ msgstr "Вимкнути підбір випавших предметів на �
 # Disables autoloading save on death
 #, fuzzy
 msgid "MISCMNU_RESTARTONDEATH"
-msgstr "Перезавантажувати карту після смерті гравця"
+msgstr "Старт з пістолета після смерті гравця"
 
 # Resets inventory on every map
-#, fuzzy
 msgid "GMPLYMNU_PISTOLSTART"
-msgstr "Старт тільки з пістолетом"
+msgstr "Стартувати з пістолетом кожну карту"
 
 msgid "CMPTMNU_VOODOOZOMBIES"
 msgstr "Дозволити створення гравців-зомбі"
@@ -4986,9 +4981,8 @@ msgid "OPTMNU_HAPTICS"
 msgstr "Налаштування тактильності"
 
 # How the engine should handle haptics in old mods
-#, fuzzy
 msgid "HAPMNU_COMPAT"
-msgstr "Рівень сумісності з тактильним зворотним зв'язком"
+msgstr "Рівень сумісності з тактильним зворотнім зв'язком"
 
 msgid "OPTVAL_MATCH"
 msgstr "Матч"
@@ -4997,9 +4991,8 @@ msgstr "Матч"
 msgid "OPTVAL_WARN"
 msgstr "Попередження"
 
-#, fuzzy
 msgid "HAPMNU_OPTIONS"
-msgstr "Налаштування джерел тактильного зворотного зв'язку"
+msgstr "Налаштування джерел тактильного зворотнього зв'язку"
 
 # Rumble when using ui elements
 #, fuzzy
@@ -5267,3 +5260,100 @@ msgstr "Розсіювач"
 #, fuzzy
 msgid "TAG_GLAUNCHER"
 msgstr "Гранатомет"
+
+msgid "CMPTMNU_AUTO"
+msgstr "Автоматично визначати налаштування сумісності"
+
+msgid "CMPTMNU_EMULATEMIKOPORTALS"
+msgstr "Емулювати Mikoportal-и"
+
+msgid "HAPMNU_TITLE"
+msgstr "Налаштування відгуку тактильності"
+
+msgid "OPENALMNU_MUSICMODE"
+msgstr "Режим музики"
+
+msgid "ACCMNU_LIGHT_EXTRA"
+msgstr "Додаткове освітлення"
+
+msgid "ACCMNU_LIGHT"
+msgstr "Освітлення"
+
+msgid "CNTRLMNU_ADJUST_LIGHTS"
+msgstr "Коригування освітлення"
+
+msgid "DSPLYMNU_TOOLTIP_IMAGEADJUST_RESET"
+msgstr "Скидає всі параметри в цьому меню до значень за замовчуванням."
+
+msgid "DSPLYMNU_TOOLTIP_BRIGHTNESS"
+msgstr ""
+"Застосовує лінійне регулювання яскравості. Налаштуйте відповідно до власних "
+"уподобань або для того, щоб бачити в темряві."
+
+msgid "DSPLYMNU_TOOLTIP_CONTRAST"
+msgstr ""
+"Регулює сприйняття відмінностей між схожими кольорами. Контролює, наскільки "
+"чіткими/розмитими виглядатимуть зображення. Налаштуйте відповідно до власних "
+"уподобань."
+
+msgid "DSPLYMNU_TOOLTIP_SATURATION"
+msgstr ""
+"Регулює інтенсивність кольорів, роблячи зображення більш яскравим або "
+"приглушеним. Налаштуйте відповідно до власних уподобань."
+
+msgid "DSPLYMNU_IMAGEADJUST_BOTTOM"
+msgstr "Регулюйте, поки колір не стане рівномірним сірим."
+
+msgid "ACTION_COPYTOCLIPBOARD"
+msgstr "Скопіювати в буфер обміну"
+
+msgid "ACTION_RESTART"
+msgstr "Рестарт"
+
+msgid "ACTION_ABORT"
+msgstr "Скасувати"
+
+msgid "ACTION_STARTGAME"
+msgstr "Почати гру"
+
+msgid "ACTION_KICK"
+msgstr "Викинути"
+
+msgid "ACTION_BAN"
+msgstr "Забанити"
+
+msgid "ERRORMNU_SAVE"
+msgstr "Зберегти звіт"
+
+msgid "ERROR_FATAL"
+msgstr "Критична помилка"
+
+msgid "ERROR_ABORT"
+msgstr "Не вдалося продовжити виконання."
+
+msgid "FILEPICKER_ANY"
+msgstr "Усі файли"
+
+msgid "FILEPICKER_REPORTS"
+msgstr "ZIP-архів із звітами про збої"
+
+msgid "PICKER_PLAYERCLASS"
+msgstr "Клас гравця"
+
+msgid "LANG_NATIVE"
+msgstr "Англійська (США)"
+
+msgid "LANG_ENG"
+msgstr "Англійська (США)"
+
+msgid "ACTION_OPENWADDIR"
+msgstr "Оглянути WAD-и"
+
+msgid "ACTION_OPENCONFIGDIR"
+msgstr "Оглянути файли конфігурацій"
+
+msgid "OPTMNU_OPENWADS"
+msgstr "Оглянути папку IWAD-ів"
+
+msgid "SNDMNU_NOMIDIOPTIONS"
+msgstr "Пристрій Midi не надає жодних налаштувань."
