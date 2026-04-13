@@ -1435,9 +1435,6 @@ msgstr "Retícula por defecto"
 msgid "HUDMNU_CROSSHAIRCOLOR"
 msgstr "Color de la retícula"
 
-msgid "HUDMNU_CROSSHAIRHEALTH"
-msgstr "Mostrar salud en retícula"
-
 msgid "HUDMNU_CROSSHAIRSCALE"
 msgstr "Escalar retícula"
 

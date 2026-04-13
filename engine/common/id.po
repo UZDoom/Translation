@@ -1437,9 +1437,6 @@ msgstr "Bidikan bawaan"
 msgid "HUDMNU_CROSSHAIRCOLOR"
 msgstr "Warna bidikan"
 
-msgid "HUDMNU_CROSSHAIRHEALTH"
-msgstr "Bidikan menampilkan kesehatan"
-
 msgid "HUDMNU_CROSSHAIRSCALE"
 msgstr "Skala bidikan"
 

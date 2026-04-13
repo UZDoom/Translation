@@ -1431,9 +1431,6 @@ msgstr "Standard-Fadenkreuz"
 msgid "HUDMNU_CROSSHAIRCOLOR"
 msgstr "Fadenkreuzfarbe"
 
-msgid "HUDMNU_CROSSHAIRHEALTH"
-msgstr "Fadenkreuz zeigt Gesundheit"
-
 msgid "HUDMNU_CROSSHAIRSCALE"
 msgstr "Fadenkreuz skalieren"
 

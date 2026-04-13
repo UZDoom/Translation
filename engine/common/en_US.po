@@ -1776,10 +1776,6 @@ msgid "HUDMNU_CROSSHAIRCOLOR"
 msgstr "Crosshair color"
 
 #, fuzzy
-msgid "HUDMNU_CROSSHAIRHEALTH"
-msgstr "Crosshair shows health"
-
-#, fuzzy
 msgid "HUDMNU_CROSSHAIRSCALE"
 msgstr "Scale crosshair"
 

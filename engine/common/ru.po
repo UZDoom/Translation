@@ -1428,9 +1428,6 @@ msgstr "Прицел по умолчанию"
 msgid "HUDMNU_CROSSHAIRCOLOR"
 msgstr "Цвет прицела"
 
-msgid "HUDMNU_CROSSHAIRHEALTH"
-msgstr "Прицел отображает здоровье"
-
 msgid "HUDMNU_CROSSHAIRSCALE"
 msgstr "Размер прицела"
 

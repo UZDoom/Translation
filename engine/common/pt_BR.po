@@ -1445,9 +1445,6 @@ msgstr "Mira padrão"
 msgid "HUDMNU_CROSSHAIRCOLOR"
 msgstr "Cor da mira"
 
-msgid "HUDMNU_CROSSHAIRHEALTH"
-msgstr "Exibir saúde na mira"
-
 msgid "HUDMNU_CROSSHAIRSCALE"
 msgstr "Redimensionar mira"
 

@@ -1433,9 +1433,6 @@ msgstr "Standardkorshår"
 msgid "HUDMNU_CROSSHAIRCOLOR"
 msgstr "Färg på hårkorset"
 
-msgid "HUDMNU_CROSSHAIRHEALTH"
-msgstr "Hårkorset visar hälsa"
-
 msgid "HUDMNU_CROSSHAIRSCALE"
 msgstr "Skala hårkorset"
 

@@ -1437,9 +1437,6 @@ msgstr "Типи прицілів"
 msgid "HUDMNU_CROSSHAIRCOLOR"
 msgstr "Колір прицілу"
 
-msgid "HUDMNU_CROSSHAIRHEALTH"
-msgstr "Колір прицілу за станом здоров'я"
-
 msgid "HUDMNU_CROSSHAIRSCALE"
 msgstr "Розмір прицілу"
 

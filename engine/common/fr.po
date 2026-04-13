@@ -1432,9 +1432,6 @@ msgstr "Viseur par défaut"
 msgid "HUDMNU_CROSSHAIRCOLOR"
 msgstr "Couleur Viseur"
 
-msgid "HUDMNU_CROSSHAIRHEALTH"
-msgstr "Couleur Viseur selon santé"
-
 msgid "HUDMNU_CROSSHAIRSCALE"
 msgstr "Mise à l'échelle du viseur"
 

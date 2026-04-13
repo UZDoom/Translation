@@ -1427,9 +1427,6 @@ msgstr "預設準星樣式"
 msgid "HUDMNU_CROSSHAIRCOLOR"
 msgstr "準星顏色"
 
-msgid "HUDMNU_CROSSHAIRHEALTH"
-msgstr "準星表示生命量"
-
 msgid "HUDMNU_CROSSHAIRSCALE"
 msgstr "準星比例"
 

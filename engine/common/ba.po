@@ -1435,9 +1435,6 @@ msgstr "Zadana meta"
 msgid "HUDMNU_CROSSHAIRCOLOR"
 msgstr "Boja mete"
 
-msgid "HUDMNU_CROSSHAIRHEALTH"
-msgstr "Meta prikazuje zdravlje"
-
 msgid "HUDMNU_CROSSHAIRSCALE"
 msgstr "Skaliranje mete"
 

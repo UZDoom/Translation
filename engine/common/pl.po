@@ -1437,9 +1437,6 @@ msgstr "Domyślny celownik"
 msgid "HUDMNU_CROSSHAIRCOLOR"
 msgstr "Kolor celownika"
 
-msgid "HUDMNU_CROSSHAIRHEALTH"
-msgstr "Celownik pokazuje zdrowie"
-
 msgid "HUDMNU_CROSSHAIRSCALE"
 msgstr "Skala celownika"
 
