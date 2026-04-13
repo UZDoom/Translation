@@ -1439,9 +1439,6 @@ msgstr "Уобичајени нишан"
 msgid "HUDMNU_CROSSHAIRCOLOR"
 msgstr "Боја нишана"
 
-msgid "HUDMNU_CROSSHAIRHEALTH"
-msgstr "Нишан приказује здравље"
-
 msgid "HUDMNU_CROSSHAIRSCALE"
 msgstr "Размера нишана"
 

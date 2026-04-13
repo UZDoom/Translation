@@ -1437,9 +1437,6 @@ msgstr "Standardtrådkorset"
 msgid "HUDMNU_CROSSHAIRCOLOR"
 msgstr "Trådkors farve"
 
-msgid "HUDMNU_CROSSHAIRHEALTH"
-msgstr "Trådkors viser helbred"
-
 msgid "HUDMNU_CROSSHAIRSCALE"
 msgstr "Skalerer trådkorset"
 

@@ -1462,9 +1462,6 @@ msgstr "Standaard dradenkruis"
 msgid "HUDMNU_CROSSHAIRCOLOR"
 msgstr "Dradenkruis kleur"
 
-msgid "HUDMNU_CROSSHAIRHEALTH"
-msgstr "Dradenkruis toont gezondheid"
-
 msgid "HUDMNU_CROSSHAIRSCALE"
 msgstr "Dradenkruis schalen"
 

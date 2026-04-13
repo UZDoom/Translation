@@ -1427,9 +1427,6 @@ msgstr "Default Crosshair"
 msgid "HUDMNU_CROSSHAIRCOLOR"
 msgstr "Crosshair colour"
 
-msgid "HUDMNU_CROSSHAIRHEALTH"
-msgstr "Crosshair shows health"
-
 msgid "HUDMNU_CROSSHAIRSCALE"
 msgstr "Scale crosshair"
 

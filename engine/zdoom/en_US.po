@@ -6766,3 +6766,15 @@ msgstr "Midi device does not expose any options."
 
 msgid "CMPTMNU_EMULATEMIKOPORTALS"
 msgstr "Emulate Mikoportals"
+
+msgid "HUDMNU_CROSSHAIRCOLORFULL"
+msgstr "Crosshair color at full health"
+
+msgid "HUDMNU_CROSSHAIRCOLORMAX"
+msgstr "Crosshair color at max health"
+
+msgid "HUDMNU_CROSSHAIRCOLORS"
+msgstr "Dynamic crosshair colors"
+
+msgid "HUDMNU_CROSSHAIRYOFFSET"
+msgstr "Crosshair vertical offset"

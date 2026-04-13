@@ -1430,9 +1430,6 @@ msgstr "Defaŭlta reteto"
 msgid "HUDMNU_CROSSHAIRCOLOR"
 msgstr "Retetokoloro"
 
-msgid "HUDMNU_CROSSHAIRHEALTH"
-msgstr "Reteto montras sanon"
-
 msgid "HUDMNU_CROSSHAIRSCALE"
 msgstr "Skali reteton"
 

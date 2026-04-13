@@ -1431,9 +1431,6 @@ msgstr "기본 조준점"
 msgid "HUDMNU_CROSSHAIRCOLOR"
 msgstr "조준점 색깔"
 
-msgid "HUDMNU_CROSSHAIRHEALTH"
-msgstr "조준점과 체력 연동"
-
 msgid "HUDMNU_CROSSHAIRSCALE"
 msgstr "조준점 크기"
 

@@ -1437,9 +1437,6 @@ msgstr "Țintă implicită"
 msgid "HUDMNU_CROSSHAIRCOLOR"
 msgstr "Culoare țintă"
 
-msgid "HUDMNU_CROSSHAIRHEALTH"
-msgstr "Ținta afișează starea sănătății"
-
 msgid "HUDMNU_CROSSHAIRSCALE"
 msgstr "Dimensiune țintă"
 

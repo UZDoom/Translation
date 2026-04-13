@@ -1434,9 +1434,6 @@ msgstr "デフォルトの照準"
 msgid "HUDMNU_CROSSHAIRCOLOR"
 msgstr "照準色"
 
-msgid "HUDMNU_CROSSHAIRHEALTH"
-msgstr "照準のヘルス表示"
-
 msgid "HUDMNU_CROSSHAIRSCALE"
 msgstr "照準サイズ"
 

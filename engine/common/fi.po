@@ -1435,9 +1435,6 @@ msgstr "Oletustähtäin"
 msgid "HUDMNU_CROSSHAIRCOLOR"
 msgstr "Tähtäimen väri"
 
-msgid "HUDMNU_CROSSHAIRHEALTH"
-msgstr "Tähtäin näyttää terveyden"
-
 msgid "HUDMNU_CROSSHAIRSCALE"
 msgstr "Skaalaa tähtäintä"
 

@@ -1434,9 +1434,6 @@ msgstr "Výchozí zaměřovač"
 msgid "HUDMNU_CROSSHAIRCOLOR"
 msgstr "Barva zaměřovače"
 
-msgid "HUDMNU_CROSSHAIRHEALTH"
-msgstr "Zaměřovač zobrazuje zdraví"
-
 msgid "HUDMNU_CROSSHAIRSCALE"
 msgstr "Velikost zaměřovače"
 
