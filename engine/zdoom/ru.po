@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-04-06 14:09+0000\n"
-"Last-Translator: Никита Скатьков <nikita.ska4oK@gmail.com>\n"
+"PO-Revision-Date: 2026-04-13 16:27+0000\n"
+"Last-Translator: Blueberry <igory.ygr200@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ru/>\n"
 "Language: ru\n"
@@ -5364,3 +5364,6 @@ msgstr "Обзор папки IWAD"
 
 msgid "SNDMNU_NOMIDIOPTIONS"
 msgstr "MIDI-устройство не предоставляет никаких настроек."
+
+msgid "CMPTMNU_EMULATEMIKOPORTALS"
+msgstr "Эмулировать Микопорталы"
