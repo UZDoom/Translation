@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-04-12 12:09+0000\n"
-"Last-Translator: PlayerLin <playerlin@gmail.com>\n"
+"PO-Revision-Date: 2026-04-13 18:01+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/zdoom-engine-strings/zh_Hant/>\n"
 "Language: zh_Hant\n"
@@ -483,13 +483,13 @@ msgid "SCORE_BONUS"
 msgstr ""
 
 msgid "SCORE_COLOR"
-msgstr ""
+msgstr "顏色"
 
 msgid "SCORE_SECRET"
 msgstr ""
 
 msgid "SCORE_NAME"
-msgstr ""
+msgstr "名字"
 
 msgid "SCORE_DELAY"
 msgstr ""
@@ -522,7 +522,7 @@ msgid "TXT_IMSECRETS"
 msgstr ""
 
 msgid "TXT_IMTIME"
-msgstr ""
+msgstr "時間"
 
 msgid "TXT_IMPAR"
 msgstr ""
@@ -2806,7 +2806,7 @@ msgid "MNU_NEWGAME"
 msgstr ""
 
 msgid "MNU_OPTIONS"
-msgstr ""
+msgstr "選項"
 
 msgid "MNU_GAMEFILES"
 msgstr ""
@@ -2815,7 +2815,7 @@ msgid "MNU_INFO"
 msgstr ""
 
 msgid "MNU_QUITGAME"
-msgstr ""
+msgstr "離開遊戲"
 
 # This text is extremely space limited!
 msgid "MNU_CHOOSESKILL"
@@ -3288,13 +3288,13 @@ msgid "CMPTMNU_EXPLODE2"
 msgstr ""
 
 msgid "PLYRMNU_RED"
-msgstr ""
+msgstr "紅"
 
 msgid "PLYRMNU_GREEN"
-msgstr ""
+msgstr "綠"
 
 msgid "PLYRMNU_BLUE"
-msgstr ""
+msgstr "藍"
 
 msgid "PLYRMNU_PLAYERCLASS"
 msgstr ""
@@ -3819,7 +3819,7 @@ msgid "SCALEMNU_ADAPT"
 msgstr ""
 
 msgid "HUDMNU_TITLE"
-msgstr ""
+msgstr "抬頭顯示器選項"
 
 msgid "HUDMNU_ALTHUD"
 msgstr ""
@@ -3885,7 +3885,7 @@ msgid "MISCMNU_INTERSCROLL"
 msgstr ""
 
 msgid "NETMNU_TITLE"
-msgstr ""
+msgstr "網路選項"
 
 msgid "NETMNU_LOCALOPTIONS"
 msgstr ""
@@ -3955,7 +3955,7 @@ msgid "OPTVAL_ITEMS"
 msgstr ""
 
 msgid "OPTVAL_WEAPONS"
-msgstr ""
+msgstr "武器"
 
 msgid "OPTVAL_BOTH"
 msgstr ""
@@ -4820,7 +4820,7 @@ msgid "JOYMNU_THRESHOLD"
 msgstr ""
 
 msgid "OPTVAL_LINEAR"
-msgstr ""
+msgstr "線性"
 
 msgid "OPTVAL_QUADRATIC"
 msgstr ""
@@ -4836,7 +4836,7 @@ msgid "OPTVAL_TEAMONLYCHAT"
 msgstr ""
 
 msgid "OPTVAL_GLOBALCHAT"
-msgstr ""
+msgstr "全域"
 
 # Disables /me functionality in chat when displaying.
 msgid "NETMNU_NOBOLDCHAT"
@@ -4919,7 +4919,7 @@ msgid "HAPMNU_OPT_WORLD"
 msgstr ""
 
 msgid "PAUSE_STRING"
-msgstr ""
+msgstr "暫停"
 
 msgid "TAG_BACKPACK"
 msgstr ""
@@ -5048,3 +5048,6 @@ msgstr ""
 
 msgid "CNTRLMNU_COOPSPYCANCEL"
 msgstr ""
+
+msgid "OPTMNU_ACCESSIBILITY"
+msgstr "無障礙輔助選項"

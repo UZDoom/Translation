@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-04-02 03:09+0000\n"
+"PO-Revision-Date: 2026-04-13 18:01+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/en/>\n"
@@ -5930,9 +5930,8 @@ msgstr "Classic ZDoom"
 msgid "OPTVAL_MODERN"
 msgstr "Modern (WASD)"
 
-#, fuzzy
 msgid "OPTVAL_MODERNLEFT"
-msgstr "Modern (Keypad)"
+msgstr "Modern (Left-Handed / Numpad)"
 
 #, fuzzy
 msgid "MISCMNU_SETSLOTSTRICT"
@@ -6762,7 +6761,7 @@ msgid "OPTMNU_OPENWADS"
 msgstr "Browse IWAD Folder"
 
 msgid "SNDMNU_NOMIDIOPTIONS"
-msgstr "Midi device does not expose any options."
+msgstr "MIDI device does not expose any options."
 
 msgid "CMPTMNU_EMULATEMIKOPORTALS"
 msgstr "Emulate Mikoportals"
