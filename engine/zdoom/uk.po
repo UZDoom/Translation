@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-04-11 23:09+0000\n"
-"Last-Translator: Ron Dallas <Lot_bohdan@ukr.net>\n"
+"PO-Revision-Date: 2026-04-13 18:01+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/uk/>\n"
 "Language: uk\n"
@@ -4682,6 +4682,7 @@ msgstr "Класична ZDoom"
 msgid "OPTVAL_MODERN"
 msgstr "Сучасна (WASD)"
 
+#, fuzzy
 msgid "OPTVAL_MODERNLEFT"
 msgstr "Сучасна (цифрова клавіатура)"
 
@@ -5355,5 +5356,6 @@ msgstr "Оглянути файли конфігурацій"
 msgid "OPTMNU_OPENWADS"
 msgstr "Оглянути папку IWAD-ів"
 
+#, fuzzy
 msgid "SNDMNU_NOMIDIOPTIONS"
 msgstr "Пристрій Midi не надає жодних налаштувань."
