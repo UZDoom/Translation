@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-04-11 23:09+0000\n"
-"Last-Translator: Skyler Shirra <skyler.shirra@gmail.com>\n"
+"PO-Revision-Date: 2026-04-14 22:06+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/uzdoom/common/"
 "eo/>\n"
 "Language: eo\n"
@@ -308,6 +308,7 @@ msgid "CNTRLMNU_PREVIOUSITEM"
 msgstr "Antaŭa aĵo"
 
 # most are not used yet but will be
+#, fuzzy
 msgid "MAPCNTRLMNU_TITLE"
 msgstr "Adapti regilojn de mapo"
 

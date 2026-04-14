@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-04-11 10:11+0000\n"
-"Last-Translator: Ron Dallas <Lot_bohdan@ukr.net>\n"
+"PO-Revision-Date: 2026-04-14 22:06+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/common/"
 "uk/>\n"
 "Language: uk\n"
@@ -309,6 +309,7 @@ msgid "CNTRLMNU_PREVIOUSITEM"
 msgstr "Попередній предмет"
 
 # most are not used yet but will be
+#, fuzzy
 msgid "MAPCNTRLMNU_TITLE"
 msgstr "Клавіші керування автокартою"
 

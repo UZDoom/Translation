@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-04-12 12:09+0000\n"
-"Last-Translator: PlayerLin <playerlin@gmail.com>\n"
+"PO-Revision-Date: 2026-04-14 22:06+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/common/zh_Hant/>\n"
 "Language: zh_Hant\n"
@@ -308,6 +308,7 @@ msgid "CNTRLMNU_PREVIOUSITEM"
 msgstr "前一物品"
 
 # most are not used yet but will be
+#, fuzzy
 msgid "MAPCNTRLMNU_TITLE"
 msgstr "自訂地圖控制"
 
