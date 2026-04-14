@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-04-13 18:01+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-04-14 14:09+0000\n"
+"Last-Translator: Blueberry <igory.ygr200@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/ru/>\n"
 "Language: ru\n"
@@ -5369,3 +5369,15 @@ msgstr "MIDI-устройство не предоставляет никаких
 
 msgid "CMPTMNU_EMULATEMIKOPORTALS"
 msgstr "Эмулировать Микопорталы"
+
+msgid "HUDMNU_CROSSHAIRCOLORFULL"
+msgstr "Цвет прицела при полном запасе здоровья"
+
+msgid "HUDMNU_CROSSHAIRCOLORMAX"
+msgstr "Цвет прицела при максимальном запасе здоровье"
+
+msgid "HUDMNU_CROSSHAIRCOLORS"
+msgstr "Динамические цвета прицела"
+
+msgid "HUDMNU_CROSSHAIRYOFFSET"
+msgstr "Смещение прицела по вертикали"
