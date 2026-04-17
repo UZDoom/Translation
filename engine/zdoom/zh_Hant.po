@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-04-17 10:09+0000\n"
+"PO-Revision-Date: 2026-04-17 12:09+0000\n"
 "Last-Translator: PlayerLin <playerlin@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/zdoom-engine-strings/zh_Hant/>\n"
@@ -236,10 +236,10 @@ msgid "TXT_DEFAULTPICKUPMSG"
 msgstr "你拾取了物品"
 
 msgid "PD_ANY"
-msgstr "任何鑰匙都能打開此門"
+msgstr "任何鑰匙都能打開這道門"
 
 msgid "PD_ANYOBJ"
-msgstr "任何鑰匙都能啟動此物件"
+msgstr "任何鑰匙都能啟動這項物件"
 
 msgid "PD_ALL3"
 msgstr "你需要全三把鑰匙來開啟這道門"
@@ -672,171 +672,171 @@ msgid "GOTSUPER"
 msgstr "超級球！"
 
 msgid "GOTBLUECARD"
-msgstr ""
+msgstr "撿起了個藍色鑰匙卡。"
 
 msgid "GOTYELWCARD"
-msgstr ""
+msgstr "撿起了個黃色鑰匙卡。"
 
 msgid "GOTREDCARD"
-msgstr ""
+msgstr "撿起了個紅色鑰匙卡。"
 
 msgid "GOTBLUESKUL"
-msgstr ""
+msgstr "撿起了個藍骷髏鑰匙。"
 
 msgid "GOTYELWSKUL"
-msgstr ""
+msgstr "撿起了個黃骷髏鑰匙。"
 
 msgid "GOTREDSKUL"
-msgstr ""
+msgstr "撿起了個紅骷髏鑰匙。"
 
 msgid "GOTINVUL"
-msgstr ""
+msgstr "無敵球！！"
 
 msgid "GOTBERSERK"
-msgstr ""
+msgstr "狂暴球！！"
 
 msgid "GOTINVIS"
-msgstr ""
+msgstr "模糊球"
 
 msgid "GOTSUIT"
-msgstr ""
+msgstr "輻射防護服"
 
 msgid "GOTMAP"
-msgstr ""
+msgstr "電腦區域地圖"
 
 msgid "GOTVISOR"
-msgstr ""
+msgstr "夜視鏡"
 
 msgid "GOTMSPHERE"
-msgstr ""
+msgstr "超級球！"
 
 msgid "GOTCLIP"
-msgstr ""
+msgstr "撿起了個彈匣。"
 
 msgid "GOTCLIPBOX"
-msgstr ""
+msgstr "撿起了一箱子彈。"
 
 msgid "GOTROCKET"
-msgstr ""
+msgstr "撿起了個火箭彈。"
 
 msgid "GOTROCKBOX"
-msgstr ""
+msgstr "撿起了一箱火箭彈。"
 
 msgid "GOTCELL"
-msgstr ""
+msgstr "撿起了個能量電池。"
 
 msgid "GOTCELLBOX"
-msgstr ""
+msgstr "撿起了個能量電池組。"
 
 msgid "GOTSHELLS"
-msgstr ""
+msgstr "撿起了 4 顆散彈。"
 
 msgid "GOTSHELLBOX"
-msgstr ""
+msgstr "撿起了一箱散彈。"
 
 msgid "GOTBACKPACK"
-msgstr ""
+msgstr "撿起了一個裝滿彈藥的背包！"
 
 msgid "GOTBFG9000"
-msgstr ""
+msgstr "你撿起了 BFG9000！喔，太棒了。"
 
 msgid "GOTCHAINGUN"
-msgstr ""
+msgstr "你撿起了鏈炮！"
 
 msgid "GOTCHAINSAW"
-msgstr ""
+msgstr "一把鏈鋸！來找點肉吧！"
 
 msgid "GOTLAUNCHER"
-msgstr ""
+msgstr "你撿起了火箭發射器！"
 
 msgid "GOTPLASMA"
-msgstr ""
+msgstr "你撿起了電漿槍！"
 
 msgid "GOTSHOTGUN"
-msgstr ""
+msgstr "你撿起了散彈槍！"
 
 msgid "GOTSHOTGUN2"
-msgstr ""
+msgstr "你撿起了超級散彈槍！"
 
 msgid "PICKUP_PISTOL_DROPPED"
-msgstr ""
+msgstr "撿起了個手槍。"
 
 msgid "BETA_BONUS1"
-msgstr ""
+msgstr "你撿起了個惡魔小刀。"
 
 msgid "BETA_BONUS2"
-msgstr ""
+msgstr "你撿起了個顱骨箱。"
 
 msgid "BETA_BONUS3"
-msgstr ""
+msgstr "你撿起了個邪惡權杖。"
 
 msgid "BETA_BONUS4"
-msgstr ""
+msgstr "你撿起了個不潔聖經。"
 
 msgid "PD_BLUEO"
-msgstr ""
+msgstr "你需要藍色鑰匙來啟用這物件"
 
 msgid "PD_REDO"
-msgstr ""
+msgstr "你需要紅色鑰匙來啟用這物件"
 
 msgid "PD_YELLOWO"
-msgstr ""
+msgstr "你需要黃色鑰匙來啟用這物件"
 
 msgid "PD_BLUEK"
-msgstr ""
+msgstr "你需要藍色鑰匙來開啟這道門"
 
 msgid "PD_REDK"
-msgstr ""
+msgstr "你需要紅色鑰匙來開啟這道門"
 
 msgid "PD_YELLOWK"
-msgstr ""
+msgstr "你需要黃色鑰匙來開啟這道門"
 
 msgid "PD_BLUECO"
-msgstr ""
+msgstr "你需要藍色鑰匙卡來啟用這物件"
 
 msgid "PD_REDCO"
-msgstr ""
+msgstr "你需要紅色鑰匙卡來啟用這物件"
 
 msgid "PD_YELLOWCO"
-msgstr ""
+msgstr "你需要黃色鑰匙卡來啟用這物件"
 
 msgid "PD_BLUESO"
-msgstr ""
+msgstr "你需要藍骷髏鑰匙來啟用這物件"
 
 msgid "PD_REDSO"
-msgstr ""
+msgstr "你需要紅骷髏鑰匙來啟用這物件"
 
 msgid "PD_YELLOWSO"
-msgstr ""
+msgstr "你需要黃骷髏鑰匙來啟用這物件"
 
 msgid "PD_BLUEC"
-msgstr ""
+msgstr "你需要藍色鑰匙卡來開啟這道門"
 
 msgid "PD_REDC"
-msgstr ""
+msgstr "你需要紅色鑰匙卡來開啟這道門"
 
 msgid "PD_YELLOWC"
-msgstr ""
+msgstr "你需要黃色鑰匙卡來開啟這道門"
 
 msgid "PD_BLUES"
-msgstr ""
+msgstr "你需要藍骷髏鑰匙來開啟這道門"
 
 msgid "PD_REDS"
-msgstr ""
+msgstr "你需要紅骷髏鑰匙來開啟這道門"
 
 msgid "PD_YELLOWS"
-msgstr ""
+msgstr "你需要黃骷髏鑰匙來開啟這道門"
 
 msgid "CC_ZOMBIE"
-msgstr ""
+msgstr "殭屍士兵"
 
 # a.k.a. (former human) sergeant
 msgid "CC_SHOTGUN"
-msgstr ""
+msgstr "殭屍軍士"
 
 # a.k.a. former commando
 msgid "CC_HEAVY"
-msgstr ""
+msgstr "殭屍突擊隊員"
 
 msgid "CC_IMP"
 msgstr ""
