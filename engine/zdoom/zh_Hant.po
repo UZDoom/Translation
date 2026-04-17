@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-04-13 18:01+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-04-17 08:09+0000\n"
+"Last-Translator: PlayerLin <playerlin@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/zdoom-engine-strings/zh_Hant/>\n"
 "Language: zh_Hant\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.17-dev\n"
+"X-Generator: Weblate 5.17.1-dev\n"
 
 msgid "PRESSKEY"
 msgstr "按下任何鍵。"
@@ -127,85 +127,122 @@ msgstr "給我快滾啦，我才懶得管哩。"
 # More info here.
 msgid "QUITMSG8"
 msgstr ""
-"你想離開？\n"
-"那，汝已失去那八分之一的美德！"
+"你想縮了？\n"
+"那，汝離成聖已棋差一著！"
 
 # A “dimensional shambler” is a creature appearing in the works of H. P.
 # Lovecraft.
 msgid "QUITMSG9"
 msgstr ""
+"別走呀，有隻次元蹣跚怪\n"
+"牠正在 DOS 提示字元那邊\n"
+"等著你啊！"
 
 msgid "QUITMSG10"
 msgstr ""
+"滾開啦去搞\n"
+"你的無聊程式啦。"
 
 msgid "QUITMSG11"
 msgstr ""
+"若我是你的上司，我想\n"
+"要馬上跟你死鬥一番！"
 
 msgid "QUITMSG12"
 msgstr ""
+"嘿，夥計。你現在閃人\n"
+"的話就會失去你的殺敵紀錄！"
 
 msgid "QUITMSG13"
 msgstr ""
+"滾啦。當你回來的\n"
+"時候，我會請你一頓球棒餐。"
 
 msgid "QUITMSG14"
 msgstr ""
+"你運氣不錯喔我不想因為\n"
+"你想走人而打你。"
 
 msgid "QUITMSG15"
 msgstr ""
+"你要去哪裡啊？！\n"
+"那惡魔暴亂該怎辦呢？"
 
 msgid "QUITMSG16"
 msgstr ""
+"大屠殺已中斷…\n"
+"真吊人胃口呢！"
 
 msgid "QUITMSG17"
 msgstr ""
+"但你是唯一希望\n"
+"—我的唯一機會！！"
 
 msgid "QUITMSG18"
-msgstr ""
+msgstr "搭上黑鳥後沒人能離開的。"
 
 msgid "QUITMSG19"
-msgstr ""
+msgstr "我以為你並不一樣…"
 
 msgid "QUITMSG20"
-msgstr ""
+msgstr "好！就邊跑邊殺吧！"
 
 msgid "QUITMSG21"
 msgstr ""
+"你可以滾…\n"
+"但你躲不過的…"
 
 msgid "QUITMSG22"
 msgstr ""
+"怎、怎麼回事？\n"
+"你老母說要吃晚餐了？"
 
 msgid "QUITMSG23"
 msgstr ""
+"別走啊，那裏還有些在到處\n"
+"遊蕩的綠色黏液怪啊！"
 
 msgid "QUITMSG24"
 msgstr ""
+"別放棄－那些黏液怪會\n"
+"佔了上風的啊！"
 
 msgid "QUITMSG25"
 msgstr ""
+"別走啊。\n"
+"我們需要你的幫忙啊！"
 
 msgid "QUITMSG26"
 msgstr ""
+"我希望你只是要去吃\n"
+"Chex® 牌綜合派對麥片。"
 
 msgid "QUITMSG27"
 msgstr ""
+"別走啊！\n"
+"我們需要你的幫忙呀！"
 
 msgid "QUITMSG28"
 msgstr ""
+"別拋棄了\n"
+"麥片星際聯邦啊！"
 
 msgid "QUITMSG29"
 msgstr ""
+"真正的 Chex® 戰士\n"
+"是不會那麼快放棄的！"
 
 msgid "TXT_DEFAULTPICKUPMSG"
-msgstr ""
+msgstr "你拾取了物品"
 
 msgid "PD_ANY"
-msgstr ""
+msgstr "任何鑰匙都能打開此門"
 
 msgid "PD_ANYOBJ"
-msgstr ""
+msgstr "任何鑰匙都能啟動此物件"
 
 msgid "PD_ALL3"
-msgstr ""
+msgstr "你需要全三把鑰匙來開啟此門"
 
 msgid "PD_ALL3O"
 msgstr ""
