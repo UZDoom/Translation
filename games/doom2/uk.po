@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-04-19 10:09+0000\n"
+"PO-Revision-Date: 2026-04-19 12:09+0000\n"
 "Last-Translator: Ron Dallas <Lot_bohdan@ukr.net>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/doom-engine-"
 "games/doom-2/uk/>\n"
@@ -145,3 +145,9 @@ msgstr "Рівень 6: Кривава безодня"
 
 msgid "NHUSTR_7"
 msgstr "Рівень 7: Баронів банкет"
+
+msgid "NHUSTR_8"
+msgstr "Рівень 8: Склеп злоби"
+
+msgid "NHUSTR_9"
+msgstr "Рівень 9: Марш демонів"
