@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-04-19 12:09+0000\n"
+"PO-Revision-Date: 2026-04-19 14:09+0000\n"
 "Last-Translator: Ron Dallas <Lot_bohdan@ukr.net>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/doom-engine-"
 "games/the-plutonia-experiment/uk/>\n"
@@ -70,3 +70,45 @@ msgstr "Рівень 17: Структура"
 
 msgid "PHUSTR_18"
 msgstr "Рівень 18: Нейросфера"
+
+msgid "PHUSTR_19"
+msgstr "Рівень 19: О.С.П."
+
+msgid "PHUSTR_20"
+msgstr "Рівень 20: Домен Смерті"
+
+msgid "PHUSTR_21"
+msgstr "Рівень 21: Губитель"
+
+msgid "PHUSTR_22"
+msgstr "Рівень 22: Неможлива місія"
+
+msgid "PHUSTR_23"
+msgstr "Рівень 23: Могильна плита"
+
+msgid "PHUSTR_24"
+msgstr "Рівень 24: Фінальна межа"
+
+msgid "PHUSTR_25"
+msgstr "Рівень 25: Храм темряви"
+
+msgid "PHUSTR_26"
+msgstr "Рівень 26: Бункер"
+
+msgid "PHUSTR_27"
+msgstr "Рівень 27: Антихрист"
+
+msgid "PHUSTR_28"
+msgstr "Рівень 28: Каналізації"
+
+msgid "PHUSTR_29"
+msgstr "Рівень 29: Какофоній одіссея"
+
+msgid "PHUSTR_30"
+msgstr "Рівень 30: Брама Пекла"
+
+msgid "PHUSTR_31"
+msgstr "Рівень 31: Кіберлігво"
+
+msgid "PHUSTR_32"
+msgstr "Рівень 32: Вйо!"
