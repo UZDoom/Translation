@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-04-14 22:06+0000\n"
+"PO-Revision-Date: 2026-04-19 16:23+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/uzdoom/common/"
 "en/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.17-dev\n"
+"X-Generator: Weblate 5.17.1-dev\n"
 
 msgid "PRESSYN"
 msgstr "Press Y or N."
@@ -314,7 +314,6 @@ msgstr "Map Controls"
 msgid "MAPCNTRLMNU_PANLEFT"
 msgstr "Pan left"
 
-#, fuzzy
 msgid "MAPCNTRLMNU_PANRIGHT"
 msgstr "Pan right"
 
@@ -333,135 +332,105 @@ msgstr "Zoom out"
 msgid "MAPCNTRLMNU_TOGGLEZOOM"
 msgstr "Toggle zoom"
 
-#, fuzzy
 msgid "MAPCNTRLMNU_TOGGLEFOLLOW"
 msgstr "Toggle follow"
 
-#, fuzzy
 msgid "MAPCNTRLMNU_TOGGLEGRID"
 msgstr "Toggle grid"
 
-#, fuzzy
 msgid "MAPCNTRLMNU_ROTATE"
 msgstr "Toggle rotate"
 
-#, fuzzy
 msgid "MAPCNTRLMNU_TOGGLETEXTURE"
 msgstr "Toggle texture"
 
-#, fuzzy
 msgid "CNTRLMNU_AUTOMAP"
 msgstr "Toggle automap"
 
 msgid "CNTRLMNU_CHASECAM"
 msgstr "Chasecam"
 
-#, fuzzy
 msgid "CNTRLMNU_SCREENSHOT"
 msgstr "Screenshot"
 
 msgid "CNTRLMNU_PAUSE"
 msgstr "Pause"
 
-#, fuzzy
 msgid "CNTRLMNU_DISPLAY_INC"
 msgstr "Increase Display Size"
 
-#, fuzzy
 msgid "CNTRLMNU_DISPLAY_DEC"
 msgstr "Decrease Display Size"
 
-#, fuzzy
 msgid "CNTRLMNU_OPEN_HELP"
 msgstr "Open Help"
 
-#, fuzzy
 msgid "CNTRLMNU_OPEN_SAVE"
 msgstr "Open Save Menu"
 
-#, fuzzy
 msgid "CNTRLMNU_OPEN_LOAD"
 msgstr "Open Load Menu"
 
-#, fuzzy
 msgid "CNTRLMNU_OPEN_OPTIONS"
 msgstr "Open Options Menu"
 
-#, fuzzy
 msgid "CNTRLMNU_OPEN_DISPLAY"
 msgstr "Open Display Menu"
 
-#, fuzzy
 msgid "CNTRLMNU_QUICKSAVE"
 msgstr "Quicksave"
 
-#, fuzzy
 msgid "CNTRLMNU_QUICKLOAD"
 msgstr "Quickload"
 
-#, fuzzy
 msgid "CNTRLMNU_EXIT_TO_MAIN"
 msgstr "Exit to Main Menu"
 
-#, fuzzy
 msgid "CNTRLMNU_TOGGLE_MESSAGES"
 msgstr "Toggle Messages"
 
 msgid "CNTRLMNU_MENU_QUIT"
 msgstr "Quit Game"
 
-#, fuzzy
 msgid "MOUSEMNU_ENABLEMOUSE"
 msgstr "Enable mouse"
 
-#, fuzzy
 msgid "MOUSEMNU_MOUSEINMENU"
 msgstr "Enable mouse in menus"
 
-#, fuzzy
 msgid "MOUSEMNU_SHOWBACKBUTTON"
 msgstr "Show back button"
 
 msgid "MOUSEMNU_CURSOR"
 msgstr "Cursor"
 
-#, fuzzy
 msgid "MOUSEMNU_SENSITIVITY_X"
 msgstr "Horizontal sensitivity"
 
-#, fuzzy
 msgid "MOUSEMNU_SENSITIVITY_Y"
 msgstr "Vertical sensitivity"
 
-#, fuzzy
 msgid "MOUSEMNU_SMOOTHMOUSE"
 msgstr "Smooth mouse movement"
 
-#, fuzzy
 msgid "MOUSEMNU_TURNSPEED"
 msgstr "Turning speed"
 
-#, fuzzy
 msgid "MOUSEMNU_MOUSELOOKSPEED"
 msgstr "Mouselook speed"
 
-#, fuzzy
 msgid "MOUSEMNU_FORWBACKSPEED"
 msgstr "Forward/Backward speed"
 
-#, fuzzy
 msgid "MOUSEMNU_STRAFESPEED"
 msgstr "Strafing speed"
 
-#, fuzzy
 msgid "MOUSEMNU_ALWAYSMOUSELOOK"
 msgstr "Always Mouselook"
 
-#, fuzzy
 msgid "MOUSEMNU_INVERTMOUSE"
 msgstr "Invert Mouse Y"
 
-#, fuzzy
 msgid "MOUSEMNU_INVERTMOUSEX"
 msgstr "Invert Mouse X"
 
@@ -497,34 +466,27 @@ msgstr "System cursor"
 msgid "OPTVAL_DEFAULT"
 msgstr "Default"
 
-#, fuzzy
 msgid "JOYMNU_TITLE"
 msgstr "Configure Controller"
 
-#, fuzzy
 msgid "JOYMNU_OPTIONS"
 msgstr "Controller Options"
 
-#, fuzzy
 msgid "JOYMNU_NOMENU"
 msgstr "Block controller input in menu"
 
-#, fuzzy
 msgid "JOYMNU_ENABLE"
 msgstr "Enable controller support"
 
-#, fuzzy
 msgid "JOYMNU_DINPUT"
 msgstr "Enable DirectInput controllers"
 
-#, fuzzy
 msgid "JOYMNU_XINPUT"
 msgstr "Enable XInput controllers"
 
 msgid "JOYMNU_PS2"
 msgstr "Enable raw PlayStation 2 adapters"
 
-#, fuzzy
 msgid "JOYMNU_NOCON"
 msgstr "No controllers detected"
 
