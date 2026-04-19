@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-04-19 08:09+0000\n"
+"PO-Revision-Date: 2026-04-19 10:09+0000\n"
 "Last-Translator: Ron Dallas <Lot_bohdan@ukr.net>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/doom-engine-"
 "games/chex-quest-3-filter/uk/>\n"
@@ -64,7 +64,7 @@ msgid "HUSTR_E1M4"
 msgstr "E1M4: Дендропарк"
 
 msgid "HUSTR_E1M5"
-msgstr "E1M5: Печери Базойка"
+msgstr "E1M5: Печери Базоїка"
 
 msgid "HUSTR_E2M1"
 msgstr "E2M1: Космопорт"
@@ -120,7 +120,6 @@ msgstr "Максимус"
 msgid "CC_SPIDER"
 msgstr "Флемогидота"
 
-#, fuzzy
 msgid "CC_CYBER"
 msgstr "Лорд Снотфолус"
 
@@ -231,8 +230,22 @@ msgstr ""
 
 msgid "E3TEXT"
 msgstr ""
+"Одним останнім пострілом ти зорчиш\n"
+"Лорда Снотфолуса назад в його вимір!\n"
+"Попри всі труднощі, ти самотужки\n"
+"запобіг вторгненню!\n"
+"\n"
+"Ти щиро сподіваєшся, що Флемоїди\n"
+"нарешті отримали урок і\n"
+"більше ніколи не повернуться у\n"
+"вимір пластівців.\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"Але якщо це трапиться, то ти знаєш, що будеш\n"
+"до цього готовий!"
 
-#, fuzzy
 msgid "M_EPI1"
 msgstr "Рятувальна операція на Базоїку"
 
