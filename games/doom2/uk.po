@@ -2,18 +2,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-30 21:19+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Ukrainian <https://hosted.weblate.org/projects/"
-"doom-engine-games/doom-2/uk/>\n"
+"PO-Revision-Date: 2026-04-19 10:09+0000\n"
+"Last-Translator: Ron Dallas <Lot_bohdan@ukr.net>\n"
+"Language-Team: Ukrainian <https://hosted.weblate.org/projects/doom-engine-"
+"games/doom-2/uk/>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural="
-"(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? "
-"1 : 2);\n"
-"X-Generator: Weblate 5.15-dev\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Weblate 5.17.1-dev\n"
 
 msgid "TXT_D2E1"
 msgstr "Пекло на Землі"
@@ -68,3 +67,81 @@ msgstr "Рівень 15: Промислова зона"
 
 msgid "HUSTR_16"
 msgstr "Рівень 16: Передмістя"
+
+msgid "HUSTR_17"
+msgstr "Рівень 17: Кооператив"
+
+msgid "HUSTR_18"
+msgstr "Рівень 18: Двір"
+
+msgid "HUSTR_19"
+msgstr "Рівень 19: Цитадель"
+
+msgid "HUSTR_20"
+msgstr "Рівень 20: Спіймав!"
+
+msgid "HUSTR_21"
+msgstr "Рівень 21: Нірвана"
+
+msgid "HUSTR_22"
+msgstr "Рівень 22: Катакомби"
+
+msgid "HUSTR_23"
+msgstr "Рівень 23: Веселі барила"
+
+msgid "HUSTR_24"
+msgstr "Рівень 24: Прірва"
+
+msgid "HUSTR_25"
+msgstr "Рівень 25: Кровопади"
+
+msgid "HUSTR_26"
+msgstr "Рівень 26: Закинуті шахти"
+
+msgid "HUSTR_27"
+msgstr "Рівень 27: Лігво монстрів"
+
+msgid "HUSTR_28"
+msgstr "Рівень 28: Світ духів"
+
+msgid "HUSTR_29"
+msgstr "Рівень 29: Кінець всього живого"
+
+msgid "HUSTR_30"
+msgstr "Рівень 30: Ікона Гріха"
+
+msgid "HUSTR_31"
+msgstr "Рівень 31: Вольфенштайн"
+
+msgid "HUSTR_32"
+msgstr "Level 32: Гросс"
+
+msgid "HUSTR_31B"
+msgstr "Рівень 31: IDKFA"
+
+msgid "HUSTR_32B"
+msgstr "Рівень 32: Кін"
+
+msgid "HUSTR_33"
+msgstr "Рівень 33: Зрадь"
+
+msgid "NHUSTR_1"
+msgstr "Рівень 1: Земна база"
+
+msgid "NHUSTR_2"
+msgstr "Рівень 2: Лабораторії болю"
+
+msgid "NHUSTR_3"
+msgstr "Рівень 3: Каньйон Смерті"
+
+msgid "NHUSTR_4"
+msgstr "Рівень 4: Пекельна гора"
+
+msgid "NHUSTR_5"
+msgstr "Рівень 5: Вівісекція"
+
+msgid "NHUSTR_6"
+msgstr "Рівень 6: Кривава безодня"
+
+msgid "NHUSTR_7"
+msgstr "Рівень 7: Баронів банкет"
