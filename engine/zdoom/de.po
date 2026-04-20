@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-04-20 20:27+0000\n"
+"PO-Revision-Date: 2026-04-20 22:09+0000\n"
 "Last-Translator: heiko123abc <heiko1234aaa@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/de/>\n"
@@ -5376,3 +5376,12 @@ msgstr "Farbe des Fadenkreuzes bei voller Gesundheit"
 
 msgid "HUDMNU_CROSSHAIRCOLORMAX"
 msgstr "Farbe des Fadenkreuzes bei maximaler Gesundheit"
+
+msgid "HUDMNU_CROSSHAIRCOLORS"
+msgstr "Dynamische Farben für das Fadenkreuz"
+
+msgid "HUDMNU_CROSSHAIRYOFFSET"
+msgstr "Vertikaler Versatz des Fadenkreuzes"
+
+msgid "JOYMNU_ANALOGRUN"
+msgstr "Analoges Laufen"
