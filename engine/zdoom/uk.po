@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-04-19 10:09+0000\n"
+"PO-Revision-Date: 2026-04-20 20:27+0000\n"
 "Last-Translator: Ron Dallas <Lot_bohdan@ukr.net>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/uk/>\n"
@@ -523,9 +523,8 @@ msgstr "Бонус"
 msgid "SCORE_COLOR"
 msgstr "Колір"
 
-#, fuzzy
 msgid "SCORE_SECRET"
-msgstr "Схованки"
+msgstr "Схованка"
 
 msgid "SCORE_NAME"
 msgstr "Гравець"
