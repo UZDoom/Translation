@@ -5373,3 +5373,6 @@ msgstr "Mikoportals emulieren"
 
 msgid "HUDMNU_CROSSHAIRCOLORFULL"
 msgstr "Farbe des Fadenkreuzes bei voller Gesundheit"
+
+msgid "HUDMNU_CROSSHAIRCOLORMAX"
+msgstr "Farbe des Fadenkreuzes bei maximaler Gesundheit"
