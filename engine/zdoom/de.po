@@ -5370,3 +5370,6 @@ msgstr "MIDI-Gerät bietet keine Optionen an."
 
 msgid "CMPTMNU_EMULATEMIKOPORTALS"
 msgstr "Mikoportals emulieren"
+
+msgid "HUDMNU_CROSSHAIRCOLORFULL"
+msgstr "Farbe des Fadenkreuzes bei voller Gesundheit"
