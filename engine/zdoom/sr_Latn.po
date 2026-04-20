@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-04-20 01:09+0000\n"
-"Last-Translator: Rea Todorovic <todorovic.david.td@gmail.com>\n"
+"PO-Revision-Date: 2026-04-20 01:12+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Serbian (Latin script) <https://hosted.weblate.org/projects/"
 "uzdoom/zdoom-engine-strings/sr_Latn/>\n"
 "Language: sr_Latn\n"
@@ -3946,10 +3946,10 @@ msgid "OPTVAL_BOTH"
 msgstr ""
 
 msgid "OPTVAL_ZDOOM"
-msgstr ""
+msgstr "ZDoom"
 
 msgid "OPTVAL_STRIFE"
-msgstr ""
+msgstr "Strife"
 
 msgid "OPTVAL_PLAYER"
 msgstr ""
