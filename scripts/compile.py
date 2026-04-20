@@ -68,7 +68,7 @@ ENABLED = [
 # If adding a language here, please add a comment why, so it can be
 # re-evaluated later
 DISABLED = [
-    "arz",  # no rtl support in uzdoom yet
+    "ar",  # no rtl support in uzdoom yet
     "he",  # no rtl support in uzdoom yet
 ]
 
