@@ -2,15 +2,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: \n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-04-20 01:12+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Serbian (Latin script) <https://hosted.weblate.org/projects/"
+"uzdoom/common/sr_Latn/>\n"
 "Language: sr_Latn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.17.1-dev\n"
 
 msgid "PRESSYN"
 msgstr ""
@@ -826,10 +828,10 @@ msgid "ADVSNDMNU_ADLMIDI"
 msgstr ""
 
 msgid "ADVSNDMNU_OPNMIDI"
-msgstr ""
+msgstr "OPNMidi"
 
 msgid "ADVSNDMNU_WILDMIDI"
-msgstr ""
+msgstr "WildMidi"
 
 msgid "ADVSNDMNU_SELCONFIG"
 msgstr ""
@@ -1105,13 +1107,13 @@ msgid "OPTVAL_1024K"
 msgstr ""
 
 msgid "OPTVAL_UNCHARTED2"
-msgstr ""
+msgstr "Uncharted 2"
 
 msgid "OPTVAL_HEJLDAWSON"
 msgstr ""
 
 msgid "OPTVAL_REINHARD"
-msgstr ""
+msgstr "Reinhard"
 
 msgid "OPTVAL_PALETTE"
 msgstr ""
@@ -1363,13 +1365,13 @@ msgid "VIDMNU_PREFERBACKEND"
 msgstr ""
 
 msgid "OPTVAL_OPENGL"
-msgstr ""
+msgstr "OpenGL"
 
 msgid "OPTVAL_VULKAN"
-msgstr ""
+msgstr "Vulkan"
 
 msgid "OPTVAL_OPENGLES"
-msgstr ""
+msgstr "OpenGL ES"
 
 msgid "MISCMNU_MERGEKEYS"
 msgstr ""
@@ -1504,7 +1506,7 @@ msgid "VK_RESTART"
 msgstr ""
 
 msgid "OPTVAL_SCALENX"
-msgstr ""
+msgstr "ScaleNx"
 
 msgid "OPTVAL_NORMALNX"
 msgstr ""
@@ -1516,7 +1518,7 @@ msgid "OPTVAL_HQNXMMX"
 msgstr ""
 
 msgid "OPTVAL_NXBRZ"
-msgstr ""
+msgstr "xBRZ"
 
 msgid "OPTVAL_OLD_NXBRZ"
 msgstr ""
