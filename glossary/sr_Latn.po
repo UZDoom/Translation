@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-04-20 01:09+0000\n"
-"Last-Translator: Rea Todorovic <todorovic.david.td@gmail.com>\n"
+"PO-Revision-Date: 2026-04-21 19:48+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Serbian (Latin script) <https://hosted.weblate.org/projects/"
 "uzdoom/glossary/sr_Latn/>\n"
 "Language: sr_Latn\n"
@@ -15,10 +15,10 @@ msgstr ""
 "X-Generator: Weblate 5.17.1-dev\n"
 
 msgid "ON"
-msgstr "ON"
+msgstr "UKLJ"
 
 msgid "OFF"
-msgstr "OFF"
+msgstr "ISKLJ"
 
 msgid "MIDI"
 msgstr ""
