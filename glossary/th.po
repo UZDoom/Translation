@@ -2,23 +2,20 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-04-21 19:48+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
-"Language-Team: Serbian (Latin script) <https://hosted.weblate.org/projects/"
-"uzdoom/glossary/sr_Latn/>\n"
-"Language: sr_Latn\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: th\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.17.1-dev\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "ON"
-msgstr "UKLJ"
+msgstr ""
 
 msgid "OFF"
-msgstr "ISKLJ"
+msgstr ""
 
 msgid "MIDI"
 msgstr ""
@@ -33,13 +30,13 @@ msgid "ADLMidi"
 msgstr ""
 
 msgid "OPNMidi"
-msgstr "OPNMidi"
+msgstr ""
 
 msgid "WildMidi"
-msgstr "WildMidi"
+msgstr ""
 
 msgid "Timidity"
-msgstr "Timidity"
+msgstr ""
 
 msgid "libXMP"
 msgstr ""
@@ -54,13 +51,13 @@ msgid "MAME"
 msgstr ""
 
 msgid "OPL2"
-msgstr "OPL2"
+msgstr ""
 
 msgid "DOSBox"
 msgstr ""
 
 msgid "OPL3"
-msgstr "OPL3"
+msgstr ""
 
 msgid "Java"
 msgstr ""
@@ -69,61 +66,61 @@ msgid "ESFMu"
 msgstr ""
 
 msgid "YMFM"
-msgstr "YMFM"
+msgstr ""
 
 msgid "Nuked"
-msgstr "Nuked"
+msgstr ""
 
 msgid "YM2612"
-msgstr "YM2612"
+msgstr ""
 
 msgid "Neko Project II Kai"
 msgstr ""
 
 msgid "OPNA"
-msgstr "OPNA"
+msgstr ""
 
 msgid "YM2608"
-msgstr "YM2608"
+msgstr ""
 
 msgid "Opal"
-msgstr "Opal"
+msgstr ""
 
 msgid "YM3438"
-msgstr "YM3438"
+msgstr ""
 
 msgid "OPN2"
-msgstr "OPN2"
+msgstr ""
 
 msgid "YMF276"
-msgstr "YMF276"
+msgstr ""
 
 msgid "GENS"
 msgstr ""
 
 msgid "Uncharted 2"
-msgstr "Uncharted 2"
+msgstr ""
 
 msgid "Reinhard"
-msgstr "Reinhard"
+msgstr ""
 
 msgid "Hejl-Dawson"
 msgstr ""
 
 msgid "OpenGL"
-msgstr "OpenGL"
+msgstr ""
 
 msgid "Vulkan"
-msgstr "Vulkan"
+msgstr ""
 
 msgid "OpenGL ES"
-msgstr "OpenGL ES"
+msgstr ""
 
 msgid "ScaleNx"
-msgstr "ScaleNx"
+msgstr ""
 
 msgid "ZDoom"
-msgstr "ZDoom"
+msgstr ""
 
 msgid "NormalNx"
 msgstr ""
@@ -132,7 +129,7 @@ msgid "hqNx"
 msgstr ""
 
 msgid "xBRZ"
-msgstr "xBRZ"
+msgstr ""
 
 msgid "Doom"
 msgstr ""
@@ -141,7 +138,7 @@ msgid "Boom"
 msgstr ""
 
 msgid "Strife"
-msgstr "Strife"
+msgstr ""
 
 msgid "Hexen"
 msgstr ""
@@ -153,16 +150,16 @@ msgid "Chex"
 msgstr ""
 
 msgid "Press Y or N"
-msgstr "Pritisnite Y ili N"
+msgstr ""
 
 msgid "Press a key"
-msgstr "Pritisnite bilo koji taster"
+msgstr ""
 
 msgid "WOPN"
-msgstr "WOPN"
+msgstr ""
 
 msgid "WOPL"
-msgstr "WOPL"
+msgstr ""
 
 msgid "LLE"
 msgstr ""

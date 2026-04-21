@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-04-20 20:27+0000\n"
+"PO-Revision-Date: 2026-04-21 19:39+0000\n"
 "Last-Translator: Ron Dallas <Lot_bohdan@ukr.net>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/uk/>\n"
@@ -731,10 +731,10 @@ msgid "GOTCELLBOX"
 msgstr "Взято велику енергетичну батарею."
 
 msgid "GOTSHELLS"
-msgstr "Взято 4 рушничні набої."
+msgstr "Взято 4 дробові набої."
 
 msgid "GOTSHELLBOX"
-msgstr "Взято коробку рушничних набоїв."
+msgstr "Взято коробку дробових набоїв."
 
 msgid "GOTBACKPACK"
 msgstr "Взято рюкзак повний набоїв!"
@@ -934,7 +934,7 @@ msgid "AMMO_CLIP"
 msgstr "Кулі"
 
 msgid "AMMO_SHELLS"
-msgstr "Рушничні набої"
+msgstr "Дробові набої"
 
 msgid "AMMO_ROCKETS"
 msgstr "Ракети"
