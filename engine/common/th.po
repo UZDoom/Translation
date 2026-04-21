@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-04-21 21:09+0000\n"
+"PO-Revision-Date: 2026-04-21 21:40+0000\n"
 "Last-Translator: GoodOldSHAMEBiboxMALAX <kim094354@gmail.com>\n"
 "Language-Team: Thai <https://hosted.weblate.org/projects/uzdoom/common/th/>\n"
 "Language: th\n"
@@ -170,25 +170,25 @@ msgid "CNTRLMNU_ALTATTACK"
 msgstr "การยิงแบบรอง"
 
 msgid "CNTRLMNU_RELOAD"
-msgstr ""
+msgstr "การบรรจุกระสุนอาวุธ"
 
 msgid "CNTRLMNU_USE"
-msgstr ""
+msgstr "ใช้งาน / เปิด"
 
 msgid "CNTRLMNU_FORWARD"
-msgstr ""
+msgstr "เดินหน้า"
 
 msgid "CNTRLMNU_BACK"
-msgstr ""
+msgstr "ถอยหลัง"
 
 msgid "CNTRLMNU_MOVELEFT"
-msgstr ""
+msgstr "เดินไปทางซ้าย"
 
 msgid "CNTRLMNU_MOVERIGHT"
-msgstr ""
+msgstr "เดินไปทางขวา"
 
 msgid "CNTRLMNU_TURNLEFT"
-msgstr ""
+msgstr "หันไปทางซ้าย"
 
 msgid "CNTRLMNU_TURNRIGHT"
 msgstr ""
