@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-04-19 21:09+0000\n"
+"PO-Revision-Date: 2026-04-21 19:39+0000\n"
 "Last-Translator: Ron Dallas <Lot_bohdan@ukr.net>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/common/"
 "uk/>\n"
@@ -1687,14 +1687,14 @@ msgid "PICKER_PLAYHOST"
 msgstr "Хостити гру"
 
 msgid "PICKER_PLAYJOIN"
-msgstr "Приєднатись до гри"
+msgstr "Приєднатись"
 
 msgid "PICKER_REMPARM"
 msgstr "Запам'ятати параметри"
 
 # For stuff like id24.
 msgid "PICKER_SUPPORTWADS"
-msgstr "Підключити допоміжні WADи"
+msgstr "Підключити доп. WADи"
 
 msgid "PICKER_TAB_MULTI"
 msgstr "Гра в мережі"
