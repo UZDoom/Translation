@@ -29,10 +29,15 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           cat << EOF > notes.md
+          Changes:
           $(git log latest..HEAD --format="%h %s")
+
+          <details><summary>Coverage graphs</summary>
 
           [![Translation status](https://hosted.weblate.org/widget/uzdoom/horizontal-auto.svg)](https://hosted.weblate.org/engage/uzdoom/)
           [![Translation status](https://hosted.weblate.org/widget/doom-engine-games/horizontal-auto.svg)](https://hosted.weblate.org/engage/doom-engine-games/)
+
+          </details>
           EOF
 
           git tag -d latest || true
