@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-04-21 21:09+0000\n"
+"PO-Revision-Date: 2026-04-21 21:40+0000\n"
 "Last-Translator: GoodOldSHAMEBiboxMALAX <kim094354@gmail.com>\n"
 "Language-Team: Thai <https://hosted.weblate.org/projects/uzdoom/glossary/th/>"
 "\n"
@@ -164,25 +164,27 @@ msgid "Press a key"
 msgstr "กดปุ่มใดก็ได้"
 
 msgid "WOPN"
-msgstr ""
+msgstr "WOPN"
 
+#, fuzzy
 msgid "WOPL"
-msgstr ""
+msgstr "WOPL"
 
 msgid "LLE"
-msgstr ""
+msgstr "LLE"
 
+#, fuzzy
 msgid "DMX"
-msgstr ""
+msgstr "DMX"
 
 msgid "MMX"
-msgstr ""
+msgstr "MMX"
 
 msgid "Discord"
-msgstr ""
+msgstr "Discord"
 
 msgid "MBF"
-msgstr ""
+msgstr "MBF"
 
 msgid "MBF21"
 msgstr ""
