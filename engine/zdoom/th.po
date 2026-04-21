@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-04-21 21:09+0000\n"
+"PO-Revision-Date: 2026-04-21 21:40+0000\n"
 "Last-Translator: GoodOldSHAMEBiboxMALAX <kim094354@gmail.com>\n"
 "Language-Team: Thai <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-"
 "strings/th/>\n"
@@ -240,25 +240,25 @@ msgid "PD_ALL3"
 msgstr "คุณต้องใช้กุญแจทั้งสามดอกเพื่อเปิดประตูบานนี้"
 
 msgid "PD_ALL3O"
-msgstr ""
+msgstr "คุณต้องใช้กุญแจทั้งสามดอกเพื่อเปิดใช้งานวัตถุนี้"
 
 msgid "PD_ALL6"
-msgstr ""
+msgstr "คุณต้องใช้กุญแจทั้งหมด หกดอกเพื่อเปิดประตูบานนี้"
 
 msgid "PD_ALL6O"
-msgstr ""
+msgstr "คุณต้องใช้กุญแจทั้งหมด หกดอกเพื่อเปิดใช้งานวัตถุนี้"
 
 msgid "PD_ALLKEYS"
-msgstr ""
+msgstr "คุณจำเป็นต้องมีกุญแจทั้งหมด"
 
 msgid "HUSTR_MSGU"
-msgstr ""
+msgstr "ข้อความไม่ถูกส่งออกไป"
 
 msgid "HUSTR_TALKTOSELF1"
-msgstr ""
+msgstr "พึมพำกับตัวเอง"
 
 msgid "HUSTR_TALKTOSELF2"
-msgstr ""
+msgstr "ใครอยู่ที่นั่น?"
 
 msgid "HUSTR_TALKTOSELF3"
 msgstr ""
