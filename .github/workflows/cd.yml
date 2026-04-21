@@ -15,6 +15,8 @@ jobs:
       actions: read
     steps:
       - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
 
       - uses: actions/download-artifact@v8
         with:
@@ -26,9 +28,14 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
+          cat << EOF > notes.md
+          $(git log latest..HEAD --format="%h %s")
+
+          [![Translation status](https://hosted.weblate.org/widget/uzdoom/horizontal-auto.svg)](https://hosted.weblate.org/engage/uzdoom/)
+          [![Translation status](https://hosted.weblate.org/widget/doom-engine-games/horizontal-auto.svg)](https://hosted.weblate.org/engage/doom-engine-games/)
+          EOF
+
           git tag -d latest || true
           git push origin :refs/tags/latest || true
 
-          gh release create latest \
-            --generate-notes \
-            'uzdoom-translation.pk3'
+          gh release create latest --title "Latest Changes" -F notes.md 'uzdoom-translation.pk3'
