@@ -279,8 +279,20 @@ def postprocess_matrix(languages, matrix):
     return [languages, matrix]
 
 
+def modify_globals(args):
+    """Edits globals based on command line args"""
+
+    if args.threshold is not None:
+        globals()["THRESHOLD"] = min(max(0, args.threshold), 1)
+
+    if args.all:
+        globals()["DISABLED"] = []
+
+
 def main(args):
     """loading, matrix building, CSV export"""
+
+    modify_globals(args)
 
     root_dir = Path(__file__).parent.parent
 
@@ -314,7 +326,22 @@ if __name__ == "__main__":
         prog=Path(__file__).name,
         description=__doc__)
 
-    parser.add_argument("--recipe", required=True)
-    parser.add_argument("--output", required=True, type=Path)
+    parser.add_argument(
+        "--recipe",
+        required=True,
+        help='Collection of components to compile')
+    parser.add_argument(
+        "--output",
+        required=True,
+        type=Path,
+        help='File to write to')
+    parser.add_argument(
+        "--threshold",
+        type=float,
+        help='How complete a translation needs to be, in order to keep it')
+    parser.add_argument(
+        '--all',
+        action='store_true',
+        help='Consider all languages, even those that have been disabled')
 
     main(parser.parse_args(sys.argv[1:]))
