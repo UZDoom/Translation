@@ -9,6 +9,7 @@ on:
 jobs:
   cd:
     runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
     permissions:
       contents: write
       actions: read
@@ -22,6 +23,8 @@ jobs:
           path: .
 
       - name: upload
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           git tag -d latest || true
           git push origin :refs/tags/latest || true
