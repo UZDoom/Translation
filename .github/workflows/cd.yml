@@ -32,7 +32,7 @@ jobs:
           Changes:
           $(git log latest..HEAD --format="%h %s")
 
-          <details><summary>Coverage graphs</summary>
+          <details><summary>Graphs</summary>
 
           [![Translation status](https://hosted.weblate.org/widget/uzdoom/horizontal-auto.svg)](https://hosted.weblate.org/engage/uzdoom/)
           [![Translation status](https://hosted.weblate.org/widget/doom-engine-games/horizontal-auto.svg)](https://hosted.weblate.org/engage/doom-engine-games/)
@@ -45,5 +45,7 @@ jobs:
           git tag latest
           git push origin latest
 
-          gh release edit latest --title "Latest Changes" --notes-file notes.md
+          sleep 10
+
+          gh release edit latest --title "Latest Changes" --notes-file notes.md --draft=false --verify-tag
           gh release upload latest 'uzdoom-translation.pk3' --clobber
