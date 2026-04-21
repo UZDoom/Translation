@@ -1,0 +1,31 @@
+name: Automated Release
+
+on:
+  workflow_run:
+    workflows: ["Continuous Integration"]
+    branches: [main]
+    types: [completed]
+
+jobs:
+  cd:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      actions: read
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: actions/download-artifact@v8
+        with:
+          run-id: ${{ github.event.workflow_run.id }}
+          github-token: ${{ github.token }}
+          path: .
+
+      - name: upload
+        run: |
+          git tag -d latest || true
+          git push origin :refs/tags/latest || true
+
+          gh release create latest \
+            --generate-notes \
+            'uzdoom-translation.pk3'
