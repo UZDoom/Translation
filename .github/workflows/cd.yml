@@ -29,7 +29,11 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           cat << EOF > notes.md
+          <details><summary>Changes</summary>
+
           $(git log latest..HEAD --format="* %h %s" --no-merges)
+
+          </details>
 
           <details><summary>Graphs</summary>
 
@@ -44,7 +48,7 @@ jobs:
           git tag latest
           git push origin latest
 
-          sleep 5
+          sleep 10
 
           gh release edit latest --title "Latest Changes" --notes-file notes.md --draft=false --verify-tag
           gh release upload latest 'uzdoom-translation.pk3' --clobber
