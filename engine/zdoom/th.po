@@ -2,8 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-04-21 21:40+0000\n"
-"Last-Translator: GoodOldSHAMEBiboxMALAX <kim094354@gmail.com>\n"
+"PO-Revision-Date: 2026-04-25 10:09+0000\n"
+"Last-Translator: Automatic translation add-on <noreply-addon-"
+"autotranslate@weblate.org>\n"
 "Language-Team: Thai <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-"
 "strings/th/>\n"
 "Language: th\n"
@@ -546,7 +547,7 @@ msgid "TXT_IMSECRETS"
 msgstr ""
 
 msgid "TXT_IMTIME"
-msgstr ""
+msgstr "เวลา"
 
 msgid "TXT_IMPAR"
 msgstr ""
@@ -2818,7 +2819,7 @@ msgid "MNU_NEWGAME"
 msgstr ""
 
 msgid "MNU_OPTIONS"
-msgstr ""
+msgstr "ตัวเลือก"
 
 msgid "MNU_GAMEFILES"
 msgstr ""
@@ -3830,7 +3831,7 @@ msgid "SCALEMNU_ADAPT"
 msgstr ""
 
 msgid "HUDMNU_TITLE"
-msgstr ""
+msgstr "การตั้งค่า HUD"
 
 msgid "HUDMNU_ALTHUD"
 msgstr ""
@@ -3896,7 +3897,7 @@ msgid "MISCMNU_INTERSCROLL"
 msgstr ""
 
 msgid "NETMNU_TITLE"
-msgstr ""
+msgstr "การตั้งค่าเครือข่าย"
 
 msgid "NETMNU_LOCALOPTIONS"
 msgstr ""
@@ -3968,10 +3969,10 @@ msgid "OPTVAL_BOTH"
 msgstr ""
 
 msgid "OPTVAL_ZDOOM"
-msgstr ""
+msgstr "ZDoom"
 
 msgid "OPTVAL_STRIFE"
-msgstr ""
+msgstr "Strife"
 
 msgid "OPTVAL_PLAYER"
 msgstr ""
@@ -4088,25 +4089,25 @@ msgid "OPTVAL_ONLYMONSTERS"
 msgstr ""
 
 msgid "OPTVAL_HEXEN"
-msgstr ""
+msgstr "Hexen"
 
 msgid "OPTVAL_OLD"
 msgstr ""
 
 msgid "OPTVAL_DOOM"
-msgstr ""
+msgstr "Doom"
 
 msgid "OPTVAL_DOOMSTRICT"
 msgstr ""
 
 msgid "OPTVAL_BOOM"
-msgstr ""
+msgstr "Boom"
 
 msgid "OPTVAL_BOOMSTRICT"
 msgstr ""
 
 msgid "OPTVAL_MBF"
-msgstr ""
+msgstr "MBF"
 
 msgid "OPTVAL_MBFSTRICT"
 msgstr ""
@@ -4238,7 +4239,7 @@ msgid "C_TEAL"
 msgstr ""
 
 msgid "OPTSTR_HERETIC"
-msgstr ""
+msgstr "Heretic"
 
 msgid "OPTSTR_CHEX"
 msgstr ""
@@ -5006,7 +5007,7 @@ msgid "CNTRLMNU_COOPSPYCANCEL"
 msgstr ""
 
 msgid "OPTMNU_ACCESSIBILITY"
-msgstr ""
+msgstr "การตั้งค่าการช่วยสำหรับการเข้าถึง"
 
 msgid "JOYMNU_ANALOGRUN"
 msgstr ""
