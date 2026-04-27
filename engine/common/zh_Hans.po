@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-04-15 08:09+0000\n"
-"Last-Translator: dwing <12104745@qq.com>\n"
+"PO-Revision-Date: 2026-04-27 10:09+0000\n"
+"Last-Translator: OldCactusCN <huchenyi_2019@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/common/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -1260,7 +1260,7 @@ msgid "GLTEXMNU_RESIZETEX"
 msgstr "缩放纹理"
 
 msgid "GLTEXMNU_RESIZESPR"
-msgstr "缩放精灵"
+msgstr "缩放精灵图"
 
 msgid "GLTEXMNU_RESIZEFNT"
 msgstr "缩放字体"
@@ -1275,7 +1275,7 @@ msgid "VIDMNU_TITLE"
 msgstr "视频模式"
 
 msgid "OPTVAL_LETTERBOX"
-msgstr "信箱边框"
+msgstr "有边框"
 
 msgid "OPTVAL_STRETCH"
 msgstr "拉伸"
@@ -1299,7 +1299,7 @@ msgid "VIDMNU_SCALEMODE"
 msgstr "分辨率比例"
 
 msgid "VIDMNU_SCALEFACTOR"
-msgstr "比例因子"
+msgstr "缩放比例"
 
 msgid "VIDMNU_USELINEAR"
 msgstr "使用线性缩放(全屏)"
@@ -1308,10 +1308,10 @@ msgid "VIDMNU_CUSTOMRES"
 msgstr "自定义像素缩放"
 
 msgid "VIDMNU_CUSTOMX"
-msgstr "自定义宽度"
+msgstr "分辨率宽度"
 
 msgid "VIDMNU_CUSTOMY"
-msgstr "自定义高度"
+msgstr "分辨率高度"
 
 msgid "VIDMNU_APPLYW"
 msgstr "应用修改(窗口化)"
