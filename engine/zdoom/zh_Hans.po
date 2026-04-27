@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-04-27 10:09+0000\n"
+"PO-Revision-Date: 2026-04-27 13:09+0000\n"
 "Last-Translator: OldCactusCN <huchenyi_2019@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
