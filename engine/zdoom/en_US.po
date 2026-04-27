@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-04-19 16:23+0000\n"
+"PO-Revision-Date: 2026-04-28 00:29+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/en/>\n"
@@ -251,31 +251,24 @@ msgstr "You need all six keys to activate this object"
 msgid "PD_ALLKEYS"
 msgstr "You need all the keys"
 
-#, fuzzy
 msgid "HUSTR_MSGU"
 msgstr "[Message unsent]"
 
-#, fuzzy
 msgid "HUSTR_TALKTOSELF1"
 msgstr "You mumble to yourself"
 
-#, fuzzy
 msgid "HUSTR_TALKTOSELF2"
 msgstr "Who's there?"
 
-#, fuzzy
 msgid "HUSTR_TALKTOSELF3"
 msgstr "You scare yourself"
 
-#, fuzzy
 msgid "HUSTR_TALKTOSELF4"
 msgstr "You start to rave"
 
-#, fuzzy
 msgid "HUSTR_TALKTOSELF5"
 msgstr "You've lost it…"
 
-#, fuzzy
 msgid "HUSTR_MESSAGESENT"
 msgstr "[Message Sent]"
 
