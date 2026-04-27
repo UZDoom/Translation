@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-04-20 19:09+0000\n"
+"PO-Revision-Date: 2026-04-28 00:29+0000\n"
 "Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
 "memory@weblate.org>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/uzdoom/glossary/"
@@ -22,7 +22,7 @@ msgid "OFF"
 msgstr ""
 
 msgid "MIDI"
-msgstr ""
+msgstr "MIDI"
 
 msgid "FluidSynth"
 msgstr ""
