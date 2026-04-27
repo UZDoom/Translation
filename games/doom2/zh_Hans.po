@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-07 10:04+0000\n"
-"Last-Translator: dwing <12104745@qq.com>\n"
+"PO-Revision-Date: 2026-04-27 01:09+0000\n"
+"Last-Translator: OldCactusCN <huchenyi_2019@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/doom-engine-games/doom-2/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.16-dev\n"
+"X-Generator: Weblate 5.17.1-dev\n"
 
 msgid "TXT_D2E1"
 msgstr "人间地狱"
@@ -23,41 +23,41 @@ msgstr "生者无休"
 # Note that the "LEVEL" part of the string will be stripped so it shouldn't be
 # translated
 msgid "HUSTR_1"
-msgstr "Level 1: 入口"
+msgstr "关卡1: 入口"
 
 msgid "HUSTR_2"
-msgstr "Level 2: 地下大厅"
+msgstr "关卡2: 地下大厅"
 
 # “a form of punishment in which a person is forced to run between two lines
 # of men facing each other and armed with clubs or whips to beat the victim”
 msgid "HUSTR_3"
-msgstr "Level 3: 严酷考验"
+msgstr "关卡3: 严酷考验"
 
 msgid "HUSTR_4"
-msgstr "Level 4: 焦点"
+msgstr "关卡4: 焦点"
 
 msgid "HUSTR_5"
-msgstr "Level 5: 废料隧道"
+msgstr "关卡5: 废料隧道"
 
 msgid "HUSTR_6"
-msgstr "Level 6: 粉碎机"
+msgstr "关卡6: 粉碎机"
 
 msgid "HUSTR_7"
-msgstr "Level 7: 简单粗暴"
+msgstr "关卡7: 简单粗暴"
 
 msgid "HUSTR_8"
-msgstr "Level 8: 机关陷阱"
+msgstr "关卡8: 机关陷阱"
 
 msgid "HUSTR_9"
-msgstr "Level 9: 深坑"
+msgstr "关卡9: 深坑"
 
 msgid "HUSTR_10"
-msgstr "Level 10: 补给基地"
+msgstr "关卡10: 补给基地"
 
 # Alternative title:
 # Circle of Death
 msgid "HUSTR_11"
-msgstr "Level 11: 毁灭之环！"
+msgstr "关卡11: 毁灭之环！"
 
 msgid "HUSTR_12"
 msgstr "Level 12: 工厂"
