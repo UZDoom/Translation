@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-04-16 23:09+0000\n"
-"Last-Translator: Marazed  Visnia <brutdewelopment@gmail.com>\n"
+"PO-Revision-Date: 2026-04-28 00:29+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/common/pl/>"
 "\n"
 "Language: pl\n"
@@ -1156,6 +1156,7 @@ msgstr "Awers"
 msgid "OPTVAL_REVERSEFIRST"
 msgstr "Rewers"
 
+#, fuzzy
 msgid "GLMNU_POSTPROCESS"
 msgstr "Przetwarzanie końcowe"
 
