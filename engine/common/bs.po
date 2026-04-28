@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-04-21 11:10+0000\n"
-"Last-Translator: SecularSteve <fairfull.playing@gmail.com>\n"
+"PO-Revision-Date: 2026-04-28 00:29+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Bosnian <https://hosted.weblate.org/projects/uzdoom/common/"
 "bs/>\n"
 "Language: bs\n"
@@ -1150,6 +1150,7 @@ msgstr "Prednja strana"
 msgid "OPTVAL_REVERSEFIRST"
 msgstr "Nazad"
 
+#, fuzzy
 msgid "GLMNU_POSTPROCESS"
 msgstr "Postobrada"
 
