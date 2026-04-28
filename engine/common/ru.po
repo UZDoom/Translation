@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-04-16 23:09+0000\n"
-"Last-Translator: Blueberry <igory.ygr200@gmail.com>\n"
+"PO-Revision-Date: 2026-04-28 00:29+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/common/"
 "ru/>\n"
 "Language: ru\n"
@@ -1149,6 +1149,7 @@ msgstr "Прямой"
 msgid "OPTVAL_REVERSEFIRST"
 msgstr "Обратный"
 
+#, fuzzy
 msgid "GLMNU_POSTPROCESS"
 msgstr "Постобработка"
 

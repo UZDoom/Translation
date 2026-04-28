@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-04-27 13:09+0000\n"
+"PO-Revision-Date: 2026-04-27 21:09+0000\n"
 "Last-Translator: OldCactusCN <huchenyi_2019@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
@@ -1079,7 +1079,7 @@ msgid "OB_MPBFG_SPLASH"
 msgstr "%o 无法躲藏 %k 的BFG。"
 
 msgid "OB_RAILGUN"
-msgstr "%o 死于 %k 的轨道枪。"
+msgstr "%o 被 %k 的轨道枪打了个对穿。"
 
 msgid "OB_MPBFG_MBF"
 msgstr "%o 被 %k 的BFG烧死了。"

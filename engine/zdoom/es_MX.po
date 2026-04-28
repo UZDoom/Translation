@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-04-24 06:09+0000\n"
+"PO-Revision-Date: 2026-04-28 00:29+0000\n"
 "Last-Translator: Ret Neychozken <retneychozken@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/"
 "zdoom-engine-strings/es_MX/>\n"
@@ -1092,7 +1092,7 @@ msgid "TXT_GOTGREENKEY"
 msgstr "Llave Verde"
 
 msgid "TXT_ARTIHEALTH"
-msgstr ""
+msgstr "Frasco de Cuarzo"
 
 msgid "TXT_ARTIFLY"
 msgstr "Alas de Ira"
@@ -1211,7 +1211,7 @@ msgstr "Hombre Dragón"
 
 # Wordplay: sabre-tooth
 msgid "FN_CLINK"
-msgstr ""
+msgstr "Garra de Sable"
 
 #, fuzzy
 msgid "FN_DSPARIL"
