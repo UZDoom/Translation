@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-04-27 21:09+0000\n"
+"PO-Revision-Date: 2026-04-28 17:09+0000\n"
 "Last-Translator: OldCactusCN <huchenyi_2019@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
@@ -3120,7 +3120,7 @@ msgid "GMPLYMNU_ALLOWFREELOOK"
 msgstr "允许自由视角"
 
 msgid "GMPLYMNU_ALLOWFOV"
-msgstr "允许调整FOV"
+msgstr "允许调整视野"
 
 msgid "GMPLYMNU_BFGFREEAIM"
 msgstr "允许BFG瞄准"
@@ -4751,7 +4751,7 @@ msgstr "怪物和玩家"
 
 # the FOV slider
 msgid "DSPLYMNU_FOV"
-msgstr "FOV"
+msgstr "视野"
 
 msgid "CMPTMNU_NOMBF21"
 msgstr "禁用MBF21特性"
