@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-04-27 01:09+0000\n"
-"Last-Translator: OldCactusCN <huchenyi_2019@qq.com>\n"
+"PO-Revision-Date: 2026-04-28 14:11+0000\n"
+"Last-Translator: dwing <12104745@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/doom-engine-games/the-plutonia-experiment/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -53,66 +53,66 @@ msgid "PHUSTR_12"
 msgstr "关卡12: 速度"
 
 msgid "PHUSTR_13"
-msgstr "Level 13: 地穴"
+msgstr "关卡13: 地穴"
 
 msgid "PHUSTR_14"
-msgstr "Level 14: 创世"
+msgstr "关卡14: 创世"
 
 msgid "PHUSTR_15"
-msgstr "Level 15: 黄昏"
+msgstr "关卡15: 黄昏"
 
 msgid "PHUSTR_16"
-msgstr "Level 16: 预兆"
+msgstr "关卡16: 预兆"
 
 msgid "PHUSTR_17"
-msgstr "Level 17: 围地"
+msgstr "关卡17: 围地"
 
 msgid "PHUSTR_18"
-msgstr "Level 18: 神经球"
+msgstr "关卡18: 神经球"
 
 # “NME” read out loud means “enemy”, so translators should consider the
 # translation of “enemy” into their language.
 msgid "PHUSTR_19"
-msgstr "Level 19: 敌"
+msgstr "关卡19: 敌"
 
 msgid "PHUSTR_20"
-msgstr "Level 20: 死亡领域"
+msgstr "关卡20: 死亡领域"
 
 msgid "PHUSTR_21"
-msgstr "Level 21: 杀戮者"
+msgstr "关卡21: 杀戮者"
 
 msgid "PHUSTR_22"
-msgstr "Level 22: 不可能的任务"
+msgstr "关卡22: 不可能的任务"
 
 msgid "PHUSTR_23"
-msgstr "Level 23: 墓碑"
+msgstr "关卡23: 墓碑"
 
 msgid "PHUSTR_24"
-msgstr "Level 24: 最后的边境"
+msgstr "关卡24: 最后的边境"
 
 msgid "PHUSTR_25"
-msgstr "Level 25: 黑暗神庙"
+msgstr "关卡25: 黑暗神庙"
 
 msgid "PHUSTR_26"
-msgstr "Level 26: 掩体"
+msgstr "关卡26: 掩体"
 
 msgid "PHUSTR_27"
-msgstr "Level 27: 反基督"
+msgstr "关卡27: 反基督"
 
 msgid "PHUSTR_28"
-msgstr "Level 28: 下水道"
+msgstr "关卡28: 下水道"
 
 msgid "PHUSTR_29"
-msgstr "Level 29: 噪音奥德赛"
+msgstr "关卡29: 噪音奥德赛"
 
 msgid "PHUSTR_30"
-msgstr "Level 30: 地狱之门"
+msgstr "关卡30: 地狱之门"
 
 msgid "PHUSTR_31"
-msgstr "Level 31: 赛博巢穴"
+msgstr "关卡31: 赛博巢穴"
 
 msgid "PHUSTR_32"
-msgstr "Level 32: 放手一搏"
+msgstr "关卡32: 放手一搏"
 
 # Plutonia after MAP06
 msgid "P1TEXT"
