@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-05-01 15:09+0000\n"
-"Last-Translator: yhmtxt <yhmtxt@163.com>\n"
+"PO-Revision-Date: 2026-05-01 17:09+0000\n"
+"Last-Translator: OldCactusCN <huchenyi_2019@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -411,11 +411,12 @@ msgstr "你感觉变轻了"
 msgid "TXT_GRAVITY"
 msgstr "重力将你拉了下来"
 
+#, fuzzy
 msgid "TXT_NOTARGET_ON"
-msgstr "无目标：开"
+msgstr "无视模式：开"
 
 msgid "TXT_NOTARGET_OFF"
-msgstr "无目标：关"
+msgstr "无视模式：关"
 
 msgid "TXT_ANUBIS_ON"
 msgstr "“吓得发抖！”"
@@ -4389,6 +4390,7 @@ msgstr "平滑精灵图边缘"
 msgid "GLPREFMNU_FUZZSTYLE"
 msgstr "模糊样式"
 
+#, fuzzy
 msgid "GLPREFMNU_SPRBILLBOARD"
 msgstr "精灵图广告牌"
 
