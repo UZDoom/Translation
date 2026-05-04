@@ -125,12 +125,14 @@ def fill_dict(path):
     if meta["id"] == SOURCE_LANG or meta["id"] == SOURCE_LANG_ALT:
         meta["id"] = "default"
 
+    has_utf = meta["id"] in ["ja", "ko", "zh_Hans", "zh_Hant"]
+
     for e in po:
         specific_id = e.msgid
         entry = {"id": e.msgid}
 
         if e.msgstr:
-            entry["string"] = remap(e.msgstr)
+            entry["string"] = e.msgstr if has_utf else remap(e.msgstr)
         if e.tcomment:
             entry["remarks"] = e.tcomment
         if e.msgctxt:
