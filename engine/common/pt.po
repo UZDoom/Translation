@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-05-03 19:09+0000\n"
-"Last-Translator: Tiago Matos <tiagaomatos@hotmail.com>\n"
+"PO-Revision-Date: 2026-05-05 19:10+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/uzdoom/common/"
 "pt/>\n"
 "Language: pt\n"
@@ -17,10 +17,10 @@ msgid "PRESSYN"
 msgstr "Carrega Y ou N."
 
 msgid "TXT_YES"
-msgstr ""
+msgstr "Sim"
 
 msgid "TXT_NO"
-msgstr ""
+msgstr "Não"
 
 msgid "SAVEDEAD"
 msgstr ""
@@ -251,7 +251,7 @@ msgid "CNTRLMNU_OTHER_TITLE"
 msgstr "Configurar Outros Controlos"
 
 msgid "CNTRLMNU_WEAPONS"
-msgstr ""
+msgstr "Armas"
 
 msgid "CNTRLMNU_NEXTWEAPON"
 msgstr ""
@@ -393,7 +393,7 @@ msgid "CNTRLMNU_TOGGLE_MESSAGES"
 msgstr ""
 
 msgid "CNTRLMNU_MENU_QUIT"
-msgstr ""
+msgstr "Sair do Jogo"
 
 msgid "MOUSEMNU_ENABLEMOUSE"
 msgstr "Permitir uso do rato"
@@ -628,7 +628,7 @@ msgid "OPTVAL_NEVER"
 msgstr ""
 
 msgid "PLYRMNU_AUTOAIM"
-msgstr ""
+msgstr "Mira Automática"
 
 msgid "PLYRMNU_ALWAYSRUN"
 msgstr "Correr Sempre"

@@ -2,8 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-17 02:16+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-05-05 19:12+0000\n"
+"Last-Translator: Automatic translation add-on <noreply-addon-"
+"autotranslate@weblate.org>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/uzdoom/zdoom-"
 "engine-strings/pt/>\n"
 "Language: pt\n"
@@ -11,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.17-dev\n"
+"X-Generator: Weblate 5.17.1\n"
 
 msgid "PRESSKEY"
 msgstr "Carrega numa tecla qualquer."
@@ -2893,7 +2894,7 @@ msgid "MNU_INFO"
 msgstr ""
 
 msgid "MNU_QUITGAME"
-msgstr ""
+msgstr "Sair do Jogo"
 
 # This text is extremely space limited!
 msgid "MNU_CHOOSESKILL"
@@ -4033,7 +4034,7 @@ msgid "OPTVAL_ITEMS"
 msgstr ""
 
 msgid "OPTVAL_WEAPONS"
-msgstr ""
+msgstr "Armas"
 
 msgid "OPTVAL_BOTH"
 msgstr ""
@@ -5001,7 +5002,7 @@ msgid "HAPMNU_OPT_WORLD"
 msgstr ""
 
 msgid "PAUSE_STRING"
-msgstr ""
+msgstr "Pausa"
 
 msgid "TAG_BACKPACK"
 msgstr ""
