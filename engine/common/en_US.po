@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-05-05 22:16-0400\n"
+"PO-Revision-Date: 2026-05-06 22:11+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/uzdoom/common/en/>\n"
 "Language: en\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: python 3.14.4 polib 1.2.0\n"
+"X-Generator: Weblate 5.17.1\n"
 
 msgid "PRESSYN"
 msgstr "Press Y or N."
@@ -1679,23 +1679,18 @@ msgstr "Search:"
 msgid "OPTMNU_FULLOPTIONS"
 msgstr "Full options menu"
 
-#, fuzzy
 msgid "OPTMNU_SIMPLEON"
 msgstr "Simple options menu"
 
-#, fuzzy
 msgid "OPTMNU_OPENCONFIG"
 msgstr "Browse Game Config"
 
-#, fuzzy
 msgid "OPTMNU_OPENSCREENSHOTS"
 msgstr "Browse Screenshots"
 
-#, fuzzy
 msgid "OPTMNU_OPENSAVES"
 msgstr "Browse Saved Games"
 
-#, fuzzy
 msgid "MOUSEMNU_SWAPBUTTONS"
 msgstr "Swap mouse buttons"
 
@@ -1711,7 +1706,6 @@ msgstr "Unknown"
 msgid "TXT_SAVEGAMENEEDS"
 msgstr "This savegame needs these files"
 
-#, fuzzy
 msgid "GLPREFMNU_CORONAS"
 msgstr "Coronas"
 
@@ -1779,7 +1773,6 @@ msgstr "Rendering API"
 msgid "PICKER_TAB_PLAY"
 msgstr "Game"
 
-#, fuzzy
 msgid "JOYMNU_JOYENABLE"
 msgstr "Enable this controller"
 
