@@ -2,16 +2,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-04-21 09:40+0000\n"
-"Last-Translator: SecularSteve <fairfull.playing@gmail.com>\n"
-"Language-Team: Dutch <https://hosted.weblate.org/projects/uzdoom/zdoom-"
-"engine-strings/nl/>\n"
+"PO-Revision-Date: 2026-05-05 22:17-0400\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"Language-Team: Dutch <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.17.1-dev\n"
+"X-Generator: python 3.14.4 polib 1.2.0\n"
 
 msgid "PRESSKEY"
 msgstr "Druk op een toets."
@@ -2162,7 +2161,7 @@ msgstr "Toetakelaar"
 msgid "TAG_GLAUNCHER1"
 msgstr "Granaatwerper"
 
-# White phosphorous grenade launcher 
+# White phosphorous grenade launcher
 msgid "TAG_GLAUNCHER2"
 msgstr "Granaatwerper"
 
@@ -5187,9 +5186,7 @@ msgstr ""
 "Dit is een voorbeeld van een tooltip.\n"
 "Hier volgt wat aanvullende tekst.\n"
 "…\n"
-"Hier staat een erg lange tekstregel die maar doorgaat zonder ooit iets "
-"interessants te zeggen; hij lijkt alleen maar zo lang te zijn omdat de "
-"ontwikkelaars moeite hebben om uit te leggen wat een optie doet."
+"Hier staat een erg lange tekstregel die maar doorgaat zonder ooit iets interessants te zeggen; hij lijkt alleen maar zo lang te zijn omdat de ontwikkelaars moeite hebben om uit te leggen wat een optie doet."
 
 msgid "ACCMNU_TOOLTIP"
 msgstr "Settips"
@@ -5347,12 +5344,6 @@ msgstr "Superbreed stereobeeld"
 
 msgid "CNTRLMNU_ADJUST_LIGHTS"
 msgstr "Verlichting aanpassen"
-
-msgid "LANG_NATIVE"
-msgstr "Engels (VS)"
-
-msgid "LANG_ENG"
-msgstr "Engels (VS)"
 
 msgid "TAG_MACIL"
 msgstr "Macil"

@@ -13,8 +13,10 @@ from pathlib import Path
 
 import polib
 
+META = "engine/meta"
+
 RECIPES = {
-    "ENGINE": ["engine/common", "engine/zdoom"],
+    "ENGINE": [META, "engine/common", "engine/zdoom"],
     "GAMES": [
         "games/chex",
         "games/doom",
