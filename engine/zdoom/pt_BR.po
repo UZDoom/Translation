@@ -320,8 +320,7 @@ msgstr "Modo sem colisão 3D: DESATIVADO"
 # “Lite-amp”: Light-amplification visor
 msgid "STSTR_BEHOLD"
 msgstr ""
-"Invulnerabilidade (V), Frenesi (S), Invisibilidade (I), Antirradiação (R), "
-"Mapa Completo (A) ou Amplificação de Luz (L)"
+"Invulnerabilidade (V), Frenesi (S), Invisibilidade (I), Antirradiação (R), Mapa Completo (A) ou Amplificação de Luz (L)"
 
 msgid "STSTR_BEHOLDX"
 msgstr "Potencializador ativado"
@@ -4566,18 +4565,16 @@ msgstr "O jogo salvo \"%s\" é de outra engine baseada em ZDoom:"
 
 msgid "TXT_TOOOLDSG"
 msgstr ""
-"O jogo salvo \"%s\" é de uma versão mais antiga: %d (%e sendo a mais antiga "
-"suportada)."
+"O jogo salvo \"%s\" é de uma versão mais antiga: %d (%e sendo a mais antiga suportada)."
 
 # Shouldn’t this say “%e is the newest supported”?
-# 
+#
 # — Undead
-# 
+#
 # Ask Randi: The text is old. I won't change it.
 msgid "TXT_TOONEWSG"
 msgstr ""
-"O jogo salvo \"%s\" é de uma versão mais nova: %d (%e sendo a mais recente "
-"suportada)."
+"O jogo salvo \"%s\" é de uma versão mais nova: %d (%e sendo a mais recente suportada)."
 
 msgid "TXT_NOMAPSG"
 msgstr "O jogo salvo \"%s\" não possui o mapa atual."

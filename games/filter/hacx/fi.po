@@ -462,8 +462,7 @@ msgstr "...kärtsää takalistosi!"
 # replacement is not being triggered.
 msgid "STSTR_BEHOLD"
 msgstr ""
-"haavoittumattomuus (V), voima (S), näkymättömyys (I), koko kartta (A) tai "
-"valonvahvistus (L)?"
+"haavoittumattomuus (V), voima (S), näkymättömyys (I), koko kartta (A) tai valonvahvistus (L)?"
 
 msgid "STSTR_BEHOLDX"
 msgstr "Otetaanpa tosissaan!"

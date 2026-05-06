@@ -61,8 +61,7 @@ msgstr "Sage:"
 
 msgid "TXT_QUITENDOOM"
 msgstr ""
-"Drücke eine beliebige Taste oder klicke irgendwo mit der Maus im Fenster zum"
-" Beenden."
+"Drücke eine beliebige Taste oder klicke irgendwo mit der Maus im Fenster zum Beenden."
 
 msgid "NEWSAVE"
 msgstr "<Neuer Spielstand>"
@@ -265,7 +264,7 @@ msgid "CNTRLMNU_SLOT1"
 msgstr "Waffe 1"
 
 # only show appropriate slots per game
-# 
+#
 msgid "CNTRLMNU_SLOT2"
 msgstr "Waffe 2"
 

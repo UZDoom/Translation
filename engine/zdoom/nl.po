@@ -4560,18 +4560,16 @@ msgstr "Savegame '%s' is van een andere ZDoom-gebaseerde engine:"
 
 msgid "TXT_TOOOLDSG"
 msgstr ""
-"Savegame '%s' is van een oudere versie: %d (%e is de oudste ondersteunde "
-"versie)."
+"Savegame '%s' is van een oudere versie: %d (%e is de oudste ondersteunde versie)."
 
 # Shouldn’t this say “%e is the newest supported”?
-# 
+#
 # — Undead
-# 
+#
 # Ask Randi: The text is old. I won't change it.
 msgid "TXT_TOONEWSG"
 msgstr ""
-"Savegame '%s' is van een nieuwere versie: %d (%e is de hoogst ondersteunde "
-"versie)."
+"Savegame '%s' is van een nieuwere versie: %d (%e is de hoogst ondersteunde versie)."
 
 msgid "TXT_NOMAPSG"
 msgstr "Savegame '%s' mist de huidige kaart."
@@ -5196,14 +5194,11 @@ msgstr "Extra verlichting"
 
 msgid "ACCMNU_TOOLTIP_LIGHT_RADIUS"
 msgstr ""
-"Bepaalt de straal van de verlichting rondom de speler in kaarteenheden. Hoe "
-"hoger de waarde, hoe helderder de scène."
+"Bepaalt de straal van de verlichting rondom de speler in kaarteenheden. Hoe hoger de waarde, hoe helderder de scène."
 
 msgid "ACCMNU_TOOLTIP_LIGHT_EXTRA"
 msgstr ""
-"De hoeveelheid sectorverlichting die bovenop de bestaande "
-"verlichtingsniveaus van de sector moet worden toegevoegd, met behoud van de "
-"bestaande verlichtingsmodus."
+"De hoeveelheid sectorverlichting die bovenop de bestaande verlichtingsniveaus van de sector moet worden toegevoegd, met behoud van de bestaande verlichtingsmodus."
 
 msgid "ACCMNU_LIGHT_RADIUS"
 msgstr "Lichtstraal van de speler"
@@ -5243,41 +5238,30 @@ msgstr "Schakel ze uit voordat u de instellingen aanpast."
 
 msgid "DSPLYMNU_TOOLTIP_GAMMA"
 msgstr ""
-"Compenseert de beperkingen van je beeldscherm. Pas de instelling aan totdat "
-"de verticale grijze blokken vervagen. Gebruik deze functie niet om het spel "
-"helderder te maken, maar alleen om ervoor te zorgen dat het beeld is "
-"afgestemd op jouw systeem."
+"Compenseert de beperkingen van je beeldscherm. Pas de instelling aan totdat de verticale grijze blokken vervagen. Gebruik deze functie niet om het spel helderder te maken, maar alleen om ervoor te zorgen dat het beeld is afgestemd op jouw systeem."
 
 msgid "DSPLYMNU_BLACKPOINT"
 msgstr "Vergoeding van Blackpoint"
 
 msgid "DSPLYMNU_TOOLTIP_BLACKPOINT"
 msgstr ""
-"Compenseert voor beeldschermen die donkere pixels niet correct weergeven. "
-"Pas de instelling aan totdat de diagonale witte blokken vervagen. Gebruik "
-"deze functie niet om het spel helderder te maken, maar alleen om ervoor te "
-"zorgen dat het beeld is afgestemd op jouw opstelling."
+"Compenseert voor beeldschermen die donkere pixels niet correct weergeven. Pas de instelling aan totdat de diagonale witte blokken vervagen. Gebruik deze functie niet om het spel helderder te maken, maar alleen om ervoor te zorgen dat het beeld is afgestemd op jouw opstelling."
 
 msgid "DSPLYMNU_TOOLTIP_IMAGEADJUST_RESET"
 msgstr ""
-"Hiermee worden alle opties in dit menu teruggezet naar de "
-"standaardinstellingen."
+"Hiermee worden alle opties in dit menu teruggezet naar de standaardinstellingen."
 
 msgid "DSPLYMNU_TOOLTIP_BRIGHTNESS"
 msgstr ""
-"Hiermee wordt een lineaire helderheidsaanpassing toegepast. Pas de "
-"helderheid aan naar eigen voorkeur, of om in het donker te kunnen zien."
+"Hiermee wordt een lineaire helderheidsaanpassing toegepast. Pas de helderheid aan naar eigen voorkeur, of om in het donker te kunnen zien."
 
 msgid "DSPLYMNU_TOOLTIP_CONTRAST"
 msgstr ""
-"Hiermee pas je het waargenomen verschil tussen vergelijkbare kleuren aan. "
-"Hiermee bepaal je hoe scherp of vaal de afbeeldingen eruitzien. Pas dit aan "
-"naar eigen smaak."
+"Hiermee pas je het waargenomen verschil tussen vergelijkbare kleuren aan. Hiermee bepaal je hoe scherp of vaal de afbeeldingen eruitzien. Pas dit aan naar eigen smaak."
 
 msgid "DSPLYMNU_TOOLTIP_SATURATION"
 msgstr ""
-"Hiermee past u de kleurintensiteit aan, waardoor het beeld levendiger of "
-"juist wat gedempter wordt. Pas dit aan naar eigen smaak."
+"Hiermee past u de kleurintensiteit aan, waardoor het beeld levendiger of juist wat gedempter wordt. Pas dit aan naar eigen smaak."
 
 msgid "DSPLYMNU_IMAGEADJUST_BOTTOM"
 msgstr "Pas dit aan totdat het eruitziet als een egale grijze kleur."

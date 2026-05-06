@@ -61,8 +61,7 @@ msgstr "Sig:"
 
 msgid "TXT_QUITENDOOM"
 msgstr ""
-"Tryk på en vilkårlig tast eller klik et vilkårligt sted i vinduet for at "
-"afslutte."
+"Tryk på en vilkårlig tast eller klik et vilkårligt sted i vinduet for at afslutte."
 
 msgid "NEWSAVE"
 msgstr "<Nyt gemmer spil>"
@@ -265,7 +264,7 @@ msgid "CNTRLMNU_SLOT1"
 msgstr "Våben 1"
 
 # only show appropriate slots per game
-# 
+#
 msgid "CNTRLMNU_SLOT2"
 msgstr "Våben 2"
 

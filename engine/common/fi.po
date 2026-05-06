@@ -62,8 +62,7 @@ msgstr "Sano:"
 
 msgid "TXT_QUITENDOOM"
 msgstr ""
-"Paina mitä tahansa näppäintä tai napsauta minne tahansa ikkunaa "
-"lopettaaksesi."
+"Paina mitä tahansa näppäintä tai napsauta minne tahansa ikkunaa lopettaaksesi."
 
 msgid "NEWSAVE"
 msgstr "<Uusi tallennettu peli>"
@@ -266,7 +265,7 @@ msgid "CNTRLMNU_SLOT1"
 msgstr "Aselokero 1"
 
 # only show appropriate slots per game
-# 
+#
 msgid "CNTRLMNU_SLOT2"
 msgstr "Aselokero 2"
 

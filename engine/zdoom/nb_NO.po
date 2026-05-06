@@ -4568,15 +4568,14 @@ msgstr ""
 "Savegame '%s' er fra en eldre versjon: %d (%e er den eldste som støttes)."
 
 # Shouldn’t this say “%e is the newest supported”?
-# 
+#
 # — Undead
-# 
+#
 # Ask Randi: The text is old. I won't change it.
 #, fuzzy
 msgid "TXT_TOONEWSG"
 msgstr ""
-"Savegame '%s' er fra en nyere versjon: %d (%e er den høyeste versjonen som "
-"støttes)."
+"Savegame '%s' er fra en nyere versjon: %d (%e er den høyeste versjonen som støttes)."
 
 msgid "TXT_NOMAPSG"
 msgstr "Savegame '%s' mangler det gjeldende kartet."

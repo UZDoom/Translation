@@ -61,8 +61,7 @@ msgstr "Пиши:"
 
 msgid "TXT_QUITENDOOM"
 msgstr ""
-"Натиснете който и да е клавиш или щракнете където и да е в прозореца, за да "
-"излезете."
+"Натиснете който и да е клавиш или щракнете където и да е в прозореца, за да излезете."
 
 msgid "NEWSAVE"
 msgstr "<Нов запис на играта>"
@@ -265,7 +264,7 @@ msgid "CNTRLMNU_SLOT1"
 msgstr "Оръжие 1"
 
 # only show appropriate slots per game
-# 
+#
 msgid "CNTRLMNU_SLOT2"
 msgstr "Оръжие 2"
 

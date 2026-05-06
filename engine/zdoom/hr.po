@@ -4569,18 +4569,16 @@ msgstr "Spremljena igra '%s' je iz drugog ZDoom engine-a:"
 
 msgid "TXT_TOOOLDSG"
 msgstr ""
-"Spremljena igra '%s' je iz starije verzije: %d (%e je najstarija podržana "
-"verzija)."
+"Spremljena igra '%s' je iz starije verzije: %d (%e je najstarija podržana verzija)."
 
 # Shouldn’t this say “%e is the newest supported”?
-# 
+#
 # — Undead
-# 
+#
 # Ask Randi: The text is old. I won't change it.
 msgid "TXT_TOONEWSG"
 msgstr ""
-"Spremljena igra '%s' je iz novije verzije: %d (%e je najviše podržana "
-"verzija)."
+"Spremljena igra '%s' je iz novije verzije: %d (%e je najviše podržana verzija)."
 
 msgid "TXT_NOMAPSG"
 msgstr "Spremljenoj igri '%s' nedostaje trenutna mapa."
@@ -4801,8 +4799,7 @@ msgstr "Omogući stvari samo za kooperativni način igre u multiplayeru"
 # Items that only appear in co-op are disabled
 msgid "GMPLYMNU_COOPITEMS"
 msgstr ""
-"Omogući prikupljanje predmeta samo u kooperativnom načinu igre za više "
-"igrača"
+"Omogući prikupljanje predmeta samo u kooperativnom načinu igre za više igrača"
 
 # Items are picked up client-side rather than fully taken by the client who
 # picked it up

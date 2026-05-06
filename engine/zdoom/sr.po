@@ -4572,9 +4572,9 @@ msgstr ""
 "Сачувана игра „%s“ је из старије верзије: %d (%e је најстарија подржана)."
 
 # Shouldn’t this say “%e is the newest supported”?
-# 
+#
 # — Undead
-# 
+#
 # Ask Randi: The text is old. I won't change it.
 msgid "TXT_TOONEWSG"
 msgstr ""
@@ -5163,8 +5163,7 @@ msgstr "Додатно осветљење"
 
 msgid "ACCMNU_TOOLTIP_LIGHT_RADIUS"
 msgstr ""
-"Контролише опсег светла око играча у јединици нивоа. Веће вредности чине "
-"сцену светлијом."
+"Контролише опсег светла око играча у јединици нивоа. Веће вредности чине сцену светлијом."
 
 #, fuzzy
 msgid "ACCMNU_LIGHT_RADIUS"

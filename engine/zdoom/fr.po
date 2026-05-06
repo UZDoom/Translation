@@ -4568,18 +4568,16 @@ msgstr "La sauvegarde '%s' vient d'un autre moteur basé sur ZDoom :"
 
 msgid "TXT_TOOOLDSG"
 msgstr ""
-"La sauvegarde '%s' vient d'une version obsolète : %d (%e est la plus "
-"ancienne supportée)."
+"La sauvegarde '%s' vient d'une version obsolète : %d (%e est la plus ancienne supportée)."
 
 # Shouldn’t this say “%e is the newest supported”?
-# 
+#
 # — Undead
-# 
+#
 # Ask Randi: The text is old. I won't change it.
 msgid "TXT_TOONEWSG"
 msgstr ""
-"La sauvegarde '%s' vient d'une version plus récente : %d (%e est la plus "
-"récente supportée)."
+"La sauvegarde '%s' vient d'une version plus récente : %d (%e est la plus récente supportée)."
 
 msgid "TXT_NOMAPSG"
 msgstr "La sauvegarde '%s' ne contient pas la carte actuelle."

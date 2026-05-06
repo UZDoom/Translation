@@ -4561,18 +4561,16 @@ msgstr "Savegame '%s' is from another ZDoom-based engine:"
 
 msgid "TXT_TOOOLDSG"
 msgstr ""
-"Savegame '%s' is from an older version (%d). The oldest supported version is"
-" %e."
+"Savegame '%s' is from an older version (%d). The oldest supported version is %e."
 
 # Shouldn’t this say “%e is the newest supported”?
-# 
+#
 # — Undead
-# 
+#
 # Ask Randi: The text is old. I won't change it.
 msgid "TXT_TOONEWSG"
 msgstr ""
-"Savegame '%s' is from a newer version (%d). The highest supported version is"
-" %e."
+"Savegame '%s' is from a newer version (%d). The highest supported version is %e."
 
 msgid "TXT_NOMAPSG"
 msgstr "Savegame '%s' is missing the current map."
@@ -5173,13 +5171,11 @@ msgstr "Extra Lighting"
 
 msgid "ACCMNU_TOOLTIP_LIGHT_RADIUS"
 msgstr ""
-"Controls the light radius distance around the player in map units. Larger "
-"values make the scene brighter."
+"Controls the light radius distance around the player in map units. Larger values make the scene brighter."
 
 msgid "ACCMNU_TOOLTIP_LIGHT_EXTRA"
 msgstr ""
-"Amount of sector lighting to add on top of existing sector light levels, "
-"while preserving the existing lighting mode."
+"Amount of sector lighting to add on top of existing sector light levels, while preserving the existing lighting mode."
 
 msgid "ACCMNU_LIGHT_RADIUS"
 msgstr "Player Light Radius"
@@ -5222,13 +5218,11 @@ msgstr "Adjust until this looks like a uniform Grey colour."
 
 msgid "DSPLYMNU_TOOLTIP_SATURATION"
 msgstr ""
-"Adjusts the intensity of colours, making the image look more vivid or muted."
-" Adjust to personal taste."
+"Adjusts the intensity of colours, making the image look more vivid or muted. Adjust to personal taste."
 
 msgid "DSPLYMNU_TOOLTIP_CONTRAST"
 msgstr ""
-"Adjusts perceived difference between similar colours. Controls how "
-"sharp/washed out the images looks. Adjust to personal taste."
+"Adjusts perceived difference between similar colours. Controls how sharp/washed out the images looks. Adjust to personal taste."
 
 msgid "DSPLYMNU_IMAGEADJUST"
 msgstr "Image Calibration"
@@ -5244,18 +5238,14 @@ msgstr "Please disable them before adjusting."
 
 msgid "DSPLYMNU_TOOLTIP_GAMMA"
 msgstr ""
-"Compensates for your monitor's limitations. Adjust until vertical grey "
-"blocks fade. Do not use this to make the game brighter, only to ensure the "
-"image is calibrated for your setup."
+"Compensates for your monitor's limitations. Adjust until vertical grey blocks fade. Do not use this to make the game brighter, only to ensure the image is calibrated for your setup."
 
 msgid "DSPLYMNU_BLACKPOINT"
 msgstr "Blackpoint compensation"
 
 msgid "DSPLYMNU_TOOLTIP_BLACKPOINT"
 msgstr ""
-"Compensates for monitors that fail to display dark pixels correctly. Adjust "
-"until diagonal white blocks fade. Do not use this to make the game brighter,"
-" only to ensure the image is calibrated for your setup."
+"Compensates for monitors that fail to display dark pixels correctly. Adjust until diagonal white blocks fade. Do not use this to make the game brighter, only to ensure the image is calibrated for your setup."
 
 msgid "DSPLYMNU_TOOLTIP_IMAGEADJUST_RESET"
 msgstr "Resets all options in this menu to default settings."

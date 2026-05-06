@@ -324,8 +324,7 @@ msgstr "Seinänläpikulkutila 2: POIS"
 # “Lite-amp”: Light-amplification visor
 msgid "STSTR_BEHOLD"
 msgstr ""
-"haavoittumattomuus (V), voima (S), näkymättömyys (I), koko kartta (A) tai "
-"valonvahvistus (L)"
+"haavoittumattomuus (V), voima (S), näkymättömyys (I), koko kartta (A) tai valonvahvistus (L)"
 
 msgid "STSTR_BEHOLDX"
 msgstr "Tehostin kytketty"
@@ -4579,9 +4578,9 @@ msgstr ""
 "Pelitallenne '%s' on vanhemmasta versiosta: %d (%e on vanhin tuettu versio)."
 
 # Shouldn’t this say “%e is the newest supported”?
-# 
+#
 # — Undead
-# 
+#
 # Ask Randi: The text is old. I won't change it.
 msgid "TXT_TOONEWSG"
 msgstr ""

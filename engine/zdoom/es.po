@@ -1853,8 +1853,7 @@ msgstr "%o ha recibido una revelación impactante de %k."
 
 msgid "OB_MPMWEAPBLOODSCOURGE"
 msgstr ""
-"%o ha sido borrad@[ao_esp] de la faz del universo por la plaga sangrienta de"
-" %k."
+"%o ha sido borrad@[ao_esp] de la faz del universo por la plaga sangrienta de %k."
 
 msgid "TXT_METALARMOR"
 msgstr "Encuentras una armadura de metal."
@@ -4568,18 +4567,16 @@ msgstr "La partida guardada '%s' es de otro motor basado en ZDoom:"
 
 msgid "TXT_TOOOLDSG"
 msgstr ""
-"La partida guardada '%s' es de una versión anterior: %d (%e es la más "
-"anterior soportada)."
+"La partida guardada '%s' es de una versión anterior: %d (%e es la más anterior soportada)."
 
 # Shouldn’t this say “%e is the newest supported”?
-# 
+#
 # — Undead
-# 
+#
 # Ask Randi: The text is old. I won't change it.
 msgid "TXT_TOONEWSG"
 msgstr ""
-"La partida guardada '%s' es de una versión posterior: %d (%e es la más alta "
-"soportada)."
+"La partida guardada '%s' es de una versión posterior: %d (%e es la más alta soportada)."
 
 msgid "TXT_NOMAPSG"
 msgstr "La partida guardada '%s' carece del mapa actual."

@@ -4557,18 +4557,16 @@ msgstr "O jogo gravado \"%s\" é de outro motor baseado em ZDoom:"
 
 msgid "TXT_TOOOLDSG"
 msgstr ""
-"O jogo gravado \"%s\" é de uma versão mais antiga: %d (%e sendo a mais "
-"antiga suportada)."
+"O jogo gravado \"%s\" é de uma versão mais antiga: %d (%e sendo a mais antiga suportada)."
 
 # Shouldn’t this say “%e is the newest supported”?
-# 
+#
 # — Undead
-# 
+#
 # Ask Randi: The text is old. I won't change it.
 msgid "TXT_TOONEWSG"
 msgstr ""
-"O jogo gravado \"%s\" é de uma versão mais nova: %d (%e sendo a mais recente"
-" suportada)."
+"O jogo gravado \"%s\" é de uma versão mais nova: %d (%e sendo a mais recente suportada)."
 
 msgid "TXT_NOMAPSG"
 msgstr "O jogo gravado \"%s\" não possui o mapa atual."
