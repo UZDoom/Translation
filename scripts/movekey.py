@@ -6,15 +6,13 @@ Moves key from one component to another
 
 import sys
 import argparse
-from datetime import datetime
 import subprocess
-import platform
 from pathlib import Path
 
-import polib
-
-SCRIPT_ID = f"python {platform.python_version()} polib {polib.__version__}"
-TIMESTAMP = datetime.now().astimezone().strftime("%Y-%m-%d %H:%M%z")
+from libs import polib
+from config import \
+    TIMESTAMP, \
+    SCRIPT_ID
 
 
 def set_meta(key, val, *pofiles):

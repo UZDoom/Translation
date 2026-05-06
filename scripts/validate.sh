@@ -54,7 +54,7 @@ echo
 phase validate python scripts
 ###
 
-pyfiles=( scripts/compile.py scripts/movekey.py )
+pyfiles=( scripts/*.py )
 pyversion=3.6
 
 for pyfile in "${pyfiles[@]}"; do
