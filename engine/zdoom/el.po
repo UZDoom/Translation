@@ -4,8 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "PO-Revision-Date: 2026-03-17 02:16+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
-"Language-Team: Greek <https://hosted.weblate.org/projects/uzdoom/zdoom-"
-"engine-strings/el/>\n"
+"Language-Team: Greek <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/el/>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -252,7 +251,8 @@ msgid "PD_ALL6"
 msgstr "Χρειάζεσαι όλα τα έξι κλειδία για να ανοίξεις αυτή τη πόρτα"
 
 msgid "PD_ALL6O"
-msgstr "Χρειάζεσε όλα τα έξι κλειδιά για να ενεργοποιήσεις αυτό το αντικείμενο"
+msgstr ""
+"Χρειάζεσε όλα τα έξι κλειδιά για να ενεργοποιήσεις αυτό το αντικείμενο"
 
 msgid "PD_ALLKEYS"
 msgstr "Χρειάζεσαι όλα τα κλειδία"
@@ -784,7 +784,8 @@ msgid "PD_REDO"
 msgstr "Χρειάζεσε ένα κόκινο κλειδί για να ενεργοποίησεις αυτο το αντικείμενο"
 
 msgid "PD_YELLOWO"
-msgstr "Χρειάζεσε ένα κύτρινο κλειδί για να ενεργοποίησεις αυτο το αντικείμενο"
+msgstr ""
+"Χρειάζεσε ένα κύτρινο κλειδί για να ενεργοποίησεις αυτο το αντικείμενο"
 
 msgid "PD_BLUEK"
 msgstr "Χρειάζεσε ένα μπλέ κλειδί για να ανοίξεις αυτή τη πόρτα"
@@ -811,7 +812,8 @@ msgid "PD_REDSO"
 msgstr "Χρειάζεσε ένα κόκινο κρανιο για να ενεργοποίησεις αυτο το αντικείμενο"
 
 msgid "PD_YELLOWSO"
-msgstr "Χρειάζεσε ένα κύτρινο κρανιο για να ενεργοποίησεις αυτο το αντικείμενο"
+msgstr ""
+"Χρειάζεσε ένα κύτρινο κρανιο για να ενεργοποίησεις αυτο το αντικείμενο"
 
 msgid "PD_BLUEC"
 msgstr "Χρειάζεσε μια μπλέ κάρτα για να ανοίξεις αυτή τη πόρτα"
@@ -2164,7 +2166,7 @@ msgstr ""
 msgid "TAG_GLAUNCHER1"
 msgstr ""
 
-# White phosphorous grenade launcher 
+# White phosphorous grenade launcher
 msgid "TAG_GLAUNCHER2"
 msgstr ""
 
@@ -4525,9 +4527,9 @@ msgstr ""
 "υποστηριζώμενη)."
 
 # Shouldn’t this say “%e is the newest supported”?
-#
+# 
 # — Undead
-#
+# 
 # Ask Randi: The text is old. I won't change it.
 msgid "TXT_TOONEWSG"
 msgstr ""
@@ -4538,7 +4540,8 @@ msgid "TXT_NOMAPSG"
 msgstr "Το αρχείο αποθήκευσης %s δέν έχει την τωρινή πίστα."
 
 msgid "TXT_NOGLOBALSJSON"
-msgstr "Το %s δεν είναι ένα έγκυρο αρχείο αποθήκευσης: Το globals.json λείπει."
+msgstr ""
+"Το %s δεν είναι ένα έγκυρο αρχείο αποθήκευσης: Το globals.json λείπει."
 
 msgid "TXT_SGINFOERR"
 msgstr "Η πρόσβαση πληροφοριών του αρχείου αποθήκευσης %s δέν ήταν επιτυχής"

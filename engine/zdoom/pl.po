@@ -4,14 +4,12 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "PO-Revision-Date: 2026-04-13 18:01+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
-"Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/zdoom-"
-"engine-strings/pl/>\n"
+"Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
-"|| n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Weblate 5.17-dev\n"
 
 msgid "PRESSKEY"
@@ -1380,7 +1378,8 @@ msgid "OB_MPPPHOENIXROD"
 msgstr "%o został@[ao_pl] spalon@[adj_pl] przez różdżkę feniksa %k."
 
 msgid "OB_MPPMACE"
-msgstr "%o został@[ao_pl] zmiażdżon@[adj_pl] przez ogromną kulę z buzdygana %k."
+msgstr ""
+"%o został@[ao_pl] zmiażdżon@[adj_pl] przez ogromną kulę z buzdygana %k."
 
 msgid "TXT_MANA_1"
 msgstr "Niebieska Mana"
@@ -2168,7 +2167,7 @@ msgstr "Miażdżyciel"
 msgid "TAG_GLAUNCHER1"
 msgstr "Wyrzutnia Granatów"
 
-# White phosphorous grenade launcher 
+# White phosphorous grenade launcher
 msgid "TAG_GLAUNCHER2"
 msgstr "Wyrzutnia Granatów"
 
@@ -4579,7 +4578,8 @@ msgstr ""
 # 
 # Ask Randi: The text is old. I won't change it.
 msgid "TXT_TOONEWSG"
-msgstr "Zapis gry „%s” jest z nowszej wersji: %d (%e jest najwyższą wspieraną)."
+msgstr ""
+"Zapis gry „%s” jest z nowszej wersji: %d (%e jest najwyższą wspieraną)."
 
 msgid "TXT_NOMAPSG"
 msgstr "W zapisie gry „%s” brakuje obecnej mapy."
