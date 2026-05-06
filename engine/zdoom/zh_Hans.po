@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-05-06 11:11+0000\n"
-"Last-Translator: dwing <12104745@qq.com>\n"
+"PO-Revision-Date: 2026-05-06 13:11+0000\n"
+"Last-Translator: OldCactusCN <huchenyi_2019@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -5368,7 +5368,7 @@ msgid "MAPCOLORMNU_SECTORFILLALPHA"
 msgstr "填充不透明度"
 
 msgid "VALFORMAT_SECOND"
-msgstr "%s秒"
+msgstr "%s 秒"
 
 msgid "VALFORMAT_PERCENT"
 msgstr "%s %%"
@@ -5377,25 +5377,25 @@ msgid "VALFORMAT_MULTIPLIER"
 msgstr "%s ×"
 
 msgid "VALFORMAT_MSECOND"
-msgstr "%s毫秒"
+msgstr "%s 毫秒"
 
 msgid "VALFORMAT_METER"
-msgstr "%s米"
+msgstr "%s 米"
 
 msgid "VALFORMAT_HZ"
-msgstr "%s赫兹"
+msgstr "%s 赫兹"
 
 msgid "VALFORMAT_FPS"
-msgstr "%s帧/秒"
+msgstr "%s 帧/秒"
 
 msgid "VALFORMAT_DEGREES"
-msgstr "%s度"
+msgstr "%s 度"
 
 msgid "VALFORMAT_DB_P_METER"
-msgstr "%s分贝/米"
+msgstr "%s 分贝/米"
 
 msgid "VALFORMAT_DB"
-msgstr "%s分贝"
+msgstr "%s 分贝"
 
 msgid "ACCMNU_TOOLTIP_DOUBLECLICK_THRESHOLD"
 msgstr "触发一次双击事件需要连续两次按键的时间间隔"
