@@ -22,4 +22,4 @@ msgid "LANG_NATIVE"
 msgstr ""
 
 msgid "LANG_ENG"
-msgstr ""
+msgstr "Thai"

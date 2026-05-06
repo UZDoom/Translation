@@ -12,14 +12,15 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: python 3.14.4 polib 1.2.0\n"
 
-# This is not a text to be translated but an engine switch for complex
-# languages.
 msgid "USE_GENERIC_FONT"
 msgstr "0"
 
-# This should list all uppercase characters that are REQUIRED for proper
-# language display. If it is acceptable that accents get omitted a character
-# should NOT be listed here!
 #, fuzzy
 msgid "REQUIRED_CHARACTERS"
 msgstr "ÄÖÅÉ"
+
+msgid "LANG_NATIVE"
+msgstr ""
+
+msgid "LANG_ENG"
+msgstr "Swedish"

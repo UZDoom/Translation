@@ -22,4 +22,4 @@ msgid "LANG_NATIVE"
 msgstr "Engleski (SAD)"
 
 msgid "LANG_ENG"
-msgstr "Engleski (SAD)"
+msgstr "Bosnian"
