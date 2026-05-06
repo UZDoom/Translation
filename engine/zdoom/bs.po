@@ -4529,8 +4529,7 @@ msgstr "Savegame '%s' je iz drugog ZDoom-om baziranog enjina:"
 
 msgid "TXT_TOOOLDSG"
 msgstr ""
-"Snimak igre '%s' je iz starije verzije (%d). Najstarija podržana verzija je "
-"%e."
+"Snimak igre '%s' je iz starije verzije (%d). Najstarija podržana verzija je %e."
 
 msgid "TXT_TOONEWSG"
 msgstr ""
@@ -5092,13 +5091,11 @@ msgstr "Dodatno osvjetljenje"
 
 msgid "ACCMNU_TOOLTIP_LIGHT_RADIUS"
 msgstr ""
-"Kontrolira radijus svjetla oko igrača u jedinicama mape. Veće vrijednosti "
-"čine scenu svjetlijom."
+"Kontrolira radijus svjetla oko igrača u jedinicama mape. Veće vrijednosti čine scenu svjetlijom."
 
 msgid "ACCMNU_TOOLTIP_LIGHT_EXTRA"
 msgstr ""
-"Količina sektorskog osvjetljenja koja se dodaje na postojeće nivoe "
-"osvjetljenja sektora, uz očuvanje postojećeg načina osvjetljenja."
+"Količina sektorskog osvjetljenja koja se dodaje na postojeće nivoe osvjetljenja sektora, uz očuvanje postojećeg načina osvjetljenja."
 
 msgid "ACCMNU_LIGHT_RADIUS"
 msgstr "Radius svjetla igrača"
@@ -5138,37 +5135,29 @@ msgstr "Molimo isključite ih prije podešavanja."
 
 msgid "DSPLYMNU_TOOLTIP_GAMMA"
 msgstr ""
-"Kompenzira ograničenja vašeg monitora. Podesite dok se vertikalni sivi "
-"blokovi ne izbrišu. Nemojte ovo koristiti da biste pojačali svjetlinu igre, "
-"već samo da biste osigurali da je slika kalibrisana za vašu konfiguraciju."
+"Kompenzira ograničenja vašeg monitora. Podesite dok se vertikalni sivi blokovi ne izbrišu. Nemojte ovo koristiti da biste pojačali svjetlinu igre, već samo da biste osigurali da je slika kalibrisana za vašu konfiguraciju."
 
 msgid "DSPLYMNU_BLACKPOINT"
 msgstr "Kompenzacija Blackpointa"
 
 msgid "DSPLYMNU_TOOLTIP_BLACKPOINT"
 msgstr ""
-"Kompenzira monitore koji ne prikazuju tamne piksele ispravno. Podesite dok "
-"bijeli blokovi dijagonale ne izblijede. Nemojte ovo koristiti da biste "
-"pojačali svjetlinu igre, već samo da biste osigurali da je slika kalibrirana"
-" za vašu konfiguraciju."
+"Kompenzira monitore koji ne prikazuju tamne piksele ispravno. Podesite dok bijeli blokovi dijagonale ne izblijede. Nemojte ovo koristiti da biste pojačali svjetlinu igre, već samo da biste osigurali da je slika kalibrirana za vašu konfiguraciju."
 
 msgid "DSPLYMNU_TOOLTIP_IMAGEADJUST_RESET"
 msgstr "Resetira sve opcije u ovom meniju na zadane postavke."
 
 msgid "DSPLYMNU_TOOLTIP_BRIGHTNESS"
 msgstr ""
-"Primjenjuje linearnu prilagodbu svjetline. Prilagodite prema ličnom ukusu "
-"ili za gledanje u mraku."
+"Primjenjuje linearnu prilagodbu svjetline. Prilagodite prema ličnom ukusu ili za gledanje u mraku."
 
 msgid "DSPLYMNU_TOOLTIP_CONTRAST"
 msgstr ""
-"Podešava percipiranu razliku između sličnih boja. Kontroliše koliko slike "
-"izgledaju oštre ili izbljeđene. Podešavajte prema ličnom ukusu."
+"Podešava percipiranu razliku između sličnih boja. Kontroliše koliko slike izgledaju oštre ili izbljeđene. Podešavajte prema ličnom ukusu."
 
 msgid "DSPLYMNU_TOOLTIP_SATURATION"
 msgstr ""
-"Podešava intenzitet boja, čineći da slika izgleda življe ili prigušenije. "
-"Podešavajte prema ličnom ukusu."
+"Podešava intenzitet boja, čineći da slika izgleda življe ili prigušenije. Podešavajte prema ličnom ukusu."
 
 msgid "DSPLYMNU_IMAGEADJUST_BOTTOM"
 msgstr "Podesite dok ovo ne izgleda kao jednolična siva boja."

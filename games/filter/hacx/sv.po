@@ -491,8 +491,7 @@ msgstr "Är du galen eller missanpassad? Nå? Ja eller nej!"
 
 msgid "NIGHTMARE"
 msgstr ""
-"Är du säker? Du klarar inte av den här färdigheten, hackare! Tryck på Y för "
-"att dö."
+"Är du säker? Du klarar inte av den här färdigheten, hackare! Tryck på Y för att dö."
 
 # For most languages the original Doom text should suffice.
 msgid "QSPROMPT"

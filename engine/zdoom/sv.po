@@ -446,8 +446,7 @@ msgstr "%d monster dödade"
 
 msgid "TXT_NO_RESURRECT"
 msgstr ""
-"Det går inte att återuppliva. Spelaren är inte längre ansluten till sin "
-"kropp."
+"Det går inte att återuppliva. Spelaren är inte längre ansluten till sin kropp."
 
 msgid "TXT_ALL_ARTIFACTS"
 msgstr "Alla artefakter!"
@@ -4571,19 +4570,17 @@ msgstr "Sparfil \"%s\" är från en annan ZDoom-baserad motor:"
 #, fuzzy
 msgid "TXT_TOOOLDSG"
 msgstr ""
-"Sparfil \"%s\" är från en äldre version: %d (%e är den äldsta versionen som "
-"stöds)."
+"Sparfil \"%s\" är från en äldre version: %d (%e är den äldsta versionen som stöds)."
 
 # Shouldn’t this say “%e is the newest supported”?
-# 
+#
 # — Undead
-# 
+#
 # Ask Randi: The text is old. I won't change it.
 #, fuzzy
 msgid "TXT_TOONEWSG"
 msgstr ""
-"Sparfil \"%s\" är från en nyare version: %d (%e är den högsta versionen som "
-"stöds)."
+"Sparfil \"%s\" är från en nyare version: %d (%e är den högsta versionen som stöds)."
 
 msgid "TXT_NOMAPSG"
 msgstr "Sparfil \"%s\" saknar den aktuella kartan."

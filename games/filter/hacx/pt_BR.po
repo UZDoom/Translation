@@ -182,8 +182,7 @@ msgstr "%o engoliu o míssil núclear de %k."
 
 msgid "OB_MPNUKESPLASH"
 msgstr ""
-"%o virou picadinho radioativo por causa da destruição em massa causada por "
-"%k."
+"%o virou picadinho radioativo por causa da destruição em massa causada por %k."
 
 msgid "OB_MPTELEFRAG"
 msgstr "%o foi virad@[ao_ptb] ao avesso por %k."

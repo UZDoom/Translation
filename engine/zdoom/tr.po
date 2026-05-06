@@ -4568,18 +4568,16 @@ msgstr "%s' kayıt oyunu başka bir ZDoom tabanlı motordan:"
 
 msgid "TXT_TOOOLDSG"
 msgstr ""
-"%s' kayıt oyunu daha eski bir sürümden: %d (%e desteklenen en eski "
-"sürümdür)."
+"%s' kayıt oyunu daha eski bir sürümden: %d (%e desteklenen en eski sürümdür)."
 
 # Shouldn’t this say “%e is the newest supported”?
-# 
+#
 # — Undead
-# 
+#
 # Ask Randi: The text is old. I won't change it.
 msgid "TXT_TOONEWSG"
 msgstr ""
-"%s' kayıt oyunu daha yeni bir sürümden: %d (%e desteklenen en yüksek "
-"sürümdür)."
+"%s' kayıt oyunu daha yeni bir sürümden: %d (%e desteklenen en yüksek sürümdür)."
 
 msgid "TXT_NOMAPSG"
 msgstr "%s' kayıt oyununda geçerli harita eksik."

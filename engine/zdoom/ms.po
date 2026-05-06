@@ -4476,9 +4476,9 @@ msgid "TXT_TOOOLDSG"
 msgstr ""
 
 # Shouldn’t this say “%e is the newest supported”?
-# 
+#
 # — Undead
-# 
+#
 # Ask Randi: The text is old. I won't change it.
 msgid "TXT_TOONEWSG"
 msgstr ""
@@ -5074,5 +5074,4 @@ msgstr "Skalakan Petua Alat"
 
 msgid "DSPLYMNU_TOOLTIP_BRIGHTNESS"
 msgstr ""
-"Menerapkan pelarasan kecerahan linear. Laraskan mengikut citarasa sendiri "
-"atau untuk melihat dalam gelap."
+"Menerapkan pelarasan kecerahan linear. Laraskan mengikut citarasa sendiri atau untuk melihat dalam gelap."

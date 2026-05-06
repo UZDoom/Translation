@@ -324,9 +324,7 @@ msgstr "Lebdoprozirni mod 2: ҺҮНДЕР"
 # “Lite-amp”: Light-amplification visor
 msgid "STSTR_BEHOLD"
 msgstr ""
-"Sfera neranjivosti (V), Način pomahnitalosti (S), Sfera zamućenja, Odijelo "
-"za zaštitu od zračenja (A), Računalna karta područja (A), Vizir za pojačanje"
-" svjetla"
+"Sfera neranjivosti (V), Način pomahnitalosti (S), Sfera zamućenja, Odijelo za zaštitu od zračenja (A), Računalna karta područja (A), Vizir za pojačanje svjetla"
 
 msgid "STSTR_BEHOLDX"
 msgstr "Prekidač pojačanja"
@@ -4527,9 +4525,9 @@ msgid "TXT_TOOOLDSG"
 msgstr ""
 
 # Shouldn’t this say “%e is the newest supported”?
-# 
+#
 # — Undead
-# 
+#
 # Ask Randi: The text is old. I won't change it.
 msgid "TXT_TOONEWSG"
 msgstr ""

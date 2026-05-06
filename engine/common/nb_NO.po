@@ -62,8 +62,7 @@ msgstr "Si:"
 
 msgid "TXT_QUITENDOOM"
 msgstr ""
-"Trykk på en hvilken som helst tast eller klikk hvor som helst i vinduet for "
-"å avslutte."
+"Trykk på en hvilken som helst tast eller klikk hvor som helst i vinduet for å avslutte."
 
 msgid "NEWSAVE"
 msgstr "<Nytt lagret spill>"
@@ -266,7 +265,7 @@ msgid "CNTRLMNU_SLOT1"
 msgstr "Våpen 1"
 
 # only show appropriate slots per game
-# 
+#
 msgid "CNTRLMNU_SLOT2"
 msgstr "Våpen 2"
 

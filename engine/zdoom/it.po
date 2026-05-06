@@ -4,8 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "PO-Revision-Date: 2026-05-06 15:11+0000\n"
 "Last-Translator: OldCactusCN <huchenyi_2019@qq.com>\n"
-"Language-Team: Italian <https://hosted.weblate.org/projects/uzdoom/zdoom-"
-"engine-strings/it/>\n"
+"Language-Team: Italian <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/it/>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -1855,8 +1854,7 @@ msgstr "%o ha ricevuto una notizia \"elettrizzante\" da %k."
 
 msgid "OB_MPMWEAPBLOODSCOURGE"
 msgstr ""
-"%o è stato cancellato dalla faccia dell'universo dal Flagello di Sangue di "
-"%k."
+"%o è stato cancellato dalla faccia dell'universo dal Flagello di Sangue di %k."
 
 msgid "TXT_METALARMOR"
 msgstr "Hai raccolto l'Armatura di Metallo."
@@ -4571,18 +4569,16 @@ msgstr "Il salvataggio '%s' proviene da un altro motore basato su ZDoom:"
 
 msgid "TXT_TOOOLDSG"
 msgstr ""
-"Il salvataggio '%s' proviene da una versione precedente: %d (%e è la più "
-"vecchia supportata)."
+"Il salvataggio '%s' proviene da una versione precedente: %d (%e è la più vecchia supportata)."
 
 # Shouldn’t this say “%e is the newest supported”?
-# 
+#
 # — Undead
-# 
+#
 # Ask Randi: The text is old. I won't change it.
 msgid "TXT_TOONEWSG"
 msgstr ""
-"Il salvataggio '%s' proviene da una versione recente: %d (%e è la più "
-"recente supportata)."
+"Il salvataggio '%s' proviene da una versione recente: %d (%e è la più recente supportata)."
 
 msgid "TXT_NOMAPSG"
 msgstr "Il salvataggio '%s' non contiene la mappa corrente."
@@ -4632,8 +4628,7 @@ msgstr "Opzioni per il tipo di carattere"
 
 msgid "FONTMNU_LOG"
 msgstr ""
-"Usa il tipo di carattere di default per la visualizzazione dei messaggi di "
-"log"
+"Usa il tipo di carattere di default per la visualizzazione dei messaggi di log"
 
 msgid "FONTMNU_DLG"
 msgstr ""

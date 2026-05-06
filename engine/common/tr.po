@@ -61,8 +61,7 @@ msgstr "Söyle:"
 
 msgid "TXT_QUITENDOOM"
 msgstr ""
-"Çıkmak için herhangi bir tuşa basın veya pencerede herhangi bir yere "
-"tıklayın."
+"Çıkmak için herhangi bir tuşa basın veya pencerede herhangi bir yere tıklayın."
 
 msgid "NEWSAVE"
 msgstr "<Yeni Oyun Kaydet>"
@@ -265,7 +264,7 @@ msgid "CNTRLMNU_SLOT1"
 msgstr "Silah 1"
 
 # only show appropriate slots per game
-# 
+#
 msgid "CNTRLMNU_SLOT2"
 msgstr "Silah 2"
 

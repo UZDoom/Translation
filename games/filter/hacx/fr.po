@@ -476,8 +476,7 @@ msgstr "...C'est l'heure de botter du cul!"
 # replacement is not being triggered.
 msgid "STSTR_BEHOLD"
 msgstr ""
-"in V ulnérable, S urpuissance, I nvisible, p R otection, c A rte, où L "
-"umière?"
+"in V ulnérable, S urpuissance, I nvisible, p R otection, c A rte, où L umière?"
 
 msgid "STSTR_BEHOLDX"
 msgstr "Passons aux choses sérieuses!"

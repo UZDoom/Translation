@@ -322,8 +322,7 @@ msgstr "Drugy tryb no-clip: WYŁ"
 # “Lite-amp”: Light-amplification visor
 msgid "STSTR_BEHOLD"
 msgstr ""
-"niezniszczalność (V), siła (S), niewidzialność (I), kombinezon (R), mapa (A)"
-" lub gogle noktowizyjne (L)"
+"niezniszczalność (V), siła (S), niewidzialność (I), kombinezon (R), mapa (A) lub gogle noktowizyjne (L)"
 
 msgid "STSTR_BEHOLDX"
 msgstr "Wzmocnienie aktywowane"
@@ -4573,9 +4572,9 @@ msgstr ""
 "Zapis gry „%s” jest ze starszej wersji: %d (%e jest najstarszą wspieraną)."
 
 # Shouldn’t this say “%e is the newest supported”?
-# 
+#
 # — Undead
-# 
+#
 # Ask Randi: The text is old. I won't change it.
 msgid "TXT_TOONEWSG"
 msgstr ""
@@ -5228,9 +5227,7 @@ msgstr "Wyłącz je przed regulacją."
 
 msgid "DSPLYMNU_TOOLTIP_GAMMA"
 msgstr ""
-"Kompensuje ograniczenia twojego monitora. Reguluj, aż pionowe szare bloki "
-"znikną. Używaj tego wyłącznie w celu skalibrowania obrazu dla twojego "
-"sprzętu, nie do rozjaśniania gry."
+"Kompensuje ograniczenia twojego monitora. Reguluj, aż pionowe szare bloki znikną. Używaj tego wyłącznie w celu skalibrowania obrazu dla twojego sprzętu, nie do rozjaśniania gry."
 
 msgid "DSPLYMNU_BLACKPOINT"
 msgstr "Kompensacja czerni"
@@ -5240,27 +5237,22 @@ msgstr "Dopasuj, aż obszar będzie jednolicie szary."
 
 msgid "DSPLYMNU_TOOLTIP_BLACKPOINT"
 msgstr ""
-"Kompensuje monitory, które nieprawidłowo wyświetlają ciemne piksele. "
-"Reguluj, aż diagonalne białe bloki znikną. Używaj tego wyłącznie w celu "
-"skalibrowania obrazu dla Twojego sprzętu, nie do rozjaśniania gry."
+"Kompensuje monitory, które nieprawidłowo wyświetlają ciemne piksele. Reguluj, aż diagonalne białe bloki znikną. Używaj tego wyłącznie w celu skalibrowania obrazu dla Twojego sprzętu, nie do rozjaśniania gry."
 
 msgid "DSPLYMNU_TOOLTIP_IMAGEADJUST_RESET"
 msgstr "Przywraca wszystkie opcje w tym menu do ustawień domyślnych."
 
 msgid "DSPLYMNU_TOOLTIP_BRIGHTNESS"
 msgstr ""
-"Stosuje liniową regulację jasności. Dostosuj według własnych upodobań lub, "
-"aby lepiej widzieć w ciemności."
+"Stosuje liniową regulację jasności. Dostosuj według własnych upodobań lub, aby lepiej widzieć w ciemności."
 
 msgid "DSPLYMNU_TOOLTIP_CONTRAST"
 msgstr ""
-"Reguluje postrzeganą różnicę między podobnymi kolorami. Kontroluje, jak "
-"ostre/wyblakłe wydają się obrazy. Dostosuj według własnych upodobań."
+"Reguluje postrzeganą różnicę między podobnymi kolorami. Kontroluje, jak ostre/wyblakłe wydają się obrazy. Dostosuj według własnych upodobań."
 
 msgid "DSPLYMNU_TOOLTIP_SATURATION"
 msgstr ""
-"Reguluje intensywność kolorów, sprawiając, że obraz wygląda bardziej żywo "
-"lub stonowanie. Dostosuj według własnych upodobań."
+"Reguluje intensywność kolorów, sprawiając, że obraz wygląda bardziej żywo lub stonowanie. Dostosuj według własnych upodobań."
 
 msgid "ERRORMNU_SAVE"
 msgstr "Zapisz Raport"
