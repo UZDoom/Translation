@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-05-06 15:11+0000\n"
+"PO-Revision-Date: 2026-05-07 17:11+0000\n"
 "Last-Translator: OldCactusCN <huchenyi_2019@qq.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/uzdoom/common/it/>\n"
 "Language: it\n"
@@ -690,7 +690,7 @@ msgid "OPTVAL_48000HZ"
 msgstr "48000 Hz"
 
 msgid "OPTVAL_64SAMPLES"
-msgstr ""
+msgstr "64 samples"
 
 msgid "OPTVAL_128SAMPLES"
 msgstr ""
@@ -793,7 +793,7 @@ msgid "ADVSNDMNU_HRTF"
 msgstr ""
 
 msgid "ADVSNDMNU_OPLSYNTHESIS"
-msgstr ""
+msgstr "OPL Synthesis"
 
 msgid "ADVSNDMNU_OPLNUMCHIPS"
 msgstr "Numero di chip OPL emulati"
@@ -1721,7 +1721,7 @@ msgid "PICKER_ALTDM"
 msgstr ""
 
 msgid "PICKER_PLAYERS"
-msgstr ""
+msgstr "Giocatori massimi"
 
 msgid "PICKER_PORT"
 msgstr ""

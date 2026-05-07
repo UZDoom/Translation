@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-05-06 15:11+0000\n"
+"PO-Revision-Date: 2026-05-07 17:11+0000\n"
 "Last-Translator: OldCactusCN <huchenyi_2019@qq.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/it/>\n"
 "Language: it\n"
@@ -929,7 +929,7 @@ msgid "TAG_PLASMARIFLE"
 msgstr "Fucile al Plasma"
 
 msgid "TAG_BFG9000"
-msgstr ""
+msgstr "BFG 9000"
 
 msgid "AMMO_CLIP"
 msgstr "Proiettili"
