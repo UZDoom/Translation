@@ -73,6 +73,14 @@ bash ./scripts/mktemplate.sh || ((error_count++))
 [[ -z "$dirty" ]] && { [[ -z "$(git status --porcelain)" ]] || ((error_count++)) ; }
 
 ###
+phase validate po files
+###
+
+dirty=$(git status --porcelain)
+./scripts/validate.py || ((error_count++))
+[[ -z "$dirty" ]] && { [[ -z "$(git status --porcelain)" ]] || ((error_count++)) ; }
+
+###
 phase test compile
 ###
 
