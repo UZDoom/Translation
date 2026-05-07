@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-05-07 17:11+0000\n"
+"PO-Revision-Date: 2026-05-07 22:11+0000\n"
 "Last-Translator: OldCactusCN <huchenyi_2019@qq.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/it/>\n"
 "Language: it\n"
@@ -520,7 +520,7 @@ msgid "MULTI5"
 msgstr "Uccisione Mostruosa!"
 
 msgid "SCORE_BONUS"
-msgstr ""
+msgstr "Bonus"
 
 msgid "SCORE_COLOR"
 msgstr "Colore"
@@ -4957,7 +4957,7 @@ msgid "NETMNU_DISABLEPAUSE"
 msgstr ""
 
 msgid "OPTVAL_HOSTONLY"
-msgstr ""
+msgstr "Solo per Host"
 
 # Type of vote system to use to bypass intermissions when playing online.
 msgid "NETMNU_READYTYPE"
@@ -5018,22 +5018,22 @@ msgid "PAUSE_STRING"
 msgstr "Pausa"
 
 msgid "TAG_BACKPACK"
-msgstr ""
+msgstr "Zaino"
 
 msgid "TAG_ARMORBONUS"
 msgstr ""
 
 msgid "TAG_GREENARMOR"
-msgstr ""
+msgstr "Armatura della sicurezza"
 
 msgid "TAG_BLUEARMOR"
-msgstr ""
+msgstr "Armatura della battaglia"
 
 msgid "TAG_INVULSPHERE"
 msgstr ""
 
 msgid "TAG_SOULSPHERE"
-msgstr ""
+msgstr "Sfera dell'anima"
 
 msgid "TAG_MEGAPSHERE"
 msgstr ""
@@ -5171,3 +5171,15 @@ msgstr "Pestatore"
 #, fuzzy
 msgid "TAG_GLAUNCHER"
 msgstr "Lanciagranate"
+
+msgid "HUDMNU_CROSSHAIRCOLORS"
+msgstr "Colore dell mirino dinamico"
+
+msgid "HUDMNU_CROSSHAIRCOLORMAX"
+msgstr "Colore dell mirino a salute massimi"
+
+msgid "HUDMNU_CROSSHAIRCOLORFULL"
+msgstr "Colore dell mirino a salute piena"
+
+msgid "HUDMNU_CROSSHAIRYOFFSET"
+msgstr "Posizione verticale per mirino"
