@@ -242,10 +242,13 @@ def main(args):
     po_files = RECIPES[args.recipe] if args.recipe in RECIPES else None
     po_files = po_files and get_po_files([root_dir / f for f in po_files])
 
-    if po_files is None:
-        print(__doc__)
-        print(f"Available recipes: {' '.join(RECIPES.keys())}")
-        sys.exit(1)
+    if not po_files:
+        if po_files is None:
+            print(__doc__)
+            print(f"Available recipes: {' '.join(RECIPES.keys())}")
+            sys.exit(1)
+        print("Empty preset")
+        return
 
     languages = po_files["languages"]
     po_files = po_files["files"]

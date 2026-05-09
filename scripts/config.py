@@ -24,7 +24,7 @@ RECIPES = {
         "games/strife",
         "games/tnt",
     ],
-    "GAMES_CHEX3": ["games/filter/chex_quest_3"],
+    "GAMES_CHEX3": [],
     "GAMES_HARMONY": ["games/filter/harmony"],
     "GAMES_HACX": ["games/filter/hacx"]
 }
