@@ -2,15 +2,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-11 03:34+0000\n"
-"Last-Translator: SecularSteve <fairfull.playing@gmail.com>\n"
+"PO-Revision-Date: 2026-05-11 03:44+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/doom-engine-games/strife/hr/>\n"
 "Language: hr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.15-dev\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Weblate 2026.5-dev\n"
 
 msgid "TXT_STRIFE_MAP01"
 msgstr "PODRUČJE 1: Svetište"
@@ -316,9 +316,9 @@ msgstr "Vrijedi svakog zlata!"
 msgid "TXT_RNO3_SCRIPT02_D12128_COMEO"
 msgstr "Hajde, 200 zlata!"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D13644_ICANT"
-msgstr ""
-"Ne mogu vjerovati da sam zaglavio s ovom dužnošću. Kažu da je nešto zlo izašlo iz ovih kanalizacijskih vrata... Sad moram stajati ovdje dok se opet ne pojavi!"
+msgstr "Ne mogu vjerovati da sam zaglavio s ovom dužnošću. Kažu da je nešto zlo izašlo iz ovih kanalizacijskih vrata... Sad moram stajati ovdje dok se opet ne pojavi!"
 
 msgid "TXT_RPLY0_SCRIPT02_D13644_WHATG"
 msgstr "Koja kapija?"
@@ -458,9 +458,9 @@ msgstr "Eto. Pazi sad."
 msgid "TXT_RNO2_SCRIPT02_D21224_WELLM"
 msgstr "Pa, možda si možeš priuštiti neke medicinske flastere?"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D22740_IHOPE"
-msgstr ""
-"Nadam se da Macil zna što radi. Ako Red otkrije da pomažem Frontu, ja sam mrtav... Ne da je to tebi uopće važno. Liječnik s Fronte mi je dao čip za nadogradnju za tebe, jesi li spreman? "
+msgstr "Nadam se da Macil zna što radi. Ako Red otkrije da pomažem Frontu, ja sam mrtav... Ne da je to tebi uopće važno. Liječnik s Fronte mi je dao čip za nadogradnju za tebe, jesi li spreman? "
 
 msgid "TXT_RPLY0_SCRIPT02_D22740_YESIM"
 msgstr "Da, spreman sam."
@@ -505,6 +505,7 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT02_D25772_WHATS"
 msgstr "Koja je riječ?"
 
+#, fuzzy
 msgid "TXT_RYES0_SCRIPT02_D25772_THEWO"
 msgstr "Priča se... Kanalizacija drži više od samo štakora i robota."
 
@@ -533,13 +534,13 @@ msgstr "Red ima više nego što se na prvi pogled čini."
 msgid "TXT_RNO0_SCRIPT02_D28804_WELLT"
 msgstr "Pričat ćemo kad dobiješ zlato!"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D30320_THATS"
-msgstr ""
-"To je to, prijatelju, bunar znanja je presušio. Ionako sam ti rekao više nego što sam trebao. Sretno... I ne vraćaj se."
+msgstr "To je to, prijatelju, bunar znanja je presušio. Ionako sam ti rekao više nego što sam trebao. Sretno... I ne vraćaj se."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D31836_HEYIM"
-msgstr ""
-"Hej, ovdje sam samo u slučaju nužde. Ako jezgra probije, onda ću se pobrinuti da nitko ne uđe... ili izađe."
+msgstr "Hej, ovdje sam samo u slučaju nužde. Ako jezgra probije, onda ću se pobrinuti da nitko ne uđe... ili izađe."
 
 msgid "TXT_DLG_SCRIPT02_D33352_WATCH"
 msgstr "Pazi kuda hodaš, seljače!"
@@ -556,9 +557,9 @@ msgstr "Ti tamo, nitko ne smije unutra. Makni se!"
 msgid "TXT_DLG_SCRIPT02_D39416_IRALE"
 msgstr "Irale će te odmah smjestiti!"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D40932_IMKIN"
-msgstr ""
-"Ja sam neka vrsta posrednika za talente pobunjenika. Tip koji je dobar kao ti mogao bi zaraditi puno zlata... ako se poveže s pravim ljudima."
+msgstr "Ja sam neka vrsta posrednika za talente pobunjenika. Tip koji je dobar kao ti mogao bi zaraditi puno zlata... ako se poveže s pravim ljudima."
 
 msgid "TXT_RPLY0_SCRIPT02_D40932_IMINT"
 msgstr "Zanima me."
@@ -664,9 +665,9 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT02_D66704_FINEB"
 msgstr "U redu od mene."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D68220_SOYOU"
-msgstr ""
-"Dakle, ti si budala koja je ukrala kalež? Dat ću te uhititi kao pobunjeničkog lopova... Time ću poboljšati svoj položaj u Redu. Kakav je osjećaj biti nesvjesni pijun? Dat ću ti nagovještaj, boljet će. "
+msgstr "Dakle, ti si budala koja je ukrala kalež? Dat ću te uhititi kao pobunjeničkog lopova... Time ću poboljšati svoj položaj u Redu. Kakav je osjećaj biti nesvjesni pijun? Dat ću ti nagovještaj, boljet će. "
 
 msgid "TXT_RPLY0_SCRIPT02_D68220_ITSUC"
 msgstr "To je sranje!"
@@ -780,6 +781,7 @@ msgstr "Naravno!"
 msgid "TXT_RPLY1_SCRIPT02_D92476_NOAND"
 msgstr "Ne, i ne treba mi jedan!"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D93992_SORRY"
 msgstr "Oprostite! Nisam mislio... Molim vas, idite odmah gore."
 
@@ -829,9 +831,9 @@ msgstr "Hvala"
 msgid "TXT_DLG_SCRIPT02_D104604_RELEA"
 msgstr "Oslobodi me, ostavi starca na miru."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT03_D0_WELCO"
-msgstr ""
-"Dobrodošli u posljednji tračak nade. Samo mi imamo slobodnu volju da se suprotstavimo Redu. Imamo najoštrije znanstvene umove i mnoga sposobna tijela, ali nam nedostaje taj jedan pravi, uh... Rješavač problema, koji će nam dati prednost koja nam je potrebna. Pomozite nam."
+msgstr "Dobrodošli u posljednji tračak nade. Samo mi imamo slobodnu volju da se suprotstavimo Redu. Imamo najoštrije znanstvene umove i mnoga sposobna tijela, ali nam nedostaje taj jedan pravi, uh... Rješavač problema, koji će nam dati prednost koja nam je potrebna. Pomozite nam."
 
 msgid "TXT_RPLY0_SCRIPT03_D0_ALLRI"
 msgstr "U redu, prihvaćam."
@@ -1083,9 +1085,9 @@ msgid "TXT_DLG_SCRIPT03_D43964_WERET"
 msgstr ""
 "Pokušavamo pronaći gdje se nalaze mehanizmi dvorskih vrata, ali zasad nemamo sreće."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT03_D45480_DONTG"
-msgstr ""
-"Nemojte se dati uhvatiti. Čuo sam horor priče o tome što rade našim ljudima nakon što ih zatvore. Jednostavno nestanu... Bez traga."
+msgstr "Nemojte se dati uhvatiti. Čuo sam horor priče o tome što rade našim ljudima nakon što ih zatvore. Jednostavno nestanu... Bez traga."
 
 msgid "TXT_DLG_SCRIPT03_D46996_HERES"
 msgstr ""
@@ -1218,9 +1220,9 @@ msgstr "Gdje je kristal energije?"
 msgid "TXT_DLG_SCRIPT04_D37900_IFYOU"
 msgstr "Ako ne kreneš na posao, ionako ćeš biti upucan. Pomakni tuniku."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT04_D39416_IDONT"
-msgstr ""
-"Ne želim zvučati alarmistički, ali ako nastave ovako snažno pritiskati energetski kristal, on će se slomiti, a zatim razbiti, a onda *bum*! ...Samo misao."
+msgstr "Ne želim zvučati alarmistički, ali ako nastave ovako snažno pritiskati energetski kristal, on će se slomiti, a zatim razbiti, a onda *bum*! ...Samo misao."
 
 msgid "TXT_DLG_SCRIPT04_D40932_LETME"
 msgstr ""
@@ -1393,9 +1395,9 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT06_D9096_ANYTH"
 msgstr "Možete li još nešto učiniti?"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT06_D10612_GOODL"
-msgstr ""
-"Sretno. Otvorio sam ti nekoliko naših tunela. To bi ti trebalo olakšati zadatak. Oh, veličina deset, savršena! ...Ali užasne boje."
+msgstr "Sretno. Otvorio sam ti nekoliko naših tunela. To bi ti trebalo olakšati zadatak. Oh, veličina deset, savršena! ...Ali užasne boje."
 
 msgid "TXT_RPLY0_SCRIPT06_D10612_THANK"
 msgstr "Hvala na pomoći."
@@ -1552,9 +1554,9 @@ msgstr "Platit će za ovo!"
 msgid "TXT_DLG_SCRIPT10_D15160_FIGHT"
 msgstr "Borite se za frontu i slobodu. Krenite."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT10_D16676_IAMTH"
-msgstr ""
-"Ja sam Jedan Bog... Trebam da njegov duh bude slobodan kako bih mogao napustiti svoje tijelo i pridružiti mu se u letu. Nemaš pojma što posjeduješ... I s kakvim se terorom suočavaš... Jedan Bog mora biti slobodan... I on će me nagraditi... Bit ću jedan..."
+msgstr "Ja sam Jedan Bog... Trebam da njegov duh bude slobodan kako bih mogao napustiti svoje tijelo i pridružiti mu se u letu. Nemaš pojma što posjeduješ... I s kakvim se terorom suočavaš... Jedan Bog mora biti slobodan... I on će me nagraditi... Bit ću jedan..."
 
 msgid "TXT_RPLY0_SCRIPT10_D16676_IWILL"
 msgstr "Uništit ću te!"
@@ -1899,9 +1901,9 @@ msgstr "Samo tako nastavite, ne bismo to mogli bez vas."
 msgid "TXT_DLG_SCRIPT11_D0_IMTHE"
 msgstr "Ja sam ključar."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT11_D1516_ALOTO"
-msgstr ""
-"Mnogi bi rekli da je ovo nezahvalan i beznačajan posao. Ali zapravo nije..."
+msgstr "Mnogi bi rekli da je ovo nezahvalan i beznačajan posao. Ali zapravo nije..."
 
 msgid "TXT_RPLY0_SCRIPT11_D1516_GIVEM"
 msgstr "Daj mi ključ!"
@@ -1995,9 +1997,9 @@ msgstr "Vratit ću se, s njegovim dijelom!"
 msgid "TXT_DLG_SCRIPT12_D13644_THERI"
 msgstr "Rijeka vremena teče zauvijek naprijed, dok ti stojiš mirno."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT12_D15160_PITIF"
-msgstr ""
-"Jadni čovječe, učinio si ono što tisuće nisu uspjele... Donosiš mi moć Sigila, glas Jednog Boga."
+msgstr "Jadni čovječe, učinio si ono što tisuće nisu uspjele... Donosiš mi moć Sigila, glas Jednog Boga."
 
 msgid "TXT_RPLY0_SCRIPT12_D15160_IDONT"
 msgstr "Ne razumijem."
@@ -2090,9 +2092,9 @@ msgstr "Kakav zdrav primjerak. Ne treba ti moja pomoć, zar ne?"
 msgid "TXT_RPLY0_SCRIPT17_D6064_WELLY"
 msgstr "Pa, da. Macil me poslao."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT17_D7580_SHHHH"
-msgstr ""
-"Pst... Budi tiho, osim ako ne želiš da nas oboje ubiješ. Što mogu učiniti za tebe?"
+msgstr "Pst... Budi tiho, osim ako ne želiš da nas oboje ubiješ. Što mogu učiniti za tebe?"
 
 msgid "TXT_RPLY0_SCRIPT17_D7580_TELLM"
 msgstr "Reci mi kako da pronađem biskupa."
@@ -2202,16 +2204,16 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT22_D1516_DOYOU"
 msgstr "Znaš li što je unutra?"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT22_D3032_ITSAT"
-msgstr ""
-"To je strogo povjerljivo područje. Ne samo da Red uzgaja neku vrstu... stvorenja tamo, nego sam svojim očima vidio čudan artefakt zvan Talisman. Nitko mu se ne smije približiti. Priča se da posjeduje veliku moć ako se udruži s još dva te vrste."
+msgstr "To je strogo povjerljivo područje. Ne samo da Red uzgaja neku vrstu... stvorenja tamo, nego sam svojim očima vidio čudan artefakt zvan Talisman. Nitko mu se ne smije približiti. Priča se da posjeduje veliku moć ako se udruži s još dva te vrste."
 
 msgid "TXT_RPLY0_SCRIPT22_D3032_ISUPP"
 msgstr "Pretpostavljam da želiš ovu stvar?"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT22_D4548_NOIFY"
-msgstr ""
-"Ne! Ako ga možeš pronaći, tvoje je. Možda ga možeš upotrijebiti da nas oslobodiš od ugnjetavanja. Želim ti sreću, ali trebat će ti puno više od toga ako uđeš tamo..."
+msgstr "Ne! Ako ga možeš pronaći, tvoje je. Možda ga možeš upotrijebiti da nas oslobodiš od ugnjetavanja. Želim ti sreću, ali trebat će ti puno više od toga ako uđeš tamo..."
 
 msgid "TXT_RPLY0_SCRIPT22_D4548_WHATS"
 msgstr "Što je sve ovo s prošlošću?"
@@ -2220,6 +2222,7 @@ msgid "TXT_DLG_SCRIPT22_D6064_YOUVE"
 msgstr ""
 "Sigurno ste vidjeli i ostale ruševine u blizini. Čini se da je komet koji je srušio na naš planet zapravo svemirski brod i, vjerovali ili ne, nastao je upravo na ovom svijetu davno."
 
+#, fuzzy
 msgid "TXT_RPLY0_SCRIPT22_D6064_SOTHE"
 msgstr "Dakle, utvare, Jedan Bog..."
 
@@ -2227,6 +2230,7 @@ msgid "TXT_DLG_SCRIPT22_D7580_THEYA"
 msgstr ""
 "To su stvorenja koja su nekoć vladala ovim svijetom i odlučna su uništiti njegov život. Drevni su ih uspjeli zapečatiti, ali su pritom dali svoje živote. Bojim se da je to sve što znam."
 
+#, fuzzy
 msgid "TXT_RPLY0_SCRIPT22_D7580_THANK"
 msgstr "Hvala... Učinit ću što mogu."
 
@@ -2441,6 +2445,7 @@ msgid "TXT_DLG_SCRIPT23_D15160_THANK"
 msgstr ""
 "Hvala Deusu što si stigao. Za ulazak u tvornicu potreban ti je ključ. Ukrali smo ga, ali naš agent nedostaje u mreži katakombi ispod uporišta Reda. Poslao sam deset dobrih ljudi u te tunele da ga pronađu, i nitko se nije vratio. Nešto je dolje!"
 
+#, fuzzy
 msgid "TXT_RPLY0_SCRIPT23_D15160_WHATI"
 msgstr "Što je to? Čovjek ili...?"
 
@@ -2534,6 +2539,7 @@ msgid "TXT_DLG_SCRIPT23_D24256_THANK"
 msgstr ""
 "Hvala Deusu što si stigao. Za ulazak u tvornicu potreban ti je ključ. Ukrali smo ga, ali naš agent nedostaje u mreži katakombi ispod uporišta Reda. Poslao sam deset dobrih ljudi u te tunele da ga pronađu, i nitko se nije vratio. Nešto je dolje!"
 
+#, fuzzy
 msgid "TXT_RPLY0_SCRIPT23_D24256_WHATI"
 msgstr "Što je to? Čovjek ili...?"
 
@@ -2751,9 +2757,9 @@ msgid "TXT_DLG_SCRIPT33_D13644_THATS"
 msgstr ""
 "To je to, prijatelju, izvor znanja je iskorišten. Ionako sam ti rekao više nego što sam trebao."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT33_D15160_HARDT"
-msgstr ""
-"Teško je kupovati nove igračke... kad si bez novca. Obavi mi jednu malu kupovinu i dobit ćeš više nego što ikada možeš potrošiti. Učinit ću te bogatim čovjekom."
+msgstr "Teško je kupovati nove igračke... kad si bez novca. Obavi mi jednu malu kupovinu i dobit ćeš više nego što ikada možeš potrošiti. Učinit ću te bogatim čovjekom."
 
 msgid "TXT_RPLY0_SCRIPT33_D15160_IGOTN"
 msgstr "Nemam ništa pametnije za raditi."
@@ -2812,9 +2818,9 @@ msgstr "Što čekaš? Sam guverner će te nagraditi."
 msgid "TXT_DLG_SCRIPT33_D25772_DIETR"
 msgstr "Umri izdajniče! "
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT33_D27288_SOYOU"
-msgstr ""
-"Dakle, ti si budala koja je ukrala kalež? Dat ću te uhititi kao pobunjeničkog lopova... Time ću poboljšati svoj položaj u Redu. Kakav je osjećaj biti nesvjesni pijun? "
+msgstr "Dakle, ti si budala koja je ukrala kalež? Dat ću te uhititi kao pobunjeničkog lopova... Time ću poboljšati svoj položaj u Redu. Kakav je osjećaj biti nesvjesni pijun? "
 
 msgid "TXT_RPLY0_SCRIPT33_D27288_ITSUC"
 msgstr "To je sranje!"
@@ -3209,9 +3215,9 @@ msgstr "Hvala, doviđenja!"
 msgid "TXT_RANDOMGOODBYE_3"
 msgstr "Vidimo se kasnije!"
 
+#, fuzzy
 msgid "TXT_ILOG1"
-msgstr ""
-"Halo? Zapovjedništvo, komunikacijska jedinica je upravo aktivirana... Primam sliku i zvuk od... nekoga... Hej ti, izlazi odande odmah... i baci kalež!"
+msgstr "Halo? Zapovjedništvo, komunikacijska jedinica je upravo aktivirana... Primam sliku i zvuk od... nekoga... Hej ti, izlazi odande odmah... i baci kalež!"
 
 msgid "TXT_ILOG2"
 msgstr ""
@@ -3416,9 +3422,9 @@ msgid "TXT_ILOG102"
 msgstr ""
 "Očitavam ogromna izobličenja neuronskih valova ravno ispred sebe. Mislim da smo ga pronašli. Uđimo unutra i ugasimo ga!"
 
+#, fuzzy
 msgid "TXT_ILOG103"
-msgstr ""
-"Baš kad pomislim da smo sve vidjeli! Uđu kao ljudi i izađu... Ne želim ni razmišljati o tome. Uništite ovaj užas!"
+msgstr "Baš kad pomislim da smo sve vidjeli! Uđu kao ljudi i izađu... Ne želim ni razmišljati o tome. Uništite ovaj užas!"
 
 msgid "TXT_ILOG104"
 msgstr ""
@@ -3533,13 +3539,13 @@ msgid "TXT_ILOG1024"
 msgstr ""
 "Proročište drži treći dio. To je tvoj izdajnik. Vrati se Proročištu i uništi ga. Vrati se meni kad ono bude mrtvo."
 
+#, fuzzy
 msgid "TXT_ILOG1025"
-msgstr ""
-"Izrezali ste rak iz svog tijela, ali vaše srce još uvijek kuca. Zatim morate pronaći kirurga koji kolje i kontrolira vaš narod... Gospodara znanja. Zaustavite ga i sljedeći komad bit će vaš."
+msgstr "Izrezali ste rak iz svog tijela, ali vaše srce još uvijek kuca. Zatim morate pronaći kirurga koji kolje i kontrolira vaš narod... Gospodara znanja. Zaustavite ga i sljedeći komad bit će vaš."
 
+#, fuzzy
 msgid "TXT_ILOG1026"
-msgstr ""
-"Zatim moraš pronaći kirurga koji kolje i kontrolira tvoje ljude... Gospodara znanja. Zaustavi ga i sljedeći dio bit će tvoj. Upotrijebi teleporter koji sam otvorio da dođeš do njega. Kad bude mrtav, upotrijebi isti uređaj da se vratiš meni."
+msgstr "Zatim moraš pronaći kirurga koji kolje i kontrolira tvoje ljude... Gospodara znanja. Zaustavi ga i sljedeći dio bit će tvoj. Upotrijebi teleporter koji sam otvorio da dođeš do njega. Kad bude mrtav, upotrijebi isti uređaj da se vratiš meni."
 
 msgid "TXT_ILOG1027"
 msgstr ""
@@ -3785,9 +3791,9 @@ msgid "TXT_SUB_GOOD2"
 msgstr ""
 "Znao sam da ćeš pobijediti, moj hrabri junače. Sve borbe su prestale. Tvoja pobjeda će nam omogućiti da stvorimo cjepivo koje će ukloniti virus iz naših tijela."
 
+#, fuzzy
 msgid "TXT_SUB_GOOD3"
-msgstr ""
-"Spasili ste naš planet i oslobodili nas. Sada bih vam se htjela zahvaliti... osobno. Oh, i usput: zovem se Shauna."
+msgstr "Spasili ste naš planet i oslobodili nas. Sada bih vam se htjela zahvaliti... osobno. Oh, i usput: zovem se Shauna."
 
 msgid "TXT_SUB_SAD1"
 msgstr ""
@@ -3821,13 +3827,13 @@ msgid "TXT_SUB_MAP03_2"
 msgstr ""
 "Bez razmnožavanja, Red je otkrio da su biomehanička poboljšanja jedini način održavanja njihove snage i brojnosti."
 
+#, fuzzy
 msgid "TXT_SUB_MAP03_3"
-msgstr ""
-"Propadanje je uznapredovalo tako da je većina vojnika s kojima se suočavamo više strojevi nego ljudi, ali vjerujemo da njihovu kolektivnu svijest kontrolira jedan izvor..."
+msgstr "Propadanje je uznapredovalo tako da je većina vojnika s kojima se suočavamo više strojevi nego ljudi, ali vjerujemo da njihovu kolektivnu svijest kontrolira jedan izvor..."
 
+#, fuzzy
 msgid "TXT_SUB_MAP03_4"
-msgstr ""
-"...Programer: tvorac umjetne inteligencije koja kontrolira Akolite. Uništite Programera i mogli bismo osakatiti trupe Reda jednim udarcem. Ali oprez: imamo izvješća da može ispariti napadače."
+msgstr "...Programer: tvorac umjetne inteligencije koja kontrolira Akolite. Uništite Programera i mogli bismo osakatiti trupe Reda jednim udarcem. Ali oprez: imamo izvješća da može ispariti napadače."
 
 msgid "TXT_SUB_MAP10_1"
 msgstr ""
@@ -3902,6 +3908,7 @@ msgstr ""
 msgid "TXT_SUB_LOG16"
 msgstr "Skladište je u elektrani. Recimo kratko i sažeto."
 
+#, fuzzy
 msgid "TXT_SUB_LOG17"
 msgstr "Nikad nisam mislio da ću provaliti u zatvor..."
 
@@ -3909,13 +3916,13 @@ msgid "TXT_SUB_LOG18"
 msgstr ""
 "Pretpostavljam da nema besplatnog ručka. Vrijeme je za zaključavanje i punjenje."
 
+#, fuzzy
 msgid "TXT_SUB_LOG19"
-msgstr ""
-"U redu. Zadovoljili ste guvernera, poprskali ste upravitelja... Sad izgleda da moramo na malu operaciju."
+msgstr "U redu. Zadovoljili ste guvernera, poprskali ste upravitelja... Sad izgleda da moramo na malu operaciju."
 
+#, fuzzy
 msgid "TXT_SUB_LOG20"
-msgstr ""
-"O, odrezao si mu ruku! A mislio sam da si dobar dečko... donekle. Idemo."
+msgstr "O, odrezao si mu ruku! A mislio sam da si dobar dečko... donekle. Idemo."
 
 msgid "TXT_SUB_LOG21"
 msgstr ""
@@ -3936,9 +3943,9 @@ msgid "TXT_SUB_LOG26"
 msgstr ""
 "Red misli da je siguran u svom dvorcu. Krivo! Ako otvoriš vrata, bit će lak plijen. A za to ćeš morati sići u kanalizaciju. Kreni uz rijeku preko Guvernerove vile. "
 
+#, fuzzy
 msgid "TXT_SUB_LOG27"
-msgstr ""
-"U redu, sagni se ovdje. Stanovnici kanalizacije su užasni mutanti, ali njihova mreža tunela im daje pristup tajnama. Začepi... Idemo dolje."
+msgstr "U redu, sagni se ovdje. Stanovnici kanalizacije su užasni mutanti, ali njihova mreža tunela im daje pristup tajnama. Začepi... Idemo dolje."
 
 msgid "TXT_SUB_LOG28"
 msgstr ""
@@ -3953,9 +3960,9 @@ msgstr "Baš ono što mi treba. Još smeđe ljepljive mase!"
 msgid "TXT_SUB_LOG31"
 msgstr "Hej, gle! Mislim da su to vrata koja Weran želi odškrinuti!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG32"
-msgstr ""
-"Zatvori oči! Ne želim vidjeti! Oh, prekasno... Fuj. To ne izgleda kao ljudsko tijelo. Što je Red učinio? Moram ovo prijaviti zapovjedništvu."
+msgstr "Zatvori oči! Ne želim vidjeti! Oh, prekasno... Fuj. To ne izgleda kao ljudsko tijelo. Što je Red učinio? Moram ovo prijaviti zapovjedništvu."
 
 msgid "TXT_SUB_LOG33"
 msgstr "Zašto barem jednom ne možemo obaviti misiju u polju cvijeća?"
@@ -3967,6 +3974,7 @@ msgstr ""
 msgid "TXT_SUB_LOG35"
 msgstr "Ne pitaj me gdje smo. I ja sam se izgubio. Žao mi je."
 
+#, fuzzy
 msgid "TXT_SUB_LOG36"
 msgstr "Ta cigla... Nismo li prošli tu ciglu? Ne..."
 
@@ -3981,6 +3989,7 @@ msgstr ""
 msgid "TXT_SUB_LOG39"
 msgstr "Ah, dobro je opet biti u ofenzivi. Dajte im pakao, dečki!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG40"
 msgstr "Ovo izgleda dobro. Računala... Programer... Što misliš?"
 
@@ -3988,9 +3997,9 @@ msgid "TXT_SUB_LOG41"
 msgstr ""
 "Ovo mora da je dugi hodnik. Ili to ili mi je osjećaj za mjerilo potpuno uništen."
 
+#, fuzzy
 msgid "TXT_SUB_LOG42"
-msgstr ""
-"Ovo su sve obilježja hrama zla. Stroga arhitektura, veliki transparent... Rekao bih bingo!"
+msgstr "Ovo su sve obilježja hrama zla. Stroga arhitektura, veliki transparent... Rekao bih bingo!"
 
 msgid "TXT_SUB_LOG43"
 msgstr "Je li ovo svemogući Programer? Nema šanse!"
@@ -4161,12 +4170,14 @@ msgid "TXT_SUB_LOG89"
 msgstr ""
 "Tvornica je pored rudnika. Richter mora misliti na rudnike Degnina. Degninova ruda je magnetska i eksplozivna, upravo ono što treba za isključivanje energetskih polja."
 
+#, fuzzy
 msgid "TXT_SUB_LOG90"
 msgstr "Rudnici, katakombe, kanalizacija... Kakav prvi spoj!"
 
 msgid "TXT_SUB_LOG91"
 msgstr "Volio bih da je Richter bio malo precizniji. Hm, pokušajmo ovdje."
 
+#, fuzzy
 msgid "TXT_SUB_LOG92"
 msgstr "Mislim da smo... O, sranje. Nemam pojma gdje smo."
 
@@ -4206,9 +4217,9 @@ msgid "TXT_SUB_LOG102"
 msgstr ""
 "Očitavam ogromna izobličenja neuronskih valova ravno ispred sebe. Mislim da smo ga pronašli."
 
+#, fuzzy
 msgid "TXT_SUB_LOG103"
-msgstr ""
-"Baš kad pomislim da smo sve vidjeli! Uđu kao ljudi i izađu... Ne želim ni razmišljati o tome."
+msgstr "Baš kad pomislim da smo sve vidjeli! Uđu kao ljudi i izađu... Ne želim ni razmišljati o tome."
 
 msgid "TXT_SUB_LOG104"
 msgstr ""
@@ -4243,9 +4254,9 @@ msgstr ""
 "Istina se može pronaći samo u univerzalnoj volji. Past ćeš na koljena pred Istinskim Bogom, Jednim Svjetlom. Pridruži mi se i ja ću dovršiti Sigil.\n"
 "Muka mi je od ovog mističnog dvostrukog razgovora."
 
+#, fuzzy
 msgid "TXT_SUB_LOG130"
-msgstr ""
-"Ti... Ti si uništio moj Red, razbio moje lukavštine i ugrozio stoljeća želje. Ali ja ću pobijediti, zarazit ću te i podvrgnuti te svojoj volji..."
+msgstr "Ti... Ti si uništio moj Red, razbio moje lukavštine i ugrozio stoljeća želje. Ali ja ću pobijediti, zarazit ću te i podvrgnuti te svojoj volji..."
 
 msgid "TXT_SUB_LOG200"
 msgstr "Zvuči kao posao iz snova, zar ne?"
@@ -4256,6 +4267,7 @@ msgstr "Previše si vidio. Ohladi ga, Macil!"
 msgid "TXT_SUB_LOG202"
 msgstr "Sljedeći put ćeš me poslušati."
 
+#, fuzzy
 msgid "TXT_SUB_LOG203"
 msgstr "Uh, ove postapokaliptične cijene..."
 
@@ -4304,9 +4316,11 @@ msgstr "Mm. Sviđa mi se kako se ponašaš."
 msgid "TXT_SUB_LOG218"
 msgstr "Raznesite se! Nisu ljudi!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG219"
 msgstr "Vau! Pocrnjeli akolit! Nova senzacija okusa..."
 
+#, fuzzy
 msgid "TXT_SUB_LOG220"
 msgstr "Samo nastavi tako i oslijepit ćeš... ali meni se sviđa."
 
@@ -4316,15 +4330,18 @@ msgstr "Pretpostavljam da nas neće ponovno pozvati na večeru!"
 msgid "TXT_SUB_LOG222"
 msgstr "Moramo stići na gornji kat."
 
+#, fuzzy
 msgid "TXT_SUB_LOG223"
 msgstr "Čekaj... Ovo izgleda zanimljivo. Pogledaj."
 
 msgid "TXT_SUB_LOG224"
 msgstr "Ugh. Taj tip me ježi. Klonimo se."
 
+#, fuzzy
 msgid "TXT_SUB_LOG225"
 msgstr "Lijevo! Skreni lijevo!... Oh, skrenite lijevo!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG226"
 msgstr "Tipični tvrdoglavi tvrdoglavac!... Osim ako nisi djevojka."
 
@@ -4334,9 +4351,11 @@ msgstr "Snažan, brutalan i tih. Moj tip partnera."
 msgid "TXT_SUB_LOG228"
 msgstr "U redu! Pogriješio sam!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG229"
 msgstr "Šteta što se nikad nismo sreli... licem u lice."
 
+#, fuzzy
 msgid "TXT_SUB_LOG230"
 msgstr "Imao sam snove za tebe... Teško sranje."
 
@@ -4347,9 +4366,9 @@ msgstr ""
 msgid "TXT_SUB_LOG232"
 msgstr "Dobar posao, prijatelju! Vrijeme je da te uvedem unutra."
 
+#, fuzzy
 msgid "TXT_SUB_LOG233"
-msgstr ""
-"Pazi na te Križare. To su veliki, glomazni roboti i opaki kao vrag. Ne znamo ništa o njihovom oružju, ali šanse su... da si nadjačani. Oprez."
+msgstr "Pazi na te Križare. To su veliki, glomazni roboti i opaki kao vrag. Ne znamo ništa o njihovom oružju, ali šanse su... da si nadjačani. Oprez."
 
 msgid "TXT_SUB_LOG234"
 msgstr ""
@@ -4362,9 +4381,9 @@ msgid "TXT_SUB_LOG236"
 msgstr ""
 "Ti glupi, spoticajući se, grbavi imbecilu s kvrgavim nogama! Odao si nas!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG237"
-msgstr ""
-"Volio bih da te čekam iza tih vrata... ali moram ostati pod zemljom. Vrijeme je da upoznaš našeg vođu, Macila."
+msgstr "Volio bih da te čekam iza tih vrata... ali moram ostati pod zemljom. Vrijeme je da upoznaš našeg vođu, Macila."
 
 msgid "TXT_BBSUB_SCRIPT02_D57608_IFIKN"
 msgstr ""
@@ -4419,6 +4438,7 @@ msgstr "Odlično. Sad kupujemo Kralja štakora."
 msgid "TXT_BBSUB_SCRIPT06_D4548_OPENT"
 msgstr "Kladim se da i ovaj tip jako loše smrdi."
 
+#, fuzzy
 msgid "TXT_BBSUB_SCRIPT06_D9096_YOUHA"
 msgstr "Više kanalizacije... Super. Pitam se što živi tamo dolje."
 
@@ -4432,6 +4452,7 @@ msgid "TXT_BBSUB_SCRIPT10_D12128_THERE"
 msgstr ""
 "Biomehanički? Pa to objašnjava njihovu naizgled beskonačnu zalihu vojnika! I njihov loš stav.\n"
 
+#, fuzzy
 msgid "TXT_BBSUB_SCRIPT10_D16676_IAMTH"
 msgstr "Bolesniče... Uništi ga!"
 
@@ -4441,9 +4462,9 @@ msgstr "Možda je ružan, ali čini se da je na našoj strani."
 msgid "TXT_BBSUB_SCRIPT17_D10612_OHSUR"
 msgstr "Sudeći po nedavnoj povijesti, pretpostavljam da je prikrivenost gotova."
 
+#, fuzzy
 msgid "TXT_BBSUB_SCRIPT17_D13644_OHWEL"
-msgstr ""
-"Hmm. Bez muke, bez nereda, ništa što mama mora čistiti... Molim te, donesi mi jedan.\n"
+msgstr "Hmm. Bez muke, bez nereda, ništa što mama mora čistiti... Molim te, donesi mi jedan.\n"
 
 msgid "TXT_BBSUB_SCRIPT31_D0_OHNOI"
 msgstr ""
