@@ -2,19 +2,20 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-26 19:09+0000\n"
-"Last-Translator: Andi Chandler <andi@gowling.com>\n"
+"PO-Revision-Date: 2026-05-11 03:44+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English (United Kingdom) <https://hosted.weblate.org/projects/doom-engine-games/doom/en_GB/>\n"
 "Language: en_GB\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16.1-dev\n"
+"X-Generator: Weblate 2026.5-dev\n"
 
 msgid "HUSTR_E2M5"
 msgstr "E2M5: Command Centre"
 
+#, fuzzy
 msgid "E3TEXT"
 msgstr ""
 "The loathsome spiderdemon that\n"
@@ -173,6 +174,7 @@ msgstr ""
 "The Shores of Hell and its amazing\n"
 "sequel, Inferno!\n"
 
+#, fuzzy
 msgid "E2TEXT"
 msgstr ""
 "You've done it! The hideous cyber-\n"
