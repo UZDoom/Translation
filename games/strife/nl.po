@@ -2,15 +2,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-30 16:38+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-05-11 03:44+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/doom-engine-games/strife/nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15-dev\n"
+"X-Generator: Weblate 2026.5-dev\n"
 
 msgid "TXT_STRIFE_MAP01"
 msgstr "Zone 1: Heiligdom"
@@ -320,9 +320,9 @@ msgstr "Elk goud waard!"
 msgid "TXT_RNO3_SCRIPT02_D12128_COMEO"
 msgstr "Kom op, 200 goud!"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D13644_ICANT"
-msgstr ""
-"Ik kan niet geloven dat ik met deze plicht vast kwam te zitten. Ze zeggen dat er iets kwaadaardigs uit deze rioolpoort is gekomen.... Nu mag ik hier blijven staan tot het weer opduikt!"
+msgstr "Ik kan niet geloven dat ik met deze plicht vast kwam te zitten. Ze zeggen dat er iets kwaadaardigs uit deze rioolpoort is gekomen.... Nu mag ik hier blijven staan tot het weer opduikt!"
 
 msgid "TXT_RPLY0_SCRIPT02_D13644_WHATG"
 msgstr "Welk hek?"
@@ -464,9 +464,9 @@ msgstr "Daar ga je. Pas goed op jezelf."
 msgid "TXT_RNO2_SCRIPT02_D21224_WELLM"
 msgstr "Nou ja, misschien kunt je zich wat med-patches veroorloven?"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D22740_IHOPE"
-msgstr ""
-"Ik hoop dat Macil weet wat hij doet. Als de Orde erachter komt dat ik het Front help, ben ik zo goed als dood.... Niet dat dit belangrijk voor je is. De dokter van het Front heeft me een upgradechip voor je gegeven, ben je er klaar voor? "
+msgstr "Ik hoop dat Macil weet wat hij doet. Als de Orde erachter komt dat ik het Front help, ben ik zo goed als dood.... Niet dat dit belangrijk voor je is. De dokter van het Front heeft me een upgradechip voor je gegeven, ben je er klaar voor? "
 
 msgid "TXT_RPLY0_SCRIPT02_D22740_YESIM"
 msgstr "Ja, ik ben er klaar voor."
@@ -511,6 +511,7 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT02_D25772_WHATS"
 msgstr "Wat is het woord?"
 
+#, fuzzy
 msgid "TXT_RYES0_SCRIPT02_D25772_THEWO"
 msgstr "Het woord is.... De riolen bevatten meer dan alleen ratten en robots."
 
@@ -540,13 +541,13 @@ msgstr "De Orde heeft meer te bieden dan je op het eerste gezicht zou denken."
 msgid "TXT_RNO0_SCRIPT02_D28804_WELLT"
 msgstr "We praten wel als je goud krijgt!"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D30320_THATS"
-msgstr ""
-"Dat is het vriend, de bron van kennis is uitgeput. Ik heb je meer verteld dan ik zou moeten hebben. Veel succes.... En kom niet terug."
+msgstr "Dat is het vriend, de bron van kennis is uitgeput. Ik heb je meer verteld dan ik zou moeten hebben. Veel succes.... En kom niet terug."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D31836_HEYIM"
-msgstr ""
-"Hé, ik ben hier alleen in geval van nood. Als de kern breekt, dan zorg ik ervoor dat er niemand binnenkomt... of buitenkomt."
+msgstr "Hé, ik ben hier alleen in geval van nood. Als de kern breekt, dan zorg ik ervoor dat er niemand binnenkomt... of buitenkomt."
 
 msgid "TXT_DLG_SCRIPT02_D33352_WATCH"
 msgstr "Kijk uit waar je loopt, boer!"
@@ -564,9 +565,9 @@ msgstr "Jij daar, niemand mag hier naar binnen. Ga verder!"
 msgid "TXT_DLG_SCRIPT02_D39416_IRALE"
 msgstr "Irale zal je er goed in luizen!"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D40932_IMKIN"
-msgstr ""
-"Ik ben een soort van een talent makelaar voor de rebellen. Een man die zo goed is als je zou kunnen maken veel goud .... als je aangesloten met de juiste mensen."
+msgstr "Ik ben een soort van een talent makelaar voor de rebellen. Een man die zo goed is als je zou kunnen maken veel goud .... als je aangesloten met de juiste mensen."
 
 msgid "TXT_RPLY0_SCRIPT02_D40932_IMINT"
 msgstr "Ik ben geïnteresseerd."
@@ -672,9 +673,9 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT02_D66704_FINEB"
 msgstr "Ik vind het prima."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D68220_SOYOU"
-msgstr ""
-"Dus jij bent de dwaas die de kelk heeft gestolen? Ik ga je laten arresteren als een rebellendief.... Daardoor verbeter ik mijn positie bij de Orde. Hoe voelt het om een onwetende pion te zijn? Ik zal je een hint geven, het gaat pijn doen. "
+msgstr "Dus jij bent de dwaas die de kelk heeft gestolen? Ik ga je laten arresteren als een rebellendief.... Daardoor verbeter ik mijn positie bij de Orde. Hoe voelt het om een onwetende pion te zijn? Ik zal je een hint geven, het gaat pijn doen. "
 
 msgid "TXT_RPLY0_SCRIPT02_D68220_ITSUC"
 msgstr "Het is klote!"
@@ -788,6 +789,7 @@ msgstr "Natuurlijk!"
 msgid "TXT_RPLY1_SCRIPT02_D92476_NOAND"
 msgstr "Nee, en die heb ik niet nodig!"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D93992_SORRY"
 msgstr "Sorry! Ik bedoelde niet.... Ga alsjeblieft meteen naar boven."
 
@@ -837,9 +839,9 @@ msgstr "Bedankt"
 msgid "TXT_DLG_SCRIPT02_D104604_RELEA"
 msgstr "Laat me vrij, laat een oude man met rust."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT03_D0_WELCO"
-msgstr ""
-"Welkom bij het laatste sprankje hoop. Alleen wij hebben de vrije wil om ons te verzetten tegen de Orde. We hebben de scherpste wetenschappelijke geesten en veel bekwame lichamen, maar we missen die ene echte, uh.... probleemoplosser, die ons de voorsprong zal geven die we nodig hebben. Help ons."
+msgstr "Welkom bij het laatste sprankje hoop. Alleen wij hebben de vrije wil om ons te verzetten tegen de Orde. We hebben de scherpste wetenschappelijke geesten en veel bekwame lichamen, maar we missen die ene echte, uh.... probleemoplosser, die ons de voorsprong zal geven die we nodig hebben. Help ons."
 
 msgid "TXT_RPLY0_SCRIPT03_D0_ALLRI"
 msgstr "Oké, ik accepteer het."
@@ -1092,9 +1094,9 @@ msgid "TXT_DLG_SCRIPT03_D43964_WERET"
 msgstr ""
 "We proberen te vinden waar de mechanismen van de kasteelpoort zich bevinden, maar tot nu toe hebben we geen geluk gehad."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT03_D45480_DONTG"
-msgstr ""
-"Laat je niet vangen. Ik heb horrorverhalen gehoord over wat ze onze mensen na hun gevangenschap aandoen. Ze verdwijnen gewoon.... Zonder een spoor."
+msgstr "Laat je niet vangen. Ik heb horrorverhalen gehoord over wat ze onze mensen na hun gevangenschap aandoen. Ze verdwijnen gewoon.... Zonder een spoor."
 
 msgid "TXT_DLG_SCRIPT03_D46996_HERES"
 msgstr ""
@@ -1229,9 +1231,9 @@ msgid "TXT_DLG_SCRIPT04_D37900_IFYOU"
 msgstr ""
 "Als je niet aan het werk gaat, wordt je toch al neergeschoten. Verplaats je tuniek."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT04_D39416_IDONT"
-msgstr ""
-"Ik wil geen paniekzaaier zijn, maar als ze zo hard op het energiekristal blijven duwen, gaat het scheuren, en dan versplinteren, en dan *boom*! ...Gewoon een gedachte."
+msgstr "Ik wil geen paniekzaaier zijn, maar als ze zo hard op het energiekristal blijven duwen, gaat het scheuren, en dan versplinteren, en dan *boom*! ...Gewoon een gedachte."
 
 msgid "TXT_DLG_SCRIPT04_D40932_LETME"
 msgstr ""
@@ -1407,9 +1409,9 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT06_D9096_ANYTH"
 msgstr "Kun je nog iets anders doen?"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT06_D10612_GOODL"
-msgstr ""
-"Veel succes. Ik heb een aantal van onze tunnels voor u geopend. Het moet uw taak gemakkelijker maken. Oh, maat tien, perfect! ...Maar vreselijke kleuren."
+msgstr "Veel succes. Ik heb een aantal van onze tunnels voor u geopend. Het moet uw taak gemakkelijker maken. Oh, maat tien, perfect! ...Maar vreselijke kleuren."
 
 msgid "TXT_RPLY0_SCRIPT06_D10612_THANK"
 msgstr "Bedankt voor je hulp."
@@ -1565,9 +1567,9 @@ msgstr "Zij zullen hiervoor betalen!"
 msgid "TXT_DLG_SCRIPT10_D15160_FIGHT"
 msgstr "Vecht voor het front en vrijheid. Verhuizen."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT10_D16676_IAMTH"
-msgstr ""
-"Ik ben de enige God.... Ik heb zijn geest nodig om vrij te zijn, zodat ik mijn lichaam kan verlaten en met hem mee kan vliegen. Je hebt geen idee wat je bezit.... En welke terreur je onder ogen ziet.... De Ene God moet vrij zijn.... En hij zal mij belonen.... Ik zal er een zijn...."
+msgstr "Ik ben de enige God.... Ik heb zijn geest nodig om vrij te zijn, zodat ik mijn lichaam kan verlaten en met hem mee kan vliegen. Je hebt geen idee wat je bezit.... En welke terreur je onder ogen ziet.... De Ene God moet vrij zijn.... En hij zal mij belonen.... Ik zal er een zijn...."
 
 msgid "TXT_RPLY0_SCRIPT10_D16676_IWILL"
 msgstr "Ik zal je vernietigen!"
@@ -1912,9 +1914,9 @@ msgstr "Ga zo door, we hadden het zonder jou niet kunnen doen."
 msgid "TXT_DLG_SCRIPT11_D0_IMTHE"
 msgstr "Ik ben de sleutelbeheerder."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT11_D1516_ALOTO"
-msgstr ""
-"Veel mensen zouden zeggen dat dit een ondankbare en onbeduidende klus is. Maar dat is het niet, in feite...."
+msgstr "Veel mensen zouden zeggen dat dit een ondankbare en onbeduidende klus is. Maar dat is het niet, in feite...."
 
 msgid "TXT_RPLY0_SCRIPT11_D1516_GIVEM"
 msgstr "Geef me de sleutel!"
@@ -2008,9 +2010,9 @@ msgstr "Ik kom terug, met zijn stuk!"
 msgid "TXT_DLG_SCRIPT12_D13644_THERI"
 msgstr "De rivier van de tijd beweegt voor altijd verder, terwijl je stilstaat."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT12_D15160_PITIF"
-msgstr ""
-"Jammer man, je hebt gedaan wat duizenden mensen niet hebben gedaan.... Je brengt me de kracht van de Sigil, de stem van de Ene God."
+msgstr "Jammer man, je hebt gedaan wat duizenden mensen niet hebben gedaan.... Je brengt me de kracht van de Sigil, de stem van de Ene God."
 
 msgid "TXT_RPLY0_SCRIPT12_D15160_IDONT"
 msgstr "Ik begrijp het niet."
@@ -2103,9 +2105,9 @@ msgstr "Wat een gezond exemplaar. Je hebt mijn hulp niet nodig, of wel?"
 msgid "TXT_RPLY0_SCRIPT17_D6064_WELLY"
 msgstr "Nou, ja. Macil heeft me gestuurd."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT17_D7580_SHHHH"
-msgstr ""
-"Shhhhhh.... Hou het stil, tenzij je wilt dat we allebei gedood worden. Wat kan ik nu voor u doen?"
+msgstr "Shhhhhh.... Hou het stil, tenzij je wilt dat we allebei gedood worden. Wat kan ik nu voor u doen?"
 
 msgid "TXT_RPLY0_SCRIPT17_D7580_TELLM"
 msgstr "Vertel me hoe ik de bisschop kan vinden."
@@ -2215,16 +2217,16 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT22_D1516_DOYOU"
 msgstr "Weet je wat er in zit?"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT22_D3032_ITSAT"
-msgstr ""
-"Het is een topgeheim gebied. Niet alleen is de Orde daar een soort.... schepsel aan het kweken, ik heb met mijn eigen ogen een vreemd artefact gezien dat een Talisman wordt genoemd. niemand mag er in de buurt komen. Het gerucht gaat dat hij grote macht heeft als hij zich verenigt met twee anderen van zijn soort."
+msgstr "Het is een topgeheim gebied. Niet alleen is de Orde daar een soort.... schepsel aan het kweken, ik heb met mijn eigen ogen een vreemd artefact gezien dat een Talisman wordt genoemd. niemand mag er in de buurt komen. Het gerucht gaat dat hij grote macht heeft als hij zich verenigt met twee anderen van zijn soort."
 
 msgid "TXT_RPLY0_SCRIPT22_D3032_ISUPP"
 msgstr "Ik neem aan dat je dit ding wilt?"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT22_D4548_NOIFY"
-msgstr ""
-"Nee, als je het kunt vinden, is het aan jou om het te houden. Misschien kunt je het gebruiken om ons te bevrijden van onze onderdrukking. Ik zou je veel geluk wensen, maar je zult veel meer nodig hebben als je daar naar binnen gaat...."
+msgstr "Nee, als je het kunt vinden, is het aan jou om het te houden. Misschien kunt je het gebruiken om ons te bevrijden van onze onderdrukking. Ik zou je veel geluk wensen, maar je zult veel meer nodig hebben als je daar naar binnen gaat...."
 
 msgid "TXT_RPLY0_SCRIPT22_D4548_WHATS"
 msgstr "Wat is dit alles over het verleden?"
@@ -2233,6 +2235,7 @@ msgid "TXT_DLG_SCRIPT22_D6064_YOUVE"
 msgstr ""
 "Je hebt zeker de andere ruïnes in de buurt gezien. Het lijkt erop dat de komeet die op onze planeet is neergestort, eigenlijk een ruimteschip is, en geloof het of niet, het is al lang geleden op deze wereld ontstaan."
 
+#, fuzzy
 msgid "TXT_RPLY0_SCRIPT22_D6064_SOTHE"
 msgstr "Dus de schrikbeelden, de Ene God...."
 
@@ -2240,6 +2243,7 @@ msgid "TXT_DLG_SCRIPT22_D7580_THEYA"
 msgstr ""
 "Het zijn wezens die ooit over deze wereld heersten en die er op uit zijn om haar leven te consumeren. De Ouden slaagden erin om ze af te sluiten, maar gaven hun leven in het proces. Ik ben bang dat dat alles is wat ik weet."
 
+#, fuzzy
 msgid "TXT_RPLY0_SCRIPT22_D7580_THANK"
 msgstr "Bedankt... Ik zal doen wat ik kan."
 
@@ -2456,6 +2460,7 @@ msgid "TXT_DLG_SCRIPT23_D15160_THANK"
 msgstr ""
 "Bedankt deus dat je hier bent gekomen. Om de fabriek binnen te komen heb je een sleutel nodig. We hebben het gestolen maar onze agent ontbreekt in het web van de catacomben onder het bolwerk van de Orde. Ik heb tien goede mannen in die tunnels gestuurd om hem te vinden, en niemand is teruggekomen. Er is daar beneden iets!"
 
+#, fuzzy
 msgid "TXT_RPLY0_SCRIPT23_D15160_WHATI"
 msgstr "Wat is het? Menselijk of.... ?"
 
@@ -2552,6 +2557,7 @@ msgid "TXT_DLG_SCRIPT23_D24256_THANK"
 msgstr ""
 "Bedankt deus dat je hier bent gekomen. Om de fabriek binnen te komen heb je een sleutel nodig. We hebben het gestolen maar onze agent ontbreekt in het web van de catacomben onder het bolwerk van de Orde. Ik heb tien goede mannen in die tunnels gestuurd om hem te vinden, en niemand is teruggekomen. Er is daar beneden iets!"
 
+#, fuzzy
 msgid "TXT_RPLY0_SCRIPT23_D24256_WHATI"
 msgstr "Wat is het? Menselijk of.... ?"
 
@@ -2770,9 +2776,9 @@ msgid "TXT_DLG_SCRIPT33_D13644_THATS"
 msgstr ""
 "Dat is het vriend, de bron van kennis is aangeboord. Ik heb je meer verteld dan ik toch al zou moeten hebben."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT33_D15160_HARDT"
-msgstr ""
-"Moeilijk om nieuw speelgoed te kopen.... als je blut bent. Doe een kleine boodschap voor me en je krijgt meer dan je ooit zou kunnen uitgeven. Ik zal je een rijk man maken."
+msgstr "Moeilijk om nieuw speelgoed te kopen.... als je blut bent. Doe een kleine boodschap voor me en je krijgt meer dan je ooit zou kunnen uitgeven. Ik zal je een rijk man maken."
 
 msgid "TXT_RPLY0_SCRIPT33_D15160_IGOTN"
 msgstr "Ik heb niets beters te doen."
@@ -2832,9 +2838,9 @@ msgstr "Waar wacht je nog op? De gouverneur zelf zal je belonen."
 msgid "TXT_DLG_SCRIPT33_D25772_DIETR"
 msgstr "Sterf de verrader! "
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT33_D27288_SOYOU"
-msgstr ""
-"Dus jij bent de dwaas die de kelk heeft gestolen? Ik ga je laten arresteren als rebelse dief.... Daardoor verbeter ik mijn positie bij de Orde. Hoe voelt het om een onwetende pion te zijn? "
+msgstr "Dus jij bent de dwaas die de kelk heeft gestolen? Ik ga je laten arresteren als rebelse dief.... Daardoor verbeter ik mijn positie bij de Orde. Hoe voelt het om een onwetende pion te zijn? "
 
 msgid "TXT_RPLY0_SCRIPT33_D27288_ITSUC"
 msgstr "Het is klote!"
@@ -3237,9 +3243,9 @@ msgstr "Bedankt, tot ziens!"
 msgid "TXT_RANDOMGOODBYE_3"
 msgstr "Tot ziens!"
 
+#, fuzzy
 msgid "TXT_ILOG1"
-msgstr ""
-"Hallo? Commando, een com-unit is zojuist geactiveerd.... Ontvang ik beelden en geluid van.... iemand... Hé jij, ga daar nu weg.... en laat de kelk vallen!"
+msgstr "Hallo? Commando, een com-unit is zojuist geactiveerd.... Ontvang ik beelden en geluid van.... iemand... Hé jij, ga daar nu weg.... en laat de kelk vallen!"
 
 msgid "TXT_ILOG2"
 msgstr ""
@@ -3444,9 +3450,9 @@ msgid "TXT_ILOG102"
 msgstr ""
 "Ik lees enorme neurale golfvervormingen van rechtdoor. Ik denk dat we hem gevonden hebben. Laten we naar binnen gaan en de machine stilleggen!"
 
+#, fuzzy
 msgid "TXT_ILOG103"
-msgstr ""
-"Net nu ik denk dat we alles hebben gezien! Ze gaan menselijk naar binnen en komen eruit.... Ik wil er niet eens over nadenken. Vernietig deze verschrikking!"
+msgstr "Net nu ik denk dat we alles hebben gezien! Ze gaan menselijk naar binnen en komen eruit.... Ik wil er niet eens over nadenken. Vernietig deze verschrikking!"
 
 msgid "TXT_ILOG104"
 msgstr ""
@@ -3561,13 +3567,13 @@ msgid "TXT_ILOG1024"
 msgstr ""
 "Het is het Orakel dat het derde deel vasthoudt. Daar is je verrader. Ga terug naar het Orakel, en neem hem mee naar beneden. Keer terug naar mij als het dood is."
 
+#, fuzzy
 msgid "TXT_ILOG1025"
-msgstr ""
-"Je hebt de kanker uit je lichaam gesneden, maar je hart klopt nog steeds. Vervolgens moet je de chirurg vinden die je mensen afmaakt en controleert....... De Kennismeester. Stop hem, en het volgende stuk zal van jou zijn."
+msgstr "Je hebt de kanker uit je lichaam gesneden, maar je hart klopt nog steeds. Vervolgens moet je de chirurg vinden die je mensen afmaakt en controleert....... De Kennismeester. Stop hem, en het volgende stuk zal van jou zijn."
 
+#, fuzzy
 msgid "TXT_ILOG1026"
-msgstr ""
-"Vervolgens moet u de chirurg vinden die uw mensen afslacht en onder controle heeft....... De Kennismeester. Stop hem, en het volgende stuk zal van jou zijn. Gebruik de teleporter die ik geopend heb om hem te bereiken. Als hij dood is, gebruik dan hetzelfde apparaat om terug te keren naar mij."
+msgstr "Vervolgens moet u de chirurg vinden die uw mensen afslacht en onder controle heeft....... De Kennismeester. Stop hem, en het volgende stuk zal van jou zijn. Gebruik de teleporter die ik geopend heb om hem te bereiken. Als hij dood is, gebruik dan hetzelfde apparaat om terug te keren naar mij."
 
 msgid "TXT_ILOG1027"
 msgstr ""
@@ -3814,9 +3820,9 @@ msgid "TXT_SUB_GOOD2"
 msgstr ""
 "Ik wist dat je zou winnen, mijn dappere held. Alle gevechten zijn gestopt. Uw overwinning zal ons in staat stellen om een vaccin te creëren om het virus uit ons lichaam te zuiveren."
 
+#, fuzzy
 msgid "TXT_SUB_GOOD3"
-msgstr ""
-"Jullie hebben onze planeet gered en ons bevrijd. Nu wil ik je persoonlijk bedanken.... persoonlijk. Oh, en trouwens: de naam is Shauna."
+msgstr "Jullie hebben onze planeet gered en ons bevrijd. Nu wil ik je persoonlijk bedanken.... persoonlijk. Oh, en trouwens: de naam is Shauna."
 
 msgid "TXT_SUB_SAD1"
 msgstr ""
@@ -3850,13 +3856,13 @@ msgid "TXT_SUB_MAP03_2"
 msgstr ""
 "Zonder voortplanting, vond de Orde dat biomechanische verbeteringen de enige manier waren om hun sterke punten en aantallen te behouden."
 
+#, fuzzy
 msgid "TXT_SUB_MAP03_3"
-msgstr ""
-"Het verval is zo ver gevorderd dat de meeste van de troepen die we tegenkomen meer machine zijn dan de mens, maar we geloven dat hun collectieve bewustzijn wordt gecontroleerd door één bron...."
+msgstr "Het verval is zo ver gevorderd dat de meeste van de troepen die we tegenkomen meer machine zijn dan de mens, maar we geloven dat hun collectieve bewustzijn wordt gecontroleerd door één bron...."
 
+#, fuzzy
 msgid "TXT_SUB_MAP03_4"
-msgstr ""
-"...de programmeur: maker van de AI die de Acolieten bestuurt. Vernietig de programmeur, en we kunnen de troepen van de Orde met een enkele klap verlammen. Maar opgelet: we hebben meldingen dat hij aanvallers kan verdampen."
+msgstr "...de programmeur: maker van de AI die de Acolieten bestuurt. Vernietig de programmeur, en we kunnen de troepen van de Orde met een enkele klap verlammen. Maar opgelet: we hebben meldingen dat hij aanvallers kan verdampen."
 
 msgid "TXT_SUB_MAP10_1"
 msgstr ""
@@ -3933,19 +3939,20 @@ msgid "TXT_SUB_LOG16"
 msgstr ""
 "Het magazijn is in de energiecentrale. Laten we dit kort en bondig houden."
 
+#, fuzzy
 msgid "TXT_SUB_LOG17"
 msgstr "Ik had nooit gedacht dat ik zou inbreken in de gevangenis...."
 
 msgid "TXT_SUB_LOG18"
 msgstr "Ik denk dat er geen gratis lunch is. Tijd om te sluiten en te laden."
 
+#, fuzzy
 msgid "TXT_SUB_LOG19"
-msgstr ""
-"Oké. Je hebt de gouverneur tevreden gesteld, de directeur verpletterd... Nu lijkt het erop dat we een kleine operatie moeten doen."
+msgstr "Oké. Je hebt de gouverneur tevreden gesteld, de directeur verpletterd... Nu lijkt het erop dat we een kleine operatie moeten doen."
 
+#, fuzzy
 msgid "TXT_SUB_LOG20"
-msgstr ""
-"Oh, je hebt zijn hand eraf gesneden! En ik vond je een aardige kerel.... een beetje. Laten we gaan."
+msgstr "Oh, je hebt zijn hand eraf gesneden! En ik vond je een aardige kerel.... een beetje. Laten we gaan."
 
 msgid "TXT_SUB_LOG21"
 msgstr ""
@@ -3967,9 +3974,9 @@ msgid "TXT_SUB_LOG26"
 msgstr ""
 "De Orde denkt dat het veilig is in zijn kasteel. Fout! Als je de poorten opent, zijn het gemakkelijke keuzes. En daarvoor moet je de riolering in. Loop langs de rivier over het landhuis van de gouverneur. "
 
+#, fuzzy
 msgid "TXT_SUB_LOG27"
-msgstr ""
-"Oké, bukken hier naar binnen. De rioolbewoners zijn verschrikkelijke mutanten, maar hun netwerk van tunnels geeft hen toegang tot geheimen. Hou je neus vast.... We gaan naar beneden."
+msgstr "Oké, bukken hier naar binnen. De rioolbewoners zijn verschrikkelijke mutanten, maar hun netwerk van tunnels geeft hen toegang tot geheimen. Hou je neus vast.... We gaan naar beneden."
 
 msgid "TXT_SUB_LOG28"
 msgstr ""
@@ -3984,9 +3991,9 @@ msgstr "Precies wat ik nodig heb. Meer bruine drab!"
 msgid "TXT_SUB_LOG31"
 msgstr "Hé, kijk! Ik denk dat dat de deur is die Weran op een kier wil hebben!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG32"
-msgstr ""
-"Sluit je ogen! Ik wil het niet zien! Oh, te laat.... Yuck. Dat ziet er niet uit als een menselijk lichaam. Wat heeft de Orde gedaan? Ik moet dit aan het commando melden."
+msgstr "Sluit je ogen! Ik wil het niet zien! Oh, te laat.... Yuck. Dat ziet er niet uit als een menselijk lichaam. Wat heeft de Orde gedaan? Ik moet dit aan het commando melden."
 
 msgid "TXT_SUB_LOG33"
 msgstr "Waarom kunnen we niet een keer een missie doen in een bloemenveld?"
@@ -3998,6 +4005,7 @@ msgstr ""
 msgid "TXT_SUB_LOG35"
 msgstr "Vraag me niet waar we zijn. Ik ben ook verdwaald. Sorry."
 
+#, fuzzy
 msgid "TXT_SUB_LOG36"
 msgstr "Die steen.... Hebben we die steen niet gepasseerd? Nee...."
 
@@ -4012,6 +4020,7 @@ msgstr ""
 msgid "TXT_SUB_LOG39"
 msgstr "Ah, het is goed om weer in de aanval te zijn. Geef ze de hel, jongens!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG40"
 msgstr "Dit ziet er goed uit. Computers.... Programmeur.... Wat vind je ervan?"
 
@@ -4019,9 +4028,9 @@ msgid "TXT_SUB_LOG41"
 msgstr ""
 "Dit moet de lange gang zijn. Of dat of mijn gevoel voor schaalvergroting is naar de hel geschoten."
 
+#, fuzzy
 msgid "TXT_SUB_LOG42"
-msgstr ""
-"Dit zijn alle kenmerken van een tempel van het kwaad. Strenge architectuur, grote spandoeken.... Ik zou zeggen bingo!"
+msgstr "Dit zijn alle kenmerken van een tempel van het kwaad. Strenge architectuur, grote spandoeken.... Ik zou zeggen bingo!"
 
 msgid "TXT_SUB_LOG43"
 msgstr "Dit is de almachtige programmeur? Echt niet!"
@@ -4199,6 +4208,7 @@ msgid "TXT_SUB_LOG89"
 msgstr ""
 "De fabriek ligt naast de mijnen. Richter moet de mijnen van Degnin bedoelen. Het Degnin-erts is magnetisch en explosief, precies het ding voor het afsluiten van krachtvelden."
 
+#, fuzzy
 msgid "TXT_SUB_LOG90"
 msgstr "Mijnen, catacomben, rioleringen.... Wat een eerste afspraakje!"
 
@@ -4206,6 +4216,7 @@ msgid "TXT_SUB_LOG91"
 msgstr ""
 "Ik wou dat Richter een beetje specifieker was geweest. Hm, laten we het hier eens proberen."
 
+#, fuzzy
 msgid "TXT_SUB_LOG92"
 msgstr "Ik denk dat we.... Oh, shit. Ik heb geen idee waar we zijn."
 
@@ -4246,9 +4257,9 @@ msgid "TXT_SUB_LOG102"
 msgstr ""
 "Ik lees enorme neurale golfvervormingen van rechtdoor. Ik denk dat we het gevonden hebben."
 
+#, fuzzy
 msgid "TXT_SUB_LOG103"
-msgstr ""
-"Net nu ik denk dat we het allemaal hebben gezien! Ze gaan in de mens en komen eruit.... Ik wil er niet eens over nadenken."
+msgstr "Net nu ik denk dat we het allemaal hebben gezien! Ze gaan in de mens en komen eruit.... Ik wil er niet eens over nadenken."
 
 msgid "TXT_SUB_LOG104"
 msgstr ""
@@ -4285,9 +4296,9 @@ msgstr ""
 "De waarheid kan alleen worden gevonden in de universele wil. Je zult op je knieën vallen voor de Ware God, het Ene Licht. Sluit je aan bij mij en ik zal de Sigil voltooien.\n"
 "Ik ben deze mystieke dubbelzinnigheid beu."
 
+#, fuzzy
 msgid "TXT_SUB_LOG130"
-msgstr ""
-"Jullie hebben mijn Orde verpletterd, door mijn listen heen gescheurd en eeuwen van verlangen bedreigd. Maar ik zal zegevieren, ik zal je besmetten en je naar mijn wil draaien...."
+msgstr "Jullie hebben mijn Orde verpletterd, door mijn listen heen gescheurd en eeuwen van verlangen bedreigd. Maar ik zal zegevieren, ik zal je besmetten en je naar mijn wil draaien...."
 
 msgid "TXT_SUB_LOG200"
 msgstr "Klinkt als een droombaan, nietwaar?"
@@ -4298,6 +4309,7 @@ msgstr "Je hebt te veel gezien. Ijs hem, Macil!"
 msgid "TXT_SUB_LOG202"
 msgstr "Volgende keer luister je naar me."
 
+#, fuzzy
 msgid "TXT_SUB_LOG203"
 msgstr "Ugh, deze post-apocalyptische prijzen...."
 
@@ -4346,9 +4358,11 @@ msgstr "Mm. Ik hou van de manier waarop je jezelf draagt."
 msgid "TXT_SUB_LOG218"
 msgstr "Blast away! Ze zijn niet menselijk!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG219"
 msgstr "Wow! Zwarte acoliet! De nieuwe smaaksensatie...."
 
+#, fuzzy
 msgid "TXT_SUB_LOG220"
 msgstr "Blijf dat doen en je wordt blind.... maar ik vind het leuk."
 
@@ -4358,15 +4372,18 @@ msgstr "Ik denk dat ze ons niet meer zullen uitnodigen om terug te komen eten!"
 msgid "TXT_SUB_LOG222"
 msgstr "We moeten naar de bovenste verdieping."
 
+#, fuzzy
 msgid "TXT_SUB_LOG223"
 msgstr "Wacht..... Dit ziet er interessant uit. Kijk maar eens."
 
 msgid "TXT_SUB_LOG224"
 msgstr "Ugh. Die kerel geeft me de kriebels. Laten we wegblijven."
 
+#, fuzzy
 msgid "TXT_SUB_LOG225"
 msgstr "Links! Sla linksaf!...... Oh, andere links!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG226"
 msgstr "Typisch koppig koppig mannetje!...... Tenzij je een meisje bent."
 
@@ -4376,9 +4393,11 @@ msgstr "Sterk, wreed en stil. Mijn soort partner."
 msgid "TXT_SUB_LOG228"
 msgstr "Oké! Ik had het mis!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG229"
 msgstr "Jammer dat we elkaar nooit ontmoet hebben..... persoonlijk."
 
+#, fuzzy
 msgid "TXT_SUB_LOG230"
 msgstr "Ik had dromen voor je.... Moeilijke shit."
 
@@ -4389,9 +4408,9 @@ msgstr ""
 msgid "TXT_SUB_LOG232"
 msgstr "Goed werk, vriend! Het is tijd om je binnen te brengen."
 
+#, fuzzy
 msgid "TXT_SUB_LOG233"
-msgstr ""
-"Kijk uit voor die kruisvaarders. Het zijn grote, hangende robots, en gemeen als de hel. We weten niet hoe het met hun wapens zit, maar de kans is groot dat je niet bij elkaar past. Voorzichtig."
+msgstr "Kijk uit voor die kruisvaarders. Het zijn grote, hangende robots, en gemeen als de hel. We weten niet hoe het met hun wapens zit, maar de kans is groot dat je niet bij elkaar past. Voorzichtig."
 
 msgid "TXT_SUB_LOG234"
 msgstr ""
@@ -4404,9 +4423,9 @@ msgid "TXT_SUB_LOG236"
 msgstr ""
 "Jij stomme, struikelende, knotsvoetige bochelende imbeciel! Je hebt ons weggegeven!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG237"
-msgstr ""
-"Ik wou dat ik achter die deur op je zat te wachten.... maar ik moet ondergronds blijven. Het is tijd om onze leider Macil te ontmoeten."
+msgstr "Ik wou dat ik achter die deur op je zat te wachten.... maar ik moet ondergronds blijven. Het is tijd om onze leider Macil te ontmoeten."
 
 msgid "TXT_BBSUB_SCRIPT02_D57608_IFIKN"
 msgstr ""
@@ -4462,6 +4481,7 @@ msgstr "Geweldig. Nu zijn we aan het winkelen voor de rattenkoning."
 msgid "TXT_BBSUB_SCRIPT06_D4548_OPENT"
 msgstr "Ik durf te wedden dat deze kerel ook heel erg stinkt."
 
+#, fuzzy
 msgid "TXT_BBSUB_SCRIPT06_D9096_YOUHA"
 msgstr "Meer riolering.... Geweldig. Ik vraag me af wat daar beneden leeft."
 
@@ -4476,6 +4496,7 @@ msgid "TXT_BBSUB_SCRIPT10_D12128_THERE"
 msgstr ""
 "Biomechanisch? Nou, dat verklaart hun schijnbaar eindeloze voorraad aan troepen! En hun slechte houding.\n"
 
+#, fuzzy
 msgid "TXT_BBSUB_SCRIPT10_D16676_IAMTH"
 msgstr "Zieke klootzakken.... Verspil hem!"
 
@@ -4487,9 +4508,9 @@ msgid "TXT_BBSUB_SCRIPT17_D10612_OHSUR"
 msgstr ""
 "Te oordelen naar de recente geschiedenis, denk ik dat heimelijkheid uit is."
 
+#, fuzzy
 msgid "TXT_BBSUB_SCRIPT17_D13644_OHWEL"
-msgstr ""
-"Hmm. Geen gedoe, geen muss, niets voor mama om op te ruimen... Haal me er een, alsjeblieft.\n"
+msgstr "Hmm. Geen gedoe, geen muss, niets voor mama om op te ruimen... Haal me er een, alsjeblieft.\n"
 
 msgid "TXT_BBSUB_SCRIPT31_D0_OHNOI"
 msgstr ""
