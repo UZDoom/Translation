@@ -2,13 +2,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
+"PO-Revision-Date: 2026-05-11 03:43+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
-"Language-Team: none\n"
-"PO-Revision-Date: 2026-02-12 19:09+0000\n"
+"Language-Team: Swedish <https://hosted.weblate.org/projects/doom-engine-games/hacx-filter/sv/>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2026.5-dev\n"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG1"
@@ -362,6 +364,7 @@ msgstr ""
 "\n"
 "Det är bäst att du hittar nästa terminal, tar en tur genom c-rymden, skär några mutantrumpor och sticker härifrån!"
 
+#, fuzzy
 msgid "X2TEXT"
 msgstr ""
 "Var är alla människor?!\n"
@@ -374,6 +377,7 @@ msgstr ""
 "\n"
 "Mänskliga neurala vätskor matar dessa insekter! Inte undra på att grannskapet börjar bli glesare. Rapportera till underkommittén. Och se upp för din rygg..."
 
+#, fuzzy
 msgid "X3TEXT"
 msgstr ""
 "Civilisationen som du kände till den är nada!\n"
@@ -390,6 +394,7 @@ msgstr ""
 "\n"
 ".....(fortsättning)....."
 
+#, fuzzy
 msgid "X5TEXT"
 msgstr ""
 "Du lever!\n"
@@ -465,12 +470,14 @@ msgstr "Inkräktare!"
 msgid "TXT_HACXMAP31"
 msgstr "Sorptionsmedel rum"
 
+#, fuzzy
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_CLEV"
 msgstr "Nu anländer vi till...\n"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+#, fuzzy
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_CHOPPERS"
 msgstr "...kommer att steka ditt arsle!"
