@@ -2,15 +2,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-30 16:44+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-05-11 03:43+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/doom-engine-games/strife/sv/>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15-dev\n"
+"X-Generator: Weblate 2026.5-dev\n"
 
 msgid "TXT_STRIFE_MAP01"
 msgstr "OMRÅDE 1: Fristad"
@@ -318,9 +318,9 @@ msgstr "Värda varje guld!"
 msgid "TXT_RNO3_SCRIPT02_D12128_COMEO"
 msgstr "Kom igen, 200 guld!"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D13644_ICANT"
-msgstr ""
-"Jag kan inte fatta att jag fick den här uppgiften. Det sägs att något ondskefullt kom upp ur den här kloakporten... Nu får jag stå här tills det kommer upp igen!"
+msgstr "Jag kan inte fatta att jag fick den här uppgiften. Det sägs att något ondskefullt kom upp ur den här kloakporten... Nu får jag stå här tills det kommer upp igen!"
 
 msgid "TXT_RPLY0_SCRIPT02_D13644_WHATG"
 msgstr "Vilken port?"
@@ -460,9 +460,9 @@ msgstr "Här har du det. Ta hand om dig nu."
 msgid "TXT_RNO2_SCRIPT02_D21224_WELLM"
 msgstr "Du kanske har råd med några medicinska plåster?"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D22740_IHOPE"
-msgstr ""
-"Jag hoppas att Macil vet vad han gör. Om Orden får reda på att jag hjälper fronten är jag så gott som död... Inte för att det spelar någon roll för dig. Frontens läkare gav mig ett uppgraderingschip till dig, är du redo? "
+msgstr "Jag hoppas att Macil vet vad han gör. Om Orden får reda på att jag hjälper fronten är jag så gott som död... Inte för att det spelar någon roll för dig. Frontens läkare gav mig ett uppgraderingschip till dig, är du redo? "
 
 msgid "TXT_RPLY0_SCRIPT02_D22740_YESIM"
 msgstr "Ja, jag är redo."
@@ -507,6 +507,7 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT02_D25772_WHATS"
 msgstr "Vad heter det?"
 
+#, fuzzy
 msgid "TXT_RYES0_SCRIPT02_D25772_THEWO"
 msgstr "Ordet är... Kloakerna innehåller mer än bara råttor och robotar."
 
@@ -536,13 +537,13 @@ msgstr "Det finns mer i Orden än vad man kan tro."
 msgid "TXT_RNO0_SCRIPT02_D28804_WELLT"
 msgstr "Vi pratar när du får guld!"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D30320_THATS"
-msgstr ""
-"Det var det vän, kunskapsbrunnen har tagit slut. Jag har berättat mer än jag borde ha gjort i alla fall. Lycka till... Och kom inte tillbaka."
+msgstr "Det var det vän, kunskapsbrunnen har tagit slut. Jag har berättat mer än jag borde ha gjort i alla fall. Lycka till... Och kom inte tillbaka."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D31836_HEYIM"
-msgstr ""
-"Jag är bara här i nödfall. Om kärnan bryter igenom, ser jag till att ingen kommer in... eller ut."
+msgstr "Jag är bara här i nödfall. Om kärnan bryter igenom, ser jag till att ingen kommer in... eller ut."
 
 msgid "TXT_DLG_SCRIPT02_D33352_WATCH"
 msgstr "Se upp, bonde!"
@@ -560,9 +561,9 @@ msgstr "Du där, ingen får komma in här. Flytta på er!"
 msgid "TXT_DLG_SCRIPT02_D39416_IRALE"
 msgstr "Irale kommer att sätta dig på plats!"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D40932_IMKIN"
-msgstr ""
-"Jag är en slags talangmäklare för rebellerna. En kille som är lika bra som du kan tjäna en massa guld... om du kopplar ihop dig med rätt personer."
+msgstr "Jag är en slags talangmäklare för rebellerna. En kille som är lika bra som du kan tjäna en massa guld... om du kopplar ihop dig med rätt personer."
 
 msgid "TXT_RPLY0_SCRIPT02_D40932_IMINT"
 msgstr "Jag är intresserad."
@@ -668,9 +669,9 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT02_D66704_FINEB"
 msgstr "Det är okej för mig."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D68220_SOYOU"
-msgstr ""
-"Så du är idioten som stal kalken? Jag ska låta arrestera dig som en upprorisk tjuv... och på så sätt förbättra min ställning i orden. Hur känns det att vara en ovetande bricka? Jag ska ge dig en ledtråd, det kommer att göra ont. "
+msgstr "Så du är idioten som stal kalken? Jag ska låta arrestera dig som en upprorisk tjuv... och på så sätt förbättra min ställning i orden. Hur känns det att vara en ovetande bricka? Jag ska ge dig en ledtråd, det kommer att göra ont. "
 
 msgid "TXT_RPLY0_SCRIPT02_D68220_ITSUC"
 msgstr "Det suger!"
@@ -784,6 +785,7 @@ msgstr "Självklart!"
 msgid "TXT_RPLY1_SCRIPT02_D92476_NOAND"
 msgstr "Nej, och jag behöver ingen!"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D93992_SORRY"
 msgstr "Jag är ledsen! Jag menade inte... Var snäll och gå upp."
 
@@ -833,9 +835,9 @@ msgstr "Tack"
 msgid "TXT_DLG_SCRIPT02_D104604_RELEA"
 msgstr "Släpp mig, låt en gammal man vara ifred."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT03_D0_WELCO"
-msgstr ""
-"Välkommen till den sista flimret av hopp. Endast vi har den fria viljan att motsätta oss Orden. Vi har de skarpaste vetenskapliga hjärnorna och många dugliga kroppar, men vi saknar den där riktiga... Problemlösaren, som kan ge oss det övertag vi behöver. Hjälp oss."
+msgstr "Välkommen till den sista flimret av hopp. Endast vi har den fria viljan att motsätta oss Orden. Vi har de skarpaste vetenskapliga hjärnorna och många dugliga kroppar, men vi saknar den där riktiga... Problemlösaren, som kan ge oss det övertag vi behöver. Hjälp oss."
 
 msgid "TXT_RPLY0_SCRIPT03_D0_ALLRI"
 msgstr "Okej, jag accepterar."
@@ -1085,9 +1087,9 @@ msgid "TXT_DLG_SCRIPT03_D43964_WERET"
 msgstr ""
 "Vi försöker ta reda på var mekanismerna för slottets portar finns, men hittills har vi inte haft någon tur."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT03_D45480_DONTG"
-msgstr ""
-"Bli inte fångade. Jag har hört skräckhistorier om vad de gör med vårt folk efter att de blivit fängslade. De bara försvinner... Utan ett spår."
+msgstr "Bli inte fångade. Jag har hört skräckhistorier om vad de gör med vårt folk efter att de blivit fängslade. De bara försvinner... Utan ett spår."
 
 msgid "TXT_DLG_SCRIPT03_D46996_HERES"
 msgstr ""
@@ -1219,9 +1221,9 @@ msgstr "Var är kraftkristallen?"
 msgid "TXT_DLG_SCRIPT04_D37900_IFYOU"
 msgstr "Om du inte börjar jobba blir du skjuten ändå. Flytta din tunika."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT04_D39416_IDONT"
-msgstr ""
-"Jag vill inte låta alarmistisk, men om de fortsätter att trycka på kraftkristallen så här hårt kommer den att flaga, och sedan splittras, och sedan *boom*! ...Bara en tanke."
+msgstr "Jag vill inte låta alarmistisk, men om de fortsätter att trycka på kraftkristallen så här hårt kommer den att flaga, och sedan splittras, och sedan *boom*! ...Bara en tanke."
 
 msgid "TXT_DLG_SCRIPT04_D40932_LETME"
 msgstr ""
@@ -1397,9 +1399,9 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT06_D9096_ANYTH"
 msgstr "Finns det något annat du kan göra?"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT06_D10612_GOODL"
-msgstr ""
-"Lycka till. Jag har öppnat flera av våra tunnlar åt dig. Det borde göra din uppgift lättare. Åh, storlek tio, perfekt! ...men hemska färger."
+msgstr "Lycka till. Jag har öppnat flera av våra tunnlar åt dig. Det borde göra din uppgift lättare. Åh, storlek tio, perfekt! ...men hemska färger."
 
 msgid "TXT_RPLY0_SCRIPT06_D10612_THANK"
 msgstr "Tack för hjälpen."
@@ -1561,9 +1563,9 @@ msgstr "De kommer att få betala för detta!"
 msgid "TXT_DLG_SCRIPT10_D15160_FIGHT"
 msgstr "Kämpa för fronten och friheten. Gå ut."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT10_D16676_IAMTH"
-msgstr ""
-"Jag är den ende guden... Jag behöver att hans ande är fri så att jag kan lämna min kropp och ansluta mig till honom i flykten. Du har ingen aning om vad du äger... Och vilken skräck ni står inför... Den ende guden måste vara fri... Och han kommer att belöna mig... Jag kommer att bli en..."
+msgstr "Jag är den ende guden... Jag behöver att hans ande är fri så att jag kan lämna min kropp och ansluta mig till honom i flykten. Du har ingen aning om vad du äger... Och vilken skräck ni står inför... Den ende guden måste vara fri... Och han kommer att belöna mig... Jag kommer att bli en..."
 
 msgid "TXT_RPLY0_SCRIPT10_D16676_IWILL"
 msgstr "Jag ska förgöra dig!"
@@ -1909,9 +1911,9 @@ msgstr ""
 msgid "TXT_DLG_SCRIPT11_D0_IMTHE"
 msgstr "Jag är nyckelmästaren."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT11_D1516_ALOTO"
-msgstr ""
-"Många skulle säga att det är ett otacksamt och obetydligt jobb. Men det är det inte, i själva verket..."
+msgstr "Många skulle säga att det är ett otacksamt och obetydligt jobb. Men det är det inte, i själva verket..."
 
 msgid "TXT_RPLY0_SCRIPT11_D1516_GIVEM"
 msgstr "Ge mig nyckeln!"
@@ -2005,9 +2007,9 @@ msgstr "Jag kommer tillbaka med hans pjäs!"
 msgid "TXT_DLG_SCRIPT12_D13644_THERI"
 msgstr "Tidens flod rör sig för evigt framåt, medan du står stilla."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT12_D15160_PITIF"
-msgstr ""
-"Du har gjort vad tusentals har misslyckats med att göra... Du ger mig Sigillets kraft, den ende Gudens röst."
+msgstr "Du har gjort vad tusentals har misslyckats med att göra... Du ger mig Sigillets kraft, den ende Gudens röst."
 
 msgid "TXT_RPLY0_SCRIPT12_D15160_IDONT"
 msgstr "Jag förstår inte."
@@ -2100,9 +2102,9 @@ msgstr "Vilket friskt exemplar. Du behöver inte min hjälp, eller hur?"
 msgid "TXT_RPLY0_SCRIPT17_D6064_WELLY"
 msgstr "Jo, jo. Macil skickade mig."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT17_D7580_SHHHH"
-msgstr ""
-"Shhhh... Håll tyst, om du inte vill att vi båda ska dödas. Vad kan jag göra för dig?"
+msgstr "Shhhh... Håll tyst, om du inte vill att vi båda ska dödas. Vad kan jag göra för dig?"
 
 msgid "TXT_RPLY0_SCRIPT17_D7580_TELLM"
 msgstr "Berätta hur jag hittar biskopen."
@@ -2212,16 +2214,16 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT22_D1516_DOYOU"
 msgstr "Vet du vad som finns där inne?"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT22_D3032_ITSAT"
-msgstr ""
-"Det är ett topphemligt område. Inte nog med att Orden föder upp någon sorts... varelse där inne, jag har med egna ögon sett en märklig artefakt som kallas för en Talisman. Ingen får komma i närheten av den. Ryktet säger att den har stor kraft om den förenas med två andra av samma slag."
+msgstr "Det är ett topphemligt område. Inte nog med att Orden föder upp någon sorts... varelse där inne, jag har med egna ögon sett en märklig artefakt som kallas för en Talisman. Ingen får komma i närheten av den. Ryktet säger att den har stor kraft om den förenas med två andra av samma slag."
 
 msgid "TXT_RPLY0_SCRIPT22_D3032_ISUPP"
 msgstr "Jag antar att du vill ha den här?"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT22_D4548_NOIFY"
-msgstr ""
-"Nej! Om du kan hitta den, får du behålla den. Du kanske kan använda den för att befria oss från vårt förtryck. Jag skulle önska dig lycka till, men du kommer att behöva mycket mer än så om du går in där..."
+msgstr "Nej! Om du kan hitta den, får du behålla den. Du kanske kan använda den för att befria oss från vårt förtryck. Jag skulle önska dig lycka till, men du kommer att behöva mycket mer än så om du går in där..."
 
 msgid "TXT_RPLY0_SCRIPT22_D4548_WHATS"
 msgstr "Vad är allt det här om det förflutna?"
@@ -2230,6 +2232,7 @@ msgid "TXT_DLG_SCRIPT22_D6064_YOUVE"
 msgstr ""
 "Du har säkert sett de andra ruinerna i närheten. Det verkar som om kometen som kraschade på vår planet faktiskt är ett rymdskepp, och tro det eller ej, den härstammar från just den här världen för länge sedan."
 
+#, fuzzy
 msgid "TXT_RPLY0_SCRIPT22_D6064_SOTHE"
 msgstr "Så spökena, den enda guden..."
 
@@ -2237,6 +2240,7 @@ msgid "TXT_DLG_SCRIPT22_D7580_THEYA"
 msgstr ""
 "De är varelser som en gång styrde den här världen och är fast beslutna att förtära dess liv. De gamla lyckades försegla dem, men gav sina liv i processen. Jag är rädd att det är allt jag vet."
 
+#, fuzzy
 msgid "TXT_RPLY0_SCRIPT22_D7580_THANK"
 msgstr "Tack... Jag ska göra vad jag kan."
 
@@ -2449,6 +2453,7 @@ msgid "TXT_DLG_SCRIPT23_D15160_THANK"
 msgstr ""
 "Tacka Deus för att du kom hit. För att komma in i fabriken behöver du en nyckel. Vi stal den, men vår agent saknas i katakomberna under Ordensfästet. Jag har skickat tio goda män in i tunnlarna för att hitta honom, men ingen har återvänt. Något finns där nere!"
 
+#, fuzzy
 msgid "TXT_RPLY0_SCRIPT23_D15160_WHATI"
 msgstr "Vad är det? Mänskligt eller... ?"
 
@@ -2544,6 +2549,7 @@ msgid "TXT_DLG_SCRIPT23_D24256_THANK"
 msgstr ""
 "Tacka Deus för att du kom hit. För att komma in i fabriken behöver du en nyckel. Vi stal den, men vår agent saknas i katakomberna under Ordensfästet. Jag har skickat tio goda män in i tunnlarna för att hitta honom, men ingen har återvänt. Något finns där nere!"
 
+#, fuzzy
 msgid "TXT_RPLY0_SCRIPT23_D24256_WHATI"
 msgstr "Vad är det? Mänskligt eller... ?"
 
@@ -2758,9 +2764,9 @@ msgid "TXT_DLG_SCRIPT33_D13644_THATS"
 msgstr ""
 "Det var allt, min vän, kunskapens källa har blivit tömd. Jag har berättat mer än jag borde ha gjort i alla fall."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT33_D15160_HARDT"
-msgstr ""
-"Svårt att handla nya leksaker när man är pank. Gör ett litet ärende åt mig och du får mer än du någonsin kan spendera. Jag gör dig till en rik man."
+msgstr "Svårt att handla nya leksaker när man är pank. Gör ett litet ärende åt mig och du får mer än du någonsin kan spendera. Jag gör dig till en rik man."
 
 msgid "TXT_RPLY0_SCRIPT33_D15160_IGOTN"
 msgstr "Jag har inget bättre att göra."
@@ -2820,9 +2826,9 @@ msgstr "Vad väntar du på? Guvernören själv kommer att belöna dig."
 msgid "TXT_DLG_SCRIPT33_D25772_DIETR"
 msgstr "Dö förrädare! "
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT33_D27288_SOYOU"
-msgstr ""
-"Så du är dåren som stal kalken? Jag kommer att låta arrestera dig som en upprorisk tjuv... och därmed förbättra min ställning i orden. Hur känns det att vara en ovetande bricka? "
+msgstr "Så du är dåren som stal kalken? Jag kommer att låta arrestera dig som en upprorisk tjuv... och därmed förbättra min ställning i orden. Hur känns det att vara en ovetande bricka? "
 
 msgid "TXT_RPLY0_SCRIPT33_D27288_ITSUC"
 msgstr "Det suger!"
@@ -3220,9 +3226,9 @@ msgstr "Tack, hej då!"
 msgid "TXT_RANDOMGOODBYE_3"
 msgstr "Vi ses senare!"
 
+#, fuzzy
 msgid "TXT_ILOG1"
-msgstr ""
-"Hallå? Kommando, en kom-enhet har just aktiverats... Får bild och ljud från... någon... Hallå där, kom ut därifrån nu... och släpp kalken!"
+msgstr "Hallå? Kommando, en kom-enhet har just aktiverats... Får bild och ljud från... någon... Hallå där, kom ut därifrån nu... och släpp kalken!"
 
 msgid "TXT_ILOG2"
 msgstr ""
@@ -3427,9 +3433,9 @@ msgid "TXT_ILOG102"
 msgstr ""
 "Jag läser massiva neurala vågförvrängningar från rakt fram. Jag tror att vi har hittat den. Låt oss gå in där och stänga av den!"
 
+#, fuzzy
 msgid "TXT_ILOG103"
-msgstr ""
-"Precis när jag tror att vi har sett allt! De går in som människor och kommer ut... Jag vill inte ens tänka på det. Förstör denna skräck!"
+msgstr "Precis när jag tror att vi har sett allt! De går in som människor och kommer ut... Jag vill inte ens tänka på det. Förstör denna skräck!"
 
 msgid "TXT_ILOG104"
 msgstr ""
@@ -3543,13 +3549,13 @@ msgid "TXT_ILOG1024"
 msgstr ""
 "Det är oraklet som innehar den tredje biten. Där har du din förrädare. Återvänd till Oraklet och ta ner honom. Återvänd till mig när den är död."
 
+#, fuzzy
 msgid "TXT_ILOG1025"
-msgstr ""
-"Du har skurit bort cancern från din kropp, men ditt hjärta slår fortfarande. Nu måste du hitta kirurgen som slaktar och kontrollerar ditt folk.... Läromästaren. Stoppa honom och nästa del blir din."
+msgstr "Du har skurit bort cancern från din kropp, men ditt hjärta slår fortfarande. Nu måste du hitta kirurgen som slaktar och kontrollerar ditt folk.... Läromästaren. Stoppa honom och nästa del blir din."
 
+#, fuzzy
 msgid "TXT_ILOG1026"
-msgstr ""
-"Nästa steg är att hitta kirurgen som slaktar och kontrollerar ditt folk.... Läromästaren. Stoppa honom och nästa del blir din. Använd teleportern som jag öppnade för att nå honom. När han är död använder du samma apparat för att återvända till mig."
+msgstr "Nästa steg är att hitta kirurgen som slaktar och kontrollerar ditt folk.... Läromästaren. Stoppa honom och nästa del blir din. Använd teleportern som jag öppnade för att nå honom. När han är död använder du samma apparat för att återvända till mig."
 
 msgid "TXT_ILOG1027"
 msgstr ""
@@ -3727,9 +3733,9 @@ msgid "TXT_SUB_GOOD2"
 msgstr ""
 "Jag visste att du skulle vinna, min tappre hjälte. Alla strider har upphört. Din seger kommer att göra det möjligt för oss att skapa ett vaccin för att rensa ut viruset från våra kroppar."
 
+#, fuzzy
 msgid "TXT_SUB_GOOD3"
-msgstr ""
-"Du har räddat vår planet och befriat oss. Nu vill jag tacka dig... personligen. Åh, och förresten: namnet är Shauna."
+msgstr "Du har räddat vår planet och befriat oss. Nu vill jag tacka dig... personligen. Åh, och förresten: namnet är Shauna."
 
 msgid "TXT_SUB_SAD1"
 msgstr ""
@@ -3763,13 +3769,13 @@ msgid "TXT_SUB_MAP03_2"
 msgstr ""
 "Utan fortplantning fann orden att biomekaniska förbättringar var det enda sättet att behålla sin styrka och sitt antal."
 
+#, fuzzy
 msgid "TXT_SUB_MAP03_3"
-msgstr ""
-"Förfallet har gått framåt så att de flesta av de trupper vi möter är mer maskiner än människor, men vi tror att deras kollektiva medvetande styrs av en enda källa..."
+msgstr "Förfallet har gått framåt så att de flesta av de trupper vi möter är mer maskiner än människor, men vi tror att deras kollektiva medvetande styrs av en enda källa..."
 
+#, fuzzy
 msgid "TXT_SUB_MAP03_4"
-msgstr ""
-"...Programmeraren: skaparen av den intelligenta intelligens som kontrollerar akoliterna. Förstör Programmeraren och vi kan lamslå ordens trupper med ett enda slag. Men var försiktig: vi har rapporterat att han kan förånga angripare."
+msgstr "...Programmeraren: skaparen av den intelligenta intelligens som kontrollerar akoliterna. Förstör Programmeraren och vi kan lamslå ordens trupper med ett enda slag. Men var försiktig: vi har rapporterat att han kan förånga angripare."
 
 msgid "TXT_SUB_MAP10_1"
 msgstr ""
@@ -3845,19 +3851,20 @@ msgstr ""
 msgid "TXT_SUB_LOG16"
 msgstr "Magasinet finns i kraftstationen. Låt oss göra det här kort och gott."
 
+#, fuzzy
 msgid "TXT_SUB_LOG17"
 msgstr "Jag trodde aldrig att jag skulle bryta mig in i ett fängelse..."
 
 msgid "TXT_SUB_LOG18"
 msgstr "Det finns ingen gratis lunch. Dags att låsa och ladda."
 
+#, fuzzy
 msgid "TXT_SUB_LOG19"
-msgstr ""
-"OKEJ, DÅ ÄR DET DAGS ATT LÅSA OCH LÅSA. Du har nöjt guvernören, kladdat på fängelsedirektören... Nu ser det ut som om vi måste göra en liten operation."
+msgstr "OKEJ, DÅ ÄR DET DAGS ATT LÅSA OCH LÅSA. Du har nöjt guvernören, kladdat på fängelsedirektören... Nu ser det ut som om vi måste göra en liten operation."
 
+#, fuzzy
 msgid "TXT_SUB_LOG20"
-msgstr ""
-"Åh, du skar av hans hand! Och jag som trodde att du var en trevlig kille... typ. Nu går vi."
+msgstr "Åh, du skar av hans hand! Och jag som trodde att du var en trevlig kille... typ. Nu går vi."
 
 msgid "TXT_SUB_LOG21"
 msgstr ""
@@ -3878,9 +3885,9 @@ msgid "TXT_SUB_LOG26"
 msgstr ""
 "Orden tror att den är säker i sitt slott. Fel! Om du öppnar portarna blir de lätta att plocka. Och för det måste du gå ner i kloakerna. Gå längs floden över guvernörens herrgård. "
 
+#, fuzzy
 msgid "TXT_SUB_LOG27"
-msgstr ""
-"Okej, ducka in här. Kloakborna är hemska mutanter, men deras nätverk av tunnlar ger dem tillgång till hemligheter. Håll dig för näsan... Vi går ner."
+msgstr "Okej, ducka in här. Kloakborna är hemska mutanter, men deras nätverk av tunnlar ger dem tillgång till hemligheter. Håll dig för näsan... Vi går ner."
 
 msgid "TXT_SUB_LOG28"
 msgstr ""
@@ -3895,9 +3902,9 @@ msgstr "Precis vad jag behöver. Mer brunt kladd!"
 msgid "TXT_SUB_LOG31"
 msgstr "Titta! Jag tror att det är dörren som Weran vill ha på glänt!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG32"
-msgstr ""
-"Håll ögonen! Jag vill inte se! Åh, för sent... Usch. Det ser inte ut som en människokropp. Vad har Orden gjort? Jag måste rapportera det här till befälet."
+msgstr "Håll ögonen! Jag vill inte se! Åh, för sent... Usch. Det ser inte ut som en människokropp. Vad har Orden gjort? Jag måste rapportera det här till befälet."
 
 msgid "TXT_SUB_LOG33"
 msgstr ""
@@ -3910,6 +3917,7 @@ msgstr ""
 msgid "TXT_SUB_LOG35"
 msgstr "Fråga mig inte var vi är. Jag är också vilse. Jag är också vilse."
 
+#, fuzzy
 msgid "TXT_SUB_LOG36"
 msgstr "Den där tegelstenen... Passerade vi inte den stenen? Nej..."
 
@@ -3925,6 +3933,7 @@ msgid "TXT_SUB_LOG39"
 msgstr ""
 "Ah, det är skönt att vara på offensiven igen. Ge dem ett helvete, killar!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG40"
 msgstr "Det här ser bra ut. Datorer... Programmerare... Vad tycker du?"
 
@@ -3932,9 +3941,9 @@ msgid "TXT_SUB_LOG41"
 msgstr ""
 "Det här måste vara den långa korridoren. Antingen det eller så är min skalförståelse helt borta."
 
+#, fuzzy
 msgid "TXT_SUB_LOG42"
-msgstr ""
-"Det här har alla kännetecken på ett ondskans tempel. Stark arkitektur, stora banderoller... Jag skulle säga bingo!"
+msgstr "Det här har alla kännetecken på ett ondskans tempel. Stark arkitektur, stora banderoller... Jag skulle säga bingo!"
 
 msgid "TXT_SUB_LOG43"
 msgstr "Är detta den allsmäktige programmeraren? Inte en chans!"
@@ -4106,6 +4115,7 @@ msgid "TXT_SUB_LOG89"
 msgstr ""
 "Fabriken ligger bredvid gruvorna. Richter måste mena Degnins gruvor. Degninmalmen är magnetisk och explosiv, precis vad man behöver för att stänga av kraftfält."
 
+#, fuzzy
 msgid "TXT_SUB_LOG90"
 msgstr "Gruvor, katakomber, kloaker... Vilken första träff!"
 
@@ -4113,6 +4123,7 @@ msgid "TXT_SUB_LOG91"
 msgstr ""
 "Jag önskar att Richter hade varit lite mer specifik. Hm, vi försöker här borta."
 
+#, fuzzy
 msgid "TXT_SUB_LOG92"
 msgstr "Jag tror att vi är... Åh, skit. Jag har ingen aning om var vi är."
 
@@ -4152,9 +4163,9 @@ msgid "TXT_SUB_LOG102"
 msgstr ""
 "Jag läser massiva neurala vågförvrängningar rakt fram. Jag tror att vi har hittat den."
 
+#, fuzzy
 msgid "TXT_SUB_LOG103"
-msgstr ""
-"Precis när jag tror att vi har sett allt! De går in i en människa och kommer ut... Jag vill inte ens tänka på det."
+msgstr "Precis när jag tror att vi har sett allt! De går in i en människa och kommer ut... Jag vill inte ens tänka på det."
 
 msgid "TXT_SUB_LOG104"
 msgstr ""
@@ -4190,9 +4201,9 @@ msgstr ""
 "Sanningen kan bara hittas i den universella viljan. Ni kommer att falla på knä framför den sanna guden, det enda ljuset. Gör mig sällskap och jag kommer att fullborda Sigillet.\n"
 "Jag är trött på detta mystiska dubbelprat."
 
+#, fuzzy
 msgid "TXT_SUB_LOG130"
-msgstr ""
-"Du... Du har krossat min ordning, slitit igenom mina knep och hotat århundraden av begär. Men jag kommer att segra, jag kommer att infektera dig och vrida dig till min vilja..."
+msgstr "Du... Du har krossat min ordning, slitit igenom mina knep och hotat århundraden av begär. Men jag kommer att segra, jag kommer att infektera dig och vrida dig till min vilja..."
 
 msgid "TXT_SUB_LOG200"
 msgstr "Låter som ett drömjobb, eller hur?"
@@ -4203,6 +4214,7 @@ msgstr "Du har sett för mycket. Isa honom, Macil!"
 msgid "TXT_SUB_LOG202"
 msgstr "Nästa gång lyssnar du på mig."
 
+#, fuzzy
 msgid "TXT_SUB_LOG203"
 msgstr "De här postapokalyptiska priserna..."
 
@@ -4251,9 +4263,11 @@ msgstr "Jag gillar den här bommen. Jag gillar ditt sätt att bära dig själv."
 msgid "TXT_SUB_LOG218"
 msgstr "Blast away! De är inte mänskliga!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG219"
 msgstr "Wow! Svartklädd akolyt! Den nya smaksensationen..."
 
+#, fuzzy
 msgid "TXT_SUB_LOG220"
 msgstr "Fortsätt med det där och du blir blind... men jag gillar det."
 
@@ -4263,15 +4277,18 @@ msgstr "Jag antar att de inte kommer att bjuda oss på middag igen!"
 msgid "TXT_SUB_LOG222"
 msgstr "Vi måste ta oss till översta våningen."
 
+#, fuzzy
 msgid "TXT_SUB_LOG223"
 msgstr "Vänta lite... Det här ser intressant ut. Kolla in det."
 
 msgid "TXT_SUB_LOG224"
 msgstr "Usch. Den killen ger mig kalla kårar. Vi håller oss undan."
 
+#, fuzzy
 msgid "TXT_SUB_LOG225"
 msgstr "Vänster! Sväng vänster!... Åh, en annan vänster!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG226"
 msgstr "Typiskt en envis svinhuvudman!... Om du inte är en tjej."
 
@@ -4281,9 +4298,11 @@ msgstr "Stark, brutal och tyst. Min typ av partner."
 msgid "TXT_SUB_LOG228"
 msgstr "Okej! Jag hade fel!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG229"
 msgstr "Synd att vi aldrig träffades... ansikte mot ansikte."
 
+#, fuzzy
 msgid "TXT_SUB_LOG230"
 msgstr "Jag hade drömmar om dig... Det är jobbigt."
 
@@ -4294,9 +4313,9 @@ msgstr ""
 msgid "TXT_SUB_LOG232"
 msgstr "Bra jobbat, min vän! Det är dags att ta in dig."
 
+#, fuzzy
 msgid "TXT_SUB_LOG233"
-msgstr ""
-"Se upp för de där korsfararna. De är stora, jättelika robotar och elaka som fan. Vi vet inget om deras vapen, men oddsen är... att ni är underlägsna. Var försiktig."
+msgstr "Se upp för de där korsfararna. De är stora, jättelika robotar och elaka som fan. Vi vet inget om deras vapen, men oddsen är... att ni är underlägsna. Var försiktig."
 
 msgid "TXT_SUB_LOG234"
 msgstr ""
@@ -4309,9 +4328,9 @@ msgid "TXT_SUB_LOG236"
 msgstr ""
 "Din dumma, snubblande, klumpfotade puckelryggiga idiot! Du har avslöjat oss!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG237"
-msgstr ""
-"Jag önskar att jag väntade på er bakom den dörren... men jag måste stanna under jorden. Det är dags för dig att träffa vår ledare, Macil."
+msgstr "Jag önskar att jag väntade på er bakom den dörren... men jag måste stanna under jorden. Det är dags för dig att träffa vår ledare, Macil."
 
 msgid "TXT_BBSUB_SCRIPT02_D57608_IFIKN"
 msgstr ""
@@ -4367,6 +4386,7 @@ msgstr "Toppen. Nu ska vi shoppa för råttkungen."
 msgid "TXT_BBSUB_SCRIPT06_D4548_OPENT"
 msgstr "Jag slår vad om att den här killen luktar riktigt illa också."
 
+#, fuzzy
 msgid "TXT_BBSUB_SCRIPT06_D9096_YOUHA"
 msgstr "Mer kloaker... Toppen. Undrar vad som bor där nere."
 
@@ -4380,6 +4400,7 @@ msgid "TXT_BBSUB_SCRIPT10_D12128_THERE"
 msgstr ""
 "Biomekaniskt? Det förklarar deras till synes oändliga tillgång på trupper! Och deras dåliga attityd.\n"
 
+#, fuzzy
 msgid "TXT_BBSUB_SCRIPT10_D16676_IAMTH"
 msgstr "Sjuka jävlar... Slå honom ihjäl!"
 
@@ -4389,9 +4410,9 @@ msgstr "Han må vara ful, men det verkar som om han är på vår sida."
 msgid "TXT_BBSUB_SCRIPT17_D10612_OHSUR"
 msgstr "Att döma av den senaste historien, antar jag att smygande är uteslutet."
 
+#, fuzzy
 msgid "TXT_BBSUB_SCRIPT17_D13644_OHWEL"
-msgstr ""
-"Hmm. Inget krångel, inget krångel, inget för mamma att städa upp... Ge mig en, tack.\n"
+msgstr "Hmm. Inget krångel, inget krångel, inget för mamma att städa upp... Ge mig en, tack.\n"
 
 msgid "TXT_BBSUB_SCRIPT31_D0_OHNOI"
 msgstr ""
