@@ -2,15 +2,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-30 16:45+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-05-11 03:44+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/doom-engine-games/strife/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.15-dev\n"
+"X-Generator: Weblate 2026.5-dev\n"
 
 msgid "TXT_STRIFE_MAP01"
 msgstr "ZONE 1: Sanctuaire"
@@ -320,9 +320,9 @@ msgstr "Ca vaut son prix!"
 msgid "TXT_RNO3_SCRIPT02_D12128_COMEO"
 msgstr "Allez, 200 pièces!"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D13644_ICANT"
-msgstr ""
-"J'arrive pas à croire que je me retrouve coincé ici. On me raconte qu'une chose maléfique est sortie de cette barrière des égouts.. Maintenant je me retrouve planté ici jusqu'a ce qu'elle revienne!"
+msgstr "J'arrive pas à croire que je me retrouve coincé ici. On me raconte qu'une chose maléfique est sortie de cette barrière des égouts.. Maintenant je me retrouve planté ici jusqu'a ce qu'elle revienne!"
 
 msgid "TXT_RPLY0_SCRIPT02_D13644_WHATG"
 msgstr "Quelle barrière?"
@@ -462,9 +462,9 @@ msgstr "Voilà pour vous. Faites attention à vous maintenant."
 msgid "TXT_RNO2_SCRIPT02_D21224_WELLM"
 msgstr "Eh bien, peut être que vous pouvez vous acheter quelques pansements?"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D22740_IHOPE"
-msgstr ""
-"J'espère que Macil sait ce qu'il fait. Si l'Ordre se rend compte que j'aide le Front, c'est comme si j'étais mort.. bon, cela ne vous importe pas. Le médecin du Front m'a donné une puce d'augmentation pour vous. Etes vous prêt? "
+msgstr "J'espère que Macil sait ce qu'il fait. Si l'Ordre se rend compte que j'aide le Front, c'est comme si j'étais mort.. bon, cela ne vous importe pas. Le médecin du Front m'a donné une puce d'augmentation pour vous. Etes vous prêt? "
 
 msgid "TXT_RPLY0_SCRIPT02_D22740_YESIM"
 msgstr "Oui, je suis prêt."
@@ -509,9 +509,9 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT02_D25772_WHATS"
 msgstr "C'est quoi la rumeur?"
 
+#, fuzzy
 msgid "TXT_RYES0_SCRIPT02_D25772_THEWO"
-msgstr ""
-"La rumeur est.. Que les égouts cachent quelque chose de plus gros que des rats et des robots."
+msgstr "La rumeur est.. Que les égouts cachent quelque chose de plus gros que des rats et des robots."
 
 msgid "TXT_DLG_SCRIPT02_D27288_WHATC"
 msgstr "Que puis-je faire pour vous?"
@@ -539,13 +539,13 @@ msgstr "L'Ordre cache bien son jeu."
 msgid "TXT_RNO0_SCRIPT02_D28804_WELLT"
 msgstr "On parlera quand tu auras des sous!"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D30320_THATS"
-msgstr ""
-"Eh bien voilà, mon ami, le puits de la connaîssance s'est enfin asséché.. Je t'en ai dit plus que je n'aurai du, de toutes manières! Bonne chance.. Et ne reviens pas!"
+msgstr "Eh bien voilà, mon ami, le puits de la connaîssance s'est enfin asséché.. Je t'en ai dit plus que je n'aurai du, de toutes manières! Bonne chance.. Et ne reviens pas!"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D31836_HEYIM"
-msgstr ""
-"Hé, je ne suis là qu'en cas d'urgence. Si le coeur a une brèche, il faut que je fasse en sorte que rien ne rentre.. Ou ne sorte."
+msgstr "Hé, je ne suis là qu'en cas d'urgence. Si le coeur a une brèche, il faut que je fasse en sorte que rien ne rentre.. Ou ne sorte."
 
 msgid "TXT_DLG_SCRIPT02_D33352_WATCH"
 msgstr "Regarde où tu va, paysan!"
@@ -563,9 +563,9 @@ msgstr "Vous, là, personne n'est autorisé à traîner ici, dégagez!"
 msgid "TXT_DLG_SCRIPT02_D39416_IRALE"
 msgstr "Irale a ce qu'il te faut!"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D40932_IMKIN"
-msgstr ""
-"Je suis une sorte de chasseur de têtes pour les rebelles. Un type comme toi pourrait se faire pas mal de fric... Avec les bons contacts, bien entendu."
+msgstr "Je suis une sorte de chasseur de têtes pour les rebelles. Un type comme toi pourrait se faire pas mal de fric... Avec les bons contacts, bien entendu."
 
 msgid "TXT_RPLY0_SCRIPT02_D40932_IMINT"
 msgstr "Je suis intéressé."
@@ -671,9 +671,9 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT02_D66704_FINEB"
 msgstr "Ca me convient."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D68220_SOYOU"
-msgstr ""
-"Vous êtes l'abruti qui a volé le calice? Maintenant il faut que je vous arrète comme voleur rebelle.. Ca va aider ma position dans l'Ordre. Comment ça fait d'être un pion ignorant? Petite idée, ça va faire mal. "
+msgstr "Vous êtes l'abruti qui a volé le calice? Maintenant il faut que je vous arrète comme voleur rebelle.. Ca va aider ma position dans l'Ordre. Comment ça fait d'être un pion ignorant? Petite idée, ça va faire mal. "
 
 msgid "TXT_RPLY0_SCRIPT02_D68220_ITSUC"
 msgstr "Quelle merde!"
@@ -788,6 +788,7 @@ msgstr "Bien sûr!"
 msgid "TXT_RPLY1_SCRIPT02_D92476_NOAND"
 msgstr "Non, et j'en ai pas besoin!"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D93992_SORRY"
 msgstr "Désolé, je.. Vous pouvez monter, bien sûr."
 
@@ -837,9 +838,9 @@ msgstr "Merci."
 msgid "TXT_DLG_SCRIPT02_D104604_RELEA"
 msgstr "Laissez moi tranquille, un vieil homme a le droit d'être seul."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT03_D0_WELCO"
-msgstr ""
-"Bienvenue au dernier lieu d'espoir. Nous seuls avons la liberté d'esprit pour opposer l'Ordre. Nous avons les esprits scientifiques les plus aiguisés et de nombreux hommes habiles et sains.. Mais il nous manque quelqu'un qui pourrait.. résoudre nos problèmes. Nous donner un peu d'aide, nous permettre de prendre l'avantage."
+msgstr "Bienvenue au dernier lieu d'espoir. Nous seuls avons la liberté d'esprit pour opposer l'Ordre. Nous avons les esprits scientifiques les plus aiguisés et de nombreux hommes habiles et sains.. Mais il nous manque quelqu'un qui pourrait.. résoudre nos problèmes. Nous donner un peu d'aide, nous permettre de prendre l'avantage."
 
 msgid "TXT_RPLY0_SCRIPT03_D0_ALLRI"
 msgstr "Très bien. J'accepte."
@@ -1093,9 +1094,9 @@ msgid "TXT_DLG_SCRIPT03_D43964_WERET"
 msgstr ""
 "On essaie de trouver où se trouvent les contrôles de la porte du château, mais pour l'instant, on les a pas encore localisés."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT03_D45480_DONTG"
-msgstr ""
-"Ne vous faites pas avoir. J'ai entendu des choses horribles sur ce qu'ils font à ceux qu'ils emprisonnent. Ils disparaîssent... Sans laisser de trace."
+msgstr "Ne vous faites pas avoir. J'ai entendu des choses horribles sur ce qu'ils font à ceux qu'ils emprisonnent. Ils disparaîssent... Sans laisser de trace."
 
 msgid "TXT_DLG_SCRIPT03_D46996_HERES"
 msgstr ""
@@ -1231,9 +1232,9 @@ msgid "TXT_DLG_SCRIPT04_D37900_IFYOU"
 msgstr ""
 "Si vous ne partez pas travailler, vous allez vous faire tirer dessus de toutes manières. Bougez-vous les miches."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT04_D39416_IDONT"
-msgstr ""
-"Je n'ai pas envie d'être alarmiste, mais si ils continuent de mettre autant de tension sur le cristal du réacteur, il risque d'être endommagé, éclater, et puis boum! Enfin, c'est juste ce que je pense."
+msgstr "Je n'ai pas envie d'être alarmiste, mais si ils continuent de mettre autant de tension sur le cristal du réacteur, il risque d'être endommagé, éclater, et puis boum! Enfin, c'est juste ce que je pense."
 
 msgid "TXT_DLG_SCRIPT04_D40932_LETME"
 msgstr ""
@@ -1410,9 +1411,9 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT06_D9096_ANYTH"
 msgstr "Que pouvez vous faire d'autre?"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT06_D10612_GOODL"
-msgstr ""
-"Bonne chance. J'ai ouvert plusieurs de nos tunnels pour vous. Ca devrait rendre votre travail plus facile. Oh! Taille dix? Parfait! Les couleurs sont immondes, par contre."
+msgstr "Bonne chance. J'ai ouvert plusieurs de nos tunnels pour vous. Ca devrait rendre votre travail plus facile. Oh! Taille dix? Parfait! Les couleurs sont immondes, par contre."
 
 msgid "TXT_RPLY0_SCRIPT06_D10612_THANK"
 msgstr "Merci pour votre aide."
@@ -1578,9 +1579,9 @@ msgstr "Ils paieront pour cela!"
 msgid "TXT_DLG_SCRIPT10_D15160_FIGHT"
 msgstr "Battez vous pour le Front et pour la liberté. Repos."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT10_D16676_IAMTH"
-msgstr ""
-"Je suis le Seul Dieu.. Il me faut libérer son esprit pour qu'il puisse sortir de mon corps, et le rejoindre dans sa fuite. Vous ne savez pas ce que vous possédez.. Et la terreur à laquelle vous devrez faire face... Le Seul Dieu doit être libre.. Et il me récompensera.. Je serais un avec lui.."
+msgstr "Je suis le Seul Dieu.. Il me faut libérer son esprit pour qu'il puisse sortir de mon corps, et le rejoindre dans sa fuite. Vous ne savez pas ce que vous possédez.. Et la terreur à laquelle vous devrez faire face... Le Seul Dieu doit être libre.. Et il me récompensera.. Je serais un avec lui.."
 
 msgid "TXT_RPLY0_SCRIPT10_D16676_IWILL"
 msgstr "L'heure est venue de vous détruire!"
@@ -1927,9 +1928,9 @@ msgstr ""
 msgid "TXT_DLG_SCRIPT11_D0_IMTHE"
 msgstr "Je suis le maître des clés."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT11_D1516_ALOTO"
-msgstr ""
-"Beaucoup de gens diraient que c'est un travail insignifiant et ingrat.. Mais en fait, ce n'est vraiment pas le cas."
+msgstr "Beaucoup de gens diraient que c'est un travail insignifiant et ingrat.. Mais en fait, ce n'est vraiment pas le cas."
 
 msgid "TXT_RPLY0_SCRIPT11_D1516_GIVEM"
 msgstr "Donne moi la clé!"
@@ -2023,9 +2024,9 @@ msgstr "Je reviendrai, avec son fragment!"
 msgid "TXT_DLG_SCRIPT12_D13644_THERI"
 msgstr "La rivière du temps continue à couler, tandis que vous restez immobile."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT12_D15160_PITIF"
-msgstr ""
-"Pathétique mortel, vous avez réussi là où des milliers ont failli.. Vous m'amenez le pouvoir du Sigil, la voix du Seul Dieu."
+msgstr "Pathétique mortel, vous avez réussi là où des milliers ont failli.. Vous m'amenez le pouvoir du Sigil, la voix du Seul Dieu."
 
 msgid "TXT_RPLY0_SCRIPT12_D15160_IDONT"
 msgstr "Je ne comprends pas."
@@ -2118,9 +2119,9 @@ msgstr "Quel magnifique spécimen! Vous n'avez pas besoin de mon aide, si?"
 msgid "TXT_RPLY0_SCRIPT17_D6064_WELLY"
 msgstr "Eh bien, si, Macil m'envoie."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT17_D7580_SHHHH"
-msgstr ""
-"Silence! Baissez de ton, sauf si vous voulez que l'on se fasse descendre tous le deux.. Que puis-je faire pour vous?"
+msgstr "Silence! Baissez de ton, sauf si vous voulez que l'on se fasse descendre tous le deux.. Que puis-je faire pour vous?"
 
 msgid "TXT_RPLY0_SCRIPT17_D7580_TELLM"
 msgstr "Où puis-je trouver l'évêque?"
@@ -2231,16 +2232,16 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT22_D1516_DOYOU"
 msgstr "Vous savez ce qu'il y à dedans?"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT22_D3032_ITSAT"
-msgstr ""
-"C'est une zone top secrète. L'Ordre essaie de.. faire une sorte de créature là dedans. J'ai vu avec mes yeux un artéfact étrange qu'ils appellent un Talisman. Personne n'a le droit de l'approcher. Les rumeurs disent qu'il contient un pouvoir phénoménal si il est réuni avec deux autres du même type."
+msgstr "C'est une zone top secrète. L'Ordre essaie de.. faire une sorte de créature là dedans. J'ai vu avec mes yeux un artéfact étrange qu'ils appellent un Talisman. Personne n'a le droit de l'approcher. Les rumeurs disent qu'il contient un pouvoir phénoménal si il est réuni avec deux autres du même type."
 
 msgid "TXT_RPLY0_SCRIPT22_D3032_ISUPP"
 msgstr "Je suppose que vous le voulez?"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT22_D4548_NOIFY"
-msgstr ""
-"Non! Si vous le trouvez, gardez le pour vous. Peut être qu'il vous aidera à nous débarasser de nos oppresseurs.. Je vous souhaiterais bonne chance, mais vous allez avoir besoin de beaucoup plus que ça si vous y entrez.."
+msgstr "Non! Si vous le trouvez, gardez le pour vous. Peut être qu'il vous aidera à nous débarasser de nos oppresseurs.. Je vous souhaiterais bonne chance, mais vous allez avoir besoin de beaucoup plus que ça si vous y entrez.."
 
 msgid "TXT_RPLY0_SCRIPT22_D4548_WHATS"
 msgstr "Qu'est-ce que j'entends au sujet du passé?"
@@ -2249,6 +2250,7 @@ msgid "TXT_DLG_SCRIPT22_D6064_YOUVE"
 msgstr ""
 "Vous avez sans doute vu toutes ces ruines aux alentours. Il semble que la comète qui s'est écrasée sur notre planète était en fait un vaisseau spatial, et.. du moins si vous y croyez, venait aussi de notre planète, il y a très, très longtemps."
 
+#, fuzzy
 msgid "TXT_RPLY0_SCRIPT22_D6064_SOTHE"
 msgstr "Donc, les Spectres, le Seul Dieu.."
 
@@ -2256,6 +2258,7 @@ msgid "TXT_DLG_SCRIPT22_D7580_THEYA"
 msgstr ""
 "Ce sont des créatures qui régnaient sur cette planète il y a longtemps, et étaient bornées à détruire toute vie sur sa surface, mais les anciens ont réussi à les sceller. Ils sont morts pour cela, j'ai peur que ce soit tout ce que je sais."
 
+#, fuzzy
 msgid "TXT_RPLY0_SCRIPT22_D7580_THANK"
 msgstr "Merci.. Je vais faire ce que je peux."
 
@@ -2472,6 +2475,7 @@ msgid "TXT_DLG_SCRIPT23_D15160_THANK"
 msgstr ""
 "Merci Dieu, vous êtes là. Pour entrer dans l'usine, il vous faut une clé. On l'a volé, mais notre agent a disparu dans le dédale de catacombes sous la forteresse de l'Ordre. On a envoyé dix hommes dans ces tunnels pour le retrouver mais personne n'est revenu. Il doit y avoir quelque chose, là dedans!"
 
+#, fuzzy
 msgid "TXT_RPLY0_SCRIPT23_D15160_WHATI"
 msgstr "Qu'est-ce que c'est? Un humain, où..."
 
@@ -2566,6 +2570,7 @@ msgid "TXT_DLG_SCRIPT23_D24256_THANK"
 msgstr ""
 "Merci Dieu, vous êtes là. Pour entrer dans l'usine, il vous faut une clé. On l'a volé, mais notre agent a disparu dans le dédale de catacombes sous la forteresse de l'Ordre. On a envoyé dix hommes dans ces tunnels pour le retrouver mais personne n'est revenu. Il doit y avoir quelque chose, là dedans!"
 
+#, fuzzy
 msgid "TXT_RPLY0_SCRIPT23_D24256_WHATI"
 msgstr "Qu'est-ce que c'est? Un humain, où..."
 
@@ -2785,9 +2790,9 @@ msgid "TXT_DLG_SCRIPT33_D13644_THATS"
 msgstr ""
 "C'est tout, mon ami. Le puits de la sagesse s'est tari. Je vous en ai trop dit de toutes manières."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT33_D15160_HARDT"
-msgstr ""
-"Difficile de s'acheter de nouveaux joujous quand on n'a plus de sous. Faites-moi une petite course et vous aurez plus que vous ne pourrez jamais dépenser. Je vous rendrai riche."
+msgstr "Difficile de s'acheter de nouveaux joujous quand on n'a plus de sous. Faites-moi une petite course et vous aurez plus que vous ne pourrez jamais dépenser. Je vous rendrai riche."
 
 msgid "TXT_RPLY0_SCRIPT33_D15160_IGOTN"
 msgstr "Je n'ai rien de mieux à faire."
@@ -2847,9 +2852,9 @@ msgstr "Qu'attendez-vous? Le gouverneur vous récompensera lui même."
 msgid "TXT_DLG_SCRIPT33_D25772_DIETR"
 msgstr "Meurs, traître! "
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT33_D27288_SOYOU"
-msgstr ""
-"Vous êtes l'abruti qui a volé le calice? Maintenant il faut que je vous arrète comme voleur rebelle.. Ca va aider ma position dans l'Ordre. Comment ça fait d'être un pion ignorant? Petite idée, ça va faire mal. "
+msgstr "Vous êtes l'abruti qui a volé le calice? Maintenant il faut que je vous arrète comme voleur rebelle.. Ca va aider ma position dans l'Ordre. Comment ça fait d'être un pion ignorant? Petite idée, ça va faire mal. "
 
 msgid "TXT_RPLY0_SCRIPT33_D27288_ITSUC"
 msgstr "Quelle merde!"
@@ -3257,9 +3262,9 @@ msgstr "Merci, au revoir!"
 msgid "TXT_RANDOMGOODBYE_3"
 msgstr "A plus tard!"
 
+#, fuzzy
 msgid "TXT_ILOG1"
-msgstr ""
-"Allô? Central, un communicateur à été activé.. Je recois visuel et son de.. quelqu'un.. Hé, vous, sortez de là! Et lâchez le calice!"
+msgstr "Allô? Central, un communicateur à été activé.. Je recois visuel et son de.. quelqu'un.. Hé, vous, sortez de là! Et lâchez le calice!"
 
 msgid "TXT_ILOG2"
 msgstr ""
@@ -3464,9 +3469,9 @@ msgid "TXT_ILOG102"
 msgstr ""
 "Je recois des distorsions neurales colossales devant nous. Je crois que nous l'avons trouvé. Détruisons-la!"
 
+#, fuzzy
 msgid "TXT_ILOG103"
-msgstr ""
-"Et quand je pense avoir tout vu.. Des humains entrent, et puis.. Non, je ne veux pas y penser. Détruis cette horreur!"
+msgstr "Et quand je pense avoir tout vu.. Des humains entrent, et puis.. Non, je ne veux pas y penser. Détruis cette horreur!"
 
 msgid "TXT_ILOG104"
 msgstr ""
@@ -3581,13 +3586,13 @@ msgid "TXT_ILOG1024"
 msgstr ""
 "C'est l'Oracle qui détient la troisième pièce, est c'est lui qui est le traître. Retourne le voir et détruis-le. Retourne à la base quand il est mort."
 
+#, fuzzy
 msgid "TXT_ILOG1025"
-msgstr ""
-"Vous avez arraché le cancer de votre corps, mais le cœur bat encore. Vous devez maintenant trouver le chirurgien qui massacre votre peuple, le Maître des traditions. Arrètez-le, et le fragment suivant sera le vôtre."
+msgstr "Vous avez arraché le cancer de votre corps, mais le cœur bat encore. Vous devez maintenant trouver le chirurgien qui massacre votre peuple, le Maître des traditions. Arrètez-le, et le fragment suivant sera le vôtre."
 
+#, fuzzy
 msgid "TXT_ILOG1026"
-msgstr ""
-"Vous devez maintenant trouver le chirurgien qui massacre votre peuple, le Maître des traditions. Arrètez-le, et le fragment suivant sera le vôtre. Utilisez le téléporter qui s'est ouvert pour l'atteindre. Quand il est mort, utilisez le même téléporteur pour retourner à l'Oracle."
+msgstr "Vous devez maintenant trouver le chirurgien qui massacre votre peuple, le Maître des traditions. Arrètez-le, et le fragment suivant sera le vôtre. Utilisez le téléporter qui s'est ouvert pour l'atteindre. Quand il est mort, utilisez le même téléporteur pour retourner à l'Oracle."
 
 msgid "TXT_ILOG1027"
 msgstr ""
@@ -3753,9 +3758,9 @@ msgid "TXT_SUB_GOOD2"
 msgstr ""
 "Je savais que tu gagnerais, mon vaillant héros. Les combats ont cessé, ta victoire nous permettrera de créer un vaccin et purger le virus de nos corps."
 
+#, fuzzy
 msgid "TXT_SUB_GOOD3"
-msgstr ""
-"Tu as sauvé notre planète et tu nous as tous libérés. Je veux te récompenser.. Personellement. Oh, et je m'appelle Shauna."
+msgstr "Tu as sauvé notre planète et tu nous as tous libérés. Je veux te récompenser.. Personellement. Oh, et je m'appelle Shauna."
 
 msgid "TXT_SUB_SAD1"
 msgstr ""
@@ -3789,13 +3794,13 @@ msgid "TXT_SUB_MAP03_2"
 msgstr ""
 "Sans procréation, l'Ordre découvrirent que les modifications bioméchaniques était leur seule chance de conserver leur force et leur nombre."
 
+#, fuzzy
 msgid "TXT_SUB_MAP03_3"
-msgstr ""
-"Les dégradations étaient si avancées que les troupes auxquelles nous faisions face étaient plus machine qu'humains, mais nous pensons que leur conscience collective est contrôlée par une seule source.."
+msgstr "Les dégradations étaient si avancées que les troupes auxquelles nous faisions face étaient plus machine qu'humains, mais nous pensons que leur conscience collective est contrôlée par une seule source.."
 
+#, fuzzy
 msgid "TXT_SUB_MAP03_4"
-msgstr ""
-"Le Programmeur: Créateur de l'IA qui contrôle les Acolytes. Détruisez le Programmeur et nous pourrons paralyser les troupes de l'Ordre d'un seul coup. Faites attentions: des rapports nous disent qu'il peut vaporiser ceux qui l'attaquent."
+msgstr "Le Programmeur: Créateur de l'IA qui contrôle les Acolytes. Détruisez le Programmeur et nous pourrons paralyser les troupes de l'Ordre d'un seul coup. Faites attentions: des rapports nous disent qu'il peut vaporiser ceux qui l'attaquent."
 
 msgid "TXT_SUB_MAP10_1"
 msgstr ""
@@ -3872,6 +3877,7 @@ msgid "TXT_SUB_LOG16"
 msgstr ""
 "L'entrepôt se trouve dans la centrale électrique. On va faire ça rapidement et proprement."
 
+#, fuzzy
 msgid "TXT_SUB_LOG17"
 msgstr "J'aurais jamais cru entrer de force dans une prison.."
 
@@ -3879,13 +3885,13 @@ msgid "TXT_SUB_LOG18"
 msgstr ""
 "On dirait qu'il n'y a pas de repas gratuit, il est temps de se préparer au combat."
 
+#, fuzzy
 msgid "TXT_SUB_LOG19"
-msgstr ""
-"OK. Le gouverneur est satisfait, le gardien est en bouillie... Maintenant il va falloir faire un peu de chirurgie."
+msgstr "OK. Le gouverneur est satisfait, le gardien est en bouillie... Maintenant il va falloir faire un peu de chirurgie."
 
+#, fuzzy
 msgid "TXT_SUB_LOG20"
-msgstr ""
-"Oh, tu a coupé sa main? Je croyais que tu étais un type sympa.. Plus où moins. Allons-y."
+msgstr "Oh, tu a coupé sa main? Je croyais que tu étais un type sympa.. Plus où moins. Allons-y."
 
 msgid "TXT_SUB_LOG21"
 msgstr ""
@@ -3907,9 +3913,9 @@ msgid "TXT_SUB_LOG26"
 msgstr ""
 "L'Ordre se pense en sécurité dans son château, faux! Si tu ouvre les portes, il seront faciles à flinguer. Oh, et pour ça il faut que tu descende dans les égouts. Suis la rivière de l'autre côté du manoir du gouverneur. "
 
+#, fuzzy
 msgid "TXT_SUB_LOG27"
-msgstr ""
-"Ok, accroupis-toi ici. Les habitants des égouts sont d'affreux mutants mais leur réseau de tunnels leur donne accès à beaucoup de secrets. Retient ton souffle, par contre.. On va descendre."
+msgstr "Ok, accroupis-toi ici. Les habitants des égouts sont d'affreux mutants mais leur réseau de tunnels leur donne accès à beaucoup de secrets. Retient ton souffle, par contre.. On va descendre."
 
 msgid "TXT_SUB_LOG28"
 msgstr ""
@@ -3924,9 +3930,9 @@ msgstr "Juste ce qu'il me fallait, encore de la crasse marron!"
 msgid "TXT_SUB_LOG31"
 msgstr "Hé, regarde! On dirait que c'est la porte que Weran veut qu'on coince!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG32"
-msgstr ""
-"Ferme tes yeux, je ne veux pas voire ça! Oh, trop tard.. Beurk, on dirait pas un corps humain, qu'est-ce que l'ordre à fait? Il faut que je rapporte ça au commandement."
+msgstr "Ferme tes yeux, je ne veux pas voire ça! Oh, trop tard.. Beurk, on dirait pas un corps humain, qu'est-ce que l'ordre à fait? Il faut que je rapporte ça au commandement."
 
 msgid "TXT_SUB_LOG33"
 msgstr ""
@@ -3939,6 +3945,7 @@ msgstr ""
 msgid "TXT_SUB_LOG35"
 msgstr "Me demande pas où on est, je suis aussi perdue que toi, désolée.."
 
+#, fuzzy
 msgid "TXT_SUB_LOG36"
 msgstr "Cette brique.. On n'a pas passé cette brique avant? Non.."
 
@@ -3954,6 +3961,7 @@ msgid "TXT_SUB_LOG39"
 msgstr ""
 "Ah, ça fait du bien d'être sur l'offensive une fois de plus! Foutez leur la misère, les gars!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG40"
 msgstr "Tout à l'air bien. Ordinateurs, Programmeur, tu en pense quoi?"
 
@@ -3961,9 +3969,9 @@ msgid "TXT_SUB_LOG41"
 msgstr ""
 "Ca doit être le long couloir, ça où ma perception des choses est un peu foutue.."
 
+#, fuzzy
 msgid "TXT_SUB_LOG42"
-msgstr ""
-"Ca a le décor d'un temple maléfique.. Architecture sinistre, énorme bannière, je dis bingo!"
+msgstr "Ca a le décor d'un temple maléfique.. Architecture sinistre, énorme bannière, je dis bingo!"
 
 msgid "TXT_SUB_LOG43"
 msgstr "Ca c'est le surpuissant Programmeur? Vraiment?"
@@ -4140,6 +4148,7 @@ msgid "TXT_SUB_LOG89"
 msgstr ""
 "L'usine est près des mines. Richter doit parler des mines de degnin. Le minérai de degnin est magnétisé et explosif, c'est parfait pour désactiver les champs de force."
 
+#, fuzzy
 msgid "TXT_SUB_LOG90"
 msgstr "Mines, catacombes, égouts.. Super premier rendez-vous!"
 
@@ -4147,6 +4156,7 @@ msgid "TXT_SUB_LOG91"
 msgstr ""
 "J'aurais bien voulu que Richter soit un peu plus spécifique. Hm.. Essayons ici."
 
+#, fuzzy
 msgid "TXT_SUB_LOG92"
 msgstr "Je crois que.. Non, merde, j'ai aucune idée d'où on est!"
 
@@ -4186,9 +4196,9 @@ msgid "TXT_SUB_LOG102"
 msgstr ""
 "Je recois des distorsions neurales colossales devant nous. Je crois que nous l'avons trouvé."
 
+#, fuzzy
 msgid "TXT_SUB_LOG103"
-msgstr ""
-"Et quand je pense avoir tout vu.. Des humains entrent, et puis.. Non, je ne veux pas y penser."
+msgstr "Et quand je pense avoir tout vu.. Des humains entrent, et puis.. Non, je ne veux pas y penser."
 
 msgid "TXT_SUB_LOG104"
 msgstr ""
@@ -4223,9 +4233,9 @@ msgstr ""
 "La vérité se trouve seulement dans la volonté universelle. Vous allez vous prosterner devant le Seul Dieu, la Seule Lumière. Rejoins-moi et je complèterai le Sigil.\n"
 "J'en ai eu assez de ce charabia mystique."
 
+#, fuzzy
 msgid "TXT_SUB_LOG130"
-msgstr ""
-"Vous.. Vous avez anéanti mon Ordre, percé à travers le voile de mes ruses et menacé des siècle de désirs. Mais je gagnerai, je vous infecterai et vous plierai à ma volonté..."
+msgstr "Vous.. Vous avez anéanti mon Ordre, percé à travers le voile de mes ruses et menacé des siècle de désirs. Mais je gagnerai, je vous infecterai et vous plierai à ma volonté..."
 
 msgid "TXT_SUB_LOG200"
 msgstr "On dirait que c'est le boulot idéal, non?"
@@ -4236,6 +4246,7 @@ msgstr "Vous en avez trop vu. Descend-le, Macil!"
 msgid "TXT_SUB_LOG202"
 msgstr "La prochaine fois, tu m'écouteras."
 
+#, fuzzy
 msgid "TXT_SUB_LOG203"
 msgstr "Eugh, ces prix post-apocalyptiques.."
 
@@ -4284,9 +4295,11 @@ msgstr "Mm, j'aime comment tu te porte."
 msgid "TXT_SUB_LOG218"
 msgstr "Eclate-les, ils ne sont pas humains!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG219"
 msgstr "Wow! Acolyte noirci! Goûte à la nouvelle saveur sensationelle!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG220"
 msgstr "Continue et tu vas te rendre aveugle.. j'aime bien par contre."
 
@@ -4296,18 +4309,20 @@ msgstr "Je pense qu'ils ne vont pas nous inviter à diner!"
 msgid "TXT_SUB_LOG222"
 msgstr "Il faut que l'on aille au dernier étage."
 
+#, fuzzy
 msgid "TXT_SUB_LOG223"
 msgstr "Attends.. Ca à l'air intéressant, va voir."
 
 msgid "TXT_SUB_LOG224"
 msgstr "Eugh, ce type me fout les jetons. Evite le."
 
+#, fuzzy
 msgid "TXT_SUB_LOG225"
 msgstr "Gauche! A Gauche... L'autre gauche!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG226"
-msgstr ""
-"Typique d'un mec borné comme un porc- Sauf si tu est une fille, bien entendu."
+msgstr "Typique d'un mec borné comme un porc- Sauf si tu est une fille, bien entendu."
 
 msgid "TXT_SUB_LOG227"
 msgstr "Fort, brutal et silencieux. Mon type préféré."
@@ -4315,9 +4330,11 @@ msgstr "Fort, brutal et silencieux. Mon type préféré."
 msgid "TXT_SUB_LOG228"
 msgstr "Ok, j'avais tort!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG229"
 msgstr "C'est dommage qu'on s'est jamais rencontré.. En face à face."
 
+#, fuzzy
 msgid "TXT_SUB_LOG230"
 msgstr "J'avais des grands rêves pour toi.. Franchement dommage."
 
@@ -4328,9 +4345,9 @@ msgstr ""
 msgid "TXT_SUB_LOG232"
 msgstr "Bien joué, mon ami! Il est temps de te faire rentrer."
 
+#, fuzzy
 msgid "TXT_SUB_LOG233"
-msgstr ""
-"Fais attention aux croisés, ce sont des sacrément grosses machines, et salement méchantes, aussi. On ne sait pas quelles armes ils utilisent, mais il est probable qu'ils en ont.. Plus que toi. Fais attention."
+msgstr "Fais attention aux croisés, ce sont des sacrément grosses machines, et salement méchantes, aussi. On ne sait pas quelles armes ils utilisent, mais il est probable qu'ils en ont.. Plus que toi. Fais attention."
 
 msgid "TXT_SUB_LOG234"
 msgstr ""
@@ -4343,9 +4360,9 @@ msgid "TXT_SUB_LOG236"
 msgstr ""
 "Espèce d'abruti, crétin bossu pas foutu de marcher droit! Tu fait foirer notre couverture!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG237"
-msgstr ""
-"J'aurais adoré être de l'autre côté de cette porte.. Mais il faut que je reste sous terre. Il est temps que tu rencontre notre leader, Macil."
+msgstr "J'aurais adoré être de l'autre côté de cette porte.. Mais il faut que je reste sous terre. Il est temps que tu rencontre notre leader, Macil."
 
 msgid "TXT_BBSUB_SCRIPT02_D57608_IFIKN"
 msgstr ""
@@ -4402,6 +4419,7 @@ msgstr "Parfait, maintenant on fait du shopping pour le roi des rats."
 msgid "TXT_BBSUB_SCRIPT06_D4548_OPENT"
 msgstr "Je parie que ce type sent salement mauvais, aussi."
 
+#, fuzzy
 msgid "TXT_BBSUB_SCRIPT06_D9096_YOUHA"
 msgstr "Plus d'égouts.. Youpi. Je me demande qui vit là dedans."
 
@@ -4415,6 +4433,7 @@ msgid "TXT_BBSUB_SCRIPT10_D12128_THERE"
 msgstr ""
 "Biomécanique? Et bien, ça explique pourquoi ils en ont une infinité, de troupes! Ca, et leur sale heumeur.\n"
 
+#, fuzzy
 msgid "TXT_BBSUB_SCRIPT10_D16676_IAMTH"
 msgstr "Quel salaud, bute le!"
 
@@ -4425,9 +4444,9 @@ msgid "TXT_BBSUB_SCRIPT17_D10612_OHSUR"
 msgstr ""
 "En se basant sur ce qui vient de se passer, je pense que la discrétion n'est pas une option."
 
+#, fuzzy
 msgid "TXT_BBSUB_SCRIPT17_D13644_OHWEL"
-msgstr ""
-"Hmm. Pas de boucan, pas de bordel, rien que maman ait besoin de nettoyer après.. Récupère en un pour moi, s'il te plaît.\n"
+msgstr "Hmm. Pas de boucan, pas de bordel, rien que maman ait besoin de nettoyer après.. Récupère en un pour moi, s'il te plaît.\n"
 
 msgid "TXT_BBSUB_SCRIPT31_D0_OHNOI"
 msgstr ""
