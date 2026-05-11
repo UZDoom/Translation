@@ -12,86 +12,113 @@ msgstr ""
 "X-Generator: Weblate 5.15-dev\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG1"
 msgstr "Jsou ty bugy na tebe moc tvrdé?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG"
 msgstr ""
 "Jsi si jistý, že se chceš\\n"
 "zdáchnout z akce?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG2"
 msgstr "Snažíš se skončit? To si říkáš hacker?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG3"
 msgstr "Vrať se, než ti do zadku pošlu virus!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG4"
 msgstr "Skuteční hackeři nikdy neprchají z akce."
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG5"
 msgstr "No tak! Ještě jsi neviděl to nejlepší!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG6"
 msgstr "Vzdej se a s kyberprostorem je konec!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG7"
 msgstr "GENIE posílá své pozdravy, hajzle!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG8"
 msgstr "Hmm. Tolik k tvému hrdinství, Hackeře."
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG9"
 msgstr "Co? Radši by ses vrátil do basy?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG10"
 msgstr "Měl sis vzít modrou pilulku."
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG11"
 msgstr "V názvu hry není napsané „uteč“!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG12"
 msgstr "Žádný problém. Záchrana světa může počkat, ne?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG13"
 msgstr "Hádám, že je čas vypojit server!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG14"
 msgstr "Ať tě nenapadne odejít a zapomenout na HacX!"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SUICIDE"
 msgstr "%o se smazal@[ao_cs] z vesmíru."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_FALLING"
 msgstr "%o utvořil@[ao_cs] kráter velikosti Kansasu."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_CRUSH"
 msgstr "%o se změnil@[ao_cs] v lidskou palačinku."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_EXIT"
 msgstr "%o se pokusil@[ao_cs] prchnout."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_WATER"
 msgstr "%o uměl@[ao_cs] plavat jako cihla."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SLIME"
 msgstr "%o se rozpadl@[ao_cs] na atom."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_LAVA"
 msgstr "%o si dal@[ao_cs] horkou koupel."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_BARREL"
 msgstr "%o se předávkoval@[ao_cs] nitroglycerinem."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SPLASH"
 msgstr "%o byl@[ao_cs] sedřen@[ao_cs] na kousíčky."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_R_SPLASH"
 msgstr "%o chtěl@[ao_cs] vědět, jak vypadá zevnitř."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_ROCKET"
 msgstr "%o chtěl@[ao_cs] vědět, jak vypadá zevnitř."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_KILLEDSELF"
 msgstr "%o se smazal@[ao_cs] z vesmíru."
 
@@ -187,12 +214,15 @@ msgstr "%o spolkl@[ao_cs] atomovku hráče %k."
 msgid "OB_MPNUKESPLASH"
 msgstr "%o si zkrátil@[ao_cs] svůj poločas rozpadu při zabijačce hráče %k."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_MPTELEFRAG"
 msgstr "%o byl@[ao_cs] obrácen@[ao_cs] naruby hráčem %k."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_MONTELEFRAG"
 msgstr "Struktura atomů hráče %o se rozpadla."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_DEFAULT"
 msgstr "%o samovolně vypršel@[ao_cs]."
 
@@ -454,68 +484,86 @@ msgstr "Pozor, vetřelec!"
 msgid "TXT_HACXMAP31"
 msgstr "Sušící místnost"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_CLEV"
 msgstr "Příjezd do...\n"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_CHOPPERS"
 msgstr "...ti upeče prdel!"
 
 # Hacx's content here was totally useless so it got removed. However, this
 # string has to be defined and minimally altered so that the Dehacked
 # replacement is not being triggered.
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_BEHOLD"
 msgstr "nesmrt(V), Síla, nevId, Rad, mApa nebo světLo?"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_BEHOLDX"
 msgstr "Teď je to vážné!"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NCON"
 msgstr "Režim kybersekače ZAP"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NCOFF"
 msgstr "Režim kybersekače VYP"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NOMUS"
 msgstr "Nemožný výběr"
 
 # Should probably not be translated...
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_MUS"
 msgstr "Zesil to!\n"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_KFAADDED"
 msgstr "Inicializuji režim Twitch and Kill"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_FAADDED"
 msgstr "Budiž, Hackeře."
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_DQDON"
 msgstr "Režim kybermoci ZAP"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_DQDOFF"
 msgstr "Režim kybermoci VYP"
 
+msgctxt "doom hacx.hacx1"
 msgid "AMSTR_FOLLOWON"
 msgstr "Sledování ZAP"
 
+msgctxt "doom hacx.hacx1"
 msgid "AMSTR_FOLLOWOFF"
 msgstr "Sledování VYP"
 
+msgctxt "doom hacx.hacx1"
 msgid "DOSY"
 msgstr "- stiskni Y pro útěk! -"
 
+msgctxt "doom hacx.hacx1"
 msgid "ENDGAME"
 msgstr ""
 "Jsi blb@[adj_cs] nebo jen naveden@[adj_cs]?\n"
 "Tak? Jo nebo ne?"
 
+msgctxt "doom hacx.hacx1"
 msgid "NIGHTMARE"
 msgstr ""
 "Jseš si jist@[adj_cs]? Takový\n"
 "skill nemáš, hackeře!"
 
 # For most languages the original Doom text should suffice.
+msgctxt "doom hacx.hacx1"
 msgid "QSPROMPT"
 msgstr ""
 "Rychle uložit přes tvá data s názvem\n"
@@ -524,6 +572,7 @@ msgstr ""
 "\n"
 "Stiskni Y nebo N."
 
+msgctxt "doom hacx.hacx1"
 msgid "QLPROMPT"
 msgstr ""
 "Přeješ si rychle načíst data s názvem\n"
@@ -565,20 +614,26 @@ msgstr "Bodlák"
 msgid "CC_MAJONG"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "CC_HERO"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_BABY"
 msgstr "Nestřílej, prosím!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_EASY"
 msgstr "Potřebuju zdraví!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_NORMAL"
 msgstr "Rozsekejme je na kusy!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_HARD"
 msgstr "Jsem nesmrtelný!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_NIGHTMARE"
 msgstr "Šílenství!"

@@ -10,84 +10,111 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG1"
 msgstr "Эти баги крутоваты для тебя?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG"
 msgstr "Ты правда хочешь улизнуть\\nс поля боя?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG2"
 msgstr "Хочешь убежать? А ещё зовёшь себя хакером!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG3"
 msgstr "Вернись, пока я не посадил вирус тебе на хвост!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG4"
 msgstr "Настоящие хакеры не пытаются улизнуть с поля боя."
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG5"
 msgstr "Да ладно, ты ещё не видел самое крутое!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG6"
 msgstr "Если ты сейчас сдашься, киберпространству конец!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG7"
 msgstr "Наилучшие пожелания от ДЖИННа, ублюдок!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG8"
 msgstr "Хм-м. Вот тебе и герой, хакер!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG9"
 msgstr "Что? Ты хочешь вернуться в неволю?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG10"
 msgstr "Надо было принять синюю таблетку."
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG11"
 msgstr "Эта игра называется не «Дрожи и прячься»!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG12"
 msgstr "Не парься. Спасение мира подождёт, ведь так?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG13"
 msgstr "Кажется, настало время устроить netsplit!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG14"
 msgstr "Только посмей уйти и забыть про HacX, ты!"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SUICIDE"
 msgstr "Игрок %o стёр себя с лица вселенной."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_FALLING"
 msgstr "На месте падения игрока %o образовался кратер размером с Канзас."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_CRUSH"
 msgstr "Игрока %o сплющило в лепешку."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_EXIT"
 msgstr "Игрок %o хотел улизнуть."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_WATER"
 msgstr "Игрок %o поплыл как топор."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SLIME"
 msgstr "Игрок %o светится в темноте."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_LAVA"
 msgstr "Игрок %o принял горячую ванну."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_BARREL"
 msgstr "Игрок %o перебрал нитроглицерина."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SPLASH"
 msgstr "Игрока %o разодрали на мелкие клочки."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_R_SPLASH"
 msgstr "Игрок %o хотел посмотреть, что у него внутри."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_ROCKET"
 msgstr "Игрок %o хотел посмотреть, что у него внутри."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_KILLEDSELF"
 msgstr "Игрок %o стёр себя с лица вселенной."
 
@@ -183,12 +210,15 @@ msgstr "Игрок %o проглотил ядерный заряд %k."
 msgid "OB_MPNUKESPLASH"
 msgstr "Игрок %o светится в темноте от оружия массового поражения %k."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_MPTELEFRAG"
 msgstr "Игрок %o вывернут наизнанку игроком %k."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_MONTELEFRAG"
 msgstr "Атомная структура игрока %o разрушена."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_DEFAULT"
 msgstr "Время игрока %o неожиданно вышло."
 
@@ -456,62 +486,79 @@ msgstr "Тревога! Нарушитель!"
 msgid "TXT_HACXMAP31"
 msgstr "Сушильная комната"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_CLEV"
 msgstr "Переходим на..."
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_CHOPPERS"
 msgstr "...поджарит твою задницу!"
 
 # Hacx's content here was totally useless so it got removed. However, this
 # string has to be defined and minimally altered so that the Dehacked
 # replacement is not being triggered.
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_BEHOLD"
 msgstr "Бессм. (V), берс. (S), нев. (I), кос. (R), крт. (A), виз (L)."
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_BEHOLDX"
 msgstr "А теперь серьёзно!"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NCON"
 msgstr "Режим киберрезака ВКЛЮЧЁН"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NCOFF"
 msgstr "Режим киберрезака ОТКЛЮЧЁН"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NOMUS"
 msgstr "Выбор: Невозможен"
 
 # Should probably not be translated...
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_MUS"
 msgstr "Подкрутите громкость"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_KFAADDED"
 msgstr "ИНИЦ: режим «Дрожи и убивай»"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_FAADDED"
 msgstr "Да будет так, хакер."
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_DQDON"
 msgstr "Режим киберулучшения ВКЛЮЧЁН"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_DQDOFF"
 msgstr "Режим киберулучшения ОТКЛЮЧЁН"
 
+msgctxt "doom hacx.hacx1"
 msgid "AMSTR_FOLLOWON"
 msgstr "Сопровождение ВКЛЮЧЕНО"
 
+msgctxt "doom hacx.hacx1"
 msgid "AMSTR_FOLLOWOFF"
 msgstr "Сопровождение ОТКЛЮЧЕНО"
 
+msgctxt "doom hacx.hacx1"
 msgid "DOSY"
 msgstr "- нажми «Y», чтобы сбежать! -"
 
+msgctxt "doom hacx.hacx1"
 msgid "ENDGAME"
 msgstr ""
 "Ты дурак или родом так?\n"
 "Отвечай! Да (Y) или нет (N)?"
 
+msgctxt "doom hacx.hacx1"
 msgid "NIGHTMARE"
 msgstr ""
 "Ты уверен? С этим уровнем сложности ты не справишься, хакер!\n"
@@ -519,6 +566,7 @@ msgstr ""
 "Нажми «Y», чтобы умереть."
 
 # For most languages the original Doom text should suffice.
+msgctxt "doom hacx.hacx1"
 msgid "QSPROMPT"
 msgstr ""
 "Перезаписать файл\n"
@@ -527,6 +575,7 @@ msgstr ""
 "\n"
 "Нажмите «Y» или «N»."
 
+msgctxt "doom hacx.hacx1"
 msgid "QLPROMPT"
 msgstr ""
 "Загрузить файл\n"
@@ -568,20 +617,26 @@ msgstr "Тернистая тварь"
 msgid "CC_MAJONG"
 msgstr "Маджонг 7"
 
+msgctxt "doom hacx.hacx1"
 msgid "CC_HERO"
 msgstr "Дэн Эвенджер"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_BABY"
 msgstr "Не стреляй, пожалуйста!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_EASY"
 msgstr "А-а-ргх, аптечку!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_NORMAL"
 msgstr "Разорвём их на куски!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_HARD"
 msgstr "Я бессмертен!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_NIGHTMARE"
 msgstr "Безумие!"

@@ -12,84 +12,111 @@ msgstr ""
 "X-Generator: Weblate 5.15-dev\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG1"
 msgstr "Bu böcekler senin için çok mu zor?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG"
 msgstr "İşin dışında kalmak istediğine emin misin?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG2"
 msgstr "Bırakmaya mı çalışıyorsun? Bir de kendine hacker mı diyorsun?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG3"
 msgstr "Egzozuna bir virüs göndermeden önce buraya geri dön!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG4"
 msgstr "Gerçek hackerlar asla aksiyondan kaçmazlar."
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG5"
 msgstr "Hadi ama! Daha en iyi kısmını görmedin!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG6"
 msgstr "Şimdi pes edersen, siber uzay kızarır!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG7"
 msgstr "GENIE selamlarını yolladı, pislik!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG8"
 msgstr "Hmm. Kahraman olmak için çok fazla, Hacker."
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG9"
 msgstr "Ne? Kalemine geri dönmeyi mi tercih ediyorsun?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG10"
 msgstr "Mavi hapı almalıydın."
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG11"
 msgstr "Oyunun adı Twitch n' Run değil!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG12"
 msgstr "Endişelenme. Dünyayı kurtarmak bekleyebilir, değil mi?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG13"
 msgstr "Sanırım 'net gibi yapıp ayrılmanın zamanı geldi!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG14"
 msgstr "HacX'i unutup gitme, şimdi!"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SUICIDE"
 msgstr "%o kendini evrenden sildi."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_FALLING"
 msgstr "%o Kansas büyüklüğünde bir krater oluşturdu."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_CRUSH"
 msgstr "%o insan bir krep oldu."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_EXIT"
 msgstr "%o kaçmaya çalıştı."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_WATER"
 msgstr "%o bir tuğla gibi yüzdü."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SLIME"
 msgstr "%o nükleer oldu."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_LAVA"
 msgstr "%o sıcak bir banyo yaptı."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_BARREL"
 msgstr "%o aşırı dozda nitro gliserin aldı."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SPLASH"
 msgstr "%o küçük parçalara ayrıldı."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_R_SPLASH"
 msgstr "%o, içinin dışının nasıl göründüğünü görmek istedi."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_ROCKET"
 msgstr "%o içten dışa nasıl göründüğünü görmek istedi."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_KILLEDSELF"
 msgstr "%o kendini evrenden sildi."
 
@@ -185,12 +212,15 @@ msgstr "%o, %k tarafından bombalandı."
 msgid "OB_MPNUKESPLASH"
 msgstr "%o, %k tarafından bombalandı."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_MPTELEFRAG"
 msgstr "%o, %k tarafından parçalandı."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_MONTELEFRAG"
 msgstr "%o atomik düzeyde parçalara ayrıldı."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_DEFAULT"
 msgstr "%o kendiliğinden öldü."
 
@@ -463,65 +493,83 @@ msgstr "Hırsız Alarmı!"
 msgid "TXT_HACXMAP31"
 msgstr "Kurutucu Oda"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_CLEV"
 msgstr "Şimdi Geliyor...\n"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_CHOPPERS"
 msgstr "...kıçınızı kızartacak!"
 
 # Hacx's content here was totally useless so it got removed. However, this
 # string has to be defined and minimally altered so that the Dehacked
 # replacement is not being triggered.
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_BEHOLD"
 msgstr "inVuln, Str, Inviso, Rad, Allmap veya Lite-amp?"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_BEHOLDX"
 msgstr "Ciddileşelim!"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NCON"
 msgstr "Siber dilimleyici Modu AÇIK"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NCOFF"
 msgstr "Siber dilimleyici Modu KAPALI"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NOMUS"
 msgstr "Seçim: İmkansız"
 
 # Should probably not be translated...
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_MUS"
 msgstr "Sesi Yükseltin\n"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_KFAADDED"
 msgstr "INIT-Twitch n'Kill Modu"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_FAADDED"
 msgstr "Öyle olsun, Hacker."
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_DQDON"
 msgstr "Siber güç Modu AÇIK"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_DQDOFF"
 msgstr "Siber güç Modu KAPALI"
 
+msgctxt "doom hacx.hacx1"
 msgid "AMSTR_FOLLOWON"
 msgstr "İzleme AÇIK"
 
+msgctxt "doom hacx.hacx1"
 msgid "AMSTR_FOLLOWOFF"
 msgstr "İzleme KAPALI"
 
+msgctxt "doom hacx.hacx1"
 msgid "DOSY"
 msgstr "- Kaçmak için Y'ye basın! -"
 
+msgctxt "doom hacx.hacx1"
 msgid "ENDGAME"
 msgstr "Deli misin yoksa uyumsuz mu? Evet mi? Evet ya da hayır!"
 
+msgctxt "doom hacx.hacx1"
 msgid "NIGHTMARE"
 msgstr ""
 "Emin misin? Bu yetenekle başa çıkamazsın, hacker! Ölmek için Y'ye bas."
 
 # For most languages the original Doom text should suffice.
+msgctxt "doom hacx.hacx1"
 msgid "QSPROMPT"
 msgstr ""
 "Bu dosyanın üzerine kaydedilecek:\n"
@@ -531,6 +579,7 @@ msgstr ""
 "Emin misin?\n"
 "(Evet için Y, Hayır için N)"
 
+msgctxt "doom hacx.hacx1"
 msgid "QLPROMPT"
 msgstr ""
 "Bu kayıt yüklenecek:\n"
@@ -573,20 +622,26 @@ msgstr "Dikenli Şey"
 msgid "CC_MAJONG"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "CC_HERO"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_BABY"
 msgstr "Lütfen ateş etmeyin!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_EASY"
 msgstr "Aargh, sağlığa ihtiyacım var!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_NORMAL"
 msgstr "Hadi onları parçalayalım!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_HARD"
 msgstr "Ben ölümsüzüm!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_NIGHTMARE"
 msgstr "Delilik!"

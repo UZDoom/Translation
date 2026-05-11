@@ -10,84 +10,111 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG1"
 msgstr "Er disse bugs for hårde for dig?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG"
 msgstr "Er du sikker på, at du vil holdeop med at deltage?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG2"
 msgstr "Prøver du at holde op? Og du kalder dig selv en hacker?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG3"
 msgstr "Kom tilbage, før jeg sender en virus op i dit udstødningsrør!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG4"
 msgstr "Rigtige hackere går aldrig ud af spillet."
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG5"
 msgstr "Kom nu! Du har ikke set det bedste endnu!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG6"
 msgstr "Giv op nu, og cyberspace er ristet!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG7"
 msgstr "GENIE sender dig sine bedste hilsner, skiderik!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG8"
 msgstr "Hmm. Så meget for at være en helt, Hacker."
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG9"
 msgstr "Hvad? Vil du hellere gå tilbage til fængslet?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG10"
 msgstr "Du skulle have taget den blå pille."
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG11"
 msgstr "Spillets navn er ikke \"at flygte\"!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG12"
 msgstr "Det er ikke noget problem. At redde verden kan vente, ikke?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG13"
 msgstr "Så er det vist på tide at gøre som nettet og smutte!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG14"
 msgstr "Glem nu ikke HacX!"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SUICIDE"
 msgstr "%o slettede sig selv fra universet."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_FALLING"
 msgstr "%o dannede et krater på størrelse med Kansas."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_CRUSH"
 msgstr "%o blev en menneskelig pandekage."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_EXIT"
 msgstr "%o forsøgte at stikke af."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_WATER"
 msgstr "%o svømmede som en mursten."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SLIME"
 msgstr "%o blev nuklear."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_LAVA"
 msgstr "%o tog et varmt bad."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_BARREL"
 msgstr "%o fik en overdosis nitroglycerin."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SPLASH"
 msgstr "%o er flået i småstykker."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_R_SPLASH"
 msgstr "%o ville se, hvordan han så ud indefra."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_ROCKET"
 msgstr "%o ville se, hvordan han så ud indvfra."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_KILLEDSELF"
 msgstr "%o slettede sig selv fra universet."
 
@@ -184,12 +211,15 @@ msgstr "%o slugte %ks atombombe."
 msgid "OB_MPNUKESPLASH"
 msgstr "%o blev atomvåben af %ks masseødelæggelser."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_MPTELEFRAG"
 msgstr "%o blev vendt ud og ind af %k."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_MONTELEFRAG"
 msgstr "%os atomstruktur blev splittet op."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_DEFAULT"
 msgstr "%o udåndede spontant."
 
@@ -458,62 +488,79 @@ msgstr "Advarsel om ubudne gæster!"
 msgid "TXT_HACXMAP31"
 msgstr "Tørremiddel-rummet"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_CLEV"
 msgstr "Nu ankommer vi til...\n"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_CHOPPERS"
 msgstr "...vil stege din røv!"
 
 # Hacx's content here was totally useless so it got removed. However, this
 # string has to be defined and minimally altered so that the Dehacked
 # replacement is not being triggered.
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_BEHOLD"
 msgstr "inVuln, Str, Inviso, Rad, Allmap, eller Lite-amp?"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_BEHOLDX"
 msgstr "Lad os blive seriøse!"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NCON"
 msgstr "Cyberslicer tilstand TIL"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NCOFF"
 msgstr "Cyberslicer tilstand FRA"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NOMUS"
 msgstr "Forkert valg"
 
 # Should probably not be translated...
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_MUS"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_KFAADDED"
 msgstr "INIT-Twitch n'Kill Mode"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_FAADDED"
 msgstr "Sådan skal det være, Hacker."
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_DQDON"
 msgstr "Cyberpotens-tilstand TIL"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_DQDOFF"
 msgstr "Cyberpotens-tilstand FRA"
 
+msgctxt "doom hacx.hacx1"
 msgid "AMSTR_FOLLOWON"
 msgstr "Sporing TIL"
 
+msgctxt "doom hacx.hacx1"
 msgid "AMSTR_FOLLOWOFF"
 msgstr "Sporing FRA"
 
+msgctxt "doom hacx.hacx1"
 msgid "DOSY"
 msgstr "- Tryk på Y for at løbe væk! -"
 
+msgctxt "doom hacx.hacx1"
 msgid "ENDGAME"
 msgstr ""
 "Er du sindssyg eller utilpasset?\n"
 "Nå? Ja eller nej!"
 
+msgctxt "doom hacx.hacx1"
 msgid "NIGHTMARE"
 msgstr ""
 "Er du sikker? Du kan ikke klare\n"
@@ -522,6 +569,7 @@ msgstr ""
 "Tryk på Y for at dø. "
 
 # For most languages the original Doom text should suffice.
+msgctxt "doom hacx.hacx1"
 msgid "QSPROMPT"
 msgstr ""
 "Quicksave over dit spil navngivet\n"
@@ -530,6 +578,7 @@ msgstr ""
 "\n"
 "Tryk på Y eller N."
 
+msgctxt "doom hacx.hacx1"
 msgid "QLPROMPT"
 msgstr ""
 "Ønsker du at quickloade spillet ved navn\n"
@@ -571,20 +620,26 @@ msgstr "Torn ting"
 msgid "CC_MAJONG"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "CC_HERO"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_BABY"
 msgstr "Lad være med at skyde!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_EASY"
 msgstr "Aargh, jeg har brug for sundhed!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_NORMAL"
 msgstr "Lad os flå dem i stykker!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_HARD"
 msgstr "Jeg er udødelig!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_NIGHTMARE"
 msgstr "Sindssyge!"

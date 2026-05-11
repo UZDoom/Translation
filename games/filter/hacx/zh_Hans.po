@@ -12,84 +12,111 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 5.16-dev\n"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG1"
 msgstr "这些虫子对你来说太难搞了吗？"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG"
 msgstr "你确定要\\n强行脱离行动吗？"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG2"
 msgstr "想退出？你也配叫黑客？"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG3"
 msgstr "给我滚回来，不然我往你的后门塞个病毒进去！"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG4"
 msgstr "真正的黑客从不强行脱离行动。"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG5"
 msgstr "别啊！最精彩的部分还没开始呢！"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG6"
 msgstr "现在放弃，赛博空间就完蛋了！"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG7"
 msgstr "GENIE系统向你致意，人渣！"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG8"
 msgstr "哼。所谓的英雄黑客，不过如此。"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG9"
 msgstr "什么？你宁愿回去蹲大牢？"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG10"
 msgstr "早知道该选蓝色药丸的。"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG11"
 msgstr "这游戏可不是让你抽搐两下就跑路的！"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG12"
 msgstr "别担心。拯救世界可以等等，对吧？"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG13"
 msgstr "看来是像断网一样闪人的时候了！"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG14"
 msgstr "别一走了之忘了HacX啊！"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SUICIDE"
 msgstr "%o 把 %hself 从宇宙中删除了。"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_FALLING"
 msgstr "%o 砸出了一个堪萨斯州那么大的坑。"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_CRUSH"
 msgstr "%o 变成了人肉煎饼。"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_EXIT"
 msgstr "%o 试图强行脱离了。"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_WATER"
 msgstr "%o 像块砖头一样沉底了。"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SLIME"
 msgstr "%o 遭到了核辐射。"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_LAVA"
 msgstr "%o 洗了个滚烫的热水澡。"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_BARREL"
 msgstr "%o 过量服用了硝化甘油。"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SPLASH"
 msgstr "%o 被炸成了细小的碎片。"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_R_SPLASH"
 msgstr "%o 想看看从 %g 里面翻出来是什么样。"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_ROCKET"
 msgstr "%o 想看看从 %g 里面翻出来是什么样。"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_KILLEDSELF"
 msgstr "%o 把 %hself 从宇宙中删除了。"
 
@@ -185,12 +212,15 @@ msgstr "%o 吞下了 %k 的核弹。"
 msgid "OB_MPNUKESPLASH"
 msgstr "%o 在 %k 的大规模杀伤狂欢中遭了核灾。"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_MPTELEFRAG"
 msgstr "%o 被 %k 翻了个底朝天。"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_MONTELEFRAG"
 msgstr "%o 的原子结构被撕裂了。"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_DEFAULT"
 msgstr "%o 自发地断气了。"
 
@@ -449,62 +479,79 @@ msgstr "入侵警报！"
 msgid "TXT_HACXMAP31"
 msgstr "干燥室"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_CLEV"
 msgstr "即将抵达……\n"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_CHOPPERS"
 msgstr "……要把你的屁股烤焦！"
 
 # Hacx's content here was totally useless so it got removed. However, this
 # string has to be defined and minimally altered so that the Dehacked
 # replacement is not being triggered.
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_BEHOLD"
 msgstr "无敌、力量、隐形、防护服、地图、还是夜视镜？"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_BEHOLDX"
 msgstr "来点真格的！"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NCON"
 msgstr "赛博切割模式已开启"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NCOFF"
 msgstr "赛博切割模式已关闭"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NOMUS"
 msgstr "选择：不可能 "
 
 # Should probably not be translated...
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_MUS"
 msgstr "加大音量\n"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_KFAADDED"
 msgstr "初始化抽搐杀戮模式"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_FAADDED"
 msgstr "就这样吧，黑客。"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_DQDON"
 msgstr "赛博全能模式已开启"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_DQDOFF"
 msgstr "赛博全能模式已关闭"
 
+msgctxt "doom hacx.hacx1"
 msgid "AMSTR_FOLLOWON"
 msgstr "追踪已开启"
 
+msgctxt "doom hacx.hacx1"
 msgid "AMSTR_FOLLOWOFF"
 msgstr "追踪已关闭"
 
+msgctxt "doom hacx.hacx1"
 msgid "DOSY"
 msgstr "- 按Y键逃跑！ -"
 
+msgctxt "doom hacx.hacx1"
 msgid "ENDGAME"
 msgstr ""
 "你是疯了还是调节失灵？\n"
 "哪个？是还是否！"
 
+msgctxt "doom hacx.hacx1"
 msgid "NIGHTMARE"
 msgstr ""
 "你确定吗？你驾驭不了\n"
@@ -513,6 +560,7 @@ msgstr ""
 "按Y键去死。 \n"
 
 # For most languages the original Doom text should suffice.
+msgctxt "doom hacx.hacx1"
 msgid "QSPROMPT"
 msgstr ""
 "快速保存会覆盖你的存档\n"
@@ -521,6 +569,7 @@ msgstr ""
 "\n"
 "按Y键确认，按N键取消。"
 
+msgctxt "doom hacx.hacx1"
 msgid "QLPROMPT"
 msgstr ""
 "你想要快速载入存档\n"
@@ -562,20 +611,26 @@ msgstr "荆棘怪"
 msgid "CC_MAJONG"
 msgstr "麻将7"
 
+msgctxt "doom hacx.hacx1"
 msgid "CC_HERO"
 msgstr "丹·伊凡杰"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_BABY"
 msgstr "请别开枪！"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_EASY"
 msgstr "啊，我需要补血！"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_NORMAL"
 msgstr "让我们撕碎它们！"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_HARD"
 msgstr "我是不朽的！"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_NIGHTMARE"
 msgstr "疯狂！"

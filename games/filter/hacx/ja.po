@@ -10,84 +10,111 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG1"
 msgstr "テメェにはあんなバグ 厳しかないだろ?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG"
 msgstr "もしかして逃げ出そうとしてないよな?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG2"
 msgstr "終了させる? それでハッカー自称してたのか?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG3"
 msgstr "さっさと戻らねえと そのケツ穴にウィルスぶっこむぞ!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG4"
 msgstr "本物のハッカーなら頭を銃で撃ち抜くことはしない。"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG5"
 msgstr "おいおい! お楽しみはこれからだぜ!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG6"
 msgstr "さっさと止めて、サイバースペースに乾杯だ!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG7"
 msgstr "GENIEがベストの挨拶を送るぜ、カス野郎!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG8"
 msgstr "うーん。英雄とはこの程度だったのか、ハッカー。"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG9"
 msgstr "何? 今更ペンで計算するのか?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG10"
 msgstr "青いピルを採るべきではなかったな。"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG11"
 msgstr "ゲーム名は 萎え落ち小僧 じゃねえぞ!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG12"
 msgstr "気にはしない、世界を救うのは何時でも出来る、だろ?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG13"
 msgstr "ネット切断している暇は無いだろ!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG14"
 msgstr "HacXを忘れんじゃねえぞ、な!"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SUICIDE"
 msgstr "%o はこの宇宙から消滅した。"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_FALLING"
 msgstr "%o はカンザス州程のクレーターを生成した。"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_CRUSH"
 msgstr "%o は人肉パンケーキになった。"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_EXIT"
 msgstr "%o は逃げ出そうとした。"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_WATER"
 msgstr "%o はカナヅチだった。"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SLIME"
 msgstr "%o はニュークリアーと化した。"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_LAVA"
 msgstr "%o は熱湯風呂に浸かった。"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_BARREL"
 msgstr "%o はニトロを過剰摂取した。"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SPLASH"
 msgstr "%o は細かい粒をぶち撒けられた。"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_R_SPLASH"
 msgstr "%o は %g が裏返しになるのを望んだ。"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_ROCKET"
 msgstr "%o は %g が裏返しになるのを望んだ。"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_KILLEDSELF"
 msgstr "%o はこの宇宙から消滅した。"
 
@@ -183,12 +210,15 @@ msgstr "%o は %k の核を飲み干した。"
 msgid "OB_MPNUKESPLASH"
 msgstr "%o は %k の虐殺ごっこの犠牲者になった。"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_MPTELEFRAG"
 msgstr "%o は %k に裏返しにされた。"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_MONTELEFRAG"
 msgstr "%o の原子構造は分解された。"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_DEFAULT"
 msgstr "%o の有効期限が自発的に切れた"
 
@@ -442,62 +472,79 @@ msgstr "シンニュウシャ アリ!"
 msgid "TXT_HACXMAP31"
 msgstr "ダスキン ルーム"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_CLEV"
 msgstr "今到着した..."
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_CHOPPERS"
 msgstr "...ケツまくれ!"
 
 # Hacx's content here was totally useless so it got removed. However, this
 # string has to be defined and minimally altered so that the Dehacked
 # replacement is not being triggered.
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_BEHOLD"
 msgstr "V,I,S,R,A,Lのどれだ?"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_BEHOLDX"
 msgstr "マジになったぜ!"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NCON"
 msgstr "サイバースライサーモード オン"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NCOFF"
 msgstr "サイバースライサーモード オフ"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NOMUS"
 msgstr "選択: 不可能"
 
 # Should probably not be translated...
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_MUS"
 msgstr "音量を上げろよ"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_KFAADDED"
 msgstr "INIT-Twitch n'Killモード"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_FAADDED"
 msgstr "好きにしろ、ハッカー。"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_DQDON"
 msgstr "サイバーポテンスモード オン"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_DQDOFF"
 msgstr "サイバーポテンスモード オフ"
 
+msgctxt "doom hacx.hacx1"
 msgid "AMSTR_FOLLOWON"
 msgstr "トラッキング オン"
 
+msgctxt "doom hacx.hacx1"
 msgid "AMSTR_FOLLOWOFF"
 msgstr "トラッキング オフ"
 
+msgctxt "doom hacx.hacx1"
 msgid "DOSY"
 msgstr "-Y でトンズラだ!-"
 
+msgctxt "doom hacx.hacx1"
 msgid "ENDGAME"
 msgstr ""
 "お前はイカれた社会不適合者だろ?\n"
 "あぁ?イエスかノーか言え!"
 
+msgctxt "doom hacx.hacx1"
 msgid "NIGHTMARE"
 msgstr ""
 "本気か?\n"
@@ -506,6 +553,7 @@ msgstr ""
 "死にたきゃYを押せ。"
 
 # For most languages the original Doom text should suffice.
+msgctxt "doom hacx.hacx1"
 msgid "QSPROMPT"
 msgstr ""
 "この名称で上書きするのか?\n"
@@ -514,6 +562,7 @@ msgstr ""
 "\n"
 "YかNで答えろ。"
 
+msgctxt "doom hacx.hacx1"
 msgid "QLPROMPT"
 msgstr ""
 "この名称をすぐロードするのか?\n"
@@ -555,20 +604,26 @@ msgstr "ソーンツィン"
 msgid "CC_MAJONG"
 msgstr "マージャン 7"
 
+msgctxt "doom hacx.hacx1"
 msgid "CC_HERO"
 msgstr "ダン エブァンガー"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_BABY"
 msgstr "撃たないでくれ!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_EASY"
 msgstr "キメてくれ!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_NORMAL"
 msgstr "ばらまいてやれ!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_HARD"
 msgstr "とっととくたばれ!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_NIGHTMARE"
 msgstr "イカれてやがる!"

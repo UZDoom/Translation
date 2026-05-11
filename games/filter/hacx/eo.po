@@ -12,86 +12,113 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 5.15.1\n"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG1"
 msgstr "Ĉu ĉi tiuj cimoj estas tro forta por vi?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG"
 msgstr ""
 "Ĉu vi certas, ke vi volas\\n"
 "malkonektiĝi el la batalo?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG2"
 msgstr "Vi provas rezigni? Kaj vi nomas vin kodrompisto?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG3"
 msgstr "Revenu ĉi tien antaŭ ol mi sendos viruson en vian posttubon!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG4"
 msgstr "Veraj kodrompistoj neniam fuĝas el batalo."
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG5"
 msgstr "Nu! Vi ankoraŭ ne vidis la plej bonan parton!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG6"
 msgstr "Se vi rezignas nun, tiam Interret-spaco estos detruita!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG7"
 msgstr "ĜINIO sendas plej siajn konsiderojn, fiulo!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG8"
 msgstr "Ĥaa. Kia domaĝo, ke vi estas hero, Kodrompisto."
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG9"
 msgstr "Kio? Ĉu vi preferas, ke vi revenu al la plumon?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG10"
 msgstr "Vi estus devinta preni la bluan pilolon."
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG11"
 msgstr "La nomo de la ludo ne estas Tiku kaj Kuru!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG12"
 msgstr "Ne zorgu. Savi la mondon povas atendi, ĉu ne?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG13"
 msgstr "Tempas, ke niaj vojoj agu kiel la reto kaj dividu!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG14"
 msgstr "Ne iru forgesi HacX nun!"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SUICIDE"
 msgstr "%o forigis sin el la universo."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_FALLING"
 msgstr "%o formis krateron grandan kiel Kansaso."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_CRUSH"
 msgstr "%o Iĝis homa patkuko."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_EXIT"
 msgstr "%o provis malkonektiĝi."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_WATER"
 msgstr "%o naĝis kiel briko."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SLIME"
 msgstr "%o iĝis nuklea."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_LAVA"
 msgstr "%o spertis varman banon."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_BARREL"
 msgstr "%o trodozis nitroglicerinon."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SPLASH"
 msgstr "%o estas senhaŭtiga en malgrandetaj pecoj."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_R_SPLASH"
 msgstr "%o volis vidi, kiel %g aspektus kun la interno ekstere."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_ROCKET"
 msgstr "%o volis vidi, kiel %g aspektus kun la interno ekstere."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_KILLEDSELF"
 msgstr "%o forigis sin el la universo."
 
@@ -187,12 +214,15 @@ msgstr "%o glutis la nuklean bombon de %k."
 msgid "OB_MPNUKESPLASH"
 msgstr "%o iĝis nuklea pro la amasdetruado de %k."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_MPTELEFRAG"
 msgstr "La interno de %o estis eksteriga de %k."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_MONTELEFRAG"
 msgstr "La atoma strukturo de %o estis disfendita."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_DEFAULT"
 msgstr "%o spontane finiĝis."
 
@@ -456,62 +486,79 @@ msgstr "Alarmo pri Entrudanto!"
 msgid "TXT_HACXMAP31"
 msgstr "Ĉambro de Elsekigo"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_CLEV"
 msgstr "Nun Ĝisirante...\n"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_CHOPPERS"
 msgstr "...fritos vian pugon!"
 
 # Hacx's content here was totally useless so it got removed. However, this
 # string has to be defined and minimally altered so that the Dehacked
 # replacement is not being triggered.
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_BEHOLD"
 msgstr "inVuln, Str, Inviso, Rad, Allmap, aŭ Lite-amp?"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_BEHOLDX"
 msgstr "Ni Serioziĝu!"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NCON"
 msgstr "Cibernetika Tranĉila Reĝimo AKTIVA"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NCOFF"
 msgstr "Cibernetika Tranĉila Reĝimo NEAKTIVA"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NOMUS"
 msgstr "Elekto: Malebla"
 
 # Should probably not be translated...
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_MUS"
 msgstr "Kreskigu the laŭtecon\n"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_KFAADDED"
 msgstr "INIC-Modo de Tiku kaj Buĉu"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_FAADDED"
 msgstr "Tiel estu, Kodrompisto."
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_DQDON"
 msgstr "Cibernetikpova Reĝimo AKTIVA"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_DQDOFF"
 msgstr "Cibernetikpova Reĝimo NEAKTIVA"
 
+msgctxt "doom hacx.hacx1"
 msgid "AMSTR_FOLLOWON"
 msgstr "Spurdado AKTIVA"
 
+msgctxt "doom hacx.hacx1"
 msgid "AMSTR_FOLLOWOFF"
 msgstr "Spurdado NEAKTIVA"
 
+msgctxt "doom hacx.hacx1"
 msgid "DOSY"
 msgstr "- premu Y por forkuri! -"
 
+msgctxt "doom hacx.hacx1"
 msgid "ENDGAME"
 msgstr ""
 "Ĉu vi estas freneza aŭ misagordita?\n"
 "Ĉu? Jes aŭ Ne!?"
 
+msgctxt "doom hacx.hacx1"
 msgid "NIGHTMARE"
 msgstr ""
 "Ĉu vi certas? Vi ne povas stari\n"
@@ -520,6 +567,7 @@ msgstr ""
 "Premu Y por morti. \n"
 
 # For most languages the original Doom text should suffice.
+msgctxt "doom hacx.hacx1"
 msgid "QSPROMPT"
 msgstr ""
 "Ĉu rapidkonservi anstataŭigante vian ludadon nomitan\n"
@@ -528,6 +576,7 @@ msgstr ""
 "\n"
 "Premu Y aŭ N."
 
+msgctxt "doom hacx.hacx1"
 msgid "QLPROMPT"
 msgstr ""
 "Ĉu vi volas rapidŝargi la ludadon nomitan\n"
@@ -569,20 +618,26 @@ msgstr "Dorna Aĵo"
 msgid "CC_MAJONG"
 msgstr "Maĝango 7"
 
+msgctxt "doom hacx.hacx1"
 msgid "CC_HERO"
 msgstr "Dan Evanĝer"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_BABY"
 msgstr "Bonvolu ne pafi!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_EASY"
 msgstr "Aargh, mi bezonas sanon!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_NORMAL"
 msgstr "Ni disŝiru ilin!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_HARD"
 msgstr "Mi estas senmorta!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_NIGHTMARE"
 msgstr "Frenezo!"

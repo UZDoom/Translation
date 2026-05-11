@@ -12,86 +12,113 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 5.16-dev\n"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG1"
 msgstr "Bug-bug ini terlalu berat buat kamu?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG"
 msgstr ""
 "Kamu yakin mau\\n"
 "keluar dari aksi?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG2"
 msgstr "Mau keluar? Dan kamu ngaku hacker?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG3"
 msgstr "Balik ke sini sebelum aku kirim virus ke knalpotmu!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG4"
 msgstr "Hacker sejati nggak pernah keluar dari aksi."
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG5"
 msgstr "Ayo! Kamu belum lihat bagian terbaiknya!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG6"
 msgstr "Menyerah sekarang, dan dunia maya jadi gosong!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG7"
 msgstr "GENIE mengirim salam terbaiknya, bajingan!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG8"
 msgstr "Hmm. Jadi begini jadi pahlawan, Hacker."
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG9"
 msgstr "Apa? Kamu lebih pilih balik ke penjara?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG10"
 msgstr "Harusnya kamu pilih pil biru."
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG11"
 msgstr "Nama permainannya bukan Twitch n' Run!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG12"
 msgstr "Santai. Menyelamatkan dunia bisa nunggu, kan?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG13"
 msgstr "Kayaknya waktunya meniru 'net dan cabut!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG14"
 msgstr "Jangan pergi dan lupa HacX, ya!"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SUICIDE"
 msgstr "%o menghapus %hdirinya dari semesta."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_FALLING"
 msgstr "%o membuat kawah sebesar Kansas."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_CRUSH"
 msgstr "%o jadi panekuk manusia."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_EXIT"
 msgstr "%o mencoba keluar."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_WATER"
 msgstr "%o berenang seperti batu bata."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SLIME"
 msgstr "%o jadi nuklir."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_LAVA"
 msgstr "%o mandi air panas."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_BARREL"
 msgstr "%o overdosis nitrogliserin."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SPLASH"
 msgstr "%o dikuliti jadi potongan kecil-kecil."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_R_SPLASH"
 msgstr "%o ingin melihat seperti apa %g kalau dibalik dari dalam."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_ROCKET"
 msgstr "%o ingin melihat seperti apa %g kalau dibalik dari dalam."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_KILLEDSELF"
 msgstr "%o menghapus %hdirinya dari semesta."
 
@@ -187,12 +214,15 @@ msgstr "%o menelan nuklir %k."
 msgid "OB_MPNUKESPLASH"
 msgstr "%o jadi nuklir akibat aksi penghancuran massal %k."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_MPTELEFRAG"
 msgstr "%o dibalik dari dalam oleh %k."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_MONTELEFRAG"
 msgstr "Struktur atom %o dibelah."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_DEFAULT"
 msgstr "%o mendadak mati."
 
@@ -454,62 +484,79 @@ msgstr "Peringatan Penyusup!"
 msgid "TXT_HACXMAP31"
 msgstr "Ruang Pengering"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_CLEV"
 msgstr "Sekarang Tiba Di...\n"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_CHOPPERS"
 msgstr "...bakal goreng bokongmu!"
 
 # Hacx's content here was totally useless so it got removed. However, this
 # string has to be defined and minimally altered so that the Dehacked
 # replacement is not being triggered.
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_BEHOLD"
 msgstr "inVuln, Str, Inviso, Rad, Allmap, atau Lite-amp?"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_BEHOLDX"
 msgstr "Ayo Serius!"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NCON"
 msgstr "Mode Cyberslicer AKTIF"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NCOFF"
 msgstr "Mode Cyberslicer NONAKTIF"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NOMUS"
 msgstr "Pilihan: Mustahil "
 
 # Should probably not be translated...
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_MUS"
 msgstr "Besarkan Volume\n"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_KFAADDED"
 msgstr "INIT-Mode Twitch n'Kill"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_FAADDED"
 msgstr "Baiklah, Hacker."
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_DQDON"
 msgstr "Mode Cyberpotence AKTIF"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_DQDOFF"
 msgstr "Mode Cyberpotence NONAKTIF"
 
+msgctxt "doom hacx.hacx1"
 msgid "AMSTR_FOLLOWON"
 msgstr "Pelacakan AKTIF"
 
+msgctxt "doom hacx.hacx1"
 msgid "AMSTR_FOLLOWOFF"
 msgstr "Pelacakan NONAKTIF"
 
+msgctxt "doom hacx.hacx1"
 msgid "DOSY"
 msgstr "- tekan Y untuk kabur! -"
 
+msgctxt "doom hacx.hacx1"
 msgid "ENDGAME"
 msgstr ""
 "Kamu gila atau salah penyesuaian?\n"
 "Gimana? Ya atau Tidak!"
 
+msgctxt "doom hacx.hacx1"
 msgid "NIGHTMARE"
 msgstr ""
 "Kamu yakin? Kamu nggak sanggup\n"
@@ -518,6 +565,7 @@ msgstr ""
 "Tekan Y untuk mati. \n"
 
 # For most languages the original Doom text should suffice.
+msgctxt "doom hacx.hacx1"
 msgid "QSPROMPT"
 msgstr ""
 "Timpa quicksave dengan data bernama\n"
@@ -526,6 +574,7 @@ msgstr ""
 "\n"
 "Tekan Y atau N."
 
+msgctxt "doom hacx.hacx1"
 msgid "QLPROMPT"
 msgstr ""
 "Mau quickload data bernama\n"
@@ -567,20 +616,26 @@ msgstr "Thorn Thing"
 msgid "CC_MAJONG"
 msgstr "Majong 7"
 
+msgctxt "doom hacx.hacx1"
 msgid "CC_HERO"
 msgstr "Dan Evanger"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_BABY"
 msgstr "Tolong jangan tembak!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_EASY"
 msgstr "Aargh, aku butuh darah!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_NORMAL"
 msgstr "Ayo kita cabik mereka!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_HARD"
 msgstr "Aku abadi!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_NIGHTMARE"
 msgstr "Kegilaan!"

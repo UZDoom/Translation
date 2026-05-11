@@ -10,84 +10,111 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG1"
 msgstr "Questi errori sono troppo difficili per te?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG"
 msgstr "Sei sicuro di voler uscire?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG2"
 msgstr "Stai cercando di smettere?\\nE ti definisci un hacker?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG3"
 msgstr "Torna indietro o ti\\nmanderò un virus!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG4"
 msgstr "I veri hacker non si arrendono!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG5"
 msgstr "Andiamo, forza! Non hai ancora\\nvisto la parte migliore!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG6"
 msgstr "Se ti arrendi ora,\\nil cyberspazio è finito."
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG7"
 msgstr "GENIE ti manda i suoi\\nmigliori saluti, bastardo!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG8"
 msgstr "Hmm. E io che pensavo fossi un eroe, Hacker."
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG9"
 msgstr "Cosa? Vuoi tornare in prigione?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG10"
 msgstr "Avresti dovuto prendere la pillola blu ..."
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG11"
 msgstr "Il gioco non significa \"scappare\"!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG12"
 msgstr "Salvare il mondo può\\naspettare, giusto?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG13"
 msgstr "Quindi è il momento per i\\nnostri modi di separarsi."
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG14"
 msgstr "Non andartene e dimenticarti di HacX, ora!"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SUICIDE"
 msgstr "%o si è cancellato dall'universo."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_FALLING"
 msgstr "%o ha formato un cratere delle dimensioni del Kansas."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_CRUSH"
 msgstr "%o è diventato un pancake umano."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_EXIT"
 msgstr "%o è uscito."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_WATER"
 msgstr "%o nuotava come una pietra."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SLIME"
 msgstr "%o è stato irradiato."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_LAVA"
 msgstr "%o ha fatto un bagno caldo."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_BARREL"
 msgstr "%o ha assunto un sovradosaggio di nitroglicerina."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SPLASH"
 msgstr "%o è stato schiacciato."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_R_SPLASH"
 msgstr "%o voleva vedere le sue interiora."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_ROCKET"
 msgstr "%o voleva vedere le sue interiora."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_KILLEDSELF"
 msgstr "%o si è cancellato dall'universo."
 
@@ -183,12 +210,15 @@ msgstr "%o soffocò sul missile nucleare di %k."
 msgid "OB_MPNUKESPLASH"
 msgstr "%o fu irradiato dall'azione di distruzione di massa di %k."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_MPTELEFRAG"
 msgstr "%o fu fatto a pezzi da %k"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_MONTELEFRAG"
 msgstr "La struttura atomica di %o fu distrutta."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_DEFAULT"
 msgstr "%o ha smesso spontaneamente di esistere."
 
@@ -454,62 +484,79 @@ msgstr "Allarme intruso!"
 msgid "TXT_HACXMAP31"
 msgstr "Stanza disseccante"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_CLEV"
 msgstr "Arrivando a..."
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_CHOPPERS"
 msgstr "....ti friggerà il culo!"
 
 # Hacx's content here was totally useless so it got removed. However, this
 # string has to be defined and minimally altered so that the Dehacked
 # replacement is not being triggered.
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_BEHOLD"
 msgstr "inVuln, berSerk, Invisib, tuta anti-Rad, mAppa tutta, o amplif-Luce"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_BEHOLDX"
 msgstr "Prendiamoci sul serio!"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NCON"
 msgstr "Modalità Cyberslicer ATTIVADA"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NCOFF"
 msgstr "Modalità Cyberslicer DISATTIVADA"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NOMUS"
 msgstr "Selezione impossibile"
 
 # Should probably not be translated...
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_MUS"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_KFAADDED"
 msgstr "Iniziare Twitch n'Kill Mode"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_FAADDED"
 msgstr "Cosi' sia, Hacker."
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_DQDON"
 msgstr "Modo Cyberpotenza ATTIVADA"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_DQDOFF"
 msgstr "Modo Cyberpotenza DISATTIVADA"
 
+msgctxt "doom hacx.hacx1"
 msgid "AMSTR_FOLLOWON"
 msgstr "Mappa scorribile DISATTIVATA"
 
+msgctxt "doom hacx.hacx1"
 msgid "AMSTR_FOLLOWOFF"
 msgstr "Mappa scorribile ATTIVATA"
 
+msgctxt "doom hacx.hacx1"
 msgid "DOSY"
 msgstr "- premere Y per scappare! -"
 
+msgctxt "doom hacx.hacx1"
 msgid "ENDGAME"
 msgstr ""
 "Sei pazzo o disadattato?\n"
 "Allora? Sì o no!"
 
+msgctxt "doom hacx.hacx1"
 msgid "NIGHTMARE"
 msgstr ""
 "Sei sicuro? Non puoi gestire\n"
@@ -518,6 +565,7 @@ msgstr ""
 "Premere Y per morire. "
 
 # For most languages the original Doom text should suffice.
+msgctxt "doom hacx.hacx1"
 msgid "QSPROMPT"
 msgstr ""
 "Sovrascrivere il salvataggio\n"
@@ -526,6 +574,7 @@ msgstr ""
 "\n"
 "Premi Y oppure N."
 
+msgctxt "doom hacx.hacx1"
 msgid "QLPROMPT"
 msgstr ""
 "Vuoi fare un quickload della partita\n"
@@ -567,20 +616,26 @@ msgstr ""
 msgid "CC_MAJONG"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "CC_HERO"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_BABY"
 msgstr "Ti prego, non sparare!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_EASY"
 msgstr "Aargh, ho bisogno di salute!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_NORMAL"
 msgstr "Facciamoli a pezzi!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_HARD"
 msgstr "Sono immortale!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_NIGHTMARE"
 msgstr "Follia!"
