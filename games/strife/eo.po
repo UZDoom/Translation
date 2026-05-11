@@ -2,15 +2,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-12-28 21:00+0000\n"
-"Last-Translator: Skyler Shirra <skyler.shirra@gmail.com>\n"
+"PO-Revision-Date: 2026-05-11 03:43+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/doom-engine-games/strife/eo/>\n"
 "Language: eo\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15.1\n"
+"X-Generator: Weblate 2026.5-dev\n"
 
 msgid "TXT_STRIFE_MAP01"
 msgstr "AREO 1: Sanktejo"
@@ -319,9 +319,9 @@ msgstr "Ili valoras po ĉiu monero!"
 msgid "TXT_RNO3_SCRIPT02_D12128_COMEO"
 msgstr "Nu, ili kostas 200 da oro!"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D13644_ICANT"
-msgstr ""
-"Mi ne povas kredi, ke mi estas blokita kun ĉi tiu tasko: Oni diras, ke malbonaĵo aperis el ĉi tiu pordo... kaj mi nun devas resti ĉi tie ĝis ĝi reaperos!"
+msgstr "Mi ne povas kredi, ke mi estas blokita kun ĉi tiu tasko: Oni diras, ke malbonaĵo aperis el ĉi tiu pordo... kaj mi nun devas resti ĉi tie ĝis ĝi reaperos!"
 
 msgid "TXT_RPLY0_SCRIPT02_D13644_WHATG"
 msgstr "Kio estas post la pordo?"
@@ -461,9 +461,9 @@ msgstr "Jen. Estu atenta."
 msgid "TXT_RNO2_SCRIPT02_D21224_WELLM"
 msgstr "Nu, ĉu vi eble povas aĉeti kuracbendojn?"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D22740_IHOPE"
-msgstr ""
-"Mi esperas, ke Macil scias tion, kion li faras. Se La Ordeno malkovras, ke mi helpas la Fronton, mi estos sufiĉe mortinta... Ne kvazaŭ vi zorgus pri tio. La kuracisto de la Fronto donis al mi plibonigan icon por vi. Ĉu vi estas preta? "
+msgstr "Mi esperas, ke Macil scias tion, kion li faras. Se La Ordeno malkovras, ke mi helpas la Fronton, mi estos sufiĉe mortinta... Ne kvazaŭ vi zorgus pri tio. La kuracisto de la Fronto donis al mi plibonigan icon por vi. Ĉu vi estas preta? "
 
 msgid "TXT_RPLY0_SCRIPT02_D22740_YESIM"
 msgstr "Jes, mi estas preta."
@@ -508,6 +508,7 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT02_D25772_WHATS"
 msgstr "Kion oni diras ĉi tie?"
 
+#, fuzzy
 msgid "TXT_RYES0_SCRIPT02_D25772_THEWO"
 msgstr "Oni diras... ke en la kloako ne estas nur ratoj kaj robotoj."
 
@@ -536,13 +537,13 @@ msgstr "Estas pli pri La Ordeno, ol kiom ili ŝajnigas."
 msgid "TXT_RNO0_SCRIPT02_D28804_WELLT"
 msgstr "Ni parolos kiam vi alportos oron!"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D30320_THATS"
-msgstr ""
-"Jen ĉio, amiko, la fonto de scio sekiĝis. Malgraŭ tio, mi diris al vi pli ol tiom, kiom mi devus. Ŝancon... kaj ne revenu."
+msgstr "Jen ĉio, amiko, la fonto de scio sekiĝis. Malgraŭ tio, mi diris al vi pli ol tiom, kiom mi devus. Ŝancon... kaj ne revenu."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D31836_HEYIM"
-msgstr ""
-"Mi nur estas krizokaza gardisto: se la kerno rompiĝus, mi certiĝus, ke neniu eniru... aŭ eliru."
+msgstr "Mi nur estas krizokaza gardisto: se la kerno rompiĝus, mi certiĝus, ke neniu eniru... aŭ eliru."
 
 msgid "TXT_DLG_SCRIPT02_D33352_WATCH"
 msgstr "Atentu tie, kie vi piediras, kampulo!"
@@ -559,9 +560,9 @@ msgstr "He, neniu rajtas esti ĉi tie. Plue movu vin!"
 msgid "TXT_DLG_SCRIPT02_D39416_IRALE"
 msgstr "Iralo vendos al vi ĉion, kion vi bezonas!"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D40932_IMKIN"
-msgstr ""
-"Mi estas speco de talentul-serĉanto por la ribelantoj. Iu tiel lerta, kiel vi, povus gajni multe da oro… se vi rilatos kun la ĝustaj homoj."
+msgstr "Mi estas speco de talentul-serĉanto por la ribelantoj. Iu tiel lerta, kiel vi, povus gajni multe da oro… se vi rilatos kun la ĝustaj homoj."
 
 msgid "TXT_RPLY0_SCRIPT02_D40932_IMINT"
 msgstr "Tio interesas min."
@@ -668,9 +669,9 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT02_D66704_FINEB"
 msgstr "Mi ne malkonsentas."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D68220_SOYOU"
-msgstr ""
-"Vi do estas la stultulo, kiu ŝtelis la kalikon, ĉu? Mi kaptos vin kiel ribelan ŝteliston, tiel mi plibonigos mian statuson kun La Ordeno. Kiel vi sentas, ke vi estas nevola marioneto? Jen aludeto: tio doloros vin. "
+msgstr "Vi do estas la stultulo, kiu ŝtelis la kalikon, ĉu? Mi kaptos vin kiel ribelan ŝteliston, tiel mi plibonigos mian statuson kun La Ordeno. Kiel vi sentas, ke vi estas nevola marioneto? Jen aludeto: tio doloros vin. "
 
 msgid "TXT_RPLY0_SCRIPT02_D68220_ITSUC"
 msgstr "Tio estas aĉa!"
@@ -784,6 +785,7 @@ msgstr "Kompreneble!"
 msgid "TXT_RPLY1_SCRIPT02_D92476_NOAND"
 msgstr "Ne, kaj mi ne bezonas ĝin!"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D93992_SORRY"
 msgstr "Ha, pardonon, mi ne intencis... Uzu la lifton."
 
@@ -833,9 +835,9 @@ msgstr "Dankon."
 msgid "TXT_DLG_SCRIPT02_D104604_RELEA"
 msgstr "Sufiĉe, ne ĝenu maljunulon."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT03_D0_WELCO"
-msgstr ""
-"Bonvenon en la lasta fajrero da espero. Nur ni havas liberan volon por kontraŭstari al La Ordeno. Ni havas la plej intelektajn mensojn kaj multe da kapablaj homoj, sed mankas tiu, kiu estus, hm... vera problem-solvulo, por ke li donu al ni la necesan avantaĝon. Helpu nin."
+msgstr "Bonvenon en la lasta fajrero da espero. Nur ni havas liberan volon por kontraŭstari al La Ordeno. Ni havas la plej intelektajn mensojn kaj multe da kapablaj homoj, sed mankas tiu, kiu estus, hm... vera problem-solvulo, por ke li donu al ni la necesan avantaĝon. Helpu nin."
 
 msgid "TXT_RPLY0_SCRIPT03_D0_ALLRI"
 msgstr "Bone, mi akceptas."
@@ -1086,9 +1088,9 @@ msgid "TXT_DLG_SCRIPT03_D43964_WERET"
 msgstr ""
 "Ni provas malkovri, kie troviĝas la mekanismoj de la pordo de la kastelo, sed ni ankoraŭ ne sukcesis."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT03_D45480_DONTG"
-msgstr ""
-"Oni ne kaptu vin. Mi aŭdis terurajn historiojn pri tio, kio okazas al niaj homoj post ilia aresto: ili simple malaperas, lasinte nenian restaĵon."
+msgstr "Oni ne kaptu vin. Mi aŭdis terurajn historiojn pri tio, kio okazas al niaj homoj post ilia aresto: ili simple malaperas, lasinte nenian restaĵon."
 
 msgid "TXT_DLG_SCRIPT03_D46996_HERES"
 msgstr ""
@@ -1222,9 +1224,9 @@ msgstr "Kie estas la energia kristalo?"
 msgid "TXT_DLG_SCRIPT04_D37900_IFYOU"
 msgstr "Vi ricevos pafon ankaŭ se vi ne eklaboras. Movu vian tunikon."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT04_D39416_IDONT"
-msgstr ""
-"Mi ne intencas soni alarme, sed se ili plue superŝargas la energian kristalon tiel multe, ĝi misfunkcios, poste ĝi rompiĝos kaj tiam «Bum!»... Por ke vi havu ian ideon."
+msgstr "Mi ne intencas soni alarme, sed se ili plue superŝargas la energian kristalon tiel multe, ĝi misfunkcios, poste ĝi rompiĝos kaj tiam «Bum!»... Por ke vi havu ian ideon."
 
 msgid "TXT_DLG_SCRIPT04_D40932_LETME"
 msgstr ""
@@ -1397,9 +1399,9 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT06_D9096_ANYTH"
 msgstr "Ĉu estas io alia, kion vi povas fari?"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT06_D10612_GOODL"
-msgstr ""
-"Ŝancon. Mi malfermis diversajn el niaj tuneloj. Tio devus faciligi la taskon por vi. Ha, la uniformo estas M-talia. Perfekte!... Sed aĉkolora."
+msgstr "Ŝancon. Mi malfermis diversajn el niaj tuneloj. Tio devus faciligi la taskon por vi. Ha, la uniformo estas M-talia. Perfekte!... Sed aĉkolora."
 
 msgid "TXT_RPLY0_SCRIPT06_D10612_THANK"
 msgstr "Dankon pro la helpo."
@@ -1555,9 +1557,9 @@ msgstr "Ili pentos!"
 msgid "TXT_DLG_SCRIPT10_D15160_FIGHT"
 msgstr "Bataladu pro la Fronto kaj libereco. Ekagu."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT10_D16676_IAMTH"
-msgstr ""
-"Mi estas la Vera Dio. Mi bezonas liberigi lian spiriton, tiam mi povos forlasi mian korpon kaj aliĝi al li en la flugo! Vi ne havas ideon pri tio, kion vi posedas... nek pri la teruraĵo, kiun vi alfrontas. La Vera Dio devas esti libera! Kaj li rekompencos min... Ni estos la sama!"
+msgstr "Mi estas la Vera Dio. Mi bezonas liberigi lian spiriton, tiam mi povos forlasi mian korpon kaj aliĝi al li en la flugo! Vi ne havas ideon pri tio, kion vi posedas... nek pri la teruraĵo, kiun vi alfrontas. La Vera Dio devas esti libera! Kaj li rekompencos min... Ni estos la sama!"
 
 msgid "TXT_RPLY0_SCRIPT10_D16676_IWILL"
 msgstr "Mi detruos vin!"
@@ -1902,9 +1904,9 @@ msgstr "Daŭrigu tiel, ni ne estus sukcesintaj sen vi."
 msgid "TXT_DLG_SCRIPT11_D0_IMTHE"
 msgstr "Mi estas la ŝlosilestro."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT11_D1516_ALOTO"
-msgstr ""
-"Multaj homoj dirus, ke ĉi tiu estas sendanka kaj sensignifa laboro, sed ne, fakte..."
+msgstr "Multaj homoj dirus, ke ĉi tiu estas sendanka kaj sensignifa laboro, sed ne, fakte..."
 
 msgid "TXT_RPLY0_SCRIPT11_D1516_GIVEM"
 msgstr "Donu al mi la ŝlosilon!"
@@ -1998,9 +2000,9 @@ msgstr "Mi revenos... kun lia peco!"
 msgid "TXT_DLG_SCRIPT12_D13644_THERI"
 msgstr "La tempofluo eterne iras antaŭen dum vi restas senmova."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT12_D15160_PITIF"
-msgstr ""
-"Malestiminda homo, vi faris tion, kion miloj ne povis: vi portas ĉe mi la povon de la Sigelo, la voĉo de la Vera Dio."
+msgstr "Malestiminda homo, vi faris tion, kion miloj ne povis: vi portas ĉe mi la povon de la Sigelo, la voĉo de la Vera Dio."
 
 msgid "TXT_RPLY0_SCRIPT12_D15160_IDONT"
 msgstr "Mi ne komprenas."
@@ -2093,9 +2095,9 @@ msgstr "Kia sana specimeno. Vi ne bezonas mian helpon, ĉu?"
 msgid "TXT_RPLY0_SCRIPT17_D6064_WELLY"
 msgstr "Nu, jes. Macil venigis min."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT17_D7580_SHHHH"
-msgstr ""
-"Ŝŝ! Ne tiel laŭte se vi ne intencas, ke ni ambaŭ estu mortigitaj. Nu, kion mi faru por vi?"
+msgstr "Ŝŝ! Ne tiel laŭte se vi ne intencas, ke ni ambaŭ estu mortigitaj. Nu, kion mi faru por vi?"
 
 msgid "TXT_RPLY0_SCRIPT17_D7580_TELLM"
 msgstr "Diru kiel mi trovu la Episkopon."
@@ -2204,16 +2206,16 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT22_D1516_DOYOU"
 msgstr "Ĉu vi scias, kio estas en ĝi?"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT22_D3032_ITSAT"
-msgstr ""
-"Ĝi estas tute konfidenca sektoro. Ne nur La Ordeno estigas specon de... vivaĵo tie, mi vidis per miaj propraj okuloj strangan artefakton nomatan talismano. Neniu rajtas aliri ĝin. Oni diras, ke ĝi posedas grandan povon se ĝi estas proksime de aliaj du el sia speco."
+msgstr "Ĝi estas tute konfidenca sektoro. Ne nur La Ordeno estigas specon de... vivaĵo tie, mi vidis per miaj propraj okuloj strangan artefakton nomatan talismano. Neniu rajtas aliri ĝin. Oni diras, ke ĝi posedas grandan povon se ĝi estas proksime de aliaj du el sia speco."
 
 msgid "TXT_RPLY0_SCRIPT22_D3032_ISUPP"
 msgstr "Mi supozas, ke vi volas ĝin?"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT22_D4548_NOIFY"
-msgstr ""
-"Ne! Se vi trovos ĝin, konservu ĝin. Ĝi eble estos utila por ke vi liberigu nin ĉiujn de ĉi tiu opresado. Mi dezirus bonŝancon, sed vi bezonos multe pli ol tion se vi iros tien..."
+msgstr "Ne! Se vi trovos ĝin, konservu ĝin. Ĝi eble estos utila por ke vi liberigu nin ĉiujn de ĉi tiu opresado. Mi dezirus bonŝancon, sed vi bezonos multe pli ol tion se vi iros tien..."
 
 msgid "TXT_RPLY0_SCRIPT22_D4548_WHATS"
 msgstr "Kio pri tiuj misteroj, kiujn vi menciis?"
@@ -2222,6 +2224,7 @@ msgid "TXT_DLG_SCRIPT22_D6064_YOUVE"
 msgstr ""
 "Vi eble vidis la proksimajn ruinojn. Ŝajnas, ke la kometo, kiu koliziis kontraŭ nia planedo, fakte estas kosmoŝipo, kaj kredeble aŭ ne, ĝi originis en ĉi tiu sama mondo antaŭ longe."
 
+#, fuzzy
 msgid "TXT_RPLY0_SCRIPT22_D6064_SOTHE"
 msgstr "Do la fantomoj, la Vera Dio..."
 
@@ -2229,6 +2232,7 @@ msgid "TXT_DLG_SCRIPT22_D7580_THEYA"
 msgstr ""
 "Ili estas estaĵoj, kiuj iam dominis la mondon kaj insistas pri detrui ĝian vivon. La antikvuloj sukcese sigelfermis ilin koste de siaj vivoj. Mi timas, ke mi scias nenion plian."
 
+#, fuzzy
 msgid "TXT_RPLY0_SCRIPT22_D7580_THANK"
 msgstr "Dankon... Mi faros ĉion eblan."
 
@@ -2445,6 +2449,7 @@ msgid "TXT_DLG_SCRIPT23_D15160_THANK"
 msgstr ""
 "Danke al Dio vi alvenis. Ŝlosilo estas necesa por eniri la fabrikon; ni ŝtelis ĝin, sed nia agento estas perdita en la katakomba sistemo sub la fortreso de La Ordeno. Mi sendis dek bonajn virojn al tiuj tuneloj por serĉi lin kaj neniu revenis. Estas io tie malsupre!"
 
+#, fuzzy
 msgid "TXT_RPLY0_SCRIPT23_D15160_WHATI"
 msgstr "Kia ĝi estas? Ĉu homa aŭ...?"
 
@@ -2540,6 +2545,7 @@ msgid "TXT_DLG_SCRIPT23_D24256_THANK"
 msgstr ""
 "Danke al Dio vi alvenis. Ŝlosilo estas necesa por eniri la fabrikon; ni ŝtelis ĝin, sed nia agento estas perdita en la katakomba sistemo sub la fortreso de La Ordeno. Mi sendis dek bonajn virojn al tiuj tuneloj por serĉi lin kaj neniu revenis. Estas io tie malsupre!"
 
+#, fuzzy
 msgid "TXT_RPLY0_SCRIPT23_D24256_WHATI"
 msgstr "Kia ĝi estas? Ĉu homa aŭ...?"
 
@@ -2756,9 +2762,9 @@ msgid "TXT_DLG_SCRIPT33_D13644_THATS"
 msgstr ""
 "Jen ĉio, amiko, la fonto de scio sekiĝis. Malgraŭ tio, mi diris al vi pli ol tiom, kiom mi devus."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT33_D15160_HARDT"
-msgstr ""
-"Estas malfacile aĉeti novajn ludilojn... kiam oni estas senmona. Plenumu simplan komision por mi kaj vi gajnos pli ol tiom, kiom oni povus eĉ elspezi: mi faros vin riĉulo."
+msgstr "Estas malfacile aĉeti novajn ludilojn... kiam oni estas senmona. Plenumu simplan komision por mi kaj vi gajnos pli ol tiom, kiom oni povus eĉ elspezi: mi faros vin riĉulo."
 
 msgid "TXT_RPLY0_SCRIPT33_D15160_IGOTN"
 msgstr "Mi havas nenian farindaĵon."
@@ -2818,9 +2824,9 @@ msgstr "Kion vi atendas? La registo mem rekompencos vin."
 msgid "TXT_DLG_SCRIPT33_D25772_DIETR"
 msgstr "Mortu, perfidulo! "
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT33_D27288_SOYOU"
-msgstr ""
-"Vi do estas la stultulo, kiu ŝtelis la kalikon, ĉu? Mi kaptos vin kiel ribelan ŝteliston, tiel mi plibonigos mian statuson kun La Ordeno. Kiel vi sentas, ke vi estas nevola marioneto? "
+msgstr "Vi do estas la stultulo, kiu ŝtelis la kalikon, ĉu? Mi kaptos vin kiel ribelan ŝteliston, tiel mi plibonigos mian statuson kun La Ordeno. Kiel vi sentas, ke vi estas nevola marioneto? "
 
 msgid "TXT_RPLY0_SCRIPT33_D27288_ITSUC"
 msgstr "Tio estas aĉa!"
@@ -3216,9 +3222,9 @@ msgstr "Dankon. Ĝis!"
 msgid "TXT_RANDOMGOODBYE_3"
 msgstr "Ĝis la revido!"
 
+#, fuzzy
 msgid "TXT_ILOG1"
-msgstr ""
-"Saluton?... Komandanto! Interfono ekagiĝis: mi ricevas bildojn kaj sonon el... iu. Hola! Eliru tuj el tie... kaj forĵetu la kalikon!"
+msgstr "Saluton?... Komandanto! Interfono ekagiĝis: mi ricevas bildojn kaj sonon el... iu. Hola! Eliru tuj el tie... kaj forĵetu la kalikon!"
 
 msgid "TXT_ILOG2"
 msgstr ""
@@ -3422,9 +3428,9 @@ msgid "TXT_ILOG102"
 msgstr ""
 "Mi legas amasajn distordojn de cerbaj ondoj antaŭ vi. Ŝajnas, ke ni trovis ĝin. Ni eniru kaj malŝaltu ĝin!"
 
+#, fuzzy
 msgid "TXT_ILOG103"
-msgstr ""
-"Kaj mi kredis, ke mi jam vidis ĉiajn aferojn! Ili eniras kiel homojn kaj eliras... Mi eĉ ne volas pensi pri tio. Haltigu ĉi tiun teruraĵon!"
+msgstr "Kaj mi kredis, ke mi jam vidis ĉiajn aferojn! Ili eniras kiel homojn kaj eliras... Mi eĉ ne volas pensi pri tio. Haltigu ĉi tiun teruraĵon!"
 
 msgid "TXT_ILOG104"
 msgstr ""
@@ -3650,6 +3656,7 @@ msgid "TXT_SUB_LOG4"
 msgstr ""
 "Iru tra la maldekstra pordo kaj poste tra la dekstra. La nomo de la gardisto estas Geoff; diru al li «Saluton, mi bezonas oron»."
 
+#, fuzzy
 msgid "TXT_SUB_LOG17"
 msgstr "Mi neniam pensis, ke mi invadus malliberejon..."
 
