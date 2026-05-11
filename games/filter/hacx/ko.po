@@ -12,87 +12,114 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 5.17.1\n"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG1"
 msgstr "고작 버그들 상대하는 것도 버거운 건가?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG"
 msgstr ""
 "지금 종료하겠다고?\n"
 "\n"
 "진심이냐?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG2"
 msgstr "그만두려고? 해커라는 이름이 아깝군그래."
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG3"
 msgstr "돌아와, 네 전선에 바이러스 주입해버리기 전에!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG4"
 msgstr "진정한 해커는 이렇게 포기하지 않는다고!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG5"
 msgstr "이봐! 아직 재밌는 부분은 시작도 안 했다고!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG6"
 msgstr "포기하면 사이버 공간은 결국엔 사라질걸?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG7"
 msgstr "어이 등신! 지니에서 안부를 전해 달라더군."
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG8"
 msgstr "영웅이 될 그릇은 아닌 거 같군. 안 그래? 해커 형씨."
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG9"
 msgstr "펜이나 끄적거리는 인생으로 돌아가겠다. 이건가?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG10"
 msgstr "넌 파란 알약을 골랐어야 했어."
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG11"
 msgstr "이봐, 이 게임은 때리고 도망가는 게임이 아니라고!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG12"
 msgstr "걱정 말라고. 세상이 위험한데 급할 것 있나. 안 그래?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG13"
 msgstr "벌써 서버를 다운시키는 '척' 할 시간인가?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG14"
 msgstr "부디 나가지 말고 HacX를 잊지 말아줘!"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SUICIDE"
 msgstr "%o 은(는) 자기 자신의 존재를 소멸시켰다."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_FALLING"
 msgstr "%o 은(는) 땅바닥에 캔자스만큼 커다란 구멍을 뚫었다."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_CRUSH"
 msgstr "%o 은(는) 인간 빈대떡이 되었다."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_EXIT"
 msgstr "%o 은(는) 로그아웃하려고 시도했다."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_WATER"
 msgstr "%o 은(는) 웹서핑을 못 하는 타입이었다."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SLIME"
 msgstr "%o 은(는) 방사능 바람을 좀 쐬고 왔다."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_LAVA"
 msgstr "%o 은(는) 시원하게 용암 일광욕을 즐겼다."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_BARREL"
 msgstr "%o 은(는) 니트로글리세린을 훅 가게 흡입했다."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SPLASH"
 msgstr "%o 은(는) 작은 입자로 분해되었다."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_R_SPLASH"
 msgstr "%o 은(는) 인체의 신비를 감상했다."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_ROCKET"
 msgstr "%o 은(는) 퀀텀 여행을 즐겼다."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_KILLEDSELF"
 msgstr "%o 은(는) 자기 자신을 해킹했다."
 
@@ -188,12 +215,15 @@ msgstr "%o 은(는) %k 덕분에 하늘을 뚫을 버섯구름이 되었다."
 msgid "OB_MPNUKESPLASH"
 msgstr "%o 은(는) %k 의 핵실험에 참여했다."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_MPTELEFRAG"
 msgstr "%o 은(는) %k 에 의해 자신이 분해되는 꼴을 못 봤다."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_MONTELEFRAG"
 msgstr "%o 의 원자 마디마디가 흩어졌다."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_DEFAULT"
 msgstr "%o 은(는) 파란만장하게 사라졌다."
 
@@ -443,62 +473,79 @@ msgstr "ZONE 20: 칩입자 경보!"
 msgid "TXT_HACXMAP31"
 msgstr "ZONE 31: 건조한 곳"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_CLEV"
 msgstr "이동하는 중..."
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_CHOPPERS"
 msgstr "... 지져버리겠어!"
 
 # Hacx's content here was totally useless so it got removed. However, this
 # string has to be defined and minimally altered so that the Dehacked
 # replacement is not being triggered.
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_BEHOLD"
 msgstr "무적, 광전사, 투명, 보호복, 지도, 아니면 바이저?"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_BEHOLDX"
 msgstr "철들 때다!"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NCON"
 msgstr "전자마귀 모드 ON"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NCOFF"
 msgstr "전자마귀 모드 OFF"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NOMUS"
 msgstr "선택: 불가능 "
 
 # Should probably not be translated...
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_MUS"
 msgstr "볼륨을 올려라!"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_KFAADDED"
 msgstr "때리고 죽이는 모드 ON"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_FAADDED"
 msgstr "마음대로 해, 해커 양반."
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_DQDON"
 msgstr "전지전능 모드 ON"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_DQDOFF"
 msgstr "전지전능 모드 OFF"
 
+msgctxt "doom hacx.hacx1"
 msgid "AMSTR_FOLLOWON"
 msgstr "추적 모드 ON"
 
+msgctxt "doom hacx.hacx1"
 msgid "AMSTR_FOLLOWOFF"
 msgstr "추적 모드 OFF"
 
+msgctxt "doom hacx.hacx1"
 msgid "DOSY"
 msgstr "- 달아날려먼 Y 키를 눌러! -"
 
+msgctxt "doom hacx.hacx1"
 msgid "ENDGAME"
 msgstr ""
 "부적응은 안 하겠지? 그렇겠지?\n"
 "자신 있으면 선택해!"
 
+msgctxt "doom hacx.hacx1"
 msgid "NIGHTMARE"
 msgstr ""
 "그렇게 만만하다면 말리지는 않을게.\n"
@@ -507,6 +554,7 @@ msgstr ""
 "준비됐으면 Y 키를 눌러."
 
 # For most languages the original Doom text should suffice.
+msgctxt "doom hacx.hacx1"
 msgid "QSPROMPT"
 msgstr ""
 "빠른 저장?\n"
@@ -515,6 +563,7 @@ msgstr ""
 "\n"
 "Y키 또는 N키를 입력."
 
+msgctxt "doom hacx.hacx1"
 msgid "QLPROMPT"
 msgstr ""
 "빠른 불러오기?\n"
@@ -556,20 +605,26 @@ msgstr "쏜 씽"
 msgid "CC_MAJONG"
 msgstr "마작 7호"
 
+msgctxt "doom hacx.hacx1"
 msgid "CC_HERO"
 msgstr "댄 에반저"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_BABY"
 msgstr "쏘지 마세요!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_EASY"
 msgstr "체력이 필요해!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_NORMAL"
 msgstr "갈기갈기 찢어버려!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_HARD"
 msgstr "난 무적이다!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_NIGHTMARE"
 msgstr "코드명: 광기!"

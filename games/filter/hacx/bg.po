@@ -11,84 +11,111 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG1"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG2"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG3"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG4"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG5"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG6"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG7"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG8"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG9"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG10"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG11"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG12"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG13"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG14"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SUICIDE"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_FALLING"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_CRUSH"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_EXIT"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_WATER"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SLIME"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_LAVA"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_BARREL"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SPLASH"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_R_SPLASH"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_ROCKET"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_KILLEDSELF"
 msgstr ""
 
@@ -184,12 +211,15 @@ msgstr ""
 msgid "OB_MPNUKESPLASH"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_MPTELEFRAG"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_MONTELEFRAG"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_DEFAULT"
 msgstr ""
 
@@ -398,67 +428,86 @@ msgstr ""
 msgid "TXT_HACXMAP31"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_CLEV"
 msgstr ""
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_CHOPPERS"
 msgstr ""
 
 # Hacx's content here was totally useless so it got removed. However, this
 # string has to be defined and minimally altered so that the Dehacked
 # replacement is not being triggered.
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_BEHOLD"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_BEHOLDX"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NCON"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NCOFF"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NOMUS"
 msgstr ""
 
 # Should probably not be translated...
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_MUS"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_KFAADDED"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_FAADDED"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_DQDON"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_DQDOFF"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "AMSTR_FOLLOWON"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "AMSTR_FOLLOWOFF"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "DOSY"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "ENDGAME"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "NIGHTMARE"
 msgstr ""
 
 # For most languages the original Doom text should suffice.
+msgctxt "doom hacx.hacx1"
 msgid "QSPROMPT"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "QLPROMPT"
 msgstr ""
 
@@ -495,20 +544,26 @@ msgstr ""
 msgid "CC_MAJONG"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "CC_HERO"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_BABY"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_EASY"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_NORMAL"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_HARD"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_NIGHTMARE"
 msgstr ""

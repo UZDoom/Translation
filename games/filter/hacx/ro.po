@@ -10,84 +10,111 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG1"
 msgstr "Sunt prea duri gândacii pentru tine?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG"
 msgstr "Ești sigur că vrei să\\npărăsești acțiunea?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG2"
 msgstr "Încerci să ieși? Și te mai numești hacker?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG3"
 msgstr "Treci înapoi aici până nu-ți trimit un virus!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG4"
 msgstr "Adevărații hackeri nu fug de acțiune."
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG5"
 msgstr "Haide! Nu ai văzut partea cea mai bună încă!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG6"
 msgstr "Te dai bătut acum, și spațiul cibernetic e prăjit!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG7"
 msgstr "GENIE își transmite condoleanțele, ticălosule!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG8"
 msgstr "Hmm. Asta a fost cu eroismele, Hacker."
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG9"
 msgstr "Ce? Vrei să te întorci la captivitate?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG10"
 msgstr "Trebuia să iei pastila albastră."
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG11"
 msgstr "Numele jocului nu e Tremură și Ascunde-te!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG12"
 msgstr "Nicio problemă. Salvarea lumii poate aștepta, nu?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG13"
 msgstr "Cred că e timpul de separare!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG14"
 msgstr "Nu pleca și uita de HacX!"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SUICIDE"
 msgstr "%o s-a sters pe sine din univers."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_FALLING"
 msgstr "%o a format un crater de dimensiunile statului Kansas."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_CRUSH"
 msgstr "%o a devenit o clătită umană."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_EXIT"
 msgstr "%o a încercat să o taie."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_WATER"
 msgstr "%o a înotat ca o cărămidă."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SLIME"
 msgstr "%o a devenit radioactiv."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_LAVA"
 msgstr "%o a făcut o baie fierbinte."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_BARREL"
 msgstr "%o a luat o supradoză de nitroglicerină."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SPLASH"
 msgstr "%o s-a spart în mii de bucățele."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_R_SPLASH"
 msgstr "%o a vrut să vadă cum arăta %g întors pe dos."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_ROCKET"
 msgstr "%o a vrut să vadă cum arăta %g întors pe dos."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_KILLEDSELF"
 msgstr "%o s-a șters pe sine din univers."
 
@@ -183,12 +210,15 @@ msgstr "%o a înghițit proiectilul lui %k."
 msgid "OB_MPNUKESPLASH"
 msgstr "%o a devenit radioactiv în urma distrugerii în masă a lui %k."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_MPTELEFRAG"
 msgstr "%o a fost întors pe dos de către %k."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_MONTELEFRAG"
 msgstr "Structura atomică a lui %o a fost spulberată."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_DEFAULT"
 msgstr "%o a expirat în mod spontan."
 
@@ -449,62 +479,79 @@ msgstr "Alertă Intrus!"
 msgid "TXT_HACXMAP31"
 msgstr "Camera Desicanților"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_CLEV"
 msgstr "Acum Sosiți La..."
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_CHOPPERS"
 msgstr "...te voi prăji!"
 
 # Hacx's content here was totally useless so it got removed. However, this
 # string has to be defined and minimally altered so that the Dehacked
 # replacement is not being triggered.
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_BEHOLD"
 msgstr "inVul, Frț, Invizib, Rad, HaComp, sau Ved-amp?"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_BEHOLDX"
 msgstr "Să Devenim Serioși!"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NCON"
 msgstr "Modul Cibertăietor ACTIVAT"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NCOFF"
 msgstr "Modul Cibertăietor DEZACTIVAT"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NOMUS"
 msgstr "Selecție: Imposibilă"
 
 # Should probably not be translated...
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_MUS"
 msgstr "Mărește Volumul"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_KFAADDED"
 msgstr "INIT-Modul Click-și-Elimină"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_FAADDED"
 msgstr "Așa să fie, Hacker."
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_DQDON"
 msgstr "Ciberpotență ACTIVATĂ"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_DQDOFF"
 msgstr "Ciberpotență DEZACTIVATĂ"
 
+msgctxt "doom hacx.hacx1"
 msgid "AMSTR_FOLLOWON"
 msgstr "Urmărire ACTIVATĂ"
 
+msgctxt "doom hacx.hacx1"
 msgid "AMSTR_FOLLOWOFF"
 msgstr "Urmărire DEZACTIVATĂ"
 
+msgctxt "doom hacx.hacx1"
 msgid "DOSY"
 msgstr "- apasă Y pentru a fugi! -"
 
+msgctxt "doom hacx.hacx1"
 msgid "ENDGAME"
 msgstr ""
 "Ești nebun sau doar prost calibrat?\n"
 "Deci? Da sau Nu?"
 
+msgctxt "doom hacx.hacx1"
 msgid "NIGHTMARE"
 msgstr ""
 "Ești sigur? Nu poți face față dificultății, hacker!\n"
@@ -512,6 +559,7 @@ msgstr ""
 "Apasă Y ca să mori."
 
 # For most languages the original Doom text should suffice.
+msgctxt "doom hacx.hacx1"
 msgid "QSPROMPT"
 msgstr ""
 "Salvare rapidă peste fișierul numit\n"
@@ -520,6 +568,7 @@ msgstr ""
 "\n"
 "Apasă Y sau N."
 
+msgctxt "doom hacx.hacx1"
 msgid "QLPROMPT"
 msgstr ""
 "Vrei să încarci rapid fișierul numit\n"
@@ -561,20 +610,26 @@ msgstr "Spinos"
 msgid "CC_MAJONG"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "CC_HERO"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_BABY"
 msgstr "Te rog nu trage!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_EASY"
 msgstr "Aarș, am nevoie de un medic!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_NORMAL"
 msgstr "Să-i facem zob!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_HARD"
 msgstr "Sunt nemuritor!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_NIGHTMARE"
 msgstr "Demență!"

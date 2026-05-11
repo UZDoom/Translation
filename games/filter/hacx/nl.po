@@ -12,84 +12,111 @@ msgstr ""
 "X-Generator: Weblate 5.15-dev\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG1"
 msgstr "Zijn deze bugs te hard voor je?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG"
 msgstr "Weet je zeker dat je de actie wilt staken?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG2"
 msgstr "Proberen te stoppen? En je noemt jezelf een hacker?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG3"
 msgstr "Kom terug voordat ik een virus in je uitlaatpijp stuur!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG4"
 msgstr "Echte hackers komen nooit uit de actie."
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG5"
 msgstr "Kom op! Je hebt het beste deel nog niet gezien!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG6"
 msgstr "Geef het nu op, en cyberspace is een toast!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG7"
 msgstr "GENIE doet je de groeten, klootzak!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG8"
 msgstr "Hmm. Tot zover de held, Hacker."
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG9"
 msgstr "Wat? Ga je liever terug naar de pen?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG10"
 msgstr "Je had de blauwe pil moeten nemen."
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG11"
 msgstr "De naam van het spel is niet Twitch n' Run!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG12"
 msgstr "Het redden van de wereld kan wachten, toch?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG13"
 msgstr "Denk dat het tijd is om het te maken als het 'net en splitsen!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG14"
 msgstr "Ga niet af en vergeet HacX niet, nu!"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SUICIDE"
 msgstr "%o verwijderd zichzelf uit het universum."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_FALLING"
 msgstr "%o vormde een krater ter grootte van Kansas."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_CRUSH"
 msgstr "%o werd een menselijke pannenkoek."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_EXIT"
 msgstr "%o probeerde zich terug te trekken."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_WATER"
 msgstr "%o zwom als een baksteen."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SLIME"
 msgstr "%o werd nucleair."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_LAVA"
 msgstr "%o nam een warm bad."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_BARREL"
 msgstr "%o overdosering op nitroglycerine."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SPLASH"
 msgstr "%o wordt gevild in kleine stukjes."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_R_SPLASH"
 msgstr "%o wilde zien hoe %g er binnenstebuiten uitzag."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_ROCKET"
 msgstr "%o wilde zien hoe %g er binnenstebuiten uitzag."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_KILLEDSELF"
 msgstr "%o schrapte zichzelf uit het universum."
 
@@ -187,12 +214,15 @@ msgid "OB_MPNUKESPLASH"
 msgstr ""
 "%o werd nucleair van de massavernietigingswoede van %k's massavernietigingswoede."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_MPTELEFRAG"
 msgstr "%o werd binnenstebuiten gekeerd met %k."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_MONTELEFRAG"
 msgstr "De atoomstructuur van %o werd gesplitst."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_DEFAULT"
 msgstr "%o is spontaan verlopen."
 
@@ -448,62 +478,79 @@ msgstr "Inbreker alarm!"
 msgid "TXT_HACXMAP31"
 msgstr "Drogende kamer"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_CLEV"
 msgstr "Nu we aankomen bij...."
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_CHOPPERS"
 msgstr "...gaat je kont bakken!"
 
 # Hacx's content here was totally useless so it got removed. However, this
 # string has to be defined and minimally altered so that the Dehacked
 # replacement is not being triggered.
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_BEHOLD"
 msgstr "inVuln, Str, Inviso, Rad, Allmap of Lite-amp?"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_BEHOLDX"
 msgstr "Laten we serieus worden!"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NCON"
 msgstr "Cyberslicer-modus AAN"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NCOFF"
 msgstr "Cyberslicer-modus UIT"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NOMUS"
 msgstr "Selectie: Onmogelijk"
 
 # Should probably not be translated...
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_MUS"
 msgstr "Zet het volume harder\n"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_KFAADDED"
 msgstr "INIT-Twitch n'Kill-modus"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_FAADDED"
 msgstr "Het zij zo, Hacker."
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_DQDON"
 msgstr "Cyberpotentiemodus AAN"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_DQDOFF"
 msgstr "Cyberpotentiemodus UIT"
 
+msgctxt "doom hacx.hacx1"
 msgid "AMSTR_FOLLOWON"
 msgstr "Tracking AAN"
 
+msgctxt "doom hacx.hacx1"
 msgid "AMSTR_FOLLOWOFF"
 msgstr "Tracking UIT"
 
+msgctxt "doom hacx.hacx1"
 msgid "DOSY"
 msgstr "- druk op Y om weg te lopen! -"
 
+msgctxt "doom hacx.hacx1"
 msgid "ENDGAME"
 msgstr ""
 "Ben je gek of onaangepast?\n"
 "Nou? Ja of Nee!"
 
+msgctxt "doom hacx.hacx1"
 msgid "NIGHTMARE"
 msgstr ""
 "Weet u het zeker? Je kunt niet omgaan met\n"
@@ -512,6 +559,7 @@ msgstr ""
 "Druk op Y om te sterven."
 
 # For most languages the original Doom text should suffice.
+msgctxt "doom hacx.hacx1"
 msgid "QSPROMPT"
 msgstr ""
 "Snel opslaan over je spel genaamd\n"
@@ -520,6 +568,7 @@ msgstr ""
 "\n"
 "Druk op Y of N."
 
+msgctxt "doom hacx.hacx1"
 msgid "QLPROMPT"
 msgstr ""
 "Wil je het spel snel laden met de naam\n"
@@ -561,20 +610,26 @@ msgstr "Doornding"
 msgid "CC_MAJONG"
 msgstr "Majong 7"
 
+msgctxt "doom hacx.hacx1"
 msgid "CC_HERO"
 msgstr "Dan Evanger"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_BABY"
 msgstr "Niet schieten, alsjeblieft!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_EASY"
 msgstr "Aargh, ik heb gezondheid nodig!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_NORMAL"
 msgstr "Laten we ze uit elkaar scheuren!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_HARD"
 msgstr "Ik ben onsterfelijk!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_NIGHTMARE"
 msgstr "Waanzin!"

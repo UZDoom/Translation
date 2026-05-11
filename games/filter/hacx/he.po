@@ -12,85 +12,112 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && n % 10 == 0) ? 2 : 3));\n"
 "X-Generator: Weblate 5.15-dev\n"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG1"
 msgstr "הבאגים האלה מסובכים מידי בשבילך?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG2"
 msgstr "אתה מנסה לותר? ואתה קורה לעצמך האקר?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG3"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG4"
 msgstr "האקרים אמיתיים אף פעם לא בורחים מהאקשן."
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG5"
 msgstr "קדימה! עדיין לא ראית את החלק הכי טוב!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG6"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG7"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG8"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG9"
 msgstr ""
 
 #, fuzzy
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG10"
 msgstr "היית צריך לקחת את הגלולה הכחולה."
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG11"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG12"
 msgstr "אין דאגה. הצלה של העולם יכולה לחכות, נכון?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG13"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG14"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SUICIDE"
 msgstr "%o מחק את עצמו מהיקום."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_FALLING"
 msgstr "%o יצר מכתש בגודל של קנזס."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_CRUSH"
 msgstr "%o הפך לפנקיק אנושי."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_EXIT"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_WATER"
 msgstr "%o שחה כמו לבנה."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SLIME"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_LAVA"
 msgstr "%o עשה אמבטיה חמה."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_BARREL"
 msgstr "%o לקח יותר מידי ניטרוגליצרין."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SPLASH"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_R_SPLASH"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_ROCKET"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_KILLEDSELF"
 msgstr "%o מחק את עצמו מהיקום."
 
@@ -186,13 +213,16 @@ msgstr "%o בלע את הפצצה הגרעינית של %k."
 msgid "OB_MPNUKESPLASH"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_MPTELEFRAG"
 msgstr ""
 
 #, fuzzy
+msgctxt "doom hacx.hacx1"
 msgid "OB_MONTELEFRAG"
 msgstr "המבנה האטומי של %o התפצל."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_DEFAULT"
 msgstr ""
 
@@ -402,69 +432,88 @@ msgstr ""
 msgid "TXT_HACXMAP31"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_CLEV"
 msgstr "עכשיו מגיעים אל...\n"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_CHOPPERS"
 msgstr ""
 
 # Hacx's content here was totally useless so it got removed. However, this
 # string has to be defined and minimally altered so that the Dehacked
 # replacement is not being triggered.
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_BEHOLD"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_BEHOLDX"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NCON"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NCOFF"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NOMUS"
 msgstr ""
 
 # Should probably not be translated...
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_MUS"
 msgstr "תגביר את הווליום\n"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_KFAADDED"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_FAADDED"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_DQDON"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_DQDOFF"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "AMSTR_FOLLOWON"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "AMSTR_FOLLOWOFF"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "DOSY"
 msgstr "- תלחץ על Y כדי לברוח! -"
 
+msgctxt "doom hacx.hacx1"
 msgid "ENDGAME"
 msgstr ""
 "אתה משוגע או שלא הסתגלת?\n"
 "נו? כן או לא!"
 
+msgctxt "doom hacx.hacx1"
 msgid "NIGHTMARE"
 msgstr ""
 
 # For most languages the original Doom text should suffice.
+msgctxt "doom hacx.hacx1"
 msgid "QSPROMPT"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "QLPROMPT"
 msgstr ""
 
@@ -501,22 +550,28 @@ msgstr ""
 msgid "CC_MAJONG"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "CC_HERO"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_BABY"
 msgstr ""
 
 #, fuzzy
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_EASY"
 msgstr "אאחח, אני צריך בריאות!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_NORMAL"
 msgstr "בוא נפצל אותם לחלקים!"
 
 #, fuzzy
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_HARD"
 msgstr "אני על מוות!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_NIGHTMARE"
 msgstr "שיגעון!"

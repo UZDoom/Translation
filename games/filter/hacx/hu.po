@@ -12,86 +12,113 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 5.17.1\n"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG1"
 msgstr "Túl erősek neked a bogarak is?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG"
 msgstr ""
 "Biztos vagy benne, hogy\\n"
 "kihúzod a kábelt?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG2"
 msgstr "Próbálasz kilépni? És még te nevezed magad hekkernek?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG3"
 msgstr "Gyere csak vissza, mielőtt feldugok neked egy vírust!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG4"
 msgstr "Az igazi hekkerek sosem húzzák ki a kábelt."
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG5"
 msgstr "Nemár! Még nem is láttad a legjobb részt!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG6"
 msgstr "Ha most feladod, akkor a cyberspacenek lőttek!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG7"
 msgstr "GENIE üdvözletét küldi, te mocsok!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG8"
 msgstr "Hmm. Ennyit a hős karrieredről, hekker barátom."
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG9"
 msgstr "Hogy micsoda? inkább visszamennél a tolladhoz?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG10"
 msgstr "Inkább a kék pirulát kellett volna választanod."
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG11"
 msgstr "A játék neve nem Twitch n' Megfutamodás!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG12"
 msgstr "Semmi pánik. A világmegmentés várhat, nemde?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG13"
 msgstr "Kettéváglak mint a netsplit a kapcsolatot!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG14"
 msgstr "Ha elkalandozol, ne feletkezz meg a HacX-ről!"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SUICIDE"
 msgstr "%o kitörölte magát az univerzumból."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_FALLING"
 msgstr "%o egy Kansas méretű krátert hagyott maga után."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_CRUSH"
 msgstr "%o emberi palacsintává lapult."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_EXIT"
 msgstr "%o ki akarta húzni a kábelét."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_WATER"
 msgstr "%o úgy úszik mint egy tégla."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SLIME"
 msgstr "%o felrobbant mérgében."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_LAVA"
 msgstr "%o vett egy forró fürdőt."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_BARREL"
 msgstr "%o túladagolta a nitro-glicerint."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SPLASH"
 msgstr "%o ripityára szakadt szét."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_R_SPLASH"
 msgstr "%o meg akarta tudni %g hogy néz ki belülről."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_ROCKET"
 msgstr "%o meg akarta tudni %g hogy néz ki belülről."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_KILLEDSELF"
 msgstr "%o kitörölte magát az univerzumból."
 
@@ -187,12 +214,15 @@ msgstr "%o megette %k atombomáját"
 msgid "OB_MPNUKESPLASH"
 msgstr "%o felrobbant az idegtől amikor meglátta %k bombáját"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_MPTELEFRAG"
 msgstr "%k kifordította %o-t"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_MONTELEFRAG"
 msgstr "%o atomjaira esett szét"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_DEFAULT"
 msgstr "%o hirtelenjében elérte a lejárati időt"
 
@@ -448,63 +478,80 @@ msgstr "Betolakodó Riadó!"
 msgid "TXT_HACXMAP31"
 msgstr "Szárító Szoba"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_CLEV"
 msgstr "Következő állomás...\n"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_CHOPPERS"
 msgstr "...indulhat a sütögetés!"
 
 # Hacx's content here was totally useless so it got removed. However, this
 # string has to be defined and minimally altered so that the Dehacked
 # replacement is not being triggered.
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_BEHOLD"
 msgstr ""
 "Sérthet (V), Berz (S), Láthat(i), Sugár(R), Térkép(A), vagy Fény Sisak(L)?"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_BEHOLDX"
 msgstr "Ennek fele sem Tréfa!"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NCON"
 msgstr "Kibervágó Mód BE"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NCOFF"
 msgstr "Kibervágó Mód KI"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NOMUS"
 msgstr "Lehetetlen Kiválasztás "
 
 # Should probably not be translated...
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_MUS"
 msgstr "Csavard Fel a Szőnyeget\n"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_KFAADDED"
 msgstr "Twitch n'Kill Mód Betöltése"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_FAADDED"
 msgstr "Akkor hát legyen, hekker."
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_DQDON"
 msgstr "Kibererő Mód BE"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_DQDOFF"
 msgstr "Kibererő Mód KI"
 
+msgctxt "doom hacx.hacx1"
 msgid "AMSTR_FOLLOWON"
 msgstr "Követés BE"
 
+msgctxt "doom hacx.hacx1"
 msgid "AMSTR_FOLLOWOFF"
 msgstr "Követés KI"
 
+msgctxt "doom hacx.hacx1"
 msgid "DOSY"
 msgstr "- nyomj Y-t a nyúlcipő felhúzáshoz -"
 
+msgctxt "doom hacx.hacx1"
 msgid "ENDGAME"
 msgstr ""
 "Őrült vagy, vagy csak simán rosszul vagy összerakva?\n"
 "Nos? Igen vagy Nem!"
 
+msgctxt "doom hacx.hacx1"
 msgid "NIGHTMARE"
 msgstr ""
 "Biztos vagy benne? Nem hinném,\n"
@@ -513,6 +560,7 @@ msgstr ""
 "Nyomj Y-t a halálhoz. \n"
 
 # For most languages the original Doom text should suffice.
+msgctxt "doom hacx.hacx1"
 msgid "QSPROMPT"
 msgstr ""
 "Gyorsmenteni akarsz az alábbi mentésed alatt\n"
@@ -521,6 +569,7 @@ msgstr ""
 "\n"
 "Nyomj Y-t vagy N-t."
 
+msgctxt "doom hacx.hacx1"
 msgid "QLPROMPT"
 msgstr ""
 "Gyorstölteni akarod ezt a mentést\n"
@@ -562,20 +611,26 @@ msgstr "Tövis Úrnő"
 msgid "CC_MAJONG"
 msgstr "Madzsong 7"
 
+msgctxt "doom hacx.hacx1"
 msgid "CC_HERO"
 msgstr "Dan Evanger"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_BABY"
 msgstr "Kérlek ne lőj!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_EASY"
 msgstr "Á, kell egy kis életerő!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_NORMAL"
 msgstr "Tépjük csak szét őket!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_HARD"
 msgstr "Halhatatlan vagyok!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_NIGHTMARE"
 msgstr "Téboly!"

@@ -10,84 +10,111 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG1"
 msgstr "Taitavat nämä ötökät olla liikaa sulle?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG"
 msgstr "Haluatko varmasti irrottaa\\npiuhan toiminnasta?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG2"
 msgstr "Yritätkö lopettaa? Ja sinäkö muka hakkeri?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG3"
 msgstr "Heti takaisin tänne, ennen kuin lähetän viruksen pitkin takaputkeasi!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG4"
 msgstr "Todelliset hakkerit eivät ikinä kytkeydy irti toiminnasta."
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG5"
 msgstr "Älä viitsi! Et ole edes vielä nähnyt parasta kohtaa!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG6"
 msgstr "Luovuta nyt ja kyberavaruus kärtsää!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG7"
 msgstr "GENIE lähettää terveisensä, mäntti!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG8"
 msgstr "Höh, se siitä sankarina olemisesta sitten, hakkeri."
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG9"
 msgstr "Täh? Menisit mieluummin takaisin kynän ääreen?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG10"
 msgstr "Olis pitäny ottaa sininen pilleri."
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG11"
 msgstr "Pelin nimi ei oo Paniikkipako!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG12"
 msgstr "Ei huolta; maailman pelastaminen voi odottaa, eikö niin?"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG13"
 msgstr "Kai sitten on aika katkaista palvelinyhteydet!"
 
+msgctxt "doom hacx.hacx1"
 msgid "QUITMSG14"
 msgstr "Älä nyt mene pois ja unohda HacX:ä!"
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SUICIDE"
 msgstr "%o poisti itsensä maailmankaikkeudesta."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_FALLING"
 msgstr "%o muodosti Kansasin kokoisen kraaterin."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_CRUSH"
 msgstr "%o tuli ihmispannukakun muotoiseksi."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_EXIT"
 msgstr "%o yritti irrottaa piuhan."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_WATER"
 msgstr "%o ui kuin tiiliskivi."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SLIME"
 msgstr "%o kiinnostui ydinasioista."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_LAVA"
 msgstr "%o otti kuuman kylvyn."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_BARREL"
 msgstr "%o sai yliannostuksen nitroglyseriiniä."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_SPLASH"
 msgstr "%o silpoutui riekaleiksi."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_R_SPLASH"
 msgstr "%o halusi nähdä itsensä nurinperin."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_ROCKET"
 msgstr "%o halusi nähdä itsensä nurinperin."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_KILLEDSELF"
 msgstr "%o poisti itsensä maailmankaikkeudesta."
 
@@ -183,12 +210,15 @@ msgstr "%o nieli käyttäjän %k ydinpommin."
 msgid "OB_MPNUKESPLASH"
 msgstr "%o muuttui radioaktiiviseksi käyttäjän %k massatuhoputken takia."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_MPTELEFRAG"
 msgstr "%k käänsi %o raukan nurinpäin."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_MONTELEFRAG"
 msgstr "%o raukan atomirakenne hajosi."
 
+msgctxt "doom hacx.hacx1"
 msgid "OB_DEFAULT"
 msgstr "%o spontaanisti kupsahti."
 
@@ -449,63 +479,80 @@ msgstr "Murtohälytys!"
 msgid "TXT_HACXMAP31"
 msgstr "Kuivatesali"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_CLEV"
 msgstr "Seuraavana..."
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_CHOPPERS"
 msgstr "...kärtsää takalistosi!"
 
 # Hacx's content here was totally useless so it got removed. However, this
 # string has to be defined and minimally altered so that the Dehacked
 # replacement is not being triggered.
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_BEHOLD"
 msgstr ""
 "haavoittumattomuus (V), voima (S), näkymättömyys (I), koko kartta (A) tai valonvahvistus (L)?"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_BEHOLDX"
 msgstr "Otetaanpa tosissaan!"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NCON"
 msgstr "Kyberviipaloijatila PÄÄLLÄ"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NCOFF"
 msgstr "Kyberviipaloijatila POIS PÄÄLTÄ"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_NOMUS"
 msgstr "Valinta ei mahdollinen"
 
 # Should probably not be translated...
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_MUS"
 msgstr "Nuppi kaakkoon"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_KFAADDED"
 msgstr "INIT-Nykäise ja nylje -tila"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_FAADDED"
 msgstr "Olkoon niin, hakkeri."
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_DQDON"
 msgstr "Kyberpotenssitila PÄÄLLÄ"
 
+msgctxt "doom hacx.hacx1"
 msgid "STSTR_DQDOFF"
 msgstr "Kyberpotenssitila POIS PÄÄLTÄ"
 
+msgctxt "doom hacx.hacx1"
 msgid "AMSTR_FOLLOWON"
 msgstr "Seuranta PÄÄLLÄ"
 
+msgctxt "doom hacx.hacx1"
 msgid "AMSTR_FOLLOWOFF"
 msgstr "Seuranta POIS PÄÄLTÄ"
 
+msgctxt "doom hacx.hacx1"
 msgid "DOSY"
 msgstr "- Paina Y paetaksesi! -"
 
+msgctxt "doom hacx.hacx1"
 msgid "ENDGAME"
 msgstr ""
 "Oletko hullu tai häiriintynyt?\n"
 "No? Y tai N!"
 
+msgctxt "doom hacx.hacx1"
 msgid "NIGHTMARE"
 msgstr ""
 "Oletko varma? Et pysty käsittelemään\n"
@@ -514,12 +561,14 @@ msgstr ""
 "Paina Y kuollaksesi. \n"
 
 # For most languages the original Doom text should suffice.
+msgctxt "doom hacx.hacx1"
 msgid "QSPROMPT"
 msgstr ""
 "Haluatko pikatallentaa pelin %s päälle?\n"
 "\n"
 "Paina Y tai N."
 
+msgctxt "doom hacx.hacx1"
 msgid "QLPROMPT"
 msgstr ""
 "Haluatko pikaladata pelin %s?\n"
@@ -559,20 +608,26 @@ msgstr "Okaolio"
 msgid "CC_MAJONG"
 msgstr "Mahjong 7"
 
+msgctxt "doom hacx.hacx1"
 msgid "CC_HERO"
 msgstr ""
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_BABY"
 msgstr "Pyydän, älä ammu!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_EASY"
 msgstr "Aargh, tarvitsen terveyttä!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_NORMAL"
 msgstr "Revitään ne kappaleiksi!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_HARD"
 msgstr "Olen kuolemation!"
 
+msgctxt "doom hacx.hacx1"
 msgid "SKILL_NIGHTMARE"
 msgstr "Mielettömyys!"
