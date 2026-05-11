@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-05-08 10:11+0000\n"
-"Last-Translator: H Tamás <hovanszki@gmail.com>\n"
+"PO-Revision-Date: 2026-05-11 03:44+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/doom-engine-games/hexen-deathkings/hu/>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
@@ -87,6 +87,7 @@ msgstr "Kanális akna"
 msgid "TXT_HEXDD_MAP38"
 msgstr "A Rózsa"
 
+#, fuzzy
 msgid "TXT_HEXDD_CLUS1MSG"
 msgstr ""
 "Megtörlöd még mindig reszkető \n"
@@ -111,6 +112,7 @@ msgstr ""
 "\n"
 "...ugye?"
 
+#, fuzzy
 msgid "TXT_HEXDD_CLUS2MSG"
 msgstr ""
 "Az már biztos számodra, hogy miután \n"
@@ -133,6 +135,7 @@ msgstr ""
 "\n"
 "...a szerencsésebbeknek."
 
+#, fuzzy
 msgid "TXT_HEXDD_WIN1MSG"
 msgstr ""
 "Újra a Káosz Gömb csarnokában \n"
@@ -148,6 +151,7 @@ msgstr ""
 "...szemek melyek mögött gonosz \n"
 "szándék lapul."
 
+#, fuzzy
 msgid "TXT_HEXDD_WIN2MSG"
 msgstr ""
 "Korábban félelemtől reszkető\n"
@@ -168,6 +172,7 @@ msgstr ""
 "Mindazonáltal, sosem voltál olyan, aki \n"
 "könnyen kihátrál a kihívás elől..."
 
+#, fuzzy
 msgid "TXT_HEXDD_WIN3MSG"
 msgstr ""
 "\\n...és a többiek várakoznak.\n"
@@ -188,6 +193,7 @@ msgstr "A vizesés zárva"
 msgid "TXT_ACS_MAP41_8_ADOOR"
 msgstr "Egy ajtó kitárult a kápolnában"
 
+#, fuzzy
 msgid "TXT_ACS_MAP42_4_NOWTH"
 msgstr "Ez felettébb különös..."
 
@@ -218,12 +224,14 @@ msgstr "A rejtvény kétharmada megoldásra került."
 msgid "TXT_ACS_MAP45_1_YOUHE"
 msgstr "Egy emelvény mozgását hallod a távolban"
 
+#, fuzzy
 msgid "TXT_ACS_MAP46_0_ITISD"
 msgstr "Készen van..."
 
 msgid "TXT_ACS_MAP46_1_YOUHA"
 msgstr "Nem fejtetted meg a rejtvényt."
 
+#, fuzzy
 msgid "TXT_ACS_MAP46_2_IMWAR"
 msgstr "Figyelmeztetlek..."
 
@@ -236,6 +244,7 @@ msgstr "És oktondi is."
 msgid "TXT_ACS_MAP46_8_ONEFO"
 msgstr "Egy negyede e rejtvénynek megvan."
 
+#, fuzzy
 msgid "TXT_ACS_MAP46_9_BADCH"
 msgstr "Rossz választás..."
 
@@ -290,6 +299,7 @@ msgstr "Ne nyúlj a bizémhez"
 msgid "TXT_ACS_MAP51_20_GIMME"
 msgstr "Tégy magadévá, kislány!"
 
+#, fuzzy
 msgid "TXT_ACS_MAP51_21_DUHUH"
 msgstr "Nyílván..."
 
@@ -329,9 +339,11 @@ msgstr "A kijárat kinyílt"
 msgid "TXT_ACS_MAP54_1_THEDO"
 msgstr "Az ajtó nem nyílik erről az oldalról"
 
+#, fuzzy
 msgid "TXT_ACS_MAP54_4_THEDO"
 msgstr "Az ajtók kitárultak..."
 
+#, fuzzy
 msgid "TXT_ACS_MAP54_5_IFYOU"
 msgstr "...csak rád várunk."
 
