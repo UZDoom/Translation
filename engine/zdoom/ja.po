@@ -4569,11 +4569,6 @@ msgstr "%s' は別のZDoom型のセーブデータだ。"
 msgid "TXT_TOOOLDSG"
 msgstr "%s' はバージョンが合わないセーブデータだ: %d(%e は旧式版の物)。"
 
-# Shouldn’t this say “%e is the newest supported”?
-# 
-# — Undead
-# 
-# Ask Randi: The text is old. I won't change it.
 msgid "TXT_TOONEWSG"
 msgstr "%s' はバージョンが合わないセーブデータだ: %d(%e は最新版の物)。"
 
