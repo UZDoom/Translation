@@ -197,10 +197,11 @@ function duplicates() {
 }
 
 duplicates en_US.po games engine
+count=$?
+((error_count+=$count))
 duplicates en_US.po engine
 count=$?
 ((error_count+=$count))
-echo
 
 ###
 phase

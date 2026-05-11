@@ -4562,11 +4562,6 @@ msgstr "Simpanan '%s' berasal dari mesin berbasis ZDoom lain:"
 msgid "TXT_TOOOLDSG"
 msgstr "Simpanan '%s' berasal dari versi lama (%d). Versi tertua yang didukung adalah %e."
 
-# Shouldn’t this say “%e is the newest supported”?
-# 
-# — Undead
-# 
-# Ask Randi: The text is old. I won't change it.
 msgid "TXT_TOONEWSG"
 msgstr "Simpanan '%s' berasal dari versi lebih baru (%d). Versi tertinggi yang didukung adalah %e."
 

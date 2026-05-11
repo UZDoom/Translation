@@ -4570,11 +4570,6 @@ msgstr "저장된 게임 '%s'은(는) 다른 Z둠 기반 엔진입니다:"
 msgid "TXT_TOOOLDSG"
 msgstr "저장된 게임'%s'은(는) 구 버전입니다: %d (%e 이 지원되는 버전 중 가장 오래된 버전)."
 
-# Shouldn’t this say “%e is the newest supported”?
-# 
-# — Undead
-# 
-# Ask Randi: The text is old. I won't change it.
 msgid "TXT_TOONEWSG"
 msgstr "저장된 게임'%s'은(는) 새 버전입니다: %d (%e 이 지원되는 버전 중 가장 최근 버전)."
 
