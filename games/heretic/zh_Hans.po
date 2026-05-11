@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-05-11 03:43+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-05-11 14:11+0000\n"
+"Last-Translator: dwing <12104745@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/projects/doom-engine-games/heretic/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
@@ -166,7 +166,6 @@ msgstr ""
 "但从来没人说过当异教徒是件容易的事！"
 
 # Heretic Ep.2
-#, fuzzy
 msgid "HE2TEXT"
 msgstr ""
 "强大的牛头怪们已被你击溃，\n"
@@ -204,7 +203,6 @@ msgstr ""
 "那么，其他那些巨蛇骑士又怎么样呢？"
 
 # Heretic Ep.4
-#, fuzzy
 msgid "HE4TEXT"
 msgstr ""
 "你原以为在迪萨魔死后\n"
