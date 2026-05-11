@@ -12,108 +12,143 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 2026.5-dev\n"
 
+msgctxt "doom harmony"
 msgid "NIGHTMARE"
 msgstr "你真认为能接受得了？\\n\\n按“Y”确认，按“N”取消……"
 
+msgctxt "doom harmony"
 msgid "AMSTR_MARKEDSPOT"
 msgstr "已做标记点"
 
+msgctxt "doom harmony"
 msgid "PD_BLUEO"
 msgstr "需要绿钥匙卡"
 
+msgctxt "doom harmony"
 msgid "PD_REDO"
 msgstr "需要紫钥匙卡"
 
+msgctxt "doom harmony"
 msgid "PD_YELLOWO"
 msgstr "需要黄钥匙卡"
 
+msgctxt "doom harmony"
 msgid "PD_BLUEK"
 msgstr "需要绿钥匙"
 
+msgctxt "doom harmony"
 msgid "PD_YELLOWK"
 msgstr "需要黄钥匙"
 
+msgctxt "doom harmony"
 msgid "PD_REDK"
 msgstr "需要紫钥匙"
 
+msgctxt "doom harmony"
 msgid "GOTARMOR"
 msgstr "拾取了护甲。"
 
+msgctxt "doom harmony"
 msgid "GOTMEGA"
 msgstr "拾取了战斗护甲。"
 
+msgctxt "doom harmony"
 msgid "GOTMSPHERE"
 msgstr "超级治疗"
 
+msgctxt "doom harmony"
 msgid "GOTBLUECARD"
 msgstr "获得了绿钥匙卡。"
 
+msgctxt "doom harmony"
 msgid "GOTYELWCARD"
 msgstr "获得了黄钥匙卡。"
 
+msgctxt "doom harmony"
 msgid "GOTREDCARD"
 msgstr "获得了紫钥匙卡。"
 
+msgctxt "doom harmony"
 msgid "GOTBLUESKUL"
 msgstr "获得了绿钥匙。"
 
+msgctxt "doom harmony"
 msgid "GOTYELWSKUL"
 msgstr "获得了黄钥匙。"
 
+msgctxt "doom harmony"
 msgid "GOTREDSKUL"
 msgstr "获得了紫钥匙。"
 
+msgctxt "doom harmony"
 msgid "GOTSTIM"
 msgstr "治疗蘑菇"
 
+msgctxt "doom harmony"
 msgid "GOTMEDIKIT"
 msgstr "获取了：医疗工具。"
 
+msgctxt "doom harmony"
 msgid "GOTMEDINEED"
 msgstr "获取了：你急需的医疗工具。"
 
+msgctxt "doom harmony"
 msgid "GOTMAP"
 msgstr "地图"
 
+msgctxt "doom harmony"
 msgid "GOTCLIPBOX"
 msgstr "获取了：一箱子弹。"
 
+msgctxt "doom harmony"
 msgid "GOTROCKET"
 msgstr "获取了：手雷。"
 
+msgctxt "doom harmony"
 msgid "GOTROCKBOX"
 msgstr "获取了：手雷包。"
 
+msgctxt "doom harmony"
 msgid "GOTSHELLBOX"
 msgstr "获取了：一盒霰弹枪子弹。"
 
+msgctxt "doom harmony"
 msgid "GOTBACKPACK"
 msgstr "获取了：弹药背包。"
 
+msgctxt "doom harmony"
 msgid "GOTBFG9000"
 msgstr "获取了：手雷。"
 
+msgctxt "doom harmony"
 msgid "GOTCHAINGUN"
 msgstr "获取了：机枪。"
 
+msgctxt "doom harmony"
 msgid "GOTLAUNCHER"
 msgstr "获取了：榴弹发射器。"
 
+msgctxt "doom harmony"
 msgid "GOTPLASMA"
 msgstr "熵投掷器！"
 
+msgctxt "doom harmony"
 msgid "GOTSHOTGUN"
 msgstr "获取了：霰弹枪。"
 
+msgctxt "doom harmony"
 msgid "STSTR_DQDON"
 msgstr "上帝模式开启"
 
+msgctxt "doom harmony"
 msgid "STSTR_DQDOFF"
 msgstr "上帝模式关闭"
 
+msgctxt "doom harmony"
 msgid "STSTR_KFAADDED"
 msgstr "全武器/弹药/钥匙"
 
+msgctxt "doom harmony"
 msgid "STSTR_FAADDED"
 msgstr "全武器和弹药"
 
@@ -172,30 +207,38 @@ msgstr ""
 "     ＝ 剧 终 ＝"
 
 # This text is deliberately empty
+msgctxt "doom harmony"
 msgid "WI_FINISHED"
 msgstr ""
 
 # Yellow needs retranslation
+msgctxt "doom harmony"
 msgid "WI_ENTERING"
 msgstr "正在加载"
 
+msgctxt "doom harmony"
 msgid "SKILL_BABY"
 msgstr "非常简单"
 
+msgctxt "doom harmony"
 msgid "SKILL_EASY"
 msgstr "简单"
 
+msgctxt "doom harmony"
 msgid "SKILL_NORMAL"
 msgstr "普通"
 
+msgctxt "doom harmony"
 msgid "SKILL_HARD"
 msgstr "困难"
 
+msgctxt "doom harmony"
 msgid "SKILL_NIGHTMARE"
 msgstr "非常困难"
 
 msgid "HARMQUITMSG"
 msgstr "感谢体验"
 
+msgctxt "doom harmony"
 msgid "TXT_D2E1"
 msgstr "哈莫尼"

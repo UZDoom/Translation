@@ -11,108 +11,143 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
+msgctxt "doom harmony"
 msgid "NIGHTMARE"
 msgstr ""
 
+msgctxt "doom harmony"
 msgid "AMSTR_MARKEDSPOT"
 msgstr ""
 
+msgctxt "doom harmony"
 msgid "PD_BLUEO"
 msgstr ""
 
+msgctxt "doom harmony"
 msgid "PD_REDO"
 msgstr ""
 
+msgctxt "doom harmony"
 msgid "PD_YELLOWO"
 msgstr ""
 
+msgctxt "doom harmony"
 msgid "PD_BLUEK"
 msgstr ""
 
+msgctxt "doom harmony"
 msgid "PD_YELLOWK"
 msgstr ""
 
+msgctxt "doom harmony"
 msgid "PD_REDK"
 msgstr ""
 
+msgctxt "doom harmony"
 msgid "GOTARMOR"
 msgstr ""
 
+msgctxt "doom harmony"
 msgid "GOTMEGA"
 msgstr ""
 
+msgctxt "doom harmony"
 msgid "GOTMSPHERE"
 msgstr ""
 
+msgctxt "doom harmony"
 msgid "GOTBLUECARD"
 msgstr ""
 
+msgctxt "doom harmony"
 msgid "GOTYELWCARD"
 msgstr ""
 
+msgctxt "doom harmony"
 msgid "GOTREDCARD"
 msgstr ""
 
+msgctxt "doom harmony"
 msgid "GOTBLUESKUL"
 msgstr ""
 
+msgctxt "doom harmony"
 msgid "GOTYELWSKUL"
 msgstr ""
 
+msgctxt "doom harmony"
 msgid "GOTREDSKUL"
 msgstr ""
 
+msgctxt "doom harmony"
 msgid "GOTSTIM"
 msgstr ""
 
+msgctxt "doom harmony"
 msgid "GOTMEDIKIT"
 msgstr ""
 
+msgctxt "doom harmony"
 msgid "GOTMEDINEED"
 msgstr ""
 
+msgctxt "doom harmony"
 msgid "GOTMAP"
 msgstr ""
 
+msgctxt "doom harmony"
 msgid "GOTCLIPBOX"
 msgstr ""
 
+msgctxt "doom harmony"
 msgid "GOTROCKET"
 msgstr ""
 
+msgctxt "doom harmony"
 msgid "GOTROCKBOX"
 msgstr ""
 
+msgctxt "doom harmony"
 msgid "GOTSHELLBOX"
 msgstr ""
 
+msgctxt "doom harmony"
 msgid "GOTBACKPACK"
 msgstr ""
 
+msgctxt "doom harmony"
 msgid "GOTBFG9000"
 msgstr ""
 
+msgctxt "doom harmony"
 msgid "GOTCHAINGUN"
 msgstr ""
 
+msgctxt "doom harmony"
 msgid "GOTLAUNCHER"
 msgstr ""
 
+msgctxt "doom harmony"
 msgid "GOTPLASMA"
 msgstr ""
 
+msgctxt "doom harmony"
 msgid "GOTSHOTGUN"
 msgstr ""
 
+msgctxt "doom harmony"
 msgid "STSTR_DQDON"
 msgstr ""
 
+msgctxt "doom harmony"
 msgid "STSTR_DQDOFF"
 msgstr ""
 
+msgctxt "doom harmony"
 msgid "STSTR_KFAADDED"
 msgstr ""
 
+msgctxt "doom harmony"
 msgid "STSTR_FAADDED"
 msgstr ""
 
@@ -153,30 +188,38 @@ msgid "CLUSTEREXIT1"
 msgstr ""
 
 # This text is deliberately empty
+msgctxt "doom harmony"
 msgid "WI_FINISHED"
 msgstr ""
 
 # Yellow needs retranslation
+msgctxt "doom harmony"
 msgid "WI_ENTERING"
 msgstr ""
 
+msgctxt "doom harmony"
 msgid "SKILL_BABY"
 msgstr ""
 
+msgctxt "doom harmony"
 msgid "SKILL_EASY"
 msgstr ""
 
+msgctxt "doom harmony"
 msgid "SKILL_NORMAL"
 msgstr ""
 
+msgctxt "doom harmony"
 msgid "SKILL_HARD"
 msgstr ""
 
+msgctxt "doom harmony"
 msgid "SKILL_NIGHTMARE"
 msgstr ""
 
 msgid "HARMQUITMSG"
 msgstr ""
 
+msgctxt "doom harmony"
 msgid "TXT_D2E1"
 msgstr ""

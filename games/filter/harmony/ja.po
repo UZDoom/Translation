@@ -13,6 +13,7 @@ msgstr ""
 "X-Generator: Weblate 2026.5-dev\n"
 
 #, fuzzy
+msgctxt "doom harmony"
 msgid "NIGHTMARE"
 msgstr ""
 "ホントウニ タイショデキルト\n"
@@ -20,105 +21,139 @@ msgstr ""
 "\n"
 "'Y'カ'N'デ オウトウセヨ"
 
+msgctxt "doom harmony"
 msgid "AMSTR_MARKEDSPOT"
 msgstr "スポットヲ マーク シタ"
 
+msgctxt "doom harmony"
 msgid "PD_BLUEO"
 msgstr "グリーン キーカード ガ ヒツヨウダ"
 
+msgctxt "doom harmony"
 msgid "PD_REDO"
 msgstr "イエロー キーカード ガ ヒツヨウダ"
 
+msgctxt "doom harmony"
 msgid "PD_YELLOWO"
 msgstr "パープル キーカード ガ ヒツヨウダ"
 
+msgctxt "doom harmony"
 msgid "PD_BLUEK"
 msgstr "グリーン キー ガ ヒツヨウダ"
 
+msgctxt "doom harmony"
 msgid "PD_YELLOWK"
 msgstr "イエロー キー ガ ヒツヨウダ"
 
+msgctxt "doom harmony"
 msgid "PD_REDK"
 msgstr "パープル キー ガ ヒツヨウダ"
 
+msgctxt "doom harmony"
 msgid "GOTARMOR"
 msgstr "アーマー ニュウシュ"
 
+msgctxt "doom harmony"
 msgid "GOTMEGA"
 msgstr "コンバット アーマー ニュウシュ"
 
+msgctxt "doom harmony"
 msgid "GOTMSPHERE"
 msgstr "スーパー ヘルス"
 
+msgctxt "doom harmony"
 msgid "GOTBLUECARD"
 msgstr "グリーン キーカード ニュウシュ"
 
+msgctxt "doom harmony"
 msgid "GOTYELWCARD"
 msgstr "イエロー キーカード ニュウシュ"
 
+msgctxt "doom harmony"
 msgid "GOTREDCARD"
 msgstr "パープル キーカード ニュウシュ"
 
+msgctxt "doom harmony"
 msgid "GOTBLUESKUL"
 msgstr "グリーン キー ニュウシュ"
 
+msgctxt "doom harmony"
 msgid "GOTYELWSKUL"
 msgstr "イエロー キー ニュウシュ"
 
+msgctxt "doom harmony"
 msgid "GOTREDSKUL"
 msgstr "パープル キー ニュウシュ"
 
+msgctxt "doom harmony"
 msgid "GOTSTIM"
 msgstr "ヒーリング マッシュルーム"
 
+msgctxt "doom harmony"
 msgid "GOTMEDIKIT"
 msgstr "シュトク: メディカルキット"
 
+msgctxt "doom harmony"
 msgid "GOTMEDINEED"
 msgstr "シュトク: キンキュウジタイヲ スクウ メディカルキット"
 
+msgctxt "doom harmony"
 msgid "GOTMAP"
 msgstr "コノ クイキノ マップダ "
 
+msgctxt "doom harmony"
 msgid "GOTCLIPBOX"
 msgstr "シュトク: バレット ケース"
 
+msgctxt "doom harmony"
 msgid "GOTROCKET"
 msgstr "シュトク: グレネード"
 
+msgctxt "doom harmony"
 msgid "GOTROCKBOX"
 msgstr "シュトク: グレネード セット"
 
+msgctxt "doom harmony"
 msgid "GOTSHELLBOX"
 msgstr "シュトク: シェル ボックス"
 
+msgctxt "doom harmony"
 msgid "GOTBACKPACK"
 msgstr "シュトク: バックパック"
 
+msgctxt "doom harmony"
 msgid "GOTBFG9000"
 msgstr "シュトク: グレネード"
 
+msgctxt "doom harmony"
 msgid "GOTCHAINGUN"
 msgstr "シュトク: ミニガン"
 
+msgctxt "doom harmony"
 msgid "GOTLAUNCHER"
 msgstr "シュトク: グレネードランチャー"
 
+msgctxt "doom harmony"
 msgid "GOTPLASMA"
 msgstr "エントロピースロワー!"
 
+msgctxt "doom harmony"
 msgid "GOTSHOTGUN"
 msgstr "シュトク: ショットガン"
 
+msgctxt "doom harmony"
 msgid "STSTR_DQDON"
 msgstr "ゴッドモード オン"
 
+msgctxt "doom harmony"
 msgid "STSTR_DQDOFF"
 msgstr "ゴッドモード オフ"
 
+msgctxt "doom harmony"
 msgid "STSTR_KFAADDED"
 msgstr "スベテノ ブキ/カギ/ダンヤク"
 
+msgctxt "doom harmony"
 msgid "STSTR_FAADDED"
 msgstr "スベテノ ブキ/ダンヤク"
 
@@ -173,30 +208,38 @@ msgstr ""
 "    = T H E  E N D ="
 
 # This text is deliberately empty
+msgctxt "doom harmony"
 msgid "WI_FINISHED"
 msgstr ""
 
 # Yellow needs retranslation
+msgctxt "doom harmony"
 msgid "WI_ENTERING"
 msgstr "ローディング"
 
+msgctxt "doom harmony"
 msgid "SKILL_BABY"
 msgstr "ベリーイージー"
 
+msgctxt "doom harmony"
 msgid "SKILL_EASY"
 msgstr "イージー"
 
+msgctxt "doom harmony"
 msgid "SKILL_NORMAL"
 msgstr "ミディアム"
 
+msgctxt "doom harmony"
 msgid "SKILL_HARD"
 msgstr "ハード"
 
+msgctxt "doom harmony"
 msgid "SKILL_NIGHTMARE"
 msgstr "ベリーハード"
 
 msgid "HARMQUITMSG"
 msgstr "プレイ シテクレテ カンシャスル"
 
+msgctxt "doom harmony"
 msgid "TXT_D2E1"
 msgstr ""

@@ -13,110 +13,145 @@ msgstr ""
 "X-Generator: Weblate 2026.5-dev\n"
 
 #, fuzzy
+msgctxt "doom harmony"
 msgid "NIGHTMARE"
 msgstr ""
 "Ти справді вважаєш, що впораєшся з цим?\\n\\n"
 "Натисни 'Y' або 'N'..."
 
+msgctxt "doom harmony"
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Позначено"
 
+msgctxt "doom harmony"
 msgid "PD_BLUEO"
 msgstr "Потрібна ЗЕЛЕНА ключ-карта"
 
+msgctxt "doom harmony"
 msgid "PD_REDO"
 msgstr "Потрібна ФІОЛЕТОВА ключ-карта"
 
+msgctxt "doom harmony"
 msgid "PD_YELLOWO"
 msgstr "Потрібна ЖОВТА ключ-карта"
 
+msgctxt "doom harmony"
 msgid "PD_BLUEK"
 msgstr "Потрібен ЗЕЛЕНИЙ ключ"
 
+msgctxt "doom harmony"
 msgid "PD_YELLOWK"
 msgstr "Потрібен ЖОВТИЙ ключ"
 
+msgctxt "doom harmony"
 msgid "PD_REDK"
 msgstr "Потрібен ФІОЛЕТОВИЙ ключ"
 
+msgctxt "doom harmony"
 msgid "GOTARMOR"
 msgstr "Взято броню."
 
+msgctxt "doom harmony"
 msgid "GOTMEGA"
 msgstr "Взято бойову броню."
 
+msgctxt "doom harmony"
 msgid "GOTMSPHERE"
 msgstr "Суперздоров'я"
 
+msgctxt "doom harmony"
 msgid "GOTBLUECARD"
 msgstr "Отримано ЗЕЛЕНУ ключ-карту."
 
+msgctxt "doom harmony"
 msgid "GOTYELWCARD"
 msgstr "Отримано ЖОВТУ ключ-карту."
 
+msgctxt "doom harmony"
 msgid "GOTREDCARD"
 msgstr "Отримано ФІОЛЕТОВУ ключ-карту."
 
+msgctxt "doom harmony"
 msgid "GOTBLUESKUL"
 msgstr "Отримано ЗЕЛЕНИЙ ключ."
 
+msgctxt "doom harmony"
 msgid "GOTYELWSKUL"
 msgstr "Отримано ЖОВТИЙ ключ."
 
+msgctxt "doom harmony"
 msgid "GOTREDSKUL"
 msgstr "Отримано ФІОЛЕТОВИЙ ключ."
 
+msgctxt "doom harmony"
 msgid "GOTSTIM"
 msgstr "Цілющий гриб"
 
+msgctxt "doom harmony"
 msgid "GOTMEDIKIT"
 msgstr "Отримано: медичний набір."
 
+msgctxt "doom harmony"
 msgid "GOTMEDINEED"
 msgstr "Отримано: медичний набір який тобі НАСПРАВДІ потрібен."
 
+msgctxt "doom harmony"
 msgid "GOTMAP"
 msgstr "Карта"
 
+msgctxt "doom harmony"
 msgid "GOTCLIPBOX"
 msgstr "Отримано: ящик з патронами."
 
+msgctxt "doom harmony"
 msgid "GOTROCKET"
 msgstr "Отримано: Граната."
 
+msgctxt "doom harmony"
 msgid "GOTROCKBOX"
 msgstr "Отримано: Гранати."
 
+msgctxt "doom harmony"
 msgid "GOTSHELLBOX"
 msgstr "Отримано: коробка рушничних набоїв."
 
+msgctxt "doom harmony"
 msgid "GOTBACKPACK"
 msgstr "Отримано: рюкзак для боєприпасів."
 
+msgctxt "doom harmony"
 msgid "GOTBFG9000"
 msgstr "Отримано: Граната."
 
+msgctxt "doom harmony"
 msgid "GOTCHAINGUN"
 msgstr "Отримано: Кулемет."
 
+msgctxt "doom harmony"
 msgid "GOTLAUNCHER"
 msgstr "Отримано: Гранатомет."
 
+msgctxt "doom harmony"
 msgid "GOTPLASMA"
 msgstr "Ентропійний метальник!"
 
+msgctxt "doom harmony"
 msgid "GOTSHOTGUN"
 msgstr "Отримано: Дробовик."
 
+msgctxt "doom harmony"
 msgid "STSTR_DQDON"
 msgstr "Безсмертя УВІМК."
 
+msgctxt "doom harmony"
 msgid "STSTR_DQDOFF"
 msgstr "Безсмертя ВИМК."
 
+msgctxt "doom harmony"
 msgid "STSTR_KFAADDED"
 msgstr "Уся зброя/ боєприпаси/ ключі"
 
+msgctxt "doom harmony"
 msgid "STSTR_FAADDED"
 msgstr "Уся зброя та боєприпаси"
 
@@ -177,30 +212,38 @@ msgstr ""
 "· · · · · = К І Н Е Ц Ь ="
 
 # This text is deliberately empty
+msgctxt "doom harmony"
 msgid "WI_FINISHED"
 msgstr ""
 
 # Yellow needs retranslation
+msgctxt "doom harmony"
 msgid "WI_ENTERING"
 msgstr "Завантаження"
 
+msgctxt "doom harmony"
 msgid "SKILL_BABY"
 msgstr "Дуже легко"
 
+msgctxt "doom harmony"
 msgid "SKILL_EASY"
 msgstr "Легко"
 
+msgctxt "doom harmony"
 msgid "SKILL_NORMAL"
 msgstr "Середньо"
 
+msgctxt "doom harmony"
 msgid "SKILL_HARD"
 msgstr "Складно"
 
+msgctxt "doom harmony"
 msgid "SKILL_NIGHTMARE"
 msgstr "Дуже складно"
 
 msgid "HARMQUITMSG"
 msgstr "Дякуємо за гру"
 
+msgctxt "doom harmony"
 msgid "TXT_D2E1"
 msgstr "Гармонія"

@@ -13,108 +13,143 @@ msgstr ""
 "X-Generator: Weblate 2026.5-dev\n"
 
 #, fuzzy
+msgctxt "doom harmony"
 msgid "NIGHTMARE"
 msgstr "Gerçekten bununla başa çıkabileceğini düşünüyor musun? 'Y' veya 'N' tuşuna basın..."
 
+msgctxt "doom harmony"
 msgid "AMSTR_MARKEDSPOT"
 msgstr "İşaretli nokta"
 
+msgctxt "doom harmony"
 msgid "PD_BLUEO"
 msgstr "YEŞİL anahtar kartı gerektirir"
 
+msgctxt "doom harmony"
 msgid "PD_REDO"
 msgstr "MOR anahtar kartı gerektirir"
 
+msgctxt "doom harmony"
 msgid "PD_YELLOWO"
 msgstr "SARI anahtar kartı gerektirir"
 
+msgctxt "doom harmony"
 msgid "PD_BLUEK"
 msgstr "YEŞİL tuş gerektirir"
 
+msgctxt "doom harmony"
 msgid "PD_YELLOWK"
 msgstr "SARI tuş gerektirir"
 
+msgctxt "doom harmony"
 msgid "PD_REDK"
 msgstr "MOR tuş gerektirir"
 
+msgctxt "doom harmony"
 msgid "GOTARMOR"
 msgstr "Zırhı aldım."
 
+msgctxt "doom harmony"
 msgid "GOTMEGA"
 msgstr "Savaş Zırhı aldı."
 
+msgctxt "doom harmony"
 msgid "GOTMSPHERE"
 msgstr "Süper Sağlık"
 
+msgctxt "doom harmony"
 msgid "GOTBLUECARD"
 msgstr "YEŞİL anahtar kartı elde edildi."
 
+msgctxt "doom harmony"
 msgid "GOTYELWCARD"
 msgstr "SARI anahtar kartı elde edildi."
 
+msgctxt "doom harmony"
 msgid "GOTREDCARD"
 msgstr "MOR anahtar kartı elde edildi."
 
+msgctxt "doom harmony"
 msgid "GOTBLUESKUL"
 msgstr "YEŞİL anahtar elde edildi."
 
+msgctxt "doom harmony"
 msgid "GOTYELWSKUL"
 msgstr "SARI anahtar elde edildi."
 
+msgctxt "doom harmony"
 msgid "GOTREDSKUL"
 msgstr "MOR anahtar elde edildi."
 
+msgctxt "doom harmony"
 msgid "GOTSTIM"
 msgstr "İyileştirici mantar"
 
+msgctxt "doom harmony"
 msgid "GOTMEDIKIT"
 msgstr "Elde edilen: tıbbi kit."
 
+msgctxt "doom harmony"
 msgid "GOTMEDINEED"
 msgstr "Elde edilen: GERÇEKTEN ihtiyacınız olan tıbbi kit."
 
+msgctxt "doom harmony"
 msgid "GOTMAP"
 msgstr "Harita"
 
+msgctxt "doom harmony"
 msgid "GOTCLIPBOX"
 msgstr "Elde edilen: mermi kovanı."
 
+msgctxt "doom harmony"
 msgid "GOTROCKET"
 msgstr "Elde edildi: El bombası."
 
+msgctxt "doom harmony"
 msgid "GOTROCKBOX"
 msgstr "Elde edildi: El bombaları."
 
+msgctxt "doom harmony"
 msgid "GOTSHELLBOX"
 msgstr "Edinildi: Bir kutu av tüfeği fişeği."
 
+msgctxt "doom harmony"
 msgid "GOTBACKPACK"
 msgstr "Edinildi: Cephane çantası."
 
+msgctxt "doom harmony"
 msgid "GOTBFG9000"
 msgstr "Elde edildi: El bombası."
 
+msgctxt "doom harmony"
 msgid "GOTCHAINGUN"
 msgstr "Elde edildi: Minigun."
 
+msgctxt "doom harmony"
 msgid "GOTLAUNCHER"
 msgstr "Elde edildi: El bombası fırlatıcı."
 
+msgctxt "doom harmony"
 msgid "GOTPLASMA"
 msgstr "Entropi fırlatıcı!"
 
+msgctxt "doom harmony"
 msgid "GOTSHOTGUN"
 msgstr "Edinildi: Av tüfeği."
 
+msgctxt "doom harmony"
 msgid "STSTR_DQDON"
 msgstr "Tanrı Modu AÇIK"
 
+msgctxt "doom harmony"
 msgid "STSTR_DQDOFF"
 msgstr "Tanrı Modu KAPALI"
 
+msgctxt "doom harmony"
 msgid "STSTR_KFAADDED"
 msgstr "Tüm silahlar/ cephane/ anahtarlar"
 
+msgctxt "doom harmony"
 msgid "STSTR_FAADDED"
 msgstr "Tüm silahlar ve cephane"
 
@@ -178,30 +213,38 @@ msgstr ""
 "= SON ="
 
 # This text is deliberately empty
+msgctxt "doom harmony"
 msgid "WI_FINISHED"
 msgstr ""
 
 # Yellow needs retranslation
+msgctxt "doom harmony"
 msgid "WI_ENTERING"
 msgstr "Yükleniyor"
 
+msgctxt "doom harmony"
 msgid "SKILL_BABY"
 msgstr "Çok Kolay"
 
+msgctxt "doom harmony"
 msgid "SKILL_EASY"
 msgstr "Kolay"
 
+msgctxt "doom harmony"
 msgid "SKILL_NORMAL"
 msgstr "Orta"
 
+msgctxt "doom harmony"
 msgid "SKILL_HARD"
 msgstr "Sert"
 
+msgctxt "doom harmony"
 msgid "SKILL_NIGHTMARE"
 msgstr "Çok Zor"
 
 msgid "HARMQUITMSG"
 msgstr "Oynadığınız için teşekkürler"
 
+msgctxt "doom harmony"
 msgid "TXT_D2E1"
 msgstr "Harmoni"

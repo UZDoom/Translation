@@ -13,110 +13,145 @@ msgstr ""
 "X-Generator: Weblate 2026.5-dev\n"
 
 #, fuzzy
+msgctxt "doom harmony"
 msgid "NIGHTMARE"
 msgstr ""
 "¿Realmente crees poder con eso?\\n\\n"
 "Pulsa Y o N..."
 
+msgctxt "doom harmony"
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Punto marcado"
 
+msgctxt "doom harmony"
 msgid "PD_BLUEO"
 msgstr "Requiere la tarjeta llave VERDE"
 
+msgctxt "doom harmony"
 msgid "PD_REDO"
 msgstr "Requiere la tarjeta llave VIOLETA"
 
+msgctxt "doom harmony"
 msgid "PD_YELLOWO"
 msgstr "Requiere la tarjeta llave AMARILLA"
 
+msgctxt "doom harmony"
 msgid "PD_BLUEK"
 msgstr "Requiere la llave VERDE"
 
+msgctxt "doom harmony"
 msgid "PD_YELLOWK"
 msgstr "Requiere la llave AMARILLA"
 
+msgctxt "doom harmony"
 msgid "PD_REDK"
 msgstr "Requiere la llave VIOLETA"
 
+msgctxt "doom harmony"
 msgid "GOTARMOR"
 msgstr "Encuentras una armadura."
 
+msgctxt "doom harmony"
 msgid "GOTMEGA"
 msgstr "Encuentras una armadura de combate."
 
+msgctxt "doom harmony"
 msgid "GOTMSPHERE"
 msgstr "Supersalud"
 
+msgctxt "doom harmony"
 msgid "GOTBLUECARD"
 msgstr "Encuentras la tarjeta llave VERDE."
 
+msgctxt "doom harmony"
 msgid "GOTYELWCARD"
 msgstr "Encuentras la tarjeta llave AMARILLA."
 
+msgctxt "doom harmony"
 msgid "GOTREDCARD"
 msgstr "Encuentras la tarjeta llave VIOLETA."
 
+msgctxt "doom harmony"
 msgid "GOTBLUESKUL"
 msgstr "Encuentras la llave VERDE."
 
+msgctxt "doom harmony"
 msgid "GOTYELWSKUL"
 msgstr "Encuentras la llave AMARILLA."
 
+msgctxt "doom harmony"
 msgid "GOTREDSKUL"
 msgstr "Encuentras la llave VIOLETA."
 
+msgctxt "doom harmony"
 msgid "GOTSTIM"
 msgstr "Seta medicinal"
 
+msgctxt "doom harmony"
 msgid "GOTMEDIKIT"
 msgstr "Encuentras un botiquín."
 
+msgctxt "doom harmony"
 msgid "GOTMEDINEED"
 msgstr "Encuentras un botiquín que REALMENTE necesitabas."
 
+msgctxt "doom harmony"
 msgid "GOTMAP"
 msgstr "Mapa"
 
+msgctxt "doom harmony"
 msgid "GOTCLIPBOX"
 msgstr "Encuentras una caja de balas."
 
+msgctxt "doom harmony"
 msgid "GOTROCKET"
 msgstr "Encuentras una granada."
 
+msgctxt "doom harmony"
 msgid "GOTROCKBOX"
 msgstr "Encuentras unas granadas."
 
+msgctxt "doom harmony"
 msgid "GOTSHELLBOX"
 msgstr "Encuentras una caja de cartuchos de escopeta."
 
+msgctxt "doom harmony"
 msgid "GOTBACKPACK"
 msgstr "Encuentras una mochila de municiones."
 
+msgctxt "doom harmony"
 msgid "GOTBFG9000"
 msgstr "Encuentras una granada."
 
+msgctxt "doom harmony"
 msgid "GOTCHAINGUN"
 msgstr "Encuentras una ametralladora."
 
+msgctxt "doom harmony"
 msgid "GOTLAUNCHER"
 msgstr "Encuentras un lanzagranadas."
 
+msgctxt "doom harmony"
 msgid "GOTPLASMA"
 msgstr "¡Lanzador de entropía!"
 
+msgctxt "doom harmony"
 msgid "GOTSHOTGUN"
 msgstr "Encuentras una escopeta."
 
+msgctxt "doom harmony"
 msgid "STSTR_DQDON"
 msgstr "Modo Dios ACTIVADO"
 
+msgctxt "doom harmony"
 msgid "STSTR_DQDOFF"
 msgstr "Modo Dios DESACTIVADO"
 
+msgctxt "doom harmony"
 msgid "STSTR_KFAADDED"
 msgstr "Todas las armas/municiones/llaves"
 
+msgctxt "doom harmony"
 msgid "STSTR_FAADDED"
 msgstr "Todas las armas y municiones"
 
@@ -177,30 +212,38 @@ msgstr ""
 "    = F I N ="
 
 # This text is deliberately empty
+msgctxt "doom harmony"
 msgid "WI_FINISHED"
 msgstr ""
 
 # Yellow needs retranslation
+msgctxt "doom harmony"
 msgid "WI_ENTERING"
 msgstr "Cargando"
 
+msgctxt "doom harmony"
 msgid "SKILL_BABY"
 msgstr "Muy fácil"
 
+msgctxt "doom harmony"
 msgid "SKILL_EASY"
 msgstr "Fácil"
 
+msgctxt "doom harmony"
 msgid "SKILL_NORMAL"
 msgstr "Normal"
 
+msgctxt "doom harmony"
 msgid "SKILL_HARD"
 msgstr "Difícil"
 
+msgctxt "doom harmony"
 msgid "SKILL_NIGHTMARE"
 msgstr "Muy difícil"
 
 msgid "HARMQUITMSG"
 msgstr "Gracias por jugar"
 
+msgctxt "doom harmony"
 msgid "TXT_D2E1"
 msgstr "Armonía"
