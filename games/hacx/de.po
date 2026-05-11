@@ -18,7 +18,9 @@ msgstr "Sind diese Bugs zu viel für dich?"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG"
-msgstr "Bist du sicher, dass du den\\nStecker ziehen willst?"
+msgstr ""
+"Bist du sicher, dass du den\n"
+"Stecker ziehen willst?"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG2"

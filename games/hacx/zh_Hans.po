@@ -18,7 +18,9 @@ msgstr "这些虫子对你来说太难搞了吗？"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG"
-msgstr "你确定要\\n强行脱离行动吗？"
+msgstr ""
+"你确定要\n"
+"强行脱离行动吗？"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG2"

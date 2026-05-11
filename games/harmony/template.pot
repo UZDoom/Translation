@@ -14,6 +14,8 @@ msgstr ""
 msgctxt "doom harmony"
 msgid "NIGHTMARE"
 msgstr ""
+"\n"
+"\n"
 
 msgctxt "doom harmony"
 msgid "AMSTR_MARKEDSPOT"

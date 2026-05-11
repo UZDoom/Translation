@@ -19,7 +19,7 @@ msgstr "These bugs too tough for ya?"
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG"
 msgstr ""
-"Are you sure you want to\\n"
+"Are you sure you want to\n"
 "jack out of the action?"
 
 msgctxt "doom hacx.hacx1"

@@ -17,7 +17,7 @@ msgstr ""
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG"
-msgstr ""
+msgstr "\n"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG2"

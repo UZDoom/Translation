@@ -15,7 +15,10 @@ msgstr ""
 #, fuzzy
 msgctxt "doom harmony"
 msgid "NIGHTMARE"
-msgstr "你真認為自己應付得來？\\n\\n按下 'Y' 或 'N'..."
+msgstr ""
+"你真認為自己應付得來？\n"
+"\n"
+"按下 'Y' 或 'N'..."
 
 msgctxt "doom harmony"
 msgid "AMSTR_MARKEDSPOT"

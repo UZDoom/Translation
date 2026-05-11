@@ -18,7 +18,9 @@ msgstr "Эти баги крутоваты для тебя?"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG"
-msgstr "Ты правда хочешь улизнуть\\nс поля боя?"
+msgstr ""
+"Ты правда хочешь улизнуть\n"
+"с поля боя?"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG2"

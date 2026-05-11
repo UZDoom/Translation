@@ -19,7 +19,7 @@ msgstr "Ĉu ĉi tiuj cimoj estas tro forta por vi?"
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG"
 msgstr ""
-"Ĉu vi certas, ke vi volas\\n"
+"Ĉu vi certas, ke vi volas\n"
 "malkonektiĝi el la batalo?"
 
 msgctxt "doom hacx.hacx1"

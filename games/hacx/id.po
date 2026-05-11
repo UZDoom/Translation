@@ -19,7 +19,7 @@ msgstr "Bug-bug ini terlalu berat buat kamu?"
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG"
 msgstr ""
-"Kamu yakin mau\\n"
+"Kamu yakin mau\n"
 "keluar dari aksi?"
 
 msgctxt "doom hacx.hacx1"

@@ -18,7 +18,9 @@ msgstr "Taitavat nämä ötökät olla liikaa sulle?"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG"
-msgstr "Haluatko varmasti irrottaa\\npiuhan toiminnasta?"
+msgstr ""
+"Haluatko varmasti irrottaa\n"
+"piuhan toiminnasta?"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG2"

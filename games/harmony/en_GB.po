@@ -12,11 +12,11 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 2026.5-dev\n"
 
-#, fuzzy
 msgctxt "doom harmony"
 msgid "NIGHTMARE"
 msgstr ""
-"Do you really think you can handle that?\\n\\n"
+"Do you really think you can handle that?\n"
+"\n"
 "press 'Y' or 'N'..."
 
 msgctxt "doom harmony"

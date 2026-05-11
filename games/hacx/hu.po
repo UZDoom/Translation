@@ -19,7 +19,7 @@ msgstr "Túl erősek neked a bogarak is?"
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG"
 msgstr ""
-"Biztos vagy benne, hogy\\n"
+"Biztos vagy benne, hogy\n"
 "kihúzod a kábelt?"
 
 msgctxt "doom hacx.hacx1"

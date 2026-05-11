@@ -19,7 +19,7 @@ msgstr "Jesu li ti ovi kukci preteški?"
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG"
 msgstr ""
-"Jesi li siguran da\\n"
+"Jesi li siguran da\n"
 "želiš izaći iz akcije?"
 
 msgctxt "doom hacx.hacx1"

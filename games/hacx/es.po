@@ -18,7 +18,9 @@ msgstr "¿Son estos bichos demasiado duros para ti?"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG"
-msgstr "¿Estás segur@[ao_esp] de que\\nquieres desconectarte de la acción?"
+msgstr ""
+"¿Estás segur@[ao_esp] de que\n"
+"quieres desconectarte de la acción?"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG2"

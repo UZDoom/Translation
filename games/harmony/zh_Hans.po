@@ -14,7 +14,10 @@ msgstr ""
 
 msgctxt "doom harmony"
 msgid "NIGHTMARE"
-msgstr "你真认为能接受得了？\\n\\n按“Y”确认，按“N”取消……"
+msgstr ""
+"你真认为能接受得了？\n"
+"\n"
+"按“Y”确认，按“N”取消……"
 
 msgctxt "doom harmony"
 msgid "AMSTR_MARKEDSPOT"

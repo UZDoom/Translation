@@ -15,7 +15,10 @@ msgstr ""
 #, fuzzy
 msgctxt "doom harmony"
 msgid "NIGHTMARE"
-msgstr "정말 이 난이도를 버틸 자신이 있으십니까?\\n\\'Y' 또는 'N'..."
+msgstr ""
+"정말 이 난이도를 버틸 자신이 있으십니까?\n"
+"\n"
+"'Y' 또는 'N'..."
 
 msgctxt "doom harmony"
 msgid "AMSTR_MARKEDSPOT"

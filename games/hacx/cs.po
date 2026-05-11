@@ -19,7 +19,7 @@ msgstr "Jsou ty bugy na tebe moc tvrdé?"
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG"
 msgstr ""
-"Jsi si jistý, že se chceš\\n"
+"Jsi si jistý, že se chceš\n"
 "zdáchnout z akce?"
 
 msgctxt "doom hacx.hacx1"
