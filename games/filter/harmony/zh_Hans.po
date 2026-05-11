@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-05-11 03:44+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-05-11 14:11+0000\n"
+"Last-Translator: dwing <12104745@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/projects/doom-engine-games/harmony-filter/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,6 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 2026.5-dev\n"
 
-#, fuzzy
 msgid "NIGHTMARE"
 msgstr "你真认为能接受得了？\\n\\n按“Y”确认，按“N”取消……"
 
@@ -151,7 +150,6 @@ msgstr "放射区"
 msgid "TXT_HARMMAP11"
 msgstr "厄喀德那"
 
-#, fuzzy
 msgid "CLUSTEREXIT1"
 msgstr ""
 "你感到胃里一阵翻腾……\n"

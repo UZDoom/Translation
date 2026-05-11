@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-05-11 03:44+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-05-11 14:11+0000\n"
+"Last-Translator: dwing <12104745@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/projects/doom-engine-games/doom/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
@@ -166,7 +166,6 @@ msgstr ""
 "以及惊人的续作《炼狱》！\n"
 
 # Doom Ep.2
-#, fuzzy
 msgid "E2TEXT"
 msgstr ""
 "你成功了！统治着失落的火卫二卫星\n"
@@ -184,7 +183,6 @@ msgstr ""
 "最终篇章——《炼狱》了。"
 
 # Doom Ep.3
-#, fuzzy
 msgid "E3TEXT"
 msgstr ""
 "那个策划入侵卫星基地并造成无数\n"

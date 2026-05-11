@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-05-11 03:43+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-05-11 14:11+0000\n"
+"Last-Translator: dwing <12104745@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/projects/doom-engine-games/the-plutonia-experiment/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
@@ -149,7 +149,6 @@ msgstr ""
 "准备给那混蛋一点自创的地狱之苦！"
 
 # Plutonia victory
-#, fuzzy
 msgid "P4TEXT"
 msgstr ""
 "守门人的邪恶面孔四分五裂。\n"

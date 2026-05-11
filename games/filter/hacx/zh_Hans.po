@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-05-11 03:43+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-05-11 14:11+0000\n"
+"Last-Translator: dwing <12104745@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/projects/doom-engine-games/hacx-filter/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
@@ -371,7 +371,6 @@ msgstr ""
 "然后赶紧逃离这个鬼地方！\n"
 "\n"
 
-#, fuzzy
 msgid "X2TEXT"
 msgstr ""
 "人都去哪了？！\n"
@@ -389,7 +388,6 @@ msgstr ""
 "变得越来越荒凉。去向委员会汇报吧。\n"
 "还有，注意你的背后……\n"
 
-#, fuzzy
 msgid "X3TEXT"
 msgstr ""
 "你熟知的文明已经玩完了！\n"
@@ -405,7 +403,6 @@ msgstr ""
 "\n"
 "……（未完待续）……"
 
-#, fuzzy
 msgid "X5TEXT"
 msgstr ""
 "你还活着！\n"
@@ -482,14 +479,12 @@ msgstr "入侵警报！"
 msgid "TXT_HACXMAP31"
 msgstr "干燥室"
 
-#, fuzzy
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_CLEV"
-msgstr "即将抵达……\n"
+msgstr "即将抵达……"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
-#, fuzzy
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_CHOPPERS"
 msgstr "……要把你的屁股烤焦！"
