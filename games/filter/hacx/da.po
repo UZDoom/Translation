@@ -2,13 +2,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
+"PO-Revision-Date: 2026-05-11 03:44+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
-"Language-Team: none\n"
-"PO-Revision-Date: 2026-02-12 19:09+0000\n"
+"Language-Team: Danish <https://hosted.weblate.org/projects/doom-engine-games/hacx-filter/da/>\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2026.5-dev\n"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG1"
@@ -372,6 +374,7 @@ msgstr ""
 "nogle mutant-røvhuller i småstykker\n"
 "og komme væk fra Dodge!"
 
+#, fuzzy
 msgid "X2TEXT"
 msgstr ""
 "Hvor er alle de mennesker?!\n"
@@ -394,6 +397,7 @@ msgstr ""
 "er ved at blive lidt tyndt. Rapport til\n"
 "underudvalget. Og pas på dig selv..."
 
+#, fuzzy
 msgid "X3TEXT"
 msgstr ""
 "Civilisationen, som du kendte den, er nada!\n"
@@ -412,6 +416,7 @@ msgstr ""
 "\n"
 ".....(fortsættelse følger)....."
 
+#, fuzzy
 msgid "X5TEXT"
 msgstr ""
 "Du er i live!\n"
@@ -488,12 +493,14 @@ msgstr "Advarsel om ubudne gæster!"
 msgid "TXT_HACXMAP31"
 msgstr "Tørremiddel-rummet"
 
+#, fuzzy
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_CLEV"
 msgstr "Nu ankommer vi til...\n"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+#, fuzzy
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_CHOPPERS"
 msgstr "...vil stege din røv!"
