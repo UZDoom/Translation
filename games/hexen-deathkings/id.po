@@ -2,15 +2,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-03-09 15:09+0000\n"
-"Last-Translator: Arif Budiman <arifpedia@gmail.com>\n"
+"PO-Revision-Date: 2026-05-11 03:44+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/doom-engine-games/hexen-deathkings/id/>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.17-dev\n"
+"X-Generator: Weblate 2026.5-dev\n"
 
 msgid "TXT_HEXDD_MAP41"
 msgstr "Desa yang Hancur"
@@ -90,6 +90,7 @@ msgstr "Lubang Selokan"
 msgid "TXT_HEXDD_MAP38"
 msgstr "Si Mawar"
 
+#, fuzzy
 msgid "TXT_HEXDD_CLUS1MSG"
 msgstr ""
 "Mengusap tangan gemetar di wajahmu\n"
@@ -113,6 +114,7 @@ msgstr ""
 "\n"
 "bukan?"
 
+#, fuzzy
 msgid "TXT_HEXDD_CLUS2MSG"
 msgstr ""
 "Pasti jiwa-jiwa terkutuk yang menghuni\n"
@@ -134,6 +136,7 @@ msgstr ""
 "\n"
 "...bagi yang beruntung."
 
+#, fuzzy
 msgid "TXT_HEXDD_WIN1MSG"
 msgstr ""
 "Sekali lagi kamu mendapati dirimu di\n"
@@ -149,6 +152,7 @@ msgstr ""
 "...mata-mata yang menyembunyikan\n"
 "niat jahat."
 
+#, fuzzy
 msgid "TXT_HEXDD_WIN2MSG"
 msgstr ""
 "Pernah sekali sebelumnya kamu menggenggam lingkaran\n"
@@ -169,6 +173,7 @@ msgstr ""
 "Tapi bagaimanapun, kamu tidak pernah jadi orang yang\n"
 "mundur dari sebuah tantangan..."
 
+#, fuzzy
 msgid "TXT_HEXDD_WIN3MSG"
 msgstr ""
 "\\n...dan pemain-pemain lain menanti.\n"
@@ -189,6 +194,7 @@ msgstr "Air terjun terblokir"
 msgid "TXT_ACS_MAP41_8_ADOOR"
 msgstr "Sebuah pintu telah terbuka di kapel"
 
+#, fuzzy
 msgid "TXT_ACS_MAP42_4_NOWTH"
 msgstr "Ini aneh sekali..."
 
@@ -219,12 +225,14 @@ msgstr "Dua pertiga teka-teki telah terpecahkan"
 msgid "TXT_ACS_MAP45_1_YOUHE"
 msgstr "Kamu mendengar sebuah platform bergerak di kejauhan"
 
+#, fuzzy
 msgid "TXT_ACS_MAP46_0_ITISD"
 msgstr "Sudah selesai..."
 
 msgid "TXT_ACS_MAP46_1_YOUHA"
 msgstr "Kamu belum menyelesaikan teka-teki"
 
+#, fuzzy
 msgid "TXT_ACS_MAP46_2_IMWAR"
 msgstr "Aku memperingatkanmu..."
 
@@ -237,6 +245,7 @@ msgstr "Dan bodoh pula"
 msgid "TXT_ACS_MAP46_8_ONEFO"
 msgstr "Seperempat teka-teki ini telah selesai"
 
+#, fuzzy
 msgid "TXT_ACS_MAP46_9_BADCH"
 msgstr "Pilihan yang buruk..."
 
@@ -294,6 +303,7 @@ msgstr "Vorpal?!?!?!"
 msgid "TXT_ACS_MAP51_20_GIMME"
 msgstr "Kasih aku sedikit sayang, nak"
 
+#, fuzzy
 msgid "TXT_ACS_MAP51_21_DUHUH"
 msgstr "Duh-uhhh..."
 
@@ -333,9 +343,11 @@ msgstr "Jalan keluar terbuka"
 msgid "TXT_ACS_MAP54_1_THEDO"
 msgstr "Pintu-pintu tidak bisa dibuka dari sisi ini"
 
+#, fuzzy
 msgid "TXT_ACS_MAP54_4_THEDO"
 msgstr "Pintu-pintunya terbuka..."
 
+#, fuzzy
 msgid "TXT_ACS_MAP54_5_IFYOU"
 msgstr "...jika kamu sudah siap"
 

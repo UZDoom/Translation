@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-17 13:10+0000\n"
+"PO-Revision-Date: 2026-05-11 03:44+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/doom-engine-games/hacx-filter/es/>\n"
 "Language: es\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16.1-dev\n"
+"X-Generator: Weblate 2026.5-dev\n"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG1"
@@ -377,6 +377,7 @@ msgstr ""
 "un viaje por el ciberespacio, rebanar unos\n"
 "cuantos traseros mutantes, y pirarte de Dodge!"
 
+#, fuzzy
 msgid "X2TEXT"
 msgstr ""
 "¡¿Dónde está toda la gente?!\n"
@@ -398,6 +399,7 @@ msgstr ""
 "vecindario esté algo despoblado. Persónate\n"
 "ante el subcomité. Y vigila tus espaldas...\n"
 
+#, fuzzy
 msgid "X3TEXT"
 msgstr ""
 "¡La civilización como la conoces ya no es nada!\n"
@@ -414,6 +416,7 @@ msgstr ""
 "\n"
 "... (continuará) ..."
 
+#, fuzzy
 msgid "X5TEXT"
 msgstr ""
 "¡Estás viv@[ao_esp]!\n"
@@ -490,12 +493,14 @@ msgstr "¡Alerta de Intruso!"
 msgid "TXT_HACXMAP31"
 msgstr "Sala del Desecante"
 
+#, fuzzy
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_CLEV"
 msgstr "Ahora llegando a...\n"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+#, fuzzy
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_CHOPPERS"
 msgstr "... ¡voy a freirte el trasero!"

@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-05-09 17:53+0000\n"
-"Last-Translator: Automatic translation add-on <noreply-addon-autotranslate@weblate.org>\n"
+"PO-Revision-Date: 2026-05-11 03:43+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/projects/doom-engine-games/chex-quest/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
@@ -219,6 +219,7 @@ msgctxt "chex"
 msgid "OB_MPR_SPLASH"
 msgstr "%o被%k的推进器击中了。"
 
+#, fuzzy
 msgctxt "chex"
 msgid "E1TEXT"
 msgstr ""

@@ -2,15 +2,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-30 17:38+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-05-11 03:44+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/doom-engine-games/strife/cs/>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
-"X-Generator: Weblate 5.15-dev\n"
+"X-Generator: Weblate 2026.5-dev\n"
 
 msgid "TXT_STRIFE_MAP01"
 msgstr "ZÓNA 1: Svatyně"
@@ -316,9 +316,9 @@ msgstr "Ty se vyplatí!"
 msgid "TXT_RNO3_SCRIPT02_D12128_COMEO"
 msgstr "No tak, 200 zlatých!"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D13644_ICANT"
-msgstr ""
-"Nemůžu uvěřit, že jsem zkysnul s touhle prací. Řekli mi, že z téhle brány vylezlo něco zlého... A teď tady mám stát, dokud to znovu nevyleze!"
+msgstr "Nemůžu uvěřit, že jsem zkysnul s touhle prací. Řekli mi, že z téhle brány vylezlo něco zlého... A teď tady mám stát, dokud to znovu nevyleze!"
 
 msgid "TXT_RPLY0_SCRIPT02_D13644_WHATG"
 msgstr "Jaké brány?"
@@ -458,9 +458,9 @@ msgstr "A je to. Buď opatrný."
 msgid "TXT_RNO2_SCRIPT02_D21224_WELLM"
 msgstr "Možná si můžeš dovolit nějaké obvazy?"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D22740_IHOPE"
-msgstr ""
-"Doufám, že Macil ví, co dělá. Jestli Řád zjistí, že pomáhám Frontě, jsem mrtvý... Ne, že by vás to mělo trápit. Medik Fronty mi pro vás dal vylepšovací čip, připraven? "
+msgstr "Doufám, že Macil ví, co dělá. Jestli Řád zjistí, že pomáhám Frontě, jsem mrtvý... Ne, že by vás to mělo trápit. Medik Fronty mi pro vás dal vylepšovací čip, připraven? "
 
 msgid "TXT_RPLY0_SCRIPT02_D22740_YESIM"
 msgstr "Ano, jsem připravený."
@@ -505,6 +505,7 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT02_D25772_WHATS"
 msgstr "Nějaké zvěsti?"
 
+#, fuzzy
 msgid "TXT_RYES0_SCRIPT02_D25772_THEWO"
 msgstr "Kolují zvěsti... že stoky ukrývají víc než jen krysy a roboty."
 
@@ -533,13 +534,13 @@ msgstr "Za Řádem se toho skrývá víc, než se zdá."
 msgid "TXT_RNO0_SCRIPT02_D28804_WELLT"
 msgstr "Popovídáme si, když budeš mít zlato!"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D30320_THATS"
-msgstr ""
-"A to je vše, příteli, studnice mé moudrosti vyschla. Stejně jsem ti řekl víc, než jsem měl. Hodně štěstí... a už se nevracej."
+msgstr "A to je vše, příteli, studnice mé moudrosti vyschla. Stejně jsem ti řekl víc, než jsem měl. Hodně štěstí... a už se nevracej."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D31836_HEYIM"
-msgstr ""
-"Hej, já jsem tu jen pro případ nouze. Jestli se něco stane s jádrem, jsem tu, abych zajistil, že se nikdo nedostane dovnitř... ani ven."
+msgstr "Hej, já jsem tu jen pro případ nouze. Jestli se něco stane s jádrem, jsem tu, abych zajistil, že se nikdo nedostane dovnitř... ani ven."
 
 msgid "TXT_DLG_SCRIPT02_D33352_WATCH"
 msgstr "Dávej si na sebe pozor, poddaný!"
@@ -556,9 +557,9 @@ msgstr "Hej ty, sem nikdo nesmí. Jdi dál!"
 msgid "TXT_DLG_SCRIPT02_D39416_IRALE"
 msgstr "Irale tě hned vyzbrojí!"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D40932_IMKIN"
-msgstr ""
-"Jsem takový hledač talentů pro rebely. Někdo tak dobrý jako ty by si mohl vydělat hodně zlata... pokud by se spojil s těmi správnými lidmi."
+msgstr "Jsem takový hledač talentů pro rebely. Někdo tak dobrý jako ty by si mohl vydělat hodně zlata... pokud by se spojil s těmi správnými lidmi."
 
 msgid "TXT_RPLY0_SCRIPT02_D40932_IMINT"
 msgstr "Mám zájem."
@@ -664,9 +665,9 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT02_D66704_FINEB"
 msgstr "To je dobře."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D68220_SOYOU"
-msgstr ""
-"Tak ty jsi ten blázen, který ukradl kalich? Teď tě nechám zatknout jako rebelského zloděje... a tím si upevním svou pozici s Řádem. Jaký je to pocit, být bezděčnou figurkou? Dám ti radu: Bude to bolet. "
+msgstr "Tak ty jsi ten blázen, který ukradl kalich? Teď tě nechám zatknout jako rebelského zloděje... a tím si upevním svou pozici s Řádem. Jaký je to pocit, být bezděčnou figurkou? Dám ti radu: Bude to bolet. "
 
 msgid "TXT_RPLY0_SCRIPT02_D68220_ITSUC"
 msgstr "Je to na hovno!"
@@ -779,6 +780,7 @@ msgstr "Samozřejmě!"
 msgid "TXT_RPLY1_SCRIPT02_D92476_NOAND"
 msgstr "Ne a žádný nepotřebuju!"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D93992_SORRY"
 msgstr "Pardon! Nechtěl jsem... jeďte tady nahoru, prosím."
 
@@ -828,9 +830,9 @@ msgstr "Díky."
 msgid "TXT_DLG_SCRIPT02_D104604_RELEA"
 msgstr "Drž se dál, nech starce na pokoji."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT03_D0_WELCO"
-msgstr ""
-"Vítej u posledního plamínku naděje. Jen my máme svobodnou vůli vzdorovat Řádu. Máme sice nejčilejší vědecké génie a mnoho schopných vojáků, ale chybí nám ten jeden... pomocník, který by nás posunul vpřed. Pomoz nám."
+msgstr "Vítej u posledního plamínku naděje. Jen my máme svobodnou vůli vzdorovat Řádu. Máme sice nejčilejší vědecké génie a mnoho schopných vojáků, ale chybí nám ten jeden... pomocník, který by nás posunul vpřed. Pomoz nám."
 
 msgid "TXT_RPLY0_SCRIPT03_D0_ALLRI"
 msgstr "Dobře, příjimám."
@@ -1081,9 +1083,9 @@ msgid "TXT_DLG_SCRIPT03_D43964_WERET"
 msgstr ""
 "Snažíme se zjistit, kde jsou mechanismy hradní brány, ale zatím jsme nic nenašli."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT03_D45480_DONTG"
-msgstr ""
-"Nenech se chytit. Slyšel jsem děsivé příběhy o tom, co dělají našim lidem, když je uvězní. Prostě zmizí... beze stopy."
+msgstr "Nenech se chytit. Slyšel jsem děsivé příběhy o tom, co dělají našim lidem, když je uvězní. Prostě zmizí... beze stopy."
 
 msgid "TXT_DLG_SCRIPT03_D46996_HERES"
 msgstr ""
@@ -1215,9 +1217,9 @@ msgstr "Kde je energetický krystal?"
 msgid "TXT_DLG_SCRIPT04_D37900_IFYOU"
 msgstr "Jestli se nepustíš do práce, zastřelí tě tak jako tak. Pohni tunikou!"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT04_D39416_IDONT"
-msgstr ""
-"Nechci plašit, ale jestli budou krystal dál takhle protěžovat, tak se nalomí a pak roztříští a pak BUM! ...Jen tak přemýšlím."
+msgstr "Nechci plašit, ale jestli budou krystal dál takhle protěžovat, tak se nalomí a pak roztříští a pak BUM! ...Jen tak přemýšlím."
 
 msgid "TXT_DLG_SCRIPT04_D40932_LETME"
 msgstr ""
@@ -1388,9 +1390,9 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT06_D9096_ANYTH"
 msgstr "Mohl bys udělat ještě něco?"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT06_D10612_GOODL"
-msgstr ""
-"Hodně štěstí. Otevřel jsem pro tebe několik našich tunelů. To by ti mělo tvůj úkol usnadnit. Ó, velikost deset, perfektní! ...Ale barva je hrozná."
+msgstr "Hodně štěstí. Otevřel jsem pro tebe několik našich tunelů. To by ti mělo tvůj úkol usnadnit. Ó, velikost deset, perfektní! ...Ale barva je hrozná."
 
 msgid "TXT_RPLY0_SCRIPT06_D10612_THANK"
 msgstr "Díky za pomoc."
@@ -1545,9 +1547,9 @@ msgstr "Za tohle budou pykat!"
 msgid "TXT_DLG_SCRIPT10_D15160_FIGHT"
 msgstr "Bojuj za Frontu a svobodu! Odchod."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT10_D16676_IAMTH"
-msgstr ""
-"Já jsem Jedním bohem... Potřebuju jeho duši abych se osvobodil a opustil své tělo a mohl se k němu připojit na nebesích. Nemáš ani tušení, co držíš v rukách... a jaké hrůze čelíš... Jeden bůh musí být svobodný... odmění mě... Budu jeden..."
+msgstr "Já jsem Jedním bohem... Potřebuju jeho duši abych se osvobodil a opustil své tělo a mohl se k němu připojit na nebesích. Nemáš ani tušení, co držíš v rukách... a jaké hrůze čelíš... Jeden bůh musí být svobodný... odmění mě... Budu jeden..."
 
 msgid "TXT_RPLY0_SCRIPT10_D16676_IWILL"
 msgstr "Zničím tě!"
@@ -1892,9 +1894,9 @@ msgstr "Jen tak dál, bez tebe bychom to nedokázali."
 msgid "TXT_DLG_SCRIPT11_D0_IMTHE"
 msgstr "Já jsem tu klíčníkem."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT11_D1516_ALOTO"
-msgstr ""
-"Většina lidí by řekla, že tohle je nevděčná a nedůležitá práce, ale není, naopak..."
+msgstr "Většina lidí by řekla, že tohle je nevděčná a nedůležitá práce, ale není, naopak..."
 
 msgid "TXT_RPLY0_SCRIPT11_D1516_GIVEM"
 msgstr "Dej mi klíč!"
@@ -1987,9 +1989,9 @@ msgstr "Vrátím se s jeho dílem!"
 msgid "TXT_DLG_SCRIPT12_D13644_THERI"
 msgstr "Řeka času plyne stále vpřed zatímco ty zůstáváš stát."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT12_D15160_PITIF"
-msgstr ""
-"Ubohý člověče, dokázal jsi to, co tisíce před tebou ne... Přinášíš mi moc Pečetě, hlas Jednoho boha."
+msgstr "Ubohý člověče, dokázal jsi to, co tisíce před tebou ne... Přinášíš mi moc Pečetě, hlas Jednoho boha."
 
 msgid "TXT_RPLY0_SCRIPT12_D15160_IDONT"
 msgstr "Nerozumím ti."
@@ -2082,9 +2084,9 @@ msgstr "Takový zdravý exemplář! Moji pomoc nepotřebujete, že ne?"
 msgid "TXT_RPLY0_SCRIPT17_D6064_WELLY"
 msgstr "Potřebuju. Poslal mě Macil."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT17_D7580_SHHHH"
-msgstr ""
-"Pššš... Buď potichu, leda že bys nás oba chtěl nechat popravit. Tak, co pro tebe můžu udělat?"
+msgstr "Pššš... Buď potichu, leda že bys nás oba chtěl nechat popravit. Tak, co pro tebe můžu udělat?"
 
 msgid "TXT_RPLY0_SCRIPT17_D7580_TELLM"
 msgstr "Řekni mi, jak najít Biskupa."
@@ -2194,16 +2196,16 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT22_D1516_DOYOU"
 msgstr "Víš, co je uvnitř?"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT22_D3032_ITSAT"
-msgstr ""
-"Je to přísně tajná oblast. Nejenže se tam Řád snaží zplodit nějakou... příšeru, ale na vlastní oči jsem tam viděl zvláštní artefakt jménem Talisman. Nikdo k němu nesmí. Říká se, že skrývá nesmírnou moc pokud se spojí s dalšími dvěma svého druhu."
+msgstr "Je to přísně tajná oblast. Nejenže se tam Řád snaží zplodit nějakou... příšeru, ale na vlastní oči jsem tam viděl zvláštní artefakt jménem Talisman. Nikdo k němu nesmí. Říká se, že skrývá nesmírnou moc pokud se spojí s dalšími dvěma svého druhu."
 
 msgid "TXT_RPLY0_SCRIPT22_D3032_ISUPP"
 msgstr "Předpokládám, že jej chceš?"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT22_D4548_NOIFY"
-msgstr ""
-"Ne! Jestli ho najdeš, je tvůj. Možná by ti mohl pomoct osvobodit nás od nadvlády. Přál bych ti štěstí, ale jestli tam půjdeš, budeš potřebovat mnohem víc než to..."
+msgstr "Ne! Jestli ho najdeš, je tvůj. Možná by ti mohl pomoct osvobodit nás od nadvlády. Přál bych ti štěstí, ale jestli tam půjdeš, budeš potřebovat mnohem víc než to..."
 
 msgid "TXT_RPLY0_SCRIPT22_D4548_WHATS"
 msgstr "Cos to říkal o minulosti?"
@@ -2212,6 +2214,7 @@ msgid "TXT_DLG_SCRIPT22_D6064_YOUVE"
 msgstr ""
 "Určitě jsi zahlédnul ty zříceniny tady v okolí. Zdá se, že ta kometa, která narazila do naší planety, je ve skutečnosti vesmírná loď, která, věř nebo ne, kdysi dávno pocházela z tohoto světa."
 
+#, fuzzy
 msgid "TXT_RPLY0_SCRIPT22_D6064_SOTHE"
 msgstr "Takže přízraky, Jeden bůh..."
 
@@ -2219,6 +2222,7 @@ msgid "TXT_DLG_SCRIPT22_D7580_THEYA"
 msgstr ""
 "Jsou stvoření, která dříve vládla tomuto světu a teď usilují o zničení všeho živého. Kdosi před námi byl schopen je zapečetit a přišel během toho o život. To je vše, co vím."
 
+#, fuzzy
 msgid "TXT_RPLY0_SCRIPT22_D7580_THANK"
 msgstr "Díky... Uvidím, co budu moct."
 
@@ -2432,6 +2436,7 @@ msgid "TXT_DLG_SCRIPT23_D15160_THANK"
 msgstr ""
 "Díky bohu, žes přišel. Aby ses dostal do továrny, potřebuješ klíč. Ten jsme ukradli, ale náš agent se ztratil v sítí katakomb pod pevností Řádu. Poslal jsem do těch tunelů deset dobrých mužů a žádný se nevrátil. Něco tam dole je!"
 
+#, fuzzy
 msgid "TXT_RPLY0_SCRIPT23_D15160_WHATI"
 msgstr "Co to je? Člověk, nebo...?"
 
@@ -2525,6 +2530,7 @@ msgid "TXT_DLG_SCRIPT23_D24256_THANK"
 msgstr ""
 "Díky bohu, žes přišel. Aby ses dostal do továrny, potřebuješ klíč. Ten jsme ukradli, ale náš agent se ztratil v sítí katakomb pod pevností Řádu. Poslal jsem do těch tunelů deset dobrých mužů a žádný se nevrátil. Něco tam dole je!"
 
+#, fuzzy
 msgid "TXT_RPLY0_SCRIPT23_D24256_WHATI"
 msgstr "Co to je? Člověk, nebo...?"
 
@@ -2742,9 +2748,9 @@ msgid "TXT_DLG_SCRIPT33_D13644_THATS"
 msgstr ""
 "A to je vše, příteli, studnice mé moudrosti vyschla. Stejně jsem ti řekl víc, než jsem měl."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT33_D15160_HARDT"
-msgstr ""
-"Nové hračky se shánějí jen těžko... když jsi švorc. Udělej pro mě malou prácičku a dostaneš víc, než kolik bys mohl kdy utratit. Udělám z tebe boháče."
+msgstr "Nové hračky se shánějí jen těžko... když jsi švorc. Udělej pro mě malou prácičku a dostaneš víc, než kolik bys mohl kdy utratit. Udělám z tebe boháče."
 
 msgid "TXT_RPLY0_SCRIPT33_D15160_IGOTN"
 msgstr "Nemám nic lepšího na práci."
@@ -2803,9 +2809,9 @@ msgstr "Na co čekáš? Sám guvernér tě odmění."
 msgid "TXT_DLG_SCRIPT33_D25772_DIETR"
 msgstr "Zemři, zrádče! "
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT33_D27288_SOYOU"
-msgstr ""
-"Tak ty jsi ten blázen, který ukradl kalich? Teď tě nechám zatknout jako rebelského zloděj... a tím si upevním svou pozici s Řádem. Jaký je to pocit, být bezděčnou figurkou? "
+msgstr "Tak ty jsi ten blázen, který ukradl kalich? Teď tě nechám zatknout jako rebelského zloděj... a tím si upevním svou pozici s Řádem. Jaký je to pocit, být bezděčnou figurkou? "
 
 msgid "TXT_RPLY0_SCRIPT33_D27288_ITSUC"
 msgstr "Je to na hovno!"
@@ -3199,9 +3205,9 @@ msgstr "Díky, ahoj!"
 msgid "TXT_RANDOMGOODBYE_3"
 msgstr "Uvidíme se později!"
 
+#, fuzzy
 msgid "TXT_ILOG1"
-msgstr ""
-"Haló? Velení, právě byl aktivován komunikátor... příjimám obraz a zvuk od... někoho... Hej, ty, dostaň se odtaď... a zahoď ten kalich!"
+msgstr "Haló? Velení, právě byl aktivován komunikátor... příjimám obraz a zvuk od... někoho... Hej, ty, dostaň se odtaď... a zahoď ten kalich!"
 
 msgid "TXT_ILOG2"
 msgstr ""
@@ -3406,9 +3412,9 @@ msgid "TXT_ILOG102"
 msgstr ""
 "Detekuju obří rušení nervových vln přímo před námi. Myslím, že jsme to našli. Pojďme tam a vypněme to!"
 
+#, fuzzy
 msgid "TXT_ILOG103"
-msgstr ""
-"Zrovna, když jsem myslela, že jsme to všechno viděli! Dovnitř jdou jako lidé a vyjdou... ani na to nechci myslet. Znič tu hrůzu!"
+msgstr "Zrovna, když jsem myslela, že jsme to všechno viděli! Dovnitř jdou jako lidé a vyjdou... ani na to nechci myslet. Znič tu hrůzu!"
 
 msgid "TXT_ILOG104"
 msgstr ""
@@ -3522,13 +3528,13 @@ msgid "TXT_ILOG1024"
 msgstr ""
 "Věštec je ten, kdo má u sebe třetí díl. On je ten zrádce. Vrať se k němu a zabij ho. Vrať se ke mě, až bude mrtvý."
 
+#, fuzzy
 msgid "TXT_ILOG1025"
-msgstr ""
-"Vyřízl jsi rakovinu ze svého těla, tvé srdce však stále bije. Dále musíš najít doktora, jenž vraždí a ovládá tvé druhy, Dějepisce. Učiň mu přítrž a další díl bude tvůj."
+msgstr "Vyřízl jsi rakovinu ze svého těla, tvé srdce však stále bije. Dále musíš najít doktora, jenž vraždí a ovládá tvé druhy, Dějepisce. Učiň mu přítrž a další díl bude tvůj."
 
+#, fuzzy
 msgid "TXT_ILOG1026"
-msgstr ""
-"Vyřízl jsi rakovinu ze svého těla, tvé srdce však stále bije. Dále musíš najít doktora, jenž vraždí a ovládá tvé druhy, Dějepisce. Učiň mu přítrž a další díl bude tvůj. Použij teleportér, který jsem otevřel, aby ses k němu dostal. Když je mrtev, použij stejné zařízení k návratu ke mě."
+msgstr "Vyřízl jsi rakovinu ze svého těla, tvé srdce však stále bije. Dále musíš najít doktora, jenž vraždí a ovládá tvé druhy, Dějepisce. Učiň mu přítrž a další díl bude tvůj. Použij teleportér, který jsem otevřel, aby ses k němu dostal. Když je mrtev, použij stejné zařízení k návratu ke mě."
 
 msgid "TXT_ILOG1027"
 msgstr ""
@@ -3701,9 +3707,9 @@ msgid "TXT_SUB_GOOD2"
 msgstr ""
 "Já věděla, že vyhraješ, můj statečný hrdino. Všechen boj ustal. Tvé vítězství nám umožní vyrobit vakcínu, která naše těla vyčistí od viru."
 
+#, fuzzy
 msgid "TXT_SUB_GOOD3"
-msgstr ""
-"Zachránil jsi naši planetu a osvobodil nás. Teď bych ti chtěla poděkovat... osobně. A mimochodem: Mé jméno je Shauna."
+msgstr "Zachránil jsi naši planetu a osvobodil nás. Teď bych ti chtěla poděkovat... osobně. A mimochodem: Mé jméno je Shauna."
 
 msgid "TXT_SUB_SAD1"
 msgstr ""
@@ -3737,13 +3743,13 @@ msgid "TXT_SUB_MAP03_2"
 msgstr ""
 "Řádu došlo, že bez rozmnožování jsou biomechanická vylepšení jediná možnost, jak zachovat své počty a sílu."
 
+#, fuzzy
 msgid "TXT_SUB_MAP03_3"
-msgstr ""
-"Rozklad pokročil tak daleko, že většina nepřátel, kterým čelíme, jsou spíše stroje než lidé, ale věříme, že jejich kolektivní vědomí je řízené z jednoho zdroje..."
+msgstr "Rozklad pokročil tak daleko, že většina nepřátel, kterým čelíme, jsou spíše stroje než lidé, ale věříme, že jejich kolektivní vědomí je řízené z jednoho zdroje..."
 
+#, fuzzy
 msgid "TXT_SUB_MAP03_4"
-msgstr ""
-"...Programátor: tvůrce umělé inteligence, která ovládá akolyty. Znič Programátora a dost možná zasadíme vojskům Řádu mocnou ránu. Ale buď opatrný: Máme zprávy, že umí nechat své útočníky vypařit."
+msgstr "...Programátor: tvůrce umělé inteligence, která ovládá akolyty. Znič Programátora a dost možná zasadíme vojskům Řádu mocnou ránu. Ale buď opatrný: Máme zprávy, že umí nechat své útočníky vypařit."
 
 msgid "TXT_SUB_MAP10_1"
 msgstr ""
@@ -3818,19 +3824,20 @@ msgid "TXT_SUB_LOG16"
 msgstr ""
 "Skladiště je uvnitř elektrárny. Pojďme na to, ať to máme rychle za sebou."
 
+#, fuzzy
 msgid "TXT_SUB_LOG17"
 msgstr "Nikdy by mě nenapadlo, že se budu vkrádat do vězení..."
 
 msgid "TXT_SUB_LOG18"
 msgstr "Holt nic není zadarmo. Nabij zbraň a jdi do toho."
 
+#, fuzzy
 msgid "TXT_SUB_LOG19"
-msgstr ""
-"Dobrá. Uspokojil jsi guvernéra, rozmetal dozorčího... Vypadá to, že teď budeme muset provést menší operaci."
+msgstr "Dobrá. Uspokojil jsi guvernéra, rozmetal dozorčího... Vypadá to, že teď budeme muset provést menší operaci."
 
+#, fuzzy
 msgid "TXT_SUB_LOG20"
-msgstr ""
-"Oh, tys mu uříznul ruku! A já myslela že jsi hodný chlap... jakž takž. Pojďme."
+msgstr "Oh, tys mu uříznul ruku! A já myslela že jsi hodný chlap... jakž takž. Pojďme."
 
 msgid "TXT_SUB_LOG21"
 msgstr "Jen tak dál, příteli. Skoč na teleportér, dostane tě zpět na základnu."
@@ -3850,9 +3857,9 @@ msgid "TXT_SUB_LOG26"
 msgstr ""
 "Řád si myslí, že je uvnitř hradu v bezpečí. Špatně! Pokud otevřeš brány, nebudou proti nám mít šanci. A kvůli tomu musíme do stok. Zamiř si to podél řeky naproti guvernérově sídlu. "
 
+#, fuzzy
 msgid "TXT_SUB_LOG27"
-msgstr ""
-"Dobře, zalez sem. Obyvatelé kanálů jsou příšerní mutanti, ale pomocí své sítě tunelů mají přístup k informacím. Drž si nos... Jdeme dolů."
+msgstr "Dobře, zalez sem. Obyvatelé kanálů jsou příšerní mutanti, ale pomocí své sítě tunelů mají přístup k informacím. Drž si nos... Jdeme dolů."
 
 msgid "TXT_SUB_LOG28"
 msgstr ""
@@ -3868,9 +3875,9 @@ msgid "TXT_SUB_LOG31"
 msgstr ""
 "Hele, podívej! Myslím, že to jsou ty dveře, které chce Weran nechat otevřené!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG32"
-msgstr ""
-"Zavři oči! Nechci to vidět! Ah, moc pozdě... Fuj. To ani nevypadá jako lidské tělo. Co to Řád provedl? Musím tohle nahlásit velení."
+msgstr "Zavři oči! Nechci to vidět! Ah, moc pozdě... Fuj. To ani nevypadá jako lidské tělo. Co to Řád provedl? Musím tohle nahlásit velení."
 
 msgid "TXT_SUB_LOG33"
 msgstr "Nemůžeme někdy mít misi na poli plném kvítí?"
@@ -3882,6 +3889,7 @@ msgstr ""
 msgid "TXT_SUB_LOG35"
 msgstr "Neptej se mě, kde jsme. Taky jsem ztracená. Promiň."
 
+#, fuzzy
 msgid "TXT_SUB_LOG36"
 msgstr "Ta cihla... Neminuli jsme tamtu cihlu? Ne..."
 
@@ -3896,15 +3904,16 @@ msgstr ""
 msgid "TXT_SUB_LOG39"
 msgstr "Á, je to fajn být zase na straně ofenzívy. Jen jim dejte, chlapi!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG40"
 msgstr "Tohle vypadá dobře. Počítače... Programátor... Co myslíš?"
 
 msgid "TXT_SUB_LOG41"
 msgstr "Tohle musí být ta dlouhá chodba. Buď, a nebo už špatně vidím."
 
+#, fuzzy
 msgid "TXT_SUB_LOG42"
-msgstr ""
-"Tohle jsou všechno puncy chrámu zla - hrubá architektura, velký prapor... řekla bych, že bingo!"
+msgstr "Tohle jsou všechno puncy chrámu zla - hrubá architektura, velký prapor... řekla bych, že bingo!"
 
 msgid "TXT_SUB_LOG43"
 msgstr "Tohle je ten všemocný Programátor? To není možné!"
@@ -4069,12 +4078,14 @@ msgid "TXT_SUB_LOG89"
 msgstr ""
 "Továrna je vedle dolů. Richter musí mít na mysli doly degninu. Degninská ruda je magnetická a výbušná, perfektní pro vypnutí silového pole."
 
+#, fuzzy
 msgid "TXT_SUB_LOG90"
 msgstr "Doly, kobky, stoky... skvělé první rande!"
 
 msgid "TXT_SUB_LOG91"
 msgstr "Přála bych si, aby byl Richter trochu přesnější. Hm, zkusme to tadyhle."
 
+#, fuzzy
 msgid "TXT_SUB_LOG92"
 msgstr "Myslím, že jsme... sakra. Nemám tušení, kde jsme."
 
@@ -4113,9 +4124,9 @@ msgid "TXT_SUB_LOG102"
 msgstr ""
 "Detekuju obří rušení nervových vln přímo před námi. Myslím, že jsme to našli."
 
+#, fuzzy
 msgid "TXT_SUB_LOG103"
-msgstr ""
-"Zrovna, když jsem myslela, že jsme už viděli všechno! Dovnitř jdou jako lidé a ven vyjdou... ani na to nechci myslet."
+msgstr "Zrovna, když jsem myslela, že jsme už viděli všechno! Dovnitř jdou jako lidé a ven vyjdou... ani na to nechci myslet."
 
 msgid "TXT_SUB_LOG104"
 msgstr ""
@@ -4150,9 +4161,9 @@ msgstr ""
 "- Pravda může být nalezena jedině v přání jsoucna. Padneš na kolena před Pravým bohem, Jedním světlem. Připoj se ke mě a já složím Pečeť.\n"
 "- Tenhle tajemný dvojhlas už mi leze krkem."
 
+#, fuzzy
 msgid "TXT_SUB_LOG130"
-msgstr ""
-"Ty... Tys rozdrtil můj Řád, proskočil mými lstmi a ohrozil staletí chtíče. Ale já přetrvám. Já tě nakazím a zkazím, tak, jak chci..."
+msgstr "Ty... Tys rozdrtil můj Řád, proskočil mými lstmi a ohrozil staletí chtíče. Ale já přetrvám. Já tě nakazím a zkazím, tak, jak chci..."
 
 msgid "TXT_SUB_LOG200"
 msgstr "To zní jako práce snů, ne?"
@@ -4163,6 +4174,7 @@ msgstr "Viděl jsi moc. Zab ho, Macile!"
 msgid "TXT_SUB_LOG202"
 msgstr "Příště budeš poslouchat mě."
 
+#, fuzzy
 msgid "TXT_SUB_LOG203"
 msgstr "Uf, tyhle postapokalyptické ceny..."
 
@@ -4211,9 +4223,11 @@ msgstr "Mhm, líbí se mi, jak se neseš."
 msgid "TXT_SUB_LOG218"
 msgstr "Jen střílej! Nejsou to lidé!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG219"
 msgstr "Wow! Zčernalý akolyta! Nové kulinářské šílenství..."
 
+#, fuzzy
 msgid "TXT_SUB_LOG220"
 msgstr "Pokračuj s tím a oslepneš... ale líbí se mi to."
 
@@ -4223,15 +4237,18 @@ msgstr "Hádám, že tihle nás už na večeři zvát nebudou!"
 msgid "TXT_SUB_LOG222"
 msgstr "Musíme se dostat na vrchní podlaží."
 
+#, fuzzy
 msgid "TXT_SUB_LOG223"
 msgstr "Počkej... Tohle vypadá zajímavě. Pojďme to omrknout."
 
 msgid "TXT_SUB_LOG224"
 msgstr "Brr, z toho chlápka mi mrazí v zádech. Radši se mu vyhněme."
 
+#, fuzzy
 msgid "TXT_SUB_LOG225"
 msgstr "Doleva! Jdi doleva...! Aha, další doleva!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG226"
 msgstr "Typický, tvrdohlavý, paličatý muž! ...Leda že bys byla holka."
 
@@ -4241,9 +4258,11 @@ msgstr "Silný, hrubý a tichý. Přesně můj typ."
 msgid "TXT_SUB_LOG228"
 msgstr "Dobře! Mýlila jsem se!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG229"
 msgstr "Škoda, že jsme se nikdy nepotkali... tváří v tvář."
 
+#, fuzzy
 msgid "TXT_SUB_LOG230"
 msgstr "Snila jsem o tobě... Kurva."
 
@@ -4254,9 +4273,9 @@ msgstr ""
 msgid "TXT_SUB_LOG232"
 msgstr "Dobrá práce, kamaráde! Je čas přivést tě dovnitř."
 
+#, fuzzy
 msgid "TXT_SUB_LOG233"
-msgstr ""
-"Pozor na ty Křižáky. Jsou to velcí, mohutní roboti a zatraceně zlí. Nevíme nic o jejich zbraních. Vypadá to že... jsou v přesile. Opatrně."
+msgstr "Pozor na ty Křižáky. Jsou to velcí, mohutní roboti a zatraceně zlí. Nevíme nic o jejich zbraních. Vypadá to že... jsou v přesile. Opatrně."
 
 msgid "TXT_SUB_LOG234"
 msgstr ""
@@ -4268,9 +4287,9 @@ msgstr "Dovolíš, aby tě někdo uviděl, a budeme mít tvou hlavu."
 msgid "TXT_SUB_LOG236"
 msgstr "Ty hloupý, klopýtavý, těžkopádný idiotský hrbáči! Prozradils nás!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG237"
-msgstr ""
-"Přála bych si, abych to byla já, kdo bude čekat za těmi dveřmi... ale musím zůstat v podzemí. Je čas setkat se s naším vůdcem, Macilem."
+msgstr "Přála bych si, abych to byla já, kdo bude čekat za těmi dveřmi... ale musím zůstat v podzemí. Je čas setkat se s naším vůdcem, Macilem."
 
 msgid "TXT_BBSUB_SCRIPT02_D57608_IFIKN"
 msgstr ""
@@ -4325,6 +4344,7 @@ msgstr "Super, teď máme nakupovat pro Krysího krále."
 msgid "TXT_BBSUB_SCRIPT06_D4548_OPENT"
 msgstr "Hádám, že tenhle chlápek taky pěkně smrdí."
 
+#, fuzzy
 msgid "TXT_BBSUB_SCRIPT06_D9096_YOUHA"
 msgstr "Další stoky... skvělý. Zajímalo by mě, co tam dole žije."
 
@@ -4338,6 +4358,7 @@ msgid "TXT_BBSUB_SCRIPT10_D12128_THERE"
 msgstr ""
 "Biomechanické? Tak to vysvětluje jejich zdánlivě nekonečné zásoby vojáků! A jejich špatnou náladu.\n"
 
+#, fuzzy
 msgid "TXT_BBSUB_SCRIPT10_D16676_IAMTH"
 msgstr "Podlý sráč... Zab ho!"
 
@@ -4347,9 +4368,9 @@ msgstr "Možná je ošklivý, ale zdá se, že je na naší straně."
 msgid "TXT_BBSUB_SCRIPT17_D10612_OHSUR"
 msgstr "Soudě podle naší nedávné historie hádám, že pokradmu to nepůjde."
 
+#, fuzzy
 msgid "TXT_BBSUB_SCRIPT17_D13644_OHWEL"
-msgstr ""
-"Hmm. Žádný rámus, žádný bordel, maminka nemusí nic uklízet... Taky mi jeden vem, prosím!\n"
+msgstr "Hmm. Žádný rámus, žádný bordel, maminka nemusí nic uklízet... Taky mi jeden vem, prosím!\n"
 
 msgid "TXT_BBSUB_SCRIPT31_D0_OHNOI"
 msgstr ""

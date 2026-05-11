@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-21 00:26+0000\n"
+"PO-Revision-Date: 2026-05-11 03:43+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English (United Kingdom) <https://hosted.weblate.org/projects/doom-engine-games/hacx-filter/en_GB/>\n"
 "Language: en_GB\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16.1-dev\n"
+"X-Generator: Weblate 2026.5-dev\n"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG1"
@@ -374,6 +374,7 @@ msgstr ""
 "butt, and get the hell out of Dodge!\n"
 "\n"
 
+#, fuzzy
 msgid "X2TEXT"
 msgstr ""
 "Where are all the people?!\n"
@@ -393,6 +394,7 @@ msgstr ""
 "sparse. Report to the subcommittee. And\n"
 "watch your back...\n"
 
+#, fuzzy
 msgid "X3TEXT"
 msgstr ""
 "Civilisation as you knew it is nada!\n"
@@ -409,6 +411,7 @@ msgstr ""
 "\n"
 ".....(to be continued)....."
 
+#, fuzzy
 msgid "X5TEXT"
 msgstr ""
 "You're alive!\n"
@@ -485,12 +488,14 @@ msgstr "Intruder Alert!"
 msgid "TXT_HACXMAP31"
 msgstr "Desiccant Room"
 
+#, fuzzy
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_CLEV"
 msgstr "Now Arriving At...\n"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+#, fuzzy
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_CHOPPERS"
 msgstr "...gonna fry your ass!"

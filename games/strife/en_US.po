@@ -2,13 +2,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-12 19:09+0000\n"
+"PO-Revision-Date: 2026-05-11 03:43+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
-"Language-Team: English <https://hosted.weblate.org/projects/uzdoom/common/en/>\n"
+"Language-Team: English <https://hosted.weblate.org/projects/doom-engine-games/strife/en/>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2026.5-dev\n"
 
 msgid "TXT_STRIFE_MAP01"
 msgstr "AREA 1: Sanctuary"
@@ -380,8 +382,7 @@ msgstr "Come on, 200 gold!"
 
 # MAP02: Between governor's mansion and town hall.
 msgid "TXT_DLG_SCRIPT02_D13644_ICANT"
-msgstr ""
-"I can't believe that I got stuck with this duty. They say that something evil came up out of this sewer gate... Now I get to stand here until it comes up again!"
+msgstr "I can't believe that I got stuck with this duty. They say that something evil came up out of this sewer gate… Now I get to stand here until it comes up again!"
 
 # 〃
 msgid "TXT_RPLY0_SCRIPT02_D13644_WHATG"
@@ -561,8 +562,7 @@ msgstr "Well, maybe you can afford some med patches?"
 
 # 〃 (After destroying the crystal in the Power Station)
 msgid "TXT_DLG_SCRIPT02_D22740_IHOPE"
-msgstr ""
-"I hope Macil knows what he's doing. If the Order finds out I'm helping the Front I'm as good as dead... Not that this matters to you any. The Front's medic gave me an upgrade chip for you, are you ready? "
+msgstr "I hope Macil knows what he's doing. If the Order finds out I'm helping the Front I'm as good as dead… Not that this matters to you any. The Front's medic gave me an upgrade chip for you, are you ready?"
 
 # 〃
 msgid "TXT_RPLY0_SCRIPT02_D22740_YESIM"
@@ -624,7 +624,7 @@ msgstr "What's the word?"
 # 〃
 # (This text is only four seconds on screen)
 msgid "TXT_RYES0_SCRIPT02_D25772_THEWO"
-msgstr "The word is... The sewers hold more than just rats and robots."
+msgstr "The word is… The sewers hold more than just rats and robots."
 
 # 〃
 msgid "TXT_DLG_SCRIPT02_D27288_WHATC"
@@ -664,14 +664,11 @@ msgstr "We'll talk when you get gold!"
 
 # 〃
 msgid "TXT_DLG_SCRIPT02_D30320_THATS"
-msgstr ""
-"That's it friend, the well of knowledge has run dry. I've told you more than"
-" I should have anyway. Good luck... And don't come back."
+msgstr "That's it friend, the well of knowledge has run dry. I've told you more than I should have anyway. Good luck… And don't come back."
 
 # MAP02: Power Station guard.
 msgid "TXT_DLG_SCRIPT02_D31836_HEYIM"
-msgstr ""
-"Hey, I'm only here in case of an emergency. If the core breaches, then I make sure no one gets in... or out."
+msgstr "Hey, I'm only here in case of an emergency. If the core breaches, then I make sure no one gets in… or out."
 
 # MAP02: Rust guards.
 msgid "TXT_DLG_SCRIPT02_D33352_WATCH"
@@ -696,8 +693,7 @@ msgstr "Irale will set you right up!"
 
 # MAP02: Harris.
 msgid "TXT_DLG_SCRIPT02_D40932_IMKIN"
-msgstr ""
-"I'm kinda a talent broker for the rebels. A guy who's as good as you could make a lot of gold... if you hooked up with the right people."
+msgstr "I'm kinda a talent broker for the rebels. A guy who's as good as you could make a lot of gold… if you hooked up with the right people."
 
 # 〃
 msgid "TXT_RPLY0_SCRIPT02_D40932_IMINT"
@@ -848,8 +844,7 @@ msgstr "Fine by me."
 
 # 〃
 msgid "TXT_DLG_SCRIPT02_D68220_SOYOU"
-msgstr ""
-"So you're the fool who stole the chalice? I'm going to have you arrested as a rebel thief... Thereby enhancing my position with the Order. How does it feel to be an unwitting pawn? I'll give you a hint, it's gonna hurt. "
+msgstr "So you're the fool who stole the chalice? I'm going to have you arrested as a rebel thief… Thereby enhancing my position with the Order. How does it feel to be an unwitting pawn? I'll give you a hint, it's gonna hurt."
 
 # 〃
 msgid "TXT_RPLY0_SCRIPT02_D68220_ITSUC"
@@ -1000,7 +995,7 @@ msgstr "No, and I don't need one!"
 
 # 〃
 msgid "TXT_DLG_SCRIPT02_D93992_SORRY"
-msgstr "Sorry! I didn't mean... Please go right up."
+msgstr "Sorry! I didn't mean… Please go right up."
 
 # 〃
 msgid "TXT_RPLY0_SCRIPT02_D93992_IKNEW"
@@ -1064,8 +1059,7 @@ msgstr "Release me, leave an old man alone."
 
 # MAP03: Macil.
 msgid "TXT_DLG_SCRIPT03_D0_WELCO"
-msgstr ""
-"Welcome to the last flicker of hope. Only we have the free will to oppose the Order. We have the sharpest scientific minds, and many able bodies, but we lack that one real, uh... Problemsolver, who will give us the edge we need. Help us."
+msgstr "Welcome to the last flicker of hope. Only we have the free will to oppose the Order. We have the sharpest scientific minds, and many able bodies, but we lack that one real, uh… Problemsolver, who will give us the edge we need. Help us."
 
 # 〃
 msgid "TXT_RPLY0_SCRIPT03_D0_ALLRI"
@@ -1395,8 +1389,7 @@ msgstr ""
 
 # 〃
 msgid "TXT_DLG_SCRIPT03_D45480_DONTG"
-msgstr ""
-"Don't get caught. I've heard horror stories about what they do to our people after they're imprisoned. They just disappear... Without a trace."
+msgstr "Don't get caught. I've heard horror stories about what they do to our people after they're imprisoned. They just disappear… Without a trace."
 
 # 〃
 msgid "TXT_DLG_SCRIPT03_D46996_HERES"
@@ -1570,8 +1563,7 @@ msgstr "If you don't get to work, you'll get shot anyway. Move your tunic."
 
 # MAP04: Reactor Core → Northern alarm green door
 msgid "TXT_DLG_SCRIPT04_D39416_IDONT"
-msgstr ""
-"I don't mean to sound alarmist, but if they keep pushing the power crystal this hard it's gonna flaw, and then shatter, and then *boom*! ...Just a thought."
+msgstr "I don't mean to sound alarmist, but if they keep pushing the power crystal this hard it's gonna flaw, and then shatter, and then *boom*! …Just a thought."
 
 # MAP04: Reactor Core → Southern alarm green door
 msgid "TXT_DLG_SCRIPT04_D40932_LETME"
@@ -1802,8 +1794,7 @@ msgstr "Anything else you can do?"
 
 # 〃
 msgid "TXT_DLG_SCRIPT06_D10612_GOODL"
-msgstr ""
-"Good luck. I've opened several of our tunnels for you. It should make your task easier. Oh, size ten, perfect! ...But dreadful colors."
+msgstr "Good luck. I've opened several of our tunnels for you. It should make your task easier. Oh, size ten, perfect! …But dreadful colors."
 
 # 〃
 msgid "TXT_RPLY0_SCRIPT06_D10612_THANK"
@@ -2005,8 +1996,7 @@ msgstr "Fight for the Front and freedom. Move out."
 
 # MAP10: Macil → After destroying the converter in MAP24.
 msgid "TXT_DLG_SCRIPT10_D16676_IAMTH"
-msgstr ""
-"I am the One God... I need his spirit to be free so that I can leave my body, and join him in flight. You have no idea what you possess... And what terror you face... The One God must be free... And he will reward me... I will be one..."
+msgstr "I am the One God… I need his spirit to be free so that I can leave my body, and join him in flight. You have no idea what you possess… And what terror you face… The One God must be free… And he will reward me… I will be one…"
 
 # 〃
 msgid "TXT_RPLY0_SCRIPT10_D16676_IWILL"
@@ -2463,8 +2453,7 @@ msgstr "I'm the keymaster."
 
 # 〃 (Oracle's token)
 msgid "TXT_DLG_SCRIPT11_D1516_ALOTO"
-msgstr ""
-"A lot of people would say this is a thankless and insignificant job. But it's not, in fact..."
+msgstr "A lot of people would say this is a thankless and insignificant job. But it's not, in fact…"
 
 # 〃
 msgid "TXT_RPLY0_SCRIPT11_D1516_GIVEM"
@@ -2588,8 +2577,7 @@ msgstr "The river of time moves forever onward, while you stand still."
 
 # MAP12: Oracle → After killing the Loremaster with Macil dead.
 msgid "TXT_DLG_SCRIPT12_D15160_PITIF"
-msgstr ""
-"Pitiful man, you have done what thousands have failed to do... You bring me the power of the Sigil, the voice of the One God."
+msgstr "Pitiful man, you have done what thousands have failed to do… You bring me the power of the Sigil, the voice of the One God."
 
 # 〃
 msgid "TXT_RPLY0_SCRIPT12_D15160_IDONT"
@@ -2714,8 +2702,7 @@ msgstr "Well, yes. Macil sent me."
 
 # 〃
 msgid "TXT_DLG_SCRIPT17_D7580_SHHHH"
-msgstr ""
-"Shhhh... Keep it quiet, unless you want us both killed. Now, what can I do for you?"
+msgstr "Shhhh… Keep it quiet, unless you want us both killed. Now, what can I do for you?"
 
 # 〃
 msgid "TXT_RPLY0_SCRIPT17_D7580_TELLM"
@@ -2864,8 +2851,7 @@ msgstr "Do you know what's inside?"
 
 # 〃
 msgid "TXT_DLG_SCRIPT22_D3032_ITSAT"
-msgstr ""
-"It's a top secret area. Not only is the Order breeding some kind of... creature in there, I've seen with my own eyes a strange artifact called a Talisman. nobody's allowed near it. Rumor is that it holds great power if united with two others of its kind."
+msgstr "It's a top secret area. Not only is the Order breeding some kind of… creature in there, I've seen with my own eyes a strange artifact called a Talisman. nobody's allowed near it. Rumor is that it holds great power if united with two others of its kind."
 
 # 〃
 msgid "TXT_RPLY0_SCRIPT22_D3032_ISUPP"
@@ -2873,8 +2859,7 @@ msgstr "I suppose you want this thing?"
 
 # 〃
 msgid "TXT_DLG_SCRIPT22_D4548_NOIFY"
-msgstr ""
-"No! If you can find it, it's yours to keep. Maybe you can use it to help free us from our oppression. I'd wish you luck, but you're going to need a lot more than that if you go in there..."
+msgstr "No! If you can find it, it's yours to keep. Maybe you can use it to help free us from our oppression. I'd wish you luck, but you're going to need a lot more than that if you go in there…"
 
 # 〃
 msgid "TXT_RPLY0_SCRIPT22_D4548_WHATS"
@@ -2887,7 +2872,7 @@ msgstr ""
 
 # 〃
 msgid "TXT_RPLY0_SCRIPT22_D6064_SOTHE"
-msgstr "So the spectres, the One God..."
+msgstr "So the spectres, the One God…"
 
 # 〃
 msgid "TXT_DLG_SCRIPT22_D7580_THEYA"
@@ -2896,7 +2881,7 @@ msgstr ""
 
 # 〃
 msgid "TXT_RPLY0_SCRIPT22_D7580_THANK"
-msgstr "Thanks... I'll do what I can."
+msgstr "Thanks… I'll do what I can."
 
 # 〃
 msgid "TXT_DLG_SCRIPT22_D9096_GODSP"
@@ -3186,7 +3171,7 @@ msgstr ""
 
 # 〃
 msgid "TXT_RPLY0_SCRIPT23_D15160_WHATI"
-msgstr "What is it? Human or... ?"
+msgstr "What is it? Human or… ?"
 
 # 〃
 msgid "TXT_DLG_SCRIPT23_D16676_NOTDE"
@@ -3314,7 +3299,7 @@ msgstr ""
 
 # 〃
 msgid "TXT_RPLY0_SCRIPT23_D24256_WHATI"
-msgstr "What is it? Human or... ?"
+msgstr "What is it? Human or… ?"
 
 # 〃
 msgid "TXT_DLG_SCRIPT23_D25772_NOTDE"
@@ -3601,8 +3586,7 @@ msgstr ""
 
 # MAP33: Harris (beginning).
 msgid "TXT_DLG_SCRIPT33_D15160_HARDT"
-msgstr ""
-"Hard to shop for new toys... when you're broke. Run a little errand for me and you'll get more than you could ever spend. I'll make you a rich man."
+msgstr "Hard to shop for new toys… when you're broke. Run a little errand for me and you'll get more than you could ever spend. I'll make you a rich man."
 
 # 〃
 msgid "TXT_RPLY0_SCRIPT33_D15160_IGOTN"
@@ -3682,8 +3666,7 @@ msgstr "Die traitor! "
 
 # MAP33: Mourel.
 msgid "TXT_DLG_SCRIPT33_D27288_SOYOU"
-msgstr ""
-"So you're the fool who stole the chalice? I'm going to have you arrested as a rebel thief... Thereby enhancing my position with the Order. How does it feel to be an unwitting pawn? "
+msgstr "So you're the fool who stole the chalice? I'm going to have you arrested as a rebel thief… Thereby enhancing my position with the Order. How does it feel to be an unwitting pawn?"
 
 # 〃
 msgid "TXT_RPLY0_SCRIPT33_D27288_ITSUC"
@@ -4156,8 +4139,7 @@ msgstr "See you later!"
 
 # MAP33: After getting the hidden com unit in the tavern.
 msgid "TXT_ILOG1"
-msgstr ""
-"Hello? Command, a com unit has just been activated... Am receiving visuals and sound from... somebody... Hey you, get out of there now... and drop the chalice!"
+msgstr "Hello? Command, a com unit has just been activated… Am receiving visuals and sound from… somebody… Hey you, get out of there now… and drop the chalice!"
 
 # MAP02: After getting the com unit from Rowan and leaving his room.
 msgid "TXT_ILOG2"
@@ -4415,8 +4397,7 @@ msgstr ""
 
 # MAP24: Converter room.
 msgid "TXT_ILOG103"
-msgstr ""
-"Just when I think we've seen it all! They go in human and come out... I dont even want to think about it. Destroy this horror!"
+msgstr "Just when I think we've seen it all! They go in human and come out… I don't even want to think about it. Destroy this horror!"
 
 # MAP24: After destroying the converter.
 msgid "TXT_ILOG104"
@@ -4556,12 +4537,10 @@ msgstr ""
 "It is the Oracle who holds the third piece. There's your traitor. Return to the Oracle, and take him down. Return to me when it's dead."
 
 msgid "TXT_ILOG1025"
-msgstr ""
-"You have cut the cancer from your body, but your heart still beats. Next you must find the surgeon who butchers and controls your people.... The Loremaster. Stop him, and the next piece will be yours."
+msgstr "You have cut the cancer from your body, but your heart still beats. Next you must find the surgeon who butchers and controls your people… The Loremaster. Stop him, and the next piece will be yours."
 
 msgid "TXT_ILOG1026"
-msgstr ""
-"Next you must find the surgeon who butchers and controls your people.... The Loremaster. Stop him, and the next piece will be yours. Use the teleporter I opened to reach him. When he's dead, use the same device to return to me."
+msgstr "Next you must find the surgeon who butchers and controls your people… The Loremaster. Stop him, and the next piece will be yours. Use the teleporter I opened to reach him. When he's dead, use the same device to return to me."
 
 # MAP12: You chose to kill Macil.
 msgid "TXT_ILOG1027"
@@ -4826,8 +4805,7 @@ msgstr ""
 
 # 〃
 msgid "TXT_SUB_GOOD3"
-msgstr ""
-"You have saved our planet and set us free. Now I'd like to thank you... personally. Oh, and by the way: the name is Shauna."
+msgstr "You have saved our planet and set us free. Now I'd like to thank you… personally. Oh, and by the way: the name is Shauna."
 
 # Sad ending.
 msgid "TXT_SUB_SAD1"
@@ -4871,13 +4849,11 @@ msgstr ""
 
 # 〃
 msgid "TXT_SUB_MAP03_3"
-msgstr ""
-"The decay has advanced so that most of the troops we face are more machine than man but we believe that their collective consciousness is controlled by one source..."
+msgstr "The decay has advanced so that most of the troops we face are more machine than man but we believe that their collective consciousness is controlled by one source…"
 
 # 〃
 msgid "TXT_SUB_MAP03_4"
-msgstr ""
-"...the Programmer: creator of the AI which controls the Acolytes. Destroy the Programmer, and we may cripple the Order's troops with a single blow. But caution: we have reports he can vaporize attackers."
+msgstr "…the Programmer: creator of the AI which controls the Acolytes. Destroy the Programmer, and we may cripple the Order's troops with a single blow. But caution: we have reports he can vaporize attackers."
 
 # MAP10: Macil.
 msgid "TXT_SUB_MAP10_1"
@@ -4975,7 +4951,7 @@ msgstr ""
 
 # MAP02: About to enter Norwall Prison.
 msgid "TXT_SUB_LOG17"
-msgstr "I never thought I'd break into prison..."
+msgstr "I never thought I'd break into prison…"
 
 # MAP05: After crossing the alarm green door.
 msgid "TXT_SUB_LOG18"
@@ -4983,13 +4959,11 @@ msgstr "Guess there's no free lunch. Time to lock and load."
 
 # MAP05: After getting to Main Control.
 msgid "TXT_SUB_LOG19"
-msgstr ""
-"OK. You've pleased the Governor, splattered the Warden... Now it looks like we got to have to do a little surgery."
+msgstr "OK. You've pleased the Governor, splattered the Warden… Now it looks like we got to have to do a little surgery."
 
 # MAP05: After cutting Wolenick's hand off.
 msgid "TXT_SUB_LOG20"
-msgstr ""
-"Oh you cut off his hand! And I thought you were a nice guy... kinda. Let's go."
+msgstr "Oh you cut off his hand! And I thought you were a nice guy… kinda. Let's go."
 
 # MAP05: After setting the prisoners free.
 msgid "TXT_SUB_LOG21"
@@ -5016,8 +4990,7 @@ msgstr ""
 
 # 〃
 msgid "TXT_SUB_LOG27"
-msgstr ""
-"OK, duck in here. The sewer dwellers are horrible mutants, but their network of tunnels gives them access to secrets. Hold your nose... We're going down."
+msgstr "OK, duck in here. The sewer dwellers are horrible mutants, but their network of tunnels gives them access to secrets. Hold your nose… We're going down."
 
 # MAP06: Entrance.
 msgid "TXT_SUB_LOG28"
@@ -5036,8 +5009,7 @@ msgid "TXT_SUB_LOG31"
 msgstr "Hey, look! I think that's the door Weran wants ajar!"
 
 msgid "TXT_SUB_LOG32"
-msgstr ""
-"Shut your eyes! I don't wanna see! Oh, too late... Yuck. That doesn't look like a human body. What has the Order done? I gotta report this to command."
+msgstr "Shut your eyes! I don't wanna see! Oh, too late… Yuck. That doesn't look like a human body. What has the Order done? I gotta report this to command."
 
 # MAP06: After giving the guard's uniform.
 msgid "TXT_SUB_LOG33"
@@ -5054,7 +5026,7 @@ msgstr "Don't ask me where we are. I'm lost, too. Sorry."
 
 # MAP06: Secret entrance from the castle.
 msgid "TXT_SUB_LOG36"
-msgstr "That brick... Didn't we pass that brick? No..."
+msgstr "That brick… Didn't we pass that brick? No…"
 
 # MAP06: After destroying the gate controls.
 msgid "TXT_SUB_LOG37"
@@ -5073,7 +5045,7 @@ msgstr "Ah, it's good to be on the offensive again. Give 'em hell, guys!"
 
 # MAP07: Computer room.
 msgid "TXT_SUB_LOG40"
-msgstr "This looks good. Computers... Programmer... What do you think?"
+msgstr "This looks good. Computers… Programmer… What do you think?"
 
 # MAP07: Building before the brigde.
 msgid "TXT_SUB_LOG41"
@@ -5082,8 +5054,7 @@ msgstr ""
 
 # MAP07: Northeast bulding.
 msgid "TXT_SUB_LOG42"
-msgstr ""
-"This is all the hallmarks of a temple of evil. Severe architecture, big banner... I'd say bingo!"
+msgstr "This is all the hallmarks of a temple of evil. Severe architecture, big banner… I'd say bingo!"
 
 msgid "TXT_SUB_LOG43"
 msgstr "This is the almighty Programmer? No way!"
@@ -5305,7 +5276,7 @@ msgstr ""
 
 # MAP13: Entrance.
 msgid "TXT_SUB_LOG90"
-msgstr "Mines, catacombs, sewers... What a first date!"
+msgstr "Mines, catacombs, sewers… What a first date!"
 
 # MAP13: West (entrance with parkour to the northwest).
 msgid "TXT_SUB_LOG91"
@@ -5314,7 +5285,7 @@ msgstr ""
 
 # MAP13: Northwest (hall to the parkour room).
 msgid "TXT_SUB_LOG92"
-msgstr "I think we're... Oh, crap. I have no idea where we are."
+msgstr "I think we're… Oh, crap. I have no idea where we are."
 
 # MAP25: Entrance.
 msgid "TXT_SUB_LOG93"
@@ -5363,8 +5334,7 @@ msgstr ""
 
 # MAP24: Converter room.
 msgid "TXT_SUB_LOG103"
-msgstr ""
-"Just when I think we've seen it all! They go in human and come out... I dont even want to think about it."
+msgstr "Just when I think we've seen it all! They go in human and come out… I don't even want to think about it."
 
 # MAP24: After destroying the converter.
 msgid "TXT_SUB_LOG104"
@@ -5411,8 +5381,7 @@ msgstr ""
 
 # MAP29: Entity (If the player is progressing through the good ending)
 msgid "TXT_SUB_LOG130"
-msgstr ""
-"You... You have crushed my Order, torn through my ruses and threatened centuries of desire. But I will prevail, I will infect you and twist you to my will..."
+msgstr "You… You have crushed my Order, torn through my ruses and threatened centuries of desire. But I will prevail, I will infect you and twist you to my will…"
 
 msgid "TXT_SUB_LOG200"
 msgstr "Sounds like a dream job, doesn't it?"
@@ -5426,7 +5395,7 @@ msgid "TXT_SUB_LOG202"
 msgstr "Next time, you'll listen to me."
 
 msgid "TXT_SUB_LOG203"
-msgstr "Ugh, these post-apocalyptic prices..."
+msgstr "Ugh, these post-apocalyptic prices…"
 
 msgid "TXT_SUB_LOG204"
 msgstr "Take the big one. He won't stop you."
@@ -5481,10 +5450,10 @@ msgstr "Blast away! They're not human!"
 # (Strife: Veteran Edition)
 # When obtaining the “Spontaneous Combustion” achievement
 msgid "TXT_SUB_LOG219"
-msgstr "Wow! Blackened Acolyte! The new taste sensation..."
+msgstr "Wow! Blackened Acolyte! The new taste sensation…"
 
 msgid "TXT_SUB_LOG220"
-msgstr "Keep doing that and you'll go blind... but I like it."
+msgstr "Keep doing that and you'll go blind… but I like it."
 
 msgid "TXT_SUB_LOG221"
 msgstr "Guess they won't be inviting us back to dinner!"
@@ -5493,16 +5462,16 @@ msgid "TXT_SUB_LOG222"
 msgstr "We need to get to the top floor."
 
 msgid "TXT_SUB_LOG223"
-msgstr "Wait... This looks interesting. Check it out."
+msgstr "Wait… This looks interesting. Check it out."
 
 msgid "TXT_SUB_LOG224"
 msgstr "Ugh. That guy gives me the creeps. Let's steer clear."
 
 msgid "TXT_SUB_LOG225"
-msgstr "Left! Turn left!... Oh, other left!"
+msgstr "Left! Turn left!… Oh, other left!"
 
 msgid "TXT_SUB_LOG226"
-msgstr "Typical stubborn pig-headed male!... Unless you're a girl."
+msgstr "Typical stubborn pig-headed male!… Unless you're a girl."
 
 msgid "TXT_SUB_LOG227"
 msgstr "Strong, brutal and silent. My kind of partner."
@@ -5513,12 +5482,12 @@ msgstr "Okay! I was wrong!"
 # (Strife: Veteran Edition)
 # Random comment when the player dies with Classic Mode turned off
 msgid "TXT_SUB_LOG229"
-msgstr "Too bad we never met... face-to-face."
+msgstr "Too bad we never met… face-to-face."
 
 # (Strife: Veteran Edition)
 # Random comment when the player dies with Classic Mode turned off
 msgid "TXT_SUB_LOG230"
-msgstr "I had dreams for you... Tough shit."
+msgstr "I had dreams for you… Tough shit."
 
 msgid "TXT_SUB_LOG231"
 msgstr ""
@@ -5528,8 +5497,7 @@ msgid "TXT_SUB_LOG232"
 msgstr "Good work, friend! It's time to bring you inside."
 
 msgid "TXT_SUB_LOG233"
-msgstr ""
-"Watch out for those Crusaders. They're big, hunking robots, and mean as hell. We don't know jack about their weapons, but odds are... you're outmatched. Careful."
+msgstr "Watch out for those Crusaders. They're big, hunking robots, and mean as hell. We don't know jack about their weapons, but odds are… you're outmatched. Careful."
 
 msgid "TXT_SUB_LOG234"
 msgstr ""
@@ -5543,8 +5511,7 @@ msgstr ""
 "You stupid, stumbling, club-footed hunchback imbecile! You've given us away!"
 
 msgid "TXT_SUB_LOG237"
-msgstr ""
-"I wish I was waiting for you behind that door... but I've got to stay underground. It's time for you to meet our leader, Macil."
+msgstr "I wish I was waiting for you behind that door… but I've got to stay underground. It's time for you to meet our leader, Macil."
 
 # MAP02: Mourel.
 msgid "TXT_BBSUB_SCRIPT02_D57608_IFIKN"
@@ -5618,7 +5585,7 @@ msgstr "I bet this guy smells really bad, too."
 
 # 〃
 msgid "TXT_BBSUB_SCRIPT06_D9096_YOUHA"
-msgstr "More sewers... Great. Wonder what lives down there."
+msgstr "More sewers… Great. Wonder what lives down there."
 
 # MAP07: Computer room.
 msgid "TXT_BBSUB_SCRIPT07_D6064_PROGR"
@@ -5633,7 +5600,7 @@ msgstr ""
 "Biomechanical? Well, that explains their seemingly endless supply of troops! And their bad attitude.\n"
 
 msgid "TXT_BBSUB_SCRIPT10_D16676_IAMTH"
-msgstr "Sick fuck... Waste him!"
+msgstr "Sick fuck… Waste him!"
 
 msgid "TXT_BBSUB_SCRIPT12_D12128_USETH"
 msgstr "He may be ugly, but it seems like he's on our side."
@@ -5643,8 +5610,7 @@ msgstr "Judging by recent history, I guess stealth is out."
 
 # This remark is for information about the maulers in the warehouse.
 msgid "TXT_BBSUB_SCRIPT17_D13644_OHWEL"
-msgstr ""
-"Hmm. No fuss, no muss, nothing for mom to clean up... Get me one, please.\n"
+msgstr "Hmm. No fuss, no muss, nothing for mom to clean up… Get me one, please.\n"
 
 # MAP31
 msgid "TXT_BBSUB_SCRIPT31_D0_OHNOI"

@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-21 00:26+0000\n"
+"PO-Revision-Date: 2026-05-11 03:43+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English (United Kingdom) <https://hosted.weblate.org/projects/doom-engine-games/heretic/en_GB/>\n"
 "Language: en_GB\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16.1-dev\n"
+"X-Generator: Weblate 2026.5-dev\n"
 
 msgid "HHUSTR_E4M4"
 msgstr "Sepulchre"
@@ -191,6 +191,7 @@ msgstr ""
 "very unfriendly world, but no one\n"
 "ever said being a heretic was easy!"
 
+#, fuzzy
 msgid "HE2TEXT"
 msgstr ""
 "The mighty maulotaurs have proved\n"
@@ -237,6 +238,7 @@ msgstr ""
 "Then again, what about the other\n"
 "Serpent Riders?"
 
+#, fuzzy
 msgid "HE4TEXT"
 msgstr ""
 "You thought you would return to your\n"

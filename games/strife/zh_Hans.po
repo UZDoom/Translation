@@ -2,15 +2,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-04-25 16:09+0000\n"
-"Last-Translator: dwing <12104745@qq.com>\n"
+"PO-Revision-Date: 2026-05-11 03:43+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/projects/doom-engine-games/strife/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.17.1-dev\n"
+"X-Generator: Weblate 2026.5-dev\n"
 
 msgid "TXT_STRIFE_MAP01"
 msgstr "区域1：圣所"
@@ -374,9 +374,9 @@ msgid "TXT_RNO3_SCRIPT02_D12128_COMEO"
 msgstr "来吧，200金币！"
 
 # MAP02: Between governor's mansion and town hall.
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D13644_ICANT"
-msgstr ""
-"我真不敢相信自己被分配到这个任务。他们说有邪恶的东西从下水道大门冒出来……现在我只能站在这里等它再次出现！"
+msgstr "我真不敢相信自己被分配到这个任务。他们说有邪恶的东西从下水道大门冒出来……现在我只能站在这里等它再次出现！"
 
 # 〃
 msgid "TXT_RPLY0_SCRIPT02_D13644_WHATG"
@@ -555,9 +555,9 @@ msgid "TXT_RNO2_SCRIPT02_D21224_WELLM"
 msgstr "嗯，也许你能负担得起一些治疗贴？"
 
 # 〃 (After destroying the crystal in the Power Station)
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D22740_IHOPE"
-msgstr ""
-"我希望马希尔知道自己在做什么。如果教团发现我在帮助前线，我就死定了……不过这对你来说可能无关紧要。前线的医生给了我一个为你升级的芯片，你准备好了吗？ "
+msgstr "我希望马希尔知道自己在做什么。如果教团发现我在帮助前线，我就死定了……不过这对你来说可能无关紧要。前线的医生给了我一个为你升级的芯片，你准备好了吗？ "
 
 # 〃
 msgid "TXT_RPLY0_SCRIPT02_D22740_YESIM"
@@ -618,6 +618,7 @@ msgstr "情报是什么？"
 
 # 〃
 # (This text is only four seconds on screen)
+#, fuzzy
 msgid "TXT_RYES0_SCRIPT02_D25772_THEWO"
 msgstr "情报是……下水道里不仅仅是老鼠和机器人。"
 
@@ -656,11 +657,12 @@ msgid "TXT_RNO0_SCRIPT02_D28804_WELLT"
 msgstr "等你有金币了我们再谈！"
 
 # 〃
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D30320_THATS"
-msgstr ""
-"好了朋友，知识之泉已经干涸了。我本来就不该告诉你这么多。祝你好运……别再回来了。"
+msgstr "好了朋友，知识之泉已经干涸了。我本来就不该告诉你这么多。祝你好运……别再回来了。"
 
 # MAP02: Power Station guard.
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D31836_HEYIM"
 msgstr "嘿，我只是在紧急情况下才在这里。如果核心泄漏，我会确保没人能进……或出。"
 
@@ -685,6 +687,7 @@ msgid "TXT_DLG_SCRIPT02_D39416_IRALE"
 msgstr "伊莱尔会给你安排好！"
 
 # MAP02: Harris.
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D40932_IMKIN"
 msgstr "我其实是个叛军的人才中介。一个像你这样的人如果能结识对的人……肯定能赚大钱。"
 
@@ -832,9 +835,9 @@ msgid "TXT_RPLY0_SCRIPT02_D66704_FINEB"
 msgstr "随你便。"
 
 # 〃
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D68220_SOYOU"
-msgstr ""
-"原来你就是偷走圣杯的那个蠢货？我要以反叛盗贼的罪名逮捕你……借此提升我在教团中的地位。被当作无知棋子的感觉如何？我给你个提示，这会很疼的。 "
+msgstr "原来你就是偷走圣杯的那个蠢货？我要以反叛盗贼的罪名逮捕你……借此提升我在教团中的地位。被当作无知棋子的感觉如何？我给你个提示，这会很疼的。 "
 
 # 〃
 msgid "TXT_RPLY0_SCRIPT02_D68220_ITSUC"
@@ -981,6 +984,7 @@ msgid "TXT_RPLY1_SCRIPT02_D92476_NOAND"
 msgstr "不，而且我也不需要！"
 
 # 〃
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D93992_SORRY"
 msgstr "抱歉！我不是那个意思……请直接上去吧。"
 
@@ -1042,9 +1046,9 @@ msgid "TXT_DLG_SCRIPT02_D104604_RELEA"
 msgstr "放开我，别管一个老头子了。"
 
 # MAP03: Macil.
+#, fuzzy
 msgid "TXT_DLG_SCRIPT03_D0_WELCO"
-msgstr ""
-"欢迎来到最后的一线希望。只有我们拥有反抗教团的自由意志。我们有最尖端的科学头脑和许多能干的人手，但缺乏那个真正……解决问题的人，来给我们带来制胜的关键。帮帮我们。"
+msgstr "欢迎来到最后的一线希望。只有我们拥有反抗教团的自由意志。我们有最尖端的科学头脑和许多能干的人手，但缺乏那个真正……解决问题的人，来给我们带来制胜的关键。帮帮我们。"
 
 # 〃
 msgid "TXT_RPLY0_SCRIPT03_D0_ALLRI"
@@ -1362,9 +1366,9 @@ msgid "TXT_DLG_SCRIPT03_D43964_WERET"
 msgstr "我们正在尝试寻找城堡大门的机关位置，但到目前为止毫无头绪。"
 
 # 〃
+#, fuzzy
 msgid "TXT_DLG_SCRIPT03_D45480_DONTG"
-msgstr ""
-"别被抓到。我听说他们关押我们的同胞后会做些可怕的事。他们就这样消失了……无影无踪。"
+msgstr "别被抓到。我听说他们关押我们的同胞后会做些可怕的事。他们就这样消失了……无影无踪。"
 
 # 〃
 msgid "TXT_DLG_SCRIPT03_D46996_HERES"
@@ -1531,9 +1535,9 @@ msgid "TXT_DLG_SCRIPT04_D37900_IFYOU"
 msgstr "如果你不去干活，迟早会被枪毙。快点换上工作服。"
 
 # MAP04: Reactor Core → Northern alarm green door
+#, fuzzy
 msgid "TXT_DLG_SCRIPT04_D39416_IDONT"
-msgstr ""
-"我不是危言耸听，但要是他们继续这么强行推动能量水晶，它肯定会出现裂痕，然后碎掉，接着“嘭”！……只是个想法。"
+msgstr "我不是危言耸听，但要是他们继续这么强行推动能量水晶，它肯定会出现裂痕，然后碎掉，接着“嘭”！……只是个想法。"
 
 # MAP04: Reactor Core → Southern alarm green door
 msgid "TXT_DLG_SCRIPT04_D40932_LETME"
@@ -1750,9 +1754,9 @@ msgid "TXT_RPLY0_SCRIPT06_D9096_ANYTH"
 msgstr "还有别的你能做的吗？"
 
 # 〃
+#, fuzzy
 msgid "TXT_DLG_SCRIPT06_D10612_GOODL"
-msgstr ""
-"祝你好运。我已经为你打开了几条我们的地道。这应该会让你们的任务更容易些。哦，十码大小，完美！……但颜色糟糕透顶。"
+msgstr "祝你好运。我已经为你打开了几条我们的地道。这应该会让你们的任务更容易些。哦，十码大小，完美！……但颜色糟糕透顶。"
 
 # 〃
 msgid "TXT_RPLY0_SCRIPT06_D10612_THANK"
@@ -1945,9 +1949,9 @@ msgid "TXT_DLG_SCRIPT10_D15160_FIGHT"
 msgstr "为了前线和自由而战，出发。"
 
 # MAP10: Macil → After destroying the converter in MAP24.
+#, fuzzy
 msgid "TXT_DLG_SCRIPT10_D16676_IAMTH"
-msgstr ""
-"我是唯一神……我需要他的灵魂获得自由，这样我才能离开身体，与他一同飞翔。你无法想象你拥有了什么……以及你将面对怎样的恐怖……唯一神必须获得自由……他会奖赏我的……我将成为一体……"
+msgstr "我是唯一神……我需要他的灵魂获得自由，这样我才能离开身体，与他一同飞翔。你无法想象你拥有了什么……以及你将面对怎样的恐怖……唯一神必须获得自由……他会奖赏我的……我将成为一体……"
 
 # 〃
 msgid "TXT_RPLY0_SCRIPT10_D16676_IWILL"
@@ -2399,6 +2403,7 @@ msgid "TXT_DLG_SCRIPT11_D0_IMTHE"
 msgstr "我是钥匙管理员。"
 
 # 〃 (Oracle's token)
+#, fuzzy
 msgid "TXT_DLG_SCRIPT11_D1516_ALOTO"
 msgstr "很多人会说这是个吃力不讨好又无足轻重的工作。但事实并非如此……"
 
@@ -2519,9 +2524,9 @@ msgid "TXT_DLG_SCRIPT12_D13644_THERI"
 msgstr "时间之河永不停息地向前流淌，而你却停滞不前。"
 
 # MAP12: Oracle → After killing the Loremaster with Macil dead.
+#, fuzzy
 msgid "TXT_DLG_SCRIPT12_D15160_PITIF"
-msgstr ""
-"可怜的人，你做到了成千上万人都没能做到的事……你给我带来了魔符的力量、唯一神的声音。"
+msgstr "可怜的人，你做到了成千上万人都没能做到的事……你给我带来了魔符的力量、唯一神的声音。"
 
 # 〃
 msgid "TXT_RPLY0_SCRIPT12_D15160_IDONT"
@@ -2644,6 +2649,7 @@ msgid "TXT_RPLY0_SCRIPT17_D6064_WELLY"
 msgstr "嗯，需要。是马希尔派我来的。"
 
 # 〃
+#, fuzzy
 msgid "TXT_DLG_SCRIPT17_D7580_SHHHH"
 msgstr "嘘……别出声，否则我们俩都得死。现在，我能为你做些什么吗？"
 
@@ -2789,18 +2795,18 @@ msgid "TXT_RPLY0_SCRIPT22_D1516_DOYOU"
 msgstr "你知道里面有什么吗？"
 
 # 〃
+#, fuzzy
 msgid "TXT_DLG_SCRIPT22_D3032_ITSAT"
-msgstr ""
-"那是绝密区域。不仅教团在那里培育某种……生物，我还亲眼见过一件叫作护符的奇怪神器。任何人都不许靠近它。据说，如果与另外两件同类结合，它就会拥有巨大的力量。"
+msgstr "那是绝密区域。不仅教团在那里培育某种……生物，我还亲眼见过一件叫作护符的奇怪神器。任何人都不许靠近它。据说，如果与另外两件同类结合，它就会拥有巨大的力量。"
 
 # 〃
 msgid "TXT_RPLY0_SCRIPT22_D3032_ISUPP"
 msgstr "你是不是想要这个东西？"
 
 # 〃
+#, fuzzy
 msgid "TXT_DLG_SCRIPT22_D4548_NOIFY"
-msgstr ""
-"不！如果你能找到它，就归你所有。也许你能用它来帮助我们摆脱压迫。我祝你好运，但你进去后需要的可不止是好运……"
+msgstr "不！如果你能找到它，就归你所有。也许你能用它来帮助我们摆脱压迫。我祝你好运，但你进去后需要的可不止是好运……"
 
 # 〃
 msgid "TXT_RPLY0_SCRIPT22_D4548_WHATS"
@@ -2812,6 +2818,7 @@ msgstr ""
 "你肯定见过附近的其它废墟。似乎坠落在我们星球上的那颗彗星其实是一艘太空船，信不信由你，它很久以前就起源于这个世界。"
 
 # 〃
+#, fuzzy
 msgid "TXT_RPLY0_SCRIPT22_D6064_SOTHE"
 msgstr "所以那些幽灵、唯一神……"
 
@@ -2821,6 +2828,7 @@ msgstr ""
 "它们是曾经统治过这个世界、一心想要吞噬其生命的生物。古人设法将它们封印起来，但为此献出了生命。恐怕我所知道的就这些了。"
 
 # 〃
+#, fuzzy
 msgid "TXT_RPLY0_SCRIPT22_D7580_THANK"
 msgstr "谢谢……我会尽力的。"
 
@@ -3107,6 +3115,7 @@ msgstr ""
 "谢天谢地你可来了。要进入工厂需要一把钥匙。我们偷到了，但我们的特工被困在教团据点下的地下墓穴网里。我已经派了十名勇士进入那些隧道找他，但没人回来。那里一定有什么东西！"
 
 # 〃
+#, fuzzy
 msgid "TXT_RPLY0_SCRIPT23_D15160_WHATI"
 msgstr "有什么？人类还是……？"
 
@@ -3234,6 +3243,7 @@ msgstr ""
 "谢天谢地你可来了。要进入工厂需要一把钥匙。我们偷到了，但我们的特工被困在教团据点下的地下墓穴网里。我已经派了十名勇士进入那些隧道找他，但没人回来。那里一定有什么东西！"
 
 # 〃
+#, fuzzy
 msgid "TXT_RPLY0_SCRIPT23_D24256_WHATI"
 msgstr "有什么？人类还是……？"
 
@@ -3516,6 +3526,7 @@ msgid "TXT_DLG_SCRIPT33_D13644_THATS"
 msgstr "好了，朋友，知识的源泉已经干涸了。我告诉你的已经够多了。"
 
 # MAP33: Harris (beginning).
+#, fuzzy
 msgid "TXT_DLG_SCRIPT33_D15160_HARDT"
 msgstr "你身无分文……可难买新玩具。为我跑个腿就能赚到花不完的钱。我会让你成为富翁。"
 
@@ -3595,9 +3606,9 @@ msgid "TXT_DLG_SCRIPT33_D25772_DIETR"
 msgstr "叛徒，去死吧！ "
 
 # MAP33: Mourel.
+#, fuzzy
 msgid "TXT_DLG_SCRIPT33_D27288_SOYOU"
-msgstr ""
-"原来你就是偷走圣杯的那个蠢货？我要以反叛盗贼的罪名逮捕你……借此提升我在教团中的地位。被当作无知棋子的感觉如何？ "
+msgstr "原来你就是偷走圣杯的那个蠢货？我要以反叛盗贼的罪名逮捕你……借此提升我在教团中的地位。被当作无知棋子的感觉如何？ "
 
 # 〃
 msgid "TXT_RPLY0_SCRIPT33_D27288_ITSUC"
@@ -4055,9 +4066,9 @@ msgid "TXT_RANDOMGOODBYE_3"
 msgstr "回头见！"
 
 # MAP33: After getting the hidden com unit in the tavern.
+#, fuzzy
 msgid "TXT_ILOG1"
-msgstr ""
-"喂？指挥部，通讯装置刚刚启动……正在接收来自……某人……的影像和声音。嘿，你，马上离开那里……并放下圣杯！"
+msgstr "喂？指挥部，通讯装置刚刚启动……正在接收来自……某人……的影像和声音。嘿，你，马上离开那里……并放下圣杯！"
 
 # MAP02: After getting the com unit from Rowan and leaving his room.
 msgid "TXT_ILOG2"
@@ -4297,9 +4308,9 @@ msgid "TXT_ILOG102"
 msgstr "我检测到正前方有巨大的神经波扭曲。我想咱们找到了。快进去把它闭掉！"
 
 # MAP24: Converter room.
+#, fuzzy
 msgid "TXT_ILOG103"
-msgstr ""
-"就在我以为已经见识过一切的时候！他们进去时还是人类，而出来时……我都不敢想。摧毁这个恐怖的东西！"
+msgstr "就在我以为已经见识过一切的时候！他们进去时还是人类，而出来时……我都不敢想。摧毁这个恐怖的东西！"
 
 # MAP24: After destroying the converter.
 msgid "TXT_ILOG104"
@@ -4430,13 +4441,13 @@ msgid "TXT_ILOG1024"
 msgstr ""
 "持有第三件碎片的是祭司。就是你的叛徒。返回到祭司那里，并将他击败。它死了就回来找我。"
 
+#, fuzzy
 msgid "TXT_ILOG1025"
-msgstr ""
-"你已将体内的毒瘤切除，但你的心脏仍在跳动。接下来你必须找到那个残害并控制你们人民的外科医生……贤者。阻止他，下一件碎片将属于你。"
+msgstr "你已将体内的毒瘤切除，但你的心脏仍在跳动。接下来你必须找到那个残害并控制你们人民的外科医生……贤者。阻止他，下一件碎片将属于你。"
 
+#, fuzzy
 msgid "TXT_ILOG1026"
-msgstr ""
-"接下来你必须找到那个残害并控制你们人民的外科医生……贤者。阻止他，下一件碎片将属于你。使用我为你打开的传送器到达他那里。他死后，用同样的装置回到我这里。"
+msgstr "接下来你必须找到那个残害并控制你们人民的外科医生……贤者。阻止他，下一件碎片将属于你。使用我为你打开的传送器到达他那里。他死后，用同样的装置回到我这里。"
 
 # MAP12: You chose to kill Macil.
 msgid "TXT_ILOG1027"
@@ -4697,9 +4708,9 @@ msgstr ""
 "我就知道你会赢，我英勇的英雄。所有战斗都已停止。你的胜利将使我们能够研制出疫苗，清除我们体内的病毒。"
 
 # 〃
+#, fuzzy
 msgid "TXT_SUB_GOOD3"
-msgstr ""
-"你拯救了我们的星球，让我们重获自由。现在我想亲自感谢你……哦，顺便说一句：我叫肖娜。"
+msgstr "你拯救了我们的星球，让我们重获自由。现在我想亲自感谢你……哦，顺便说一句：我叫肖娜。"
 
 # Sad ending.
 msgid "TXT_SUB_SAD1"
@@ -4736,14 +4747,14 @@ msgid "TXT_SUB_MAP03_2"
 msgstr "由于无法繁衍后代，教团发现生物机械增强是维持自身力量和数量的唯一途径。"
 
 # 〃
+#, fuzzy
 msgid "TXT_SUB_MAP03_3"
-msgstr ""
-"腐朽已经发展到如此程度，我们面对的大多数士兵已更像是机器而非人类，但我们相信他们的集体意识由单一源头控制的……"
+msgstr "腐朽已经发展到如此程度，我们面对的大多数士兵已更像是机器而非人类，但我们相信他们的集体意识由单一源头控制的……"
 
 # 〃
+#, fuzzy
 msgid "TXT_SUB_MAP03_4"
-msgstr ""
-"……那个程序员：控制侍从的AI造物主。消灭那个程序员，我们或许能以一击重创教团的部队。但要小心：我们有报告称他能瞬间蒸发攻击者。"
+msgstr "……那个程序员：控制侍从的AI造物主。消灭那个程序员，我们或许能以一击重创教团的部队。但要小心：我们有报告称他能瞬间蒸发攻击者。"
 
 # MAP10: Macil.
 msgid "TXT_SUB_MAP10_1"
@@ -4830,6 +4841,7 @@ msgid "TXT_SUB_LOG16"
 msgstr "仓库位于发电站内。咱们速战速决。"
 
 # MAP02: About to enter Norwall Prison.
+#, fuzzy
 msgid "TXT_SUB_LOG17"
 msgstr "我从没想到自己会闯进监狱……"
 
@@ -4838,10 +4850,12 @@ msgid "TXT_SUB_LOG18"
 msgstr "看来天下没有免费的午餐。该上膛了。"
 
 # MAP05: After getting to Main Control.
+#, fuzzy
 msgid "TXT_SUB_LOG19"
 msgstr "好。你让总督满意了，干掉了狱长……现在看来咱们得动点小手术了。"
 
 # MAP05: After cutting Wolenick's hand off.
+#, fuzzy
 msgid "TXT_SUB_LOG20"
 msgstr "哦，你把他的手砍下来了！我还以为你是个……好人。快走吧。"
 
@@ -4867,9 +4881,9 @@ msgstr ""
 "教团以为自己在城堡中很安全。错了！如果你打开城门，他们就很容易被打败。为此，你得下到下水道去。沿着河流穿过总督宅邸前进。 "
 
 # 〃
+#, fuzzy
 msgid "TXT_SUB_LOG27"
-msgstr ""
-"好，躲进这里。下水道居民是可怕的变异人，但他们的隧道网络能让他们接触到秘密。捂住鼻子……咱们要下去了。"
+msgstr "好，躲进这里。下水道居民是可怕的变异人，但他们的隧道网络能让他们接触到秘密。捂住鼻子……咱们要下去了。"
 
 # MAP06: Entrance.
 msgid "TXT_SUB_LOG28"
@@ -4886,9 +4900,9 @@ msgstr "正是我需要的，更多的棕色黏液！"
 msgid "TXT_SUB_LOG31"
 msgstr "嘿，看！我想那就是韦兰想要半开的门！"
 
+#, fuzzy
 msgid "TXT_SUB_LOG32"
-msgstr ""
-"闭上眼睛！我不想看！噢，太迟了……真恶心。那看起来不像人类的身体。教团做了什么？我得报告给指挥部。"
+msgstr "闭上眼睛！我不想看！噢，太迟了……真恶心。那看起来不像人类的身体。教团做了什么？我得报告给指挥部。"
 
 # MAP06: After giving the guard's uniform.
 msgid "TXT_SUB_LOG33"
@@ -4903,6 +4917,7 @@ msgid "TXT_SUB_LOG35"
 msgstr "别问我咱们在哪儿。我也迷路了。抱歉。"
 
 # MAP06: Secret entrance from the castle.
+#, fuzzy
 msgid "TXT_SUB_LOG36"
 msgstr "那块砖……咱们不是刚经过那块砖吗？不……"
 
@@ -4920,6 +4935,7 @@ msgid "TXT_SUB_LOG39"
 msgstr "啊，再次主动出击感觉真好。给他们点颜色，伙计们！"
 
 # MAP07: Computer room.
+#, fuzzy
 msgid "TXT_SUB_LOG40"
 msgstr "这看起来不错。电脑……程序员……你觉得呢？"
 
@@ -4928,6 +4944,7 @@ msgid "TXT_SUB_LOG41"
 msgstr "这一定是那条长走廊。要不就是我的空间感彻底失灵了。"
 
 # MAP07: Northeast bulding.
+#, fuzzy
 msgid "TXT_SUB_LOG42"
 msgstr "这里到处都是邪恶神庙的特征。阴森的建筑、巨大的横幅……我说的没错！"
 
@@ -5129,6 +5146,7 @@ msgstr ""
 "工厂就在矿场旁边。里希特应该指的是德宁矿场。德宁矿石具有磁性还易爆，正好可以用来关闭力场。"
 
 # MAP13: Entrance.
+#, fuzzy
 msgid "TXT_SUB_LOG90"
 msgstr "矿场、地下墓穴、下水道……真是一场糟糕的初次约会！"
 
@@ -5137,6 +5155,7 @@ msgid "TXT_SUB_LOG91"
 msgstr "真希望里希特能说得再具体点。嗯，咱们试试这边吧。"
 
 # MAP13: Northwest (hall to the parkour room).
+#, fuzzy
 msgid "TXT_SUB_LOG92"
 msgstr "我觉得咱们……哦，糟了。我完全不知道咱们在哪儿。"
 
@@ -5182,6 +5201,7 @@ msgid "TXT_SUB_LOG102"
 msgstr "我检测到正前方有巨大的神经波扭曲。我想咱们找到了。"
 
 # MAP24: Converter room.
+#, fuzzy
 msgid "TXT_SUB_LOG103"
 msgstr "就在我以为已经见识过一切的时候！他们进去时还是人类，而出来时……我都不敢想。"
 
@@ -5227,9 +5247,9 @@ msgstr ""
 "我受够了这种玄虚的胡言乱语。"
 
 # MAP29: Entity (If the player is progressing through the good ending)
+#, fuzzy
 msgid "TXT_SUB_LOG130"
-msgstr ""
-"你……你摧毁了我的教团，撕破了我的诡计，威胁了我数世纪的渴望。但我终将获胜，我会感染你、扭曲你、让你屈从于我的意志……"
+msgstr "你……你摧毁了我的教团，撕破了我的诡计，威胁了我数世纪的渴望。但我终将获胜，我会感染你、扭曲你、让你屈从于我的意志……"
 
 msgid "TXT_SUB_LOG200"
 msgstr "听起来像是份美差，不是吗？"
@@ -5242,6 +5262,7 @@ msgstr "你已经知道太多了。冰封他，马希尔！"
 msgid "TXT_SUB_LOG202"
 msgstr "下次，你就会听从我了。"
 
+#, fuzzy
 msgid "TXT_SUB_LOG203"
 msgstr "呃，这些末世后的物价……"
 
@@ -5297,9 +5318,11 @@ msgstr "轰走！他们不是人类！"
 
 # (Strife: Veteran Edition)
 # When obtaining the “Spontaneous Combustion” achievement
+#, fuzzy
 msgid "TXT_SUB_LOG219"
 msgstr "哇！黑化侍从！尝到了新的感受……"
 
+#, fuzzy
 msgid "TXT_SUB_LOG220"
 msgstr "再这样下去你会瞎的……但我喜欢。"
 
@@ -5309,15 +5332,18 @@ msgstr "看来他们不会再邀请我们回去吃饭了！"
 msgid "TXT_SUB_LOG222"
 msgstr "我们要去顶楼。"
 
+#, fuzzy
 msgid "TXT_SUB_LOG223"
 msgstr "等等……这看起来挺有趣。检查一下。"
 
 msgid "TXT_SUB_LOG224"
 msgstr "啧，这家伙让我毛骨悚然。咱们离他远点。"
 
+#, fuzzy
 msgid "TXT_SUB_LOG225"
 msgstr "左！向左转！……哦，另一边的左！"
 
+#, fuzzy
 msgid "TXT_SUB_LOG226"
 msgstr "典型的固执猪头男！……除非你是个女孩。"
 
@@ -5329,11 +5355,13 @@ msgstr "好吧！我错了！"
 
 # (Strife: Veteran Edition)
 # Random comment when the player dies with Classic Mode turned off
+#, fuzzy
 msgid "TXT_SUB_LOG229"
 msgstr "真可惜我们还没见……面对面。"
 
 # (Strife: Veteran Edition)
 # Random comment when the player dies with Classic Mode turned off
+#, fuzzy
 msgid "TXT_SUB_LOG230"
 msgstr "我曾经梦见了你……太糟糕了。"
 
@@ -5344,9 +5372,9 @@ msgstr ""
 msgid "TXT_SUB_LOG232"
 msgstr "干得好，朋友！是时候带你进去了。"
 
+#, fuzzy
 msgid "TXT_SUB_LOG233"
-msgstr ""
-"小心那些十字军。他们是又大又笨重的机器人，凶残至极。我们对他们的武器一无所知，但很有可能……你不是他们的对手。当心。"
+msgstr "小心那些十字军。他们是又大又笨重的机器人，凶残至极。我们对他们的武器一无所知，但很有可能……你不是他们的对手。当心。"
 
 msgid "TXT_SUB_LOG234"
 msgstr ""
@@ -5358,9 +5386,9 @@ msgstr "要是让人看见你，我们就要了你的脑袋。"
 msgid "TXT_SUB_LOG236"
 msgstr "你这个愚蠢、笨拙、跛脚驼背的白痴！你把我们都暴露了！"
 
+#, fuzzy
 msgid "TXT_SUB_LOG237"
-msgstr ""
-"我真希望能躲在那扇门后等你……但我得待在地下。现在是时候让你见见我们的领袖——马希尔了。"
+msgstr "我真希望能躲在那扇门后等你……但我得待在地下。现在是时候让你见见我们的领袖——马希尔了。"
 
 # MAP02: Mourel.
 msgid "TXT_BBSUB_SCRIPT02_D57608_IFIKN"
@@ -5431,6 +5459,7 @@ msgid "TXT_BBSUB_SCRIPT06_D4548_OPENT"
 msgstr "我敢打赌这家伙也臭烘烘的。"
 
 # 〃
+#, fuzzy
 msgid "TXT_BBSUB_SCRIPT06_D9096_YOUHA"
 msgstr "又是下水道……太棒了。不知道下面住着什么。"
 
@@ -5445,6 +5474,7 @@ msgstr "前进吧，我的勇士。咱们让那个丑八怪扭来扭去地求饶
 msgid "TXT_BBSUB_SCRIPT10_D12128_THERE"
 msgstr "生物机械？嗯，这就能解释他们似乎有源源不断的兵力了！还有他们那恶劣的态度。\n"
 
+#, fuzzy
 msgid "TXT_BBSUB_SCRIPT10_D16676_IAMTH"
 msgstr "混蛋……干掉他！"
 
@@ -5455,6 +5485,7 @@ msgid "TXT_BBSUB_SCRIPT17_D10612_OHSUR"
 msgstr "从最近的情况来看，我想潜行已经行不通了。"
 
 # This remark is for information about the maulers in the warehouse.
+#, fuzzy
 msgid "TXT_BBSUB_SCRIPT17_D13644_OHWEL"
 msgstr "嗯，干净利落，妈妈也不用收拾……给我一个，好吗。\n"
 

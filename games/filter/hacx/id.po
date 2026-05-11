@@ -2,15 +2,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-01-31 22:46+0000\n"
-"Last-Translator: Arif Budiman <arifpedia@gmail.com>\n"
+"PO-Revision-Date: 2026-05-11 03:44+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/doom-engine-games/hacx-filter/id/>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.16-dev\n"
+"X-Generator: Weblate 2026.5-dev\n"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG1"
@@ -374,6 +374,7 @@ msgstr ""
 "dan cabut dari Dodge!\n"
 "\n"
 
+#, fuzzy
 msgid "X2TEXT"
 msgstr ""
 "Ke mana semua orang?!\n"
@@ -392,6 +393,7 @@ msgstr ""
 "Nggak heran lingkungan jadi makin sepi. Laporkan\n"
 "ke subkomite. Dan jaga punggungmu...\n"
 
+#, fuzzy
 msgid "X3TEXT"
 msgstr ""
 "Peradaban seperti yang kamu kenal itu nihil!\n"
@@ -408,6 +410,7 @@ msgstr ""
 "\n"
 ".....(bersambung)....."
 
+#, fuzzy
 msgid "X5TEXT"
 msgstr ""
 "Kamu hidup!\n"
@@ -484,12 +487,14 @@ msgstr "Peringatan Penyusup!"
 msgid "TXT_HACXMAP31"
 msgstr "Ruang Pengering"
 
+#, fuzzy
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_CLEV"
 msgstr "Sekarang Tiba Di...\n"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+#, fuzzy
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_CHOPPERS"
 msgstr "...bakal goreng bokongmu!"

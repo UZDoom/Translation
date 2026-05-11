@@ -2,15 +2,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-04-21 09:10+0000\n"
-"Last-Translator: SecularSteve <fairfull.playing@gmail.com>\n"
+"PO-Revision-Date: 2026-05-11 03:43+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/doom-engine-games/hacx-filter/hr/>\n"
 "Language: hr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.17.1-dev\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Weblate 2026.5-dev\n"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG1"
@@ -377,6 +377,7 @@ msgstr ""
 "neku mutantsku guzicu i jebeš se odavde!\n"
 "\n"
 
+#, fuzzy
 msgid "X2TEXT"
 msgstr ""
 "Gdje je sav taj narod?!\n"
@@ -396,6 +397,7 @@ msgstr ""
 "prilično pusto. Javi se pododboru. I\n"
 "pazi kamo gaziš...\n"
 
+#, fuzzy
 msgid "X3TEXT"
 msgstr ""
 "Civilizacija kakvu ste poznavali je ništa!\n"
@@ -412,6 +414,7 @@ msgstr ""
 "\n"
 ".....(nastavak slijedi)....."
 
+#, fuzzy
 msgid "X5TEXT"
 msgstr ""
 "Živ si!\n"
@@ -488,12 +491,14 @@ msgstr "Upozorenje na provalnika!"
 msgid "TXT_HACXMAP31"
 msgstr "Soba za sušenje"
 
+#, fuzzy
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_CLEV"
 msgstr "Sada stižemo na...\n"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+#, fuzzy
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_CHOPPERS"
 msgstr "...ispeči ti dupe!"

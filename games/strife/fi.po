@@ -2,15 +2,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-30 16:47+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-05-11 03:43+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/doom-engine-games/strife/fi/>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15-dev\n"
+"X-Generator: Weblate 2026.5-dev\n"
 
 msgid "TXT_STRIFE_MAP01"
 msgstr "ALUE 1: Pyhäkkö"
@@ -320,9 +320,9 @@ msgstr "Joka kolikon väärti!"
 msgid "TXT_RNO3_SCRIPT02_D12128_COMEO"
 msgstr "Antaa tulla, 200 kolikkoa!"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D13644_ICANT"
-msgstr ""
-"Uskomatonta, että minulle tungettiin tämä tehtävä. Sanovat, että jokin paha nousi ylös tästä viemäriluukusta... Ja minä saan seistä tässä, kunnes se nousee jälleen!"
+msgstr "Uskomatonta, että minulle tungettiin tämä tehtävä. Sanovat, että jokin paha nousi ylös tästä viemäriluukusta... Ja minä saan seistä tässä, kunnes se nousee jälleen!"
 
 msgid "TXT_RPLY0_SCRIPT02_D13644_WHATG"
 msgstr "Mikä luukku?"
@@ -462,9 +462,9 @@ msgstr "Olkaa hyvä. Pitäkää itsestänne huoli."
 msgid "TXT_RNO2_SCRIPT02_D21224_WELLM"
 msgstr "Olisiko teillä ehkä varaa sidekääreisiin?"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D22740_IHOPE"
-msgstr ""
-"Toivottavasti Macil tietää, mitä tekee. Jos Veljeskunta saa kuulla minun auttavan Rintamaa, olen mennyttä... Ei siinä, että tieto sinua mitenkään kiinnostaisi. Sain Rintaman lääkintämieheltä sinulle päivityssirun; oletko valmis? "
+msgstr "Toivottavasti Macil tietää, mitä tekee. Jos Veljeskunta saa kuulla minun auttavan Rintamaa, olen mennyttä... Ei siinä, että tieto sinua mitenkään kiinnostaisi. Sain Rintaman lääkintämieheltä sinulle päivityssirun; oletko valmis? "
 
 msgid "TXT_RPLY0_SCRIPT02_D22740_YESIM"
 msgstr "Kyllä, olen valmis."
@@ -510,9 +510,9 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT02_D25772_WHATS"
 msgstr "Mikä on päivän sana?"
 
+#, fuzzy
 msgid "TXT_RYES0_SCRIPT02_D25772_THEWO"
-msgstr ""
-"Sana on... että viemärit pitävät sisällään muutakin kuin vain rottia ja robotteja."
+msgstr "Sana on... että viemärit pitävät sisällään muutakin kuin vain rottia ja robotteja."
 
 msgid "TXT_DLG_SCRIPT02_D27288_WHATC"
 msgstr "No niin, miten voin olla teille avuksi?"
@@ -540,13 +540,13 @@ msgstr "Veljeskunta ei ole sitä, miltä päältä päin näyttää."
 msgid "TXT_RNO0_SCRIPT02_D28804_WELLT"
 msgstr "Puhutaan, kun sinulla on kultaa."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D30320_THATS"
-msgstr ""
-"Siinä kaikki, ystävä; tiedon lähde on ehtynyt. Olen kertonut sinulle enemmän kuin olisin edes saanutkaan. Onnea matkaan... äläkä tule takaisin."
+msgstr "Siinä kaikki, ystävä; tiedon lähde on ehtynyt. Olen kertonut sinulle enemmän kuin olisin edes saanutkaan. Onnea matkaan... äläkä tule takaisin."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D31836_HEYIM"
-msgstr ""
-"Hei, olen täällä vain hätätilanteen varalta. Jos ytimeen tulee murtuma, tehtäväni on varmistaa, ettei kukaan pääse sisään... tai ulos."
+msgstr "Hei, olen täällä vain hätätilanteen varalta. Jos ytimeen tulee murtuma, tehtäväni on varmistaa, ettei kukaan pääse sisään... tai ulos."
 
 msgid "TXT_DLG_SCRIPT02_D33352_WATCH"
 msgstr "Katso, mihin astut, maallikko!"
@@ -563,9 +563,9 @@ msgstr "Sinä siellä, tämä on kielletty alue. Tiehesi!"
 msgid "TXT_DLG_SCRIPT02_D39416_IRALE"
 msgstr "Irale järkkää sinulle varusteet!"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D40932_IMKIN"
-msgstr ""
-"Olen eräänlainen kykyjenvälittäjä kapinallisille. Kaltaisesi kaveri voisi tienata paljon kultaa... oikeiden kumppaneiden kanssa."
+msgstr "Olen eräänlainen kykyjenvälittäjä kapinallisille. Kaltaisesi kaveri voisi tienata paljon kultaa... oikeiden kumppaneiden kanssa."
 
 msgid "TXT_RPLY0_SCRIPT02_D40932_IMINT"
 msgstr "Olen kiinnostunut."
@@ -671,9 +671,9 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT02_D66704_FINEB"
 msgstr "Sopii minulle."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D68220_SOYOU"
-msgstr ""
-"Vai sinä olet se houkka, joka varasti kalkin? Pidätytän sinut kapinallisvarkaana, siten parantaen asemaani Veljeskunnassa. Miltäpä tuntuu olla tahaton pelinappula? Annanpa vihjeen, se tulee sattumaan. "
+msgstr "Vai sinä olet se houkka, joka varasti kalkin? Pidätytän sinut kapinallisvarkaana, siten parantaen asemaani Veljeskunnassa. Miltäpä tuntuu olla tahaton pelinappula? Annanpa vihjeen, se tulee sattumaan. "
 
 msgid "TXT_RPLY0_SCRIPT02_D68220_ITSUC"
 msgstr "Ihan perseestä!"
@@ -789,6 +789,7 @@ msgstr "Totta kai!"
 msgid "TXT_RPLY1_SCRIPT02_D92476_NOAND"
 msgstr "Ei, enkä sellaista tarvitsekaan!"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D93992_SORRY"
 msgstr "Pahoittelut! En tarkoittanut... Menkää suoraan ylös, olkaa hyvä."
 
@@ -839,9 +840,9 @@ msgstr "Kiitos"
 msgid "TXT_DLG_SCRIPT02_D104604_RELEA"
 msgstr "Päästä minut, jätä vanha mies rauhaan."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT03_D0_WELCO"
-msgstr ""
-"Tervetuloa viimeisen toivonpilkahduksen äärelle. Ainoastaan meillä on vapaa tahto vastustaa Veljeskuntaa. Meillä on tieteen terävimmät mielet ja monia ruumiiltaan vahvoja, mutta meiltä puuttuu se yksi todellinen, sanottaisiinko, Ongelmanratkoja, joka antaisi meille kaipaamamme etulyöntiaseman. Auta meitä."
+msgstr "Tervetuloa viimeisen toivonpilkahduksen äärelle. Ainoastaan meillä on vapaa tahto vastustaa Veljeskuntaa. Meillä on tieteen terävimmät mielet ja monia ruumiiltaan vahvoja, mutta meiltä puuttuu se yksi todellinen, sanottaisiinko, Ongelmanratkoja, joka antaisi meille kaipaamamme etulyöntiaseman. Auta meitä."
 
 msgid "TXT_RPLY0_SCRIPT03_D0_ALLRI"
 msgstr "Hyvä on, suostun auttamaan."
@@ -1094,9 +1095,9 @@ msgid "TXT_DLG_SCRIPT03_D43964_WERET"
 msgstr ""
 "Yritämme löytää linnanportin koneistoa, mutta toistaiseksi laihoin tuloksin."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT03_D45480_DONTG"
-msgstr ""
-"Älä jää kiinni. Olen kuullut kauhukertomuksia siitä, mitä ne tekevät meidän omillemme, kun he jäävät vangiksi. He yksinkertaisesti katoavat, jälkeä jättämättä."
+msgstr "Älä jää kiinni. Olen kuullut kauhukertomuksia siitä, mitä ne tekevät meidän omillemme, kun he jäävät vangiksi. He yksinkertaisesti katoavat, jälkeä jättämättä."
 
 msgid "TXT_DLG_SCRIPT03_D46996_HERES"
 msgstr ""
@@ -1230,9 +1231,9 @@ msgstr "Missä voimakristalli on?"
 msgid "TXT_DLG_SCRIPT04_D37900_IFYOU"
 msgstr "Jos et ryhdy töihin, sinut ammutaan kumminkin. Liikuta sitä ruhoasi."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT04_D39416_IDONT"
-msgstr ""
-"En halua kuulostaa pelon lietsojalta, mutta jos ne vaan jatkavat voimakristallin ajamista näin lujille, se säröytyy, sitten pirstoutuu, ja sitten pam! Ihan vain heittona."
+msgstr "En halua kuulostaa pelon lietsojalta, mutta jos ne vaan jatkavat voimakristallin ajamista näin lujille, se säröytyy, sitten pirstoutuu, ja sitten pam! Ihan vain heittona."
 
 msgid "TXT_DLG_SCRIPT04_D40932_LETME"
 msgstr ""
@@ -1409,9 +1410,9 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT06_D9096_ANYTH"
 msgstr "Voitko olla vielä jotenkin muuten avuksi?"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT06_D10612_GOODL"
-msgstr ""
-"Lykkyä tykö. Olen aukaissut useita tunneleistamme sinulle, minkä pitäisi helpottaa tehtävääsi. Kas, kokoa kymmenen, prikulleen sopiva! ...Mutta aivan hirveän värinen."
+msgstr "Lykkyä tykö. Olen aukaissut useita tunneleistamme sinulle, minkä pitäisi helpottaa tehtävääsi. Kas, kokoa kymmenen, prikulleen sopiva! ...Mutta aivan hirveän värinen."
 
 msgid "TXT_RPLY0_SCRIPT06_D10612_THANK"
 msgstr "Kiitos avustasi."
@@ -1569,9 +1570,9 @@ msgstr "Ne saavat maksaa tästä!"
 msgid "TXT_DLG_SCRIPT10_D15160_FIGHT"
 msgstr "Taistele Rintaman ja vapauden puolesta. Liikkeelle mars."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT10_D16676_IAMTH"
-msgstr ""
-"Minä olen Yksi Ainoa Jumala... Tarvitsen hänen henkeään ollakseni vapaa ja poistuakseni ruumiistani, jotta voisin paeta hänen kanssaan. Et käsitäkään, mitä omaat... ja mitä kauhua olet kohtaava... Yhden Ainoan Jumalan on päästävä vapaaksi... Ja hän palkitsee minut... Tulen olemaan yksi..."
+msgstr "Minä olen Yksi Ainoa Jumala... Tarvitsen hänen henkeään ollakseni vapaa ja poistuakseni ruumiistani, jotta voisin paeta hänen kanssaan. Et käsitäkään, mitä omaat... ja mitä kauhua olet kohtaava... Yhden Ainoan Jumalan on päästävä vapaaksi... Ja hän palkitsee minut... Tulen olemaan yksi..."
 
 msgid "TXT_RPLY0_SCRIPT10_D16676_IWILL"
 msgstr "Tuhoan sinut!"
@@ -1916,9 +1917,9 @@ msgstr "Jatka samaan malliin; emme olisi pärjänneet näin hyvin ilman sinua."
 msgid "TXT_DLG_SCRIPT11_D0_IMTHE"
 msgstr "Minä olen avainmestari."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT11_D1516_ALOTO"
-msgstr ""
-"Monet väittäisivät tehtäväni olevan epäkiitollinen ja vähäpätöinen. Mutta oikeasti se ei ole."
+msgstr "Monet väittäisivät tehtäväni olevan epäkiitollinen ja vähäpätöinen. Mutta oikeasti se ei ole."
 
 msgid "TXT_RPLY0_SCRIPT11_D1516_GIVEM"
 msgstr "Anna minulle avain!"
@@ -2012,9 +2013,9 @@ msgstr "Tulen takaisin hänen osasensa kanssa!"
 msgid "TXT_DLG_SCRIPT12_D13644_THERI"
 msgstr "Ajan virta liikkuu alati eteenpäin, samalla kun itse pysyt aloillasi."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT12_D15160_PITIF"
-msgstr ""
-"Kurja ihminen, olet tehnyt sen, missä tuhannet ovat epäonnistuneet: Olet tuonut minulle Sinetin voiman, Yhden Ainoan Jumalan äänen."
+msgstr "Kurja ihminen, olet tehnyt sen, missä tuhannet ovat epäonnistuneet: Olet tuonut minulle Sinetin voiman, Yhden Ainoan Jumalan äänen."
 
 msgid "TXT_RPLY0_SCRIPT12_D15160_IDONT"
 msgstr "En ymmärrä."
@@ -2107,9 +2108,9 @@ msgstr "No siinäpä vasta mallitapaus. Et sattumoisin ole avun tarpeessa?"
 msgid "TXT_RPLY0_SCRIPT17_D6064_WELLY"
 msgstr "Itse asiassa, kyllä. Macil lähetti minut."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT17_D7580_SHHHH"
-msgstr ""
-"Hyss, suuta soukemmalle, ellet halua tapattaa meitä molempia. No niin, miten voin auttaa?"
+msgstr "Hyss, suuta soukemmalle, ellet halua tapattaa meitä molempia. No niin, miten voin auttaa?"
 
 msgid "TXT_RPLY0_SCRIPT17_D7580_TELLM"
 msgstr "Kerro, miten löydän Piispan."
@@ -2219,16 +2220,16 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT22_D1516_DOYOU"
 msgstr "Tiedätkö, mitä sisällä on?"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT22_D3032_ITSAT"
-msgstr ""
-"Se on huippusalainen alue. Vielä sen lisäksi, että Veljeskunta on luomassa siellä jonkinlaista... oliota, olen omin silmin nähnyt oudon esineen, jota kutsutaan Talismaaniksi. Ketään ei sallita sen lähelle. Huhutaan, että sen sisällä piilee suuri voima, jos sen yhdistää kahden toisen sen kaltaisen kanssa."
+msgstr "Se on huippusalainen alue. Vielä sen lisäksi, että Veljeskunta on luomassa siellä jonkinlaista... oliota, olen omin silmin nähnyt oudon esineen, jota kutsutaan Talismaaniksi. Ketään ei sallita sen lähelle. Huhutaan, että sen sisällä piilee suuri voima, jos sen yhdistää kahden toisen sen kaltaisen kanssa."
 
 msgid "TXT_RPLY0_SCRIPT22_D3032_ISUPP"
 msgstr "Sinä varmaankin haluat tämän esineen?"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT22_D4548_NOIFY"
-msgstr ""
-"Ei! Jos löydät sen, saat pitää omanasi. Voit ehkä käyttää sitä auttaaksesi vapauttamaan meidät sorrostamme. Toivottaisin sinulle onnea, mutta tarvitset paljon enemmän kuin sitä, jos menet sinne."
+msgstr "Ei! Jos löydät sen, saat pitää omanasi. Voit ehkä käyttää sitä auttaaksesi vapauttamaan meidät sorrostamme. Toivottaisin sinulle onnea, mutta tarvitset paljon enemmän kuin sitä, jos menet sinne."
 
 msgid "TXT_RPLY0_SCRIPT22_D4548_WHATS"
 msgstr "Mistä tässä kaikessa menneessä oikein on kyse?"
@@ -2237,6 +2238,7 @@ msgid "TXT_DLG_SCRIPT22_D6064_YOUVE"
 msgstr ""
 "Olet varmastikin nähnyt lähistön muut rauniot. Vaikuttaa siltä, että komeetta, joka törmäsi planeettaamme, on oikeasti avaruusalus; ja usko tai älä, se on alkuaan peräisin tästä samaisesta maailmasta kauan sitten."
 
+#, fuzzy
 msgid "TXT_RPLY0_SCRIPT22_D6064_SOTHE"
 msgstr "Joten aaveet, Yksi Ainoa Jumala..."
 
@@ -2244,6 +2246,7 @@ msgid "TXT_DLG_SCRIPT22_D7580_THEYA"
 msgstr ""
 "Ne ovat olentoja, jotka kerran hallitsivat tätä maailmaa ja ovat nyt päättäneet hävittää sen elämästä. Muinaisten onnistui teljetä heidät ulos, mutta siinä samassa uhrasivat henkensä. Valitettavasti en tiedä tämän enempää."
 
+#, fuzzy
 msgid "TXT_RPLY0_SCRIPT22_D7580_THANK"
 msgstr "Kiitos; teen, minkä pystyn."
 
@@ -2460,6 +2463,7 @@ msgid "TXT_DLG_SCRIPT23_D15160_THANK"
 msgstr ""
 "Luojan kiitos, että selvisit perille. Päästäksesi sisälle tehtaaseen tarvitset avaimen. Varastimme sen, mutta vakoojamme on eksynyt Veljeskunnan linnakkeen alapuolella sijaitsevaan katakombiverkostoon. Olen lähettänyt tunneleihin 10 kelpoa miestä etsimään häntä, eikä kukaan ole palannut. Jokin on siellä alla!"
 
+#, fuzzy
 msgid "TXT_RPLY0_SCRIPT23_D15160_WHATI"
 msgstr "Mikä se on? Ihminen vai..."
 
@@ -2555,6 +2559,7 @@ msgid "TXT_DLG_SCRIPT23_D24256_THANK"
 msgstr ""
 "Luojan kiitos, että selvisit perille. Päästäksesi sisälle tehtaaseen tarvitset avaimen. Varastimme sen, mutta vakoojamme on eksynyt Veljeskunnan linnakkeen alapuolella sijaitsevaan katakombiverkostoon. Olen lähettänyt tunneleihin 10 kelpoa miestä etsimään häntä, eikä kukaan ole palannut. Jokin on siellä alla!"
 
+#, fuzzy
 msgid "TXT_RPLY0_SCRIPT23_D24256_WHATI"
 msgstr "Mikä se on? Ihminen vai..."
 
@@ -2772,9 +2777,9 @@ msgid "TXT_DLG_SCRIPT33_D13644_THATS"
 msgstr ""
 "Siinä kaikki, ystävä. Tiedon lähde on ehtynyt. Olen kertonut sinulle joka tapauksessa enemmän kuin olisi pitänytkään."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT33_D15160_HARDT"
-msgstr ""
-"Vaikea ostaa uusia leluja, kun on peeaa. Käytkö hoitamassa minulle yhden asian, niin tienaat enemmän kuin pystyt ikinä kuluttamaan. Teen sinusta kroisoksen."
+msgstr "Vaikea ostaa uusia leluja, kun on peeaa. Käytkö hoitamassa minulle yhden asian, niin tienaat enemmän kuin pystyt ikinä kuluttamaan. Teen sinusta kroisoksen."
 
 msgid "TXT_RPLY0_SCRIPT33_D15160_IGOTN"
 msgstr "Ei minulla parempaakaan tekemistä ole."
@@ -2834,9 +2839,9 @@ msgstr "Mitä oikein odotat? Kuvernööri itse palkitsee sinut."
 msgid "TXT_DLG_SCRIPT33_D25772_DIETR"
 msgstr "Kuole, petturi! "
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT33_D27288_SOYOU"
-msgstr ""
-"Vai sinä olet se houkka, joka varasti kalkin? Pidätytän sinut kapinallisvarkaana, siten parantaen asemaani Veljeskunnassa. Miltäpä tuntuu olla tahaton pelinappula? "
+msgstr "Vai sinä olet se houkka, joka varasti kalkin? Pidätytän sinut kapinallisvarkaana, siten parantaen asemaani Veljeskunnassa. Miltäpä tuntuu olla tahaton pelinappula? "
 
 msgid "TXT_RPLY0_SCRIPT33_D27288_ITSUC"
 msgstr "Ihan perseestä!"
@@ -3238,9 +3243,9 @@ msgstr "Kiitos, hei!"
 msgid "TXT_RANDOMGOODBYE_3"
 msgstr "Nähdään!"
 
+#, fuzzy
 msgid "TXT_ILOG1"
-msgstr ""
-"Haloo? Komentokeskus, äsken juuri kytkettiin päälle viestintälaite... Poimin... jonkun... videota ja ääntä... Hei sinä, häivy täältä heti paikalla... ja pudota kalkki!"
+msgstr "Haloo? Komentokeskus, äsken juuri kytkettiin päälle viestintälaite... Poimin... jonkun... videota ja ääntä... Hei sinä, häivy täältä heti paikalla... ja pudota kalkki!"
 
 msgid "TXT_ILOG2"
 msgstr ""
@@ -3444,9 +3449,9 @@ msgid "TXT_ILOG102"
 msgstr ""
 "Havaitsen massivisia hermoaaltovääristymiä suoraan edessä. Luulen löytäneemme sen. Mennään sisään ja sammutetaan se!"
 
+#, fuzzy
 msgid "TXT_ILOG103"
-msgstr ""
-"Juuri kun luulen nähneemme kaiken! He menevät sisään ihmisinä ja tulevat ulos... En halua edes ajatellakaan sitä. Tuhoa tämä kauhistus!"
+msgstr "Juuri kun luulen nähneemme kaiken! He menevät sisään ihmisinä ja tulevat ulos... En halua edes ajatellakaan sitä. Tuhoa tämä kauhistus!"
 
 msgid "TXT_ILOG104"
 msgstr ""
@@ -3561,13 +3566,13 @@ msgid "TXT_ILOG1024"
 msgstr ""
 "Kolmas osanen on Oraakkelin hallussa. Siinä on petturisi. Palaa Oraakkelin luo ja poista hänet päiväjärjestyksestä. Palaa luokseni hänen kuoltuaan."
 
+#, fuzzy
 msgid "TXT_ILOG1025"
-msgstr ""
-"Olet erottanut syövän ruumiistasi, mutta sydämesi silti sykkii. Seuraavaksi pitää sinun löytämän kirugin, joka teurastaa ja hallitsee kansaasi: Oppi-Isän. Pysäytä hänet, ja seuraava osanen on oleva sinun."
+msgstr "Olet erottanut syövän ruumiistasi, mutta sydämesi silti sykkii. Seuraavaksi pitää sinun löytämän kirugin, joka teurastaa ja hallitsee kansaasi: Oppi-Isän. Pysäytä hänet, ja seuraava osanen on oleva sinun."
 
+#, fuzzy
 msgid "TXT_ILOG1026"
-msgstr ""
-"Seuraavaksi pitää sinun löytämän kirugin, joka teurastaa ja hallitsee kansaasi: Oppi-Isän. Pysäytä hänet, ja seuraava osanen on oleva sinun. Käytä avaamaani kaukosiirrintä tavoittaaksesi hänet. Kun hän on kuollut, käytä samaa laitetta palataksesi tyköni."
+msgstr "Seuraavaksi pitää sinun löytämän kirugin, joka teurastaa ja hallitsee kansaasi: Oppi-Isän. Pysäytä hänet, ja seuraava osanen on oleva sinun. Käytä avaamaani kaukosiirrintä tavoittaaksesi hänet. Kun hän on kuollut, käytä samaa laitetta palataksesi tyköni."
 
 msgid "TXT_ILOG1027"
 msgstr ""
@@ -3745,9 +3750,9 @@ msgid "TXT_SUB_GOOD2"
 msgstr ""
 "Tiesin, että voittaisit, uljas sankarini. Kaikki taistelu on tauonnut. Voittosi myötä meidän on mahdollista luoda rokote viruksen poistamiseksi kehoistamme."
 
+#, fuzzy
 msgid "TXT_SUB_GOOD3"
-msgstr ""
-"Olet pelastanut planeettamme ja vapauttanut meidät. Tahtoisin nyt kiittää sinua... henkilökohtaisesti. Ja muuten, nimeni on Shauna."
+msgstr "Olet pelastanut planeettamme ja vapauttanut meidät. Tahtoisin nyt kiittää sinua... henkilökohtaisesti. Ja muuten, nimeni on Shauna."
 
 msgid "TXT_SUB_SAD1"
 msgstr ""
@@ -3781,13 +3786,13 @@ msgid "TXT_SUB_MAP03_2"
 msgstr ""
 "Ilman lisääntymistä Veljeskunta katsoi biomekaanisen parantelun ainoaksi tavakseen ylläpitää vahvuuttaan."
 
+#, fuzzy
 msgid "TXT_SUB_MAP03_3"
-msgstr ""
-"Rappeutuminen on edennyt niin pitkälle, että suurin osa kohtaamistamme joukoista on enemmän koneita kuin ihmisiä, mutta me uskomme, että heidän yhteistä tietoisuuttaan ohjaa yksi lähde..."
+msgstr "Rappeutuminen on edennyt niin pitkälle, että suurin osa kohtaamistamme joukoista on enemmän koneita kuin ihmisiä, mutta me uskomme, että heidän yhteistä tietoisuuttaan ohjaa yksi lähde..."
 
+#, fuzzy
 msgid "TXT_SUB_MAP03_4"
-msgstr ""
-"Ohjelmoitsija: akoluutteja ohjaavan tekoälyn luoja. Tuhoa Ohjelmoitsija, ja saatamme rampauttaa Veljeskunnan joukot yhdellä iskulla. Mutta ole varovainen: tietojemme mukaan hän kykenee haihduttamaan vastustajansa."
+msgstr "Ohjelmoitsija: akoluutteja ohjaavan tekoälyn luoja. Tuhoa Ohjelmoitsija, ja saatamme rampauttaa Veljeskunnan joukot yhdellä iskulla. Mutta ole varovainen: tietojemme mukaan hän kykenee haihduttamaan vastustajansa."
 
 msgid "TXT_SUB_MAP10_1"
 msgstr ""
@@ -3862,19 +3867,20 @@ msgstr ""
 msgid "TXT_SUB_LOG16"
 msgstr "Varasto on voimalaitoksella. Hoidetaan tämä nätisti ja pikaisesti."
 
+#, fuzzy
 msgid "TXT_SUB_LOG17"
 msgstr "En olisi ikinä uskonut murtautuvani vankilaan..."
 
 msgid "TXT_SUB_LOG18"
 msgstr "Ilmaista lounasta ei kai olekaan. Aika laittaa kovat piippuun."
 
+#, fuzzy
 msgid "TXT_SUB_LOG19"
-msgstr ""
-"No niin, olet tehnyt kuvernöörille mieliksi: suolannut vankilanjohtajan... Mutta näyttää siltä, että meidän täytyy harrastaa vähän kirurgiaa."
+msgstr "No niin, olet tehnyt kuvernöörille mieliksi: suolannut vankilanjohtajan... Mutta näyttää siltä, että meidän täytyy harrastaa vähän kirurgiaa."
 
+#, fuzzy
 msgid "TXT_SUB_LOG20"
-msgstr ""
-"Jaa, sinä katkaisit hänen kätensä! Ja minä kun luulin, että olit kiva kundi... jokseenkin. Mennään."
+msgstr "Jaa, sinä katkaisit hänen kätensä! Ja minä kun luulin, että olit kiva kundi... jokseenkin. Mennään."
 
 msgid "TXT_SUB_LOG21"
 msgstr ""
@@ -3895,9 +3901,9 @@ msgid "TXT_SUB_LOG26"
 msgstr ""
 "Veljeskunta luulee olevansa turvassa linnassaan. Väärin! Jos avaat portit, he ovat helppoa saalista. Ja sitä varten sinun on mentävä alas viemäreihin. Kulje joen vartta kuvernöörin kartanoa vastapäätä. "
 
+#, fuzzy
 msgid "TXT_SUB_LOG27"
-msgstr ""
-"No niin, kumarru tässä. Viemärin asukit ovat kauhistuttavia mutantteja, mutta heidän tunneliverkkonsa antaa heille pääsyn salaisiin paikkoihin. Pidä kiinni nenästäsi, menemme alas."
+msgstr "No niin, kumarru tässä. Viemärin asukit ovat kauhistuttavia mutantteja, mutta heidän tunneliverkkonsa antaa heille pääsyn salaisiin paikkoihin. Pidä kiinni nenästäsi, menemme alas."
 
 msgid "TXT_SUB_LOG28"
 msgstr ""
@@ -3912,9 +3918,9 @@ msgstr "Juuri, mitä tarvitsen: lisää ruskeaa mönjää!"
 msgid "TXT_SUB_LOG31"
 msgstr "Hei, katso! Tuo on varmaankin se ovi, jonka Weran haluaa raolleen!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG32"
-msgstr ""
-"Sulje silmäsi! En halua nähdä! Äh, myöhäistä... yäk. Tuo ei näytä ihmisruumiilta. Mitä Veljeskunta oikein on tehnyt? Minun on ilmoitettava tästä komentokeskukselle."
+msgstr "Sulje silmäsi! En halua nähdä! Äh, myöhäistä... yäk. Tuo ei näytä ihmisruumiilta. Mitä Veljeskunta oikein on tehnyt? Minun on ilmoitettava tästä komentokeskukselle."
 
 msgid "TXT_SUB_LOG33"
 msgstr "Miksei meillä kerrankin voisi olla tehtävä kukkakedolla?"
@@ -3926,6 +3932,7 @@ msgstr ""
 msgid "TXT_SUB_LOG35"
 msgstr "Älä kysy minulta, missä olemme. Olen myös eksyksissä; pahoittelut."
 
+#, fuzzy
 msgid "TXT_SUB_LOG36"
 msgstr "Tuo tiilenmurikka... Emmekö jo menneet sen ohitse? Ei kun..."
 
@@ -3941,6 +3948,7 @@ msgid "TXT_SUB_LOG39"
 msgstr ""
 "Aah, tekeepä hyvää olla taas vaihteeksi hyökkäävänä osapuolena. Hakkaa päälle, pojat!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG40"
 msgstr "Tämä näyttää hyvältä. Tietokoneita, ohjelmoitsija... Mitä tuumit?"
 
@@ -3948,9 +3956,9 @@ msgid "TXT_SUB_LOG41"
 msgstr ""
 "Tämä on varmaankin se pitkä käytävä. Joko niin, tai sitten olen ihan pihalla mittasuhteista."
 
+#, fuzzy
 msgid "TXT_SUB_LOG42"
-msgstr ""
-"Tämä täyttää pahuuden temppelin kaikki tunnusmerkit: tuima arkkitehtuuri, suuri tunnuslippu... Sanoisin, että bingo!"
+msgstr "Tämä täyttää pahuuden temppelin kaikki tunnusmerkit: tuima arkkitehtuuri, suuri tunnuslippu... Sanoisin, että bingo!"
 
 msgid "TXT_SUB_LOG43"
 msgstr "Tämäkö muka kaikkivoipa Ohjelmoitsija? Ei todellakaan!"
@@ -4122,15 +4130,16 @@ msgid "TXT_SUB_LOG89"
 msgstr ""
 "Tehdas on kaivoksen vieressä. Richter varmastikin tarkoittaa Degninin kaivosta. Degnin-malmi on magneettista ja räjähdysherkkää, juuri omiaan purkamaan voimakenttiä."
 
+#, fuzzy
 msgid "TXT_SUB_LOG90"
 msgstr "Kaivoksia, katakombeja, viemäreitä... Mitkä ensitreffit!"
 
 msgid "TXT_SUB_LOG91"
 msgstr "Kunpa Richter olisi ollut hivenen tarkempi. Hm, kokeillaan täältä."
 
+#, fuzzy
 msgid "TXT_SUB_LOG92"
-msgstr ""
-"Luulen, että olemme... Perhana, minulla ei ole aavistustakaan, missä olemme."
+msgstr "Luulen, että olemme... Perhana, minulla ei ole aavistustakaan, missä olemme."
 
 msgid "TXT_SUB_LOG93"
 msgstr ""
@@ -4168,9 +4177,9 @@ msgid "TXT_SUB_LOG102"
 msgstr ""
 "Havaitsen massivisia hermoaaltovääristymiä suoraan edessä. Luulen löytäneemme sen."
 
+#, fuzzy
 msgid "TXT_SUB_LOG103"
-msgstr ""
-"Juuri kun luulen nähneemme kaiken! He menevät sisään ihmisinä ja tulevat ulos... En halua edes ajatellakaan sitä."
+msgstr "Juuri kun luulen nähneemme kaiken! He menevät sisään ihmisinä ja tulevat ulos... En halua edes ajatellakaan sitä."
 
 msgid "TXT_SUB_LOG104"
 msgstr ""
@@ -4206,9 +4215,9 @@ msgstr ""
 "Totuus löytyy ainoastaan maailmankaikkeuden yleistahdosta. Lankeat polvillesi Totisen Jumalan, Yhden Valon, edessä. Liity minuun, ja täytän Sinetin.\n"
 "Olen korviani myöten täynnä tätä mystistä hölynpölyä."
 
+#, fuzzy
 msgid "TXT_SUB_LOG130"
-msgstr ""
-"Sinä... Sinä olet murskannut Veljeskuntani, tunkenut läpi ansojeni ja uhannut vuosisatoja palanutta halua. Mutta olen vielä voittava; tartutan sinut ja väännän sinut tahtooni..."
+msgstr "Sinä... Sinä olet murskannut Veljeskuntani, tunkenut läpi ansojeni ja uhannut vuosisatoja palanutta halua. Mutta olen vielä voittava; tartutan sinut ja väännän sinut tahtooni..."
 
 msgid "TXT_SUB_LOG200"
 msgstr "Eikö kuulostakin unelmapestiltä?"
@@ -4219,6 +4228,7 @@ msgstr "Olet nähnyt liikaa. Murskaa hänet, Macil!"
 msgid "TXT_SUB_LOG202"
 msgstr "Ensi kerralla saat luvan kuunnella minua."
 
+#, fuzzy
 msgid "TXT_SUB_LOG203"
 msgstr "Ääh, näitä maailmanlopun jälkeisiä hintoja..."
 
@@ -4267,9 +4277,11 @@ msgstr "Mm, pidän käytöksestäsi."
 msgid "TXT_SUB_LOG218"
 msgstr "Antaa palaa! Ne eivät ole ihmisiä!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG219"
 msgstr "Vau! Mustaa akoluuttia! Uutuusmakuelämys!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG220"
 msgstr "Jatka tuota samaan malliin ja sokeudut... mutta pidän siitä."
 
@@ -4279,15 +4291,18 @@ msgstr "Eivät varmaankaan kutsu meitä takaisin illalliselle!"
 msgid "TXT_SUB_LOG222"
 msgstr "Meidän tarvitsee päästä ylimmälle kerrokselle."
 
+#, fuzzy
 msgid "TXT_SUB_LOG223"
 msgstr "Odota... Tämä näyttää mielenkiintoiselta. Vilkaisepa."
 
 msgid "TXT_SUB_LOG224"
 msgstr "Yöh, onpa puistattava kaveri. Pysytään loitolla."
 
+#, fuzzy
 msgid "TXT_SUB_LOG225"
 msgstr "Vasemmalle! Käänny vasemmalle! Aa, toinen vasen!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG226"
 msgstr "Tyypillinen itsepäinen uppiniskainen mies! Ellet sitten ole tyttö."
 
@@ -4297,9 +4312,11 @@ msgstr "Vahva, raaka ja hiljainen. Mieleiseni kumppani."
 msgid "TXT_SUB_LOG228"
 msgstr "Okei, olin väärässä!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG229"
 msgstr "Sääli, ettemme koskaan tavanneet... kasvokkain."
 
+#, fuzzy
 msgid "TXT_SUB_LOG230"
 msgstr "Elättelin toiveita sinusta... Paska mäihä."
 
@@ -4310,9 +4327,9 @@ msgstr ""
 msgid "TXT_SUB_LOG232"
 msgstr "Hyvää työtä, ystävä! On aika tuoda sinut sisälle."
 
+#, fuzzy
 msgid "TXT_SUB_LOG233"
-msgstr ""
-"Varo noita ristiretkeläisiä. Ne ovat isoja järkälemäisiä robotteja ja helvetin häijyjä. Emme tiedä yhtikäs mitään niiden aseista, mutta todennäköisyys on... että olet heikoilla. Varovaisesti."
+msgstr "Varo noita ristiretkeläisiä. Ne ovat isoja järkälemäisiä robotteja ja helvetin häijyjä. Emme tiedä yhtikäs mitään niiden aseista, mutta todennäköisyys on... että olet heikoilla. Varovaisesti."
 
 msgid "TXT_SUB_LOG234"
 msgstr ""
@@ -4325,9 +4342,9 @@ msgid "TXT_SUB_LOG236"
 msgstr ""
 "Sinä typerä, kömpelö, kampurajalkainen imbesilli! Olet paljastanut meidät!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG237"
-msgstr ""
-"Kunpa olisin voinut olla sinua ovella vastassa, mutta minun on pysyttävä maan alla. Sinun on aika tavata johtajamme, Macilin."
+msgstr "Kunpa olisin voinut olla sinua ovella vastassa, mutta minun on pysyttävä maan alla. Sinun on aika tavata johtajamme, Macilin."
 
 msgid "TXT_BBSUB_SCRIPT02_D57608_IFIKN"
 msgstr ""
@@ -4382,6 +4399,7 @@ msgstr "Loistavaa, hoidamme nyt Rottakuninkaan ostoksia."
 msgid "TXT_BBSUB_SCRIPT06_D4548_OPENT"
 msgstr "Lyön vetoa, että tämä tyyppi myös haisee tosi pahalta."
 
+#, fuzzy
 msgid "TXT_BBSUB_SCRIPT06_D9096_YOUHA"
 msgstr "Lisää viemäreitä... Mahtavaa. Kukakohan elää täällä alhaalla."
 
@@ -4396,6 +4414,7 @@ msgid "TXT_BBSUB_SCRIPT10_D12128_THERE"
 msgstr ""
 "Biomekaanisia? No se selittää heidän joukkojensa näennäisen ehtymättömän lähteen! Ja heidän pahan asenteensa.\n"
 
+#, fuzzy
 msgid "TXT_BBSUB_SCRIPT10_D16676_IAMTH"
 msgstr "Sairas kusipää... Listi hänet!"
 
@@ -4406,9 +4425,9 @@ msgid "TXT_BBSUB_SCRIPT17_D10612_OHSUR"
 msgstr ""
 "Lähimenneisyyden perusteella hiiviskely ei varmaankaan tule kysymykseen."
 
+#, fuzzy
 msgid "TXT_BBSUB_SCRIPT17_D13644_OHWEL"
-msgstr ""
-"Hmm, pulinat pois, ei jätetä äidille mitään siivottavaa... Saisinko yhden, kiitos.\n"
+msgstr "Hmm, pulinat pois, ei jätetä äidille mitään siivottavaa... Saisinko yhden, kiitos.\n"
 
 msgid "TXT_BBSUB_SCRIPT31_D0_OHNOI"
 msgstr ""

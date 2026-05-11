@@ -2,15 +2,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-24 21:51+0000\n"
-"Last-Translator: Šimon Větrovec <commonissuedemon@gmail.com>\n"
-"Language-Team: Czech <https://hosted.weblate.org/projects/uzdoom/hacx/cs/>\n"
+"PO-Revision-Date: 2026-05-11 03:43+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"Language-Team: Czech <https://hosted.weblate.org/projects/doom-engine-games/hacx-filter/cs/>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.15-dev\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
+"X-Generator: Weblate 2026.5-dev\n"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG1"
@@ -373,6 +373,7 @@ msgstr ""
 "střeva a rychle z Dodge vypadnout!\n"
 "\n"
 
+#, fuzzy
 msgid "X2TEXT"
 msgstr ""
 "Kde jsou všichni!?\n"
@@ -391,6 +392,7 @@ msgstr ""
 "Není divu, že je ve čtvrti nějak prázdno.\n"
 "Nahlaš se zpátky u výboru. A dávej pozor...\n"
 
+#, fuzzy
 msgid "X3TEXT"
 msgstr ""
 "Civilizace, tak jak ji známe, je pryč.\n"
@@ -408,6 +410,7 @@ msgstr ""
 "\n"
 ".....(pokračování příště)....."
 
+#, fuzzy
 msgid "X5TEXT"
 msgstr ""
 "Jsi naživu!\n"
@@ -484,12 +487,14 @@ msgstr "Pozor, vetřelec!"
 msgid "TXT_HACXMAP31"
 msgstr "Sušící místnost"
 
+#, fuzzy
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_CLEV"
 msgstr "Příjezd do...\n"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+#, fuzzy
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_CHOPPERS"
 msgstr "...ti upeče prdel!"

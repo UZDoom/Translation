@@ -2,15 +2,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-30 06:49+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-05-11 03:43+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/doom-engine-games/strife/tr/>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15-dev\n"
+"X-Generator: Weblate 2026.5-dev\n"
 
 msgid "TXT_STRIFE_MAP01"
 msgstr "ALAN 1: Sığınak"
@@ -319,9 +319,9 @@ msgstr "Her altına değer!"
 msgid "TXT_RNO3_SCRIPT02_D12128_COMEO"
 msgstr "Hadi, 200 altın!"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D13644_ICANT"
-msgstr ""
-"Bu görevin bana kaldığına inanamıyorum. Bu kanalizasyon kapısından kötü bir şeyin çıktığını söylüyorlar. Şimdi o şey tekrar ortaya çıkana kadar burada duracağım!"
+msgstr "Bu görevin bana kaldığına inanamıyorum. Bu kanalizasyon kapısından kötü bir şeyin çıktığını söylüyorlar. Şimdi o şey tekrar ortaya çıkana kadar burada duracağım!"
 
 msgid "TXT_RPLY0_SCRIPT02_D13644_WHATG"
 msgstr "Ne kapısı?"
@@ -461,9 +461,9 @@ msgstr "Al bakalım. Kendine iyi bak."
 msgid "TXT_RNO2_SCRIPT02_D21224_WELLM"
 msgstr "Belki birkaç ilaç yamasını karşılayabilirsin?"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D22740_IHOPE"
-msgstr ""
-"Umarım Macil ne yaptığını biliyordur. Tarikat Cephe'ye yardım ettiğimi öğrenirse ölmüş sayılırım. Bu senin için önemli değil. Cephe'nin doktoru bana senin için bir yükseltme çipi verdi, hazır mısın? "
+msgstr "Umarım Macil ne yaptığını biliyordur. Tarikat Cephe'ye yardım ettiğimi öğrenirse ölmüş sayılırım. Bu senin için önemli değil. Cephe'nin doktoru bana senin için bir yükseltme çipi verdi, hazır mısın? "
 
 msgid "TXT_RPLY0_SCRIPT02_D22740_YESIM"
 msgstr "Evet, hazırım."
@@ -508,6 +508,7 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT02_D25772_WHATS"
 msgstr "Neydi o kelime?"
 
+#, fuzzy
 msgid "TXT_RYES0_SCRIPT02_D25772_THEWO"
 msgstr "Kelime şu. Lağımlarda fareler ve robotlardan daha fazlası var."
 
@@ -536,13 +537,13 @@ msgstr "Tarikat'ta göründüğünden daha fazlası var."
 msgid "TXT_RNO0_SCRIPT02_D28804_WELLT"
 msgstr "Altın aldığında konuşuruz!"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D30320_THATS"
-msgstr ""
-"Bu kadar dostum, bilgi kuyusu kurudu. Zaten sana söylemem gerekenden fazlasını söyledim. İyi şanslar. Ve sakın geri gelme."
+msgstr "Bu kadar dostum, bilgi kuyusu kurudu. Zaten sana söylemem gerekenden fazlasını söyledim. İyi şanslar. Ve sakın geri gelme."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D31836_HEYIM"
-msgstr ""
-"Hey, ben sadece acil bir durumda buradayım. Çekirdek kırılırsa, kimsenin içeri girmediğinden emin olurum... ya da dışarı."
+msgstr "Hey, ben sadece acil bir durumda buradayım. Çekirdek kırılırsa, kimsenin içeri girmediğinden emin olurum... ya da dışarı."
 
 msgid "TXT_DLG_SCRIPT02_D33352_WATCH"
 msgstr "Adımına dikkat et, köylü!"
@@ -559,9 +560,9 @@ msgstr "Sen oradaki, kimsenin buraya girmesine izin yok. İlerleyin!"
 msgid "TXT_DLG_SCRIPT02_D39416_IRALE"
 msgstr "İrale seni hemen ayarlayacak!"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D40932_IMKIN"
-msgstr ""
-"Ben asiler için yetenek simsarı sayılırım. Senin kadar iyi bir adam çok altın kazanabilir... eğer doğru insanlarla bağlantı kurarsan."
+msgstr "Ben asiler için yetenek simsarı sayılırım. Senin kadar iyi bir adam çok altın kazanabilir... eğer doğru insanlarla bağlantı kurarsan."
 
 msgid "TXT_RPLY0_SCRIPT02_D40932_IMINT"
 msgstr "İlgileniyorum."
@@ -667,9 +668,9 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT02_D66704_FINEB"
 msgstr "Bana uyar."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D68220_SOYOU"
-msgstr ""
-"Demek kadehi çalan aptal sensin? Seni asi bir hırsız olarak tutuklatacağım. Böylece Tarikat'taki konumumu güçlendireceğim. Farkında olmadan bir piyon olmak nasıl bir duygu? Sana bir ipucu vereyim, acıtacak. "
+msgstr "Demek kadehi çalan aptal sensin? Seni asi bir hırsız olarak tutuklatacağım. Böylece Tarikat'taki konumumu güçlendireceğim. Farkında olmadan bir piyon olmak nasıl bir duygu? Sana bir ipucu vereyim, acıtacak. "
 
 msgid "TXT_RPLY0_SCRIPT02_D68220_ITSUC"
 msgstr "Berbat!"
@@ -783,6 +784,7 @@ msgstr "Tabii ki var!"
 msgid "TXT_RPLY1_SCRIPT02_D92476_NOAND"
 msgstr "Hayır, ihtiyacım da yok!"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D93992_SORRY"
 msgstr "Özür dilerim! Öyle demek istemedim. Lütfen yukarı çıkın."
 
@@ -832,9 +834,9 @@ msgstr "Teşekkürler."
 msgid "TXT_DLG_SCRIPT02_D104604_RELEA"
 msgstr "Bırakın beni, yaşlı bir adamı yalnız bırakın."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT03_D0_WELCO"
-msgstr ""
-"Son umut ışığına hoş geldiniz. Tarikat'a karşı koyacak özgür irade sadece bizde var. En keskin bilimsel zihinlere ve birçok yetenekli bedene sahibiz, ancak bize ihtiyacımız olan avantajı sağlayacak gerçek bir Problem Çözücüden yoksunuz. Bize yardım edin."
+msgstr "Son umut ışığına hoş geldiniz. Tarikat'a karşı koyacak özgür irade sadece bizde var. En keskin bilimsel zihinlere ve birçok yetenekli bedene sahibiz, ancak bize ihtiyacımız olan avantajı sağlayacak gerçek bir Problem Çözücüden yoksunuz. Bize yardım edin."
 
 msgid "TXT_RPLY0_SCRIPT03_D0_ALLRI"
 msgstr "Pekala, kabul ediyorum."
@@ -1086,9 +1088,9 @@ msgid "TXT_DLG_SCRIPT03_D43964_WERET"
 msgstr ""
 "Kale kapısı mekanizmalarının nerede olduğunu bulmaya çalışıyoruz ama şu ana kadar şansımız yaver gitmedi."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT03_D45480_DONTG"
-msgstr ""
-"Sakın yakalanmayın. Hapsedildikten sonra insanlarımıza ne yaptıklarına dair korku hikayeleri duydum. Öylece ortadan kayboluyorlar. İz bırakmadan."
+msgstr "Sakın yakalanmayın. Hapsedildikten sonra insanlarımıza ne yaptıklarına dair korku hikayeleri duydum. Öylece ortadan kayboluyorlar. İz bırakmadan."
 
 msgid "TXT_DLG_SCRIPT03_D46996_HERES"
 msgstr ""
@@ -1221,9 +1223,9 @@ msgstr "Güç kristali nerede?"
 msgid "TXT_DLG_SCRIPT04_D37900_IFYOU"
 msgstr "İşe gitmezsen zaten vurulacaksın. Tuniğini çek."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT04_D39416_IDONT"
-msgstr ""
-"Endişeli görünmek istemem ama güç kristalini bu kadar zorlamaya devam ederlerse kusurlu olacak, sonra paramparça olacak ve sonra *boom*! ...Sadece bir düşünce."
+msgstr "Endişeli görünmek istemem ama güç kristalini bu kadar zorlamaya devam ederlerse kusurlu olacak, sonra paramparça olacak ve sonra *boom*! ...Sadece bir düşünce."
 
 msgid "TXT_DLG_SCRIPT04_D40932_LETME"
 msgstr ""
@@ -1395,9 +1397,9 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT06_D9096_ANYTH"
 msgstr "Yapabileceğin başka bir şey var mı?"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT06_D10612_GOODL"
-msgstr ""
-"İyi şanslar. Sizin için birkaç tünelimizi açtım. İşinizi kolaylaştıracaktır. Oh, 10 numara, mükemmel! ...Ama korkunç renkler."
+msgstr "İyi şanslar. Sizin için birkaç tünelimizi açtım. İşinizi kolaylaştıracaktır. Oh, 10 numara, mükemmel! ...Ama korkunç renkler."
 
 msgid "TXT_RPLY0_SCRIPT06_D10612_THANK"
 msgstr "Yardımınız için teşekkürler."
@@ -1552,9 +1554,9 @@ msgstr "Bunun bedelini ödeyecekler!"
 msgid "TXT_DLG_SCRIPT10_D15160_FIGHT"
 msgstr "Cephe ve özgürlük için savaşın. Çıkın."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT10_D16676_IAMTH"
-msgstr ""
-"Ben Tek Tanrı'yım. Onun ruhunun özgür olmasına ihtiyacım var, böylece bedenimi terk edebilir ve uçuşta ona katılabilirim. Neye sahip olduğunuz hakkında hiçbir fikriniz yok. Ve nasıl bir dehşetle karşı karşıya olduğunuzu. Tek Tanrı özgür olmalı. Ve o beni ödüllendirecek. Ben bir olacağım."
+msgstr "Ben Tek Tanrı'yım. Onun ruhunun özgür olmasına ihtiyacım var, böylece bedenimi terk edebilir ve uçuşta ona katılabilirim. Neye sahip olduğunuz hakkında hiçbir fikriniz yok. Ve nasıl bir dehşetle karşı karşıya olduğunuzu. Tek Tanrı özgür olmalı. Ve o beni ödüllendirecek. Ben bir olacağım."
 
 msgid "TXT_RPLY0_SCRIPT10_D16676_IWILL"
 msgstr "Seni yok edeceğim!"
@@ -1899,9 +1901,9 @@ msgstr "Harika iş çıkarmaya devam edin, siz olmadan bunu başaramazdık."
 msgid "TXT_DLG_SCRIPT11_D0_IMTHE"
 msgstr "Anahtar ustası benim."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT11_D1516_ALOTO"
-msgstr ""
-"Birçok insan bunun nankör ve önemsiz bir iş olduğunu söyleyebilir. Ama değil, aslında..."
+msgstr "Birçok insan bunun nankör ve önemsiz bir iş olduğunu söyleyebilir. Ama değil, aslında..."
 
 msgid "TXT_RPLY0_SCRIPT11_D1516_GIVEM"
 msgstr "Anahtarı bana ver!"
@@ -1995,9 +1997,9 @@ msgstr "Onun parçasıyla geri döneceğim!"
 msgid "TXT_DLG_SCRIPT12_D13644_THERI"
 msgstr "Zaman nehri sonsuza dek ilerlerken sen duruyorsun."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT12_D15160_PITIF"
-msgstr ""
-"Zavallı adam, binlerce kişinin yapamadığını yaptın. Bana Sigil'in gücünü, Tek Tanrı'nın sesini getirdin."
+msgstr "Zavallı adam, binlerce kişinin yapamadığını yaptın. Bana Sigil'in gücünü, Tek Tanrı'nın sesini getirdin."
 
 msgid "TXT_RPLY0_SCRIPT12_D15160_IDONT"
 msgstr "Anlamıyorum."
@@ -2090,9 +2092,9 @@ msgstr "Ne kadar sağlıklı bir örnek. Yardımıma ihtiyacın yok, değil mi?"
 msgid "TXT_RPLY0_SCRIPT17_D6064_WELLY"
 msgstr "Evet, var. Beni Macil gönderdi."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT17_D7580_SHHHH"
-msgstr ""
-"İkimizin de ölmesini istemiyorsan sessiz ol. Şimdi, senin için ne yapabilirim?"
+msgstr "İkimizin de ölmesini istemiyorsan sessiz ol. Şimdi, senin için ne yapabilirim?"
 
 msgid "TXT_RPLY0_SCRIPT17_D7580_TELLM"
 msgstr "Bana Piskopos'u nasıl bulacağımı söyle."
@@ -2201,16 +2203,16 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT22_D1516_DOYOU"
 msgstr "İçeride ne olduğunu biliyor musun?"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT22_D3032_ITSAT"
-msgstr ""
-"Çok gizli bir bölge. Tarikat orada bir tür yaratık yetiştirmekle kalmıyor, Tılsım denen garip bir eseri kendi gözlerimle gördüm. Kimsenin ona yaklaşmasına izin verilmiyor. Söylentiye göre türünün diğer iki örneğiyle birleştiğinde büyük bir güce sahip oluyormuş."
+msgstr "Çok gizli bir bölge. Tarikat orada bir tür yaratık yetiştirmekle kalmıyor, Tılsım denen garip bir eseri kendi gözlerimle gördüm. Kimsenin ona yaklaşmasına izin verilmiyor. Söylentiye göre türünün diğer iki örneğiyle birleştiğinde büyük bir güce sahip oluyormuş."
 
 msgid "TXT_RPLY0_SCRIPT22_D3032_ISUPP"
 msgstr "Sanırım bu şeyi istiyorsun?"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT22_D4548_NOIFY"
-msgstr ""
-"Hayır! Eğer onu bulabilirsen, sende kalabilir. Belki onu bizi zulmümüzden kurtarmak için kullanabilirsin. Sana şans dilerdim, ama oraya girersen bundan çok daha fazlasına ihtiyacın olacak..."
+msgstr "Hayır! Eğer onu bulabilirsen, sende kalabilir. Belki onu bizi zulmümüzden kurtarmak için kullanabilirsin. Sana şans dilerdim, ama oraya girersen bundan çok daha fazlasına ihtiyacın olacak..."
 
 msgid "TXT_RPLY0_SCRIPT22_D4548_WHATS"
 msgstr "Geçmişle ilgili tüm bu şeyler de ne?"
@@ -2219,6 +2221,7 @@ msgid "TXT_DLG_SCRIPT22_D6064_YOUVE"
 msgstr ""
 "Yakındaki diğer kalıntıları görmüşsünüzdür. Görünüşe göre gezegenimize çarpan Kuyruklu Yıldız aslında bir uzay gemisi ve ister inanın ister inanmayın, uzun zaman önce tam da bu dünyada ortaya çıkmış."
 
+#, fuzzy
 msgid "TXT_RPLY0_SCRIPT22_D6064_SOTHE"
 msgstr "Yani hayaletler, Tek Tanrı."
 
@@ -2226,6 +2229,7 @@ msgid "TXT_DLG_SCRIPT22_D7580_THEYA"
 msgstr ""
 "Onlar bir zamanlar bu dünyaya hükmetmiş ve yaşamı tüketmeye kararlı yaratıklar. Eskiler onları mühürlemeyi başardılar ama bu süreçte canlarını verdiler. Korkarım tüm bildiğim bu."
 
+#, fuzzy
 msgid "TXT_RPLY0_SCRIPT22_D7580_THANK"
 msgstr "Teşekkürler. Elimden geleni yapacağım."
 
@@ -2439,6 +2443,7 @@ msgid "TXT_DLG_SCRIPT23_D15160_THANK"
 msgstr ""
 "Buraya geldiğin için Deus'a şükret. Fabrikaya girmek için bir anahtara ihtiyacınız var. Onu çaldık ama ajanımız Tarikat'ın kalesinin altındaki yeraltı mezarlarında kayıp. Onu bulmaları için o tünellere on iyi adam gönderdim ama hiçbiri geri dönmedi. Aşağıda bir şey var!"
 
+#, fuzzy
 msgid "TXT_RPLY0_SCRIPT23_D15160_WHATI"
 msgstr "Ne var orada? İnsan mı yoksa... ?"
 
@@ -2532,6 +2537,7 @@ msgid "TXT_DLG_SCRIPT23_D24256_THANK"
 msgstr ""
 "Buraya geldiğin için Deus'a şükret. Fabrikaya girmek için bir anahtara ihtiyacınız var. Onu çaldık ama ajanımız Tarikat'ın kalesinin altındaki yeraltı mezarlarında kayıp. Onu bulmaları için o tünellere on iyi adam gönderdim ama hiçbiri geri dönmedi. Aşağıda bir şey var!"
 
+#, fuzzy
 msgid "TXT_RPLY0_SCRIPT23_D24256_WHATI"
 msgstr "Ne var orada? İnsan mı yoksa... ?"
 
@@ -2748,9 +2754,9 @@ msgid "TXT_DLG_SCRIPT33_D13644_THATS"
 msgstr ""
 "Bu kadar dostum, bilgi kuyusu doldu. Zaten sana söylemem gerekenden fazlasını söyledim."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT33_D15160_HARDT"
-msgstr ""
-"Beş parasızken yeni oyuncaklar için alışveriş yapmak zor. Benim için ufak bir iş yaparsan, harcayabileceğinden fazlasını alırsın. Seni zengin bir adam yapacağım."
+msgstr "Beş parasızken yeni oyuncaklar için alışveriş yapmak zor. Benim için ufak bir iş yaparsan, harcayabileceğinden fazlasını alırsın. Seni zengin bir adam yapacağım."
 
 msgid "TXT_RPLY0_SCRIPT33_D15160_IGOTN"
 msgstr "Yapacak daha iyi bir işim yok."
@@ -2810,9 +2816,9 @@ msgstr "Neyi bekliyorsun? Valinin kendisi seni ödüllendirecek."
 msgid "TXT_DLG_SCRIPT33_D25772_DIETR"
 msgstr "Geber hain! "
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT33_D27288_SOYOU"
-msgstr ""
-"Demek kadehi çalan aptal sensin? Seni asi bir hırsız olarak tutuklatacağım. Böylece Tarikat'taki konumumu güçlendireceğim. Farkında olmadan bir piyon olmak nasıl bir duygu? "
+msgstr "Demek kadehi çalan aptal sensin? Seni asi bir hırsız olarak tutuklatacağım. Böylece Tarikat'taki konumumu güçlendireceğim. Farkında olmadan bir piyon olmak nasıl bir duygu? "
 
 msgid "TXT_RPLY0_SCRIPT33_D27288_ITSUC"
 msgstr "Berbat!"
@@ -3208,9 +3214,9 @@ msgstr "Teşekkürler, güle güle!"
 msgid "TXT_RANDOMGOODBYE_3"
 msgstr "Sonra görüşürüz!"
 
+#, fuzzy
 msgid "TXT_ILOG1"
-msgstr ""
-"Alo? Komuta, bir iletişim birimi az önce aktive edildi. Birinden görüntü ve ses alıyorum. Hey sen, hemen oradan çık... ve kadehi bırak!"
+msgstr "Alo? Komuta, bir iletişim birimi az önce aktive edildi. Birinden görüntü ve ses alıyorum. Hey sen, hemen oradan çık... ve kadehi bırak!"
 
 msgid "TXT_ILOG2"
 msgstr ""
@@ -3415,9 +3421,9 @@ msgid "TXT_ILOG102"
 msgstr ""
 "Tam karşıdan büyük sinir dalgası bozulmaları okuyorum. Sanırım onu bulduk. Oraya girelim ve onu kapatalım!"
 
+#, fuzzy
 msgid "TXT_ILOG103"
-msgstr ""
-"Tam da her şeyi gördüğümüzü düşündüğüm anda! İnsana giriyorlar ve çıkıyorlar. Bunu düşünmek bile istemiyorum. Bu dehşeti yok edin!"
+msgstr "Tam da her şeyi gördüğümüzü düşündüğüm anda! İnsana giriyorlar ve çıkıyorlar. Bunu düşünmek bile istemiyorum. Bu dehşeti yok edin!"
 
 msgid "TXT_ILOG104"
 msgstr ""
@@ -3531,13 +3537,13 @@ msgid "TXT_ILOG1024"
 msgstr ""
 "Üçüncü parçayı elinde tutan Kahin. İşte haininiz. Kahin'e dön ve onu indir. Öldüğünde bana geri dön."
 
+#, fuzzy
 msgid "TXT_ILOG1025"
-msgstr ""
-"Kanseri vücudundan attın ama kalbin hala atıyor. Şimdi insanlarını kesen ve kontrol eden cerrahı bulmalısın.... Loremaster. Onu durdurursan, bir sonraki parça senin olacak."
+msgstr "Kanseri vücudundan attın ama kalbin hala atıyor. Şimdi insanlarını kesen ve kontrol eden cerrahı bulmalısın.... Loremaster. Onu durdurursan, bir sonraki parça senin olacak."
 
+#, fuzzy
 msgid "TXT_ILOG1026"
-msgstr ""
-"Şimdi halkını katleden ve kontrol eden cerrahı bulmalısın.... Loremaster. Onu durdurun ve bir sonraki parça sizin olsun. Ona ulaşmak için açtığım ışınlayıcıyı kullan. O öldüğünde, bana dönmek için aynı cihazı kullan."
+msgstr "Şimdi halkını katleden ve kontrol eden cerrahı bulmalısın.... Loremaster. Onu durdurun ve bir sonraki parça sizin olsun. Ona ulaşmak için açtığım ışınlayıcıyı kullan. O öldüğünde, bana dönmek için aynı cihazı kullan."
 
 msgid "TXT_ILOG1027"
 msgstr ""
@@ -3725,9 +3731,9 @@ msgid "TXT_SUB_GOOD2"
 msgstr ""
 "Kazanacağını biliyordum, benim cesur kahramanım. Tüm savaşlar durdu. Zaferin, virüsü vücutlarımızdan temizlemek için bir aşı yaratmamızı sağlayacak."
 
+#, fuzzy
 msgid "TXT_SUB_GOOD3"
-msgstr ""
-"Gezegenimizi kurtardın ve bizi özgür bıraktın. Şimdi size şahsen teşekkür etmek istiyorum. Bu arada adım Shauna."
+msgstr "Gezegenimizi kurtardın ve bizi özgür bıraktın. Şimdi size şahsen teşekkür etmek istiyorum. Bu arada adım Shauna."
 
 msgid "TXT_SUB_SAD1"
 msgstr "Evet, kötülük gitmişti ama geleceğimiz belirsizdi ve şüpheyle doluydu."
@@ -3760,13 +3766,13 @@ msgid "TXT_SUB_MAP03_2"
 msgstr ""
 "Üreme olmadan, Düzen güçlerini ve sayılarını korumanın tek yolunun biyomekanik geliştirmeler olduğunu gördü."
 
+#, fuzzy
 msgid "TXT_SUB_MAP03_3"
-msgstr ""
-"Çürüme o kadar ilerledi ki, karşılaştığımız birliklerin çoğu insandan çok makine ama biz onların kolektif bilincinin tek bir kaynak tarafından kontrol edildiğine inanıyoruz..."
+msgstr "Çürüme o kadar ilerledi ki, karşılaştığımız birliklerin çoğu insandan çok makine ama biz onların kolektif bilincinin tek bir kaynak tarafından kontrol edildiğine inanıyoruz..."
 
+#, fuzzy
 msgid "TXT_SUB_MAP03_4"
-msgstr ""
-"...Programcı: Yardımcıları kontrol eden yapay zekanın yaratıcısı. Programcı'yı yok edersek, Tarikat'ın birliklerini tek bir darbeyle etkisiz hale getirebiliriz. Ama dikkat: Saldırganları buharlaştırabildiğine dair raporlarımız var."
+msgstr "...Programcı: Yardımcıları kontrol eden yapay zekanın yaratıcısı. Programcı'yı yok edersek, Tarikat'ın birliklerini tek bir darbeyle etkisiz hale getirebiliriz. Ama dikkat: Saldırganları buharlaştırabildiğine dair raporlarımız var."
 
 msgid "TXT_SUB_MAP10_1"
 msgstr ""
@@ -3840,19 +3846,20 @@ msgstr ""
 msgid "TXT_SUB_LOG16"
 msgstr "Depo elektrik santralinde. Bunu kısa ve tatlı tutalım."
 
+#, fuzzy
 msgid "TXT_SUB_LOG17"
 msgstr "Hapishaneye gireceğimi hiç düşünmemiştim."
 
 msgid "TXT_SUB_LOG18"
 msgstr "Sanırım bedava öğle yemeği yok. Kilitleme ve yükleme zamanı."
 
+#, fuzzy
 msgid "TXT_SUB_LOG19"
-msgstr ""
-"TAMAMDIR. Vali'yi memnun ettiniz, Müdür'ün canına okudunuz. Şimdi küçük bir ameliyat yapmamız gerekecek gibi görünüyor."
+msgstr "TAMAMDIR. Vali'yi memnun ettiniz, Müdür'ün canına okudunuz. Şimdi küçük bir ameliyat yapmamız gerekecek gibi görünüyor."
 
+#, fuzzy
 msgid "TXT_SUB_LOG20"
-msgstr ""
-"Elini kesmişsin! Ben de senin iyi bir adam olduğunu sanıyordum. Hadi gidelim."
+msgstr "Elini kesmişsin! Ben de senin iyi bir adam olduğunu sanıyordum. Hadi gidelim."
 
 msgid "TXT_SUB_LOG21"
 msgstr "Aferin dostum. Işınlayıcılardan birine atla, seni üsse geri getirecek."
@@ -3872,9 +3879,9 @@ msgid "TXT_SUB_LOG26"
 msgstr ""
 "Tarikat kalesinde güvende olduğunu düşünüyor. Yanılıyorlar! Eğer kapıları açarsanız, kolay lokma olacaklar. Bunun için de kanalizasyona inmeniz gerekecek. Valinin konağının karşısındaki nehir boyunca ilerleyin. "
 
+#, fuzzy
 msgid "TXT_SUB_LOG27"
-msgstr ""
-"Tamam, buraya gir. Lağım sakinleri korkunç mutantlardır, ama tünel ağları onlara sırlara erişim sağlar. Burnunu tut. Aşağı iniyoruz."
+msgstr "Tamam, buraya gir. Lağım sakinleri korkunç mutantlardır, ama tünel ağları onlara sırlara erişim sağlar. Burnunu tut. Aşağı iniyoruz."
 
 msgid "TXT_SUB_LOG28"
 msgstr ""
@@ -3889,9 +3896,9 @@ msgstr "Tam da ihtiyacım olan şey. Daha fazla kahverengi yapışkan!"
 msgid "TXT_SUB_LOG31"
 msgstr "Hey, bakın! Sanırım Weran'ın aralık kalmasını istediği kapı bu!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG32"
-msgstr ""
-"Kapa gözlerini! Görmek istemiyorum! Oh, çok geç... İğrenç. Bu bir insan vücuduna benzemiyor. Tarikat ne yaptı? Bunu komutaya rapor etmeliyim."
+msgstr "Kapa gözlerini! Görmek istemiyorum! Oh, çok geç... İğrenç. Bu bir insan vücuduna benzemiyor. Tarikat ne yaptı? Bunu komutaya rapor etmeliyim."
 
 msgid "TXT_SUB_LOG33"
 msgstr "Neden bir kez olsun çiçek tarlasında görev yapamıyoruz?"
@@ -3903,6 +3910,7 @@ msgstr ""
 msgid "TXT_SUB_LOG35"
 msgstr "Bana nerede olduğumuzu sorma. Ben de kayboldum. Özür dilerim."
 
+#, fuzzy
 msgid "TXT_SUB_LOG36"
 msgstr "Şu tuğla. O tuğlayı geçmemiş miydik? Hayır."
 
@@ -3917,6 +3925,7 @@ msgstr ""
 msgid "TXT_SUB_LOG39"
 msgstr "Tekrar saldırıya geçmek güzel. Canlarına okuyun çocuklar!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG40"
 msgstr "Bu iyi görünüyor. Bilgisayarlar. Programcı. Ne düşünüyorsun?"
 
@@ -3924,9 +3933,9 @@ msgid "TXT_SUB_LOG41"
 msgstr ""
 "Burası uzun koridor olmalı. Ya öyle ya da benim ölçek algım cehenneme döndü."
 
+#, fuzzy
 msgid "TXT_SUB_LOG42"
-msgstr ""
-"Burası bir şeytan tapınağının tüm özelliklerini taşıyor. Sert mimari, büyük afiş. Bingo derdim!"
+msgstr "Burası bir şeytan tapınağının tüm özelliklerini taşıyor. Sert mimari, büyük afiş. Bingo derdim!"
 
 msgid "TXT_SUB_LOG43"
 msgstr "Bu yüce Programcı mı? Yok artık!"
@@ -4096,15 +4105,16 @@ msgid "TXT_SUB_LOG89"
 msgstr ""
 "Fabrika madenlerin yanında. Richter, Degnin madenlerini kastediyor olmalı. Degnin cevheri manyetik ve patlayıcıdır, tam da güç alanlarını kapatmak için."
 
+#, fuzzy
 msgid "TXT_SUB_LOG90"
 msgstr "Madenler, yeraltı mezarları, kanalizasyonlar. Ne ilk randevu ama!"
 
 msgid "TXT_SUB_LOG91"
 msgstr "Keşke Richter biraz daha spesifik olsaydı. Şurayı deneyelim."
 
+#, fuzzy
 msgid "TXT_SUB_LOG92"
-msgstr ""
-"Sanırım biz... Oh, kahretsin. Nerede olduğumuz hakkında hiçbir fikrim yok."
+msgstr "Sanırım biz... Oh, kahretsin. Nerede olduğumuz hakkında hiçbir fikrim yok."
 
 msgid "TXT_SUB_LOG93"
 msgstr ""
@@ -4142,9 +4152,9 @@ msgid "TXT_SUB_LOG102"
 msgstr ""
 "Tam karşıdan büyük sinirsel dalga bozulmaları okuyorum. Sanırım onu bulduk."
 
+#, fuzzy
 msgid "TXT_SUB_LOG103"
-msgstr ""
-"Tam da her şeyi gördüğümüzü düşündüğüm anda! İnsana giriyorlar ve çıkıyorlar. Bunu düşünmek bile istemiyorum."
+msgstr "Tam da her şeyi gördüğümüzü düşündüğüm anda! İnsana giriyorlar ve çıkıyorlar. Bunu düşünmek bile istemiyorum."
 
 msgid "TXT_SUB_LOG104"
 msgstr ""
@@ -4180,9 +4190,9 @@ msgstr ""
 "Gerçek sadece evrensel iradede bulunabilir. Gerçek Tanrı'nın, Tek Işık'ın önünde diz çökeceksin. Bana katılın ve ben de Sigil'i tamamlayayım.\n"
 "Bu mistik ikili konuşmalardan bıktım."
 
+#, fuzzy
 msgid "TXT_SUB_LOG130"
-msgstr ""
-"Sen... Düzenimi yıktın, hilelerimi parçaladın ve yüzyıllardır süren arzularımı tehdit ettin. Ama ben galip geleceğim, sana bulaşacağım ve seni kendi isteğime dönüştüreceğim."
+msgstr "Sen... Düzenimi yıktın, hilelerimi parçaladın ve yüzyıllardır süren arzularımı tehdit ettin. Ama ben galip geleceğim, sana bulaşacağım ve seni kendi isteğime dönüştüreceğim."
 
 msgid "TXT_SUB_LOG200"
 msgstr "Rüya gibi bir iş, değil mi?"
@@ -4193,6 +4203,7 @@ msgstr "Çok fazla şey gördün. Buzla onu, Macil!"
 msgid "TXT_SUB_LOG202"
 msgstr "Bir dahaki sefere beni dinlersin."
 
+#, fuzzy
 msgid "TXT_SUB_LOG203"
 msgstr "Bu kıyamet sonrası fiyatları."
 
@@ -4241,9 +4252,11 @@ msgstr "Mm. Kendini taşıma şeklini seviyorum."
 msgid "TXT_SUB_LOG218"
 msgstr "Patlat! Onlar insan değil!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG219"
 msgstr "Vay canına! Karartılmış yardımcı! Yeni tat hissi..."
 
+#, fuzzy
 msgid "TXT_SUB_LOG220"
 msgstr "Bunu yapmaya devam edersen kör olacaksın... ama hoşuma gitti."
 
@@ -4253,15 +4266,18 @@ msgstr "Sanırım bizi tekrar yemeğe davet etmeyecekler!"
 msgid "TXT_SUB_LOG222"
 msgstr "En üst kata çıkmalıyız."
 
+#, fuzzy
 msgid "TXT_SUB_LOG223"
 msgstr "Bekle. Bu ilginç görünüyor. Şuna bir bak."
 
 msgid "TXT_SUB_LOG224"
 msgstr "Ugh. Bu adam beni ürpertiyor. Uzak duralım."
 
+#, fuzzy
 msgid "TXT_SUB_LOG225"
 msgstr "Sola dön! Sola dön!... Oh, diğer sol!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG226"
 msgstr "Tipik inatçı domuz kafalı erkek!... Tabii kız değilsen."
 
@@ -4271,9 +4287,11 @@ msgstr "Güçlü, acımasız ve sessiz. Tam bana göre bir partner."
 msgid "TXT_SUB_LOG228"
 msgstr "Tamam, tamam! Yanılmışım!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG229"
 msgstr "Hiç tanışmamış olmamız çok kötü... yüz yüze."
 
+#, fuzzy
 msgid "TXT_SUB_LOG230"
 msgstr "Senin için hayallerim vardı. Zor iş."
 
@@ -4284,9 +4302,9 @@ msgstr ""
 msgid "TXT_SUB_LOG232"
 msgstr "İyi iş, dostum! Seni içeri götürme vakti geldi."
 
+#, fuzzy
 msgid "TXT_SUB_LOG233"
-msgstr ""
-"Şu Haçlılara dikkat et. Onlar büyük, iri robotlar ve çok acımasızlar. Silahları hakkında bir şey bilmiyoruz, ama ihtimaller... rakibiniz yok. Dikkatli olun."
+msgstr "Şu Haçlılara dikkat et. Onlar büyük, iri robotlar ve çok acımasızlar. Silahları hakkında bir şey bilmiyoruz, ama ihtimaller... rakibiniz yok. Dikkatli olun."
 
 msgid "TXT_SUB_LOG234"
 msgstr ""
@@ -4298,9 +4316,9 @@ msgstr "Birinin seni görmesine izin verirsen, kelleni alırız."
 msgid "TXT_SUB_LOG236"
 msgstr "Seni aptal, tökezleyen, sopa ayaklı, kambur embesil! Bizi ele verdin!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG237"
-msgstr ""
-"Keşke o kapının arkasında seni bekliyor olsaydım... ama yeraltında kalmalıyım. Liderimiz Macil ile tanışma vaktin geldi."
+msgstr "Keşke o kapının arkasında seni bekliyor olsaydım... ama yeraltında kalmalıyım. Liderimiz Macil ile tanışma vaktin geldi."
 
 msgid "TXT_BBSUB_SCRIPT02_D57608_IFIKN"
 msgstr ""
@@ -4355,6 +4373,7 @@ msgstr "Harika. Şimdi de Fare Kral için alışveriş yapıyoruz."
 msgid "TXT_BBSUB_SCRIPT06_D4548_OPENT"
 msgstr "Eminim bu adam da çok kötü kokuyordur."
 
+#, fuzzy
 msgid "TXT_BBSUB_SCRIPT06_D9096_YOUHA"
 msgstr "Daha fazla kanalizasyon. Harika. Acaba orada ne yaşıyor?"
 
@@ -4368,6 +4387,7 @@ msgid "TXT_BBSUB_SCRIPT10_D12128_THERE"
 msgstr ""
 "Biyomekanik mi? Bu onların görünüşte sonsuz asker kaynağını açıklıyor! Ve kötü tutumlarını.\n"
 
+#, fuzzy
 msgid "TXT_BBSUB_SCRIPT10_D16676_IAMTH"
 msgstr "Hasta herif. Harca onu!"
 
@@ -4377,9 +4397,9 @@ msgstr "Çirkin olabilir ama bizim tarafımızda gibi görünüyor."
 msgid "TXT_BBSUB_SCRIPT17_D10612_OHSUR"
 msgstr "Yakın geçmişe bakılırsa, sanırım gizlilik devre dışı."
 
+#, fuzzy
 msgid "TXT_BBSUB_SCRIPT17_D13644_OHWEL"
-msgstr ""
-"Hmm. Yaygara yok, karışıklık yok, annemin temizleyeceği bir şey yok... Bana bir tane getir, lütfen.\n"
+msgstr "Hmm. Yaygara yok, karışıklık yok, annemin temizleyeceği bir şey yok... Bana bir tane getir, lütfen.\n"
 
 msgid "TXT_BBSUB_SCRIPT31_D0_OHNOI"
 msgstr ""

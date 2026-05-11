@@ -2,15 +2,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-05-07 15:11+0000\n"
-"Last-Translator: H Tamás <hovanszki@gmail.com>\n"
+"PO-Revision-Date: 2026-05-11 03:43+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/doom-engine-games/strife/hu/>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.17.1\n"
+"X-Generator: Weblate 2026.5-dev\n"
 
 msgid "TXT_STRIFE_MAP01"
 msgstr "1. Terület: Szentély"
@@ -321,9 +321,9 @@ msgstr "Minden aranyat megér"
 msgid "TXT_RNO3_SCRIPT02_D12128_COMEO"
 msgstr "Rajta, 200 arany!"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D13644_ICANT"
-msgstr ""
-"Nem hiszem el, hogy én kaptam ezt a melót. Úgy hírlik, hogy valami gonosz bukkant fel itt a csatorna kapuja felől... Most addig fogok itt állni, amíg újra fel nem bukkan."
+msgstr "Nem hiszem el, hogy én kaptam ezt a melót. Úgy hírlik, hogy valami gonosz bukkant fel itt a csatorna kapuja felől... Most addig fogok itt állni, amíg újra fel nem bukkan."
 
 msgid "TXT_RPLY0_SCRIPT02_D13644_WHATG"
 msgstr "Milyen Kapu?"
@@ -463,9 +463,9 @@ msgstr "Tessék, minden jót!"
 msgid "TXT_RNO2_SCRIPT02_D21224_WELLM"
 msgstr "Nos, talán telik pár ragtapaszra is?"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D22740_IHOPE"
-msgstr ""
-"Remélem Macil tudja, mit csinál. Ha a Rend rájön, hogy a Frontot segítem, alulról szagolom majd az ibolyát...Nem mintha ez számítana számodra. A Front orvosa egy fejlesztési chipet küldött neked. Készen állsz? "
+msgstr "Remélem Macil tudja, mit csinál. Ha a Rend rájön, hogy a Frontot segítem, alulról szagolom majd az ibolyát...Nem mintha ez számítana számodra. A Front orvosa egy fejlesztési chipet küldött neked. Készen állsz? "
 
 msgid "TXT_RPLY0_SCRIPT02_D22740_YESIM"
 msgstr "Igen, készen állok."
@@ -510,6 +510,7 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT02_D25772_WHATS"
 msgstr "Mi a hír?"
 
+#, fuzzy
 msgid "TXT_RYES0_SCRIPT02_D25772_THEWO"
 msgstr "Az a hír...hogy a kanális nem csak patkányokat és robotokat rejteget."
 
@@ -539,13 +540,13 @@ msgstr "Több van a Rend mögött, mint ami a külső sejtet."
 msgid "TXT_RNO0_SCRIPT02_D28804_WELLT"
 msgstr "Majd beszélünk, ha lesz aranyad."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D30320_THATS"
-msgstr ""
-"Ez az, barátom. A tudás kútja kiszáradt. Többször mondtam neked kelleténél amúgyis. Sok szerencsét... És ne gyere vissza."
+msgstr "Ez az, barátom. A tudás kútja kiszáradt. Többször mondtam neked kelleténél amúgyis. Sok szerencsét... És ne gyere vissza."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D31836_HEYIM"
-msgstr ""
-"Hé, én csak vészhelyzet esetére vagyok itt. Ha a mag kitör, akkor elintézem, hogy senki ne jöjjön be... vagy ki."
+msgstr "Hé, én csak vészhelyzet esetére vagyok itt. Ha a mag kitör, akkor elintézem, hogy senki ne jöjjön be... vagy ki."
 
 msgid "TXT_DLG_SCRIPT02_D33352_WATCH"
 msgstr "Nézz a lábad elé, paraszt!"
@@ -562,9 +563,9 @@ msgstr "Te ott, ide senki sem jöhet be, kotródj!"
 msgid "TXT_DLG_SCRIPT02_D39416_IRALE"
 msgstr "Irale majd ellát."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D40932_IMKIN"
-msgstr ""
-"Egyfajta toborzó vagyok a lázadóknál. Egy ürge aki ilyen jó mint te, elég sok aranyat kereshet...ha megfelelő emberekkel jösz össze."
+msgstr "Egyfajta toborzó vagyok a lázadóknál. Egy ürge aki ilyen jó mint te, elég sok aranyat kereshet...ha megfelelő emberekkel jösz össze."
 
 msgid "TXT_RPLY0_SCRIPT02_D40932_IMINT"
 msgstr "Érdekel."
@@ -670,9 +671,9 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT02_D66704_FINEB"
 msgstr "Felőlem rendben van."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D68220_SOYOU"
-msgstr ""
-"Szóval te vagy az isten barma aki ellopta a kelyhet? Jól letartóztatlak mint lázadó tolvaj...ezzel megerősítve a pozíciómat a Rendben. Milyen érzés egy tudatlan parasztnak lenni? Adok egy tippet: marhára fájni fog. "
+msgstr "Szóval te vagy az isten barma aki ellopta a kelyhet? Jól letartóztatlak mint lázadó tolvaj...ezzel megerősítve a pozíciómat a Rendben. Milyen érzés egy tudatlan parasztnak lenni? Adok egy tippet: marhára fájni fog. "
 
 msgid "TXT_RPLY0_SCRIPT02_D68220_ITSUC"
 msgstr "Ez szopás!"
@@ -786,6 +787,7 @@ msgstr "Persze!"
 msgid "TXT_RPLY1_SCRIPT02_D92476_NOAND"
 msgstr "Nincs, és nem is kell!"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D93992_SORRY"
 msgstr "Elnézést! Nem akartam...kérem menjen fel az emeletre."
 
@@ -835,9 +837,9 @@ msgstr "Kösz."
 msgid "TXT_DLG_SCRIPT02_D104604_RELEA"
 msgstr "Engedj el, hagyd békén öreg csontjaimat."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT03_D0_WELCO"
-msgstr ""
-"Köszöntelek a remény utolsó pislákoló fényénél. Már csak mi merünk szembeszállni a Renddel. Itt vannak a legélesebb elmék, életerős emberek, de hiányzik egy igazi...probléma megoldó, aki előnyt szerez számunkra. Segíts nekünk!"
+msgstr "Köszöntelek a remény utolsó pislákoló fényénél. Már csak mi merünk szembeszállni a Renddel. Itt vannak a legélesebb elmék, életerős emberek, de hiányzik egy igazi...probléma megoldó, aki előnyt szerez számunkra. Segíts nekünk!"
 
 msgid "TXT_RPLY0_SCRIPT03_D0_ALLRI"
 msgstr "Rendben, elfogadom."
@@ -1087,9 +1089,9 @@ msgid "TXT_DLG_SCRIPT03_D43964_WERET"
 msgstr ""
 "Próbáljuk megtalálni a kastély kapu irányító mechanikáját, de eddig nem jártunk sikerrel."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT03_D45480_DONTG"
-msgstr ""
-"Csak ne fogasd el magad. Hallottam horror történténeteket azokról akiket mégis elfognak. Csak úgy eltünnek...mindenféle nyom nélkül."
+msgstr "Csak ne fogasd el magad. Hallottam horror történténeteket azokról akiket mégis elfognak. Csak úgy eltünnek...mindenféle nyom nélkül."
 
 msgid "TXT_DLG_SCRIPT03_D46996_HERES"
 msgstr ""
@@ -1224,9 +1226,9 @@ msgstr "Hol van az erőkristály?"
 msgid "TXT_DLG_SCRIPT04_D37900_IFYOU"
 msgstr "Ha nem dolgozol így is, úgy is agyonlőnek. Haladj már!"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT04_D39416_IDONT"
-msgstr ""
-"Nem akarok vészmadár lenni, de ha ennyire hajtják az erőkristályt, akkor megreped és eltörik, aztán meg *bumm*!...csak egy gondolat."
+msgstr "Nem akarok vészmadár lenni, de ha ennyire hajtják az erőkristályt, akkor megreped és eltörik, aztán meg *bumm*!...csak egy gondolat."
 
 msgid "TXT_DLG_SCRIPT04_D40932_LETME"
 msgstr ""
@@ -1402,9 +1404,9 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT06_D9096_ANYTH"
 msgstr "Tudsz még valamit tenni?"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT06_D10612_GOODL"
-msgstr ""
-"Sok sikert. Kinyitottam számos alagutat neked. Meg kell, hogy könnyítse a dolgodat. Oh, tízes méret, tökéletes!...de milyen okádék színek."
+msgstr "Sok sikert. Kinyitottam számos alagutat neked. Meg kell, hogy könnyítse a dolgodat. Oh, tízes méret, tökéletes!...de milyen okádék színek."
 
 msgid "TXT_RPLY0_SCRIPT06_D10612_THANK"
 msgstr "Köszi a segítséget."
@@ -1560,9 +1562,9 @@ msgstr "Megfizetnek ezért!"
 msgid "TXT_DLG_SCRIPT10_D15160_FIGHT"
 msgstr "Együtt a Frontért és a szabadságért! Indulás!"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT10_D16676_IAMTH"
-msgstr ""
-"Én vagyok az egy Igaz Isten...ki akarom szabadítani a lelkét, hogy elhagyhassam a testemet és társuljak mellé a harcban. Ötleted sincs miféle erővel rendelkezel...és miféle terroral nézel szemben...az egy Igaz Istennek szabadnak kell lennie...és majd megjutalmaz...eggyé válok majd..."
+msgstr "Én vagyok az egy Igaz Isten...ki akarom szabadítani a lelkét, hogy elhagyhassam a testemet és társuljak mellé a harcban. Ötleted sincs miféle erővel rendelkezel...és miféle terroral nézel szemben...az egy Igaz Istennek szabadnak kell lennie...és majd megjutalmaz...eggyé válok majd..."
 
 msgid "TXT_RPLY0_SCRIPT10_D16676_IWILL"
 msgstr "Megsemmisítelek!"
@@ -1907,9 +1909,9 @@ msgstr "Csak így tovább, nélküled sosem tudtuk volna véghezvinni."
 msgid "TXT_DLG_SCRIPT11_D0_IMTHE"
 msgstr "Én vagyok a kulcsmester."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT11_D1516_ALOTO"
-msgstr ""
-"Sokan azt mondják, hogy ez egy hálátlan és jelentéktelen munka. Ám nem is állhatnának messzebb az igazságtól..."
+msgstr "Sokan azt mondják, hogy ez egy hálátlan és jelentéktelen munka. Ám nem is állhatnának messzebb az igazságtól..."
 
 msgid "TXT_RPLY0_SCRIPT11_D1516_GIVEM"
 msgstr "Add ide a kulcsot!"
@@ -2003,9 +2005,9 @@ msgstr "Visszatérek, mégpedig a darabkájával!"
 msgid "TXT_DLG_SCRIPT12_D13644_THERI"
 msgstr "Az idő folyója folyamat halad tovább, miközben te csak álldogállsz."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT12_D15160_PITIF"
-msgstr ""
-"Szánalmas kis pondró, megtetted amit emberek ezrei sem tudtak megtenni...elhoztad számomra a Pecsét erejét, az egy igaz isten hangját."
+msgstr "Szánalmas kis pondró, megtetted amit emberek ezrei sem tudtak megtenni...elhoztad számomra a Pecsét erejét, az egy igaz isten hangját."
 
 msgid "TXT_RPLY0_SCRIPT12_D15160_IDONT"
 msgstr "Nem értem."
@@ -2098,9 +2100,9 @@ msgstr "Micsoda jó erőben levő példány. Neked nem kell segítség, ugye?"
 msgid "TXT_RPLY0_SCRIPT17_D6064_WELLY"
 msgstr "Nos, igen. Macil küldött."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT17_D7580_SHHHH"
-msgstr ""
-"Shhhh...csak csendben, különben mindkettőnket megöletsz. Akkor, miben is segíthetek?"
+msgstr "Shhhh...csak csendben, különben mindkettőnket megöletsz. Akkor, miben is segíthetek?"
 
 msgid "TXT_RPLY0_SCRIPT17_D7580_TELLM"
 msgstr "Áruld el, hol találom meg a Püspököt."
@@ -2210,16 +2212,16 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT22_D1516_DOYOU"
 msgstr "Tudod mi van bent?"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT22_D3032_ITSAT"
-msgstr ""
-"Egy totál titkos terület. Nem elég hogy valamiféle...lényeket tenyésztenek odabent, láttam valamiféle leletet is, amit Talizmán néven emlegettek. Senkit se engednek a közelébe. A legenda szerint hatalmas erő birtokosa lehet, aki egyesíti még két másik darabbal."
+msgstr "Egy totál titkos terület. Nem elég hogy valamiféle...lényeket tenyésztenek odabent, láttam valamiféle leletet is, amit Talizmán néven emlegettek. Senkit se engednek a közelébe. A legenda szerint hatalmas erő birtokosa lehet, aki egyesíti még két másik darabbal."
 
 msgid "TXT_RPLY0_SCRIPT22_D3032_ISUPP"
 msgstr "Gondolom kell neked az a tárgy, igaz?"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT22_D4548_NOIFY"
-msgstr ""
-"Dehogyis! Ha megleled, a tied lehet. Talán fel tudod használni annak érdekében, hogy felszabadíts minket az elnyomás alól. Szerencsét kívánnék, de annál sokkal többre lesz szükséged odabent..."
+msgstr "Dehogyis! Ha megleled, a tied lehet. Talán fel tudod használni annak érdekében, hogy felszabadíts minket az elnyomás alól. Szerencsét kívánnék, de annál sokkal többre lesz szükséged odabent..."
 
 msgid "TXT_RPLY0_SCRIPT22_D4548_WHATS"
 msgstr "És mi köze ennek a múlthoz?"
@@ -2228,6 +2230,7 @@ msgid "TXT_DLG_SCRIPT22_D6064_YOUVE"
 msgstr ""
 "Bizonyára láttad a többi romot is. Úgy néz ki, a lehulló üstökös valójában egy űrhajó volt, és hiszed vagy sem, eredetileg erről a bolygóról indult sok évvel ezelőtt."
 
+#, fuzzy
 msgid "TXT_RPLY0_SCRIPT22_D6064_SOTHE"
 msgstr "Szóval a kísértetek, az egy isten..."
 
@@ -2235,6 +2238,7 @@ msgid "TXT_DLG_SCRIPT22_D7580_THEYA"
 msgstr ""
 "Ezek olyan lények, akik korábban a világot uralták, és mindenek felett meg akarják enni a világ életerejét. Az ősöknek sikerült őket elzárni, de bele is pusztultak a procedúrába. Attól félek, csak ennyit tudok mondani."
 
+#, fuzzy
 msgid "TXT_RPLY0_SCRIPT22_D7580_THANK"
 msgstr "Kösz...megteszem amit tudok."
 
@@ -2449,6 +2453,7 @@ msgid "TXT_DLG_SCRIPT23_D15160_THANK"
 msgstr ""
 "Hála Deusnak, ideértél.Ahhoz, hogy bejuthass a gyárba kell majd egy kulcs. Habár sikerült ellopnunk a kulcsot, az ügynökünk elveszett a katakombák sűrűjében a Rend erődítménye alatt. Leküldtem tíz jó emberemet utána, de egyikük sem tért vissza. Valami borzasztó lehet ott lent!"
 
+#, fuzzy
 msgid "TXT_RPLY0_SCRIPT23_D15160_WHATI"
 msgstr "Mi lehet? Ember vagy...?"
 
@@ -2543,6 +2548,7 @@ msgid "TXT_DLG_SCRIPT23_D24256_THANK"
 msgstr ""
 "Hála Deusnak, ideértél.Ahhoz, hogy bejuthass a gyárba kell majd egy kulcs. Habár sikerült ellopnunk a kulcsot, az ügynökünk elveszett a katakombák sűrűjében a Rend erődítménye alatt. Leküldtem tíz jó emberemet utána, de egyikük sem tért vissza. Valami borzasztó lehet ott lent!"
 
+#, fuzzy
 msgid "TXT_RPLY0_SCRIPT23_D24256_WHATI"
 msgstr "Mi lehet? Ember vagy...?"
 
@@ -2760,9 +2766,9 @@ msgid "TXT_DLG_SCRIPT33_D13644_THATS"
 msgstr ""
 "Ennyi volt barátom, a tudás forrása elapadt. Már így is többet mondtam a kelleténél."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT33_D15160_HARDT"
-msgstr ""
-"Nehéz úgy új játékszereket beszerezni, ha ennyire nincs pénzed. Viszont ha megteszel nekem egy szívességet, annyi pénzed lesz amit el se tudsz költeni. Gazdaggá teszlek."
+msgstr "Nehéz úgy új játékszereket beszerezni, ha ennyire nincs pénzed. Viszont ha megteszel nekem egy szívességet, annyi pénzed lesz amit el se tudsz költeni. Gazdaggá teszlek."
 
 msgid "TXT_RPLY0_SCRIPT33_D15160_IGOTN"
 msgstr "Nincs jobb dolgom úgy sem."
@@ -2822,9 +2828,9 @@ msgstr "Mire vársz? Maga a kormányzó fog megjutalmazni."
 msgid "TXT_DLG_SCRIPT33_D25772_DIETR"
 msgstr "Halál rád áruló! "
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT33_D27288_SOYOU"
-msgstr ""
-"Szóval te vagy az isten barma aki ellopta a kelyhet? Jól letartóztatlak mint lázadó tolvaj...ezzel megerősítve a pozíciómat a Rendben. Milyen érzés egy tudatlan parasztnak lenni? "
+msgstr "Szóval te vagy az isten barma aki ellopta a kelyhet? Jól letartóztatlak mint lázadó tolvaj...ezzel megerősítve a pozíciómat a Rendben. Milyen érzés egy tudatlan parasztnak lenni? "
 
 msgid "TXT_RPLY0_SCRIPT33_D27288_ITSUC"
 msgstr "Ez szopás!"
@@ -3220,9 +3226,9 @@ msgstr "Köszi, szia!"
 msgid "TXT_RANDOMGOODBYE_3"
 msgstr "Később találkozunk!"
 
+#, fuzzy
 msgid "TXT_ILOG1"
-msgstr ""
-"Haló Központ! Egy jeladót aktiváltak...kép és hang jeleket veszek...valakitől...Hé Te ott, húzz ki onnan...és rakd le a serleget!"
+msgstr "Haló Központ! Egy jeladót aktiváltak...kép és hang jeleket veszek...valakitől...Hé Te ott, húzz ki onnan...és rakd le a serleget!"
 
 msgid "TXT_ILOG2"
 msgstr ""
@@ -3427,9 +3433,9 @@ msgid "TXT_ILOG102"
 msgstr ""
 "Erős ideghullám zavaró jeleket fogok. Azt hiszem megtaláltuk. Menjünk be és állítsuk le!"
 
+#, fuzzy
 msgid "TXT_ILOG103"
-msgstr ""
-"Amikor azt hittem, hogy mindent láttunk. Emberként mennek be, és úgy jönnek ki mint egy...nem is akarok rá gondolni. Semmisítsd meg ezt a horrort!"
+msgstr "Amikor azt hittem, hogy mindent láttunk. Emberként mennek be, és úgy jönnek ki mint egy...nem is akarok rá gondolni. Semmisítsd meg ezt a horrort!"
 
 msgid "TXT_ILOG104"
 msgstr ""
@@ -3543,13 +3549,13 @@ msgid "TXT_ILOG1024"
 msgstr ""
 "Az Orákulumnál található a harmadik darab. Ő lesz az árulód. Térj vissza az Orákulumhoz, és tedd el láb alól. Ha megtörtént, gyere vissza."
 
+#, fuzzy
 msgid "TXT_ILOG1025"
-msgstr ""
-"Kivágtad a rákos részt a szívedből, de az még mindig ver. A következő lépés, hogy felkutatod a sebészt aki lemészárolja és irányítja a néped...a Tanmestert. Állítsd meg , és a következő darab a tied."
+msgstr "Kivágtad a rákos részt a szívedből, de az még mindig ver. A következő lépés, hogy felkutatod a sebészt aki lemészárolja és irányítja a néped...a Tanmestert. Állítsd meg , és a következő darab a tied."
 
+#, fuzzy
 msgid "TXT_ILOG1026"
-msgstr ""
-"A következő lépés, hogy felkutatod a sebészt aki lemészárolja és irányítja a néped...a Tanmestert. Állítsd meg és a következő darab a tied. Most nyitottam ki ezt a teleportot, használd hogy eljuss hozzá. Ha meghalt, használd ugyanezt a visszaútra is."
+msgstr "A következő lépés, hogy felkutatod a sebészt aki lemészárolja és irányítja a néped...a Tanmestert. Állítsd meg és a következő darab a tied. Most nyitottam ki ezt a teleportot, használd hogy eljuss hozzá. Ha meghalt, használd ugyanezt a visszaútra is."
 
 msgid "TXT_ILOG1027"
 msgstr ""
@@ -3726,9 +3732,9 @@ msgid "TXT_SUB_GOOD2"
 msgstr ""
 "Tudtam, hogy nyerni fogsz vitéz hősöm. Megszűntek a csaták. A győzelmed lehetővé fogja tenni, hogy egy vakcinával kiírtsuk a testünkből ezt a vírust."
 
+#, fuzzy
 msgid "TXT_SUB_GOOD3"
-msgstr ""
-"Megmentetted a bolygót, és felszabadítottál minket. Meg akarom ezt köszönni...személyesen. Ja, és a nevem Shauna."
+msgstr "Megmentetted a bolygót, és felszabadítottál minket. Meg akarom ezt köszönni...személyesen. Ja, és a nevem Shauna."
 
 msgid "TXT_SUB_SAD1"
 msgstr "Habár a gonosz eltávozott, a jövőnk mégis bizonytalan és ködös."
@@ -3760,13 +3766,13 @@ msgid "TXT_SUB_MAP03_2"
 msgstr ""
 "A szaporodás nélkül a Rendnek csak egyetlen esélye volt az erejük és számuk megtartására: a biomechanikus testi tuningolás."
 
+#, fuzzy
 msgid "TXT_SUB_MAP03_3"
-msgstr ""
-"A bomlás annyira előrehaladott, hogy a harctéren látott egységek nagyobb részben robotok mint emberek, de úgy gondoljuk hogy az elméjüket egy központi tudat irányítja..."
+msgstr "A bomlás annyira előrehaladott, hogy a harctéren látott egységek nagyobb részben robotok mint emberek, de úgy gondoljuk hogy az elméjüket egy központi tudat irányítja..."
 
+#, fuzzy
 msgid "TXT_SUB_MAP03_4"
-msgstr ""
-"...maga a Programozó: a ministránsokat irányító MI megalkotója. A Programozót megölve megbéníthatjuk a Rend seregét egy csapással. Azonban vigyázz: a jelentések szerint instant el tudja porlasztani támadóit."
+msgstr "...maga a Programozó: a ministránsokat irányító MI megalkotója. A Programozót megölve megbéníthatjuk a Rend seregét egy csapással. Azonban vigyázz: a jelentések szerint instant el tudja porlasztani támadóit."
 
 msgid "TXT_SUB_MAP10_1"
 msgstr ""
@@ -3842,19 +3848,20 @@ msgstr ""
 msgid "TXT_SUB_LOG16"
 msgstr "A raktár egy erőmű. Oldjuk meg gyorsan és hatékonyan."
 
+#, fuzzy
 msgid "TXT_SUB_LOG17"
 msgstr "Sosem gondoltam volna, hogy betörök egy börtönbe..."
 
 msgid "TXT_SUB_LOG18"
 msgstr "Úgy néz ki nincs ingyen ebéd. Akkor idő felfegyverkezni."
 
+#, fuzzy
 msgid "TXT_SUB_LOG19"
-msgstr ""
-"Ok. Elégedetté tetted a Kormányzót, kiloccsantottad az Igazgató fejét...Úgy tűnik ideje végezni egy kis műtétet."
+msgstr "Ok. Elégedetté tetted a Kormányzót, kiloccsantottad az Igazgató fejét...Úgy tűnik ideje végezni egy kis műtétet."
 
+#, fuzzy
 msgid "TXT_SUB_LOG20"
-msgstr ""
-"Oh, levágtad a kezét! És azt hittem egy jó fiú vagy...vagy olyasmi. Na menjünk."
+msgstr "Oh, levágtad a kezét! És azt hittem egy jó fiú vagy...vagy olyasmi. Na menjünk."
 
 msgid "TXT_SUB_LOG21"
 msgstr ""
@@ -3875,9 +3882,9 @@ msgid "TXT_SUB_LOG26"
 msgstr ""
 "A Rend azt hiszi biztonságban vannak a kastélyban. Tévedés! Ha sikerül kinyitni a kaput könnyen le tudjuk őket szedni. Ezért azonban le kell menni a kanálisba. Menj a folyó nyomán a kormányzó kúriájával szemben. "
 
+#, fuzzy
 msgid "TXT_SUB_LOG27"
-msgstr ""
-"Ok, gugolj itt le. A kanális lakók szörnyű mutánsok, de az általuk kiépített alagút hálózat mindenféle titokhoz hozzásegíti őket. Fogd be az orrod...lemerülünk."
+msgstr "Ok, gugolj itt le. A kanális lakók szörnyű mutánsok, de az általuk kiépített alagút hálózat mindenféle titokhoz hozzásegíti őket. Fogd be az orrod...lemerülünk."
 
 msgid "TXT_SUB_LOG28"
 msgstr ""
@@ -3892,9 +3899,9 @@ msgstr "Pont ez hiányzott. Még több barna trutymák."
 msgid "TXT_SUB_LOG31"
 msgstr "Nézz oda! Azt hiszem ez az a kapu, amit félig ki akar nyitni Weran!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG32"
-msgstr ""
-"Csukd be a szemed! Nem akarom látni! Ó túl késő...fúj. Ez nem úgy néz ki mint egy emberi tetem. Mit tett a Rend? Ezt jeleznem kell az irányításnak."
+msgstr "Csukd be a szemed! Nem akarom látni! Ó túl késő...fúj. Ez nem úgy néz ki mint egy emberi tetem. Mit tett a Rend? Ezt jeleznem kell az irányításnak."
 
 msgid "TXT_SUB_LOG33"
 msgstr "Miért nem mehetünk legalább egyszer egy virágmezős misszióra?"
@@ -3906,6 +3913,7 @@ msgstr ""
 msgid "TXT_SUB_LOG35"
 msgstr "Ne kérdezd hol vagyunk. Én is el vagyok veszve, sajnálom."
 
+#, fuzzy
 msgid "TXT_SUB_LOG36"
 msgstr "Az a tégla...Nem hagytuk már el azt a téglát egyszer? Nem..."
 
@@ -3920,15 +3928,16 @@ msgstr ""
 msgid "TXT_SUB_LOG39"
 msgstr "Áh, jó újra támadásba lendülni. Leckéztessétek meg őket!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG40"
 msgstr "Ez jól néz ki. Számítógépek... Programozó... Mit gondolsz?"
 
 msgid "TXT_SUB_LOG41"
 msgstr "Ez lehet a hosszú folyosó. Vagy ez, vagy a térérzékem tropára ment."
 
+#, fuzzy
 msgid "TXT_SUB_LOG42"
-msgstr ""
-"Ha gonosz templom lennék, így néznék ki. Kimért architektúra, óriási lobogó... amondó vagyok megleltük."
+msgstr "Ha gonosz templom lennék, így néznék ki. Kimért architektúra, óriási lobogó... amondó vagyok megleltük."
 
 msgid "TXT_SUB_LOG43"
 msgstr "Ez a hírhedt Programozó? Lehetetlen!"
@@ -4104,6 +4113,7 @@ msgid "TXT_SUB_LOG89"
 msgstr ""
 "A gyár a bánya mellett van. Richter valószínűleg a Degnin bányákra utalt. A degnini érc mágneses és robbanékony, egy tökéletes megoldás az erőpajzs kiiktatására."
 
+#, fuzzy
 msgid "TXT_SUB_LOG90"
 msgstr "Bányák, katakombák, kanálisok... Micsoda első randi!"
 
@@ -4111,6 +4121,7 @@ msgid "TXT_SUB_LOG91"
 msgstr ""
 "Nem bántam volna, ha Richter egy csöppnyivel pontosabb leírást ad. Hm, próbáljuk meg itt."
 
+#, fuzzy
 msgid "TXT_SUB_LOG92"
 msgstr "Azt hiszem éppen...Oh, franc. Ötletem sincs hol vagyunk."
 
@@ -4149,9 +4160,9 @@ msgstr "Sajnálom hősöm, ez mind rendkívűl új számomra."
 msgid "TXT_SUB_LOG102"
 msgstr "Erős ideghullám zavaró jeleket fogok. Azt hiszem megtaláltuk."
 
+#, fuzzy
 msgid "TXT_SUB_LOG103"
-msgstr ""
-"Amikor azt hittem, hogy mindent láttunk. Emberként mennek be, és úgy jönnek ki mint egy...nem is akarok rá gondolni."
+msgstr "Amikor azt hittem, hogy mindent láttunk. Emberként mennek be, és úgy jönnek ki mint egy...nem is akarok rá gondolni."
 
 msgid "TXT_SUB_LOG104"
 msgstr ""
@@ -4185,9 +4196,9 @@ msgid "TXT_SUB_LOG129"
 msgstr ""
 "Az igazság az univerzum akaratától függ. Térdre fogsz rogyni az Egy Igaz isten, az Egy Fény előtt. Csatlakozz hozzám, és összerakjuk a Pecsétet. Elegem van a misztikus dupla értelmű tanmesékből."
 
+#, fuzzy
 msgid "TXT_SUB_LOG130"
-msgstr ""
-"Te...Te voltál aki szétmorzsolta a Rendemet, letépted a trükkök palástyát, és évszázadok kívánatát borítottad fel. Akkor is győzedelmeskedni fogok, megferzőzlek és az akaratomnak megfelelően foglak torzítani..."
+msgstr "Te...Te voltál aki szétmorzsolta a Rendemet, letépted a trükkök palástyát, és évszázadok kívánatát borítottad fel. Akkor is győzedelmeskedni fogok, megferzőzlek és az akaratomnak megfelelően foglak torzítani..."
 
 msgid "TXT_SUB_LOG200"
 msgstr "Úgy tűnik mint egy álam meló, ugye?"
@@ -4198,6 +4209,7 @@ msgstr "Túl sokat láttál. öld meg Macil!"
 msgid "TXT_SUB_LOG202"
 msgstr "Majd legközelebb hallgatsz rám."
 
+#, fuzzy
 msgid "TXT_SUB_LOG203"
 msgstr "Fú, ezek az apokalipszis utáni árak..."
 
@@ -4246,9 +4258,11 @@ msgstr "Hm. Tetszik a magabiztosságod."
 msgid "TXT_SUB_LOG218"
 msgstr "Meghalsz! Nem is vagy ember!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG219"
 msgstr "Wow! Pörkölt ministráns! A szezon új íze..."
 
+#, fuzzy
 msgid "TXT_SUB_LOG220"
 msgstr "Ha tovább csinálod megvakulsz...mondjuk bejön."
 
@@ -4258,15 +4272,18 @@ msgstr "Szerintem nem hívnak vissza vacsorára."
 msgid "TXT_SUB_LOG222"
 msgstr "Fel kell jutnunk a legfelső szintre."
 
+#, fuzzy
 msgid "TXT_SUB_LOG223"
 msgstr "Várjunk csak... érdekesen néz ki. Nézd csak meg."
 
 msgid "TXT_SUB_LOG224"
 msgstr "Rámjön a frász attól az ürgétől. Húzzunk innen."
 
+#, fuzzy
 msgid "TXT_SUB_LOG225"
 msgstr "Balra! Fordulj balra!... Áh, a másik balra!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG226"
 msgstr "Tipikus csökönyös férfi!... Kivétel ha nő vagy."
 
@@ -4276,9 +4293,11 @@ msgstr "Erős , brutális és csendes. Nekem való partner."
 msgid "TXT_SUB_LOG228"
 msgstr "Jólvan na! Tévedtem!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG229"
 msgstr "Kár, hogy sohasem találkoztunk... szemtől szembe."
 
+#, fuzzy
 msgid "TXT_SUB_LOG230"
 msgstr "Álmodtam számodra valamit... Szar ügy."
 
@@ -4289,9 +4308,9 @@ msgstr ""
 msgid "TXT_SUB_LOG232"
 msgstr "Szép munka barátom! Ideje bevinnelek."
 
+#, fuzzy
 msgid "TXT_SUB_LOG233"
-msgstr ""
-"Vigyázz azokkal a keresztesekkel. Nagy, testes robotok, és morcosok is. nem sokat tudunk a fegyvereikről, de az esélyied... nem túl fényesek. Vigyázz magadra."
+msgstr "Vigyázz azokkal a keresztesekkel. Nagy, testes robotok, és morcosok is. nem sokat tudunk a fegyvereikről, de az esélyied... nem túl fényesek. Vigyázz magadra."
 
 msgid "TXT_SUB_LOG234"
 msgstr ""
@@ -4303,9 +4322,9 @@ msgstr "Ha bárki meglát, levesszük a fejed."
 msgid "TXT_SUB_LOG236"
 msgstr "Te hülye botladozó kétballábú púpos állat! Észrevettek minket miattad!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG237"
-msgstr ""
-"Bárcsak Én várhatnálak az ajtó mögött... de a föld alatt kell maradnom. Itt az ideje, hogy megismerd a vezetőnket, Macilt."
+msgstr "Bárcsak Én várhatnálak az ajtó mögött... de a föld alatt kell maradnom. Itt az ideje, hogy megismerd a vezetőnket, Macilt."
 
 msgid "TXT_BBSUB_SCRIPT02_D57608_IFIKN"
 msgstr ""
@@ -4361,6 +4380,7 @@ msgstr "Kiváló. A Patkány Király bevásárlói lettünk."
 msgid "TXT_BBSUB_SCRIPT06_D4548_OPENT"
 msgstr "Le merném fogadni, hogy ez a pacák is büdös."
 
+#, fuzzy
 msgid "TXT_BBSUB_SCRIPT06_D9096_YOUHA"
 msgstr "Még több kanális... Kiváló. Kíváncsi vagyok, mi élhet odalent."
 
@@ -4374,6 +4394,7 @@ msgid "TXT_BBSUB_SCRIPT10_D12128_THERE"
 msgstr ""
 "Biomechanikus? Nos, ez megmagyarázza a majdnem végtelen számukat. És a viselkedésüket is.\n"
 
+#, fuzzy
 msgid "TXT_BBSUB_SCRIPT10_D16676_IAMTH"
 msgstr "Beteg állat... Nyírd ki!"
 
@@ -4383,6 +4404,7 @@ msgstr "Lehet hogy igen ronda szegény, de legalább a mi oldalunkon áll."
 msgid "TXT_BBSUB_SCRIPT17_D10612_OHSUR"
 msgstr "A rövidmúltból kiindulva a lopakodás nem lehetőség."
 
+#, fuzzy
 msgid "TXT_BBSUB_SCRIPT17_D13644_OHWEL"
 msgstr "Hmm. Könnyen ment mint az ágybavizelés... Hozz nekem egyet kérlek.\n"
 

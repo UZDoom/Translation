@@ -2,15 +2,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-15 17:53+0000\n"
-"Last-Translator: \"Başar Köse (Turkish Mauser)\" <memerprime8@gmail.com>\n"
-"Language-Team: Turkish <https://hosted.weblate.org/projects/uzdoom/hacx/tr/>\n"
+"PO-Revision-Date: 2026-05-11 03:44+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"Language-Team: Turkish <https://hosted.weblate.org/projects/doom-engine-games/hacx-filter/tr/>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15-dev\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2026.5-dev\n"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG1"
@@ -374,6 +374,7 @@ msgstr ""
 "yapın, biraz mutant kıçı doğrayın\n"
 "ve Dodge'dan defolup gidin!"
 
+#, fuzzy
 msgid "X2TEXT"
 msgstr ""
 "Bütün insanlar nerede?!\n"
@@ -397,6 +398,7 @@ msgstr ""
 "mesine şaşmamalı. Alt komiteye\n"
 "rapor ver. Ve arkanı kolla..."
 
+#, fuzzy
 msgid "X3TEXT"
 msgstr ""
 "Bildiğiniz medeniyet artık yok!\n"
@@ -416,6 +418,7 @@ msgstr ""
 "\n"
 ".....(devam edecek)....."
 
+#, fuzzy
 msgid "X5TEXT"
 msgstr ""
 "Yaşıyorsun!\n"
@@ -493,12 +496,14 @@ msgstr "Hırsız Alarmı!"
 msgid "TXT_HACXMAP31"
 msgstr "Kurutucu Oda"
 
+#, fuzzy
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_CLEV"
 msgstr "Şimdi Geliyor...\n"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
+#, fuzzy
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_CHOPPERS"
 msgstr "...kıçınızı kızartacak!"

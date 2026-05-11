@@ -2,15 +2,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-01-01 01:55+0000\n"
-"Last-Translator: Robin <robinsaviary@gmail.com>\n"
+"PO-Revision-Date: 2026-05-11 03:43+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/doom-engine-games/strife/es_MX/>\n"
 "Language: es_MX\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15.1\n"
+"X-Generator: Weblate 2026.5-dev\n"
 
 msgid "TXT_RNO0_SCRIPT02_D0_WELLI"
 msgstr ""
@@ -69,9 +69,9 @@ msgid "TXT_DLG_SCRIPT02_D25772_HELLO"
 msgstr ""
 "Hola, extranjero, es la primera vez que te veo por aquí. Te voy a dar un consejo gratis: tendría cuidado si fuera tú; La Orden no tolera el libre albedrío y su justicia es veloz."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D30320_THATS"
-msgstr ""
-"Ya está, amigo, el pozo del conocimiento ya se secó. De todas formas ya te dije más de lo que debería. Suerte... y no vuelvas."
+msgstr "Ya está, amigo, el pozo del conocimiento ya se secó. De todas formas ya te dije más de lo que debería. Suerte... y no vuelvas."
 
 msgid "TXT_DLG_SCRIPT02_D33352_WATCH"
 msgstr "¡Cuidado por donde caminas, campesino!"
@@ -126,9 +126,9 @@ msgid "TXT_DLG_SCRIPT02_D66704_OHIJU"
 msgstr ""
 "Ah, me encantan los recuerdos. Toma, con esto vas a poder entrar a la prisión. Habla con el carcelero Montag. Lo que hagas después de eso no quiero saberlo."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D68220_SOYOU"
-msgstr ""
-"¿Así que tú eres el tonto que se robó el cáliz? Te voy a capturar como ladrón rebelde, mejorando así mi posición con La Orden. ¿Qué se siente ser un peón involuntario? Una pista: te va a doler. "
+msgstr "¿Así que tú eres el tonto que se robó el cáliz? Te voy a capturar como ladrón rebelde, mejorando así mi posición con La Orden. ¿Qué se siente ser un peón involuntario? Una pista: te va a doler. "
 
 msgid "TXT_RYES1_SCRIPT02_D68220_TOOBA"
 msgstr ""
@@ -333,9 +333,9 @@ msgstr "¿Estás sordo? Ya te dije lo ocupado que estoy. Vuelve al trabajo."
 msgid "TXT_DLG_SCRIPT04_D37900_IFYOU"
 msgstr "Si no te pones a trabajar, te van a pegar igual un tiro. Ya muévete."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT04_D39416_IDONT"
-msgstr ""
-"No quiero sonar alarmante, pero si siguen forzando tanto el cristal de poder, primero va a fallar, luego se va a partir y luego «¡Pum!»... Para que te hagas una idea."
+msgstr "No quiero sonar alarmante, pero si siguen forzando tanto el cristal de poder, primero va a fallar, luego se va a partir y luego «¡Pum!»... Para que te hagas una idea."
 
 msgid "TXT_DLG_SCRIPT04_D40932_LETME"
 msgstr ""
@@ -405,6 +405,7 @@ msgid "TXT_DLG_SCRIPT06_D9096_YOUHA"
 msgstr ""
 "Tienes que ir a otra parte de las cloacas. Para llegar ahí debes entrar al castillo por la puerta de mantenimiento de las cloacas y drenar el tanque de recuperación de agua; al fondo está la entrada oculta a las cloacas y por ahí mismo el control manual de la puerta."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT06_D10612_GOODL"
 msgstr ""
 "Buena suerte. Te abrimos varios de nuestros túneles; eso debería facilitarte las cosas.\n"
@@ -468,9 +469,9 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT10_D13644_THEYL"
 msgstr "¡Se van a arrepentir!"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT10_D16676_IAMTH"
-msgstr ""
-"Soy el Dios Único. ¡Necesito liberar su espíritu para poder abandonar mi cuerpo y unirme a él en vuelo! No tienes ni idea de lo que posees... ni del terror al que te enfrentas. ¡El Dios Único debe ser libre! Y me va a recompensar... ¡Vamos a ser el mismo!"
+msgstr "Soy el Dios Único. ¡Necesito liberar su espíritu para poder abandonar mi cuerpo y unirme a él en vuelo! No tienes ni idea de lo que posees... ni del terror al que te enfrentas. ¡El Dios Único debe ser libre! Y me va a recompensar... ¡Vamos a ser el mismo!"
 
 msgid "TXT_RPLY0_SCRIPT10_D16676_IWILL"
 msgstr "¡Te voy a destruir!"
@@ -555,9 +556,9 @@ msgstr ""
 msgid "TXT_DLG_SCRIPT10_D43964_BECAR"
 msgstr "Ten cuidado ahí afuera."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT11_D1516_ALOTO"
-msgstr ""
-"Mucha gente diría que este es un trabajo ingrato e insignificante, pero no, de hecho..."
+msgstr "Mucha gente diría que este es un trabajo ingrato e insignificante, pero no, de hecho..."
 
 msgid "TXT_RPLY0_SCRIPT11_D3032_OKPAL"
 msgstr "Sí, amigo, como tú digas."
@@ -584,9 +585,9 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT12_D7580_ILLBE"
 msgstr "Voy a volver cuando Macil esté muerto."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT12_D15160_PITIF"
-msgstr ""
-"Despreciable humano, lograste lo que miles no han podido: traes ante mí el poder del Emblema, la voz del Dios Único."
+msgstr "Despreciable humano, lograste lo que miles no han podido: traes ante mí el poder del Emblema, la voz del Dios Único."
 
 msgid "TXT_DLG_SCRIPT12_D16676_THESI"
 msgstr ""
@@ -648,13 +649,14 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT22_D1516_DOYOU"
 msgstr "¿Sabes qué hay adentro?"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT22_D4548_NOIFY"
-msgstr ""
-"¡No! Si lo encuentras, quédatelo. Puede que te sirva para tratar de librarnos de esta opresión. Te desearía suerte, pero vas a necesitar mucho más que eso si vas ahí..."
+msgstr "¡No! Si lo encuentras, quédatelo. Puede que te sirva para tratar de librarnos de esta opresión. Te desearía suerte, pero vas a necesitar mucho más que eso si vas ahí..."
 
 msgid "TXT_RPLY0_SCRIPT22_D4548_WHATS"
 msgstr "¿Qué hay de esos misterios que mencionaste?"
 
+#, fuzzy
 msgid "TXT_RPLY0_SCRIPT22_D7580_THANK"
 msgstr "Gracias... Voy a hacer lo que pueda."
 
@@ -755,9 +757,9 @@ msgid "TXT_DLG_SCRIPT33_D13644_THATS"
 msgstr ""
 "Ya está, amigo, el pozo del conocimiento ya se secó. De todas formas ya te dije más de lo que debería."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT33_D15160_HARDT"
-msgstr ""
-"Difícil comprarse nuevos juguetes... cuando se está pobre. Haz un encargo para mí y vas a ganar más de lo que puedas gastarte: te voy a hacer un hombre rico."
+msgstr "Difícil comprarse nuevos juguetes... cuando se está pobre. Haz un encargo para mí y vas a ganar más de lo que puedas gastarte: te voy a hacer un hombre rico."
 
 msgid "TXT_DLG_SCRIPT33_D16676_GOODC"
 msgstr ""
@@ -783,9 +785,9 @@ msgstr ""
 msgid "TXT_DLG_SCRIPT33_D24256_WHATA"
 msgstr "¿Qué estás esperando? El mismísimo gobernador te va a recompensar."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT33_D27288_SOYOU"
-msgstr ""
-"¿Así que tú eres el tonto que se robó el cáliz? Te voy a capturar como ladrón rebelde, mejorando así mi posición con La Orden. ¿Qué se siente ser un peón involuntario? "
+msgstr "¿Así que tú eres el tonto que se robó el cáliz? Te voy a capturar como ladrón rebelde, mejorando así mi posición con La Orden. ¿Qué se siente ser un peón involuntario? "
 
 msgid "TXT_RYES1_SCRIPT33_D27288_TOOBA"
 msgstr ""
@@ -1056,13 +1058,13 @@ msgid "TXT_ILOG1023"
 msgstr ""
 "Tú siguiente desafío probará tú espíritu. La tercera pieza la tiene tú propio líder. Él es igual que aquello que te envía a matar. Confróntalo y resuelve tú destino."
 
+#, fuzzy
 msgid "TXT_ILOG1025"
-msgstr ""
-"Haz cortado el cáncer de tu cuerpo, pero tú corazón todavía late. Ahora debes encontrar al cirujano que encarniza y controla a tú gente... El Maestro del Conocimiento. Deténlo y la siguiente pieza será tuya."
+msgstr "Haz cortado el cáncer de tu cuerpo, pero tú corazón todavía late. Ahora debes encontrar al cirujano que encarniza y controla a tú gente... El Maestro del Conocimiento. Deténlo y la siguiente pieza será tuya."
 
+#, fuzzy
 msgid "TXT_ILOG1026"
-msgstr ""
-"Ahora debes encontrar al cirujano que encarniza y controla a tú gente... El Maestro del Conocimiento. Deténlo y la siguiente pieza será tuya. Usa el teleporte que he abierto para alcanzarlo. Cuando esté muerto, usa el mismo dispositivo para regresar conmigo."
+msgstr "Ahora debes encontrar al cirujano que encarniza y controla a tú gente... El Maestro del Conocimiento. Deténlo y la siguiente pieza será tuya. Usa el teleporte que he abierto para alcanzarlo. Cuando esté muerto, usa el mismo dispositivo para regresar conmigo."
 
 msgid "TXT_ILOG1201"
 msgstr ""
@@ -1084,9 +1086,9 @@ msgid "TXT_SUB_LOG14"
 msgstr ""
 "Bueno, ¡«No confíes en nadie» se llama el juego! Ya es hora de conseguir ese pase del Gobernador y liberar a esos prisioneros."
 
+#, fuzzy
 msgid "TXT_SUB_LOG20"
-msgstr ""
-"¡Uh, le cortaste la mano! Y yo creía que eras una buena persona... más o menos. Bueno, vamos."
+msgstr "¡Uh, le cortaste la mano! Y yo creía que eras una buena persona... más o menos. Bueno, vamos."
 
 msgid "TXT_SUB_LOG37"
 msgstr ""

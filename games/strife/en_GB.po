@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-02-21 00:26+0000\n"
+"PO-Revision-Date: 2026-05-11 03:43+0000\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: English (United Kingdom) <https://hosted.weblate.org/projects/doom-engine-games/strife/en_GB/>\n"
 "Language: en_GB\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16.1-dev\n"
+"X-Generator: Weblate 2026.5-dev\n"
 
 msgid "TXT_RPLY1_SCRIPT02_D18192_LEATH"
 msgstr "Leather armour"
@@ -69,9 +69,9 @@ msgid "TXT_RANDOM_PGUARD_10"
 msgstr ""
 "If there is any honour inside that pathetic shell of a body, you'll enter into the arms of the Order."
 
+#, fuzzy
 msgid "TXT_ILOG103"
-msgstr ""
-"Just when I think we've seen it all! They go in human and come out... I don't even want to think about it. Destroy this horror!"
+msgstr "Just when I think we've seen it all! They go in human and come out... I don't even want to think about it. Destroy this horror!"
 
 msgid "TXT_SPEAKER_MACIL_S_ADVISOR"
 msgstr "Macil's Adviser"
@@ -82,9 +82,9 @@ msgstr "Adviser"
 msgid "TXT_SPEAKER_ARMORER"
 msgstr "Armourer"
 
+#, fuzzy
 msgid "TXT_BBSUB_SCRIPT17_D13644_OHWEL"
-msgstr ""
-"Hmm. No fuss, no muss, nothing for mum to clean up... Get me one, please.\n"
+msgstr "Hmm. No fuss, no muss, nothing for mum to clean up... Get me one, please.\n"
 
 msgid "TXT_DLG_SCRIPT04_D21224_BUSIN"
 msgstr "Business my arse. Help, guards, I've got a live one."
@@ -100,9 +100,9 @@ msgid "TXT_DLG_SCRIPT06_D24256_WHATS"
 msgstr ""
 "What's your clearance? There's no unauthorised personnel allowed up here."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT06_D10612_GOODL"
-msgstr ""
-"Good luck. I've opened several of our tunnels for you. It should make your task easier. Oh, size ten, perfect! ...But dreadful colours."
+msgstr "Good luck. I've opened several of our tunnels for you. It should make your task easier. Oh, size ten, perfect! ...But dreadful colours."
 
 msgid "TXT_DLG_SCRIPT10_D25772_WELLI"
 msgstr ""
@@ -112,9 +112,9 @@ msgid "TXT_DLG_SCRIPT17_D13644_OHWEL"
 msgstr ""
 "Oh well, word has it that the bailey's warehouse received a shipment of maulers, that's the weapon that vaporises."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT22_D3032_ITSAT"
-msgstr ""
-"It's a top secret area. Not only is the Order breeding some kind of... creature in there, I've seen with my own eyes a strange artifact called a Talisman. nobody's allowed near it. Rumour is that it holds great power if united with two others of its kind."
+msgstr "It's a top secret area. Not only is the Order breeding some kind of... creature in there, I've seen with my own eyes a strange artifact called a Talisman. nobody's allowed near it. Rumour is that it holds great power if united with two others of its kind."
 
 msgid "TXT_ILOG28"
 msgstr ""
@@ -127,9 +127,9 @@ msgid "TXT_SUB_INTRO6"
 msgstr ""
 "But there are whispers of discontent. If we organise, can we defeat our masters? Weapons are being stolen, soldiers are being trained. A movement is born: born of lifelong strife!"
 
+#, fuzzy
 msgid "TXT_SUB_MAP03_4"
-msgstr ""
-"...the Programmer: creator of the AI which controls the Acolytes. Destroy the Programmer, and we may cripple the Order's troops with a single blow. But caution: we have reports he can vaporise attackers."
+msgstr "...the Programmer: creator of the AI which controls the Acolytes. Destroy the Programmer, and we may cripple the Order's troops with a single blow. But caution: we have reports he can vaporise attackers."
 
 msgid "TXT_SUB_LOG28"
 msgstr ""
@@ -238,5 +238,6 @@ msgid "TXT_SUB_LOG14"
 msgstr ""
 "OK, \"Trust no one\" is the name of the game! Let's get that pass from the Governor and free those prisoners."
 
+#, fuzzy
 msgid "TXT_SUB_LOG36"
 msgstr "That brick... Didn't we pass that brick? No..."
