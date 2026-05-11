@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-05-11 03:43+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-05-11 14:11+0000\n"
+"Last-Translator: dwing <12104745@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/projects/doom-engine-games/hexen/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
@@ -125,7 +125,6 @@ msgstr ""
 "似乎在嘲弄着你每一次的努力。"
 
 # intermission
-#, fuzzy
 msgid "TXT_HEXEN_CLUS2MSG"
 msgstr ""
 "你的头脑还在为柱廊内的遭遇而晕头转向，\n"
@@ -142,7 +141,6 @@ msgstr ""
 "以痛苦之神的名义，你又怎样能找到出路？"
 
 # intermission
-#, fuzzy
 msgid "TXT_HEXEN_CLUS3MSG"
 msgstr ""
 "古时最强大的武器和神器\n"
@@ -161,7 +159,6 @@ msgstr ""
 "在你的内心深处，敌人正在等待着……"
 
 # intermission
-#, fuzzy
 msgid "TXT_HEXEN_CLUS4MSG"
 msgstr ""
 "“……他将踏上前往冥界的旅程，\n"
@@ -188,7 +185,6 @@ msgstr ""
 "上面是这个世界唯一的光源。"
 
 # intermission
-#, fuzzy
 msgid "TXT_HEXEN_WIN2MSG"
 msgstr ""
 "这只能是混沌球，\n"
@@ -258,7 +254,6 @@ msgid "TXT_ACS_MAP05_8_STAIR"
 msgstr "七道传送门的楼梯已经升起"
 
 # script texts
-#, fuzzy
 msgid "TXT_ACS_MAP05_9_YOUHA"
 msgstr "你得再找一个开关……"
 
@@ -331,7 +326,6 @@ msgid "TXT_ACS_MAP22_3_APLAT"
 msgstr "塔内的一个平台降下来了"
 
 # script texts
-#, fuzzy
 msgid "TXT_ACS_MAP22_27_YOUHA"
 msgstr "这场游戏你玩得太久了，凡人……"
 
