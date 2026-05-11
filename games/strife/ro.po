@@ -2,15 +2,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-30 16:40+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-05-11 03:44+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/doom-engine-games/strife/ro/>\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2;\n"
-"X-Generator: Weblate 5.15-dev\n"
+"X-Generator: Weblate 2026.5-dev\n"
 
 msgid "TXT_STRIFE_MAP01"
 msgstr "ZONA 1: Sanctuar"
@@ -321,9 +321,9 @@ msgstr "Merită fiecare bănuț!"
 msgid "TXT_RNO3_SCRIPT02_D12128_COMEO"
 msgstr "Haide, 200 monezi de aur!"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D13644_ICANT"
-msgstr ""
-"Nu-mi vine să cred că am rămas blocat cu meseria asta. Se zvonește că ceva malefic a ieșit la suprafată prin poarta canalului... Acum am ocazia să stau aici până se întoarce!"
+msgstr "Nu-mi vine să cred că am rămas blocat cu meseria asta. Se zvonește că ceva malefic a ieșit la suprafată prin poarta canalului... Acum am ocazia să stau aici până se întoarce!"
 
 msgid "TXT_RPLY0_SCRIPT02_D13644_WHATG"
 msgstr "Care poartă?"
@@ -463,9 +463,9 @@ msgstr "Poftim. Ai grijă."
 msgid "TXT_RNO2_SCRIPT02_D21224_WELLM"
 msgstr "Păi, poate îți permiți niște truse de prim-ajutor?"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D22740_IHOPE"
-msgstr ""
-"Sper că Macil știe ce face. Dacă Ordinul află că ajut Frontul sunt ca și mort. Nu-i ca și cum te-ar interesa asta. Medicul Frontului mi-a dat un cip pentru upgrade, ești pregătit? "
+msgstr "Sper că Macil știe ce face. Dacă Ordinul află că ajut Frontul sunt ca și mort. Nu-i ca și cum te-ar interesa asta. Medicul Frontului mi-a dat un cip pentru upgrade, ești pregătit? "
 
 msgid "TXT_RPLY0_SCRIPT02_D22740_YESIM"
 msgstr "Da, sunt pregătit."
@@ -510,6 +510,7 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT02_D25772_WHATS"
 msgstr "Ai vreo veste?"
 
+#, fuzzy
 msgid "TXT_RYES0_SCRIPT02_D25772_THEWO"
 msgstr "Vestea e că... Canalele ascund mai mult decât roboți și șoareci."
 
@@ -539,13 +540,13 @@ msgstr ""
 msgid "TXT_RNO0_SCRIPT02_D28804_WELLT"
 msgstr "Vorbim când aduci aur!"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D30320_THATS"
-msgstr ""
-"Asta a fost prietene, fântâna cunoștiințelor a secat. Ți-am spus mai multe decât ar fi trebuit oricum. Baftă... Și nu te întoarce."
+msgstr "Asta a fost prietene, fântâna cunoștiințelor a secat. Ți-am spus mai multe decât ar fi trebuit oricum. Baftă... Și nu te întoarce."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D31836_HEYIM"
-msgstr ""
-"Hei, sunt aici doar în caz de urgență. Dacă apare o breșă în nucleu, mă asigur că nimeni nu intră... sau iese."
+msgstr "Hei, sunt aici doar în caz de urgență. Dacă apare o breșă în nucleu, mă asigur că nimeni nu intră... sau iese."
 
 msgid "TXT_DLG_SCRIPT02_D33352_WATCH"
 msgstr "Ai grijă pe unde calci, plebeule!"
@@ -562,9 +563,9 @@ msgstr "Tu, nimeni nu are voie aici. Mișcă-te!"
 msgid "TXT_DLG_SCRIPT02_D39416_IRALE"
 msgstr "Irale te va pregăti adecvat!"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D40932_IMKIN"
-msgstr ""
-"Sunt un fel de broker de talent pentru rebeli. Un tip la fel de priceput precum ești tu ar putea face bani frumoși... dacă s-ar lega de cine trebuie."
+msgstr "Sunt un fel de broker de talent pentru rebeli. Un tip la fel de priceput precum ești tu ar putea face bani frumoși... dacă s-ar lega de cine trebuie."
 
 msgid "TXT_RPLY0_SCRIPT02_D40932_IMINT"
 msgstr "Sunt interesat."
@@ -670,9 +671,9 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT02_D66704_FINEB"
 msgstr "Mie-mi convine."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D68220_SOYOU"
-msgstr ""
-"Deci tu ești prostul care a furat potirul? Te voi aresta, hoț rebel... Prin urmare avansând în rangurile Ordinului. Cum e să fii un pion neștiutor? Îți dau un indiciu, o șă doară. "
+msgstr "Deci tu ești prostul care a furat potirul? Te voi aresta, hoț rebel... Prin urmare avansând în rangurile Ordinului. Cum e să fii un pion neștiutor? Îți dau un indiciu, o șă doară. "
 
 msgid "TXT_RPLY0_SCRIPT02_D68220_ITSUC"
 msgstr "Nașpa!"
@@ -786,6 +787,7 @@ msgstr "Desigur!"
 msgid "TXT_RPLY1_SCRIPT02_D92476_NOAND"
 msgstr "Nu, nici n-am nevoie de una!"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D93992_SORRY"
 msgstr "Scuze! Te rog, poftește sus."
 
@@ -835,9 +837,9 @@ msgstr "Mulțumesc"
 msgid "TXT_DLG_SCRIPT02_D104604_RELEA"
 msgstr "Lasă-mă, lasă bătrânii în pace."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT03_D0_WELCO"
-msgstr ""
-"Bun venit la ultima fărâmă de speranță. Numai noi avem voința liberă necesară pentru a ne opune Ordinului. Avem cele mai ascuțite minți științifice, și mulți oameni capabili de muncă, dar ne lipsește acel um... adevărat Salvator de la probleme, care să ne ofere avantajul de care avem nevoie. Ajută-ne."
+msgstr "Bun venit la ultima fărâmă de speranță. Numai noi avem voința liberă necesară pentru a ne opune Ordinului. Avem cele mai ascuțite minți științifice, și mulți oameni capabili de muncă, dar ne lipsește acel um... adevărat Salvator de la probleme, care să ne ofere avantajul de care avem nevoie. Ajută-ne."
 
 msgid "TXT_RPLY0_SCRIPT03_D0_ALLRI"
 msgstr "În regulă, accept."
@@ -1088,9 +1090,9 @@ msgid "TXT_DLG_SCRIPT03_D43964_WERET"
 msgstr ""
 "Încercăm să găsim unde sunt mecanismele castelului, dar n-am avut noroc până acum."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT03_D45480_DONTG"
-msgstr ""
-"Să nu te prindă. Am auzit povești de groază despre ce le fac oamenilor în închisoare. Dispar pur și simplu... fără nicio urmă."
+msgstr "Să nu te prindă. Am auzit povești de groază despre ce le fac oamenilor în închisoare. Dispar pur și simplu... fără nicio urmă."
 
 msgid "TXT_DLG_SCRIPT03_D46996_HERES"
 msgstr ""
@@ -1222,9 +1224,9 @@ msgstr "Unde e cristalul de alimentare?"
 msgid "TXT_DLG_SCRIPT04_D37900_IFYOU"
 msgstr "Dacă nu te apuci de muncă, o să fii împuscat oricum. Miscă-ți tunica."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT04_D39416_IDONT"
-msgstr ""
-"Nu vreau să par alarmist, dar... dacă o să continui să împingi cristalul atât de tare o să se crape, apoi sparge, iar apoi *bum*! ...Doar ziceam."
+msgstr "Nu vreau să par alarmist, dar... dacă o să continui să împingi cristalul atât de tare o să se crape, apoi sparge, iar apoi *bum*! ...Doar ziceam."
 
 msgid "TXT_DLG_SCRIPT04_D40932_LETME"
 msgstr ""
@@ -1399,9 +1401,9 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT06_D9096_ANYTH"
 msgstr "Mai poți face altceva?"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT06_D10612_GOODL"
-msgstr ""
-"Noroc. Am deschis câteva canale pentru tine. Ar trebui să îți ușureze munca. Ah, mărimea zece, perfect! ...Dar cumplite culori."
+msgstr "Noroc. Am deschis câteva canale pentru tine. Ar trebui să îți ușureze munca. Ah, mărimea zece, perfect! ...Dar cumplite culori."
 
 msgid "TXT_RPLY0_SCRIPT06_D10612_THANK"
 msgstr "Merci de ajutor."
@@ -1557,9 +1559,9 @@ msgstr "Vor plătii pentru asta!"
 msgid "TXT_DLG_SCRIPT10_D15160_FIGHT"
 msgstr "Luptați pentru Front și libertate. Acum plecați."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT10_D16676_IAMTH"
-msgstr ""
-"Eu sunt adevăratul Zeu.... Am nevoie de sufletul lui ca să pot să-mi părăsesc corpul, și să mă alătur lui în zbor. Nu ai idee despre ceea ce posezi... Și ce teroare înfrunți... Adevăratul Zeu trebuie să fie liber... Și mă va răsplătii... Voi fi unul..."
+msgstr "Eu sunt adevăratul Zeu.... Am nevoie de sufletul lui ca să pot să-mi părăsesc corpul, și să mă alătur lui în zbor. Nu ai idee despre ceea ce posezi... Și ce teroare înfrunți... Adevăratul Zeu trebuie să fie liber... Și mă va răsplătii... Voi fi unul..."
 
 msgid "TXT_RPLY0_SCRIPT10_D16676_IWILL"
 msgstr "Te voi distruge!"
@@ -1904,9 +1906,9 @@ msgstr "Continuă să faci treabă bună, n-am fi reușit fără tine."
 msgid "TXT_DLG_SCRIPT11_D0_IMTHE"
 msgstr "Sunt stăpânul cheilor."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT11_D1516_ALOTO"
-msgstr ""
-"O grămadă de oameni ar spune că e o muncă fără mulțumiri și insignifiantă. În realitate, nu este..."
+msgstr "O grămadă de oameni ar spune că e o muncă fără mulțumiri și insignifiantă. În realitate, nu este..."
 
 msgid "TXT_RPLY0_SCRIPT11_D1516_GIVEM"
 msgstr "Dă-mi cheia!"
@@ -2000,9 +2002,9 @@ msgstr "Mă voi întoarce, cu piesa lui."
 msgid "TXT_DLG_SCRIPT12_D13644_THERI"
 msgstr "Râul timpului curge în permanență, în timp ce tu stai pe loc."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT12_D15160_PITIF"
-msgstr ""
-"Om jalnic, ai reușit ceea ce nu a reușit nimeni să facă.... Îmi aduci puterea Sigiliului, vocea Adevăratului Zeu."
+msgstr "Om jalnic, ai reușit ceea ce nu a reușit nimeni să facă.... Îmi aduci puterea Sigiliului, vocea Adevăratului Zeu."
 
 msgid "TXT_RPLY0_SCRIPT12_D15160_IDONT"
 msgstr "Nu înțeleg."
@@ -2094,9 +2096,9 @@ msgstr "Ce specimen sănătos. Nu ai nevoie de ajutorul meu, nu?"
 msgid "TXT_RPLY0_SCRIPT17_D6064_WELLY"
 msgstr "Ba da. Macil m-a trimis."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT17_D7580_SHHHH"
-msgstr ""
-"Șhhhh... Mai încet, dacă nu vrei să murim amândoi. Acum, ce pot face pentru tine?"
+msgstr "Șhhhh... Mai încet, dacă nu vrei să murim amândoi. Acum, ce pot face pentru tine?"
 
 msgid "TXT_RPLY0_SCRIPT17_D7580_TELLM"
 msgstr "Spune-mi cum găsesc Episcopul."
@@ -2206,16 +2208,16 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT22_D1516_DOYOU"
 msgstr "Știi cumva ce e înăuntru?"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT22_D3032_ITSAT"
-msgstr ""
-"E o zonă secretă. Nu numai că Ordinul crește un fel de... creatură acolo, am văzut cu proprii mei ochi un fel de artefact numit Talisman, nimeni nu e lăsat să se apropie.. Zvonurile zic că e un artefact de o putere imensă dacă e unit cu celelalte două părți ale lui."
+msgstr "E o zonă secretă. Nu numai că Ordinul crește un fel de... creatură acolo, am văzut cu proprii mei ochi un fel de artefact numit Talisman, nimeni nu e lăsat să se apropie.. Zvonurile zic că e un artefact de o putere imensă dacă e unit cu celelalte două părți ale lui."
 
 msgid "TXT_RPLY0_SCRIPT22_D3032_ISUPP"
 msgstr "Presupun că vrei chestia asta?"
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT22_D4548_NOIFY"
-msgstr ""
-"Nu! Dacă o găsești, e a ta. Poate o poți folosi ca să ne ajuți să scăpăm de oprimare. Ți-aș ura noroc, dar o să ai noroc de mult mai mult decât atât dacă mergi acolo..."
+msgstr "Nu! Dacă o găsești, e a ta. Poate o poți folosi ca să ne ajuți să scăpăm de oprimare. Ți-aș ura noroc, dar o să ai noroc de mult mai mult decât atât dacă mergi acolo..."
 
 msgid "TXT_RPLY0_SCRIPT22_D4548_WHATS"
 msgstr "Care e treaba cu trecutul ăsta?"
@@ -2224,6 +2226,7 @@ msgid "TXT_DLG_SCRIPT22_D6064_YOUVE"
 msgstr ""
 "Cu siguranță ai vazut ruinele din apropiere. Se pare că Cometa care a căzut e de fapt o navă spațială, și crezi sau nu, e originară din lumea asta, de acum mult timp."
 
+#, fuzzy
 msgid "TXT_RPLY0_SCRIPT22_D6064_SOTHE"
 msgstr "Deci spectrele, Adevăratul Zeu..."
 
@@ -2231,6 +2234,7 @@ msgid "TXT_DLG_SCRIPT22_D7580_THEYA"
 msgstr ""
 "Sunt creaturi care au condus cândva lumea asta și sunt determinați să-i consume toată viața. Cei antici au reușit să-i alunge, dar și-au dat viața pentru a reuși. Mă tem că asta e tot ce știu."
 
+#, fuzzy
 msgid "TXT_RPLY0_SCRIPT22_D7580_THANK"
 msgstr "Merci... O să fac ce pot."
 
@@ -2446,6 +2450,7 @@ msgid "TXT_DLG_SCRIPT23_D15160_THANK"
 msgstr ""
 "Slavă Domnului că ești aici. Ca să intri în fabrică ai nevoie de o cheie. Am furat-o dar agentul nostru a dispărut în rețeaua catacombelor fortăreței Ordinului. Am trimis zece oameni pricepuți după el, dar niciunul nu s-a întors. Ceva se întâmplă acolo!"
 
+#, fuzzy
 msgid "TXT_RPLY0_SCRIPT23_D15160_WHATI"
 msgstr "Ce e? Uman sau... ?"
 
@@ -2540,6 +2545,7 @@ msgid "TXT_DLG_SCRIPT23_D24256_THANK"
 msgstr ""
 "Slavă Domnului că ești aici. Ca să intri în fabrică ai nevoie de o cheie. Am furat-o dar agentul nostru a dispărut în rețeaua catacombelor fortăreței Ordinului. Am trimis zece oameni pricepuți după el, dar niciunul nu s-a întors. Ceva se întâmplă acolo!"
 
+#, fuzzy
 msgid "TXT_RPLY0_SCRIPT23_D24256_WHATI"
 msgstr "Ce e? Uman sau... ?"
 
@@ -2758,9 +2764,9 @@ msgid "TXT_DLG_SCRIPT33_D13644_THATS"
 msgstr ""
 "Gata prietene, fântâna a secat. Ți-am spus mai multe decât ar fi trebuit oricum."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT33_D15160_HARDT"
-msgstr ""
-"Greu să cumperi jucarii noi... când ești falit. Dar faci o mică treabă pentru mine și o să fii putred de bogat."
+msgstr "Greu să cumperi jucarii noi... când ești falit. Dar faci o mică treabă pentru mine și o să fii putred de bogat."
 
 msgid "TXT_RPLY0_SCRIPT33_D15160_IGOTN"
 msgstr "N-am nimic mai bun de făcut."
@@ -2820,9 +2826,9 @@ msgstr "Ce mai aștepți? Guvernatorul însuși te va răsplătii."
 msgid "TXT_DLG_SCRIPT33_D25772_DIETR"
 msgstr "Mori trădătorule! "
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT33_D27288_SOYOU"
-msgstr ""
-"Deci tu ești tolomacul care a furat potirul? Am să te arestez drept un hoț rebel... Prin urmare crescând in rangurile Ordinului. Cum e să fii un pion? "
+msgstr "Deci tu ești tolomacul care a furat potirul? Am să te arestez drept un hoț rebel... Prin urmare crescând in rangurile Ordinului. Cum e să fii un pion? "
 
 msgid "TXT_RPLY0_SCRIPT33_D27288_ITSUC"
 msgstr "Nașpa!"
@@ -3219,9 +3225,9 @@ msgstr "Merci, pa!"
 msgid "TXT_RANDOMGOODBYE_3"
 msgstr "Ne vedem mai încolo!"
 
+#, fuzzy
 msgid "TXT_ILOG1"
-msgstr ""
-"Alo? Centrul de comandă, o unitate tocmai a fost activată.... Primesc imagini și audio de la... cineva... Hei tu, pleacă de acolo și lasă potirul!"
+msgstr "Alo? Centrul de comandă, o unitate tocmai a fost activată.... Primesc imagini și audio de la... cineva... Hei tu, pleacă de acolo și lasă potirul!"
 
 msgid "TXT_ILOG2"
 msgstr ""
@@ -3426,9 +3432,9 @@ msgid "TXT_ILOG102"
 msgstr ""
 "Citesc distorsiune neurale masive drept din față, cred că am găsit-o. Să intrăm și să o oprim."
 
+#, fuzzy
 msgid "TXT_ILOG103"
-msgstr ""
-"Exact când credeam că am văzut tot. Intră oameni și ies...Nici nu vreau să mă gândesc. Distruge-o!"
+msgstr "Exact când credeam că am văzut tot. Intră oameni și ies...Nici nu vreau să mă gândesc. Distruge-o!"
 
 msgid "TXT_ILOG104"
 msgstr ""
@@ -3542,13 +3548,13 @@ msgid "TXT_ILOG1024"
 msgstr ""
 "E Oracolul cel care deține ultima piesă. Acolo e trădătorul. Întoarce-te la Oracol, și răpune-l. Întoarce-te la mine când ai terminat."
 
+#, fuzzy
 msgid "TXT_ILOG1025"
-msgstr ""
-"Ai tăiat cancerul din corp, dar inima ta încă bate. Mai departe trebuie să găsești pe chirurgul care vă masacrează oamenii.... Maestrul Cunoștiințelor. Oprește-l, și următoarea piesă va fii a ta."
+msgstr "Ai tăiat cancerul din corp, dar inima ta încă bate. Mai departe trebuie să găsești pe chirurgul care vă masacrează oamenii.... Maestrul Cunoștiințelor. Oprește-l, și următoarea piesă va fii a ta."
 
+#, fuzzy
 msgid "TXT_ILOG1026"
-msgstr ""
-"Mai departe trebuie să găsești chirurgul care vă masacrează oameni.... Maestrul Cunoștiințelor. Oprește-l, și următoarea piesă va fii a ta."
+msgstr "Mai departe trebuie să găsești chirurgul care vă masacrează oameni.... Maestrul Cunoștiințelor. Oprește-l, și următoarea piesă va fii a ta."
 
 msgid "TXT_ILOG1027"
 msgstr ""
@@ -3723,9 +3729,9 @@ msgid "TXT_SUB_GOOD2"
 msgstr ""
 "Știam că vei câștiga, eroul meu galant. Lupta a încetat. Vitoria ta ne permite să creăm un vaccin care va elimina virusul din corpul nostru."
 
+#, fuzzy
 msgid "TXT_SUB_GOOD3"
-msgstr ""
-"Ai salvat planeta și ne-ai eliberat. Aș vrea să îți mulțumesc, personal... Oh, și apropo: numele e Shauna."
+msgstr "Ai salvat planeta și ne-ai eliberat. Aș vrea să îți mulțumesc, personal... Oh, și apropo: numele e Shauna."
 
 msgid "TXT_SUB_SAD1"
 msgstr "Da, răul s-a dus dar viitorul nostru era în ceață și neclar."
@@ -3758,13 +3764,13 @@ msgid "TXT_SUB_MAP03_2"
 msgstr ""
 "Fără procreere, Ordinul a descoperit că îmbunătățirile lor bio-mecanice erau tot ce îi ținea."
 
+#, fuzzy
 msgid "TXT_SUB_MAP03_3"
-msgstr ""
-"Deteriorarea a avansat în așa fel încăt majoritatea soldațiilor pe care îi înfruntăm să fie mai mult mașini decât oameni dar credem că subconștientul lor colectiv e controlat de o singură sursă..."
+msgstr "Deteriorarea a avansat în așa fel încăt majoritatea soldațiilor pe care îi înfruntăm să fie mai mult mașini decât oameni dar credem că subconștientul lor colectiv e controlat de o singură sursă..."
 
+#, fuzzy
 msgid "TXT_SUB_MAP03_4"
-msgstr ""
-"...Programatorul: creatorul inteligenței artificiale care controlează Acoliții. Distruge-l, și vom nimicii trupele Ordinului cu o singură lovitură: avem rapoarte care spun că poate vaporiza atacatorii."
+msgstr "...Programatorul: creatorul inteligenței artificiale care controlează Acoliții. Distruge-l, și vom nimicii trupele Ordinului cu o singură lovitură: avem rapoarte care spun că poate vaporiza atacatorii."
 
 msgid "TXT_SUB_MAP10_1"
 msgstr ""
@@ -3839,16 +3845,18 @@ msgstr ""
 msgid "TXT_SUB_LOG16"
 msgstr "Depozitul e în stația de energie. Scurt și dulce."
 
+#, fuzzy
 msgid "TXT_SUB_LOG17"
 msgstr "N-am crezut că o să intru într-o închisoare..."
 
 msgid "TXT_SUB_LOG18"
 msgstr "Presupun că nu e niciun prânz gratuit. Timpul să ne pregătim."
 
+#, fuzzy
 msgid "TXT_SUB_LOG19"
-msgstr ""
-"OK. L-ai mulțumit pe Guvernator, împrăștiat pe Director... acum se pare că trebuie să faci niște chirurgie."
+msgstr "OK. L-ai mulțumit pe Guvernator, împrăștiat pe Director... acum se pare că trebuie să faci niște chirurgie."
 
+#, fuzzy
 msgid "TXT_SUB_LOG20"
 msgstr "Oh i-ai tăiat mâna! Și credeam că ești de treabă... oarecum. Să mergem."
 
@@ -3872,9 +3880,9 @@ msgid "TXT_SUB_LOG26"
 msgstr ""
 "Ordinul crede că e în siguranță în castel. Greșit! Dacă deschizi porțile, vor fi victime ușoare. Pentru asta, va trebui să mergi în canale. Urmează râul până la complexul Guvernatorului. "
 
+#, fuzzy
 msgid "TXT_SUB_LOG27"
-msgstr ""
-"OK, ghemuiește-te aici. Locuitorii canalelor sunt mutanți oribili, dar rețeaua lor de tunele le dă acces la secrete.... Mergem înăuntru."
+msgstr "OK, ghemuiește-te aici. Locuitorii canalelor sunt mutanți oribili, dar rețeaua lor de tunele le dă acces la secrete.... Mergem înăuntru."
 
 msgid "TXT_SUB_LOG28"
 msgstr ""
@@ -3889,9 +3897,9 @@ msgstr "Exact ce îmi trebuie. Mai multă mâzgă maro!"
 msgid "TXT_SUB_LOG31"
 msgstr "Hei, uite! Acolo cred că e ușa pe care o vrea Weran!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG32"
-msgstr ""
-"Închide ochii! Nu vreau să văd! Oh... prea târziu... Yuck. Nu pare un cadavru uman. Ce a făcut Ordinul? Trebuie să raportez asta."
+msgstr "Închide ochii! Nu vreau să văd! Oh... prea târziu... Yuck. Nu pare un cadavru uman. Ce a făcut Ordinul? Trebuie să raportez asta."
 
 msgid "TXT_SUB_LOG33"
 msgstr "De ce nu putem avea o misiune pe un câmp de flori măcar odată?"
@@ -3903,6 +3911,7 @@ msgstr ""
 msgid "TXT_SUB_LOG35"
 msgstr "Nu mă întreba unde suntem, și eu sunt pierdut. Scuze."
 
+#, fuzzy
 msgid "TXT_SUB_LOG36"
 msgstr "Cărămida aceea... Nu am trecut de ea? Nu..."
 
@@ -3917,6 +3926,7 @@ msgstr ""
 msgid "TXT_SUB_LOG39"
 msgstr "Ah, e bine că mă regăsesc din nou pe partea ofensivă. Dați-le bătaie!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG40"
 msgstr "Arată bine. Calculatoare... Programator... Ce zici?"
 
@@ -3924,9 +3934,9 @@ msgid "TXT_SUB_LOG41"
 msgstr ""
 "Ăsta trebuie să fie holul lung. Fie asta, fie capacitatea mea de a aprecia scara e varză."
 
+#, fuzzy
 msgid "TXT_SUB_LOG42"
-msgstr ""
-"Ăsta e însemnul unui templu malefic. Arhitectura, steagurile... Eu zic bingo!"
+msgstr "Ăsta e însemnul unui templu malefic. Arhitectura, steagurile... Eu zic bingo!"
 
 msgid "TXT_SUB_LOG43"
 msgstr "Ăsta e marele Programator? Nici vorbă!"
@@ -4093,12 +4103,14 @@ msgid "TXT_SUB_LOG89"
 msgstr ""
 "Fabrica e lângă mine. Richter probabil s-a referit la minele de Degnin. Mineralul de Degnin e magnetic și exploziv, exact ce ne trebuie pentru scuturi."
 
+#, fuzzy
 msgid "TXT_SUB_LOG90"
 msgstr "Mine, catacombe, canale... Ce întâlnire!"
 
 msgid "TXT_SUB_LOG91"
 msgstr "Îmi doresc ca Richter să fii fost mai specific. Să încercăm acolo."
 
+#, fuzzy
 msgid "TXT_SUB_LOG92"
 msgstr "Cred că suntem... Oh, la naiba. Nu știu unde suntem."
 
@@ -4137,9 +4149,9 @@ msgstr "Scuze, eroule, asta e nou pentru mine."
 msgid "TXT_SUB_LOG102"
 msgstr "Citesc distorsiuni neurale masive drept din față. Cred că am găsit-o."
 
+#, fuzzy
 msgid "TXT_SUB_LOG103"
-msgstr ""
-"Tocmai când credeam că am văzut tot! Intră oameni și ies... nici nu vreau să mă gândesc."
+msgstr "Tocmai când credeam că am văzut tot! Intră oameni și ies... nici nu vreau să mă gândesc."
 
 msgid "TXT_SUB_LOG104"
 msgstr ""
@@ -4171,9 +4183,9 @@ msgid "TXT_SUB_LOG129"
 msgstr ""
 "Adevărul poate fi găsit doar în voința universală. Vei cădea în genunchi în fața Adevăratului Zeu, Singura Lumină. Alătură-mi-te și voi completa Sigiliul. M-am săturat de vorbitul ăsta mistic duplicitar."
 
+#, fuzzy
 msgid "TXT_SUB_LOG130"
-msgstr ""
-"Tu... Tu mi-ai strivit Ordinul, și mi-ai amenințat secole de dorință. Dar voi învinge, te voi infecta și îți voi pervertii voința..."
+msgstr "Tu... Tu mi-ai strivit Ordinul, și mi-ai amenințat secole de dorință. Dar voi învinge, te voi infecta și îți voi pervertii voința..."
 
 msgid "TXT_SUB_LOG200"
 msgstr "Sună a vis, nu?"
@@ -4184,6 +4196,7 @@ msgstr "Ai văzut prea mult. Îngheață-l, Macil!"
 msgid "TXT_SUB_LOG202"
 msgstr "Data viitoare, o să mă asculți."
 
+#, fuzzy
 msgid "TXT_SUB_LOG203"
 msgstr "Ugh, prețurile ăstea post-apocaliptice..."
 
@@ -4232,9 +4245,11 @@ msgstr "Ooh. Îmi place cum te descuri."
 msgid "TXT_SUB_LOG218"
 msgstr "La naiba! Nu sunt umane!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG219"
 msgstr "Wow, Acolit Înegrit! Noua senzație..."
 
+#, fuzzy
 msgid "TXT_SUB_LOG220"
 msgstr "Continuă să faci asta și o să orbești... dar îmi place."
 
@@ -4244,15 +4259,18 @@ msgstr "Cred că n-o să ne invite la cină!"
 msgid "TXT_SUB_LOG222"
 msgstr "Trebuie să ajungem la ultimul etaj."
 
+#, fuzzy
 msgid "TXT_SUB_LOG223"
 msgstr "Stai, asta pare interesant. Ia uite."
 
 msgid "TXT_SUB_LOG224"
 msgstr "Ugh. Tipul ăla mă sperie."
 
+#, fuzzy
 msgid "TXT_SUB_LOG225"
 msgstr "Stânga! Stânga!... Oh, cealaltă stânga!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG226"
 msgstr "Bărbat încăpățânat tipic... Asta dacă nu ești femeie."
 
@@ -4262,9 +4280,11 @@ msgstr "Puternic, brutal și silențios. Genul meu de partener."
 msgid "TXT_SUB_LOG228"
 msgstr "Bine! Am greșit!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG229"
 msgstr "Păcat că nu ne-am întâlnit... față în față."
 
+#, fuzzy
 msgid "TXT_SUB_LOG230"
 msgstr "Aveam visuri pentru tine... Rahatule..."
 
@@ -4275,9 +4295,9 @@ msgstr ""
 msgid "TXT_SUB_LOG232"
 msgstr "Bună treabă, prietene! E timpul să te aduc înăuntru!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG233"
-msgstr ""
-"Ai grijă la Cruciați. Sunt roboți imenși, și duri ca naiba. Nu știm absolut nimic despre armamentul lor, dar șansele sunt... nu ești pe măsura lor. Grijă."
+msgstr "Ai grijă la Cruciați. Sunt roboți imenși, și duri ca naiba. Nu știm absolut nimic despre armamentul lor, dar șansele sunt... nu ești pe măsura lor. Grijă."
 
 msgid "TXT_SUB_LOG234"
 msgstr ""
@@ -4289,9 +4309,9 @@ msgstr "Lași pe cineva să te vadă și-ți luăm capul."
 msgid "TXT_SUB_LOG236"
 msgstr "Imbecilule! Ne-ai dat de gol!"
 
+#, fuzzy
 msgid "TXT_SUB_LOG237"
-msgstr ""
-"Speram ca eu să te aștept în spatele ușii... dar trebuie să rămân în subteran. E timpul să ne cunoști liderul, Macil."
+msgstr "Speram ca eu să te aștept în spatele ușii... dar trebuie să rămân în subteran. E timpul să ne cunoști liderul, Macil."
 
 msgid "TXT_BBSUB_SCRIPT02_D57608_IFIKN"
 msgstr ""
@@ -4346,6 +4366,7 @@ msgstr "Grozav. Acum facem cumpărături pentru Regele Șobolanilor."
 msgid "TXT_BBSUB_SCRIPT06_D4548_OPENT"
 msgstr "Pun pariu că tipul ăsta mai și pute."
 
+#, fuzzy
 msgid "TXT_BBSUB_SCRIPT06_D9096_YOUHA"
 msgstr "Mai multe canale... Grozav. Mă întreb ce-o mai trăi jos aici."
 
@@ -4359,6 +4380,7 @@ msgid "TXT_BBSUB_SCRIPT10_D12128_THERE"
 msgstr ""
 "Biomecanic? Asta explică rezerva lor de trupe aproape infinită! Și atitudinea lor oribilă.\n"
 
+#, fuzzy
 msgid "TXT_BBSUB_SCRIPT10_D16676_IAMTH"
 msgstr "Dobitoc bolnav... Nimicește-l!"
 
@@ -4369,6 +4391,7 @@ msgid "TXT_BBSUB_SCRIPT17_D10612_OHSUR"
 msgstr ""
 "Uitându-ne la istoria recentă, cred că silențiozitatea iese din ecuație."
 
+#, fuzzy
 msgid "TXT_BBSUB_SCRIPT17_D13644_OHWEL"
 msgstr "Hmm. Nu-i deranj, nu mizerie, nu nimic... Adu-mi unul, te rog.\n"
 
