@@ -2,15 +2,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-05-11 03:44+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-05-14 02:11+0000\n"
+"Last-Translator: Arif Budiman <arifpedia@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/doom-engine-games/strife/id/>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2026.5-dev\n"
+"X-Generator: Weblate 2026.5.dev0\n"
 
 msgid "TXT_STRIFE_MAP01"
 msgstr "AREA 1: Tempat Suci"
@@ -512,9 +512,8 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT02_D25772_WHATS"
 msgstr "Ada kabar apa?"
 
-#, fuzzy
 msgid "TXT_RYES0_SCRIPT02_D25772_THEWO"
-msgstr "Kabarnya... Saluran pembuangan menyimpan lebih dari sekadar tikus dan robot."
+msgstr "Katanya… Selokan menyimpan lebih dari sekadar tikus dan robot."
 
 msgid "TXT_DLG_SCRIPT02_D27288_WHATC"
 msgstr "Apa yang bisa kulakukan untukmu sekarang?"
@@ -542,13 +541,11 @@ msgstr "Ordo itu lebih dari sekadar apa yang tampak di permukaan."
 msgid "TXT_RNO0_SCRIPT02_D28804_WELLT"
 msgstr "Kita bicara lagi kalau kamu sudah punya emas!"
 
-#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D30320_THATS"
-msgstr "Sudah ya kawan, sumur pengetahuan sudah kering. Aku sudah menceritakan lebih banyak dari yang seharusnya. Semoga beruntung... Dan jangan kembali lagi."
+msgstr "Sudah cukup, kawan, sumur pengetahuan ini telah kering. Aku sudah bilang lebih dari yang seharusnya. Semoga berhasil… Dan jangan kembali lagi."
 
-#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D31836_HEYIM"
-msgstr "Hei, aku hanya ada di sini untuk keadaan darurat. Kalau inti reaktor bocor, aku memastikan tidak ada yang masuk... atau keluar."
+msgstr "Hei, aku hanya ada di sini untuk keadaan darurat. Jika inti bocor, aku memastikan tidak ada yang masuk… atau keluar."
 
 msgid "TXT_DLG_SCRIPT02_D33352_WATCH"
 msgstr "Awas jalanmu, rakyat jelata!"
@@ -566,9 +563,8 @@ msgstr "Hei kamu, tidak ada yang boleh masuk ke sini. Pergi sana!"
 msgid "TXT_DLG_SCRIPT02_D39416_IRALE"
 msgstr "Irale akan membereskan semuanya untukmu!"
 
-#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D40932_IMKIN"
-msgstr "Aku semacam perantara bakat untuk para pemberontak. Seseorang sehebat kamu bisa menghasilkan banyak emas... kalau bergabung dengan orang-orang yang tepat."
+msgstr "Aku semacam perantara bakat untuk para pemberontak. Seseorang sehebat kamu bisa menghasilkan banyak emas… jika terhubung dengan orang yang tepat."
 
 msgid "TXT_RPLY0_SCRIPT02_D40932_IMINT"
 msgstr "Aku tertarik."
@@ -674,9 +670,8 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT02_D66704_FINEB"
 msgstr "Tidak masalah bagiku."
 
-#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D68220_SOYOU"
-msgstr "Jadi kamu yang bodoh itu yang mencuri piala? Aku akan menangkapmu sebagai pencuri pemberontak... Dengan demikian meningkatkan posisiku di hadapan Ordo. Bagaimana rasanya menjadi pion yang tidak sadar? Kuberi petunjuk, itu akan menyakitkan. "
+msgstr "Jadi kamu si bodoh yang mencuri piala itu? Aku akan menangkapmu sebagai pencuri pemberontak… sehingga meningkatkan posisiku di Ordo. Bagaimana rasanya menjadi bidak yang tidak sadar? Kuberi petunjuk, itu akan menyakitkan."
 
 msgid "TXT_RPLY0_SCRIPT02_D68220_ITSUC"
 msgstr "Menyebalkan!"
@@ -790,9 +785,8 @@ msgstr "Tentu saja!"
 msgid "TXT_RPLY1_SCRIPT02_D92476_NOAND"
 msgstr "Tidak, dan aku tidak memerlukannya!"
 
-#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D93992_SORRY"
-msgstr "Maaf! Aku tidak bermaksud... Silakan naik ke atas."
+msgstr "Maaf! Aku tidak bermaksud… Silakan langsung masuk."
 
 msgid "TXT_RPLY0_SCRIPT02_D93992_IKNEW"
 msgstr "Aku sudah mendugamu akan berkata begitu."
@@ -840,9 +834,8 @@ msgstr "Terima kasih"
 msgid "TXT_DLG_SCRIPT02_D104604_RELEA"
 msgstr "Lepaskan aku, biarkan orang tua ini sendirian."
 
-#, fuzzy
 msgid "TXT_DLG_SCRIPT03_D0_WELCO"
-msgstr "Selamat datang di secercah harapan terakhir. Hanya kita yang memiliki kehendak bebas untuk menentang Ordo. Kita memiliki pikiran-pikiran ilmiah paling tajam, dan banyak tenaga, tapi kita kekurangan satu orang yang benar-benar... Pemecah masalah, yang akan memberi kita keunggulan yang kita butuhkan. Bantulah kami."
+msgstr "Selamat datang di nyala harapan terakhir. Hanya kamilah yang memiliki kehendak bebas untuk melawan Ordo. Kami punya pikiran ilmiah terbaik dan banyak tenaga, tapi kami kekurangan satu… pemecah masalah sejati yang akan memberi kami keunggulan. Bantulah kami."
 
 msgid "TXT_RPLY0_SCRIPT03_D0_ALLRI"
 msgstr "Baiklah, aku terima."
@@ -1094,9 +1087,8 @@ msgid "TXT_DLG_SCRIPT03_D43964_WERET"
 msgstr ""
 "Kita mencoba mencari di mana mekanisme gerbang kastil berada, tapi sejauh ini kita belum berhasil."
 
-#, fuzzy
 msgid "TXT_DLG_SCRIPT03_D45480_DONTG"
-msgstr "Jangan sampai tertangkap. Aku sudah mendengar kisah-kisah mengerikan tentang apa yang mereka lakukan pada orang-orang kita setelah dipenjara. Mereka begitu saja menghilang... Tanpa jejak."
+msgstr "Jangan sampai tertangkap. Aku sudah mendengar kisah mengerikan tentang apa yang mereka lakukan pada orang-orang kita setelah dipenjara. Mereka hanya menghilang… tanpa jejak."
 
 msgid "TXT_DLG_SCRIPT03_D46996_HERES"
 msgstr ""
@@ -1232,9 +1224,8 @@ msgid "TXT_DLG_SCRIPT04_D37900_IFYOU"
 msgstr ""
 "Kalau kamu tidak segera bekerja, kamu akan ditembak juga. Gerakkan dirimu."
 
-#, fuzzy
 msgid "TXT_DLG_SCRIPT04_D39416_IDONT"
-msgstr "Aku tidak ingin terdengar mengkhawatirkan, tapi kalau mereka terus memaksa kristal tenaga ini sekeras ini, kristalnya akan retak, lalu pecah, lalu *boom*! ...Sekadar pikiran."
+msgstr "Aku tidak ingin terdengar mengkhawatirkan, tapi jika mereka terus memaksa kristal daya ini sekeras ini, ia akan retak, lalu pecah, lalu *boom*! …Sekadar pikiran."
 
 msgid "TXT_DLG_SCRIPT04_D40932_LETME"
 msgstr ""
@@ -1412,9 +1403,8 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT06_D9096_ANYTH"
 msgstr "Ada hal lain yang bisa kamu lakukan?"
 
-#, fuzzy
 msgid "TXT_DLG_SCRIPT06_D10612_GOODL"
-msgstr "Semoga beruntung. Aku telah membuka beberapa terowongan kita untukmu. Itu seharusnya membuat tugasmu lebih mudah. Oh, ukuran sepuluh, pas! ...Tapi warnanya mengerikan."
+msgstr "Semoga berhasil. Aku telah membuka beberapa terowongan untuk kamu. Itu seharusnya mempermudah tugasmu. Oh, ukuran sepuluh, pas! …Tapi warnanya mengerikan."
 
 msgid "TXT_RPLY0_SCRIPT06_D10612_THANK"
 msgstr "Terima kasih atas bantuanmu."
@@ -1570,9 +1560,8 @@ msgstr "Mereka akan membayar untuk ini!"
 msgid "TXT_DLG_SCRIPT10_D15160_FIGHT"
 msgstr "Berjuanglah untuk Front dan kebebasan. Bergerak."
 
-#, fuzzy
 msgid "TXT_DLG_SCRIPT10_D16676_IAMTH"
-msgstr "Akulah Tuhan Yang Esa... Aku butuh rohnya untuk bebas agar aku bisa meninggalkan tubuhku, dan bergabung dengannya dalam penerbangan. Kamu tidak tahu apa yang kamu miliki... Dan teror apa yang kamu hadapi... Tuhan Yang Esa harus bebas... Dan dia akan memberiku hadiah... Aku akan menjadi satu..."
+msgstr "Aku adalah Satu Tuhan… Aku butuh rohnya bebas agar aku bisa meninggalkan tubuhku dan bergabung dengannya dalam penerbangan. Kamu tidak tahu apa yang kamu miliki… dan teror apa yang kamu hadapi… Satu Tuhan harus bebas… Dan dia akan memberiku hadiah… Aku akan menjadi satu…"
 
 msgid "TXT_RPLY0_SCRIPT10_D16676_IWILL"
 msgstr "Aku akan menghancurkanmu!"
@@ -1918,9 +1907,8 @@ msgstr "Teruskan kerja bagusnya, kita tidak akan bisa melakukannya tanpamu."
 msgid "TXT_DLG_SCRIPT11_D0_IMTHE"
 msgstr "Akulah sang penjaga kunci."
 
-#, fuzzy
 msgid "TXT_DLG_SCRIPT11_D1516_ALOTO"
-msgstr "Banyak orang akan bilang ini pekerjaan yang tidak dihargai dan tidak penting. Tapi tidak, sebenarnya..."
+msgstr "Banyak orang akan berkata ini adalah pekerjaan yang tidak dihargai dan tidak penting. Tapi sebenarnya tidak…"
 
 msgid "TXT_RPLY0_SCRIPT11_D1516_GIVEM"
 msgstr "Berikan kuncinya padaku!"
@@ -2014,9 +2002,8 @@ msgstr "Aku akan kembali, dengan bagiannya!"
 msgid "TXT_DLG_SCRIPT12_D13644_THERI"
 msgstr "Sungai waktu terus mengalir maju, sementara kamu berdiam diri."
 
-#, fuzzy
 msgid "TXT_DLG_SCRIPT12_D15160_PITIF"
-msgstr "Manusia yang menyedihkan, kamu telah melakukan apa yang gagal dilakukan oleh ribuan orang... Kamu membawakan aku kekuatan Sigil, suara Tuhan Yang Esa."
+msgstr "Manusia menyedihkan, kamu telah melakukan apa yang ribuan orang gagal lakukan… Kamu membawaku kekuatan Sigil, suara Satu Tuhan."
 
 msgid "TXT_RPLY0_SCRIPT12_D15160_IDONT"
 msgstr "Aku tidak mengerti."
@@ -2109,9 +2096,8 @@ msgstr "Sungguh sosok yang sehat. Kamu tidak butuh bantuanku, bukan?"
 msgid "TXT_RPLY0_SCRIPT17_D6064_WELLY"
 msgstr "Yah, iya. Macil mengutusku."
 
-#, fuzzy
 msgid "TXT_DLG_SCRIPT17_D7580_SHHHH"
-msgstr "Sssttt... Jaga suaramu, kecuali kamu mau kita berdua terbunuh. Nah, apa yang bisa kulakukan untukmu?"
+msgstr "Ssshh… Diam, kecuali kamu ingin kita berdua terbunuh. Sekarang, apa yang bisa kulakukan untukmu?"
 
 msgid "TXT_RPLY0_SCRIPT17_D7580_TELLM"
 msgstr "Ceritakan cara menemukan Uskup."
@@ -2221,16 +2207,14 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT22_D1516_DOYOU"
 msgstr "Apakah kamu tahu apa yang ada di dalamnya?"
 
-#, fuzzy
 msgid "TXT_DLG_SCRIPT22_D3032_ITSAT"
-msgstr "Itu area rahasia tingkat tinggi. Tidak hanya Ordo yang membiakkan semacam... makhluk di sana, aku sendiri pernah melihat dengan mataku sendiri sebuah artefak aneh yang disebut Talisman. Tidak ada yang boleh mendekatinya. Kabarnya benda itu memiliki kekuatan besar kalau disatukan dengan dua lainnya yang sejenis."
+msgstr "Itu area rahasia tingkat tinggi. Bukan hanya Ordo yang membiakkan semacam… makhluk di sana, aku juga telah melihat dengan mata kepalaku sendiri sebuah artefak aneh bernama Talisman. Tidak ada yang boleh mendekatinya. Kabarnya ia menyimpan kekuatan besar jika disatukan dengan dua lainnya yang sejenis."
 
 msgid "TXT_RPLY0_SCRIPT22_D3032_ISUPP"
 msgstr "Kurasa kamu menginginkan benda itu?"
 
-#, fuzzy
 msgid "TXT_DLG_SCRIPT22_D4548_NOIFY"
-msgstr "Tidak! Kalau kamu bisa menemukannya, itu milikmu. Mungkin kamu bisa menggunakannya untuk membebaskan kita dari penindasan ini. Aku ingin mendoakanmu beruntung, tapi kamu akan butuh jauh lebih dari itu kalau masuk ke sana..."
+msgstr "Tidak! Jika kamu bisa menemukannya, itu milikmu. Mungkin kamu bisa menggunakannya untuk membantu membebaskan kami dari penindasan ini. Aku ingin mendoakan keberuntunganmu, tapi kamu butuh jauh lebih dari itu jika masuk ke sana…"
 
 msgid "TXT_RPLY0_SCRIPT22_D4548_WHATS"
 msgstr "Apa maksud semua ini tentang masa lalu?"
@@ -2239,17 +2223,15 @@ msgid "TXT_DLG_SCRIPT22_D6064_YOUVE"
 msgstr ""
 "Pasti kamu sudah melihat reruntuhan lain di sekitar sini. Tampaknya komet yang jatuh di planet kita ini sebenarnya adalah sebuah kapal luar angkasa, dan percaya atau tidak, ia berasal dari dunia ini sendiri, jauh di masa lampau."
 
-#, fuzzy
 msgid "TXT_RPLY0_SCRIPT22_D6064_SOTHE"
-msgstr "Jadi para hantu, Tuhan Yang Esa..."
+msgstr "Jadi para hantu, Satu Tuhan…"
 
 msgid "TXT_DLG_SCRIPT22_D7580_THEYA"
 msgstr ""
 "Mereka adalah makhluk yang pernah menguasai dunia ini dan bertekad untuk menguras kehidupannya. Para leluhur berhasil mengurung mereka, tapi harus mengorbankan nyawa mereka dalam prosesnya. Sayangnya hanya itu yang aku tahu."
 
-#, fuzzy
 msgid "TXT_RPLY0_SCRIPT22_D7580_THANK"
-msgstr "Terima kasih... Aku akan melakukan apa yang bisa kulakukan."
+msgstr "Terima kasih… Aku akan lakukan apa yang bisa kulakukan."
 
 msgid "TXT_DLG_SCRIPT22_D9096_GODSP"
 msgstr "Semoga Tuhan menyertaimu, kawan."
@@ -2463,9 +2445,8 @@ msgid "TXT_DLG_SCRIPT23_D15160_THANK"
 msgstr ""
 "Syukurlah kamu akhirnya sampai di sini. Untuk masuk ke pabrik kamu butuh sebuah kunci. Kita sudah mencurinya tapi agen kita hilang di labirin katakombe di bawah benteng Ordo. Aku sudah mengirim sepuluh orang terbaik ke terowongan itu untuk menemukannya, dan tidak satu pun yang kembali. Ada sesuatu di bawah sana!"
 
-#, fuzzy
 msgid "TXT_RPLY0_SCRIPT23_D15160_WHATI"
-msgstr "Apa itu? Manusia atau... ?"
+msgstr "Apa itu? Manusia atau… ?"
 
 msgid "TXT_DLG_SCRIPT23_D16676_NOTDE"
 msgstr ""
@@ -2558,9 +2539,8 @@ msgid "TXT_DLG_SCRIPT23_D24256_THANK"
 msgstr ""
 "Syukurlah kamu akhirnya sampai di sini. Untuk masuk ke pabrik kamu butuh sebuah kunci. Kita sudah mencurinya tapi agen kita hilang di labirin katakombe di bawah benteng Ordo. Aku sudah mengirim sepuluh orang terbaik ke terowongan itu untuk menemukannya, dan tidak satu pun yang kembali. Ada sesuatu di bawah sana!"
 
-#, fuzzy
 msgid "TXT_RPLY0_SCRIPT23_D24256_WHATI"
-msgstr "Apa itu? Manusia atau... ?"
+msgstr "Apa itu? Manusia atau… ?"
 
 msgid "TXT_DLG_SCRIPT23_D25772_NOTDE"
 msgstr ""
@@ -2776,9 +2756,8 @@ msgid "TXT_DLG_SCRIPT33_D13644_THATS"
 msgstr ""
 "Sudah ya kawan, sumur pengetahuan sudah terkuras. Aku sudah menceritakan lebih banyak dari yang seharusnya bagaimanapun juga."
 
-#, fuzzy
 msgid "TXT_DLG_SCRIPT33_D15160_HARDT"
-msgstr "Susah berbelanja mainan baru... kalau kamu bangkrut. Lakukan sedikit pekerjaan untukku dan kamu akan mendapat lebih dari yang bisa kamu habiskan. Aku akan membuatmu kaya."
+msgstr "Sulit membeli mainan baru… kalau kantong kosong. Lakukan sedikit urusan untukku dan kamu akan mendapat lebih dari yang bisa kamu habiskan. Aku akan membuatmu kaya."
 
 msgid "TXT_RPLY0_SCRIPT33_D15160_IGOTN"
 msgstr "Tidak ada yang lebih baik untuk kulakukan."
@@ -2838,9 +2817,8 @@ msgstr "Apa yang kamu tunggu? Gubernur sendiri yang akan memberimu hadiah."
 msgid "TXT_DLG_SCRIPT33_D25772_DIETR"
 msgstr "Mati pengkhianat! "
 
-#, fuzzy
 msgid "TXT_DLG_SCRIPT33_D27288_SOYOU"
-msgstr "Jadi kamu yang bodoh itu yang mencuri piala? Aku akan menangkapmu sebagai pencuri pemberontak... Dengan demikian meningkatkan posisiku di hadapan Ordo. Bagaimana rasanya menjadi pion yang tidak sadar? "
+msgstr "Jadi kamu si bodoh yang mencuri piala itu? Aku akan menangkapmu sebagai pencuri pemberontak… sehingga meningkatkan posisiku di Ordo. Bagaimana rasanya menjadi bidak yang tidak sadar?"
 
 msgid "TXT_RPLY0_SCRIPT33_D27288_ITSUC"
 msgstr "Menyebalkan!"
@@ -3247,9 +3225,8 @@ msgstr "Terima kasih, sampai jumpa!"
 msgid "TXT_RANDOMGOODBYE_3"
 msgstr "Sampai nanti!"
 
-#, fuzzy
 msgid "TXT_ILOG1"
-msgstr "Halo? Komando, sebuah unit komunikasi baru saja diaktifkan... Menerima visual dan suara dari... seseorang... Hei kamu, keluar dari sana sekarang... dan jatuhkan pialanya!"
+msgstr "Halo? Komando, sebuah unit komunikasi baru saja diaktifkan… Menerima visual dan suara dari… seseorang… Hei kamu, segera keluar dari sana… dan letakkan pialanya!"
 
 msgid "TXT_ILOG2"
 msgstr ""
@@ -3454,9 +3431,8 @@ msgid "TXT_ILOG102"
 msgstr ""
 "Aku mendeteksi distorsi gelombang saraf yang masif tepat di depan. Kurasa kita sudah menemukannya. Mari masuk ke sana dan matikan!"
 
-#, fuzzy
 msgid "TXT_ILOG103"
-msgstr "Tepat ketika kupikir kita sudah melihat segalanya! Mereka masuk sebagai manusia dan keluar menjadi... Aku bahkan tidak mau memikirkannya. Hancurkan kengerian ini!"
+msgstr "Tepat saat kukira kita sudah melihat segalanya! Mereka masuk sebagai manusia dan keluar sebagai… Aku bahkan tidak mau memikirkannya. Hancurkan kengerian ini!"
 
 msgid "TXT_ILOG104"
 msgstr ""
@@ -3571,13 +3547,11 @@ msgid "TXT_ILOG1024"
 msgstr ""
 "Oracle-lah yang memegang bagian ketiga. Di sanalah pengkhianatmu. Kembalilah ke Oracle, dan habisi dia. Kembalilah kepadaku setelah dia mati."
 
-#, fuzzy
 msgid "TXT_ILOG1025"
-msgstr "Kamu telah memotong kanker dari tubuhmu, tapi jantungmu masih berdetak. Selanjutnya kamu harus menemukan sang ahli bedah yang menyembelih dan mengendalikan orang-orang kamu... Sang Loremaster. Hentikan dia, dan bagian berikutnya akan menjadi milikmu."
+msgstr "Kamu telah memotong kanker dari tubuhmu, tapi jantungmu masih berdetak. Selanjutnya kamu harus menemukan sang ahli bedah yang menyiksa dan mengendalikan rakyatmu… Sang Loremaster. Hentikan dia, dan potongan berikutnya akan menjadi milikmu."
 
-#, fuzzy
 msgid "TXT_ILOG1026"
-msgstr "Selanjutnya kamu harus menemukan sang ahli bedah yang menyembelih dan mengendalikan orang-orang kamu... Sang Loremaster. Hentikan dia, dan bagian berikutnya akan menjadi milikmu. Gunakan teleporter yang aku buka untuk mencapainya. Ketika dia sudah mati, gunakan perangkat yang sama untuk kembali kepadaku."
+msgstr "Selanjutnya kamu harus menemukan sang ahli bedah yang menyiksa dan mengendalikan rakyatmu… Sang Loremaster. Hentikan dia, dan potongan berikutnya akan menjadi milikmu. Gunakan teleporter yang kubuka untuk mencapainya. Setelah dia mati, gunakan perangkat yang sama untuk kembali kepadaku."
 
 msgid "TXT_ILOG1027"
 msgstr ""
@@ -3824,9 +3798,8 @@ msgid "TXT_SUB_GOOD2"
 msgstr ""
 "Aku tahu kamu akan menang, pahlawanku yang gagah berani. Semua pertempuran telah berhenti. Kemenanganmu akan memungkinkan kita menciptakan vaksin untuk membersihkan virus dari tubuh kita."
 
-#, fuzzy
 msgid "TXT_SUB_GOOD3"
-msgstr "Kamu telah menyelamatkan planet kita dan membebaskan kita semua. Sekarang aku ingin berterima kasih kepadamu... secara pribadi. Oh, dan omong-omong: namaku Shauna."
+msgstr "Kamu telah menyelamatkan planet kita dan membebaskan kami. Sekarang aku ingin berterima kasih… secara pribadi. Oh, dan omong-omong: namaku Shauna."
 
 msgid "TXT_SUB_SAD1"
 msgstr ""
@@ -3860,13 +3833,11 @@ msgid "TXT_SUB_MAP03_2"
 msgstr ""
 "Tanpa reproduksi, Ordo menemukan bahwa peningkatan bio-mekanikal adalah satu-satunya cara untuk mempertahankan kekuatan dan jumlah mereka."
 
-#, fuzzy
 msgid "TXT_SUB_MAP03_3"
-msgstr "Pembusukan telah berkembang sedemikian rupa sehingga sebagian besar pasukan yang kita hadapi lebih banyak berupa mesin daripada manusia, tapi kami percaya bahwa kesadaran kolektif mereka dikendalikan oleh satu sumber..."
+msgstr "Pembusukan telah sedemikian jauh sehingga sebagian besar pasukan yang kita hadapi lebih banyak mesin daripada manusia, tapi kami percaya kesadaran kolektif mereka dikendalikan oleh satu sumber…"
 
-#, fuzzy
 msgid "TXT_SUB_MAP03_4"
-msgstr "...sang Programmer: pencipta AI yang mengendalikan para Akolit. Hancurkan Programmer, dan kita mungkin bisa melumpuhkan pasukan Ordo dengan satu pukulan. Tapi hati-hati: kami mendapat laporan bahwa dia bisa menguapkan para penyerang."
+msgstr "…sang Programmer: pencipta AI yang mengendalikan para Akolit. Hancurkan sang Programmer, dan kita mungkin bisa melumpuhkan pasukan Ordo dengan satu pukulan. Tapi berhati-hatilah: kami mendapat laporan bahwa dia bisa menguapkan penyerang."
 
 msgid "TXT_SUB_MAP10_1"
 msgstr ""
@@ -3942,20 +3913,17 @@ msgstr ""
 msgid "TXT_SUB_LOG16"
 msgstr "Gudangnya ada di stasiun tenaga. Mari kita selesaikan ini dengan cepat."
 
-#, fuzzy
 msgid "TXT_SUB_LOG17"
-msgstr "Tidak pernah kubayangkan aku akan masuk ke penjara secara ilegal..."
+msgstr "Aku tidak pernah menyangka akan masuk ke dalam penjara…"
 
 msgid "TXT_SUB_LOG18"
 msgstr "Rupanya tidak ada yang gratis. Waktunya bersiap tempur."
 
-#, fuzzy
 msgid "TXT_SUB_LOG19"
-msgstr "Oke. Kamu sudah menyenangkan Gubernur, menghajar Sipir... Sekarang sepertinya kita harus melakukan sedikit operasi."
+msgstr "Oke. Kamu sudah menyenangkan Gubernur, melenyapkan Penjaga… Sekarang sepertinya kita harus melakukan sedikit operasi."
 
-#, fuzzy
 msgid "TXT_SUB_LOG20"
-msgstr "Oh kamu memotong tangannya! Dan aku pikir kamu orang yang baik... lumayan. Mari pergi."
+msgstr "Oh kamu memotong tangannya! Dan aku kira kamu orang yang baik… lumayan. Ayo pergi."
 
 msgid "TXT_SUB_LOG21"
 msgstr ""
@@ -3976,9 +3944,8 @@ msgid "TXT_SUB_LOG26"
 msgstr ""
 "Ordo mengira kastilnya sudah aman. Salah! Kalau kamu membuka gerbangnya, mereka akan mudah dikalahkan. Dan untuk itu, kamu harus turun ke saluran pembuangan. Ikuti sungai di seberang kediaman Gubernur. "
 
-#, fuzzy
 msgid "TXT_SUB_LOG27"
-msgstr "Oke, masuk ke sini. Para penghuni saluran pembuangan adalah mutan yang mengerikan, tapi jaringan terowongan mereka memberi mereka akses ke berbagai rahasia. Tahan napasmu... Kita akan turun ke bawah."
+msgstr "Oke, masuk ke sini. Penghuni selokan adalah mutan mengerikan, tapi jaringan terowongan mereka memberi akses ke rahasia-rahasia. Tutup hidungmu… Kita turun."
 
 msgid "TXT_SUB_LOG28"
 msgstr ""
@@ -3994,9 +3961,8 @@ msgstr "Tepat seperti yang kubutuhkan. Lebih banyak cairan cokelat!"
 msgid "TXT_SUB_LOG31"
 msgstr "Hei, lihat! Kurasa itulah pintu yang ingin Weran buka!"
 
-#, fuzzy
 msgid "TXT_SUB_LOG32"
-msgstr "Tutup matamu! Aku tidak mau melihat! Oh, terlambat... Menjijikkan. Itu tidak terlihat seperti tubuh manusia. Apa yang telah Ordo lakukan? Aku harus melaporkan ini ke komando."
+msgstr "Tutup matamu! Aku tidak mau melihat! Oh, terlambat… Menjijikkan. Itu tidak terlihat seperti tubuh manusia. Apa yang telah dilakukan Ordo? Aku harus melaporkan ini ke komando."
 
 msgid "TXT_SUB_LOG33"
 msgstr "Kenapa kita tidak bisa sekali saja menjalankan misi di padang bunga?"
@@ -4008,9 +3974,8 @@ msgstr ""
 msgid "TXT_SUB_LOG35"
 msgstr "Jangan tanya aku di mana kita berada. Aku juga tersesat. Maaf."
 
-#, fuzzy
 msgid "TXT_SUB_LOG36"
-msgstr "Bata itu... Bukankah kita sudah melewati bata itu? Tidak..."
+msgstr "Bata itu… Bukankah kita sudah melewati bata itu? Tidak…"
 
 msgid "TXT_SUB_LOG37"
 msgstr ""
@@ -4023,16 +3988,14 @@ msgstr ""
 msgid "TXT_SUB_LOG39"
 msgstr "Ah, senang rasanya kembali menyerang. Hajar mereka habis-habisan!"
 
-#, fuzzy
 msgid "TXT_SUB_LOG40"
-msgstr "Ini terlihat bagus. Komputer... Programmer... Menurutmu bagaimana?"
+msgstr "Ini terlihat bagus. Komputer… Programmer… Menurutmu bagaimana?"
 
 msgid "TXT_SUB_LOG41"
 msgstr "Ini pasti lorong panjangnya. Atau mungkin indera skalaku sudah kacau."
 
-#, fuzzy
 msgid "TXT_SUB_LOG42"
-msgstr "Ini semua ciri-ciri kuil kejahatan. Arsitektur yang tegas, spanduk besar... Aku rasa ini tempatnya!"
+msgstr "Ini semua ciri khas kuil kejahatan. Arsitektur yang seram, spanduk besar… Aku rasa tepat sekali!"
 
 msgid "TXT_SUB_LOG43"
 msgstr "Ini Programmer yang maha agung itu? Tidak mungkin!"
@@ -4208,16 +4171,14 @@ msgid "TXT_SUB_LOG89"
 msgstr ""
 "Pabrik ada di sebelah tambang. Richter pasti maksudnya tambang Degnin. Bijih Degnin itu magnetis dan eksplosif, cocok untuk mematikan medan gaya."
 
-#, fuzzy
 msgid "TXT_SUB_LOG90"
-msgstr "Tambang, katakombe, saluran pembuangan... Kencan pertama yang luar biasa!"
+msgstr "Tambang, katakombe, selokan… Kencan pertama yang luar biasa!"
 
 msgid "TXT_SUB_LOG91"
 msgstr "Seandainya Richter sedikit lebih spesifik. Hm, mari kita coba ke sana."
 
-#, fuzzy
 msgid "TXT_SUB_LOG92"
-msgstr "Kurasa kita... Oh, sial. Aku sama sekali tidak tahu di mana kita berada."
+msgstr "Menurutku kita… Oh, sialan. Aku tidak tahu sama sekali di mana kita berada."
 
 msgid "TXT_SUB_LOG93"
 msgstr ""
@@ -4256,9 +4217,8 @@ msgid "TXT_SUB_LOG102"
 msgstr ""
 "Aku mendeteksi distorsi gelombang saraf yang masif tepat di depan. Kurasa kita sudah menemukannya."
 
-#, fuzzy
 msgid "TXT_SUB_LOG103"
-msgstr "Tepat ketika kupikir kita sudah melihat segalanya! Mereka masuk sebagai manusia dan keluar menjadi... Aku bahkan tidak mau memikirkannya."
+msgstr "Tepat saat kukira kita sudah melihat segalanya! Mereka masuk sebagai manusia dan keluar sebagai… Aku bahkan tidak mau memikirkannya."
 
 msgid "TXT_SUB_LOG104"
 msgstr ""
@@ -4294,9 +4254,8 @@ msgstr ""
 "Kebenaran hanya bisa ditemukan dalam kehendak universal. Kamu akan berlutut di hadapan Tuhan Sejati, Cahaya Yang Esa. Bergabunglah denganku dan aku akan melengkapi Sigil.\n"
 "Aku sudah muak dengan omong kosong mistis ini."
 
-#, fuzzy
 msgid "TXT_SUB_LOG130"
-msgstr "Kamu... Kamu telah menghancurkan Ordoku, menembus tipu dayaku dan mengancam keinginan berabad-abad. Tapi aku akan menang, aku akan menginfeksimu dan memelintirmu mengikuti kehendakku..."
+msgstr "Kamu… Kamu telah menghancurkan Ordoku, menembus tipu dayaku dan mengancam hasrat berabad-abad. Tapi aku akan menang, aku akan menginfeksimu dan membelokkanmu sesuai kehendakku…"
 
 msgid "TXT_SUB_LOG200"
 msgstr "Kedengarannya seperti pekerjaan impian, bukan?"
@@ -4307,9 +4266,8 @@ msgstr "Kamu sudah tahu terlalu banyak. Habisi dia, Macil!"
 msgid "TXT_SUB_LOG202"
 msgstr "Lain kali, kamu akan mendengarkanku."
 
-#, fuzzy
 msgid "TXT_SUB_LOG203"
-msgstr "Ugh, harga-harga pasca-apokalips ini..."
+msgstr "Ugh, harga-harga pasca-apokalipsis ini…"
 
 msgid "TXT_SUB_LOG204"
 msgstr "Ambil yang besar. Dia tidak akan menghentikanmu."
@@ -4356,13 +4314,11 @@ msgstr "Mm. Aku suka cara kamu membawa dirimu."
 msgid "TXT_SUB_LOG218"
 msgstr "Tembak saja! Mereka bukan manusia!"
 
-#, fuzzy
 msgid "TXT_SUB_LOG219"
-msgstr "Wow! Akolit Gosong! Sensasi rasa baru..."
+msgstr "Wow! Akolit Hangus! Sensasi rasa baru…"
 
-#, fuzzy
 msgid "TXT_SUB_LOG220"
-msgstr "Terus lakukan itu dan kamu akan buta... tapi aku suka."
+msgstr "Terus lakukan itu dan kamu akan buta… tapi aku suka."
 
 msgid "TXT_SUB_LOG221"
 msgstr "Kurasa mereka tidak akan mengundang kita makan malam lagi!"
@@ -4370,20 +4326,17 @@ msgstr "Kurasa mereka tidak akan mengundang kita makan malam lagi!"
 msgid "TXT_SUB_LOG222"
 msgstr "Kita perlu ke lantai paling atas."
 
-#, fuzzy
 msgid "TXT_SUB_LOG223"
-msgstr "Tunggu... Ini terlihat menarik. Coba lihat."
+msgstr "Tunggu… Ini terlihat menarik. Lihat ini."
 
 msgid "TXT_SUB_LOG224"
 msgstr "Ugh. Orang itu membuat merinding. Mari kita hindari."
 
-#, fuzzy
 msgid "TXT_SUB_LOG225"
-msgstr "Kiri! Belok kiri!... Oh, kiri yang satunya!"
+msgstr "Kiri! Belok kiri!… Oh, kiri yang satunya!"
 
-#, fuzzy
 msgid "TXT_SUB_LOG226"
-msgstr "Laki-laki keras kepala yang tipikal!... Kecuali kalau kamu perempuan."
+msgstr "Laki-laki keras kepala yang tipikal!… Kecuali kalau kamu perempuan."
 
 msgid "TXT_SUB_LOG227"
 msgstr "Kuat, brutal dan pendiam. Mitra yang kusukai."
@@ -4391,13 +4344,11 @@ msgstr "Kuat, brutal dan pendiam. Mitra yang kusukai."
 msgid "TXT_SUB_LOG228"
 msgstr "Oke! Aku salah!"
 
-#, fuzzy
 msgid "TXT_SUB_LOG229"
-msgstr "Sayang sekali kita tidak pernah bertemu... langsung bertatap muka."
+msgstr "Sayang sekali kita tidak pernah bertemu… langsung bertatap muka."
 
-#, fuzzy
 msgid "TXT_SUB_LOG230"
-msgstr "Aku punya impian untukmu... Sayang sekali."
+msgstr "Aku punya impian untukmu… Sayang sekali."
 
 msgid "TXT_SUB_LOG231"
 msgstr ""
@@ -4406,9 +4357,8 @@ msgstr ""
 msgid "TXT_SUB_LOG232"
 msgstr "Kerja bagus, kawan! Saatnya membawamu masuk."
 
-#, fuzzy
 msgid "TXT_SUB_LOG233"
-msgstr "Hati-hati dengan para Crusader itu. Mereka robot-robot besar yang kokoh dan sangat berbahaya. Kita tidak tahu apa-apa tentang senjata mereka, tapi kemungkinan besar... kamu kalah kelas. Hati-hati."
+msgstr "Waspadai para Crusader itu. Mereka adalah robot besar dan berotot, serta kejam setengah mati. Kami tidak tahu apa-apa tentang senjata mereka, tapi kemungkinannya… kamu kalah. Hati-hati."
 
 msgid "TXT_SUB_LOG234"
 msgstr ""
@@ -4420,9 +4370,8 @@ msgstr "Kalau ada yang melihatmu, kami akan memenggal kepalamu."
 msgid "TXT_SUB_LOG236"
 msgstr "Kamu idiot, kikuk, dan tolol! Kamu telah membongkar kita!"
 
-#, fuzzy
 msgid "TXT_SUB_LOG237"
-msgstr "Seandainya aku bisa menunggumu di balik pintu itu... tapi aku harus tetap di bawah tanah. Saatnya kamu menemui pemimpin kita, Macil."
+msgstr "Aku berharap bisa menunggumu di balik pintu itu… tapi aku harus tetap di bawah tanah. Saatnya kamu bertemu pemimpin kita, Macil."
 
 msgid "TXT_BBSUB_SCRIPT02_D57608_IFIKN"
 msgstr ""
@@ -4479,9 +4428,8 @@ msgstr "Bagus. Sekarang kita belanja untuk Raja Tikus."
 msgid "TXT_BBSUB_SCRIPT06_D4548_OPENT"
 msgstr "Aku yakin orang ini juga sangat bau."
 
-#, fuzzy
 msgid "TXT_BBSUB_SCRIPT06_D9096_YOUHA"
-msgstr "Lebih banyak saluran pembuangan... Bagus. Penasaran apa yang tinggal di bawah sana."
+msgstr "Lebih banyak selokan… Luar biasa. Penasaran apa yang hidup di sana."
 
 msgid "TXT_BBSUB_SCRIPT07_D6064_PROGR"
 msgstr "Jalan buntu di sini. Kita harus terus mencari."
@@ -4493,9 +4441,8 @@ msgid "TXT_BBSUB_SCRIPT10_D12128_THERE"
 msgstr ""
 "Bio-mekanikal? Yah, itu menjelaskan pasokan pasukan mereka yang tampaknya tidak ada habisnya! Dan sikap buruk mereka.\n"
 
-#, fuzzy
 msgid "TXT_BBSUB_SCRIPT10_D16676_IAMTH"
-msgstr "Bajingan sakit jiwa... Habisi dia!"
+msgstr "Orang gila… Habisi dia!"
 
 msgid "TXT_BBSUB_SCRIPT12_D12128_USETH"
 msgstr "Mungkin dia jelek, tapi sepertinya dia ada di pihak kita."
@@ -4504,9 +4451,8 @@ msgid "TXT_BBSUB_SCRIPT17_D10612_OHSUR"
 msgstr ""
 "Menilai dari kejadian belakangan ini, kurasa menyamar sudah tidak relevan."
 
-#, fuzzy
 msgid "TXT_BBSUB_SCRIPT17_D13644_OHWEL"
-msgstr "Hmm. Tidak ada kekacauan, tidak ada kotoran, tidak ada yang perlu dibereskan ibu... Tolong ambilkan satu untukku.\n"
+msgstr "Hmm. Tidak berantakan, tidak merepotkan, tidak ada yang perlu dibersihkan ibu… Tolong carikan satu untukku.\n"
 
 msgid "TXT_BBSUB_SCRIPT31_D0_OHNOI"
 msgstr ""
