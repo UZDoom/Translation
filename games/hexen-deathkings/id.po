@@ -2,15 +2,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-05-11 03:44+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-05-14 02:11+0000\n"
+"Last-Translator: Arif Budiman <arifpedia@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/doom-engine-games/hexen-deathkings/id/>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2026.5-dev\n"
+"X-Generator: Weblate 2026.5.dev0\n"
 
 msgid "TXT_HEXDD_MAP41"
 msgstr "Desa yang Hancur"
@@ -225,16 +225,14 @@ msgstr "Dua pertiga teka-teki telah terpecahkan"
 msgid "TXT_ACS_MAP45_1_YOUHE"
 msgstr "Kamu mendengar sebuah platform bergerak di kejauhan"
 
-#, fuzzy
 msgid "TXT_ACS_MAP46_0_ITISD"
-msgstr "Sudah selesai..."
+msgstr "Sudah selesai…"
 
 msgid "TXT_ACS_MAP46_1_YOUHA"
 msgstr "Kamu belum menyelesaikan teka-teki"
 
-#, fuzzy
 msgid "TXT_ACS_MAP46_2_IMWAR"
-msgstr "Aku memperingatkanmu..."
+msgstr "Aku memperingatkanmu…"
 
 msgid "TXT_ACS_MAP46_3_STUBB"
 msgstr "Keras kepala, ya?"
@@ -245,9 +243,8 @@ msgstr "Dan bodoh pula"
 msgid "TXT_ACS_MAP46_8_ONEFO"
 msgstr "Seperempat teka-teki ini telah selesai"
 
-#, fuzzy
 msgid "TXT_ACS_MAP46_9_BADCH"
-msgstr "Pilihan yang buruk..."
+msgstr "Pilihan yang buruk…"
 
 msgid "TXT_ACS_MAP47_2_THESY"
 msgstr "Simbol-simbolnya tidak sejajar"
@@ -303,9 +300,8 @@ msgstr "Vorpal?!?!?!"
 msgid "TXT_ACS_MAP51_20_GIMME"
 msgstr "Kasih aku sedikit sayang, nak"
 
-#, fuzzy
 msgid "TXT_ACS_MAP51_21_DUHUH"
-msgstr "Duh-uhhh..."
+msgstr "Duh-uhhh…"
 
 msgid "TXT_ACS_MAP51_22_FILMI"
 msgstr "Film dalam sejam?"
@@ -343,13 +339,11 @@ msgstr "Jalan keluar terbuka"
 msgid "TXT_ACS_MAP54_1_THEDO"
 msgstr "Pintu-pintu tidak bisa dibuka dari sisi ini"
 
-#, fuzzy
 msgid "TXT_ACS_MAP54_4_THEDO"
-msgstr "Pintu-pintunya terbuka..."
+msgstr "Pintu-pintunya terbuka…"
 
-#, fuzzy
 msgid "TXT_ACS_MAP54_5_IFYOU"
-msgstr "...jika kamu sudah siap"
+msgstr "…jika kamu siap"
 
 msgid "TXT_ACS_MAP54_9_ADOOR"
 msgstr "Sebuah pintu telah terbuka"
