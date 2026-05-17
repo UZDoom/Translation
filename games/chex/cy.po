@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-05-16 23:11+0000\n"
+"PO-Revision-Date: 2026-05-17 02:11+0000\n"
 "Last-Translator: daioni <weblate@godspe.de>\n"
 "Language-Team: Welsh <https://hosted.weblate.org/projects/doom-engine-games/chex-quest/cy/>\n"
 "Language: cy\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Weblate 2026.6.dev0\n"
 
 msgid "TXT_CHEX_EP"
-msgstr ""
+msgstr "Cais Chex"
 
 # Flem = phlegm
 msgid "GOTBLUEFLEM"
@@ -51,7 +51,7 @@ msgstr "Rhaid i chi agoriad flem melyn i actifadu'r gwrthrych yma"
 
 msgctxt "chex"
 msgid "PICKUP_PISTOL_DROPPED"
-msgstr ""
+msgstr "Pigoch chi zorcher."
 
 msgctxt "chex"
 msgid "HUSTR_E1M1"
@@ -59,51 +59,51 @@ msgstr "E1M1: Lle Glanio"
 
 msgctxt "chex"
 msgid "HUSTR_E1M2"
-msgstr ""
+msgstr "E1M2: Storfa"
 
 msgctxt "chex"
 msgid "HUSTR_E1M3"
-msgstr ""
+msgstr "E1M3: Labordy"
 
 msgctxt "chex"
 msgid "HUSTR_E1M4"
-msgstr ""
+msgstr "E1M4: Arboretwm"
 
 msgctxt "chex"
 msgid "HUSTR_E1M5"
-msgstr ""
+msgstr "E1M5: Ogofydd Bazoik"
 
 msgctxt "chex"
 msgid "HUSTR_E2M1"
-msgstr ""
+msgstr "E2M1: Maes Gwagle"
 
 msgctxt "chex"
 msgid "HUSTR_E2M2"
-msgstr ""
+msgstr "E2M2: Tŷ Llun"
 
 msgctxt "chex"
 msgid "HUSTR_E2M3"
-msgstr ""
+msgstr "E2M3: Amgueddfa Chex"
 
 msgctxt "chex"
 msgid "HUSTR_E2M4"
-msgstr ""
+msgstr "E2M4: Ffyrdd Dinas"
 
 msgctxt "chex"
 msgid "HUSTR_E2M5"
-msgstr ""
+msgstr "E2M5: Canolffos"
 
 msgctxt "chex"
 msgid "HUSTR_E3M1"
-msgstr ""
+msgstr "E3M1: Gorchymyn Canol"
 
 msgctxt "chex"
 msgid "HUSTR_E3M2"
-msgstr ""
+msgstr "E3M2: Grawnfwyd Unigol"
 
 msgctxt "chex"
 msgid "HUSTR_E3M3"
-msgstr ""
+msgstr "E3M3: Fila Chex"
 
 msgctxt "chex"
 msgid "HUSTR_E3M4"
