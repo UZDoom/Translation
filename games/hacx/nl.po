@@ -2,15 +2,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-05-11 03:43+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-05-18 05:11+0000\n"
+"Last-Translator: hawkwind3 <hawkwinds_messages@hotmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/doom-engine-games/hacx-filter/nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2026.5-dev\n"
+"X-Generator: Weblate 2026.6.dev0\n"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG1"
@@ -257,6 +257,7 @@ msgstr "Je pakt een kist met rondes!"
 msgid "GOTTORPEDO"
 msgstr "Je pakt een Torpedo!"
 
+#, fuzzy
 msgid "GOTTORPEDOS"
 msgstr "Je pakt een kist Torpedo's!"
 
@@ -329,6 +330,7 @@ msgstr "Centrofenoxine"
 msgid "GOTKEVLARVEST"
 msgstr "Pak een Kevlar vest!"
 
+#, fuzzy
 msgid "GOTSKEVLARVEST"
 msgstr "Je pakt een Super Kevlar vest!"
 
