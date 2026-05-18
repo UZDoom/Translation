@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-05-18 05:12+0000\n"
-"Last-Translator: hawkwind3 <hawkwinds_messages@hotmail.com>\n"
+"PO-Revision-Date: 2026-05-18 13:11+0000\n"
+"Last-Translator: dwing <12104745@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/projects/doom-engine-games/hacx-filter/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
@@ -257,7 +257,6 @@ msgstr "你拿到了一箱弹药！"
 msgid "GOTTORPEDO"
 msgstr "你拿到了一枚鱼雷！"
 
-#, fuzzy
 msgid "GOTTORPEDOS"
 msgstr "你拿到了一箱鱼雷！"
 
@@ -330,9 +329,8 @@ msgstr "氯芬酯"
 msgid "GOTKEVLARVEST"
 msgstr "你拿到了一件凯夫拉背心！"
 
-#, fuzzy
 msgid "GOTSKEVLARVEST"
-msgstr "你拿到了超级凯夫拉背心！"
+msgstr "你拿到了一件超级凯夫拉背心！"
 
 msgid "GOTMICROKIT"
 msgstr "你拿到了一个微型急救包！"
