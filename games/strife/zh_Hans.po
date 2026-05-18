@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-05-11 14:11+0000\n"
+"PO-Revision-Date: 2026-05-18 13:11+0000\n"
 "Last-Translator: dwing <12104745@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/projects/doom-engine-games/strife/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2026.5-dev\n"
+"X-Generator: Weblate 2026.6.dev0\n"
 
 msgid "TXT_STRIFE_MAP01"
 msgstr "区域1：圣所"
@@ -128,8 +128,7 @@ msgstr "区域38：有序的混沌"
 
 # MAP01: Beldin.
 msgid "TXT_DLG_SCRIPT01_D0_IDONT"
-msgstr ""
-"我不想惹麻烦，离我远点。那个混蛋哈里斯对我做的事已经让我够烦了。他承诺给我钱，结果我得到的期待却是被那个程序员审问。"
+msgstr "我不想惹麻烦，离我远点。那个混蛋哈里斯对我做的事已经让我够烦了。他承诺给我钱，结果我得到的期待却是被那个程序员审问。"
 
 # MAP02: Guy next to Norwall Prison.
 msgid "TXT_DLG_SCRIPT02_D0_ILLHE"

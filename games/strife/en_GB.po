@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-05-17 02:11+0000\n"
-"Last-Translator: daioni <weblate@godspe.de>\n"
+"PO-Revision-Date: 2026-05-18 05:11+0000\n"
+"Last-Translator: hawkwind3 <hawkwinds_messages@hotmail.com>\n"
 "Language-Team: English (United Kingdom) <https://hosted.weblate.org/projects/doom-engine-games/strife/en_GB/>\n"
 "Language: en_GB\n"
 "MIME-Version: 1.0\n"
@@ -274,7 +274,7 @@ msgstr "AREA 38: Ordered Chaos"
 
 #, fuzzy
 msgid "TXT_DLG_SCRIPT01_D0_IDONT"
-msgstr "I don't want any trouble, stay away from me. I've had enough trouble with what that bastard Harris did to me. He promised me money, instead I get to look forward to being Questioned by the Programmer."
+msgstr "I don't want any trouble, stay away from me. I've had enough trouble with what that bastard Harris did to me. He promised me money, instead I get to look forward to being questioned by the Programmer."
 
 msgid "TXT_DLG_SCRIPT02_D0_ILLHE"
 msgstr "I'll help you if you help me. Five pieces of gold and I'll tell all I know."

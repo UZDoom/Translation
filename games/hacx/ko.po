@@ -2,15 +2,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-05-11 03:43+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-05-18 05:11+0000\n"
+"Last-Translator: hawkwind3 <hawkwinds_messages@hotmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/doom-engine-games/hacx-filter/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2026.5-dev\n"
+"X-Generator: Weblate 2026.6.dev0\n"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG1"
@@ -258,6 +258,7 @@ msgstr "권총 탄약 상자를 주웠다!"
 msgid "GOTTORPEDO"
 msgstr "광자탄을 주웠다!"
 
+#, fuzzy
 msgid "GOTTORPEDOS"
 msgstr "광자탄 무더기를 주웠다!"
 
@@ -330,6 +331,7 @@ msgstr "메클로페녹세이트!"
 msgid "GOTKEVLARVEST"
 msgstr "방탄복을 주웠다!"
 
+#, fuzzy
 msgid "GOTSKEVLARVEST"
 msgstr "중 방탄복을 주웠다!"
 
