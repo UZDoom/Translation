@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-05-18 05:12+0000\n"
-"Last-Translator: hawkwind3 <hawkwinds_messages@hotmail.com>\n"
+"PO-Revision-Date: 2026-05-18 13:11+0000\n"
+"Last-Translator: dwing <12104745@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/projects/doom-engine-games/strife/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
@@ -127,7 +127,6 @@ msgid "TXT_STRIFE_MAP38"
 msgstr "区域38：有序的混沌"
 
 # MAP01: Beldin.
-#, fuzzy
 msgid "TXT_DLG_SCRIPT01_D0_IDONT"
 msgstr "我不想惹麻烦，离我远点。那个混蛋哈里斯对我做的事已经让我够烦了。他承诺给我钱，结果我得到的期待却是被那个程序员审问。"
 
