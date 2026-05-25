@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-05-22 17:05+0000\n"
+"PO-Revision-Date: 2026-05-24 16:11+0000\n"
 "Last-Translator: pepper <2895954821@qq.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/doom-engine-games/chex-quest/vi/>\n"
 "Language: vi\n"
@@ -88,119 +88,121 @@ msgstr "E2M3:Bảo tàng Chex"
 
 msgctxt "chex"
 msgid "HUSTR_E2M4"
-msgstr ""
+msgstr "E2M4: Đường phố"
 
 msgctxt "chex"
 msgid "HUSTR_E2M5"
-msgstr ""
+msgstr "E2M5:Hệ thống cống ngầm"
 
 msgctxt "chex"
 msgid "HUSTR_E3M1"
-msgstr ""
+msgstr "E3M1:Bộ chỉ huy trung tâm"
 
 msgctxt "chex"
 msgid "HUSTR_E3M2"
-msgstr ""
+msgstr "E3M2:Cereals Thống nhất"
 
 msgctxt "chex"
 msgid "HUSTR_E3M3"
-msgstr ""
+msgstr "E3M3:Biệt thự Villa"
 
 msgctxt "chex"
 msgid "HUSTR_E3M4"
-msgstr ""
+msgstr "E3M4:Công viên tỉnh"
 
 msgctxt "chex"
 msgid "HUSTR_E3M5"
-msgstr ""
+msgstr "E3M5:Tàu vũ trụ sao băng"
 
 msgctxt "chex"
 msgid "CC_ZOMBIE"
-msgstr ""
+msgstr "Khu vực chung"
 
 msgctxt "chex"
 msgid "CC_SHOTGUN"
-msgstr ""
+msgstr "Sinh vật hai chân"
 
 msgctxt "chex"
 msgid "CC_IMP"
-msgstr ""
+msgstr "Sinh vật hai chân có giáp"
 
 msgctxt "chex"
 msgid "CC_DEMON"
-msgstr ""
+msgstr "Sinh vật bước dài"
 
 msgctxt "chex"
 msgid "CC_LOST"
-msgstr ""
+msgstr "Mìn Flem"
 
 msgctxt "chex"
 msgid "CC_CACO"
-msgstr ""
+msgstr "Siêu Cycloptis"
 
+#, fuzzy
 msgctxt "chex"
 msgid "CC_BARON"
-msgstr ""
+msgstr "Maximus"
 
 msgctxt "chex"
 msgid "CC_SPIDER"
-msgstr ""
+msgstr "Flembomination"
 
+#, fuzzy
 msgctxt "chex"
 msgid "CC_CYBER"
-msgstr ""
+msgstr "Lord Snotfolus"
 
 msgctxt "chex"
 msgid "CC_HERO"
-msgstr ""
+msgstr "Chiến binh Chẽ"
 
 msgctxt "chex"
 msgid "PD_BLUEC"
-msgstr ""
+msgstr "Cần chìa khóa màu xanh để mổ cừa"
 
 msgctxt "chex"
 msgid "PD_REDC"
-msgstr ""
+msgstr "Cần chìa khóa đỏ để mở cửa này"
 
 msgctxt "chex"
 msgid "PD_YELLOWC"
-msgstr ""
+msgstr "Cần chìa khóa vàng để mở cửa này"
 
 msgid "PD_BLUEF"
-msgstr ""
+msgstr "Cần chìa khóa xanh để mở cửa này"
 
 msgid "PD_REDF"
-msgstr ""
+msgstr "Cần chìa khóa đỏ để mở cửa này"
 
 msgid "PD_YELLOWF"
-msgstr ""
+msgstr "Cần chìa khóa vàng để mở cửa này"
 
 msgctxt "chex"
 msgid "OB_SLIME"
-msgstr ""
+msgstr "%o chìm xuống một đống chất nhờn."
 
 msgctxt "chex"
 msgid "OB_LAVA"
-msgstr ""
+msgstr "%o chìm xuống một đống chất nhờn."
 
 msgid "OB_POWERSTRAND"
-msgstr ""
+msgstr "%o trúng phải chất nhờn đa chiều!"
 
 msgctxt "chex"
 msgid "OB_KILLEDSELF"
-msgstr ""
+msgstr "%o trúng phải chất nhờn đa chiều!"
 
 msgid "OB_STRIDICUS"
-msgstr ""
+msgstr "%o bị tấn công bởi một Stridicus."
 
 msgid "OB_FLEMMINE"
-msgstr ""
+msgstr "%o bị trúng mìn Flem."
 
 msgid "OB_SUPERCYCLOPTIS"
-msgstr ""
+msgstr "%o bị trúng chất nhờn từ Siêu Cycloptis."
 
 msgid "OB_MAXIMUS"
-msgstr ""
+msgstr "%o bị đánh bại bởi một Maximus."
 
 msgid "OB_LARVA"
 msgstr ""
