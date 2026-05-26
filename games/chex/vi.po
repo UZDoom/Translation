@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-05-24 16:11+0000\n"
+"PO-Revision-Date: 2026-05-26 16:11+0000\n"
 "Last-Translator: pepper <2895954821@qq.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/doom-engine-games/chex-quest/vi/>\n"
 "Language: vi\n"
@@ -138,19 +138,17 @@ msgctxt "chex"
 msgid "CC_CACO"
 msgstr "Siêu Cycloptis"
 
-#, fuzzy
 msgctxt "chex"
 msgid "CC_BARON"
-msgstr "Maximus"
+msgstr "Tối đa"
 
 msgctxt "chex"
 msgid "CC_SPIDER"
 msgstr "Flembomination"
 
-#, fuzzy
 msgctxt "chex"
 msgid "CC_CYBER"
-msgstr "Lord Snotfolus"
+msgstr "Snotfolus Lãnh chúa"
 
 msgctxt "chex"
 msgid "CC_HERO"
@@ -205,24 +203,28 @@ msgid "OB_MAXIMUS"
 msgstr "%o bị đánh bại bởi một Maximus."
 
 msgid "OB_LARVA"
-msgstr ""
+msgstr "%o bị trúng chất nhờn từ một ấu trùng."
 
 msgid "OB_QUADRUMPUS"
-msgstr ""
+msgstr "%o bị trúng chất nhờn từ một Quadrumpus."
 
 msgid "OB_FLEMBOMINATION"
-msgstr ""
+msgstr "%o bị đánh bại bởi Flembomination."
 
 msgid "OB_SNOTFOLUS"
-msgstr ""
+msgstr "%o bị đánh bại bởi Snotfolus Lãnh chúa."
 
 msgctxt "chex"
 msgid "OB_MPR_SPLASH"
-msgstr ""
+msgstr "%o bị trúng bộ đẩy của %k."
 
 msgctxt "chex"
 msgid "E1TEXT"
 msgstr ""
+"Sau khi gửi con quái vật Flembrane khổng lồ về lại chiều không gian của nó,bạn.\n"
+"giải thoát cho những người bị giam cầm.\n"
+"Nhưng flemoids ở kháp mọi nơi!\n"
+"Bạn và những người được giải thoát chạy về phía tàu vũ trụ của mình,"
 
 msgctxt "chex"
 msgid "E2TEXT"
