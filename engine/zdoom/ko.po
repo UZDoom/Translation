@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-05-27 21:25+0000\n"
+"PO-Revision-Date: 2026-05-27 21:31+0000\n"
 "Last-Translator: Yu Ji Wan <z1wan@hanmail.net>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/ko/>\n"
 "Language: ko\n"
@@ -5331,4 +5331,52 @@ msgid "ACTION_RESTART"
 msgstr "재시작"
 
 msgid "ACTION_ABORT"
-msgstr "중단하다"
+msgstr "중단"
+
+msgid "ACTION_STARTGAME"
+msgstr "게임 시작"
+
+msgid "ACTION_KICK"
+msgstr "차기"
+
+msgid "ACTION_BAN"
+msgstr "밴"
+
+msgid "ERRORMNU_SAVE"
+msgstr "보고서 저장"
+
+msgid "ERROR_FATAL"
+msgstr "치명적인 오류"
+
+msgid "ERROR_ABORT"
+msgstr "실행을 계속할 수 없습니다."
+
+msgid "FILEPICKER_ANY"
+msgstr "모든 파일"
+
+msgid "FILEPICKER_REPORTS"
+msgstr "충돌 보고서 압축 파일"
+
+msgid "CMPTMNU_AUTO"
+msgstr "호환성 설정 자동 감지"
+
+msgid "PICKER_PLAYERCLASS"
+msgstr "플레이어 클래스"
+
+msgid "OPTVAL_SBSLETTERBOX"
+msgstr "나란히 배치된 우편함"
+
+msgid "OPTVAL_DIRECTMIX"
+msgstr "직접 혼합"
+
+msgid "OPTVAL_SUPERSTEREO"
+msgstr "슈퍼 스테레오"
+
+msgid "OPENALMNU_MUSICMODE"
+msgstr "음악 모드"
+
+msgid "OPENALMNU_SUPERSTEREOWIDTH"
+msgstr "슈퍼 스테레오 폭"
+
+msgid "SNDMNU_NOMIDIOPTIONS"
+msgstr "MIDI 장치는 아무런 옵션도 표시하지 않습니다."
