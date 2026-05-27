@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-05-27 02:11+0000\n"
+"PO-Revision-Date: 2026-05-27 12:11+0000\n"
 "Last-Translator: Yu Ji Wan <z1wan@hanmail.net>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/ko/>\n"
 "Language: ko\n"
@@ -4779,7 +4779,7 @@ msgid "GLPREFMNU_SPRBILLFACECAMERAFORCE"
 msgstr "카메라 방향 모드 재정의를 허용하지 않기"
 
 msgid "ALTHUDMNU_SWAPHEALTHARMOR"
-msgstr ""
+msgstr "체력 과 방어력을 바꿈"
 
 # hud_oldscale
 msgid "SCALEMNU_HUD_OLDSCALE"
@@ -4787,7 +4787,7 @@ msgstr "기존 HUD 크기 조정"
 
 # hud_scalefactor
 msgid "SCALEMNU_HUD_SCALEFACTOR"
-msgstr ""
+msgstr "HUD 크기"
 
 # Any Actor that only appears in co-op is disabled
 msgid "GMPLYMNU_COOPTHINGS"
@@ -4899,8 +4899,9 @@ msgstr "레벨 이름 표시"
 msgid "CNTRLMNU_INVENTORY_HOTKEYS"
 msgstr ""
 
+#, fuzzy
 msgid "JOYMNU_HAPTICS"
-msgstr ""
+msgstr "촉각 피드백 강도"
 
 msgid "JOYMNU_CURVE"
 msgstr ""
@@ -4976,11 +4977,12 @@ msgid "NETMNU_CHATSLOMO"
 msgstr ""
 
 msgid "OPTMNU_HAPTICS"
-msgstr ""
+msgstr "촉각 설정"
 
 # How the engine should handle haptics in old mods
+#, fuzzy
 msgid "HAPMNU_COMPAT"
-msgstr ""
+msgstr "촉각 피드백 호환성 수준"
 
 msgid "OPTVAL_MATCH"
 msgstr ""
@@ -4988,24 +4990,28 @@ msgstr ""
 msgid "OPTVAL_WARN"
 msgstr ""
 
+#, fuzzy
 msgid "HAPMNU_OPTIONS"
-msgstr ""
+msgstr "촉각 피드백 소스를 사용자 지정하세요"
 
 # Rumble when using ui elements
+#, fuzzy
 msgid "HAPMNU_OPT_MENU"
-msgstr ""
+msgstr "메뉴 사용부터"
 
 # Rumble when doing things such as pressing buttons and firing weapon
+#, fuzzy
 msgid "HAPMNU_OPT_ACTION"
-msgstr ""
+msgstr "행동을 취하는 것부터"
 
 # Rumble when dying and getting hurt
+#, fuzzy
 msgid "HAPMNU_OPT_DAMAGE"
-msgstr ""
+msgstr "피해를 입음으로써"
 
 # Rumble from bumping into things, crossing lines, and quakes
 msgid "HAPMNU_OPT_WORLD"
-msgstr ""
+msgstr "세상 과 소통하는 것부터"
 
 msgid "PAUSE_STRING"
 msgstr "일시정지"
@@ -5219,3 +5225,31 @@ msgstr "조명"
 
 msgid "CNTRLMNU_ADJUST_LIGHTS"
 msgstr "조명 조절"
+
+msgid "OPTMNU_OPENWADS"
+msgstr "IWAD 폴더 찾아보기"
+
+msgid "ACTION_OPENWADDIR"
+msgstr "WAD 파일 찾아보기"
+
+msgid "ACTION_OPENCONFIGDIR"
+msgstr "설정 파일 찾아보기"
+
+msgid "DSPLYMNU_IMAGEADJUST"
+msgstr "이미지 보정"
+
+msgid "DSPLYMNU_IMAGEADJUST_TOP1"
+msgstr "일반적인 시청 거리에서 이 슬라이더를 조정하십시오."
+
+msgid "DSPLYMNU_IMAGEADJUST_TOP2"
+msgstr "업스케일링/슈퍼샘플링으로 인해 출력 결과가 잘못될 수 있습니다."
+
+msgid "DSPLYMNU_IMAGEADJUST_TOP3"
+msgstr "조정하기 전에 해당 기능을 비활성화하십시오."
+
+msgid "DSPLYMNU_IMAGEADJUST_BOTTOM"
+msgstr "균일한 회색으로 보일 때까지 조정하세요."
+
+#, fuzzy
+msgid "HAPMNU_TITLE"
+msgstr "촉각 피드백 옵션"
