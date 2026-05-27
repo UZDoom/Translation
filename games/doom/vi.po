@@ -2,58 +2,59 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: \n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-05-27 13:50+0000\n"
+"Last-Translator: pepper <2895954821@qq.com>\n"
+"Language-Team: Vietnamese <https://hosted.weblate.org/projects/doom-engine-games/doom/vi/>\n"
 "Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2026.6.dev0\n"
 
 msgid "TXT_D1E1"
-msgstr ""
+msgstr "Ngập đầu trong xác sống"
 
 msgid "TXT_D1E2"
-msgstr ""
+msgstr "Bờ cõi địa ngục"
 
 msgid "TXT_D1E3"
-msgstr ""
+msgstr "Hỏa ngục"
 
 # The episode and levels' names in E4 are taken from the Bible.
 # Proverbs 5:11
 msgid "TXT_D1E4"
-msgstr ""
+msgstr "xác thịt bị nuốt chửng"
 
 msgid "HUSTR_E1M1"
-msgstr ""
+msgstr "E1M1:Nhà chứa máy bay"
 
 msgid "HUSTR_E1M2"
-msgstr ""
+msgstr "E1M2:Nhà máy điện hạt nhân"
 
 msgid "HUSTR_E1M3"
-msgstr ""
+msgstr "E1M3:Nhà máy lọc độc tố"
 
 msgid "HUSTR_E1M4"
-msgstr ""
+msgstr "E1M4:Trung tâm chỉ huy"
 
 msgid "HUSTR_E1M5"
-msgstr ""
+msgstr "E1M5:Phòng thí nghiệm Phobos"
 
 msgid "HUSTR_E1M6"
-msgstr ""
+msgstr "E1M6:Trung tậm xử lý"
 
 msgid "HUSTR_E1M7"
-msgstr ""
+msgstr "E1M7:Trạm máy tính"
 
 msgid "HUSTR_E1M8"
-msgstr ""
+msgstr "E1M8:Dị thường Anomaly"
 
 msgid "HUSTR_E1M9"
-msgstr ""
+msgstr "E1M9:Căn cú quân sự"
 
 msgid "HUSTR_E1M10"
-msgstr ""
+msgstr "E1M10:Hệ thống cống ngầm"
 
 msgid "HUSTR_E2M1"
 msgstr ""
