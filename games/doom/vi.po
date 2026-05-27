@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-05-27 16:11+0000\n"
+"PO-Revision-Date: 2026-05-27 18:13+0000\n"
 "Last-Translator: pepper <2895954821@qq.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/doom-engine-games/doom/vi/>\n"
 "Language: vi\n"
@@ -111,46 +111,56 @@ msgid "HUSTR_E3M8"
 msgstr "E3M8:Địa ngục Dis"
 
 msgid "HUSTR_E3M9"
-msgstr ""
+msgstr "E3M9:Hầm hang"
 
 # Proverbs 15:24
 msgid "HUSTR_E4M1"
-msgstr ""
+msgstr "E4M1:Địa ngục bên dưới"
 
 # Psalm 139:22
 msgid "HUSTR_E4M2"
-msgstr ""
+msgstr "E4M2:Sự căm thù hoàn hảo"
 
 # Matthew 13:49
 msgid "HUSTR_E4M3"
-msgstr ""
+msgstr "E4M3:trừng phạt kẻ ác"
 
 # James 3:8
 msgid "HUSTR_E4M4"
-msgstr ""
+msgstr "E4M4:Tà ác ngang ngược"
 
 # Luke 16:30
 msgid "HUSTR_E4M5"
-msgstr ""
+msgstr "E4M5:Chúng sẽ hối hận"
 
 # Psalm 139:20
 msgid "HUSTR_E4M6"
-msgstr ""
+msgstr "E4M6:Chống lại người một cách tà ác"
 
 # Revelation 6:8
 msgid "HUSTR_E4M7"
-msgstr ""
+msgstr "E4M7:Và địa ngục theo sau"
 
 # Proverbs 5:9
 msgid "HUSTR_E4M8"
-msgstr ""
+msgstr "E4M8:Hướng về kẻ tàn ác"
 
 msgid "HUSTR_E4M9"
-msgstr ""
+msgstr "E4M9:Sợ hãi"
 
 # Doom Ep.1
 msgid "E1TEXT"
 msgstr ""
+"Sau khi đánh bại lũ trùm to xác và dọn sạch căn cứ trên Mặt Trăng,\n"
+" đáng lẽ bạn phải thắng, đúng không? \n"
+"Đúng không chứ? Phần thưởng hậu hĩnh và tấm vé về nhà của bạn đâu rồi?\n"
+"Cái quái gì thế này? \n"
+"Đáng lẽ không thể kết thúc như thế này được!\n"
+"Nó bốc mùi như thối rữa, \n"
+"nhưng trông giống như căn cứ Deimos đã mất tích. Có vẻ như bạn đang mắc kẹt tại Bờ cõi Địa ngục. \n"
+"Lối thoát duy nhất là xông thẳng về phía trước.\n"
+"Để tiếp tục trải nghiệm DOOM, \n"
+"hãy chơi The Shores of Hell và phần tiếp theo tuyệt vời của nó, Inferno!\n"
 
 # Doom Ep.2
 msgid "E2TEXT"
