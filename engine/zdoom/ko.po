@@ -5323,3 +5323,12 @@ msgstr "엄격한"
 
 msgid "PICKER_FILELOADING"
 msgstr "파일 로딩 중"
+
+msgid "ACTION_COPYTOCLIPBOARD"
+msgstr "클립보드에 복사"
+
+msgid "ACTION_RESTART"
+msgstr "재시작"
+
+msgid "ACTION_ABORT"
+msgstr "중단하다"
