@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-05-27 13:50+0000\n"
+"PO-Revision-Date: 2026-05-27 16:12+0000\n"
 "Last-Translator: SecularSteve <fairfull.playing@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/doom-engine-games/hacx-filter/sr/>\n"
 "Language: sr\n"
@@ -615,7 +615,7 @@ msgid "CC_THORN"
 msgstr "Трн-ствар"
 
 msgid "CC_MAJONG"
-msgstr "Мајонг 7"
+msgstr "Маџонг 7"
 
 msgctxt "doom hacx.hacx1"
 msgid "CC_HERO"
