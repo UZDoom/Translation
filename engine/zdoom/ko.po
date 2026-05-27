@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-05-26 23:10+0000\n"
+"PO-Revision-Date: 2026-05-27 02:11+0000\n"
 "Last-Translator: Yu Ji Wan <z1wan@hanmail.net>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/ko/>\n"
 "Language: ko\n"
@@ -4767,7 +4767,7 @@ msgid "OB_DEMON1HIT"
 msgstr ""
 
 msgid "AUTOMAPMNU_LINEANTIALIASING"
-msgstr ""
+msgstr "안티 앨리어싱 라인"
 
 msgid "GMPLYMNU_NOPLAYERCLIP"
 msgstr ""
@@ -4892,7 +4892,7 @@ msgid "ID24_OB_TYRANT"
 msgstr ""
 
 msgid "AUTOMAPMNU_SHOWLEVELNAME"
-msgstr ""
+msgstr "레벨 이름 표시"
 
 # As seen in Options - Customize Controls - Inventory for Heretic, Hexen and
 # Strife
