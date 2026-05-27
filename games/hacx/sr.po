@@ -2,504 +2,568 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
-"Language-Team: none\n"
-"PO-Revision-Date: 2026-02-12 19:09+0000\n"
+"PO-Revision-Date: 2026-05-27 13:50+0000\n"
+"Last-Translator: SecularSteve <fairfull.playing@gmail.com>\n"
+"Language-Team: Serbian <https://hosted.weblate.org/projects/doom-engine-games/hacx-filter/sr/>\n"
 "Language: sr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 2026.6.dev0\n"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG1"
-msgstr ""
+msgstr "Да ли су ти ови бугови превише тешки?"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG"
 msgstr ""
+"Јеси ли сигуран да желиш\n"
+"да се искључиш из акције?"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG2"
-msgstr ""
+msgstr "Покушаваш да престанеш? И зовеш себе хакером?"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG3"
-msgstr ""
+msgstr "Врати се овде пре него што ти пошаљем вирус кроз издувни колектор!"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG4"
-msgstr ""
+msgstr "Прави хакери никада не одступају из акције."
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG5"
-msgstr ""
+msgstr "Хајде! Још ниси видео најбољи део!"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG6"
-msgstr ""
+msgstr "Предајте се сада, и сајберпростор је мртав!"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG7"
-msgstr ""
+msgstr "ЏЕНИ шаље своје најбоље поздраве, кретену!"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG8"
-msgstr ""
+msgstr "Хмм. Толико о томе да будеш херој, Хакере."
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG9"
-msgstr ""
+msgstr "Шта? Ви бисте радије да се вратите у затвор?"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG10"
-msgstr ""
+msgstr "Требало је да узмем плаву пилулу."
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG11"
-msgstr ""
+msgstr "Име игре није Twitch n' Run!"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG12"
-msgstr ""
+msgstr "Без бриге. Спасавање света може да сачека, зар не?"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG13"
-msgstr ""
+msgstr "Претпостављам да је време да се, као интернет, разиђемо!"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG14"
-msgstr ""
+msgstr "Сад немој да одеш и заборавиш на HacX!"
 
 msgctxt "doom hacx.hacx1"
 msgid "OB_SUICIDE"
-msgstr ""
+msgstr "%o избрисан %hsелф из универзума."
 
 msgctxt "doom hacx.hacx1"
 msgid "OB_FALLING"
-msgstr ""
+msgstr "%o формирао је кратер величине Канзаса."
 
 msgctxt "doom hacx.hacx1"
 msgid "OB_CRUSH"
-msgstr ""
+msgstr "%o је постао људска палачинка."
 
 msgctxt "doom hacx.hacx1"
 msgid "OB_EXIT"
-msgstr ""
+msgstr "%o је покушао да се искључи."
 
 msgctxt "doom hacx.hacx1"
 msgid "OB_WATER"
-msgstr ""
+msgstr "%o пливао је као цигла."
 
 msgctxt "doom hacx.hacx1"
 msgid "OB_SLIME"
-msgstr ""
+msgstr "%o је прешао на нуклеарно."
 
 msgctxt "doom hacx.hacx1"
 msgid "OB_LAVA"
-msgstr ""
+msgstr "%o се истуширао врућом водом."
 
 msgctxt "doom hacx.hacx1"
 msgid "OB_BARREL"
-msgstr ""
+msgstr "%o предозирао се нитроглицерином."
 
 msgctxt "doom hacx.hacx1"
 msgid "OB_SPLASH"
-msgstr ""
+msgstr "%o се одера на ситне комадиће."
 
 msgctxt "doom hacx.hacx1"
 msgid "OB_R_SPLASH"
-msgstr ""
+msgstr "%o је желео да види како %g изгледа изнутра-наопако."
 
 msgctxt "doom hacx.hacx1"
 msgid "OB_ROCKET"
-msgstr ""
+msgstr "%o је желео да види како %g изгледа изнутра-наопако."
 
 msgctxt "doom hacx.hacx1"
 msgid "OB_KILLEDSELF"
-msgstr ""
+msgstr "%o избрисан %hsелф из универзума."
 
 msgid "OB_THUG"
-msgstr ""
+msgstr "%o више није доминантна врста."
 
 msgid "OB_ANDROID"
-msgstr ""
+msgstr "%o прикључен на погрешну машину."
 
 msgid "OB_MONSTRUCT"
-msgstr ""
+msgstr "%o је %hs себи приредио чудовишну сајбер-јакоуковску тучу."
 
 msgid "OB_ICE"
-msgstr ""
+msgstr "%o је замрзнут."
 
 msgid "OB_BUZZER"
-msgstr ""
+msgstr "%o се осећа мало помало узбуђено."
 
 msgid "OB_STEALTH"
-msgstr ""
+msgstr "%o открива прилично шокантан развој догађаја."
 
 msgid "OB_DMAN"
-msgstr ""
+msgstr "%o је избрисан из сајберпростора."
 
 msgid "OB_GLASS"
-msgstr ""
+msgstr "%o је дао %hsелфу стаклену вилицу."
 
 msgid "OB_MANIAC"
-msgstr ""
+msgstr "%o-ово доживотно чланство је прекинуто."
 
 msgid "OB_MANIACHIT"
-msgstr ""
+msgstr "%o је умро на неки насумични начин који не могу да схватим."
 
 msgid "OB_TERMIN"
-msgstr ""
+msgstr "%o је пржен од стране чудне фаталне жене."
 
 # This text is not gender neutral, obviously...
 msgid "OB_TERMINHIT"
-msgstr ""
+msgstr "%o се мало приближио супротном полу."
 
 msgid "OB_REPLI"
-msgstr ""
+msgstr "%o се опростио од старог пријатеља."
 
 msgid "OB_REPLIHIT"
-msgstr ""
+msgstr "%o је убоден у леђа од стране старог пријатеља."
 
 msgid "OB_PHAGE"
-msgstr ""
+msgstr "%o је елиминисан природном селекцијом."
 
 msgid "OB_THORN"
-msgstr ""
+msgstr "%o није могао да избегне смрт од трња."
 
 msgid "OB_SUMATIC"
-msgstr ""
+msgstr "%o је примио сумо ударац у препоне."
 
 msgid "OB_GENIE"
-msgstr ""
+msgstr "%o није добио %p три жеље."
 
 msgid "OB_MINE"
-msgstr ""
+msgstr "%o је покушао да мази мину."
 
 msgid "OB_MPKICK"
-msgstr ""
+msgstr "%o је примио %k-ов Брус Лијев фу-удар у лице."
 
 msgid "OB_MPREZNATOR"
-msgstr ""
+msgstr "%o се распао због шокантног открића %k."
 
 msgid "OB_MPXPISTOL"
-msgstr ""
+msgstr "%o је примио двоструку дозу %k-ове казне."
 
 msgid "OB_MPTAZER"
-msgstr ""
+msgstr "%o је био искључен помоћу шок-стика %k-а."
 
 msgid "OB_MPCRYOGUN"
-msgstr ""
+msgstr "%o је добио пуно лица %k-ове ледено-хладне гнева."
 
 msgid "OB_MPUZI"
-msgstr ""
+msgstr "%o је пробушен пуно рупа од стране %k, гангста-стилу."
 
 msgid "OB_MPZOOKA"
-msgstr ""
+msgstr "%o појео је фотонску бомбу %k-а."
 
 msgid "OB_MPZ_SPLASH"
-msgstr ""
+msgstr "%o је сведен на уредну гомилу фотона од стране %k."
 
 # Physically this is utter nonsense, of course.
 msgid "OB_MPANTIGUN"
-msgstr ""
+msgstr "%o је претворен у антиматерију помоћу %k."
 
 msgid "OB_MPNUKE"
-msgstr ""
+msgstr "%o прогутао је нуклеарку %k-а."
 
 msgid "OB_MPNUKESPLASH"
-msgstr ""
+msgstr "%o је прибегао нуклеарном удару због масовне разарајуће поурке %k."
 
 msgctxt "doom hacx.hacx1"
 msgid "OB_MPTELEFRAG"
-msgstr ""
+msgstr "%o је преврнут наопачке од стране %k."
 
 msgctxt "doom hacx.hacx1"
 msgid "OB_MONTELEFRAG"
-msgstr ""
+msgstr "Атомска структура %o-а је раздвојена."
 
 msgctxt "doom hacx.hacx1"
 msgid "OB_DEFAULT"
-msgstr ""
+msgstr "%o спонтано је издахнуо."
 
 msgid "GOTNUKER"
-msgstr ""
+msgstr "Ухватио си нукера! Исиси ово!"
 
 msgid "GOTUZI"
-msgstr ""
+msgstr "Имаш УЗИ!!"
 
 msgid "GOTREZNATOR"
-msgstr ""
+msgstr "HOIG Резнатор - ПРИЖЕЋИ НЕКОГ ГУЗИЦУ"
 
 msgid "GOTPHOTONZOOKA"
-msgstr ""
+msgstr "Добио си Фотон 'Зука!"
 
 msgid "GOTBIGSTICK"
-msgstr ""
+msgstr "Носиш велики штап!"
 
 msgid "GOTTAZER"
-msgstr ""
+msgstr "Имаш Тејзер!!"
 
 msgid "GOTCRYOGUN"
-msgstr ""
+msgstr "Ухватио си криопушку! ЗАМРЗНИ!"
 
 msgid "GOTROUNDS"
-msgstr ""
+msgstr "Узми неколико метака!"
 
 msgid "GOTROUNDSCASE"
-msgstr ""
+msgstr "Узми кутију метака!"
 
 # Was "grap" for some reason.
 msgid "GOTTORPEDO"
-msgstr ""
+msgstr "Ухвати торпедо!"
 
 msgid "GOTTORPEDOS"
-msgstr ""
+msgstr "Узми кутију \"Торпеда\"!"
 
 msgid "GOTMOLECULES"
-msgstr ""
+msgstr "Ухвати молекуларни модул!"
 
 msgid "GOTMOLECULESTANK"
-msgstr ""
+msgstr "Ухватиш резервоар пун молекула!"
 
 msgid "GOTCARTRIDGES"
-msgstr ""
+msgstr "Узми неке чауре!"
 
 msgid "GOTCARTRIDGESCASE"
-msgstr ""
+msgstr "Узимаш кутију cartouches!"
 
 msgid "GOTVALISE"
-msgstr ""
+msgstr "Ухватите кофер напуњен робом!"
 
 msgid "GOTFORCEFIELD"
-msgstr ""
+msgstr "Поље снаге!"
 
 msgid "GOTMICROTEL"
-msgstr ""
+msgstr "007Микротел"
 
 msgid "GOTENKBLIND"
-msgstr ""
+msgstr "Ти си EnK слеп!"
 
 msgid "GOTRUBBERBOOTS"
-msgstr ""
+msgstr "Гумене чизме Вулкан!"
 
 msgid "GOTSIARRAY"
-msgstr ""
+msgstr "Мапирање SI низа!"
 
 msgid "GOTINFRARED"
-msgstr ""
+msgstr "Инфрацрвени визир!"
 
 msgid "GOTINHALER"
-msgstr ""
+msgstr "Удиши дубоко, Инхејлере!"
 
 msgid "GOTHYPONEED"
-msgstr ""
+msgstr "Доза Хайдергина из Хипо-а те спасава!"
 
 msgid "GOTHYPO"
-msgstr ""
+msgstr "Ухвати хипо!"
 
 msgid "GOTKEYCARD"
-msgstr ""
+msgstr "Пронашао си KeyCard!"
 
 msgid "GOTCKEY"
-msgstr ""
+msgstr "Пронашао си Ц-Кључ!"
 
 msgid "GOTPASSWORD"
-msgstr ""
+msgstr "Пронашао си лозинку!"
 
 msgid "GOTBLUEZKEY"
-msgstr ""
+msgstr "Пронашао си плави Z-ключ!"
 
 msgid "GOTYELWZKEY"
-msgstr ""
+msgstr "Пронашао си жути Z-кључ!"
 
 msgid "GOTREDZKEY"
-msgstr ""
+msgstr "Пронашао си црвени Z-кључ!"
 
 msgid "GOTBODYARMOR"
-msgstr ""
+msgstr "Оклоп!"
 
 msgid "GOTCENTROPHENOXINE"
-msgstr ""
+msgstr "Центрофенохин"
 
 msgid "GOTKEVLARVEST"
-msgstr ""
+msgstr "Ухватите кевлар прслук!"
 
 msgid "GOTSKEVLARVEST"
-msgstr ""
+msgstr "Ухвати супер кевлар прслук!"
 
 msgid "GOTMICROKIT"
-msgstr ""
+msgstr "Ухватите MicroKit!"
 
 msgid "GOTDAMPENER"
-msgstr ""
+msgstr "Узми пригушивач!"
 
 msgid "PD_CKEY"
-msgstr ""
+msgstr "Потребан вам је Ц-Кључ да бисте приступили овом предмету!"
 
 msgid "PD_KEYCARD"
-msgstr ""
+msgstr "Потребна вам је KeyCard картица да бисте приступили овом предмету!"
 
 msgid "PD_PASSWORD"
-msgstr ""
+msgstr "Потребна вам је лозинка да бисте приступили овом елементу!"
 
 msgid "PD_BLUEZKEY"
-msgstr ""
+msgstr "Потребан вам је плави З-кључ да би ово функционисало"
 
 msgid "PD_REDZKEY"
-msgstr ""
+msgstr "Потребан вам је црвени З-кључ да би ово функционисало!"
 
 msgid "PD_YELWZKEY"
-msgstr ""
+msgstr "Потребан вам је жути Z-кључ да би ово функционисало!"
 
 msgid "X1TEXT"
 msgstr ""
+"Двадесет милиона у злату као да није\n"
+"вредно свег овог малтретирања, зар не,\n"
+"хакере? Чини да чак и затвор делује као проклети пикник!\n"
+"\n"
+"Грозне био-мутације и твоји\n"
+"сабраћа људи окачени са плафона\n"
+"као вреће за храну.\n"
+"\n"
+"Шта је, бре, овај ЏИНИ?\n"
+"Није као ниједан рачунар који си икад хаковао!\n"
+"\n"
+"Боље нађи следећи терминал, просеци\n"
+"себи вожњу кроз c-простор, исецкај неког\n"
+"мутантског гузицу и вади се из Доџа!\n"
+"\n"
 
 msgid "X2TEXT"
 msgstr ""
+"Где је свуда народ?!\n"
+"\n"
+"Париз је град-дух, осим ако не сматраш\n"
+"мутантске бубе изузетним грађанима.\n"
+"\n"
+"Наишао си на проклети отпор.\n"
+"Човече, како се ове бубе боре! Срећа\n"
+"твоја што нису најбржа оловка у блоку.\n"
+"\n"
+"Али добио си неке од података\n"
+"које подкомитет тражи. И то је гадно!\n"
+"\n"
+"Човечје нервне течности хране\n"
+"ове бубе! Није ни чудо што је комшилук\n"
+"све мање насељен. Извештај\n"
+"подпододбору. И чувај леђа…\n"
 
 msgid "X3TEXT"
 msgstr ""
+"Цивилизација какву сте познавали не постоји!\n"
+"\n"
+"Ни пријатеља, ни породице. Ни више људи.\n"
+"У сваком случају, не нормалних људи.\n"
+"\n"
+"Само је једна ствар остала… ЏИНИ!\n"
+"И ако мораш да одеш до краја\n"
+"свемира, наћи ћеш његову мутантну гузицу!\n"
+"'Коз сад си бесан!\n"
+"\n"
+"А злато? Па, ово је за џабе.\n"
+"\n"
+"……(наставак следи)……"
 
 msgid "X5TEXT"
 msgstr ""
+"Жив си!\n"
+"\n"
+"Какве су то шансе, хакере?!\n"
+"'Коз је препун бубашваба.\n"
+"\n"
+"Не можеш да дођеш до подкомитета, што\n"
+"значи да је компромитован.\n"
+"\n"
+"\n"
+"Ти… си сам."
 
 msgid "TXT_HACXMAP01"
-msgstr ""
+msgstr "GenEmp Корп."
 
 msgid "TXT_HACXMAP02"
-msgstr ""
+msgstr "Тунел Таун"
 
 msgid "TXT_HACXMAP03"
-msgstr ""
+msgstr "Лава Анекс"
 
 msgid "TXT_HACXMAP04"
-msgstr ""
+msgstr "Алкатараз"
 
 msgid "TXT_HACXMAP05"
-msgstr ""
+msgstr "Кибер циркус"
 
 msgid "TXT_HACXMAP06"
-msgstr ""
+msgstr "Диги-Ота"
 
 msgid "TXT_HACXMAP07"
-msgstr ""
+msgstr "Велики зид"
 
 msgid "TXT_HACXMAP08"
-msgstr ""
+msgstr "Врт задовољстава"
 
 msgid "TXT_HACXMAP09"
-msgstr ""
+msgstr "Скривена тврђава"
 
 msgid "TXT_HACXMAP10"
-msgstr ""
+msgstr "Анархистички сан"
 
 msgid "TXT_HACXMAP11"
-msgstr ""
+msgstr "Нотус нас!"
 
 msgid "TXT_HACXMAP12"
-msgstr ""
+msgstr "Готик ганцлет"
 
 msgid "TXT_HACXMAP13"
-msgstr ""
+msgstr "Канализација"
 
 msgid "TXT_HACXMAP14"
-msgstr ""
+msgstr "Троде ратови"
 
 msgid "TXT_HACXMAP15"
-msgstr ""
+msgstr "Сумрак Енка"
 
 msgid "TXT_HACXMAP16"
-msgstr ""
+msgstr "Протеан Сајбекс"
 
 msgid "TXT_HACXMAP17"
-msgstr ""
+msgstr "Река крви"
 
 msgid "TXT_HACXMAP18"
-msgstr ""
+msgstr "Бизаро"
 
 msgid "TXT_HACXMAP19"
-msgstr ""
+msgstr "Собе рата"
 
 msgid "TXT_HACXMAP20"
-msgstr ""
+msgstr "Упозорење на проваљу!"
 
 msgid "TXT_HACXMAP31"
-msgstr ""
+msgstr "Соба за сушење"
 
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_CLEV"
-msgstr ""
+msgstr "Сада стижемо у…"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_CHOPPERS"
-msgstr ""
+msgstr "…ћу ти пржити гузицу!"
 
 # Hacx's content here was totally useless so it got removed. However, this
 # string has to be defined and minimally altered so that the Dehacked
 # replacement is not being triggered.
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_BEHOLD"
-msgstr "нерањ., снага, невидљ., радиј., мапа или ноћ. визор"
+msgstr "inVuln, Str, Inviso, Rad, Allmap или Lite-amp?"
 
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_BEHOLDX"
-msgstr ""
+msgstr "Хајде да се озбиљно позабавимо!"
 
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_NCON"
-msgstr ""
+msgstr "Начин рада Cyberslicer укључен"
 
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_NCOFF"
-msgstr ""
+msgstr "Начин рада Cyberslicer искључен"
 
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_NOMUS"
-msgstr "НЕМОГУЋИ ИЗБОР"
+msgstr "Избор: Немогуће "
 
 # Should probably not be translated...
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_MUS"
-msgstr ""
+msgstr "Повећај јачину звука\n"
 
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_KFAADDED"
-msgstr ""
+msgstr "ИНИТ-Твитч и Кил режим"
 
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_FAADDED"
-msgstr ""
+msgstr "Нека буде, хакер."
 
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_DQDON"
-msgstr ""
+msgstr "Начин сајберпотенције УКЉУЧЕН"
 
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_DQDOFF"
-msgstr ""
+msgstr "Режим сајберпотенције искључен"
 
 msgctxt "doom hacx.hacx1"
 msgid "AMSTR_FOLLOWON"
-msgstr ""
+msgstr "Праћење УКЉУЧЕНО"
 
 msgctxt "doom hacx.hacx1"
 msgid "AMSTR_FOLLOWOFF"
-msgstr ""
+msgstr "Праћење искључено"
 
 msgctxt "doom hacx.hacx1"
 msgid "DOSY"
-msgstr ""
+msgstr "- притисните Y да побегнете! -"
 
 msgctxt "doom hacx.hacx1"
 msgid "ENDGAME"
 msgstr ""
+"Да ли си луд или неусклађен?\n"
+"Па шта? Да или не!"
 
 msgctxt "doom hacx.hacx1"
 msgid "NIGHTMARE"
 msgstr ""
+"Јеси ли сигуран? Не можеш да поднесеш\n"
+"ову вештину, хакере!\n"
+"\n"
+"Притисни Y да умреш. \n"
 
 # For most languages the original Doom text should suffice.
 msgctxt "doom hacx.hacx1"
@@ -521,58 +585,58 @@ msgstr ""
 "Притисните Y или N."
 
 msgid "CC_THUG"
-msgstr ""
+msgstr "Насилник"
 
 msgid "CC_ANDROID"
-msgstr ""
+msgstr "Андроид"
 
 msgid "CC_ICE"
-msgstr ""
+msgstr "ИЦЕ"
 
 msgid "CC_BUZZER"
-msgstr ""
+msgstr "Бузер"
 
 msgid "CC_DMAN"
-msgstr ""
+msgstr "Д-Мен"
 
 msgid "CC_PHAGE"
-msgstr ""
+msgstr "Фаги"
 
 msgid "CC_MONSTRUCT"
-msgstr ""
+msgstr "Монструктур"
 
 msgid "CC_MECH"
-msgstr ""
+msgstr "Меха манијак"
 
 msgid "CC_TERMI"
-msgstr ""
+msgstr "Терминатрикс"
 
 msgid "CC_THORN"
-msgstr ""
+msgstr "Трн-ствар"
 
 msgid "CC_MAJONG"
-msgstr ""
+msgstr "Мајонг 7"
 
 msgctxt "doom hacx.hacx1"
 msgid "CC_HERO"
-msgstr ""
+msgstr "Дан Евангер"
 
 msgctxt "doom hacx.hacx1"
 msgid "SKILL_BABY"
-msgstr ""
+msgstr "Молим вас, не пуцајте!"
 
 msgctxt "doom hacx.hacx1"
 msgid "SKILL_EASY"
-msgstr ""
+msgstr "Аргх, треба ми здравље!"
 
 msgctxt "doom hacx.hacx1"
 msgid "SKILL_NORMAL"
-msgstr ""
+msgstr "Хајде да их растргнемо!"
 
 msgctxt "doom hacx.hacx1"
 msgid "SKILL_HARD"
-msgstr ""
+msgstr "Ја сам бесмртан!"
 
 msgctxt "doom hacx.hacx1"
 msgid "SKILL_NIGHTMARE"
-msgstr ""
+msgstr "Лудило!"
