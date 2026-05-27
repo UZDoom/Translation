@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-05-27 13:50+0000\n"
+"PO-Revision-Date: 2026-05-27 16:12+0000\n"
 "Last-Translator: SecularSteve <fairfull.playing@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/doom-engine-games/strife/sr/>\n"
 "Language: sr\n"
@@ -3391,7 +3391,7 @@ msgid "TXT_SPEAKER_ORACLE"
 msgstr "Оракул"
 
 msgid "TXT_SPEAKER_ULAINE"
-msgstr "Улајне"
+msgstr "Улајна"
 
 msgid "TXT_SPEAKER_FRONT_SOLDIER"
 msgstr "Први војник"
@@ -3436,7 +3436,7 @@ msgid "TXT_SPEAKER_DOCK_WORKER"
 msgstr "Докски радник"
 
 msgid "TXT_SPEAKER_IRALE"
-msgstr "Ирале"
+msgstr "Ирал"
 
 msgid "TXT_SPEAKER_CORE_GUARD"
 msgstr "Језгро штит"
