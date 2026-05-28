@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-05-27 21:31+0000\n"
+"PO-Revision-Date: 2026-05-27 23:11+0000\n"
 "Last-Translator: Yu Ji Wan <z1wan@hanmail.net>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/ko/>\n"
 "Language: ko\n"
@@ -3792,7 +3792,7 @@ msgid "ALTHUDMNU_STATSCOLOR"
 msgstr "통계표 색상"
 
 msgid "DSPLYMNU_CAPFPS"
-msgstr "프레임 보간"
+msgstr "제한된 프레임 해제"
 
 msgid "DSPLYMNU_BLENDMETHOD"
 msgstr "투명도 표시 모드"

@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-05-07 17:11+0000\n"
+"PO-Revision-Date: 2026-05-28 01:48+0000\n"
 "Last-Translator: OldCactusCN <huchenyi_2019@qq.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/uzdoom/common/it/>\n"
 "Language: it\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.17.1\n"
+"X-Generator: Weblate 2026.6.dev0\n"
 
 msgid "PRESSYN"
 msgstr "Premi Y oppure N."
@@ -516,9 +516,8 @@ msgstr "Nessun asse configurabile"
 msgid "OPTVAL_NONE"
 msgstr "Nessuno"
 
-#, fuzzy
 msgid "OPTVAL_TURNING"
-msgstr "Rotazione"
+msgstr "Guarda a sinistra/destra"
 
 msgid "OPTVAL_LOOKINGUPDOWN"
 msgstr "Sguardo Sopra/Sotto"
@@ -526,9 +525,8 @@ msgstr "Sguardo Sopra/Sotto"
 msgid "OPTVAL_MOVINGFORWARD"
 msgstr "Movimento in avanti/dietro"
 
-#, fuzzy
 msgid "OPTVAL_STRAFING"
-msgstr "Movimento laterale"
+msgstr "Movimento a sinistra/destra"
 
 msgid "OPTVAL_MOVINGUPDOWN"
 msgstr "Movimento Sopra/Sotto"
@@ -693,37 +691,37 @@ msgid "OPTVAL_64SAMPLES"
 msgstr "64 samples"
 
 msgid "OPTVAL_128SAMPLES"
-msgstr ""
+msgstr "128 samples"
 
 msgid "OPTVAL_256SAMPLES"
-msgstr ""
+msgstr "256 samples"
 
 msgid "OPTVAL_512SAMPLES"
-msgstr ""
+msgstr "512 samples"
 
 msgid "OPTVAL_1024SAMPLES"
-msgstr ""
+msgstr "1024 samples"
 
 msgid "OPTVAL_2048SAMPLES"
-msgstr ""
+msgstr "2048 samples"
 
 msgid "OPTVAL_4096SAMPLES"
-msgstr ""
+msgstr "4096 samples"
 
 msgid "OPTSTR_AUTO"
 msgstr "Automatico"
 
 msgid "OPTSTR_MONO"
-msgstr ""
+msgstr "Mono"
 
 msgid "OPTSTR_STEREO"
-msgstr ""
+msgstr "Stereo"
 
 msgid "OPTSTR_PROLOGIC"
-msgstr ""
+msgstr "Decoder Dolby Pro Logic"
 
 msgid "OPTSTR_QUAD"
-msgstr ""
+msgstr "Quad"
 
 msgid "OPTSTR_SURROUND"
 msgstr "5 altoparlanti"
@@ -741,7 +739,7 @@ msgid "OPENALMNU_ENABLEEFX"
 msgstr "Attiva EFX"
 
 msgid "OPENALMNU_RESAMPLER"
-msgstr ""
+msgstr "Resampler"
 
 msgid "SNDMNU_SFXVOLUME"
 msgstr "Volume suoni"
@@ -779,9 +777,8 @@ msgstr "Opzioni avanzate"
 msgid "SNDMNU_MODREPLAYER"
 msgstr "Opzioni Module replayer"
 
-#, fuzzy
 msgid "SNDMNU_MIDIPLAYER"
-msgstr "Opzioni MIDI player"
+msgstr "Opzioni dispositivo MIDI"
 
 msgid "ADVSNDMNU_TITLE"
 msgstr "Opzioni avanzate dei suoni"
@@ -802,7 +799,7 @@ msgid "ADVSNDMNU_OPLGAIN"
 msgstr ""
 
 msgid "ADVSNDMNU_OPLFULLPAN"
-msgstr ""
+msgstr "Stereo panning MIDI completo"
 
 msgid "ADVSNDMNU_OPLCORES"
 msgstr ""
@@ -1112,16 +1109,16 @@ msgid "OPTVAL_UNLIMITED"
 msgstr "Illimitato"
 
 msgid "OPTVAL_256K"
-msgstr ""
+msgstr "256K"
 
 msgid "OPTVAL_512K"
-msgstr ""
+msgstr "512K"
 
 msgid "OPTVAL_768K"
-msgstr ""
+msgstr "768K"
 
 msgid "OPTVAL_1024K"
-msgstr ""
+msgstr "1024K"
 
 msgid "OPTVAL_UNCHARTED2"
 msgstr "Uncharted 2"
@@ -1247,7 +1244,7 @@ msgid "OPTVAL_16X"
 msgstr "16×"
 
 msgid "OPTVAL_32X"
-msgstr ""
+msgstr "32×"
 
 msgid "GLTEXMNU_TITLE"
 msgstr "Opzioni Texture"
@@ -1363,22 +1360,22 @@ msgid "VIDMNU_MAXFPS"
 msgstr "FPS Massimi"
 
 msgid "OPTVAL_60FPS"
-msgstr ""
+msgstr "60 fps"
 
 msgid "OPTVAL_75FPS"
-msgstr ""
+msgstr "75 fps"
 
 msgid "OPTVAL_90FPS"
-msgstr ""
+msgstr "90 fps"
 
 msgid "OPTVAL_120FPS"
-msgstr ""
+msgstr "120 fps"
 
 msgid "OPTVAL_144FPS"
-msgstr ""
+msgstr "144 fps"
 
 msgid "OPTVAL_200FPS"
-msgstr ""
+msgstr "200 fps"
 
 msgid "VIDMNU_PREFERBACKEND"
 msgstr "API di rendering preferita"
@@ -1736,7 +1733,7 @@ msgstr ""
 
 # Team 255 randomizes which team the player gets put on.
 msgid "PICKER_TEAMHINT"
-msgstr ""
+msgstr "255 = Squadra Casuale"
 
 msgid "PICKER_IP"
 msgstr ""
@@ -1780,3 +1777,6 @@ msgstr "Impossibile analizzare le note di rilascio"
 
 msgid "NOTES_RELEASED"
 msgstr "%s Versione %s, rilasciata nel %s"
+
+msgid "PICKER_TAB_RELEASE"
+msgstr "Nota di Rilascio"
