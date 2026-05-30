@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-05-18 05:12+0000\n"
-"Last-Translator: hawkwind3 <hawkwinds_messages@hotmail.com>\n"
+"PO-Revision-Date: 2026-05-30 22:01+0000\n"
+"Last-Translator: Andi Chandler <andi@gowling.com>\n"
 "Language-Team: English (United Kingdom) <https://hosted.weblate.org/projects/doom-engine-games/hacx-filter/en_GB/>\n"
 "Language: en_GB\n"
 "MIME-Version: 1.0\n"
@@ -257,7 +257,6 @@ msgstr "You grab a case of rounds!"
 msgid "GOTTORPEDO"
 msgstr "You grab a Torpedo!"
 
-#, fuzzy
 msgid "GOTTORPEDOS"
 msgstr "You grab a case of Torpedoes!"
 
@@ -330,7 +329,6 @@ msgstr "Centrophenoxine"
 msgid "GOTKEVLARVEST"
 msgstr "You grab a Kevlar vest!"
 
-#, fuzzy
 msgid "GOTSKEVLARVEST"
 msgstr "You grab a Super Kevlar vest!"
 
