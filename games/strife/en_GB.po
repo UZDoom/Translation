@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-05-18 05:11+0000\n"
-"Last-Translator: hawkwind3 <hawkwinds_messages@hotmail.com>\n"
+"PO-Revision-Date: 2026-05-30 22:01+0000\n"
+"Last-Translator: Andi Chandler <andi@gowling.com>\n"
 "Language-Team: English (United Kingdom) <https://hosted.weblate.org/projects/doom-engine-games/strife/en_GB/>\n"
 "Language: en_GB\n"
 "MIME-Version: 1.0\n"
@@ -238,9 +238,8 @@ msgid "TXT_SUB_LOG14"
 msgstr ""
 "OK, \"Trust no one\" is the name of the game! Let's get that pass from the Governor and free those prisoners."
 
-#, fuzzy
 msgid "TXT_SUB_LOG36"
-msgstr "That brick... Didn't we pass that brick? No..."
+msgstr "That brick… Didn't we pass that brick? No…"
 
 msgid "TXT_STRIFE_MAP29"
 msgstr "AREA 29: Entity's Lair"
