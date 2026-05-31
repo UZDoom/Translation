@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-05-31 23:02+0000\n"
+"PO-Revision-Date: 2026-06-01 01:01+0000\n"
 "Last-Translator: Yu Ji Wan <z1wan@hanmail.net>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/ko/>\n"
 "Language: ko\n"
@@ -3475,9 +3475,8 @@ msgstr "무기/탄약/통계 목록"
 msgid "CNTRLMNU_TOGGLESCOREBOARD"
 msgstr "점수창 토글"
 
-#, fuzzy
 msgid "MOUSEMNU_LOOKSPRING"
-msgstr "마우스룩 시점 초기화"
+msgstr "마우스 시점 이동"
 
 msgid "MOUSEMNU_LOOKSTRAFE"
 msgstr "마우스룩 좌우 이동"
@@ -4993,9 +4992,8 @@ msgstr "시합"
 msgid "OPTVAL_WARN"
 msgstr "경고"
 
-#, fuzzy
 msgid "HAPMNU_OPTIONS"
-msgstr "촉각 피드백 소스를 사용자 지정하세요"
+msgstr "촉각 피드백 소스를 사용자 지정"
 
 # Rumble when using ui elements
 #, fuzzy
