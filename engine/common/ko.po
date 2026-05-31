@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-05-28 05:11+0000\n"
+"PO-Revision-Date: 2026-06-01 01:01+0000\n"
 "Last-Translator: Yu Ji Wan <z1wan@hanmail.net>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/common/ko/>\n"
 "Language: ko\n"
@@ -432,10 +432,10 @@ msgid "MOUSEMNU_ALWAYSMOUSELOOK"
 msgstr "마우스룩 사용"
 
 msgid "MOUSEMNU_INVERTMOUSE"
-msgstr "마우스 방향 전환"
+msgstr "마우스 상하 반전"
 
 msgid "MOUSEMNU_INVERTMOUSEX"
-msgstr "마우스 방향 전환"
+msgstr "마우스 좌우 반전"
 
 msgid "OPTVAL_UPPERLEFT"
 msgstr "왼쪽 위"
@@ -995,7 +995,7 @@ msgid "OPTVAL_NUKEDOPL3"
 msgstr ""
 
 msgid "OPTVAL_LLENUKEDOPL2"
-msgstr ""
+msgstr "OPL2-LLE (성능 집약적)"
 
 msgid "OPTVAL_LLENUKEDOPL3"
 msgstr "OPL3 - LLE (성능 집약적)"
@@ -1172,16 +1172,16 @@ msgid "GLPREFMNU_PALTONEMAPPOWER"
 msgstr "톤맵 팔레트 지수"
 
 msgid "GLPREFMNU_MULTISAMPLE"
-msgstr "멀티샘플"
+msgstr "안티앨리어싱(MSAA)"
 
 msgid "GLPREFMNU_BLOOM"
 msgstr "블룸 효과"
 
 msgid "GLPREFMNU_SSAO"
-msgstr "주변 환경 가림 효과 품질"
+msgstr "엠비언트 오클루전 품질"
 
 msgid "GLPREFMNU_SSAO_PORTALS"
-msgstr "주변 환경 가려진 포탈"
+msgstr "엠비언트 오클루전 포탈"
 
 msgid "GLPREFMNU_MENUBLUR"
 msgstr "메뉴 흐림 효과"
@@ -1515,7 +1515,7 @@ msgid "VKMNU_DEVICE"
 msgstr "벌칸 장치 아이디"
 
 msgid "VKMNU_HDR"
-msgstr "하이 다이나믹 레인지"
+msgstr "하이 다이나믹 레인지(HDR)"
 
 msgid "VK_WARNING"
 msgstr "경고: 벌칸 렌더러는 매우 실험적입니다!"
@@ -1752,7 +1752,7 @@ msgid "JOYMNU_TURNSPEED"
 msgstr "회전 속도"
 
 msgid "JOYMNU_LOOKSPEED"
-msgstr "검색 속도"
+msgstr "룩 속도"
 
 msgid "JOYMNU_ANALOGSTRAFERUN"
 msgstr "아날로그 스트레이프 런"
