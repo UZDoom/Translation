@@ -2,383 +2,397 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: \n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-06-01 21:35+0000\n"
+"Last-Translator: Júlia Rosell Saldaña <contacte@juliars.cat>\n"
+"Language-Team: Catalan <https://hosted.weblate.org/projects/uzdoom/common/ca/>\n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2026.6\n"
 
 msgid "PRESSYN"
-msgstr ""
+msgstr "Prem Y o N."
 
 msgid "TXT_YES"
-msgstr ""
+msgstr "Sí"
 
 msgid "TXT_NO"
-msgstr ""
+msgstr "No"
 
 msgid "SAVEDEAD"
 msgstr ""
+"No pots desar si no estàs jugant.\n"
+"\n"
+"Prem una tecla."
 
 msgid "SAFEMESSAGE"
-msgstr ""
+msgstr "De veritat vols fer això?"
 
 msgid "QSPROMPT"
 msgstr ""
+"Desat ràpid sobre el teu joc anomenat\n"
+"\n"
+"'%s'?\n"
+"\n"
+"Prem Y o N."
 
 msgid "QLPROMPT"
 msgstr ""
+"Vols fer una càrrega ràpida amb la partida anomenada\n"
+"\n"
+"'%s'?\n"
+"\n"
+"Prem Y o N."
 
 msgid "TXT_X_CHEATS"
-msgstr ""
+msgstr "%s trucs"
 
 msgid "MSGOFF"
-msgstr ""
+msgstr "Missatges: OFF"
 
 msgid "MSGON"
-msgstr ""
+msgstr "Missatges: ON"
 
 msgid "TXT_SAY"
-msgstr ""
+msgstr "Digues:"
 
 msgid "TXT_QUITENDOOM"
-msgstr ""
+msgstr "Prem qualsevol tecla o clica a qualsevol lloc de la finestra per sortir."
 
 msgid "NEWSAVE"
-msgstr ""
+msgstr "<Nou Arxiu de Desat>"
 
 msgid "GGSAVED"
-msgstr ""
+msgstr "Partida desada."
 
 msgid "SAVECOMMENT_TIME"
-msgstr ""
+msgstr "Temps"
 
 msgid "MNU_LOADGAME"
-msgstr ""
+msgstr "Carregar Partida"
 
 msgid "MNU_SAVEGAME"
-msgstr ""
+msgstr "Desar Partida"
 
 msgid "MNU_NOPICTURE"
-msgstr ""
+msgstr "Sense Imatge"
 
 msgid "MNU_DIFFVERSION"
-msgstr ""
+msgstr "Versió Diferent"
 
 msgid "MNU_NOFILES"
-msgstr ""
+msgstr "Sense Arxius"
 
 msgid "MNU_DELETESG"
-msgstr ""
+msgstr "De veritat vols esborrar la partida desada?"
 
 msgid "OPTVAL_OFF"
-msgstr ""
+msgstr "Apagar"
 
 msgid "OPTVAL_ON"
-msgstr ""
+msgstr "Encendre"
 
 msgid "OPTVAL_AUTO"
-msgstr ""
+msgstr "Automàtic"
 
 msgid "OPTMNU_TITLE"
-msgstr ""
+msgstr "Opcions"
 
 msgid "OPTMNU_CONTROLS"
-msgstr ""
+msgstr "Personalitzar Controls"
 
 msgid "OPTMNU_MOUSE"
-msgstr ""
+msgstr "Opcions de ratolí"
 
 msgid "OPTMNU_JOYSTICK"
-msgstr ""
+msgstr "Opcions de Controlador"
 
 msgid "OPTMNU_PLAYER"
-msgstr ""
+msgstr "Configuració de Jugador"
 
 msgid "OPTMNU_GAMEPLAY"
-msgstr ""
+msgstr "Opcions de Joc"
 
 msgid "OPTMNU_AUTOMAP"
-msgstr ""
+msgstr "Opcions d'Automapa"
 
 msgid "OPTMNU_HUD"
-msgstr ""
+msgstr "Opcions d'HUD"
 
 msgid "OPTMNU_MISCELLANEOUS"
-msgstr ""
+msgstr "Opcions de Miscelània"
 
 msgid "OPTMNU_SOUND"
-msgstr ""
+msgstr "Opcions de So"
 
 msgid "ACCMNU_TITLE"
-msgstr ""
+msgstr "Opcions d'Accessibilitat"
 
 msgid "OPTMNU_DISPLAY"
-msgstr ""
+msgstr "Opcions de Pantalla"
 
 msgid "OPTMNU_VIDEO"
-msgstr ""
+msgstr "Configurar mode de vídeo"
 
 msgid "OPTMNU_DEFAULTS"
-msgstr ""
+msgstr "Restablir a predeterminats"
 
 msgid "OPTMNU_RESETTOSAVED"
-msgstr ""
+msgstr "Restablir a l'últim desat"
 
 msgid "OPTMNU_WRITEINI"
-msgstr ""
+msgstr "Desar configuració actual"
 
 msgid "OPTMNU_CONSOLE"
-msgstr ""
+msgstr "Anar a la consola"
 
 msgid "OPTMNU_NETWORK"
-msgstr ""
+msgstr "Opcions de Xarxa"
 
 msgid "OPTMNU_REVERB"
-msgstr ""
+msgstr "Editor d'entorn de reverberació"
 
 msgid "CNTRLMNU_SWITCHTEXT1"
-msgstr ""
+msgstr "ENTER per canviar, BACKSPACE per netejar"
 
 msgid "CNTRLMNU_SWITCHTEXT2"
-msgstr ""
+msgstr "Prem una nova tecla per al control, ESC per cancel·lar"
 
 msgid "CNTRLMNU_CONTROLS"
-msgstr ""
+msgstr "Controls"
 
 msgid "CNTRLMNU_ATTACK"
-msgstr ""
+msgstr "Disparar"
 
 msgid "CNTRLMNU_ALTATTACK"
-msgstr ""
+msgstr "Dispar secundari"
 
 msgid "CNTRLMNU_RELOAD"
-msgstr ""
+msgstr "Recàrrega d'arma"
 
 msgid "CNTRLMNU_USE"
-msgstr ""
+msgstr "Utilitzar / Obrir"
 
 msgid "CNTRLMNU_FORWARD"
-msgstr ""
+msgstr "Moure cap endavant"
 
 msgid "CNTRLMNU_BACK"
-msgstr ""
+msgstr "Moure cap enrrere"
 
 msgid "CNTRLMNU_MOVELEFT"
-msgstr ""
+msgstr "Bombardeig esquerre"
 
 msgid "CNTRLMNU_MOVERIGHT"
-msgstr ""
+msgstr "Bombardeig dret"
 
 msgid "CNTRLMNU_TURNLEFT"
-msgstr ""
+msgstr "Girar a l'esquerra"
 
 msgid "CNTRLMNU_TURNRIGHT"
-msgstr ""
+msgstr "Girar a la dreta"
 
 msgid "CNTRLMNU_TURN180"
-msgstr ""
+msgstr "Gir ràpid"
 
 msgid "CNTRLMNU_JUMP"
-msgstr ""
+msgstr "Saltar"
 
 msgid "CNTRLMNU_CROUCH"
-msgstr ""
+msgstr "Ajupir-se"
 
 msgid "CNTRLMNU_TOGGLECROUCH"
-msgstr ""
+msgstr "Activar ajupir"
 
 msgid "CNTRLMNU_MOUSELOOK"
-msgstr ""
+msgstr "Vista amb ratolí"
 
 msgid "CNTRLMNU_LOOKUP"
-msgstr ""
+msgstr "Mirar amunt"
 
 msgid "CNTRLMNU_LOOKDOWN"
-msgstr ""
+msgstr "Mirar avall"
 
 msgid "CNTRLMNU_CENTERVIEW"
-msgstr ""
+msgstr "Centrar vista"
 
 msgid "CNTRLMNU_RUN"
-msgstr ""
+msgstr "Córrer"
 
 msgid "CNTRLMNU_TOGGLERUN"
-msgstr ""
+msgstr "Activar córrer"
 
 msgid "CNTRLMNU_STRAFE"
-msgstr ""
+msgstr "Bombardejar"
 
 msgid "CNTRLMNU_SCOREBOARD"
-msgstr ""
+msgstr "Mostrar marcador de puntuacions"
 
 msgid "CNTRLMNU_ACTION"
-msgstr ""
+msgstr "Acció"
 
 msgid "CNTRLMNU_ACTION_TITLE"
-msgstr ""
+msgstr "Personalitzar controls d'acció"
 
 msgid "MNU_MULTIPLAYER"
-msgstr ""
+msgstr "Multijugador"
 
 msgid "CNTRLMNU_SAY"
-msgstr ""
+msgstr "Digues"
 
 msgid "CNTRLMNU_WEAPONS_TITLE"
-msgstr ""
+msgstr "Personalitzar controls d'armes"
 
 msgid "CNTRLMNU_INVENTORY_TITLE"
-msgstr ""
+msgstr "Personalitzar controls d'inventari"
 
 msgid "CNTRLMNU_OTHER_TITLE"
-msgstr ""
+msgstr "Personalitzar altres controls"
 
 msgid "CNTRLMNU_WEAPONS"
-msgstr ""
+msgstr "Armes"
 
 msgid "CNTRLMNU_NEXTWEAPON"
-msgstr ""
+msgstr "Arma següent"
 
 msgid "CNTRLMNU_PREVIOUSWEAPON"
-msgstr ""
+msgstr "Arma anterior"
 
 msgid "CNTRLMNU_SLOT1"
-msgstr ""
+msgstr "Arma 1"
 
 msgid "CNTRLMNU_SLOT2"
-msgstr ""
+msgstr "Arma 2"
 
 msgid "CNTRLMNU_SLOT3"
-msgstr ""
+msgstr "Arma 3"
 
 msgid "CNTRLMNU_SLOT4"
-msgstr ""
+msgstr "Arma 4"
 
 msgid "CNTRLMNU_SLOT5"
-msgstr ""
+msgstr "Arma 5"
 
 msgid "CNTRLMNU_SLOT6"
-msgstr ""
+msgstr "Arma 6"
 
 msgid "CNTRLMNU_SLOT7"
-msgstr ""
+msgstr "Arma 7"
 
 msgid "CNTRLMNU_SLOT8"
-msgstr ""
+msgstr "Arma 8"
 
 msgid "CNTRLMNU_SLOT9"
-msgstr ""
+msgstr "Arma 9"
 
 msgid "CNTRLMNU_SLOT0"
-msgstr ""
+msgstr "Arma 10"
 
 msgid "CNTRLMNU_INVENTORY"
-msgstr ""
+msgstr "Inventari"
 
 msgid "CNTRLMNU_USEITEM"
-msgstr ""
+msgstr "Activar objecte"
 
 msgid "CNTRLMNU_USEALLITEMS"
-msgstr ""
+msgstr "Activar tots els objectes"
 
 msgid "CNTRLMNU_NEXTITEM"
-msgstr ""
+msgstr "Objecte següent"
 
 msgid "CNTRLMNU_PREVIOUSITEM"
-msgstr ""
+msgstr "Objecte anterior"
 
 msgid "MAPCNTRLMNU_TITLE"
-msgstr ""
+msgstr "Controls de mapa"
 
 msgid "MAPCNTRLMNU_CONTROLS"
-msgstr ""
+msgstr "Controls de mapa"
 
 msgid "MAPCNTRLMNU_PANLEFT"
-msgstr ""
+msgstr "Panoràmica esquerra"
 
 msgid "MAPCNTRLMNU_PANRIGHT"
-msgstr ""
+msgstr "Panoràmica dreta"
 
 msgid "MAPCNTRLMNU_PANUP"
-msgstr ""
+msgstr "Panoràmica superior"
 
 msgid "MAPCNTRLMNU_PANDOWN"
-msgstr ""
+msgstr "Panoràmica inferior"
 
 msgid "MAPCNTRLMNU_ZOOMIN"
-msgstr ""
+msgstr "Apropar"
 
 msgid "MAPCNTRLMNU_ZOOMOUT"
-msgstr ""
+msgstr "Allunyar"
 
 msgid "MAPCNTRLMNU_TOGGLEZOOM"
-msgstr ""
+msgstr "Activar zoom"
 
 msgid "MAPCNTRLMNU_TOGGLEFOLLOW"
-msgstr ""
+msgstr "Activar seguiment"
 
 msgid "MAPCNTRLMNU_TOGGLEGRID"
-msgstr ""
+msgstr "Activar quadrícula"
 
 msgid "MAPCNTRLMNU_ROTATE"
-msgstr ""
+msgstr "Activar rotació"
 
 msgid "MAPCNTRLMNU_TOGGLETEXTURE"
-msgstr ""
+msgstr "Activar textura"
 
 msgid "CNTRLMNU_AUTOMAP"
-msgstr ""
+msgstr "Activar automapa"
 
 msgid "CNTRLMNU_CHASECAM"
-msgstr ""
+msgstr "Càmera de seguiment"
 
 msgid "CNTRLMNU_SCREENSHOT"
-msgstr ""
+msgstr "Captura de pantalla"
 
 msgid "CNTRLMNU_PAUSE"
-msgstr ""
+msgstr "Pausa"
 
 msgid "CNTRLMNU_DISPLAY_INC"
-msgstr ""
+msgstr "Augmentar tamany de pantalla"
 
 msgid "CNTRLMNU_DISPLAY_DEC"
-msgstr ""
+msgstr "Reduir mida de pantalla"
 
 msgid "CNTRLMNU_OPEN_HELP"
-msgstr ""
+msgstr "Obrir ajuda"
 
 msgid "CNTRLMNU_OPEN_SAVE"
-msgstr ""
+msgstr "Obrir menú de guardat"
 
 msgid "CNTRLMNU_OPEN_LOAD"
-msgstr ""
+msgstr "Obrir menu de càrrega"
 
 msgid "CNTRLMNU_OPEN_OPTIONS"
-msgstr ""
+msgstr "Obrir opcions de menú"
 
 msgid "CNTRLMNU_OPEN_DISPLAY"
-msgstr ""
+msgstr "Obrir menú de pantalla"
 
 msgid "CNTRLMNU_QUICKSAVE"
-msgstr ""
+msgstr "Desat ràpid"
 
 msgid "CNTRLMNU_QUICKLOAD"
-msgstr ""
+msgstr "Càrrega ràpida"
 
 msgid "CNTRLMNU_EXIT_TO_MAIN"
-msgstr ""
+msgstr "Sortir al menú principal"
 
 msgid "CNTRLMNU_TOGGLE_MESSAGES"
-msgstr ""
+msgstr "Activar missatges"
 
 msgid "CNTRLMNU_MENU_QUIT"
-msgstr ""
+msgstr "Sortir del joc"
 
 msgid "MOUSEMNU_ENABLEMOUSE"
-msgstr ""
+msgstr "Activar ratolí"
 
 msgid "MOUSEMNU_MOUSEINMENU"
 msgstr ""
