@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-06-01 21:51+0000\n"
+"PO-Revision-Date: 2026-06-01 23:01+0000\n"
 "Last-Translator: Júlia Rosell Saldaña <contacte@juliars.cat>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/ca/>\n"
 "Language: ca\n"
@@ -159,8 +159,8 @@ msgstr ""
 
 msgid "QUITMSG15"
 msgstr ""
-"Surts ara? \n"
-"L’Orde n’estarà encantat."
+"Surts ara?! \n"
+"Què passa amb la rebel·lió?"
 
 msgid "QUITMSG16"
 msgstr ""
@@ -179,58 +179,76 @@ msgid "QUITMSG19"
 msgstr "Marxa ara i l’Orde guanyarà un altre dia."
 
 msgid "QUITMSG20"
-msgstr "Endavant. El Front intentarà sobreviure sense tu."
+msgstr "Endavant! Mata i corre!"
 
 msgid "QUITMSG21"
-msgstr "Un heroi només marxa quan la feina està feta."
+msgstr ""
+"Un heroi només marxa \n"
+"quan la feina està feta…"
 
 msgid "QUITMSG22"
-msgstr "D’acord. Però no esperis que els acòlits et trobin a faltar."
+msgstr ""
+"D’acord. Però no esperis \n"
+"que els acòlits et trobin a faltar."
 
 msgid "QUITMSG23"
-msgstr "Segur que vols sortir de Chex Quest?"
+msgstr ""
+"Segur que vols sortir \n"
+"de Chex Quest?"
 
 msgid "QUITMSG24"
-msgstr "Els flemoids encara són allà fora!"
+msgstr ""
+"Els flemoids encara \n"
+"són allà fora!"
 
 msgid "QUITMSG25"
-msgstr "No deixis enrere els teus zorchers!"
+msgstr ""
+"No deixis enrere \n"
+"els teus zorchers!"
 
 msgid "QUITMSG26"
-msgstr "Si marxes ara, l’esmorzar està perdut."
+msgstr ""
+"Si marxes ara, \n"
+"l’esmorzar està perdut."
 
 msgid "QUITMSG27"
-msgstr "La Federació Intergalàctica et necessita!"
+msgstr ""
+"La Federació Intergalàctica\n"
+" et necessita!"
 
 msgid "QUITMSG28"
-msgstr "El planeta Bazoik compta amb tu!"
+msgstr ""
+"El planeta Bazoik \n"
+"compta amb tu!"
 
 msgid "QUITMSG29"
-msgstr "Endavant, però els flemoids t’estaran esperant."
+msgstr ""
+"Endavant, però els \n"
+"flemoids t’estaran esperant."
 
 msgid "TXT_DEFAULTPICKUPMSG"
-msgstr "Has agafat un objecte."
+msgstr "Has agafat un objecte"
 
 msgid "PD_ANY"
-msgstr "Necessites una clau per obrir aquesta porta."
+msgstr "Necessites una clau per obrir aquesta porta"
 
 msgid "PD_ANYOBJ"
-msgstr "Necessites una clau per activar aquest objecte."
+msgstr "Necessites una clau per activar aquest objecte"
 
 msgid "PD_ALL3"
-msgstr "Necessites les tres claus per obrir aquesta porta."
+msgstr "Necessites les tres claus per obrir aquesta porta"
 
 msgid "PD_ALL3O"
-msgstr "Necessites les tres claus per activar aquest objecte."
+msgstr "Necessites les tres claus per activar aquest objecte"
 
 msgid "PD_ALL6"
-msgstr "Necessites les sis claus per obrir aquesta porta."
+msgstr "Necessites les sis claus per obrir aquesta porta"
 
 msgid "PD_ALL6O"
-msgstr "Necessites les sis claus per activar aquest objecte."
+msgstr "Necessites les sis claus per activar aquest objecte"
 
 msgid "PD_ALLKEYS"
-msgstr "Necessites totes les claus per obrir aquesta porta."
+msgstr "Necessites totes les claus per obrir aquesta porta"
 
 msgid "HUSTR_MSGU"
 msgstr "[Missatge no enviat]"
@@ -260,16 +278,16 @@ msgid "STSTR_NOMUS"
 msgstr "Selecció impossible"
 
 msgid "STSTR_DQDON"
-msgstr "Mode invulnerable: ACTIVAT"
+msgstr "Mode invulnerable: ON"
 
 msgid "STSTR_DQDOFF"
-msgstr "Mode invulnerable: DESACTIVAT"
+msgstr "Mode invulnerable: OFF"
 
 msgid "STSTR_DQD2ON"
-msgstr "Mode invulnerable definitiu: ACTIVAT"
+msgstr "Mode invulnerable definitiu: ON"
 
 msgid "STSTR_DQD2OFF"
-msgstr "Mode invulnerable definitiu: DESACTIVAT"
+msgstr "Mode invulnerable definitiu: OFF"
 
 msgid "STSTR_KFAADDED"
 msgstr "Munició molt feliç afegida"
@@ -278,16 +296,16 @@ msgid "STSTR_FAADDED"
 msgstr "Munició afegida (sense claus)"
 
 msgid "STSTR_NCON"
-msgstr "Mode travessar parets: ACTIVAT"
+msgstr "Mode travessar parets: ON"
 
 msgid "STSTR_NCOFF"
-msgstr "Mode travessar parets: DESACTIVAT"
+msgstr "Mode travessar parets: OFF"
 
 msgid "STSTR_NC2ON"
-msgstr "Mode travessar parets 3D: ACTIVAT"
+msgstr "Mode travessar parets 3D: ON"
 
 msgid "STSTR_NC2OFF"
-msgstr "Mode travessar parets 3D: DESACTIVAT"
+msgstr "Mode travessar parets 3D: OFF"
 
 msgid "STSTR_BEHOLD"
 msgstr "Invuln., Força, Invis., Rad., Tot el mapa o Amplificador"
@@ -302,16 +320,16 @@ msgid "STSTR_CLEV"
 msgstr "Canviant de nivell…"
 
 msgid "TXT_BUDDHAON"
-msgstr "Mode Buda: ACTIVAT"
+msgstr "Mode Buda: ON"
 
 msgid "TXT_BUDDHAOFF"
-msgstr "Mode Buda: DESACTIVAT"
+msgstr "Mode Buda: OFF"
 
 msgid "TXT_BUDDHA2ON"
-msgstr "Mode Buda definitiu: ACTIVAT"
+msgstr "Mode Buda definitiu: ON"
 
 msgid "TXT_BUDDHA2OFF"
-msgstr "Mode Buda definitiu: DESACTIVAT"
+msgstr "Mode Buda definitiu: OFF"
 
 msgid "TXT_CHEATPOWERON"
 msgstr "Poder: ACTIVAT"
@@ -540,7 +558,7 @@ msgstr "Entrant a"
 
 msgctxt "heretic hexen"
 msgid "WI_ENTERING"
-msgstr "Entrant a"
+msgstr "Entrant a:"
 
 msgid "AM_MONSTERS"
 msgstr "Monstres:"
@@ -573,7 +591,7 @@ msgid "OB_LAVA"
 msgstr "%o s’ha fos."
 
 msgid "OB_BARREL"
-msgstr "%o ha mort per culpa de BARREL."
+msgstr "%o han esclatat."
 
 msgid "OB_SPLASH"
 msgstr "%o s’ha posat on no tocava."
@@ -591,16 +609,16 @@ msgid "OB_VOODOO"
 msgstr "%o ha mort pel poder del vudú."
 
 msgid "OB_MPTELEFRAG"
-msgstr "%o ha estat abatut amb MPTELEFRAG."
+msgstr "%o ha estat telefragetat per %k."
 
 msgid "OB_MONTELEFRAG"
-msgstr "%o ha mort per culpa de MONTELEFRAG."
+msgstr "%o ha estat telefragetat."
 
 msgid "OB_DEFAULT"
 msgstr "%o ha mort."
 
 msgid "OB_MPDEFAULT"
-msgstr "%o ha estat abatut amb MP per defecte."
+msgstr "%o ha estat abatut per %k."
 
 msgid "OB_FRIENDLY1"
 msgstr "%k ha abatut un company d’equip."
@@ -726,7 +744,7 @@ msgid "GOTSHOTGUN2"
 msgstr "Has aconseguit la superescopeta!"
 
 msgid "PICKUP_PISTOL_DROPPED"
-msgstr "Recollida PISTOLDROPPED"
+msgstr "Recollida pistola."
 
 msgid "BETA_BONUS1"
 msgstr "Agafes una daga demoníaca."
@@ -735,64 +753,64 @@ msgid "BETA_BONUS2"
 msgstr "Agafes un cofre de cranis."
 
 msgid "BETA_BONUS3"
-msgstr "Bonificació"
+msgstr "Agafes un ceptre malvat."
 
 msgid "BETA_BONUS4"
-msgstr "Bonificació"
+msgstr "Agafes una bíblia impia."
 
 msgid "PD_BLUEO"
-msgstr "Necessites una clau blava per activar aquest objecte."
+msgstr "Necessites una clau blava per activar aquest objecte"
 
 msgid "PD_REDO"
-msgstr "Necessites una clau vermella per activar aquest objecte."
+msgstr "Necessites una clau vermella per activar aquest objecte"
 
 msgid "PD_YELLOWO"
-msgstr "Necessites una clau groga per activar aquest objecte."
+msgstr "Necessites una clau groga per activar aquest objecte"
 
 msgid "PD_BLUEK"
-msgstr "Necessites una clau blava per obrir aquesta porta."
+msgstr "Necessites una clau blava per obrir aquesta porta"
 
 msgid "PD_REDK"
-msgstr "Necessites una clau vermella per obrir aquesta porta."
+msgstr "Necessites una clau vermella per obrir aquesta porta"
 
 msgid "PD_YELLOWK"
-msgstr "Necessites una clau groga per obrir aquesta porta."
+msgstr "Necessites una clau groga per obrir aquesta porta"
 
 msgid "PD_BLUECO"
-msgstr "Necessites una targeta clau blava per activar aquest objecte."
+msgstr "Necessites una targeta clau blava per activar aquest objecte"
 
 msgid "PD_REDCO"
-msgstr "Necessites una targeta clau vermella per activar aquest objecte."
+msgstr "Necessites una targeta clau vermella per activar aquest objecte"
 
 msgid "PD_YELLOWCO"
-msgstr "Necessites una targeta clau groga per activar aquest objecte."
+msgstr "Necessites una targeta clau groga per activar aquest objecte"
 
 msgid "PD_BLUESO"
-msgstr "Necessites una clau de crani blava per activar aquest objecte."
+msgstr "Necessites una clau de crani blava per activar aquest objecte"
 
 msgid "PD_REDSO"
-msgstr "Necessites una clau de crani vermella per activar aquest objecte."
+msgstr "Necessites una clau de crani vermella per activar aquest objecte"
 
 msgid "PD_YELLOWSO"
-msgstr "Necessites una clau de crani groga per activar aquest objecte."
+msgstr "Necessites una clau de crani groga per activar aquest objecte"
 
 msgid "PD_BLUEC"
-msgstr "Necessites una targeta clau blava per obrir aquesta porta."
+msgstr "Necessites una targeta clau blava per obrir aquesta porta"
 
 msgid "PD_REDC"
-msgstr "Necessites una targeta clau vermella per obrir aquesta porta."
+msgstr "Necessites una targeta clau vermella per obrir aquesta porta"
 
 msgid "PD_YELLOWC"
-msgstr "Necessites una targeta clau groga per obrir aquesta porta."
+msgstr "Necessites una targeta clau groga per obrir aquesta porta"
 
 msgid "PD_BLUES"
-msgstr "Necessites una clau de crani blava per obrir aquesta porta."
+msgstr "Necessites una clau de crani blava per obrir aquesta porta"
 
 msgid "PD_REDS"
-msgstr "Necessites una clau de crani vermella per obrir aquesta porta."
+msgstr "Necessites una clau de crani vermella per obrir aquesta porta"
 
 msgid "PD_YELLOWS"
-msgstr "Necessites una clau de crani groga per obrir aquesta porta."
+msgstr "Necessites una clau de crani groga per obrir aquesta porta"
 
 msgid "CC_ZOMBIE"
 msgstr "Zombi"
@@ -831,7 +849,7 @@ msgid "CC_REVEN"
 msgstr "Revenant"
 
 msgid "CC_MANCU"
-msgstr "Mancubus"
+msgstr "Homcube"
 
 msgid "CC_ARCH"
 msgstr "Arxivile"
@@ -1623,7 +1641,7 @@ msgid "TAG_MWEAPLIGHTNING"
 msgstr "Arc de la mort"
 
 msgid "TAG_MWEAPBLOODSCOURGE"
-msgstr "Bloodscourge"
+msgstr "Flagell de sang"
 
 msgid "TAG_ARTIBLASTRADIUS"
 msgstr "Disc de repulsió"
@@ -2079,7 +2097,7 @@ msgid "TXT_NEED_REDCRYSTAL"
 msgstr "Necessites cristall vermell."
 
 msgid "TXT_NEED_BLUECRYSTAL"
-msgstr "Necessites cristall blau."
+msgstr "Necessites cristall blau"
 
 msgid "TXT_RETAIL_ONLY"
 msgstr "Aquesta zona només està disponible a la versió comercial de Strife"
@@ -2835,7 +2853,7 @@ msgid "MNU_QUITGAME"
 msgstr "Surt del joc"
 
 msgid "MNU_CHOOSESKILL"
-msgstr "Tria nivell de dificultat"
+msgstr "Tria nivell de dificultat:"
 
 msgid "SKILL_BABY"
 msgstr "Sóc massa jove per morir"
@@ -2943,7 +2961,7 @@ msgid "MNU_ARCHMAGE"
 msgstr "Arximag"
 
 msgid "MNU_CHOOSECLASS"
-msgstr "Tria classe"
+msgstr "Tria classe:"
 
 msgid "MNU_FIGHTER"
 msgstr "Lluitador"
@@ -5034,12 +5052,12 @@ msgstr "Limita l’amplada del consell"
 msgid "ACCMNU_TOOLTIP_SCALE"
 msgstr "Text gran als consells"
 
-#, fuzzy
 msgid "ACCMNU_TOOLTIP_EXAMPLE"
 msgstr ""
-"\n"
-"\n"
-"\n"
+"Aquest és un exemple de descripció emergent.\n"
+"Aquí teniu text suplementari.\n"
+"…\n"
+"Aquí teniu una línia de text molt llarga que sembla que s'allarga i s'allarga sense tenir mai res d'interessant a dir, aparentment només perquè els desenvolupadors tenen dificultats per explicar què fa una opció."
 
 msgid "ACCMNU_TOOLTIP"
 msgstr "Consells emergents"
