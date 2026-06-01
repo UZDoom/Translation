@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-06-01 04:01+0000\n"
+"PO-Revision-Date: 2026-06-01 12:01+0000\n"
 "Last-Translator: Yu Ji Wan <z1wan@hanmail.net>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/ko/>\n"
 "Language: ko\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2026.6.dev0\n"
+"X-Generator: Weblate 2026.6\n"
 
 msgid "PRESSKEY"
 msgstr "키를 누르시오."
@@ -3128,10 +3128,10 @@ msgid "GMPLYMNU_BFGFREEAIM"
 msgstr "BFG 조준 허용"
 
 msgid "GMPLYMNU_ALLOWAUTOMAP"
-msgstr "오토맵 허용"
+msgstr "맵 지도 허용"
 
 msgid "GMPLYMNU_AUTOMAPALLIES"
-msgstr "오토맵에 아군 표시"
+msgstr "맵 지도에 아군 표시"
 
 msgid "GMPLYMNU_ALLOWSPYING"
 msgstr "관전 허용"
@@ -3620,7 +3620,7 @@ msgid "AUTOMAPMNU_CONTROLS"
 msgstr "맵 조작 설정"
 
 msgid "AUTOMAPMNU_OVERLAY"
-msgstr "오토맵을 오버레이"
+msgstr "맵 지도를 오버레이"
 
 msgid "AUTOMAPMNU_TEXTURED"
 msgstr "텍스쳐 디스플레이 허용"
@@ -3767,7 +3767,7 @@ msgid "ALTHUDMNU_ARMORGREEN"
 msgstr "녹색 아머 밑에 표시"
 
 msgid "ALTHUDMNU_AUTOMAPHUD"
-msgstr "대체 오토맵 HUD"
+msgstr "대체 맵 지도 HUD"
 
 msgid "ALTHUDMNU_TITLECOLOR"
 msgstr "맵 제목 색깔"
