@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-06-01 21:35+0000\n"
+"PO-Revision-Date: 2026-06-01 21:51+0000\n"
 "Last-Translator: Júlia Rosell Saldaña <contacte@juliars.cat>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/uzdoom/meta/ca/>\n"
 "Language: ca\n"
@@ -13,10 +13,10 @@ msgstr ""
 "X-Generator: Weblate 2026.6\n"
 
 msgid "USE_GENERIC_FONT"
-msgstr ""
+msgstr "0"
 
 msgid "REQUIRED_CHARACTERS"
-msgstr ""
+msgstr "A À B C D E È É F G H I Í Ï J K L M N O Ó Ò P Q R S T U Ú Ü V W X Y Z Ç"
 
 msgid "LANG_NATIVE"
 msgstr "Català"
