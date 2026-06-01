@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-06-01 12:01+0000\n"
+"PO-Revision-Date: 2026-06-01 20:01+0000\n"
 "Last-Translator: Yu Ji Wan <z1wan@hanmail.net>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/common/ko/>\n"
 "Language: ko\n"
@@ -102,7 +102,7 @@ msgid "OPTMNU_TITLE"
 msgstr "설정"
 
 msgid "OPTMNU_CONTROLS"
-msgstr "조작 사용자 지정"
+msgstr "조작 설정"
 
 msgid "OPTMNU_MOUSE"
 msgstr "마우스 설정"
@@ -117,13 +117,13 @@ msgid "OPTMNU_GAMEPLAY"
 msgstr "게임 설정"
 
 msgid "OPTMNU_AUTOMAP"
-msgstr "맵 지도 설정"
+msgstr "지도 화면 설정"
 
 msgid "OPTMNU_HUD"
 msgstr "HUD 설정"
 
 msgid "OPTMNU_MISCELLANEOUS"
-msgstr "기타(ETC) 설정"
+msgstr "기타 설정"
 
 msgid "OPTMNU_SOUND"
 msgstr "음향 설정"
@@ -132,7 +132,7 @@ msgid "OPTMNU_DISPLAY"
 msgstr "디스플레이 설정"
 
 msgid "OPTMNU_VIDEO"
-msgstr "비디오 설정"
+msgstr "화면 설정"
 
 msgid "OPTMNU_DEFAULTS"
 msgstr "초기화"
@@ -348,7 +348,7 @@ msgid "MAPCNTRLMNU_TOGGLETEXTURE"
 msgstr "미니맵 텍스쳐 조정"
 
 msgid "CNTRLMNU_AUTOMAP"
-msgstr "맵 지도 조정"
+msgstr "지도 화면 조정"
 
 msgid "CNTRLMNU_CHASECAM"
 msgstr "3인칭 카메라"
@@ -654,7 +654,7 @@ msgid "MNU_COLORPICKER"
 msgstr "색상을 고르시오"
 
 msgid "AUTOMAPMNU_ROTATE"
-msgstr "맵 지도 회전"
+msgstr "지도 화면 회전"
 
 msgid "AUTOMAPMNU_FOLLOW"
 msgstr "플레이어 추적"
@@ -1274,7 +1274,7 @@ msgid "GLTEXMNU_PRECACHETEX"
 msgstr "지엘 텍스쳐 미리 캐싱함"
 
 msgid "VIDMNU_TITLE"
-msgstr "비디오 설정"
+msgstr "화면 설정"
 
 msgid "OPTVAL_LETTERBOX"
 msgstr "레터박스"
@@ -1440,7 +1440,7 @@ msgid "OPTVAL_YES_ENHANCED"
 msgstr "고급"
 
 msgid "OPTMNU_LANGUAGE"
-msgstr "언어(Language)"
+msgstr "언어"
 
 msgid "TXT_UNDOCHANGES"
 msgstr "변경 사항 취소"
@@ -1506,7 +1506,7 @@ msgid "REVMNU_Environments_to_save"
 msgstr "저장할 공간"
 
 msgid "DSPLYMNU_VKOPT"
-msgstr "Vulkan 설정(실험적)"
+msgstr "Vulkan 설정 (실험적)"
 
 msgid "VK_TITLE"
 msgstr "Vulkan 설정"
