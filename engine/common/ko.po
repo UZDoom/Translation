@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-06-01 01:01+0000\n"
+"PO-Revision-Date: 2026-06-01 04:01+0000\n"
 "Last-Translator: Yu Ji Wan <z1wan@hanmail.net>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/common/ko/>\n"
 "Language: ko\n"
@@ -780,7 +780,7 @@ msgid "SNDMNU_MODREPLAYER"
 msgstr "모듈 재생 설정"
 
 msgid "SNDMNU_MIDIPLAYER"
-msgstr "MIDI 디바이스 설정"
+msgstr "MIDI 장치 설정"
 
 msgid "ADVSNDMNU_TITLE"
 msgstr "고급 음향 설정"
@@ -1384,7 +1384,7 @@ msgid "OPTVAL_OPENGL"
 msgstr "OpenGL"
 
 msgid "OPTVAL_VULKAN"
-msgstr "벌칸"
+msgstr "Vulkan"
 
 # Rendering backend
 msgid "OPTVAL_OPENGLES"
@@ -1506,19 +1506,19 @@ msgid "REVMNU_Environments_to_save"
 msgstr "저장할 공간"
 
 msgid "DSPLYMNU_VKOPT"
-msgstr "벌칸 설정(실험적)"
+msgstr "Vulkan 설정(실험적)"
 
 msgid "VK_TITLE"
-msgstr "벌칸 설정"
+msgstr "Vulkan 설정"
 
 msgid "VKMNU_DEVICE"
-msgstr "벌칸 장치 아이디"
+msgstr "Vulkan 장치 아이디"
 
 msgid "VKMNU_HDR"
 msgstr "하이 다이나믹 레인지(HDR)"
 
 msgid "VK_WARNING"
-msgstr "경고: 벌칸 렌더러는 매우 실험적입니다!"
+msgstr "경고: Vulkan 렌더러는 매우 실험적입니다!"
 
 msgid "VK_RESTART"
 msgstr "이 설정을 적용하려면 게임을 재시작해야 합니다."
