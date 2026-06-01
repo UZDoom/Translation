@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-06-01 01:01+0000\n"
+"PO-Revision-Date: 2026-06-01 04:01+0000\n"
 "Last-Translator: Yu Ji Wan <z1wan@hanmail.net>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/ko/>\n"
 "Language: ko\n"
@@ -665,7 +665,7 @@ msgid "GOTHTHBONUS"
 msgstr "체력 보너스를 얻었다."
 
 msgid "GOTARMBONUS"
-msgstr "보호 보너스를 얻었다."
+msgstr "방어구 보너스를 얻었다."
 
 msgid "GOTSTIM"
 msgstr "스팀팩을 사용했다."
@@ -5012,7 +5012,7 @@ msgstr "피해를 입음으로써"
 
 # Rumble from bumping into things, crossing lines, and quakes
 msgid "HAPMNU_OPT_WORLD"
-msgstr "세상 과 소통하는 것부터"
+msgstr "세상과 소통하는 것부터"
 
 msgid "PAUSE_STRING"
 msgstr "일시정지"
