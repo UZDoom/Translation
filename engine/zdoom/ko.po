@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-06-01 12:01+0000\n"
+"PO-Revision-Date: 2026-06-01 20:01+0000\n"
 "Last-Translator: Yu Ji Wan <z1wan@hanmail.net>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/ko/>\n"
 "Language: ko\n"
@@ -3232,13 +3232,13 @@ msgid "GMPLYMNU_NOEXTRAAMMO"
 msgstr "무기 추가 탄약 제공(DM)"
 
 msgid "OPTMNU_COMPATIBILITY"
-msgstr "호환 설정"
+msgstr "호환성 설정"
 
 msgid "CMPTMNU_TITLE"
 msgstr "호환성 설정"
 
 msgid "CMPTMNU_MODE"
-msgstr "호환 모드"
+msgstr "호환성 모드"
 
 msgid "CMPTMNU_ACTORBEHAVIOR"
 msgstr "개체 관련 설정"
@@ -4356,7 +4356,7 @@ msgid "GLLIGHTMNU_TITLE"
 msgstr "동적 조명"
 
 msgid "GLLIGHTMNU_LIGHTSENABLED"
-msgstr "동적 조명(하드웨어)"
+msgstr "동적 조명 (하드웨어)"
 
 msgid "GLLIGHTMNU_LIGHTSPRITES"
 msgstr "조명에 영향받는 스프라이트"
@@ -4537,7 +4537,7 @@ msgid "TCMNU_MIPMAP"
 msgstr "밉맵 텍스쳐 사용"
 
 msgid "TCMNU_DYNLIGHTS"
-msgstr "동적 조명(소프트웨어)"
+msgstr "동적 조명 (소프트웨어)"
 
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "항상 키들을 표시"
@@ -4971,7 +4971,7 @@ msgid "NETMNU_READYPERCENT"
 msgstr "투표 건너뛰기 비율"
 
 msgid "NETMNU_READYCOUNTDOWN"
-msgstr "투표 마감 카운트다운 시간(초)"
+msgstr "투표 마감 카운트다운 시간 (초)"
 
 # Forces a cool down between chat messages for all players when playing
 # online.
