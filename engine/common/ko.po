@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-06-01 20:01+0000\n"
+"PO-Revision-Date: 2026-06-03 06:01+0000\n"
 "Last-Translator: Yu Ji Wan <z1wan@hanmail.net>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/common/ko/>\n"
 "Language: ko\n"
@@ -1172,7 +1172,7 @@ msgid "GLPREFMNU_PALTONEMAPPOWER"
 msgstr "톤맵 팔레트 지수"
 
 msgid "GLPREFMNU_MULTISAMPLE"
-msgstr "안티 앨리어싱(MSAA)"
+msgstr "안티 앨리어싱 (MSAA)"
 
 msgid "GLPREFMNU_BLOOM"
 msgstr "블룸 효과"
@@ -1515,7 +1515,7 @@ msgid "VKMNU_DEVICE"
 msgstr "Vulkan 장치 아이디"
 
 msgid "VKMNU_HDR"
-msgstr "하이 다이나믹 레인지(HDR)"
+msgstr "하이 다이나믹 레인지 (HDR)"
 
 msgid "VK_WARNING"
 msgstr "경고: Vulkan 렌더러는 매우 실험적입니다!"
