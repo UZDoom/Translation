@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-06-03 06:01+0000\n"
+"PO-Revision-Date: 2026-06-06 11:01+0000\n"
 "Last-Translator: Yu Ji Wan <z1wan@hanmail.net>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/common/ko/>\n"
 "Language: ko\n"
@@ -1178,10 +1178,10 @@ msgid "GLPREFMNU_BLOOM"
 msgstr "블룸 효과"
 
 msgid "GLPREFMNU_SSAO"
-msgstr "엠비언트 오클루전 품질"
+msgstr "앰비언트 오클루전 품질"
 
 msgid "GLPREFMNU_SSAO_PORTALS"
-msgstr "엠비언트 오클루전 포탈"
+msgstr "앰비언트 오클루전 포탈"
 
 msgid "GLPREFMNU_MENUBLUR"
 msgstr "메뉴 흐림 효과"
