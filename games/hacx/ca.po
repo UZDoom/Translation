@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-06-06 23:16+0000\n"
+"PO-Revision-Date: 2026-06-07 01:01+0000\n"
 "Last-Translator: Júlia Rosell Saldaña <contacte@juliars.cat>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/doom-engine-games/hacx-filter/ca/>\n"
 "Language: ca\n"
@@ -324,19 +324,19 @@ msgid "GOTBODYARMOR"
 msgstr "Armadura corporal!"
 
 msgid "GOTCENTROPHENOXINE"
-msgstr ""
+msgstr "Centrefexina"
 
 msgid "GOTKEVLARVEST"
 msgstr "Agafeu una armilla de Kevlar!"
 
 msgid "GOTSKEVLARVEST"
-msgstr ""
+msgstr "Agafes una armilla de Super Kevlar!"
 
 msgid "GOTMICROKIT"
-msgstr ""
+msgstr "Agafes un MicroKit!"
 
 msgid "GOTDAMPENER"
-msgstr ""
+msgstr "Agafes un amortidor!"
 
 msgid "PD_CKEY"
 msgstr "Necessites una clau C per accedir a aquest element!"
@@ -407,7 +407,7 @@ msgstr ""
 "\n"
 "I l'or? Dia, això és gratis.\n"
 "\n"
-"â¦â¦(continuarà)â¦â¦"
+"……¦(continuarà)……"
 
 msgid "X5TEXT"
 msgstr ""
@@ -423,22 +423,22 @@ msgstr ""
 "Tu... estàs sol."
 
 msgid "TXT_HACXMAP01"
-msgstr ""
+msgstr "GenEmp SA."
 
 msgid "TXT_HACXMAP02"
-msgstr ""
+msgstr "Poble del túnel"
 
 msgid "TXT_HACXMAP03"
-msgstr ""
+msgstr "Annex de lava"
 
 msgid "TXT_HACXMAP04"
-msgstr ""
+msgstr "Alcatras"
 
 msgid "TXT_HACXMAP05"
-msgstr ""
+msgstr "Ciber-circ"
 
 msgid "TXT_HACXMAP06"
-msgstr ""
+msgstr "Digiota"
 
 msgid "TXT_HACXMAP07"
 msgstr "La Gran Muralla"
@@ -447,34 +447,34 @@ msgid "TXT_HACXMAP08"
 msgstr "Jardí de les delícies"
 
 msgid "TXT_HACXMAP09"
-msgstr ""
+msgstr "Fortalesa amagada"
 
 msgid "TXT_HACXMAP10"
-msgstr ""
+msgstr "Somni anarquista"
 
 msgid "TXT_HACXMAP11"
-msgstr ""
+msgstr "No ens coneixem!"
 
 msgid "TXT_HACXMAP12"
-msgstr ""
+msgstr "El guant de Gothik"
 
 msgid "TXT_HACXMAP13"
-msgstr ""
+msgstr "Les clavegueres"
 
 msgid "TXT_HACXMAP14"
-msgstr ""
+msgstr "Guerres de Trode"
 
 msgid "TXT_HACXMAP15"
 msgstr "Crepuscle d'Enk"
 
 msgid "TXT_HACXMAP16"
-msgstr ""
+msgstr "Cibex proteà"
 
 msgid "TXT_HACXMAP17"
 msgstr "Riu de Sang"
 
 msgid "TXT_HACXMAP18"
-msgstr ""
+msgstr "Bizarre"
 
 msgid "TXT_HACXMAP19"
 msgstr "Les sales de guerra"
@@ -483,7 +483,7 @@ msgid "TXT_HACXMAP20"
 msgstr "Alerta d'intrus!"
 
 msgid "TXT_HACXMAP31"
-msgstr ""
+msgstr "Sala dessecant"
 
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_CLEV"
@@ -545,7 +545,7 @@ msgstr "Seguiment activat"
 
 msgctxt "doom hacx.hacx1"
 msgid "AMSTR_FOLLOWOFF"
-msgstr ""
+msgstr "Seguiment DESACTIVAT"
 
 msgctxt "doom hacx.hacx1"
 msgid "DOSY"
@@ -585,41 +585,41 @@ msgstr ""
 "Premeu Y o N."
 
 msgid "CC_THUG"
-msgstr ""
+msgstr "Brètol"
 
 msgid "CC_ANDROID"
-msgstr ""
+msgstr "Androide"
 
 msgid "CC_ICE"
-msgstr ""
+msgstr "ICE"
 
 msgid "CC_BUZZER"
-msgstr ""
+msgstr "Brunzidor"
 
 msgid "CC_DMAN"
-msgstr ""
+msgstr "Home-D"
 
 msgid "CC_PHAGE"
-msgstr ""
+msgstr "Fag"
 
 msgid "CC_MONSTRUCT"
-msgstr ""
+msgstr "Monstructe"
 
 msgid "CC_MECH"
-msgstr ""
+msgstr "Meca Maníac"
 
 msgid "CC_TERMI"
-msgstr ""
+msgstr "Terminàtrix"
 
 msgid "CC_THORN"
-msgstr ""
+msgstr "Cosa punxeguda"
 
 msgid "CC_MAJONG"
-msgstr ""
+msgstr "Mahjong 7"
 
 msgctxt "doom hacx.hacx1"
 msgid "CC_HERO"
-msgstr ""
+msgstr "Dan Evanger"
 
 msgctxt "doom hacx.hacx1"
 msgid "SKILL_BABY"
