@@ -2,184 +2,264 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: \n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-06-09 00:01+0000\n"
+"Last-Translator: Júlia Rosell Saldaña <contacte@juliars.cat>\n"
+"Language-Team: Latin <https://hosted.weblate.org/projects/doom-engine-games/doom-2/la/>\n"
 "Language: la\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2026.6\n"
 
 msgid "TXT_D2E1"
-msgstr ""
+msgstr "Infernum ad Terram"
 
 # References "No rest for the wicked" in Isaiah 48:22
 msgid "TXT_D2E2"
-msgstr ""
+msgstr "Non Requiem Vivi"
 
 # Note that the "LEVEL" part of the string will be stripped so it shouldn't be
 # translated
 msgid "HUSTR_1"
-msgstr ""
+msgstr "Gradus I: Entryway"
 
 msgid "HUSTR_2"
-msgstr ""
+msgstr "Gradus II: Underhalls"
 
 # “a form of punishment in which a person is forced to run between two lines
 # of men facing each other and armed with clubs or whips to beat the victim”
 msgid "HUSTR_3"
-msgstr ""
+msgstr "Gradus 3: The Gantlet"
 
 msgid "HUSTR_4"
-msgstr ""
+msgstr "Gradus 4: Focus"
 
 msgid "HUSTR_5"
-msgstr ""
+msgstr "Gradus V: Vastum cuniculis"
 
 msgid "HUSTR_6"
-msgstr ""
+msgstr "Gradus VI: De comprimens"
 
 msgid "HUSTR_7"
-msgstr ""
+msgstr "Gradus VII: Mortuus Simplex"
 
 msgid "HUSTR_8"
-msgstr ""
+msgstr "Gradus VIII: Furta et Traps"
 
 msgid "HUSTR_9"
-msgstr ""
+msgstr "Gradus 9: Pit"
 
 msgid "HUSTR_10"
-msgstr ""
+msgstr "Gradus X: Refueling Base"
 
 # Alternative title:
 # Circle of Death
 msgid "HUSTR_11"
-msgstr ""
+msgstr "Gradus XI: O contritio!"
 
 msgid "HUSTR_12"
-msgstr ""
+msgstr "Gradus XII: Factory"
 
 msgid "HUSTR_13"
-msgstr ""
+msgstr "Gradus XIII: Downtown"
 
 msgid "HUSTR_14"
-msgstr ""
+msgstr "Gradus XIV: Dens intima"
 
 msgid "HUSTR_15"
-msgstr ""
+msgstr "Gradus XV: Zonam Industrial"
 
 msgid "HUSTR_16"
-msgstr ""
+msgstr "Gradus 16: Suburbs"
 
 msgid "HUSTR_17"
-msgstr ""
+msgstr "Gradus 17 : Tenementa"
 
 msgid "HUSTR_18"
-msgstr ""
+msgstr "Gradus XVIII: Atrium"
 
 msgid "HUSTR_19"
-msgstr ""
+msgstr "Gradus XIX: Arcem"
 
 msgid "HUSTR_20"
-msgstr ""
+msgstr "Gradus 20: Gotcha!"
 
 msgid "HUSTR_21"
-msgstr ""
+msgstr "Gradus 21: Nirvana"
 
 msgid "HUSTR_22"
-msgstr ""
+msgstr "Gradus 22: The Catacumbæ"
 
 msgid "HUSTR_23"
-msgstr ""
+msgstr "Gradus 23: Barrels O' Fun"
 
 msgid "HUSTR_24"
-msgstr ""
+msgstr "Gradus 24: The Chasma"
 
 msgid "HUSTR_25"
-msgstr ""
+msgstr "Gradus XXV: Sanguis"
 
 msgid "HUSTR_26"
-msgstr ""
+msgstr "Gradus XXVI: De metallis relicti"
 
 msgid "HUSTR_27"
-msgstr ""
+msgstr "Gradus 27: Monstrum Condo ."
 
 msgid "HUSTR_28"
-msgstr ""
+msgstr "Gradus 28: De Spiritu Mundo"
 
 msgid "HUSTR_29"
-msgstr ""
+msgstr "Gradus XXIX: DE VIVERE FINEM"
 
 msgid "HUSTR_30"
-msgstr ""
+msgstr "Gradus 30: Icon Sin"
 
 msgid "HUSTR_31"
-msgstr ""
+msgstr "Gradus 31: Wolfenstein"
 
 msgid "HUSTR_32"
-msgstr ""
+msgstr "Gradus 32: Grosse"
 
 msgid "HUSTR_31B"
-msgstr ""
+msgstr "Gradus 31: IDKFA"
 
 msgid "HUSTR_32B"
-msgstr ""
+msgstr "Gradus 32: Keen"
 
 msgid "HUSTR_33"
-msgstr ""
+msgstr "Gradus 33: Prodere"
 
 msgid "NHUSTR_1"
-msgstr ""
+msgstr "Gradus I: Terrae Base"
 
 msgid "NHUSTR_2"
-msgstr ""
+msgstr "Gradus 2: Dolor Labs"
 
 msgid "NHUSTR_3"
-msgstr ""
+msgstr "Gradus III, Canyon of the Dead"
 
 msgid "NHUSTR_4"
-msgstr ""
+msgstr "Gradus 4: Infernus Mons"
 
 msgid "NHUSTR_5"
-msgstr ""
+msgstr "Gradus 5: Vivisection"
 
 msgid "NHUSTR_6"
-msgstr ""
+msgstr "Gradus 6: Inferno sanguinis"
 
 msgid "NHUSTR_7"
-msgstr ""
+msgstr "Gradus 7: Banquet . baronis"
 
 msgid "NHUSTR_8"
-msgstr ""
+msgstr "Gradus 8: Sepulcrum Malevolentiae"
 
 msgid "NHUSTR_9"
-msgstr ""
+msgstr "Gradus IX: March daemonum"
 
 # Doom2 after MAP06
 msgid "C1TEXT"
 msgstr ""
+"Ingressus es penitus in infestatione\n"
+"starport. Sed aliquid falsum est. The\n"
+"Monstra sua re\n"
+"cum eis et starport's ars .\n"
+"eorum praesentia subvertitur.\n"
+"\n"
+"Ante, vides stationem inferni, a\n"
+"zona munita. Si praeterire potes,\n"
+"Penetrare potes in cor uada\n"
+"de starbase et moderantum invenire\n"
+"transibit quod tenet terrae populus\n"
+"obsidem."
 
 # Doom2 after MAP11
 msgid "C2TEXT"
 msgstr ""
+"Vicisti! Tuum victoria est enabled\n"
+"Humanum genus est decedere terram et evadere\n"
+"tantibus. Nunc solus es\n"
+"Humana laeva est telluris in ora.\n"
+"Anthropophagi mutationes, peregrini carnivorae;\n"
+"et spiritus mali proximi tui soli sunt.\n"
+"Sedes et mortem exspecta, contentus\n"
+"quod speciem tuam servasti.\n"
+"\n"
+"Sed tunc, Terra Imperium demittit a\n"
+"nuntius ex spatio: \"Sensores sita sunt\"\n"
+"fons peregrinorum incursus. si\n"
+"ite ibi possis defensio\n"
+"introitum. Basis aliena est in corde\n"
+"patria tua urbs, haud procul a\n"
+"starport. \" Tarde ac dolens vos accipere\n"
+"resupinusque reditque ad proelia."
 
 # Doom 2 after MAP20
 msgid "C3TEXT"
 msgstr ""
+"Corruptum urbis es;\n"
+"cadaveribus hostium circumdatum.\n"
+"Nullo modo vides creaturam destruere'\n"
+"hinc nuam, sic elenchi tuum\n"
+"dentibus immerseris.\n"
+"\n"
+"Oportet esse viam illam claudere\n"
+"alteram partem. Quid ad te pertinet, si quid habes?\n"
+"obtinuit ut per infernum iret ad eam?"
 
 # Doom2 victory
 msgid "C4TEXT"
 msgstr ""
+"Horrenda visio maximus\n"
+"daemon te umquam saxum ante\n"
+"tu, post sentinam tuam nisl in\n"
+"in aperto cerebro. Monstrum macies\n"
+"et perit\n"
+"vastare innumerabilia milia inferni\n"
+"superficiem.\n"
+"\n"
+"Fecisti. Irruptio dicta est.\n"
+"Terra salvatur. Orcus naufragio. Tu\n"
+"mirum quo malos ibit cum\n"
+"mori nunc. Extergendo sudorem tuum\n"
+"frons incipis longum Iter retro\n"
+"domum suam. Terra aedificanda esse debet\n"
+"plus fun quam pernicies fuit.\n"
 
 # Doom2 before MAP31
 msgid "C5TEXT"
 msgstr ""
+"Gratulationes, secretum invenisti\n"
+"gradus! Suus similis aedificata\n"
+"Homines, quam daemones. Miraris\n"
+"qui adposita de angulo huius gehennae\n"
+"erit."
 
 # Doom2 before MAP32
 msgid "C6TEXT"
 msgstr ""
+"Gratulor, invenisti\n"
+"auper arcanum gradus! Melius velis\n"
+"flagrare per hoc unum!\n"
 
 # NRFTL victory
 msgid "NERVETEXT"
 msgstr ""
+"Tribulatio miscendarum in vestri ventus\n"
+"feriarum macula… Infernus. quidam Cyberdemon\n"
+"Punk vicis putavit se posse infernum in a\n"
+"oblectamenti parcum ac tellus\n"
+"tessera umbraculum.\n"
+"\n"
+"Bene, quod spectaculum lusus semi-robot non fecit\n"
+"scito qui venturus sit ad nundinas. Illic's\n"
+"nihil quasi dirigentes gallery plena\n"
+"helloritur ut sanguis elit ...\n"
+"\n"
+"Iam muri daemon labyrinthum\n"
+"sono membrorum metallicum\n"
+"aream Preme. Mortem eius gementes gurgles\n"
+"e per tatam a facie ejus reliquisti.\n"
+"\n"
+"Haec ride clausa est.\n"
+"\n"
