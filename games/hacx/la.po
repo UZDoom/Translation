@@ -2,368 +2,425 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: \n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-06-09 00:01+0000\n"
+"Last-Translator: Júlia Rosell Saldaña <contacte@juliars.cat>\n"
+"Language-Team: Latin <https://hosted.weblate.org/projects/doom-engine-games/hacx-filter/la/>\n"
 "Language: la\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2026.6\n"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG1"
-msgstr ""
+msgstr "Hi bugs etiam lenta pro ya?"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG"
 msgstr ""
+"Visne vero\n"
+"Jack ex actio?"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG2"
-msgstr ""
+msgstr "Conaris quit? Et vocas te piraticam?"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG3"
-msgstr ""
+msgstr "Redi huc priusquam virus tuum tailpipe mitto!"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG4"
-msgstr ""
+msgstr "Verus gratis nunquam extra actum Jack."
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG5"
-msgstr ""
+msgstr "C'mon! Optimam partem nondum vidisti!"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG6"
-msgstr ""
+msgstr "Da nunc, et cyberspace tosti est!"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG7"
-msgstr ""
+msgstr "GENIE optime respicit, scumbag!"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG8"
-msgstr ""
+msgstr "Hmm. Hactenus de heros, Piratica."
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG9"
-msgstr ""
+msgstr "Quid? Redire malles ad calamum?"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG10"
-msgstr ""
+msgstr "De hyacintho Shoulda pill capta."
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG11"
-msgstr ""
+msgstr "Nomen ludi non Vellicare n' Curre!"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG12"
-msgstr ""
+msgstr "Sollicitudines Non. Excepto mundo exspectem iure?"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG13"
-msgstr ""
+msgstr "Tempus coniecto facere sicut rete et findi!"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG14"
-msgstr ""
+msgstr "Noli abire et oblivisci de HacX, nunc!"
 
 msgctxt "doom hacx.hacx1"
 msgid "OB_SUICIDE"
-msgstr ""
+msgstr "%o% se ab universo delevit."
 
 msgctxt "doom hacx.hacx1"
 msgid "OB_FALLING"
-msgstr ""
+msgstr "%o craterem magnitudine Kansas formavit."
 
 msgctxt "doom hacx.hacx1"
 msgid "OB_CRUSH"
-msgstr ""
+msgstr "%o subcinericius factus est homo."
 
 msgctxt "doom hacx.hacx1"
 msgid "OB_EXIT"
-msgstr ""
+msgstr "%o conati sunt Jack."
 
 msgctxt "doom hacx.hacx1"
 msgid "OB_WATER"
-msgstr ""
+msgstr "%o natabat fictilis."
 
 msgctxt "doom hacx.hacx1"
 msgid "OB_SLIME"
-msgstr ""
+msgstr "%o nuclei perrexit."
 
 msgctxt "doom hacx.hacx1"
 msgid "OB_LAVA"
-msgstr ""
+msgstr "%o balneum calidum sumpsit."
 
 msgctxt "doom hacx.hacx1"
 msgid "OB_BARREL"
-msgstr ""
+msgstr "%o in nitro glycerino dose."
 
 msgctxt "doom hacx.hacx1"
 msgid "OB_SPLASH"
-msgstr ""
+msgstr "%o in minutas partes excoriatur."
 
 msgctxt "doom hacx.hacx1"
 msgid "OB_R_SPLASH"
-msgstr ""
+msgstr "%o videre volebant quid %g visi sunt sicut intus."
 
 msgctxt "doom hacx.hacx1"
 msgid "OB_ROCKET"
-msgstr ""
+msgstr "%o videre volebant quid %g visi sunt sicut intus."
 
 msgctxt "doom hacx.hacx1"
 msgid "OB_KILLEDSELF"
-msgstr ""
+msgstr "%o% se ab universo delevit."
 
 msgid "OB_THUG"
-msgstr ""
+msgstr "%o species dominans iam non est."
 
 msgid "OB_ANDROID"
-msgstr ""
+msgstr "%o inplenda ad machinam pravam."
 
 msgid "OB_MONSTRUCT"
-msgstr ""
+msgstr "%o monstrum cyber-assis derriere calcitandi se% obtinuit."
 
 msgid "OB_ICE"
-msgstr ""
+msgstr "%o iced obtinuit."
 
 msgid "OB_BUZZER"
-msgstr ""
+msgstr "%o paulum buzzed sentit."
 
 msgid "OB_STEALTH"
-msgstr ""
+msgstr "%o turpiorem progressionem detegit."
 
 msgid "OB_DMAN"
-msgstr ""
+msgstr "%o e cyberspace deletum est."
 
 msgid "OB_GLASS"
 msgstr ""
 
 msgid "OB_MANIAC"
-msgstr ""
+msgstr "%o vitam finivit."
 
 msgid "OB_MANIACHIT"
-msgstr ""
+msgstr "%o mortuus est aliquo modo temere indagare non possum."
 
 msgid "OB_TERMIN"
-msgstr ""
+msgstr "%o lusus fatale femme frixum erat."
 
 # This text is not gender neutral, obviously...
 msgid "OB_TERMINHIT"
-msgstr ""
+msgstr "%o paulum prope sexus."
 
 msgid "OB_REPLI"
-msgstr ""
+msgstr "%o vale dixit veteri amico."
 
 msgid "OB_REPLIHIT"
-msgstr ""
+msgstr "%o in tergo ab amico veteri confossus est."
 
 msgid "OB_PHAGE"
-msgstr ""
+msgstr "%o Delectatio naturalis runcantur."
 
 msgid "OB_THORN"
-msgstr ""
+msgstr "%o spinosa mortem effugere non potuit."
 
 msgid "OB_SUMATIC"
-msgstr ""
+msgstr "%o sumpsit sumd ferrum ad inguina."
 
 msgid "OB_GENIE"
-msgstr ""
+msgstr "%o tria vota non obtinuit."
 
 msgid "OB_MINE"
-msgstr ""
+msgstr "%o pet a mine tentabat."
 
 msgid "OB_MPKICK"
-msgstr ""
+msgstr "%o tulit %k's Brus Lee fu-calcit ad faciem."
 
 msgid "OB_MPREZNATOR"
 msgstr ""
 
 msgid "OB_MPXPISTOL"
-msgstr ""
+msgstr "%o duplicem dosis poenae %k accepit."
 
 msgid "OB_MPTAZER"
-msgstr ""
+msgstr "%o clausus est a %k's ictu baculo."
 
 msgid "OB_MPCRYOGUN"
-msgstr ""
+msgstr "%o faciem plenam %k glaciei irae frigoris obtinuit."
 
 msgid "OB_MPUZI"
-msgstr ""
+msgstr "%o perforata %k, gangsta-styli plena perforata erat."
 
 msgid "OB_MPZOOKA"
-msgstr ""
+msgstr "%o bombam %k's photon comedit."
 
 msgid "OB_MPZ_SPLASH"
-msgstr ""
+msgstr "%o in acervum photonorum acervum redactum a %k."
 
 # Physically this is utter nonsense, of course.
 msgid "OB_MPANTIGUN"
-msgstr ""
+msgstr "%o ad antimattum redactum per %k."
 
 msgid "OB_MPNUKE"
-msgstr ""
+msgstr "%o devoravit %k nulla."
 
 msgid "OB_MPNUKESPLASH"
-msgstr ""
+msgstr "%o nuclearis e %k molis ruinae spree abiit."
 
 msgctxt "doom hacx.hacx1"
 msgid "OB_MPTELEFRAG"
-msgstr ""
+msgstr "%o intus versum est a %k."
 
 msgctxt "doom hacx.hacx1"
 msgid "OB_MONTELEFRAG"
-msgstr ""
+msgstr "%o structura atomica divisa est."
 
 msgctxt "doom hacx.hacx1"
 msgid "OB_DEFAULT"
-msgstr ""
+msgstr "%o sponte expiravit."
 
 msgid "GOTNUKER"
-msgstr ""
+msgstr "Captis NUKE! Nutrientibus hoc!"
 
 msgid "GOTUZI"
-msgstr ""
+msgstr "Vos got an UZI!!"
 
 msgid "GOTREZNATOR"
-msgstr ""
+msgstr "A HOIG Reznator - FRY quidam petat"
 
 msgid "GOTPHOTONZOOKA"
-msgstr ""
+msgstr "Foton 'Zooka' habes!"
 
 msgid "GOTBIGSTICK"
-msgstr ""
+msgstr "Magnum lignum portas!"
 
 msgid "GOTTAZER"
-msgstr ""
+msgstr "Tazer habes!"
 
 msgid "GOTCRYOGUN"
-msgstr ""
+msgstr "Captis Cryogun! URO!"
 
 msgid "GOTROUNDS"
-msgstr ""
+msgstr "Capto aliquos orbes!"
 
 msgid "GOTROUNDSCASE"
-msgstr ""
+msgstr "Tu causam volventem capto!"
 
 # Was "grap" for some reason.
 msgid "GOTTORPEDO"
-msgstr ""
+msgstr "Torpedo capto!"
 
 msgid "GOTTORPEDOS"
-msgstr ""
+msgstr "Torpedoen arripis casum!"
 
 msgid "GOTMOLECULES"
-msgstr ""
+msgstr "Moleculi moduli arripis!"
 
 msgid "GOTMOLECULESTANK"
-msgstr ""
+msgstr "Captis piscinam moleculis plenam!"
 
 msgid "GOTCARTRIDGES"
-msgstr ""
+msgstr "Aliquam iaculis vehicula sem!"
 
 msgid "GOTCARTRIDGESCASE"
-msgstr ""
+msgstr "Captis Cartridges causam!"
 
 msgid "GOTVALISE"
-msgstr ""
+msgstr "Valise refertum bonis arripis!"
 
 msgid "GOTFORCEFIELD"
-msgstr ""
+msgstr "Vis campi!"
 
 msgid "GOTMICROTEL"
 msgstr ""
 
 msgid "GOTENKBLIND"
-msgstr ""
+msgstr "EnK Caecus es!"
 
 msgid "GOTRUBBERBOOTS"
 msgstr ""
 
 msgid "GOTSIARRAY"
-msgstr ""
+msgstr "SI Ordinare mapping!"
 
 msgid "GOTINFRARED"
 msgstr ""
 
 msgid "GOTINHALER"
-msgstr ""
+msgstr "Respira altum, Inhaler!"
 
 msgid "GOTHYPONEED"
-msgstr ""
+msgstr "Hyderginei dosis ex Hypo te salvet!"
 
 msgid "GOTHYPO"
-msgstr ""
+msgstr "Hypo arripis!"
 
 msgid "GOTKEYCARD"
-msgstr ""
+msgstr "Invenisti KeyCard!"
 
 msgid "GOTCKEY"
-msgstr ""
+msgstr "Invenisti C-Key!"
 
 msgid "GOTPASSWORD"
-msgstr ""
+msgstr "Signum invenisti!"
 
 msgid "GOTBLUEZKEY"
-msgstr ""
+msgstr "Invenisti caeruleum Z-Key!"
 
 msgid "GOTYELWZKEY"
-msgstr ""
+msgstr "Z-Key flavo invenisti!"
 
 msgid "GOTREDZKEY"
-msgstr ""
+msgstr "Z-Key rubra invenisti!"
 
 msgid "GOTBODYARMOR"
-msgstr ""
+msgstr "CORPORIS Lorica!"
 
 msgid "GOTCENTROPHENOXINE"
 msgstr ""
 
 msgid "GOTKEVLARVEST"
-msgstr ""
+msgstr "Captas vestem Kevlar!"
 
 msgid "GOTSKEVLARVEST"
-msgstr ""
+msgstr "Captas a Super Kevlar vest!"
 
 msgid "GOTMICROKIT"
-msgstr ""
+msgstr "MicroKit capto!"
 
 msgid "GOTDAMPENER"
-msgstr ""
+msgstr "Dampener arripis!"
 
 msgid "PD_CKEY"
-msgstr ""
+msgstr "Opus C-Key ad hanc item access!"
 
 msgid "PD_KEYCARD"
-msgstr ""
+msgstr "KeyCard ad hanc item accessere debes!"
 
 msgid "PD_PASSWORD"
-msgstr ""
+msgstr "Password hoc item tibi accessere debes!"
 
 msgid "PD_BLUEZKEY"
-msgstr ""
+msgstr "Vos postulo Blue Z-Key ad hoc opus"
 
 msgid "PD_REDZKEY"
-msgstr ""
+msgstr "Opus rubrum Z-Key ad hoc opus faciendum!"
 
 msgid "PD_YELWZKEY"
-msgstr ""
+msgstr "Crocus Z-Key opus est ad hoc opus faciendum!"
 
 msgid "X1TEXT"
 msgstr ""
+"Viginti molendinum in aurum non videtur omnibus pretium\n"
+"hoc exaggerat, oline? facit\n"
+"Calamus vultus sicut freakin' picnic!\n"
+"\n"
+"Butt-turpis bio-mutationes et conservus tuus\n"
+"Homines e lacunari pendebant\n"
+"cibus sacci.\n"
+"\n"
+"Quid est infernum hoc GENIE? sicut non\n"
+"computatrum te semper detruncati!\n"
+"\n"
+"Tu melius invenies terminum sequentem, scalpere\n"
+"ascendere per spatium c, alea quidam mutant\n"
+"tibus et inferne de Evitatio!\n"
+"\n"
 
 msgid "X2TEXT"
 msgstr ""
+"Ubi sunt omnes populi?\n"
+"\n"
+"Lutetia oppidum est spectrum, nisi consideras\n"
+"bugs mutant cives praestantes.\n"
+"\n"
+"resistentia cruentum feris. Homo, can\n"
+"Hi cimices pugnant! Felix tibi non es\n"
+"pergula lucet in clarissima defensio.\n"
+"\n"
+"Sed habes aliquid ex informaticis\n"
+"subcommittee vult. Ac turpis dictum!\n"
+"\n"
+"Humani humores neuralis hos cimices pascunt! Non\n"
+"Miror circa questus genus\n"
+"sparsum. Referre ad subcommittee. And\n"
+"tergum tuum vigilate…\n"
 
 msgid "X3TEXT"
 msgstr ""
+"Civilization quod sciebas nada est!\n"
+"\n"
+"Non amici, familiae nullae. Non MAGIS PLEBIS.\n"
+"Non normalis populus, usquam.\n"
+"\n"
+"Unum tantum superest…GENIE!\n"
+"Et si ire ad finem\n"
+"universum invenies suum mutant tibus!\n"
+"'causam nunc pissed es!\n"
+"\n"
+"ET aurum? Infernus, id est gratis.\n"
+"\n"
+".............…"
 
 msgid "X5TEXT"
 msgstr ""
+"Vivis!\n"
+"\n"
+"Quid isti pugnant, Piratica?\n"
+"'Faciam suus' bugs cum reptans.\n"
+"\n"
+"Subcommittee pervenire non potes, quod\n"
+"means it's been aedilis.\n"
+"\n"
+"\n"
+"Solus es…."
 
 msgid "TXT_HACXMAP01"
 msgstr ""
@@ -384,10 +441,10 @@ msgid "TXT_HACXMAP06"
 msgstr ""
 
 msgid "TXT_HACXMAP07"
-msgstr ""
+msgstr "Magnus Wall"
 
 msgid "TXT_HACXMAP08"
-msgstr ""
+msgstr "Hortus Deliciarum"
 
 msgid "TXT_HACXMAP09"
 msgstr ""
@@ -396,7 +453,7 @@ msgid "TXT_HACXMAP10"
 msgstr ""
 
 msgid "TXT_HACXMAP11"
-msgstr ""
+msgstr "Notus Nobis!"
 
 msgid "TXT_HACXMAP12"
 msgstr ""
@@ -408,79 +465,79 @@ msgid "TXT_HACXMAP14"
 msgstr ""
 
 msgid "TXT_HACXMAP15"
-msgstr ""
+msgstr "Crepusculum de Enk's"
 
 msgid "TXT_HACXMAP16"
 msgstr ""
 
 msgid "TXT_HACXMAP17"
-msgstr ""
+msgstr "Flumen Sanguinis"
 
 msgid "TXT_HACXMAP18"
 msgstr ""
 
 msgid "TXT_HACXMAP19"
-msgstr ""
+msgstr "Bellum Cella"
 
 msgid "TXT_HACXMAP20"
-msgstr ""
+msgstr "Intrusor erecti!"
 
 msgid "TXT_HACXMAP31"
 msgstr ""
 
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_CLEV"
-msgstr ""
+msgstr "Adveniens autem…"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_CHOPPERS"
-msgstr ""
+msgstr "... agnus asinum tuum friges!"
 
 # Hacx's content here was totally useless so it got removed. However, this
 # string has to be defined and minimally altered so that the Dehacked
 # replacement is not being triggered.
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_BEHOLD"
-msgstr ""
+msgstr "in Vuln, Str, Inviso, Rad, Allmap, vel Lite-amp?"
 
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_BEHOLDX"
-msgstr ""
+msgstr "Let's Get Grave!"
 
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_NCON"
-msgstr ""
+msgstr "Cyberslicer Modus ON"
 
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_NCOFF"
-msgstr ""
+msgstr "Cyberslicer Modus Off"
 
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_NOMUS"
-msgstr ""
+msgstr "Electio: Impossibile "
 
 # Should probably not be translated...
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_MUS"
-msgstr ""
+msgstr "Oremus\n"
 
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_KFAADDED"
-msgstr ""
+msgstr "INIT-Twitch n'Kill Modus"
 
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_FAADDED"
-msgstr ""
+msgstr "Fiat, Piratica."
 
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_DQDON"
-msgstr ""
+msgstr "Cyberpotence Modus ON"
 
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_DQDOFF"
-msgstr ""
+msgstr "Cyberpotence Modus Off"
 
 msgctxt "doom hacx.hacx1"
 msgid "AMSTR_FOLLOWON"
@@ -492,24 +549,40 @@ msgstr ""
 
 msgctxt "doom hacx.hacx1"
 msgid "DOSY"
-msgstr ""
+msgstr "- press Y ad fugiendum! -"
 
 msgctxt "doom hacx.hacx1"
 msgid "ENDGAME"
 msgstr ""
+"Esne insanis an malus?\n"
+"Bene? Ita vel Non!"
 
 msgctxt "doom hacx.hacx1"
 msgid "NIGHTMARE"
 msgstr ""
+"Certus es? Non poteris sustinere\n"
+"hoc ars, hac!\n"
+"\n"
+"Press Y mori. \n"
 
 # For most languages the original Doom text should suffice.
 msgctxt "doom hacx.hacx1"
 msgid "QSPROMPT"
 msgstr ""
+"Quicksave tuis data nomine\n"
+"\n"
+"'%s'?\n"
+"\n"
+"Press Y vel N."
 
 msgctxt "doom hacx.hacx1"
 msgid "QLPROMPT"
 msgstr ""
+"Vis data nomine quickload\n"
+"\n"
+"'%s'?\n"
+"\n"
+"Press Y vel N."
 
 msgid "CC_THUG"
 msgstr ""
@@ -550,20 +623,20 @@ msgstr ""
 
 msgctxt "doom hacx.hacx1"
 msgid "SKILL_BABY"
-msgstr ""
+msgstr "Quaeso ne mitterent!"
 
 msgctxt "doom hacx.hacx1"
 msgid "SKILL_EASY"
-msgstr ""
+msgstr "Aargh, valetudo postulo!"
 
 msgctxt "doom hacx.hacx1"
 msgid "SKILL_NORMAL"
-msgstr ""
+msgstr "Diripiamus eos!"
 
 msgctxt "doom hacx.hacx1"
 msgid "SKILL_HARD"
-msgstr ""
+msgstr "Immortalis ego sum!"
 
 msgctxt "doom hacx.hacx1"
 msgid "SKILL_NIGHTMARE"
-msgstr ""
+msgstr "Insania!"
