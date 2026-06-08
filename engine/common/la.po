@@ -2,77 +2,91 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: \n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-06-08 23:01+0000\n"
+"Last-Translator: Júlia Rosell Saldaña <contacte@juliars.cat>\n"
+"Language-Team: Latin <https://hosted.weblate.org/projects/uzdoom/common/la/>\n"
 "Language: la\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2026.6\n"
 
 msgid "PRESSYN"
-msgstr ""
+msgstr "Press Y vel N."
 
 msgid "TXT_YES"
-msgstr ""
+msgstr "Ita"
 
 msgid "TXT_NO"
-msgstr ""
+msgstr "Non"
 
 msgid "SAVEDEAD"
 msgstr ""
+"Servare non potes si ludere non potes!\n"
+"\n"
+"Preme clavem."
 
 msgid "SAFEMESSAGE"
-msgstr ""
+msgstr "Visne hoc facere?"
 
 msgid "QSPROMPT"
 msgstr ""
+"Quicksave tuis ludo nomine\n"
+"\n"
+"'%s'?\n"
+"\n"
+"Press Y vel N."
 
 msgid "QLPROMPT"
 msgstr ""
+"Visne ludum nomine quickload\n"
+"\n"
+"'%s'?\n"
+"\n"
+"Press Y vel N."
 
 msgid "TXT_X_CHEATS"
-msgstr ""
+msgstr "%s defraudat"
 
 msgid "MSGOFF"
-msgstr ""
+msgstr "Mandata: OFF"
 
 msgid "MSGON"
-msgstr ""
+msgstr "Mandata: ON"
 
 msgid "TXT_SAY"
-msgstr ""
+msgstr "Dic:"
 
 msgid "TXT_QUITENDOOM"
-msgstr ""
+msgstr "Preme quamlibet clavem vel deprime usquam in fenestra relicto."
 
 msgid "NEWSAVE"
-msgstr ""
+msgstr "<Novus Ludus Servatus>"
 
 msgid "GGSAVED"
-msgstr ""
+msgstr "Ludus servavit."
 
 msgid "SAVECOMMENT_TIME"
-msgstr ""
+msgstr "Tempus"
 
 msgid "MNU_LOADGAME"
-msgstr ""
+msgstr "Ludum Onus"
 
 msgid "MNU_SAVEGAME"
-msgstr ""
+msgstr "Serva Ludum"
 
 msgid "MNU_NOPICTURE"
-msgstr ""
+msgstr "Non Picture"
 
 msgid "MNU_DIFFVERSION"
-msgstr ""
+msgstr "Versio Diversa"
 
 msgid "MNU_NOFILES"
-msgstr ""
+msgstr "Non files"
 
 msgid "MNU_DELETESG"
-msgstr ""
+msgstr "An vere savegame delere vis?"
 
 msgid "OPTVAL_OFF"
 msgstr ""
@@ -120,19 +134,19 @@ msgid "OPTMNU_DISPLAY"
 msgstr ""
 
 msgid "OPTMNU_VIDEO"
-msgstr ""
+msgstr "Set modus video"
 
 msgid "OPTMNU_DEFAULTS"
-msgstr ""
+msgstr "Reset ad defaltis"
 
 msgid "OPTMNU_RESETTOSAVED"
-msgstr ""
+msgstr "Reset ad ultimum salvus erit"
 
 msgid "OPTMNU_WRITEINI"
-msgstr ""
+msgstr "Serva occasus current"
 
 msgid "OPTMNU_CONSOLE"
-msgstr ""
+msgstr "Ite ad consolandum"
 
 msgid "OPTMNU_NETWORK"
 msgstr ""
@@ -141,10 +155,10 @@ msgid "OPTMNU_REVERB"
 msgstr ""
 
 msgid "CNTRLMNU_SWITCHTEXT1"
-msgstr ""
+msgstr "MODO VENIAT, BACKSPACE ut purgare"
 
 msgid "CNTRLMNU_SWITCHTEXT2"
-msgstr ""
+msgstr "Press nova clavis ad imperium, ESC ad remittendas"
 
 msgid "CNTRLMNU_CONTROLS"
 msgstr ""
@@ -159,25 +173,25 @@ msgid "CNTRLMNU_RELOAD"
 msgstr ""
 
 msgid "CNTRLMNU_USE"
-msgstr ""
+msgstr "Usus / Open"
 
 msgid "CNTRLMNU_FORWARD"
-msgstr ""
+msgstr "Progredi"
 
 msgid "CNTRLMNU_BACK"
-msgstr ""
+msgstr "Movere retrorsum"
 
 msgid "CNTRLMNU_MOVELEFT"
 msgstr ""
 
 msgid "CNTRLMNU_MOVERIGHT"
-msgstr ""
+msgstr "Strafe ius"
 
 msgid "CNTRLMNU_TURNLEFT"
-msgstr ""
+msgstr "Vicis sinistram"
 
 msgid "CNTRLMNU_TURNRIGHT"
-msgstr ""
+msgstr "Vicis dextram"
 
 msgid "CNTRLMNU_TURN180"
 msgstr ""
@@ -192,16 +206,16 @@ msgid "CNTRLMNU_TOGGLECROUCH"
 msgstr ""
 
 msgid "CNTRLMNU_MOUSELOOK"
-msgstr ""
+msgstr "Mus vultus"
 
 msgid "CNTRLMNU_LOOKUP"
-msgstr ""
+msgstr "Levare"
 
 msgid "CNTRLMNU_LOOKDOWN"
-msgstr ""
+msgstr "Respice in"
 
 msgid "CNTRLMNU_CENTERVIEW"
-msgstr ""
+msgstr "Centrum visum"
 
 msgid "CNTRLMNU_RUN"
 msgstr ""
@@ -228,61 +242,61 @@ msgid "CNTRLMNU_SAY"
 msgstr ""
 
 msgid "CNTRLMNU_WEAPONS_TITLE"
-msgstr ""
+msgstr "Mos telum Imperium"
 
 msgid "CNTRLMNU_INVENTORY_TITLE"
-msgstr ""
+msgstr "Customize Scrinium Imperium"
 
 msgid "CNTRLMNU_OTHER_TITLE"
-msgstr ""
+msgstr "Alia Customize Imperium"
 
 msgid "CNTRLMNU_WEAPONS"
 msgstr ""
 
 msgid "CNTRLMNU_NEXTWEAPON"
-msgstr ""
+msgstr "Postero arma"
 
 msgid "CNTRLMNU_PREVIOUSWEAPON"
-msgstr ""
+msgstr "Priorem arma"
 
 msgid "CNTRLMNU_SLOT1"
-msgstr ""
+msgstr "Telum 1"
 
 msgid "CNTRLMNU_SLOT2"
-msgstr ""
+msgstr "Telum 2"
 
 msgid "CNTRLMNU_SLOT3"
-msgstr ""
+msgstr "Telum 3"
 
 msgid "CNTRLMNU_SLOT4"
-msgstr ""
+msgstr "Telum 4"
 
 msgid "CNTRLMNU_SLOT5"
-msgstr ""
+msgstr "Telum 5"
 
 msgid "CNTRLMNU_SLOT6"
-msgstr ""
+msgstr "Telum VI \""
 
 msgid "CNTRLMNU_SLOT7"
-msgstr ""
+msgstr "Telum 7"
 
 msgid "CNTRLMNU_SLOT8"
-msgstr ""
+msgstr "Telum 8"
 
 msgid "CNTRLMNU_SLOT9"
-msgstr ""
+msgstr "Telum 9"
 
 msgid "CNTRLMNU_SLOT0"
-msgstr ""
+msgstr "Telum 10"
 
 msgid "CNTRLMNU_INVENTORY"
 msgstr ""
 
 msgid "CNTRLMNU_USEITEM"
-msgstr ""
+msgstr "Item activate"
 
 msgid "CNTRLMNU_USEALLITEMS"
-msgstr ""
+msgstr "Eu omnia items"
 
 msgid "CNTRLMNU_NEXTITEM"
 msgstr ""
@@ -297,10 +311,10 @@ msgid "MAPCNTRLMNU_CONTROLS"
 msgstr ""
 
 msgid "MAPCNTRLMNU_PANLEFT"
-msgstr ""
+msgstr "Pan sinistram"
 
 msgid "MAPCNTRLMNU_PANRIGHT"
-msgstr ""
+msgstr "Pan ius"
 
 msgid "MAPCNTRLMNU_PANUP"
 msgstr ""
@@ -318,16 +332,16 @@ msgid "MAPCNTRLMNU_TOGGLEZOOM"
 msgstr ""
 
 msgid "MAPCNTRLMNU_TOGGLEFOLLOW"
-msgstr ""
+msgstr "Toggle sequitur"
 
 msgid "MAPCNTRLMNU_TOGGLEGRID"
-msgstr ""
+msgstr "Toggle malesuada euismod"
 
 msgid "MAPCNTRLMNU_ROTATE"
 msgstr ""
 
 msgid "MAPCNTRLMNU_TOGGLETEXTURE"
-msgstr ""
+msgstr "Toggle textura"
 
 msgid "CNTRLMNU_AUTOMAP"
 msgstr ""
@@ -342,10 +356,10 @@ msgid "CNTRLMNU_PAUSE"
 msgstr ""
 
 msgid "CNTRLMNU_DISPLAY_INC"
-msgstr ""
+msgstr "Propono Location crescat"
 
 msgid "CNTRLMNU_DISPLAY_DEC"
-msgstr ""
+msgstr "Minor Display Size"
 
 msgid "CNTRLMNU_OPEN_HELP"
 msgstr ""
@@ -369,7 +383,7 @@ msgid "CNTRLMNU_QUICKLOAD"
 msgstr ""
 
 msgid "CNTRLMNU_EXIT_TO_MAIN"
-msgstr ""
+msgstr "Exitus AD Tabula Principalis"
 
 msgid "CNTRLMNU_TOGGLE_MESSAGES"
 msgstr ""
@@ -378,67 +392,67 @@ msgid "CNTRLMNU_MENU_QUIT"
 msgstr ""
 
 msgid "MOUSEMNU_ENABLEMOUSE"
-msgstr ""
+msgstr "Admitte mus"
 
 msgid "MOUSEMNU_MOUSEINMENU"
-msgstr ""
+msgstr "Admitte mus in menus"
 
 msgid "MOUSEMNU_SHOWBACKBUTTON"
-msgstr ""
+msgstr "Monstrare tergum puga"
 
 msgid "MOUSEMNU_CURSOR"
 msgstr ""
 
 msgid "MOUSEMNU_SENSITIVITY_X"
-msgstr ""
+msgstr "Horizontalis sensus"
 
 msgid "MOUSEMNU_SENSITIVITY_Y"
-msgstr ""
+msgstr "Sensus verticalis"
 
 msgid "MOUSEMNU_SMOOTHMOUSE"
-msgstr ""
+msgstr "Motus lenis mus"
 
 msgid "MOUSEMNU_TURNSPEED"
-msgstr ""
+msgstr "Conversus celeritas"
 
 msgid "MOUSEMNU_MOUSELOOKSPEED"
-msgstr ""
+msgstr "Mus celeritas"
 
 msgid "MOUSEMNU_FORWBACKSPEED"
-msgstr ""
+msgstr "Retro/celeritas"
 
 msgid "MOUSEMNU_STRAFESPEED"
-msgstr ""
+msgstr "Strafing celeritas"
 
 msgid "MOUSEMNU_ALWAYSMOUSELOOK"
 msgstr ""
 
 msgid "MOUSEMNU_INVERTMOUSE"
-msgstr ""
+msgstr "Mus invertat Y"
 
 msgid "MOUSEMNU_INVERTMOUSEX"
-msgstr ""
+msgstr "Mus X invertere"
 
 msgid "OPTVAL_UPPERLEFT"
-msgstr ""
+msgstr "Superiorem sinistram"
 
 msgid "OPTVAL_UPPERRIGHT"
-msgstr ""
+msgstr "Superior ius"
 
 msgid "OPTVAL_LOWERLEFT"
-msgstr ""
+msgstr "Infra sinistram"
 
 msgid "OPTVAL_LOWERRIGHT"
-msgstr ""
+msgstr "Infra ius"
 
 msgid "OPTVAL_TOUCHSCREENLIKE"
 msgstr ""
 
 msgid "OPTSTR_SIMPLEARROW"
-msgstr ""
+msgstr "Simple sagitta"
 
 msgid "OPTSTR_SYSTEMCURSOR"
-msgstr ""
+msgstr "Systema cursorium"
 
 msgid "OPTVAL_DEFAULT"
 msgstr ""
@@ -450,37 +464,37 @@ msgid "JOYMNU_OPTIONS"
 msgstr ""
 
 msgid "JOYMNU_NOMENU"
-msgstr ""
+msgstr "Defensio moderatoris initus in menu"
 
 msgid "JOYMNU_ENABLE"
-msgstr ""
+msgstr "Admitte auxilium moderatoris"
 
 msgid "JOYMNU_DINPUT"
-msgstr ""
+msgstr "Admitte DirectInput moderatoris"
 
 msgid "JOYMNU_XINPUT"
-msgstr ""
+msgstr "Admitte XInput moderatoris"
 
 msgid "JOYMNU_PS2"
-msgstr ""
+msgstr "Admitte rudis PlayStation 2 adaptors"
 
 msgid "JOYMNU_NOCON"
-msgstr ""
+msgstr "Non moderatoris detecti"
 
 msgid "JOYMNU_CONFIG"
-msgstr ""
+msgstr "Configurare moderatoris:"
 
 msgid "JOYMNU_DISABLED1"
-msgstr ""
+msgstr "Controller auxilium debet esse"
 
 msgid "JOYMNU_DISABLED2"
-msgstr ""
+msgstr "quis est enabled deprehendere"
 
 msgid "JOYMNU_INVALID"
-msgstr ""
+msgstr "Aliquam moderatoris certa pro menu"
 
 msgid "JOYMNU_OVRSENS"
-msgstr ""
+msgstr "Sensus altiore"
 
 msgid "JOYMNU_AXIS"
 msgstr ""
@@ -489,28 +503,28 @@ msgid "JOYMNU_INVERT"
 msgstr ""
 
 msgid "JOYMNU_DEADZONE"
-msgstr ""
+msgstr "Mortuus zona"
 
 msgid "JOYMNU_NOAXES"
-msgstr ""
+msgstr "Non axes configurabiles"
 
 msgid "OPTVAL_NONE"
 msgstr ""
 
 msgid "OPTVAL_TURNING"
-msgstr ""
+msgstr "Vultus Left / Vox"
 
 msgid "OPTVAL_LOOKINGUPDOWN"
-msgstr ""
+msgstr "Vultus Sursum / Est"
 
 msgid "OPTVAL_MOVINGFORWARD"
-msgstr ""
+msgstr "Movere / Retrorsum"
 
 msgid "OPTVAL_STRAFING"
-msgstr ""
+msgstr "Movere Left / Vox"
 
 msgid "OPTVAL_MOVINGUPDOWN"
-msgstr ""
+msgstr "Movere / Est"
 
 msgid "OPTVAL_INVERTED"
 msgstr ""
@@ -531,7 +545,7 @@ msgid "TXT_COLOR_GRAY"
 msgstr ""
 
 msgid "TXT_COLOR_DARKGRAY"
-msgstr ""
+msgstr "Griseo"
 
 msgid "TXT_COLOR_DARKGREEN"
 msgstr ""
@@ -615,7 +629,7 @@ msgid "PLYRMNU_ALWAYSRUN"
 msgstr ""
 
 msgid "DSPLYMNU_SCREENSIZE"
-msgstr ""
+msgstr "Screen magnitudine"
 
 msgid "DSPLYMNU_VSYNC"
 msgstr ""
@@ -624,16 +638,16 @@ msgid "DSPLYMNU_MODELS"
 msgstr ""
 
 msgid "MSGMNU_CENTERMESSAGES"
-msgstr ""
+msgstr "Centrum epistulae"
 
 msgid "MSGMNU_MESSAGEQUEUE"
-msgstr ""
+msgstr "Nuntius queue magnitudine"
 
 msgid "MSGMNU_STACKIDENTICAL"
-msgstr ""
+msgstr "Rare crebris nuntiis"
 
 msgid "MSGMNU_PULSEMESSAGES"
-msgstr ""
+msgstr "Pulsans nuntius Display"
 
 msgid "MNU_COLORPICKER"
 msgstr ""
@@ -642,19 +656,19 @@ msgid "AUTOMAPMNU_ROTATE"
 msgstr ""
 
 msgid "AUTOMAPMNU_FOLLOW"
-msgstr ""
+msgstr "Sequere ludio"
 
 msgid "AUTOMAPMNU_LINEALPHA"
-msgstr ""
+msgstr "Linea alpha"
 
 msgid "AUTOMAPMNU_LINETHICKNESS"
-msgstr ""
+msgstr "Linea crassitudine"
 
 msgid "MAPCOLORMNU_TITLE"
-msgstr ""
+msgstr "Customize Map Colorum"
 
 msgid "MAPCOLORMNU_DEFAULTMAPCOLORS"
-msgstr ""
+msgstr "More default colorum restituet"
 
 msgid "OPTVAL_8000HZ"
 msgstr ""
@@ -675,25 +689,25 @@ msgid "OPTVAL_48000HZ"
 msgstr ""
 
 msgid "OPTVAL_64SAMPLES"
-msgstr ""
+msgstr "64 sample"
 
 msgid "OPTVAL_128SAMPLES"
 msgstr ""
 
 msgid "OPTVAL_256SAMPLES"
-msgstr ""
+msgstr "256 exempla"
 
 msgid "OPTVAL_512SAMPLES"
-msgstr ""
+msgstr "512 exempla"
 
 msgid "OPTVAL_1024SAMPLES"
-msgstr ""
+msgstr "1024 exemplaria"
 
 msgid "OPTVAL_2048SAMPLES"
-msgstr ""
+msgstr "mMXLVIII exempla"
 
 msgid "OPTVAL_4096SAMPLES"
-msgstr ""
+msgstr "4096 exemplaria"
 
 msgid "OPTSTR_AUTO"
 msgstr ""
@@ -705,22 +719,22 @@ msgid "OPTSTR_STEREO"
 msgstr ""
 
 msgid "OPTSTR_PROLOGIC"
-msgstr ""
+msgstr "Dolby Pro Logica Decoder"
 
 msgid "OPTSTR_QUAD"
 msgstr ""
 
 msgid "OPTSTR_SURROUND"
-msgstr ""
+msgstr "5 loquentium"
 
 msgid "OPTSTR_5POINT1"
-msgstr ""
+msgstr "5.1 loquentium"
 
 msgid "OPTSTR_7POINT1"
-msgstr ""
+msgstr "7.1 loquentium"
 
 msgid "OPENALMNU_PLAYBACKDEVICE"
-msgstr ""
+msgstr "Playback fabrica"
 
 msgid "OPENALMNU_ENABLEEFX"
 msgstr ""
@@ -729,46 +743,46 @@ msgid "OPENALMNU_RESAMPLER"
 msgstr ""
 
 msgid "SNDMNU_SFXVOLUME"
-msgstr ""
+msgstr "Sonat volumen"
 
 msgid "SNDMNU_MENUVOLUME"
-msgstr ""
+msgstr "Menu volumen"
 
 msgid "SNDMNU_MUSICVOLUME"
-msgstr ""
+msgstr "Volumen music"
 
 msgid "SNDMNU_MIDIDEVICE"
-msgstr ""
+msgstr "MIDI fabrica"
 
 msgid "SNDMNU_BACKGROUND"
-msgstr ""
+msgstr "Sonus in background"
 
 msgid "SNDMNU_UNDERWATERREVERB"
 msgstr ""
 
 msgid "SNDMNU_RANDOMIZEPITCHES"
-msgstr ""
+msgstr "Randomize vocum"
 
 msgid "SNDMNU_CHANNELS"
-msgstr ""
+msgstr "Integer cursus"
 
 msgid "SNDMNU_OPENAL"
-msgstr ""
+msgstr "OpenAL optiones"
 
 msgid "SNDMNU_RESTART"
-msgstr ""
+msgstr "Redi sonus"
 
 msgid "SNDMNU_ADVANCED"
-msgstr ""
+msgstr "Provectus optiones"
 
 msgid "SNDMNU_MODREPLAYER"
-msgstr ""
+msgstr "Module replayer optiones"
 
 msgid "SNDMNU_MIDIPLAYER"
-msgstr ""
+msgstr "MIDI fabrica optiones"
 
 msgid "ADVSNDMNU_TITLE"
-msgstr ""
+msgstr "Provectus Sonus Optiones"
 
 msgid "ADVSNDMNU_SAMPLERATE"
 msgstr ""
@@ -780,7 +794,7 @@ msgid "ADVSNDMNU_OPLSYNTHESIS"
 msgstr ""
 
 msgid "ADVSNDMNU_OPLNUMCHIPS"
-msgstr ""
+msgstr "Numerus aemulatorum OPL eu"
 
 msgid "ADVSNDMNU_OPLGAIN"
 msgstr ""
@@ -792,7 +806,7 @@ msgid "ADVSNDMNU_OPLCORES"
 msgstr ""
 
 msgid "ADVSNDMNU_MIDIVOICES"
-msgstr ""
+msgstr "MIDI voces"
 
 msgid "ADVSNDMNU_FLUIDSYNTH"
 msgstr ""
@@ -819,7 +833,7 @@ msgid "ADVSNDMNU_CHORUS"
 msgstr ""
 
 msgid "ADVSNDMNU_TIMIDITY"
-msgstr ""
+msgstr "Timiditas++"
 
 msgid "ADVSNDMNU_ADLMIDI"
 msgstr ""
@@ -831,7 +845,7 @@ msgid "ADVSNDMNU_WILDMIDI"
 msgstr ""
 
 msgid "ADVSNDMNU_SELCONFIG"
-msgstr ""
+msgstr "Configuratione Select"
 
 msgid "ADVSNDMNU_ADVRESAMPLING"
 msgstr ""
@@ -840,22 +854,22 @@ msgid "ADVSNDMNU_OPLBANK"
 msgstr ""
 
 msgid "ADVSNDMNU_RUNPCMRATE"
-msgstr ""
+msgstr "Aemulator currite ad PCM rate"
 
 msgid "ADVSNDMNU_ADLNUMCHIPS"
-msgstr ""
+msgstr "Numerus aemulatorum OPL eu"
 
 msgid "ADVSNDMNU_ADLGAIN"
 msgstr ""
 
 msgid "ADVSNDMNU_VLMODEL"
-msgstr ""
+msgstr "Exemplar Volumen"
 
 msgid "ADVSNDMNU_CHANALLOC"
-msgstr ""
+msgstr "Channel destinatio modum"
 
 msgid "ADVSNDMNU_AUTOARPEGGIO"
-msgstr ""
+msgstr "Lorem arpeggio"
 
 msgid "ADVSNDMNU_OPNCORES"
 msgstr ""
@@ -864,28 +878,28 @@ msgid "ADVSNDMNU_GUSEMULATION"
 msgstr ""
 
 msgid "ADVSNDMNU_DMXGUS"
-msgstr ""
+msgstr "Legere DMXGUS massas"
 
 msgid "ADVSNDMNU_GUSMEMSIZE"
-msgstr ""
+msgstr "GUS memoria magnitudine"
 
 msgid "ADVSNDMNU_OPNNUMCHIPS"
-msgstr ""
+msgstr "Numerus aemulatorum OPN eu"
 
 msgid "ADVSNDMNU_OPNGAIN"
 msgstr ""
 
 msgid "ADVSNDMNU_ADLCUSTOMBANK"
-msgstr ""
+msgstr "Utere consuetudine WOPL ripam"
 
 msgid "ADVSNDMNU_ADLUSEWADBANK"
-msgstr ""
+msgstr "Usus WAD scriptor GENMIDI ripam morem ripam"
 
 msgid "ADVSNDMNU_OPLBANKFILE"
 msgstr ""
 
 msgid "ADVSNDMNU_OPNCUSTOMBANK"
-msgstr ""
+msgstr "Utere consuetudine WOPN ripam"
 
 msgid "ADVSNDMNU_OPNBANKFILE"
 msgstr ""
@@ -918,28 +932,28 @@ msgid "OPTVAL_CUBIC"
 msgstr ""
 
 msgid "OPTVAL_BLEP"
-msgstr ""
+msgstr "Cohors-limited gradus"
 
 msgid "OPTVAL_LINEARSLOW"
-msgstr ""
+msgstr "Linearibus (Tardior)"
 
 msgid "OPTVAL_BLAM"
-msgstr ""
+msgstr "Cohors linearibus stricto"
 
 msgid "OPTVAL_CUBICSLOW"
-msgstr ""
+msgstr "Cubicus (Slower)"
 
 msgid "OPTVAL_SINC"
 msgstr ""
 
 msgid "OPTVAL_NOTEONOFFONLY"
-msgstr ""
+msgstr "Nota in / off only"
 
 msgid "OPTVAL_FULLRAMPING"
-msgstr ""
+msgstr "Plena rapiens"
 
 msgid "MODMNU_MASTERVOLUME"
-msgstr ""
+msgstr "Magister volumen"
 
 msgid "MODMNU_QUALITY"
 msgstr ""
@@ -978,10 +992,10 @@ msgid "OPTVAL_NUKEDOPL3"
 msgstr ""
 
 msgid "OPTVAL_LLENUKEDOPL2"
-msgstr ""
+msgstr "OPL2-LLE (perficiendi intensive)"
 
 msgid "OPTVAL_LLENUKEDOPL3"
-msgstr ""
+msgstr "OPL3-LLE (perficiendi intensive)"
 
 msgid "OPTVAL_MAMEOPN2"
 msgstr ""
@@ -996,7 +1010,7 @@ msgid "OPTVAL_OPALOPL3"
 msgstr ""
 
 msgid "OPTVAL_NUKEDOPL3174"
-msgstr ""
+msgstr "Nudum OPL3 v1.7.4"
 
 msgid "OPTVAL_NUKEDOPN2YM3438"
 msgstr ""
@@ -1005,13 +1019,13 @@ msgid "OPTVAL_NUKEDOPN2YM2612"
 msgstr ""
 
 msgid "OPTVAL_OPN2YM2612LLE"
-msgstr ""
+msgstr "OPN2-LLE (YM2612) (perficiendi intensive)"
 
 msgid "OPTVAL_OPN2YM3438LLE"
-msgstr ""
+msgstr "OPN2-LLE (YM3438) (perficiendi intensive)"
 
 msgid "OPTVAL_OPN2YMF276LLE"
-msgstr ""
+msgstr "OPN2-LLE (YMF276) (perficiendi intensive)"
 
 msgid "OPTVAL_GENSOPN2"
 msgstr ""
@@ -1023,10 +1037,10 @@ msgid "OPTVAL_YMFMOPNA"
 msgstr ""
 
 msgid "ADLVLMODEL_AUTO"
-msgstr ""
+msgstr "Auto (Usus setup de ripae)"
 
 msgid "OPNVLMODEL_AUTO"
-msgstr ""
+msgstr "Auto (Usus setup de ripae)"
 
 msgid "ADLVLMODEL_GENERIC"
 msgstr ""
@@ -1044,49 +1058,49 @@ msgid "ADLVLMODEL_DMX"
 msgstr ""
 
 msgid "OPNVLMODEL_DMX"
-msgstr ""
+msgstr "Sicut in DMX"
 
 msgid "ADLVLMODEL_APOGEE"
 msgstr ""
 
 msgid "OPNVLMODEL_APOGEE"
-msgstr ""
+msgstr "Sicut in Apogee Sana Ratio"
 
 msgid "OPNVLMODEL_WIN9X"
-msgstr ""
+msgstr "Win9X-sicut"
 
 msgid "ADLVLMODEL_WIN9X"
-msgstr ""
+msgstr "Win9X-simile (SB16)"
 
 msgid "ADLVLMODEL_WIN9XGENERIC"
-msgstr ""
+msgstr "Win9X-sicut (Generic FM)"
 
 msgid "ADLVLMODEL_DMX_FIXED"
-msgstr ""
+msgstr "DMX (Sine AM vox bug)"
 
 msgid "ADLVLMODEL_APOGEE_FIXED"
-msgstr ""
+msgstr "Apogee (Sine AM voce bug)"
 
 msgid "ADLVLMODEL_AIL"
 msgstr ""
 
 msgid "ADLVLMODEL_HMI"
-msgstr ""
+msgstr "HMI Operating System"
 
 msgid "ADLVLMODEL_HMIOLD"
-msgstr ""
+msgstr "HMI SOS (Vetus, bugs)"
 
 msgid "ADLCHANALLOC_AUTO"
 msgstr ""
 
 msgid "ADLCHANALLOC_OFFDELAY"
-msgstr ""
+msgstr "Sana procul mora metiri"
 
 msgid "ADLCHANALLOC_SAMEINST"
-msgstr ""
+msgstr "Reuse primo dimisit eiusdem instrumenti"
 
 msgid "ADLCHANALLOC_ANYREL"
-msgstr ""
+msgstr "I reuse quis primo nota dimisit"
 
 msgid "OPTVAL_UNLIMITED"
 msgstr ""
@@ -1104,7 +1118,7 @@ msgid "OPTVAL_1024K"
 msgstr ""
 
 msgid "OPTVAL_UNCHARTED2"
-msgstr ""
+msgstr "Ignotumque 2"
 
 msgid "OPTVAL_HEJLDAWSON"
 msgstr ""
@@ -1140,7 +1154,7 @@ msgid "GLPREFMNU_TONEMAP"
 msgstr ""
 
 msgid "GLPREFMNU_LENS"
-msgstr ""
+msgstr "Lens pravitatis effectus"
 
 msgid "GLPREFMNU_FXAA"
 msgstr ""
@@ -1149,31 +1163,31 @@ msgid "GLPREFMNU_DITHER"
 msgstr ""
 
 msgid "GLPREFMNU_PALTONEMAPORDER"
-msgstr ""
+msgstr "Tonemap Palette Ordinis"
 
 msgid "GLPREFMNU_PALTONEMAPPOWER"
-msgstr ""
+msgstr "Tonemap Palette Exponentes"
 
 msgid "GLPREFMNU_MULTISAMPLE"
 msgstr ""
 
 msgid "GLPREFMNU_BLOOM"
-msgstr ""
+msgstr "Flosculus effectus"
 
 msgid "GLPREFMNU_SSAO"
-msgstr ""
+msgstr "Ambiens LAQUEUS qualis"
 
 msgid "GLPREFMNU_SSAO_PORTALS"
-msgstr ""
+msgstr "Portals cum AO"
 
 msgid "GLPREFMNU_MENUBLUR"
 msgstr ""
 
 msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr ""
+msgstr "Environment map in speculis"
 
 msgid "GLPREFMNU_RENDERQUALITY"
-msgstr ""
+msgstr "Reddens qualitatem"
 
 msgid "OPTVAL_SPEED"
 msgstr ""
@@ -1182,10 +1196,10 @@ msgid "OPTVAL_QUALITY"
 msgstr ""
 
 msgid "GLPREFMNU_SECLIGHTMODE"
-msgstr ""
+msgstr "Sector lux modus"
 
 msgid "GLPREFMNU_FOGMODE"
-msgstr ""
+msgstr "Modus nebula"
 
 msgid "OPTVAL_RADIAL"
 msgstr ""
@@ -1194,19 +1208,19 @@ msgid "OPTVAL_STANDARD"
 msgstr ""
 
 msgid "GLTEXMNU_TEXFILTER"
-msgstr ""
+msgstr "Modus filtri textura"
 
 msgid "GLTEXMNU_ANISOTROPIC"
 msgstr ""
 
 msgid "OPTVAL_NONENEARESTMIPMAP"
-msgstr ""
+msgstr "Nulla (mipmap proxima)"
 
 msgid "OPTVAL_NONELINEARMIPMAP"
-msgstr ""
+msgstr "Nulla (mipmap lineari)"
 
 msgid "OPTVAL_NONETRILINEAR"
-msgstr ""
+msgstr "Nulla (trilinearis)"
 
 msgid "OPTVAL_BILINEAR"
 msgstr ""
@@ -1233,28 +1247,28 @@ msgid "GLTEXMNU_TITLE"
 msgstr ""
 
 msgid "GLTEXMNU_HQRESIZE"
-msgstr ""
+msgstr "High Quality Resize modus"
 
 msgid "GLTEXMNU_HQRESIZEMULT"
-msgstr ""
+msgstr "High Quality Resize multiplicator"
 
 msgid "GLTEXMNU_HQRESIZEWARN"
-msgstr ""
+msgstr "Hoc modo requirit %d temporibus magis video memoriam"
 
 msgid "GLTEXMNU_RESIZETEX"
-msgstr ""
+msgstr "Resize texturas"
 
 msgid "GLTEXMNU_RESIZESPR"
-msgstr ""
+msgstr "Sedeo mente"
 
 msgid "GLTEXMNU_RESIZEFNT"
 msgstr ""
 
 msgid "GLTEXMNU_RESIZESKN"
-msgstr ""
+msgstr "Sedeo exemplum pellibus"
 
 msgid "GLTEXMNU_PRECACHETEX"
-msgstr ""
+msgstr "Precache GL texturas"
 
 msgid "VIDMNU_TITLE"
 msgstr ""
@@ -1272,22 +1286,22 @@ msgid "VIDMNU_FULLSCREEN"
 msgstr ""
 
 msgid "VIDMNU_HIDPI"
-msgstr ""
+msgstr "Retina / HiDPI firmamentum"
 
 msgid "VIDMNU_FORCEASPECT"
-msgstr ""
+msgstr "Vis aspect ratio"
 
 msgid "VIDMNU_CROPASPECT"
-msgstr ""
+msgstr "Ratio coactus style"
 
 msgid "VIDMNU_SCALEMODE"
-msgstr ""
+msgstr "Consilium scalae"
 
 msgid "VIDMNU_SCALEFACTOR"
 msgstr ""
 
 msgid "VIDMNU_USELINEAR"
-msgstr ""
+msgstr "Linearibus Scaling usus (Fullscreen)"
 
 msgid "VIDMNU_CUSTOMRES"
 msgstr ""
@@ -1299,19 +1313,19 @@ msgid "VIDMNU_CUSTOMY"
 msgstr ""
 
 msgid "VIDMNU_APPLYW"
-msgstr ""
+msgstr "Applica Mutationes (Windowed)"
 
 msgid "VIDMNU_APPLYFS"
-msgstr ""
+msgstr "Applica Mutationes (Fullscreen)"
 
 msgid "VIDMNU_RESPRESET"
-msgstr ""
+msgstr "Elige Consilium consectetur"
 
 msgid "VIDMNU_RESPRESETTTL"
-msgstr ""
+msgstr "Custom Consilium Presets"
 
 msgid "VIDMNU_RESPRESETHEAD"
-msgstr ""
+msgstr "Resolutio Modos"
 
 msgid "VIDMNU_ASPECT43"
 msgstr ""
@@ -1332,7 +1346,7 @@ msgid "OPTVAL_NORMAL"
 msgstr ""
 
 msgid "OPTVAL_LOWEST"
-msgstr ""
+msgstr "Lowest Ascendite"
 
 msgid "OPTVAL_CUSTOM"
 msgstr ""
@@ -1359,7 +1373,7 @@ msgid "OPTVAL_200FPS"
 msgstr ""
 
 msgid "VIDMNU_PREFERBACKEND"
-msgstr ""
+msgstr "Maluit Reddendo API"
 
 msgid "OPTVAL_OPENGL"
 msgstr ""
@@ -1371,37 +1385,37 @@ msgid "OPTVAL_OPENGLES"
 msgstr ""
 
 msgid "MISCMNU_MERGEKEYS"
-msgstr ""
+msgstr "Merge left + ius Alt / Ctrl/ Shift"
 
 msgid "MISCMNU_WINFULLSCREENTOGGLE"
-msgstr ""
+msgstr "Alt-Intra toggles fullscreen"
 
 msgid "MISCMNU_MACFULLSCREENTOGGLE"
-msgstr ""
+msgstr "Imperium-F toggles fullscreen"
 
 msgid "MISCMNU_ENABLEAUTOSAVES"
-msgstr ""
+msgstr "Admitte autosaves"
 
 msgid "MISCMNU_AUTOSAVECOUNT"
-msgstr ""
+msgstr "Numerus autosaves"
 
 msgid "MISCMNU_SAVELOADCONFIRMATION"
-msgstr ""
+msgstr "Serva/Aperi confirmatio"
 
 msgid "MISCMNU_NOCHEATS"
-msgstr ""
+msgstr "Inactivare tincidunt defraudat"
 
 msgid "MISCMNU_QUICKSAVEROTATION"
-msgstr ""
+msgstr "Quicksave gyrationis"
 
 msgid "MISCMNU_QUICKSAVECOUNT"
-msgstr ""
+msgstr "Multis quicksaves in rotatione"
 
 msgid "MISCMNU_CLEANMENU"
-msgstr ""
+msgstr "Classic ZDoom menu scalas"
 
 msgid "MISCMNU_PAUSEINBACKGROUND"
-msgstr ""
+msgstr "Intermissio ludum in background"
 
 msgid "HUDMNU_CROSSHAIR"
 msgstr ""
@@ -1440,34 +1454,34 @@ msgid "REVMNU_Reflections_Scale"
 msgstr ""
 
 msgid "REVMNU_Reflections_Delay_Scale"
-msgstr ""
+msgstr "Reflexiones mora Scale"
 
 msgid "REVMNU_Decay_Time_Scale"
-msgstr ""
+msgstr "Labe Tempus Scale"
 
 msgid "REVMNU_Decay_HF_Limit"
-msgstr ""
+msgstr "Labe HF Limit"
 
 msgid "REVMNU_Reverb_Scale"
 msgstr ""
 
 msgid "REVMNU_Reverb_Delay_Scale"
-msgstr ""
+msgstr "Ascendite mora Reverb"
 
 msgid "REVMNU_Echo_Time_Scale"
-msgstr ""
+msgstr "Tempus Echo Scale"
 
 msgid "REVMNU_Modulation_Time_Scale"
 msgstr ""
 
 msgid "REVMNU_Based_on"
-msgstr ""
+msgstr "Ex"
 
 msgid "REVMNU_Name"
 msgstr ""
 
 msgid "REVMNU_ID_1"
-msgstr ""
+msgstr "ID # I \""
 
 msgid "REVMNU_ID_2"
 msgstr ""
@@ -1482,25 +1496,25 @@ msgid "REVMNU_File_name"
 msgstr ""
 
 msgid "REVMNU_Environments_to_save"
-msgstr ""
+msgstr "Environments servare"
 
 msgid "DSPLYMNU_VKOPT"
-msgstr ""
+msgstr "Vulkan Optiones (Experimentalis)"
 
 msgid "VK_TITLE"
 msgstr ""
 
 msgid "VKMNU_DEVICE"
-msgstr ""
+msgstr "Vulkan Fabrica ID"
 
 msgid "VKMNU_HDR"
-msgstr ""
+msgstr "Princeps Dynamic Iactus"
 
 msgid "VK_WARNING"
-msgstr ""
+msgstr "Monitum: Vulkan redditor valde experimentalis!"
 
 msgid "VK_RESTART"
-msgstr ""
+msgstr "Haec optiones sileo ut effectum requiret."
 
 msgid "OPTVAL_SCALENX"
 msgstr ""
@@ -1518,61 +1532,61 @@ msgid "OPTVAL_NXBRZ"
 msgstr ""
 
 msgid "OPTVAL_OLD_NXBRZ"
-msgstr ""
+msgstr "Vetus xBRZ"
 
 msgid "OS_TITLE"
 msgstr ""
 
 msgid "OS_ANY"
-msgstr ""
+msgstr "Quaerere aliquem terminum"
 
 msgid "OS_ALL"
-msgstr ""
+msgstr "Quaere omnia verba"
 
 msgid "OS_NO_RESULTS"
-msgstr ""
+msgstr "Non eventus inventus est."
 
 msgid "OS_LABEL"
-msgstr ""
+msgstr "Quaerere:"
 
 msgid "OPTMNU_FULLOPTIONS"
-msgstr ""
+msgstr "Plena optiones menu"
 
 msgid "OPTMNU_SIMPLEON"
 msgstr ""
 
 msgid "OPTMNU_OPENCONFIG"
-msgstr ""
+msgstr "Browse Ludus Mando"
 
 msgid "OPTMNU_OPENSCREENSHOTS"
 msgstr ""
 
 msgid "OPTMNU_OPENSAVES"
-msgstr ""
+msgstr "Pasco Servo Ludi"
 
 msgid "MOUSEMNU_SWAPBUTTONS"
-msgstr ""
+msgstr "Mus Swap Bullae"
 
 msgid "OPTVAL_ONLYMODIFIED"
-msgstr ""
+msgstr "Tantum mutatio:"
 
 msgid "TXT_UNKNOWN"
 msgstr ""
 
 msgid "TXT_SAVEGAMENEEDS"
-msgstr ""
+msgstr "Hoc savegame his opus est files"
 
 msgid "GLPREFMNU_CORONAS"
 msgstr ""
 
 msgid "PICKER_SELECT"
-msgstr ""
+msgstr "Elige quod file ad ludum currere."
 
 msgid "PICKER_PLAY"
 msgstr ""
 
 msgid "PICKER_EXIT"
-msgstr ""
+msgstr "Exi"
 
 msgid "PICKER_GENERAL"
 msgstr ""
@@ -1584,10 +1598,10 @@ msgid "PICKER_FULLSCREEN"
 msgstr ""
 
 msgid "PICKER_NOAUTOLOAD"
-msgstr ""
+msgstr "Inactivare autoload"
 
 msgid "PICKER_DONTASK"
-msgstr ""
+msgstr "Noli quaerere iterum me"
 
 msgid "PICKER_LIGHTS"
 msgstr ""
@@ -1605,7 +1619,7 @@ msgid "PICKER_WELCOME"
 msgstr ""
 
 msgid "PICKER_VERSION"
-msgstr ""
+msgstr "Versionem %s"
 
 msgid "PICKER_PREFERBACKEND"
 msgstr ""
@@ -1614,25 +1628,25 @@ msgid "PICKER_TAB_PLAY"
 msgstr ""
 
 msgid "JOYMNU_JOYENABLE"
-msgstr ""
+msgstr "Admitte hoc moderatoris"
 
 msgid "CNTRLMNU_OPEN_MAIN"
 msgstr ""
 
 msgid "MODMNU_REPLAYER"
-msgstr ""
+msgstr "OMNIBUS replayer"
 
 msgid "JOYMNU_JOYENABLEINBACKGROUND"
-msgstr ""
+msgstr "Patitur Maecenas vitae Controller input"
 
 msgid "MISCMNU_SAVEORDER"
-msgstr ""
+msgstr "Ludum Servare Sorting Ordinis"
 
 msgid "OPTVAL_ALPHABETICAL"
 msgstr ""
 
 msgid "OPTVAL_LASTSAVEDTIME"
-msgstr ""
+msgstr "Last Servo Tempus"
 
 msgid "PICKER_PLAYHOST"
 msgstr ""
@@ -1644,16 +1658,16 @@ msgid "PICKER_REMPARM"
 msgstr ""
 
 msgid "PICKER_SUPPORTWADS"
-msgstr ""
+msgstr "Aperi Support WADs"
 
 msgid "PICKER_TAB_MULTI"
 msgstr ""
 
 msgid "PICKER_LOADSAVE"
-msgstr ""
+msgstr "Aperi Serva Tabularium:"
 
 msgid "PICKER_REMSAVE"
-msgstr ""
+msgstr "Serva Tabularii memento"
 
 msgid "PICKER_HOST"
 msgstr ""
@@ -1662,13 +1676,13 @@ msgid "PICKER_JOIN"
 msgstr ""
 
 msgid "PICKER_NETRATE"
-msgstr ""
+msgstr "Conletum Ticrate:"
 
 msgid "PICKER_NETBACKUP"
-msgstr ""
+msgstr "Mitte Tergum Packets"
 
 msgid "PICKER_GAMEMODE"
-msgstr ""
+msgstr "Ludus modus:"
 
 msgid "PICKER_COOP"
 msgstr ""
@@ -1680,16 +1694,16 @@ msgid "PICKER_TDM"
 msgstr ""
 
 msgid "PICKER_TEAM"
-msgstr ""
+msgstr "Quadrigis #:"
 
 msgid "PICKER_ALTDM"
-msgstr ""
+msgstr "Usus Alternis Deathmatch Rules"
 
 msgid "PICKER_PLAYERS"
-msgstr ""
+msgstr "Max Vestibulum:"
 
 msgid "PICKER_PORT"
-msgstr ""
+msgstr "Host Portus:"
 
 msgid "PICKER_PLAYERHINT"
 msgstr ""
@@ -1701,46 +1715,46 @@ msgid "PICKER_TEAMHINT"
 msgstr ""
 
 msgid "PICKER_IP"
-msgstr ""
+msgstr "Hostia IP:"
 
 msgid "PICKER_TDMLABEL"
-msgstr ""
+msgstr "Bigas Deathmatch:"
 
 msgid "TXT_SAYTEAM"
-msgstr ""
+msgstr "Dic (Team);"
 
 msgid "MISCMNU_DISCORDRPC"
-msgstr ""
+msgstr "Discordia Rich praesentia"
 
 msgid "JOYMNU_TURNSPEED"
-msgstr ""
+msgstr "Conversus celeritas"
 
 msgid "JOYMNU_LOOKSPEED"
-msgstr ""
+msgstr "Vultus celeritas"
 
 msgid "JOYMNU_ANALOGSTRAFERUN"
 msgstr ""
 
 msgid "NOTES_FAIL"
-msgstr ""
+msgstr "'Non release parse notas"
 
 msgid "NOTES_UNKNOWN"
 msgstr ""
 
 msgid "NOTES_RELEASED"
-msgstr ""
+msgstr "%s versio %s, dimissa %s"
 
 msgid "NOTES_EMPTY"
-msgstr ""
+msgstr "Non descriptio praebita."
 
 msgid "NOTES_DETAILS"
-msgstr ""
+msgstr "Plura vide in: %s"
 
 msgid "PICKER_SHOWTHIS"
-msgstr ""
+msgstr "Ostende hanc paginam post updates"
 
 msgid "PICKER_SHOWNOTES"
-msgstr ""
+msgstr "Notas release ostende"
 
 msgid "PICKER_TAB_ABOUT"
 msgstr ""
