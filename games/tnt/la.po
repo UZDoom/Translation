@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-06-09 04:01+0000\n"
+"PO-Revision-Date: 2026-06-09 21:01+0000\n"
 "Last-Translator: Júlia Rosell Saldaña <contacte@juliars.cat>\n"
 "Language-Team: Latin <https://hosted.weblate.org/projects/doom-engine-games/tnt-evilution/la/>\n"
 "Language: la\n"
@@ -22,7 +22,7 @@ msgid "THUSTR_2"
 msgstr "Gradus II: Humanum BBQ"
 
 msgid "THUSTR_3"
-msgstr "Gradus III, Potestas Imperium"
+msgstr "Gradus III: Potestas Imperium"
 
 msgid "THUSTR_4"
 msgstr "Gradus IV: Foramen vermis"
