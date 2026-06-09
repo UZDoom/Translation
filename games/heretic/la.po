@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-06-09 00:02+0000\n"
+"PO-Revision-Date: 2026-06-09 04:01+0000\n"
 "Last-Translator: Júlia Rosell Saldaña <contacte@juliars.cat>\n"
 "Language-Team: Latin <https://hosted.weblate.org/projects/doom-engine-games/heretic/la/>\n"
 "Language: la\n"
@@ -13,34 +13,34 @@ msgstr ""
 "X-Generator: Weblate 2026.6\n"
 
 msgid "HHUSTR_E1M1"
-msgstr ""
+msgstr "Navalia"
 
 msgid "HHUSTR_E1M2"
-msgstr ""
+msgstr "Carceris"
 
 msgid "HHUSTR_E1M3"
-msgstr ""
+msgstr "Porta"
 
 msgid "HHUSTR_E1M4"
 msgstr "Custos Turris"
 
 msgid "HHUSTR_E1M5"
-msgstr ""
+msgstr "Arx"
 
 msgid "HHUSTR_E1M6"
-msgstr ""
+msgstr "Cathedralis"
 
 msgid "HHUSTR_E1M7"
-msgstr ""
+msgstr "Cryptae"
 
 msgid "HHUSTR_E1M8"
-msgstr ""
+msgstr "Fauces Inferni"
 
 msgid "HHUSTR_E1M9"
-msgstr ""
+msgstr "Coemeterium"
 
 msgid "HHUSTR_E2M1"
-msgstr ""
+msgstr "Crater"
 
 msgid "HHUSTR_E2M2"
 msgstr "Lava Pits"
@@ -52,10 +52,10 @@ msgid "HHUSTR_E2M4"
 msgstr "Ice Grotto"
 
 msgid "HHUSTR_E2M5"
-msgstr ""
+msgstr "Catacombae"
 
 msgid "HHUSTR_E2M6"
-msgstr ""
+msgstr "Labyrinthus"
 
 msgid "HHUSTR_E2M7"
 msgstr "Magnus Aula"
@@ -64,16 +64,16 @@ msgid "HHUSTR_E2M8"
 msgstr "Portae Chaos"
 
 msgid "HHUSTR_E2M9"
-msgstr ""
+msgstr "Glacies"
 
 msgid "HHUSTR_E3M1"
-msgstr ""
+msgstr "Horreum"
 
 msgid "HHUSTR_E3M2"
-msgstr ""
+msgstr "Latrina"
 
 msgid "HHUSTR_E3M3"
-msgstr ""
+msgstr "Confluentia"
 
 msgid "HHUSTR_E3M4"
 msgstr "Caeruleus Arce"
@@ -85,61 +85,61 @@ msgid "HHUSTR_E3M6"
 msgstr "Atria Timoris"
 
 msgid "HHUSTR_E3M7"
-msgstr ""
+msgstr "Chasmus"
 
 msgid "HHUSTR_E3M8"
-msgstr ""
+msgstr "Arx D'Sparili"
 
 msgid "HHUSTR_E3M9"
-msgstr ""
+msgstr "Aquifer"
 
 msgid "HHUSTR_E4M1"
-msgstr ""
+msgstr "Catafalcus"
 
 msgid "HHUSTR_E4M2"
-msgstr ""
+msgstr "Domus ex cubis"
 
 msgid "HHUSTR_E4M3"
-msgstr ""
+msgstr "Ambulatorius"
 
 msgid "HHUSTR_E4M4"
-msgstr ""
+msgstr "Sepulcrum"
 
 msgid "HHUSTR_E4M5"
-msgstr ""
+msgstr "Scala Magna"
 
 msgid "HHUSTR_E4M6"
 msgstr "Atria Apostatae"
 
 msgid "HHUSTR_E4M7"
-msgstr ""
+msgstr "Aggeres Perditionis"
 
 msgid "HHUSTR_E4M8"
-msgstr ""
+msgstr "Pons Fractus"
 
 msgid "HHUSTR_E4M9"
-msgstr ""
+msgstr "Mausoleum"
 
 msgid "HHUSTR_E5M1"
-msgstr ""
+msgstr "Rupes Ochrae"
 
 msgid "HHUSTR_E5M2"
-msgstr ""
+msgstr "Rapidi"
 
 msgid "HHUSTR_E5M3"
-msgstr ""
+msgstr "Portus"
 
 msgid "HHUSTR_E5M4"
-msgstr ""
+msgstr "Atrium"
 
 msgid "HHUSTR_E5M5"
-msgstr ""
+msgstr "Hydratyr"
 
 msgid "HHUSTR_E5M6"
-msgstr ""
+msgstr "Columna"
 
 msgid "HHUSTR_E5M7"
-msgstr ""
+msgstr "Foetidum Praetorium"
 
 msgid "HHUSTR_E5M8"
 msgstr "Ager Iudicii"
