@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-06-09 00:02+0000\n"
+"PO-Revision-Date: 2026-06-09 04:01+0000\n"
 "Last-Translator: Júlia Rosell Saldaña <contacte@juliars.cat>\n"
 "Language-Team: Latin <https://hosted.weblate.org/projects/doom-engine-games/strife/la/>\n"
 "Language: la\n"
@@ -19,49 +19,49 @@ msgid "TXT_STRIFE_MAP02"
 msgstr "AREA II: Urbs"
 
 msgid "TXT_STRIFE_MAP03"
-msgstr "AREA III: Front Base"
+msgstr "AREA III: Basis Anterior"
 
 msgid "TXT_STRIFE_MAP04"
 msgstr "AREA IV: Statio Power"
 
 msgid "TXT_STRIFE_MAP05"
-msgstr "AREA V: carcerem"
+msgstr "AREA V: Carcerem"
 
 msgid "TXT_STRIFE_MAP06"
-msgstr "AREA VI, Sewers"
+msgstr "AREA VI: Cloacae"
 
 msgid "TXT_STRIFE_MAP07"
 msgstr "AREA VII: Castellum"
 
 msgid "TXT_STRIFE_MAP08"
-msgstr "AREA 8: Audience Camera"
+msgstr "AREA VIII: Camera Auditorii"
 
 msgid "TXT_STRIFE_MAP09"
-msgstr "AREA 9: Castellum: Programmer's Keep"
+msgstr "AREA IX: Castellum: Arx Programmatoris"
 
 msgid "TXT_STRIFE_MAP10"
 msgstr "AREA X: Novum Front Base"
 
 msgid "TXT_STRIFE_MAP11"
-msgstr ""
+msgstr "AREA XI: Terrae Limitaneae"
 
 msgid "TXT_STRIFE_MAP12"
 msgstr "AREA XII: Templum Oraculi"
 
 msgid "TXT_STRIFE_MAP13"
-msgstr "AREA 13: Catacumbs"
+msgstr "AREA XIII: Catacombae"
 
 msgid "TXT_STRIFE_MAP14"
-msgstr "AREA XIV: Mine"
+msgstr "AREA XIV: Fodinae"
 
 msgid "TXT_STRIFE_MAP15"
-msgstr "AREA XV: Arce: Administration"
+msgstr "AREA XV: Arx: Administratio"
 
 msgid "TXT_STRIFE_MAP16"
-msgstr "AREA 16: Arce: Episcopi Turris ."
+msgstr "AREA XVI: Arx: Turris Episcopi"
 
 msgid "TXT_STRIFE_MAP17"
-msgstr "AREA 17: Arce: Bailey"
+msgstr "AREA XVII: Arx: Bailey"
 
 msgid "TXT_STRIFE_MAP18"
 msgstr "AREA XVIII: Arce: Store"
@@ -79,19 +79,19 @@ msgid "TXT_STRIFE_MAP22"
 msgstr "AREA XXII: Factory: Forge"
 
 msgid "TXT_STRIFE_MAP23"
-msgstr "AREA 23: Ordo Commons"
+msgstr "AREA XXIII: Ordo Communium"
 
 msgid "TXT_STRIFE_MAP24"
 msgstr "AREA XXIV: Factory: Conversio Capella"
 
 msgid "TXT_STRIFE_MAP25"
-msgstr "AREA 25: Catacumbae: Ruined Templum"
+msgstr "AREA XXV: Catacombae: Templum Diruitum"
 
 msgid "TXT_STRIFE_MAP26"
 msgstr "AREA XXVI: Probatio Fundationis"
 
 msgid "TXT_STRIFE_MAP27"
-msgstr ""
+msgstr "AREA XXVII: Laboratorium"
 
 msgid "TXT_STRIFE_MAP28"
 msgstr "AREA XXVIII: Aliena Navis"
@@ -112,19 +112,19 @@ msgid "TXT_STRIFE_MAP33"
 msgstr "AREA II: Urbs"
 
 msgid "TXT_STRIFE_MAP34"
-msgstr "AREA III, Motus Base"
+msgstr "AREA III: Basis Motus"
 
 msgid "TXT_STRIFE_MAP35"
 msgstr "AREA XXXV: Factory: Productio"
 
 msgid "TXT_STRIFE_MAP36"
-msgstr "AREA 36: Castellum Clash"
+msgstr "AREA XXXVI: Conflictus Castelli"
 
 msgid "TXT_STRIFE_MAP37"
 msgstr "AREA XXXVII: Mors Fundamentis"
 
 msgid "TXT_STRIFE_MAP38"
-msgstr "AREA 38: Iussit Chaos"
+msgstr "AREA XXXVIII: Chaos Ordinatum"
 
 # MAP01: Beldin.
 msgid "TXT_DLG_SCRIPT01_D0_IDONT"
@@ -132,7 +132,7 @@ msgstr "Nolo ullam molestiam a me abesse. Satis mihi negotii fuit quam mihi Harr
 
 # MAP02: Guy next to Norwall Prison.
 msgid "TXT_DLG_SCRIPT02_D0_ILLHE"
-msgstr ""
+msgstr "Adiuvabo te si mihi auxilium feras. Quinque aureos nummos et omnia quae scio narrabo."
 
 msgid "TXT_RPLY0_SCRIPT02_D0_HERES"
 msgstr "HIC EST aurum."
@@ -149,7 +149,7 @@ msgid "TXT_DLG_SCRIPT02_D1516_HAVEY"
 msgstr "Ecquis possibilitas nactus es aliam 5 aurum in te?"
 
 msgid "TXT_RPLY0_SCRIPT02_D1516_5GOLD"
-msgstr ""
+msgstr "Quinque auri."
 
 # (Four seconds)
 msgid "TXT_RYES0_SCRIPT02_D1516_WELLP"
@@ -216,7 +216,7 @@ msgid "TXT_DLG_SCRIPT02_D9096_ITHIN"
 msgstr "Puto me flammeum unum e crucesignatorum usui humano converti posse. Oh, quid aliud possum te accipere?"
 
 msgid "TXT_RPLY0_SCRIPT02_D9096_FLAME"
-msgstr ""
+msgstr "Flammae iaculator."
 
 msgid "TXT_RYES0_SCRIPT02_D9096_IKNEW"
 msgstr "Sciebam quod laboras! Hic tu eam pro spinis sume!"
@@ -397,7 +397,7 @@ msgid "TXT_RNO1_SCRIPT02_D18192_PERHA"
 msgstr "Fortasse alio tempore?"
 
 msgid "TXT_RPLY2_SCRIPT02_D18192_METAL"
-msgstr ""
+msgstr "Armatura metallica"
 
 # (in good health = enjoy)
 msgid "TXT_RYES2_SCRIPT02_D18192_WEARI"
@@ -428,7 +428,7 @@ msgid "TXT_RNO1_SCRIPT02_D19708_PERHA"
 msgstr "Fortasse alio tempore?"
 
 msgid "TXT_RPLY2_SCRIPT02_D19708_METAL"
-msgstr ""
+msgstr "Armatura metallica"
 
 # (in good health = enjoy)
 msgid "TXT_RYES2_SCRIPT02_D19708_WEARI"
@@ -442,7 +442,7 @@ msgid "TXT_DLG_SCRIPT02_D21224_HOWMA"
 msgstr "Quomodo te adiuvare possim?"
 
 msgid "TXT_RPLY0_SCRIPT02_D21224_MEDPA"
-msgstr ""
+msgstr "Emplastrum medicum"
 
 msgid "TXT_RYES0_SCRIPT02_D21224_HERES"
 msgstr "Hic lacus tuum est."
@@ -482,7 +482,7 @@ msgid "TXT_DLG_SCRIPT02_D24256_HOWMA"
 msgstr "Quomodo te adiuvare possim?"
 
 msgid "TXT_RPLY0_SCRIPT02_D24256_MEDPA"
-msgstr ""
+msgstr "Emplastrum medicum"
 
 msgid "TXT_RYES0_SCRIPT02_D24256_HERES"
 msgstr "Hic lacus tuum est."
@@ -523,7 +523,7 @@ msgid "TXT_DLG_SCRIPT02_D27288_WHATC"
 msgstr "Quid nunc tibi faciam?"
 
 msgid "TXT_RPLY0_SCRIPT02_D27288_MOREI"
-msgstr ""
+msgstr "Plura notitia."
 
 # (Four seconds)
 msgid "TXT_RYES0_SCRIPT02_D27288_THEGO"
@@ -536,7 +536,7 @@ msgid "TXT_DLG_SCRIPT02_D28804_WELLY"
 msgstr "Bene rogas multam interrogationem pro aliquo qui mori non conatur. Fac ne abeas et te ipsum interficias, vel peius."
 
 msgid "TXT_RPLY0_SCRIPT02_D28804_MOREI"
-msgstr ""
+msgstr "Plura notitia."
 
 # (Four seconds)
 msgid "TXT_RYES0_SCRIPT02_D28804_THERE"
@@ -546,7 +546,7 @@ msgid "TXT_RNO0_SCRIPT02_D28804_WELLT"
 msgstr "Aurum cum veneris loquemur!"
 
 msgid "TXT_DLG_SCRIPT02_D30320_THATS"
-msgstr ""
+msgstr "Hoc est, amice, puteus scientiae exaruit. Plus tibi narravi quam debui. Bene sit tibi... Et noli redire."
 
 # MAP02: Power Station guard.
 msgid "TXT_DLG_SCRIPT02_D31836_HEYIM"
@@ -824,19 +824,19 @@ msgid "TXT_DLG_SCRIPT02_D100056_ILLTE"
 msgstr "Dicam ubi sit, sed nescio cuius coitus sollicitare debeas. Plant purgamentorum hic est."
 
 msgid "TXT_RPLY0_SCRIPT02_D100056_THANK"
-msgstr ""
+msgstr "Gratias"
 
 msgid "TXT_DLG_SCRIPT02_D101572_THATS"
 msgstr "SIC planta purgamentorum hic est. Sed id felis ante. Quicumque dixerit, erravisse Ordinis scriptor."
 
 msgid "TXT_RPLY0_SCRIPT02_D101572_THANK"
-msgstr ""
+msgstr "Gratias"
 
 msgid "TXT_DLG_SCRIPT02_D103088_IFYOU"
 msgstr "Si dixeris nefas esse, nihil volo tibi facere. Mihi satis molestum est."
 
 msgid "TXT_RPLY0_SCRIPT02_D103088_THANK"
-msgstr ""
+msgstr "Gratias"
 
 msgid "TXT_DLG_SCRIPT02_D104604_RELEA"
 msgstr "Dimitte me, relinque senem solum."
@@ -998,7 +998,7 @@ msgid "TXT_DLG_SCRIPT03_D31836_THATS"
 msgstr "Id omnia possum nunc indere. Forsitan sanitatem aliquam?"
 
 msgid "TXT_RPLY0_SCRIPT03_D31836_YEAH"
-msgstr ""
+msgstr "Ita."
 
 msgid "TXT_RYES0_SCRIPT03_D31836_BOYYO"
 msgstr "Puer, pulmentum verum es. Videam quid possum."
@@ -1247,7 +1247,7 @@ msgid "TXT_DLG_SCRIPT04_D45480_WORKS"
 msgstr "Labore, dormi, excrucior, qualis vita est. Dic, tu diver- sorum incautae subrogandi?"
 
 msgid "TXT_RPLY0_SCRIPT04_D45480_YEAHC"
-msgstr ""
+msgstr "Ita, incipiam vix exspecto."
 
 msgid "TXT_DLG_SCRIPT04_D46996_YEAHR"
 msgstr "Yeah, right. Bene, asinum ad operandum age."
@@ -1265,7 +1265,7 @@ msgid "TXT_DLG_SCRIPT04_D50028_NONEO"
 msgstr "Nihil negotii tui, Ketrick loquere."
 
 msgid "TXT_RPLY0_SCRIPT04_D50028_OK"
-msgstr ""
+msgstr "Bene."
 
 # (bored to tears = extremely bored)
 msgid "TXT_DLG_SCRIPT04_D51544_IFITS"
@@ -1579,7 +1579,7 @@ msgid "TXT_RYES1_SCRIPT10_D18192_YESIV"
 msgstr "Ita, Novi ferramenta tibi habeo."
 
 msgid "TXT_RNO1_SCRIPT10_D18192_NOPEI"
-msgstr ""
+msgstr "Minime, sed in eo laboro."
 
 # (one upgrade: Mission to talk to the Oracle)
 msgid "TXT_DLG_SCRIPT10_D19708_WHATC"
@@ -1611,7 +1611,7 @@ msgid "TXT_RYES0_SCRIPT10_D21224_THERE"
 msgstr "Ibi pro novo opinor."
 
 msgid "TXT_RPLY1_SCRIPT10_D21224_RETRO"
-msgstr ""
+msgstr "Renovatio?"
 
 # (during sad/bad ending)
 msgid "TXT_RYES1_SCRIPT10_D21224_AHNOW"
@@ -1637,7 +1637,7 @@ msgid "TXT_RYES1_SCRIPT10_D22740_LETME"
 msgstr "Fac ut sciam opera haec."
 
 msgid "TXT_RNO1_SCRIPT10_D22740_IMNOT"
-msgstr ""
+msgstr "Nondum perfeci designandum."
 
 # (four upgrades).
 msgid "TXT_DLG_SCRIPT10_D24256_BACKA"
@@ -1767,7 +1767,7 @@ msgid "TXT_RPLY1_SCRIPT10_D33352_WHATC"
 msgstr "Quid me doces?"
 
 msgid "TXT_RYES1_SCRIPT10_D33352_DONTG"
-msgstr ""
+msgstr "Noli esse mordax, adhuc tibi spatium est ad crescendum."
 
 msgid "TXT_RNO1_SCRIPT10_D33352_NOTHI"
 msgstr "Nihil usque dum paratus sis."
@@ -1872,7 +1872,7 @@ msgid "TXT_RNO1_SCRIPT10_D40932_COMEB"
 msgstr "Redi, cum satis pecuniae habes."
 
 msgid "TXT_RPLY2_SCRIPT10_D40932_ENERG"
-msgstr ""
+msgstr "Capsula energiae"
 
 msgid "TXT_RYES2_SCRIPT10_D40932_HERES"
 msgstr "En industria pod"
@@ -1916,7 +1916,7 @@ msgid "TXT_DLG_SCRIPT11_D3032_OKBUT"
 msgstr "Bene, sed memento, ego sum claviger."
 
 msgid "TXT_RPLY0_SCRIPT11_D3032_OKPAL"
-msgstr ""
+msgstr "Bene amice, quidquid."
 
 msgid "TXT_DLG_SCRIPT11_D4548_IMTHE"
 msgstr "Ego sum magister."
@@ -2146,7 +2146,7 @@ msgid "TXT_DLG_SCRIPT17_D18192_HOWHO"
 msgstr "Quomodo possum adiuvare vos hodie?"
 
 msgid "TXT_RPLY0_SCRIPT17_D18192_MEDPA"
-msgstr ""
+msgstr "Emplastrum medicum"
 
 msgid "TXT_RYES0_SCRIPT17_D18192_HERES"
 msgstr "Hic lacus tuum est."
@@ -2186,7 +2186,7 @@ msgid "TXT_DLG_SCRIPT18_D1516_THETE"
 msgstr "Templarii mox aderunt ut novos capiant latrones. Si in viam ingredieris mortuus es."
 
 msgid "TXT_RPLY0_SCRIPT18_D1516_MAULE"
-msgstr ""
+msgstr "Latrones?"
 
 msgid "TXT_RYES0_SCRIPT18_D1516_THETE"
 msgstr "Telum ventus Templarii."
@@ -2279,7 +2279,7 @@ msgid "TXT_RNO2_SCRIPT23_D0_THEYA"
 msgstr "Illi sunt 100 aurum, amici."
 
 msgid "TXT_RPLY3_SCRIPT23_D0_ENERG"
-msgstr ""
+msgstr "Capsula energiae"
 
 msgid "TXT_RYES3_SCRIPT23_D0_HEREY"
 msgstr "Hic es tu."
@@ -2301,7 +2301,7 @@ msgid "TXT_RNO0_SCRIPT23_D1516_THERE"
 msgstr "Nulla hic datur caritas!"
 
 msgid "TXT_RPLY1_SCRIPT23_D1516_METAL"
-msgstr ""
+msgstr "Armatura metallica"
 
 msgid "TXT_RYES1_SCRIPT23_D1516_ANEXC"
 msgstr "Egregius civis optio."
@@ -2341,7 +2341,7 @@ msgid "TXT_RNO0_SCRIPT23_D3032_THERE"
 msgstr "Nulla hic datur caritas!"
 
 msgid "TXT_RPLY1_SCRIPT23_D3032_METAL"
-msgstr ""
+msgstr "Armatura metallica"
 
 msgid "TXT_RYES1_SCRIPT23_D3032_ANEXC"
 msgstr "Egregius civis optio."
@@ -2363,7 +2363,7 @@ msgid "TXT_DLG_SCRIPT23_D4548_HOWCA"
 msgstr "Quomodo te adiuvare possum hodie?"
 
 msgid "TXT_RPLY0_SCRIPT23_D4548_MEDPA"
-msgstr ""
+msgstr "Emplastrum medicum"
 
 msgid "TXT_RYES0_SCRIPT23_D4548_HERES"
 msgstr "Hic lacus tuum est."
@@ -2394,7 +2394,7 @@ msgid "TXT_DLG_SCRIPT23_D6064_HELLO"
 msgstr "Amice salve, quid possum tibi?"
 
 msgid "TXT_RPLY0_SCRIPT23_D6064_INFOR"
-msgstr ""
+msgstr "Informationes"
 
 msgid "TXT_RYES0_SCRIPT23_D6064_IVENE"
 msgstr "Nunquam vidi aliquem introire vel extra officinam, semper est forcis."
@@ -2407,7 +2407,7 @@ msgstr "Ita, quid vis?"
 
 # (dot not recommended)
 msgid "TXT_RPLY0_SCRIPT23_D7580_MOREI"
-msgstr ""
+msgstr "Plura notitia."
 
 msgid "TXT_RYES0_SCRIPT23_D7580_THEFA"
 msgstr "Fabricae aedificatae sunt in situs impulsus cometae. Non puto possibilitas esse."
@@ -2420,7 +2420,7 @@ msgstr "Iterum salve, quid erit?"
 
 # (dot not recommended)
 msgid "TXT_RPLY0_SCRIPT23_D9096_MOREI"
-msgstr ""
+msgstr "Plura notitia."
 
 msgid "TXT_RYES0_SCRIPT23_D9096_THEFA"
 msgstr "Officina clausa cum ordo novum horrorem detexit: Inquisitor."
@@ -2482,7 +2482,7 @@ msgstr "Possumne plus esse auxilii?"
 
 # (dot not recommended)
 msgid "TXT_RPLY0_SCRIPT23_D10612_MOREI"
-msgstr ""
+msgstr "Plura notitia."
 
 msgid "TXT_RYES0_SCRIPT23_D10612_LOOKF"
 msgstr "Vide Timotheum. Audivi quaedam scire secreta Ordinis."
@@ -2704,7 +2704,7 @@ msgid "TXT_RNO1_SCRIPT33_D6064_PERHA"
 msgstr "Fortasse alio tempore?"
 
 msgid "TXT_RPLY2_SCRIPT33_D6064_METAL"
-msgstr ""
+msgstr "Armatura metallica"
 
 msgid "TXT_RYES2_SCRIPT33_D6064_WEARI"
 msgstr "Bene valentem induere."
@@ -2717,7 +2717,7 @@ msgid "TXT_DLG_SCRIPT33_D7580_HOWMA"
 msgstr "Quomodo te adiuvare possim?"
 
 msgid "TXT_RPLY0_SCRIPT33_D7580_MEDPA"
-msgstr ""
+msgstr "Emplastrum medicum"
 
 msgid "TXT_RYES0_SCRIPT33_D7580_HERES"
 msgstr "Ecce ornamentum tuum commissuram."
@@ -2735,7 +2735,7 @@ msgid "TXT_RNO1_SCRIPT33_D7580_IWISH"
 msgstr "Illos donare vellem, sed constant 25 aurum."
 
 msgid "TXT_RPLY2_SCRIPT33_D7580_HEALI"
-msgstr ""
+msgstr "Sanatio"
 
 msgid "TXT_RYES2_SCRIPT33_D7580_THERE"
 msgstr "Ibi tu ibis. Cura nunc."
@@ -2748,7 +2748,7 @@ msgid "TXT_DLG_SCRIPT33_D9096_HELLO"
 msgstr "Amice salve, non vidi te hic prius. Omnia possum dicere me cavere si te essem, multum agitur et melius est si obvium non possis."
 
 msgid "TXT_RPLY0_SCRIPT33_D9096_INFOR"
-msgstr ""
+msgstr "Informationes"
 
 msgid "TXT_RYES0_SCRIPT33_D9096_THESE"
 msgstr "Cloacae plus quam mures et robots tenent."
@@ -2772,7 +2772,7 @@ msgid "TXT_DLG_SCRIPT33_D12128_WELLY"
 msgstr "Bene, certe multum quaesitum es pro aliquo qui hoc diu vixit. Bene quidem est, mallem tibi aliquem similem loqui quam huius sortis maxime."
 
 msgid "TXT_RPLY0_SCRIPT33_D12128_MOREI"
-msgstr ""
+msgstr "Plura notitia."
 
 msgid "TXT_RYES0_SCRIPT33_D12128_THERE"
 msgstr "Plus est ad Ordinem quam quod hic agitur."
@@ -2797,7 +2797,7 @@ msgid "TXT_RYES1_SCRIPT33_D15160_NOBOD"
 msgstr "Nemo a me discedit!"
 
 msgid "TXT_DLG_SCRIPT33_D16676_GOODC"
-msgstr ""
+msgstr "Bona electio. Sanctuarium Ordinis iuxta flumen est camera tormentorum non officialis. Intus latet calix aureus. Si eum rapis, me in taberna convenies, et praemium tuum metes."
 
 msgid "TXT_RPLY0_SCRIPT33_D16676_HOWAM"
 msgstr "Quomodo ego volo facere?"
@@ -2948,7 +2948,7 @@ msgid "TXT_DLG_SCRIPT34_D10612_THATS"
 msgstr "Id omnia possum nunc indere. Forsitan sanitatem aliquam?"
 
 msgid "TXT_RPLY0_SCRIPT34_D10612_YEAH"
-msgstr ""
+msgstr "Ita."
 
 msgid "TXT_RYES0_SCRIPT34_D10612_BOYYO"
 msgstr "Puer, pulmentum verum es. Videam quid possum."
@@ -3585,198 +3585,198 @@ msgid "TXT_ILOG1201"
 msgstr "Macte! Gratiam tuam merui. Visita medicum et telam lanistam et te paratum habebunt ad ea quae praecedunt. Intra basim libere vagari."
 
 msgid "TXT_SPEAKER_ORDER_SERGEANT"
-msgstr ""
+msgstr "Ordo opificie"
 
 msgid "TXT_SPEAKER_ROWAN"
-msgstr ""
+msgstr "Rowan"
 
 msgid "TXT_SPEAKER_FERIS"
-msgstr ""
+msgstr "Feris"
 
 msgid "TXT_SPEAKER_PRISON_GUARD"
-msgstr ""
+msgstr "Custos Carceris"
 
 msgid "TXT_SPEAKER_JUSTIN"
-msgstr ""
+msgstr "Justin"
 
 msgid "TXT_SPEAKER_MACIL"
-msgstr ""
+msgstr "Macil"
 
 msgid "TXT_SPEAKER_ASSISTANT"
-msgstr ""
+msgstr "Adiutor"
 
 msgid "TXT_SPEAKER_KEY_MASTER"
-msgstr ""
+msgstr "Magister Clavium"
 
 msgid "TXT_SPEAKER_BODYGUARD"
-msgstr ""
+msgstr "Custos corporis"
 
 # Intended to appear in MAP01 of the Strife teaser, but does not spawn.
 msgid "TXT_SPEAKER_INTERROGATOR"
-msgstr ""
+msgstr "Interrogator"
 
 msgid "TXT_SPEAKER_WARDEN_MONTAG"
-msgstr ""
+msgstr "Custos Montag"
 
 msgid "TXT_SPEAKER_RICHTER"
-msgstr ""
+msgstr "Richter"
 
 msgid "TXT_SPEAKER_MACIL_S_ADVISOR"
-msgstr ""
+msgstr "Consiliarius Macil"
 
 msgid "TXT_SPEAKER_JUDGE_WOLENICK"
-msgstr ""
+msgstr "Iudex Wolenick"
 
 msgid "TXT_SPEAKER_TEVICK"
-msgstr ""
+msgstr "Tevick"
 
 msgid "TXT_SPEAKER_HARRIS"
-msgstr ""
+msgstr "Harris"
 
 msgid "TXT_SPEAKER_FOREMAN"
-msgstr ""
+msgstr "Praefectus"
 
 msgid "TXT_SPEAKER_PRISONER"
-msgstr ""
+msgstr "Captivus"
 
 msgid "TXT_SPEAKER_SAMMIS"
-msgstr ""
+msgstr "Sammis"
 
 msgid "TXT_SPEAKER_WEAPON_SMITH"
-msgstr ""
+msgstr "Fabrus Armorum"
 
 msgid "TXT_SPEAKER_REACTOR_GUARD"
-msgstr ""
+msgstr "Custos Reactoris"
 
 msgid "TXT_SPEAKER_APPRENTICE"
-msgstr ""
+msgstr "Discipulus"
 
 msgid "TXT_SPEAKER_DOOR_GUARD"
-msgstr ""
+msgstr "Custos Ostii"
 
 msgid "TXT_SPEAKER_MASTER_SMITHY"
-msgstr ""
+msgstr "Magister Ferrarius"
 
 msgid "TXT_SPEAKER_WAREHOUSE_GUARD"
-msgstr ""
+msgstr "Custos Horrei"
 
 msgid "TXT_SPEAKER_BARKEEP"
-msgstr ""
+msgstr "Caupo"
 
 msgid "TXT_SPEAKER_TIMOTHY"
-msgstr ""
+msgstr "Timothy"
 
 msgid "TXT_SPEAKER_JAMES"
-msgstr ""
+msgstr "James"
 
 msgid "TXT_SPEAKER_WORNER"
-msgstr ""
+msgstr "Worner"
 
 msgid "TXT_SPEAKER_BAILEY_GUARD"
-msgstr ""
+msgstr "Custos Bailey"
 
 # drone ≈ slave
 msgid "TXT_SPEAKER_DRONE"
-msgstr ""
+msgstr "Servus"
 
 msgid "TXT_SPEAKER_FRONT_GUARD"
-msgstr ""
+msgstr "Custos Frontis"
 
 msgid "TXT_SPEAKER_QUINCY"
-msgstr ""
+msgstr "Quincy"
 
 msgid "TXT_SPEAKER_SERGEANT"
-msgstr ""
+msgstr "Opifice"
 
 msgid "TXT_SPEAKER_TEMPLE_GUARD"
-msgstr ""
+msgstr "Custos Templi"
 
 msgid "TXT_SPEAKER_ORACLE"
-msgstr ""
+msgstr "Oraculum"
 
 msgid "TXT_SPEAKER_ULAINE"
-msgstr ""
+msgstr "Ulaine"
 
 msgid "TXT_SPEAKER_FRONT_SOLDIER"
-msgstr ""
+msgstr "Miles Frontis"
 
 msgid "TXT_SPEAKER_PROGRAMMER"
-msgstr ""
+msgstr "Programmator"
 
 msgid "TXT_SPEAKER_MEDIC"
-msgstr ""
+msgstr "Medicus"
 
 msgid "TXT_SPEAKER_WATCHMAN"
-msgstr ""
+msgstr "Custos"
 
 msgid "TXT_SPEAKER_KETRICK"
-msgstr ""
+msgstr "Ketrick"
 
 msgid "TXT_SPEAKER_WERAN"
-msgstr ""
+msgstr "Weran"
 
 msgid "TXT_SPEAKER_ADVISOR"
-msgstr ""
+msgstr "Consiliarius"
 
 msgid "TXT_SPEAKER_GEOFF"
-msgstr ""
+msgstr "Geoff"
 
 msgid "TXT_SPEAKER_OVERSEER"
-msgstr ""
+msgstr "Inspector"
 
 # Intended to appear in MAP19, but does not spawn.
 #
 msgid "TXT_SPEAKER_SECURITY_COMPLE"
-msgstr ""
+msgstr "Complexus Securitatis"
 
 msgid "TXT_SPEAKER_COMPUTER_TECH"
-msgstr ""
+msgstr "Technologia Computatralis"
 
 msgid "TXT_SPEAKER_MACGUFFIN"
-msgstr ""
+msgstr "MacGuffin"
 
 msgid "TXT_SPEAKER_ARION"
-msgstr ""
+msgstr "Arion"
 
 # This is a compound word. Some languages express this in one word.
 msgid "TXT_SPEAKER_DOCK_WORKER"
-msgstr ""
+msgstr "Portuarius"
 
 msgid "TXT_SPEAKER_IRALE"
-msgstr ""
+msgstr "Irale"
 
 msgid "TXT_SPEAKER_CORE_GUARD"
-msgstr ""
+msgstr "Custos Nuclei"
 
 msgid "TXT_SPEAKER_SEWER_GUARD"
-msgstr ""
+msgstr "Custos Cloacarum"
 
 msgid "TXT_SPEAKER_TECHNICIAN"
-msgstr ""
+msgstr "Technicus"
 
 msgid "TXT_SPEAKER_GUARD"
-msgstr ""
+msgstr "Custos"
 
 msgid "TXT_SPEAKER_PEASANT"
-msgstr ""
+msgstr "Rusticus"
 
 msgid "TXT_SPEAKER_ARMORER"
-msgstr ""
+msgstr "Armista"
 
 msgid "TXT_SPEAKER_BELDIN"
-msgstr ""
+msgstr "Beldin"
 
 msgid "TXT_SPEAKER_GERARD"
-msgstr ""
+msgstr "Gerard"
 
 msgid "TXT_SPEAKER_GOVERNOR_MOUREL"
-msgstr ""
+msgstr "Gubernator Mourel"
 
 msgid "TXT_SPEAKER_BOWYER"
-msgstr ""
+msgstr "Bowyer"
 
 msgid "TXT_SPEAKER_DERWIN"
-msgstr ""
+msgstr "Derwin"
 
 # Menu's intro.
 msgid "TXT_SUB_INTRO1"
@@ -4278,6 +4278,8 @@ msgstr "Non potes me occidere. Homo iustus es. Et plus quam homo sum."
 # and BlackBird.
 msgid "TXT_SUB_LOG122"
 msgstr ""
+"Nulla mors, vita aeterna et plura. Multo plura! Hoc est munus meum: cyborgi, semicaro, semiferrei, omnes ad serviendum Uni Deo. Non servitis? Morimini!\n"
+"Hoc putz alterum fragmentum Sigilli habet."
 
 # MAP29: Entity (If the player is progressing through the mediocre ending)
 msgid "TXT_SUB_LOG128"
