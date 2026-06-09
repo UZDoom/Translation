@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-06-09 00:01+0000\n"
+"PO-Revision-Date: 2026-06-09 04:01+0000\n"
 "Last-Translator: Júlia Rosell Saldaña <contacte@juliars.cat>\n"
 "Language-Team: Latin <https://hosted.weblate.org/projects/doom-engine-games/hacx-filter/la/>\n"
 "Language: la\n"
@@ -144,7 +144,7 @@ msgid "OB_DMAN"
 msgstr "%o e cyberspace deletum est."
 
 msgid "OB_GLASS"
-msgstr ""
+msgstr "%hself maxillam vitream %o dabo."
 
 msgid "OB_MANIAC"
 msgstr "%o vitam finivit."
@@ -184,7 +184,7 @@ msgid "OB_MPKICK"
 msgstr "%o tulit %k's Brus Lee fu-calcit ad faciem."
 
 msgid "OB_MPREZNATOR"
-msgstr ""
+msgstr "%o per revelationem attonitam %k collapsa est."
 
 msgid "OB_MPXPISTOL"
 msgstr "%o duplicem dosis poenae %k accepit."
@@ -279,19 +279,19 @@ msgid "GOTFORCEFIELD"
 msgstr "Vis campi!"
 
 msgid "GOTMICROTEL"
-msgstr ""
+msgstr "007Microtel"
 
 msgid "GOTENKBLIND"
 msgstr "EnK Caecus es!"
 
 msgid "GOTRUBBERBOOTS"
-msgstr ""
+msgstr "Caligae e gummi Vulcanianae!"
 
 msgid "GOTSIARRAY"
 msgstr "SI Ordinare mapping!"
 
 msgid "GOTINFRARED"
-msgstr ""
+msgstr "Visorem Infrarubrum!"
 
 msgid "GOTINHALER"
 msgstr "Respira altum, Inhaler!"
@@ -324,7 +324,7 @@ msgid "GOTBODYARMOR"
 msgstr "CORPORIS Lorica!"
 
 msgid "GOTCENTROPHENOXINE"
-msgstr ""
+msgstr "Centrophenoxinum"
 
 msgid "GOTKEVLARVEST"
 msgstr "Captas vestem Kevlar!"
@@ -423,22 +423,22 @@ msgstr ""
 "Solus es…."
 
 msgid "TXT_HACXMAP01"
-msgstr ""
+msgstr "GenEmp Corp."
 
 msgid "TXT_HACXMAP02"
-msgstr ""
+msgstr "Oppidum Cuniculi"
 
 msgid "TXT_HACXMAP03"
-msgstr ""
+msgstr "Lava Annexum"
 
 msgid "TXT_HACXMAP04"
-msgstr ""
+msgstr "Alcatraz"
 
 msgid "TXT_HACXMAP05"
-msgstr ""
+msgstr "Circus Cyberneticus"
 
 msgid "TXT_HACXMAP06"
-msgstr ""
+msgstr "Digi-Ota"
 
 msgid "TXT_HACXMAP07"
 msgstr "Magnus Wall"
@@ -447,34 +447,34 @@ msgid "TXT_HACXMAP08"
 msgstr "Hortus Deliciarum"
 
 msgid "TXT_HACXMAP09"
-msgstr ""
+msgstr "Arx Occulta"
 
 msgid "TXT_HACXMAP10"
-msgstr ""
+msgstr "Somnium Anarchisticum"
 
 msgid "TXT_HACXMAP11"
 msgstr "Notus Nobis!"
 
 msgid "TXT_HACXMAP12"
-msgstr ""
+msgstr "Manica Gothica"
 
 msgid "TXT_HACXMAP13"
-msgstr ""
+msgstr "Cloacae"
 
 msgid "TXT_HACXMAP14"
-msgstr ""
+msgstr "Bella Trode"
 
 msgid "TXT_HACXMAP15"
 msgstr "Crepusculum de Enk's"
 
 msgid "TXT_HACXMAP16"
-msgstr ""
+msgstr "Cybex Proteanus"
 
 msgid "TXT_HACXMAP17"
 msgstr "Flumen Sanguinis"
 
 msgid "TXT_HACXMAP18"
-msgstr ""
+msgstr "Bizarro"
 
 msgid "TXT_HACXMAP19"
 msgstr "Bellum Cella"
@@ -483,7 +483,7 @@ msgid "TXT_HACXMAP20"
 msgstr "Intrusor erecti!"
 
 msgid "TXT_HACXMAP31"
-msgstr ""
+msgstr "Cubiculum Exsiccatorium"
 
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_CLEV"
@@ -541,11 +541,11 @@ msgstr "Cyberpotence Modus Off"
 
 msgctxt "doom hacx.hacx1"
 msgid "AMSTR_FOLLOWON"
-msgstr ""
+msgstr "Investigatio activa"
 
 msgctxt "doom hacx.hacx1"
 msgid "AMSTR_FOLLOWOFF"
-msgstr ""
+msgstr "Investigatio inactiva"
 
 msgctxt "doom hacx.hacx1"
 msgid "DOSY"
@@ -585,41 +585,41 @@ msgstr ""
 "Press Y vel N."
 
 msgid "CC_THUG"
-msgstr ""
+msgstr "Latro"
 
 msgid "CC_ANDROID"
-msgstr ""
+msgstr "Android"
 
 msgid "CC_ICE"
-msgstr ""
+msgstr "ICE"
 
 msgid "CC_BUZZER"
-msgstr ""
+msgstr "Tintinnabulum"
 
 msgid "CC_DMAN"
-msgstr ""
+msgstr "D-Man"
 
 msgid "CC_PHAGE"
-msgstr ""
+msgstr "Phago"
 
 msgid "CC_MONSTRUCT"
-msgstr ""
+msgstr "Monstrumentum"
 
 msgid "CC_MECH"
-msgstr ""
+msgstr "Mecha Maniac"
 
 msgid "CC_TERMI"
-msgstr ""
+msgstr "Terminatrix"
 
 msgid "CC_THORN"
-msgstr ""
+msgstr "Res Spinosa"
 
 msgid "CC_MAJONG"
-msgstr ""
+msgstr "Majong VII"
 
 msgctxt "doom hacx.hacx1"
 msgid "CC_HERO"
-msgstr ""
+msgstr "Dan Evanger"
 
 msgctxt "doom hacx.hacx1"
 msgid "SKILL_BABY"
