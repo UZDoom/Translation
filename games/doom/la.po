@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-06-09 00:02+0000\n"
+"PO-Revision-Date: 2026-06-09 04:01+0000\n"
 "Last-Translator: Júlia Rosell Saldaña <contacte@juliars.cat>\n"
 "Language-Team: Latin <https://hosted.weblate.org/projects/doom-engine-games/doom/la/>\n"
 "Language: la\n"
@@ -19,7 +19,7 @@ msgid "TXT_D1E2"
 msgstr "Oris Orci"
 
 msgid "TXT_D1E3"
-msgstr ""
+msgstr "Infernus"
 
 # The episode and levels' names in E4 are taken from the Bible.
 # Proverbs 5:11
@@ -27,126 +27,126 @@ msgid "TXT_D1E4"
 msgstr "Caro tua consumpta"
 
 msgid "HUSTR_E1M1"
-msgstr ""
+msgstr "EIMI: Hangar"
 
 msgid "HUSTR_E1M2"
-msgstr "E1M2: Planta nuclei"
+msgstr "EIMII: Planta nuclearis"
 
 msgid "HUSTR_E1M3"
-msgstr ""
+msgstr "EIMIII: Refinarium Toxinorum"
 
 msgid "HUSTR_E1M4"
-msgstr "E1M4: Imperii Imperium"
+msgstr "EIMIV: Imperii Imperium"
 
 msgid "HUSTR_E1M5"
-msgstr ""
+msgstr "EIMV: Laboratorium Phobi"
 
 msgid "HUSTR_E1M6"
-msgstr "E1M6: Processing Central"
+msgstr "EIMVI: Processus Centralis"
 
 msgid "HUSTR_E1M7"
-msgstr ""
+msgstr "EIMVII: Statio Computatralis"
 
 msgid "HUSTR_E1M8"
-msgstr ""
+msgstr "EIMVIII: Anomalia Phobi"
 
 msgid "HUSTR_E1M9"
-msgstr "E1M9: Base Military"
+msgstr "EIMIX: Basis Militaris"
 
 msgid "HUSTR_E1M10"
-msgstr ""
+msgstr "EIMX: Cloacae"
 
 msgid "HUSTR_E2M1"
-msgstr ""
+msgstr "EIIMI: Anomalia Deimi"
 
 msgid "HUSTR_E2M2"
-msgstr "E2M2: Continens Area"
+msgstr "EIIMII: Area Contentionis"
 
 msgid "HUSTR_E2M3"
-msgstr ""
+msgstr "EIIMIII: Refinarium"
 
 msgid "HUSTR_E2M4"
-msgstr ""
+msgstr "EIIMIV: Laboratorium Deimos"
 
 msgid "HUSTR_E2M5"
-msgstr "E2M5: Imperii Center"
+msgstr "EIIMV: Centrum Imperii"
 
 msgid "HUSTR_E2M6"
-msgstr "E2M6: Atria damnatorum"
+msgstr "EIIMVI: Atria damnatorum"
 
 msgid "HUSTR_E2M7"
-msgstr "E2M7: Orituring Vats"
+msgstr "EIIMVII: Dolia generationis"
 
 msgid "HUSTR_E2M8"
-msgstr "E2M8: Turris Babel ."
+msgstr "EIIMVIII: Turris Babel"
 
 msgid "HUSTR_E2M9"
-msgstr "E2M9: Arce Mysterii"
+msgstr "EIIMIX: Arce Mysterii"
 
 msgid "HUSTR_E3M1"
-msgstr "E3M1, inferos custodiunt"
+msgstr "EIIIMI: Inferos custodiunt"
 
 msgid "HUSTR_E3M2"
-msgstr "E3M2: exuviis desperationis"
+msgstr "EIIIMII: Exuviis desperationis"
 
 msgid "HUSTR_E3M3"
-msgstr ""
+msgstr "EIIIMIII: Pandemonium"
 
 msgid "HUSTR_E3M4"
-msgstr "E3M4: Domus doloris"
+msgstr "EIIIMIV: Domus doloris"
 
 msgid "HUSTR_E3M5"
-msgstr "E3M5: Cathedralis"
+msgstr "EIIIMV: Ecclesia Cathedralis Impia"
 
 # Volcano in Antarctica
 msgid "HUSTR_E3M6"
-msgstr "E3M6: Mt"
+msgstr "EIIIMVI: Mons Erebus"
 
 msgid "HUSTR_E3M7"
-msgstr ""
+msgstr "EIIIMVII: Limbo"
 
 # Based on the City of Dis, located on the sixth circle of Hell, according to
 # Dante Alighieri's The Divine Comedy
 msgid "HUSTR_E3M8"
-msgstr ""
+msgstr "EIIIMVIII: Dis"
 
 msgid "HUSTR_E3M9"
-msgstr ""
+msgstr "EIIIMIX: Labyrinthus"
 
 # Proverbs 15:24
 msgid "HUSTR_E4M1"
-msgstr "E4M1, infernus subtus"
+msgstr "EIVMI: Infernus subtus"
 
 # Psalm 139:22
 msgid "HUSTR_E4M2"
-msgstr "E4M2: Odium perfectum"
+msgstr "EIVMII: Odium perfectum"
 
 # Matthew 13:49
 msgid "HUSTR_E4M3"
-msgstr "E4M3: Impius Sever"
+msgstr "EIVMIII: Impius Sever"
 
 # James 3:8
 msgid "HUSTR_E4M4"
-msgstr "E4M4: Mali inobedientes"
+msgstr "EIVMIV: Mali inobedientes"
 
 # Luke 16:30
 msgid "HUSTR_E4M5"
-msgstr "E4M5: paenitent"
+msgstr "EIVMV: Paenitent"
 
 # Psalm 139:20
 msgid "HUSTR_E4M6"
-msgstr "E4M6: Contra te scelerate"
+msgstr "EIVMVI: Contra te scelerate"
 
 # Revelation 6:8
 msgid "HUSTR_E4M7"
-msgstr "E4M7: Et infernus Secuti sunt"
+msgstr "EIVMVII: Et infernus Secuti sunt"
 
 # Proverbs 5:9
 msgid "HUSTR_E4M8"
-msgstr "E4M8: Crudelis"
+msgstr "EIVMVIII: Ad Crudelem"
 
 msgid "HUSTR_E4M9"
-msgstr "E4M9: nolite timere"
+msgstr "EIVMIX: Timor"
 
 # Doom Ep.1
 msgid "E1TEXT"
