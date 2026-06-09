@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-06-09 00:01+0000\n"
+"PO-Revision-Date: 2026-06-09 04:01+0000\n"
 "Last-Translator: Júlia Rosell Saldaña <contacte@juliars.cat>\n"
 "Language-Team: Latin <https://hosted.weblate.org/projects/doom-engine-games/hexen-deathkings/la/>\n"
 "Language: la\n"
@@ -13,82 +13,82 @@ msgstr ""
 "X-Generator: Weblate 2026.6\n"
 
 msgid "TXT_HEXDD_MAP41"
-msgstr ""
+msgstr "Vicus Ruinatus"
 
 msgid "TXT_HEXDD_MAP42"
-msgstr ""
+msgstr "Ruina"
 
 msgid "TXT_HEXDD_MAP43"
-msgstr ""
+msgstr "Sentina"
 
 msgid "TXT_HEXDD_MAP44"
-msgstr ""
+msgstr "Catacomba"
 
 msgid "TXT_HEXDD_MAP45"
-msgstr ""
+msgstr "Terrae Insulae"
 
 msgid "TXT_HEXDD_MAP46"
-msgstr ""
+msgstr "Lignum filicum"
 
 msgid "TXT_HEXDD_MAP47"
-msgstr ""
+msgstr "Rogus"
 
 msgid "TXT_HEXDD_MAP48"
-msgstr ""
+msgstr "Porta Constabularii"
 
 msgid "TXT_HEXDD_MAP49"
-msgstr ""
+msgstr "Aerarium"
 
 msgid "TXT_HEXDD_MAP50"
-msgstr ""
+msgstr "Forum"
 
 msgid "TXT_HEXDD_MAP51"
-msgstr ""
+msgstr "Locus Requiescat"
 
 msgid "TXT_HEXDD_MAP52"
-msgstr ""
+msgstr "Experimentum"
 
 msgid "TXT_HEXDD_MAP53"
-msgstr ""
+msgstr "Armamentarium"
 
 msgid "TXT_HEXDD_MAP54"
-msgstr ""
+msgstr "Navis"
 
 msgid "TXT_HEXDD_MAP55"
-msgstr ""
+msgstr "Canticum"
 
 msgid "TXT_HEXDD_MAP56"
-msgstr ""
+msgstr "Laqueum"
 
 msgid "TXT_HEXDD_MAP57"
-msgstr ""
+msgstr "Vigilia Obscura"
 
 msgid "TXT_HEXDD_MAP58"
-msgstr ""
+msgstr "Cloaca"
 
 msgid "TXT_HEXDD_MAP59"
-msgstr ""
+msgstr "Tenax Glacialis"
 
 msgid "TXT_HEXDD_MAP60"
-msgstr ""
+msgstr "Arx Obscura"
 
 msgid "TXT_HEXDD_MAP33"
-msgstr ""
+msgstr "Transitus"
 
 msgid "TXT_HEXDD_MAP34"
-msgstr ""
+msgstr "Super et Sub"
 
 msgid "TXT_HEXDD_MAP35"
-msgstr ""
+msgstr "Nebula Mortis"
 
 msgid "TXT_HEXDD_MAP36"
 msgstr "Castellum doloris"
 
 msgid "TXT_HEXDD_MAP37"
-msgstr ""
+msgstr "Fossa Cloacalis"
 
 msgid "TXT_HEXDD_MAP38"
-msgstr ""
+msgstr "Rosa"
 
 # intermission
 msgid "TXT_HEXDD_CLUS1MSG"
@@ -342,7 +342,7 @@ msgstr "Gimme quidam saccharo, parve"
 
 # script texts
 msgid "TXT_ACS_MAP51_21_DUHUH"
-msgstr ""
+msgstr "Duh-uhhh…"
 
 # script texts
 msgid "TXT_ACS_MAP51_22_FILMI"
