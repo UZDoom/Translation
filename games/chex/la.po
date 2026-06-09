@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-06-09 00:03+0000\n"
+"PO-Revision-Date: 2026-06-09 04:01+0000\n"
 "Last-Translator: Júlia Rosell Saldaña <contacte@juliars.cat>\n"
 "Language-Team: Latin <https://hosted.weblate.org/projects/doom-engine-games/chex-quest/la/>\n"
 "Language: la\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Weblate 2026.6\n"
 
 msgid "TXT_CHEX_EP"
-msgstr ""
+msgstr "Chex Quest"
 
 # Flem = phlegm
 msgid "GOTBLUEFLEM"
@@ -67,7 +67,7 @@ msgstr "E1M3: Laboratorium"
 
 msgctxt "chex"
 msgid "HUSTR_E1M4"
-msgstr ""
+msgstr "EIMIV: Arboretum"
 
 msgctxt "chex"
 msgid "HUSTR_E1M5"
@@ -75,15 +75,15 @@ msgstr "E1M5: Caverna Bazoik"
 
 msgctxt "chex"
 msgid "HUSTR_E2M1"
-msgstr ""
+msgstr "EIIMI: Portus Spatialis"
 
 msgctxt "chex"
 msgid "HUSTR_E2M2"
-msgstr ""
+msgstr "EIIMII: Cinematographeum"
 
 msgctxt "chex"
 msgid "HUSTR_E2M3"
-msgstr ""
+msgstr "EIIMIII: Museum Chex"
 
 msgctxt "chex"
 msgid "HUSTR_E2M4"
@@ -91,7 +91,7 @@ msgstr "E2M4: plateae urbis"
 
 msgctxt "chex"
 msgid "HUSTR_E2M5"
-msgstr ""
+msgstr "EIIMV: Systema Cloacarum"
 
 msgctxt "chex"
 msgid "HUSTR_E3M1"
@@ -103,7 +103,7 @@ msgstr "E3M2: Cereals United"
 
 msgctxt "chex"
 msgid "HUSTR_E3M3"
-msgstr ""
+msgstr "EIIIMIII: Villa Chex"
 
 msgctxt "chex"
 msgid "HUSTR_E3M4"
@@ -111,15 +111,15 @@ msgstr "E3M4: Provincialis Park"
 
 msgctxt "chex"
 msgid "HUSTR_E3M5"
-msgstr ""
+msgstr "EIIIMV: Navis Spatialis Meteorica"
 
 msgctxt "chex"
 msgid "CC_ZOMBIE"
-msgstr ""
+msgstr "Communis"
 
 msgctxt "chex"
 msgid "CC_SHOTGUN"
-msgstr ""
+msgstr "Bipedicus"
 
 msgctxt "chex"
 msgid "CC_IMP"
@@ -127,31 +127,31 @@ msgstr "Bipedicus apud Lorica ."
 
 msgctxt "chex"
 msgid "CC_DEMON"
-msgstr ""
+msgstr "Stridicus"
 
 msgctxt "chex"
 msgid "CC_LOST"
-msgstr ""
+msgstr "Fodina Flemensis"
 
 msgctxt "chex"
 msgid "CC_CACO"
-msgstr ""
+msgstr "Super Cycloptis"
 
 msgctxt "chex"
 msgid "CC_BARON"
-msgstr ""
+msgstr "Maximus"
 
 msgctxt "chex"
 msgid "CC_SPIDER"
-msgstr ""
+msgstr "Flembominatio"
 
 msgctxt "chex"
 msgid "CC_CYBER"
-msgstr ""
+msgstr "Dominus Snotfolus"
 
 msgctxt "chex"
 msgid "CC_HERO"
-msgstr ""
+msgstr "Bellator Chexianus"
 
 msgctxt "chex"
 msgid "PD_BLUEC"
@@ -285,13 +285,13 @@ msgid "M_EPI3"
 msgstr "Incursio!"
 
 msgid "TAG_GOGGLES"
-msgstr ""
+msgstr "Ultra Ocularia"
 
 msgid "TAG_BLUEFLEMKEY"
-msgstr ""
+msgstr "Flemkey Caeruleus"
 
 msgid "TAG_YELLOWFLEMKEY"
-msgstr ""
+msgstr "Flavus Flemkey"
 
 msgid "TAG_REDFLEMKEY"
-msgstr ""
+msgstr "Flemkey Ruber"
