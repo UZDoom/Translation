@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-06-08 23:01+0000\n"
+"PO-Revision-Date: 2026-06-12 16:57+0000\n"
 "Last-Translator: Júlia Rosell Saldaña <contacte@juliars.cat>\n"
 "Language-Team: Latin <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/la/>\n"
 "Language: la\n"
@@ -10,21 +10,21 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2026.6\n"
+"X-Generator: Weblate 2026.7.dev0\n"
 
 msgid "PRESSKEY"
 msgstr "Preme clavem."
 
 msgid "SECRETMESSAGE"
-msgstr "Arcanum revelatur!"
+msgstr "Arcanum revelatum est!"
 
 msgid "D_DEVSTR"
-msgstr "Modus inutilis: DE"
+msgstr "Modus inutilis: ACTIVUS"
 
 msgid "QUITMSG"
 msgstr ""
-"Visne vero\n"
-"quit hoc magnum ludum?"
+"Certusne es te exire velle\n"
+"ex hoc magno ludo?"
 
 msgid "LOADNET"
 msgstr ""
@@ -46,37 +46,37 @@ msgstr ""
 
 msgid "NEWGAME"
 msgstr ""
-"Non potes incipere novum ludum\n"
-"dum in network ludum.\n"
+"Novum ludum incipere non potes\n"
+"dum in ludo retiali es.\n"
 "\n"
 "Preme clavem."
 
 msgid "NIGHTMARE"
 msgstr ""
-"Certus es? Hoc ars gradus\n"
-"ne minima quidem aequa est.\n"
+"Certusne es? Hic gradus peritiae\n"
+"ne leviter quidem aequus est.\n"
 "\n"
-"Press Y vel N."
+"Preme Y vel N."
 
 msgid "SWSTRING"
 msgstr ""
-"Haec est versio participes Adeptus.\n"
+"Haec est versio shareware Doom.\n"
 "\n"
-"Integer tristique rutrum quam eget egestas.\n"
+"Trilogiam totam emere debes.\n"
 "\n"
 "Preme clavem."
 
 msgid "NETEND"
 msgstr ""
-"Finire netgame non potes!\n"
+"Ludum retialem finire non potes!\n"
 "\n"
 "Preme clavem."
 
 msgid "ENDGAME"
 msgstr ""
-"Certus esne ludum finire vis?\n"
+"Certusne es te ludum finire velle?\n"
 "\n"
-"Press Y vel N."
+"Preme Y vel N."
 
 msgid "RAVENQUITMSG"
 msgstr "Visne vero decedere?"
@@ -86,7 +86,7 @@ msgid "SWSTRING"
 msgstr "Tantum available in inscriptus version"
 
 msgid "DOSY"
-msgstr "(Press V relicto)"
+msgstr "(Preme Y ut exeas)"
 
 msgid "QUITMSG1"
 msgstr ""
@@ -227,7 +227,7 @@ msgstr ""
 "non tam celeriter!"
 
 msgid "TXT_DEFAULTPICKUPMSG"
-msgstr ""
+msgstr "Rem sustulisti"
 
 msgid "PD_ANY"
 msgstr "Aliqua clavis aperiet hanc ianuam"
@@ -251,7 +251,7 @@ msgid "PD_ALLKEYS"
 msgstr "Omnes claves debes"
 
 msgid "HUSTR_MSGU"
-msgstr ""
+msgstr "[Nuntius non missus]"
 
 msgid "HUSTR_TALKTOSELF1"
 msgstr "Tu mumble ad te"
@@ -269,13 +269,13 @@ msgid "HUSTR_TALKTOSELF5"
 msgstr "Amisisti eum…"
 
 msgid "HUSTR_MESSAGESENT"
-msgstr ""
+msgstr "[Nuntius missus]"
 
 msgid "STSTR_MUS"
-msgstr ""
+msgstr "Mutatio musicae"
 
 msgid "STSTR_NOMUS"
-msgstr ""
+msgstr "Electio impossibilis"
 
 msgid "STSTR_DQDON"
 msgstr "Degreelessness Modus: DE"
@@ -311,7 +311,7 @@ msgid "STSTR_BEHOLD"
 msgstr "inVuln, Str, Inviso, Rad, Allmap, vel Lite-amp ."
 
 msgid "STSTR_BEHOLDX"
-msgstr ""
+msgstr "Potentia alternata"
 
 msgid "STSTR_CHOPPERS"
 msgstr "... non lactaverunt - GM"
@@ -356,7 +356,7 @@ msgid "TXT_CHEATIDKFA"
 msgstr "Fraudator-tela non merentur"
 
 msgid "TXT_CHEATTICKERON"
-msgstr ""
+msgstr "Ticker: ACTIVUS"
 
 msgid "TXT_CHEATTICKEROFF"
 msgstr "Ticker: Off"
@@ -410,10 +410,10 @@ msgid "TXT_ANUBIS_OFF"
 msgstr "Non magis Ogre Lorica ."
 
 msgid "TXT_CHASECAM_ON"
-msgstr ""
+msgstr "Camera sequens: ACTIVA"
 
 msgid "TXT_CHASECAM_OFF"
-msgstr ""
+msgstr "Camera sequens: INACTIVA"
 
 msgid "TXT_BADDIE_KILLED"
 msgstr "i baddie occisus est"
@@ -458,19 +458,19 @@ msgid "AMSTR_TEXOFF"
 msgstr "Textura Modus: OFF"
 
 msgid "AMSTR_MARKEDSPOT"
-msgstr ""
+msgstr "Locus signatus"
 
 msgid "AMSTR_MARKSCLEARED"
 msgstr "Omnes marcas Cleared"
 
 msgid "TXT_FRAGLIMIT"
-msgstr ""
+msgstr "Finis fragorum attactus est."
 
 msgid "TXT_TIMELIMIT"
-msgstr ""
+msgstr "Finis temporis attactus est."
 
 msgid "SPREEKILLSELF"
-msgstr "%o bonum spectabat donec %g% se interficeret!"
+msgstr "%o bene se gerebat, donec %g %hself occidit!"
 
 msgid "SPREEOVER"
 msgstr "%o occisio spree finita est a%k"
@@ -503,58 +503,58 @@ msgid "MULTI5"
 msgstr "Monstrum pereo!"
 
 msgid "SCORE_BONUS"
-msgstr ""
+msgstr "Praemium"
 
 msgid "SCORE_COLOR"
-msgstr ""
+msgstr "Color"
 
 msgid "SCORE_SECRET"
-msgstr ""
+msgstr "Arcanum"
 
 msgid "SCORE_NAME"
-msgstr ""
+msgstr "Nomen"
 
 msgid "SCORE_DELAY"
-msgstr ""
+msgstr "Mora"
 
 msgid "SCORE_FRAGS"
-msgstr ""
+msgstr "Fraga"
 
 msgid "SCORE_DEATHS"
-msgstr ""
+msgstr "Mortes"
 
 msgid "SCORE_OTHER"
-msgstr ""
+msgstr "Aliud"
 
 msgid "SCORE_MISSED"
-msgstr ""
+msgstr "Praetermissa"
 
 msgid "SCORE_TOTAL"
-msgstr ""
+msgstr "Totum"
 
 msgid "SCORE_LVLTIME"
-msgstr ""
+msgstr "Tempus gradus"
 
 msgid "TXT_IMKILLS"
-msgstr ""
+msgstr "Caedes"
 
 msgid "TXT_IMITEMS"
-msgstr ""
+msgstr "Res"
 
 msgid "TXT_IMSECRETS"
-msgstr ""
+msgstr "Arcana"
 
 msgid "TXT_IMTIME"
-msgstr ""
+msgstr "Tempus"
 
 msgid "TXT_IMPAR"
-msgstr ""
+msgstr "Par"
 
 msgid "WI_FINISHED"
-msgstr ""
+msgstr "Perfectum"
 
 msgid "WI_ENTERING"
-msgstr ""
+msgstr "Intrans"
 
 msgctxt "heretic hexen"
 msgid "WI_ENTERING"
@@ -567,7 +567,7 @@ msgid "AM_SECRETS"
 msgstr "Secreta:"
 
 msgid "AM_ITEMS"
-msgstr ""
+msgstr "Res:"
 
 msgid "OB_SUICIDE"
 msgstr "%o MORTIS ."
@@ -603,7 +603,7 @@ msgid "OB_ROCKET"
 msgstr "%o stare debuerat."
 
 msgid "OB_KILLEDSELF"
-msgstr ""
+msgstr "%o %hself occidit."
 
 msgid "OB_VOODOO"
 msgstr "%o voodoo potentia interfectus est."
@@ -621,7 +621,7 @@ msgid "OB_MPDEFAULT"
 msgstr "%o occisus a %k."
 
 msgid "OB_FRIENDLY1"
-msgstr "% k decurrit teammate."
+msgstr "%k socium gregis deiecit."
 
 msgid "OB_FRIENDLY2"
 msgstr "%k specula egere videtur."
@@ -654,7 +654,7 @@ msgid "GOTMEDIKIT"
 msgstr "Medikit sustulit."
 
 msgid "GOTSUPER"
-msgstr ""
+msgstr "Superimpulsus!"
 
 msgid "GOTBLUECARD"
 msgstr "Hyacinthum keycard sustulit."
@@ -678,22 +678,22 @@ msgid "GOTINVUL"
 msgstr "Invulnerabilitas!"
 
 msgid "GOTBERSERK"
-msgstr ""
+msgstr "Furor!"
 
 msgid "GOTINVIS"
-msgstr ""
+msgstr "Invisibilitas partialis"
 
 msgid "GOTSUIT"
 msgstr "Radiatio Shielding Suit"
 
 msgid "GOTMAP"
-msgstr ""
+msgstr "Tabula regionis computatralis"
 
 msgid "GOTVISOR"
 msgstr "Lux amplificatio Visor"
 
 msgid "GOTMSPHERE"
-msgstr ""
+msgstr "Megasphaera!"
 
 msgid "GOTCLIP"
 msgstr "Tondeo sustulit."
@@ -720,7 +720,7 @@ msgid "GOTSHELLBOX"
 msgstr "Arcam pyrobolum conchis sustulit."
 
 msgid "GOTBACKPACK"
-msgstr "Plenus ammo saccum dorsualem sustulit!"
+msgstr "Saccum dorsualem telis plenum sustulisti!"
 
 msgid "GOTBFG9000"
 msgstr "BFG9000 obtinuit! Oh, Etiam."
@@ -813,115 +813,115 @@ msgid "PD_YELLOWS"
 msgstr "Vos postulo flavo calvariam hanc ianuam aperire"
 
 msgid "CC_ZOMBIE"
-msgstr ""
+msgstr "Homo zombie"
 
 msgid "CC_SHOTGUN"
-msgstr ""
+msgstr "Miles sclopeti"
 
 msgid "CC_HEAVY"
 msgstr "Gravis telum Dude"
 
 msgid "CC_IMP"
-msgstr ""
+msgstr "Imp"
 
 msgid "CC_DEMON"
-msgstr ""
+msgstr "Daemon"
 
 msgid "CC_LOST"
-msgstr ""
+msgstr "Anima perdita"
 
 msgid "CC_CACO"
-msgstr ""
+msgstr "Cacodaemon"
 
 msgid "CC_HELL"
-msgstr ""
+msgstr "Eques Inferni"
 
 msgid "CC_BARON"
 msgstr "Baro de Inferno"
 
 msgid "CC_ARACH"
-msgstr ""
+msgstr "Arachnotron"
 
 msgid "CC_PAIN"
-msgstr ""
+msgstr "Elementale Doloris"
 
 msgid "CC_REVEN"
-msgstr ""
+msgstr "Revenans"
 
 msgid "CC_MANCU"
-msgstr ""
+msgstr "Mancubus"
 
 msgid "CC_ARCH"
-msgstr ""
+msgstr "Arch-Vile"
 
 msgid "CC_SPIDER"
 msgstr "Aranea Mastermind"
 
 msgid "CC_CYBER"
-msgstr ""
+msgstr "Cyberdaemon"
 
 msgid "CC_HERO"
-msgstr ""
+msgstr "Heros noster"
 
 msgid "FN_SHOTGUN"
-msgstr ""
+msgstr "Centurio"
 
 msgid "FN_HEAVY"
-msgstr ""
+msgstr "Tormentarius catenae"
 
 msgid "FN_SPECTRE"
-msgstr ""
+msgstr "Spectrum"
 
 msgid "FN_SPIDER"
-msgstr ""
+msgstr "Mens Aranea"
 
 msgid "FN_CYBER"
-msgstr ""
+msgstr "Cyberdaemon"
 
 msgid "FN_WOLFSS"
-msgstr ""
+msgstr "Nazista"
 
 msgid "FN_DOG"
-msgstr ""
+msgstr "Canis"
 
 msgid "TAG_FIST"
-msgstr ""
+msgstr "Pugni aenei"
 
 msgid "TAG_CHAINSAW"
-msgstr ""
+msgstr "Serra catenata"
 
 msgid "TAG_PISTOL"
-msgstr ""
+msgstr "Pistola"
 
 msgid "TAG_SHOTGUN"
-msgstr ""
+msgstr "Sclopetum"
 
 msgid "TAG_SUPERSHOTGUN"
-msgstr ""
+msgstr "Sclopetum Supernum"
 
 msgid "TAG_CHAINGUN"
-msgstr ""
+msgstr "Tormentum catenatum"
 
 msgid "TAG_ROCKETLAUNCHER"
-msgstr ""
+msgstr "Iaculator missilium"
 
 msgid "TAG_PLASMARIFLE"
-msgstr ""
+msgstr "Sclopetum plasmatis"
 
 msgid "TAG_BFG9000"
-msgstr ""
+msgstr "BFG 9000"
 
 msgid "AMMO_CLIP"
-msgstr ""
+msgstr "Glans"
 
 msgid "AMMO_SHELLS"
-msgstr ""
+msgstr "Capsulae sclopeti"
 
 msgid "AMMO_ROCKETS"
-msgstr ""
+msgstr "Missilia"
 
 msgid "AMMO_CELLS"
-msgstr ""
+msgstr "Cellulae energiae"
 
 msgid "OB_STEALTHBABY"
 msgstr "%o putavit %g arachnotron vidit."
@@ -945,7 +945,7 @@ msgid "OB_STEALTHKNIGHT"
 msgstr "%o COGITAVIT %g INFERNUM uidi Eques."
 
 msgid "OB_STEALTHIMP"
-msgstr ""
+msgstr "%o putavit %g impem vidisse."
 
 msgid "OB_STEALTHFATSO"
 msgstr "%o putavit %g mancubum vidi."
@@ -1002,7 +1002,7 @@ msgid "OB_SKULL"
 msgstr "%o est ab anima perdita."
 
 msgid "OB_IMP"
-msgstr ""
+msgstr "%o ab imp incensus est."
 
 msgid "OB_CACO"
 msgstr "%o percussus a cacodemon."
@@ -1011,7 +1011,7 @@ msgid "OB_BARON"
 msgstr "%o attritus est a barone de Inferno."
 
 msgid "OB_KNIGHT"
-msgstr ""
+msgstr "%o ab Equite Inferni discerptus est."
 
 msgid "OB_SPIDER"
 msgstr "%o cavebat aranea daemon."
@@ -1047,16 +1047,16 @@ msgid "OB_MPCHAINGUN"
 msgstr "%o falcata est a %k's chaingun."
 
 msgid "OB_MPROCKET"
-msgstr "%o equitavit % eruca k."
+msgstr "%o missili %k vectus est."
 
 msgid "OB_MPR_SPLASH"
-msgstr "%o fere ictum % eruca k."
+msgstr "%o missile %k paene vitavit."
 
 msgid "OB_MPPLASMARIFLE"
 msgstr "%o liquefactum est ab %k's plasma sclopetis."
 
 msgid "OB_MPBFG_BOOM"
-msgstr ""
+msgstr "%o a BFG %k in fragmenta fractus est."
 
 msgid "OB_MPBFG_SPLASH"
 msgstr "%o celare non potuit a %k's BFG."
@@ -1068,16 +1068,16 @@ msgid "OB_MPBFG_MBF"
 msgstr "%o combustum est a %k's BFG."
 
 msgid "TXT_GOTBLUEKEY"
-msgstr ""
+msgstr "Clavis caerulea"
 
 msgid "TXT_GOTYELLOWKEY"
-msgstr ""
+msgstr "Clavis flava"
 
 msgid "TXT_GOTGREENKEY"
-msgstr ""
+msgstr "Clavis viridis"
 
 msgid "TXT_ARTIHEALTH"
-msgstr ""
+msgstr "Ampulla crystalli"
 
 msgid "TXT_ARTIFLY"
 msgstr "Alis Irae"
@@ -1089,91 +1089,91 @@ msgid "TXT_ARTITOMEOFPOWER"
 msgstr "Codex potestatis"
 
 msgid "TXT_ARTIINVISIBILITY"
-msgstr ""
+msgstr "Sphaera umbrarum"
 
 msgid "TXT_ARTIEGG"
-msgstr ""
+msgstr "Ovum transformationis"
 
 msgid "TXT_ARTISUPERHEALTH"
-msgstr ""
+msgstr "Urna mystica"
 
 msgid "TXT_ARTITORCH"
-msgstr ""
+msgstr "Fax"
 
 msgid "TXT_ARTIFIREBOMB"
 msgstr "Tempus Bomb antiquorum"
 
 msgid "TXT_ARTITELEPORT"
-msgstr ""
+msgstr "Instrumentum Chaos"
 
 msgid "TXT_ITEMHEALTH"
-msgstr ""
+msgstr "Phiala crystalli"
 
 msgid "TXT_ITEMBAGOFHOLDING"
 msgstr "Sacculum tenentes"
 
 msgid "TXT_ITEMSHIELD1"
-msgstr ""
+msgstr "Clipeus argenteus"
 
 msgid "TXT_ITEMSHIELD2"
-msgstr ""
+msgstr "Clipeus incantatus"
 
 msgid "TXT_ITEMSUPERMAP"
-msgstr ""
+msgstr "Volumen tabulae"
 
 msgid "TXT_AMMOGOLDWAND1"
-msgstr ""
+msgstr "Crystallum virgae"
 
 msgid "TXT_AMMOGOLDWAND2"
-msgstr ""
+msgstr "Geoda crystalli"
 
 msgid "TXT_AMMOMACE1"
-msgstr ""
+msgstr "Sphaerae clavae"
 
 msgid "TXT_AMMOMACE2"
 msgstr "Clava Sphaerarum acervus"
 
 msgid "TXT_AMMOCROSSBOW1"
-msgstr ""
+msgstr "Sagittae aetheriae"
 
 msgid "TXT_AMMOCROSSBOW2"
 msgstr "Pharetra Sagittarum Etherealium"
 
 msgid "TXT_AMMOBLASTER1"
-msgstr ""
+msgstr "Orbis unguis"
 
 msgid "TXT_AMMOBLASTER2"
-msgstr ""
+msgstr "Orbis energiae"
 
 msgid "TXT_AMMOSKULLROD1"
-msgstr ""
+msgstr "Runae minores"
 
 msgid "TXT_AMMOSKULLROD2"
-msgstr ""
+msgstr "Runae maiores"
 
 msgid "TXT_AMMOPHOENIXROD1"
-msgstr ""
+msgstr "Orbis flammae"
 
 msgid "TXT_AMMOPHOENIXROD2"
-msgstr ""
+msgstr "Orbis inferni"
 
 msgid "TXT_WPNGOLDWAND"
-msgstr ""
+msgstr "Virga aurea"
 
 msgid "TXT_WPNMACE"
-msgstr ""
+msgstr "Clava ignea"
 
 msgid "TXT_WPNCROSSBOW"
-msgstr ""
+msgstr "Arcubalista aetheria"
 
 msgid "TXT_WPNBLASTER"
-msgstr ""
+msgstr "Unguis draconis"
 
 msgid "TXT_WPNSKULLROD"
-msgstr ""
+msgstr "Baculus Inferni"
 
 msgid "TXT_WPNPHOENIXROD"
-msgstr ""
+msgstr "Virga Phoenicis"
 
 msgid "TXT_WPNGAUNTLETS"
 msgstr "Manicae of Necromanticus"
@@ -1188,64 +1188,64 @@ msgid "TXT_NEEDYELLOWKEY"
 msgstr "Clavis lutea opus est ut hanc ianuam aperias"
 
 msgid "FN_CHICKEN"
-msgstr ""
+msgstr "Gallina"
 
 msgid "FN_BEAST"
-msgstr ""
+msgstr "Draco versipellis"
 
 msgid "FN_CLINK"
-msgstr ""
+msgstr "Unguis ensifer"
 
 msgid "FN_DSPARIL"
-msgstr ""
+msgstr "D'Sparil"
 
 msgid "FN_HERETICIMP"
-msgstr ""
+msgstr "Gargula"
 
 msgid "FN_IRONLICH"
-msgstr ""
+msgstr "Lich ferreus"
 
 msgid "FN_BONEKNIGHT"
-msgstr ""
+msgstr "Bellator immortuus"
 
 msgid "FN_MINOTAUR"
-msgstr ""
+msgstr "Maulotaurus"
 
 msgid "FN_MUMMY"
-msgstr ""
+msgstr "Golem"
 
 msgid "FN_MUMMYLEADER"
-msgstr ""
+msgstr "Nitrogolem"
 
 msgid "FN_SNAKE"
-msgstr ""
+msgstr "Ophidianus"
 
 msgid "FN_WIZARD"
-msgstr ""
+msgstr "Magus"
 
 msgid "AMMO_GOLDWAND"
-msgstr ""
+msgstr "Crystalla virgae"
 
 msgid "AMMO_CROSSBOW"
-msgstr ""
+msgstr "Sagittae aetheriae"
 
 msgid "AMMO_BLASTER"
-msgstr ""
+msgstr "Orbes unguium"
 
 msgid "AMMO_MACE"
-msgstr ""
+msgstr "Sphaerae clavae"
 
 msgid "AMMO_SKULLROD"
-msgstr ""
+msgstr "Runae Baculi Inferni"
 
 msgid "AMMO_PHOENIXROD"
-msgstr ""
+msgstr "Orbes flammae"
 
 msgid "TAG_STAFF"
-msgstr ""
+msgstr "Baculus"
 
 msgid "TAG_GOLDWAND"
-msgstr ""
+msgstr "Virga elfica"
 
 msgid "OB_CHICKEN"
 msgstr "%o LABORATUS AD MORTEM."
@@ -1338,7 +1338,7 @@ msgid "OB_MPPGAUNTLETS"
 msgstr "%o siccus a%k's manicae siccus est."
 
 msgid "OB_MPPGOLDWAND"
-msgstr ""
+msgstr "%o virga elfica %k oppugnatus est."
 
 msgid "OB_MPPCROSSBOW"
 msgstr "%o aethereum %k arcuballista repertum est."
@@ -1356,61 +1356,61 @@ msgid "OB_MPPMACE"
 msgstr "%o elisa est a %k globum gigantis clava."
 
 msgid "TXT_MANA_1"
-msgstr ""
+msgstr "Mana caerulea"
 
 msgid "TXT_MANA_2"
-msgstr ""
+msgstr "Mana viridis"
 
 msgid "TXT_MANA_BOTH"
-msgstr ""
+msgstr "Mana coniuncta"
 
 msgid "TXT_KEY_STEEL"
-msgstr ""
+msgstr "Clavis chalybea"
 
 msgid "TXT_KEY_CAVE"
-msgstr ""
+msgstr "Clavis specus"
 
 msgid "TXT_KEY_AXE"
-msgstr ""
+msgstr "Clavis securis"
 
 msgid "TXT_KEY_FIRE"
-msgstr ""
+msgstr "Clavis ignis"
 
 msgid "TXT_KEY_EMERALD"
-msgstr ""
+msgstr "Clavis smaragdina"
 
 msgid "TXT_KEY_DUNGEON"
-msgstr ""
+msgstr "Clavis carceris"
 
 msgid "TXT_KEY_SILVER"
-msgstr ""
+msgstr "Clavis argentea"
 
 msgid "TXT_KEY_RUSTED"
-msgstr ""
+msgstr "Clavis rubiginosa"
 
 msgid "TXT_KEY_HORN"
-msgstr ""
+msgstr "Clavis cornu"
 
 msgid "TXT_KEY_SWAMP"
-msgstr ""
+msgstr "Clavis paludis"
 
 msgid "TXT_KEY_CASTLE"
-msgstr ""
+msgstr "Clavis castelli"
 
 msgid "TXT_ARTIINVULNERABILITY2"
 msgstr "Icon Defensoris"
 
 msgid "TXT_ARTISUMMON"
-msgstr ""
+msgstr "Servus obscurus"
 
 msgid "TXT_ARTIEGG2"
-msgstr ""
+msgstr "Porkalator"
 
 msgid "TXT_ARTIPOISONBAG"
-msgstr ""
+msgstr "Flechette"
 
 msgid "TXT_ARTITELEPORTOTHER"
-msgstr ""
+msgstr "Instrumentum relegationis"
 
 msgid "TXT_ARTISPEED"
 msgstr "Caligae of Celeritas"
@@ -1419,97 +1419,97 @@ msgid "TXT_ARTIBOOSTMANA"
 msgstr "Krater Fortis"
 
 msgid "TXT_ARTIBOOSTARMOR"
-msgstr ""
+msgstr "Bracchialia pelle draconis"
 
 msgid "TXT_ARTIBLASTRADIUS"
 msgstr "Discus repulsionis"
 
 msgid "TXT_ARTIHEALINGRADIUS"
-msgstr ""
+msgstr "Incantatio ambitus mystici"
 
 msgid "TXT_ARTIPUZZSKULL"
-msgstr ""
+msgstr "Calvaria Yorick"
 
 msgid "TXT_ARTIPUZZGEMBIG"
 msgstr "Cor D'sparil"
 
 msgid "TXT_ARTIPUZZGEMRED"
-msgstr ""
+msgstr "Planeta rubinus"
 
 msgid "TXT_ARTIPUZZGEMGREEN1"
-msgstr ""
+msgstr "Planeta smaragdinus"
 
 msgid "TXT_ARTIPUZZGEMGREEN2"
-msgstr ""
+msgstr "Planeta smaragdinus"
 
 msgid "TXT_ARTIPUZZGEMBLUE1"
-msgstr ""
+msgstr "Planeta sapphirinus"
 
 msgid "TXT_ARTIPUZZGEMBLUE2"
-msgstr ""
+msgstr "Planeta sapphirinus"
 
 msgid "TXT_ARTIPUZZBOOK1"
-msgstr ""
+msgstr "Codex daemonum"
 
 msgid "TXT_ARTIPUZZBOOK2"
-msgstr ""
+msgstr "Liber Obscurus"
 
 msgid "TXT_ARTIPUZZSKULL2"
-msgstr ""
+msgstr "Persona flammae"
 
 msgid "TXT_ARTIPUZZFWEAPON"
-msgstr ""
+msgstr "Sigillum glaivae"
 
 msgid "TXT_ARTIPUZZCWEAPON"
-msgstr ""
+msgstr "Reliquia sancta"
 
 msgid "TXT_ARTIPUZZMWEAPON"
 msgstr "Signum Magi"
 
 msgid "TXT_ARTIPUZZGEAR"
-msgstr ""
+msgstr "Rota horologii"
 
 msgid "TXT_USEPUZZLEFAILED"
 msgstr "Hic uti non potes"
 
 msgid "TXT_ARMOR1"
-msgstr ""
+msgstr "Armatura reticulata"
 
 msgid "TXT_ARMOR2"
-msgstr ""
+msgstr "Clipeus falconis"
 
 msgid "TXT_ARMOR3"
-msgstr ""
+msgstr "Galea platinea"
 
 msgid "TXT_ARMOR4"
 msgstr "Amuletum custodiae"
 
 msgid "TXT_WEAPON_F2"
-msgstr ""
+msgstr "Securis Timonis"
 
 msgid "TXT_WEAPON_F3"
 msgstr "Malleus retributionis"
 
 msgid "TXT_WEAPON_F4"
-msgstr ""
+msgstr "Quietus compositus"
 
 msgid "TXT_WEAPON_C2"
-msgstr ""
+msgstr "Baculus serpentis"
 
 msgid "TXT_WEAPON_C3"
-msgstr ""
+msgstr "Procella ignis"
 
 msgid "TXT_WEAPON_C4"
-msgstr ""
+msgstr "Wraithverge compositum"
 
 msgid "TXT_WEAPON_M2"
-msgstr ""
+msgstr "Fragmenta gelu"
 
 msgid "TXT_WEAPON_M3"
 msgstr "Arcus Mortis"
 
 msgid "TXT_WEAPON_M4"
-msgstr ""
+msgstr "Bloodscourge compositum"
 
 msgid "TXT_WEAPONPIECE"
 msgstr "Telum fragment! Haec est fortunata dies!"
@@ -1557,139 +1557,139 @@ msgid "TXT_NEED_KEY_CASTLE"
 msgstr "Castellum Key opus est"
 
 msgid "FN_FIREDEMON"
-msgstr ""
+msgstr "Afrit"
 
 msgid "FN_DEMON1"
-msgstr ""
+msgstr "Serpens"
 
 msgid "FN_ETTIN"
-msgstr ""
+msgstr "Ettin"
 
 msgid "FN_CENTAUR"
-msgstr ""
+msgstr "Centaurus"
 
 msgid "FN_SLAUGHTAUR"
-msgstr ""
+msgstr "Slaughtaurus"
 
 msgid "FN_BISHOP"
-msgstr ""
+msgstr "Episcopus"
 
 msgid "FN_ICEGUY"
-msgstr ""
+msgstr "Wendigo"
 
 msgid "FN_SERPENT"
-msgstr ""
+msgstr "Insidiator"
 
 msgid "FN_WRAITH"
-msgstr ""
+msgstr "Praedator"
 
 msgid "FN_DRAGON"
-msgstr ""
+msgstr "Wyvernus mortis"
 
 msgid "FN_KORAX"
-msgstr ""
+msgstr "Korax"
 
 msgid "FN_FBOSS"
-msgstr ""
+msgstr "Zedek"
 
 msgid "FN_MBOSS"
-msgstr ""
+msgstr "Menelkir"
 
 msgid "FN_CBOSS"
-msgstr ""
+msgstr "Traductus"
 
 msgid "FN_HERESIARCH"
-msgstr ""
+msgstr "Heresiarch"
 
 msgid "AMMO_MANA1"
-msgstr ""
+msgstr "Mana caerulea"
 
 msgid "AMMO_MANA2"
-msgstr ""
+msgstr "Mana viridis"
 
 msgid "TAG_CWEAPMACE"
 msgstr "Clava Contritionis"
 
 msgid "TAG_CWEAPSTAFF"
-msgstr ""
+msgstr "Baculus serpentis"
 
 msgid "TAG_CWEAPFLAME"
-msgstr ""
+msgstr "Procella ignis"
 
 msgid "TAG_CWEAPWRAITHVERGE"
-msgstr ""
+msgstr "Wraithverge"
 
 msgid "TAG_FWEAPFIST"
-msgstr ""
+msgstr "Chirothecae spinosae"
 
 msgid "TAG_FWEAPAXE"
-msgstr ""
+msgstr "Securis Timonis"
 
 msgid "TAG_FWEAPHAMMER"
 msgstr "Malleus retributionis"
 
 msgid "TAG_FWEAPQUIETUS"
-msgstr ""
+msgstr "Quietus"
 
 msgid "TAG_MWEAPWAND"
-msgstr ""
+msgstr "Virga sapphirina"
 
 msgid "TAG_MWEAPFROST"
-msgstr ""
+msgstr "Fragmenta gelu"
 
 msgid "TAG_MWEAPLIGHTNING"
 msgstr "Arcus Mortis"
 
 msgid "TAG_MWEAPBLOODSCOURGE"
-msgstr ""
+msgstr "Bloodscourge"
 
 msgid "TAG_ARTIBLASTRADIUS"
 msgstr "Discus repulsionis"
 
 msgid "TAG_ARTIBOOSTARMOR"
-msgstr ""
+msgstr "Bracchialia pelle draconis"
 
 msgid "TAG_ARTIBOOSTMANA"
 msgstr "Krater Fortis"
 
 msgid "TAG_ARTIPOISONBAG"
-msgstr ""
+msgstr "Flechette"
 
 msgid "TAG_ARTIPOISONBAG1"
 msgstr "Venenum Cloud Flechette"
 
 msgid "TAG_ARTIPOISONBAG2"
-msgstr ""
+msgstr "Flechette temporaria"
 
 msgid "TAG_ARTIPOISONBAG3"
-msgstr ""
+msgstr "Flechette grenata"
 
 msgid "TAG_ARTIHEALINGRADIUS"
-msgstr ""
+msgstr "Incantatio ambitus mystici"
 
 msgid "TAG_ARTIDEFENDER"
 msgstr "Icon Defensoris"
 
 msgid "TAG_ARTIPORK"
-msgstr ""
+msgstr "Porkalator"
 
 msgid "TAG_ARTISPEED"
 msgstr "Caligae of Celeritas"
 
 msgid "TAG_ARTISUMMON"
-msgstr ""
+msgstr "Servus obscurus"
 
 msgid "TAG_ARTITELEPORTOTHER"
-msgstr ""
+msgstr "Instrumentum relegationis"
 
 msgid "TAG_ARTIPUZZSKULL"
-msgstr ""
+msgstr "Calvaria Yorick"
 
 msgid "TAG_ARTIPUZZGEMBIG"
 msgstr "Cor D'Sparil"
 
 msgid "TAG_ARTIPUZZGEMRED"
-msgstr ""
+msgstr "Planeta rubinus"
 
 msgid "TAG_ARTIPUZZGEMGREEN1"
 msgstr "Smaragdus Planet (1)"
@@ -1698,25 +1698,25 @@ msgid "TAG_ARTIPUZZGEMGREEN2"
 msgstr "Smaragdus Planet (2)"
 
 msgid "TAG_ARTIPUZZGEMBLUE1"
-msgstr ""
+msgstr "Planeta sapphirinus (1)"
 
 msgid "TAG_ARTIPUZZGEMBLUE2"
-msgstr ""
+msgstr "Planeta sapphirinus (2)"
 
 msgid "TAG_ARTIPUZZBOOK1"
-msgstr ""
+msgstr "Codex daemonum"
 
 msgid "TAG_ARTIPUZZBOOK2"
-msgstr ""
+msgstr "Liber Obscurus"
 
 msgid "TAG_ARTIPUZZSKULL2"
-msgstr ""
+msgstr "Persona flammae"
 
 msgid "TAG_ARTIPUZZFWEAPON"
-msgstr ""
+msgstr "Sigillum glaivae"
 
 msgid "TAG_ARTIPUZZCWEAPON"
-msgstr ""
+msgstr "Reliquia sancta"
 
 msgid "TAG_ARTIPUZZMWEAPON"
 msgstr "Signum Magi"
@@ -1863,7 +1863,7 @@ msgid "TXT_BROKENCOUPLING"
 msgstr "Vis fractae sustulit copulam."
 
 msgid "TXT_SHADOWARMOR"
-msgstr ""
+msgstr "Armaturam Umbrarum sustulisti."
 
 msgid "TXT_ENVSUIT"
 msgstr "Environmental litem sustulisti."
@@ -2112,301 +2112,301 @@ msgid "TXT_NEED_OPASS"
 msgstr "Oraculum opus est!"
 
 msgid "TAG_PUNCHDAGGER"
-msgstr ""
+msgstr "Pugio"
 
 msgid "TAG_STRIFECROSSBOW1"
-msgstr ""
+msgstr "Arcubalista"
 
 msgid "TAG_STRIFECROSSBOW2"
-msgstr ""
+msgstr "Arcubalista"
 
 msgid "TAG_ASSAULTGUN"
-msgstr ""
+msgstr "Tormentum impetuale"
 
 msgid "TAG_MMLAUNCHER"
 msgstr "Mini missile Launchere"
 
 msgid "TAG_FLAMER"
-msgstr ""
+msgstr "Iaculator flammarum"
 
 msgid "TAG_MAULER1"
-msgstr ""
+msgstr "Mauler"
 
 msgid "TAG_MAULER2"
-msgstr ""
+msgstr "Mauler"
 
 msgid "TAG_GLAUNCHER1"
-msgstr ""
+msgstr "Iaculator grenatarum"
 
 msgid "TAG_GLAUNCHER2"
-msgstr ""
+msgstr "Iaculator grenatarum"
 
 msgid "TAG_SIGIL"
-msgstr ""
+msgstr "Sigillum"
 
 msgid "TAG_COIN"
-msgstr ""
+msgstr "Nummus"
 
 msgid "TAG_MEDPATCH"
-msgstr ""
+msgstr "Medicamentum"
 
 msgid "TAG_MEDICALKIT"
 msgstr "Medicamentum ornamentum"
 
 msgid "TAG_SURGERYKIT"
-msgstr ""
+msgstr "Instrumenta chirurgica"
 
 msgid "TAG_BELDINSRING"
-msgstr ""
+msgstr "Anulus"
 
 msgid "TAG_OFFERINGCHALICE"
-msgstr ""
+msgstr "Calix oblationis"
 
 msgid "TAG_EAR"
-msgstr ""
+msgstr "Auris"
 
 msgid "TAG_BROKENCOUPLING"
 msgstr "Fractum Power Coupling"
 
 msgid "TAG_SHADOWARMOR"
-msgstr ""
+msgstr "Armatura Umbrarum"
 
 msgid "TAG_ENVSUIT"
-msgstr ""
+msgstr "Vestis tutelae ambitalis"
 
 msgid "TAG_GUARDUNIFORM"
-msgstr ""
+msgstr "Vestis custodis"
 
 msgid "TAG_OFFICERSUNIFORM"
-msgstr ""
+msgstr "Vestis officialis"
 
 msgid "TAG_FTHROWERPARTS"
 msgstr "Flamma Thrower Partibus"
 
 msgid "TAG_REPORT"
-msgstr ""
+msgstr "Relatio"
 
 msgid "TAG_INFO"
-msgstr ""
+msgstr "Notitia"
 
 msgid "TAG_TARGETER"
-msgstr ""
+msgstr "Designator"
 
 msgid "TAG_COMMUNICATOR"
-msgstr ""
+msgstr "Communicator"
 
 msgid "TAG_DEGNINORE"
-msgstr ""
+msgstr "Metallum Degnin"
 
 msgid "TAG_GUNTRAINING"
-msgstr ""
+msgstr "Accuratio"
 
 msgid "TAG_HEALTHTRAINING"
-msgstr ""
+msgstr "Robur"
 
 msgid "TAG_SCANNER"
-msgstr ""
+msgstr "Scanner"
 
 msgid "TAG_PRISONPASS"
-msgstr ""
+msgstr "Tessera carceris"
 
 msgid "TAG_ALARM"
-msgstr ""
+msgstr "Alarma"
 
 msgid "TAG_AMMOFILLUP"
-msgstr ""
+msgstr "Tela"
 
 msgid "TAG_HEALTHFILLUP"
-msgstr ""
+msgstr "Salus"
 
 msgid "TAG_TELEPORTERBEACON"
-msgstr ""
+msgstr "Signum teleportationis"
 
 msgid "TAG_METALARMOR"
-msgstr ""
+msgstr "Armatura metallica"
 
 msgid "TAG_LEATHER"
-msgstr ""
+msgstr "Armatura coriacea"
 
 msgid "TAG_HEGRENADES"
-msgstr ""
+msgstr "HE-Grenade Rounds"
 
 msgid "TAG_PHGRENADES"
-msgstr ""
+msgstr "Phosphorus-Grenade Rounds"
 
 msgid "TAG_CLIPOFBULLETS"
 msgstr "Clip of Indicis"
 
 msgid "TAG_BOXOFBULLETS"
-msgstr ""
+msgstr "Tela"
 
 msgid "TAG_MINIMISSILES"
-msgstr ""
+msgstr "Missilia parva"
 
 msgid "TAG_CRATEOFMISSILES"
 msgstr "Crate missilium"
 
 msgid "TAG_ENERGYPOD"
-msgstr ""
+msgstr "Capsula energiae"
 
 msgid "TAG_ENERGYPACK"
-msgstr ""
+msgstr "Fasciculus energiae"
 
 msgid "TAG_POISONBOLTS"
-msgstr ""
+msgstr "Veruta venenata"
 
 msgid "TAG_ELECTRICBOLTS"
-msgstr ""
+msgstr "Veruta electrica"
 
 msgid "TAG_AMMOSATCHEL"
-msgstr ""
+msgstr "Sacculus telorum"
 
 msgid "TAG_BASEKEY"
-msgstr ""
+msgstr "Clavis basis"
 
 msgid "TAG_GOVSKEY"
-msgstr ""
+msgstr "Govs Key"
 
 msgid "TAG_PASSCARD"
-msgstr ""
+msgstr "Tessera transitus"
 
 msgid "TAG_IDBADGE"
-msgstr ""
+msgstr "Insigne identitatis"
 
 msgid "TAG_PRISONKEY"
-msgstr ""
+msgstr "Clavis carceris"
 
 msgid "TAG_SEVEREDHAND"
-msgstr ""
+msgstr "Manus abscisa"
 
 msgid "TAG_POWER1KEY"
-msgstr ""
+msgstr "Power1 Key"
 
 msgid "TAG_POWER2KEY"
-msgstr ""
+msgstr "Power2 Key"
 
 msgid "TAG_POWER3KEY"
-msgstr ""
+msgstr "Power3 Key"
 
 msgid "TAG_GOLDKEY"
-msgstr ""
+msgstr "Clavis aurea"
 
 msgid "TAG_IDCARD"
-msgstr ""
+msgstr "Charta identitatis"
 
 msgid "TAG_SILVERKEY"
-msgstr ""
+msgstr "Clavis argentea"
 
 msgid "TAG_ORACLEKEY"
-msgstr ""
+msgstr "Clavis oraculi"
 
 msgid "TAG_MILITARYID"
 msgstr "ID militaris"
 
 msgid "TAG_ORDERKEY"
-msgstr ""
+msgstr "Clavis ordinis"
 
 msgid "TAG_WAREHOUSEKEY"
-msgstr ""
+msgstr "Clavis horrei"
 
 msgid "TAG_BRASSKEY"
-msgstr ""
+msgstr "Clavis aenea"
 
 msgid "TAG_REDCRYSTALKEY"
-msgstr ""
+msgstr "Clavis crystalli rubri"
 
 msgid "TAG_BLUECRYSTALKEY"
 msgstr "Crystal Key"
 
 msgid "TAG_CHAPELKEY"
-msgstr ""
+msgstr "Clavis sacelli"
 
 msgid "TAG_CATACOMBKEY"
-msgstr ""
+msgstr "Clavis catacumbarum"
 
 msgid "TAG_SECURITYKEY"
-msgstr ""
+msgstr "Clavis securitatis"
 
 msgid "TAG_COREKEY"
-msgstr ""
+msgstr "Clavis nuclei"
 
 msgid "TAG_MAULERKEY"
-msgstr ""
+msgstr "Mauler Key"
 
 msgid "TAG_FACTORYKEY"
-msgstr ""
+msgstr "Clavis officinae"
 
 msgid "TAG_MINEKEY"
-msgstr ""
+msgstr "Clavis fodinae"
 
 msgid "TAG_NEWKEY5"
 msgstr "Novum Key5"
 
 msgid "TAG_ORACLEPASS"
-msgstr ""
+msgstr "Tessera oraculi"
 
 msgid "TAG_10GOLD"
-msgstr ""
+msgstr "10 auri"
 
 msgid "TAG_25GOLD"
-msgstr ""
+msgstr "25 auri"
 
 msgid "TAG_50GOLD"
-msgstr ""
+msgstr "50 auri"
 
 msgid "TAG_300GOLD"
-msgstr ""
+msgstr "300 auri"
 
 msgid "TXT_PERSON"
-msgstr ""
+msgstr "Persona"
 
 msgid "TAG_ACOLYTE"
-msgstr ""
+msgstr "Acolytus"
 
 msgid "TAG_ARMORER"
-msgstr ""
+msgstr "Armorum faber"
 
 msgid "TAG_BARKEEP"
-msgstr ""
+msgstr "Caupo"
 
 msgid "TAG_BEGGAR"
-msgstr ""
+msgstr "Mendicus"
 
 msgid "TAG_MACIL1"
-msgstr ""
+msgstr "Macil"
 
 msgid "TAG_MACIL2"
-msgstr ""
+msgstr "Macil"
 
 msgid "TAG_MEDIC"
-msgstr ""
+msgstr "Medicus"
 
 msgid "TAG_ORACLE"
-msgstr ""
+msgstr "Oraculum"
 
 msgid "TAG_PRIEST"
-msgstr ""
+msgstr "Sacerdos"
 
 msgid "TAG_RATBUDDY"
-msgstr ""
+msgstr "Rat Buddy"
 
 msgid "TAG_REBEL"
-msgstr ""
+msgstr "Rebellis"
 
 msgid "TAG_TEMPLAR"
-msgstr ""
+msgstr "Templarius"
 
 msgid "TAG_WEAPONSMITH"
-msgstr ""
+msgstr "Faber armorum"
 
 msgid "TAG_TALISMANRED"
-msgstr ""
+msgstr "Red Talisman"
 
 msgid "TAG_TALISMANGREEN"
-msgstr ""
+msgstr "Green Talisman"
 
 msgid "TAG_TALISMANBLUE"
-msgstr ""
+msgstr "Blue Talisman"
 
 msgid "OB_ACOLYTE"
 msgstr "%o ab Acolytho strenue emissa."
@@ -2529,7 +2529,7 @@ msgid "TXT_KILLED_MACIL"
 msgstr "Macilum occidisti!"
 
 msgid "TXT_KILLED_LOREMASTER"
-msgstr "Loremasterum occidisti!"
+msgstr "Magistrum doctrinae occidisti!"
 
 msgid "TXT_YOUFOOL"
 msgstr "Stulte! Trepidatum profectus es."
@@ -2646,31 +2646,31 @@ msgid "GOTMINIZORCHER"
 msgstr "Sustulit Mini Zorcher."
 
 msgid "TAG_SPOON"
-msgstr ""
+msgstr "Cochlear"
 
 msgid "TAG_SPORK"
-msgstr ""
+msgstr "Super Bootspork"
 
 msgid "TAG_MINIZORCHER"
-msgstr ""
+msgstr "Mini Zorcher"
 
 msgid "TAG_LARGEZORCHER"
-msgstr ""
+msgstr "Large Zorcher"
 
 msgid "TAG_SUPERLARGEZORCHER"
-msgstr ""
+msgstr "Super-Large Zorcher"
 
 msgid "TAG_RAPIDZORCHER"
-msgstr ""
+msgstr "Rapid Zorcher"
 
 msgid "TAG_ZORCHPROPULSOR"
-msgstr ""
+msgstr "Zorch Propulsor"
 
 msgid "TAG_PHASINGZORCHER"
-msgstr ""
+msgstr "Phasing Zorcher"
 
 msgid "TAG_LAZDEVICE"
-msgstr ""
+msgstr "LAZ Device"
 
 msgid "OB_COMMONUS"
 msgstr "%o attenuatum a flemoide."
@@ -2728,13 +2728,23 @@ msgid "CHUSTR_E1M3"
 msgstr "E1M3: Experimentalis Lab"
 
 msgid "CHUSTR_E1M4"
-msgstr ""
+msgstr "E1M4: Arboretum"
 
 msgid "CHUSTR_E1M5"
 msgstr "E1M5: Caverna Bazoik"
 
 msgid "CE1TEXT"
 msgstr ""
+"Missio perfecta est.\n"
+"\n"
+"Paratusne es ad proximam missionem?\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"Preme clavem Escape ut pergas…"
 
 msgid "CE2TEXT"
 msgstr "Feci!"
@@ -2743,7 +2753,7 @@ msgid "CE3TEXT"
 msgstr "Mirum Iob!"
 
 msgid "CE4TEXT"
-msgstr ""
+msgstr "Mirabile"
 
 msgid "CLOADNET"
 msgstr ""
@@ -2754,11 +2764,11 @@ msgstr ""
 msgctxt "chex"
 msgid "QSPROMPT"
 msgstr ""
-"Vivus serva tuis quaestio nominatur\n"
+"Servare cito super quaestum tuum nomine\n"
 "\n"
 "'%s'?\n"
 "\n"
-"Press Y vel N."
+"Preme Y vel N."
 
 msgctxt "chex"
 msgid "QLOADNET"
@@ -2770,11 +2780,13 @@ msgstr ""
 msgctxt "chex"
 msgid "QLPROMPT"
 msgstr ""
-"Visne quaestio nominatum celerare\n"
+"Visne quaestum nomine\n"
 "\n"
-"'%s'?\n"
+"'%s'\n"
 "\n"
-"Press Y vel N."
+"cito onerare?\n"
+"\n"
+"Preme Y vel N."
 
 msgid "CNEWGAME"
 msgstr ""
@@ -2785,10 +2797,10 @@ msgstr ""
 
 msgid "CNIGHTMARE"
 msgstr ""
-"Cautus, lentus erit.\n"
-"Vis permanere?\n"
+"Cave, hoc difficile erit.\n"
+"Visne pergere?\n"
 "\n"
-"Press Y vel N."
+"Preme Y vel N."
 
 msgid "CSWSTRING"
 msgstr ""
@@ -2808,9 +2820,9 @@ msgstr ""
 msgctxt "chex"
 msgid "ENDGAME"
 msgstr ""
-"Certus esne quaestio finire?\n"
+"Certusne es te quaestum finire velle?\n"
 "\n"
-"Press Y vel N."
+"Preme Y vel N."
 
 msgctxt "chex"
 msgid "STSTR_DQDON"
@@ -2822,11 +2834,11 @@ msgstr "Invictus Modus: OFF"
 
 msgctxt "chex"
 msgid "STSTR_FAADDED"
-msgstr ""
+msgstr "Zorch additus"
 
 msgctxt "chex"
 msgid "STSTR_KFAADDED"
-msgstr ""
+msgstr "Super Zorch additus"
 
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
@@ -2842,26 +2854,26 @@ msgstr "Magnum Zorcher præcipe"
 
 msgctxt "chex"
 msgid "AMMO_ROCKETS"
-msgstr ""
+msgstr "Onus propulsoris"
 
 msgctxt "chex"
 msgid "AMMO_CELLS"
 msgstr "Phasing Zorcher præcipe"
 
 msgid "MNU_NEWGAME"
-msgstr ""
+msgstr "Novus ludus"
 
 msgid "MNU_OPTIONS"
-msgstr ""
+msgstr "Optiones"
 
 msgid "MNU_GAMEFILES"
-msgstr ""
+msgstr "Fasciculi ludi"
 
 msgid "MNU_INFO"
-msgstr ""
+msgstr "Notitia"
 
 msgid "MNU_QUITGAME"
-msgstr ""
+msgstr "Ludo exi"
 
 msgid "MNU_CHOOSESKILL"
 msgstr "Ars Gradus Elige:"
@@ -2879,7 +2891,7 @@ msgid "SKILL_HARD"
 msgstr "Ultra-Vim."
 
 msgid "SKILL_NIGHTMARE"
-msgstr ""
+msgstr "Incubus!"
 
 msgid "CSKILL_BABY"
 msgstr "Facilis est"
@@ -2888,34 +2900,34 @@ msgid "CSKILL_EASY"
 msgstr "Non tam lentum"
 
 msgid "CSKILL_NORMAL"
-msgstr ""
+msgstr "Gobs of goo"
 
 msgid "CSKILL_HARD"
-msgstr ""
+msgstr "Extreme Ooze"
 
 msgid "CSKILL_NIGHTMARE"
-msgstr ""
+msgstr "Super Slimey!"
 
 msgid "SSKILL_BABY"
-msgstr ""
+msgstr "Exercitatio"
 
 msgid "SSKILL_EASY"
-msgstr ""
+msgstr "Tiro"
 
 msgid "SSKILL_NORMAL"
-msgstr ""
+msgstr "Veteranus"
 
 msgid "SSKILL_HARD"
-msgstr ""
+msgstr "Electus"
 
 msgid "SSKILL_NIGHTMARE"
-msgstr ""
+msgstr "Balneum sanguinis"
 
 msgid "MNU_WETNURSE"
 msgstr "Nutrix tibi necessaria est"
 
 msgid "MNU_YELLOWBELLIES"
-msgstr ""
+msgstr "Yellowbellies-R-Us"
 
 msgid "MNU_BRINGEST"
 msgstr "Alleluja"
@@ -2927,95 +2939,95 @@ msgid "MNU_BLACKPLAGUE"
 msgstr "Nigra pestis te possidet"
 
 msgid "MNU_SQUIRE"
-msgstr ""
+msgstr "Armiger"
 
 msgid "MNU_KNIGHT"
-msgstr ""
+msgstr "Eques"
 
 msgid "MNU_WARRIOR"
-msgstr ""
+msgstr "Bellator"
 
 msgid "MNU_BERSERKER"
-msgstr ""
+msgstr "Berserker"
 
 msgid "MNU_TITAN"
-msgstr ""
+msgstr "Titan"
 
 msgid "MNU_ALTARBOY"
-msgstr ""
+msgstr "Puer altaris"
 
 msgid "MNU_ACOLYTE"
-msgstr ""
+msgstr "Acolytus"
 
 msgid "MNU_PRIEST"
-msgstr ""
+msgstr "Sacerdos"
 
 msgid "MNU_CARDINAL"
-msgstr ""
+msgstr "Cardinalis"
 
 msgid "MNU_POPE"
-msgstr ""
+msgstr "Papa"
 
 msgid "MNU_APPRENTICE"
-msgstr ""
+msgstr "Discipulus"
 
 msgid "MNU_ENCHANTER"
-msgstr ""
+msgstr "Incantator"
 
 msgid "MNU_SORCERER"
-msgstr ""
+msgstr "Veneficus"
 
 msgid "MNU_WARLOCK"
-msgstr ""
+msgstr "Maleficus"
 
 msgid "MNU_ARCHMAGE"
-msgstr ""
+msgstr "Archimagus"
 
 msgid "MNU_CHOOSECLASS"
 msgstr "Elige Classis:"
 
 msgid "MNU_FIGHTER"
-msgstr ""
+msgstr "Pugnator"
 
 msgid "MNU_CLERIC"
-msgstr ""
+msgstr "Clericus"
 
 msgid "MNU_MAGE"
-msgstr ""
+msgstr "Magus"
 
 msgid "MNU_RANDOM"
-msgstr ""
+msgstr "Fortuitum"
 
 msgid "MNU_EPISODE"
 msgstr "Quac Episode?"
 
 msgctxt "strife"
 msgid "MNU_EPISODE"
-msgstr ""
+msgstr "Expeditionem elige"
 
 msgid "MNU_COTD"
 msgstr "Civitas Damnatorum"
 
 msgid "MNU_HELLSMAW"
-msgstr ""
+msgstr "Faux Inferni"
 
 msgid "MNU_DOME"
 msgstr "Domum D'Sparil"
 
 msgid "MNU_OSSUARY"
-msgstr ""
+msgstr "Ossuarium"
 
 msgid "MNU_DEMESNE"
 msgstr "Stagna Demesne"
 
 msgid "GMPLYMNU_TEAMPLAY"
-msgstr ""
+msgstr "Ludus gregalis"
 
 msgid "GMPLYMNU_TEAMDAMAGE"
 msgstr "Quadrigis damnum scalaris"
 
 msgid "GMPLYMNU_SMARTAUTOAIM"
-msgstr ""
+msgstr "Petitio automatica callida"
 
 msgid "GMPLYMNU_FALLINGDAMAGE"
 msgstr "Cadens damnum"
@@ -3057,31 +3069,31 @@ msgid "GMPLYMNU_INSTANTREACTION"
 msgstr "Monstra visio nocturna Reflexes"
 
 msgid "GMPLYMNU_DEGENERATION"
-msgstr ""
+msgstr "Degeneratio"
 
 msgid "GMPLYMNU_NOAUTOAIM"
-msgstr ""
+msgstr "Petitio automatica permitte"
 
 msgid "GMPLYMNU_ALLOWSUICIDE"
-msgstr ""
+msgstr "Suicidium permitte"
 
 msgid "GMPLYMNU_ALLOWJUMP"
-msgstr "Liceat jump"
+msgstr "Saltum permitte"
 
 msgid "GMPLYMNU_ALLOWCROUCH"
 msgstr "Patitur oretur"
 
 msgid "GMPLYMNU_ALLOWFREELOOK"
-msgstr "Patitur freelook"
+msgstr "Aspectum liberum permitte"
 
 msgid "GMPLYMNU_ALLOWFOV"
-msgstr ""
+msgstr "FOV permitte"
 
 msgid "GMPLYMNU_BFGFREEAIM"
 msgstr "Patitur BFG intentum"
 
 msgid "GMPLYMNU_ALLOWAUTOMAP"
-msgstr "Patitur automap"
+msgstr "Automappam permitte"
 
 msgid "GMPLYMNU_AUTOMAPALLIES"
 msgstr "Automap sociis"
@@ -3102,7 +3114,7 @@ msgid "GMPLYMNU_NOCOUNTENDMONSTER"
 msgstr "Finis sector valet occiditis%"
 
 msgid "GMPLYMNU_DEATHMATCH"
-msgstr ""
+msgstr "Occasus certaminis mortis"
 
 msgid "GMPLYMNU_WEAPONSSTAY"
 msgstr "Arma manere"
@@ -3144,13 +3156,13 @@ msgid "GMPLYMNU_NOTEAMSWITCH"
 msgstr "Non dolor mutandi"
 
 msgid "GMPLYMNU_COOPERATIVE"
-msgstr ""
+msgstr "Occasus cooperativi"
 
 msgid "GMPLYMNU_MULTIPLAYERWEAPONS"
 msgstr "Excludunt pluribus armis"
 
 msgid "GMPLYMNU_LOSEINVENTORY"
-msgstr ""
+msgstr "Totum inventarium amitte"
 
 msgid "GMPLYMNU_KEEPKEYS"
 msgstr "Serva claves"
@@ -3159,7 +3171,7 @@ msgid "GMPLYMNU_KEEPWEAPONS"
 msgstr "Arma custodi"
 
 msgid "GMPLYMNU_KEEPARMOR"
-msgstr ""
+msgstr "Armaturam conserva"
 
 msgid "GMPLYMNU_KEEPPOWERUPS"
 msgstr "Serva powerups"
@@ -3168,7 +3180,7 @@ msgid "GMPLYMNU_KEEPAMMO"
 msgstr "Serva animo"
 
 msgid "GMPLYMNU_LOSEHALFAMMO"
-msgstr "Amittere dimidium ammo"
+msgstr "Dimidiam telorum copiam amitte"
 
 msgid "GMPLYMNU_SPAWNWHEREDIED"
 msgstr "Pariunt ubi mortuus est"
@@ -3180,19 +3192,19 @@ msgid "GMPLYMNU_NOVERTSPREAD"
 msgstr "Patitur Vertical Bullet Expande"
 
 msgid "GMPLYMNU_NOEXTRAAMMO"
-msgstr "Da arma extra ammo (DM)"
+msgstr "Arma tela addita dant (DM)"
 
 msgid "OPTMNU_COMPATIBILITY"
-msgstr ""
+msgstr "Optiones compatibilitatis"
 
 msgid "CMPTMNU_TITLE"
-msgstr ""
+msgstr "Optiones compatibilitatis"
 
 msgid "CMPTMNU_MODE"
 msgstr "Convenientiam modus"
 
 msgid "CMPTMNU_ACTORBEHAVIOR"
-msgstr ""
+msgstr "Mores actorum"
 
 msgid "CMPTMNU_NOBLOCKFRIENDS"
 msgstr "Amice monstra non impeditur"
@@ -3219,7 +3231,7 @@ msgid "CMPTMNU_NOTOSSDROPS"
 msgstr "Item pariunt guttae in area"
 
 msgid "CMPTMNU_DEHACKEDBEHAVIOR"
-msgstr ""
+msgstr "Mores DehackEd"
 
 msgid "CMPTMNU_DEHHEALTH"
 msgstr "DEH sanitas occasus sicut Doom2.exe"
@@ -3258,7 +3270,7 @@ msgid "CMPTMNU_MULTIEXIT"
 msgstr "Gradus exit potest Urguet plus quam semel"
 
 msgid "CMPTMNU_PHYSICSBEHAVIOR"
-msgstr ""
+msgstr "Mores physicae"
 
 msgid "CMPTMNU_NOPASSOVER"
 msgstr "Actores sunt infinite alta"
@@ -3285,7 +3297,7 @@ msgid "CMPTMNU_MISSILECLIP"
 msgstr "Usus Adeptus arduus ad missilia detonsura"
 
 msgid "CMPTMNU_RENDERINGBEHAVIOR"
-msgstr ""
+msgstr "Mores reddendi"
 
 msgid "CMPTMNU_POLYOBJ"
 msgstr "Sicut trahunt polyobjects Hexen"
@@ -3297,7 +3309,7 @@ msgid "CMPTMNU_SPRITESORT"
 msgstr "Sorting spiritus invertere"
 
 msgid "CMPTMNU_SOUNDBEHAVIOR"
-msgstr ""
+msgstr "Mores sonorum"
 
 msgid "CMPTMNU_SOUNDSLOTS"
 msgstr "Tacita sonus claudus BFG cautela"
@@ -3312,7 +3324,7 @@ msgid "CMPTMNU_SECTORSOUNDS"
 msgstr "Sector sonat uti centrum ut fons"
 
 msgid "CMPTMNU_SOUNDTARGET"
-msgstr "Uti originali sonus target tractantem"
+msgstr "Tractatione scopi soni originali utere"
 
 msgid "CMPTMNU_TELEPORT"
 msgstr "Scriptum teleportorum non felis sector actus"
@@ -3333,25 +3345,25 @@ msgid "CMPTMNU_EXPLODE2"
 msgstr "Utere originale vae CREPITUS mores"
 
 msgid "PLYRMNU_RED"
-msgstr ""
+msgstr "Ruber"
 
 msgid "PLYRMNU_GREEN"
-msgstr ""
+msgstr "Viridis"
 
 msgid "PLYRMNU_BLUE"
-msgstr ""
+msgstr "Caeruleus"
 
 msgid "PLYRMNU_PLAYERCLASS"
-msgstr ""
+msgstr "Classis"
 
 msgid "PLYRMNU_PLAYERSKIN"
-msgstr ""
+msgstr "Cutis"
 
 msgid "PLYRMNU_SWITCHONPICKUP"
-msgstr ""
+msgstr "Muta cum res sustollitur"
 
 msgid "PLYRMNU_PRESSSPACE"
-msgstr ""
+msgstr "Preme \\cjSPACE"
 
 msgid "PLYRMNU_SEEFRONT"
 msgstr "ut ante"
@@ -3363,7 +3375,7 @@ msgid "PLYRMNU_VERTSPREAD"
 msgstr "Vertical Bullet Expande"
 
 msgid "CNTRLMNU_ZOOM"
-msgstr ""
+msgstr "Magnificatio armorum"
 
 msgid "CNTRLMNU_USER1"
 msgstr "Telum rei publicae 1"
@@ -3387,7 +3399,7 @@ msgid "CNTRLMNU_LAND"
 msgstr "Subsisto volans"
 
 msgid "CNTRLMNU_KEYBOARDLOOK"
-msgstr ""
+msgstr "Aspectus clavilegio"
 
 msgid "CNTRLMNU_POPUPS_TITLE"
 msgstr "Pugna Popup Screens Imperium"
@@ -3399,13 +3411,13 @@ msgid "CNTRLMNU_DROPITEM"
 msgstr "Stillabunt item"
 
 msgid "CNTRLMNU_QUERYITEM"
-msgstr ""
+msgstr "Rem interroga"
 
 msgid "CNTRLMNU_DROPWEAPON"
 msgstr "Telum stilla"
 
 msgid "CNTRLMNU_OTHER"
-msgstr ""
+msgstr "Aliud"
 
 msgid "CNTRLMNU_COOPSPY"
 msgstr "Speculator cauea proximus"
@@ -3423,19 +3435,19 @@ msgid "CNTRLMNU_STATS"
 msgstr "Arma / animo / stats"
 
 msgid "CNTRLMNU_TOGGLESCOREBOARD"
-msgstr ""
+msgstr "Tabulam punctorum alterna"
 
 msgid "MOUSEMNU_LOOKSPRING"
-msgstr ""
+msgstr "Lookspring"
 
 msgid "MOUSEMNU_LOOKSTRAFE"
-msgstr ""
+msgstr "Lookstrafe"
 
 msgid "MAPCOLORMNU_BACKCOLOR"
-msgstr ""
+msgstr "Fundus"
 
 msgid "MAPCOLORMNU_YOURCOLOR"
-msgstr ""
+msgstr "Tu"
 
 msgid "MAPCOLORMNU_WALLCOLOR"
 msgstr "i quadratum muros"
@@ -3450,7 +3462,7 @@ msgid "MAPCOLORMNU_EFWALLCOLOR"
 msgstr "iI quadratum parietes 3D contignationibus"
 
 msgid "MAPCOLORMNU_GRIDCOLOR"
-msgstr ""
+msgstr "Reticulum tabulae"
 
 msgid "MAPCOLORMNU_XHAIRCOLOR"
 msgstr "Centrum punctum"
@@ -3465,10 +3477,10 @@ msgid "MAPCOLORMNU_INTRALEVELCOLOR"
 msgstr "Ianuarius ad eandem tabulam"
 
 msgid "MAPCOLORMNU_INTERLEVELCOLOR"
-msgstr "Teleporter ad alia map"
+msgstr "Teleportator ad aliam tabulam"
 
 msgid "MAPCOLORMNU_SECRETSECTORCOLOR"
-msgstr ""
+msgstr "Sector arcanus"
 
 msgid "MAPCOLORMNU_UNEXPLOREDSECRETCOLOR"
 msgstr "Inexploratum secretum"
@@ -3477,7 +3489,7 @@ msgid "MAPCOLORMNU_SPECIALWALLCOLOR"
 msgstr "Specialis felis lineae"
 
 msgid "MAPCOLORMNU_CHEATMODE"
-msgstr ""
+msgstr "Modus dolorum"
 
 msgid "MAPCOLORMNU_TSWALLCOLOR"
 msgstr "Invisibilia 2 trilineum"
@@ -3486,34 +3498,34 @@ msgid "MAPCOLORMNU_SECRETWALLCOLOR"
 msgstr "Muri secreti"
 
 msgid "MAPCOLORMNU_THINGCOLOR"
-msgstr ""
+msgstr "Actores"
 
 msgid "MAPCOLORMNU_MONSTERCOLOR"
-msgstr ""
+msgstr "Monstra"
 
 msgid "MAPCOLORMNU_NONCOUNTINGMONSTERCOLOR"
-msgstr ""
+msgstr "Monstra non numerata"
 
 msgid "MAPCOLORMNU_FRIENDCOLOR"
-msgstr ""
+msgstr "Amici"
 
 msgid "MAPCOLORMNU_ITEMCOLOR"
-msgstr ""
+msgstr "Res"
 
 msgid "MAPCOLORMNU_COUNTITEMCOLOR"
-msgstr ""
+msgstr "Res numerandae"
 
 msgid "MAPCOLORMNU_OVERLAY"
-msgstr ""
+msgstr "Modus superpositionis"
 
 msgid "MAPCOLORMNU_OVCHEATMODE"
 msgstr "Ipsasque Pseudolo Modus"
 
 msgid "MAPCOLORMNU_PORTAL"
-msgstr ""
+msgstr "Superpositiones portalium"
 
 msgid "MSGMNU_TITLE"
-msgstr ""
+msgstr "Nuntii"
 
 msgid "MSGMNU_SHOWMESSAGES"
 msgstr "Monstrare nuntia"
@@ -3528,25 +3540,25 @@ msgid "MSGMNU_MESSAGELEVEL"
 msgstr "Minimum nuntium gradus"
 
 msgid "MSGMNU_MESSAGECOLORS"
-msgstr ""
+msgstr "Colores nuntiorum"
 
 msgid "MSGMNU_ITEMPICKUP"
-msgstr ""
+msgstr "Sublatio rerum"
 
 msgid "MSGMNU_OBITUARIES"
-msgstr ""
+msgstr "Obitus"
 
 msgid "MSGMNU_CRITICALMESSAGES"
-msgstr ""
+msgstr "Nuntii critici"
 
 msgid "MSGMNU_CHATMESSAGES"
-msgstr ""
+msgstr "Nuntii confabulationis"
 
 msgid "MSGMNU_TEAMMESSAGES"
-msgstr ""
+msgstr "Nuntii gregis"
 
 msgid "MSGMNU_CENTEREDMESSAGES"
-msgstr ""
+msgstr "Nuntii centrati"
 
 msgid "MSGMNU_SCREENSHOTMESSAGES"
 msgstr "Screenshot nuntiis"
@@ -3558,7 +3570,7 @@ msgid "MSGMNU_DEVELOPER"
 msgstr "Developer nuntius modus"
 
 msgid "AUTOMAPMNU_COLORSET"
-msgstr ""
+msgstr "Grex colorum tabulae"
 
 msgid "AUTOMAPMNU_CUSTOMCOLORS"
 msgstr "Patitur tabula coloribus definiri"
@@ -3567,10 +3579,10 @@ msgid "AUTOMAPMNU_SETCUSTOMCOLORS"
 msgstr "More colorum set"
 
 msgid "AUTOMAPMNU_CONTROLS"
-msgstr "Mos map controls"
+msgstr "Imperia tabulae configura"
 
 msgid "AUTOMAPMNU_OVERLAY"
-msgstr "Deaurabis automap"
+msgstr "Automappam superpone"
 
 msgid "AUTOMAPMNU_TEXTURED"
 msgstr "Admitte textured ostentationem"
@@ -3594,10 +3606,10 @@ msgid "AUTOMAPMNU_MAPSECRETS"
 msgstr "Monstra mysteria in tabula"
 
 msgid "AUTOMAPMNU_SHOWMAPLABEL"
-msgstr "Ostendere map pittacium"
+msgstr "Titulum tabulae monstra"
 
 msgid "AUTOMAPMNU_DRAWMAPBACK"
-msgstr "Trahe map background"
+msgstr "Fundum tabulae trahe"
 
 msgid "AUTOMAPMNU_SHOWKEYS"
 msgstr "Claves monstrare (fallere)"
@@ -3615,10 +3627,10 @@ msgid "AUTOMAPMNU_EMPTYSPACEMARGIN"
 msgstr "Marginal spatium vacuum"
 
 msgid "AUTOMAPMNU_MARKFONT"
-msgstr ""
+msgstr "Fons signorum"
 
 msgid "AUTOMAPMNU_MARKCOLOR"
-msgstr ""
+msgstr "Color signorum"
 
 msgid "MAPCNTRLMNU_SETMARK"
 msgstr "Pone signum"
@@ -3627,19 +3639,19 @@ msgid "MAPCNTRLMNU_CLEARMARK"
 msgstr "Patet signum"
 
 msgid "DSPLYMNU_SCOREBOARD"
-msgstr ""
+msgstr "Optiones tabulae punctorum"
 
 msgid "SCRBRDMNU_TITLE"
-msgstr ""
+msgstr "Optiones tabulae punctorum"
 
 msgid "SCRBRDMNU_COOPERATIVE"
-msgstr ""
+msgstr "Optiones cooperativae"
 
 msgid "SCRBRDMNU_ENABLE"
-msgstr ""
+msgstr "Tabulam punctorum activa"
 
 msgid "SCRBRDMNU_HEADERCOLOR"
-msgstr ""
+msgstr "Color capitis"
 
 msgid "SCRBRDMNU_YOURCOLOR"
 msgstr "Tua ludius Color"
@@ -3648,13 +3660,13 @@ msgid "SCRBRDMNU_OTHERPLAYERCOLOR"
 msgstr "Alius Histriones' Color"
 
 msgid "SCRBRDMNU_DEATHMATCH"
-msgstr ""
+msgstr "Optiones certaminis mortis"
 
 msgid "SCRBRDMNU_TEAMDEATHMATCH"
 msgstr "Team Deathmatch Optiones"
 
 msgid "ALTHUDMNU_TITLE"
-msgstr ""
+msgstr "HUD alternativum"
 
 msgid "ALTHUDMNU_ENABLE"
 msgstr "Admitte modo HUD"
@@ -3684,10 +3696,10 @@ msgid "ALTHUDMNU_SHOWTIME"
 msgstr "Ostende tempus"
 
 msgid "ALTHUDMNU_TIMECOLOR"
-msgstr "Tempus color"
+msgstr "Color temporis"
 
 msgid "ALTHUDMNU_SHOWLAG"
-msgstr "Ostende network latency"
+msgstr "Moram retis monstra"
 
 msgid "ALTHUDMNU_AMMOORDER"
 msgstr "Ammo ostentationem ordinis"
@@ -3720,19 +3732,19 @@ msgid "ALTHUDMNU_AUTOMAPHUD"
 msgstr "Alternativum Automap HUD"
 
 msgid "ALTHUDMNU_TITLECOLOR"
-msgstr ""
+msgstr "Color tituli tabulae"
 
 msgid "ALTHUDMNU_MAPTIMECOLOR"
-msgstr "Map tempus color"
+msgstr "Color temporis tabulae"
 
 msgid "ALTHUDMNU_HUBTIMECOLOR"
-msgstr "Hub tempus color"
+msgstr "Color temporis hub"
 
 msgid "ALTHUDMNU_TOTALTIMECOLOR"
-msgstr "Totum tempus color"
+msgstr "Color temporis totius"
 
 msgid "ALTHUDMNU_COORDINATECOLOR"
-msgstr "Coordinare color"
+msgstr "Color coordinatarum"
 
 msgid "ALTHUDMNU_COORDINATEMODE"
 msgstr "Coordinare modus"
@@ -3741,25 +3753,25 @@ msgid "ALTHUDMNU_STATSNAMECOLOR"
 msgstr "Color nomen Statistics"
 
 msgid "ALTHUDMNU_STATSCOLOR"
-msgstr ""
+msgstr "Color statisticarum"
 
 msgid "DSPLYMNU_CAPFPS"
-msgstr ""
+msgstr "Interpolatio reddendi"
 
 msgid "DSPLYMNU_BLENDMETHOD"
 msgstr "Perspicuus modus reddere"
 
 msgid "DSPLYMNU_WIPETYPE"
-msgstr "Extergimus screen style"
+msgstr "Stilus transitionis tegumenti"
 
 msgid "DSPLYMNU_SHOWENDOOM"
-msgstr "Ostende ENDOOM screen"
+msgstr "Tegumentum ENDOOM monstra"
 
 msgid "DSPLYMNU_BLOODFADE"
 msgstr "Sanguis Flash intensitas"
 
 msgid "DSPLYMNU_PICKUPFADE"
-msgstr ""
+msgstr "Intensitas fulgoris sublationis"
 
 msgid "DSPLYMNU_WATERFADE"
 msgstr "Underwater Blend feruorem"
@@ -3780,19 +3792,19 @@ msgid "DSPLYMNU_DRAWFUZZ"
 msgstr "Usus fuzz effectus"
 
 msgid "DSPLYMNU_OLDTRANS"
-msgstr ""
+msgstr "Transparentia classica"
 
 msgid "DSPLYMNU_FAKECONTRAST"
 msgstr "Usus fake contra"
 
 msgid "DSPLYMNU_ROCKETTRAILS"
-msgstr ""
+msgstr "Vestigia missilium"
 
 msgid "DSPLYMNU_BLOODTYPE"
-msgstr ""
+msgstr "Genus sanguinis"
 
 msgid "DSPLYMNU_PUFFTYPE"
-msgstr ""
+msgstr "Genus nubeculae glandium"
 
 msgid "DSPLYMNU_MAXPARTICLES"
 msgstr "Numerus particularum"
@@ -3807,7 +3819,7 @@ msgid "DSPLYMNU_DEATHCAM"
 msgstr "Mors camera"
 
 msgid "DSPLYMNU_TELEZOOM"
-msgstr ""
+msgstr "Magnificatio teleportatoris"
 
 msgid "DSPLYMNU_QUAKEINTENSITY"
 msgstr "Terrae motus quassum intensio"
@@ -3816,10 +3828,10 @@ msgid "DSPLYMNU_NOMONSTERINTERPOLATION"
 msgstr "Interponere monstrum motus"
 
 msgid "DSPLYMNU_MENUDIM"
-msgstr ""
+msgstr "Obscuratio indicis"
 
 msgid "DSPLYMNU_DIMCOLOR"
-msgstr ""
+msgstr "Color obscurationis"
 
 msgid "DSPLYMNU_MOVEBOB"
 msgstr "View Bob moles dum movere"
@@ -3831,61 +3843,61 @@ msgid "DSPLYMNU_BOBSPEED"
 msgstr "Telum Bob celeritas"
 
 msgid "SCALEMNU_TITLE"
-msgstr ""
+msgstr "Optiones scalae"
 
 msgid "SCALEMNU_OVERRIDE"
 msgstr "Overrides ut supra occasum"
 
 msgid "SCALEMNU_MESSAGES"
-msgstr ""
+msgstr "Nuntii"
 
 msgid "SCALEMNU_CONSOLE"
-msgstr ""
+msgstr "Consola"
 
 msgid "SCALEMNU_STATBAR"
-msgstr ""
+msgstr "Virga status"
 
 msgid "SCALEMNU_HUD"
-msgstr ""
+msgstr "HUD pleni tegumenti"
 
 msgid "SCALEMNU_ALTHUD"
-msgstr ""
+msgstr "HUD alternativum"
 
 msgid "SCALEMNU_HUDASPECT"
 msgstr "HUD rationem servat aspectum"
 
 msgid "SCALEMNU_USEUI"
-msgstr "Usus default scale"
+msgstr "Scala praedefinita utere"
 
 msgid "SCALEMNU_USEFS"
 msgstr "Ascendite ad fullscreen"
 
 msgid "SCALEMNU_ADAPT"
-msgstr "Accommodare ad screen magnitudine"
+msgstr "Ad magnitudinem tegumenti adapta"
 
 msgid "HUDMNU_TITLE"
-msgstr ""
+msgstr "Optiones HUD"
 
 msgid "HUDMNU_ALTHUD"
-msgstr ""
+msgstr "HUD alternativum"
 
 msgid "HUDMNU_MESSAGE"
-msgstr ""
+msgstr "Optiones nuntiorum"
 
 msgid "HUDMNU_UISCALE"
-msgstr ""
+msgstr "Scala interfaciei utentis"
 
 msgid "HUDMNU_FORCECROSSHAIR"
-msgstr "Vi default crosshair"
+msgstr "Collineatorem praedefinitum coge"
 
 msgid "HUDMNU_GROWCROSSHAIR"
-msgstr "Crescere crosshair cum legere items"
+msgstr "Collineatorem auge cum res tolluntur"
 
 msgid "HUDMNU_NAMETAGS"
-msgstr ""
+msgstr "Nomina monstra"
 
 msgid "HUDMNU_NAMETAGCOLOR"
-msgstr ""
+msgstr "Color nominum"
 
 msgid "HUDMNU_OLDOUCH"
 msgstr "Utere vetus ouch formula iecit Mug"
@@ -3903,7 +3915,7 @@ msgid "HUDMNU_HAZARDFLASHES"
 msgstr "Venenum Buildup micat"
 
 msgid "HUDMNU_SCALEOPT"
-msgstr ""
+msgstr "Optiones scalae"
 
 msgid "MISCMNU_QUERYIWAD"
 msgstr "Show IWAD lectio dialogum"
@@ -3930,7 +3942,7 @@ msgid "MISCMNU_INTERSCROLL"
 msgstr "Patitur exsiliens intermissio scrollers"
 
 msgid "NETMNU_TITLE"
-msgstr ""
+msgstr "Optiones retis"
 
 msgid "NETMNU_LOCALOPTIONS"
 msgstr "Optiones locales"
@@ -3942,76 +3954,76 @@ msgid "NETMNU_PREDICTIONLERPSCALE"
 msgstr "Praedictio Lerp Scale"
 
 msgid "NETMNU_LERPTHRESHOLD"
-msgstr ""
+msgstr "Limen Lerp"
 
 msgid "NETMNU_HOSTOPTIONS"
 msgstr "Exercitum optiones"
 
 msgid "NETMNU_EXTRATICS"
-msgstr ""
+msgstr "Tics additi"
 
 msgid "OPTVAL_CLASSIC"
 msgstr "Classic (Ocius)"
 
 msgid "OPTVAL_PRECISE"
-msgstr ""
+msgstr "Praecisum"
 
 msgid "OPTVAL_CAPPED"
-msgstr ""
+msgstr "Limitatum"
 
 msgid "OPTVAL_PARTICLES"
-msgstr ""
+msgstr "Particulae"
 
 msgid "OPTVAL_SPRITES"
-msgstr ""
+msgstr "Sprites"
 
 msgid "OPTVAL_SPRITESPARTICLES"
 msgstr "Sprites & Particulas"
 
 msgid "OPTVAL_MELT"
-msgstr ""
+msgstr "Liquefactio"
 
 msgid "OPTVAL_BURN"
-msgstr ""
+msgstr "Combustio"
 
 msgid "OPTVAL_CROSSFADE"
-msgstr ""
+msgstr "Transitus mixtus"
 
 msgid "OPTVAL_SMOOTH_1"
-msgstr ""
+msgstr "Lenis"
 
 msgid "OPTVAL_SMOOTH_2"
-msgstr ""
+msgstr "Lenis"
 
 msgid "OPTVAL_TRANSLUCENT"
-msgstr ""
+msgstr "Translucidum"
 
 msgid "OPTVAL_FUZZ"
-msgstr ""
+msgstr "Caligo"
 
 msgid "OPTVAL_SHADOW"
-msgstr ""
+msgstr "Umbra"
 
 msgid "OPTVAL_ITEMS"
-msgstr ""
+msgstr "Res"
 
 msgid "OPTVAL_WEAPONS"
-msgstr ""
+msgstr "Arma"
 
 msgid "OPTVAL_BOTH"
-msgstr ""
+msgstr "Utrumque"
 
 msgid "OPTVAL_ZDOOM"
-msgstr ""
+msgstr "ZDoom"
 
 msgid "OPTVAL_STRIFE"
-msgstr ""
+msgstr "Strife"
 
 msgid "OPTVAL_PLAYER"
-msgstr ""
+msgstr "Lusor"
 
 msgid "OPTVAL_MAP"
-msgstr ""
+msgstr "Tabula"
 
 msgid "OPTVAL_CURRENTWEAPON"
 msgstr "Current telum"
@@ -4029,25 +4041,25 @@ msgid "OPTVAL_LEVELSECONDS"
 msgstr "Gradus, secundis"
 
 msgid "OPTVAL_LEVEL"
-msgstr ""
+msgstr "Gradus"
 
 msgid "OPTVAL_HUBSECONDS"
-msgstr ""
+msgstr "Hub, secunda"
 
 msgid "OPTVAL_HUB"
-msgstr ""
+msgstr "Hub"
 
 msgid "OPTVAL_TOTALSECONDS"
-msgstr ""
+msgstr "Totum, secunda"
 
 msgid "OPTVAL_TOTAL"
-msgstr ""
+msgstr "Totum"
 
 msgid "OPTVAL_SYSTEMSECONDS"
 msgstr "Ratio, seconds"
 
 msgid "OPTVAL_SYSTEM"
-msgstr ""
+msgstr "Systema"
 
 msgid "OPTVAL_NETGAMESONLY"
 msgstr "Netgames solum"
@@ -4059,22 +4071,22 @@ msgid "OPTVAL_AMMOTEXTIMAGE"
 msgstr "Textus et Imago"
 
 msgid "OPTVAL_SCRIPTSONLY"
-msgstr ""
+msgstr "Scripta tantum"
 
 msgid "OPTVAL_ALL"
-msgstr ""
+msgstr "Omnia"
 
 msgid "OPTVAL_ONLYLASTONE"
 msgstr "Solum ultimum unum"
 
 msgid "OPTVAL_TRADITIONALDOOM"
-msgstr ""
+msgstr "Doom traditum"
 
 msgid "OPTVAL_TRADITIONALSTRIFE"
-msgstr ""
+msgstr "Strife traditum"
 
 msgid "OPTVAL_TRADITIONALRAVEN"
-msgstr ""
+msgstr "Raven traditum"
 
 msgid "OPTVAL_ONLYWHENFOUND"
 msgstr "Solum cum inventum"
@@ -4086,19 +4098,19 @@ msgid "OPTVAL_OVERLAYNORMAL"
 msgstr "Deaurabis+Northmanni"
 
 msgid "OPTVAL_OVERLAYONLY"
-msgstr ""
+msgstr "Superpositio tantum"
 
 msgid "OPTVAL_NOTFORHUBS"
 msgstr "Non axibus"
 
 msgid "OPTVAL_FRONT"
-msgstr ""
+msgstr "Frons"
 
 msgid "OPTVAL_ANIMATED"
-msgstr ""
+msgstr "Animatum"
 
 msgid "OPTVAL_ROTATED"
-msgstr ""
+msgstr "Rotatum"
 
 msgid "OPTVAL_MAPDEFINEDCOLORSONLY"
 msgstr "Map defined colorum only"
@@ -4107,13 +4119,13 @@ msgid "OPTVAL_NODOORS"
 msgstr "Omnes praeter fores"
 
 msgid "OPTVAL_ITEMPICKUP"
-msgstr ""
+msgstr "Sublatio rerum"
 
 msgid "OPTVAL_OBITUARIES"
-msgstr ""
+msgstr "Obitus"
 
 msgid "OPTVAL_CRITICALMESSAGES"
-msgstr ""
+msgstr "Nuntii critici"
 
 msgid "OPTVAL_NEVERFRIENDS"
 msgstr "Numquam amicis"
@@ -4122,49 +4134,49 @@ msgid "OPTVAL_ONLYMONSTERS"
 msgstr "Tantum monstra"
 
 msgid "OPTVAL_HEXEN"
-msgstr ""
+msgstr "Hexen"
 
 msgid "OPTVAL_OLD"
-msgstr ""
+msgstr "Vetus"
 
 msgid "OPTVAL_DOOM"
-msgstr ""
+msgstr "Doom"
 
 msgid "OPTVAL_DOOMSTRICT"
 msgstr "Letum (stricte)"
 
 msgid "OPTVAL_BOOM"
-msgstr ""
+msgstr "Boom"
 
 msgid "OPTVAL_BOOMSTRICT"
 msgstr "Boom (stricte)"
 
 msgid "OPTVAL_MBF"
-msgstr ""
+msgstr "MBF"
 
 msgid "OPTVAL_MBFSTRICT"
-msgstr ""
+msgstr "MBF (strict)"
 
 msgid "OPTVAL_MBF21"
-msgstr ""
+msgstr "MBF21"
 
 msgid "OPTVAL_MBF21STRICT"
-msgstr ""
+msgstr "MBF21 (strict)"
 
 msgid "OPTVAL_ZDOOM2063"
-msgstr ""
+msgstr "ZDoom 2.0.63"
 
 msgid "OPTVAL_ERRORS"
-msgstr ""
+msgstr "Errores"
 
 msgid "OPTVAL_WARNINGS"
-msgstr ""
+msgstr "Monita"
 
 msgid "OPTVAL_NOTIFICATIONS"
-msgstr ""
+msgstr "Notificationes"
 
 msgid "OPTVAL_EVERYTHING"
-msgstr ""
+msgstr "Omnia"
 
 msgid "OPTVAL_HWPOLY"
 msgstr "Hardware acceleratus"
@@ -4176,7 +4188,7 @@ msgid "OPTVAL_SWDOOMTC"
 msgstr "Color verus SWITCH Renderer"
 
 msgid "OPTVAL_VANILLA"
-msgstr ""
+msgstr "Vanilla"
 
 msgid "OPTVAL_VTFZDOOM"
 msgstr "ZDoom (Coactus)"
@@ -4185,61 +4197,61 @@ msgid "OPTVAL_VTFVANILLA"
 msgstr "Vanilla (Coactus)"
 
 msgid "OPTVAL_SMALL"
-msgstr ""
+msgstr "Parvum"
 
 msgid "OPTVAL_LARGE"
-msgstr ""
+msgstr "Magnum"
 
 msgid "OPTVAL_CONSOLE"
-msgstr ""
+msgstr "Consola"
 
 msgid "C_BRICK"
-msgstr ""
+msgstr "\\caLater"
 
 msgid "C_TAN"
-msgstr ""
+msgstr "\\cbFulvus"
 
 msgid "C_GRAY"
-msgstr ""
+msgstr "\\ccCinereus"
 
 msgid "C_GREEN"
-msgstr ""
+msgstr "\\cdViridis"
 
 msgid "C_BROWN"
-msgstr ""
+msgstr "\\ceBrunneus"
 
 msgid "C_GOLD"
-msgstr ""
+msgstr "\\cfAureus"
 
 msgid "C_RED"
-msgstr ""
+msgstr "\\cgRuber"
 
 msgid "C_BLUE"
-msgstr ""
+msgstr "\\chCaeruleus"
 
 msgid "C_ORANGE"
-msgstr ""
+msgstr "\\ciAurantium"
 
 msgid "C_WHITE"
-msgstr ""
+msgstr "\\cjAlbus"
 
 msgid "C_YELLOW"
 msgstr "\\ ckYellow"
 
 msgid "C_DEFAULT"
-msgstr ""
+msgstr "\\clPraedefinitum"
 
 msgid "C_BLACK"
-msgstr ""
+msgstr "\\cmNiger"
 
 msgid "C_LIGHTBLUE"
 msgstr "\\ cnLight blue"
 
 msgid "C_CREAM"
-msgstr ""
+msgstr "\\coCremor"
 
 msgid "C_OLIVE"
-msgstr ""
+msgstr "\\cpOlivaceus"
 
 msgid "C_DARKGREEN"
 msgstr "\\ viridi cqDark"
@@ -4251,43 +4263,43 @@ msgid "C_DARKBROWN"
 msgstr "\\ csDark brown"
 
 msgid "C_PURPLE"
-msgstr ""
+msgstr "\\ctPurpureus"
 
 msgid "C_DARKGRAY"
 msgstr "\\ cuDark griseo"
 
 msgid "C_CYAN"
-msgstr ""
+msgstr "\\cvCyanus"
 
 msgid "C_ICE"
-msgstr ""
+msgstr "\\cwGlacies"
 
 msgid "C_FIRE"
-msgstr ""
+msgstr "\\cxIgnis"
 
 msgid "C_SAPPHIRE"
-msgstr ""
+msgstr "\\cySapphirus"
 
 msgid "C_TEAL"
-msgstr ""
+msgstr "\\czTeal"
 
 msgid "OPTSTR_HERETIC"
-msgstr ""
+msgstr "Heretic"
 
 msgid "OPTSTR_CHEX"
-msgstr ""
+msgstr "Chex®"
 
 msgid "OPTSTR_NOINTERPOLATION"
 msgstr "Non interpolationem"
 
 msgid "OPTSTR_SPLINE"
-msgstr ""
+msgstr "Spline"
 
 msgid "DSPLYMNU_GLOPT"
-msgstr ""
+msgstr "Reddor ferramentarius"
 
 msgid "DSPLYMNU_SWOPT"
-msgstr ""
+msgstr "Reddor programmarius"
 
 msgid "GLMNU_TITLE"
 msgstr "Hardware Reddendo Optiones"
@@ -4299,7 +4311,7 @@ msgid "GLTEXMNU_SORTDRAWLIST"
 msgstr "Sort ducatur tabulas textura"
 
 msgid "GLLIGHTMNU_TITLE"
-msgstr ""
+msgstr "Lumina dynamica"
 
 msgid "GLLIGHTMNU_LIGHTSENABLED"
 msgstr "Dynamic Lumina (Hardware)"
@@ -4317,7 +4329,7 @@ msgid "GLLIGHTMNU_LIGHTSHADOWMAPQUALITY"
 msgstr "Shadowmap qualis"
 
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
-msgstr ""
+msgstr "Filtrum tabulae umbrarum"
 
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
 msgstr "Fullbright viribus nebula"
@@ -4338,10 +4350,10 @@ msgid "GLPREFMNU_SPRBLEND"
 msgstr "Lenis assuetus faunus margines"
 
 msgid "GLPREFMNU_FUZZSTYLE"
-msgstr ""
+msgstr "Stilus caliginis"
 
 msgid "GLPREFMNU_SPRBILLBOARD"
-msgstr ""
+msgstr "Billboard spritorum"
 
 msgid "GLPREFMNU_SPRBILLFACECAMERA"
 msgstr "Sprites faciem camera"
@@ -4350,7 +4362,7 @@ msgid "GLPREFMNU_PARTICLESTYLE"
 msgstr "Particula style"
 
 msgid "GLPREFMNU_VRMODE"
-msgstr ""
+msgstr "Stereo 3D VR"
 
 msgid "GLPREFMNU_VRQUADSTEREO"
 msgstr "Admitte Quad Stereo"
@@ -4365,10 +4377,10 @@ msgid "GLPREFMNU_VRSCREENDIST"
 msgstr "Procul ab tuum 'collaborative"
 
 msgid "OPTVAL_SMART"
-msgstr ""
+msgstr "Callidum"
 
 msgid "OPTVAL_SMARTER"
-msgstr ""
+msgstr "Callidius"
 
 msgid "OPTVAL_INFRAREDONLY"
 msgstr "Infrared solum"
@@ -4383,52 +4395,52 @@ msgid "OPTVAL_USEASPALETTE"
 msgstr "Utere ut palette"
 
 msgid "OPTVAL_BLEND"
-msgstr ""
+msgstr "Misce"
 
 msgid "OPTVAL_BRIGHT"
-msgstr ""
+msgstr "Clarum"
 
 msgid "OPTVAL_DARK"
-msgstr ""
+msgstr "Obscurum"
 
 msgid "OPTVAL_LEGACY"
-msgstr ""
+msgstr "Doom Legacy"
 
 msgid "OPTVAL_SOFTWARE"
-msgstr ""
+msgstr "Programma"
 
 msgid "OPTVAL_YAXIS"
-msgstr ""
+msgstr "Axis Y"
 
 msgid "OPTVAL_XYAXIS"
-msgstr ""
+msgstr "Axis X/Y"
 
 msgid "OPTVAL_SQUARE"
-msgstr ""
+msgstr "Quadratum"
 
 msgid "OPTVAL_ROUND"
-msgstr ""
+msgstr "Rotundum"
 
 msgid "OPTVAL_PIXELFUZZ"
-msgstr ""
+msgstr "Caligo pixelorum"
 
 msgid "OPTVAL_SMOOTHFUZZ"
 msgstr "Lenis fuzz"
 
 msgid "OPTVAL_SWIRLYFUZZ"
-msgstr ""
+msgstr "Caligo vorticosa"
 
 msgid "OPTVAL_TRANSLUCENTFUZZ"
 msgstr "Translucens fuzz"
 
 msgid "OPTVAL_NOISE"
-msgstr ""
+msgstr "Strepitus"
 
 msgid "OPTVAL_SMOOTHNOISE"
-msgstr ""
+msgstr "Strepitus lenis"
 
 msgid "OPTVAL_JAGGEDFUZZ"
-msgstr ""
+msgstr "Caligo aspera"
 
 msgid "OPTVAL_GREENMAGENTA"
 msgstr "Viridis / Magenta"
@@ -4437,40 +4449,40 @@ msgid "OPTVAL_REDCYAN"
 msgstr "Red / Cyan"
 
 msgid "OPTVAL_AMBERBLUE"
-msgstr ""
+msgstr "Electrum/Caeruleum"
 
 msgid "OPTVAL_LEFTEYE"
-msgstr ""
+msgstr "Oculus sinister"
 
 msgid "OPTVAL_RIGHTEYE"
-msgstr ""
+msgstr "Oculus dexter"
 
 msgid "OPTVAL_SBSFULL"
-msgstr ""
+msgstr "Iuxta plenum"
 
 msgid "OPTVAL_SBSNARROW"
-msgstr ""
+msgstr "Iuxta angustum"
 
 msgid "OPTVAL_TOPBOTTOM"
-msgstr ""
+msgstr "Supra/infra"
 
 msgid "OPTVAL_ROWINTERLEAVED"
-msgstr ""
+msgstr "Ordines intertexti"
 
 msgid "OPTVAL_COLUMNINTERLEAVED"
-msgstr ""
+msgstr "Columnae intertextae"
 
 msgid "OPTVAL_CHECKERBOARD"
-msgstr ""
+msgstr "Tabula scaccorum"
 
 msgid "OPTVAL_QUADBUFFERED"
-msgstr ""
+msgstr "Quad-buffered"
 
 msgid "DSPLYMNU_TCOPT"
-msgstr ""
+msgstr "Optiones TrueColor"
 
 msgid "TCMNU_TITLE"
-msgstr ""
+msgstr "Optiones TrueColor"
 
 msgid "TCMNU_MINFILTER"
 msgstr "Linearibus filter cum downscaling"
@@ -4503,13 +4515,13 @@ msgid "TXT_LEFTTHEGAME"
 msgstr "%s ludo relicto"
 
 msgid "TXT_COULDNOTREAD"
-msgstr "Non potuit legere savegame '%s'."
+msgstr "Ludum servatum '%s' legere non potui."
 
 msgid "TXT_NOINFOJSON"
-msgstr "%s' savegame validum non est: Absentis 'info.json'."
+msgstr "%s ludus servatus validus non est: 'info.json' deest."
 
 msgid "TXT_FAILEDTOREADSG"
-msgstr "Deficio accedere savegame info in '%s'."
+msgstr "Ad notitias ludi servati in '%s' accedere non potui."
 
 msgid "TXT_INCOMPATIBLESG"
 msgstr "Savegame '%s' est a versione repugnante."
@@ -4527,10 +4539,10 @@ msgid "TXT_NOMAPSG"
 msgstr "Savegame '%s' tabula hodiernae deest."
 
 msgid "TXT_NOGLOBALSJSON"
-msgstr "%s' savegame ratum non est: Absentis 'globals.json'."
+msgstr "%s ludus servatus validus non est: 'globals.json' deest."
 
 msgid "TXT_SGINFOERR"
-msgstr "Deficio accedere savegame info in '%s'"
+msgstr "Ad notitias ludi servati in '%s' accedere non potui"
 
 msgid "TXT_SAVEPENDING"
 msgstr "A ludus nisi etiam pendet."
@@ -4560,13 +4572,13 @@ msgid "GLMNU_3DMODE"
 msgstr "3D modus"
 
 msgid "HUDMNU_CROSSHAIRON"
-msgstr ""
+msgstr "Collineator"
 
 msgid "MSGMNU_SUBTITLES"
-msgstr ""
+msgstr "Subtituli"
 
 msgid "HUDMNU_FONTOPTIONS"
-msgstr ""
+msgstr "Optiones fontium"
 
 msgid "FONTMNU_LOG"
 msgstr "Utere vexillum font pro stipes ostentationem"
@@ -4575,13 +4587,13 @@ msgid "FONTMNU_DLG"
 msgstr "Utere vexillum font ad dialogos"
 
 msgid "MISCMNU_QUICKEXIT"
-msgstr ""
+msgstr "Exitus citus"
 
 msgid "DSPLYMNU_CUSTOMINVERTMAP"
 msgstr "Custom inverse Map"
 
 msgid "DSPLYMNU_CUSTOMINVERTC1"
-msgstr ""
+msgstr "Color inversus proprius obscurus"
 
 msgid "DSPLYMNU_CUSTOMINVERTC2"
 msgstr "Custom inverse Color Light"
@@ -4602,13 +4614,13 @@ msgid "SCALEMNU_FACTOR"
 msgstr "Scandere factor"
 
 msgid "SCALEMNU_RATIO"
-msgstr ""
+msgstr "Ratio aspectus"
 
 msgid "MISCMNU_ALWAYSTALLY"
 msgstr "Ostende talliam Screen De Gradus Exitus"
 
 msgid "OPTVAL_MODDEFINED"
-msgstr ""
+msgstr "A modo definitum"
 
 msgid "OPTVAL_NOTHUBS"
 msgstr "Semper, nisi intra canti"
@@ -4620,7 +4632,7 @@ msgid "CNTRLMNU_LAYOUT"
 msgstr "Maluit layout tincidunt"
 
 msgid "OPTVAL_CLASSICZ"
-msgstr ""
+msgstr "ZDoom classicum"
 
 msgid "OPTVAL_MODERN"
 msgstr "Modern (WSD)"
@@ -4632,49 +4644,49 @@ msgid "MISCMNU_SETSLOTSTRICT"
 msgstr "Stricta KEYCONF arma / Histriones"
 
 msgid "MISCMNU_WIPERCENT"
-msgstr "Usus percents in summary screen"
+msgstr "Centensimis in tegumento summarii utere"
 
 msgid "MISCMNU_CLEANSTAT"
 msgstr "Classic ZDoom scalas ad summarium velum"
 
 msgid "TAG_STRIFEZOMBIE"
-msgstr ""
+msgstr "Civis"
 
 msgid "TAG_CEILINGTURRET"
-msgstr ""
+msgstr "Turricula laquearis"
 
 msgid "TAG_CRUSADER"
-msgstr ""
+msgstr "Cruciatus"
 
 msgid "TAG_INQUISITOR"
-msgstr ""
+msgstr "Inquisitor"
 
 msgid "TAG_PEASANT"
-msgstr ""
+msgstr "Rusticus"
 
 msgid "TAG_REAVER"
-msgstr ""
+msgstr "Reaver"
 
 msgid "TAG_SENTINEL"
-msgstr ""
+msgstr "Sentinel"
 
 msgid "TAG_STALKER"
-msgstr ""
+msgstr "Insidiator"
 
 msgid "TAG_BISHOP"
-msgstr ""
+msgstr "Episcopus"
 
 msgid "TAG_ENTITY"
 msgstr "Deus unus"
 
 msgid "TAG_PROGRAMMER"
-msgstr ""
+msgstr "Programmator"
 
 msgid "TAG_ALIENSPECTRE"
-msgstr ""
+msgstr "Spectrum"
 
 msgid "TAG_KNEELINGGUY"
-msgstr ""
+msgstr "Vir genuflexus"
 
 msgid "GMPLYMNU_MULTIPLAYERTHINGS"
 msgstr "Pariunt pluribus rebus in cauea"
@@ -4686,7 +4698,7 @@ msgid "OPTVAL_SPRSHADALWAYS"
 msgstr "Monstra et histriones"
 
 msgid "DSPLYMNU_FOV"
-msgstr ""
+msgstr "FOV"
 
 msgid "CMPTMNU_NOMBF21"
 msgstr "Inactivare MBF21 features"
@@ -4704,7 +4716,7 @@ msgid "OB_DEMON1HIT"
 msgstr "%o a Serpente mancus."
 
 msgid "AUTOMAPMNU_LINEANTIALIASING"
-msgstr ""
+msgstr "Lineas antialias"
 
 msgid "GMPLYMNU_NOPLAYERCLIP"
 msgstr "Movere et mitterent per alios histriones"
@@ -4728,7 +4740,7 @@ msgid "GMPLYMNU_COOPTHINGS"
 msgstr "Pariunt cooperatores op solum res in pluribus"
 
 msgid "GMPLYMNU_COOPITEMS"
-msgstr ""
+msgstr "Res sublationis solum cooperativas in pluribus lusoribus crea"
 
 msgid "GMPLYMNU_LOCALITEMS"
 msgstr "Players exciperent suum exemplum rerum in pluribus lusoribus"
@@ -4740,7 +4752,7 @@ msgid "MISCMNU_RESTARTONDEATH"
 msgstr "Pistol satus in mortem"
 
 msgid "GMPLYMNU_PISTOLSTART"
-msgstr "Pistol incipit omnis map"
+msgstr "Pistola initium omnis tabulae"
 
 msgid "CMPTMNU_VOODOOZOMBIES"
 msgstr "Reviventem histriones patitur creaturae"
@@ -4749,10 +4761,10 @@ msgid "CMPTMNU_FDTELEPORT"
 msgstr "Ignore area Z cum teleporting"
 
 msgid "OPTVAL_ANAMORPHIC"
-msgstr ""
+msgstr "Perspectiva coacta"
 
 msgid "SNDMNU_FOOTSTEPVOLUME"
-msgstr ""
+msgstr "Volumen vestigiorum"
 
 msgid "ID24_GOTINCINERATOR"
 msgstr "Incinerator te obtinuit!"
@@ -4767,34 +4779,34 @@ msgid "ID24_GOTFUELTANK"
 msgstr "Sustulit esca lacus."
 
 msgid "TAG_ID24INCINERATOR"
-msgstr ""
+msgstr "Incinerator"
 
 msgid "TAG_ID24CALAMITYBLADE"
-msgstr ""
+msgstr "Lamina Calamitatis"
 
 msgid "AMMO_ID24FUEL"
-msgstr ""
+msgstr "Canistrum combustibilis"
 
 msgid "AMMO_ID24FUELTANK"
-msgstr ""
+msgstr "Cisterna combustibilis"
 
 msgid "ID24_CC_GHOUL"
-msgstr ""
+msgstr "Ghoul"
 
 msgid "ID24_CC_BANSHEE"
-msgstr ""
+msgstr "Banshee"
 
 msgid "ID24_CC_SHOCKTROOPER"
-msgstr ""
+msgstr "Miles fulminis"
 
 msgid "ID24_CC_MINDWEAVER"
-msgstr ""
+msgstr "Textor mentis"
 
 msgid "ID24_CC_VASSAGO"
-msgstr ""
+msgstr "Vassago"
 
 msgid "ID24_CC_TYRANT"
-msgstr ""
+msgstr "Tyrannus"
 
 msgid "ID24_OB_GHOUL"
 msgstr "%o pilam energiae globuli deprehendit."
@@ -4818,34 +4830,34 @@ msgid "AUTOMAPMNU_SHOWLEVELNAME"
 msgstr "Gradus nomen monstrare"
 
 msgid "CNTRLMNU_INVENTORY_HOTKEYS"
-msgstr ""
+msgstr "Claves celeres inventarii"
 
 msgid "JOYMNU_HAPTICS"
 msgstr "Haptic feedback robur"
 
 msgid "JOYMNU_CURVE"
-msgstr ""
+msgstr "Curva responsionis"
 
 msgid "JOYMNU_THRESHOLD"
-msgstr ""
+msgstr "Limen digitale"
 
 msgid "OPTVAL_LINEAR"
-msgstr ""
+msgstr "Linear"
 
 msgid "OPTVAL_QUADRATIC"
-msgstr ""
+msgstr "Quadraticum"
 
 msgid "NETMNU_CHATTYPE"
-msgstr ""
+msgstr "Genus confabulationis"
 
 msgid "OPTVAL_DISABLECHAT"
-msgstr ""
+msgstr "Debilitatum"
 
 msgid "OPTVAL_TEAMONLYCHAT"
-msgstr ""
+msgstr "Socii tantum"
 
 msgid "OPTVAL_GLOBALCHAT"
-msgstr ""
+msgstr "Universale"
 
 msgid "NETMNU_NOBOLDCHAT"
 msgstr "Inactivare Medium Text in Chat"
@@ -4854,7 +4866,7 @@ msgid "NETMNU_NOCHATSND"
 msgstr "Inactivare Chat Sonus"
 
 msgid "NETMNU_BALANCETICS"
-msgstr ""
+msgstr "Conexiones stabilire"
 
 msgid "NETMNU_LIMITCONVO"
 msgstr "Finis Colloquia ad Hostiam"
@@ -4863,19 +4875,19 @@ msgid "NETMNU_REPEATCOOLDOWN"
 msgstr "Refrigescant in iterabilem actiones"
 
 msgid "NETMNU_DISABLEPAUSE"
-msgstr ""
+msgstr "Intermissionem disable"
 
 msgid "OPTVAL_HOSTONLY"
-msgstr ""
+msgstr "Hospes tantum"
 
 msgid "NETMNU_READYTYPE"
 msgstr "Intermissio Skipping Type"
 
 msgid "OPTVAL_VOTE"
-msgstr ""
+msgstr "Suffragium"
 
 msgid "OPTVAL_ANYONE"
-msgstr ""
+msgstr "Quilibet"
 
 msgid "NETMNU_READYPERCENT"
 msgstr "Suffragium Skip sentio"
@@ -4893,10 +4905,10 @@ msgid "HAPMNU_COMPAT"
 msgstr "Haptic feedback convenientiae gradus"
 
 msgid "OPTVAL_MATCH"
-msgstr ""
+msgstr "Par"
 
 msgid "OPTVAL_WARN"
-msgstr ""
+msgstr "Mone"
 
 msgid "HAPMNU_OPTIONS"
 msgstr "Customize fontes feedback haptic"
@@ -4914,61 +4926,61 @@ msgid "HAPMNU_OPT_WORLD"
 msgstr "Ex mutuo mundo"
 
 msgid "PAUSE_STRING"
-msgstr ""
+msgstr "Intermissio"
 
 msgid "TAG_BACKPACK"
-msgstr ""
+msgstr "Saccus dorsualis"
 
 msgid "TAG_ARMORBONUS"
-msgstr ""
+msgstr "Armatura spiritualis"
 
 msgid "TAG_GREENARMOR"
-msgstr ""
+msgstr "Armatura securitatis"
 
 msgid "TAG_BLUEARMOR"
-msgstr ""
+msgstr "Armatura proelii"
 
 msgid "TAG_INVULSPHERE"
-msgstr ""
+msgstr "Artefactum invulnerabilitatis"
 
 msgid "TAG_SOULSPHERE"
-msgstr ""
+msgstr "Sphaera animae"
 
 msgid "TAG_MEGAPSHERE"
-msgstr ""
+msgstr "Megasphaera"
 
 msgid "TAG_INVISSPHERE"
-msgstr ""
+msgstr "Artefactum caliginis"
 
 msgid "TAG_RADSUIT"
-msgstr ""
+msgstr "Vestis radiationis"
 
 msgid "TAG_VISOR"
 msgstr "Lux amplificatio Visor"
 
 msgid "TAG_ALLMAP"
-msgstr ""
+msgstr "Tabula computatralis"
 
 msgid "TAG_BERSERK"
-msgstr ""
+msgstr "Fasciculus furoris"
 
 msgid "TAG_HEALTHBONUS"
-msgstr ""
+msgstr "Potio salutis"
 
 msgid "TAG_STIMPACK"
-msgstr ""
+msgstr "Stimpack"
 
 msgid "TAG_MEDIKIT"
-msgstr ""
+msgstr "Medikit"
 
 msgid "TAG_BLUECARD"
-msgstr ""
+msgstr "Charta clavis caerulea"
 
 msgid "TAG_YELLOWCARD"
-msgstr ""
+msgstr "Charta clavis flava"
 
 msgid "TAG_REDCARD"
-msgstr ""
+msgstr "Charta clavis rubra"
 
 msgid "TAG_BLUESKULL"
 msgstr "Blue Calvariae Key"
@@ -4989,10 +5001,10 @@ msgid "TAG_BOWLOFVEGETABLES"
 msgstr "Sinum Vegetabilium"
 
 msgid "TAG_BREAKFAST"
-msgstr ""
+msgstr "Ientaculum superimpulsus"
 
 msgid "TAG_REPELLENT"
-msgstr ""
+msgstr "Repellens limi"
 
 msgid "TAG_CHEXARMOR"
 msgstr "Chex® Lorica"
@@ -5001,34 +5013,34 @@ msgid "TAG_SUPERCHEXARMOR"
 msgstr "Super Chex® Lorica"
 
 msgid "TAG_CHEXMAP"
-msgstr ""
+msgstr "Tabula regionis computatralis"
 
 msgid "TAG_SLIMESUIT"
 msgstr "Slime probatio Suit"
 
 msgid "TAG_ZORCHPACK"
-msgstr ""
+msgstr "Fasciculus Zorch"
 
 msgid "TAG_CBLUEKEY"
-msgstr ""
+msgstr "Clavis caerulea"
 
 msgid "TAG_CYELLOWKEY"
-msgstr ""
+msgstr "Clavis flava"
 
 msgid "TAG_CREDKEY"
-msgstr ""
+msgstr "Red Key"
 
 msgid "GLPREFMNU_WPNPURELIGHT"
 msgstr "Uti sector claritas in arma mente"
 
 msgid "NET_CONTINUE_MKB"
-msgstr "Press Space aut LMB ad parata sunt"
+msgstr "Preme Space vel LMB ut paratus sis"
 
 msgid "NET_CONTINUE_CONTROLLER"
 msgstr "Torcular A est paratum est"
 
 msgid "NET_CONTINUE_JOYSTICK"
-msgstr "Press laetitia I ad parata sunt"
+msgstr "Preme Joy 1 ut paratus sis"
 
 msgid "GMPLYMNU_REMEMBERWEAP"
 msgstr "Memento lectus telum in revivisce"
@@ -5040,13 +5052,13 @@ msgid "CNTRLMNU_COOPSPYCANCEL"
 msgstr "Patet cavea exploratorem"
 
 msgid "OPTMNU_ACCESSIBILITY"
-msgstr ""
+msgstr "Optiones accessibilitatis"
 
 msgid "JOYMNU_ANALOGRUN"
-msgstr ""
+msgstr "Cursus analogicus"
 
 msgid "ACCMNU_TOOLTIP_LINES"
-msgstr ""
+msgstr "Lineae indiciorum"
 
 msgid "ACCMNU_TOOLTIP_SPEED"
 msgstr "Tooltip Volumen Celeritas"
@@ -5058,10 +5070,10 @@ msgid "ACCMNU_TOOLTIP_ALPHA"
 msgstr "Tooltip Maecenas vitae Alpha"
 
 msgid "ACCMNU_TOOLTIP_CAP"
-msgstr "Terminus Tooltip Latitudo"
+msgstr "Latitudinem indicii limita"
 
 msgid "ACCMNU_TOOLTIP_SCALE"
-msgstr "Magna Tooltip Text"
+msgstr "Textus indicii magnus"
 
 #, fuzzy
 msgid "ACCMNU_TOOLTIP_EXAMPLE"
@@ -5071,10 +5083,10 @@ msgstr ""
 "\n"
 
 msgid "ACCMNU_TOOLTIP"
-msgstr ""
+msgstr "Indicia"
 
 msgid "ACCMNU_LIGHT_EXTRA"
-msgstr ""
+msgstr "Illuminatio addita"
 
 msgid "ACCMNU_TOOLTIP_LIGHT_RADIUS"
 msgstr "Radii lucis spatium circum ludio ludius in tabula geographica moderatur. Maiores valores clariorem scaenam faciunt."
@@ -5086,28 +5098,28 @@ msgid "ACCMNU_LIGHT_RADIUS"
 msgstr "Ludio ludius Lux Radius"
 
 msgid "ACCMNU_LIGHT"
-msgstr ""
+msgstr "Illuminatio"
 
 msgid "DSPLYMNU_ROCKETEXPSTYLE"
 msgstr "CREPITUS Display Style"
 
 msgid "OPTVAL_ROCKETEXP_STYLE_ADD"
-msgstr ""
+msgstr "Additivum"
 
 msgid "OPTVAL_ROCKETEXP_STYLE_TRANS"
-msgstr ""
+msgstr "Transparens"
 
 msgid "OPTVAL_LAX"
-msgstr ""
+msgstr "Remissum"
 
 msgid "OPTVAL_STRICT"
-msgstr ""
+msgstr "Strictum"
 
 msgid "PICKER_FILELOADING"
-msgstr ""
+msgstr "Oneratio fasciculorum"
 
 msgid "DSPLYMNU_IMAGEADJUST"
-msgstr ""
+msgstr "Calibratio imaginis"
 
 msgid "DSPLYMNU_IMAGEADJUST_TOP1"
 msgstr "Ex normali inspectione distantiae hos iunctos componite."
@@ -5128,7 +5140,7 @@ msgid "DSPLYMNU_TOOLTIP_BLACKPOINT"
 msgstr "Monitores compensat qui non ostendunt elementa obscura recte monstrare. Donec diametri albae caudices consenuerunt. Noli hoc utere ut ludum clariorem reddas, solum ut calibratur imago pro tuo setup."
 
 msgid "DSPLYMNU_TOOLTIP_IMAGEADJUST_RESET"
-msgstr "Reset omnia optiones in hoc menu ad default occasus."
+msgstr "Omnes optiones huius indicis ad occasus praedefinitos restituit."
 
 msgid "DSPLYMNU_TOOLTIP_BRIGHTNESS"
 msgstr "Apponendo lineari splendoris temperatio. Aptare ad gustum, vel in tenebris videre."
@@ -5143,49 +5155,49 @@ msgid "DSPLYMNU_IMAGEADJUST_BOTTOM"
 msgstr "Accommodare donec haec similis colori grisei unicolori similis sit."
 
 msgid "DSPLYMNU_BRIGHTNESS"
-msgstr ""
+msgstr "Claritas"
 
 msgid "DSPLYMNU_GAMMA"
 msgstr "Gamma correctio"
 
 msgid "DSPLYMNU_CONTRAST"
-msgstr ""
+msgstr "Contrarium"
 
 msgid "DSPLYMNU_SATURATION"
-msgstr ""
+msgstr "Saturatio"
 
 msgid "ACTION_COPYTOCLIPBOARD"
-msgstr "Effingo ut clipboard"
+msgstr "In tabulam excerptorum copia"
 
 msgid "ACTION_RESTART"
-msgstr ""
+msgstr "Reincipe"
 
 msgid "ACTION_ABORT"
-msgstr ""
+msgstr "Interrumpe"
 
 msgid "ACTION_STARTGAME"
-msgstr ""
+msgstr "Ludum incipe"
 
 msgid "ACTION_KICK"
-msgstr ""
+msgstr "Expelle"
 
 msgid "ACTION_BAN"
-msgstr ""
+msgstr "Prohibe"
 
 msgid "ERRORMNU_SAVE"
-msgstr ""
+msgstr "Relationem serva"
 
 msgid "ERROR_FATAL"
-msgstr ""
+msgstr "Error fatalis"
 
 msgid "ERROR_ABORT"
 msgstr "Supplicium manere non potuit."
 
 msgid "FILEPICKER_ANY"
-msgstr ""
+msgstr "Omnes fasciculi"
 
 msgid "FILEPICKER_REPORTS"
-msgstr ""
+msgstr "Fasciculi ZIP relationum ruinae"
 
 msgid "HAPMNU_TITLE"
 msgstr "Haptic Feedback Optiones"
@@ -5197,43 +5209,43 @@ msgid "DSPLYMNU_POWERUPFADE"
 msgstr "Powerup tint intensionem"
 
 msgid "PICKER_PLAYERCLASS"
-msgstr ""
+msgstr "Classis lusoris"
 
 msgid "OPTVAL_SBSLETTERBOX"
-msgstr ""
+msgstr "Iuxta cum letterbox"
 
 msgid "OPTVAL_DIRECTMIX"
-msgstr ""
+msgstr "Mixtura directa"
 
 msgid "OPTVAL_SUPERSTEREO"
-msgstr ""
+msgstr "Super Stereo"
 
 msgid "OPENALMNU_MUSICMODE"
-msgstr ""
+msgstr "Modus musicae"
 
 msgid "OPENALMNU_SUPERSTEREOWIDTH"
-msgstr ""
+msgstr "Latitudo Super Stereo"
 
 msgid "CNTRLMNU_ADJUST_LIGHTS"
-msgstr ""
+msgstr "Temperatio illuminationis"
 
 msgid "OPTVAL_SMOOTH"
-msgstr ""
+msgstr "Lenis"
 
 msgid "TAG_MACIL"
-msgstr ""
+msgstr "Macil"
 
 msgid "TAG_MAULER"
-msgstr ""
+msgstr "Mauler"
 
 msgid "TAG_GLAUNCHER"
-msgstr ""
+msgstr "Iaculator grenatarum"
 
 msgid "ACTION_OPENWADDIR"
-msgstr ""
+msgstr "WADs perlustra"
 
 msgid "ACTION_OPENCONFIGDIR"
-msgstr ""
+msgstr "Configurata perlustra"
 
 msgid "OPTMNU_OPENWADS"
 msgstr "Browse IWAD Pellentesque"
@@ -5242,58 +5254,58 @@ msgid "SNDMNU_NOMIDIOPTIONS"
 msgstr "MIDI fabrica aliqua optiones non excludit."
 
 msgid "CMPTMNU_EMULATEMIKOPORTALS"
-msgstr ""
+msgstr "Mikoportalia emulare"
 
 msgid "HUDMNU_CROSSHAIRCOLORFULL"
-msgstr "Crosshair color ad plenam salutem"
+msgstr "Color collineatoris cum salus plena est"
 
 msgid "HUDMNU_CROSSHAIRCOLORMAX"
-msgstr "Crosshair color ad max salutem"
+msgstr "Color collineatoris cum salus maxima est"
 
 msgid "HUDMNU_CROSSHAIRCOLORS"
-msgstr "Dynamic crosshair colorum"
+msgstr "Colores collineatoris dynamici"
 
 msgid "HUDMNU_CROSSHAIRYOFFSET"
-msgstr ""
+msgstr "Offset verticalis collineatoris"
 
 msgid "VALFORMAT_DB"
 msgstr "%s dB*"
 
 msgid "VALFORMAT_DB_P_METER"
-msgstr ""
+msgstr "%s dB/m"
 
 msgid "VALFORMAT_DEGREES"
-msgstr ""
+msgstr "%s grad"
 
 msgid "VALFORMAT_FPS"
-msgstr ""
+msgstr "%s fps"
 
 msgid "VALFORMAT_HZ"
-msgstr ""
+msgstr "%s Hz"
 
 msgid "VALFORMAT_METER"
-msgstr ""
+msgstr "%s m"
 
 msgid "VALFORMAT_MSECOND"
-msgstr ""
+msgstr "%s ms"
 
 msgid "VALFORMAT_MULTIPLIER"
-msgstr ""
+msgstr "%s ×"
 
 msgid "VALFORMAT_PERCENT"
-msgstr ""
+msgstr "%s %%"
 
 msgid "VALFORMAT_SECOND"
-msgstr ""
+msgstr "%s s"
 
 msgid "MAPCOLORMNU_SECTORFILLALPHA"
-msgstr ""
+msgstr "Alpha impletionis"
 
 msgid "MAPCOLORMNU_SECTORFILLCOLOR"
-msgstr ""
+msgstr "Color impletionis"
 
 msgid "ACCMNU_DOUBLECLICK_THRESHOLD"
-msgstr ""
+msgstr "Limen duplicis pressionis"
 
 msgid "ACCMNU_TOOLTIP_DOUBLECLICK_THRESHOLD"
 msgstr "Tempus inter subsequens clavem urget ut felis geminus-click eventum"
