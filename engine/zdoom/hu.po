@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "PO-Revision-Date: 2026-06-13 16:30+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"Last-Translator: MadRadical <milan.gaal.231@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/hu/>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
@@ -5376,3 +5376,9 @@ msgstr "Automata (Hagyományos preferált)"
 #, fuzzy
 msgid "OPTVAL_VTAZDOOM"
 msgstr "Automata (ZDoom preferált)"
+
+msgid "MAPCOLORMNU_SECTORFILLCOLOR"
+msgstr "Szín telítettség"
+
+msgid "ACCMNU_TOOLTIP_DOUBLECLICK_THRESHOLD"
+msgstr "Gombok lenyomása közötti idő a Dupla kattintáshoz"
