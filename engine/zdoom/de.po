@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-06-13 10:01+0000\n"
-"Last-Translator: heiko123abc <heiko1234aaa@gmail.com>\n"
+"PO-Revision-Date: 2026-06-13 16:30+0000\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -5403,3 +5403,11 @@ msgstr "Alpha der Füllung"
 
 msgid "MAPCOLORMNU_SECTORFILLCOLOR"
 msgstr "Füllfarbe"
+
+#, fuzzy
+msgid "OPTVAL_VTAZDOOM"
+msgstr "Automatisch (ZDoom bevorzugt)"
+
+#, fuzzy
+msgid "OPTVAL_VTAVANILLA"
+msgstr "Automatisch (ZDoom bevorzugt)"
