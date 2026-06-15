@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-06-12 16:57+0000\n"
+"PO-Revision-Date: 2026-06-14 21:01+0000\n"
 "Last-Translator: Júlia Rosell Saldaña <contacte@juliars.cat>\n"
 "Language-Team: Latin <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/la/>\n"
 "Language: la\n"
@@ -5075,12 +5075,12 @@ msgstr "Latitudinem indicii limita"
 msgid "ACCMNU_TOOLTIP_SCALE"
 msgstr "Textus indicii magnus"
 
-#, fuzzy
 msgid "ACCMNU_TOOLTIP_EXAMPLE"
 msgstr ""
-"\n"
-"\n"
-"\n"
+"Hoc exemplum est indicationis instrumenti.\n"
+"Ecce textus supplementarius.\n"
+"...\n"
+"Ecce longissima linea textus quae pergere videtur sine ulla re umquam interessante dicenda, tantum longa esse videtur quia artifices difficultatem habent explicandi quid optio faciat."
 
 msgid "ACCMNU_TOOLTIP"
 msgstr "Indicia"
@@ -5309,3 +5309,9 @@ msgstr "Limen duplicis pressionis"
 
 msgid "ACCMNU_TOOLTIP_DOUBLECLICK_THRESHOLD"
 msgstr "Tempus inter subsequens clavem urget ut felis geminus-click eventum"
+
+msgid "OPTVAL_VTAZDOOM"
+msgstr "Automaticus (ZDoom Praefertur)"
+
+msgid "OPTVAL_VTAVANILLA"
+msgstr "Automaticum (Vanilla Praefertur)"
