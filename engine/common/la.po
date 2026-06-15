@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-06-14 21:01+0000\n"
+"PO-Revision-Date: 2026-06-15 16:01+0000\n"
 "Last-Translator: Júlia Rosell Saldaña <contacte@juliars.cat>\n"
 "Language-Team: Latin <https://hosted.weblate.org/projects/uzdoom/common/la/>\n"
 "Language: la\n"
@@ -383,7 +383,7 @@ msgid "CNTRLMNU_QUICKLOAD"
 msgstr "Onerare cito"
 
 msgid "CNTRLMNU_EXIT_TO_MAIN"
-msgstr "Exitus AD Tabula Principalis"
+msgstr "Exitus Ad Tabula Principalis"
 
 msgid "CNTRLMNU_TOGGLE_MESSAGES"
 msgstr "Nuntios alterna"
@@ -704,7 +704,7 @@ msgid "OPTVAL_1024SAMPLES"
 msgstr "1024 exemplaria"
 
 msgid "OPTVAL_2048SAMPLES"
-msgstr "mMXLVIII exempla"
+msgstr "2048 exempla"
 
 msgid "OPTVAL_4096SAMPLES"
 msgstr "4096 exemplaria"
