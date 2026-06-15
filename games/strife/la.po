@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-06-09 21:01+0000\n"
+"PO-Revision-Date: 2026-06-14 21:01+0000\n"
 "Last-Translator: Júlia Rosell Saldaña <contacte@juliars.cat>\n"
 "Language-Team: Latin <https://hosted.weblate.org/projects/doom-engine-games/strife/la/>\n"
 "Language: la\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2026.6\n"
+"X-Generator: Weblate 2026.7.dev0\n"
 
 msgid "TXT_STRIFE_MAP01"
 msgstr "AREA I: Sanctuarium"
@@ -827,7 +827,7 @@ msgid "TXT_RPLY0_SCRIPT02_D100056_THANK"
 msgstr "Gratias"
 
 msgid "TXT_DLG_SCRIPT02_D101572_THATS"
-msgstr "SIC planta purgamentorum hic est. Sed id felis ante. Quicumque dixerit, erravisse Ordinis scriptor."
+msgstr "Hic in statione cloacarum est. Sed nexus Frontis est. Quicumque tibi dixit id Ordinis esse, erravit."
 
 msgid "TXT_RPLY0_SCRIPT02_D101572_THANK"
 msgstr "Gratias"
@@ -843,7 +843,7 @@ msgstr "Dimitte me, relinque senem solum."
 
 # MAP03: Macil.
 msgid "TXT_DLG_SCRIPT03_D0_WELCO"
-msgstr "Grata novissima spe micantem. Solummodo liberum arbitrium habemus Ordini obsistere. Mentes scientias acutissimas habemus et corpora valida multa, sed caremus uno reali, uh… Problemsolver, qui nobis dabit extremam necessitatem. Auxilium NOBIS."
+msgstr "Grata novissima spe micantem. Solummodo liberum arbitrium habemus Ordini obsistere. Mentes scientias acutissimas habemus et corpora valida multa, sed caremus uno reali, uh… Problemsolver, qui nobis dabit extremam necessitatem. Auxilium nobis."
 
 msgid "TXT_RPLY0_SCRIPT03_D0_ALLRI"
 msgstr "Recte, accipio."
@@ -1397,7 +1397,7 @@ msgid "TXT_RPLY0_SCRIPT06_D9096_ANYTH"
 msgstr "Quid aliud facere potes?"
 
 msgid "TXT_DLG_SCRIPT06_D10612_GOODL"
-msgstr "BONUM fortuna. Plures e nostris cuniculis aperui tibi. Faciliorem redderet negotium tuum. O magnitudinem decem, perfectam! …Sed colores horrendos."
+msgstr "Bene sit tibi. Plures cuniculos nostros tibi aperui. Hoc tibi negotium faciliorem reddere debet. Oh, magnitudo decem, perfecta! ...Sed colores pessimi."
 
 msgid "TXT_RPLY0_SCRIPT06_D10612_THANK"
 msgstr "Gratias pro auxilio tuo."
@@ -1663,7 +1663,7 @@ msgid "TXT_DLG_SCRIPT10_D25772_WELLI"
 msgstr "Bene, iterum ad veteres dolis revertor, adhuc laboro in tuis insitis. Scisne Macilum nunc illis omnibus dedisse? Non, huh? Est quod bene evasit. Quid tibi possum facere?"
 
 msgid "TXT_RPLY0_SCRIPT10_D25772_HELPM"
-msgstr "Auxilium HIC MIHI EX."
+msgstr "Auxilium hic mihi ex."
 
 msgid "TXT_RYES0_SCRIPT10_D25772_THATS"
 msgstr "Id possum facere omnia."
@@ -1689,7 +1689,7 @@ msgstr "Ibi, nunc omnia pone."
 
 # MAP10: Feris (no training).
 msgid "TXT_DLG_SCRIPT10_D28804_ITSTH"
-msgstr "S AD heros. Magni officium! Quid possum tibi? Aliquantum maior lectio nunc tenemus quod omnem ordinationem ex castellum habemus. Si opus est aliquo ammo emere cum Justino loqui. Ipse te curabo. "
+msgstr "Heros est. Optime factum! Quid tibi afferre possum? Paulo maiorem delectum habemus nunc, cum omnia instrumenta ex castello habeamus. Si tibi opus est tormenta emere, cum Iustino loquere. Ille te curabit. "
 
 msgid "TXT_RPLY0_SCRIPT10_D28804_IMOUT"
 msgstr "Im e glandibus."
@@ -2231,7 +2231,7 @@ msgid "TXT_DLG_SCRIPT22_D6064_YOUVE"
 msgstr "Certe alterum ruinae prope vidisti. Videtur quod Cometa, quae in nostram planetam ingruat, actu spatium navis sit, et credas vel non, iam olim in hoc ipso mundo ortam esse."
 
 msgid "TXT_RPLY0_SCRIPT22_D6064_SOTHE"
-msgstr "Ita spectra, Deus unus."
+msgstr "Ita spectra, Deus Unus…"
 
 msgid "TXT_DLG_SCRIPT22_D7580_THEYA"
 msgstr "Creaturae sunt quae hunc mundum olim regebant et vitam eius consumunt. Antiqui curaverunt obsignare, sed in processu vitam dederunt. Vereor ne id scio."
