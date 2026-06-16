@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-06-13 16:30+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-06-16 19:05+0000\n"
+"Last-Translator: Никита Скатьков <nikita.ska4oK@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -5358,10 +5358,8 @@ msgstr "Динамические цвета прицела"
 msgid "HUDMNU_CROSSHAIRYOFFSET"
 msgstr "Смещение прицела по вертикали"
 
-#, fuzzy
 msgid "OPTVAL_VTAVANILLA"
-msgstr "Автоматически (предпочитать Ванильный)"
+msgstr "Автоматически (Стандартный)"
 
-#, fuzzy
 msgid "OPTVAL_VTAZDOOM"
-msgstr "Автоматически (предпочитать ZDoom)"
+msgstr "Автоматически (ZDoom)"
