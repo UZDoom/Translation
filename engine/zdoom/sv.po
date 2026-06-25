@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-06-13 16:30+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-06-25 10:03+0000\n"
+"Last-Translator: Automatic translation add-on <noreply-addon-autotranslate@weblate.org>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/sv/>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
@@ -5172,3 +5172,6 @@ msgstr "Auto (Vanilla föredraget)"
 #, fuzzy
 msgid "OPTVAL_VTAZDOOM"
 msgstr "Auto (ZDoom föredraget)"
+
+msgid "OPTMNU_ACCESSIBILITY"
+msgstr "Tillgänglighetsalternativ"
