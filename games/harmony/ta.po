@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-06-28 19:01+0000\n"
+"PO-Revision-Date: 2026-06-30 18:01+0000\n"
 "Last-Translator: தமிழ்நேரம் <tamilneram247@gmail.com>\n"
 "Language-Team: Tamil <https://hosted.weblate.org/projects/doom-engine-games/harmony/ta/>\n"
 "Language: ta\n"
@@ -29,201 +29,219 @@ msgstr "பச்சை திறவுஅட்டை தேவை"
 
 msgctxt "doom harmony"
 msgid "PD_REDO"
-msgstr ""
+msgstr "ஊதா நிற திறவுஅட்டை தேவை"
 
 msgctxt "doom harmony"
 msgid "PD_YELLOWO"
-msgstr ""
+msgstr "மஞ்சள் திறவுஅட்டை தேவை"
 
 msgctxt "doom harmony"
 msgid "PD_BLUEK"
-msgstr ""
+msgstr "பச்சை திறவு தேவை"
 
 msgctxt "doom harmony"
 msgid "PD_YELLOWK"
-msgstr ""
+msgstr "மஞ்சள் திறவு தேவை"
 
 msgctxt "doom harmony"
 msgid "PD_REDK"
-msgstr ""
+msgstr "ஊதா திறவு தேவை"
 
 msgctxt "doom harmony"
 msgid "GOTARMOR"
-msgstr ""
+msgstr "கவசத்தை எடுத்தார்."
 
 msgctxt "doom harmony"
 msgid "GOTMEGA"
-msgstr ""
+msgstr "போர் கவசத்தை எடுத்தார்."
 
 msgctxt "doom harmony"
 msgid "GOTMSPHERE"
-msgstr ""
+msgstr "சூப்பர்எல்த்"
 
 msgctxt "doom harmony"
 msgid "GOTBLUECARD"
-msgstr ""
+msgstr "பச்சை திறவுஅட்டை கிடைத்தது."
 
 msgctxt "doom harmony"
 msgid "GOTYELWCARD"
-msgstr ""
+msgstr "மஞ்சள் திறவுஅட்டை கிடைத்தது."
 
 msgctxt "doom harmony"
 msgid "GOTREDCARD"
-msgstr ""
+msgstr "ஊதா நிற திறவுஅட்டை கிடைத்தது."
 
 msgctxt "doom harmony"
 msgid "GOTBLUESKUL"
-msgstr ""
+msgstr "பச்சை விசை கிடைத்தது."
 
 msgctxt "doom harmony"
 msgid "GOTYELWSKUL"
-msgstr ""
+msgstr "மஞ்சள் விசை கிடைத்தது."
 
 msgctxt "doom harmony"
 msgid "GOTREDSKUL"
-msgstr ""
+msgstr "ஊதா விசை கிடைத்தது."
 
 msgctxt "doom harmony"
 msgid "GOTSTIM"
-msgstr ""
+msgstr "குணப்படுத்தும் காளான்"
 
 msgctxt "doom harmony"
 msgid "GOTMEDIKIT"
-msgstr ""
+msgstr "வாங்கியது: மருத்துவ தொகுப்பு."
 
 msgctxt "doom harmony"
 msgid "GOTMEDINEED"
-msgstr ""
+msgstr "வாங்கியது: உங்களுக்கு உண்மையிலேயே தேவைப்படும் மருத்துவ அறிவிலி."
 
 msgctxt "doom harmony"
 msgid "GOTMAP"
-msgstr ""
+msgstr "வரைபடம்"
 
 msgctxt "doom harmony"
 msgid "GOTCLIPBOX"
-msgstr ""
+msgstr "வாங்கியது: தோட்டாக்களின் வழக்கு."
 
 msgctxt "doom harmony"
 msgid "GOTROCKET"
-msgstr ""
+msgstr "வாங்கியது: கையெறி குண்டு."
 
 msgctxt "doom harmony"
 msgid "GOTROCKBOX"
-msgstr ""
+msgstr "வாங்கியது: கையெறி குண்டுகள்."
 
 msgctxt "doom harmony"
 msgid "GOTSHELLBOX"
-msgstr ""
+msgstr "வாங்கியது: துப்பாக்கி குண்டுகளின் பெட்டி."
 
 msgctxt "doom harmony"
 msgid "GOTBACKPACK"
-msgstr ""
+msgstr "வாங்கியது: வெடிமருந்து பையுடனும்."
 
 msgctxt "doom harmony"
 msgid "GOTBFG9000"
-msgstr ""
+msgstr "வாங்கியது: கையெறி குண்டு."
 
 msgctxt "doom harmony"
 msgid "GOTCHAINGUN"
-msgstr ""
+msgstr "வாங்கியது: மினிகன்."
 
 msgctxt "doom harmony"
 msgid "GOTLAUNCHER"
-msgstr ""
+msgstr "வாங்கியது: கிரெனேட் லாஞ்சர்."
 
 msgctxt "doom harmony"
 msgid "GOTPLASMA"
-msgstr ""
+msgstr "என்ட்ரோபி எறிபவர்!"
 
 msgctxt "doom harmony"
 msgid "GOTSHOTGUN"
-msgstr ""
+msgstr "வாங்கியது: துப்பாக்கி."
 
 msgctxt "doom harmony"
 msgid "STSTR_DQDON"
-msgstr ""
+msgstr "கடவுள் பயன்முறை இயக்கப்பட்டது"
 
 msgctxt "doom harmony"
 msgid "STSTR_DQDOFF"
-msgstr ""
+msgstr "கடவுள் பயன்முறை முடக்கப்பட்டுள்ளது"
 
 msgctxt "doom harmony"
 msgid "STSTR_KFAADDED"
-msgstr ""
+msgstr "அனைத்து ஆயுதங்கள் / வெடிமருந்துகள் / சாவிகள்"
 
 msgctxt "doom harmony"
 msgid "STSTR_FAADDED"
-msgstr ""
+msgstr "அனைத்து ஆயுதங்கள் மற்றும் வெடிமருந்துகள்"
 
 msgid "TXT_HARMMAP01"
-msgstr ""
+msgstr "கடத்தல்"
 
 msgid "TXT_HARMMAP02"
-msgstr ""
+msgstr "தீங்கு வழி"
 
 msgid "TXT_HARMMAP03"
-msgstr ""
+msgstr "ஓட் மனநிலை"
 
 msgid "TXT_HARMMAP04"
-msgstr ""
+msgstr "மெகாலோபோலிச்"
 
 msgid "TXT_HARMMAP05"
-msgstr ""
+msgstr "மருத்துவமனை"
 
 msgid "TXT_HARMMAP06"
-msgstr ""
+msgstr "ஆயுத தொழிற்சாலை"
 
 msgid "TXT_HARMMAP07"
-msgstr ""
+msgstr "நீருக்கடியில் ஆய்வகம்"
 
 msgid "TXT_HARMMAP08"
-msgstr ""
+msgstr "ஏர்ச்ட்ரிப் ஒன்று"
 
 msgid "TXT_HARMMAP09"
-msgstr ""
+msgstr "ஏவுதளம்"
 
 msgid "TXT_HARMMAP10"
-msgstr ""
+msgstr "கதிரியக்க மண்டலம்"
 
 msgid "TXT_HARMMAP11"
-msgstr ""
+msgstr "சொண்டெய்"
 
 msgid "CLUSTEREXIT1"
 msgstr ""
+"உங்களுக்கு வயிறு வலிக்கிறது... \n"
+"விகாரமான ராணியின் முகத்தைப் பார்த்து... \n"
+"அந்த விசயம்... முன்பு இருந்தது... \n"
+"உங்கள் தோழி... அமைரா! \n"
+"\n"
+"அந்த அசுரர்கள் ஒரு வழியைக் கண்டுபிடித்திருக்க வேண்டும் \n"
+"அவளை மாற்றவும் மற்றும் அவளை மாற்றவும் \n"
+"அருவருப்பான உயிரினம் தங்கள் சந்ததிகளை தாங்க. \n"
+"\n"
+"-பெருமூச்சு- \n"
+"\n"
+"நீங்கள் உங்களை ஒன்றாக இணைத்துக் கொள்ளுங்கள்... \n"
+"உன்னைக் கொல்ல வைத்ததற்கு அவர்கள் பணம் கொடுக்கப் போகிறார்கள் \n"
+"உங்கள் நண்பர்… \n"
+"\n"
+"\"ஒரு பெண் இகழ்வது போல் நரகத்திற்கு சினம் இல்லை!\" \n"
+"\n"
+"= டி எச் இ இ என் டி ="
 
 # This text is deliberately empty
 msgctxt "doom harmony"
 msgid "WI_FINISHED"
-msgstr "அழிவு இணக்கம்.WI_FINISHED"
+msgstr "அழிவு இணக்கம்"
 
 # Yellow needs retranslation
 msgctxt "doom harmony"
 msgid "WI_ENTERING"
-msgstr ""
+msgstr "ஏற்றுகிறது"
 
 msgctxt "doom harmony"
 msgid "SKILL_BABY"
-msgstr ""
+msgstr "மிகவும் எளிதானது"
 
 msgctxt "doom harmony"
 msgid "SKILL_EASY"
-msgstr ""
+msgstr "எளிதானது"
 
 msgctxt "doom harmony"
 msgid "SKILL_NORMAL"
-msgstr ""
+msgstr "நடுத்தர"
 
 msgctxt "doom harmony"
 msgid "SKILL_HARD"
-msgstr ""
+msgstr "கடினமான"
 
 msgctxt "doom harmony"
 msgid "SKILL_NIGHTMARE"
-msgstr ""
+msgstr "மிகவும் கடினமானது"
 
 msgid "HARMQUITMSG"
-msgstr ""
+msgstr "விளையாடியதற்கு நன்றி"
 
 msgctxt "doom harmony"
 msgid "TXT_D2E1"
-msgstr ""
+msgstr "இணக்கம்"
