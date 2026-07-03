@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-06-13 16:30+0000\n"
-"Last-Translator: MadRadical <milan.gaal.231@gmail.com>\n"
+"PO-Revision-Date: 2026-06-30 15:01+0000\n"
+"Last-Translator: János Tóth <gomba007@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/hu/>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
@@ -5382,3 +5382,30 @@ msgstr "Szín telítettség"
 
 msgid "ACCMNU_TOOLTIP_DOUBLECLICK_THRESHOLD"
 msgstr "Gombok lenyomása közötti idő a Dupla kattintáshoz"
+
+msgid "VALFORMAT_DB"
+msgstr "%s dB"
+
+msgid "VALFORMAT_DB_P_METER"
+msgstr "%s dB/m"
+
+msgid "VALFORMAT_FPS"
+msgstr "%s fps"
+
+msgid "VALFORMAT_HZ"
+msgstr "%s Hz"
+
+msgid "VALFORMAT_METER"
+msgstr "%s m"
+
+msgid "VALFORMAT_MSECOND"
+msgstr "%s ms"
+
+msgid "VALFORMAT_MULTIPLIER"
+msgstr "%s ×"
+
+msgid "VALFORMAT_PERCENT"
+msgstr "%s %%"
+
+msgid "VALFORMAT_SECOND"
+msgstr "%s s"
