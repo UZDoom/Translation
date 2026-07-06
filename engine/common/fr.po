@@ -2,15 +2,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-06-13 16:30+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-07-06 07:01+0000\n"
+"Last-Translator: Tapwave <kolb.rodrigue@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/uzdoom/common/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2026.7.dev0\n"
+"X-Generator: Weblate 2026.7.1.dev0\n"
 
 msgid "PRESSYN"
 msgstr "Appuyez sur Y ou N."
@@ -307,7 +307,6 @@ msgid "CNTRLMNU_PREVIOUSITEM"
 msgstr "Objet précédent"
 
 # most are not used yet but will be
-#, fuzzy
 msgid "MAPCNTRLMNU_TITLE"
 msgstr "Contrôles Carte"
 
@@ -516,20 +515,17 @@ msgstr "Aucun axe à configurer"
 msgid "OPTVAL_NONE"
 msgstr "Aucun"
 
-#, fuzzy
 msgid "OPTVAL_TURNING"
-msgstr "Tourner"
+msgstr "Regarder vers la Gauche/Droite"
 
 msgid "OPTVAL_LOOKINGUPDOWN"
 msgstr "Vue haut/bas"
 
-#, fuzzy
 msgid "OPTVAL_MOVINGFORWARD"
-msgstr "Avancer"
+msgstr "Avancer/Reculer"
 
-#, fuzzy
 msgid "OPTVAL_STRAFING"
-msgstr "Pas de côté"
+msgstr "Pas de côté Gauche/Droite"
 
 msgid "OPTVAL_MOVINGUPDOWN"
 msgstr "Mouvement haut/bas"
@@ -577,7 +573,7 @@ msgid "TXT_COLOR_DULLGREEN"
 msgstr "Vert pâle"
 
 msgid "TXT_COLOR_BEIGE"
-msgstr ""
+msgstr "Beige"
 
 msgid "TXT_COLOR_LIGHTBLUE"
 msgstr "Bleu clair"
@@ -673,58 +669,58 @@ msgid "MAPCOLORMNU_DEFAULTMAPCOLORS"
 msgstr "Couleurs par défaut"
 
 msgid "OPTVAL_8000HZ"
-msgstr ""
+msgstr "8000 Hz"
 
 msgid "OPTVAL_11025HZ"
-msgstr ""
+msgstr "11025 Hz"
 
 msgid "OPTVAL_22050HZ"
-msgstr ""
+msgstr "22050 Hz"
 
 msgid "OPTVAL_32000HZ"
-msgstr ""
+msgstr "32000 Hz"
 
 msgid "OPTVAL_44100HZ"
-msgstr ""
+msgstr "44100 Hz"
 
 msgid "OPTVAL_48000HZ"
-msgstr ""
+msgstr "48000 Hz"
 
 msgid "OPTVAL_64SAMPLES"
-msgstr ""
+msgstr "64 échantillons"
 
 msgid "OPTVAL_128SAMPLES"
-msgstr ""
+msgstr "128 échantillons"
 
 msgid "OPTVAL_256SAMPLES"
-msgstr ""
+msgstr "256 échantillons"
 
 msgid "OPTVAL_512SAMPLES"
-msgstr ""
+msgstr "512 échantillons"
 
 msgid "OPTVAL_1024SAMPLES"
-msgstr ""
+msgstr "1024 échantillons"
 
 msgid "OPTVAL_2048SAMPLES"
-msgstr ""
+msgstr "2048 échantillons"
 
 msgid "OPTVAL_4096SAMPLES"
-msgstr ""
+msgstr "4096 échantillons"
 
 msgid "OPTSTR_AUTO"
-msgstr ""
+msgstr "Auto"
 
 msgid "OPTSTR_MONO"
-msgstr ""
+msgstr "Mono"
 
 msgid "OPTSTR_STEREO"
 msgstr "Stéréo"
 
 msgid "OPTSTR_PROLOGIC"
-msgstr ""
+msgstr "Décodeur Dolby Pro Logic"
 
 msgid "OPTSTR_QUAD"
-msgstr ""
+msgstr "Quad"
 
 msgid "OPTSTR_SURROUND"
 msgstr "5 enceintes"
@@ -742,7 +738,7 @@ msgid "OPENALMNU_ENABLEEFX"
 msgstr "Activer EFX"
 
 msgid "OPENALMNU_RESAMPLER"
-msgstr ""
+msgstr "Re-échantilloneur"
 
 msgid "SNDMNU_SFXVOLUME"
 msgstr "Volume des Sons"
@@ -780,9 +776,8 @@ msgstr "Options avancées"
 msgid "SNDMNU_MODREPLAYER"
 msgstr "Options lecteur de module"
 
-#, fuzzy
 msgid "SNDMNU_MIDIPLAYER"
-msgstr "Option lecteur MIDI"
+msgstr "Options du périphérique MIDI"
 
 msgid "ADVSNDMNU_TITLE"
 msgstr "Options Sonores Avancées"
@@ -791,7 +786,7 @@ msgid "ADVSNDMNU_SAMPLERATE"
 msgstr "Cadence de Sampling"
 
 msgid "ADVSNDMNU_HRTF"
-msgstr ""
+msgstr "HRTF"
 
 msgid "ADVSNDMNU_OPLSYNTHESIS"
 msgstr "Synthèse OPL"
@@ -800,7 +795,7 @@ msgid "ADVSNDMNU_OPLNUMCHIPS"
 msgstr "Puces OPL émulées"
 
 msgid "ADVSNDMNU_OPLGAIN"
-msgstr ""
+msgstr "Gain"
 
 msgid "ADVSNDMNU_OPLFULLPAN"
 msgstr "Latéralisation complète MIDI"
@@ -815,7 +810,7 @@ msgid "ADVSNDMNU_FLUIDSYNTH"
 msgstr "FluidSynth"
 
 msgid "ADVSNDMNU_GLOBAL"
-msgstr ""
+msgstr "Global"
 
 msgid "ADVSNDMNU_FREEVERB"
 msgstr "Freeverb"
@@ -824,7 +819,7 @@ msgid "ADVSNDMNU_GLOBAL_FREEVERB"
 msgstr "Freeverb Global"
 
 msgid "ADVSNDMNU_FLUIDGAIN"
-msgstr ""
+msgstr "Gain"
 
 msgid "ADVSNDMNU_REVERB"
 msgstr "Réverbération"
@@ -833,7 +828,7 @@ msgid "ADVSNDMNU_REVERB_LEVEL"
 msgstr "Niveau Réverb"
 
 msgid "ADVSNDMNU_CHORUS"
-msgstr ""
+msgstr "Chorus"
 
 msgid "ADVSNDMNU_TIMIDITY"
 msgstr "Timidity++"
@@ -863,16 +858,16 @@ msgid "ADVSNDMNU_ADLNUMCHIPS"
 msgstr "Puces OPL émulées"
 
 msgid "ADVSNDMNU_ADLGAIN"
-msgstr ""
+msgstr "Gain"
 
 msgid "ADVSNDMNU_VLMODEL"
 msgstr "Modèle de Volume"
 
 msgid "ADVSNDMNU_CHANALLOC"
-msgstr ""
+msgstr "Méthode d'allocation des canaux"
 
 msgid "ADVSNDMNU_AUTOARPEGGIO"
-msgstr ""
+msgstr "Arpeggio automatique"
 
 msgid "ADVSNDMNU_OPNCORES"
 msgstr "Cœur émulateur OPN2"
@@ -890,13 +885,13 @@ msgid "ADVSNDMNU_OPNNUMCHIPS"
 msgstr "Puces OPN émulées"
 
 msgid "ADVSNDMNU_OPNGAIN"
-msgstr ""
+msgstr "Gain"
 
 msgid "ADVSNDMNU_ADLCUSTOMBANK"
 msgstr "Utiliser Banque WOPL perso"
 
 msgid "ADVSNDMNU_ADLUSEWADBANK"
-msgstr ""
+msgstr "Utiliser la banque GENMIDI contenue dans le WAD comme banque personalisée"
 
 msgid "ADVSNDMNU_OPLBANKFILE"
 msgstr "Banque WOPL"
@@ -908,7 +903,7 @@ msgid "ADVSNDMNU_OPNBANKFILE"
 msgstr "Banque WOPN"
 
 msgid "OPTVAL_ALIASING"
-msgstr ""
+msgstr "Aliasing"
 
 # This setting is duplicated threefold in order to allow for different
 # grammatical gender endings
@@ -949,7 +944,7 @@ msgid "OPTVAL_CUBICSLOW"
 msgstr "Cubique (Lent)"
 
 msgid "OPTVAL_SINC"
-msgstr ""
+msgstr "Sinc"
 
 msgid "OPTVAL_NOTEONOFFONLY"
 msgstr "Note on/off seulement"
@@ -976,70 +971,70 @@ msgid "MODMNU_CHIPOMATIC"
 msgstr "Chip-o-matic"
 
 msgid "OPTVAL_MAMEOPL2"
-msgstr ""
+msgstr "MAME OPL2"
 
 msgid "OPTVAL_DOSBOXOPL3"
-msgstr ""
+msgstr "DOSBox OPL3"
 
 msgid "OPTVAL_JAVAOPL3"
-msgstr ""
+msgstr "Java OPL3"
 
 msgid "OPTVAL_ESFMu"
-msgstr ""
+msgstr "ESFMu OPL3"
 
 msgid "OPTVAL_YMFMOPL2"
-msgstr ""
+msgstr "YMFM OPL2"
 
 msgid "OPTVAL_YMFMOPL3"
-msgstr ""
+msgstr "YMFM OPL3"
 
 msgid "OPTVAL_NUKEDOPL3"
-msgstr ""
+msgstr "Nuked OPL3"
 
 msgid "OPTVAL_LLENUKEDOPL2"
-msgstr ""
+msgstr "OPL2-LLE (exigeant)"
 
 msgid "OPTVAL_LLENUKEDOPL3"
-msgstr ""
+msgstr "OPL3-LLE (exigeant)"
 
 msgid "OPTVAL_MAMEOPN2"
-msgstr ""
+msgstr "MAME OPN2 (YM2612)"
 
 msgid "OPTVAL_NP2OPNA"
-msgstr ""
+msgstr "Neko Project II Kai OPNA"
 
 msgid "OPTVAL_MAMEOPNA"
-msgstr ""
+msgstr "MAME YM2608"
 
 msgid "OPTVAL_OPALOPL3"
-msgstr ""
+msgstr "Opal OPL3"
 
 msgid "OPTVAL_NUKEDOPL3174"
-msgstr ""
+msgstr "Nuked OPL3 v1.7.4"
 
 msgid "OPTVAL_NUKEDOPN2YM3438"
-msgstr ""
+msgstr "Nuked OPN2 (YM3438)"
 
 msgid "OPTVAL_NUKEDOPN2YM2612"
-msgstr ""
+msgstr "Nuked OPN2 (YM2612)"
 
 msgid "OPTVAL_OPN2YM2612LLE"
-msgstr ""
+msgstr "OPN2-LLE (YM2612) (exigeant)"
 
 msgid "OPTVAL_OPN2YM3438LLE"
-msgstr ""
+msgstr "OPN2-LLE (YM3438) (exigeant)"
 
 msgid "OPTVAL_OPN2YMF276LLE"
-msgstr ""
+msgstr "OPN2-LLE (YMF276) (exigeant)"
 
 msgid "OPTVAL_GENSOPN2"
-msgstr ""
+msgstr "GENS OPN2 (YM2612)"
 
 msgid "OPTVAL_YMFMOPN2"
-msgstr ""
+msgstr "YMFM OPN2"
 
 msgid "OPTVAL_YMFMOPNA"
-msgstr ""
+msgstr "YMFM OPNA"
 
 msgid "ADLVLMODEL_AUTO"
 msgstr "Auto (Utiliser paramètre banque)"
@@ -1060,25 +1055,25 @@ msgid "OPNVLMODEL_NATIVE"
 msgstr "OPN Natif"
 
 msgid "ADLVLMODEL_DMX"
-msgstr ""
+msgstr "DMX (Exact, avec bug AM)"
 
 msgid "OPNVLMODEL_DMX"
-msgstr ""
+msgstr "Comme avec DMX"
 
 msgid "ADLVLMODEL_APOGEE"
-msgstr ""
+msgstr "Apogee (Précis, avec bug AM)"
 
 msgid "OPNVLMODEL_APOGEE"
-msgstr ""
+msgstr "Comme dans le Apogee Sound System"
 
 msgid "OPNVLMODEL_WIN9X"
-msgstr ""
+msgstr "Comme Win-9X"
 
 msgid "ADLVLMODEL_WIN9X"
-msgstr ""
+msgstr "Comme Win-9X (SB16)"
 
 msgid "ADLVLMODEL_WIN9XGENERIC"
-msgstr ""
+msgstr "Comme Win-9X (FM Générique)"
 
 msgid "ADLVLMODEL_DMX_FIXED"
 msgstr "DMX (Sans bug canaux AM)"
@@ -1087,40 +1082,40 @@ msgid "ADLVLMODEL_APOGEE_FIXED"
 msgstr "Apogee (avec bug canaux AM)"
 
 msgid "ADLVLMODEL_AIL"
-msgstr ""
+msgstr "IBM Audio Library Interface"
 
 msgid "ADLVLMODEL_HMI"
-msgstr ""
+msgstr "HMI Sound Operating System"
 
 msgid "ADLVLMODEL_HMIOLD"
 msgstr "HMI SOS (vieux et buggé)"
 
 msgid "ADLCHANALLOC_AUTO"
-msgstr ""
+msgstr "Auto"
 
 msgid "ADLCHANALLOC_OFFDELAY"
-msgstr ""
+msgstr "Délai de désactivation du son mesuré"
 
 msgid "ADLCHANALLOC_SAMEINST"
-msgstr ""
+msgstr "Réutiliser le premier canal libéré du même instrument"
 
 msgid "ADLCHANALLOC_ANYREL"
-msgstr ""
+msgstr "Réutiliser n'importe quelle note libérée la première"
 
 msgid "OPTVAL_UNLIMITED"
 msgstr "Illimité"
 
 msgid "OPTVAL_256K"
-msgstr ""
+msgstr "256K"
 
 msgid "OPTVAL_512K"
-msgstr ""
+msgstr "512K"
 
 msgid "OPTVAL_768K"
-msgstr ""
+msgstr "768K"
 
 msgid "OPTVAL_1024K"
-msgstr ""
+msgstr "1024K"
 
 msgid "OPTVAL_UNCHARTED2"
 msgstr "Uncharted 2"
@@ -1132,7 +1127,7 @@ msgid "OPTVAL_REINHARD"
 msgstr "Reinhard"
 
 msgid "OPTVAL_PALETTE"
-msgstr ""
+msgstr "Palette"
 
 msgid "OPTVAL_LOW"
 msgstr "Bas"
@@ -1147,13 +1142,13 @@ msgid "OPTVAL_EXTREME"
 msgstr "Extrême"
 
 msgid "OPTVAL_OBVERSEFIRST"
-msgstr ""
+msgstr "Obverse"
 
 msgid "OPTVAL_REVERSEFIRST"
 msgstr "Inverse"
 
 msgid "GLMNU_POSTPROCESS"
-msgstr ""
+msgstr "Post-traitement"
 
 msgid "GLPREFMNU_TONEMAP"
 msgstr "Mode Tonemap"
@@ -1174,7 +1169,7 @@ msgid "GLPREFMNU_PALTONEMAPPOWER"
 msgstr "Exponent des palettes tonemap"
 
 msgid "GLPREFMNU_MULTISAMPLE"
-msgstr ""
+msgstr "Multi-échantillonnage"
 
 msgid "GLPREFMNU_BLOOM"
 msgstr "Effet surbrillance"
@@ -1207,10 +1202,10 @@ msgid "GLPREFMNU_FOGMODE"
 msgstr "Mode du broullard"
 
 msgid "OPTVAL_RADIAL"
-msgstr ""
+msgstr "Radial"
 
 msgid "OPTVAL_STANDARD"
-msgstr ""
+msgstr "Standard"
 
 msgid "GLTEXMNU_TEXFILTER"
 msgstr "Mode de Filtrage Texture"
@@ -1234,19 +1229,19 @@ msgid "OPTVAL_TRILINEAR"
 msgstr "Trilinéaire"
 
 msgid "OPTVAL_2X"
-msgstr ""
+msgstr "2x"
 
 msgid "OPTVAL_4X"
-msgstr ""
+msgstr "4x"
 
 msgid "OPTVAL_8X"
-msgstr ""
+msgstr "8x"
 
 msgid "OPTVAL_16X"
-msgstr ""
+msgstr "16x"
 
 msgid "OPTVAL_32X"
-msgstr ""
+msgstr "32x"
 
 msgid "GLTEXMNU_TITLE"
 msgstr "Options Textures"
@@ -1279,7 +1274,7 @@ msgid "VIDMNU_TITLE"
 msgstr "Mode Vidéo"
 
 msgid "OPTVAL_LETTERBOX"
-msgstr ""
+msgstr "Format Letterbox"
 
 msgid "OPTVAL_STRETCH"
 msgstr "Etirer"
@@ -1348,7 +1343,7 @@ msgid "VIDMNU_ASPECT219"
 msgstr "Rapport 21:9"
 
 msgid "OPTVAL_NORMAL"
-msgstr ""
+msgstr "Normal"
 
 # This describes vid_scalemode 1, which represents the lowest possible scaling
 # to fill the allocated screen area
@@ -1359,25 +1354,25 @@ msgid "OPTVAL_CUSTOM"
 msgstr "Modifié"
 
 msgid "VIDMNU_MAXFPS"
-msgstr ""
+msgstr "Images par Seconde Maximum"
 
 msgid "OPTVAL_60FPS"
-msgstr ""
+msgstr "60 IPS"
 
 msgid "OPTVAL_75FPS"
-msgstr ""
+msgstr "75 IPS"
 
 msgid "OPTVAL_90FPS"
-msgstr ""
+msgstr "90 IPS"
 
 msgid "OPTVAL_120FPS"
-msgstr ""
+msgstr "120 IPS"
 
 msgid "OPTVAL_144FPS"
-msgstr ""
+msgstr "144 IPS"
 
 msgid "OPTVAL_200FPS"
-msgstr ""
+msgstr "200 IPS"
 
 msgid "VIDMNU_PREFERBACKEND"
 msgstr "API de rendu préférée"
@@ -1419,9 +1414,8 @@ msgstr "Rotation Sauvegardes Rapides"
 msgid "MISCMNU_QUICKSAVECOUNT"
 msgstr "Nombre de sauvegardes en rotation"
 
-#, fuzzy
 msgid "MISCMNU_CLEANMENU"
-msgstr "Ne pas utiliser mise à l'échelle menu propre"
+msgstr "Utiliser l'ancienne mise à l'échelle menu ZDooom"
 
 msgid "MISCMNU_PAUSEINBACKGROUND"
 msgstr "Mettre le jeu en pause en arrière-plan"
@@ -1437,7 +1431,7 @@ msgstr "Mise à l'échelle du viseur"
 
 # copied from elsewhere
 msgid "OPTVAL_YES_STANDARD"
-msgstr ""
+msgstr "Standard"
 
 msgid "OPTVAL_YES_ENHANCED"
 msgstr "Amélioré"
@@ -1491,10 +1485,10 @@ msgid "REVMNU_Name"
 msgstr "Nom"
 
 msgid "REVMNU_ID_1"
-msgstr ""
+msgstr "ID #1"
 
 msgid "REVMNU_ID_2"
-msgstr ""
+msgstr "ID #2"
 
 msgid "REVMNU_Create"
 msgstr "Créer"
@@ -1518,7 +1512,7 @@ msgid "VKMNU_DEVICE"
 msgstr "ID du périphérique Vulkan"
 
 msgid "VKMNU_HDR"
-msgstr ""
+msgstr "High Dynamic Range"
 
 msgid "VK_WARNING"
 msgstr "Attention : Le moteur de rendu Vulkan est très expérimental !"
@@ -1536,7 +1530,7 @@ msgid "OPTVAL_HQNX"
 msgstr "hqNx"
 
 msgid "OPTVAL_HQNXMMX"
-msgstr ""
+msgstr "hqNx MMX"
 
 msgid "OPTVAL_NXBRZ"
 msgstr "xBRZ"
@@ -1629,7 +1623,7 @@ msgid "PICKER_WELCOME"
 msgstr "Bienvenue à %s !"
 
 msgid "PICKER_VERSION"
-msgstr ""
+msgstr "Version %s"
 
 msgid "PICKER_PREFERBACKEND"
 msgstr "API de rendu"
@@ -1651,18 +1645,18 @@ msgstr "Lecteur de module"
 # This is enabled per-controller, it means to enable "this" controller in the
 # background when GZDoom is not in focus.
 msgid "JOYMNU_JOYENABLEINBACKGROUND"
-msgstr ""
+msgstr "Autoriser l'entrée contrôlleur en arrière-plan"
 
 # Order to sort the list of saved games in the save and load game menu. This
 # used to only be alphabetical.
 msgid "MISCMNU_SAVEORDER"
-msgstr ""
+msgstr "Ordre de tri des sauvegardes"
 
 msgid "OPTVAL_ALPHABETICAL"
-msgstr ""
+msgstr "Alphabétique"
 
 msgid "OPTVAL_LASTSAVEDTIME"
-msgstr ""
+msgstr "Dernière date de sauvegarde"
 
 msgid "PICKER_PLAYHOST"
 msgstr "Créer une partie"
@@ -1671,94 +1665,130 @@ msgid "PICKER_PLAYJOIN"
 msgstr "Rejoindre une partie"
 
 msgid "PICKER_REMPARM"
-msgstr ""
+msgstr "Se souvenir des Paramètres"
 
 # For stuff like id24.
 msgid "PICKER_SUPPORTWADS"
-msgstr ""
+msgstr "Charger les WADs de support"
 
 msgid "PICKER_TAB_MULTI"
-msgstr ""
+msgstr "Multijoueur"
 
 msgid "PICKER_LOADSAVE"
-msgstr ""
+msgstr "Charger La Sauvegarde :"
 
 msgid "PICKER_REMSAVE"
-msgstr ""
+msgstr "Se Souvenir De La Sauvegarde"
 
 # As in, to host a game.
 msgid "PICKER_HOST"
-msgstr ""
+msgstr "Hôte"
 
 msgid "PICKER_JOIN"
-msgstr ""
+msgstr "Rejoindre"
 
 msgid "PICKER_NETRATE"
-msgstr ""
+msgstr "Tics de paquets par seconde :"
 
 # Sends out duplicate copies of packets to help with spotty connections e.g.
 # wifi.
 msgid "PICKER_NETBACKUP"
-msgstr ""
+msgstr "Envoyer des Paquets de sûreté"
 
 msgid "PICKER_GAMEMODE"
-msgstr ""
+msgstr "Mode de Jeu :"
 
 msgid "PICKER_COOP"
-msgstr ""
+msgstr "Coopératif"
 
 msgid "PICKER_DM"
-msgstr ""
+msgstr "Match à Mort"
 
 msgid "PICKER_TDM"
-msgstr ""
+msgstr "Match à Mort en Équipe"
 
 # Which team the player wants to be assigned to.
 msgid "PICKER_TEAM"
-msgstr ""
+msgstr "Équipe # :"
 
 msgid "PICKER_ALTDM"
-msgstr ""
+msgstr "Utiliser les règles de Match à Mort alternatives"
 
 msgid "PICKER_PLAYERS"
-msgstr ""
+msgstr "Joueurs Maximum :"
 
 msgid "PICKER_PORT"
-msgstr ""
+msgstr "Port Hôte :"
 
 # Max number of players.
 msgid "PICKER_PLAYERHINT"
-msgstr ""
+msgstr "64 Max"
 
 # GZDoom's default port.
 msgid "PICKER_PORTHINT"
-msgstr ""
+msgstr "Par Défaut (5029)"
 
 # Team 255 randomizes which team the player gets put on.
 msgid "PICKER_TEAMHINT"
-msgstr ""
+msgstr "255 = Aléatoire"
 
 msgid "PICKER_IP"
-msgstr ""
+msgstr "IP Hôte :"
 
 msgid "PICKER_TDMLABEL"
-msgstr ""
+msgstr "Équipe Match à Mort :"
 
 # Same context as TXT_SAY.
 msgid "TXT_SAYTEAM"
-msgstr ""
+msgstr "Dire (Équipe) :"
 
 msgid "MISCMNU_DISCORDRPC"
-msgstr ""
+msgstr "Présence Riche pour Discord"
 
 msgid "JOYMNU_TURNSPEED"
-msgstr ""
+msgstr "Vitesse de Rotation"
 
 msgid "JOYMNU_LOOKSPEED"
-msgstr ""
+msgstr "Vitesse de mouvement du regard"
 
 msgid "JOYMNU_ANALOGSTRAFERUN"
-msgstr ""
+msgstr "Pas de côté rapide analogique"
 
 msgid "ACCMNU_TITLE"
 msgstr "Options d'accessibilité"
+
+msgid "MSGMNU_MESSAGEQUEUE"
+msgstr "Longueur de la queue des messages"
+
+msgid "$MSGMNU_MESSAGEFADE"
+msgstr "Durée du fondu des messages"
+
+msgid "MSGMNU_STACKIDENTICAL"
+msgstr "Empiler les messages répétés"
+
+msgid "NOTES_FAIL"
+msgstr "La lecture des notes de mise à jour a échoué"
+
+msgid "NOTES_UNKNOWN"
+msgstr "Inconnu"
+
+msgid "NOTES_RELEASED"
+msgstr "%s version %s, publiée %s"
+
+msgid "NOTES_EMPTY"
+msgstr "Pas de description fournie."
+
+msgid "NOTES_DETAILS"
+msgstr "Pour plus de détails, visitez : %s"
+
+msgid "PICKER_SHOWTHIS"
+msgstr "Montrer cette page après les mises à jour"
+
+msgid "PICKER_SHOWNOTES"
+msgstr "Montrer les notes de mise à jour"
+
+msgid "PICKER_TAB_ABOUT"
+msgstr "À propos"
+
+msgid "PICKER_TAB_RELEASE"
+msgstr "Notes de Mise à Jour"
