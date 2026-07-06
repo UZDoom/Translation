@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-06 17:01+0000\n"
+"PO-Revision-Date: 2026-07-06 19:01+0000\n"
 "Last-Translator: Tapwave <kolb.rodrigue@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/fr/>\n"
 "Language: fr\n"
@@ -3274,28 +3274,28 @@ msgid "CMPTMNU_USEBLOCKING"
 msgstr "Tous les segments avec para. spécial bloquent <utiliser>"
 
 msgid "CMPTMNU_ANYBOSSDEATH"
-msgstr "N'importe quel boss active actions boss"
+msgstr "N'importe quelle mort de boss active actions boss"
 
 msgid "CMPTMNU_NODOORLIGHT"
 msgstr "Pas d'effet de lumière BOOM sur portes"
 
 msgid "CMPTMNU_LIGHT"
-msgstr "Trouver prochaine texture comme Doom"
+msgstr "Trouver lumière adjacente comme Doom"
 
 msgid "CMPTMNU_SHORTTEX"
-msgstr "Trouver plus petite texture comme Doom"
+msgstr "Trouver plus petites textures comme Doom"
 
 msgid "CMPTMNU_STAIRS"
 msgstr "Construction d'escalier plus buggée"
 
 msgid "CMPTMNU_FLOORMOVE"
-msgstr "Mouvement des sols à la Doom"
+msgstr "Comportement mouvement des sols comme Doom"
 
 msgid "CMPTMNU_POINTONLINE"
 msgstr "Algorithme point-sur-ligne de Doom"
 
 msgid "CMPTMNU_MULTIEXIT"
-msgstr "Sortie niveau utilisable plusieures fois"
+msgstr "Sortie niveau utilisable plusieurs fois"
 
 msgid "CMPTMNU_PHYSICSBEHAVIOR"
 msgstr "Comportement Physique"
@@ -3304,43 +3304,43 @@ msgid "CMPTMNU_NOPASSOVER"
 msgstr "Hauteur des acteurs infinie"
 
 msgid "CMPTMNU_BOOMSCROLL"
-msgstr "Glisseurs Boom additifs"
+msgstr "Défileurs de texture Boom additifs"
 
 msgid "CMPTMNU_BADANGLES"
-msgstr "Direction pure NSEO impossible"
+msgstr "Mouvements dir. cardinales absolues impossible"
 
 msgid "CMPTMNU_WALLRUN"
-msgstr "Activer Wallrunning"
+msgstr "Activer wallrunning"
 
 msgid "CMPTMNU_RAVENSCROLL"
-msgstr "Glisseurs Raven à leur vitesse originale"
+msgstr "Défileurs de texture Raven à leur vitesse originale"
 
 msgid "CMPTMNU_TRACE"
-msgstr "Secteur autoréférencé ne bloque pas les tirs"
+msgstr "Secteurs autoréférencés ne bloquent pas les tirs"
 
 msgid "CMPTMNU_HITSCAN"
 msgstr "Vérification Hitscan à la Doom"
 
 msgid "CMPTMNU_MISSILECLIP"
-msgstr "Clipping des missiles à la Doom"
+msgstr "Clipping de la hauteur des missiles à la Doom"
 
 msgid "CMPTMNU_RENDERINGBEHAVIOR"
-msgstr "Comportement d'affichage"
+msgstr "Comportement d'Affichage"
 
 msgid "CMPTMNU_POLYOBJ"
-msgstr "Dessiner les Polyobjets comme Hexen"
+msgstr "Dessiner les polyobjets comme Hexen"
 
 msgid "CMPTMNU_MASKEDMIDTEX"
-msgstr "Offsets Y ignorés sur les textures centrales"
+msgstr "Offsets Y ignorés sur les textures centrales masquées"
 
 msgid "CMPTMNU_SPRITESORT"
 msgstr "Ordres des sprites inversé"
 
 msgid "CMPTMNU_SOUNDBEHAVIOR"
-msgstr "Comportement Sonore"
+msgstr "Comportement Sons"
 
 msgid "CMPTMNU_SOUNDSLOTS"
-msgstr "Massacrer le son pour BFG silencieux"
+msgstr "Handicapper le système audio pour BFG silencieux"
 
 msgid "CMPTMNU_SILENTPICKUP"
 msgstr "Autres joueurs n'entendent pas les ramassages"
@@ -3355,22 +3355,22 @@ msgid "CMPTMNU_SOUNDTARGET"
 msgstr "Ciblage des sons selon algorithme original"
 
 msgid "CMPTMNU_TELEPORT"
-msgstr "Téléports par scripts n'activent pas le secteur"
+msgstr "Téléports par scripts n'activent pas les actions secteur"
 
 msgid "CMPTMNU_PUSHWINDOW"
-msgstr "Lignes non-bloquantes sont non-poussables"
+msgstr "Lignes non-bloquantes sont poussables"
 
 msgid "CMPTMNU_CHECKSWITCHRANGE"
-msgstr "Fonction CheckSwitchRange buggée"
+msgstr "Utiliser le comportement CheckSwitchRange buggé"
 
 msgid "CMPTMNU_RAILINGHACK"
-msgstr "Barrières buggées pour Strife"
+msgstr "Garde-fous buggés pour Strife"
 
 msgid "CMPTMNU_EXPLODE1"
 msgstr "Explosions sans propulsion verticale"
 
 msgid "CMPTMNU_EXPLODE2"
-msgstr "Utiliser comportement Doom original"
+msgstr "Utiliser comportement d'explosion Doom original"
 
 msgid "PLYRMNU_RED"
 msgstr "Rouge"
@@ -3388,40 +3388,40 @@ msgid "PLYRMNU_PLAYERSKIN"
 msgstr "Apparence"
 
 msgid "PLYRMNU_SWITCHONPICKUP"
-msgstr "Dernière arme"
+msgstr "Séléctionner l'arme au ramassage"
 
 msgid "PLYRMNU_PRESSSPACE"
-msgstr "\\cjEspace"
+msgstr "Appuez sur \\cjEspace"
 
 msgid "PLYRMNU_SEEFRONT"
-msgstr "Pour L'Avant"
+msgstr "pour voir l'avant"
 
 msgid "PLYRMNU_SEEBACK"
-msgstr "Pour l'Arrière"
+msgstr "pour voir l'arrière"
 
 msgid "PLYRMNU_VERTSPREAD"
-msgstr "Écartement vertical des balles"
+msgstr "Dispersion Verticale des Balles"
 
 msgid "CNTRLMNU_ZOOM"
-msgstr "Zoom avec Arme"
+msgstr "Zoom Arme"
 
 msgid "CNTRLMNU_USER1"
-msgstr "Etat d'Arme 1"
+msgstr "État d'Arme 1"
 
 msgid "CNTRLMNU_USER2"
-msgstr "Etat d'Arme 2"
+msgstr "État d'Arme 2"
 
 msgid "CNTRLMNU_USER3"
-msgstr "Etat d'Arme 3"
+msgstr "État d'Arme 3"
 
 msgid "CNTRLMNU_USER4"
-msgstr "Etat d'Arme 4"
+msgstr "État d'Arme 4"
 
 msgid "CNTRLMNU_MOVEUP"
-msgstr "Voler/Nager en haut"
+msgstr "Voler/Nager vers le haut"
 
 msgid "CNTRLMNU_MOVEDOWN"
-msgstr "Voler/Nager en bas"
+msgstr "Voler/Nager vers le bas"
 
 msgid "CNTRLMNU_LAND"
 msgstr "Arrêter de voler"
@@ -3448,16 +3448,16 @@ msgid "CNTRLMNU_OTHER"
 msgstr "Autres"
 
 msgid "CNTRLMNU_COOPSPY"
-msgstr "Espionner Coéquiper"
+msgstr "Espionner coéquiper suivant"
 
 msgid "CNTRLMNU_POPUPS"
 msgstr "Popups de Strife"
 
 msgid "CNTRLMNU_MISSION"
-msgstr "Objectifs de Mission"
+msgstr "Objectifs de mission"
 
 msgid "CNTRLMNU_KEYS"
-msgstr "Liste des Clés"
+msgstr "Liste des clés"
 
 msgid "CNTRLMNU_STATS"
 msgstr "Statistiques, armes et munitions"
@@ -3475,7 +3475,7 @@ msgid "MAPCOLORMNU_BACKCOLOR"
 msgstr "Fond"
 
 msgid "MAPCOLORMNU_YOURCOLOR"
-msgstr "Votre couleur"
+msgstr "Vous"
 
 msgid "MAPCOLORMNU_WALLCOLOR"
 msgstr "Murs à 1 côté"
@@ -3493,10 +3493,10 @@ msgid "MAPCOLORMNU_GRIDCOLOR"
 msgstr "Quadrillage"
 
 msgid "MAPCOLORMNU_XHAIRCOLOR"
-msgstr "Point Central"
+msgstr "Point central"
 
 msgid "MAPCOLORMNU_NOTSEENCOLOR"
-msgstr "Murs non découvers"
+msgstr "Murs non découverts"
 
 msgid "MAPCOLORMNU_LOCKEDCOLOR"
 msgstr "Portes verouillées"
@@ -3508,7 +3508,7 @@ msgid "MAPCOLORMNU_INTERLEVELCOLOR"
 msgstr "Téléporteurs (autre niveau)"
 
 msgid "MAPCOLORMNU_SECRETSECTORCOLOR"
-msgstr "Secteur Secret"
+msgstr "Secteur secret"
 
 msgid "MAPCOLORMNU_UNEXPLOREDSECRETCOLOR"
 msgstr "Secret non révélé"
@@ -3523,7 +3523,7 @@ msgid "MAPCOLORMNU_TSWALLCOLOR"
 msgstr "Murs à 2 côtés invisibles"
 
 msgid "MAPCOLORMNU_SECRETWALLCOLOR"
-msgstr "Murs Secrets"
+msgstr "Murs secrets"
 
 msgid "MAPCOLORMNU_THINGCOLOR"
 msgstr "Acteurs"
@@ -3541,16 +3541,16 @@ msgid "MAPCOLORMNU_ITEMCOLOR"
 msgstr "Objets"
 
 msgid "MAPCOLORMNU_COUNTITEMCOLOR"
-msgstr "Objets comptés"
+msgstr "Objets Comptés"
 
 msgid "MAPCOLORMNU_OVERLAY"
-msgstr "Mode surimpression"
+msgstr "Mode Surimpression"
 
 msgid "MAPCOLORMNU_OVCHEATMODE"
-msgstr "Mode Cheat Surimpression"
+msgstr "Mode Cheat Superposé"
 
 msgid "MAPCOLORMNU_PORTAL"
-msgstr "Portails superposés"
+msgstr "Portails Superposés"
 
 msgid "MSGMNU_TITLE"
 msgstr "Messages"
@@ -3562,31 +3562,31 @@ msgid "MSGMNU_SHOWOBITUARIES"
 msgstr "Afficher avis de décès"
 
 msgid "MSGMNU_SHOWSECRETS"
-msgstr "Afficher secrets"
+msgstr "Afficher notifications de secret"
 
 msgid "MSGMNU_MESSAGELEVEL"
 msgstr "Niveau de message minimum"
 
 msgid "MSGMNU_MESSAGECOLORS"
-msgstr "Couleur des messages"
+msgstr "Couleur des Messages"
 
 msgid "MSGMNU_ITEMPICKUP"
-msgstr "Objets ramassés"
+msgstr "Objets Ramassés"
 
 msgid "MSGMNU_OBITUARIES"
 msgstr "Avis de décès"
 
 msgid "MSGMNU_CRITICALMESSAGES"
-msgstr "Messages d'erreur"
+msgstr "Messages Critiques"
 
 msgid "MSGMNU_CHATMESSAGES"
 msgstr "Message de Chat"
 
 msgid "MSGMNU_TEAMMESSAGES"
-msgstr "Messages d'équipe"
+msgstr "Messages d'Équipe"
 
 msgid "MSGMNU_CENTEREDMESSAGES"
-msgstr "Messages centrés"
+msgstr "Messages Centrés"
 
 msgid "MSGMNU_SCREENSHOTMESSAGES"
 msgstr "Messages de capture d'écran"
@@ -3595,13 +3595,13 @@ msgid "MSGMNU_LONGSAVEMESSAGES"
 msgstr "Messages de sauvegarde détailés"
 
 msgid "MSGMNU_DEVELOPER"
-msgstr "Mode de Développement"
+msgstr "Mode de messages de développement"
 
 msgid "AUTOMAPMNU_COLORSET"
 msgstr "Set de couleurs de la carte"
 
 msgid "AUTOMAPMNU_CUSTOMCOLORS"
-msgstr "Couleurs définies par carte"
+msgstr "Autoriser couleurs définies par carte"
 
 msgid "AUTOMAPMNU_SETCUSTOMCOLORS"
 msgstr "Choisir couleurs personnalisées"
@@ -3610,7 +3610,7 @@ msgid "AUTOMAPMNU_CONTROLS"
 msgstr "Choisir contrôles de la carte"
 
 msgid "AUTOMAPMNU_OVERLAY"
-msgstr "Carte en Surimpression"
+msgstr "Carte en surimpression"
 
 msgid "AUTOMAPMNU_TEXTURED"
 msgstr "Activer affichage texturé"
@@ -3655,10 +3655,10 @@ msgid "AUTOMAPMNU_EMPTYSPACEMARGIN"
 msgstr "Marge d'espace vide"
 
 msgid "AUTOMAPMNU_MARKFONT"
-msgstr "Police Marqueur"
+msgstr "Police du marqueur"
 
 msgid "AUTOMAPMNU_MARKCOLOR"
-msgstr "Couleur Marqueur"
+msgstr "Couleur marqueur"
 
 msgid "MAPCNTRLMNU_SETMARK"
 msgstr "Placer repère"
@@ -3682,22 +3682,22 @@ msgid "SCRBRDMNU_HEADERCOLOR"
 msgstr "Couleur du Titre"
 
 msgid "SCRBRDMNU_YOURCOLOR"
-msgstr "Votre couleur"
+msgstr "Votre Couleur de Joueur"
 
 msgid "SCRBRDMNU_OTHERPLAYERCOLOR"
-msgstr "Couleur des autres joueurs"
+msgstr "Couleur des Autres Joueurs"
 
 msgid "SCRBRDMNU_DEATHMATCH"
 msgstr "Options Deathmatch"
 
 msgid "SCRBRDMNU_TEAMDEATHMATCH"
-msgstr "Options Deathmatch en équipe"
+msgstr "Options Deathmatch en Équipe"
 
 msgid "ALTHUDMNU_TITLE"
 msgstr "ATH Alternatif"
 
 msgid "ALTHUDMNU_ENABLE"
-msgstr "Activer l'ATH Alternatif"
+msgstr "Activer l'ATH alternatif"
 
 msgid "ALTHUDMNU_SHOWSECRETS"
 msgstr "Afficher compteur de secrets"
@@ -3709,16 +3709,16 @@ msgid "ALTHUDMNU_SHOWITEMS"
 msgstr "Afficher compteur d'objets"
 
 msgid "ALTHUDMNU_SHOWSTATS"
-msgstr "Afficher Endurance et Précision"
+msgstr "Afficher endurance et précision"
 
 msgid "ALTHUDMNU_SHOWBERSERK"
-msgstr "Afficher Berserk"
+msgstr "Afficher berserk"
 
 msgid "ALTHUDMNU_SHOWWEAPONS"
-msgstr "Afficher Armes"
+msgstr "Afficher armes"
 
 msgid "ALTHUDMNU_SHOWAMMO"
-msgstr "Afficher Munitions pour"
+msgstr "Afficher munitions pour"
 
 msgid "ALTHUDMNU_SHOWTIME"
 msgstr "Afficher temps niveau"
@@ -3733,10 +3733,10 @@ msgid "ALTHUDMNU_AMMOORDER"
 msgstr "Ordre d'affichage des munitions"
 
 msgid "ALTHUDMNU_AMMORED"
-msgstr "Compteur de munitions rouge sous"
+msgstr "Compteur de munitions rouge sous %"
 
 msgid "ALTHUDMNU_AMMOYELLOW"
-msgstr "Compteur de munitions jaune sous"
+msgstr "Compteur de munitions jaune sous %"
 
 msgid "ALTHUDMNU_HEALTHRED"
 msgstr "Compteur de santé rouge sous"
@@ -3748,16 +3748,16 @@ msgid "ALTHUDMNU_HEALTHGREEN"
 msgstr "Compteur de santé vert sous"
 
 msgid "ALTHUDMNU_ARMORRED"
-msgstr "Compteur d' armure rouge sous"
+msgstr "Compteur d'armure rouge sous"
 
 msgid "ALTHUDMNU_ARMORYELLOW"
-msgstr "Compteur d' armure jaune sous"
+msgstr "Compteur d'armure jaune sous"
 
 msgid "ALTHUDMNU_ARMORGREEN"
-msgstr "Compteur d' armure bleu sous"
+msgstr "Compteur d'armure vert sous"
 
 msgid "ALTHUDMNU_AUTOMAPHUD"
-msgstr "ATH Alternatif pour carte"
+msgstr "ATH Alternatif pour Carte"
 
 msgid "ALTHUDMNU_TITLECOLOR"
 msgstr "Couleur titre du niveau"
@@ -3784,28 +3784,28 @@ msgid "ALTHUDMNU_STATSCOLOR"
 msgstr "Couleur statistiques"
 
 msgid "DSPLYMNU_CAPFPS"
-msgstr "Interpolation du rendu"
+msgstr "Interpolation du Rendu"
 
 msgid "DSPLYMNU_BLENDMETHOD"
-msgstr "Mode de Rendu transparence"
+msgstr "Mode de rendu transparence"
 
 msgid "DSPLYMNU_WIPETYPE"
-msgstr "Style de Fondu d'écran"
+msgstr "Style de fondu d'écran"
 
 msgid "DSPLYMNU_SHOWENDOOM"
 msgstr "Montrer la fenêtre ENDOOM"
 
 msgid "DSPLYMNU_BLOODFADE"
-msgstr "Intensité du flash dommages"
+msgstr "Intensité du Flash Dégâts"
 
 msgid "DSPLYMNU_PICKUPFADE"
-msgstr "Intensité du flash objets"
+msgstr "Intensité du Flash Ramassage"
 
 msgid "DSPLYMNU_WATERFADE"
-msgstr "Intensité du fondu sous l'eau"
+msgstr "Intensité du Fondu Sous l'Eau"
 
 msgid "DSPLYMNU_SKYMODE"
-msgstr "Mode du rendu du Ciel"
+msgstr "Mode du rendu du ciel"
 
 msgid "DSPLYMNU_LINEARSKY"
 msgstr "Ciel linéaire"
@@ -3814,25 +3814,25 @@ msgid "DSPLYMNU_GZDFULLBRIGHT"
 msgstr "Fullbright ignore couleur secteur"
 
 msgid "DSPLYMNU_SCALEFUZZ"
-msgstr "Scaling de l'effet de bruit"
+msgstr "Mise à l'échelle de l'effet de bruit"
 
 msgid "DSPLYMNU_DRAWFUZZ"
 msgstr "Effet de bruit"
 
 msgid "DSPLYMNU_OLDTRANS"
-msgstr "Transparence classique"
+msgstr "Transparence Classique"
 
 msgid "DSPLYMNU_FAKECONTRAST"
-msgstr "Faux Contraste"
+msgstr "Faux contraste"
 
 msgid "DSPLYMNU_ROCKETTRAILS"
 msgstr "Trainées des Roquettes"
 
 msgid "DSPLYMNU_BLOODTYPE"
-msgstr "Type de particules Sang"
+msgstr "Type de Particules Sang"
 
 msgid "DSPLYMNU_PUFFTYPE"
-msgstr "Type de particules Balles"
+msgstr "Type de Particules d'Impact de Balles"
 
 msgid "DSPLYMNU_MAXPARTICLES"
 msgstr "Nombre de particules"
@@ -3844,16 +3844,16 @@ msgid "DSPLYMNU_PLAYERSPRITES"
 msgstr "Montrer les sprites joueur"
 
 msgid "DSPLYMNU_DEATHCAM"
-msgstr "Caméra 3ème pers à la mort"
+msgstr "Caméra 3ème pers. à la mort"
 
 msgid "DSPLYMNU_TELEZOOM"
-msgstr "Zoom sur téléportation"
+msgstr "Zoom lors des téléportations"
 
 msgid "DSPLYMNU_QUAKEINTENSITY"
 msgstr "Intensité des séismes"
 
 msgid "DSPLYMNU_NOMONSTERINTERPOLATION"
-msgstr "Interpolation des monstres"
+msgstr "Interpolation du movement des monstres"
 
 msgid "DSPLYMNU_MENUDIM"
 msgstr "Assombrissement menu"
@@ -3871,7 +3871,7 @@ msgid "DSPLYMNU_BOBSPEED"
 msgstr "Vitesse du chaloupage"
 
 msgid "SCALEMNU_TITLE"
-msgstr "Option de mise à l'échelle"
+msgstr "Option de Mise à l'Échelle"
 
 msgid "SCALEMNU_OVERRIDE"
 msgstr "Annule les paramètres au dessus"
@@ -3886,22 +3886,22 @@ msgid "SCALEMNU_STATBAR"
 msgstr "Barre d'état"
 
 msgid "SCALEMNU_HUD"
-msgstr "ATH plein écran"
+msgstr "ATH Plein Écran"
 
 msgid "SCALEMNU_ALTHUD"
-msgstr "ATH alternatif"
+msgstr "ATH Alternatif"
 
 msgid "SCALEMNU_HUDASPECT"
 msgstr "ATH préserve le rapport d'aspect"
 
 msgid "SCALEMNU_USEUI"
-msgstr "Défaut"
+msgstr "Mise à l'échelle défaut"
 
 msgid "SCALEMNU_USEFS"
 msgstr "Plein écran"
 
 msgid "SCALEMNU_ADAPT"
-msgstr "Ecran"
+msgstr "Adapter à la taille de l'écran"
 
 msgid "HUDMNU_TITLE"
 msgstr "Options ATH"
@@ -3916,10 +3916,10 @@ msgid "HUDMNU_UISCALE"
 msgstr "Echelle de l'interface"
 
 msgid "HUDMNU_FORCECROSSHAIR"
-msgstr "Forcer Viseur par défaut"
+msgstr "Forcer viseur par défaut"
 
 msgid "HUDMNU_GROWCROSSHAIR"
-msgstr "Agrandir viseur en prenant un objet"
+msgstr "Agrandir viseur lors du ramassage des objets"
 
 msgid "HUDMNU_NAMETAGS"
 msgstr "Afficher noms des objets"
@@ -3928,7 +3928,7 @@ msgid "HUDMNU_NAMETAGCOLOR"
 msgstr "Couleur des noms d'objet"
 
 msgid "HUDMNU_OLDOUCH"
-msgstr "Ancien code pour l' « ouch face »"
+msgstr "Ancien code pour l' « ouch face »"
 
 msgid "HUDMNU_HEXENFLASHES"
 msgstr "Flash d'arme dans Hexen"
@@ -3940,10 +3940,10 @@ msgid "HUDMNU_ICEFLASHES"
 msgstr "Flash de morts par glace"
 
 msgid "HUDMNU_HAZARDFLASHES"
-msgstr "Flash d'accumulation de poison"
+msgstr "Flash d'Accumulation de Poison"
 
 msgid "HUDMNU_SCALEOPT"
-msgstr "Option de mise à l'échelle"
+msgstr "Option de Mise à l'Échelle"
 
 msgid "MISCMNU_QUERYIWAD"
 msgstr "Afficher la séléction d'IWAD"
@@ -3952,7 +3952,7 @@ msgid "MISCMNU_ALLCHEATS"
 msgstr "Activer cheats de tous les jeux"
 
 msgid "MISCMNU_ENABLESCRIPTSCREENSHOTS"
-msgstr "Autoriser les Scripts à prendre des captures"
+msgstr "Autoriser les scripts à prendre des captures d'écran"
 
 msgid "MISCMNU_DEHLOAD"
 msgstr "Charger fichiers *.deh/*.bex"
@@ -3961,34 +3961,34 @@ msgid "MISCMNU_CACHENODES"
 msgstr "Mise en cache des nodes"
 
 msgid "MISCMNU_CACHETIME"
-msgstr "Limite cache des nodes"
+msgstr "Seuil de temps pour le cache des nodes"
 
 msgid "MISCMNU_CLEARNODECACHE"
 msgstr "Vider le cache des nodes"
 
 msgid "MISCMNU_INTERSCROLL"
-msgstr "Sauter compteurs d'intermission"
+msgstr "Autoriser le passage des compteurs d'intermission"
 
 msgid "NETMNU_TITLE"
 msgstr "Options Réseau"
 
 msgid "NETMNU_LOCALOPTIONS"
-msgstr "Options Locales"
+msgstr "Optionslocales"
 
 msgid "NETMNU_LINESPECIALPREDICTION"
 msgstr "Prédiction des actions de ligne"
 
 msgid "NETMNU_PREDICTIONLERPSCALE"
-msgstr "Prédiction d'échelle LERP"
+msgstr "Échelle de Prédiction LERP"
 
 msgid "NETMNU_LERPTHRESHOLD"
-msgstr "Limite LERP"
+msgstr "Seuil LERP"
 
 msgid "NETMNU_HOSTOPTIONS"
-msgstr "Options Hôte"
+msgstr "Options hôte"
 
 msgid "NETMNU_EXTRATICS"
-msgstr "Tics supplémentaires"
+msgstr "Tics Supplémentaires"
 
 msgid "OPTVAL_CLASSIC"
 msgstr "Classique (+ Rapide)"
@@ -4061,7 +4061,7 @@ msgid "OPTVAL_CURRENTWEAPON"
 msgstr "Arme actuelle"
 
 msgid "OPTVAL_AVAILABLEWEAPONS"
-msgstr "Armes Disponibles"
+msgstr "Armes disponibles"
 
 msgid "OPTVAL_ALLWEAPONS"
 msgstr "Toutes les armes"
@@ -4079,7 +4079,7 @@ msgid "OPTVAL_HUBSECONDS"
 msgstr "Hub, secondes"
 
 msgid "OPTVAL_HUB"
-msgstr "Zone Centrale"
+msgstr "Zone centrale"
 
 msgid "OPTVAL_TOTALSECONDS"
 msgstr "Total, secondes"
@@ -4094,7 +4094,7 @@ msgid "OPTVAL_SYSTEM"
 msgstr "Système"
 
 msgid "OPTVAL_NETGAMESONLY"
-msgstr "Parties en Ligne seulement"
+msgstr "Parties en ligne seulement"
 
 msgid "OPTVAL_AMMOIMAGETEXT"
 msgstr "Image et Texte"
@@ -4103,7 +4103,7 @@ msgid "OPTVAL_AMMOTEXTIMAGE"
 msgstr "Texte et Image"
 
 msgid "OPTVAL_SCRIPTSONLY"
-msgstr "Scripts seulement"
+msgstr "Scripts Seulement"
 
 msgid "OPTVAL_ALL"
 msgstr "Tout"
@@ -4121,16 +4121,16 @@ msgid "OPTVAL_TRADITIONALRAVEN"
 msgstr "Raven Traditionnel"
 
 msgid "OPTVAL_ONLYWHENFOUND"
-msgstr "Seulement découverts"
+msgstr "Seulement quand découverts"
 
 msgid "OPTVAL_ONFOROVERLAYONLY"
-msgstr "On pour Surimpression"
+msgstr "Activé en Surimpression seulement"
 
 msgid "OPTVAL_OVERLAYNORMAL"
 msgstr "Surimpression+Normal"
 
 msgid "OPTVAL_OVERLAYONLY"
-msgstr "Surimpression seulement"
+msgstr "Surimpression Seulement"
 
 msgid "OPTVAL_NOTFORHUBS"
 msgstr "Pas pour les hubs"
@@ -4145,7 +4145,7 @@ msgid "OPTVAL_ROTATED"
 msgstr "Tournés"
 
 msgid "OPTVAL_MAPDEFINEDCOLORSONLY"
-msgstr "Couleurs définies carte seul"
+msgstr "Couleurs définies par carte seulement"
 
 msgid "OPTVAL_NODOORS"
 msgstr "Tout sauf portes"
@@ -4160,10 +4160,10 @@ msgid "OPTVAL_CRITICALMESSAGES"
 msgstr "Messages Critiques"
 
 msgid "OPTVAL_NEVERFRIENDS"
-msgstr "Jamais les Amis"
+msgstr "Jamais les amis"
 
 msgid "OPTVAL_ONLYMONSTERS"
-msgstr "Monstres Seulement"
+msgstr "Monstres seulement"
 
 msgid "OPTVAL_HEXEN"
 msgstr "Hexen"
@@ -4211,10 +4211,10 @@ msgid "OPTVAL_EVERYTHING"
 msgstr "Tout"
 
 msgid "OPTVAL_HWPOLY"
-msgstr "Accéléré par Hardware"
+msgstr "Accélération matérielle"
 
 msgid "OPTVAL_SWDOOM"
-msgstr "Rendu Software Doom"
+msgstr "Rendu Logiciel Doom"
 
 msgid "OPTVAL_SWDOOMTC"
 msgstr "Rendu Software Couleurs Réeles"
@@ -4238,82 +4238,82 @@ msgid "OPTVAL_CONSOLE"
 msgstr "Console"
 
 msgid "C_BRICK"
-msgstr "\\cabrique"
+msgstr "\\caBrique"
 
 msgid "C_TAN"
-msgstr "\\cbbeige"
+msgstr "\\cbBeige"
 
 msgid "C_GRAY"
-msgstr "\\ccgris"
+msgstr "\\ccGris"
 
 msgid "C_GREEN"
-msgstr "\\cdvert"
+msgstr "\\cdVert"
 
 msgid "C_BROWN"
-msgstr "\\cebrun"
+msgstr "\\ceBrun"
 
 msgid "C_GOLD"
-msgstr "\\cfor"
+msgstr "\\cfOr"
 
 msgid "C_RED"
-msgstr "\\cgrouge"
+msgstr "\\cgRouge"
 
 msgid "C_BLUE"
-msgstr "\\chbleu"
+msgstr "\\chBleu"
 
 msgid "C_ORANGE"
-msgstr "\\ciorange"
+msgstr "\\ciOrange"
 
 msgid "C_WHITE"
-msgstr "\\cjblanc"
+msgstr "\\cjBlanc"
 
 msgid "C_YELLOW"
-msgstr "\\ckjaune"
+msgstr "\\ckJaune"
 
 msgid "C_DEFAULT"
-msgstr "\\cldéfaut"
+msgstr "\\clDéfaut"
 
 msgid "C_BLACK"
-msgstr "\\cmnoir"
+msgstr "\\cmNoir"
 
 msgid "C_LIGHTBLUE"
-msgstr "\\cnbleu clair"
+msgstr "\\cnBleu Clair"
 
 msgid "C_CREAM"
-msgstr "\\cocrème"
+msgstr "\\coCrème"
 
 msgid "C_OLIVE"
-msgstr "\\cpolive"
+msgstr "\\cpOlive"
 
 msgid "C_DARKGREEN"
-msgstr "\\cqvert sombre"
+msgstr "\\cqVert sombre"
 
 msgid "C_DARKRED"
-msgstr "\\crrouge sombre"
+msgstr "\\crRouge sombre"
 
 msgid "C_DARKBROWN"
-msgstr "\\csbrun sombre"
+msgstr "\\csBrun sombre"
 
 msgid "C_PURPLE"
-msgstr "\\ctviolet"
+msgstr "\\ctViolet"
 
 msgid "C_DARKGRAY"
-msgstr "\\cugris sombre"
+msgstr "\\cuGris sombre"
 
 msgid "C_CYAN"
-msgstr "\\cvcyan"
+msgstr "\\cvCyan"
 
 msgid "C_ICE"
-msgstr "\\cwglace"
+msgstr "\\cwGlace"
 
 msgid "C_FIRE"
-msgstr "\\cxfeu"
+msgstr "\\cxFeu"
 
 msgid "C_SAPPHIRE"
-msgstr "\\cysaphir"
+msgstr "\\cySaphir"
 
 msgid "C_TEAL"
-msgstr "\\czturquoise"
+msgstr "\\czTurquoise"
 
 msgid "OPTSTR_HERETIC"
 msgstr "Heretic"
@@ -4328,13 +4328,13 @@ msgid "OPTSTR_SPLINE"
 msgstr "Spline"
 
 msgid "DSPLYMNU_GLOPT"
-msgstr "Moteur de Rendu Hardware"
+msgstr "Moteur de Rendu Matériel"
 
 msgid "DSPLYMNU_SWOPT"
-msgstr "Moteur de Rendu Software"
+msgstr "Moteur de Rendu Logiciel"
 
 msgid "GLMNU_TITLE"
-msgstr "Options Moteur de Rendu Hardware"
+msgstr "Options Moteur de Rendu Matériel"
 
 msgid "GLMNU_DYNLIGHT"
 msgstr "Options Lumières Dynamiques"
@@ -4355,16 +4355,16 @@ msgid "GLLIGHTMNU_LIGHTPARTICLES"
 msgstr "Lumières affectent les particules"
 
 msgid "GLLIGHTMNU_LIGHTSHADOWMAP"
-msgstr "Shadowmaps"
+msgstr "Shadowmaps pour les lumières"
 
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPQUALITY"
-msgstr "Qualité Shadowmap"
+msgstr "Qualité shadowmap"
 
 msgid "GLLIGHTMNU_LIGHTSHADOWMAPFILTER"
-msgstr "Filtre de Shadowmaps"
+msgstr "Filtre de shadowmaps"
 
 msgid "GLPREFMNU_FOGFORCEFULLBRIGHT"
-msgstr "Brouillard force fullbright"
+msgstr "Brouillard force luminosité max"
 
 msgid "GLPREFMNU_WPNLIGHTSTR"
 msgstr "Intensité lumineuse des armes"
@@ -4376,13 +4376,13 @@ msgid "GLPREFMNU_ENVSTEALTH"
 msgstr "VNA affiche monstres invisibles"
 
 msgid "GLPREFMNU_SPRCLIP"
-msgstr "Adjusted le clipping des sprites"
+msgstr "Ajuster le clipping des sprites"
 
 msgid "GLPREFMNU_SPRBLEND"
 msgstr "Adoucir bords des sprites"
 
 msgid "GLPREFMNU_FUZZSTYLE"
-msgstr "Style de bruit blanc"
+msgstr "Style de Bruit blanc"
 
 msgid "GLPREFMNU_SPRBILLBOARD"
 msgstr "Etalage des sprites"
@@ -4397,10 +4397,10 @@ msgid "GLPREFMNU_VRMODE"
 msgstr "3D VR Stéréo"
 
 msgid "GLPREFMNU_VRQUADSTEREO"
-msgstr "Activer Quad Stereo"
+msgstr "Activer Quad Stéréo"
 
 msgid "GLPREFMNU_SWLMBANDED"
-msgstr "Lumière bandées en Software"
+msgstr "Lumière Bandées en Rendu Logiciel"
 
 msgid "GLPREFMNU_VRIPD"
 msgstr "Distance entre vos yeux"
