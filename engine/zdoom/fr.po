@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-06 11:01+0000\n"
+"PO-Revision-Date: 2026-07-06 13:01+0000\n"
 "Last-Translator: Tapwave <kolb.rodrigue@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/fr/>\n"
 "Language: fr\n"
@@ -471,10 +471,10 @@ msgid "AMSTR_TEXOFF"
 msgstr "Mode Texturé : INACTIF"
 
 msgid "AMSTR_MARKEDSPOT"
-msgstr "Repère marqué"
+msgstr "Repère Marqué"
 
 msgid "AMSTR_MARKSCLEARED"
-msgstr "Repères éffacés"
+msgstr "Repères Effacés"
 
 msgid "TXT_FRAGLIMIT"
 msgstr "Limite de frags atteinte."
@@ -546,10 +546,10 @@ msgid "SCORE_TOTAL"
 msgstr "Total"
 
 msgid "SCORE_LVLTIME"
-msgstr "Temps niveau"
+msgstr "Temps Niveau"
 
 msgid "TXT_IMKILLS"
-msgstr "Morts"
+msgstr "Tués"
 
 msgid "TXT_IMITEMS"
 msgstr "Objets"
@@ -610,10 +610,10 @@ msgid "OB_SPLASH"
 msgstr "%o s'est tenu@[e_fr] au mauvais endroit."
 
 msgid "OB_R_SPLASH"
-msgstr "%o n'avait qu'a reculer, et pourtan."
+msgstr "%o aurait dû reculer."
 
 msgid "OB_ROCKET"
-msgstr "%o n'avait qu'a reculer, et pourtant."
+msgstr "%o aurait dû reculer."
 
 msgid "OB_KILLEDSELF"
 msgstr "%o s'est tué@[e_fr]."
@@ -638,7 +638,7 @@ msgstr "%k élimine un de ses équipiers."
 
 # English was changed to remove problematic pronoun referencing the killer
 msgid "OB_FRIENDLY2"
-msgstr "%k n'avait pas porté@[e_fr] les bonnes lunettes."
+msgstr "%k semble avoir besoin de lunettes."
 
 msgid "OB_FRIENDLY3"
 msgstr "%k marque un point pour l'autre équipe."
@@ -653,16 +653,16 @@ msgid "GOTMEGA"
 msgstr "Méga-Armure récupérée !"
 
 msgid "GOTHTHBONUS"
-msgstr "Bonus de Santé récupéré."
+msgstr "Bonus de santé récupéré."
 
 msgid "GOTARMBONUS"
-msgstr "Bonus d'Armure récupéré."
+msgstr "Bonus d'armure récupéré."
 
 msgid "GOTSTIM"
 msgstr "Stimpack récupéré."
 
 msgid "GOTMEDINEED"
-msgstr "Médikit récupéré quand vous aviez vraiment besoin !"
+msgstr "Médikit dont vous aviez VRAIMENT besoin récupéré !"
 
 msgid "GOTMEDIKIT"
 msgstr "Médikit récupéré."
@@ -680,13 +680,13 @@ msgid "GOTREDCARD"
 msgstr "Carte d'accès rouge récupérée."
 
 msgid "GOTBLUESKUL"
-msgstr "Clef Crâne bleue récupérée."
+msgstr "Clef crâne bleue récupérée."
 
 msgid "GOTYELWSKUL"
-msgstr "Clef Crâne jaune récupérée."
+msgstr "Clef crâne jaune récupérée."
 
 msgid "GOTREDSKUL"
-msgstr "Clef Crâne rouge récupérée."
+msgstr "Clef crâne rouge récupérée."
 
 msgid "GOTINVUL"
 msgstr "Invulnérabilité !"
@@ -698,7 +698,7 @@ msgid "GOTINVIS"
 msgstr "Invisibilité Partielle"
 
 msgid "GOTSUIT"
-msgstr "Combinaison Hazmat"
+msgstr "Combinaison Anti-Radiations"
 
 msgid "GOTMAP"
 msgstr "Carte Informatique"
@@ -737,41 +737,40 @@ msgid "GOTBACKPACK"
 msgstr "Sac à dos plein de munitions récupéré !"
 
 msgid "GOTBFG9000"
-msgstr "Vouz avez pris un… BFG9000 ! Oh, ouais."
+msgstr "Vouz avez un BFG9000 ! Oh, ouais."
 
 msgid "GOTCHAINGUN"
-msgstr "Vous avez pris une mitrailleuse !"
+msgstr "Vous avez une mitrailleuse !"
 
 msgid "GOTCHAINSAW"
-msgstr ""
-"Vouz avez pris une tronçonneuse ! Faites des steaks hachés de ceux-la !"
+msgstr "Une tronçonneuse ! C'est l'heure de la boucherie !"
 
 msgid "GOTLAUNCHER"
-msgstr "Vouz avez pris un lance-roquettes !"
+msgstr "Vouz avez un lance-roquettes !"
 
 msgid "GOTPLASMA"
-msgstr "Vouz avez pris un fusil a plasma !"
+msgstr "Vouz avez un fusil a plasma !"
 
 msgid "GOTSHOTGUN"
-msgstr "Vouz avez pris un fusil a pompe !"
+msgstr "Vouz avez un fusil a pompe !"
 
 msgid "GOTSHOTGUN2"
-msgstr "Vouz avez pris le super fusil de chasse !"
+msgstr "Vouz avez le super fusil de chasse !"
 
 msgid "PICKUP_PISTOL_DROPPED"
-msgstr "Vouz avez pris un Pistolet."
+msgstr "Pistolet récupéré."
 
 msgid "BETA_BONUS1"
 msgstr "Vous avez pris une Dague diabolique."
 
 msgid "BETA_BONUS2"
-msgstr "Coffre-crâne récupéré."
+msgstr "Vous avez pris un coffre-crâne."
 
 msgid "BETA_BONUS3"
-msgstr "Sceptre maléfique récupéré."
+msgstr "Vous avez pris un sceptre maléfique."
 
 msgid "BETA_BONUS4"
-msgstr "Bible profane récupérée."
+msgstr "Vous avez pris une bible profane."
 
 msgid "PD_BLUEO"
 msgstr "Il vous faut une clé bleue pour activer cet objet"
@@ -845,7 +844,7 @@ msgid "CC_DEMON"
 msgstr "Démon"
 
 msgid "CC_LOST"
-msgstr "Ame Perdue"
+msgstr "Âme Perdue"
 
 msgid "CC_CACO"
 msgstr "Cacodémon"
@@ -914,7 +913,7 @@ msgid "TAG_SHOTGUN"
 msgstr "Fusil à pompe"
 
 msgid "TAG_SUPERSHOTGUN"
-msgstr "Super Fusil"
+msgstr "Super Fusil de Chasse"
 
 msgid "TAG_CHAINGUN"
 msgstr "Mitrailleuse"
@@ -959,7 +958,7 @@ msgid "OB_STEALTHDEMON"
 msgstr "%o a cru voir un démon."
 
 msgid "OB_STEALTHKNIGHT"
-msgstr "%o a cru voir un chevalier infernal."
+msgstr "%o a cru voir un Chevalier Infernal."
 
 msgid "OB_STEALTHIMP"
 msgstr "%o a cru voir un diablotin."
@@ -995,7 +994,7 @@ msgid "OB_BARONHIT"
 msgstr "%o a été déchiré@[e_fr] par un Baron des Enfers."
 
 msgid "OB_KNIGHTHIT"
-msgstr "%o a été étripé@[e_fr] par un chevalier infernal."
+msgstr "%o a été étripé@[e_fr] par un Chevalier Infernal."
 
 msgid "OB_ZOMBIE"
 msgstr "%o a été tué@[e_fr] par un zombie."
@@ -1010,7 +1009,7 @@ msgid "OB_UNDEAD"
 msgstr "%o n'a pas réussi à esquiver un missile de revenant."
 
 msgid "OB_FATSO"
-msgstr "%o s'est fait@[e_fr] aplatir par un Mancube."
+msgstr "%o s'est fait@[e_fr] aplatir par un mancube."
 
 msgid "OB_CHAINGUY"
 msgstr "%o a été perforé@[e_fr] par un mitrailleur."
@@ -1019,46 +1018,46 @@ msgid "OB_SKULL"
 msgstr "%o s'est fait@[e_fr] surprendre par une âme perdue."
 
 msgid "OB_IMP"
-msgstr "%o brûlé@[e_fr] par un diablotin."
+msgstr "%o a été brûlé@[e_fr] par un diablotin."
 
 msgid "OB_CACO"
 msgstr "%o a été terrassé@[e_fr] par un Cacodémon."
 
 msgid "OB_BARON"
-msgstr "%o a été démoli@[e_fr] par un Baron des Enfers."
+msgstr "%o a été tabassé@[e_fr] par un Baron des Enfers."
 
 msgid "OB_KNIGHT"
-msgstr "%o a été éclaté@[e_fr] par un chevalier infernal."
+msgstr "%o a été éclaté@[e_fr] par un Chevalier Infernal."
 
 msgid "OB_SPIDER"
-msgstr "%o est resté pris@[e_fr] d'admiration devant le Démon Arachnéen."
+msgstr "%o est resté pris@[e_fr] d'admiration devant le démon arachnéen."
 
 msgid "OB_BABY"
 msgstr "%o a laissé un arachnotron l'avoir@[e_fr]."
 
 msgid "OB_CYBORG"
-msgstr "%o a été pulvérisé@[e_fr] par un Cyberdémon."
+msgstr "%o a été pulvérisé@[e_fr] par un cyberdémon."
 
 msgid "OB_WOLFSS"
 msgstr "%o a rencontré un Nazi."
 
 msgid "OB_DOG"
-msgstr "%o s'est fait mordre par un chien."
+msgstr "%o s'est fait@[e_fr] mordre par un chien."
 
 msgid "OB_MPFIST"
 msgstr "%o a bouffé le poing de %k."
 
 msgid "OB_MPCHAINSAW"
-msgstr "%o a été délicatement déchiqueté@[e_fr] par la tronconneuse de %k."
+msgstr "%o a été tondu@[e_fr] par la tronconneuse de %k."
 
 msgid "OB_MPPISTOL"
 msgstr "%o a été châtouillé@[e_fr] par le pistolet de %k."
 
 msgid "OB_MPSHOTGUN"
-msgstr "%o a s'est mangé@[e_fr] de la chevrotine de la part de %k."
+msgstr "%o ronge le canon du fusil à pompe de %k."
 
 msgid "OB_MPSSHOTGUN"
-msgstr "%o s'est fait@[e_fr] gicler par le super fusil de %k."
+msgstr "%o s'est fait@[e_fr] gicler par le super fusil de chasse de %k."
 
 msgid "OB_MPCHAINGUN"
 msgstr "%o a été ventilé@[e_fr] par la mitrailleuse de %k."
@@ -1073,7 +1072,7 @@ msgid "OB_MPPLASMARIFLE"
 msgstr "%o a été réduit@[e_fr] en bouillie par le fusil a plasma de %k."
 
 msgid "OB_MPBFG_BOOM"
-msgstr "%o a été oblitéré@[e_fr] par le BFG de %k."
+msgstr "%o a été réduit@[e_fr] en éclats par le BFG de %k."
 
 msgid "OB_MPBFG_SPLASH"
 msgstr "%o n a pas pu se couvrir du BFG de %k."
@@ -1118,10 +1117,10 @@ msgid "TXT_ARTITORCH"
 msgstr "Torche"
 
 msgid "TXT_ARTIFIREBOMB"
-msgstr "Bombe a Retardement des Anciens"
+msgstr "Bombe à Retardement des Anciens"
 
 msgid "TXT_ARTITELEPORT"
-msgstr "Outil du Chaos"
+msgstr "Figure du Chaos"
 
 msgid "TXT_ITEMHEALTH"
 msgstr "Fiole de Cristal"
@@ -1163,7 +1162,7 @@ msgid "TXT_AMMOBLASTER2"
 msgstr "Orbe Draconique"
 
 msgid "TXT_AMMOSKULLROD1"
-msgstr "Runes Mineurs"
+msgstr "Runes Mineures"
 
 msgid "TXT_AMMOSKULLROD2"
 msgstr "Runes Supérieures"
@@ -1243,19 +1242,19 @@ msgid "FN_WIZARD"
 msgstr "Magicien"
 
 msgid "AMMO_GOLDWAND"
-msgstr "Cristaux"
+msgstr "Cristaux Elfiques"
 
 msgid "AMMO_CROSSBOW"
-msgstr "Carreaux"
+msgstr "Carreaux Étheriques"
 
 msgid "AMMO_BLASTER"
-msgstr "Orbes"
+msgstr "Orbes de Griffe"
 
 msgid "AMMO_MACE"
-msgstr "Sphères"
+msgstr "Sphères de Masse"
 
 msgid "AMMO_SKULLROD"
-msgstr "Runes"
+msgstr "Runes Infernales"
 
 msgid "AMMO_PHOENIXROD"
 msgstr "Orbes de Feu"
@@ -1267,13 +1266,13 @@ msgid "TAG_GOLDWAND"
 msgstr "Baguette Elfique"
 
 msgid "OB_CHICKEN"
-msgstr "%o a été picoré@[e_fr] a mort."
+msgstr "%o a été picoré@[e_fr] à mort."
 
 msgid "OB_BEAST"
 msgstr "%o a été carbonisé@[e_fr] par un dragon-garou."
 
 msgid "OB_CLINK"
-msgstr "%o s'est fait découper par un sabregriffe."
+msgstr "%o s'est fait@[e_fr] découper par un sabregriffe."
 
 msgid "OB_DSPARIL1"
 msgstr "%o a été ébouillanté@[e_fr] par un serpent de D'Sparil."
@@ -1285,7 +1284,7 @@ msgid "OB_DSPARIL2"
 msgstr "%o n'a pas pu égaler D'Sparil."
 
 msgid "OB_DSPARIL2HIT"
-msgstr "%o a été battu@[e_fr] a plate couture par D'Sparil."
+msgstr "%o a été battu@[e_fr] à plate couture par D'Sparil."
 
 msgid "OB_HERETICIMP"
 msgstr "%o a été effrayé@[e_fr] par une gargouille."
@@ -1300,10 +1299,10 @@ msgid "OB_IRONLICHHIT"
 msgstr "%o a fait ami@[e_fr]-ami@[e_fr] avec une Liche de Fer."
 
 msgid "OB_BONEKNIGHT"
-msgstr "%o s'est pris@[e_fr] la hâche d'un guerrier mort-vivant."
+msgstr "%o s'est pris@[e_fr] la hache d'un guerrier mort-vivant."
 
 msgid "OB_BONEKNIGHTHIT"
-msgstr "%o s'est fait pourfendre par un guerrier mort-vivant."
+msgstr "%o s'est fait@[e_fr] pourfendre par un guerrier mort-vivant."
 
 msgid "OB_MINOTAUR"
 msgstr "%o s'est fait@[e_fr] incinérer par un Massetaure."
@@ -1339,7 +1338,7 @@ msgid "OB_MPCROSSBOW"
 msgstr "%o s'est fait@[e_fr] clouer par l'arbalète étherique de %k."
 
 msgid "OB_MPBLASTER"
-msgstr "%o s'est fait flinguer par la griffe draconique de %k."
+msgstr "%o s'est fait@[e_fr] flinguer par la griffe draconique de %k."
 
 msgid "OB_MPSKULLROD"
 msgstr "%o repose six pieds sous terre grâce au Bâton infernal de %k."
@@ -1372,7 +1371,7 @@ msgid "OB_MPPPHOENIXROD"
 msgstr "%o à été incinéré@[e_fr] par le Bâton du Phénix de %k."
 
 msgid "OB_MPPMACE"
-msgstr "%o s'est fait@[e_fr] écraser par la balle de Masse géante de %k."
+msgstr "%o s'est fait@[e_fr] écraser par la balle de masse géante de %k."
 
 msgid "TXT_MANA_1"
 msgstr "Mana Bleu"
@@ -1396,7 +1395,7 @@ msgid "TXT_KEY_FIRE"
 msgstr "Clé du Feu"
 
 msgid "TXT_KEY_EMERALD"
-msgstr "Clé d'Emeraude"
+msgstr "Clé d'Émeraude"
 
 msgid "TXT_KEY_DUNGEON"
 msgstr "Clé du Donjon"
@@ -1420,7 +1419,7 @@ msgid "TXT_ARTIINVULNERABILITY2"
 msgstr "Icône du Défenseur"
 
 msgid "TXT_ARTISUMMON"
-msgstr "Serviteur Noir"
+msgstr "Sombre Serviteur"
 
 msgid "TXT_ARTIEGG2"
 msgstr "Porcificateur"
@@ -1444,7 +1443,7 @@ msgid "TXT_ARTIBLASTRADIUS"
 msgstr "Disque de Répulsion"
 
 msgid "TXT_ARTIHEALINGRADIUS"
-msgstr "Incantation Mystique"
+msgstr "Incantation de Domaine Mystique"
 
 msgid "TXT_ARTIPUZZSKULL"
 msgstr "Crâne de Yorick"
@@ -1456,7 +1455,7 @@ msgid "TXT_ARTIPUZZGEMRED"
 msgstr "Planète de Rubis"
 
 msgid "TXT_ARTIPUZZGEMGREEN1"
-msgstr "Planète d'Emeraude"
+msgstr "Planète d'Émeraude"
 
 msgid "TXT_ARTIPUZZGEMGREEN2"
 msgstr "Planète de Saphir"
@@ -1489,10 +1488,10 @@ msgid "TXT_ARTIPUZZGEAR"
 msgstr "Rouage d'Horloge"
 
 msgid "TXT_USEPUZZLEFAILED"
-msgstr "Vous ne pouvez pas utiliser cela ici"
+msgstr "Vous Ne Pouvez Pas Utiliser Cela Ici"
 
 msgid "TXT_ARMOR1"
-msgstr "Armure de Mailles"
+msgstr "Armure en Mailles"
 
 msgid "TXT_ARMOR2"
 msgstr "Bouclier du Faucon"
@@ -1522,7 +1521,7 @@ msgid "TXT_WEAPON_C4"
 msgstr "Verge Phantasmale Assemblée"
 
 msgid "TXT_WEAPON_M2"
-msgstr "Eclats de Givre"
+msgstr "Éclats de Givre"
 
 msgid "TXT_WEAPON_M3"
 msgstr "Foudre Mortelle"
@@ -1591,13 +1590,13 @@ msgid "FN_SLAUGHTAUR"
 msgstr "Sangtaure"
 
 msgid "FN_BISHOP"
-msgstr "Evèque"
+msgstr "Évêque"
 
 msgid "FN_ICEGUY"
 msgstr "Wendigo"
 
 msgid "FN_SERPENT"
-msgstr "Chasseur"
+msgstr "Traqueur"
 
 msgid "FN_WRAITH"
 msgstr "Reiver"
@@ -1678,13 +1677,13 @@ msgid "TAG_ARTIPOISONBAG1"
 msgstr "Fléchette - Nuage Toxique"
 
 msgid "TAG_ARTIPOISONBAG2"
-msgstr "Fléchette - Bombe a Retardement"
+msgstr "Fléchette - Bombe à Retardement"
 
 msgid "TAG_ARTIPOISONBAG3"
 msgstr "Fléchette - Grenade"
 
 msgid "TAG_ARTIHEALINGRADIUS"
-msgstr "Incantation Mystique"
+msgstr "Incantation de Domaine Mystique"
 
 msgid "TAG_ARTIDEFENDER"
 msgstr "Icône du Défenseur"
@@ -1696,7 +1695,7 @@ msgid "TAG_ARTISPEED"
 msgstr "Bottes de Célérité"
 
 msgid "TAG_ARTISUMMON"
-msgstr "Serviteur Noir"
+msgstr "Sombre Serviteur"
 
 msgid "TAG_ARTITELEPORTOTHER"
 msgstr "Outil de Banissement"
@@ -1708,19 +1707,19 @@ msgid "TAG_ARTIPUZZGEMBIG"
 msgstr "Cœur de D'Sparil"
 
 msgid "TAG_ARTIPUZZGEMRED"
-msgstr "Planète en rubis"
+msgstr "Planète en Rubis"
 
 msgid "TAG_ARTIPUZZGEMGREEN1"
-msgstr "Planète en émeraude (1)"
+msgstr "Planète en Émeraude (1)"
 
 msgid "TAG_ARTIPUZZGEMGREEN2"
-msgstr "Planète en émeraude (2)"
+msgstr "Planète en Émeraude (2)"
 
 msgid "TAG_ARTIPUZZGEMBLUE1"
-msgstr "Planète en saphir (1)"
+msgstr "Planète en Saphir (1)"
 
 msgid "TAG_ARTIPUZZGEMBLUE2"
-msgstr "Planète en saphir (2)"
+msgstr "Planète en Saphir (2)"
 
 msgid "TAG_ARTIPUZZBOOK1"
 msgstr "Codex Démoniaque"
@@ -1801,7 +1800,7 @@ msgid "OB_FBOSS"
 msgstr "%o a été pourfendu@[e_fr] par Zedek."
 
 msgid "OB_MBOSS"
-msgstr "%o n'aurait pu absorber le mana de Menelkir."
+msgstr "%o n'a pas pu absorber le mana de Menelkir."
 
 msgid "OB_CBOSS"
 msgstr "%o a été baptisé@[e_fr] par Traductus."
@@ -1853,19 +1852,19 @@ msgstr ""
 "%o s'est fait@[e_fr] effacer de l'univers par le Fléau Sanglant de %k."
 
 msgid "TXT_METALARMOR"
-msgstr "Vous avez pris l'armure de métal."
+msgstr "Vous avez pris l'Armure de Métal."
 
 msgid "TXT_LEATHERARMOR"
-msgstr "Vous avez pris l'armure de cuir."
+msgstr "Vous avez pris l'Armure de Cuir."
 
 msgid "TXT_MEDPATCH"
-msgstr "Vous avez pris le pansement."
+msgstr "Vous avez pris le Pansement."
 
 msgid "TXT_MEDICALKIT"
-msgstr "Vous avez pris le kit médical."
+msgstr "Vous avez pris le Kit médical."
 
 msgid "TXT_SURGERYKIT"
-msgstr "Vous avez pris le kit de chirurgie."
+msgstr "Vous avez pris le Kit de chirurgie."
 
 msgid "TXT_STRIFEMAP"
 msgstr "Vous avez pris la carte."
@@ -1874,7 +1873,7 @@ msgid "TXT_BELDINSRING"
 msgstr "Vous avez pris l'anneau."
 
 msgid "TXT_OFFERINGCHALICE"
-msgstr "Vous avez pris le Calice d'obole."
+msgstr "Vous avez pris le Calice d'Offrande."
 
 msgid "TXT_EAR"
 msgstr "Vous avez pris l'oreille."
@@ -1883,16 +1882,16 @@ msgid "TXT_BROKENCOUPLING"
 msgstr "Vous avez pris le coupleur énergétique cassé."
 
 msgid "TXT_SHADOWARMOR"
-msgstr "Vous avez pris l'armure de l'ombre."
+msgstr "Vous avez pris l'Armure de l'ombre."
 
 msgid "TXT_ENVSUIT"
-msgstr "Vous avez pris la combinaison hazmat."
+msgstr "Vous avez pris la Combinaison Environnmentale."
 
 msgid "TXT_GUARDUNIFORM"
-msgstr "Vous avez pris l'Uniforme du garde."
+msgstr "Vous avez pris l'Uniforme du Garde."
 
 msgid "TXT_OFFICERSUNIFORM"
-msgstr "Vous avez pris l'Uniforme de l'officier."
+msgstr "Vous avez pris l'Uniforme de l'Officier."
 
 msgid "TXT_FTHROWERPARTS"
 msgstr "Vous avez pris les pièces du lance-flames."
@@ -1904,7 +1903,7 @@ msgid "TXT_INFO"
 msgstr "Vous avez pris l'info."
 
 msgid "TXT_TARGETER"
-msgstr "Vous avez pris le cibleur."
+msgstr "Vous avez pris le Cibleur."
 
 msgid "TXT_COMMUNICATOR"
 msgstr "Vous avez pris le Communicateur."
@@ -1916,10 +1915,10 @@ msgid "TXT_XGOLD"
 msgstr "Vous avez pris %d pièces."
 
 msgid "TXT_BEACON"
-msgstr "Vous avez pris la balise de téléporteur."
+msgstr "Vous avez pris la Balise de Téléporteur."
 
 msgid "TXT_DEGNINORE"
-msgstr "Vous avez pris le minerai de Degnin."
+msgstr "Vous avez pris le Minerai de Degnin."
 
 msgid "TXT_SCANNER"
 msgstr "Vous avez pris l'analyseur."
@@ -1928,7 +1927,7 @@ msgid "TXT_NEEDMAP"
 msgstr "L'analyseur ne marchera pas sans une carte !"
 
 msgid "TXT_PRISONPASS"
-msgstr "Vous avez pris le passe de la prison."
+msgstr "Vous avez pris le Passe de la prison."
 
 msgid "TXT_STRIFECROSSBOW"
 msgstr "Vous avez pris l'arbalète."
@@ -1937,13 +1936,13 @@ msgid "TXT_ASSAULTGUN"
 msgstr "Vous avez pris le fusil d'assaut."
 
 msgid "TXT_MMLAUNCHER"
-msgstr "Vous avez pris le lance mini-missile."
+msgstr "Vous avez pris le lanceur de mini-missiles."
 
 msgid "TXT_FLAMER"
 msgstr "Vous avez pris le lance-flames."
 
 msgid "TXT_MAULER"
-msgstr "Vous avez pris le Broyeur."
+msgstr "Vous avez pris le broyeur."
 
 msgid "TXT_GLAUNCHER"
 msgstr "Vous avez pris le lance-grenades."
@@ -1952,49 +1951,49 @@ msgid "TXT_SIGIL"
 msgstr "Vous avez pris le SIGIL."
 
 msgid "TXT_BASEKEY"
-msgstr "Vous avez pris la clé de la Base."
+msgstr "Vous avez pris la Clé de la Base."
 
 msgid "TXT_GOVSKEY"
-msgstr "Vous avez pris la clé du Gouverneur."
+msgstr "Vous avez pris la Clé du Gouverneur."
 
 msgid "TXT_PASSCARD"
-msgstr "Vous avez pris le passe."
+msgstr "Vous avez pris le Passe."
 
 msgid "TXT_IDBADGE"
-msgstr "Vous avez pris le Badge d'identification."
+msgstr "Vous avez pris le Badge d'Identification."
 
 msgid "TXT_PRISONKEY"
-msgstr "Vous avez pris la clé de la Prison."
+msgstr "Vous avez pris la Clé de la Prison."
 
 msgid "TXT_SEVEREDHAND"
-msgstr "Vous avez pris la main coupée."
+msgstr "Vous avez pris la Main Coupée."
 
 msgid "TXT_POWER1KEY"
-msgstr "Vous avez pris la clé Power1."
+msgstr "Vous avez pris la Clé Power1."
 
 msgid "TXT_POWER2KEY"
-msgstr "Vous avez pris la clé Power2."
+msgstr "Vous avez pris la Clé Power2."
 
 msgid "TXT_POWER3KEY"
-msgstr "Vous avez pris la clé Power3."
+msgstr "Vous avez pris la Clé Power3."
 
 msgid "TXT_GOLDKEY"
-msgstr "Vous avez pris la clé d'or."
+msgstr "Vous avez pris la Clé d'Or."
 
 msgid "TXT_IDCARD"
-msgstr "Vous avez pris la Carte d'identité."
+msgstr "Vous avez pris la Carte d'Identité."
 
 msgid "TXT_SILVERKEY"
-msgstr "Vous avez pris la clé d'argent."
+msgstr "Vous avez pris la Clé d'Argent."
 
 msgid "TXT_ORACLEKEY"
-msgstr "Vous avez pris la clé Oraclé."
+msgstr "Vous avez pris la Clé Oracle."
 
 msgid "TXT_MILITARYID"
 msgstr "Vous avez pris l'ID Militaire."
 
 msgid "TXT_ORDERKEY"
-msgstr "Vous avez pris la clé de l'Ordre."
+msgstr "Vous avez pris la Clé de l'Ordre."
 
 msgid "TXT_WAREHOUSEKEY"
 msgstr "Vous avez pris la clé de l'entrepôt."
