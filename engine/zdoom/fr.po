@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-06 07:01+0000\n"
+"PO-Revision-Date: 2026-07-06 09:01+0000\n"
 "Last-Translator: Tapwave <kolb.rodrigue@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/fr/>\n"
 "Language: fr\n"
@@ -2403,13 +2403,13 @@ msgid "TAG_MACIL1"
 msgstr "Macil"
 
 msgid "TAG_MACIL2"
-msgstr ""
+msgstr "Macil"
 
 msgid "TAG_MEDIC"
 msgstr "Médecin"
 
 msgid "TAG_ORACLE"
-msgstr ""
+msgstr "Oracle"
 
 msgid "TAG_PRIEST"
 msgstr "Prêtre"
@@ -2898,7 +2898,7 @@ msgid "MNU_GAMEFILES"
 msgstr "Fichiers de jeu"
 
 msgid "MNU_INFO"
-msgstr ""
+msgstr "Info"
 
 msgid "MNU_QUITGAME"
 msgstr "Quitter le jeu"
@@ -2947,7 +2947,7 @@ msgid "SSKILL_NORMAL"
 msgstr "Véteran"
 
 msgid "SSKILL_HARD"
-msgstr ""
+msgstr "Élite"
 
 msgid "SSKILL_NIGHTMARE"
 msgstr "Massacre"
@@ -2977,22 +2977,22 @@ msgid "MNU_WARRIOR"
 msgstr "Guerrier"
 
 msgid "MNU_BERSERKER"
-msgstr ""
+msgstr "Berserker"
 
 msgid "MNU_TITAN"
-msgstr ""
+msgstr "Titan"
 
 msgid "MNU_ALTARBOY"
 msgstr "Enfant de Chœur"
 
 msgid "MNU_ACOLYTE"
-msgstr ""
+msgstr "Acolyte"
 
 msgid "MNU_PRIEST"
 msgstr "Prêtre"
 
 msgid "MNU_CARDINAL"
-msgstr ""
+msgstr "Cardinal"
 
 msgid "MNU_POPE"
 msgstr "Pape"
@@ -3022,7 +3022,7 @@ msgid "MNU_CLERIC"
 msgstr "Moine"
 
 msgid "MNU_MAGE"
-msgstr ""
+msgstr "Mage"
 
 msgid "MNU_RANDOM"
 msgstr "Au Hasard"
@@ -3095,7 +3095,7 @@ msgid "GMPLYMNU_FASTMONSTERS"
 msgstr "Monstres Rapides"
 
 msgid "GMPLYMNU_INSTANTREACTION"
-msgstr ""
+msgstr "Réflèxes des Monstres comme en Cauchemar"
 
 msgid "GMPLYMNU_DEGENERATION"
 msgstr "Dégéneration"
@@ -3386,7 +3386,7 @@ msgid "PLYRMNU_PLAYERCLASS"
 msgstr "Classe"
 
 msgid "PLYRMNU_PLAYERSKIN"
-msgstr ""
+msgstr "Apparence"
 
 msgid "PLYRMNU_SWITCHONPICKUP"
 msgstr "Dernière arme"
@@ -3554,7 +3554,7 @@ msgid "MAPCOLORMNU_PORTAL"
 msgstr "Portails superposés"
 
 msgid "MSGMNU_TITLE"
-msgstr ""
+msgstr "Messages"
 
 msgid "MSGMNU_SHOWMESSAGES"
 msgstr "Afficher messages"
@@ -3878,10 +3878,10 @@ msgid "SCALEMNU_OVERRIDE"
 msgstr "Annule les paramètres au dessus"
 
 msgid "SCALEMNU_MESSAGES"
-msgstr ""
+msgstr "Messages"
 
 msgid "SCALEMNU_CONSOLE"
-msgstr ""
+msgstr "Console"
 
 msgid "SCALEMNU_STATBAR"
 msgstr "Barre d'état"
@@ -4004,7 +4004,7 @@ msgid "OPTVAL_PARTICLES"
 msgstr "Particules"
 
 msgid "OPTVAL_SPRITES"
-msgstr ""
+msgstr "Sprites"
 
 msgid "OPTVAL_SPRITESPARTICLES"
 msgstr "Sprites & Particules"
@@ -4080,13 +4080,13 @@ msgid "OPTVAL_HUBSECONDS"
 msgstr "Hub, secondes"
 
 msgid "OPTVAL_HUB"
-msgstr ""
+msgstr "Zone Centrale"
 
 msgid "OPTVAL_TOTALSECONDS"
 msgstr "Total, secondes"
 
 msgid "OPTVAL_TOTAL"
-msgstr ""
+msgstr "Total"
 
 msgid "OPTVAL_SYSTEMSECONDS"
 msgstr "Système, secondes"
@@ -4176,28 +4176,28 @@ msgid "OPTVAL_DOOM"
 msgstr "Doom"
 
 msgid "OPTVAL_DOOMSTRICT"
-msgstr ""
+msgstr "Doom (strict)"
 
 msgid "OPTVAL_BOOM"
 msgstr "Boom"
 
 msgid "OPTVAL_BOOMSTRICT"
-msgstr ""
+msgstr "Boom (strict)"
 
 msgid "OPTVAL_MBF"
 msgstr "MBF"
 
 msgid "OPTVAL_MBFSTRICT"
-msgstr ""
+msgstr "MBF (strict)"
 
 msgid "OPTVAL_MBF21"
 msgstr "MBF21"
 
 msgid "OPTVAL_MBF21STRICT"
-msgstr ""
+msgstr "MBF21 (strict)"
 
 msgid "OPTVAL_ZDOOM2063"
-msgstr ""
+msgstr "ZDoom 2.0.63"
 
 msgid "OPTVAL_ERRORS"
 msgstr "Erreurs"
@@ -4206,7 +4206,7 @@ msgid "OPTVAL_WARNINGS"
 msgstr "Avertissements"
 
 msgid "OPTVAL_NOTIFICATIONS"
-msgstr ""
+msgstr "Notifications"
 
 msgid "OPTVAL_EVERYTHING"
 msgstr "Tout"
@@ -4221,7 +4221,7 @@ msgid "OPTVAL_SWDOOMTC"
 msgstr "Rendu Software Couleurs Réeles"
 
 msgid "OPTVAL_VANILLA"
-msgstr ""
+msgstr "Original"
 
 msgid "OPTVAL_VTFZDOOM"
 msgstr "ZDoom (Forcé)"
@@ -4236,7 +4236,7 @@ msgid "OPTVAL_LARGE"
 msgstr "Grand"
 
 msgid "OPTVAL_CONSOLE"
-msgstr ""
+msgstr "Console"
 
 msgid "C_BRICK"
 msgstr "\\cabrique"
@@ -4326,7 +4326,7 @@ msgid "OPTSTR_NOINTERPOLATION"
 msgstr "Pas d'interpolation"
 
 msgid "OPTSTR_SPLINE"
-msgstr ""
+msgstr "Spline"
 
 msgid "DSPLYMNU_GLOPT"
 msgstr "Moteur de Rendu Hardware"
@@ -4438,10 +4438,10 @@ msgstr "Sombre"
 
 # This refers to the Doom Legacy port, not a legacy lighting style!
 msgid "OPTVAL_LEGACY"
-msgstr ""
+msgstr "Doom Legacy"
 
 msgid "OPTVAL_SOFTWARE"
-msgstr ""
+msgstr "Logiciel"
 
 msgid "OPTVAL_YAXIS"
 msgstr "Axe Y"
@@ -4683,9 +4683,8 @@ msgstr "Zdoom Classique"
 msgid "OPTVAL_MODERN"
 msgstr "Moderne (ZQSD)"
 
-#, fuzzy
 msgid "OPTVAL_MODERNLEFT"
-msgstr "Moderne (Pavé numérique)"
+msgstr "Moderne (Gaucher / Pavé numérique)"
 
 msgid "MISCMNU_SETSLOTSTRICT"
 msgstr "Armes/Joueurs strictement selon KEYCONF"
@@ -4714,7 +4713,7 @@ msgid "TAG_PEASANT"
 msgstr "Paysan"
 
 msgid "TAG_REAVER"
-msgstr ""
+msgstr "Reaver"
 
 msgid "TAG_SENTINEL"
 msgstr "Sentinelle"
@@ -4807,85 +4806,84 @@ msgid "GMPLYMNU_NOLOCALDROP"
 msgstr "Désactiver le ramassage des objets lâchés en clientside"
 
 # Disables autoloading save on death
-#, fuzzy
 msgid "MISCMNU_RESTARTONDEATH"
-msgstr "Recharger après mort"
+msgstr "Relancer le niveau comme une nouvelle partie après mort"
 
 # Resets inventory on every map
-#, fuzzy
 msgid "GMPLYMNU_PISTOLSTART"
-msgstr "Démarrage du pistolet"
+msgstr "Commencer chaque niveau comme une nouvelle partie"
 
 msgid "CMPTMNU_VOODOOZOMBIES"
-msgstr ""
+msgstr "Permettre la création de joueurs zombies"
 
 msgid "CMPTMNU_FDTELEPORT"
-msgstr ""
+msgstr "Ignorer la position Z du sol lors des téléportations"
 
 # Hardware Sprite Clipping mode that gives the illusion of a sprite being in a
 # different position than it really is, allowing it to be rendered under the
 # floor despite clipping
 msgid "OPTVAL_ANAMORPHIC"
-msgstr ""
+msgstr "Perspective Forcée"
 
 msgid "SNDMNU_FOOTSTEPVOLUME"
-msgstr ""
+msgstr "Volume des bruits de pas"
 
 msgid "ID24_GOTINCINERATOR"
-msgstr ""
+msgstr "Vous avez l'incinérateur !"
 
 # Also known as Heatwave Generator.
 msgid "ID24_GOTCALAMITYBLADE"
-msgstr ""
+msgstr "Vous avez la Lame des Calamités !  Ça déchire !"
 
 msgid "ID24_GOTFUELCAN"
-msgstr ""
+msgstr "Bidon d'essence récupéré."
 
 msgid "ID24_GOTFUELTANK"
-msgstr ""
+msgstr "Réservoir d'essence récupéré."
 
 msgid "TAG_ID24INCINERATOR"
-msgstr ""
+msgstr "Incinérateur"
 
 msgid "TAG_ID24CALAMITYBLADE"
-msgstr ""
+msgstr "Lame des Calamités"
 
 msgid "AMMO_ID24FUEL"
-msgstr ""
+msgstr "Bidon d'Essence"
 
 msgid "AMMO_ID24FUELTANK"
-msgstr ""
+msgstr "Réservoir d'Essence"
 
 msgid "ID24_CC_GHOUL"
 msgstr "Goule"
 
 msgid "ID24_CC_BANSHEE"
-msgstr ""
+msgstr "Banshee"
 
 # Also known as Plasmaguy.
 msgid "ID24_CC_SHOCKTROOPER"
-msgstr ""
+msgstr "Soldat de Choc"
 
 msgid "ID24_CC_MINDWEAVER"
-msgstr ""
+msgstr "Tisse-esprit"
 
 msgid "ID24_CC_VASSAGO"
-msgstr ""
+msgstr "Vassago"
 
 msgid "ID24_CC_TYRANT"
-msgstr ""
+msgstr "Tyran"
 
 msgid "ID24_OB_GHOUL"
 msgstr ""
 
 msgid "ID24_OB_BANSHEE"
-msgstr ""
+msgstr "La vie de %o a été conclue par une Banshee."
 
 msgid "ID24_OB_SHOCKTROOPER"
 msgstr ""
 
+#, fuzzy
 msgid "ID24_OB_MINDWEAVER"
-msgstr ""
+msgstr "%o a été rasé%e_fr par un tisse-esprit."
 
 msgid "ID24_OB_VASSAGO"
 msgstr ""
@@ -4899,246 +4897,246 @@ msgstr "Afficher nom de carte"
 # As seen in Options - Customize Controls - Inventory for Heretic, Hexen and
 # Strife
 msgid "CNTRLMNU_INVENTORY_HOTKEYS"
-msgstr ""
+msgstr "Raccourcis Inventaire"
 
 msgid "JOYMNU_HAPTICS"
-msgstr ""
+msgstr "Intensité du retour de force"
 
 msgid "JOYMNU_CURVE"
-msgstr ""
+msgstr "Courbe de réponse"
 
 msgid "JOYMNU_THRESHOLD"
-msgstr ""
+msgstr "Seuil Digital"
 
 msgid "OPTVAL_LINEAR"
 msgstr "Linéaire"
 
 msgid "OPTVAL_QUADRATIC"
-msgstr ""
+msgstr "Quadratique"
 
 # The type of chat messages the player wants to be visible to them.
 msgid "NETMNU_CHATTYPE"
-msgstr ""
+msgstr "Type de Chat"
 
 msgid "OPTVAL_DISABLECHAT"
-msgstr ""
+msgstr "Désactivé"
 
 msgid "OPTVAL_TEAMONLYCHAT"
-msgstr ""
+msgstr "Équipiers seulement"
 
 msgid "OPTVAL_GLOBALCHAT"
-msgstr ""
+msgstr "Global"
 
 # Disables /me functionality in chat when displaying.
 msgid "NETMNU_NOBOLDCHAT"
-msgstr ""
+msgstr "Désactiver le texte en Gras dans le Chat"
 
 # Turns off the sound that plays when someone receives a message.
 msgid "NETMNU_NOCHATSND"
-msgstr ""
+msgstr "Désactiver le Son du Chat"
 
 # Tries to make online games less stuttery.
 msgid "NETMNU_BALANCETICS"
-msgstr ""
+msgstr "Stabiliser les Connections"
 
 msgid "NETMNU_LIMITCONVO"
-msgstr ""
+msgstr "Limiter les Conversations à l'Hôte"
 
 # Helps stop things like e.g. door open/close spam when playing online.
 msgid "NETMNU_REPEATCOOLDOWN"
-msgstr ""
+msgstr "Temporisation des Actions Répétables"
 
 msgid "NETMNU_DISABLEPAUSE"
-msgstr ""
+msgstr "Empêcher les Pauses"
 
 msgid "OPTVAL_HOSTONLY"
-msgstr ""
+msgstr "Hôte Seulement"
 
 # Type of vote system to use to bypass intermissions when playing online.
 msgid "NETMNU_READYTYPE"
-msgstr ""
+msgstr "Manière de sauter l'intermission"
 
 msgid "OPTVAL_VOTE"
-msgstr ""
+msgstr "Vote"
 
 msgid "OPTVAL_ANYONE"
-msgstr ""
+msgstr "N'importe qui"
 
 # If this percent of players or more are ready, starts a countdown when in
 # Vote intermission skip mode.
 msgid "NETMNU_READYPERCENT"
-msgstr ""
+msgstr "Pourcentage de votes pour passer l'intermission"
 
 msgid "NETMNU_READYCOUNTDOWN"
-msgstr ""
+msgstr "Compte à Rebours du Vote (Secondes)"
 
 # Forces a cool down between chat messages for all players when playing
 # online.
 msgid "NETMNU_CHATSLOMO"
-msgstr ""
+msgstr "Mode Ralenti du Chat (Secondes)"
 
 msgid "OPTMNU_HAPTICS"
-msgstr ""
+msgstr "Options Retour de Force Haptique"
 
 # How the engine should handle haptics in old mods
 msgid "HAPMNU_COMPAT"
-msgstr ""
+msgstr "Niveau de compatibilité du retour de force haptique"
 
 msgid "OPTVAL_MATCH"
-msgstr ""
+msgstr "Match"
 
 msgid "OPTVAL_WARN"
-msgstr ""
+msgstr "Avertir"
 
 msgid "HAPMNU_OPTIONS"
-msgstr ""
+msgstr "Modifier les sources de retour de force haptique"
 
 # Rumble when using ui elements
 msgid "HAPMNU_OPT_MENU"
-msgstr ""
+msgstr "Lors de l'utilisation des menus"
 
 # Rumble when doing things such as pressing buttons and firing weapon
 msgid "HAPMNU_OPT_ACTION"
-msgstr ""
+msgstr "Lors que des actions sont réalisées"
 
 # Rumble when dying and getting hurt
 msgid "HAPMNU_OPT_DAMAGE"
-msgstr ""
+msgstr "Lorsque des dégâts sont reçus"
 
 # Rumble from bumping into things, crossing lines, and quakes
 msgid "HAPMNU_OPT_WORLD"
-msgstr ""
+msgstr "Lors des interactions avec le niveau"
 
 msgid "PAUSE_STRING"
 msgstr "Pause"
 
 msgid "TAG_BACKPACK"
-msgstr ""
+msgstr "Sac à dos"
 
 msgid "TAG_ARMORBONUS"
-msgstr ""
+msgstr "Armure Spirituelle"
 
 msgid "TAG_GREENARMOR"
-msgstr ""
+msgstr "Armure de Sécurité"
 
 msgid "TAG_BLUEARMOR"
-msgstr ""
+msgstr "Armure de Combat"
 
 msgid "TAG_INVULSPHERE"
-msgstr ""
+msgstr "Artéfact d'Invulnérabilité"
 
 msgid "TAG_SOULSPHERE"
-msgstr ""
+msgstr "Sphère d'Âmes"
 
 msgid "TAG_MEGAPSHERE"
-msgstr ""
+msgstr "Méga Sphère"
 
 msgid "TAG_INVISSPHERE"
-msgstr ""
+msgstr "Artéfact Flou"
 
 msgid "TAG_RADSUIT"
-msgstr ""
+msgstr "Combinaison Anti-Radiations"
 
 msgid "TAG_VISOR"
-msgstr ""
+msgstr "Lunettes de Vision Nocturne"
 
 msgid "TAG_ALLMAP"
-msgstr ""
+msgstr "Carte Informatique"
 
 msgid "TAG_BERSERK"
-msgstr ""
+msgstr "Pack Berserk"
 
 msgid "TAG_HEALTHBONUS"
-msgstr ""
+msgstr "Potion de Santé"
 
 msgid "TAG_STIMPACK"
-msgstr ""
+msgstr "Stimpack"
 
 msgid "TAG_MEDIKIT"
-msgstr ""
+msgstr "Médikit"
 
 msgid "TAG_BLUECARD"
-msgstr ""
+msgstr "Carte-clé Bleue"
 
 msgid "TAG_YELLOWCARD"
-msgstr ""
+msgstr "Carte-clé Jaune"
 
 msgid "TAG_REDCARD"
-msgstr ""
+msgstr "Carte-clé Rouge"
 
 msgid "TAG_BLUESKULL"
-msgstr ""
+msgstr "Crâne-clé Bleu"
 
 msgid "TAG_YELLOWSKULL"
-msgstr ""
+msgstr "Crâne-clé Jaune"
 
 msgid "TAG_REDSKULL"
-msgstr ""
+msgstr "Crâne-clé Rouge"
 
 msgid "TAG_GLASSOFWATER"
-msgstr ""
+msgstr "Verre d'Eau"
 
 msgid "TAG_BOWLOFFRUIT"
-msgstr ""
+msgstr "Bol de Fruits"
 
 msgid "TAG_BOWLOFVEGETABLES"
-msgstr ""
+msgstr "Bol de Légumes"
 
 msgid "TAG_BREAKFAST"
-msgstr ""
+msgstr "Petit-déjeuner Superchargé"
 
 msgid "TAG_REPELLENT"
-msgstr ""
+msgstr "Repousse-gelée"
 
 msgid "TAG_CHEXARMOR"
-msgstr ""
+msgstr "Armure Chex®"
 
 msgid "TAG_SUPERCHEXARMOR"
-msgstr ""
+msgstr "Super-Armure Chex®"
 
 msgid "TAG_CHEXMAP"
-msgstr ""
+msgstr "Carte Informatique"
 
 msgid "TAG_SLIMESUIT"
-msgstr ""
+msgstr "Combinaison Anti-Gelée"
 
 msgid "TAG_ZORCHPACK"
-msgstr ""
+msgstr "Zorch Pack"
 
 msgid "TAG_CBLUEKEY"
-msgstr ""
+msgstr "Clé Bleue"
 
 msgid "TAG_CYELLOWKEY"
-msgstr ""
+msgstr "Clé Jaune"
 
 msgid "TAG_CREDKEY"
-msgstr ""
+msgstr "Clé Rouge"
 
 # Option to make the view weapon sprites be lit exactly as the sector's
 # brightness. Without this option, weapon sprites are generally brighter
 # compared to the sector's brightness
 msgid "GLPREFMNU_WPNPURELIGHT"
-msgstr ""
+msgstr "Utiliser la luminosité des secteurs sur les sprites des armes"
 
 # Mark the player as ready to advance during the intermission in multiplayer
 # games
 msgid "NET_CONTINUE_MKB"
-msgstr ""
+msgstr "Utiliser Espace ou Clic Gauche pour passer prêt"
 
 msgid "NET_CONTINUE_CONTROLLER"
-msgstr ""
+msgstr "Appuyez sur A pour passer prêt"
 
 msgid "NET_CONTINUE_JOYSTICK"
-msgstr ""
+msgstr "Appuyez sur Joy 1 pour passer prêt"
 
 msgid "GMPLYMNU_REMEMBERWEAP"
-msgstr ""
+msgstr "Se souvenir de l'arme séléctionnée lors de la réapparition"
 
 msgid "CNTRLMNU_COOPSPYPREV"
-msgstr ""
+msgstr "Espionner le joueur précédent en coopératif"
 
 msgid "CNTRLMNU_COOPSPYCANCEL"
-msgstr ""
+msgstr "Annuler l'espionnage des joueurs en coopératif"
 
 msgid "DSPLYMNU_BRIGHTNESS"
 msgstr "Luminosité"
@@ -5171,3 +5169,97 @@ msgstr "Auto (Vanilla Préféré)"
 #, fuzzy
 msgid "OPTVAL_VTAZDOOM"
 msgstr "Auto (ZDoom Préféré)"
+
+msgid "JOYMNU_ANALOGRUN"
+msgstr "Course analogique"
+
+msgid "ACCMNU_TOOLTIP_LINES"
+msgstr "Lignes d'infobulle"
+
+msgid "ACCMNU_TOOLTIP_SPEED"
+msgstr "Vitesse de défilement des infobulles"
+
+msgid "ACCMNU_TOOLTIP_DELAY"
+msgstr "Délai de défilement des infobulles"
+
+msgid "ACCMNU_TOOLTIP_ALPHA"
+msgstr "Transparence du fond des infobulles"
+
+msgid "ACCMNU_TOOLTIP_CAP"
+msgstr "Limiter la largeur des infobulles"
+
+msgid "ACCMNU_TOOLTIP_SCALE"
+msgstr "Texte aggrandi pour les infobulles"
+
+msgid "ACCMNU_TOOLTIP_EXAMPLE"
+msgstr ""
+"Ceci est un exemple d'infobulle.\n"
+"Voici du texte supplémentaire.\n"
+"...\n"
+"Voici une très longue ligne de texte qui semble continuer encore et encore sans avoir quoi que ce soit d'intéressant à dire, apparemment longue à ce point seulement parce que les développeurs ont du mal à expliquer comment fonctionne une option."
+
+msgid "ACCMNU_TOOLTIP"
+msgstr "Infobulles"
+
+msgid "ACCMNU_LIGHT_EXTRA"
+msgstr "Illumination Supplémentaire"
+
+msgid "ACCMNU_TOOLTIP_LIGHT_RADIUS"
+msgstr "Contrôle la distance du rayon d'illumination autour du joueur en unités de carte. Les valeurs plus élevées rendent la scène plus claire."
+
+msgid "ACCMNU_TOOLTIP_LIGHT_EXTRA"
+msgstr "Quantité de lumière secteur ajoutée en plus de la lumière secteur existante, tout en préservant le mode d'illumination existant."
+
+msgid "ACCMNU_LIGHT_RADIUS"
+msgstr "Rayon d'Illumination du Joueur"
+
+msgid "ACCMNU_LIGHT"
+msgstr "Illumination"
+
+msgid "DSPLYMNU_ROCKETEXPSTYLE"
+msgstr "Style d'Affichage des Explosions"
+
+msgid "OPTVAL_ROCKETEXP_STYLE_ADD"
+msgstr "Additif"
+
+msgid "OPTVAL_ROCKETEXP_STYLE_TRANS"
+msgstr "Transparent"
+
+msgid "OPTVAL_LAX"
+msgstr "Laxiste"
+
+msgid "OPTVAL_STRICT"
+msgstr "Strict"
+
+msgid "PICKER_FILELOADING"
+msgstr "Chargement des Fichiers"
+
+msgid "DSPLYMNU_IMAGEADJUST"
+msgstr "Calibration de l'Image"
+
+msgid "DSPLYMNU_IMAGEADJUST_TOP1"
+msgstr "À partir d'une distance d'observation normale, ajustez ces paramètres."
+
+msgid "DSPLYMNU_IMAGEADJUST_TOP2"
+msgstr "La mise à l'échelle et le supersampling peuvent amener à une image incorrectement calibrée."
+
+msgid "DSPLYMNU_IMAGEADJUST_TOP3"
+msgstr "Veuillez les désactiver avant de calibrer."
+
+msgid "DSPLYMNU_TOOLTIP_GAMMA"
+msgstr "Compense pour les contraintes de votre écran. Ajustez jusqu'à ce que les blocs gris verticaux disparaissent. N'utilisez pas ceci pour rendre le jeu plus clair, seulement pour garantir que l'image est bien calibrée pour votre affichage."
+
+msgid "DSPLYMNU_BLACKPOINT"
+msgstr "Compensation du point noir"
+
+msgid "DSPLYMNU_TOOLTIP_BLACKPOINT"
+msgstr "Compensation pour les écrans qui n'arrivent pas à afficher les pixels sombres correctement. Ajustez jusqu'à ce que les blocs blancs diagonaux disparaissent. N'utilisez pas ceci pour rendre le jeu plus clair, uniquement pour garantir que l'image est calibré pour votre affichage."
+
+msgid "DSPLYMNU_TOOLTIP_IMAGEADJUST_RESET"
+msgstr "Réinitialise toutes les options de ce menu à leurs valeurs par défaut."
+
+msgid "DSPLYMNU_TOOLTIP_BRIGHTNESS"
+msgstr "Applique un ajustement de luminosité linéaire. Ajustez à votre goût, ou pour voir dans le noir."
+
+msgid "DSPLYMNU_TOOLTIP_CONTRAST"
+msgstr "Ajuste la différence perçue entre des couleurs similaires. Contrôle à quel point l'image semble claire ou délavée. Ajustez à votre goût."
