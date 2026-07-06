@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-06 21:01+0000\n"
+"PO-Revision-Date: 2026-07-06 23:01+0000\n"
 "Last-Translator: Tapwave <kolb.rodrigue@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/uzdoom/common/fr/>\n"
 "Language: fr\n"
@@ -1388,7 +1388,7 @@ msgid "OPTVAL_OPENGLES"
 msgstr "OpenGL ES"
 
 msgid "MISCMNU_MERGEKEYS"
-msgstr "Combiner Alt/Ctrl/maj gauche & droite"
+msgstr "Combiner Alt/Ctrl/Maj gauche & droite"
 
 msgid "MISCMNU_WINFULLSCREENTOGGLE"
 msgstr "Alt-Entrée alterne plein écran"
@@ -1397,19 +1397,19 @@ msgid "MISCMNU_MACFULLSCREENTOGGLE"
 msgstr "Command-F alterne plein écran"
 
 msgid "MISCMNU_ENABLEAUTOSAVES"
-msgstr "Activer Sauvegardes auto"
+msgstr "Activer sauvegardes auto"
 
 msgid "MISCMNU_AUTOSAVECOUNT"
 msgstr "Total de sauvegardes auto"
 
 msgid "MISCMNU_SAVELOADCONFIRMATION"
-msgstr "Confirmation C/S"
+msgstr "Confirmation Charg./Sauv."
 
 msgid "MISCMNU_NOCHEATS"
 msgstr "Déasctiver les codes de triche au clavier"
 
 msgid "MISCMNU_QUICKSAVEROTATION"
-msgstr "Rotation Sauvegardes Rapides"
+msgstr "Rotation sauvegardes rapides"
 
 msgid "MISCMNU_QUICKSAVECOUNT"
 msgstr "Nombre de sauvegardes en rotation"
@@ -1421,10 +1421,10 @@ msgid "MISCMNU_PAUSEINBACKGROUND"
 msgstr "Mettre le jeu en pause en arrière-plan"
 
 msgid "HUDMNU_CROSSHAIR"
-msgstr "Viseur par défaut"
+msgstr "Viseur par Défaut"
 
 msgid "HUDMNU_CROSSHAIRCOLOR"
-msgstr "Couleur Viseur"
+msgstr "Couleur viseur"
 
 msgid "HUDMNU_CROSSHAIRSCALE"
 msgstr "Mise à l'échelle du viseur"
@@ -1440,43 +1440,43 @@ msgid "OPTMNU_LANGUAGE"
 msgstr "Langage"
 
 msgid "TXT_UNDOCHANGES"
-msgstr "Révoquer les changements"
+msgstr "Révoquer les Changements"
 
 msgid "REVMNU_SELECT"
-msgstr "Sélectionner un environnement"
+msgstr "Sélectionner un Environnement"
 
 msgid "REVMNU_TEST"
-msgstr "Tester un environnement"
+msgstr "Tester un Environnement"
 
 msgid "REVMNU_EDIT"
-msgstr "Modifier un environnement"
+msgstr "Modifier un Environnement"
 
 msgid "REVMNU_NEW"
-msgstr "Nouveau environnement"
+msgstr "Nouveau Environnement"
 
 msgid "REVMNU_Reflections_Scale"
-msgstr "Echelle Reflections"
+msgstr "Échelle Réflections"
 
 msgid "REVMNU_Reflections_Delay_Scale"
-msgstr "Délai d'échelle reflections"
+msgstr "Délai d'Échelle Réflections"
 
 msgid "REVMNU_Decay_Time_Scale"
-msgstr "Echelle temporelle Decay"
+msgstr "Échelle Temporelle Decay"
 
 msgid "REVMNU_Decay_HF_Limit"
-msgstr "Limite HF Decay"
+msgstr "Seuil HF Decay"
 
 msgid "REVMNU_Reverb_Scale"
-msgstr "Echelle Reverb"
+msgstr "Échelle Reverb"
 
 msgid "REVMNU_Reverb_Delay_Scale"
-msgstr "Délai d'échelle Reverb"
+msgstr "Délai d'échelle Réverb"
 
 msgid "REVMNU_Echo_Time_Scale"
-msgstr "Echelle temporelle Echo"
+msgstr "Échelle Temporelle Écho"
 
 msgid "REVMNU_Modulation_Time_Scale"
-msgstr "Echelle temporelle Modulation"
+msgstr "Échelle Temporelle Modulation"
 
 msgid "REVMNU_Based_on"
 msgstr "Basé sur"
@@ -1509,7 +1509,7 @@ msgid "VK_TITLE"
 msgstr "Options Vulkan"
 
 msgid "VKMNU_DEVICE"
-msgstr "ID du périphérique Vulkan"
+msgstr "ID du Périphérique Vulkan"
 
 msgid "VKMNU_HDR"
 msgstr "High Dynamic Range"
@@ -1518,7 +1518,7 @@ msgid "VK_WARNING"
 msgstr "Attention : Le moteur de rendu Vulkan est très expérimental !"
 
 msgid "VK_RESTART"
-msgstr "Ces options nécessitent un redémarrage."
+msgstr "Ces options nécessitent un redémarrage pour prendre effet."
 
 msgid "OPTVAL_SCALENX"
 msgstr "ScaleNx"
@@ -1560,13 +1560,13 @@ msgid "OPTMNU_SIMPLEON"
 msgstr "Menu options simplifié"
 
 msgid "OPTMNU_OPENCONFIG"
-msgstr "Parcourir configuration"
+msgstr "Parcourir Configuration du Jeu"
 
 msgid "OPTMNU_OPENSCREENSHOTS"
-msgstr "Parcourir les captures d'écran"
+msgstr "Parcourir les Captures d'Écran"
 
 msgid "OPTMNU_OPENSAVES"
-msgstr "Parcourir sauvegardes"
+msgstr "Parcourir Sauvegardes"
 
 msgid "MOUSEMNU_SWAPBUTTONS"
 msgstr "Permuter les boutons de la souris"
@@ -1575,19 +1575,19 @@ msgid "OPTVAL_ONLYMODIFIED"
 msgstr "Modifié seulement"
 
 msgid "TXT_UNKNOWN"
-msgstr "Inconnue"
+msgstr "Inconnu"
 
 msgid "TXT_SAVEGAMENEEDS"
 msgstr "Cette sauvegarde nécessite les fichiers suivants"
 
 msgid "GLPREFMNU_CORONAS"
-msgstr "Corons"
+msgstr "Couronnes optiques"
 
 msgid "PICKER_SELECT"
-msgstr "Sélectionner le jeu à jouer."
+msgstr "Sélectionner quel fichier de jeu à utiliser."
 
 msgid "PICKER_PLAY"
-msgstr "Démarrer le jeu"
+msgstr "Lancer le Jeu"
 
 msgid "PICKER_EXIT"
 msgstr "Quitter"
@@ -1596,37 +1596,37 @@ msgid "PICKER_GENERAL"
 msgstr "Général"
 
 msgid "PICKER_EXTRA"
-msgstr "Graphiques supplémentaires"
+msgstr "Graphiques Supplémentaires"
 
 msgid "PICKER_FULLSCREEN"
-msgstr "Plein écran"
+msgstr "Plein Écran"
 
 msgid "PICKER_NOAUTOLOAD"
 msgstr "Désactiver le chargement automatique"
 
 msgid "PICKER_DONTASK"
-msgstr "Ne me demandez plus rien"
+msgstr "Ne me redemandez plus"
 
 msgid "PICKER_LIGHTS"
 msgstr "Lumières"
 
 msgid "PICKER_BRIGHTMAPS"
-msgstr "Cartes lumineuses"
+msgstr "Brightmaps"
 
 msgid "PICKER_WIDESCREEN"
 msgstr "Écran large"
 
 msgid "PICKER_ADDPARM"
-msgstr "Paramètres supplémentaires :"
+msgstr "Paramètres Supplémentaires :"
 
 msgid "PICKER_WELCOME"
-msgstr "Bienvenue à %s !"
+msgstr "Bienvenue à %s !"
 
 msgid "PICKER_VERSION"
 msgstr "Version %s"
 
 msgid "PICKER_PREFERBACKEND"
-msgstr "API de rendu"
+msgstr "API de Rendu"
 
 msgid "PICKER_TAB_PLAY"
 msgstr "Jeu"
@@ -1637,7 +1637,7 @@ msgid "JOYMNU_JOYENABLE"
 msgstr "Activer ce contrôleur"
 
 msgid "CNTRLMNU_OPEN_MAIN"
-msgstr "Ouvrir le menu principal"
+msgstr "Ouvrir le Menu Principal"
 
 msgid "MODMNU_REPLAYER"
 msgstr "Lecteur de module"
@@ -1645,31 +1645,31 @@ msgstr "Lecteur de module"
 # This is enabled per-controller, it means to enable "this" controller in the
 # background when GZDoom is not in focus.
 msgid "JOYMNU_JOYENABLEINBACKGROUND"
-msgstr "Autoriser l'entrée contrôlleur en arrière-plan"
+msgstr "Autoriser l'entrée contrôleur en arrière-plan"
 
 # Order to sort the list of saved games in the save and load game menu. This
 # used to only be alphabetical.
 msgid "MISCMNU_SAVEORDER"
-msgstr "Ordre de tri des sauvegardes"
+msgstr "Ordre de Tri des Sauvegardes"
 
 msgid "OPTVAL_ALPHABETICAL"
 msgstr "Alphabétique"
 
 msgid "OPTVAL_LASTSAVEDTIME"
-msgstr "Dernière date de sauvegarde"
+msgstr "Dernière Date de Sauvegarde"
 
 msgid "PICKER_PLAYHOST"
-msgstr "Créer une partie"
+msgstr "Créer une Partie"
 
 msgid "PICKER_PLAYJOIN"
-msgstr "Rejoindre une partie"
+msgstr "Rejoindre une Partie"
 
 msgid "PICKER_REMPARM"
-msgstr "Se souvenir des Paramètres"
+msgstr "Se Souvenir des Paramètres"
 
 # For stuff like id24.
 msgid "PICKER_SUPPORTWADS"
-msgstr "Charger les WADs de support"
+msgstr "Charger les WADs de Support"
 
 msgid "PICKER_TAB_MULTI"
 msgstr "Multijoueur"
@@ -1688,12 +1688,12 @@ msgid "PICKER_JOIN"
 msgstr "Rejoindre"
 
 msgid "PICKER_NETRATE"
-msgstr "Tics de paquets par seconde :"
+msgstr "Tics de Paquets par Seconde :"
 
 # Sends out duplicate copies of packets to help with spotty connections e.g.
 # wifi.
 msgid "PICKER_NETBACKUP"
-msgstr "Envoyer des Paquets de sûreté"
+msgstr "Envoyer des Paquets de Sûreté"
 
 msgid "PICKER_GAMEMODE"
 msgstr "Mode de Jeu :"
@@ -1712,7 +1712,7 @@ msgid "PICKER_TEAM"
 msgstr "Équipe # :"
 
 msgid "PICKER_ALTDM"
-msgstr "Utiliser les règles de Match à Mort alternatives"
+msgstr "Utiliser les Règles de Match à Mort Alternatives"
 
 msgid "PICKER_PLAYERS"
 msgstr "Joueurs Maximum :"
@@ -1746,7 +1746,7 @@ msgid "MISCMNU_DISCORDRPC"
 msgstr "Présence Riche pour Discord"
 
 msgid "JOYMNU_TURNSPEED"
-msgstr "Vitesse de Rotation"
+msgstr "Vitesse de rotation"
 
 msgid "JOYMNU_LOOKSPEED"
 msgstr "Vitesse de mouvement du regard"
