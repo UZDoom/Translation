@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-06 13:01+0000\n"
+"PO-Revision-Date: 2026-07-06 15:01+0000\n"
 "Last-Translator: Tapwave <kolb.rodrigue@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/fr/>\n"
 "Language: fr\n"
@@ -1996,52 +1996,52 @@ msgid "TXT_ORDERKEY"
 msgstr "Vous avez pris la Clé de l'Ordre."
 
 msgid "TXT_WAREHOUSEKEY"
-msgstr "Vous avez pris la clé de l'entrepôt."
+msgstr "Vous avez pris la Clé de l'Entrepôt."
 
 msgid "TXT_BRASSKEY"
-msgstr "Vous avez pris la clé de bronze."
+msgstr "Vous avez pris la Clé de Bronze."
 
 msgid "TXT_REDCRYSTAL"
-msgstr "Vous avez pris la clé cristal rouge."
+msgstr "Vous avez pris la Clé Cristal Rouge."
 
 msgid "TXT_BLUECRYSTAL"
-msgstr "Vous avez pris la clé cristal bleu."
+msgstr "Vous avez pris la Clé Cristal Bleue."
 
 msgid "TXT_CHAPELKEY"
-msgstr "Vous avez pris la clé de la chapelle."
+msgstr "Vous avez pris la Clé de la Chapelle."
 
 msgid "TXT_CATACOMBKEY"
-msgstr "Vous avez pris la clé des catacombes."
+msgstr "Vous avez pris la Clé des Catacombes."
 
 msgid "TXT_SECURITYKEY"
-msgstr "Vous avez pris la clé de la sécurité."
+msgstr "Vous avez pris la Clé de la Sécurité."
 
 msgid "TXT_COREKEY"
-msgstr "Vous avez pris la clé du réacteur."
+msgstr "Vous avez pris la Clé du Réacteur."
 
 msgid "TXT_MAULERKEY"
-msgstr "Vous avez pris la clé du Broyeur."
+msgstr "Vous avez pris la Clé du Broyeur."
 
 msgid "TXT_FACTORYKEY"
-msgstr "Vous avez pris la clé de l'usine."
+msgstr "Vous avez pris la Clé de l'Usine."
 
 msgid "TXT_MINEKEY"
-msgstr "Vous avez pris la clé de la mine."
+msgstr "Vous avez pris la Clé de la Mine."
 
 msgid "TXT_NEWKEY5"
-msgstr "Vous avez pris la nouvelle clé 5."
+msgstr "Vous avez pris la Nouvelle Clé 5."
 
 msgid "TXT_ORACLEPASS"
-msgstr "Vous avez pris le passe de l'Oracle."
+msgstr "Vous avez pris le Passe de l'Oracle."
 
 msgid "TXT_HEGRENADES"
 msgstr "Vous avez pris les Grenades Explosives."
 
 msgid "TXT_PHGRENADES"
-msgstr "Vous avez pris les Grenades Phosphoriques."
+msgstr "Vous avez pris les Grenades Phosphoreuses."
 
 msgid "TXT_CLIPOFBULLETS"
-msgstr "Vous avez pris le Chargeur."
+msgstr "Vous avez pris le chargeur."
 
 msgid "TXT_BOXOFBULLETS"
 msgstr "Vous avez pris la boîte de balles."
@@ -2068,16 +2068,16 @@ msgid "TXT_AMMOSATCHEL"
 msgstr "Vous avez pris la sacoche de munitions."
 
 msgid "MSG_TALISMANRED"
-msgstr "Vous avez un pressentiment qu'il ne fallait pas y toucher…"
+msgstr "Vous avez le sentiment qu'il ne fallait pas y toucher…"
 
 msgid "MSG_TALISMANGREEN"
-msgstr "Quel que soit cette chose, elle ne devrait pas être ici…"
+msgstr "Quel que soit cette chose, elle n'aurait pas dû arriver dans ce monde…"
 
 msgid "MSG_TALISMANBLUE"
-msgstr "Ca doit servir a quelque chose…"
+msgstr "Ca doit servir à quelque chose…"
 
 msgid "MSG_TALISMANPOWER"
-msgstr "Vous avez une puissance inégalée !"
+msgstr "Votre force physique est décuplée !"
 
 msgid "TXT_NEEDKEY"
 msgstr "Vous n'avez pas la clé"
@@ -2098,25 +2098,25 @@ msgid "TXT_NEED_HANDPRINT"
 msgstr "Votre main n'est pas reconnue par le scanner"
 
 msgid "TXT_NEED_GOLDKEY"
-msgstr "Vous avez besoin d'une clé d'or"
+msgstr "Vous avez besoin d'une Clé d'Or"
 
 msgid "TXT_NEED_IDBADGE"
 msgstr "Vous avez besoin d'un badge d'identification"
 
 msgid "TXT_NEED_IDBADGE_DOOR"
-msgstr "Vous avez besoin d'un badge d'identification pour ouvrir cette porte"
+msgstr "Vous avez besoin d'un Badge d'Identification pour ouvrir cette porte"
 
 msgid "TXT_NEED_SILVERKEY"
-msgstr "Vous avez besoin de la clé en argent"
+msgstr "Vous avez besoin de la Clé en Argent"
 
 msgid "TXT_NEED_BRASSKEY"
-msgstr "Vous avez besoin de la clé en bronze"
+msgstr "Vous avez besoin de la Clé en Bronze"
 
 msgid "TXT_NEED_REDCRYSTAL"
-msgstr "Vous avez besoin du cristal rouge"
+msgstr "Vous avez besoin du Cristal Rouge"
 
 msgid "TXT_NEED_BLUECRYSTAL"
-msgstr "Vous avez besoin du cristal bleu"
+msgstr "Vous avez besoin du Cristal Bleu"
 
 msgid "TXT_RETAIL_ONLY"
 msgstr "Cette zone n'est accessible que dans la version complète de Strife"
@@ -2128,14 +2128,14 @@ msgid "TXT_NEED_CHALICE"
 msgstr "Vous avez besoin du calice !"
 
 msgid "TXT_NEED_OPASS"
-msgstr "Vous avez besoin du passe Oracle !"
+msgstr "Vous avez besoin du Passe Oracle !"
 
 msgid "TAG_PUNCHDAGGER"
 msgstr "Dague de Poing"
 
 # Crossbow with electric bolts
 msgid "TAG_STRIFECROSSBOW1"
-msgstr "Arbalète Electrique"
+msgstr "Arbalète Électrique"
 
 # Crossbow with poison bolts
 msgid "TAG_STRIFECROSSBOW2"
@@ -2183,19 +2183,19 @@ msgid "TAG_BELDINSRING"
 msgstr "Anneau"
 
 msgid "TAG_OFFERINGCHALICE"
-msgstr "Calice d'Obole"
+msgstr "Calice d'Offrande"
 
 msgid "TAG_EAR"
 msgstr "Oreille"
 
 msgid "TAG_BROKENCOUPLING"
-msgstr "Coupleur Energétique cassé"
+msgstr "Coupleur Énergétique cassé"
 
 msgid "TAG_SHADOWARMOR"
 msgstr "Armure de l'Ombre"
 
 msgid "TAG_ENVSUIT"
-msgstr "Combinaison Hazmat"
+msgstr "Combinaison Environnementale"
 
 msgid "TAG_GUARDUNIFORM"
 msgstr "Uniforme de Garde"
@@ -2243,7 +2243,7 @@ msgid "TAG_HEALTHFILLUP"
 msgstr "Santé"
 
 msgid "TAG_TELEPORTERBEACON"
-msgstr "Balise de téléportation"
+msgstr "Balise de Téléportation"
 
 msgid "TAG_METALARMOR"
 msgstr "Armure en Métal"
@@ -2255,10 +2255,10 @@ msgid "TAG_HEGRENADES"
 msgstr "Grenades Explosives"
 
 msgid "TAG_PHGRENADES"
-msgstr "Grenades Incendiaires"
+msgstr "Grenades Phosphoreuses"
 
 msgid "TAG_CLIPOFBULLETS"
-msgstr "Chargeur d'Assaut"
+msgstr "Chargeur"
 
 msgid "TAG_BOXOFBULLETS"
 msgstr "Bôite de Munitions"
@@ -2270,23 +2270,23 @@ msgid "TAG_CRATEOFMISSILES"
 msgstr "Caisse de Mini-Missiles"
 
 msgid "TAG_ENERGYPOD"
-msgstr "Cellule Energétique"
+msgstr "Cellule Énergétique"
 
 msgid "TAG_ENERGYPACK"
-msgstr "Pack Energétique"
+msgstr "Pack Énergétique"
 
 msgid "TAG_POISONBOLTS"
 msgstr "Carreaux Empoisonnés"
 
 msgid "TAG_ELECTRICBOLTS"
-msgstr "Carreaux Electriques"
+msgstr "Carreaux Électriques"
 
 msgid "TAG_AMMOSATCHEL"
-msgstr "Sacoche à munitions"
+msgstr "Sacoche à Munitions"
 
 # In-game key list. Use short strings.
 msgid "TAG_BASEKEY"
-msgstr "Clé de la base"
+msgstr "Clé de la Base"
 
 msgid "TAG_GOVSKEY"
 msgstr "Clé du Gouverneur"
@@ -2301,7 +2301,7 @@ msgid "TAG_PRISONKEY"
 msgstr "Clé de la Prison"
 
 msgid "TAG_SEVEREDHAND"
-msgstr "Main coupée"
+msgstr "Main Coupée"
 
 msgid "TAG_POWER1KEY"
 msgstr "Clé Power1"
@@ -2340,7 +2340,7 @@ msgid "TAG_REDCRYSTALKEY"
 msgstr "Clé de Cristal Rouge"
 
 msgid "TAG_BLUECRYSTALKEY"
-msgstr "Clé de Crisal Bleu"
+msgstr "Clé de Cristal Bleu"
 
 msgid "TAG_CHAPELKEY"
 msgstr "Clé de la Chapelle"
@@ -2364,23 +2364,23 @@ msgid "TAG_MINEKEY"
 msgstr "Clé de la Mine"
 
 msgid "TAG_NEWKEY5"
-msgstr "Clé nouveau 5"
+msgstr "Nouvelle Clé 5"
 
 # End of key list.
 msgid "TAG_ORACLEPASS"
 msgstr "Passe de l'Oracle"
 
 msgid "TAG_10GOLD"
-msgstr "10 Pièces"
+msgstr "10 pièces"
 
 msgid "TAG_25GOLD"
-msgstr "25 Pièces"
+msgstr "25 pièces"
 
 msgid "TAG_50GOLD"
-msgstr "50 Pièces"
+msgstr "50 pièces"
 
 msgid "TAG_300GOLD"
-msgstr "300 Pièces"
+msgstr "300 pièces"
 
 msgid "TXT_PERSON"
 msgstr "Personne"
@@ -2434,10 +2434,10 @@ msgid "TAG_TALISMANBLUE"
 msgstr "Talisman Bleu"
 
 msgid "OB_ACOLYTE"
-msgstr "%o a souffert d'une bavure policière."
+msgstr "%o a souffert de l'excès de zèle d'un Acolyte."
 
 msgid "OB_MACIL"
-msgstr "%o n'aurait jamais du se rebeller contre Macil."
+msgstr "%o n'aurait jamais dû se rebeller contre Macil."
 
 msgid "OB_REBEL"
 msgstr "%o a été abattu@[e_fr] par un rebelle."
@@ -2461,7 +2461,7 @@ msgid "OB_PROGRAMMER"
 msgstr "%o a été effacé@[e_fr] par le Programmeur."
 
 msgid "OB_STFBISHOP"
-msgstr "%o a été pulvérisé@[e_fr] par l'Evèque."
+msgstr "%o a été pulvérisé@[e_fr] par l'Évêque."
 
 msgid "OB_SENTINEL"
 msgstr "%o a été abattu@[e_fr] par une Sentinelle."
@@ -2473,7 +2473,7 @@ msgid "OB_INQUISITOR"
 msgstr "%o a été condamné@[e_fr] par un Inquisiteur."
 
 msgid "OB_STALKER"
-msgstr "%o a été asticoté@[e_fr] par un chasseur."
+msgstr "%o a été asticoté@[e_fr] par un Traqueur."
 
 msgid "OB_TURRET"
 msgstr "%o a déclenché les défenses automatiques."
@@ -2500,7 +2500,7 @@ msgid "OB_MPPOISONBOLT"
 msgstr "%o a recu une dose létale de la colère de %k."
 
 msgid "OB_MPASSAULTGUN"
-msgstr "%o s'est fait@[e_fr] couvrir de trous par le fusil d'assaut de %k."
+msgstr "%o s'est fait@[e_fr] percer dans tous les sens par le fusil d'assaut de %k."
 
 msgid "OB_MPMINIMISSILELAUNCHER"
 msgstr "%o a avalé le missile de %k."
@@ -2532,34 +2532,34 @@ msgid "TXT_FREED_PRISONERS"
 msgstr "Vous avez libéré les prisonniers !"
 
 msgid "TXT_DESTROYED_CONVERTER"
-msgstr "Vous avez détruit le convertisseur !"
+msgstr "Vous avez détruit le Convertisseur !"
 
 msgid "TXT_COMPLETED_TRAINING"
 msgstr "Félicitations ! Vous êtes arrivé à la fin de l'entraînement"
 
 msgid "TXT_QUEST_14"
-msgstr "Vous avez explosé le cristal"
+msgstr "Vous avez explosé le Cristal"
 
 msgid "TXT_QUEST_16"
-msgstr "Vous avez explosé les portes"
+msgstr "Vous avez explosé les Portes"
 
 msgid "TXT_QUEST_27"
-msgstr "Vous avez explosé l'ordinateur"
+msgstr "Vous avez explosé l'Ordinateur"
 
 msgid "TXT_KILLED_BISHOP"
-msgstr "Vous avez tué l'évèque !"
+msgstr "Vous avez tué l'Évêque !"
 
 msgid "TXT_KILLED_ORACLE"
-msgstr "Vous avez tué l'oracle !"
+msgstr "Vous avez tué l'Oracle !"
 
 msgid "TXT_KILLED_MACIL"
 msgstr "Vous avez tué Macil !"
 
 msgid "TXT_KILLED_LOREMASTER"
-msgstr "Vous avez tué le Maitre des traditions !"
+msgstr "Vous avez tué le Maitre des Traditions !"
 
 msgid "TXT_YOUFOOL"
-msgstr "Vous êtes fou ! Vous avez activé l'alarme."
+msgstr "Imbécile ! Vous avez activé l'alarme."
 
 msgid "TXT_YOUREDEAD"
 msgstr "Vous êtes mort ! Vous avez activé l'alarme."
@@ -2574,10 +2574,10 @@ msgid "TXT_COMM0"
 msgstr "Message reçu…"
 
 msgid "TXT_COMM1"
-msgstr "Message reçu de BlackBird…"
+msgstr "Message Reçu de BlackBird…"
 
 msgid "TXT_FINDHELP"
-msgstr "Trouvez de L'aide"
+msgstr "Trouvez de l'aide"
 
 # As in for %u amount of money.
 msgid "TXT_TRADE"
@@ -2587,16 +2587,16 @@ msgid "GOTCHEXARMOR"
 msgstr "Vous avez pris l'armure Chex®."
 
 msgid "GOTSUPERCHEXARMOR"
-msgstr "Vous avez pris la super armure Chex® !"
+msgstr "Vous avez pris la Super Armure Chex® !"
 
 msgid "GOTWATER"
 msgstr "Vous avez pris un verre d'eau."
 
 msgid "GOTREPELLENT"
-msgstr "Vous avez pris de la chaux répulsive."
+msgstr "Vous avez pris du répulsif à gelée."
 
 msgid "GOTBREAKFAST"
-msgstr "Petit-déjeuner superchargé !"
+msgstr "Petit-déjeuner Superchargé !"
 
 msgid "GOTCBLUEKEY"
 msgstr "Vous avez pris une clé bleue."
@@ -2617,10 +2617,10 @@ msgid "GOTVEGETABLES"
 msgstr "Vous avez pris un bol de légumes."
 
 msgid "GOTSLIMESUIT"
-msgstr "Combinaison pare-gelée"
+msgstr "Combinaison Pare-Gelée trouvée"
 
 msgid "GOTCHEXMAP"
-msgstr "Vous avez trouve une carte informatique de la zone"
+msgstr "Carte Informatique Trouvée"
 
 msgid "GOTZORCHRECHARGE"
 msgstr "Vous avez pris une mini recharge zorch."
@@ -2638,7 +2638,7 @@ msgid "GOTPHASINGZORCHERRECHARGE"
 msgstr "Vous avez pris une recharge zorch phasée"
 
 msgid "GOTPHASINGZORCHERPACK"
-msgstr "Vous avez pris un pack de recharges zorch phasée."
+msgstr "Vous avez pris un pack de recharges zorch phasées."
 
 msgid "GOTLARGEZORCHERRECHARGE"
 msgstr "Vous avez pris une recharge pour zorcheur large."
@@ -2647,7 +2647,7 @@ msgid "GOTLARGEZORCHERPACK"
 msgstr "Vous avez pris un pack de recharges pour zorcheur large."
 
 msgid "GOTZORCHPACK"
-msgstr "Vous avez pris un zorchpak !"
+msgstr "Vous avez pris un Zorchpak !"
 
 msgid "GOTLAZDEVICE"
 msgstr "Vous avez pris l'Outil ZZL ! Wahou !"
@@ -2656,19 +2656,19 @@ msgid "GOTRAPIDZORCHER"
 msgstr "Vous avez pris le Zorcheur Rapide !"
 
 msgid "GOTSUPERBOOTSPORK"
-msgstr "Vous avez pris la Super Fourchette !"
+msgstr "Vous avez pris la Super Fourchette à Botte !"
 
 msgid "GOTZORCHPROPULSOR"
 msgstr "Vous avez pris le Propulseur Zorch !"
 
 msgid "GOTPHASINGZORCHER"
-msgstr "Vous avez pris le Zorcheur phasé !"
+msgstr "Vous avez pris le Zorcheur Phasé !"
 
 msgid "GOTLARGEZORCHER"
 msgstr "Vous avez pris le Zorcheur Large !"
 
 msgid "GOTSUPERLARGEZORCHER"
-msgstr "Vous avez pris le méga Zorcheur !"
+msgstr "Vous avez pris le Méga Zorcheur !"
 
 msgid "GOTMINIZORCHER"
 msgstr "Vous avez pris le Mini Zorcheur."
@@ -2677,7 +2677,7 @@ msgid "TAG_SPOON"
 msgstr "Cuillère à Botte"
 
 msgid "TAG_SPORK"
-msgstr "Super Fourchette"
+msgstr "Super Fourchette à Botte"
 
 msgid "TAG_MINIZORCHER"
 msgstr "Mini Zorcheur"
@@ -2701,13 +2701,13 @@ msgid "TAG_LAZDEVICE"
 msgstr "Zorcheur Zone Large"
 
 msgid "OB_COMMONUS"
-msgstr "%o à été gélifié par un flemoid."
+msgstr "%o à été gélifié par un flémoïde."
 
 msgid "OB_BIPEDICUS"
-msgstr "%o à été gélifié@[e_fr] par un bipedicus."
+msgstr "%o à été gélifié@[e_fr] par un bipédicus."
 
 msgid "OB_BIPEDICUS2"
-msgstr "%o à été gélifié@[e_fr] par un bipedicus en armure."
+msgstr "%o à été gélifié@[e_fr] par un bipédicus en armure."
 
 msgid "OB_CYCLOPTIS"
 msgstr "%o à été gélifié@[e_fr] par un cycloptis."
@@ -2740,26 +2740,26 @@ msgid "OB_MPPHASEZORCH"
 msgstr "%o à été phasé@[e_fr] par %k."
 
 msgid "OB_MPLAZ_BOOM"
-msgstr "%o est devenu@[e_fr] la proie du ZZL de %k."
+msgstr "%o a été la proie du ZZL de %k."
 
 msgctxt "chex"
 msgid "OB_MPBFG_SPLASH"
 msgstr "%o à été pris@[e_fr] par le ZZL de %k."
 
 msgid "CHUSTR_E1M1"
-msgstr "E1M1 : La piste d'atterissage"
+msgstr "E1M1 : La piste d'Atterissage"
 
 msgid "CHUSTR_E1M2"
-msgstr "E1M2 : Le centre de stockage"
+msgstr "E1M2 : Le Centre de Stockage"
 
 msgid "CHUSTR_E1M3"
-msgstr "E1M3 : Les labos expérimentaux"
+msgstr "E1M3 : Les Labos Expérimentaux"
 
 msgid "CHUSTR_E1M4"
 msgstr "E1M4 : L'Arboretum"
 
 msgid "CHUSTR_E1M5"
-msgstr "E1M5 : Les cavernes de Bazoik"
+msgstr "E1M5 : Les Cavernes de Bazoik"
 
 msgid "CE1TEXT"
 msgstr ""
@@ -2775,51 +2775,51 @@ msgstr ""
 "Appuyez sur échap pour continuer…"
 
 msgid "CE2TEXT"
-msgstr "Vous l'avez fait !"
+msgstr "Vous avez réussi !"
 
 msgid "CE3TEXT"
-msgstr "Merveilleux travail !"
+msgstr "Merveilleux Travail !"
 
 msgid "CE4TEXT"
 msgstr "Fantastique"
 
 msgid "CLOADNET"
 msgstr ""
-"Vous ne pouvez pas charger rapidement quand vous êtes en ligne!\n"
+"Vous ne pouvez pas charger une quête quand vous êtes en ligne!\n"
 "\n"
 "Appuyez sur une touche."
 
 msgctxt "chex"
 msgid "QSPROMPT"
 msgstr ""
-"Sauvegarde rapide sur le fichier\n"
+"Sauvegarde rapide sur la quête nommée\n"
 "\n"
-"'%s'?\n"
+"'%s' ?\n"
 "\n"
 "Appuyez sur Y ou N."
 
 msgctxt "chex"
 msgid "QLOADNET"
 msgstr ""
-"Vous ne pouvez pas charger quand vous êtes en ligne!\n"
+"Vous ne pouvez pas charger une quête quand vous êtes en ligne!\n"
 "\n"
 "Appuyez sur une touche."
 
 msgctxt "chex"
 msgid "QLPROMPT"
 msgstr ""
-"Chargement rapide sur le fichier\n"
+"Chargement rapide de la quête nommée\n"
 "\n"
-"'%s'?\n"
+"'%s' ?\n"
 "\n"
 "Appuyez sur Y ou N."
 
 msgid "CNEWGAME"
 msgstr ""
-"Vous ne pouvez pas lancer une partie quand\n"
+"Vous ne pouvez pas lancer une quête quand\n"
 "vous êtes en ligne!\n"
 "\n"
-"appuyez sur une touche."
+"Appuyez sur une touche."
 
 msgid "CNIGHTMARE"
 msgstr ""
@@ -2832,27 +2832,27 @@ msgid "CSWSTRING"
 msgstr ""
 "Ceci est Chex® Quest. Attendez-vous\n"
 "\n"
-"à de futur niveaux sur www.chexquest.com.\n"
+"à de futurs niveaux sur www.chexquest.com.\n"
 "\n"
 "Appuyez sur une touche."
 
 msgctxt "chex"
 msgid "NETEND"
 msgstr ""
-"Vous ne pouvez pas arrêter la partie quand vous êtes en ligne!\n"
+"Vous ne pouvez pas mettre fin à la quête quand vous êtes en ligne!\n"
 "\n"
 "Appuyez sur une touche."
 
 msgctxt "chex"
 msgid "ENDGAME"
 msgstr ""
-"Finir la partie?\n"
+"Voulez vous mettre fin à la quête ?\n"
 "\n"
 "Appuyez sur Y ou N."
 
 msgctxt "chex"
 msgid "STSTR_DQDON"
-msgstr "Mode invincible : ACTIF"
+msgstr "Mode Invincible : ACTIF"
 
 msgctxt "chex"
 msgid "STSTR_DQDOFF"
@@ -2899,7 +2899,7 @@ msgid "MNU_INFO"
 msgstr "Info"
 
 msgid "MNU_QUITGAME"
-msgstr "Quitter le jeu"
+msgstr "Quitter le Jeu"
 
 # This text is extremely space limited!
 msgid "MNU_CHOOSESKILL"
@@ -2921,13 +2921,13 @@ msgid "SKILL_NIGHTMARE"
 msgstr "Cauchemar !"
 
 msgid "CSKILL_BABY"
-msgstr "On y va Doucement"
+msgstr "On y va doucement"
 
 msgid "CSKILL_EASY"
-msgstr "Pas trop Collant"
+msgstr "Pas trop collant"
 
 msgid "CSKILL_NORMAL"
-msgstr "Des Tonnes de Gelée"
+msgstr "Des tonnes de gelée"
 
 msgid "CSKILL_HARD"
 msgstr "Extrêmement Gluant"
@@ -2936,7 +2936,7 @@ msgid "CSKILL_NIGHTMARE"
 msgstr "Carrément Crade !"
 
 msgid "SSKILL_BABY"
-msgstr "Entrâinement"
+msgstr "Entraînement"
 
 msgid "SSKILL_EASY"
 msgstr "Recrue"
