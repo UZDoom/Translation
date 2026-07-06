@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-06 15:02+0000\n"
+"PO-Revision-Date: 2026-07-06 17:01+0000\n"
 "Last-Translator: Tapwave <kolb.rodrigue@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/fr/>\n"
 "Language: fr\n"
@@ -2961,13 +2961,13 @@ msgid "MNU_BRINGEST"
 msgstr "Amenez Les Moi"
 
 msgid "MNU_SMITE"
-msgstr "Tu est Maître-Meurtrier"
+msgstr "Tu es Maître-Pourfendeur"
 
 msgid "MNU_BLACKPLAGUE"
-msgstr "La Peste Noire me Possède"
+msgstr "Peste Noire Vous Possède"
 
 msgid "MNU_SQUIRE"
-msgstr "Ecuyer"
+msgstr "Écuyer"
 
 msgid "MNU_KNIGHT"
 msgstr "Chevalier"
@@ -3018,7 +3018,7 @@ msgid "MNU_FIGHTER"
 msgstr "Guerrier"
 
 msgid "MNU_CLERIC"
-msgstr "Moine"
+msgstr "Prêtre"
 
 msgid "MNU_MAGE"
 msgstr "Mage"
@@ -3027,7 +3027,7 @@ msgid "MNU_RANDOM"
 msgstr "Au Hasard"
 
 msgid "MNU_EPISODE"
-msgstr "Quel épisode ?"
+msgstr "Quel Épisode ?"
 
 msgctxt "strife"
 msgid "MNU_EPISODE"
@@ -3046,19 +3046,19 @@ msgid "MNU_OSSUARY"
 msgstr "L'Ossuaire"
 
 msgid "MNU_DEMESNE"
-msgstr "Le domaine Stagnant"
+msgstr "Le Domaine Stagnant"
 
 msgid "GMPLYMNU_TEAMPLAY"
-msgstr "Jeu en équipe"
+msgstr "Jeu en Équipe"
 
 msgid "GMPLYMNU_TEAMDAMAGE"
-msgstr "Facteur de Tir Fratricide"
+msgstr "Facteur de tir fratricide"
 
 msgid "GMPLYMNU_SMARTAUTOAIM"
-msgstr "Autovisée intelligente"
+msgstr "Autovisée Intelligente"
 
 msgid "GMPLYMNU_FALLINGDAMAGE"
-msgstr "Dommages de chute"
+msgstr "Dégats de chute"
 
 msgid "GMPLYMNU_DROPWEAPON"
 msgstr "Arme lâchée à la mort"
@@ -3082,16 +3082,16 @@ msgid "GMPLYMNU_MONSTERSRESPAWN"
 msgstr "Monstres réapparaissent"
 
 msgid "GMPLYMNU_NORESPAWN"
-msgstr "Pas de réapparition"
+msgstr "Pas de réapparition de monstres"
 
 msgid "GMPLYMNU_ITEMSRESPAWN"
 msgstr "Objets réapparaissent"
 
 msgid "GMPLYMNU_SUPERRESPAWN"
-msgstr "Powerups réapparaissent"
+msgstr "Powerups puissants réapparaissent"
 
 msgid "GMPLYMNU_FASTMONSTERS"
-msgstr "Monstres Rapides"
+msgstr "Monstres rapides"
 
 msgid "GMPLYMNU_INSTANTREACTION"
 msgstr "Réflèxes des Monstres comme en Cauchemar"
@@ -3106,22 +3106,22 @@ msgid "GMPLYMNU_ALLOWSUICIDE"
 msgstr "Autoriser Suicide"
 
 msgid "GMPLYMNU_ALLOWJUMP"
-msgstr "Autoriser Sauts"
+msgstr "Autoriser sauts"
 
 msgid "GMPLYMNU_ALLOWCROUCH"
-msgstr "Autoriser Acroupissement"
+msgstr "Autoriser acroupissement"
 
 msgid "GMPLYMNU_ALLOWFREELOOK"
-msgstr "Autoriser Vue Libre"
+msgstr "Autoriser vue libre"
 
 msgid "GMPLYMNU_ALLOWFOV"
-msgstr "Autoriser Angles de vue"
+msgstr "Autoriser angles de vue"
 
 msgid "GMPLYMNU_BFGFREEAIM"
-msgstr "Autoriser Visée au BFG"
+msgstr "Autoriser visée au BFG"
 
 msgid "GMPLYMNU_ALLOWAUTOMAP"
-msgstr "Autoriser Carte"
+msgstr "Autoriser carte"
 
 msgid "GMPLYMNU_AUTOMAPALLIES"
 msgstr "Alliés sur la carte"
@@ -3136,7 +3136,7 @@ msgid "GMPLYMNU_DONTCHECKAMMO"
 msgstr "Vérifier muni. pour changer arme"
 
 msgid "GMPLYMNU_KILLBOSSSPAWNS"
-msgstr "Tuer L'Icône tue ses monstres"
+msgstr "Tuer l'Icône tue ses monstres"
 
 msgid "GMPLYMNU_NOCOUNTENDMONSTER"
 msgstr "Ennemis du secteur sortie comptés"
@@ -3160,16 +3160,16 @@ msgid "GMPLYMNU_SPAWNFARTHEST"
 msgstr "Apparaître au plus loin"
 
 msgid "GMPLYMNU_SAMEMAP"
-msgstr "Même Carte"
+msgstr "Même carte"
 
 msgid "GMPLYMNU_FORCERESPAWN"
-msgstr "Forcer Réapparition"
+msgstr "Forcer réapparition"
 
 msgid "GMPLYMNU_ALLOWEXIT"
-msgstr "Autoriser Sortie"
+msgstr "Autoriser sortie"
 
 msgid "GMPLYMNU_BARRELSRESPAWN"
-msgstr "Réapparition des Tonneaux"
+msgstr "Réapparition des barils"
 
 msgid "GMPLYMNU_RESPAWNPROTECTION"
 msgstr "Protection à la réapparition"
@@ -3214,10 +3214,10 @@ msgid "GMPLYMNU_SPAWNWHEREDIED"
 msgstr "Réapparaitre sur lieu de mort"
 
 msgid "GMPLYMNU_ALWAYSSPAWNMULTI"
-msgstr "Toujours créer des objets multi-joueurs"
+msgstr "Toujours faire apparaître les objets multi-joueurs"
 
 msgid "GMPLYMNU_NOVERTSPREAD"
-msgstr "Permettre la propagation verticale des balles"
+msgstr "Permettre la Dispersion Verticale des Balles"
 
 msgid "GMPLYMNU_NOEXTRAAMMO"
 msgstr "Les armes donnent des munitions supplémentaires (DM)"
@@ -3238,7 +3238,7 @@ msgid "CMPTMNU_NOBLOCKFRIENDS"
 msgstr "Monstres amicaux non bloqués"
 
 msgid "CMPTMNU_LIMITPAIN"
-msgstr "Limiter âmes des élémentaires"
+msgstr "Limiter Âmes des Élémentaires"
 
 msgid "CMPTMNU_MBFMONSTERMOVE"
 msgstr "Mouvement monstre affecté par effets"
@@ -3247,7 +3247,7 @@ msgid "CMPTMNU_CROSSDROPOFF"
 msgstr "Monstres ne passent pas les corniches"
 
 msgid "CMPTMNU_DROPOFF"
-msgstr "Monstres bloqués par les corniches"
+msgstr "Monstres coincés sur les corniches"
 
 msgid "CMPTMNU_INVISIBILITY"
 msgstr "Monstres voient joueurs invisibles"
@@ -3262,16 +3262,16 @@ msgid "CMPTMNU_DEHACKEDBEHAVIOR"
 msgstr "Comportement DeHackEd"
 
 msgid "CMPTMNU_DEHHEALTH"
-msgstr "Para. santé DEH comme Doom2.EXE"
+msgstr "Para. santé DEH comme Doom2.exe"
 
 msgid "CMPTMNU_MUSHROOM"
-msgstr "Vitesse A_Mushroom originale pour DEH"
+msgstr "Vitesse A_Mushroom originale pour les mods DEH"
 
 msgid "CMPTMNU_MAPACTIONBEHAVIOR"
 msgstr "Comportement Niveau/Actions"
 
 msgid "CMPTMNU_USEBLOCKING"
-msgstr "Toute ligne d'action bloque <utiliser>"
+msgstr "Tous les segments avec para. spécial bloquent <utiliser>"
 
 msgid "CMPTMNU_ANYBOSSDEATH"
 msgstr "N'importe quel boss active actions boss"
