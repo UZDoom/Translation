@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-06 07:01+0000\n"
+"PO-Revision-Date: 2026-07-06 11:01+0000\n"
 "Last-Translator: Tapwave <kolb.rodrigue@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/uzdoom/common/fr/>\n"
 "Language: fr\n"
@@ -1415,7 +1415,7 @@ msgid "MISCMNU_QUICKSAVECOUNT"
 msgstr "Nombre de sauvegardes en rotation"
 
 msgid "MISCMNU_CLEANMENU"
-msgstr "Utiliser l'ancienne mise à l'échelle menu ZDooom"
+msgstr "Utiliser l'ancienne mise à l'échelle menu ZDoom"
 
 msgid "MISCMNU_PAUSEINBACKGROUND"
 msgstr "Mettre le jeu en pause en arrière-plan"
