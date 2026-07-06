@@ -2,15 +2,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-06-13 16:30+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-07-06 07:01+0000\n"
+"Last-Translator: Tapwave <kolb.rodrigue@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2026.7.dev0\n"
+"X-Generator: Weblate 2026.7.1.dev0\n"
 
 msgid "PRESSKEY"
 msgstr "Appuyez sur une touche."
@@ -318,9 +318,8 @@ msgstr "Mode Passe-muraille 3D : INACTIF"
 # “Rad”: Radiation-shielding suit
 # “Allmap”: Computer area map
 # “Lite-amp”: Light-amplification visor
-#, fuzzy
 msgid "STSTR_BEHOLD"
-msgstr "inVuln,"
+msgstr "in V uln, ber S erk, I nvisible, R adiation, c A rte ou L umière"
 
 msgid "STSTR_BEHOLDX"
 msgstr "Amélioration Activée"
@@ -379,7 +378,7 @@ msgid "TXT_CHEATARTIFACTS3"
 msgstr "C'est à vous"
 
 msgid "TXT_MIDASTOUCH"
-msgstr ""
+msgstr "You got the Midas Touch, baby"
 
 msgid "TXT_GOTSTUFF"
 msgstr "Voilà ton équipement !"
@@ -424,10 +423,10 @@ msgid "TXT_ANUBIS_OFF"
 msgstr "Plus d'armure d'ogre"
 
 msgid "TXT_CHASECAM_ON"
-msgstr ""
+msgstr "Caméra Troisième Personne : ACTIVE"
 
 msgid "TXT_CHASECAM_OFF"
-msgstr ""
+msgstr "Caméra Troisième Personne : INACTIVE"
 
 msgid "TXT_BADDIE_KILLED"
 msgstr "1 ennemi tué"
@@ -524,17 +523,16 @@ msgid "SCORE_COLOR"
 msgstr "Couleur"
 
 msgid "SCORE_SECRET"
-msgstr ""
+msgstr "Secret"
 
 msgid "SCORE_NAME"
 msgstr "Nom"
 
-#, fuzzy
 msgid "SCORE_DELAY"
-msgstr "Délai (ms)"
+msgstr "Délai"
 
 msgid "SCORE_FRAGS"
-msgstr ""
+msgstr "Frags"
 
 msgid "SCORE_DEATHS"
 msgstr "Morts"
@@ -546,7 +544,7 @@ msgid "SCORE_MISSED"
 msgstr "Ratés"
 
 msgid "SCORE_TOTAL"
-msgstr ""
+msgstr "Total"
 
 msgid "SCORE_LVLTIME"
 msgstr "Temps niveau"
@@ -558,13 +556,13 @@ msgid "TXT_IMITEMS"
 msgstr "Objets"
 
 msgid "TXT_IMSECRETS"
-msgstr ""
+msgstr "Secrets"
 
 msgid "TXT_IMTIME"
 msgstr "Temps"
 
 msgid "TXT_IMPAR"
-msgstr ""
+msgstr "Temps Imparti"
 
 msgid "WI_FINISHED"
 msgstr "Terminé"
@@ -580,7 +578,7 @@ msgid "AM_MONSTERS"
 msgstr "Monstres :"
 
 msgid "AM_SECRETS"
-msgstr ""
+msgstr "Secrets :"
 
 msgid "AM_ITEMS"
 msgstr "Objets :"
@@ -671,7 +669,7 @@ msgid "GOTMEDIKIT"
 msgstr "Médikit récupéré."
 
 msgid "GOTSUPER"
-msgstr ""
+msgstr "Supercharge !"
 
 msgid "GOTBLUECARD"
 msgstr "Carte d'accès bleue récupérée."
@@ -695,7 +693,7 @@ msgid "GOTINVUL"
 msgstr "Invulnérabilité !"
 
 msgid "GOTBERSERK"
-msgstr ""
+msgstr "Berserk !"
 
 msgid "GOTINVIS"
 msgstr "Invisibilité Partielle"
@@ -860,13 +858,13 @@ msgid "CC_BARON"
 msgstr "Baron des Enfers"
 
 msgid "CC_ARACH"
-msgstr ""
+msgstr "Arachnotron"
 
 msgid "CC_PAIN"
 msgstr "Elémentaire de Douleur"
 
 msgid "CC_REVEN"
-msgstr ""
+msgstr "Revenant"
 
 msgid "CC_MANCU"
 msgstr "Mancube"
@@ -890,7 +888,7 @@ msgid "FN_HEAVY"
 msgstr "Mec au Gros Flingue"
 
 msgid "FN_SPECTRE"
-msgstr ""
+msgstr "Spectre"
 
 msgid "FN_SPIDER"
 msgstr "L'Araignée Commandante"
@@ -899,7 +897,7 @@ msgid "FN_CYBER"
 msgstr "Le Cyberdémon"
 
 msgid "FN_WOLFSS"
-msgstr ""
+msgstr "Nazi"
 
 msgid "FN_DOG"
 msgstr "Chien"
@@ -929,7 +927,7 @@ msgid "TAG_PLASMARIFLE"
 msgstr "Fusil à Plasma"
 
 msgid "TAG_BFG9000"
-msgstr ""
+msgstr "BFG 9000"
 
 msgid "AMMO_CLIP"
 msgstr "Balles"
@@ -1219,7 +1217,7 @@ msgid "FN_CLINK"
 msgstr "Sabregriffe"
 
 msgid "FN_DSPARIL"
-msgstr ""
+msgstr "D'Sparil"
 
 msgid "FN_HERETICIMP"
 msgstr "Gargouille"
@@ -1234,10 +1232,10 @@ msgid "FN_MINOTAUR"
 msgstr "Massetaure"
 
 msgid "FN_MUMMY"
-msgstr ""
+msgstr "Golem"
 
 msgid "FN_MUMMYLEADER"
-msgstr ""
+msgstr "Nitrogolem"
 
 msgid "FN_SNAKE"
 msgstr "Ophidien"
@@ -1474,7 +1472,7 @@ msgid "TXT_ARTIPUZZBOOK1"
 msgstr "Codex Démoniaque"
 
 msgid "TXT_ARTIPUZZBOOK2"
-msgstr ""
+msgstr "Liber Oscura"
 
 msgid "TXT_ARTIPUZZSKULL2"
 msgstr "Masque de Flammes"
@@ -1579,13 +1577,13 @@ msgid "TXT_NEED_KEY_CASTLE"
 msgstr "Vous avez besoin de la Clé du Château"
 
 msgid "FN_FIREDEMON"
-msgstr ""
+msgstr "Afrit"
 
 msgid "FN_DEMON1"
-msgstr ""
+msgstr "Serpent"
 
 msgid "FN_ETTIN"
-msgstr ""
+msgstr "Ettin"
 
 msgid "FN_CENTAUR"
 msgstr "Centaure"
@@ -1597,28 +1595,28 @@ msgid "FN_BISHOP"
 msgstr "Evèque"
 
 msgid "FN_ICEGUY"
-msgstr ""
+msgstr "Wendigo"
 
 msgid "FN_SERPENT"
 msgstr "Chasseur"
 
 msgid "FN_WRAITH"
-msgstr ""
+msgstr "Reiver"
 
 msgid "FN_DRAGON"
 msgstr "Vouivre de la Mort"
 
 msgid "FN_KORAX"
-msgstr ""
+msgstr "Korax"
 
 msgid "FN_FBOSS"
-msgstr ""
+msgstr "Zedek"
 
 msgid "FN_MBOSS"
-msgstr ""
+msgstr "Menelkir"
 
 msgid "FN_CBOSS"
-msgstr ""
+msgstr "Traductus"
 
 msgid "FN_HERESIARCH"
 msgstr "L'Hérésiarche"
@@ -1729,7 +1727,7 @@ msgid "TAG_ARTIPUZZBOOK1"
 msgstr "Codex Démoniaque"
 
 msgid "TAG_ARTIPUZZBOOK2"
-msgstr ""
+msgstr "Liber Oscura"
 
 msgid "TAG_ARTIPUZZSKULL2"
 msgstr "Masque de Flammes"
@@ -2169,7 +2167,7 @@ msgid "TAG_GLAUNCHER2"
 msgstr "Lance-Grenades Incendiaire"
 
 msgid "TAG_SIGIL"
-msgstr ""
+msgstr "Sigil"
 
 msgid "TAG_COIN"
 msgstr "Pièce"
@@ -2214,7 +2212,7 @@ msgid "TAG_REPORT"
 msgstr "Compte-rendu"
 
 msgid "TAG_INFO"
-msgstr ""
+msgstr "Info"
 
 msgid "TAG_TARGETER"
 msgstr "Cibleur"
@@ -2390,7 +2388,7 @@ msgid "TXT_PERSON"
 msgstr "Personne"
 
 msgid "TAG_ACOLYTE"
-msgstr ""
+msgstr "Acolyte"
 
 msgid "TAG_ARMORER"
 msgstr "Armurier"
@@ -2402,7 +2400,7 @@ msgid "TAG_BEGGAR"
 msgstr "Mendiant"
 
 msgid "TAG_MACIL1"
-msgstr ""
+msgstr "Macil"
 
 msgid "TAG_MACIL2"
 msgstr ""
