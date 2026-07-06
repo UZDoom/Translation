@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-06 09:01+0000\n"
+"PO-Revision-Date: 2026-07-06 11:01+0000\n"
 "Last-Translator: Tapwave <kolb.rodrigue@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/fr/>\n"
 "Language: fr\n"
@@ -16,7 +16,7 @@ msgid "PRESSKEY"
 msgstr "Appuyez sur une touche."
 
 msgid "SECRETMESSAGE"
-msgstr "Vous avez découvert un secret !"
+msgstr "Un secret est révélé !"
 
 msgid "D_DEVSTR"
 msgstr "Mode inutile : ACTIF"
@@ -36,7 +36,7 @@ msgstr ""
 
 msgid "QLOADNET"
 msgstr ""
-"Chargement Rapide impossible\n"
+"Chargement rapide impossible\n"
 "pendant une partie en réseau!\n"
 "Appuyez sur une touche."
 
@@ -49,13 +49,13 @@ msgstr ""
 msgid "NEWGAME"
 msgstr ""
 "Vous ne pouvez pas lancer\n"
-"une nouvelle partie en réseau.\n"
-"\n"
+"une nouvelle partie lors d'une\n"
+"partie en réseau.\n"
 "Appuyez sur une touche."
 
 msgid "NIGHTMARE"
 msgstr ""
-"Vous êtes sur ? Ce niveau de\n"
+"Vous êtes sûr ? Ce niveau de\n"
 "difficulté est vraiment impitoyable !\n"
 "\n"
 "Appuyez sur Y ou N."
@@ -64,7 +64,7 @@ msgid "SWSTRING"
 msgstr ""
 "Votre version de Doom est une version shareware.\n"
 "\n"
-"Pensez à commander la version complète!\n"
+"Vous devez commander la version complète.\n"
 "\n"
 "Appuyez sur une touche."
 
@@ -88,11 +88,11 @@ msgid "SWSTRING"
 msgstr "Disponible uniquement dans la version enregistrée"
 
 msgid "DOSY"
-msgstr "(Appuyez sur Y pour revenir à votre OS.)"
+msgstr "(Appuyez sur Y pour quitter)"
 
 msgid "QUITMSG1"
 msgstr ""
-"Ne partez pas, il ya encore\n"
+"Ne partez pas, il y a encore\n"
 "des démons a buter !"
 
 msgid "QUITMSG2"
@@ -112,7 +112,7 @@ msgstr ""
 
 msgid "QUITMSG5"
 msgstr ""
-"Ne partez pas encore ! Il y a \n"
+"Ne partez pas encore ! Il y a\n"
 "un démon dans le coin !"
 
 msgid "QUITMSG6"
@@ -127,13 +127,13 @@ msgstr "Allez y, partez, allez voir si j'y suis."
 msgid "QUITMSG8"
 msgstr ""
 "Vous voulez vraiment quitter ?\n"
-"Vous avez vraiment les fils qui se croisent !"
+"Vous avez vraiment perdu vos vertus !"
 
 # A “dimensional shambler” is a creature appearing in the works of H. P.
 # Lovecraft.
 msgid "QUITMSG9"
 msgstr ""
-"Ne partez pas maintenant, il y a un \n"
+"Ne partez pas maintenant, il y a un\n"
 "monstre interdimensionnel qui\n"
 "dans attend dans votre OS !"
 
@@ -175,7 +175,7 @@ msgstr ""
 msgid "QUITMSG17"
 msgstr ""
 "Mais vous êtes l'espoir,\n"
-"notre unique chance !"
+"mon unique chance !!"
 
 msgid "QUITMSG18"
 msgstr "Personne n'abandonne Blackbird."
@@ -208,8 +208,8 @@ msgstr ""
 
 msgid "QUITMSG25"
 msgstr ""
-"S'il vous plaît, ne quittez pas, nous\n"
-"avons besoin de votre aide !"
+"Ne partez pas.\n"
+"Nous avons besoin de votre aide !"
 
 msgid "QUITMSG26"
 msgstr ""
@@ -253,13 +253,13 @@ msgid "PD_ALL6O"
 msgstr "Il vous faut les six clés pour activer cet objet"
 
 msgid "PD_ALLKEYS"
-msgstr "Vous avez besoin de toutes les six clés"
+msgstr "Vous avez besoin de toutes les clés"
 
 msgid "HUSTR_MSGU"
-msgstr "[Message Non Envoyé]"
+msgstr "[Message non envoyé]"
 
 msgid "HUSTR_TALKTOSELF1"
-msgstr "Vous parlez tout seul"
+msgstr "Vous marmonnez tout seul"
 
 msgid "HUSTR_TALKTOSELF2"
 msgstr "Qui est là ?"
@@ -327,10 +327,10 @@ msgstr "Amélioration Activée"
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
 msgid "STSTR_CHOPPERS"
-msgstr "… C'est pas de la merde. - GM"
+msgstr "… C'est pas de la merde - GM"
 
 msgid "STSTR_CLEV"
-msgstr "Changement de niveau…"
+msgstr "Changement de Niveau…"
 
 msgid "TXT_BUDDHAON"
 msgstr "Mode Bouddha : ACTIF"
@@ -348,13 +348,13 @@ msgid "TXT_CHEATPOWERON"
 msgstr "Pouvoir : ACTIF"
 
 msgid "TXT_CHEATPOWEROFF"
-msgstr "Pouvoir : INACTIVE"
+msgstr "Pouvoir : INACTIF"
 
 msgid "TXT_CHEATHEALTH"
-msgstr "Pleine Santé"
+msgstr "Pleine santé"
 
 msgid "TXT_CHEATKEYS"
-msgstr "Toutes les Clés"
+msgstr "Toutes les clés"
 
 msgid "TXT_CHEATSOUNDON"
 msgstr "Débogage du son : ACTIF"
@@ -363,10 +363,10 @@ msgid "TXT_CHEATSOUNDOFF"
 msgstr "Débogage du son : INACTIF"
 
 msgid "TXT_CHEATIDDQD"
-msgstr "Tu essaie de tricher, hein ? Et bah tu crève !"
+msgstr "Tu essaies de tricher, hein ?Maintenant tu crèves !"
 
 msgid "TXT_CHEATIDKFA"
-msgstr "Tricheur—Tu ne mérite pas ton flingue"
+msgstr "Tricheur—Tu ne mérites pas d'armes"
 
 msgid "TXT_CHEATTICKERON"
 msgstr "Compteur : ACTIF"
@@ -396,7 +396,7 @@ msgid "TXT_STRANGER"
 msgstr "Vous vous sentez très mal à l'aise."
 
 msgid "TXT_NOTSTRANGE"
-msgstr "Vous vous sentez vachement moins mal à l'aise."
+msgstr "Vous ne vous sentez plus mal à l'aise."
 
 msgid "TXT_LEADBOOTSON"
 msgstr "Bottes en plomb : ACTIVES"
@@ -420,7 +420,7 @@ msgid "TXT_ANUBIS_ON"
 msgstr "« Tremblez de terreur ! »"
 
 msgid "TXT_ANUBIS_OFF"
-msgstr "Plus d'armure d'ogre"
+msgstr "Plus d'Armure d'Ogre"
 
 msgid "TXT_CHASECAM_ON"
 msgstr "Caméra Troisième Personne : ACTIVE"
@@ -429,10 +429,10 @@ msgid "TXT_CHASECAM_OFF"
 msgstr "Caméra Troisième Personne : INACTIVE"
 
 msgid "TXT_BADDIE_KILLED"
-msgstr "1 ennemi tué"
+msgstr "1 méchant tué"
 
 msgid "TXT_BADDIES_KILLED"
-msgstr "%d ennemis tués"
+msgstr "%d méchants tués"
 
 msgid "TXT_MONSTER_KILLED"
 msgstr "1 monstre tué"
@@ -444,7 +444,7 @@ msgid "TXT_NO_RESURRECT"
 msgstr "Impossible de ressuciter. Le joueur n'est plus connecté à son corps."
 
 msgid "TXT_ALL_ARTIFACTS"
-msgstr "Tous les artéfacts !"
+msgstr "Tous les Artéfacts !"
 
 msgid "TXT_WHAT_KILL"
 msgstr "Vous voulez tuer quoi en dehors d'une partie ?"
@@ -515,7 +515,6 @@ msgstr "Ultra kill !"
 msgid "MULTI5"
 msgstr "Monster kill !"
 
-#, fuzzy
 msgid "SCORE_BONUS"
 msgstr "Bonus"
 
@@ -5150,23 +5149,18 @@ msgstr "Contraste"
 msgid "OPTMNU_ACCESSIBILITY"
 msgstr "Options d'accessibilité"
 
-#, fuzzy
 msgid "OPTVAL_SMOOTH"
 msgstr "Lisse"
 
-#, fuzzy
 msgid "TAG_MAULER"
 msgstr "Broyeur"
 
-#, fuzzy
 msgid "TAG_GLAUNCHER"
 msgstr "Lance-Grenades"
 
-#, fuzzy
 msgid "OPTVAL_VTAVANILLA"
 msgstr "Auto (Vanilla Préféré)"
 
-#, fuzzy
 msgid "OPTVAL_VTAZDOOM"
 msgstr "Auto (ZDoom Préféré)"
 
@@ -5263,3 +5257,147 @@ msgstr "Applique un ajustement de luminosité linéaire. Ajustez à votre goût,
 
 msgid "DSPLYMNU_TOOLTIP_CONTRAST"
 msgstr "Ajuste la différence perçue entre des couleurs similaires. Contrôle à quel point l'image semble claire ou délavée. Ajustez à votre goût."
+
+msgid "DSPLYMNU_TOOLTIP_SATURATION"
+msgstr "Ajuste l'intensité des couleurs, rendant l'image plus claire ou délavée. Ajustez à votre goût."
+
+msgid "DSPLYMNU_IMAGEADJUST_BOTTOM"
+msgstr "Ajustez jusqu'à ce que cela soit d'une couleur grise uniforme."
+
+msgid "DSPLYMNU_SATURATION"
+msgstr "Saturation"
+
+msgid "ACTION_COPYTOCLIPBOARD"
+msgstr "Copier dans le presse-papiers"
+
+msgid "ACTION_RESTART"
+msgstr "Redémarrer"
+
+msgid "ACTION_ABORT"
+msgstr "Interrompre"
+
+msgid "ACTION_STARTGAME"
+msgstr "Démarrer la Partie"
+
+msgid "ACTION_KICK"
+msgstr "Exclure"
+
+msgid "ACTION_BAN"
+msgstr "Bannir"
+
+msgid "ERRORMNU_SAVE"
+msgstr "Sauvegarder Rapport"
+
+msgid "ERROR_FATAL"
+msgstr "Erreur Fatale"
+
+msgid "ERROR_ABORT"
+msgstr "L'éxécution n'a pas pu continuer."
+
+msgid "FILEPICKER_ANY"
+msgstr "Tous les Fichiers"
+
+msgid "FILEPICKER_REPORTS"
+msgstr "Archives Zip des Rapports de Plantage"
+
+msgid "HAPMNU_TITLE"
+msgstr "Options du Retour de Force Haptique"
+
+msgid "CMPTMNU_AUTO"
+msgstr "Auto-détecter les paramètres de compatibilité"
+
+msgid "DSPLYMNU_POWERUPFADE"
+msgstr "Intensité de la coloration des power-ups"
+
+msgid "PICKER_PLAYERCLASS"
+msgstr "Classe du Joueur"
+
+msgid "OPTVAL_SBSLETTERBOX"
+msgstr "Affichage Letterbox Côte-à-côte"
+
+msgid "OPTVAL_DIRECTMIX"
+msgstr "Mix Direct"
+
+msgid "OPTVAL_SUPERSTEREO"
+msgstr "Super Stéréo"
+
+msgid "OPENALMNU_MUSICMODE"
+msgstr "Mode Musique"
+
+msgid "OPENALMNU_SUPERSTEREOWIDTH"
+msgstr "Largeur Super Stéréo"
+
+msgid "CNTRLMNU_ADJUST_LIGHTS"
+msgstr "Ajustement Lumière"
+
+msgid "TAG_MACIL"
+msgstr "Macil"
+
+msgid "ACTION_OPENWADDIR"
+msgstr "Parcourir WADs"
+
+msgid "ACTION_OPENCONFIGDIR"
+msgstr "Parcourir Configurations"
+
+msgid "OPTMNU_OPENWADS"
+msgstr "Parcourir Dossier IWAD"
+
+msgid "SNDMNU_NOMIDIOPTIONS"
+msgstr "Le périphérique MIDI n'expose aucune option."
+
+msgid "CMPTMNU_EMULATEMIKOPORTALS"
+msgstr "Émuler les Mikoportals"
+
+msgid "HUDMNU_CROSSHAIRCOLORFULL"
+msgstr "Couleur du viseur (Santé pleine)"
+
+msgid "HUDMNU_CROSSHAIRCOLORMAX"
+msgstr "Couleur du viseur (Santé maximum)"
+
+msgid "HUDMNU_CROSSHAIRCOLORS"
+msgstr "Couleurs dynamiques du viseur"
+
+msgid "HUDMNU_CROSSHAIRYOFFSET"
+msgstr "Décalage vertical du viseur"
+
+msgid "VALFORMAT_DB"
+msgstr "%s dB"
+
+msgid "VALFORMAT_DB_P_METER"
+msgstr "%s dB/m"
+
+msgid "VALFORMAT_DEGREES"
+msgstr "%s deg"
+
+msgid "VALFORMAT_FPS"
+msgstr "%s ips"
+
+msgid "VALFORMAT_HZ"
+msgstr "%s Hz"
+
+msgid "VALFORMAT_METER"
+msgstr "%s m"
+
+msgid "VALFORMAT_MSECOND"
+msgstr "%s ms"
+
+msgid "VALFORMAT_MULTIPLIER"
+msgstr "%s ×"
+
+msgid "VALFORMAT_PERCENT"
+msgstr "%s %%"
+
+msgid "VALFORMAT_SECOND"
+msgstr "%s s"
+
+msgid "MAPCOLORMNU_SECTORFILLALPHA"
+msgstr "Transparence du Remplissage"
+
+msgid "MAPCOLORMNU_SECTORFILLCOLOR"
+msgstr "Couleur du Remplissage"
+
+msgid "ACCMNU_DOUBLECLICK_THRESHOLD"
+msgstr "Seuil de double-clic"
+
+msgid "ACCMNU_TOOLTIP_DOUBLECLICK_THRESHOLD"
+msgstr "Temps entre deux clics pour activer un évènement double-clic"
