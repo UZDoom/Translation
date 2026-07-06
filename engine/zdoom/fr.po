@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-06 19:01+0000\n"
+"PO-Revision-Date: 2026-07-06 21:01+0000\n"
 "Last-Translator: Tapwave <kolb.rodrigue@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/fr/>\n"
 "Language: fr\n"
@@ -450,7 +450,7 @@ msgid "TXT_WHAT_KILL"
 msgstr "Vous voulez tuer quoi en dehors d'une partie ?"
 
 msgid "TXT_NOT_FROZEN"
-msgstr "Propriété gelée : INACTIVE"
+msgstr "Propriété gelée (Joueur) : INACTIVE"
 
 msgid "AMSTR_FOLLOWOFF"
 msgstr "Suivi du Joueur : INACTIF"
@@ -583,7 +583,7 @@ msgid "AM_ITEMS"
 msgstr "Objets :"
 
 msgid "OB_SUICIDE"
-msgstr "%o s'est suicidé."
+msgstr "%o s'est suicidé%e_fr."
 
 msgid "OB_FALLING"
 msgstr "%o est tombé@[e_fr] un peu trop loin."
@@ -680,13 +680,13 @@ msgid "GOTREDCARD"
 msgstr "Carte d'accès rouge récupérée."
 
 msgid "GOTBLUESKUL"
-msgstr "Clef crâne bleue récupérée."
+msgstr "Clé crâne bleue récupérée."
 
 msgid "GOTYELWSKUL"
-msgstr "Clef crâne jaune récupérée."
+msgstr "Clé crâne jaune récupérée."
 
 msgid "GOTREDSKUL"
-msgstr "Clef crâne rouge récupérée."
+msgstr "Clé crâne rouge récupérée."
 
 msgid "GOTINVUL"
 msgstr "Invulnérabilité !"
@@ -2783,7 +2783,6 @@ msgstr "Merveilleux Travail !"
 msgid "CE4TEXT"
 msgstr "Fantastique"
 
-#, fuzzy
 msgid "CLOADNET"
 msgstr ""
 "Vous ne pouvez pas charger une quête quand vous êtes en ligne!\n"
@@ -4403,10 +4402,10 @@ msgid "GLPREFMNU_SWLMBANDED"
 msgstr "Lumière Bandées en Rendu Logiciel"
 
 msgid "GLPREFMNU_VRIPD"
-msgstr "Distance entre vos yeux"
+msgstr "Distance Entre Vos Yeux"
 
 msgid "GLPREFMNU_VRSCREENDIST"
-msgstr "Distance entre vous et l'écran"
+msgstr "Distance Entre Vous et l'Écran"
 
 msgid "OPTVAL_SMART"
 msgstr "Intelligent"
@@ -4418,10 +4417,10 @@ msgid "OPTVAL_INFRAREDONLY"
 msgstr "Vis. Noct. Seulement"
 
 msgid "OPTVAL_INFRAREDANDTORCH"
-msgstr "Iis Noct. & Torche"
+msgstr "Vis noct. & torche"
 
 msgid "OPTVAL_ANYFIXEDCOLORMAP"
-msgstr "N'importe quelle colormap"
+msgstr "N'importe quelle colormap fixe"
 
 msgid "OPTVAL_USEASPALETTE"
 msgstr "Utiliser comme pallette"
@@ -4449,13 +4448,13 @@ msgid "OPTVAL_XYAXIS"
 msgstr "Axes X/Y"
 
 msgid "OPTVAL_SQUARE"
-msgstr "Carrées"
+msgstr "Carré"
 
 msgid "OPTVAL_ROUND"
-msgstr "Rondes"
+msgstr "Rond"
 
 msgid "OPTVAL_PIXELFUZZ"
-msgstr "Bruit Pixélisé"
+msgstr "Bruit pixélisé"
 
 msgid "OPTVAL_SMOOTHFUZZ"
 msgstr "Bruit doux"
@@ -4470,7 +4469,7 @@ msgid "OPTVAL_NOISE"
 msgstr "Neige"
 
 msgid "OPTVAL_SMOOTHNOISE"
-msgstr "Neige adoucie"
+msgstr "Neige Adoucie"
 
 msgid "OPTVAL_JAGGEDFUZZ"
 msgstr "Neige rugeuse"
@@ -4494,16 +4493,16 @@ msgid "OPTVAL_SBSFULL"
 msgstr "Côte-â-côte Complet"
 
 msgid "OPTVAL_SBSNARROW"
-msgstr "Côte-â-côte étroit"
+msgstr "Côte-â-côte Étroit"
 
 msgid "OPTVAL_TOPBOTTOM"
 msgstr "Dessus/Dessous"
 
 msgid "OPTVAL_ROWINTERLEAVED"
-msgstr "Entrelacement rangée"
+msgstr "Entrelacement Rangées"
 
 msgid "OPTVAL_COLUMNINTERLEAVED"
-msgstr "Entralcement colonne"
+msgstr "Entralcement Colonnes"
 
 msgid "OPTVAL_CHECKERBOARD"
 msgstr "Damier"
@@ -4518,16 +4517,16 @@ msgid "TCMNU_TITLE"
 msgstr "Options TrueColor"
 
 msgid "TCMNU_MINFILTER"
-msgstr "Filtrage linéaire en réduction"
+msgstr "Filtrage linéaire en réduction d'échelle"
 
 msgid "TCMNU_MAGFILTER"
-msgstr "Filtrage linéaire en agrandissement"
+msgstr "Filtrage linéaire en agrandissement d'échelle"
 
 msgid "TCMNU_MIPMAP"
 msgstr "Utiliser textures mipmappées"
 
 msgid "TCMNU_DYNLIGHTS"
-msgstr "Lumières Dynamiques (Software)"
+msgstr "Lumières dynamiques (Logiciel)"
 
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Toujour afficher clés"
@@ -4540,7 +4539,7 @@ msgid "TXT_JOINED_TEAM"
 msgstr "%s a rejoint l'équipe %t"
 
 msgid "TXT_LONER"
-msgstr "%s joue maintenant tout seul."
+msgstr "%s joue maintenant tout@[e_fr] seul@[e_fr]."
 
 msgid "TXT_LEFTWITHFRAGS"
 msgstr "%s a quitté le jeu avec %d frags"
@@ -4564,8 +4563,7 @@ msgid "TXT_OTHERENGINESG"
 msgstr "La sauvegarde '%s' vient d'un autre moteur basé sur ZDoom :"
 
 msgid "TXT_TOOOLDSG"
-msgstr ""
-"La sauvegarde '%s' vient d'une version obsolète : %d (%e est la plus ancienne supportée)."
+msgstr "La sauvegarde '%s' vient d'une version obsolète : %d. %e est la plus ancienne supportée."
 
 # Shouldn’t this say “%e is the newest supported”?
 #
@@ -4573,14 +4571,13 @@ msgstr ""
 #
 # Ask Randi: The text is old. I won't change it.
 msgid "TXT_TOONEWSG"
-msgstr ""
-"La sauvegarde '%s' vient d'une version plus récente : %d (%e est la plus récente supportée)."
+msgstr "La sauvegarde '%s' vient d'une version plus récente : %d. %e est la plus récente supportée."
 
 msgid "TXT_NOMAPSG"
 msgstr "La sauvegarde '%s' ne contient pas la carte actuelle."
 
 msgid "TXT_NOGLOBALSJSON"
-msgstr "%s n'est pas une sauvegarde valide. Fichier 'global.json' manquant."
+msgstr "%s n'est pas une sauvegarde valide. Fichier 'globals.json' manquant."
 
 msgid "TXT_SGINFOERR"
 msgstr "Impossible d'accéder aux infos de sauvegarde dans le fichier '%s'"
@@ -4598,17 +4595,17 @@ msgid "TXT_SPPLAYERDEAD"
 msgstr "Le joueur est mort en mode solo"
 
 msgid "TXT_SAVEFAILED"
-msgstr "La sauvegarde à échoué"
+msgstr "La sauvegarde a échoué"
 
 msgid "TXT_SCREENSHOTERR"
-msgstr "La capture d'écran à échoué."
+msgstr "La capture d'écran a échoué."
 
 # As in paused by player %s.
 msgid "TXT_BY"
 msgstr "Par %s"
 
 msgid "HUDMNU_FLASH"
-msgstr "Options de blending écran"
+msgstr "Options de Blending Écran"
 
 msgid "GLMNU_3DMODE"
 msgstr "Mode 3D"
@@ -4620,7 +4617,7 @@ msgid "MSGMNU_SUBTITLES"
 msgstr "Sous-titres"
 
 msgid "HUDMNU_FONTOPTIONS"
-msgstr "Options de police"
+msgstr "Options de Police"
 
 msgid "FONTMNU_LOG"
 msgstr "Police standard pour affichage du log"
@@ -4629,23 +4626,23 @@ msgid "FONTMNU_DLG"
 msgstr "Police standard pour dialogues"
 
 msgid "MISCMNU_QUICKEXIT"
-msgstr "Sortie rapide"
+msgstr "Sortie Rapide"
 
 msgid "DSPLYMNU_CUSTOMINVERTMAP"
-msgstr "Couleurs inverses personnalisées"
+msgstr "Couleurs Inverses Personnalisées"
 
 msgid "DSPLYMNU_CUSTOMINVERTC1"
-msgstr "Couleur foncée pour l'inversion"
+msgstr "Couleur Foncée pour la Colormap d'Inversion"
 
 msgid "DSPLYMNU_CUSTOMINVERTC2"
-msgstr "Couleur claire pour l'inversion"
+msgstr "Couleur Claire pour la Colormap d'Inversion"
 
 msgid "DSPLYMNU_BOBFIRE"
 msgstr "Intensité du chaloupage lors des tirs"
 
 # HUD->Scaling Options
 msgid "SCALEMNU_SCALECLASSIC"
-msgstr "Mise à l'échelle classique pour bordure écran et intermission"
+msgstr "Mise à l'Échelle Classique pour Bordure d'Écran et Intermission"
 
 msgid "SCALEMNU_INTER"
 msgstr "Fond d'écran intermission"
@@ -4657,27 +4654,27 @@ msgid "SCALEMNU_FACTOR"
 msgstr "Facteur de mise à l'échelle"
 
 msgid "SCALEMNU_RATIO"
-msgstr "Rapport D'Aspect"
+msgstr "Rapport d'aspect"
 
 # sv_alwaystally
 msgid "MISCMNU_ALWAYSTALLY"
-msgstr "Montrer les scores en fin de niveau"
+msgstr "Montrer les Scores en Fin de Niveau"
 
 # this is '==0'
 msgid "OPTVAL_MODDEFINED"
 msgstr "Défini par Mod"
 
 msgid "OPTVAL_NOTHUBS"
-msgstr "Toujours, sauf dans les hubs"
+msgstr "Toujours, sauf dans les zones centrales"
 
 msgid "OPTVAL_WITHHUBS"
-msgstr "Toujours, même dans les hubs"
+msgstr "Toujours, même dans les zones centrales"
 
 msgid "CNTRLMNU_LAYOUT"
 msgstr "Organisation préférée du clavier"
 
 msgid "OPTVAL_CLASSICZ"
-msgstr "Zdoom Classique"
+msgstr "ZDoom Classique"
 
 msgid "OPTVAL_MODERN"
 msgstr "Moderne (ZQSD)"
@@ -4686,7 +4683,7 @@ msgid "OPTVAL_MODERNLEFT"
 msgstr "Moderne (Gaucher / Pavé numérique)"
 
 msgid "MISCMNU_SETSLOTSTRICT"
-msgstr "Armes/Joueurs strictement selon KEYCONF"
+msgstr "Armes/Joueurs Strictement Selon KEYCONF"
 
 msgid "MISCMNU_WIPERCENT"
 msgstr "Utiliser pourcentages sur l'écran de fin de niveau"
@@ -4699,7 +4696,7 @@ msgid "TAG_STRIFEZOMBIE"
 msgstr "Citoyen"
 
 msgid "TAG_CEILINGTURRET"
-msgstr "Tourelle de plafond"
+msgstr "Tourelle de Plafond"
 
 # Names need to match the obituaries!
 msgid "TAG_CRUSADER"
@@ -4718,22 +4715,22 @@ msgid "TAG_SENTINEL"
 msgstr "Sentinelle"
 
 msgid "TAG_STALKER"
-msgstr "Chasseur"
+msgstr "Traqueur"
 
 msgid "TAG_BISHOP"
-msgstr "Evèque"
+msgstr "L'Évêque"
 
 msgid "TAG_ENTITY"
 msgstr "Le Seul Dieu"
 
 msgid "TAG_PROGRAMMER"
-msgstr "Programmeur"
+msgstr "Le Programmeur"
 
 msgid "TAG_ALIENSPECTRE"
-msgstr "Le spectre"
+msgstr "Le Spectre"
 
 msgid "TAG_KNEELINGGUY"
-msgstr "Homme agenouillé"
+msgstr "Homme Agenouillé"
 
 msgid "GMPLYMNU_MULTIPLAYERTHINGS"
 msgstr "Objets multijoueurs en co-op"
@@ -4756,7 +4753,7 @@ msgid "ALTHUDMNU_SHOWTIMESTAT"
 msgstr "Afficher le widget horloge"
 
 msgid "CMPTMNU_VILEGHOSTS"
-msgstr "Les monstres écrasés ressuscitent en fantômes"
+msgstr "Les monstres écrasés ressuscitent comme fantômes"
 
 msgid "MISCMNU_FVIEWBOB"
 msgstr "Chaloupage en vol"
@@ -4774,7 +4771,7 @@ msgid "GMPLYMNU_SHAREKEYS"
 msgstr "Partager les clés avec tous les joueurs"
 
 msgid "GLPREFMNU_SPRBILLFACECAMERAFORCE"
-msgstr "Interdiction de modifier le mode d'orientation de la caméra"
+msgstr "Interdire la modification du mode d'orientation de la caméra"
 
 msgid "ALTHUDMNU_SWAPHEALTHARMOR"
 msgstr "Échanger la santé et l'armure"
@@ -4789,20 +4786,20 @@ msgstr "Facteur d'échelle du HUD"
 
 # Any Actor that only appears in co-op is disabled
 msgid "GMPLYMNU_COOPTHINGS"
-msgstr "Faire apparaitre les acteurs Co-Op Seulement en Multijoueur"
+msgstr "Faire apparaitre les acteurs uniquement co-op en multijoueur"
 
 # Items that only appear in co-op are disabled
 msgid "GMPLYMNU_COOPITEMS"
-msgstr "Faire apparaitre les objets Co-Op Seulement en Multijoueur"
+msgstr "Faire apparaitre les objets seulement co-Op en multijoueur"
 
 # Items are picked up client-side rather than fully taken by the client who
 # picked it up
 msgid "GMPLYMNU_LOCALITEMS"
-msgstr "Chaque joueur obtient sa copie de chaque objet en Multijoueur"
+msgstr "Chaque joueur obtient sa copie des objets en multijoueur"
 
 # Drops from Actors aren't picked up locally
 msgid "GMPLYMNU_NOLOCALDROP"
-msgstr "Désactiver le ramassage des objets lâchés en clientside"
+msgstr "Désactiver le ramassage des objets lâchés en pour les clients"
 
 # Disables autoloading save on death
 msgid "MISCMNU_RESTARTONDEATH"
@@ -4825,7 +4822,7 @@ msgid "OPTVAL_ANAMORPHIC"
 msgstr "Perspective Forcée"
 
 msgid "SNDMNU_FOOTSTEPVOLUME"
-msgstr "Volume des bruits de pas"
+msgstr "Volume des Bruits de Pas"
 
 msgid "ID24_GOTINCINERATOR"
 msgstr "Vous avez l'incinérateur !"
@@ -4872,23 +4869,22 @@ msgid "ID24_CC_TYRANT"
 msgstr "Tyran"
 
 msgid "ID24_OB_GHOUL"
-msgstr ""
+msgstr "%o a été pris@[e_fr] par la sphère d'énérgie d'une goule."
 
 msgid "ID24_OB_BANSHEE"
 msgstr "La vie de %o a été conclue par une Banshee."
 
 msgid "ID24_OB_SHOCKTROOPER"
-msgstr ""
+msgstr "%o a été fondu@[e_fr] par un Soldat de Choc."
 
-#, fuzzy
 msgid "ID24_OB_MINDWEAVER"
-msgstr "%o a été rasé%e_fr par un tisse-esprit."
+msgstr "%o a été rasé@[e_fr] par un tisse-esprit."
 
 msgid "ID24_OB_VASSAGO"
-msgstr ""
+msgstr "%o a été incendié@[e_fr] par un Vassago."
 
 msgid "ID24_OB_TYRANT"
-msgstr ""
+msgstr "%o a été pulvérisé@[e_fr] par un Tyran."
 
 msgid "AUTOMAPMNU_SHOWLEVELNAME"
 msgstr "Afficher nom de carte"
@@ -4899,10 +4895,10 @@ msgid "CNTRLMNU_INVENTORY_HOTKEYS"
 msgstr "Raccourcis Inventaire"
 
 msgid "JOYMNU_HAPTICS"
-msgstr "Intensité du retour de force"
+msgstr "Intensité du retour de force haptique"
 
 msgid "JOYMNU_CURVE"
-msgstr "Courbe de réponse"
+msgstr "Courbe de Réponse"
 
 msgid "JOYMNU_THRESHOLD"
 msgstr "Seuil Digital"
@@ -4921,14 +4917,14 @@ msgid "OPTVAL_DISABLECHAT"
 msgstr "Désactivé"
 
 msgid "OPTVAL_TEAMONLYCHAT"
-msgstr "Équipiers seulement"
+msgstr "Équipiers Seulement"
 
 msgid "OPTVAL_GLOBALCHAT"
 msgstr "Global"
 
 # Disables /me functionality in chat when displaying.
 msgid "NETMNU_NOBOLDCHAT"
-msgstr "Désactiver le texte en Gras dans le Chat"
+msgstr "Désactiver le Texte en Gras dans le Chat"
 
 # Turns off the sound that plays when someone receives a message.
 msgid "NETMNU_NOCHATSND"
@@ -4953,7 +4949,7 @@ msgstr "Hôte Seulement"
 
 # Type of vote system to use to bypass intermissions when playing online.
 msgid "NETMNU_READYTYPE"
-msgstr "Manière de sauter l'intermission"
+msgstr "Manière de Passer l'Intermission"
 
 msgid "OPTVAL_VOTE"
 msgstr "Vote"
@@ -4964,7 +4960,7 @@ msgstr "N'importe qui"
 # If this percent of players or more are ready, starts a countdown when in
 # Vote intermission skip mode.
 msgid "NETMNU_READYPERCENT"
-msgstr "Pourcentage de votes pour passer l'intermission"
+msgstr "Pourcentage de Votes pour Passer l'Intermission"
 
 msgid "NETMNU_READYCOUNTDOWN"
 msgstr "Compte à Rebours du Vote (Secondes)"
@@ -4975,7 +4971,7 @@ msgid "NETMNU_CHATSLOMO"
 msgstr "Mode Ralenti du Chat (Secondes)"
 
 msgid "OPTMNU_HAPTICS"
-msgstr "Options Retour de Force Haptique"
+msgstr "Options retour de force haptique"
 
 # How the engine should handle haptics in old mods
 msgid "HAPMNU_COMPAT"
@@ -5031,7 +5027,7 @@ msgid "TAG_MEGAPSHERE"
 msgstr "Méga Sphère"
 
 msgid "TAG_INVISSPHERE"
-msgstr "Artéfact Flou"
+msgstr "Artéfact d'Invisibilité"
 
 msgid "TAG_RADSUIT"
 msgstr "Combinaison Anti-Radiations"
@@ -5055,22 +5051,22 @@ msgid "TAG_MEDIKIT"
 msgstr "Médikit"
 
 msgid "TAG_BLUECARD"
-msgstr "Carte-clé Bleue"
+msgstr "Carte d'accès Bleue"
 
 msgid "TAG_YELLOWCARD"
-msgstr "Carte-clé Jaune"
+msgstr "Carte d'accès Jaune"
 
 msgid "TAG_REDCARD"
-msgstr "Carte-clé Rouge"
+msgstr "Carte d'accès Rouge"
 
 msgid "TAG_BLUESKULL"
-msgstr "Crâne-clé Bleu"
+msgstr "Clé Crâne Bleu"
 
 msgid "TAG_YELLOWSKULL"
-msgstr "Crâne-clé Jaune"
+msgstr "Clé Crâne Jaune"
 
 msgid "TAG_REDSKULL"
-msgstr "Crâne-clé Rouge"
+msgstr "Clé Crâne Rouge"
 
 msgid "TAG_GLASSOFWATER"
 msgstr "Verre d'Eau"
@@ -5085,7 +5081,7 @@ msgid "TAG_BREAKFAST"
 msgstr "Petit-déjeuner Superchargé"
 
 msgid "TAG_REPELLENT"
-msgstr "Repousse-gelée"
+msgstr "Répulsif à Gelée"
 
 msgid "TAG_CHEXARMOR"
 msgstr "Armure Chex®"
@@ -5141,13 +5137,13 @@ msgid "DSPLYMNU_BRIGHTNESS"
 msgstr "Luminosité"
 
 msgid "DSPLYMNU_GAMMA"
-msgstr "Correction Gamma"
+msgstr "Correction gamma"
 
 msgid "DSPLYMNU_CONTRAST"
 msgstr "Contraste"
 
 msgid "OPTMNU_ACCESSIBILITY"
-msgstr "Options d'accessibilité"
+msgstr "Options d'Accessibilité"
 
 msgid "OPTVAL_SMOOTH"
 msgstr "Lisse"
@@ -5165,32 +5161,32 @@ msgid "OPTVAL_VTAZDOOM"
 msgstr "Auto (ZDoom Préféré)"
 
 msgid "JOYMNU_ANALOGRUN"
-msgstr "Course analogique"
+msgstr "Course Analogique"
 
 msgid "ACCMNU_TOOLTIP_LINES"
-msgstr "Lignes d'infobulle"
+msgstr "Lignes d'Infobulle"
 
 msgid "ACCMNU_TOOLTIP_SPEED"
-msgstr "Vitesse de défilement des infobulles"
+msgstr "Vitesse de Défilement des Infobulles"
 
 msgid "ACCMNU_TOOLTIP_DELAY"
-msgstr "Délai de défilement des infobulles"
+msgstr "Délai de Défilement des Infobulles"
 
 msgid "ACCMNU_TOOLTIP_ALPHA"
-msgstr "Transparence du fond des infobulles"
+msgstr "Transparence du Fond des Infobulles"
 
 msgid "ACCMNU_TOOLTIP_CAP"
-msgstr "Limiter la largeur des infobulles"
+msgstr "Limiter la Largeur des Infobulles"
 
 msgid "ACCMNU_TOOLTIP_SCALE"
-msgstr "Texte aggrandi pour les infobulles"
+msgstr "Texte Agrandi pour les Infobulles"
 
 msgid "ACCMNU_TOOLTIP_EXAMPLE"
 msgstr ""
 "Ceci est un exemple d'infobulle.\n"
 "Voici du texte supplémentaire.\n"
 "...\n"
-"Voici une très longue ligne de texte qui semble continuer encore et encore sans avoir quoi que ce soit d'intéressant à dire, apparemment longue à ce point seulement parce que les développeurs ont du mal à expliquer comment fonctionne une option."
+"Voici une très longue ligne de texte qui semble continuer encore et encore sans avoir quoi que ce soit d'intéressant à dire, supposément longue à ce point seulement parce que les développeurs ont du mal à expliquer comment fonctionne une option."
 
 msgid "ACCMNU_TOOLTIP"
 msgstr "Infobulles"
@@ -5262,7 +5258,7 @@ msgid "DSPLYMNU_TOOLTIP_SATURATION"
 msgstr "Ajuste l'intensité des couleurs, rendant l'image plus claire ou délavée. Ajustez à votre goût."
 
 msgid "DSPLYMNU_IMAGEADJUST_BOTTOM"
-msgstr "Ajustez jusqu'à ce que cela soit d'une couleur grise uniforme."
+msgstr "Ajustez jusqu'à ce que cela soit d'une couleur Grise uniforme."
 
 msgid "DSPLYMNU_SATURATION"
 msgstr "Saturation"
@@ -5397,7 +5393,7 @@ msgid "MAPCOLORMNU_SECTORFILLCOLOR"
 msgstr "Couleur du Remplissage"
 
 msgid "ACCMNU_DOUBLECLICK_THRESHOLD"
-msgstr "Seuil de double-clic"
+msgstr "Seuil de Double-clic"
 
 msgid "ACCMNU_TOOLTIP_DOUBLECLICK_THRESHOLD"
 msgstr "Temps entre deux clics pour activer un évènement double-clic"
