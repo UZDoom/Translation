@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-07 11:01+0000\n"
+"PO-Revision-Date: 2026-07-07 13:01+0000\n"
 "Last-Translator: Tapwave <kolb.rodrigue@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/doom-engine-games/doom-2/fr/>\n"
 "Language: fr\n"
@@ -124,22 +124,22 @@ msgid "NHUSTR_3"
 msgstr "Level 3 : Canyon des Morts"
 
 msgid "NHUSTR_4"
-msgstr "NIVEAU 4: Montagne Infernale"
+msgstr "Level 4 : Montagne Infernale"
 
 msgid "NHUSTR_5"
-msgstr "NIVEAU 5: Vivisection"
+msgstr "Level 5 : Vivisection"
 
 msgid "NHUSTR_6"
-msgstr "NIVEAU 6: Enfer Sanglant"
+msgstr "Level 6 : Enfer Sanglant"
 
 msgid "NHUSTR_7"
-msgstr "NIVEAU 7: Banquet du Baron"
+msgstr "Level 7 : Banquet du Baron"
 
 msgid "NHUSTR_8"
-msgstr "NIVEAU 8: Tombe Maléfique"
+msgstr "Level 8 : Tombe Maléfique"
 
 msgid "NHUSTR_9"
-msgstr "NIVEAU 9: Marche des Démons"
+msgstr "Level 9 : Marche des Démons"
 
 msgid "C1TEXT"
 msgstr ""
