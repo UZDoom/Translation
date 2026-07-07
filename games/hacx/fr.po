@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-07 19:01+0000\n"
+"PO-Revision-Date: 2026-07-07 22:01+0000\n"
 "Last-Translator: Tapwave <kolb.rodrigue@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/doom-engine-games/hacx-filter/fr/>\n"
 "Language: fr\n"
@@ -545,7 +545,7 @@ msgstr "Qu'il en soit ainsi, hacker."
 
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_DQDON"
-msgstr ""
+msgstr "Mode Cyberpotence ACTIVÉ"
 
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_DQDOFF"
