@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-06 15:02+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-07-07 04:01+0000\n"
+"Last-Translator: dwing <12104745@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
@@ -2783,10 +2783,9 @@ msgstr "干得好！"
 msgid "CE4TEXT"
 msgstr "好极了"
 
-#, fuzzy
 msgid "CLOADNET"
 msgstr ""
-"在网络任务中你不能执行加载！\n"
+"在网络任务中你不能加载存档！\n"
 "\n"
 "按下任意键。"
 
