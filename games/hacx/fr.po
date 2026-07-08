@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-07 22:01+0000\n"
+"PO-Revision-Date: 2026-07-08 11:01+0000\n"
 "Last-Translator: Tapwave <kolb.rodrigue@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/doom-engine-games/hacx-filter/fr/>\n"
 "Language: fr\n"
@@ -553,26 +553,27 @@ msgstr ""
 
 msgctxt "doom hacx.hacx1"
 msgid "AMSTR_FOLLOWON"
-msgstr ""
+msgstr "Pistage ACTIVÉ"
 
 msgctxt "doom hacx.hacx1"
 msgid "AMSTR_FOLLOWOFF"
-msgstr ""
+msgstr "Pistage DÉSACTIVÉ"
 
 msgctxt "doom hacx.hacx1"
 msgid "DOSY"
-msgstr "-Appuie sur Y pour t'échapper!-"
+msgstr "- appuie sur Y pour t'échapper ! -"
 
 msgctxt "doom hacx.hacx1"
 msgid "ENDGAME"
-msgstr "Vous êtes fou où malajusté? Eh bien? Oui où non?"
+msgstr "Vous êtes fou où malajusté ? Eh bien ? Oui ou non ?"
 
 msgctxt "doom hacx.hacx1"
 msgid "NIGHTMARE"
 msgstr ""
-"Vous êtes sûr? Vous n'arriverez pas à tenir le coup, hacker! \n"
+"Vous êtes sûr ?\n"
+"Vous n'arriverez pas à tenir le coup, hacker ! \n"
 "\n"
-"Appuyez sur Y pour mourir."
+"Appuyez sur Y pour mourir. \n"
 
 # For most languages the original Doom text should suffice.
 msgctxt "doom hacx.hacx1"
@@ -580,7 +581,7 @@ msgid "QSPROMPT"
 msgstr ""
 "Sauvegarde rapide sur le fichier \n"
 "\n"
-"'%s'?\n"
+"'%s' ?\n"
 "\n"
 "Appuyez sur Y ou N."
 
@@ -589,7 +590,7 @@ msgid "QLPROMPT"
 msgstr ""
 "Voulez-vous charger la sauvegarde\n"
 "\n"
-"'%s'?\n"
+"'%s' ?\n"
 "\n"
 "Appuyez sur Y ou N."
 
@@ -600,52 +601,52 @@ msgid "CC_ANDROID"
 msgstr "Androïde"
 
 msgid "CC_ICE"
-msgstr ""
+msgstr "ICE"
 
 msgid "CC_BUZZER"
-msgstr ""
+msgstr "Buzzer"
 
 msgid "CC_DMAN"
-msgstr ""
+msgstr "D-Man"
 
 msgid "CC_PHAGE"
-msgstr ""
+msgstr "Phage"
 
 msgid "CC_MONSTRUCT"
-msgstr ""
+msgstr "Monstruction"
 
 msgid "CC_MECH"
-msgstr "Mécha-maniaque"
+msgstr "Mécha-Maniaque"
 
 msgid "CC_TERMI"
-msgstr ""
+msgstr "Terminatrix"
 
 msgid "CC_THORN"
-msgstr "Truc épineux"
+msgstr "Truc Épineux"
 
 msgid "CC_MAJONG"
-msgstr ""
+msgstr "Majong 7"
 
 msgctxt "doom hacx.hacx1"
 msgid "CC_HERO"
-msgstr ""
+msgstr "Dan Evanger"
 
 msgctxt "doom hacx.hacx1"
 msgid "SKILL_BABY"
-msgstr "Pitié, ne tirez pas!"
+msgstr "Pitié, ne tirez pas !"
 
 msgctxt "doom hacx.hacx1"
 msgid "SKILL_EASY"
-msgstr "Aargh, des soins!"
+msgstr "Aargh, des soins !"
 
 msgctxt "doom hacx.hacx1"
 msgid "SKILL_NORMAL"
-msgstr "J'en fais de la bouillie!"
+msgstr "On va se les faire !"
 
 msgctxt "doom hacx.hacx1"
 msgid "SKILL_HARD"
-msgstr "Je suis immortel!"
+msgstr "Je suis immortel !"
 
 msgctxt "doom hacx.hacx1"
 msgid "SKILL_NIGHTMARE"
-msgstr "Folie!"
+msgstr "Folie !"
