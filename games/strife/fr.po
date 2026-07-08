@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-08 19:04+0000\n"
+"PO-Revision-Date: 2026-07-08 21:03+0000\n"
 "Last-Translator: Tapwave <kolb.rodrigue@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/doom-engine-games/strife/fr/>\n"
 "Language: fr\n"
@@ -1210,14 +1210,14 @@ msgid "TXT_DLG_SCRIPT04_D46996_YEAHR"
 msgstr "Ouais, bien sûr. OK, allez bosser."
 
 msgid "TXT_RPLY0_SCRIPT04_D46996_WHERE"
-msgstr "Où est le cristal?"
+msgstr "Où est le cristal ?"
 
 msgid "TXT_DLG_SCRIPT04_D48512_GOTAL"
 msgstr ""
 "Parlez à Ketrick. Vous pouvez étendre la coursive avec les boutons, puis utilisez ce passe pour l'ascenseur."
 
 msgid "TXT_RPLY0_SCRIPT04_D48512_WHERE"
-msgstr "Mais où est le cristal?"
+msgstr "Mais où est le cristal ?"
 
 msgid "TXT_DLG_SCRIPT04_D50028_NONEO"
 msgstr "Ca ne vous concerne pas. Allez voir Ketrick."
@@ -1226,22 +1226,20 @@ msgid "TXT_RPLY0_SCRIPT04_D50028_OK"
 msgstr "OK."
 
 msgid "TXT_DLG_SCRIPT04_D51544_IFITS"
-msgstr ""
-"Si vous voulez un boulot éreintant, allez fixer cet écran pour quelques heures. Ca va vous ennuyer jusqu'a en pleurer."
+msgstr "Si vous voulez un boulot éreintant, allez fixer cet écran pour quelques heures. Ça va vous ennuyer jusqu'à en pleurer."
 
 msgid "TXT_DLG_SCRIPT04_D53060_THEAL"
-msgstr ""
-"Ce tout-puissant Programmeur est tellement paranoïaque au sujet des infiltrations qu'il a mis le cœur informatique sous les verrous. Comment je peux faire mon travail maintenant? Si je veux essayer d'y entrer, faut que j'utilise le couloir du suicide!"
+msgstr "Ce tout-puissant Programmeur est tellement paranoïaque au sujet des infiltrations qu'il a mis le cœur informatique sous les verrous. Comment je peux faire mon travail maintenant ? Si je veux essayer d'y entrer, faut que j'utilise le couloir du suicide !"
 
 msgid "TXT_RPLY0_SCRIPT04_D53060_SUICI"
-msgstr "Couloir du suicide? Comment ça?"
+msgstr "Couloir du suicide ? Comment ça ?"
 
 msgid "TXT_DLG_SCRIPT04_D54576_ITSAS"
 msgstr ""
 "C'est un moyen garanti de se tuer. Mais ce n'est pas important pour l'instant. Descendez avec l'acsenseur si vous voulez absolument essayer."
 
 msgid "TXT_DLG_SCRIPT05_D0_HALTN"
-msgstr "Halte! Personne ne passe sans autorisation du gardien ou du gouverneur."
+msgstr "Halte ! Personne ne passe sans autorisation du Gardien ou du Gouverneur."
 
 msgid "TXT_RPLY0_SCRIPT05_D0_HERES"
 msgstr "Voilà mon passe. Laissez-moi entrer."
@@ -1250,51 +1248,48 @@ msgid "TXT_DLG_SCRIPT05_D1516_OKBUT"
 msgstr "D'accord, mais vous ne vous pouvez parler qu'au gardien."
 
 msgid "TXT_DLG_SCRIPT05_D3032_DOILO"
-msgstr ""
-"Je ressemble au gardien, à ton avis? Bouge, cette zone est hors-limites!"
+msgstr "Je ressemble au gardien, à ton avis ? Bouge, cette zone est hors-limites !"
 
 msgid "TXT_DLG_SCRIPT05_D4548_THEOR"
-msgstr ""
-"La colère de l'Ordre s'abattrera sur ces serviles miséreux jusqu'a ce qu'ils pleurent pour leur propre mort."
+msgstr "La colère de l'Ordre s'abattrera sur ces serviles miséreux jusqu'a ce qu'ils supplient pour leur propre mort."
 
 msgid "TXT_DLG_SCRIPT05_D6064_IDONT"
-msgstr ""
-"Je m'en fous que Mourel t'ai donné un passe. C'est ma prison. Ma clé est la seule façon d'entrer ou de sortir, et je ne prends pas de risques. L'Ordre ne tolère pas les erreurs."
+msgstr "Il m'importe peu que Mourel t'ai donné un passe. C'est ma prison. Ma clé est la seule façon d'entrer ou de sortir, et je ne prends pas de risques. L'Ordre ne tolère pas les erreurs."
 
 msgid "TXT_RPLY0_SCRIPT05_D6064_GIVEM"
-msgstr "Donne moi cette putain de clé!"
+msgstr "Donne moi cette putain de clé !"
 
 msgid "TXT_DLG_SCRIPT05_D7580_OVERM"
-msgstr "Il faudra me passer sur le corps!"
+msgstr "Il faudra me passer sur le corps !"
 
 msgid "TXT_RPLY0_SCRIPT05_D7580_GREAT"
-msgstr "Excellente idée!"
+msgstr "Excellente idée !"
 
 msgid "TXT_DLG_SCRIPT05_D9096_SHACK"
-msgstr "Chaînes ou menottes? J'ai vraiment envie de vous retenir!"
+msgstr "Chaînes ou menottes ? J'ai vraiment envie de vous garder !"
 
 msgid "TXT_DLG_SCRIPT05_D10612_IDONT"
 msgstr ""
 "Je ne sais pas comment vous êtes passé à travers les gardes et le gardien, mais j'espère que vous aimez le décor car ceci sera votre nouveau domicile."
 
 msgid "TXT_RPLY0_SCRIPT05_D10612_FREEM"
-msgstr "Libère mes camarades ou meurs!"
+msgstr "Libère mes camarades ou meurs !"
 
 msgid "TXT_DLG_SCRIPT05_D12128_KILLM"
 msgstr ""
 "Tuez moi et personne ne sera libéré. Je suis le seul qui possède la clé qui peut ouvrir les cellules."
 
 msgid "TXT_RPLY0_SCRIPT05_D12128_CANYO"
-msgstr "Tu peux me prêter main forte, alors?"
+msgstr "Tu peux me prêter main forte, alors ?"
 
 msgid "TXT_DLG_SCRIPT05_D13644_MOVEA"
 msgstr "Bougez ou rejoignez vos amis."
 
 msgid "TXT_DLG_SCRIPT05_D15160_DONTJ"
-msgstr "Ne vous tenez pas là, sortez nous d'ici!"
+msgstr "Ne vous tenez pas là, sortez nous d'ici !"
 
 msgid "TXT_DLG_SCRIPT05_D16676_THESK"
-msgstr "Le ciel, je veux voir le ciel!"
+msgstr "Le ciel, je veux voir le ciel."
 
 msgid "TXT_DLG_SCRIPT05_D18192_FIVEF"
 msgstr ""
@@ -1305,42 +1300,40 @@ msgstr ""
 "Laissez moi ici si l'Ordre est toujours au pouvoir. Je ne veux pas voir cette horreur."
 
 msgid "TXT_DLG_SCRIPT05_D21224_IDONT"
-msgstr ""
-"J'ai pas envie de me plaindre, mais Macil a vraiment pris son temps pour envoyer quelqu'un nous sortir d'ici!"
+msgstr "J'ai pas envie de chialer, mais Macil a vraiment pris son temps pour envoyer quelqu'un nous sortir d'ici !"
 
 msgid "TXT_DLG_SCRIPT05_D22740_IDGIV"
-msgstr ""
-"Je donnerai n'importe quoi pour une bouchée de pain. J'ai tellement faim!"
+msgstr "Je donnerai n'importe quoi pour une bouchée de pain. J'ai tellement faim !"
 
 msgid "TXT_DLG_SCRIPT06_D0_AHASU"
 msgstr ""
 "Ah, quelqu'un de la surface qui a besoin d'une faveur. Ici, on en fait une pour en avoir une, et j'ai besoin que l'entrée de la ville qui est notre chemin pour les vivres ouverte. L'Ordre l'a scellée et mise sous garde."
 
 msgid "TXT_RPLY0_SCRIPT06_D0_WHERE"
-msgstr "Où se trouve le mécanisme d'ouverture de la porte?"
+msgstr "Où se trouve le mécanisme d'ouverture de la porte ?"
 
 msgid "TXT_DLG_SCRIPT06_D1516_DOMYF"
 msgstr "Faites moi une faveur ou vous n'aurez rien."
 
 msgid "TXT_RPLY0_SCRIPT06_D1516_HOWWI"
-msgstr "Comment est-ce que je saurais qu'elle est ouverte?"
+msgstr "Comment est-ce que je saurais qu'elle est ouverte ?"
 
 msgid "TXT_DLG_SCRIPT06_D3032_BRING"
 msgstr ""
 "Ramenez moi l'uniforme du garde. Comme ça, un de mes amis rats pourra le porter et personne n'essaiera de fermer cette porte."
 
 msgid "TXT_RPLY0_SCRIPT06_D3032_YOUWA"
-msgstr "Vous voulez son uniforme?"
+msgstr "Vous voulez son uniforme ?"
 
 msgid "TXT_DLG_SCRIPT06_D4548_OPENT"
 msgstr ""
 "Ouvrez la porte, ramenez moi l'uniforme et nous ferons affaire. Sinon, barrez-vous."
 
 msgid "TXT_DLG_SCRIPT06_D6064_HAVEY"
-msgstr "Avez-vous ramené ce dont j'ai besoin?"
+msgstr "Avez-vous ramené ce dont j'ai besoin ?"
 
 msgid "TXT_RPLY0_SCRIPT06_D6064_HOWAB"
-msgstr "Il vous convient, cet uniforme?"
+msgstr "Il vous convient, cet uniforme ?"
 
 msgid "TXT_RNO0_SCRIPT06_D6064_BRING"
 msgstr "Amenez moi l'uniforme."
@@ -1350,18 +1343,17 @@ msgstr ""
 "Bien. Voilà un petit bonus. Mes amis ont arraché ceci à un croisé. C'est les pièces nécessaires à monter un lance-flammes. Irale peut en assembler un pour vous. Vous allez vraiment vous amuser."
 
 msgid "TXT_RPLY0_SCRIPT06_D7580_WHERE"
-msgstr "Où se trouve le mécanisme d'ouverture de la porte?"
+msgstr "Où se trouve le mécanisme d'ouverture de la porte ?"
 
 msgid "TXT_DLG_SCRIPT06_D9096_YOUHA"
 msgstr ""
 "Vous devez entrer dans une autre section des égouts. Quand vous y êtes, vous devez entrer dans le château à partir de la porte de maintenance des égouts, et drainer le réservoir de recyclage d'eau. Au fond se trouve l'entrée cachée des égouts, et juste après elle, les contrôles manuels de la porte."
 
 msgid "TXT_RPLY0_SCRIPT06_D9096_ANYTH"
-msgstr "Que pouvez vous faire d'autre?"
+msgstr "Que pouvez vous faire d'autre ?"
 
-#, fuzzy
 msgid "TXT_DLG_SCRIPT06_D10612_GOODL"
-msgstr "Bonne chance. J'ai ouvert plusieurs de nos tunnels pour vous. Ca devrait rendre votre travail plus facile. Oh! Taille dix? Parfait! Les couleurs sont immondes, par contre."
+msgstr "Bonne chance. J'ai ouvert plusieurs de nos tunnels pour vous. Ca devrait rendre votre travail plus facile. Oh ! Taille dix, parfait ! Les couleurs sont immondes, par contre."
 
 msgid "TXT_RPLY0_SCRIPT06_D10612_THANK"
 msgstr "Merci pour votre aide."
@@ -1376,15 +1368,14 @@ msgid "TXT_DLG_SCRIPT06_D15160_IFYOU"
 msgstr "Si vous avez besoin d'une réponse à vos problèmes, allez voir Weran. "
 
 msgid "TXT_DLG_SCRIPT06_D16676_LONGL"
-msgstr ""
-"Longue vie au Front? Quelles conneries! On est tous en train d'attendre de mourir! "
+msgstr "Longue vie au Front ? Quelles conneries ! On est tous en train d'attendre de mourir ! "
 
 msgid "TXT_DLG_SCRIPT06_D18192_WITHO"
 msgstr ""
 "Avec notre passage vers la surface scellé, on ne peut même plus se nourrir."
 
 msgid "TXT_DLG_SCRIPT06_D19708_FOODD"
-msgstr "A manger, vous avez à manger? Aidez-nous, s'il vous plaît."
+msgstr "A manger, vous avez à manger ? Aidez-nous, s'il vous plaît."
 
 msgid "TXT_DLG_SCRIPT06_D21224_THISI"
 msgstr ""
@@ -1395,78 +1386,66 @@ msgstr ""
 "On a enfin ces sales clodos là où on veut qu'ils soient. Quelques jours de plus et il seront tous morts de faim."
 
 msgid "TXT_DLG_SCRIPT06_D24256_WHATS"
-msgstr ""
-"Où est votre autorisation? Aucun personnel non autorisé ne peut venir ici."
+msgstr "Où est votre autorisation ? Aucun personnel non autorisé ne peut venir ici."
 
 msgid "TXT_DLG_SCRIPT07_D0_WHATT"
-msgstr ""
-"Qu'est-ce que c'est que ce bordel? Qui a ouvert les portes? Faites sonner l'alarme!"
+msgstr "Qu'est-ce que c'est que ce bordel ? Qui a ouvert les portes ? Faites sonner l'alarme !!!"
 
 msgid "TXT_DLG_SCRIPT07_D1516_THERE"
 msgstr ""
 "Il y a une autre entrée pour les égouts. Utilisez ce bouton et montez purger le réservoir de recyclage."
 
 msgid "TXT_DLG_SCRIPT07_D3032_WHATT"
-msgstr ""
-"C'est quoi votre problème? Si le Programmeur sort de sa chambre d'audience, vous êtes mort."
+msgstr "C'est quoi votre problème ? Si le Programmeur sort de sa chambre d'audience, vous êtes mort."
 
 msgid "TXT_DLG_SCRIPT07_D4548_HEYYO"
 msgstr "Hé, vous n'avez pas le droit d'être ici."
 
 msgid "TXT_DLG_SCRIPT07_D6064_PROGR"
-msgstr ""
-"Programmeur? Qui vous a raconté ça? Il n'y a pas de Programmeur. Cette rumeur a commencé il y a des années. J'arrive pas à croire que ces abrutis du Front y croient. Idiots."
+msgstr "Programmeur ? Qui vous a raconté ça ? Il n'y a pas de Programmeur. Cette rumeur a commencé il y a des années. J'arrive pas à croire que ces abrutis du Front y croient. Idiots."
 
 msgid "TXT_RPLY0_SCRIPT07_D6064_WELLW"
-msgstr "Quelle est la vérité, alors?"
+msgstr "Quelle est la vérité, alors ?"
 
 msgid "TXT_DLG_SCRIPT07_D7580_ITOLD"
 msgstr "Je t'ai dit tous ce que je sais. Tu perds ton temps."
 
 msgid "TXT_DLG_SCRIPT07_D9096_FIGHT"
-msgstr ""
-"Continuez à vous battre, nous allons triompher! Ce jour nous appartient!"
+msgstr "Continuez à vous battre, nous allons triompher. Ce jour nous appartient !"
 
 msgid "TXT_DLG_SCRIPT07_D10612_FIGHT"
-msgstr ""
-"Continuez à vous battre, nous allons triompher! Ce jour nous appartient!"
+msgstr "Continuez à vous battre, nous allons triompher. Ce jour nous appartient !"
 
 msgid "TXT_DLG_SCRIPT07_D12128_FIGHT"
-msgstr ""
-"Continuez à vous battre, nous allons triompher! Ce jour nous appartient!"
+msgstr "Continuez à vous battre, nous allons triompher. Ce jour nous appartient !"
 
 msgid "TXT_DLG_SCRIPT07_D13644_FIGHT"
-msgstr ""
-"Continuez à vous battre, nous allons triompher! Ce jour nous appartient!"
+msgstr "Continuez à vous battre, nous allons triompher. Ce jour nous appartient !"
 
 msgid "TXT_DLG_SCRIPT07_D15160_FIGHT"
-msgstr ""
-"Continuez à vous battre, nous allons triompher! Ce jour nous appartient!"
+msgstr "Continuez à vous battre, nous allons triompher. Ce jour nous appartient !"
 
 msgid "TXT_DLG_SCRIPT07_D16676_FIGHT"
-msgstr ""
-"Continuez à vous battre, nous allons triompher! Ce jour nous appartient!"
+msgstr "Continuez à vous battre, nous allons triompher. Ce jour nous appartient !"
 
 msgid "TXT_DLG_SCRIPT08_D0_YOUKI"
 msgstr ""
 "Vous avez tué tous les gardes. Ne me faites pas de mal. Je lui ai dit que c'était une idée stupide. Le vrai Programmeur se trouve dans le donjon. Prenez cette clé."
 
 msgid "TXT_RPLY0_SCRIPT08_D0_YOURE"
-msgstr "Vous êtes le Programmeur!"
+msgstr "Vous êtes le Programmeur !"
 
 msgid "TXT_DLG_SCRIPT08_D1516_DOILO"
-msgstr ""
-"Est-ce que j'ai l'air d'avoir le pouvoir suprême? L'Ordre nous utilise tous. Partez, je suis déjà mort."
+msgstr "Est-ce que j'ai l'air d'avoir le pouvoir suprême ? L'Ordre nous utilise tous. Partez, je suis déjà mort."
 
 msgid "TXT_DLG_SCRIPT08_D3032_POWER"
-msgstr "Le pouvoir est la clé!"
+msgstr "Le pouvoir est la clé !"
 
 msgid "TXT_DLG_SCRIPT10_D0_GOODY"
-msgstr ""
-"Bien. Vous êtes conscient. Quand vous avez pris ceci au Programmeur, vous avez libéré de terrible secrets."
+msgstr "Bien. Vous êtes conscient. Quand vous avez pris cette chose qui appartenait au Programmeur, vous avez libéré de terrible secrets."
 
 msgid "TXT_RPLY0_SCRIPT10_D0_WHATK"
-msgstr "De quels secrets parlez-vous? "
+msgstr "De quels secrets parlez-vous ? "
 
 msgid "TXT_DLG_SCRIPT10_D1516_WEHAV"
 msgstr ""
