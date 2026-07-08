@@ -2,136 +2,135 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-05-18 05:12+0000\n"
-"Last-Translator: hawkwind3 <hawkwinds_messages@hotmail.com>\n"
+"PO-Revision-Date: 2026-07-08 19:04+0000\n"
+"Last-Translator: Tapwave <kolb.rodrigue@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/doom-engine-games/strife/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2026.6.dev0\n"
+"X-Generator: Weblate 2026.7.1.dev0\n"
 
 msgid "TXT_STRIFE_MAP01"
-msgstr "ZONE 1: Sanctuaire"
+msgstr "ZONE 1 : Sanctuaire"
 
 msgid "TXT_STRIFE_MAP02"
-msgstr "ZONE 2: Ville"
+msgstr "ZONE 2 : Ville"
 
 msgid "TXT_STRIFE_MAP03"
-msgstr "ZONE 3: Base du Front"
+msgstr "ZONE 3 : Base du Front"
 
 msgid "TXT_STRIFE_MAP04"
-msgstr "ZONE 4: Centrale"
+msgstr "ZONE 4 : Centrale"
 
 msgid "TXT_STRIFE_MAP05"
-msgstr "ZONE 5: Prison"
+msgstr "ZONE 5 : Prison"
 
 msgid "TXT_STRIFE_MAP06"
-msgstr "ZONE 6: Egouts"
+msgstr "ZONE 6 : Egouts"
 
 msgid "TXT_STRIFE_MAP07"
-msgstr "ZONE 7: Château"
+msgstr "ZONE 7 : Château"
 
 msgid "TXT_STRIFE_MAP08"
-msgstr "ZONE 8: Chambre d'Audience"
+msgstr "ZONE 8 : Chambre d'Audience"
 
 msgid "TXT_STRIFE_MAP09"
-msgstr "ZONE 9: Château: Donjon du Programmeur"
+msgstr "ZONE 9 : Château : Donjon du Programmeur"
 
 msgid "TXT_STRIFE_MAP10"
-msgstr "ZONE 10: Nouvelle Base du Front"
+msgstr "ZONE 10 : Nouvelle Base du Front"
 
 msgid "TXT_STRIFE_MAP11"
-msgstr "ZONE 11: Terres Sauvages"
+msgstr "ZONE 11 : Terres Sauvages"
 
 msgid "TXT_STRIFE_MAP12"
-msgstr "ZONE 12: Temple de l'Oracle"
+msgstr "ZONE 12 : Temple de l'Oracle"
 
 msgid "TXT_STRIFE_MAP13"
-msgstr "ZONE 13: Catacombes"
+msgstr "ZONE 13 : Catacombes"
 
 msgid "TXT_STRIFE_MAP14"
-msgstr "ZONE 14: Mines"
+msgstr "ZONE 14 : Mines"
 
 msgid "TXT_STRIFE_MAP15"
-msgstr "ZONE 15: Forteresse: Administration"
+msgstr "ZONE 15 : Forteresse : Administration"
 
 msgid "TXT_STRIFE_MAP16"
-msgstr "ZONE 16: Forteresse: Tour de l'évèque"
+msgstr "ZONE 16 : Forteresse : Tour de l'Évêque"
 
 msgid "TXT_STRIFE_MAP17"
-msgstr "ZONE 17: Forteresse: Mur d'enceinte"
+msgstr "ZONE 17 : Forteresse : Mur d'Enceinte"
 
 msgid "TXT_STRIFE_MAP18"
-msgstr "ZONE 18: Forteresse: Réserves"
+msgstr "ZONE 18 : Forteresse : Réserves"
 
 msgid "TXT_STRIFE_MAP19"
-msgstr "ZONE 19: Forteresse: Complexe Sécurité"
+msgstr "ZONE 19 : Forteresse : Complexe Sécurité"
 
 msgid "TXT_STRIFE_MAP20"
-msgstr "ZONE 20: Usine: Réception"
+msgstr "ZONE 20 : Usine : Réception"
 
 msgid "TXT_STRIFE_MAP21"
-msgstr "ZONE 21: Usine: Manufacture"
+msgstr "ZONE 21 : Usine : Manufacture"
 
 msgid "TXT_STRIFE_MAP22"
-msgstr "ZONE 22: Usine: Forge"
+msgstr "ZONE 22 : Usine : Forge"
 
 msgid "TXT_STRIFE_MAP23"
-msgstr "ZONE 23: Mess de l'Ordre"
+msgstr "ZONE 23 : Mess de l'Ordre"
 
 msgid "TXT_STRIFE_MAP24"
-msgstr "ZONE 24: Usine: Chapelle de Conversion"
+msgstr "ZONE 24 : Usine : Chapelle de Conversion"
 
 msgid "TXT_STRIFE_MAP25"
-msgstr "ZONE 25: Catacombes: Temple Ruiné"
+msgstr "ZONE 25 : Catacombes : Temple Ruiné"
 
 msgid "TXT_STRIFE_MAP26"
-msgstr "ZONE 26: Terrain d'entraînement"
+msgstr "ZONE 26 : Terrain d'Essai"
 
 msgid "TXT_STRIFE_MAP27"
-msgstr "ZONE 27: Laboratoire"
+msgstr "ZONE 27 : Laboratoire"
 
 msgid "TXT_STRIFE_MAP28"
-msgstr "ZONE 28: Vaisseau Alien"
+msgstr "ZONE 28 : Vaisseau Alien"
 
 msgid "TXT_STRIFE_MAP29"
-msgstr "ZONE 29: Demeure de L'Entité"
+msgstr "ZONE 29 : Demeure de L'Entité"
 
 msgid "TXT_STRIFE_MAP30"
-msgstr "ZONE 30: Base Abandonnée du Front"
+msgstr "ZONE 30 : Base Abandonnée du Front"
 
 msgid "TXT_STRIFE_MAP31"
-msgstr "ZONE 31: Complexe d'Entraînement"
+msgstr "ZONE 31 : Complexe d'Entraînement"
 
 msgid "TXT_STRIFE_MAP32"
-msgstr "ZONE 1: Sanctuaire"
+msgstr "ZONE 1 : Sanctuaire"
 
 msgid "TXT_STRIFE_MAP33"
-msgstr "ZONE 2: Ville"
+msgstr "ZONE 2 : Ville"
 
 msgid "TXT_STRIFE_MAP34"
-msgstr "ZONE 3: Base du Front"
+msgstr "ZONE 3 : Base du Mouvement"
 
 msgid "TXT_STRIFE_MAP35"
-msgstr "ZONE 35: Usine: Production"
+msgstr "ZONE 35 : Usine : Production"
 
 msgid "TXT_STRIFE_MAP36"
-msgstr "ZONE 36: Bataille du Château"
+msgstr "ZONE 36 : Bataille du Château"
 
 msgid "TXT_STRIFE_MAP37"
-msgstr "ZONE 37: Zone de Chasse"
+msgstr "ZONE 37 : Zone de Chasse"
 
 msgid "TXT_STRIFE_MAP38"
-msgstr "ZONE 38: Chaos Ordonné"
+msgstr "ZONE 38 : Chaos Ordonné"
 
-#, fuzzy
 msgid "TXT_DLG_SCRIPT01_D0_IDONT"
 msgstr "Je ne veux pas d'embrouilles. Laissez moi tranquille. J'ai déjà assez de problèmes avec ce que ce salaud d'Harris ma fait. Il m'a promis de l'argent, maintenant, je risque de me faire interroger par le Programmeur."
 
 msgid "TXT_DLG_SCRIPT02_D0_ILLHE"
-msgstr "Tu m'aide, je t'aide. Cinq pièces et je te dis ce que je sais."
+msgstr "Tu m'aide, je t'aide. Cinq pièces et je te dis tout ce que je sais."
 
 msgid "TXT_RPLY0_SCRIPT02_D0_HERES"
 msgstr "Voilà l'argent."
@@ -140,10 +139,10 @@ msgid "TXT_RYES0_SCRIPT02_D0_BESTE"
 msgstr "Tuez discrètement et vous n'aurez pas de problème avec les alarmes."
 
 msgid "TXT_RNO0_SCRIPT02_D0_WELLI"
-msgstr "Je ne vous dirai rien si vous ne me donnez rien!"
+msgstr "Je ne vous dirai rien si vous ne me donnez rien !"
 
 msgid "TXT_DLG_SCRIPT02_D1516_HAVEY"
-msgstr "T'aurais pas 5 pièces en plus sur toi?"
+msgstr "T'aurais pas 5 pièces en plus sur toi ?"
 
 msgid "TXT_RPLY0_SCRIPT02_D1516_5GOLD"
 msgstr "5 pièces."
@@ -153,16 +152,16 @@ msgstr ""
 "Les carreaux empoisonnés tuent les gardes instantanément et discrètement."
 
 msgid "TXT_RNO0_SCRIPT02_D1516_NOSIR"
-msgstr "Non, monsieur, je ne vous dirai rien si je ne me fais pas payer!"
+msgstr "Non, monsieur, je ne vous dirai rien si je ne me fais pas payer !"
 
 msgid "TXT_DLG_SCRIPT02_D3032_YOUVE"
-msgstr "Vous m'avez tiré tous les vers du nez!"
+msgstr "Vous m'avez tiré tous les vers du nez !"
 
 msgid "TXT_DLG_SCRIPT02_D4548_WHATC"
-msgstr "Que puis-je faire pour vous?"
+msgstr "Que puis-je faire pour vous ?"
 
 msgid "TXT_RPLY0_SCRIPT02_D4548_ASSAU"
-msgstr "Fusil d'Assaut"
+msgstr "Fusil d'assaut"
 
 msgid "TXT_RYES0_SCRIPT02_D4548_HEREY"
 msgstr "Voilà pour vous."
@@ -189,8 +188,7 @@ msgid "TXT_RNO2_SCRIPT02_D4548_MAYBE"
 msgstr "Peut être une autre fois."
 
 msgid "TXT_DLG_SCRIPT02_D6064_GOODN"
-msgstr ""
-"Des bonnes nouvelles du Front pour une fois. Macil t'a envoyé pour une récompense et de l'entraînement. Il m'a instruit de te les procurer."
+msgstr "Des bonnes nouvelles du Front pour une fois. Macil t'a envoyé pour une récompense et de l'entraînement. Il m'a ordonné de te les procurer."
 
 msgid "TXT_RPLY0_SCRIPT02_D6064_THANK"
 msgstr "Merci."
@@ -199,34 +197,31 @@ msgid "TXT_RYES0_SCRIPT02_D6064_GLADT"
 msgstr "Ravi de vous avoir servi."
 
 msgid "TXT_DLG_SCRIPT02_D7580_ALLRI"
-msgstr ""
-"Bon, voilà quelques conseils sur ce que tu devrais faire: Ne vas pas te mêler aux croisés. Tirer en courte rafales avec le fusil d'assaut te permet de rester sur ta cible."
+msgstr "Bon, voilà quelques conseils sur ce que tu devrais faire : Ne vas pas te mêler aux croisés. Tirer en courte rafales avec le fusil d'assaut te permet de rester sur ta cible."
 
 msgid "TXT_RPLY0_SCRIPT02_D7580_ISTHA"
-msgstr "C'est tout?"
+msgstr "C'est tout ?"
 
 msgid "TXT_RYES0_SCRIPT02_D7580_LOOKY"
-msgstr "Tu en apprendras davantage plus tard."
+msgstr "Bon, tu en apprendras davantage plus tard."
 
 msgid "TXT_DLG_SCRIPT02_D9096_ITHIN"
-msgstr ""
-"Je crois que je peux convertir un lance-flammes de croisé pour être utilisé par un humain. Je peux faire quelque chose d'autre pour vous?"
+msgstr "Je crois que je peux convertir le lance-flammes d'un Croisé pour être utilisé par un humain. Je peux faire quelque chose d'autre pour vous ?"
 
 msgid "TXT_RPLY0_SCRIPT02_D9096_FLAME"
 msgstr "Lance-flammes."
 
 msgid "TXT_RYES0_SCRIPT02_D9096_IKNEW"
-msgstr "Je savais que ça marcherait! Prends-le et va donc l'essayer!"
+msgstr "Je savais que ça marcherait ! Prends-le et va donc l'essayer !"
 
 msgid "TXT_RNO0_SCRIPT02_D9096_LISTE"
-msgstr ""
-"Ecoute, je ne peux pas faire quoi que ce soit si je n'ai pas les pièces dont j'ai besoin!"
+msgstr "Ecoute, je ne peux pas faire quoi que ce soit si je n'ai pas les pièces dont j'ai besoin !"
 
 msgid "TXT_RPLY1_SCRIPT02_D9096_ASSAU"
-msgstr "Fusil d'Assaut"
+msgstr "Fusil d'assaut"
 
 msgid "TXT_RYES1_SCRIPT02_D9096_WELLH"
-msgstr "Voilà pour vous, monsieur!"
+msgstr "Voilà pour vous, monsieur !"
 
 msgid "TXT_RNO1_SCRIPT02_D9096_OBVIO"
 msgstr "Manifestement, vous ne pouvez pas vous l'offrir."
@@ -247,14 +242,13 @@ msgid "TXT_RYES3_SCRIPT02_D9096_HERES"
 msgstr "Voilà vos munitions."
 
 msgid "TXT_RNO3_SCRIPT02_D9096_MAYBE"
-msgstr "Peut être une autre fois, au revoir!"
+msgstr "Peut être une autre fois, au revoir !"
 
 msgid "TXT_DLG_SCRIPT02_D10612_NOWTH"
-msgstr ""
-"Maintenant que vous avez le lance-flammes, est-ce que je peux faire quelque chose pour vous?"
+msgstr "Maintenant que vous avez le lance-flammes, est-ce que je peux faire quelque chose pour vous ?"
 
 msgid "TXT_RPLY0_SCRIPT02_D10612_ASSAU"
-msgstr "Fusil d'Assaut"
+msgstr "Fusil d'assaut"
 
 msgid "TXT_RYES0_SCRIPT02_D10612_HEREY"
 msgstr "Voilà pour vous."
@@ -281,8 +275,7 @@ msgid "TXT_RNO2_SCRIPT02_D10612_MAYBE"
 msgstr "Peut être une autre fois."
 
 msgid "TXT_DLG_SCRIPT02_D12128_NOWTH"
-msgstr ""
-"Maintenant que vous avez le lance-flammes, est-ce que je peux faire quelque chose pour vous?"
+msgstr "Maintenant que vous avez le lance-flammes, est-ce que je peux faire quelque chose pour vous ?"
 
 msgid "TXT_RPLY0_SCRIPT02_D12128_CLIPO"
 msgstr "Chargeur de balles"
@@ -312,26 +305,25 @@ msgid "TXT_RNO2_SCRIPT02_D12128_YOUDO"
 msgstr "Vous n'avez pas assez d'argent."
 
 msgid "TXT_RPLY3_SCRIPT02_D12128_POISO"
-msgstr "Carreaux Empoisonnés"
+msgstr "Carreaux empoisonnés"
 
 msgid "TXT_RYES3_SCRIPT02_D12128_WORTH"
-msgstr "Ca vaut son prix!"
+msgstr "Ca vaut son prix !"
 
 msgid "TXT_RNO3_SCRIPT02_D12128_COMEO"
-msgstr "Allez, 200 pièces!"
+msgstr "Allez, 200 pièces !"
 
-#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D13644_ICANT"
-msgstr "J'arrive pas à croire que je me retrouve coincé ici. On me raconte qu'une chose maléfique est sortie de cette barrière des égouts.. Maintenant je me retrouve planté ici jusqu'a ce qu'elle revienne!"
+msgstr "J'arrive pas à croire que je me retrouve coincé ici. On me raconte qu'une chose maléfique est sortie de cette barrière des égouts... Maintenant je me retrouve planté ici jusqu'a ce qu'elle revienne !"
 
 msgid "TXT_RPLY0_SCRIPT02_D13644_WHATG"
-msgstr "Quelle barrière?"
+msgstr "Quelle barrière ?"
 
 msgid "TXT_RYES0_SCRIPT02_D13644_THESE"
 msgstr "La barrière de débordement des égouts."
 
 msgid "TXT_DLG_SCRIPT02_D15160_HELLO"
-msgstr "Bonjour mon ami, que puis-je faire pour vous?"
+msgstr "Bonjour mon ami, que puis-je faire pour vous ?"
 
 msgid "TXT_RPLY0_SCRIPT02_D15160_ELECT"
 msgstr "Carreaux électriques"
@@ -340,22 +332,22 @@ msgid "TXT_RYES0_SCRIPT02_D15160_YOUGO"
 msgstr "Vous recevez les carreaux électriques."
 
 msgid "TXT_RPLY1_SCRIPT02_D15160_AMMOS"
-msgstr "Sacoche de Munitions"
+msgstr "Sacoche de munitions"
 
 msgid "TXT_RNO0_SCRIPT02_D15160_NOYOU"
-msgstr "Non, vous n'avez pas ce qu'il me faut pour les carreaux électriques!"
+msgstr "Non, vous n'avez pas ce qu'il me faut pour les carreaux électriques !"
 
 msgid "TXT_RNO0_SCRIPT02_D16676_NOYOU"
-msgstr "Non, vous n'avez pas ce qu'il me faut pour les carreaux électriques!"
+msgstr "Non, vous n'avez pas ce qu'il me faut pour les carreaux électriques !"
 
 msgid "TXT_RYES1_SCRIPT02_D15160_THANK"
-msgstr "Merci, Autre chose?"
+msgstr "Merci, Autre chose ?"
 
 msgid "TXT_RNO1_SCRIPT02_D15160_YOUCA"
 msgstr "Vous n'avez pas assez d'argent. Bonne journée."
 
 msgid "TXT_DLG_SCRIPT02_D16676_WHATC"
-msgstr "Que puis-je faire pour vous?"
+msgstr "Que puis-je faire pour vous ?"
 
 msgid "TXT_RPLY0_SCRIPT02_D16676_ELECT"
 msgstr "Carreaux électriques"
@@ -364,22 +356,22 @@ msgid "TXT_RYES0_SCRIPT02_D16676_YOUGO"
 msgstr "Vous recevez les carreaux électriques."
 
 msgid "TXT_RPLY1_SCRIPT02_D16676_AMMOS"
-msgstr "Sacoche de Munitions"
+msgstr "Sacoche de munitions"
 
 msgid "TXT_RYES1_SCRIPT02_D16676_THANK"
-msgstr "Merci, Autre chose?"
+msgstr "Merci, autre chose ?"
 
 msgid "TXT_RNO1_SCRIPT02_D16676_YOUCA"
-msgstr "Vous n'avez pas assez d'argent. Bonne journée."
+msgstr "Vous n'avez pas assez d'argent. Bonne journée !"
 
 msgid "TXT_DLG_SCRIPT02_D18192_WELCO"
-msgstr "Bienvenue, que souhaitez vous?"
+msgstr "Bienvenue, que souhaitez vous ?"
 
 msgid "TXT_RPLY0_SCRIPT02_D18192_ENVIR"
-msgstr "Combinaison hazmat"
+msgstr "Combinaison environnementale"
 
 msgid "TXT_RYES0_SCRIPT02_D18192_WELLH"
-msgstr "Voilà pour vous."
+msgstr "Bien, voilà pour vous."
 
 msgid "TXT_RNO0_SCRIPT02_D18192_IMSOR"
 msgstr "Je suis désolé mais vous n'avez pas assez d'argent."
@@ -391,22 +383,22 @@ msgid "TXT_RYES1_SCRIPT02_D18192_HEREY"
 msgstr "Voilà pour vous."
 
 msgid "TXT_RNO1_SCRIPT02_D18192_PERHA"
-msgstr "Peut être une autre fois?"
+msgstr "Peut être une autre fois ?"
 
 msgid "TXT_RPLY2_SCRIPT02_D18192_METAL"
-msgstr "Armure en Métal"
+msgstr "Armure en métal"
 
 msgid "TXT_RYES2_SCRIPT02_D18192_WEARI"
 msgstr "Portez la bien."
 
 msgid "TXT_RNO2_SCRIPT02_D18192_COMEB"
-msgstr "Revenez quand vous avez de l'argent, rustre!"
+msgstr "Revenez quand vous avez de l'argent, rustre !"
 
 msgid "TXT_DLG_SCRIPT02_D19708_WELCO"
-msgstr "Bienvenue, que souhaitez vous?"
+msgstr "Bienvenue, que souhaitez vous ?"
 
 msgid "TXT_RPLY0_SCRIPT02_D19708_ENVIR"
-msgstr "Combinaison hazmat"
+msgstr "Combinaison environnementale"
 
 msgid "TXT_RYES0_SCRIPT02_D19708_WELLH"
 msgstr "Voilà pour vous."
@@ -421,19 +413,19 @@ msgid "TXT_RYES1_SCRIPT02_D19708_HEREY"
 msgstr "Voilà pour vous."
 
 msgid "TXT_RNO1_SCRIPT02_D19708_PERHA"
-msgstr "Peut être une autre fois?"
+msgstr "Peut être une autre fois ?"
 
 msgid "TXT_RPLY2_SCRIPT02_D19708_METAL"
-msgstr "Armure en Métal"
+msgstr "Armure en métal"
 
 msgid "TXT_RYES2_SCRIPT02_D19708_WEARI"
 msgstr "Portez la bien."
 
 msgid "TXT_RNO2_SCRIPT02_D19708_COMEB"
-msgstr "Revenez quand vous avez de l'argent, rustre!"
+msgstr "Revenez quand vous avez de l'argent, rustre !"
 
 msgid "TXT_DLG_SCRIPT02_D21224_HOWMA"
-msgstr "Comment puis-je vous assister?"
+msgstr "Comment puis-je vous assister ?"
 
 msgid "TXT_RPLY0_SCRIPT02_D21224_MEDPA"
 msgstr "Pansement"
@@ -460,11 +452,10 @@ msgid "TXT_RYES2_SCRIPT02_D21224_THERE"
 msgstr "Voilà pour vous. Faites attention à vous maintenant."
 
 msgid "TXT_RNO2_SCRIPT02_D21224_WELLM"
-msgstr "Eh bien, peut être que vous pouvez vous acheter quelques pansements?"
+msgstr "Eh bien, peut être que vous pouvez vous acheter quelques pansements ?"
 
-#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D22740_IHOPE"
-msgstr "J'espère que Macil sait ce qu'il fait. Si l'Ordre se rend compte que j'aide le Front, c'est comme si j'étais mort.. bon, cela ne vous importe pas. Le médecin du Front m'a donné une puce d'augmentation pour vous. Etes vous prêt? "
+msgstr "J'espère que Macil sait ce qu'il fait. Si l'Ordre se rend compte que j'aide le Front, c'est comme si j'étais mort... bon, cela ne vous importe pas. Le médecin du Front m'a donné une puce d'augmentation pour vous. Etes vous prêt ?"
 
 msgid "TXT_RPLY0_SCRIPT02_D22740_YESIM"
 msgstr "Oui, je suis prêt."
@@ -473,7 +464,7 @@ msgid "TXT_RYES0_SCRIPT02_D22740_WELLT"
 msgstr "Bon, cela ne prendra qu'une seconde. Voilà, c'est fait."
 
 msgid "TXT_DLG_SCRIPT02_D24256_HOWMA"
-msgstr "Comment puis-je vous assister?"
+msgstr "Comment puis-je vous assister ?"
 
 msgid "TXT_RPLY0_SCRIPT02_D24256_MEDPA"
 msgstr "Pansement"
@@ -500,28 +491,26 @@ msgid "TXT_RYES2_SCRIPT02_D24256_THERE"
 msgstr "Voilà pour vous. Faites attention à vous maintenant."
 
 msgid "TXT_RNO2_SCRIPT02_D24256_WELLM"
-msgstr "Eh bien, peut être que vous pouvez vous acheter quelques pansements?"
+msgstr "Eh bien, peut être que vous pouvez vous acheter quelques pansements ?"
 
 msgid "TXT_DLG_SCRIPT02_D25772_HELLO"
 msgstr ""
 "Bien le bonjour, étranger. On ne vous a pas encore vu dans ce coin. Laissez-moi vous donner un petit conseil. Je ferais attention si j'étais vous. L'Ordre ne tolère pas le libre arbitre et leur justice est fulgurante."
 
 msgid "TXT_RPLY0_SCRIPT02_D25772_WHATS"
-msgstr "C'est quoi la rumeur?"
+msgstr "C'est quoi la rumeur ?"
 
-#, fuzzy
 msgid "TXT_RYES0_SCRIPT02_D25772_THEWO"
-msgstr "La rumeur est.. Que les égouts cachent quelque chose de plus gros que des rats et des robots."
+msgstr "La rumeur est... Que les égouts cachent quelque chose de plus gros que des rats et des robots."
 
 msgid "TXT_DLG_SCRIPT02_D27288_WHATC"
-msgstr "Que puis-je faire pour vous?"
+msgstr "Que puis-je faire pour vous ?"
 
 msgid "TXT_RPLY0_SCRIPT02_D27288_MOREI"
 msgstr "Plus d'infos."
 
 msgid "TXT_RYES0_SCRIPT02_D27288_THEGO"
-msgstr ""
-"Le gouverneur n'est qu'un exemple parmi d'autres pour nous montrer que ne nous somme plus un peuple libre."
+msgstr "Le Gouverneur n'est qu'un exemple parmi d'autres pour nous montrer que ne nous somme plus un peuple libre."
 
 msgid "TXT_RNO0_SCRIPT02_D27288_COMEB"
 msgstr "Revenez quand vous avez de l'argent."
@@ -537,31 +526,28 @@ msgid "TXT_RYES0_SCRIPT02_D28804_THERE"
 msgstr "L'Ordre cache bien son jeu."
 
 msgid "TXT_RNO0_SCRIPT02_D28804_WELLT"
-msgstr "On parlera quand tu auras des sous!"
+msgstr "On parlera quand tu auras des sous !"
 
-#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D30320_THATS"
-msgstr "Eh bien voilà, mon ami, le puits de la connaîssance s'est enfin asséché.. Je t'en ai dit plus que je n'aurai du, de toutes manières! Bonne chance.. Et ne reviens pas!"
+msgstr "Eh bien voilà, mon ami, le puits de la connaîssance s'est enfin asséché... Je t'en ai dit plus que je n'aurai du, de toutes manières ! Bonne chance... Et ne reviens pas !"
 
-#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D31836_HEYIM"
-msgstr "Hé, je ne suis là qu'en cas d'urgence. Si le coeur a une brèche, il faut que je fasse en sorte que rien ne rentre.. Ou ne sorte."
+msgstr "Hé, je ne suis là qu'en cas d'urgence. Si le coeur a une brèche, il faut que je fasse en sorte que rien ne rentre... Ou ne sorte."
 
 msgid "TXT_DLG_SCRIPT02_D33352_WATCH"
-msgstr "Regarde où tu va, paysan!"
+msgstr "Regarde où tu va, paysan !"
 
 msgid "TXT_DLG_SCRIPT02_D34868_WEREG"
-msgstr "On va te descendre! "
+msgstr "On va te descendre ! "
 
 msgid "TXT_DLG_SCRIPT02_D36384_WHOIN"
-msgstr ""
-"Qu'est ce que c'est ça? Que faites vous ici? Personne n'est sensé se trouver dans cette zone!"
+msgstr "Qu'est ce que c'est ça ? Que faites vous ici ? Personne n'est sensé se trouver dans cette zone !"
 
 msgid "TXT_DLG_SCRIPT02_D37900_YOUTH"
-msgstr "Vous, là, personne n'est autorisé à traîner ici, dégagez!"
+msgstr "Vous, là, personne n'est autorisé à traîner ici, dégagez !"
 
 msgid "TXT_DLG_SCRIPT02_D39416_IRALE"
-msgstr "Irale a ce qu'il te faut!"
+msgstr "Irale a ce qu'il te faut !"
 
 #, fuzzy
 msgid "TXT_DLG_SCRIPT02_D40932_IMKIN"
@@ -571,37 +557,34 @@ msgid "TXT_RPLY0_SCRIPT02_D40932_IMINT"
 msgstr "Je suis intéressé."
 
 msgid "TXT_RPLY1_SCRIPT02_D40932_SCREW"
-msgstr "Je m'en fous des rebelles!"
+msgstr "Je m'en fous des rebelles !"
 
 msgid "TXT_DLG_SCRIPT02_D42448_NONOS"
 msgstr "Non, non, pas de deuxième chance. Gardes, tuez-le."
 
 msgid "TXT_DLG_SCRIPT02_D43964_GOODC"
-msgstr ""
-"Bon choix. Le sanctuaire de l'ordre près de la rivière est leur chambre torture.. officieusement. A l'intérieur se trouve un calice en or. Récupérez le et venez prendre votre récompense."
+msgstr "Bon choix. Le sanctuaire de l'ordre près de la rivière est leur chambre torture... officieusement. A l'intérieur se trouve un calice en or. Récupérez le et venez prendre votre récompense."
 
 msgid "TXT_RPLY0_SCRIPT02_D43964_HOWAM"
-msgstr "Comment est-ce que je suis sensé faire ça?"
+msgstr "Comment est-ce que je suis sensé faire ça ?"
 
 msgid "TXT_DLG_SCRIPT02_D45480_HERES"
-msgstr ""
-"Voilà une arbalète. Vous avez juste à viser droit et paf! Souvenez-vous. Prenez le goblet et ramenez le à la taverne."
+msgstr "Voilà une arbalète. Vous avez juste à viser droit et paf ! Souvenez-vous. Prenez le goblet et ramenez le à la taverne."
 
 msgid "TXT_RPLY0_SCRIPT02_D45480_COOLI"
 msgstr "Ok. Je m'en occupe."
 
 msgid "TXT_DLG_SCRIPT02_D46996_WHATA"
-msgstr "Qu'attendez vous? Récupérez-moi ce calice."
+msgstr "Qu'attendez vous ? Récupérez-moi ce calice."
 
 msgid "TXT_DLG_SCRIPT02_D48512_HEYIK"
-msgstr ""
-"Hé, je sais que ça à l'air d'être un coup monté, mais je ne ferais jamais ça à une aussi bonne machine à tuer. Vous avez le butin? Excellent! Préparez vous, l'or et la gloire vous attend, comme promis. Prenez cette clé et le gouverneur vous récompensera."
+msgstr "Hé, je sais que ça à l'air d'être un coup monté, mais je ne ferais jamais ça à une aussi bonne machine à tuer. Vous avez le butin ? Excellent ! Préparez vous, l'or et la gloire vous attend, comme promis. Prenez cette clé et le gouverneur vous récompensera."
 
 msgid "TXT_RPLY0_SCRIPT02_D48512_HEDBE"
-msgstr "Il a intérêt, pour votre bien!"
+msgstr "Il a intérêt, pour votre bien !"
 
 msgid "TXT_RPLY1_SCRIPT02_D48512_WHATW"
-msgstr "Quoi? Où est mon argent!"
+msgstr "Quoi ! Où est mon argent ?"
 
 msgid "TXT_DLG_SCRIPT02_D50028_GETLO"
 msgstr "Dégage, gamin, tu m'agaces."
@@ -610,8 +593,7 @@ msgid "TXT_DLG_SCRIPT02_D51544_NOSEC"
 msgstr "Pas de deuxième chance. Gardes, tuez-le."
 
 msgid "TXT_DLG_SCRIPT02_D53060_FIRST"
-msgstr ""
-"D'abord ils en massacrent des miliers, maintenant ils veulent tous les paysans en bonne santé pour leur « tests » dont personne ne sait rien. Comment est-ce que l'ordre veut que je garde la paix? Qu'est-ce que vous voulez?"
+msgstr "D'abord ils en massacrent des miliers, maintenant ils veulent tous les paysans en bonne santé pour leur « tests » dont personne ne sait rien. Comment est-ce que l'ordre veut que je garde la paix ? Qu'est-ce que vous voulez ?"
 
 msgid "TXT_RPLY0_SCRIPT02_D53060_APRIS"
 msgstr "Un passe de la prison. Faisons affaires."
@@ -621,28 +603,27 @@ msgstr ""
 "Vous me plaisez déjà. J'ai deux corvées que je n'ai pas envie de faire. Une est.. Sale, l'autre est sanglante."
 
 msgid "TXT_RPLY0_SCRIPT02_D54576_CALLM"
-msgstr "Appelez-moi le nettoyeur."
+msgstr "Appelez-moi le nettoyeur"
 
 msgid "TXT_RPLY1_SCRIPT02_D54576_IMNOT"
-msgstr "J'ai pas peur de me tacher les mains."
+msgstr "J'ai pas peur de me tacher les mains"
 
 msgid "TXT_DLG_SCRIPT02_D56092_ONEOF"
 msgstr ""
 "Un de mes larbins pompe de l'électricité avec une connection pirate dans les transformateurs là haut. Trouvez là et coupez sa connection. Je vous donnerai ce que vous voulez. Ramenez moi une preuve."
 
 msgid "TXT_RPLY0_SCRIPT02_D56092_WHERE"
-msgstr "Où est-ce que je trouve cette connection?"
+msgstr "Où est-ce que je trouve cette connection ?"
 
 msgid "TXT_DLG_SCRIPT02_D57608_IFIKN"
-msgstr ""
-"Si je le savais, ce ne serait pas une corvée, non? Utiliser votre charme si il le faut, mais coupez cette connection."
+msgstr "Si je le savais, ce ne serait pas une corvée, non ? Utilisez votre charme si il le faut, mais coupez cette connection."
 
 msgid "TXT_DLG_SCRIPT02_D59124_TELLY"
 msgstr ""
 "Eh bien, il y a une raclure appelée Derwin qui vend des enfants à l'Ordre. Je ne tolère pas ce type d'atrocité, du moins pas sans ma part des frais. Derwin travaille dans l'entrepôt. Tuez-le et ramenez moi son oreille, je verrais ce que je peux faire pour vous."
 
 msgid "TXT_RPLY0_SCRIPT02_D59124_HOWDO"
-msgstr "Comment j'y rentre?"
+msgstr "Comment j'y rentre ?"
 
 msgid "TXT_DLG_SCRIPT02_D60640_THISK"
 msgstr ""
@@ -659,10 +640,10 @@ msgid "TXT_DLG_SCRIPT02_D63672_GIVEY"
 msgstr "Petit conseil. Quand j'arrète de vous parler, vous sortez d'ici."
 
 msgid "TXT_DLG_SCRIPT02_D65188_DOYOU"
-msgstr "De bonnes nouvelles? Mes oreilles sont à vous."
+msgstr "De bonnes nouvelles ? Je suis tout ouïe."
 
 msgid "TXT_RPLY0_SCRIPT02_D65188_THEDE"
-msgstr "C'est bel est bien fait."
+msgstr "C'est bel est bien fait !"
 
 msgid "TXT_DLG_SCRIPT02_D66704_OHIJU"
 msgstr ""
@@ -671,25 +652,23 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT02_D66704_FINEB"
 msgstr "Ca me convient."
 
-#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D68220_SOYOU"
-msgstr "Vous êtes l'abruti qui a volé le calice? Maintenant il faut que je vous arrète comme voleur rebelle.. Ca va aider ma position dans l'Ordre. Comment ça fait d'être un pion ignorant? Petite idée, ça va faire mal. "
+msgstr "Vous êtes l'abruti qui a volé le calice? Maintenant il faut que je vous arrète comme voleur rebelle... Ce qui va aider ma progression dans l'Ordre. Comment ça fait d'être un pion ignorant? Petite indice, ça va faire mal."
 
 msgid "TXT_RPLY0_SCRIPT02_D68220_ITSUC"
-msgstr "Quelle merde!"
+msgstr "Quelle merde !"
 
 msgid "TXT_RYES0_SCRIPT02_D68220_FORYO"
 msgstr "Pour vous, en effet."
 
 msgid "TXT_RPLY1_SCRIPT02_D68220_HARRI"
-msgstr "Harris m'a promis de l'argent!"
+msgstr "Harris m'a promis de l'argent !"
 
 msgid "TXT_RYES1_SCRIPT02_D68220_TOOBA"
-msgstr "C'est dommage. Tout ce que vous gagnez, c'est une mort rapide!"
+msgstr "C'est dommage. Tout ce que vous gagnez, c'est une mort rapide !"
 
 msgid "TXT_DLG_SCRIPT02_D69736_INASM"
-msgstr ""
-"Dans un petit monde, les rumeurs courent vite. J'entends que vous avez.. enlevé certains obstacles de votre chemin. Bon travail. Vous seriez intéressé par des projets plus lucratifs?"
+msgstr "Dans un petit monde, les rumeurs courent vite. J'entends que vous avez enlevé certains obstacles de votre chemin. Bon travail. Vous seriez intéressé par des projets plus lucratifs ?"
 
 msgid "TXT_RPLY0_SCRIPT02_D69736_SUREW"
 msgstr "Ouais, pourquoi pas."
@@ -698,17 +677,16 @@ msgid "TXT_RPLY1_SCRIPT02_D69736_NOTHA"
 msgstr "Non merci."
 
 msgid "TXT_RYES1_SCRIPT02_D69736_THENG"
-msgstr "Alors dégage!"
+msgstr "Alors dégage !"
 
 msgid "TXT_DLG_SCRIPT02_D71252_FOOLG"
-msgstr "Idiot! Gardes, débarassez-moi de ce pion embêtant!"
+msgstr "Idiot ! Gardes, débarassez-moi de ce pion indiscret !"
 
 msgid "TXT_DLG_SCRIPT02_D72768_GOODS"
-msgstr ""
-"Bien. Certains... amis à moi demandent à ce que quelqu'un arrète de parler. Beldin est retenu par l'Ordre dans leur sanctuaire. Il y a une entrée rarement utilisée près d'un ponton près de la rivière qui n'est pas gardée. Entrez, coupez-lui le sifflet et ramenez moi son anneau comme preuve."
+msgstr "Bien. Certains, euh, amis à moi demandent à ce que quelqu'un arrète de parler. Beldin est retenu par l'Ordre dans leur sanctuaire. Il y a une entrée rarement utilisée près d'un ponton sur rivière qui n'est pas gardée. Entrez, coupez-lui le sifflet et ramenez moi son anneau comme preuve."
 
 msgid "TXT_RPLY0_SCRIPT02_D72768_WILLI"
-msgstr "Est-ce que ça en vaudra l'effort?"
+msgstr "Est-ce que ça en vaudra l'effort ?"
 
 msgid "TXT_DLG_SCRIPT02_D74284_ILLGU"
 msgstr ""
@@ -718,23 +696,22 @@ msgid "TXT_RPLY0_SCRIPT02_D74284_THANK"
 msgstr "Merci, j'en aurais besoin."
 
 msgid "TXT_DLG_SCRIPT02_D75800_GOODR"
-msgstr "Bien. Souvenez-vous. Le silence est d'or."
+msgstr "Bien. Souvenez-vous, son silence est d'or."
 
 msgid "TXT_RPLY0_SCRIPT02_D75800_ILLGE"
 msgstr "Je m'occupe de lui."
 
 msgid "TXT_DLG_SCRIPT02_D77316_MISSI"
-msgstr "Mission accomplie? Vous avez l'anneau du traître?"
+msgstr "Mission accomplie ? Vous avez l'anneau du traître ?"
 
 msgid "TXT_RPLY0_SCRIPT02_D77316_HESDE"
-msgstr "Il est mort, où est mon argent?"
+msgstr "Il est mort, où est mon argent ?"
 
 msgid "TXT_RNO0_SCRIPT02_D77316_LIARG"
-msgstr "Mensonges! Ramenez-moi l'anneau!"
+msgstr "Mensonges ! Ramenez-moi l'anneau !"
 
 msgid "TXT_DLG_SCRIPT02_D78832_HEREY"
-msgstr ""
-"Voilà, vous l'avez bien mérité. Ce traître que vous avez tué allait révéler la base du Front. Vous avez sauvé de nombreuses vies. Est-ce que ça vous intéresserait de vous faire plus d'argent et garantir un futur libre de la tyrannie?"
+msgstr "Voilà, vous l'avez bien mérité. Ce traître que vous avez tué allait révéler la base du Front. Vous avez sauvé de nombreuses vies. Est-ce que ça vous intéresserait de vous faire plus d'argent et garantir un futur libre de la tyrannie ?"
 
 msgid "TXT_RPLY0_SCRIPT02_D78832_TELLM"
 msgstr "Dites-moi en plus."
@@ -754,24 +731,22 @@ msgstr ""
 "Partez maintenant, si vous traînez ici, nous serons morts tous les deux."
 
 msgid "TXT_DLG_SCRIPT02_D83380_APITY"
-msgstr ""
-"Dommage. Mais maintenant que vous savez qui sont mes amis, je dois me débarasser de vous. Garde, débarassez moi de mes ordures!"
+msgstr "Dommage. Mais maintenant que vous savez qui sont mes amis, je dois me débarasser de vous. Garde, débarassez moi de mes ordures !"
 
 msgid "TXT_DLG_SCRIPT02_D84896_FOOLG"
-msgstr "Idiot! Gardes, débarassez-moi de ce pion embêtant!"
+msgstr "Idiot ! Gardes, débarassez-moi de ce pion indiscret !"
 
 msgid "TXT_DLG_SCRIPT02_D86412_WALKA"
 msgstr "Pars, gamin, pars."
 
 msgid "TXT_DLG_SCRIPT02_D87928_WHATA"
-msgstr "Qu'est ce que vous faites ici?"
+msgstr "Qu'est ce que vous faites ici ?"
 
 msgid "TXT_RPLY0_SCRIPT02_D87928_HEYIN"
-msgstr "Hé, j'ai besoin de sous!"
+msgstr "Hé, j'ai besoin de sous !"
 
 msgid "TXT_DLG_SCRIPT02_D89444_BLACK"
-msgstr ""
-"Blackbird t'as donné le code, hein? Bon, laisse moi désactiver l'alarme. Macil est en bas des escaliers."
+msgstr "Blackbird t'as donné le code, hein ? Bon, laisse moi désactiver l'alarme. Macil est en bas des escaliers."
 
 msgid "TXT_RPLY0_SCRIPT02_D89444_THANK"
 msgstr "Merci."
@@ -780,17 +755,16 @@ msgid "TXT_DLG_SCRIPT02_D90960_WALKA"
 msgstr "Pars, gamin, pars."
 
 msgid "TXT_DLG_SCRIPT02_D92476_DOYOU"
-msgstr "Avez-vous un rendez-vous avec le gouverneur? "
+msgstr "Avez-vous un rendez-vous avec le gouverneur ? "
 
 msgid "TXT_RPLY0_SCRIPT02_D92476_OFCOU"
-msgstr "Bien sûr!"
+msgstr "Bien sûr !"
 
 msgid "TXT_RPLY1_SCRIPT02_D92476_NOAND"
-msgstr "Non, et j'en ai pas besoin!"
+msgstr "Non, et j'en ai pas besoin !"
 
-#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D93992_SORRY"
-msgstr "Désolé, je.. Vous pouvez monter, bien sûr."
+msgstr "Désolé ! Je ne voulais pas... Vous pouvez monter, bien sûr."
 
 msgid "TXT_RPLY0_SCRIPT02_D93992_IKNEW"
 msgstr "Je savais que vous diriez ceci."
@@ -802,17 +776,16 @@ msgid "TXT_DLG_SCRIPT02_D97024_RELEA"
 msgstr "Laissez moi tranquille, un vieil homme a le droit d'être seul."
 
 msgid "TXT_DLG_SCRIPT02_D98540_YOUSE"
-msgstr ""
-"Vous cherchez ma sagesse, jeune homme? L'Ordre ne pose qu'une seule question: « Pourquoi? »"
+msgstr "Vous cherchez ma sagesse, jeune homme ? L'Ordre ne pose qu'une seule question : « Pourquoi ? »"
 
 msgid "TXT_RPLY0_SCRIPT02_D98540_WHERE"
-msgstr "Où est le coupleur énergétique?"
+msgstr "Où est le coupleur énergétique ?"
 
 msgid "TXT_RPLY1_SCRIPT02_D98540_WHERE"
-msgstr "Où est le transformateur de l'Ordre?"
+msgstr "Où est le transformateur de l'Ordre ?"
 
 msgid "TXT_RPLY2_SCRIPT02_D98540_WHERE"
-msgstr "Où est la connection pirate?"
+msgstr "Où est la connection pirate ?"
 
 msgid "TXT_DLG_SCRIPT02_D100056_ILLTE"
 msgstr ""
@@ -822,8 +795,7 @@ msgid "TXT_RPLY0_SCRIPT02_D100056_THANK"
 msgstr "Merci."
 
 msgid "TXT_DLG_SCRIPT02_D101572_THATS"
-msgstr ""
-"Il se trouve ici dans le traitement des égouts, mais c'est le coupleur du Front . Celui qui vous a dit qu'il appartient à l'Ordre se plante."
+msgstr "Il se trouve ici dans le traitement des égouts, mais c'est le coupleur du Front. Celui qui vous a dit qu'il appartient à l'Ordre se plante."
 
 msgid "TXT_RPLY0_SCRIPT02_D101572_THANK"
 msgstr "Merci."
@@ -838,22 +810,20 @@ msgstr "Merci."
 msgid "TXT_DLG_SCRIPT02_D104604_RELEA"
 msgstr "Laissez moi tranquille, un vieil homme a le droit d'être seul."
 
-#, fuzzy
 msgid "TXT_DLG_SCRIPT03_D0_WELCO"
-msgstr "Bienvenue au dernier lieu d'espoir. Nous seuls avons la liberté d'esprit pour opposer l'Ordre. Nous avons les esprits scientifiques les plus aiguisés et de nombreux hommes habiles et sains.. Mais il nous manque quelqu'un qui pourrait.. résoudre nos problèmes. Nous donner un peu d'aide, nous permettre de prendre l'avantage."
+msgstr "Bienvenue au dernier lieu d'espoir. Nous seuls avons la liberté d'esprit pour opposer l'Ordre. Nous avons les esprits scientifiques les plus aiguisés et de nombreux hommes habiles et sains./. Mais il nous manque quelqu'un qui pourrait, bien, résoudre nos problèmes. Nous donner un peu d'aide, nous permettre de prendre l'avantage."
 
 msgid "TXT_RPLY0_SCRIPT03_D0_ALLRI"
 msgstr "Très bien. J'accepte."
 
 msgid "TXT_RPLY1_SCRIPT03_D0_NOTHA"
-msgstr "Non merci."
+msgstr "Non merci !"
 
 msgid "TXT_DLG_SCRIPT03_D1516_YOUMI"
-msgstr ""
-"J'espère que vous pouvez y réfléchir. Après tout, vous êtes entouré de rebelles lourdement armés et prêts à se défendre."
+msgstr "J'espère que vous pouvez y réfléchir. Après tout, vous êtes entouré de rebelles lourdement armés et très en colère."
 
 msgid "TXT_RPLY0_SCRIPT03_D1516_ALLRI"
-msgstr "Ok, d'accord, j'accepte!"
+msgstr "Ok, d'accord, j'accepte !"
 
 msgid "TXT_RPLY1_SCRIPT03_D1516_NOTHA"
 msgstr "Non merci."
@@ -866,11 +836,10 @@ msgstr ""
 "Parfait. Blackbird continuera à être votre guide. Elle semble vous apprécier. Ensemble, vous allez découvrir les secrets de l'Ordre et leurs servants inhumains. Infiltrez-les et détruisez-les."
 
 msgid "TXT_RPLY0_SCRIPT03_D4548_WHERE"
-msgstr "Où est-ce que je commence?"
+msgstr "Où est-ce que je commence ?"
 
 msgid "TXT_DLG_SCRIPT03_D6064_FRANK"
-msgstr ""
-"Franchement, nous sommes dans un bazar sans précédent. Vous devez accomplir de nombreuses missions pour préparer nos futures attaques contre l'Ordre. Notre dernier raid à été un désastre et la majorité de nos troupes ont été capturées. Il faut que vous les libérez."
+msgstr "Franchement, nous sommes dans un bazar sans précédent. Vous devez accomplir de nombreuses missions pour préparer nos futures attaques contre l'Ordre. Notre dernier raid a été un désastre et la majorité de nos troupes ont été capturées. Il faut que vous les libériez."
 
 msgid "TXT_RPLY0_SCRIPT03_D6064_ITHIN"
 msgstr "Je pense pouvoir m'en occuper."
@@ -890,21 +859,19 @@ msgstr ""
 "Les prisonniers sont revenus à bon port, grâce à vous. Voici de l'argent, allez voir le médecin et le maître d'armes, puis j'aurais d'autres missions pour vous."
 
 msgid "TXT_RPLY0_SCRIPT03_D10612_IWILL"
-msgstr "Très bien, quoi maintenant?"
+msgstr "Très bien, quoi maintenant ?"
 
 msgid "TXT_DLG_SCRIPT03_D12128_ASING"
-msgstr ""
-"Un seul cristal fait fonctionner la grille énergétique qui alimente les boucliers de l'Ordre. Détruisez ce cristal et vous créez des énormes failles dans les défenses de l'Ordre. Blackbird va vous mener à un espion qui a un moyen de vous faire rentrer. Bonne chance."
+msgstr "Un seul cristal fait fonctionner la grille énergétique qui alimente les boucliers de l'Ordre. Détruisez ce cristal et vous créerez d'énormes failles dans les défenses de l'Ordre. Blackbird va vous mener à un espion qui a un moyen de vous faire rentrer. Bonne chance."
 
 msgid "TXT_RPLY0_SCRIPT03_D12128_WELLG"
-msgstr "Je m'en occupe."
+msgstr "On s'en occupe."
 
 msgid "TXT_DLG_SCRIPT03_D13644_FIGHT"
 msgstr "Battez vous pour le Front et pour la liberté. Repos."
 
 msgid "TXT_DLG_SCRIPT03_D15160_YOUVE"
-msgstr ""
-"Vous avez dépassé toutes nos attentes. Grâce à votre audace, nos troupes sont sur le pied de guerre. Je que vous rejoignez l'assaut tous les deux, avec une cible précise. Eliminez le Programmeur. Il est l'heure de révéler ce que nous avons découvert sur cette facette de l'Ordre."
+msgstr "Vous avez dépassé toutes nos attentes. Grâce à votre audace, nos troupes sont sur le pied de guerre. Je que vous rejoignez l'assaut tous les deux, avec une cible précise. Éliminez le Programmeur. Il est l'heure de révéler ce que nous avons découvert sur cette facette de l'Ordre."
 
 msgid "TXT_RPLY0_SCRIPT03_D15160_TELLM"
 msgstr "Donnez-moi ce que vous savez."
@@ -914,14 +881,13 @@ msgstr ""
 "Le repaire du Programmeur est dans le château. Allez voir le médecin, rechargez vos armes, et allez vous occuper de lui."
 
 msgid "TXT_RPLY0_SCRIPT03_D16676_LETME"
-msgstr "Laissez moi m'en occuper!"
+msgstr "Laissez moi m'en occuper !"
 
 msgid "TXT_DLG_SCRIPT03_D18192_FIGHT"
 msgstr "Battez vous pour le Front et pour la liberté. Repos."
 
 msgid "TXT_DLG_SCRIPT03_D19708_REMEM"
-msgstr ""
-"Souvenez-vous de l'hôtel de ville avant tout cela? C'est une manière gentille de nous montrer ce qu'ils sont capables de faire pour se débarasser de nous. Faites attention."
+msgstr "Souvenez-vous de l'hôtel de ville avant tout cela ? C'est une manière gentille de nous montrer ce qu'ils sont capables de faire pour se débarasser de nous. Faites attention."
 
 msgid "TXT_DLG_SCRIPT03_D21224_TALKT"
 msgstr "Parlez à Macil. Il pourra vous aider."
@@ -935,21 +901,19 @@ msgstr ""
 "Quelques uns de ces tonneaux vidés dans leur réserve d'eau devrait équilibrer le terrain de jeu."
 
 msgid "TXT_DLG_SCRIPT03_D25772_SOYOU"
-msgstr "Vous êtes le nouvel agent? Merci, sans vous, nous serions tous morts."
+msgstr "Vous êtes le nouvel agent ? Merci, sans vous, nous serions tous morts."
 
 msgid "TXT_DLG_SCRIPT03_D27288_IMWOR"
-msgstr ""
-"Je travaille sur quelque chose qui nous donnera un peu d'avance. Ca devrait augmenter votre endurance et vous donner un sacré coup de jus. Je crois que j'ai corrigé presque tous les bugs. Je peux vous aider?"
+msgstr "Je travaille sur quelque chose qui nous donnera un peu d'avance. Ca devrait augmenter votre endurance et vous donner un sacré coup de jus. Je crois que j'ai corrigé presque tous les bugs. Je peux vous aider ?"
 
 msgid "TXT_RPLY0_SCRIPT03_D27288_PATCH"
 msgstr "Soignez moi."
 
 msgid "TXT_RYES0_SCRIPT03_D27288_BOYYO"
-msgstr ""
-"Mon petit, vous êtes dans un sale état. Je vais voir ce que je peux faire."
+msgstr "Mon pauvre, vous êtes dans un sale état. Je vais voir ce que je peux faire."
 
 msgid "TXT_RPLY1_SCRIPT03_D27288_STAMI"
-msgstr "Implant d'endurance?"
+msgstr "Implant d'endurance ?"
 
 msgid "TXT_RYES1_SCRIPT03_D27288_ALLRI"
 msgstr "Pas de problème, ça ne prendra qu'un moment."
@@ -958,8 +922,7 @@ msgid "TXT_RNO1_SCRIPT03_D27288_ITSNO"
 msgstr "Ce n'est pas encore terminé."
 
 msgid "TXT_DLG_SCRIPT03_D28804_HEYIM"
-msgstr ""
-"Hé, je travaille sur une version améliorée de l'implant. Qu'est-ce que je peux faire pour vous?"
+msgstr "Hé, je travaille sur une version améliorée de l'implant. Que puis-je faire pour vous ?"
 
 msgid "TXT_RPLY0_SCRIPT03_D28804_PATCH"
 msgstr "Soignez moi."
@@ -968,27 +931,25 @@ msgid "TXT_RYES0_SCRIPT03_D28804_WELLA"
 msgstr "Eh bien, au moins vous en voyez, de l'action."
 
 msgid "TXT_RPLY1_SCRIPT03_D28804_IMPLA"
-msgstr "Mise à jour de l'implant?"
+msgstr "Mise à jour de l'implant ?"
 
 msgid "TXT_RYES1_SCRIPT03_D28804_GOODT"
-msgstr "Bonne idée. On ne peut jamais être trop sûr."
+msgstr "Bonne idée, on ne peut jamais être trop sûr."
 
 msgid "TXT_RNO1_SCRIPT03_D28804_IMALM"
 msgstr "Presque fini, mais pas encore."
 
 msgid "TXT_DLG_SCRIPT03_D30320_ALLRI"
-msgstr ""
-"Très bien, je crois que j'ai réussi à tout faire marcher parfaitement. Il y avait quelques problèmes dont je devais me débarrasser. Vous voulez quelque chose? "
+msgstr "Très bien, je crois que j'ai réussi à tout faire marcher parfaitement. Il y avait quelques problèmes dont je devais me débarrasser. Vous voulez quelque chose d'autre? "
 
 msgid "TXT_RPLY0_SCRIPT03_D30320_PATCH"
 msgstr "Soignez moi."
 
 msgid "TXT_RYES0_SCRIPT03_D30320_WHATH"
-msgstr ""
-"Qu'est-ce que vous avez fait? Vous avez essayé de faire ami avec un Croisé?"
+msgstr "Qu'est-ce que vous avez fait ? Vous vous en êtes pris à un Croisé à mains nues ?"
 
 msgid "TXT_RPLY1_SCRIPT03_D30320_IMPLA"
-msgstr "Mise à jour de l'implant?"
+msgstr "Mise à jour de l'implant ?"
 
 msgid "TXT_RYES1_SCRIPT03_D30320_THATS"
 msgstr "Ca devrait faire l'affaire."
@@ -997,18 +958,16 @@ msgid "TXT_RNO1_SCRIPT03_D30320_LETME"
 msgstr "Laissez moi faire quelques tests d'abord."
 
 msgid "TXT_DLG_SCRIPT03_D31836_THATS"
-msgstr ""
-"C'est tout ce que je peux faire pour l'implant. Vous voulez que je vous soigne?"
+msgstr "C'est tout ce que je peux faire pour l'implant à l'instant. Vous voulez que je vous soigne ?"
 
 msgid "TXT_RPLY0_SCRIPT03_D31836_YEAH"
 msgstr "Ouais."
 
 msgid "TXT_RYES0_SCRIPT03_D31836_BOYYO"
-msgstr ""
-"Mon petit, vous êtes dans un sale état. Je vais voir ce que je peux faire."
+msgstr "Mon pauvre, vous êtes dans un sale état. Je vais voir ce que je peux faire."
 
 msgid "TXT_DLG_SCRIPT03_D33352_WHATC"
-msgstr "Que puis-je faire pour vous?"
+msgstr "Que puis-je faire pour vous ?"
 
 msgid "TXT_RPLY0_SCRIPT03_D33352_IMOUT"
 msgstr "Je suis à cours de munitions."
@@ -1026,7 +985,7 @@ msgid "TXT_RNO1_SCRIPT03_D33352_YOURE"
 msgstr "Vous n'êtes pas encore prêt."
 
 msgid "TXT_DLG_SCRIPT03_D34868_BACKA"
-msgstr "Déjà de retour? De quoi avez-vous besoin?"
+msgstr "Déjà de retour ? De quoi avez-vous besoin ?"
 
 msgid "TXT_RPLY0_SCRIPT03_D34868_IMOUT"
 msgstr "Je suis à cours de munitions."
@@ -1047,8 +1006,7 @@ msgid "TXT_RNO1_SCRIPT03_D34868_SORRY"
 msgstr "Désolé, pas possible. Je ne fais que suivre les ordres de Macil."
 
 msgid "TXT_DLG_SCRIPT03_D36384_WELLW"
-msgstr ""
-"Qu'est-ce qu'il vous faut? Des munitions ou de l'entraînement? J'ai hâte d'essayer ces nouvelles armes que l'on a capturé, un peu d'entraînement et beaucoup de vengeance."
+msgstr "Qu'est-ce qu'il vous faut ? Des munitions ou de l'entraînement ? J'ai hâte d'essayer ces nouvelles armes que l'on a capturé, un peu d'entraînement et puis beaucoup de vengeance."
 
 msgid "TXT_RPLY0_SCRIPT03_D36384_IMOUT"
 msgstr "Je suis à cours de munitions."
@@ -1109,17 +1067,16 @@ msgid "TXT_DLG_SCRIPT04_D0_SORRY"
 msgstr "Non, désolé. Vous n'avez pas d'autorisation."
 
 msgid "TXT_DLG_SCRIPT04_D1516_STOPS"
-msgstr "Stop! Montrez moi votre carte d'identité."
+msgstr "Stop ! Montrez moi votre carte d'identité."
 
 msgid "TXT_RPLY0_SCRIPT04_D1516_HERES"
-msgstr "La voilà."
+msgstr "Voilà mes documents."
 
 msgid "TXT_DLG_SCRIPT04_D3032_OHOKS"
 msgstr "Bon, ok. Allez-y. Passez une bonne journée."
 
 msgid "TXT_DLG_SCRIPT04_D4548_DERWI"
-msgstr ""
-"Derwin? Ouais, il est dans l'entrepôt. Vous ne pouvez pas y entrer sans autorisation."
+msgstr "Derwin ? Ouais, il est dans l'entrepôt. Vous ne pouvez pas y entrer sans autorisation."
 
 msgid "TXT_RPLY0_SCRIPT04_D4548_IVEGO"
 msgstr "J'ai une autorisation."
@@ -1128,7 +1085,7 @@ msgid "TXT_DLG_SCRIPT04_D6064_GOON"
 msgstr "Allez-y."
 
 msgid "TXT_RPLY0_SCRIPT04_D6064_DOYOU"
-msgstr "Vous savez où il est?"
+msgstr "Vous savez où il est ?"
 
 msgid "TXT_DLG_SCRIPT04_D7580_IDONT"
 msgstr ""
@@ -1144,18 +1101,17 @@ msgid "TXT_DLG_SCRIPT04_D12128_PASSY"
 msgstr "Faites passer votre carte d'identité ici pour continuer."
 
 msgid "TXT_DLG_SCRIPT04_D13644_GETBA"
-msgstr "Retournez au boulot, maintenant!"
+msgstr "Retournez au boulot, maintenant !"
 
 msgid "TXT_DLG_SCRIPT04_D15160_GETBA"
-msgstr "Retournez au boulot, maintenant!"
+msgstr "Retournez au boulot, maintenant !"
 
 msgid "TXT_DLG_SCRIPT04_D16676_WEVEB"
 msgstr ""
 "J'ai fait le tour de l'horloge depuis des semaines sans temps de repos. Je pense que l'Ordre prépare un raid de suppression sur le Front."
 
 msgid "TXT_DLG_SCRIPT04_D18192_OHDAM"
-msgstr ""
-"Oh, merde. Le gouverneur t'a envoyé? J'allais lui donner sa part, si, vraiment. Ok, écoute. J'en ai un paquet de mis de côté. Si tu veux, tu peux le prendre, si tu m'oublies."
+msgstr "Oh, merde. Le gouverneur t'a envoyé ? J'allais lui donner sa part, si, vraiment. Ok, écoute. J'en ai un paquet de mis de côté. Si tu veux, tu peux le prendre, si tu m'oublies."
 
 msgid "TXT_RPLY0_SCRIPT04_D18192_ALLRI"
 msgstr "D'accord, tu peux y aller."
@@ -1164,10 +1120,10 @@ msgid "TXT_RPLY1_SCRIPT04_D18192_SORRY"
 msgstr "Désolé, rien de personnel."
 
 msgid "TXT_DLG_SCRIPT04_D19708_NUTSI"
-msgstr "Putain, si je crève ici, alors tu y passe aussi! Gardes!"
+msgstr "Putain, si je crève ici, alors tu y passe aussi ! Gardes !!"
 
 msgid "TXT_DLG_SCRIPT04_D21224_BUSIN"
-msgstr "Une affaire, mon cul! Gardes, à l'aide, j'en ai un de vivant ici!"
+msgstr "Une affaire, mon cul ! Gardes, à l'aide, j'en ai un de vivant ici !"
 
 msgid "TXT_DLG_SCRIPT04_D22740_AHIGO"
 msgstr ""
@@ -1177,11 +1133,10 @@ msgid "TXT_RPLY0_SCRIPT04_D22740_ILLTA"
 msgstr "Je suis prêt à prendre ces risques."
 
 msgid "TXT_DLG_SCRIPT04_D24256_ALLRI"
-msgstr ""
-"Très vien. J'ai volé la carte d'identité d'un idiot qui est tombé dans le puits de refroidissement du réacteur. Plouf! Instantanément frit."
+msgstr "Très bien. J'ai volé la carte d'identité d'un idiot qui est tombé dans le puits de refroidissement du réacteur. Plouf ! Instantanément frit."
 
 msgid "TXT_RPLY0_SCRIPT04_D24256_WHATS"
-msgstr "Qu'est ce que je fais une fois que je suis rentré?"
+msgstr "Qu'est ce que je fais une fois que je suis rentré ?"
 
 msgid "TXT_DLG_SCRIPT04_D25772_TELLW"
 msgstr ""
@@ -1202,58 +1157,51 @@ msgstr ""
 "Quelle pression. Si ça continue, on devrait revenir au rhytme de travail de base. On pompe des tonnes d'énergies pour le château et j'ai presque fini d'enregistrer toutes ces nouvelles armes."
 
 msgid "TXT_RPLY0_SCRIPT04_D30320_WEAPO"
-msgstr "Des armes?"
+msgstr "Des armes ?"
 
 msgid "TXT_DLG_SCRIPT04_D31836_WHATD"
-msgstr "Vous croyez quoi? Qu'on a un surplus de chausettes?"
+msgstr "Vous croyez quoi ? Qu'on a un surplus de chausettes ?"
 
 msgid "TXT_RPLY0_SCRIPT04_D31836_WHATK"
-msgstr "Quel type d'armes?"
+msgstr "Quel type d'armes ?"
 
 msgid "TXT_DLG_SCRIPT04_D33352_AREYO"
-msgstr ""
-"Vous êtes sourd? Je viens de vous dire que je suis occupé, retournez au travail!"
+msgstr "Vous êtes sourd ? Je viens de vous dire que je suis occupé, retournez au travail !"
 
 msgid "TXT_DLG_SCRIPT04_D34868_WHOAR"
-msgstr ""
-"Qui êtes vous? Seuls les personnes avec un niveau d'autorisation deux peuvent accéder à cette zone."
+msgstr "Qui êtes vous ? Seuls les personnes avec un niveau d'autorisation deux peuvent accéder à cette zone."
 
 msgid "TXT_RPLY0_SCRIPT04_D34868_IMTHE"
 msgstr "Je suis le remplaçant."
 
 msgid "TXT_DLG_SCRIPT04_D36384_ABOUT"
-msgstr ""
-"Ah. Enfin. Il vous en a fallu, du temps! Allez parler avec Ketrick dans la section du cœur. Oh, et prenez ce passe. Vous ne voulez pas vous faire tirer dessus lors de votre premier jour, non?"
+msgstr "Ah. Enfin. Il vous en a fallu, du temps ! Allez parler avec Ketrick dans la section du cœur. Oh, et prenez ce passe. Vous ne voulez pas vous faire tirer dessus lors de votre premier jour, non ?"
 
 msgid "TXT_RPLY0_SCRIPT04_D36384_WHERE"
-msgstr "Où se trouve le cristal du réacteur?"
+msgstr "Où se trouve le cristal du réacteur ?"
 
 msgid "TXT_DLG_SCRIPT04_D37900_IFYOU"
 msgstr ""
 "Si vous ne partez pas travailler, vous allez vous faire tirer dessus de toutes manières. Bougez-vous les miches."
 
-#, fuzzy
 msgid "TXT_DLG_SCRIPT04_D39416_IDONT"
-msgstr "Je n'ai pas envie d'être alarmiste, mais si ils continuent de mettre autant de tension sur le cristal du réacteur, il risque d'être endommagé, éclater, et puis boum! Enfin, c'est juste ce que je pense."
+msgstr "Je n'ai pas envie d'être alarmiste, mais si ils continuent de mettre autant de tension sur le cristal du réacteur, il risque d'être endommagé, éclater, et puis boum ! Enfin, c'est juste ce que je pense."
 
 msgid "TXT_DLG_SCRIPT04_D40932_LETME"
 msgstr ""
 "Je vais être clair. Si ce terminal plante encore, les niveaux de liquide de refroidissement vont descendre et on aura tous à faire face au Programmeur. Si on survit, bien entendu."
 
 msgid "TXT_DLG_SCRIPT04_D42448_YOUYE"
-msgstr ""
-"Vous! Oui, vous, vous, vous n'avez pas l'autorisation d'être dans cette zone! Donnez moi votre passe maintenant, et vite, je suis de sale humeur aujourd'hui!"
+msgstr "Vous ! Oui, vous, vous, vous n'avez pas l'autorisation d'être dans cette zone ! Donnez moi votre passe maintenant, et vite, je suis de sale humeur aujourd'hui !"
 
 msgid "TXT_RPLY0_SCRIPT04_D42448_HEREH"
 msgstr "Voilà mon passe."
 
 msgid "TXT_DLG_SCRIPT04_D43964_THISI"
-msgstr ""
-"C'est quoi cette blague? Attendez ici. Non, en fait, Gardes! Descendez cet intrus!"
+msgstr "C'est quoi cette blague ? Attendez ici. Non, en fait, Gardes ! Descendez cet intrus !"
 
 msgid "TXT_DLG_SCRIPT04_D45480_WORKS"
-msgstr ""
-"Travail, sommeil, torture, quelle vie! Dites, vous êtes le remplaçant de l'unfortuné plongeur?"
+msgstr "Travail, sommeil, torture, quelle vie ! Dites, vous êtes le remplaçant de l'infortuné plongeur ?"
 
 msgid "TXT_RPLY0_SCRIPT04_D45480_YEAHC"
 msgstr "Oui, j'ai hâte de commencer."
