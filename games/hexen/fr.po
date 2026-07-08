@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-08 15:01+0000\n"
+"PO-Revision-Date: 2026-07-08 17:01+0000\n"
 "Last-Translator: Tapwave <kolb.rodrigue@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/doom-engine-games/hexen/fr/>\n"
 "Language: fr\n"
@@ -245,111 +245,109 @@ msgid "TXT_ACS_MAP05_7_ONTHE"
 msgstr "pour les Sept Portails"
 
 msgid "TXT_ACS_MAP05_8_STAIR"
-msgstr "Des escaliers sont apparus dans les Sept Portails."
+msgstr "Des escaliers sont apparus dans les Sept Portails"
 
-#, fuzzy
 msgid "TXT_ACS_MAP05_9_YOUHA"
-msgstr "Vous devez trouver un autre bouton.."
+msgstr "Vous devez trouver un autre bouton…"
 
 msgid "TXT_ACS_MAP05_10_STONE"
-msgstr "Des pierres grincent dans les Sept Portails."
+msgstr "Des pierres grincent dans les Sept Portails"
 
 msgid "TXT_ACS_MAP08_6_ONESI"
 msgstr "Un sixième du puzzle à été résolu"
 
 msgid "TXT_ACS_MAP08_7_ONTHE"
-msgstr "dans le Bois des Ombres."
+msgstr "dans le Bois des Ombres"
 
 msgid "TXT_ACS_MAP08_10_THEDO"
 msgstr "La porte est bloquée de ce côté"
 
 msgid "TXT_ACS_MAP08_11_YOUHE"
-msgstr "Vous entendez une porte s'ouvrir au loin."
+msgstr "Vous entendez une porte s'ouvrir au loin"
 
 msgid "TXT_ACS_MAP09_6_ONESI"
 msgstr "Un sixième du puzzle à été résolu"
 
 msgid "TXT_ACS_MAP09_7_ONTHE"
-msgstr "dans le Bois des Ombres."
+msgstr "dans le Bois des Ombres"
 
 msgid "TXT_ACS_MAP10_6_ONESI"
 msgstr "Un sixième du puzzle à été résolu"
 
 msgid "TXT_ACS_MAP10_7_ONTHE"
-msgstr "dans le Bois des Ombres."
+msgstr "dans le Bois des Ombres"
 
 msgid "TXT_ACS_MAP11_0_ETTIN"
 msgstr "\\ ettins restants"
 
 msgid "TXT_ACS_MAP11_1_YOUWA"
-msgstr "Vous avez attendu trop longtemps, maintenant, mourrez!"
+msgstr "Vous avez attendu trop longtemps, maintenant, mourrez !"
 
 msgid "TXT_ACS_MAP11_7_ADOOR"
-msgstr "Une porte s'est ouverte dans la base abandonnée."
+msgstr "Une porte s'est ouverte dans la Base Abandonnée"
 
 msgid "TXT_ACS_MAP12_9_THISD"
-msgstr "Cette porte ne s'ouvre pas pour l'instant."
+msgstr "Cette porte ne s'ouvre pas pour l'instant"
 
 msgid "TXT_ACS_MAP13_11_MYSER"
-msgstr "Mes servants peuvent sentir votre sang, humain."
+msgstr "Mes servants peuvent sentir votre sang, humain"
 
 msgid "TXT_ACS_MAP21_0_ADOOR"
-msgstr "Une porte s'est ouverte dans le gibet."
+msgstr "Une porte s'est ouverte près du Gibet"
 
 msgid "TXT_ACS_MAP21_2_THEDO"
-msgstr "La porte est bloquée de ce côté"
+msgstr "La porte est bloquée de l'intérieur"
 
 msgid "TXT_ACS_MAP22_3_APLAT"
-msgstr "Une plateforme est descendue dans la tour."
+msgstr "Une plateforme est descendue dans la tour"
 
-#, fuzzy
 msgid "TXT_ACS_MAP22_27_YOUHA"
-msgstr "Vous avez joué à ce jeu trop longtemps, mortel.."
+msgstr "Vous avez joué à ce jeu trop longtemps, mortel…"
 
 msgid "TXT_ACS_MAP22_29_ITHIN"
-msgstr "Je pense qu'il est l'heure de vous retirer de l'échiquier."
+msgstr "Je pense qu'il est l'heure de vous retirer de l'échiquier"
 
 msgid "TXT_ACS_MAP23_10_YOUHE"
-msgstr "Vous entendez une porte s'ouvrir à l'étage."
+msgstr "Vous entendez une porte s'ouvrir à l'étage"
 
 msgid "TXT_ACS_MAP27_8_WORSH"
-msgstr "Prosternez vous devant moi, et je pourrai considérer de vous épargner."
+msgstr "Prosternez vous devant moi, peut-être que je considérerais de vous épargner"
 
 msgid "TXT_ACS_MAP27_10_THENA"
-msgstr "Quoi que cela soit peu probable."
+msgstr "Quoi que cela soit peu probable"
 
 msgid "TXT_ACS_MAP28_6_ONENI"
 msgstr "Un neuvième du puzzle à été résolu"
 
 msgid "TXT_ACS_MAP28_7_ONTHE"
-msgstr "dans le monastère."
+msgstr "dans le Monastère"
 
 msgid "TXT_ACS_MAP30_6_ONENI"
 msgstr "Un neuvième du puzzle à été résolu"
 
 msgid "TXT_ACS_MAP30_7_ONTHE"
-msgstr "dans le monastère."
+msgstr "dans le monastère"
 
 msgid "TXT_ACS_MAP34_1_ONENI"
 msgstr "Un neuvième du puzzle à été résolu"
 
 msgid "TXT_ACS_MAP34_2_ONTHE"
-msgstr "dans le monastère."
+msgstr "dans le monastère"
 
 msgid "TXT_ACS_MAP35_0_THEPO"
-msgstr "Le portail est scellé."
+msgstr "Le portail est scellé"
 
 msgid "TXT_ACS_MAP35_1_CHOOS"
-msgstr "Choisissez votre sort."
+msgstr "Choisissez votre sort"
 
 msgid "TXT_ACS_MAP35_3_THEDO"
-msgstr "La porte est bloquée de ce côté"
+msgstr "La porte est bloquée de l'intérieur"
 
 msgid "TXT_ACS_MAP35_12_AREYO"
-msgstr "Etes vous suffisamment fort"
+msgstr "Êtes vous suffisamment fort"
 
 msgid "TXT_ACS_MAP35_14_TOFAC"
-msgstr "pour faire face à vos maîtres?"
+msgstr "Pour faire face à vos maîtres ?"
 
 msgid "TXT_HEXEN_MAP12"
 msgstr "Hypostyle"
