@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-09 19:01+0000\n"
+"PO-Revision-Date: 2026-07-09 21:01+0000\n"
 "Last-Translator: Tapwave <kolb.rodrigue@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/doom-engine-games/strife/fr/>\n"
 "Language: fr\n"
@@ -3883,8 +3883,7 @@ msgstr ""
 "On dirait qu'il nous faut toutes les pièces du Sigil pour ouvrir ce joujou. Quelque chose me dit que c'est là que l'arc-en-ciel finit."
 
 msgid "TXT_SUB_LOG85"
-msgstr ""
-"Tu possède le pouvoir du Sigil complet. Ca te dit qu'on aille finir tout ça?"
+msgstr "Tu possède le pouvoir du Sigil complet. Ca te dit qu'on aille finir tout ça ?"
 
 msgid "TXT_SUB_LOG86"
 msgstr "Le soleil est au zénith, mon héros. Prépare toi à rencontrer ta gloire."
@@ -3898,49 +3897,41 @@ msgstr ""
 "Désolée, après m'être retrouvée jusqu'au hanches dans le sang, je n'ai rien de malin à dire. Rentrons voir Macil."
 
 msgid "TXT_SUB_LOG89"
-msgstr ""
-"L'usine est près des mines. Richter doit parler des mines de degnin. Le minérai de degnin est magnétisé et explosif, c'est parfait pour désactiver les champs de force."
+msgstr "L'usine est près des mines. Richter doit parler des mines de Degnin. Le minérai de Degnin est magnétisé et explosif, c'est parfait pour désactiver les champs de force."
 
-#, fuzzy
 msgid "TXT_SUB_LOG90"
-msgstr "Mines, catacombes, égouts.. Super premier rendez-vous!"
+msgstr "Mines, catacombes, égouts.. Super premier rencard !"
 
 msgid "TXT_SUB_LOG91"
-msgstr ""
-"J'aurais bien voulu que Richter soit un peu plus spécifique. Hm.. Essayons ici."
+msgstr "J'aurais bien voulu que Richter soit un peu plus spécifique. Hm, essayons ici."
 
-#, fuzzy
 msgid "TXT_SUB_LOG92"
-msgstr "Je crois que.. Non, merde, j'ai aucune idée d'où on est!"
+msgstr "Je crois que... Non, merde, j'ai aucune idée d'où on est !"
 
 msgid "TXT_SUB_LOG93"
-msgstr ""
-"Ca doit être les ruines que les agents de Richter cherchaient. Attention, des croisés!"
+msgstr "Ca doit être les ruines que les agents de Richter cherchaient. Attention, des croisés !"
 
 msgid "TXT_SUB_LOG94"
-msgstr "Beurk, il essaie de se régénérer, incinère le avant que je ne vomisse!"
+msgstr "Beurk, il essaie de se régénérer. Explose le avant que je ne vomisse !"
 
 msgid "TXT_SUB_LOG95"
-msgstr ""
-"Mon ami, je ne sais ce contre quoi on se bat, mais c'est plus que l'Ordre. Allons dans les mines!"
+msgstr "Mon ami, je ne sais pas contre quoi on se bat, mais c'est plus que l'Ordre. Allons dans les mines !"
 
 msgid "TXT_SUB_LOG96"
 msgstr "Sans arrêter de faire attention, cherche des veines de minerai."
 
 msgid "TXT_SUB_LOG97"
-msgstr ""
-"Ces pauvres âmes sont des drones, leurs fonctions synaptiques sont brouillées par des implants radiocommandés. On détruit le transmetteur et ils sont libres!"
+msgstr "Ces pauvres âmes sont des drones, leurs fonctions synaptiques sont brouillées par des implants radiocommandés. On détruit le transmetteur et ils sont libres !"
 
 msgid "TXT_SUB_LOG98"
 msgstr ""
 "La commandement me dit que le transmetteur est protégé par un champ de force. Ca fait d'une pierre de coups. On libère les drones, et on s'entraîne avec le minerai."
 
 msgid "TXT_SUB_LOG99"
-msgstr ""
-"Ma suggestion: jette le minerai sur le champ de force puis tire dessus. La compression qui en résulte devrait créer un champ magnétique qui va désactiver les lumières."
+msgstr "Ma suggestion : jette le minerai sur le champ de force puis tire dessus. La compression qui en résulte devrait créer un champ magnétique qui va désactiver les lumières."
 
 msgid "TXT_SUB_LOG100"
-msgstr "Bon, maintenant, l'usine! Sors des mines et tu peux pas la rater!"
+msgstr "Bon, maintenant, l'usine ! Sors des mines et tu peux pas la rater !"
 
 msgid "TXT_SUB_LOG101"
 msgstr "Désolé, héros, tout cela est nouveau pour moi."
@@ -3949,65 +3940,57 @@ msgid "TXT_SUB_LOG102"
 msgstr ""
 "Je recois des distorsions neurales colossales devant nous. Je crois que nous l'avons trouvé."
 
-#, fuzzy
 msgid "TXT_SUB_LOG103"
-msgstr "Et quand je pense avoir tout vu.. Des humains entrent, et puis.. Non, je ne veux pas y penser."
+msgstr "Et quand je pense avoir tout vu... Des humains entrent, et puis... Non, je ne veux pas y penser."
 
 msgid "TXT_SUB_LOG104"
-msgstr ""
-"Macil a complètement perdu les pédales! Il a envoyé 200 hommes se faire tuer, et il le savait! Il faut les venger, pour eux et pour leurs camarades!"
+msgstr "L'Oracle avait raison. Macil a complètement perdu les pédales ! Il a envoyé 200 hommes se faire tuer, et il le savait ! Il faut les venger, pour eux et pour leurs camarades !"
 
 msgid "TXT_SUB_LOG105"
-msgstr ""
-"Macil? Infecté par une pièce du Sigil. Toutes ces années où je lui ai fait confiance.. à la cause.. Et pour quoi à la fin?"
+msgstr "Macil ? Infecté par une pièce du Sigil. Toutes ces années où je lui ai fait confiance, à lui et à la cause... Et pour quoi à la fin ?"
 
 msgid "TXT_SUB_LOG106"
-msgstr ""
-"Richter rapporte que l'usine que l'on a détruit mène à un \"laboratoire\" et qu'il s'y trouve une signature de pièce du Sigil à l'intérieur. Retourne à l'usine et on fera un autre pas vers la liberté."
+msgstr "Richter rapporte que l'usine que l'on a détruit mène à un « laboratoire » et qu'il une signature de pièce du Sigil s'y trouve à l'intérieur. Retourne à l'usine et on fera un autre pas vers la liberté."
 
 msgid "TXT_SUB_LOG120"
-msgstr ""
-"Qui ose me défier et pénétrer ma forteresse? Un humain sans valeur? Faites face à moi et mourrez!"
+msgstr "Qui ose me défier et pénétrer ma forteresse ? Un pathétique humain ? Faites face à moi et vous mourrez !"
 
 msgid "TXT_SUB_LOG121"
-msgstr ""
-"Vous ne pouvez me tuer. Vous n'êtes qu'un humain. Je suis plus qu'un humain."
+msgstr "Vous ne pouvez pas me tuer. Vous n'êtes qu'un humain. Je suis plus qu'un humain."
 
 msgid "TXT_SUB_LOG122"
 msgstr ""
-"Pas de mort: la vie éternelle et plus, bien plus! Cela est mon but: cyborgs, moitié chair, moitié acier, un tout pour servir le Seul Dieu. Vous ne servez pas? Vous mourrez! Ce dégénéré a une autre pièce du Sigil."
+"Pas de mort : la vie éternelle et plus, bien plus ! Cela est mon but : cyborgs, moitié chair, moitié acier, un tout pour servir le Seul Dieu. Vous ne servez pas ? Vous mourrez !\n"
+"Ce dégénéré a une autre pièce du Sigil."
 
 msgid "TXT_SUB_LOG128"
-msgstr ""
-"Ha ha! Bienvenue, j'ai attendu ce moment. J'ai attendu qu'un idiot comme vous me rende ma liberté. Votre pathétique planète m'appartient, et bientôt, vous allez tous regretter d'être nés! "
+msgstr "Ha ha ! Bienvenue, j'ai attendu ce moment. J'ai attendu qu'un idiot comme vous me rende ma liberté. Votre pathétique planète m'appartient, et bientôt, vous allez tous regretter d'être nés ! "
 
 msgid "TXT_SUB_LOG129"
 msgstr ""
-"La vérité se trouve seulement dans la volonté universelle. Vous allez vous prosterner devant le Seul Dieu, la Seule Lumière. Rejoins-moi et je complèterai le Sigil.\n"
+"La vérité se trouve seulement dans la volonté universelle. Vous allez vous prosterner devant le Seul Dieu, la Seule Lumière. Rejoignez-moi et je complèterai le Sigil.\n"
 "J'en ai eu assez de ce charabia mystique."
 
-#, fuzzy
 msgid "TXT_SUB_LOG130"
-msgstr "Vous.. Vous avez anéanti mon Ordre, percé à travers le voile de mes ruses et menacé des siècle de désirs. Mais je gagnerai, je vous infecterai et vous plierai à ma volonté..."
+msgstr "Vous... Vous avez anéanti mon Ordre, percé à travers le voile de mes ruses et menacé des siècle de désirs. Mais je gagnerai, je vous infecterai et vous plierai à ma volonté…"
 
 msgid "TXT_SUB_LOG200"
-msgstr "On dirait que c'est le boulot idéal, non?"
+msgstr "On dirait que c'est le boulot idéal, non ?"
 
 msgid "TXT_SUB_LOG201"
-msgstr "Vous en avez trop vu. Descend-le, Macil!"
+msgstr "Vous en avez trop vu. Descends-le, Macil !"
 
 msgid "TXT_SUB_LOG202"
 msgstr "La prochaine fois, tu m'écouteras."
 
-#, fuzzy
 msgid "TXT_SUB_LOG203"
-msgstr "Eugh, ces prix post-apocalyptiques.."
+msgstr "Eugh, ces prix post-apocalyptiques…"
 
 msgid "TXT_SUB_LOG204"
-msgstr "Prends le gros, il ne t'arrètera pas."
+msgstr "Prends le gros. Il ne t'arrètera pas."
 
 msgid "TXT_SUB_LOG205"
-msgstr "Ne traîne pas, tout devant!"
+msgstr "Ne traîne pas. Tout devant !"
 
 msgid "TXT_SUB_LOG206"
 msgstr "T'as pas l'impression que ces couloirs ont tous la même tête?"
