@@ -2,12 +2,56 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2025-11-19 13:07+0000\n"
+"PO-Revision-Date: 2026-07-09 21:01+0000\n"
 "Last-Translator: Ron Dallas <Lot_bohdan@ukr.net>\n"
-"Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/zdoom-game-strings/uk/>\n"
+"Language-Team: Ukrainian <https://hosted.weblate.org/projects/doom-engine-games/hexen-deathkings/uk/>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.15-dev\n"
+"X-Generator: Weblate 2026.7.1.dev0\n"
+
+msgid "TXT_HEXDD_MAP41"
+msgstr "Знищене село"
+
+msgid "TXT_HEXDD_MAP42"
+msgstr "Гниль"
+
+msgid "TXT_HEXDD_MAP43"
+msgstr "Відстійник"
+
+msgid "TXT_HEXDD_MAP44"
+msgstr "Катакомби"
+
+msgid "TXT_HEXDD_MAP45"
+msgstr "Пустка"
+
+#, fuzzy
+msgid "TXT_HEXDD_MAP46"
+msgstr "Орляковий ліс"
+
+#, fuzzy
+msgid "TXT_HEXDD_MAP47"
+msgstr "Жертовник"
+
+msgid "TXT_HEXDD_MAP48"
+msgstr "Ворота констебля"
+
+msgid "TXT_HEXDD_MAP49"
+msgstr "Скарбниця"
+
+msgid "TXT_HEXDD_MAP50"
+msgstr "Ринок"
+
+msgid "TXT_HEXDD_MAP51"
+msgstr "Місце спочинку"
+
+msgid "TXT_HEXDD_MAP52"
+msgstr "Випробування"
+
+msgid "TXT_HEXDD_MAP53"
+msgstr "Зброярня"
+
+msgid "TXT_HEXDD_MAP54"
+msgstr "Неф"
