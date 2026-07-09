@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-09 17:01+0000\n"
+"PO-Revision-Date: 2026-07-09 19:01+0000\n"
 "Last-Translator: Tapwave <kolb.rodrigue@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/doom-engine-games/strife/fr/>\n"
 "Language: fr\n"
@@ -3846,32 +3846,25 @@ msgstr ""
 "Cest types avaient une super bonne idée déco et ils ont fait n'importe quoi avec."
 
 msgid "TXT_SUB_LOG74"
-msgstr ""
-"Tu a vu ce spectre bizarre qui est sorti du corps de l'évèque? On a pas vu ça quelque part avant?"
+msgstr "Tu a vu ce spectre bizarre qui est sorti du corps de l'Évêque ? On a pas vu ça quelque part avant ?"
 
 msgid "TXT_SUB_LOG75"
-msgstr ""
-"C'est l'heure du jugement, on a deux pièce, il est temps de retourner à la base. Que te dit ton instinct?"
+msgstr "C'est l'heure du jugement, on a deux pièces, il est temps de retourner à la base. Que te dit ton instinct ?"
 
 msgid "TXT_SUB_LOG76"
-msgstr ""
-"J'ai un rapport que l'énergie spectrale que l'on a trouvé près de l'évèque est aussi près de l'Oracle. Faisons attention."
+msgstr "J'ai un rapport que l'énergie spectrale que l'on a trouvé près de l'Évêque est aussi près de l'Oracle. Faisons attention."
 
 msgid "TXT_SUB_LOG77"
-msgstr ""
-"Macil fait partie de tout ce bordel? Je ne sais pas quoi penser, j'espère que tu feras le bon choix.."
+msgstr "Macil ? Il partie de tout ce bordel ? Je ne sais pas quoi penser, j'espère que tu feras le bon choix..."
 
 msgid "TXT_SUB_LOG78"
-msgstr ""
-"Et ce que je fais confiance à Macil qui a risqué sa vie pour le Front, où un affreux jojo? J'en sais rien, mais je fais confiance à toi."
+msgstr "Est-ce que je fais confiance à Macil qui a risqué sa vie pour le Front, où un affreux ? J'en sais rien, mais je fais confiance à toi."
 
 msgid "TXT_SUB_LOG79"
-msgstr ""
-"Richter à pris le contrôle de nos forces. Il semble que Macil nous a trompé tout ce temps. Sa vraie allégiance appartenait à l'Ordre, quel ordure.."
+msgstr "Richter a pris le contrôle de nos forces. Il semble que Macil nous aie trompé tout ce temps. Il servait l'Ordre en réalité, quel ordure."
 
 msgid "TXT_SUB_LOG80"
-msgstr ""
-"Une entrée sérieusement impressionante. Ce que l'on cherche est à un autre étage, descends."
+msgstr "Une entrée sérieusement impressionante. Mais ce que l'on cherche est à un autre étage, descends."
 
 msgid "TXT_SUB_LOG81"
 msgstr ""
