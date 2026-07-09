@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-09 13:01+0000\n"
+"PO-Revision-Date: 2026-07-09 15:01+0000\n"
 "Last-Translator: Tapwave <kolb.rodrigue@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/doom-engine-games/strife/fr/>\n"
 "Language: fr\n"
@@ -3328,12 +3328,10 @@ msgid "TXT_ILOG1005"
 msgstr "Descends les escaliers, trouve et parle à Macil."
 
 msgid "TXT_ILOG1006"
-msgstr ""
-"Va voir Irale, le chef de l'arsenal du Front, en ville. Il se trouve derrière la porte à côté du marchand d'armes. Utilise la clé que Macil t'a donné pour parler au gouverneur."
+msgstr "Va voir Irale, le chef de l'arsenal du Front, en ville. Il se trouve derrière la porte à côté du marchand d'armes. Utilise la clé que Macil t'a donné pour parler au Gouverneur."
 
 msgid "TXT_ILOG1007"
-msgstr ""
-"Trouve la connection pirate sur le transformateur et enlève la. Amène quelque chose au gouverneur comme preuve."
+msgstr "Trouve la connection pirate sur le transformateur et enlève la. Amène quelque chose au Gouverneur comme preuve."
 
 msgid "TXT_ILOG1008"
 msgstr ""
@@ -3352,8 +3350,7 @@ msgstr ""
 "Détruis le cristal qui alimente la grille énergétique des boucliers de l'Ordre. Va voir Worner, un espion que nous avons recruté dans l'entrepôt de la centrale éléctrique. N'oublie pas d'aller voir le maître d'armes et le médecin avant d'y aller."
 
 msgid "TXT_ILOG1012"
-msgstr ""
-"Détruis le cristal qui alimente la grille énergétique des boucliers de l'Ordre. Utilise la carte d'identité pour entrer dans la centrale. Il faudrait que tu aille voir la salle de stockage au dessus de Worner."
+msgstr "Détruis le cristal qui alimente la grille énergétique des boucliers de l'Ordre. Utilise la carte d'identité pour entrer dans la centrale. Il serait bien que tu ailles voir la salle de stockage au dessus de Worner."
 
 msgid "TXT_ILOG1013"
 msgstr ""
@@ -3372,52 +3369,42 @@ msgstr ""
 "Amène les pièces du lance-flamme à Irale. Trouve l'entrée de maintenance des égouts. Fais vider le réservoir de recyclage du château. Au fond se trouve une entrée cachée vers les égouts. Les contrôles de la porte s'y trouvent."
 
 msgid "TXT_ILOG1017"
-msgstr ""
-"Rejoins l'assaut sur le château. Trouve et tue le Programmeur. Va voir le médecin et le maître d'armes. Dépense tout ce que tu as, ça va être un sacré bain de sang!"
+msgstr "Rejoins l'assaut sur le château. Trouve et tue le Programmeur. Va voir le médecin et le maître d'armes. Dépense tout ce que tu as, ça va être un sacré bain de sang."
 
 msgid "TXT_ILOG1018"
-msgstr ""
-"Utilise la clé que le faux Programmeur t'a donné pour entrer dans le donjon du Programmeur. Il doit s'y cacher. Trouve-le et tues-le."
+msgstr "Utilise la clé que le faux Programmeur t'a donné pour entrer dans le donjon du Programmeur. Il doit s'y cacher. Trouve-le et tue-le."
 
 msgid "TXT_ILOG1019"
 msgstr ""
 "Trouve l'Oracle et demande lui où se trouve les autres pièces du Sigil. Récupère ta récompense, et va voir le médecin et le maître d'armes pour te soigner et t'entraîner."
 
 msgid "TXT_ILOG1020"
-msgstr ""
-"La deuxième pièce se trouve au cœur de la tour d'obsidienne et d'écarlate. Tu y trouveras l'évêque, qui t'attend. Amène le jeton de l'Oracle au maître des clés dans les terrains vagues. Quand tu as tué l'évêque, retourne voir l'Oracle."
+msgstr "La deuxième pièce se trouve au cœur de la tour d'obsidienne et d'écarlate. Tu y trouveras l'Évêque, qui t'attend. Amène le jeton de l'Oracle au maître des clés dans les terrains vagues. Quand tu as tué l'Évêque, retourne voir l'Oracle."
 
 msgid "TXT_ILOG1021"
-msgstr ""
-"Trouve la tour d'obsidienne et d'écarlate. Utilise la carte magnétique que le maître des clés t'a donnée pour y entrer. A l'intérieur, trouve et tue l'évêque, puis retourne à l'Oracle."
+msgstr "Trouve la tour d'obsidienne et d'écarlate. Utilise la carte magnétique que le maître des clés t'a donnée pour y entrer. A l'intérieur, trouve et tue l'Évêque, puis retourne à l'Oracle."
 
 msgid "TXT_ILOG1022"
-msgstr ""
-"Trouve le complexe de sécurité. Bats-toi pour atteindre le téléporteur vers le centre d'administration. Détruis le cœur informatique qui s'y trouve. Cela désactivera le chap de force de la tour de l'évêque. Un fois qu'il est mort, retourne voir l'Oracle."
+msgstr "Trouve le complexe de sécurité. Bats-toi pour atteindre le téléporteur vers le centre d'administration. Détruis le cœur informatique qui s'y trouve. Cela désactivera le chap de force de la tour de l'Évêque. Un fois qu'il est mort, retourne voir l'Oracle."
 
 msgid "TXT_ILOG1023"
 msgstr ""
 "Le prochain défi testera votre esprit. Le troisième fragment est possédé par votre leader. Il est le même que celui qu'il vous a envoyé tuer. Confrontez-le et faites face à votre destinée."
 
 msgid "TXT_ILOG1024"
-msgstr ""
-"C'est l'Oracle qui détient la troisième pièce, est c'est lui qui est le traître. Retourne le voir et détruis-le. Retourne à la base quand il est mort."
+msgstr "C'est l'Oracle qui détient la troisième pièce. C'est lui qui est le traître. Retournez le voir et détruisez-le. Retournez me voir quand il est mort."
 
-#, fuzzy
 msgid "TXT_ILOG1025"
-msgstr "Vous avez arraché le cancer de votre corps, mais le cœur bat encore. Vous devez maintenant trouver le chirurgien qui massacre votre peuple, le Maître des traditions. Arrètez-le, et le fragment suivant sera le vôtre."
+msgstr "Vous avez arraché le cancer de votre corps, mais le cœur bat encore. Vous devez maintenant trouver le chirurgien qui massacre votre peuple, le Maître des Traditions. Arrêtez-le, et le fragment suivant sera le vôtre."
 
-#, fuzzy
 msgid "TXT_ILOG1026"
-msgstr "Vous devez maintenant trouver le chirurgien qui massacre votre peuple, le Maître des traditions. Arrètez-le, et le fragment suivant sera le vôtre. Utilisez le téléporter qui s'est ouvert pour l'atteindre. Quand il est mort, utilisez le même téléporteur pour retourner à l'Oracle."
+msgstr "Vous devez maintenant trouver le chirurgien qui massacre votre peuple, le Maître des traditions. Arrêtez-le, et le fragment suivant sera le vôtre. Utilisez le téléporteur qui s'est ouvert pour l'atteindre. Quand il est mort, utilisez le même téléporteur pour retourner à l'Oracle."
 
 msgid "TXT_ILOG1027"
-msgstr ""
-"Vous avez sagement choisi. La troisième pièce est détenue par votre propre leader. Détruisez ce qui se tapit dans son cœur et revenez à moi."
+msgstr "Vous avez sagement choisi. La troisième pièce est détenue par votre propre leader. Détruisez ce qui se cache dans votre cœur et revenez à moi."
 
 msgid "TXT_ILOG1028"
-msgstr ""
-"Nous avons découvert que l'Ordre transforme notre peuple en soldats biomécaniques. Trouve l'usine où cela se déroule et détruis-la pour toujours! Trouve Richter dans le Réfectoire près de la cascade et il t'expliquera comment stopper cette atrocité."
+msgstr "Nous avons découvert que l'Ordre transforme notre peuple en soldats biomécaniques. Trouve l'usine où cela se déroule et détruis-la pour toujours ! Trouve Richter dans le Réfectoire près de la cascade et il t'expliquera comment stopper cette atrocité."
 
 msgid "TXT_ILOG1029"
 msgstr ""
@@ -3432,11 +3419,10 @@ msgstr ""
 "Trouve le manoir du Gouverneur et parle-lui pour réclamer ta récompense."
 
 msgid "TXT_ILOG1201"
-msgstr ""
-"Félicitations! Vous méritez notre gratitude. Allez voir le médecin et le maître d'armes et ils pourront vous préparer pour ce qu'il va suivre. Vous pouvez faire le tour de la base si vous le souhaitez."
+msgstr "Félicitations ! Vous méritez notre gratitude. Allez voir le médecin et le maître d'armes et ils pourront vous préparer pour ce qu'il va suivre. Vous pouvez faire le tour de la base si vous le souhaitez."
 
 msgid "TXT_SPEAKER_ORDER_SERGEANT"
-msgstr "Sergeant de l'Ordre"
+msgstr "Sergent de l'Ordre"
 
 msgid "TXT_SPEAKER_PRISON_GUARD"
 msgstr "Garde de la Prison"
@@ -3445,7 +3431,7 @@ msgid "TXT_SPEAKER_KEY_MASTER"
 msgstr "Maître des Clés"
 
 msgid "TXT_SPEAKER_BODYGUARD"
-msgstr "Garde du corps"
+msgstr "Garde du Corps"
 
 msgid "TXT_SPEAKER_INTERROGATOR"
 msgstr "Interrogateur"
@@ -3469,25 +3455,25 @@ msgid "TXT_SPEAKER_WEAPON_SMITH"
 msgstr "Armurier"
 
 msgid "TXT_SPEAKER_REACTOR_GUARD"
-msgstr "Garde du réacteur"
+msgstr "Garde du Réacteur"
 
 msgid "TXT_SPEAKER_APPRENTICE"
 msgstr "Apprenti"
 
 msgid "TXT_SPEAKER_DOOR_GUARD"
-msgstr "Garde de la porte"
+msgstr "Garde de la Porte"
 
 msgid "TXT_SPEAKER_MASTER_SMITHY"
 msgstr "Maître Forgeron"
 
 msgid "TXT_SPEAKER_WAREHOUSE_GUARD"
-msgstr "Garde de l'entrepôt"
+msgstr "Garde de l'Entrepôt"
 
 msgid "TXT_SPEAKER_BARKEEP"
 msgstr "Barman"
 
 msgid "TXT_SPEAKER_BAILEY_GUARD"
-msgstr "Garde d'enceinte"
+msgstr "Garde de l'Enceinte"
 
 msgid "TXT_SPEAKER_FRONT_GUARD"
 msgstr "Garde du Front"
@@ -3523,10 +3509,10 @@ msgid "TXT_SPEAKER_DOCK_WORKER"
 msgstr "Docker"
 
 msgid "TXT_SPEAKER_CORE_GUARD"
-msgstr "Garde du cœur"
+msgstr "Garde du Cœur"
 
 msgid "TXT_SPEAKER_SEWER_GUARD"
-msgstr "Garde des égouts"
+msgstr "Garde des Égouts"
 
 msgid "TXT_SPEAKER_TECHNICIAN"
 msgstr "Technicien"
@@ -3552,8 +3538,7 @@ msgstr ""
 "L'impact libéra un virus, qui traversa les contrées et tua des millions. Ceux qui moururent furent les plus chanceux."
 
 msgid "TXT_SUB_INTRO3"
-msgstr ""
-"Ceux qui survécurent devinrent les mutants de l'humanité. Certains devinrent des fanatiques qui écoutent la voix d'un dieu maléfique dans leur tête, et se nommèrent « L'Ordre »."
+msgstr "Ceux qui survécurent devinrent les mutants de l'humanité. Certains devinrent des fanatiques qui écoutent la voix d'un dieu maléfique dans leur tête, et se nommèrent « L'Ordre »."
 
 msgid "TXT_SUB_INTRO4"
 msgstr ""
@@ -3568,16 +3553,14 @@ msgstr ""
 "Mais il y a des murmures de colère qui subsistent. Si nous nous organisons, pouvons nous nous défaire de nos maîtres? Des armes sont volées, des soldats entraînés. Un mouvement est né, né d'un combat sans fin!"
 
 msgid "TXT_SUB_GOOD1"
-msgstr ""
-"Attention à toutes les troupes du Front: Nous avons réussi! C'est fini, le soldat de Blackbird a anéanti le mal. L'Ordre est sur le point de s'effondrer. Blackbird, me recevez-vous?"
+msgstr "Attention à toutes les troupes du Front : Nous avons réussi ! C'est fini, le soldat de Blackbird a anéanti le mal. L'Ordre est sur le point de s'effondrer. Blackbird, me reçevez-vous ?"
 
 msgid "TXT_SUB_GOOD2"
 msgstr ""
 "Je savais que tu gagnerais, mon vaillant héros. Les combats ont cessé, ta victoire nous permettrera de créer un vaccin et purger le virus de nos corps."
 
-#, fuzzy
 msgid "TXT_SUB_GOOD3"
-msgstr "Tu as sauvé notre planète et tu nous as tous libérés. Je veux te récompenser.. Personellement. Oh, et je m'appelle Shauna."
+msgstr "Tu as sauvé notre planète et tu nous as tous libérés. Je veux te récompenser... Personellement. Oh, et je m'appelle Shauna."
 
 msgid "TXT_SUB_SAD1"
 msgstr ""
@@ -3588,36 +3571,29 @@ msgstr ""
 "Il faudra des générations pour purger le virus de nos corps, si nous survivons suffisament longtemps."
 
 msgid "TXT_SUB_SAD3"
-msgstr ""
-"Quel que soit ce que le mal voulait de nous, il a tout de même pris la dernière chose qui nous restait: notre espoir."
+msgstr "Quel que soit ce que le mal voulait de nous, il a tout de même pris la dernière chose qui nous restait : notre espoir."
 
 msgid "TXT_SUB_BAD1"
-msgstr ""
-"Le virus devenu intelligent nous a emporté comme un tsunami, nous plongeant dans la folie. Entendant le doux chant de la mort, nous dancions en choeur."
+msgstr "Le virus devenu intelligent nous a emporté comme un tsunami, nous plongeant dans la folie. Entendant le doux chant de la mort, nous dancions en chœur."
 
 msgid "TXT_SUB_BAD2"
-msgstr ""
-"La mal nous a drainé de toute vie et haïssant toute procréation, recycla nos familles."
+msgstr "La mal nous a drainé de toute vie et, haïssant toute procréation, recycla nos familles."
 
 msgid "TXT_SUB_BAD3"
-msgstr ""
-"Puis, un jour, le mal disparut. Il ne restait plus rien d'utile pour lui, nous nous sommes éteints."
+msgstr "Puis, un jour, le mal disparut. Il ne restait plus rien d'utile pour lui. Nous nous sommes éteints."
 
 msgid "TXT_SUB_MAP03_1"
-msgstr ""
-"Les mutations géntiques du virus ont non seulement tordu l'esprit de L'Ordre, mais a aussi rendu leur corps invivables."
+msgstr "Les mutations géntiques du virus ont non seulement tordu l'esprit de L'Ordre, mais a aussi causé le déclin de leurs corps."
 
 msgid "TXT_SUB_MAP03_2"
 msgstr ""
 "Sans procréation, l'Ordre découvrirent que les modifications bioméchaniques était leur seule chance de conserver leur force et leur nombre."
 
-#, fuzzy
 msgid "TXT_SUB_MAP03_3"
-msgstr "Les dégradations étaient si avancées que les troupes auxquelles nous faisions face étaient plus machine qu'humains, mais nous pensons que leur conscience collective est contrôlée par une seule source.."
+msgstr "Les dégradations étaient si avancées que les troupes auxquelles nous faisions face étaient plus machine qu'humains, mais nous pensons que leur conscience collective est contrôlée par une seule source…"
 
-#, fuzzy
 msgid "TXT_SUB_MAP03_4"
-msgstr "Le Programmeur: Créateur de l'IA qui contrôle les Acolytes. Détruisez le Programmeur et nous pourrons paralyser les troupes de l'Ordre d'un seul coup. Faites attentions: des rapports nous disent qu'il peut vaporiser ceux qui l'attaquent."
+msgstr "...Le Programmeur : Créateur de l'IA qui contrôle les Acolytes. Détruisez le Programmeur et nous pourrons paralyser les troupes de l'Ordre d'un seul coup. Faites attentions : des rapports nous disent qu'il peut vaporiser ceux qui l'attaquent."
 
 msgid "TXT_SUB_MAP10_1"
 msgstr ""
@@ -3632,8 +3608,7 @@ msgstr ""
 "Le choc qui vous a rendu inconscient venait de la pièce du Sigil qui s'est alignée sur votre énergie vitale, votre pouls et vos ondes cérébrales. Vous pouvez l'utiliser, mais au coût de votre vie."
 
 msgid "TXT_SUB_MAP10_4"
-msgstr ""
-"Une pièce représente un pouvoir phénoménal. Posséder toutes les cinq serait dévastateur: cela donnerait à l'utilisateur le contrôle total sur la planète."
+msgstr "Une pièce représente un pouvoir phénoménal. Posséder toutes les cinq serait dévastateur : cela donnerait à l'utilisateur le contrôle total sur la planète."
 
 msgid "TXT_SUB_LOG2"
 msgstr ""
@@ -3652,15 +3627,13 @@ msgstr ""
 "Irale est le receleur du front. Il est derrière la porte non marquée à côté du magasin d'armes."
 
 msgid "TXT_SUB_LOG6"
-msgstr ""
-"Souviens-toi: Tue avec discrétion, pas avec force, et tu n'activeras pas les alarmes."
+msgstr "Souviens-toi : Tue avec discrétion, pas avec force, et tu n'activeras pas les alarmes."
 
 msgid "TXT_SUB_LOG7"
-msgstr ""
-"Tout ce que je sais au sujet du gouverneur est qu'il est un agent double de chaque côté. Voilà son soi-disant \"manoir\"."
+msgstr "Tout ce que je sais au sujet du gouverneur est qu'il est un agent double de chaque côté. Voilà son soi-disant « manoir »."
 
 msgid "TXT_SUB_LOG8"
-msgstr "Eugh, les loques de l'humanité ont trouvé leur maison, on dirait."
+msgstr "Eugh. Les loques de l'humanité ont trouvé leur maison, on dirait."
 
 msgid "TXT_SUB_LOG9"
 msgstr ""
@@ -3671,48 +3644,39 @@ msgstr ""
 "On doit parler à quelqu'un qui connaît la vieille ville et où se trouve le coupleur. Le commandement me dit qu'il faut trouver MacGuffin. "
 
 msgid "TXT_SUB_LOG11"
-msgstr ""
-"Il se trouve dans ce qu'on appelle poliment le \"trou à rats\", suis la coursive près de la centrale de traitement des égouts et descend les escaliers."
+msgstr "Il se trouve dans ce qu'on appelle poliment le « trou à rats », suis la coursive près de la centrale de traitement des égouts et descend les escaliers."
 
 msgid "TXT_SUB_LOG12"
 msgstr ""
 "Prends ton temps, le commandement n'a rien à me donner au niveau informations."
 
 msgid "TXT_SUB_LOG13"
-msgstr ""
-"Idiot! Tu as désactivé les circuits brouilleurs qui cachaient notre base des senseurs de l'Ordre. Retourne vite à la mairie et tue l'équipe de scan maintenant!"
+msgstr "Imbécile ! Tu as désactivé les circuits brouilleurs qui cachaient notre base des senseurs de l'Ordre. Retourne vite à la mairie et tue l'équipe de scan maintenant !"
 
 msgid "TXT_SUB_LOG14"
-msgstr ""
-"Ok, \"ne fais confiance à personne\" est le thème du jour. Récupérons le passe du gouverneur et libérons les prisonniers."
+msgstr "Ok, « ne fais confiance à personne » est le tnotre nouveau slogan. Récupérons le passe du gouverneur et libérons les prisonniers."
 
 msgid "TXT_SUB_LOG15"
-msgstr ""
-"Bien joué! Le gouverneur est un menteur. Voilà notre coupleur. Allons récupérer le passe."
+msgstr "Bien joué ! Le Gouverneur est un mauvais menteur. Voilà notre coupleur. Allons récupérer le passe."
 
 msgid "TXT_SUB_LOG16"
 msgstr ""
 "L'entrepôt se trouve dans la centrale électrique. On va faire ça rapidement et proprement."
 
-#, fuzzy
 msgid "TXT_SUB_LOG17"
-msgstr "J'aurais jamais cru entrer de force dans une prison.."
+msgstr "J'aurais jamais cru entrer de force dans une prison…"
 
 msgid "TXT_SUB_LOG18"
-msgstr ""
-"On dirait qu'il n'y a pas de repas gratuit, il est temps de se préparer au combat."
+msgstr "On dirait qu'il n'y a rien de gratuit, il est temps de se préparer au combat."
 
-#, fuzzy
 msgid "TXT_SUB_LOG19"
-msgstr "OK. Le gouverneur est satisfait, le gardien est en bouillie... Maintenant il va falloir faire un peu de chirurgie."
+msgstr "OK. Le Gouverneur est satisfait, le Gardien est en bouillie... Maintenant il va falloir faire un peu de chirurgie."
 
-#, fuzzy
 msgid "TXT_SUB_LOG20"
-msgstr "Oh, tu a coupé sa main? Je croyais que tu étais un type sympa.. Plus où moins. Allons-y."
+msgstr "Oh, tu as coupé sa main ? Je croyais que tu étais un type sympa... Plus ou moins. Allons-y."
 
 msgid "TXT_SUB_LOG21"
-msgstr ""
-"Bien joué mon ami! Utilise l'un des téléporteurs pour revenir à la base."
+msgstr "Bien joué mon ami ! Utilise l'un des téléporteurs pour revenir à la base."
 
 msgid "TXT_SUB_LOG22"
 msgstr ""
@@ -3727,79 +3691,66 @@ msgstr ""
 "Encore une aventure avant le commandement pense qu'il soit l'heure d'attaquer. Macil s'est arrangé pour qu'Irale te donne de l'argent et un peu d'entraînement en plus. Va voir le médecin pour plus de forces."
 
 msgid "TXT_SUB_LOG26"
-msgstr ""
-"L'Ordre se pense en sécurité dans son château, faux! Si tu ouvre les portes, il seront faciles à flinguer. Oh, et pour ça il faut que tu descende dans les égouts. Suis la rivière de l'autre côté du manoir du gouverneur. "
+msgstr "L'Ordre se pense en sécurité dans son château. Faux ! Si tu ouvre les portes, il seront faciles à flinguer. Oh, et pour ça il faut que tu descende dans les égouts. Suis la rivière de l'autre côté du manoir du Gouverneur. "
 
-#, fuzzy
 msgid "TXT_SUB_LOG27"
-msgstr "Ok, accroupis-toi ici. Les habitants des égouts sont d'affreux mutants mais leur réseau de tunnels leur donne accès à beaucoup de secrets. Retient ton souffle, par contre.. On va descendre."
+msgstr "Ok, accroupis-toi ici. Les habitants des égouts sont d'affreux mutants mais leur réseau de tunnels leur donne accès à beaucoup de secrets. Retient ton souffle, par contre... On va descendre."
 
 msgid "TXT_SUB_LOG28"
 msgstr ""
 "Cherche Weran, il se fait appeler le Roi des Rats. Je suis sur que c'est aussi descriptif que flatteur."
 
 msgid "TXT_SUB_LOG29"
-msgstr "Oh, beurk! J'ai pas envie de savoir dans quoi tu marche!"
+msgstr "Oh, beurk ! J'ai pas envie de savoir dans quoi tu marche !"
 
 msgid "TXT_SUB_LOG30"
-msgstr "Juste ce qu'il me fallait, encore de la crasse marron!"
+msgstr "Juste ce qu'il me fallait, encore de la crasse marron !"
 
 msgid "TXT_SUB_LOG31"
-msgstr "Hé, regarde! On dirait que c'est la porte que Weran veut qu'on coince!"
+msgstr "Hé, regarde ! On dirait que c'est la porte que Weran veut qu'on coince !"
 
-#, fuzzy
 msgid "TXT_SUB_LOG32"
-msgstr "Ferme tes yeux, je ne veux pas voire ça! Oh, trop tard.. Beurk, on dirait pas un corps humain, qu'est-ce que l'ordre à fait? Il faut que je rapporte ça au commandement."
+msgstr "Ferme tes yeux, je ne veux pas voire ça ! Oh, trop tard.. Beurk, on dirait pas un corps humain, qu'est-ce que l'Ordre à fait ? Il faut que je rapporte ça au commandement."
 
 msgid "TXT_SUB_LOG33"
-msgstr ""
-"Pourquoi est-ce qu'on ne peut pas avoir une mission dans un champ de fleurs, pour une fois?"
+msgstr "Pourquoi est-ce qu'on ne peut pas avoir une mission dans un champ de fleurs, pour une fois ?"
 
 msgid "TXT_SUB_LOG34"
-msgstr ""
-"J'ai vraiment pas envie de l'admettre, mais ça me rappelle ma maison.. Je suis sous terre pas loin d'ici."
+msgstr "J'ai vraiment pas envie de l'admettre, mais ça me rappelle ma maison. Je suis sous terre pas loin d'ici."
 
 msgid "TXT_SUB_LOG35"
-msgstr "Me demande pas où on est, je suis aussi perdue que toi, désolée.."
+msgstr "Me demande pas où on est, je suis aussi perdue que toi, désolée."
 
-#, fuzzy
 msgid "TXT_SUB_LOG36"
-msgstr "Cette brique.. On n'a pas passé cette brique avant? Non.."
+msgstr "Cette brique... On n'a pas passé cette brique avant ? Non…"
 
 msgid "TXT_SUB_LOG37"
-msgstr ""
-"C'est bon, commandement, il a réussi! Les portes sont ouvertes, envoyez les soldats de choc et dites à Macil que l'on arrive! "
+msgstr "C'est bon, commandement, il a réussi ! Les portes sont ouvertes, envoyez les soldats de choc et dites à Macil que l'on arrive ! "
 
 msgid "TXT_SUB_LOG38"
-msgstr ""
-"On a des rapports contradictoires au sujet d'où se trouve le programmeur. On me dit d'un côté qu'il est dans une salle des ordinateurs, un autre me dit qu'il est dans un donjon, et un autre me dit qu'il est dans un long couloir.. Désolé. "
+msgstr "On a des rapports contradictoires au sujet d'où se trouve le programmeur. On me dit d'un côté qu'il est dans une salle des ordinateurs, un autre me dit qu'il est dans un donjon, et un autre me dit qu'il est dans un long couloir... Désolée. "
 
 msgid "TXT_SUB_LOG39"
-msgstr ""
-"Ah, ça fait du bien d'être sur l'offensive une fois de plus! Foutez leur la misère, les gars!"
+msgstr "Ah, ça fait du bien d'être sur l'offensive pour une fois ! Foutez leur la misère, les gars !"
 
-#, fuzzy
 msgid "TXT_SUB_LOG40"
-msgstr "Tout à l'air bien. Ordinateurs, Programmeur, tu en pense quoi?"
+msgstr "Tout à l'air bien. Ordinateurs... Programmeur... Tu en pense quoi ?"
 
 msgid "TXT_SUB_LOG41"
-msgstr ""
-"Ca doit être le long couloir, ça où ma perception des choses est un peu foutue.."
+msgstr "Ca doit être le long couloir. Ça, ou ma perception des choses est un peu foutue."
 
-#, fuzzy
 msgid "TXT_SUB_LOG42"
-msgstr "Ca a le décor d'un temple maléfique.. Architecture sinistre, énorme bannière, je dis bingo!"
+msgstr "Ça a le décor d'un temple maléfique. Architecture sinistre, énorme bannière... Je dis bingo !"
 
 msgid "TXT_SUB_LOG43"
-msgstr "Ca c'est le surpuissant Programmeur? Vraiment?"
+msgstr "Ça c'est le surpuissant Programmeur ? Vraiment ?"
 
 msgid "TXT_SUB_LOG44"
 msgstr ""
 "Je ne sais pas quoi penser maintenant. Le seul truc qui sonne comme \"donjon\" pour moi c'est l'énorme monstrosité à gauche, mais je ne sais pas comment y entrer. "
 
 msgid "TXT_SUB_LOG45"
-msgstr ""
-"Quand les choses tournent au pire, le pire se tourne vers nous.. Fais attention à toi."
+msgstr "Quand les choses tournent au pire, le pire se tourne vers nous... Fais attention à toi."
 
 msgid "TXT_SUB_LOG46"
 msgstr ""
@@ -3824,26 +3775,22 @@ msgid "TXT_SUB_LOG51"
 msgstr "Tu est courageux, mon camarade, je suis fière de te suivre."
 
 msgid "TXT_SUB_LOG52"
-msgstr "Tu peux t'arrêter pour un moment? J'ai l'impression d'avoir la nausée."
+msgstr "Tu peux t'arrêter pour un moment ? J'ai l'impression d'avoir la nausée."
 
 msgid "TXT_SUB_LOG53"
-msgstr ""
-"Pourquoi on passe tout notre temps sous terre? J'ai déja tout vu sous terre."
+msgstr "Pourquoi on passe tout notre temps sous terre ? J'ai déja tout vu sous terre."
 
 msgid "TXT_SUB_LOG54"
-msgstr ""
-"On est vraiment obligé de faire confiance à un type qui a un sanctuaire peint en vert?"
+msgstr "On est vraiment obligé de faire confiance à un type qui a un sanctuaire peint en vert ?"
 
 msgid "TXT_SUB_LOG55"
-msgstr "Cramoisi et obsidienne? Il peut pas dire juste rouge et noir?"
+msgstr "Écarlate et obsidienne ? Il peut pas dire juste rouge et noir ?"
 
 msgid "TXT_SUB_LOG56"
-msgstr ""
-"L'évèque est le leader militaire de l'Ordre. C'est lui qui s'occupe de leur tactiques, gère leurs espions, et est en charge de nous contrôler. On l'élimine, on marque deux points."
+msgstr "L'Évêque est le leader militaire de l'Ordre. C'est lui qui s'occupe de leur tactiques, gère leurs espions, et est en charge de nous contrôler. On l'élimine, on marque deux points."
 
 msgid "TXT_SUB_LOG57"
-msgstr ""
-"L'évèque sera lourdement protégé, pourquoi ne pas trouver un uniforme et se mêler à la foule?"
+msgstr "L'Évêque sera lourdement protégé, pourquoi ne pas trouver un uniforme et se mêler à la foule ?"
 
 msgid "TXT_SUB_LOG58"
 msgstr "Rappelle-moi, quand on a fini, il faut que j'appelle un décorateur."
@@ -3853,15 +3800,13 @@ msgstr ""
 "J'entends qu'un de nos informants se trouve dans la forteresse. Allons dans ce qu'ils appellent l'hôpital, il y travaille."
 
 msgid "TXT_SUB_LOG60"
-msgstr "Récupère les plans et détruis l'ordinateur, ok?"
+msgstr "Récupère les plans et détruis l'ordinateur, ok ?"
 
 msgid "TXT_SUB_LOG61"
-msgstr ""
-"Bon, je ne me plains pas, mais la prochaine fois, essayons de faire sans foutre du sang partout?"
+msgstr "Bon, je ne me plains pas, mais la prochaine fois, essayons de faire sans foutre du sang partout."
 
 msgid "TXT_SUB_LOG62"
-msgstr ""
-"J'ai déja fais un tour dans un couloir sans fin comme ça, mais je jure que les murs bougent avec nous."
+msgstr "J'ai déjà fait un tour dans un couloir sans fin comme ça, mais je jure, ces murs bougent avec nous."
 
 msgid "TXT_SUB_LOG63"
 msgstr ""
@@ -3875,14 +3820,13 @@ msgstr ""
 "La prochaine fois, on s'arrète à une station-service et on demande notre chemin."
 
 msgid "TXT_SUB_LOG66"
-msgstr ""
-"Oh non! Encore des trucs et des choses et des sales types qui nous prennent en chasse."
+msgstr "Oh non ! Encore des trucs et des choses et des sales types qui nous prennent en chasse."
 
 msgid "TXT_SUB_LOG67"
 msgstr "Tu sais, de l'extérieur, cet endroit à l'air super petit."
 
 msgid "TXT_SUB_LOG68"
-msgstr "J'ai un ping ennemi sur mon radar. Ne t'arrète pas, flingue-les."
+msgstr "J'ai un ping ennemi sur mon radar. Ne t'arrètes pas, flingue-les."
 
 msgid "TXT_SUB_LOG69"
 msgstr ""
@@ -4268,3 +4212,84 @@ msgstr "Hmm. Pas de boucan, pas de bordel, rien que maman ait besoin de nettoyer
 msgid "TXT_BBSUB_SCRIPT31_D0_OHNOI"
 msgstr ""
 "On pensrai que j'en aurai marre de cette routine de \"tue tout le monde\", mais je crois que ça va me manquer quand on en aura fini.\n"
+
+msgid "TXT_SPEAKER_ROWAN"
+msgstr "Rowan"
+
+msgid "TXT_SPEAKER_FERIS"
+msgstr "Feris"
+
+msgid "TXT_SPEAKER_JUSTIN"
+msgstr "Justin"
+
+msgid "TXT_SPEAKER_MACIL"
+msgstr "Macil"
+
+msgid "TXT_SPEAKER_ASSISTANT"
+msgstr "Assistant"
+
+msgid "TXT_SPEAKER_RICHTER"
+msgstr "Richter"
+
+msgid "TXT_SPEAKER_TEVICK"
+msgstr "Tevick"
+
+msgid "TXT_SPEAKER_HARRIS"
+msgstr "Harris"
+
+msgid "TXT_SPEAKER_SAMMIS"
+msgstr "Sammis"
+
+msgid "TXT_SPEAKER_TIMOTHY"
+msgstr "Timothy"
+
+msgid "TXT_SPEAKER_JAMES"
+msgstr "James"
+
+msgid "TXT_SPEAKER_WORNER"
+msgstr "Worner"
+
+msgid "TXT_SPEAKER_DRONE"
+msgstr "Esclave"
+
+msgid "TXT_SPEAKER_QUINCY"
+msgstr "Quincy"
+
+msgid "TXT_SPEAKER_SERGEANT"
+msgstr "Sergent"
+
+msgid "TXT_SPEAKER_ORACLE"
+msgstr "Oracle"
+
+msgid "TXT_SPEAKER_ULAINE"
+msgstr "Ulaine"
+
+msgid "TXT_SPEAKER_KETRICK"
+msgstr "Ketrick"
+
+msgid "TXT_SPEAKER_WERAN"
+msgstr "Weran"
+
+msgid "TXT_SPEAKER_GEOFF"
+msgstr "Geoff"
+
+msgid "TXT_SPEAKER_MACGUFFIN"
+msgstr "MacGuffin"
+
+msgid "TXT_SPEAKER_ARION"
+msgstr "Arion"
+
+msgid "TXT_SPEAKER_IRALE"
+msgstr "Irale"
+
+msgid "TXT_SPEAKER_BELDIN"
+msgstr "Beldin"
+
+msgid "TXT_SPEAKER_GERARD"
+msgstr "Gerard"
+
+msgid "TXT_SPEAKER_BOWYER"
+msgstr "Bowyer"
+
+msgid "TXT_SPEAKER_DERWIN"
+msgstr "Derwin"
