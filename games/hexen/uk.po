@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-09 17:01+0000\n"
+"PO-Revision-Date: 2026-07-09 19:01+0000\n"
 "Last-Translator: Ron Dallas <Lot_bohdan@ukr.net>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/doom-engine-games/hexen/uk/>\n"
 "Language: uk\n"
@@ -131,3 +131,142 @@ msgstr ""
 "постійно мінливі стіни\n"
 "гіпостильної зали наче знущаються\n"
 "з усіх твоїх зусиль."
+
+msgid "TXT_ACS_MAP01_5_THEDO"
+msgstr "Ці двері замкнено"
+
+msgid "TXT_ACS_MAP02_9_GREET"
+msgstr "Вітаю, смертний"
+
+msgid "TXT_ACS_MAP02_11_AREYO"
+msgstr "Ти готовий померти?"
+
+msgid "TXT_ACS_MAP02_20_ADOOR"
+msgstr "Біля Хранителя льоду відчинились двері"
+
+msgid "TXT_ACS_MAP03_12_THISP"
+msgstr "Цей шлях перекрито"
+
+msgid "TXT_ACS_MAP04_9_ONEHA"
+msgstr "Половина головоломки вирішена"
+
+#, fuzzy
+msgid "TXT_ACS_MAP04_10_ONTHE"
+msgstr "біля Сімох Порталів"
+
+msgid "TXT_ACS_MAP04_11_ONETH"
+msgstr "Одна третя головоломки вирішена"
+
+msgid "TXT_ACS_MAP04_12_STAIR"
+msgstr "Сходи були підняті біля Сімох Порталів"
+
+msgid "TXT_ACS_MAP05_6_ONETH"
+msgstr "Одна третя головоломки вирішена"
+
+msgid "TXT_ACS_MAP05_7_ONTHE"
+msgstr "біля Сімох Порталів"
+
+msgid "TXT_ACS_MAP05_8_STAIR"
+msgstr "Сходи були підняті біля Сімох Порталів"
+
+msgid "TXT_ACS_MAP05_9_YOUHA"
+msgstr "Тобі треба знайти інший вимикач…"
+
+msgid "TXT_ACS_MAP05_10_STONE"
+msgstr "Камені скрегочуть на Семи Порталах"
+
+msgid "TXT_ACS_MAP08_6_ONESI"
+msgstr "Одна шоста головоломки вирішена"
+
+msgid "TXT_ACS_MAP08_7_ONTHE"
+msgstr "біля Лісу тіней"
+
+msgid "TXT_ACS_MAP08_10_THEDO"
+msgstr "Двері перекриті зсередини"
+
+msgid "TXT_ACS_MAP08_11_YOUHE"
+msgstr "Ти чуєш, як десь удалині відчиняються двері"
+
+msgid "TXT_ACS_MAP09_6_ONESI"
+msgstr "Одна шоста головоломки вирішена"
+
+msgid "TXT_ACS_MAP09_7_ONTHE"
+msgstr "біля Лісу тіней"
+
+msgid "TXT_ACS_MAP10_6_ONESI"
+msgstr "Одна шоста головоломки вирішена"
+
+msgid "TXT_ACS_MAP10_7_ONTHE"
+msgstr "біля Лісу тіней"
+
+msgid "TXT_ACS_MAP11_0_ETTIN"
+msgstr "\\ еттінів залишилось"
+
+msgid "TXT_ACS_MAP11_1_YOUWA"
+msgstr "Ти занадто довго чекав, тепер ти помреш!"
+
+msgid "TXT_ACS_MAP11_7_ADOOR"
+msgstr "Двері відчиняються на Покинутій заставі"
+
+msgid "TXT_ACS_MAP12_9_THISD"
+msgstr "Ці двері поки що не відчиняються"
+
+msgid "TXT_ACS_MAP13_11_MYSER"
+msgstr "Мої слуги відчувають запах твоєї крові, людино"
+
+msgid "TXT_ACS_MAP21_0_ADOOR"
+msgstr "Двері відкрились на Шибениці"
+
+msgid "TXT_ACS_MAP21_2_THEDO"
+msgstr "Двері перекриті зсередини"
+
+msgid "TXT_ACS_MAP22_3_APLAT"
+msgstr "У вежі опустилася платформа"
+
+msgid "TXT_ACS_MAP22_27_YOUHA"
+msgstr "Ти занадто довго грав у цю гру, смертний…"
+
+msgid "TXT_ACS_MAP22_29_ITHIN"
+msgstr "Гадаю, я приберу тебе з дошки"
+
+msgid "TXT_ACS_MAP23_10_YOUHE"
+msgstr "Ти чуєш, як нагорі відчиняються двері"
+
+msgid "TXT_ACS_MAP27_8_WORSH"
+msgstr "Поклонись мені — і я, можливо, буду милосердним"
+
+msgid "TXT_ACS_MAP27_10_THENA"
+msgstr "А втім, навряд"
+
+msgid "TXT_ACS_MAP28_6_ONENI"
+msgstr "Одна дев'ята головоломки вирішена"
+
+msgid "TXT_ACS_MAP28_7_ONTHE"
+msgstr "в Монастирі"
+
+msgid "TXT_ACS_MAP30_6_ONENI"
+msgstr "Одна дев'ята головоломки вирішена"
+
+msgid "TXT_ACS_MAP30_7_ONTHE"
+msgstr "в Монастирі"
+
+msgid "TXT_ACS_MAP34_1_ONENI"
+msgstr "Одна дев'ята головоломки вирішена"
+
+msgid "TXT_ACS_MAP34_2_ONTHE"
+msgstr "в Монастирі"
+
+msgid "TXT_ACS_MAP35_0_THEPO"
+msgstr "Цей портал було запечатано"
+
+msgid "TXT_ACS_MAP35_1_CHOOS"
+msgstr "Вибери свою долю"
+
+msgid "TXT_ACS_MAP35_3_THEDO"
+msgstr "Двері перекриті зсередини"
+
+msgid "TXT_ACS_MAP35_12_AREYO"
+msgstr "Чи вистачить тобі сил"
+
+msgid "TXT_ACS_MAP35_14_TOFAC"
+msgstr "Постати перед власними господарями?"
