@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-09 15:01+0000\n"
+"PO-Revision-Date: 2026-07-09 17:01+0000\n"
 "Last-Translator: Tapwave <kolb.rodrigue@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/doom-engine-games/strife/fr/>\n"
 "Language: fr\n"
@@ -3833,14 +3833,13 @@ msgstr ""
 "Je déteste les champs de force. Trouve leur commandes, elles ne doivent pas être loin."
 
 msgid "TXT_SUB_LOG70"
-msgstr "Oooh, très impressionant! Faisons tout péter!"
+msgstr "Oooh, très impressionant ! Faisons tout péter !"
 
 msgid "TXT_SUB_LOG71"
 msgstr "Saute dans le téléporteur, cassons nous d'ici."
 
 msgid "TXT_SUB_LOG72"
-msgstr ""
-"Attend, l'Oracle nous a dit qu'on le reconnaitrerait de par son symbole de pouvoir.. Tu pense à la même chose que moi?"
+msgstr "Attend, l'Oracle nous a dit qu'on le reconnaitrerait de par son symbole de pouvoir... Tu pense à la même chose que moi ?"
 
 msgid "TXT_SUB_LOG73"
 msgstr ""
