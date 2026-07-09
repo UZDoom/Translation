@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-09 21:01+0000\n"
+"PO-Revision-Date: 2026-07-09 23:01+0000\n"
 "Last-Translator: Tapwave <kolb.rodrigue@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/doom-engine-games/strife/fr/>\n"
 "Language: fr\n"
@@ -3993,64 +3993,61 @@ msgid "TXT_SUB_LOG205"
 msgstr "Ne traîne pas. Tout devant !"
 
 msgid "TXT_SUB_LOG206"
-msgstr "T'as pas l'impression que ces couloirs ont tous la même tête?"
+msgstr "T'as pas l'impression que ces couloirs se ressemblent ?"
 
 msgid "TXT_SUB_LOG207"
-msgstr "Hé, il y a des fois où il faut aussi que je devine!"
+msgstr "Hé, il y a des fois où il faut aussi que je devine !"
 
 msgid "TXT_SUB_LOG208"
 msgstr "Oh, et fais attention à l'alarme."
 
 msgid "TXT_SUB_LOG209"
-msgstr "Oh, zut, regarde ce que tu as fait!"
+msgstr "Oh, zut, regarde ce que tu as fait !"
 
 msgid "TXT_SUB_LOG210"
-msgstr "Merde, t'as vraiment tout foutu en l'air!"
+msgstr "Merde. T'as vraiment tout foutu en l'air !"
 
 msgid "TXT_SUB_LOG211"
-msgstr "Allez! Sortons d'ici!"
+msgstr "Allez ! On se barre de là !"
 
 msgid "TXT_SUB_LOG212"
-msgstr "Oooh, tu n'y va pas de main morte."
+msgstr "Ooh. Tu n'y va pas de main morte."
 
 msgid "TXT_SUB_LOG213"
-msgstr "Tu vas les clouer au mur! Continue!"
+msgstr "Tu vas les clouer au mur ! Continue !"
 
 msgid "TXT_SUB_LOG214"
-msgstr "Mm, tu est une brute."
+msgstr "Mm. Tu es une brute."
 
 msgid "TXT_SUB_LOG215"
 msgstr "On a un bon rythme là."
 
 msgid "TXT_SUB_LOG216"
-msgstr "Ooh, j'adore ce truc qui fait boum."
+msgstr "Ooh. J'adore ce truc qui fait boum."
 
 msgid "TXT_SUB_LOG217"
-msgstr "Mm, j'aime comment tu te porte."
+msgstr "Mm. J'aime comment tu te portes."
 
 msgid "TXT_SUB_LOG218"
-msgstr "Eclate-les, ils ne sont pas humains!"
+msgstr "Eclate-les ! Ils ne sont pas humains !"
 
-#, fuzzy
 msgid "TXT_SUB_LOG219"
-msgstr "Wow! Acolyte noirci! Goûte à la nouvelle saveur sensationelle!"
+msgstr "Wow ! Acolyte cuit à point ! Goûte à la nouvelle saveur sensationelle !"
 
-#, fuzzy
 msgid "TXT_SUB_LOG220"
-msgstr "Continue et tu vas te rendre aveugle.. j'aime bien par contre."
+msgstr "Continue et tu vas te rendre aveugle... J'aime bien par contre."
 
 msgid "TXT_SUB_LOG221"
-msgstr "Je pense qu'ils ne vont pas nous inviter à diner!"
+msgstr "Je pense qu'ils ne vont pas nous inviter à diner !"
 
 msgid "TXT_SUB_LOG222"
 msgstr "Il faut que l'on aille au dernier étage."
 
-#, fuzzy
 msgid "TXT_SUB_LOG223"
-msgstr "Attends.. Ca à l'air intéressant, va voir."
+msgstr "Attends... Ça à l'air intéressant. Vas-donc voir."
 
 msgid "TXT_SUB_LOG224"
-msgstr "Eugh, ce type me fout les jetons. Evite le."
+msgstr "Eugh, ce type me fout les jetons. Évite le."
 
 #, fuzzy
 msgid "TXT_SUB_LOG225"
