@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-09 11:01+0000\n"
+"PO-Revision-Date: 2026-07-09 13:01+0000\n"
 "Last-Translator: Tapwave <kolb.rodrigue@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/doom-engine-games/strife/fr/>\n"
 "Language: fr\n"
@@ -3198,16 +3198,14 @@ msgstr ""
 "Visite Irale et le médecin en ville pour de l'argent et de l'entraînement, puis trouve l'entrée des égouts. Descend le long de la rivière de l'autre côté du manoir du gouverneur."
 
 msgid "TXT_ILOG28"
-msgstr ""
-"Cherche Weran, il se fait appeler le Roi des Rats. Je suis sur que c'est aussi descriptif que flatteur."
+msgstr "Cherche Weran, il se fait appeler le Roi des Rats. Je suis sûr que c'est aussi descriptif que flatteur."
 
 msgid "TXT_ILOG33"
 msgstr ""
 "Amène les pièces du lance-flamme à Irale. Fais vider le réservoir de recyclage. Au fond se trouve une entrée cachée vers les égouts. Les contrôles de la porte s'y trouvent. Détruis-les."
 
 msgid "TXT_ILOG37"
-msgstr ""
-"C'est bon, commandement, il a réussi! Les portes sont ouvertes, envoyez les soldats de choc et dites à Macil que l'on arrive! Retournons à la base du Front."
+msgstr "C'est bon, commandement, il a réussi ! Les portes sont ouvertes, envoyez les soldats de choc et dites à Macil que l'on arrive ! Retournons à la base du Front."
 
 msgid "TXT_ILOG38"
 msgstr ""
@@ -3233,40 +3231,31 @@ msgstr ""
 "Trouve l'Oracle et demande lui où se trouvent les autres pièces du Sigil. Le voilà. J'enregistre tout, ce n'est pas que je n'ai pas confiance en ta capacité de survie, c'est juste que je ne peux pas laisser l'Ordre contrôler le Sigil."
 
 msgid "TXT_ILOG56"
-msgstr ""
-"La deuxième pièce se trouve au cœur de la tour d'obsidienne et d'écarlate. Tu y trouvera l'évêque. L'évêque est le chef militaire de l'Ordre. Si on le tue, on marque deux points. Prends le jeton de l'Oracle et amène le au Mâitre des Clés dans les terrains vagues."
+msgstr "La deuxième pièce se trouve au cœur de la tour d'obsidienne et d'écarlate. Tu y trouvera l'Évêque. L'Évêque est le chef militaire de l'Ordre. Si on le tue, on marque deux points. Prends le jeton de l'Oracle et amène le au Mâitre des Clés dans les terrains vagues."
 
 msgid "TXT_ILOG57"
-msgstr ""
-"L'évêque sera lourdement protégé. Pourquoi ne pas faire une entrée discrète avec un uniforme? Trouve l'évêque, une fois qu'il est mort, retourne à l'Oracle."
+msgstr "L'Évêque sera lourdement protégé. Pourquoi ne pas faire une entrée discrète avec un uniforme ? Trouve l'évêque, une fois qu'il est mort, retourne à l'Oracle."
 
 msgid "TXT_ILOG59"
-msgstr ""
-"Je viens d'avoir vent que l'on a un informant dans la forteresse. Allons à l'hôpital, il y travaille. Après ça, trouve l'évêque et tue-le, puis retourne à l'Oracle."
+msgstr "Je viens d'avoir vent que l'on a un informant dans la forteresse. Allons à l'hôpital, il y travaille. Après ça, trouve l'Évêque et tue-le, puis retourne à l'Oracle."
 
 msgid "TXT_ILOG64"
-msgstr ""
-"N'abandonne pas, on y est bientôt. Utilise le téléporteur vers le centre d'administration et détruis le cœur informatique. Cela désactivera le champ de force et l'entrée vers la tour de l'évêque. Une fois qu'il est mort, retourne voir l'Oracle."
+msgstr "N'abandonne pas, on y est bientôt. Utilise le téléporteur vers le centre d'administration et détruis le cœur informatique. Cela désactivera le champ de force et l'entrée vers la tour de l'Évêque. Une fois qu'il est mort, retourne voir l'Oracle."
 
 msgid "TXT_ILOG70"
-msgstr ""
-"Excellent, maintenant, faisons tout sauter. Cela devrait nous débarasser du cœur informatique. Retourne au mur d'enceinte puis rentre dans la tour de l'évêque."
+msgstr "Excellent, maintenant, faisons tout sauter. Cela devrait nous débarasser du cœur informatique. Retourne au mur d'enceinte puis rentre dans la tour de l'Évêque."
 
 msgid "TXT_ILOG74"
-msgstr ""
-"Bravo, encore une pièce du Sigil! Tu a vu ce spectre étrange qui est sorti du corps de l'évêque? Je crois l'avoir vu avant, retournons à l'Oracle."
+msgstr "Bravo, encore une pièce du Sigil ! Tu a vu ce spectre étrange qui est sorti du corps de l'évêque ? Je crois l'avoir vu avant, retournons à l'Oracle."
 
 msgid "TXT_ILOG76"
-msgstr ""
-"J'ai un rapport que l'énergie spectrale que l'on a trouvé près de l'évèque est aussi près de l'Oracle. Faisons attention."
+msgstr "J'ai un rapport que l'énergie spectrale que l'on a trouvé près de l'Évêque est aussi près de l'Oracle. Faisons attention."
 
 msgid "TXT_ILOG79"
-msgstr ""
-"Richter a pris le contrôle de nos forces. Il semble que Macil nous a menti tout du long. Sa vraie allégiance était avec l'Ordre, quel serpent! Retournous à l'Oracle."
+msgstr "Richter a pris le contrôle de nos forces. Il semble que Macil nous a menti tout du long. Sa vraie allégiance était avec l'Ordre, quelle vermine. Retournous à l'Oracle."
 
 msgid "TXT_ILOG83"
-msgstr ""
-"Encore une pièce du Sigil. Nous nous rapprochons de la liberté, et tu te rapproche aussi de moi. Retournons à l'Oracle!"
+msgstr "Encore une pièce du Sigil. Nous nous rapprochons de la liberté, et tu te rapproche aussi de moi. Retournons à l'Oracle !"
 
 msgid "TXT_ILOG85"
 msgstr ""
@@ -3277,20 +3266,16 @@ msgstr ""
 "Bon, tant pis pour les pronostics. Attends, Macil nous demande de revenir. Rentrons un seul morceau."
 
 msgid "TXT_ILOG89"
-msgstr ""
-"L'usine est près des mines. Richter doit parler des mines de degnin. Le minérai de degnin est magnétisé et explosif, c'est parfait pour désactiver les champs de force. Récupérons la clé dans les catacombes, puis partons pour les mines pour récupérer du minerai."
+msgstr "L'usine est près des mines. Richter doit parler des mines de Degnin. Le minérai de Degnin est magnétisé et explosif, c'est parfait pour désactiver les champs de force. Récupérons la clé dans les catacombes, puis partons pour les mines pour récupérer du minerai."
 
 msgid "TXT_ILOG93"
-msgstr ""
-"L'usine est près des mines. Richter doit parler des mines de degnin. Le minérai de degnin est magnétisé et explosif, c'est parfait pour désactiver les champs de force. Récupérons la clé dans les catacombes, puis partons pour les mines pour récupérer du minerai. Cela doit être les ruines que les agent de Richter cherchaient. Fais attention."
+msgstr "L'usine est près des mines. Richter doit parler des mines de Degnin. Le minérai de Degnin est magnétisé et explosif, c'est parfait pour désactiver les champs de force. Récupérons la clé dans les catacombes, puis partons pour les mines pour récupérer du minerai. Cela doit être les ruines que les agents de Richter cherchaient. Fais attention."
 
 msgid "TXT_ILOG95"
-msgstr ""
-"L'usine est près des mines. Richter doit parler des mines de degnin. Le minérai de degnin est magnétisé et explosif, c'est parfait pour désactiver les champs de force. Mon ami, c'est clair que l'on se bat contre plus que juste l'Ordre. Retournons au réfectoire puis aux mines. Il nous faut du minerai."
+msgstr "L'usine est près des mines. Richter doit parler des mines de Degnin. Le minérai de Degnin est magnétisé et explosif, c'est parfait pour désactiver les champs de force. Mon ami, c'est clair que l'on se bat contre plus que juste l'Ordre. Retournons au réfectoire puis aux mines. Il nous faut du minerai."
 
 msgid "TXT_ILOG96"
-msgstr ""
-"L'usine est près des mines. Richter doit parler des mines de degnin. Le minérai de degnin est magnétisé et explosif, c'est parfait pour désactiver les champs de force. Cherche des veines de minerai, mais fais attention."
+msgstr "L'usine est près des mines. Richter doit parler des mines de Degnin. Le minérai de Degnin est magnétisé et explosif, c'est parfait pour désactiver les champs de force. Cherche des veines de minerai, mais fais attention."
 
 msgid "TXT_ILOG97"
 msgstr ""
@@ -3301,43 +3286,36 @@ msgstr ""
 "L'usine est près des mines. Cherche des veines de minerai, mais fais attention. Je suggère que tu lance du minerai sur le champ de force et que tu tire dessus. Le champ magnétique que l'explosion causera désactivera les lumières."
 
 msgid "TXT_ILOG100"
-msgstr ""
-"C'est parti pour l'usine. Sors des mines, tu ne peux pas la rater. Trouvons cette machine et détruisons-la!"
+msgstr "C'est parti pour l'usine. Sors des mines, tu ne peux pas la rater. Trouvons cette machine et détruisons-la !"
 
 msgid "TXT_ILOG102"
-msgstr ""
-"Je recois des distorsions neurales colossales devant nous. Je crois que nous l'avons trouvé. Détruisons-la!"
+msgstr "Je recois des distorsions neurales colossales devant nous. Je crois que nous l'avons trouvé. Détruisons-la !"
 
-#, fuzzy
 msgid "TXT_ILOG103"
-msgstr "Et quand je pense avoir tout vu.. Des humains entrent, et puis.. Non, je ne veux pas y penser. Détruis cette horreur!"
+msgstr "Et quand je pense avoir tout vu ! Des humains entrent, et puis... Non, je ne veux pas y penser. Détruis cette horreur !"
 
 msgid "TXT_ILOG104"
-msgstr ""
-"Macil a complètement perdu les pédales! Il a envoyé 200 hommes se faire tuer, et il le savait! Il faut les venger, pour eux et pour leurs camarades! On retourne à la base et on va trouver ce qu'il se passe."
+msgstr "Macil a complètement perdu les pédales ! Il a envoyé 200 hommes se faire tuer, et il le savait ! Il faut les venger, pour eux et pour leurs camarades ! On retourne à la base et on va trouver ce qu'il se passe."
 
 msgid "TXT_ILOG106"
-msgstr ""
-"L'usine mène à un « laboratoire », et je reçois le signal d'une pièce du Sigil à l'intérieur. Retournons à l'usine pour prendre le prochain pas vers la liberté."
+msgstr "L'usine mène à un « laboratoire », et je reçois le signal d'une pièce du Sigil à l'intérieur. Retournons à l'usine pour prendre le prochain pas vers la liberté."
 
 msgid "TXT_ILOG120"
-msgstr ""
-"Trouve l'évêque et tues-le! Une fois qu'il est mort, retourne à l'Oracle."
+msgstr "Trouve l'Évêque et tues-le ! Une fois qu'il est mort, retourne à l'Oracle."
 
 msgid "TXT_ILOG122"
 msgstr ""
 "Le laboratoire du Maître des Traditions est de l'autre côté du téléporteur que nous venons d'ouvrir. Allons voir pourquoi il était en train de brailler, et prendre le prochain pas vers la liberté."
 
 msgid "TXT_ILOG211"
-msgstr ""
-"Allez, il faut qu'on se barre d'ici. Le champ de force est hors-ligne. Entre dans la tour de l'évêque. Quand il sera mort, retourne à l'Oracle."
+msgstr "Allez, il faut qu'on se barre d'ici. Le champ de force est hors-ligne. Entre dans la tour de l'Évêque. Quand il sera mort, retourne à l'Oracle."
 
 msgid "TXT_ILOG1001"
 msgstr ""
 "Trouve le sanctuaire près de la rivière. Prends le Calice qui s'y trouve et amène le à Harris dans la taverne."
 
 msgid "TXT_ILOG1002"
-msgstr "Trouve le gouverneur et demande ta récompense."
+msgstr "Trouve le Gouverneur et demande-lui ta récompense."
 
 msgid "TXT_ILOG1003"
 msgstr ""
