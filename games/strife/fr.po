@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-09 23:01+0000\n"
+"PO-Revision-Date: 2026-07-10 09:01+0000\n"
 "Last-Translator: Tapwave <kolb.rodrigue@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/doom-engine-games/strife/fr/>\n"
 "Language: fr\n"
@@ -549,7 +549,6 @@ msgstr "Vous, là, personne n'est autorisé à traîner ici, dégagez !"
 msgid "TXT_DLG_SCRIPT02_D39416_IRALE"
 msgstr "Irale a ce qu'il te faut !"
 
-#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D40932_IMKIN"
 msgstr "Je suis une sorte de chasseur de têtes pour les rebelles. Un type comme toi pourrait se faire pas mal de fric... Avec les bons contacts, bien entendu."
 
@@ -653,7 +652,7 @@ msgid "TXT_RPLY0_SCRIPT02_D66704_FINEB"
 msgstr "Ca me convient."
 
 msgid "TXT_DLG_SCRIPT02_D68220_SOYOU"
-msgstr "Vous êtes l'abruti qui a volé le calice? Maintenant il faut que je vous arrète comme voleur rebelle... Ce qui va aider ma progression dans l'Ordre. Comment ça fait d'être un pion ignorant? Petite indice, ça va faire mal."
+msgstr "Vous êtes l'abruti qui a volé le calice ? Maintenant il faut que je vous arrète comme voleur rebelle... Ce qui va aider ma progression dans l'Ordre. Comment ça fait d'être un pion ignorant ? Petite indice, ça va faire mal."
 
 msgid "TXT_RPLY0_SCRIPT02_D68220_ITSUC"
 msgstr "Quelle merde !"
@@ -940,7 +939,7 @@ msgid "TXT_RNO1_SCRIPT03_D28804_IMALM"
 msgstr "Presque fini, mais pas encore."
 
 msgid "TXT_DLG_SCRIPT03_D30320_ALLRI"
-msgstr "Très bien, je crois que j'ai réussi à tout faire marcher parfaitement. Il y avait quelques problèmes dont je devais me débarrasser. Vous voulez quelque chose d'autre? "
+msgstr "Très bien, je crois que j'ai réussi à tout faire marcher parfaitement. Il y avait quelques problèmes dont je devais me débarrasser. Vous voulez quelque chose d'autre ? "
 
 msgid "TXT_RPLY0_SCRIPT03_D30320_PATCH"
 msgstr "Soignez moi."
@@ -1052,7 +1051,6 @@ msgid "TXT_DLG_SCRIPT03_D43964_WERET"
 msgstr ""
 "On essaie de trouver où se trouvent les contrôles de la porte du château, mais pour l'instant, on les a pas encore localisés."
 
-#, fuzzy
 msgid "TXT_DLG_SCRIPT03_D45480_DONTG"
 msgstr "Ne vous faites pas avoir. J'ai entendu des choses horribles sur ce qu'ils font à ceux qu'ils emprisonnent. Ils disparaîssent... Sans laisser de trace."
 
@@ -1192,7 +1190,7 @@ msgstr ""
 "Je vais être clair. Si ce terminal plante encore, les niveaux de liquide de refroidissement vont descendre et on aura tous à faire face au Programmeur. Si on survit, bien entendu."
 
 msgid "TXT_DLG_SCRIPT04_D42448_YOUYE"
-msgstr "Vous ! Oui, vous, vous, vous n'avez pas l'autorisation d'être dans cette zone ! Donnez moi votre passe maintenant, et vite, je suis de sale humeur aujourd'hui !"
+msgstr "Vous ! Oui, vous. Vous n'avez pas l'autorisation d'être dans cette zone ! Donnez moi votre passe maintenant, et vite, je suis de sale humeur aujourd'hui !"
 
 msgid "TXT_RPLY0_SCRIPT04_D42448_HEREH"
 msgstr "Voilà mon passe."
@@ -1223,7 +1221,7 @@ msgid "TXT_DLG_SCRIPT04_D50028_NONEO"
 msgstr "Ca ne vous concerne pas. Allez voir Ketrick."
 
 msgid "TXT_RPLY0_SCRIPT04_D50028_OK"
-msgstr "OK."
+msgstr "Ok."
 
 msgid "TXT_DLG_SCRIPT04_D51544_IFITS"
 msgstr "Si vous voulez un boulot éreintant, allez fixer cet écran pour quelques heures. Ça va vous ennuyer jusqu'à en pleurer."
@@ -1378,8 +1376,7 @@ msgid "TXT_DLG_SCRIPT06_D19708_FOODD"
 msgstr "A manger, vous avez à manger ? Aidez-nous, s'il vous plaît."
 
 msgid "TXT_DLG_SCRIPT06_D21224_THISI"
-msgstr ""
-"Voici ma récompense pour avoir laissé les prisonniers s'évader: garder les égouts. Si je trouve celui qui les a libéré, je l'étripe."
+msgstr "Voici ma récompense pour avoir laissé les prisonniers s'évader : garder les égouts. Si je trouve celui qui les a libéré, je l'étripe."
 
 msgid "TXT_DLG_SCRIPT06_D22740_WEVEG"
 msgstr ""
@@ -2363,7 +2360,7 @@ msgid "TXT_DLG_SCRIPT23_D15160_THANK"
 msgstr "Merci Dieu, vous êtes là. Pour entrer dans l'usine, il vous faut une clé. On l'a volé, mais notre agent a disparu dans le dédale de catacombes sous la forteresse de l'Ordre. On a envoyé dix hommes dans ces tunnels pour le retrouver mais personne n'est revenu. Il doit y avoir quelque chose, là dedans !"
 
 msgid "TXT_RPLY0_SCRIPT23_D15160_WHATI"
-msgstr "Qu'est-ce que c'est? Un humain, ou...  ?"
+msgstr "Qu'est-ce que c'est ? Un humain, ou...  ?"
 
 msgid "TXT_DLG_SCRIPT23_D16676_NOTDE"
 msgstr ""
@@ -2453,7 +2450,7 @@ msgid "TXT_DLG_SCRIPT23_D24256_THANK"
 msgstr "Merci Dieu, vous êtes là. Pour entrer dans l'usine, il vous faut une clé. On l'a volé, mais notre agent a disparu dans le dédale de catacombes sous la forteresse de l'Ordre. On a envoyé dix hommes dans ces tunnels pour le retrouver mais personne n'est revenu. Il doit y avoir quelque chose, là dedans !"
 
 msgid "TXT_RPLY0_SCRIPT23_D24256_WHATI"
-msgstr "Qu'est-ce que c'est? Un humain, ou...  ?"
+msgstr "Qu'est-ce que c'est ? Un humain, ou...  ?"
 
 msgid "TXT_DLG_SCRIPT23_D25772_NOTDE"
 msgstr ""
@@ -3097,7 +3094,7 @@ msgid "TXT_RANDOM_PGUARD_08"
 msgstr "L'Ordre protège les siens."
 
 msgid "TXT_RANDOM_PGUARD_09"
-msgstr "Les Acolytes? Ils n'ont pas encore été témoins de la vraie gloire de l'Ordre."
+msgstr "Les Acolytes ? Ils n'ont pas encore été témoins de la vraie gloire de l'Ordre."
 
 msgid "TXT_RANDOM_PGUARD_10"
 msgstr "Si il y a une once de gloire dans ce corps pathétique, ceux de l'Ordre te comptera parmi les leurs."
@@ -3549,8 +3546,7 @@ msgstr ""
 "Ils ont anéanti nos femmes et nos enfants et nous ont forcés à vivre sous terre comme des animaux, terrifiés de perdre nos vies."
 
 msgid "TXT_SUB_INTRO6"
-msgstr ""
-"Mais il y a des murmures de colère qui subsistent. Si nous nous organisons, pouvons nous nous défaire de nos maîtres? Des armes sont volées, des soldats entraînés. Un mouvement est né, né d'un combat sans fin!"
+msgstr "Mais il y a des murmures de colère qui subsistent. Si nous nous organisons, pouvons nous nous défaire de nos maîtres ? Des armes sont volées, des soldats entraînés. Un mouvement est né, né d'un combat sans fin !"
 
 msgid "TXT_SUB_GOOD1"
 msgstr "Attention à toutes les troupes du Front : Nous avons réussi ! C'est fini, le soldat de Blackbird a anéanti le mal. L'Ordre est sur le point de s'effondrer. Blackbird, me reçevez-vous ?"
@@ -4049,60 +4045,51 @@ msgstr "Attends... Ça à l'air intéressant. Vas-donc voir."
 msgid "TXT_SUB_LOG224"
 msgstr "Eugh, ce type me fout les jetons. Évite le."
 
-#, fuzzy
 msgid "TXT_SUB_LOG225"
-msgstr "Gauche! A Gauche... L'autre gauche!"
+msgstr "Gauche ! Tourne à Gauche... L'autre gauche !"
 
-#, fuzzy
 msgid "TXT_SUB_LOG226"
-msgstr "Typique d'un mec borné comme un porc- Sauf si tu est une fille, bien entendu."
+msgstr "Typique d'un mec borné comme un porc !... Sauf si tu es une fille, bien entendu."
 
 msgid "TXT_SUB_LOG227"
 msgstr "Fort, brutal et silencieux. Mon type préféré."
 
 msgid "TXT_SUB_LOG228"
-msgstr "Ok, j'avais tort!"
+msgstr "Ok ! J'avais tort !"
 
-#, fuzzy
 msgid "TXT_SUB_LOG229"
-msgstr "C'est dommage qu'on s'est jamais rencontré.. En face à face."
+msgstr "C'est dommage qu'on ne s'est jamais rencontrés... En face à face."
 
-#, fuzzy
 msgid "TXT_SUB_LOG230"
-msgstr "J'avais des grands rêves pour toi.. Franchement dommage."
+msgstr "J'avais de grands rêves pour toi... Franchement dommage."
 
 msgid "TXT_SUB_LOG231"
-msgstr ""
-"Non, n'entre pas dans la mairie, notre couverture est foutue. C'est pour ça que tout est en train de péter. Détruis tous les gros machins que tu croise, on les appelle les \"Croisés\". Quand tu as fini, je te dirais où se trouve Macil."
+msgstr "Non. N'entre pas dans la mairie, ce n'est plus sûr. Notre couverture est foutue. C'est pour ça que tout est en train de péter. Détruis tous les gros machins que tu croise, on les appelle les « Croisés ». Quand tu as fini, je te dirais où se trouve Macil."
 
 msgid "TXT_SUB_LOG232"
-msgstr "Bien joué, mon ami! Il est temps de te faire rentrer."
+msgstr "Bien joué, mon ami ! Il est temps de te faire rentrer."
 
-#, fuzzy
 msgid "TXT_SUB_LOG233"
-msgstr "Fais attention aux croisés, ce sont des sacrément grosses machines, et salement méchantes, aussi. On ne sait pas quelles armes ils utilisent, mais il est probable qu'ils en ont.. Plus que toi. Fais attention."
+msgstr "Fais attention aux croisés, ce sont des sacrément grosses machines, et salement méchantes, aussi. On ne sait pas quelles armes ils utilisent, mais il est probable qu'ils en ont... Plus que toi. Fais attention."
 
 msgid "TXT_SUB_LOG234"
-msgstr ""
-"Bien joué, tu connaîs bien mon idée d'une bonne fête. Maintenant, sans que personne ne te voie, passe par la porte à droite, monte à l'étage et rencontre le type."
+msgstr "Bien joué. Tu est mon partenaire idéal pour ça. Maintenant, sans que personne ne te voie, passe par la porte à droite, monte à l'étage et rencontre le type."
 
 msgid "TXT_SUB_LOG235"
 msgstr "Si qui que ce soit te voit, on aura ta tête."
 
 msgid "TXT_SUB_LOG236"
-msgstr ""
-"Espèce d'abruti, crétin bossu pas foutu de marcher droit! Tu fait foirer notre couverture!"
+msgstr "Espèce d'abruti, crétin bossu pas foutu de marcher droit ! Tu nous as révélés !"
 
-#, fuzzy
 msgid "TXT_SUB_LOG237"
-msgstr "J'aurais adoré être de l'autre côté de cette porte.. Mais il faut que je reste sous terre. Il est temps que tu rencontre notre leader, Macil."
+msgstr "J'aurais adoré être de l'autre côté de cette porte.. . Mais il faut que je reste sous terre. Il est temps que tu rencontre notre leader, Macil."
 
 msgid "TXT_BBSUB_SCRIPT02_D57608_IFIKN"
 msgstr ""
 "Quel porc. Je ne sais rien sur ce coupleur énergétique, allons-y doucement."
 
 msgid "TXT_BBSUB_SCRIPT03_D4548_GOODB"
-msgstr "On dirait que c'est le boulot idéal, non?"
+msgstr "On dirait que c'est le boulot idéal, non ?"
 
 msgid "TXT_BBSUB_SCRIPT03_D7580_TAKET"
 msgstr "Et je serais là pour toi."
@@ -4123,10 +4110,10 @@ msgstr ""
 "Mmmh. On dirait des armes. On peut toujours faire avec plus de puissance de feu."
 
 msgid "TXT_BBSUB_SCRIPT04_D31836_WHATD"
-msgstr "Ca à l'air trop facile mais ça vaut le coup d'essayer."
+msgstr "Ça à l'air trop facile, mais ça vaut le coup d'essayer."
 
 msgid "TXT_BBSUB_SCRIPT04_D40932_LETME"
-msgstr "On s'en fout, personne n'écoute les programmeurs de toute manières."
+msgstr "On s'en fout. Personne n'écoute les programmeurs de toute manières."
 
 msgid "TXT_BBSUB_SCRIPT04_D54576_ITSAS"
 msgstr "Ooh, je suis contente d'être cachée, si tu vois ce que je veux dire."
@@ -4135,40 +4122,37 @@ msgid "TXT_BBSUB_SCRIPT05_D1516_OKBUT"
 msgstr "Quel grincheux. J'espère qu'on va le buter plus tard."
 
 msgid "TXT_BBSUB_SCRIPT05_D3032_DOILO"
-msgstr "\"Cette zone est à accès restreint!\" Pompeux anonyme, va."
+msgstr "« Cette zone est à accès restreint ! » Pompeux anonyme, va."
 
 msgid "TXT_BBSUB_SCRIPT05_D4548_THEOR"
 msgstr "Quel type honnête."
 
 msgid "TXT_BBSUB_SCRIPT05_D7580_OVERM"
-msgstr "Peut être, c'est parce que tu n'a pas dit \"s'il vous plaît.\""
+msgstr "Peut être c'est parce que tu n'a pas dit « s'il vous plaît. »"
 
 msgid "TXT_BBSUB_SCRIPT06_D1516_DOMYF"
-msgstr "Tout le monde est tellement demandant.\n"
+msgstr "Tout le monde est tellement exigeant.\n"
 
 msgid "TXT_BBSUB_SCRIPT06_D3032_BRING"
-msgstr "Parfait, maintenant on fait du shopping pour le roi des rats."
+msgstr "Parfait, maintenant on fait du shopping pour le Roi des Rats."
 
 msgid "TXT_BBSUB_SCRIPT06_D4548_OPENT"
 msgstr "Je parie que ce type sent salement mauvais, aussi."
 
-#, fuzzy
 msgid "TXT_BBSUB_SCRIPT06_D9096_YOUHA"
-msgstr "Plus d'égouts.. Youpi. Je me demande qui vit là dedans."
+msgstr "Plus d'égouts... Youpi. Je me demande qui vit là dedans."
 
 msgid "TXT_BBSUB_SCRIPT07_D6064_PROGR"
-msgstr "Une impasse. Bon, on continue de chercher."
+msgstr "Une impasse. On continue de chercher."
 
 msgid "TXT_BBSUB_SCRIPT10_D10612_YOUHA"
-msgstr "Allons-y mon champion. Allons tordre de douleur Monsieur Sale-geule.\n"
+msgstr "Allons-y, mon champion. Allons tordre de douleur Monsieur Sale-geule.\n"
 
 msgid "TXT_BBSUB_SCRIPT10_D12128_THERE"
-msgstr ""
-"Biomécanique? Et bien, ça explique pourquoi ils en ont une infinité, de troupes! Ca, et leur sale heumeur.\n"
+msgstr "Biomécanique ? Et bien, ça explique pourquoi ils en ont une infinité, de troupes ! Ça, et leur sale heumeur.\n"
 
-#, fuzzy
 msgid "TXT_BBSUB_SCRIPT10_D16676_IAMTH"
-msgstr "Quel salaud, bute le!"
+msgstr "Quel salaud... Bute le !"
 
 msgid "TXT_BBSUB_SCRIPT12_D12128_USETH"
 msgstr "Il est hideux, mais il semble qu'il soit de notre côté."
@@ -4177,13 +4161,11 @@ msgid "TXT_BBSUB_SCRIPT17_D10612_OHSUR"
 msgstr ""
 "En se basant sur ce qui vient de se passer, je pense que la discrétion n'est pas une option."
 
-#, fuzzy
 msgid "TXT_BBSUB_SCRIPT17_D13644_OHWEL"
-msgstr "Hmm. Pas de boucan, pas de bordel, rien que maman ait besoin de nettoyer après.. Récupère en un pour moi, s'il te plaît.\n"
+msgstr "Hmm. Pas de boucan, pas de bordel, rien que maman ait besoin de nettoyer après... Récupère en un pour moi, s'il te plaît.\n"
 
 msgid "TXT_BBSUB_SCRIPT31_D0_OHNOI"
-msgstr ""
-"On pensrai que j'en aurai marre de cette routine de \"tue tout le monde\", mais je crois que ça va me manquer quand on en aura fini.\n"
+msgstr "On pensrait que j'en aurai marre de cette routine de « tuer tout le monde », mais je crois que ça va me manquer quand on en aura fini.\n"
 
 msgid "TXT_SPEAKER_ROWAN"
 msgstr "Rowan"
