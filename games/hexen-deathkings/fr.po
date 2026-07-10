@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-08 17:01+0000\n"
+"PO-Revision-Date: 2026-07-08 19:04+0000\n"
 "Last-Translator: Tapwave <kolb.rodrigue@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/doom-engine-games/hexen-deathkings/fr/>\n"
 "Language: fr\n"
@@ -295,7 +295,7 @@ msgid "TXT_ACS_MAP51_18_DONTT"
 msgstr "Ne touche pas mon gloppy"
 
 msgid "TXT_ACS_MAP51_22_FILMI"
-msgstr "Un film dans une heure?"
+msgstr "Un film dans une heure ?"
 
 msgid "TXT_ACS_MAP51_23_IDONT"
 msgstr "J'ai même pas le droit à ma propre tombe - cf"
@@ -307,10 +307,10 @@ msgid "TXT_ACS_MAP51_25_LETNO"
 msgstr "Qu'aucune main de se lève avec colère"
 
 msgid "TXT_ACS_MAP52_9_WHODA"
-msgstr "Qui ose troubler notre sommeil?"
+msgstr "Qui ose troubler notre sommeil ?"
 
 msgid "TXT_ACS_MAP52_10_THEWA"
-msgstr "Le chemin est ouvert."
+msgstr "Le chemin est ouvert"
 
 msgid "TXT_ACS_MAP53_2_YOUHA"
 msgstr "Vous avez "
@@ -342,19 +342,19 @@ msgid "TXT_ACS_MAP54_9_ADOOR"
 msgstr "Une porte est ouverte"
 
 msgid "TXT_ACS_MAP54_10_ONTHE"
-msgstr "dans la chapelle."
+msgstr "dans la Chapelle"
 
 msgid "TXT_ACS_MAP54_11_ABRID"
 msgstr "Une pont a été construit"
 
 msgid "TXT_ACS_MAP54_12_ONTHE"
-msgstr "dans l'abbatoir."
+msgstr "dans l'Abbatoir."
 
 msgid "TXT_ACS_MAP54_13_ASTAI"
 msgstr "Un escalier a été construit"
 
 msgid "TXT_ACS_MAP54_14_ONTHE"
-msgstr "dans la Garde Noire."
+msgstr "dans la Garde Noire"
 
 msgid "TXT_ACS_MAP54_15_ONEGE"
 msgstr "Un engrenage a été placé"
@@ -366,7 +366,7 @@ msgid "TXT_ACS_MAP54_17_ABARR"
 msgstr "Une barricade s'est ouverte"
 
 msgid "TXT_ACS_MAP54_18_ONTHE"
-msgstr "dans le cloaque"
+msgstr "dans le Cloaque"
 
 msgid "TXT_ACS_MAP54_20_THEWA"
 msgstr "Un chemin s'est ouvert"
@@ -378,10 +378,10 @@ msgid "TXT_ACS_MAP56_0_YOUDA"
 msgstr "Vous osez piller la tombe"
 
 msgid "TXT_ACS_MAP56_1_OFTHE"
-msgstr "du bourreau?"
+msgstr "du bourreau ?"
 
 msgid "TXT_ACS_MAP56_2_PREPA"
-msgstr "Préparez vous à mourir!"
+msgstr "Préparez vous à mourir"
 
 msgid "TXT_ACS_MAP59_1_YOUHA"
 msgstr "Vous avez "
@@ -396,10 +396,10 @@ msgid "TXT_ACS_MAP59_4_SWITC"
 msgstr "\\x20bouton a trouver"
 
 msgid "TXT_ACS_MAP59_5_THEWA"
-msgstr "Le chemin vers la tour est ouvert."
+msgstr "Le chemin vers la tour est ouvert"
 
 msgid "TXT_ACS_MAP60_3_THEWA"
-msgstr "Le chemin est ouvert."
+msgstr "Le chemin est ouvert"
 
 msgid "TXT_HEXDD_MAP33"
 msgstr "Transit"
@@ -409,3 +409,6 @@ msgstr "Vorpal ?!?!?!"
 
 msgid "TXT_ACS_MAP51_20_GIMME"
 msgstr "Gimme some sugar, baby"
+
+msgid "TXT_ACS_MAP51_21_DUHUH"
+msgstr "Duh-uhhh…"
