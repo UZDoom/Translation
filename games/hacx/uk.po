@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-11 12:01+0000\n"
+"PO-Revision-Date: 2026-07-11 14:01+0000\n"
 "Last-Translator: Ron Dallas <Lot_bohdan@ukr.net>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/doom-engine-games/hacx-filter/uk/>\n"
 "Language: uk\n"
@@ -187,177 +187,182 @@ msgid "OB_MPKICK"
 msgstr "%o злови@[adj_1_ua] лицем коронний кік Брюса Лі від %k."
 
 msgid "OB_MPREZNATOR"
-msgstr ""
+msgstr "%o розпа@[adj_2_ua] на шматки від шокуючого викриття %k."
 
 msgid "OB_MPXPISTOL"
-msgstr ""
+msgstr "%o злови@[adj_1_ua] подвійну дозу звиздюлів від %k."
 
 msgid "OB_MPTAZER"
-msgstr ""
+msgstr "%o було вимкнуто шокером %k."
 
 msgid "OB_MPCRYOGUN"
-msgstr ""
+msgstr "%o впійма@[adj_1_ua] обличчям крижаний гнів %k."
 
 msgid "OB_MPUZI"
-msgstr ""
+msgstr "%o отрима@[adj_1_ua] гангстерський привіт від %k у вигляді десятка дірок."
 
 msgid "OB_MPZOOKA"
-msgstr ""
+msgstr "%o поласува@[adj_1_ua] фотонною бомбою %k."
 
 msgid "OB_MPZ_SPLASH"
-msgstr ""
+msgstr "Від %o залишилася акуратна купка фотонів завдяки %k."
 
 # Physically this is utter nonsense, of course.
 msgid "OB_MPANTIGUN"
-msgstr ""
+msgstr "%o було розкладено %k на антиматерію."
 
 msgid "OB_MPNUKE"
-msgstr ""
+msgstr "%o захава@[adj_1_ua] нюку %k."
 
+#, fuzzy
 msgid "OB_MPNUKESPLASH"
-msgstr ""
+msgstr "Під час кривавої різні %k було проведено ядерну реакцію %o."
 
 msgctxt "doom hacx.hacx1"
 msgid "OB_MPTELEFRAG"
-msgstr ""
+msgstr "%o показа@[adj_1_ua] усім свій внутрішній світ завдяки %k."
 
 msgctxt "doom hacx.hacx1"
 msgid "OB_MONTELEFRAG"
-msgstr ""
+msgstr "Атомна структура %o була примусово розчеплена."
 
 msgctxt "doom hacx.hacx1"
 msgid "OB_DEFAULT"
-msgstr ""
+msgstr "Строк придатності %o неочікувано закінчився."
 
 msgid "GOTNUKER"
-msgstr ""
+msgstr "Взято НЮКЕР! Посмокчіть-но це!"
 
 msgid "GOTUZI"
-msgstr ""
+msgstr "Взято УЗІ!!"
 
 msgid "GOTREZNATOR"
-msgstr ""
+msgstr "Резонатор HOIG - ЗАЖАР трохи задниць"
 
 msgid "GOTPHOTONZOOKA"
-msgstr ""
+msgstr "Взято Фотоно-зуку!"
 
 msgid "GOTBIGSTICK"
-msgstr ""
+msgstr "Ти тягаєш Велику Палицю!"
 
 msgid "GOTTAZER"
-msgstr ""
+msgstr "Взято Тейзер!"
 
+#, fuzzy
 msgid "GOTCRYOGUN"
-msgstr ""
+msgstr "Взято Кріоствол! ЗАМЕРЗНИ!"
 
 msgid "GOTROUNDS"
-msgstr ""
+msgstr "Взято трохи набоїв!"
 
 msgid "GOTROUNDSCASE"
-msgstr ""
+msgstr "Взято коробку набоїв!"
 
 # Was "grap" for some reason.
 msgid "GOTTORPEDO"
-msgstr ""
+msgstr "Взято торпеду!"
 
 msgid "GOTTORPEDOS"
-msgstr ""
+msgstr "Взято коробку торпед!"
 
 msgid "GOTMOLECULES"
-msgstr ""
+msgstr "Взято молекулярний модуль!"
 
 msgid "GOTMOLECULESTANK"
-msgstr ""
+msgstr "Взято резервуар з молекулами!"
 
 msgid "GOTCARTRIDGES"
-msgstr ""
+msgstr "Взято трохи картриджів!"
 
 msgid "GOTCARTRIDGESCASE"
-msgstr ""
+msgstr "Взято коробку картриджів!"
 
 msgid "GOTVALISE"
-msgstr ""
+msgstr "Взято валізу, забиту добром!"
 
 msgid "GOTFORCEFIELD"
-msgstr ""
+msgstr "Силове поле!"
 
 msgid "GOTMICROTEL"
-msgstr ""
+msgstr "007Мікротел"
 
+#, fuzzy
 msgid "GOTENKBLIND"
-msgstr ""
+msgstr "Невидимість в EnK-спектрі!"
 
 msgid "GOTRUBBERBOOTS"
-msgstr ""
+msgstr "Вулканізовані гумові чоботи!"
 
+#, fuzzy
 msgid "GOTSIARRAY"
-msgstr ""
+msgstr "SI-масив картографовано!"
 
 msgid "GOTINFRARED"
-msgstr ""
+msgstr "Інфрачервоний візор!"
 
 msgid "GOTINHALER"
-msgstr ""
+msgstr "Вдихни поглибше, інгалятор!"
 
+#, fuzzy
 msgid "GOTHYPONEED"
-msgstr ""
+msgstr "Доза гідергіну з гіпошприца рятує тобі життя!"
 
 msgid "GOTHYPO"
-msgstr ""
+msgstr "Підібрано гіпошприц!"
 
 msgid "GOTKEYCARD"
-msgstr ""
+msgstr "Знайдено ключ-карту!"
 
 msgid "GOTCKEY"
-msgstr ""
+msgstr "Знайдено С-Ключ!"
 
 msgid "GOTPASSWORD"
-msgstr ""
+msgstr "Знайдено пароль!"
 
 msgid "GOTBLUEZKEY"
-msgstr ""
+msgstr "Знайдено синій Z-ключ!"
 
 msgid "GOTYELWZKEY"
-msgstr ""
+msgstr "Знайдено жовтий Z-ключ!"
 
 msgid "GOTREDZKEY"
-msgstr ""
+msgstr "Знайдено червоний Z-ключ!"
 
 msgid "GOTBODYARMOR"
-msgstr ""
+msgstr "Бронекостюм!"
 
 msgid "GOTCENTROPHENOXINE"
-msgstr ""
+msgstr "Центрофеноксин"
 
 msgid "GOTKEVLARVEST"
-msgstr ""
+msgstr "Взято кевларовий жилет!"
 
 msgid "GOTSKEVLARVEST"
-msgstr ""
+msgstr "Взято супер-кевларовий жилет!"
 
 msgid "GOTMICROKIT"
-msgstr ""
+msgstr "Взято мікроаптечку!"
 
 msgid "GOTDAMPENER"
-msgstr ""
+msgstr "Взято шкодопоглинач!"
 
 msgid "PD_CKEY"
-msgstr ""
+msgstr "Тобі потрібен С-Ключ, щоб отримати доступ до цього предмету!"
 
 msgid "PD_KEYCARD"
-msgstr ""
+msgstr "Тобі потрібна ключ-карта, щоб отримати доступ до цього предмету!"
 
 msgid "PD_PASSWORD"
-msgstr ""
+msgstr "Тобі потрібен пароль, щоб отримати доступ до цього предмету!"
 
 msgid "PD_BLUEZKEY"
-msgstr ""
+msgstr "Тобі потрібен синій Z-ключ, щоб це запрацювало"
 
 msgid "PD_REDZKEY"
-msgstr ""
+msgstr "Тобі потрібен червоний Z-ключ, щоб це запрацювало!"
 
 msgid "PD_YELWZKEY"
-msgstr ""
+msgstr "Тобі потрібен жовтий Z-ключ, щоб це запрацювало!"
 
 msgid "X1TEXT"
 msgstr ""
@@ -372,84 +377,86 @@ msgid "X5TEXT"
 msgstr ""
 
 msgid "TXT_HACXMAP01"
-msgstr ""
+msgstr "GenEmp корп."
 
 msgid "TXT_HACXMAP02"
-msgstr ""
+msgstr "Тунельне місто"
 
+#, fuzzy
 msgid "TXT_HACXMAP03"
-msgstr ""
+msgstr "Лавова підстанція"
 
 msgid "TXT_HACXMAP04"
-msgstr ""
+msgstr "Алькатрас"
 
 msgid "TXT_HACXMAP05"
-msgstr ""
+msgstr "Кібер-цирк"
 
 msgid "TXT_HACXMAP06"
-msgstr ""
+msgstr "Цифро-Ота"
 
 msgid "TXT_HACXMAP07"
-msgstr ""
+msgstr "Велика стіна"
 
 msgid "TXT_HACXMAP08"
-msgstr ""
+msgstr "Сад насолод"
 
 msgid "TXT_HACXMAP09"
-msgstr ""
+msgstr "Прихована фортеця"
 
 msgid "TXT_HACXMAP10"
-msgstr ""
+msgstr "Мрія анархіста"
 
 msgid "TXT_HACXMAP11"
-msgstr ""
+msgstr "(Не) відомі нам!"
 
 msgid "TXT_HACXMAP12"
-msgstr ""
+msgstr "Готична рукавиця"
 
 msgid "TXT_HACXMAP13"
-msgstr ""
+msgstr "Каналізації"
 
 msgid "TXT_HACXMAP14"
-msgstr ""
+msgstr "Тродо-війни"
 
 msgid "TXT_HACXMAP15"
-msgstr ""
+msgstr "Сутінки Енка"
 
+#, fuzzy
 msgid "TXT_HACXMAP16"
-msgstr ""
+msgstr "Адаптивний кібер-комплекс"
 
 msgid "TXT_HACXMAP17"
-msgstr ""
+msgstr "Ріка крові"
 
 msgid "TXT_HACXMAP18"
-msgstr ""
+msgstr "Бізарро"
 
 msgid "TXT_HACXMAP19"
-msgstr ""
+msgstr "Кімнати війни"
 
 msgid "TXT_HACXMAP20"
-msgstr ""
+msgstr "Увага! Порушник!"
 
 msgid "TXT_HACXMAP31"
-msgstr ""
+msgstr "Осушувальна камера"
 
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_CLEV"
-msgstr ""
+msgstr "Прибуття до…"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_CHOPPERS"
-msgstr ""
+msgstr "…підсмажить твій зад!"
 
 # Hacx's content here was totally useless so it got removed. However, this
 # string has to be defined and minimally altered so that the Dehacked
 # replacement is not being triggered.
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_BEHOLD"
-msgstr ""
+msgstr "(V)безсм., (S)берс., (I)невид., (R)кост., (A)карта, чи (L)нічне бач.?"
 
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_BEHOLDX"
