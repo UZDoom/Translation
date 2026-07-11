@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-04 14:57+0000\n"
+"PO-Revision-Date: 2026-07-11 17:55+0000\n"
 "Last-Translator: Automatic translation add-on <noreply-addon-autotranslate@weblate.org>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/ar/>\n"
 "Language: ar\n"
@@ -2745,7 +2745,7 @@ msgid "MNU_INFO"
 msgstr ""
 
 msgid "MNU_QUITGAME"
-msgstr ""
+msgstr "الخروج من اللعبة"
 
 msgid "MNU_CHOOSESKILL"
 msgstr ""
@@ -3814,7 +3814,7 @@ msgid "MISCMNU_INTERSCROLL"
 msgstr ""
 
 msgid "NETMNU_TITLE"
-msgstr ""
+msgstr "إعدادات الشبكة"
 
 msgid "NETMNU_LOCALOPTIONS"
 msgstr ""
@@ -3880,7 +3880,7 @@ msgid "OPTVAL_ITEMS"
 msgstr ""
 
 msgid "OPTVAL_WEAPONS"
-msgstr ""
+msgstr "الأسلحة"
 
 msgid "OPTVAL_BOTH"
 msgstr ""
@@ -4798,7 +4798,7 @@ msgid "HAPMNU_OPT_WORLD"
 msgstr ""
 
 msgid "PAUSE_STRING"
-msgstr ""
+msgstr "إيقاف مؤقت"
 
 msgid "TAG_BACKPACK"
 msgstr ""
