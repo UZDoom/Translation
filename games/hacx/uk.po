@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-11 10:01+0000\n"
+"PO-Revision-Date: 2026-07-11 12:01+0000\n"
 "Last-Translator: Ron Dallas <Lot_bohdan@ukr.net>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/doom-engine-games/hacx-filter/uk/>\n"
 "Language: uk\n"
@@ -132,59 +132,59 @@ msgid "OB_ANDROID"
 msgstr "%o підімкну@[adj_2_ua] до хибної системи."
 
 msgid "OB_MONSTRUCT"
-msgstr ""
+msgstr "%o отрима@[adj_1_ua] нефігових кібер-звиздюлів."
 
 msgid "OB_ICE"
-msgstr ""
+msgstr "%o злови@[adj_1_ua] кабіною ЛІД."
 
 msgid "OB_BUZZER"
-msgstr ""
+msgstr "%o чуть торкнуло струмом."
 
 msgid "OB_STEALTH"
-msgstr ""
+msgstr "%o відкриває для себе доволі шокуючий поворот."
 
 msgid "OB_DMAN"
-msgstr ""
+msgstr "%o видалено з кіберпростору."
 
 msgid "OB_GLASS"
-msgstr ""
+msgstr "%o проби@[adj_1_ua] власну скляну щелепу."
 
 msgid "OB_MANIAC"
-msgstr ""
+msgstr "Життєве членство %o було припинено."
 
 msgid "OB_MANIACHIT"
-msgstr ""
+msgstr "Рушій гри не зрозумів, від чого помер@[adj_3_ua] %o."
 
 msgid "OB_TERMIN"
-msgstr ""
+msgstr "Фатальна бестія спопелила %o."
 
 # This text is not gender neutral, obviously...
 msgid "OB_TERMINHIT"
-msgstr ""
+msgstr "%o підійшо@[adj_1_ua] занадто близько до протилежної статі."
 
 msgid "OB_REPLI"
-msgstr ""
+msgstr "%o попроща@[adj_2_ua] зі старим другом."
 
 msgid "OB_REPLIHIT"
-msgstr ""
+msgstr "%o зрадив старий друг."
 
 msgid "OB_PHAGE"
-msgstr ""
+msgstr "Природний відбір викреслив %o з себе."
 
 msgid "OB_THORN"
-msgstr ""
+msgstr "%o не уник@[adj_3_ua] колючої смерті."
 
 msgid "OB_SUMATIC"
-msgstr ""
+msgstr "%o дізна@[adj_2_ua], як б'ють сумоїсти... і куди саме."
 
 msgid "OB_GENIE"
-msgstr ""
+msgstr "%o не викона@[adj_1_ua] три бажання %p."
 
 msgid "OB_MINE"
-msgstr ""
+msgstr "%o не вдалось погладити міну."
 
 msgid "OB_MPKICK"
-msgstr ""
+msgstr "%o злови@[adj_1_ua] лицем коронний кік Брюса Лі від %k."
 
 msgid "OB_MPREZNATOR"
 msgstr ""
