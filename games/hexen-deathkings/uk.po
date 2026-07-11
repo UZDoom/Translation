@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-09 21:01+0000\n"
+"PO-Revision-Date: 2026-07-11 08:01+0000\n"
 "Last-Translator: Ron Dallas <Lot_bohdan@ukr.net>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/doom-engine-games/hexen-deathkings/uk/>\n"
 "Language: uk\n"
@@ -55,3 +55,205 @@ msgstr "Зброярня"
 
 msgid "TXT_HEXDD_MAP54"
 msgstr "Неф"
+
+msgid "TXT_HEXDD_MAP55"
+msgstr "Каплиця"
+
+msgid "TXT_HEXDD_MAP56"
+msgstr "Різниця"
+
+msgid "TXT_HEXDD_MAP57"
+msgstr "Темна варта"
+
+msgid "TXT_HEXDD_MAP58"
+msgstr "Клоака"
+
+msgid "TXT_HEXDD_MAP59"
+msgstr "Морозна твердиня"
+
+msgid "TXT_HEXDD_MAP60"
+msgstr "Темна Цитадель"
+
+msgid "TXT_HEXDD_MAP33"
+msgstr "Перехід"
+
+msgid "TXT_HEXDD_MAP34"
+msgstr "Над і Під"
+
+msgid "TXT_HEXDD_MAP35"
+msgstr "Смертельна мла"
+
+msgid "TXT_HEXDD_MAP36"
+msgstr "Фортеця болю"
+
+msgid "TXT_HEXDD_MAP37"
+msgstr "Стічна яма"
+
+msgid "TXT_HEXDD_MAP38"
+msgstr "Роза"
+
+msgid "TXT_ACS_MAP33_6_YOUDA"
+msgstr "Ти наважився на бій у залі очікування?"
+
+msgid "TXT_ACS_MAP33_7_FORTH"
+msgstr "За це ти помреш!"
+
+msgid "TXT_ACS_MAP41_6_THEWA"
+msgstr "Водоспад відкрився"
+
+msgid "TXT_ACS_MAP41_7_THEWA"
+msgstr "Водоспад заблоковано"
+
+msgid "TXT_ACS_MAP41_8_ADOOR"
+msgstr "Двері відкрились в каплиці"
+
+msgid "TXT_ACS_MAP42_4_NOWTH"
+msgstr "Хмм, а от це вже дивно…"
+
+msgid "TXT_ACS_MAP44_1_THREE"
+msgstr "Залишилось ще три частини пазла"
+
+msgid "TXT_ACS_MAP44_2_TWOMO"
+msgstr "Залишилось ще від частини пазла"
+
+msgid "TXT_ACS_MAP44_3_ONEMO"
+msgstr "Залишилась ще одна частина пазла"
+
+msgid "TXT_ACS_MAP44_4_THEPU"
+msgstr "Пазл зібрано"
+
+msgid "TXT_ACS_MAP44_6_YOUHA"
+msgstr "Тобою ще не завершено пазл"
+
+msgid "TXT_ACS_MAP44_8_THEFL"
+msgstr "Підлога небезпечна!"
+
+msgid "TXT_ACS_MAP44_10_ONETH"
+msgstr "Одна третя пазла вирішена"
+
+msgid "TXT_ACS_MAP44_11_TWOTH"
+msgstr "Дві третіх пазла вирішено"
+
+msgid "TXT_ACS_MAP45_1_YOUHE"
+msgstr "Ти чуєш, як десь удалині рухається платформа"
+
+msgid "TXT_ACS_MAP46_0_ITISD"
+msgstr "Готово…"
+
+msgid "TXT_ACS_MAP46_1_YOUHA"
+msgstr "Тобою ще не завершено пазл"
+
+msgid "TXT_ACS_MAP46_2_IMWAR"
+msgstr "Я попереджаю тебе…"
+
+msgid "TXT_ACS_MAP46_3_STUBB"
+msgstr "Які ми вперті, треба ж...?"
+
+msgid "TXT_ACS_MAP46_4_ANDST"
+msgstr "І дурні, також"
+
+msgid "TXT_ACS_MAP46_8_ONEFO"
+msgstr "Одна четверта пазла вирішена"
+
+msgid "TXT_ACS_MAP46_9_BADCH"
+msgstr "Поганий вибір…"
+
+msgid "TXT_ACS_MAP47_2_THESY"
+msgstr "Ці символи не вирівняні"
+
+msgid "TXT_ACS_MAP48_2_THEDO"
+msgstr "Ці двері не відкриються з цієї сторони"
+
+msgid "TXT_ACS_MAP50_1_THEDO"
+msgstr "Двері перекриті ззовні"
+
+msgid "TXT_ACS_MAP51_5_SACRI"
+msgstr "Святотатство !"
+
+msgid "TXT_ACS_MAP51_6_YOUHA"
+msgstr "Тобою осквернено гробницю Еріка !!"
+
+msgid "TXT_ACS_MAP51_7_ANDNO"
+msgstr "Тепер ти помреш !!!"
+
+msgid "TXT_ACS_MAP51_8_ONETH"
+msgstr "Одна третя пазла вирішена"
+
+msgid "TXT_ACS_MAP51_9_TWOTH"
+msgstr "Дві третіх пазла вирішено"
+
+msgid "TXT_ACS_MAP51_10_THECR"
+msgstr "Крипти відкриті"
+
+msgid "TXT_ACS_MAP51_11_BEWAR"
+msgstr "Стережися павучої гробниці"
+
+msgid "TXT_ACS_MAP51_13_YOUHE"
+msgstr "Назовні чути, як піднімається платформа"
+
+msgid "TXT_ACS_MAP51_14_DOYOU"
+msgstr "Сподіваєшся на удачу?"
+
+msgid "TXT_ACS_MAP51_15_YOUGU"
+msgstr "Провал!"
+
+msgid "TXT_ACS_MAP51_16_GOODG"
+msgstr "Гарна здогадка"
+
+msgid "TXT_ACS_MAP51_17_CANYO"
+msgstr "Чи можете ви повністю написати скрипти для моєї карти?"
+
+msgid "TXT_ACS_MAP51_18_DONTT"
+msgstr "Не чіпай мого смаколика"
+
+msgid "TXT_ACS_MAP51_19_VORPA"
+msgstr "Гостряцький ?!?!?!"
+
+msgid "TXT_ACS_MAP51_20_GIMME"
+msgstr "Дай-но мені солоденького, крихітко"
+
+msgid "TXT_ACS_MAP51_21_DUHUH"
+msgstr "Припустимо…"
+
+msgid "TXT_ACS_MAP51_22_FILMI"
+msgstr "Фільм за годину?"
+
+#, fuzzy
+msgid "TXT_ACS_MAP51_23_IDONT"
+msgstr "У мене навіть надгробка немає - К.Ф."
+
+msgid "TXT_ACS_MAP51_24_LETNO"
+msgstr "Не пролий крові"
+
+msgid "TXT_ACS_MAP51_25_LETNO"
+msgstr "Не підніми руки в гніві"
+
+msgid "TXT_ACS_MAP52_9_WHODA"
+msgstr "Хто сміє тривожити наш сон?"
+
+msgid "TXT_ACS_MAP52_10_THEWA"
+msgstr "Шлях відкритий"
+
+msgid "TXT_ACS_MAP53_2_YOUHA"
+msgstr "Залишилось "
+
+msgid "TXT_ACS_MAP53_3_SWITC"
+msgstr "\\x20перемикачів"
+
+msgid "TXT_ACS_MAP53_4_YOUHA"
+msgstr "Залишилось тільки "
+
+msgid "TXT_ACS_MAP53_5_SWITC"
+msgstr "\\x20перемикачів"
+
+msgid "TXT_ACS_MAP53_6_THEEX"
+msgstr "Вихід відкрито"
+
+msgid "TXT_ACS_MAP54_1_THEDO"
+msgstr "Двері не відкриються з цієї сторони"
+
+msgid "TXT_ACS_MAP54_4_THEDO"
+msgstr "Двері відчинено…"
+
+msgid "TXT_ACS_MAP54_5_IFYOU"
+msgstr "...якщо наважишся"
