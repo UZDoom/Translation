@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-12 12:01+0000\n"
+"PO-Revision-Date: 2026-07-12 16:01+0000\n"
 "Last-Translator: Ron Dallas <Lot_bohdan@ukr.net>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/doom-engine-games/strife/uk/>\n"
 "Language: uk\n"
@@ -424,3 +424,7 @@ msgstr "Чого бажаєш?"
 
 msgid "TXT_RYES1_SCRIPT02_D16676_THANK"
 msgstr "Дякую, щось ще?"
+
+#, fuzzy
+msgid "TXT_RNO1_SCRIPT02_D16676_YOUCA"
+msgstr "Тобі це не по кишені, приємного дня!"
