@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-08 19:04+0000\n"
+"PO-Revision-Date: 2026-07-10 09:01+0000\n"
 "Last-Translator: Tapwave <kolb.rodrigue@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/doom-engine-games/hexen-deathkings/fr/>\n"
 "Language: fr\n"
@@ -120,7 +120,7 @@ msgstr ""
 "Mais ce qu'il s'est passé avant\n"
 "ne peut être qu'une pâle imitation\n"
 "de ce qui vous barre le passage\n"
-"maintenant: La Citadelle Sombre.\n"
+"maintenant : La Citadelle Sombre.\n"
 "\n"
 "La vaste silhouette lugubre de la\n"
 "cathédrale bloque tout sauf le\n"
@@ -171,7 +171,6 @@ msgstr ""
 "Mais vous n'êtes pas le type de\n"
 "personne à avoir peur d'un défi…"
 
-#, fuzzy
 msgid "TXT_HEXDD_WIN3MSG"
 msgstr ""
 "\\n...Et d'autres joueurs attendent.\n"
@@ -222,16 +221,14 @@ msgstr "Deux tiers du puzzle ont été résolus"
 msgid "TXT_ACS_MAP45_1_YOUHE"
 msgstr "Vous entendez une plateforme se déplacer au loin"
 
-#, fuzzy
 msgid "TXT_ACS_MAP46_0_ITISD"
-msgstr "C'est terminé..."
+msgstr "C'est terminé…"
 
 msgid "TXT_ACS_MAP46_1_YOUHA"
 msgstr "Vous n'avez pas résolu le puzzle"
 
-#, fuzzy
 msgid "TXT_ACS_MAP46_2_IMWAR"
-msgstr "Je vous avertis..."
+msgstr "Je vous avertis…"
 
 msgid "TXT_ACS_MAP46_3_STUBB"
 msgstr "Obstiné, n'est-ce pas ?"
@@ -242,9 +239,8 @@ msgstr "Et stupide, aussi"
 msgid "TXT_ACS_MAP46_8_ONEFO"
 msgstr "Un quart du puzzle à été résolu"
 
-#, fuzzy
 msgid "TXT_ACS_MAP46_9_BADCH"
-msgstr "Mauvaise décision..."
+msgstr "Mauvaise décision…"
 
 msgid "TXT_ACS_MAP47_2_THESY"
 msgstr "Les symboles ne sont pas alignés"
@@ -330,11 +326,9 @@ msgstr "La sortie est ouverte"
 msgid "TXT_ACS_MAP54_1_THEDO"
 msgstr "Les portes ne s'ouvrent pas de ce côté"
 
-#, fuzzy
 msgid "TXT_ACS_MAP54_4_THEDO"
-msgstr "Les portes sont ouvertes..."
+msgstr "Les portes sont ouvertes…"
 
-#, fuzzy
 msgid "TXT_ACS_MAP54_5_IFYOU"
 msgstr "...si vous êtes prêt."
 
