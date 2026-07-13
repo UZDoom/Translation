@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-06 15:01+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-07-13 11:01+0000\n"
+"Last-Translator: Madoc <madocdoyu@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -2782,7 +2782,6 @@ msgstr "Großartige Arbeit!"
 msgid "CE4TEXT"
 msgstr "Fantastisch"
 
-#, fuzzy
 msgid "CLOADNET"
 msgstr ""
 "Du kannst während einer Netzwerkquest keinen Spielstand laden.\n"
@@ -5410,3 +5409,121 @@ msgstr "Automatisch (ZDoom bevorzugt)"
 
 msgid "OPTVAL_VTAVANILLA"
 msgstr "Automatisch (Vanilla bevorzugt)"
+
+msgid "UPDATER_CHECK_FOR_UPDATES"
+msgstr "Nach Aktualisierung suchen"
+
+msgid "UPDATER_PROMPT_TO_INSTALL"
+msgstr "Installations-Aufforderung"
+
+msgid "UPDATER_SETTINGS"
+msgstr "Aktualisierungseinstellungen"
+
+msgid "UPDATER_INTERVAL"
+msgstr "Überprüfen alle:"
+
+msgid "UPDATER_UPDATE_AVAILABLE"
+msgstr "Aktualisierung verfügbar"
+
+msgid "UPDATER_UPDATE_SKIP"
+msgstr "Überspringen"
+
+msgid "UPDATER_TITLE"
+msgstr "Automatische Aktualisierung"
+
+msgid "UPDATER_DISABLE"
+msgstr "Automatische Aktualisierung deaktivieren"
+
+msgid "UPDATER_CHECK_FAILED"
+msgstr "Prüfung auf Aktualisierung fehlgeschlagen"
+
+msgid "UPDATER_UPDATE_FAILED"
+msgstr "Aktualisierung fehlgeschlagen"
+
+msgid "UPDATER_YES_PROMPT"
+msgstr "Ja, und vor Aktualisierung nachfragen"
+
+msgid "UPDATER_DISMISS_UPDATE"
+msgstr "Aktualisierung ablehnen?"
+
+msgid "UPDATER_ASK_AUTO"
+msgstr ""
+"Automatisch nach Aktualisierungen suchen?\n"
+"(kann später im Options-Reiter geändert werden)"
+
+msgid "UPDATER_ASK_INTERVAL"
+msgstr ""
+"Wie oft soll nach Aktualisierungen gesucht werden?\n"
+"(kann später im Options-Reiter geändert werden)"
+
+msgid "UPDATER_ZIP_FAIL"
+msgstr "Zip-Datei konnte nicht gelesen werden"
+
+msgid "UPDATER_ZIP_ERROR"
+msgstr "Fehler beim Entpacken der Zip-Datei: '{}' in Datei '{}'"
+
+msgid "UPDATER_UPDATING"
+msgstr "Aktualisierung..."
+
+msgid "UPDATER_STARTING"
+msgstr "Download wird gestartet..."
+
+msgid "UPDATER_SUCCESS"
+msgstr "Aktualisierung erfolgreich, der Launcher startet jetzt neu."
+
+msgid "UPDATER_UP_TO_DATE"
+msgstr "Aktuell!"
+
+msgid "UPDATER_CANCELLED"
+msgstr "Aktualisierung abgebrochen"
+
+msgid "UPDATER_INVALID_JSON"
+msgstr "Ungültiges Update-JSON"
+
+msgid "UPDATER_NOT_A_DIR"
+msgstr "'{}' ist kein Dateiordner"
+
+msgid "OPTVAL_DISABLE"
+msgstr "Deaktivieren"
+
+msgid "OPTVAL_NOTIFY"
+msgstr "Benachrichtigen"
+
+msgid "OPTVAL_DAILY"
+msgstr "Täglich"
+
+msgid "OPTVAL_WEEKLY"
+msgstr "Wöchentlich"
+
+msgid "OPTVAL_MONTHLY"
+msgstr "Monatlich"
+
+msgid "TXT_DOWNLOADING"
+msgstr "Herunterladen"
+
+msgid "TXT_EXPERIMENTAL"
+msgstr "Experimentell"
+
+msgid "TXT_UPDATE"
+msgstr "Aktualisierung"
+
+msgid "TXT_UPDATED"
+msgstr "Aktualisiert"
+
+msgid "TXT_CANCELLED"
+msgstr "Abgebrochen"
+
+msgid "TXT_BACK"
+msgstr "Zurück"
+
+msgid "TXT_DISMISS"
+msgstr "Ablehnen"
+
+msgid "TXT_SKIP"
+msgstr "Überspringen"
+
+msgid "TXT_CONFIRM"
+msgstr "Bestätigen"
+
+msgid "TXT_OK"
+msgstr "OK"
