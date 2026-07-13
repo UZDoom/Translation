@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-13 19:01+0000\n"
+"PO-Revision-Date: 2026-07-13 21:01+0000\n"
 "Last-Translator: Ron Dallas <Lot_bohdan@ukr.net>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/uk/>\n"
 "Language: uk\n"
@@ -5359,11 +5359,10 @@ msgid "OPTVAL_ROCKETEXP_STYLE_ADD"
 msgstr "Адаптивний"
 
 msgid "OPTVAL_LAX"
-msgstr "Вільний"
+msgstr "Гнучкий"
 
-#, fuzzy
 msgid "OPTVAL_STRICT"
-msgstr "Суворий"
+msgstr "Точний"
 
 #, fuzzy
 msgid "DSPLYMNU_BLACKPOINT"
@@ -5442,3 +5441,122 @@ msgstr "Час між послідовними натисканнями для �
 
 msgid "UPDATER_CHECK_FOR_UPDATES"
 msgstr "Перевірка оновлень"
+
+msgid "UPDATER_SETTINGS"
+msgstr "Налаштування оновлювача"
+
+msgid "UPDATER_PROMPT_TO_INSTALL"
+msgstr "Пропонувати встановлення"
+
+msgid "UPDATER_INTERVAL"
+msgstr "Перевіряти кожен:"
+
+msgid "UPDATER_UPDATE_AVAILABLE"
+msgstr "Доступно нове оновлення"
+
+msgid "UPDATER_UPDATE_SKIP"
+msgstr "Пропустити оновлення"
+
+msgid "UPDATER_TITLE"
+msgstr "Шукач оновлень"
+
+msgid "UPDATER_DISABLE"
+msgstr "Вимкнути шукач оновлень"
+
+msgid "UPDATER_CHECK_FAILED"
+msgstr "Не вдалось перевірити оновлення"
+
+msgid "UPDATER_UPDATE_FAILED"
+msgstr "Не вдалося оновити"
+
+msgid "UPDATER_YES_PROMPT"
+msgstr "Так і пропонувати встановлювати оновлення"
+
+msgid "UPDATER_DISMISS_UPDATE"
+msgstr "Відхилити оновлення?"
+
+msgid "UPDATER_ASK_AUTO"
+msgstr ""
+"Чи бажаєте ви автоматично перевіряти наявність оновлень?\n"
+"(це можна змінити пізніше на вкладці налаштувань)"
+
+msgid "UPDATER_ASK_INTERVAL"
+msgstr ""
+"Як часто ви хочете перевіряти наявність оновлень?\n"
+"(це можна змінити пізніше на вкладці налаштувань)"
+
+msgid "UPDATER_ZIP_FAIL"
+msgstr "Не вдалось відкрити zip-файл"
+
+msgid "UPDATER_ZIP_ERROR"
+msgstr "Не вдалось розпакувати zip, помилка: '{}' під час запису файлу '{}'"
+
+msgid "UPDATER_UPDATING"
+msgstr "Оновлення..."
+
+msgid "UPDATER_STARTING"
+msgstr "Початок завантаження..."
+
+#, fuzzy
+msgid "UPDATER_SUCCESS"
+msgstr "Оновлення успішне, перезапуск лаунчера."
+
+msgid "UPDATER_UP_TO_DATE"
+msgstr "Остання версія!"
+
+msgid "UPDATER_CANCELLED"
+msgstr "Оновлення було скасовано"
+
+#, fuzzy
+msgid "UPDATER_INVALID_JSON"
+msgstr "Помилка файлу оновлення (JSON)"
+
+#, fuzzy
+msgid "UPDATER_NOT_A_DIR"
+msgstr "Шлях '{}' не веде в папку"
+
+msgid "OPTVAL_DISABLE"
+msgstr "Вимкнути"
+
+msgid "OPTVAL_NOTIFY"
+msgstr "Повідомити"
+
+msgid "OPTVAL_DAILY"
+msgstr "Щодня"
+
+msgid "OPTVAL_WEEKLY"
+msgstr "Щотижня"
+
+msgid "OPTVAL_MONTHLY"
+msgstr "Щомісяця"
+
+msgid "TXT_DOWNLOADING"
+msgstr "Завантаження"
+
+#, fuzzy
+msgid "TXT_EXPERIMENTAL"
+msgstr "Експериментальне"
+
+msgid "TXT_UPDATE"
+msgstr "Оновлення"
+
+msgid "TXT_UPDATED"
+msgstr "Оновлено"
+
+msgid "TXT_CANCELLED"
+msgstr "Скасовано"
+
+msgid "TXT_BACK"
+msgstr "Назад"
+
+msgid "TXT_DISMISS"
+msgstr "Відхилити"
+
+msgid "TXT_SKIP"
+msgstr "Пропустити"
+
+msgid "TXT_CONFIRM"
+msgstr "Підтвердити"
+
+msgid "TXT_OK"
+msgstr "OK"
