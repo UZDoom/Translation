@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-11 17:01+0000\n"
+"PO-Revision-Date: 2026-07-13 19:01+0000\n"
 "Last-Translator: Ron Dallas <Lot_bohdan@ukr.net>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/uk/>\n"
 "Language: uk\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 2026.7.1.dev0\n"
+"X-Generator: Weblate 2026.8.dev0\n"
 
 msgid "PRESSKEY"
 msgstr "Натисніть будь яку клавішу."
@@ -2781,12 +2781,11 @@ msgstr "Чудова робота!"
 msgid "CE4TEXT"
 msgstr "Фантастика"
 
-#, fuzzy
 msgid "CLOADNET"
 msgstr ""
 "Ти не можеш завантажитись під час мережевого квесту!\n"
 "\n"
-"Натисніть будь яку клавішу."
+"Натисни будь яку клавішу."
 
 msgctxt "chex"
 msgid "QSPROMPT"
@@ -5207,7 +5206,7 @@ msgid "OPTVAL_ROCKETEXP_STYLE_TRANS"
 msgstr "Прозорий"
 
 msgid "PICKER_FILELOADING"
-msgstr "Завантаження файлу"
+msgstr "Завантаження файлів"
 
 msgid "DSPLYMNU_IMAGEADJUST"
 msgstr "Калібрування зображення"
@@ -5359,9 +5358,8 @@ msgstr "Аналоговий запуск"
 msgid "OPTVAL_ROCKETEXP_STYLE_ADD"
 msgstr "Адаптивний"
 
-#, fuzzy
 msgid "OPTVAL_LAX"
-msgstr "Розслаблений"
+msgstr "Вільний"
 
 #, fuzzy
 msgid "OPTVAL_STRICT"
@@ -5441,3 +5439,6 @@ msgstr "Поріг подвійного кліку"
 #, fuzzy
 msgid "ACCMNU_TOOLTIP_DOUBLECLICK_THRESHOLD"
 msgstr "Час між послідовними натисканнями для реєстрації подвійного кліку"
+
+msgid "UPDATER_CHECK_FOR_UPDATES"
+msgstr "Перевірка оновлень"
