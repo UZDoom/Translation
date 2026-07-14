@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-06 15:02+0000\n"
+"PO-Revision-Date: 2026-07-13 23:20-0400\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/ro/>\n"
 "Language: ro\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2;\n"
-"X-Generator: Weblate 2026.7.1.dev0\n"
+"X-Generator: python 3.14.6 polib 1.2.0\n"
 
 msgid "PRESSKEY"
 msgstr "Apasă o tastă."
@@ -4531,9 +4531,6 @@ msgstr "Filtru liniar la mărire"
 msgid "TCMNU_MIPMAP"
 msgstr "Aplicați mipmapping"
 
-msgid "TCMNU_DYNLIGHTS"
-msgstr "Lumini Dinamice (Software)"
-
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Afișează mereu cheile"
 
@@ -4570,16 +4567,18 @@ msgstr "Salvarea '%s' este dintr-un alt motor care are ca bază ZDoom:"
 
 msgid "TXT_TOOOLDSG"
 msgstr ""
-"Salvarea '%s' este dintr-o versiune mai veche: %d (%e e cea mai veche suportată)."
+"Salvarea '%s' este dintr-o versiune mai veche: %d (%e e cea mai veche "
+"suportată)."
 
 # Shouldn’t this say “%e is the newest supported”?
-#
+# 
 # — Undead
-#
+# 
 # Ask Randi: The text is old. I won't change it.
 msgid "TXT_TOONEWSG"
 msgstr ""
-"Salvarea '%s' e dintr-o versiune mai nouă: %d (%e este cea mai nouă suportată)."
+"Salvarea '%s' e dintr-o versiune mai nouă: %d (%e este cea mai nouă "
+"suportată)."
 
 msgid "TXT_NOMAPSG"
 msgstr "Salvării '%s' îi lipsește harta actuală."

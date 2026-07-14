@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-06 15:02+0000\n"
+"PO-Revision-Date: 2026-07-13 23:20-0400\n"
 "Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/hr/>\n"
 "Language: hr\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 2026.7.1.dev0\n"
+"X-Generator: python 3.14.6 polib 1.2.0\n"
 
 msgid "PRESSKEY"
 msgstr "Pritisni tipku."
@@ -4531,9 +4531,6 @@ msgstr "Linearni filter prilikom povećanja skale"
 msgid "TCMNU_MIPMAP"
 msgstr "Koristi mipmapirane teksture"
 
-msgid "TCMNU_DYNLIGHTS"
-msgstr "Dinamička svjetla (softver)"
-
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
 msgstr "Uvijek prikaži tipke"
 
@@ -4570,16 +4567,18 @@ msgstr "Spremljena igra '%s' je iz drugog ZDoom engine-a:"
 
 msgid "TXT_TOOOLDSG"
 msgstr ""
-"Spremljena igra '%s' je iz starije verzije: %d (%e je najstarija podržana verzija)."
+"Spremljena igra '%s' je iz starije verzije: %d (%e je najstarija podržana "
+"verzija)."
 
 # Shouldn’t this say “%e is the newest supported”?
-#
+# 
 # — Undead
-#
+# 
 # Ask Randi: The text is old. I won't change it.
 msgid "TXT_TOONEWSG"
 msgstr ""
-"Spremljena igra '%s' je iz novije verzije: %d (%e je najviše podržana verzija)."
+"Spremljena igra '%s' je iz novije verzije: %d (%e je najviše podržana "
+"verzija)."
 
 msgid "TXT_NOMAPSG"
 msgstr "Spremljenoj igri '%s' nedostaje trenutna mapa."
@@ -4800,7 +4799,8 @@ msgstr "Omogući stvari samo za kooperativni način igre u multiplayeru"
 # Items that only appear in co-op are disabled
 msgid "GMPLYMNU_COOPITEMS"
 msgstr ""
-"Omogući prikupljanje predmeta samo u kooperativnom načinu igre za više igrača"
+"Omogući prikupljanje predmeta samo u kooperativnom načinu igre za više "
+"igrača"
 
 # Items are picked up client-side rather than fully taken by the client who
 # picked it up
