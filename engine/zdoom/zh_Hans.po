@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-14 05:01+0000\n"
+"PO-Revision-Date: 2026-07-15 04:01+0000\n"
 "Last-Translator: dwing <12104745@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -4350,9 +4350,8 @@ msgstr "根据纹理排序绘制列表"
 msgid "GLLIGHTMNU_TITLE"
 msgstr "动态光源"
 
-#, fuzzy
 msgid "GLLIGHTMNU_LIGHTSENABLED"
-msgstr "动态光源(硬件)"
+msgstr "动态光源"
 
 msgid "GLLIGHTMNU_LIGHTSPRITES"
 msgstr "光照影响精灵图"
