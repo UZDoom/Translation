@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-15 04:01+0000\n"
-"Last-Translator: dwing <12104745@qq.com>\n"
+"PO-Revision-Date: 2026-07-15 14:01+0000\n"
+"Last-Translator: yhmtxt <yhmtxt@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
@@ -5406,7 +5406,7 @@ msgid "UPDATER_CHECK_FOR_UPDATES"
 msgstr "检查更新"
 
 msgid "UPDATER_SETTINGS"
-msgstr "更新设置"
+msgstr "更新器设置"
 
 msgid "UPDATER_UPDATE_AVAILABLE"
 msgstr "有新的更新可用"
@@ -5427,13 +5427,13 @@ msgid "UPDATER_UPDATE_FAILED"
 msgstr "更新失败"
 
 msgid "UPDATER_PROMPT_TO_INSTALL"
-msgstr "立即安装"
+msgstr "提示安装"
 
 msgid "UPDATER_DISMISS_UPDATE"
 msgstr "无视更新？"
 
 msgid "UPDATER_YES_PROMPT"
-msgstr "是，并立即安装更新"
+msgstr "是，并提示安装更新"
 
 msgid "UPDATER_ZIP_FAIL"
 msgstr "打开zip文件失败"
