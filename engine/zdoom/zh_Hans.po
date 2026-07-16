@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-15 14:01+0000\n"
-"Last-Translator: yhmtxt <yhmtxt@163.com>\n"
+"PO-Revision-Date: 2026-07-16 04:01+0000\n"
+"Last-Translator: dwing <12104745@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
@@ -5432,6 +5432,7 @@ msgstr "提示安装"
 msgid "UPDATER_DISMISS_UPDATE"
 msgstr "无视更新？"
 
+#, fuzzy
 msgid "UPDATER_YES_PROMPT"
 msgstr "是，并提示安装更新"
 
