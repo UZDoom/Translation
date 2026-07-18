@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-14 05:01+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-07-19 00:01+0000\n"
+"Last-Translator: Skyler Shirra <skyler.shirra@gmail.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/eo/>\n"
 "Language: eo\n"
 "MIME-Version: 1.0\n"
@@ -4345,9 +4345,8 @@ msgstr "Ordigi desegnado-listojn laŭ teksturo"
 msgid "GLLIGHTMNU_TITLE"
 msgstr "Dinamikaj lumoj"
 
-#, fuzzy
 msgid "GLLIGHTMNU_LIGHTSENABLED"
-msgstr "Dinamikaj lumoj (Aparataro)"
+msgstr "Dinamikaj lumoj"
 
 msgid "GLLIGHTMNU_LIGHTSPRITES"
 msgstr "Lumoj efikas mov-rastrumojn"
