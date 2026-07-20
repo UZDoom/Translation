@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-14 05:01+0000\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-07-20 19:01+0000\n"
+"Last-Translator: Ron Dallas <Lot_bohdan@ukr.net>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/uk/>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
@@ -4342,9 +4342,8 @@ msgstr "Сортувати списки текстур"
 msgid "GLLIGHTMNU_TITLE"
 msgstr "Динамічне освітлення"
 
-#, fuzzy
 msgid "GLLIGHTMNU_LIGHTSENABLED"
-msgstr "Динамічне освітлення (Апаратний)"
+msgstr "Динамічне освітлення"
 
 msgid "GLLIGHTMNU_LIGHTSPRITES"
 msgstr "Освітлення впливає на спрайти"
