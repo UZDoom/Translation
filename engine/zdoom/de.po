@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-14 05:01+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-07-20 07:01+0000\n"
+"Last-Translator: heiko123abc <heiko1234aaa@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -4341,9 +4341,8 @@ msgstr "Renderlisten nach Textur sortieren"
 msgid "GLLIGHTMNU_TITLE"
 msgstr "Dynamische Lichter"
 
-#, fuzzy
 msgid "GLLIGHTMNU_LIGHTSENABLED"
-msgstr "Dynamische Lichter (Hardware)"
+msgstr "Dynamische Lichter"
 
 msgid "GLLIGHTMNU_LIGHTSPRITES"
 msgstr "Sprites werden beleuchtet"
