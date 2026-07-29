@@ -2,15 +2,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-13 23:20-0400\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-07-29 13:01+0000\n"
+"Last-Translator: Corey Agallow <pomzikfad@gmail.com>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/uzdoom/common/be/>\n"
 "Language: be\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: python 3.14.6 polib 1.2.0\n"
+"X-Generator: Weblate 2026.8.dev0\n"
 
 msgid "PRESSYN"
 msgstr "Націсніце Y або N."
@@ -309,7 +309,7 @@ msgstr "Папярэдні прадмет"
 # most are not used yet but will be
 #, fuzzy
 msgid "MAPCNTRLMNU_TITLE"
-msgstr "Клавішы кіравання аўтакартай"
+msgstr "Кіраванне Аўтакартай"
 
 msgid "MAPCNTRLMNU_CONTROLS"
 msgstr "Аўтакарта"
@@ -493,7 +493,7 @@ msgstr "Уключыце падтрымку кантролера"
 
 # Supposed to be empty in Russian and Serbian.
 msgid "JOYMNU_DISABLED2"
-msgstr ""
+msgstr "немагчыма выявіць любыя"
 
 msgid "JOYMNU_INVALID"
 msgstr "Недапушчальны кантролер абраны для меню"
@@ -801,7 +801,7 @@ msgid "ADVSNDMNU_OPLNUMCHIPS"
 msgstr "Колькасць эмуляваных чыпаў OPL"
 
 msgid "ADVSNDMNU_OPLGAIN"
-msgstr ""
+msgstr "Гучнасць"
 
 msgid "ADVSNDMNU_OPLFULLPAN"
 msgstr "Поўная стэрэапанарама для MIDI"
@@ -870,10 +870,10 @@ msgid "ADVSNDMNU_VLMODEL"
 msgstr "Мадэль гучнасці"
 
 msgid "ADVSNDMNU_CHANALLOC"
-msgstr ""
+msgstr "Метад размеркавання каналаў"
 
 msgid "ADVSNDMNU_AUTOARPEGGIO"
-msgstr ""
+msgstr "Аўтаматычнае арпеджыа"
 
 msgid "ADVSNDMNU_OPNCORES"
 msgstr "Ядро эмуляцыі OPN2"
@@ -1064,13 +1064,13 @@ msgid "ADLVLMODEL_DMX"
 msgstr "DMX (Дакладная, з памылкай АМ)"
 
 msgid "OPNVLMODEL_DMX"
-msgstr ""
+msgstr "Як у DMX"
 
 msgid "ADLVLMODEL_APOGEE"
 msgstr "Apogee (Дакладная, з памылкай АМ)"
 
 msgid "OPNVLMODEL_APOGEE"
-msgstr ""
+msgstr "Як у Apogee Sound System"
 
 msgid "OPNVLMODEL_WIN9X"
 msgstr "Падобная на Win9X"
@@ -1097,7 +1097,7 @@ msgid "ADLVLMODEL_HMIOLD"
 msgstr "HMI SOS (Стары варыянт з памылкамі)"
 
 msgid "ADLCHANALLOC_AUTO"
-msgstr ""
+msgstr "Аўта"
 
 msgid "ADLCHANALLOC_OFFDELAY"
 msgstr ""
@@ -1538,7 +1538,7 @@ msgid "OPTVAL_HQNX"
 msgstr "hqNx"
 
 msgid "OPTVAL_HQNXMMX"
-msgstr ""
+msgstr "hqNx MMX"
 
 msgid "OPTVAL_NXBRZ"
 msgstr "xBRZ"
@@ -1664,33 +1664,33 @@ msgid "OPTVAL_LASTSAVEDTIME"
 msgstr "Час апошняга захавання"
 
 msgid "PICKER_PLAYHOST"
-msgstr ""
+msgstr "Арганізаваць Гульню"
 
 msgid "PICKER_PLAYJOIN"
-msgstr ""
+msgstr "Далучыцца да Гульні"
 
 msgid "PICKER_REMPARM"
-msgstr ""
+msgstr "Пам'ятаць Параметры"
 
 # For stuff like id24.
 msgid "PICKER_SUPPORTWADS"
 msgstr ""
 
 msgid "PICKER_TAB_MULTI"
-msgstr ""
+msgstr "Мульціплеер"
 
 msgid "PICKER_LOADSAVE"
-msgstr ""
+msgstr "Загрузіць Файл Захавання:"
 
 msgid "PICKER_REMSAVE"
-msgstr ""
+msgstr "Пам'ятаць Файл Захавання"
 
 # As in, to host a game.
 msgid "PICKER_HOST"
 msgstr ""
 
 msgid "PICKER_JOIN"
-msgstr ""
+msgstr "Прыяднацца"
 
 msgid "PICKER_NETRATE"
 msgstr ""
@@ -1701,60 +1701,90 @@ msgid "PICKER_NETBACKUP"
 msgstr ""
 
 msgid "PICKER_GAMEMODE"
-msgstr ""
+msgstr "Рэжым Гульні:"
 
 msgid "PICKER_COOP"
-msgstr ""
+msgstr "Кааператыў"
 
 msgid "PICKER_DM"
-msgstr ""
+msgstr "Дэзматч"
 
 msgid "PICKER_TDM"
-msgstr ""
+msgstr "Камандны Дэзматч"
 
 # Which team the player wants to be assigned to.
 msgid "PICKER_TEAM"
-msgstr ""
+msgstr "Каманда нумар:"
 
 msgid "PICKER_ALTDM"
-msgstr ""
+msgstr "Выкарыстоўваць Альтернатыўныя Правілы Дэзматча"
 
 msgid "PICKER_PLAYERS"
-msgstr ""
+msgstr "Максімум Гульцоў:"
 
 msgid "PICKER_PORT"
-msgstr ""
+msgstr "Порт Сервера:"
 
 # Max number of players.
 msgid "PICKER_PLAYERHINT"
-msgstr ""
+msgstr "Максімум 64"
 
 # GZDoom's default port.
 msgid "PICKER_PORTHINT"
-msgstr ""
+msgstr "Стандартны 5029"
 
 # Team 255 randomizes which team the player gets put on.
 msgid "PICKER_TEAMHINT"
-msgstr ""
+msgstr "255 = Выпадковы"
 
 msgid "PICKER_IP"
-msgstr ""
+msgstr "IP Сервера:"
 
 msgid "PICKER_TDMLABEL"
-msgstr ""
+msgstr "Камандны Дэзматч:"
 
 # Same context as TXT_SAY.
 msgid "TXT_SAYTEAM"
-msgstr ""
+msgstr "Казаць (Каманда):"
 
 msgid "MISCMNU_DISCORDRPC"
-msgstr ""
+msgstr "Паказваць Актыўнасць у Discord"
 
 msgid "JOYMNU_TURNSPEED"
-msgstr ""
+msgstr "Хуткацсь павароту"
 
 msgid "JOYMNU_LOOKSPEED"
-msgstr ""
+msgstr "Хуткасць агляду"
 
 msgid "JOYMNU_ANALOGSTRAFERUN"
-msgstr ""
+msgstr "Аналагавы бег стрэйфам"
+
+msgid "ACCMNU_TITLE"
+msgstr "Налады даступнасці"
+
+msgid "MSGMNU_MESSAGEQUEUE"
+msgstr "Размер чаргі паведамленній"
+
+msgid "NOTES_FAIL"
+msgstr "Немагчыма атрымаць нататкі да версіі"
+
+msgid "NOTES_UNKNOWN"
+msgstr "Невядомы"
+
+msgid "NOTES_RELEASED"
+msgstr "%s версіі %s, выпушчаны %s"
+
+msgid "NOTES_EMPTY"
+msgstr "Няма апісання."
+
+msgid "NOTES_DETAILS"
+msgstr "Больш падробную інфармацыю глядзіце на: %s"
+
+msgid "PICKER_SHOWTHIS"
+msgstr "Паказваць гэтую старонку пасля абнаўленняў"
+
+msgid "PICKER_SHOWNOTES"
+msgstr "Паказаць нататкі версіі"
+
+msgid "PICKER_TAB_RELEASE"
+msgstr "Нататкі Версіі"
