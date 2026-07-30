@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-23 17:01+0000\n"
+"PO-Revision-Date: 2026-07-30 19:02+0000\n"
 "Last-Translator: Tim Richter <jank21976@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/doom-engine-games/the-plutonia-experiment/de/>\n"
 "Language: de\n"
@@ -58,7 +58,7 @@ msgid "PHUSTR_14"
 msgstr "Level 14: Entstehung"
 
 msgid "PHUSTR_15"
-msgstr "Level 15: Zwielicht"
+msgstr "Level 15: Dämmerung"
 
 msgid "PHUSTR_16"
 msgstr "Level 16: Das Omen"
@@ -70,7 +70,7 @@ msgid "PHUSTR_18"
 msgstr "Level 18: Neurosphäre"
 
 msgid "PHUSTR_19"
-msgstr "Level 19: EIND"
+msgstr "Level 19: FEIND"
 
 msgid "PHUSTR_20"
 msgstr "Level 20: Die Todeszone"
