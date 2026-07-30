@@ -4561,9 +4561,9 @@ msgid "TXT_TOOOLDSG"
 msgstr "Збереження \"%s\" з старішої версії: %d (%e остання сумісна)."
 
 # Shouldn’t this say “%e is the newest supported”?
-# 
+#
 # — Undead
-# 
+#
 # Ask Randi: The text is old. I won't change it.
 msgid "TXT_TOONEWSG"
 msgstr "Збереження \"%s\" з новіщої версії: %d (%e остання сумісна)."
