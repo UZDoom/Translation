@@ -4,9 +4,11 @@
 Tests that everything is okay in the database
 """
 
+import re
 import sys
 from pathlib import Path
 
+from libs import polib
 from pretty import pretty
 from config import \
     RECIPES
@@ -33,6 +35,19 @@ def main():
         if not cpath.is_dir():
             issue("not found", component=component)
             continue
+
+        ppath = cpath / "template.pot"
+        if not ppath.is_file():
+            issue("not found", template=component)
+            continue
+
+        po = polib.pofile(ppath)
+        pattern = re.compile('^[A-Z0-9_]+$')
+        expected = set()
+        for e in po:
+            if not bool(pattern.match(e.msgid)):
+                issue(e.msgid, invalid_name=component)
+            expected.add(e.msgid)
 
     if issues:
         pretty(issues)
