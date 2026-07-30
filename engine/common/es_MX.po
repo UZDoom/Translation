@@ -263,7 +263,6 @@ msgid "CNTRLMNU_SLOT1"
 msgstr "Arma 1"
 
 # only show appropriate slots per game
-# 
 msgid "CNTRLMNU_SLOT2"
 msgstr "Arma 2"
 

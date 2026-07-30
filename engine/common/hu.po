@@ -263,7 +263,6 @@ msgid "CNTRLMNU_SLOT1"
 msgstr "1. fegyver"
 
 # only show appropriate slots per game
-# 
 msgid "CNTRLMNU_SLOT2"
 msgstr "2. fegyver"
 

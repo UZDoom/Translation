@@ -263,7 +263,6 @@ msgid "CNTRLMNU_SLOT1"
 msgstr "무기 슬롯 1"
 
 # only show appropriate slots per game
-# 
 msgid "CNTRLMNU_SLOT2"
 msgstr "무기 슬롯 2"
 
