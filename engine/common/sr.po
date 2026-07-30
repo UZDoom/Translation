@@ -264,7 +264,7 @@ msgid "CNTRLMNU_SLOT1"
 msgstr "Оружје 1"
 
 # only show appropriate slots per game
-# 
+#
 msgid "CNTRLMNU_SLOT2"
 msgstr "Оружје 2"
 
@@ -985,7 +985,7 @@ msgstr "DOSBox ОПЛ3"
 msgid "OPTVAL_JAVAOPL3"
 msgstr "Јава ОПЛ3"
 
-msgid "OPTVAL_ESFMu"
+msgid "OPTVAL_ESFMU"
 msgstr "ЕСФМу ОПЛ3"
 
 msgid "OPTVAL_YMFMOPL2"
@@ -1467,34 +1467,34 @@ msgstr "Уреди окружење"
 msgid "REVMNU_NEW"
 msgstr "Ново окружење"
 
-msgid "REVMNU_Reflections_Scale"
+msgid "REVMNU_REFLECTIONS_SCALE"
 msgstr "Скала рефлексија"
 
-msgid "REVMNU_Reflections_Delay_Scale"
+msgid "REVMNU_REFLECTIONS_DELAY_SCALE"
 msgstr "Скала кашњења рефлексија"
 
-msgid "REVMNU_Decay_Time_Scale"
+msgid "REVMNU_DECAY_TIME_SCALE"
 msgstr "Временска скала распада"
 
-msgid "REVMNU_Decay_HF_Limit"
+msgid "REVMNU_DECAY_HF_LIMIT"
 msgstr "Ограничење високог интензитета опадања"
 
-msgid "REVMNU_Reverb_Scale"
+msgid "REVMNU_REVERB_SCALE"
 msgstr "Скала реверба"
 
-msgid "REVMNU_Reverb_Delay_Scale"
+msgid "REVMNU_REVERB_DELAY_SCALE"
 msgstr "Скала кашњења реверба"
 
-msgid "REVMNU_Echo_Time_Scale"
+msgid "REVMNU_ECHO_TIME_SCALE"
 msgstr "Временска скала одјека"
 
-msgid "REVMNU_Modulation_Time_Scale"
+msgid "REVMNU_MODULATION_TIME_SCALE"
 msgstr "Временска скала модулације"
 
-msgid "REVMNU_Based_on"
+msgid "REVMNU_BASED_ON"
 msgstr "Засновано на"
 
-msgid "REVMNU_Name"
+msgid "REVMNU_NAME"
 msgstr "Назив"
 
 msgid "REVMNU_ID_1"
@@ -1503,16 +1503,16 @@ msgstr "ИД бр. 1"
 msgid "REVMNU_ID_2"
 msgstr "ИД бр. 2"
 
-msgid "REVMNU_Create"
+msgid "REVMNU_CREATE"
 msgstr "Направи"
 
-msgid "REVMNU_Save"
+msgid "REVMNU_SAVE"
 msgstr "Сачувај…"
 
-msgid "REVMNU_File_name"
+msgid "REVMNU_FILE_NAME"
 msgstr "Назив фајла"
 
-msgid "REVMNU_Environments_to_save"
+msgid "REVMNU_ENVIRONMENTS_TO_SAVE"
 msgstr "Окружења за чување"
 
 msgid "DSPLYMNU_VKOPT"

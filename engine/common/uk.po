@@ -263,7 +263,7 @@ msgid "CNTRLMNU_SLOT1"
 msgstr "Зброя 1"
 
 # only show appropriate slots per game
-# 
+#
 msgid "CNTRLMNU_SLOT2"
 msgstr "Зброя 2"
 
@@ -982,7 +982,7 @@ msgstr "DOSBox OPL3"
 msgid "OPTVAL_JAVAOPL3"
 msgstr "Java OPL3"
 
-msgid "OPTVAL_ESFMu"
+msgid "OPTVAL_ESFMU"
 msgstr "ESFMu OPL3"
 
 msgid "OPTVAL_YMFMOPL2"
@@ -1466,39 +1466,39 @@ msgstr "Редагувати оточення"
 msgid "REVMNU_NEW"
 msgstr "Нове оточення"
 
-msgid "REVMNU_Reflections_Scale"
+msgid "REVMNU_REFLECTIONS_SCALE"
 msgstr "Масштаб віддзеркалень"
 
-msgid "REVMNU_Reflections_Delay_Scale"
+msgid "REVMNU_REFLECTIONS_DELAY_SCALE"
 msgstr "Масштаб затримки віддзеркалень"
 
 #, fuzzy
-msgid "REVMNU_Decay_Time_Scale"
+msgid "REVMNU_DECAY_TIME_SCALE"
 msgstr "Шкала часу розпаду"
 
 #, fuzzy
-msgid "REVMNU_Decay_HF_Limit"
+msgid "REVMNU_DECAY_HF_LIMIT"
 msgstr "Граничне значення затухання HF"
 
 #, fuzzy
-msgid "REVMNU_Reverb_Scale"
+msgid "REVMNU_REVERB_SCALE"
 msgstr "Шкала реверберації"
 
-msgid "REVMNU_Reverb_Delay_Scale"
+msgid "REVMNU_REVERB_DELAY_SCALE"
 msgstr "Шкала затримки реверберації"
 
 #, fuzzy
-msgid "REVMNU_Echo_Time_Scale"
+msgid "REVMNU_ECHO_TIME_SCALE"
 msgstr "Шкала часу відлуння"
 
 #, fuzzy
-msgid "REVMNU_Modulation_Time_Scale"
+msgid "REVMNU_MODULATION_TIME_SCALE"
 msgstr "Часова шкала модуляції"
 
-msgid "REVMNU_Based_on"
+msgid "REVMNU_BASED_ON"
 msgstr "На основі"
 
-msgid "REVMNU_Name"
+msgid "REVMNU_NAME"
 msgstr "Назва"
 
 msgid "REVMNU_ID_1"
@@ -1507,16 +1507,16 @@ msgstr "ID #1"
 msgid "REVMNU_ID_2"
 msgstr "ID #2"
 
-msgid "REVMNU_Create"
+msgid "REVMNU_CREATE"
 msgstr "Створити"
 
-msgid "REVMNU_Save"
+msgid "REVMNU_SAVE"
 msgstr "Зберегти…"
 
-msgid "REVMNU_File_name"
+msgid "REVMNU_FILE_NAME"
 msgstr "Назва файлу"
 
-msgid "REVMNU_Environments_to_save"
+msgid "REVMNU_ENVIRONMENTS_TO_SAVE"
 msgstr "Зберегти оточення"
 
 msgid "DSPLYMNU_VKOPT"
@@ -1816,5 +1816,5 @@ msgstr "Про програму"
 msgid "PICKER_TAB_RELEASE"
 msgstr "Нотатки до випуску"
 
-msgid "$MSGMNU_MESSAGEFADE"
+msgid "MSGMNU_MESSAGEFADE"
 msgstr "Тривалість згасання повідомлення"

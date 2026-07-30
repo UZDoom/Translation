@@ -265,7 +265,7 @@ msgid "CNTRLMNU_SLOT1"
 msgstr "Silah 1"
 
 # only show appropriate slots per game
-# 
+#
 msgid "CNTRLMNU_SLOT2"
 msgstr "Silah 2"
 
@@ -986,7 +986,7 @@ msgstr "DOSKutusu OPL3"
 msgid "OPTVAL_JAVAOPL3"
 msgstr ""
 
-msgid "OPTVAL_ESFMu"
+msgid "OPTVAL_ESFMU"
 msgstr ""
 
 msgid "OPTVAL_YMFMOPL2"
@@ -1468,34 +1468,34 @@ msgstr "Ortamı Düzenle"
 msgid "REVMNU_NEW"
 msgstr "Yeni Çevre"
 
-msgid "REVMNU_Reflections_Scale"
+msgid "REVMNU_REFLECTIONS_SCALE"
 msgstr "Yansıma boyutu"
 
-msgid "REVMNU_Reflections_Delay_Scale"
+msgid "REVMNU_REFLECTIONS_DELAY_SCALE"
 msgstr "Yansıma Gecikme Boyutu"
 
-msgid "REVMNU_Decay_Time_Scale"
+msgid "REVMNU_DECAY_TIME_SCALE"
 msgstr "Yokolma Zamanı Boyutu"
 
-msgid "REVMNU_Decay_HF_Limit"
+msgid "REVMNU_DECAY_HF_LIMIT"
 msgstr ""
 
-msgid "REVMNU_Reverb_Scale"
+msgid "REVMNU_REVERB_SCALE"
 msgstr "Yankı Ölçeği"
 
-msgid "REVMNU_Reverb_Delay_Scale"
+msgid "REVMNU_REVERB_DELAY_SCALE"
 msgstr "Yankı Gecikmesi Ölçeği"
 
-msgid "REVMNU_Echo_Time_Scale"
+msgid "REVMNU_ECHO_TIME_SCALE"
 msgstr ""
 
-msgid "REVMNU_Modulation_Time_Scale"
+msgid "REVMNU_MODULATION_TIME_SCALE"
 msgstr ""
 
-msgid "REVMNU_Based_on"
+msgid "REVMNU_BASED_ON"
 msgstr "Buna göre"
 
-msgid "REVMNU_Name"
+msgid "REVMNU_NAME"
 msgstr "İsim"
 
 msgid "REVMNU_ID_1"
@@ -1504,16 +1504,16 @@ msgstr ""
 msgid "REVMNU_ID_2"
 msgstr ""
 
-msgid "REVMNU_Create"
+msgid "REVMNU_CREATE"
 msgstr "Oluştur"
 
-msgid "REVMNU_Save"
+msgid "REVMNU_SAVE"
 msgstr "Kaydet…"
 
-msgid "REVMNU_File_name"
+msgid "REVMNU_FILE_NAME"
 msgstr "Dosya adı"
 
-msgid "REVMNU_Environments_to_save"
+msgid "REVMNU_ENVIRONMENTS_TO_SAVE"
 msgstr "Kurtarılacak ortamlar"
 
 msgid "DSPLYMNU_VKOPT"

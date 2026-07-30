@@ -264,7 +264,7 @@ msgid "CNTRLMNU_SLOT1"
 msgstr "Emplacement D'Arme 1"
 
 # only show appropriate slots per game
-# 
+#
 msgid "CNTRLMNU_SLOT2"
 msgstr "Emplacement D'Arme 2"
 
@@ -981,7 +981,7 @@ msgstr "DOSBox OPL3"
 msgid "OPTVAL_JAVAOPL3"
 msgstr "Java OPL3"
 
-msgid "OPTVAL_ESFMu"
+msgid "OPTVAL_ESFMU"
 msgstr "ESFMu OPL3"
 
 msgid "OPTVAL_YMFMOPL2"
@@ -1456,34 +1456,34 @@ msgstr "Modifier un Environnement"
 msgid "REVMNU_NEW"
 msgstr "Nouveau Environnement"
 
-msgid "REVMNU_Reflections_Scale"
+msgid "REVMNU_REFLECTIONS_SCALE"
 msgstr "Échelle Réflections"
 
-msgid "REVMNU_Reflections_Delay_Scale"
+msgid "REVMNU_REFLECTIONS_DELAY_SCALE"
 msgstr "Délai d'Échelle Réflections"
 
-msgid "REVMNU_Decay_Time_Scale"
+msgid "REVMNU_DECAY_TIME_SCALE"
 msgstr "Échelle Temporelle Decay"
 
-msgid "REVMNU_Decay_HF_Limit"
+msgid "REVMNU_DECAY_HF_LIMIT"
 msgstr "Seuil HF Decay"
 
-msgid "REVMNU_Reverb_Scale"
+msgid "REVMNU_REVERB_SCALE"
 msgstr "Échelle Reverb"
 
-msgid "REVMNU_Reverb_Delay_Scale"
+msgid "REVMNU_REVERB_DELAY_SCALE"
 msgstr "Délai d'échelle Réverb"
 
-msgid "REVMNU_Echo_Time_Scale"
+msgid "REVMNU_ECHO_TIME_SCALE"
 msgstr "Échelle Temporelle Écho"
 
-msgid "REVMNU_Modulation_Time_Scale"
+msgid "REVMNU_MODULATION_TIME_SCALE"
 msgstr "Échelle Temporelle Modulation"
 
-msgid "REVMNU_Based_on"
+msgid "REVMNU_BASED_ON"
 msgstr "Basé sur"
 
-msgid "REVMNU_Name"
+msgid "REVMNU_NAME"
 msgstr "Nom"
 
 msgid "REVMNU_ID_1"
@@ -1492,16 +1492,16 @@ msgstr "ID #1"
 msgid "REVMNU_ID_2"
 msgstr "ID #2"
 
-msgid "REVMNU_Create"
+msgid "REVMNU_CREATE"
 msgstr "Créer"
 
-msgid "REVMNU_Save"
+msgid "REVMNU_SAVE"
 msgstr "Sauvegarder…"
 
-msgid "REVMNU_File_name"
+msgid "REVMNU_FILE_NAME"
 msgstr "Nom de fichier"
 
-msgid "REVMNU_Environments_to_save"
+msgid "REVMNU_ENVIRONMENTS_TO_SAVE"
 msgstr "Environnements à sauvegarder"
 
 msgid "DSPLYMNU_VKOPT"
@@ -1759,7 +1759,7 @@ msgstr "Options d'Accessibilité"
 msgid "MSGMNU_MESSAGEQUEUE"
 msgstr "Longueur de la queue des messages"
 
-msgid "$MSGMNU_MESSAGEFADE"
+msgid "MSGMNU_MESSAGEFADE"
 msgstr "Durée du fondu des messages"
 
 msgid "MSGMNU_STACKIDENTICAL"

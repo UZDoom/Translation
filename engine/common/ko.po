@@ -263,7 +263,7 @@ msgid "CNTRLMNU_SLOT1"
 msgstr "무기 슬롯 1"
 
 # only show appropriate slots per game
-# 
+#
 msgid "CNTRLMNU_SLOT2"
 msgstr "무기 슬롯 2"
 
@@ -982,7 +982,7 @@ msgstr "도스박스 OPL3"
 msgid "OPTVAL_JAVAOPL3"
 msgstr "자바 OPL3"
 
-msgid "OPTVAL_ESFMu"
+msgid "OPTVAL_ESFMU"
 msgstr ""
 
 msgid "OPTVAL_YMFMOPL2"
@@ -1457,34 +1457,34 @@ msgstr "환경 편집"
 msgid "REVMNU_NEW"
 msgstr "새로운 환경 생성"
 
-msgid "REVMNU_Reflections_Scale"
+msgid "REVMNU_REFLECTIONS_SCALE"
 msgstr "룸 반사 음계"
 
-msgid "REVMNU_Reflections_Delay_Scale"
+msgid "REVMNU_REFLECTIONS_DELAY_SCALE"
 msgstr "룸 반사 딜레이 음계"
 
-msgid "REVMNU_Decay_Time_Scale"
+msgid "REVMNU_DECAY_TIME_SCALE"
 msgstr "잔향 감쇠시간 음계"
 
-msgid "REVMNU_Decay_HF_Limit"
+msgid "REVMNU_DECAY_HF_LIMIT"
 msgstr "잔향 감쇠 HF 한도"
 
-msgid "REVMNU_Reverb_Scale"
+msgid "REVMNU_REVERB_SCALE"
 msgstr "리버브 음계"
 
-msgid "REVMNU_Reverb_Delay_Scale"
+msgid "REVMNU_REVERB_DELAY_SCALE"
 msgstr "리버브 딜레이 음계"
 
-msgid "REVMNU_Echo_Time_Scale"
+msgid "REVMNU_ECHO_TIME_SCALE"
 msgstr "에코 시간 음계"
 
-msgid "REVMNU_Modulation_Time_Scale"
+msgid "REVMNU_MODULATION_TIME_SCALE"
 msgstr "전조 시간 음계"
 
-msgid "REVMNU_Based_on"
+msgid "REVMNU_BASED_ON"
 msgstr "음향 원본"
 
-msgid "REVMNU_Name"
+msgid "REVMNU_NAME"
 msgstr "이름"
 
 msgid "REVMNU_ID_1"
@@ -1493,16 +1493,16 @@ msgstr "아이디 #1"
 msgid "REVMNU_ID_2"
 msgstr "아이디 #2"
 
-msgid "REVMNU_Create"
+msgid "REVMNU_CREATE"
 msgstr "생성"
 
-msgid "REVMNU_Save"
+msgid "REVMNU_SAVE"
 msgstr "저장 하기…"
 
-msgid "REVMNU_File_name"
+msgid "REVMNU_FILE_NAME"
 msgstr "파일 이름"
 
-msgid "REVMNU_Environments_to_save"
+msgid "REVMNU_ENVIRONMENTS_TO_SAVE"
 msgstr "저장할 공간"
 
 msgid "DSPLYMNU_VKOPT"

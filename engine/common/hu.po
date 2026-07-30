@@ -263,7 +263,7 @@ msgid "CNTRLMNU_SLOT1"
 msgstr "1. fegyver"
 
 # only show appropriate slots per game
-# 
+#
 msgid "CNTRLMNU_SLOT2"
 msgstr "2. fegyver"
 
@@ -979,7 +979,7 @@ msgstr "DOSBox OPL3"
 msgid "OPTVAL_JAVAOPL3"
 msgstr "Java OPL3"
 
-msgid "OPTVAL_ESFMu"
+msgid "OPTVAL_ESFMU"
 msgstr "ESFMu OPL3"
 
 msgid "OPTVAL_YMFMOPL2"
@@ -1454,34 +1454,34 @@ msgstr "Környezet Szerkesztése"
 msgid "REVMNU_NEW"
 msgstr "Új Környezet"
 
-msgid "REVMNU_Reflections_Scale"
+msgid "REVMNU_REFLECTIONS_SCALE"
 msgstr "Tükröződési Arány"
 
-msgid "REVMNU_Reflections_Delay_Scale"
+msgid "REVMNU_REFLECTIONS_DELAY_SCALE"
 msgstr "Tükröződési Késleltetési Arány"
 
-msgid "REVMNU_Decay_Time_Scale"
+msgid "REVMNU_DECAY_TIME_SCALE"
 msgstr "Decay Idő Arány"
 
-msgid "REVMNU_Decay_HF_Limit"
+msgid "REVMNU_DECAY_HF_LIMIT"
 msgstr "Decay HF Limitje"
 
-msgid "REVMNU_Reverb_Scale"
+msgid "REVMNU_REVERB_SCALE"
 msgstr "Reverb Arány"
 
-msgid "REVMNU_Reverb_Delay_Scale"
+msgid "REVMNU_REVERB_DELAY_SCALE"
 msgstr "Reverb Késleltetési Arány"
 
-msgid "REVMNU_Echo_Time_Scale"
+msgid "REVMNU_ECHO_TIME_SCALE"
 msgstr "Visszhang Idő Arány"
 
-msgid "REVMNU_Modulation_Time_Scale"
+msgid "REVMNU_MODULATION_TIME_SCALE"
 msgstr "Modulációs Idő Arány"
 
-msgid "REVMNU_Based_on"
+msgid "REVMNU_BASED_ON"
 msgstr "Minta"
 
-msgid "REVMNU_Name"
+msgid "REVMNU_NAME"
 msgstr "Név"
 
 msgid "REVMNU_ID_1"
@@ -1490,16 +1490,16 @@ msgstr "AZON #1"
 msgid "REVMNU_ID_2"
 msgstr "AZON #2"
 
-msgid "REVMNU_Create"
+msgid "REVMNU_CREATE"
 msgstr "Készítés"
 
-msgid "REVMNU_Save"
+msgid "REVMNU_SAVE"
 msgstr "Mentés…"
 
-msgid "REVMNU_File_name"
+msgid "REVMNU_FILE_NAME"
 msgstr "Fájlnév"
 
-msgid "REVMNU_Environments_to_save"
+msgid "REVMNU_ENVIRONMENTS_TO_SAVE"
 msgstr "Mentendő Környezetek"
 
 msgid "DSPLYMNU_VKOPT"

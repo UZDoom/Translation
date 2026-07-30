@@ -264,7 +264,7 @@ msgid "CNTRLMNU_SLOT1"
 msgstr "Arma 1"
 
 # only show appropriate slots per game
-# 
+#
 msgid "CNTRLMNU_SLOT2"
 msgstr "Arma 2"
 
@@ -991,7 +991,7 @@ msgid "OPTVAL_JAVAOPL3"
 msgstr "Java OPL3"
 
 #, fuzzy
-msgid "OPTVAL_ESFMu"
+msgid "OPTVAL_ESFMU"
 msgstr "ESFMu OPL3"
 
 #, fuzzy
@@ -1474,34 +1474,34 @@ msgstr "Editar ambiente"
 msgid "REVMNU_NEW"
 msgstr "Novo ambiente"
 
-msgid "REVMNU_Reflections_Scale"
+msgid "REVMNU_REFLECTIONS_SCALE"
 msgstr "Escala de reflexos"
 
-msgid "REVMNU_Reflections_Delay_Scale"
+msgid "REVMNU_REFLECTIONS_DELAY_SCALE"
 msgstr "Escala de atraso de reflexos"
 
-msgid "REVMNU_Decay_Time_Scale"
+msgid "REVMNU_DECAY_TIME_SCALE"
 msgstr "Escala de tempo de decaimento"
 
-msgid "REVMNU_Decay_HF_Limit"
+msgid "REVMNU_DECAY_HF_LIMIT"
 msgstr "Limite de decaimento em alta freq"
 
-msgid "REVMNU_Reverb_Scale"
+msgid "REVMNU_REVERB_SCALE"
 msgstr "Escala de reverberação"
 
-msgid "REVMNU_Reverb_Delay_Scale"
+msgid "REVMNU_REVERB_DELAY_SCALE"
 msgstr "Escala de atraso de reverberação"
 
-msgid "REVMNU_Echo_Time_Scale"
+msgid "REVMNU_ECHO_TIME_SCALE"
 msgstr "Escala de tempo de eco"
 
-msgid "REVMNU_Modulation_Time_Scale"
+msgid "REVMNU_MODULATION_TIME_SCALE"
 msgstr "Escala de tempo de modulação"
 
-msgid "REVMNU_Based_on"
+msgid "REVMNU_BASED_ON"
 msgstr "Baseado em"
 
-msgid "REVMNU_Name"
+msgid "REVMNU_NAME"
 msgstr "Nome"
 
 msgid "REVMNU_ID_1"
@@ -1510,16 +1510,16 @@ msgstr "ID #1"
 msgid "REVMNU_ID_2"
 msgstr "ID #2"
 
-msgid "REVMNU_Create"
+msgid "REVMNU_CREATE"
 msgstr "Criar"
 
-msgid "REVMNU_Save"
+msgid "REVMNU_SAVE"
 msgstr "Salvar…"
 
-msgid "REVMNU_File_name"
+msgid "REVMNU_FILE_NAME"
 msgstr "Nome do arquivo"
 
-msgid "REVMNU_Environments_to_save"
+msgid "REVMNU_ENVIRONMENTS_TO_SAVE"
 msgstr "Ambientes para salvar"
 
 msgid "DSPLYMNU_VKOPT"
@@ -1809,5 +1809,5 @@ msgstr "Quantidade de Mensagens"
 msgid "MSGMNU_STACKIDENTICAL"
 msgstr "Combinar mensagens repetidas"
 
-msgid "$MSGMNU_MESSAGEFADE"
+msgid "MSGMNU_MESSAGEFADE"
 msgstr "Duração de fadeout das mensagens"

@@ -263,7 +263,7 @@ msgid "CNTRLMNU_SLOT1"
 msgstr "Первое оружие"
 
 # only show appropriate slots per game
-# 
+#
 msgid "CNTRLMNU_SLOT2"
 msgstr "Второе оружие"
 
@@ -979,7 +979,7 @@ msgstr "DOSBox OPL3"
 msgid "OPTVAL_JAVAOPL3"
 msgstr "Java OPL3"
 
-msgid "OPTVAL_ESFMu"
+msgid "OPTVAL_ESFMU"
 msgstr "ESFMu OPL3"
 
 msgid "OPTVAL_YMFMOPL2"
@@ -1454,34 +1454,34 @@ msgstr "Редактировать окружение"
 msgid "REVMNU_NEW"
 msgstr "Новое окружение"
 
-msgid "REVMNU_Reflections_Scale"
+msgid "REVMNU_REFLECTIONS_SCALE"
 msgstr "Размер Отражений"
 
-msgid "REVMNU_Reflections_Delay_Scale"
+msgid "REVMNU_REFLECTIONS_DELAY_SCALE"
 msgstr "Размер Задержки Отражений"
 
-msgid "REVMNU_Decay_Time_Scale"
+msgid "REVMNU_DECAY_TIME_SCALE"
 msgstr "Размер Времени Спада"
 
-msgid "REVMNU_Decay_HF_Limit"
+msgid "REVMNU_DECAY_HF_LIMIT"
 msgstr "Лимит Высокой Частоты Спада"
 
-msgid "REVMNU_Reverb_Scale"
+msgid "REVMNU_REVERB_SCALE"
 msgstr "Размер Реверберации"
 
-msgid "REVMNU_Reverb_Delay_Scale"
+msgid "REVMNU_REVERB_DELAY_SCALE"
 msgstr "Размер Задержки Реверберации"
 
-msgid "REVMNU_Echo_Time_Scale"
+msgid "REVMNU_ECHO_TIME_SCALE"
 msgstr "Шкала времени эха"
 
-msgid "REVMNU_Modulation_Time_Scale"
+msgid "REVMNU_MODULATION_TIME_SCALE"
 msgstr "Шкала времени модуляции"
 
-msgid "REVMNU_Based_on"
+msgid "REVMNU_BASED_ON"
 msgstr "Основано на"
 
-msgid "REVMNU_Name"
+msgid "REVMNU_NAME"
 msgstr "Название"
 
 msgid "REVMNU_ID_1"
@@ -1490,16 +1490,16 @@ msgstr "ИД №1"
 msgid "REVMNU_ID_2"
 msgstr "ИД №2"
 
-msgid "REVMNU_Create"
+msgid "REVMNU_CREATE"
 msgstr "Создать"
 
-msgid "REVMNU_Save"
+msgid "REVMNU_SAVE"
 msgstr "Сохранить…"
 
-msgid "REVMNU_File_name"
+msgid "REVMNU_FILE_NAME"
 msgstr "Имя файла"
 
-msgid "REVMNU_Environments_to_save"
+msgid "REVMNU_ENVIRONMENTS_TO_SAVE"
 msgstr "Сохранить окружения"
 
 msgid "DSPLYMNU_VKOPT"
@@ -1787,5 +1787,5 @@ msgstr "Куча повторяющихся сообщений"
 msgid "MSGMNU_MESSAGEQUEUE"
 msgstr "Размер очереди в сообщениях"
 
-msgid "$MSGMNU_MESSAGEFADE"
+msgid "MSGMNU_MESSAGEFADE"
 msgstr "Длительность затухания сообщения"

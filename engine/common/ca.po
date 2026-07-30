@@ -980,7 +980,7 @@ msgstr "DOSBox OPL3"
 msgid "OPTVAL_JAVAOPL3"
 msgstr "Java OPL3"
 
-msgid "OPTVAL_ESFMu"
+msgid "OPTVAL_ESFMU"
 msgstr "ESFMu OPL3"
 
 msgid "OPTVAL_YMFMOPL2"
@@ -1451,34 +1451,34 @@ msgstr "Edita l’entorn"
 msgid "REVMNU_NEW"
 msgstr "Entorn nou"
 
-msgid "REVMNU_Reflections_Scale"
+msgid "REVMNU_REFLECTIONS_SCALE"
 msgstr "Escala de reflexions"
 
-msgid "REVMNU_Reflections_Delay_Scale"
+msgid "REVMNU_REFLECTIONS_DELAY_SCALE"
 msgstr "Escala del retard de reflexions"
 
-msgid "REVMNU_Decay_Time_Scale"
+msgid "REVMNU_DECAY_TIME_SCALE"
 msgstr "Escala del temps de decaïment"
 
-msgid "REVMNU_Decay_HF_Limit"
+msgid "REVMNU_DECAY_HF_LIMIT"
 msgstr "Límit de decaïment HF"
 
-msgid "REVMNU_Reverb_Scale"
+msgid "REVMNU_REVERB_SCALE"
 msgstr "Escala de reverberació"
 
-msgid "REVMNU_Reverb_Delay_Scale"
+msgid "REVMNU_REVERB_DELAY_SCALE"
 msgstr "Escala del retard de reverberació"
 
-msgid "REVMNU_Echo_Time_Scale"
+msgid "REVMNU_ECHO_TIME_SCALE"
 msgstr "Escala del temps d’eco"
 
-msgid "REVMNU_Modulation_Time_Scale"
+msgid "REVMNU_MODULATION_TIME_SCALE"
 msgstr "Escala del temps de modulació"
 
-msgid "REVMNU_Based_on"
+msgid "REVMNU_BASED_ON"
 msgstr "Basat en"
 
-msgid "REVMNU_Name"
+msgid "REVMNU_NAME"
 msgstr "Nom"
 
 msgid "REVMNU_ID_1"
@@ -1487,16 +1487,16 @@ msgstr "ID núm. 1"
 msgid "REVMNU_ID_2"
 msgstr "ID núm. 2"
 
-msgid "REVMNU_Create"
+msgid "REVMNU_CREATE"
 msgstr "Crea"
 
-msgid "REVMNU_Save"
+msgid "REVMNU_SAVE"
 msgstr "Desa…"
 
-msgid "REVMNU_File_name"
+msgid "REVMNU_FILE_NAME"
 msgstr "Nom del fitxer"
 
-msgid "REVMNU_Environments_to_save"
+msgid "REVMNU_ENVIRONMENTS_TO_SAVE"
 msgstr "Entorns per desar"
 
 msgid "DSPLYMNU_VKOPT"

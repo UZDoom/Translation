@@ -265,7 +265,7 @@ msgid "CNTRLMNU_SLOT1"
 msgstr "Arma 1"
 
 # only show appropriate slots per game
-# 
+#
 msgid "CNTRLMNU_SLOT2"
 msgstr "Arma 2"
 
@@ -987,7 +987,7 @@ msgstr ""
 msgid "OPTVAL_JAVAOPL3"
 msgstr ""
 
-msgid "OPTVAL_ESFMu"
+msgid "OPTVAL_ESFMU"
 msgstr ""
 
 msgid "OPTVAL_YMFMOPL2"
@@ -1464,34 +1464,34 @@ msgstr "Editar ambiente"
 msgid "REVMNU_NEW"
 msgstr "Nuevo ambiente"
 
-msgid "REVMNU_Reflections_Scale"
+msgid "REVMNU_REFLECTIONS_SCALE"
 msgstr "Escala de reflejos"
 
-msgid "REVMNU_Reflections_Delay_Scale"
+msgid "REVMNU_REFLECTIONS_DELAY_SCALE"
 msgstr "Escala de retraso de reflejos"
 
-msgid "REVMNU_Decay_Time_Scale"
+msgid "REVMNU_DECAY_TIME_SCALE"
 msgstr "Escala de tiempo de decadencia"
 
-msgid "REVMNU_Decay_HF_Limit"
+msgid "REVMNU_DECAY_HF_LIMIT"
 msgstr "Limite de decadencia de alta frecuencia"
 
-msgid "REVMNU_Reverb_Scale"
+msgid "REVMNU_REVERB_SCALE"
 msgstr "Escala de reverberación"
 
-msgid "REVMNU_Reverb_Delay_Scale"
+msgid "REVMNU_REVERB_DELAY_SCALE"
 msgstr "Escala de retraso de reverberación"
 
-msgid "REVMNU_Echo_Time_Scale"
+msgid "REVMNU_ECHO_TIME_SCALE"
 msgstr "Escala de tiempo de eco"
 
-msgid "REVMNU_Modulation_Time_Scale"
+msgid "REVMNU_MODULATION_TIME_SCALE"
 msgstr "Escala de tiempo de modulación"
 
-msgid "REVMNU_Based_on"
+msgid "REVMNU_BASED_ON"
 msgstr "Basado en"
 
-msgid "REVMNU_Name"
+msgid "REVMNU_NAME"
 msgstr "Nombre"
 
 msgid "REVMNU_ID_1"
@@ -1500,16 +1500,16 @@ msgstr "ID Nº1"
 msgid "REVMNU_ID_2"
 msgstr "ID Nº2"
 
-msgid "REVMNU_Create"
+msgid "REVMNU_CREATE"
 msgstr "Crear"
 
-msgid "REVMNU_Save"
+msgid "REVMNU_SAVE"
 msgstr "Guardar…"
 
-msgid "REVMNU_File_name"
+msgid "REVMNU_FILE_NAME"
 msgstr "Nombre de archivo"
 
-msgid "REVMNU_Environments_to_save"
+msgid "REVMNU_ENVIRONMENTS_TO_SAVE"
 msgstr "Ambientes para guardar"
 
 msgid "DSPLYMNU_VKOPT"

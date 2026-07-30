@@ -4570,9 +4570,9 @@ msgid "TXT_TOOOLDSG"
 msgstr "存档“%s”来自旧版本(%d)。支持的最低版本是%e。"
 
 # Shouldn’t this say “%e is the newest supported”?
-# 
+#
 # — Undead
-# 
+#
 # Ask Randi: The text is old. I won't change it.
 msgid "TXT_TOONEWSG"
 msgstr "存档“%s”来自新版本(%d)。支持的最高版本是%e。"

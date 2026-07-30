@@ -263,7 +263,7 @@ msgid "CNTRLMNU_SLOT1"
 msgstr "Armilo 1"
 
 # only show appropriate slots per game
-# 
+#
 msgid "CNTRLMNU_SLOT2"
 msgstr "Armilo 2"
 
@@ -982,7 +982,7 @@ msgstr ""
 msgid "OPTVAL_JAVAOPL3"
 msgstr ""
 
-msgid "OPTVAL_ESFMu"
+msgid "OPTVAL_ESFMU"
 msgstr ""
 
 msgid "OPTVAL_YMFMOPL2"
@@ -1457,34 +1457,34 @@ msgstr "Modifi medion"
 msgid "REVMNU_NEW"
 msgstr "Nova medio"
 
-msgid "REVMNU_Reflections_Scale"
+msgid "REVMNU_REFLECTIONS_SCALE"
 msgstr "Skalo de reflektoj"
 
-msgid "REVMNU_Reflections_Delay_Scale"
+msgid "REVMNU_REFLECTIONS_DELAY_SCALE"
 msgstr "Prokrastskalo de reflektoj"
 
-msgid "REVMNU_Decay_Time_Scale"
+msgid "REVMNU_DECAY_TIME_SCALE"
 msgstr "Tempskalo de purtiĝo"
 
-msgid "REVMNU_Decay_HF_Limit"
+msgid "REVMNU_DECAY_HF_LIMIT"
 msgstr "AF-Limito de purtiĝo"
 
-msgid "REVMNU_Reverb_Scale"
+msgid "REVMNU_REVERB_SCALE"
 msgstr "Skalo de resono"
 
-msgid "REVMNU_Reverb_Delay_Scale"
+msgid "REVMNU_REVERB_DELAY_SCALE"
 msgstr "Prokrastskalo de resono"
 
-msgid "REVMNU_Echo_Time_Scale"
+msgid "REVMNU_ECHO_TIME_SCALE"
 msgstr "Tempskalo de eĥo"
 
-msgid "REVMNU_Modulation_Time_Scale"
+msgid "REVMNU_MODULATION_TIME_SCALE"
 msgstr "Tempskalo de modulado"
 
-msgid "REVMNU_Based_on"
+msgid "REVMNU_BASED_ON"
 msgstr "Bazita de"
 
-msgid "REVMNU_Name"
+msgid "REVMNU_NAME"
 msgstr "Nomo"
 
 msgid "REVMNU_ID_1"
@@ -1493,16 +1493,16 @@ msgstr "Identigo #1"
 msgid "REVMNU_ID_2"
 msgstr "Identigo #2"
 
-msgid "REVMNU_Create"
+msgid "REVMNU_CREATE"
 msgstr "Krei"
 
-msgid "REVMNU_Save"
+msgid "REVMNU_SAVE"
 msgstr "Konservi…"
 
-msgid "REVMNU_File_name"
+msgid "REVMNU_FILE_NAME"
 msgstr "Dosiernomo"
 
-msgid "REVMNU_Environments_to_save"
+msgid "REVMNU_ENVIRONMENTS_TO_SAVE"
 msgstr "Medioj por konservi"
 
 msgid "DSPLYMNU_VKOPT"
