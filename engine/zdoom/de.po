@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-20 07:01+0000\n"
-"Last-Translator: heiko123abc <heiko1234aaa@gmail.com>\n"
+"PO-Revision-Date: 2026-07-30 12:01+0000\n"
+"Last-Translator: Tim Richter <jank21976@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -981,7 +981,7 @@ msgid "OB_UNDEADHIT"
 msgstr "%o wurde von einem Wiederauferstandenen K.O geschlagen."
 
 msgid "OB_IMPHIT"
-msgstr "%o wurde von einem Kobold gekratzt."
+msgstr "%o wurde von einem Kobold zerfetzt."
 
 msgid "OB_CACOHIT"
 msgstr "%o kam dem Cacodämonen zu nahe."
@@ -990,7 +990,7 @@ msgid "OB_DEMONHIT"
 msgstr "%o wurde von einem Dämonen gebissen."
 
 msgid "OB_SPECTREHIT"
-msgstr "%o wurde von dem Schemen gefressen."
+msgstr "%o wurde von dem Geist gefressen."
 
 msgid "OB_BARONHIT"
 msgstr "%o wurde von dem Höllenbaron aufgerissen."
@@ -1026,7 +1026,7 @@ msgid "OB_CACO"
 msgstr "%o wurde von einem Cacodämonen gequält."
 
 msgid "OB_BARON"
-msgstr "%o wurde von einem Höllenbaron geröstet."
+msgstr "%o wurde von einem Höllenbaron fertig gemacht."
 
 msgid "OB_KNIGHT"
 msgstr "%o wurde von einem Höllenritter gebraten."
@@ -1047,7 +1047,7 @@ msgid "OB_DOG"
 msgstr "%o wurde von einem Hund zerrissen."
 
 msgid "OB_MPFIST"
-msgstr "%o kaute auf %ks Faust herum."
+msgstr "%o hat von %k einen in die fresse bekommen."
 
 msgid "OB_MPCHAINSAW"
 msgstr "%o wurde von %ks Kettensäge zerteilt."
@@ -1194,7 +1194,7 @@ msgid "TXT_WPNPHOENIXROD"
 msgstr "Phönixstab"
 
 msgid "TXT_WPNGAUNTLETS"
-msgstr "Handschuhe des Zauberers"
+msgstr "Handschuhe des Nekromanten"
 
 msgid "TXT_NEEDBLUEKEY"
 msgstr "Du brauchst einen blauen Schlüssel, um diese Tür zu öffnen"
