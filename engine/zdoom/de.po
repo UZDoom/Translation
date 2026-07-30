@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-30 14:01+0000\n"
+"PO-Revision-Date: 2026-07-30 20:02+0000\n"
 "Last-Translator: Tim Richter <jank21976@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/de/>\n"
 "Language: de\n"
@@ -990,7 +990,7 @@ msgid "OB_DEMONHIT"
 msgstr "%o wurde von einem Dämonen gebissen."
 
 msgid "OB_SPECTREHIT"
-msgstr "%o wurde von dem Geist gefressen."
+msgstr "%o wurde von einem Geist gefressen."
 
 msgid "OB_BARONHIT"
 msgstr "%o wurde von dem Höllenbaron aufgerissen."
