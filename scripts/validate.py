@@ -54,7 +54,7 @@ def main():
             if file.endswith(".po"):
                 ppath = cpath / file
                 po = polib.pofile(ppath)
-                found=set()
+                found = set()
                 for e in po:
                     if not bool(pattern.match(e.msgid)):
                         issue(e.msgid, invalid_name=ppath)
