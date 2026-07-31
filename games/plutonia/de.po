@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-30 19:02+0000\n"
+"PO-Revision-Date: 2026-07-31 17:01+0000\n"
 "Last-Translator: Tim Richter <jank21976@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/doom-engine-games/the-plutonia-experiment/de/>\n"
 "Language: de\n"
@@ -21,6 +21,7 @@ msgstr "Level 1: Kongo"
 msgid "PHUSTR_2"
 msgstr "Level 2: Seelenbrunnen"
 
+#, fuzzy
 msgid "PHUSTR_3"
 msgstr "Level 3: Aztekisch"
 
@@ -37,7 +38,7 @@ msgid "PHUSTR_7"
 msgstr "Level 7: Gehege"
 
 msgid "PHUSTR_8"
-msgstr "Level 8: Bereich"
+msgstr "Level 8: Reich"
 
 msgid "PHUSTR_9"
 msgstr "Level 9: Schlachthaus"
