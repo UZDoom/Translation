@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-16 04:01+0000\n"
+"PO-Revision-Date: 2026-07-31 10:01+0000\n"
 "Last-Translator: dwing <12104745@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -5520,3 +5520,6 @@ msgstr "无视"
 
 msgid "UPDATER_UP_TO_DATE"
 msgstr "已是最新！"
+
+msgid "CMPTMNU_TRANSFERSECRET"
+msgstr "BOOM的地板更换方式以转移秘密属性。"
