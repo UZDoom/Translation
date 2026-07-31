@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-20 19:01+0000\n"
+"PO-Revision-Date: 2026-07-31 18:02+0000\n"
 "Last-Translator: Ron Dallas <Lot_bohdan@ukr.net>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/uk/>\n"
 "Language: uk\n"
@@ -145,7 +145,7 @@ msgstr ""
 msgid "QUITMSG11"
 msgstr ""
 "Був би я твоїм боссом –\n"
-"розніс у дедматчі за хвилину!"
+"розніс у дезматчі за хвилину!"
 
 msgid "QUITMSG12"
 msgstr ""
@@ -3991,7 +3991,7 @@ msgid "OPTVAL_CLASSIC"
 msgstr "Класичний (швидше)"
 
 msgid "OPTVAL_PRECISE"
-msgstr "Точний"
+msgstr "Точне"
 
 msgid "OPTVAL_CAPPED"
 msgstr "Обмежений"
@@ -5368,7 +5368,7 @@ msgid "OPTVAL_ROCKETEXP_STYLE_ADD"
 msgstr "Адаптивний"
 
 msgid "OPTVAL_LAX"
-msgstr "Гнучкий"
+msgstr "Гнучке"
 
 msgid "OPTVAL_STRICT"
 msgstr "Точний"
@@ -5569,3 +5569,7 @@ msgstr "Підтвердити"
 
 msgid "TXT_OK"
 msgstr "OK"
+
+#, fuzzy
+msgid "CMPTMNU_TRANSFERSECRET"
+msgstr "Механізм зміни підлоги з передаванням секрету в BOOM"
