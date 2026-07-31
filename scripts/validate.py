@@ -4,6 +4,7 @@
 Tests that everything is okay in the database
 """
 
+import os
 import re
 import sys
 from pathlib import Path
@@ -46,8 +47,20 @@ def main():
         expected = set()
         for e in po:
             if not bool(pattern.match(e.msgid)):
-                issue(e.msgid, invalid_name=component)
+                issue(e.msgid, invalid_name=ppath)
             expected.add(e.msgid)
+
+        for file in os.listdir(cpath):
+            if file.endswith(".po"):
+                ppath = cpath / file
+                po = polib.pofile(ppath)
+                found=set()
+                for e in po:
+                    if not bool(pattern.match(e.msgid)):
+                        issue(e.msgid, invalid_name=ppath)
+                    expected.add(e.msgid)
+                for e in found - expected:
+                    issue(e, extra_key=ppath)
 
     if issues:
         pretty(issues)
