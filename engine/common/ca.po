@@ -1760,5 +1760,5 @@ msgstr "Quant a"
 msgid "PICKER_TAB_RELEASE"
 msgstr "Notes de la versió"
 
-msgid "$MSGMNU_MESSAGEFADE"
+msgid "MSGMNU_MESSAGEFADE"
 msgstr "Durada de l'esvaïment del missatge"
