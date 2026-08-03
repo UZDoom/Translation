@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-31 18:02+0000\n"
+"PO-Revision-Date: 2026-08-01 21:01+0000\n"
 "Last-Translator: Ron Dallas <Lot_bohdan@ukr.net>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/uk/>\n"
 "Language: uk\n"
@@ -85,7 +85,7 @@ msgstr "Ви дійсно хочете вийти?"
 
 msgctxt "heretic"
 msgid "SWSTRING"
-msgstr "Доступно только в полной версии"
+msgstr "Доступно тільки в повній версії"
 
 msgid "DOSY"
 msgstr "(Натисніть Y для виходу)"
@@ -5461,7 +5461,7 @@ msgid "UPDATER_INTERVAL"
 msgstr "Перевіряти кожен:"
 
 msgid "UPDATER_UPDATE_AVAILABLE"
-msgstr "Доступно нове оновлення"
+msgstr "Доступне нове оновлення"
 
 msgid "UPDATER_UPDATE_SKIP"
 msgstr "Пропустити оновлення"
@@ -5547,7 +5547,7 @@ msgid "TXT_EXPERIMENTAL"
 msgstr "Експериментальне"
 
 msgid "TXT_UPDATE"
-msgstr "Оновлення"
+msgstr "Оновити"
 
 msgid "TXT_UPDATED"
 msgstr "Оновлено"

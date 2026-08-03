@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-14 05:01+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-08-02 19:02+0000\n"
+"Last-Translator: Andrei Stepanov <adem4ik@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -2781,7 +2781,6 @@ msgstr "Превосходная работа!"
 msgid "CE4TEXT"
 msgstr "Великолепно"
 
-#, fuzzy
 msgid "CLOADNET"
 msgstr ""
 "Невозможно загрузить сохранение в сетевом задании!\n"
@@ -4344,9 +4343,8 @@ msgstr "Сортировать списки текстур"
 msgid "GLLIGHTMNU_TITLE"
 msgstr "Динамическое освещение"
 
-#, fuzzy
 msgid "GLLIGHTMNU_LIGHTSENABLED"
-msgstr "Динамическое освещение (аппаратное)"
+msgstr "Динамические источники света"
 
 msgid "GLLIGHTMNU_LIGHTSPRITES"
 msgstr "Освещать спрайты"
@@ -5490,3 +5488,48 @@ msgstr "Подтвердить"
 
 msgid "TXT_OK"
 msgstr "ОК"
+
+msgid "VALFORMAT_DB"
+msgstr "%s дБ"
+
+msgid "VALFORMAT_DB_P_METER"
+msgstr "%s дБ/м"
+
+msgid "VALFORMAT_DEGREES"
+msgstr "%s°"
+
+msgid "VALFORMAT_FPS"
+msgstr "%s кадр/с"
+
+msgid "VALFORMAT_HZ"
+msgstr "%s Гц"
+
+msgid "VALFORMAT_METER"
+msgstr "%s м"
+
+msgid "VALFORMAT_MSECOND"
+msgstr "%s мс"
+
+msgid "VALFORMAT_MULTIPLIER"
+msgstr "%s ×"
+
+msgid "VALFORMAT_PERCENT"
+msgstr "%s %%"
+
+msgid "VALFORMAT_SECOND"
+msgstr "%s с"
+
+msgid "MAPCOLORMNU_SECTORFILLALPHA"
+msgstr "Альфа-канал заливки"
+
+msgid "MAPCOLORMNU_SECTORFILLCOLOR"
+msgstr "Цвет заливки"
+
+msgid "ACCMNU_DOUBLECLICK_THRESHOLD"
+msgstr "Порог двойного щелчка"
+
+msgid "ACCMNU_TOOLTIP_DOUBLECLICK_THRESHOLD"
+msgstr "Интервал между последовательными нажатиями клавиш для срабатывания события двойного щелчка"
+
+msgid "CMPTMNU_TRANSFERSECRET"
+msgstr "Особый эффект BOOM при изменении пола передаёт секрет."
