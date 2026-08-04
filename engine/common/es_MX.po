@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-08-04 00:06+0000\n"
+"PO-Revision-Date: 2026-08-04 02:01+0000\n"
 "Last-Translator: Gabriel Valderrama <koto41@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/common/es_MX/>\n"
 "Language: es_MX\n"
@@ -1195,186 +1195,186 @@ msgid "OPTVAL_QUALITY"
 msgstr "Calidad"
 
 msgid "GLPREFMNU_SECLIGHTMODE"
-msgstr ""
+msgstr "Modo de luz de sector"
 
 msgid "GLPREFMNU_FOGMODE"
-msgstr ""
+msgstr "Modo de niebla"
 
 msgid "OPTVAL_RADIAL"
-msgstr ""
+msgstr "Radial"
 
 msgid "OPTVAL_STANDARD"
-msgstr ""
+msgstr "Estandar"
 
 msgid "GLTEXMNU_TEXFILTER"
-msgstr ""
+msgstr "Modo de filtrado de texturas"
 
 msgid "GLTEXMNU_ANISOTROPIC"
-msgstr ""
+msgstr "Filtro anisotrópico"
 
 msgid "OPTVAL_NONENEARESTMIPMAP"
-msgstr ""
+msgstr "Ninguno (mipmap más cercano)"
 
 msgid "OPTVAL_NONELINEARMIPMAP"
-msgstr ""
+msgstr "Ninguno (mipmap lineal)"
 
 msgid "OPTVAL_NONETRILINEAR"
-msgstr ""
+msgstr "Ninguno (Trilineal)"
 
 msgid "OPTVAL_BILINEAR"
-msgstr ""
+msgstr "Bilineal"
 
 msgid "OPTVAL_TRILINEAR"
-msgstr ""
+msgstr "Trilineal"
 
 msgid "OPTVAL_2X"
-msgstr ""
+msgstr "2×"
 
 msgid "OPTVAL_4X"
-msgstr ""
+msgstr "4×"
 
 msgid "OPTVAL_8X"
-msgstr ""
+msgstr "8×"
 
 msgid "OPTVAL_16X"
-msgstr ""
+msgstr "16×"
 
 msgid "OPTVAL_32X"
-msgstr ""
+msgstr "32×"
 
 msgid "GLTEXMNU_TITLE"
-msgstr ""
+msgstr "Opciones de Texturas"
 
 msgid "GLTEXMNU_HQRESIZE"
-msgstr ""
+msgstr "Modo de Redimensionado de Alta Calidad"
 
 msgid "GLTEXMNU_HQRESIZEMULT"
-msgstr ""
+msgstr "Multiplicado de Redimensionado de Alta Calidad"
 
 msgid "GLTEXMNU_HQRESIZEWARN"
-msgstr ""
+msgstr "Este modo requiere %d veces más memoria de video"
 
 msgid "GLTEXMNU_RESIZETEX"
-msgstr ""
+msgstr "Redimensionar texturas"
 
 msgid "GLTEXMNU_RESIZESPR"
-msgstr ""
+msgstr "Redimensionar sprites"
 
 msgid "GLTEXMNU_RESIZEFNT"
-msgstr ""
+msgstr "Redimensionar fuentes"
 
 msgid "GLTEXMNU_RESIZESKN"
-msgstr ""
+msgstr "Redimensionar apariencia de modelos"
 
 msgid "GLTEXMNU_PRECACHETEX"
-msgstr ""
+msgstr "Precaché de texturas GL"
 
 msgid "VIDMNU_TITLE"
 msgstr "Modos de video"
 
 msgid "OPTVAL_LETTERBOX"
-msgstr ""
+msgstr "Reducido"
 
 msgid "OPTVAL_STRETCH"
 msgstr "Estrecho"
 
 msgid "VIDMNU_RENDERMODE"
-msgstr ""
+msgstr "Modo de Renderizado"
 
 msgid "VIDMNU_FULLSCREEN"
-msgstr ""
+msgstr "Pantalla completa"
 
 msgid "VIDMNU_HIDPI"
-msgstr ""
+msgstr "Soporte Retina/HiDPI"
 
 msgid "VIDMNU_FORCEASPECT"
-msgstr ""
+msgstr "Forzar relación de aspecto"
 
 msgid "VIDMNU_CROPASPECT"
-msgstr ""
+msgstr "Estilo de relación forzada"
 
 msgid "VIDMNU_SCALEMODE"
-msgstr ""
+msgstr "Escala de resolución"
 
 msgid "VIDMNU_SCALEFACTOR"
-msgstr ""
+msgstr "Factor de escalado"
 
 msgid "VIDMNU_USELINEAR"
-msgstr ""
+msgstr "Usar escalado lineal (Pantalla completa)"
 
 msgid "VIDMNU_CUSTOMRES"
-msgstr ""
+msgstr "Escalado de pixeles personalizados"
 
 msgid "VIDMNU_CUSTOMX"
-msgstr ""
+msgstr "Ancho personalizado"
 
 msgid "VIDMNU_CUSTOMY"
-msgstr ""
+msgstr "Altura personalizada"
 
 msgid "VIDMNU_APPLYW"
-msgstr ""
+msgstr "Aplicar Cambios (En ventana)"
 
 msgid "VIDMNU_APPLYFS"
-msgstr ""
+msgstr "Aplicar Cambios (Pantalla completa)"
 
 msgid "VIDMNU_RESPRESET"
-msgstr ""
+msgstr "Elegir Preajuste de Resolución"
 
 msgid "VIDMNU_RESPRESETTTL"
-msgstr ""
+msgstr "Preajustes de Resolución Personalizados"
 
 msgid "VIDMNU_RESPRESETHEAD"
-msgstr ""
+msgstr "Modos de Preajuste de Resolución"
 
 msgid "VIDMNU_ASPECT43"
-msgstr ""
+msgstr "Aspecto 4:3"
 
 msgid "VIDMNU_ASPECT54"
-msgstr ""
+msgstr "Aspecto 5:4"
 
 msgid "VIDMNU_ASPECT169"
-msgstr ""
+msgstr "Aspecto 16:9"
 
 msgid "VIDMNU_ASPECT1610"
-msgstr ""
+msgstr "Aspecto 16:10"
 
 msgid "VIDMNU_ASPECT219"
-msgstr ""
+msgstr "Aspecto 21:9"
 
 msgid "OPTVAL_NORMAL"
-msgstr ""
+msgstr "Normal"
 
 # This describes vid_scalemode 1, which represents the lowest possible scaling
 # to fill the allocated screen area
 msgid "OPTVAL_LOWEST"
-msgstr ""
+msgstr "La escala más baja posible"
 
 msgid "OPTVAL_CUSTOM"
-msgstr ""
+msgstr "Personalizado"
 
 msgid "VIDMNU_MAXFPS"
-msgstr ""
+msgstr "FPS máximos"
 
 msgid "OPTVAL_60FPS"
-msgstr ""
+msgstr "60 fps"
 
 msgid "OPTVAL_75FPS"
-msgstr ""
+msgstr "75 fps"
 
 msgid "OPTVAL_90FPS"
-msgstr ""
+msgstr "90 fps"
 
 msgid "OPTVAL_120FPS"
-msgstr ""
+msgstr "120 fps"
 
 msgid "OPTVAL_144FPS"
-msgstr ""
+msgstr "144 fps"
 
 msgid "OPTVAL_200FPS"
-msgstr ""
+msgstr "200 fps"
 
 msgid "VIDMNU_PREFERBACKEND"
-msgstr ""
+msgstr "API Preferida de Renderizado"
 
 msgid "OPTVAL_OPENGL"
 msgstr "OpenGL"
@@ -1390,110 +1390,110 @@ msgid "MISCMNU_MERGEKEYS"
 msgstr "Combinar Alt/Ctrl/Shift izq. con der"
 
 msgid "MISCMNU_WINFULLSCREENTOGGLE"
-msgstr ""
+msgstr "Alt-Enter alterna pantalla completa"
 
 msgid "MISCMNU_MACFULLSCREENTOGGLE"
-msgstr ""
+msgstr "Command-F alterna pantalla completa"
 
 msgid "MISCMNU_ENABLEAUTOSAVES"
-msgstr ""
+msgstr "Habilitar autoguardados"
 
 msgid "MISCMNU_AUTOSAVECOUNT"
-msgstr ""
+msgstr "Número de autoguardados"
 
 msgid "MISCMNU_SAVELOADCONFIRMATION"
-msgstr ""
+msgstr "Confirmación al Guardar/Cargar"
 
 msgid "MISCMNU_NOCHEATS"
-msgstr ""
+msgstr "Desactivar trucos de teclado"
 
 msgid "MISCMNU_QUICKSAVEROTATION"
-msgstr ""
+msgstr "Rotación de guardado rápido"
 
 msgid "MISCMNU_QUICKSAVECOUNT"
-msgstr ""
+msgstr "Número de guardados rápidos en rotación"
 
 msgid "MISCMNU_CLEANMENU"
-msgstr ""
+msgstr "Escalado de menú de ZDoom clásico"
 
 msgid "MISCMNU_PAUSEINBACKGROUND"
-msgstr ""
+msgstr "Pausar juego en segundo plano"
 
 msgid "HUDMNU_CROSSHAIR"
-msgstr ""
+msgstr "Retícula por defecto"
 
 msgid "HUDMNU_CROSSHAIRCOLOR"
-msgstr ""
+msgstr "Color de retícula"
 
 msgid "HUDMNU_CROSSHAIRSCALE"
-msgstr ""
+msgstr "Escalar retícula"
 
 # copied from elsewhere
 msgid "OPTVAL_YES_STANDARD"
-msgstr ""
+msgstr "Estandar"
 
 msgid "OPTVAL_YES_ENHANCED"
-msgstr ""
+msgstr "Mejorado"
 
 msgid "OPTMNU_LANGUAGE"
-msgstr ""
+msgstr "Idioma"
 
 msgid "TXT_UNDOCHANGES"
-msgstr ""
+msgstr "Deshacer Cambios"
 
 msgid "REVMNU_SELECT"
-msgstr ""
+msgstr "Elegir Entorno"
 
 msgid "REVMNU_TEST"
-msgstr ""
+msgstr "Probar Entorno"
 
 msgid "REVMNU_EDIT"
-msgstr ""
+msgstr "Editar Entorno"
 
 msgid "REVMNU_NEW"
-msgstr ""
+msgstr "Nuevo Entorno"
 
 msgid "REVMNU_REFLECTIONS_SCALE"
-msgstr ""
+msgstr "Escala de Reflejos"
 
 msgid "REVMNU_REFLECTIONS_DELAY_SCALE"
-msgstr ""
+msgstr "Escala de Retraso de Reflejos"
 
 msgid "REVMNU_DECAY_TIME_SCALE"
-msgstr ""
+msgstr "Escala de Retraso de Tiempo"
 
 msgid "REVMNU_DECAY_HF_LIMIT"
-msgstr ""
+msgstr "Límite de Decaimiento de Alta Frecuencia"
 
 msgid "REVMNU_REVERB_SCALE"
-msgstr ""
+msgstr "Escala de Reverberación"
 
 msgid "REVMNU_REVERB_DELAY_SCALE"
-msgstr ""
+msgstr "Escala de Retraso de Reverberación"
 
 msgid "REVMNU_ECHO_TIME_SCALE"
-msgstr ""
+msgstr "Escala de Tiempo de Eco"
 
 msgid "REVMNU_MODULATION_TIME_SCALE"
-msgstr ""
+msgstr "Escala de Tiempo de Modulación"
 
 msgid "REVMNU_BASED_ON"
-msgstr ""
+msgstr "Basado en"
 
 msgid "REVMNU_NAME"
 msgstr "Nombre"
 
 msgid "REVMNU_ID_1"
-msgstr ""
+msgstr "ID #1"
 
 msgid "REVMNU_ID_2"
-msgstr ""
+msgstr "ID #2"
 
 msgid "REVMNU_CREATE"
-msgstr ""
+msgstr "Crear"
 
 msgid "REVMNU_SAVE"
-msgstr ""
+msgstr "Guardar…"
 
 msgid "REVMNU_FILE_NAME"
 msgstr ""
