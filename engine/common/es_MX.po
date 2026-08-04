@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-08-03 23:01+0000\n"
+"PO-Revision-Date: 2026-08-04 00:06+0000\n"
 "Last-Translator: Gabriel Valderrama <koto41@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/common/es_MX/>\n"
 "Language: es_MX\n"
@@ -1150,49 +1150,49 @@ msgid "GLMNU_POSTPROCESS"
 msgstr "Postprocesado"
 
 msgid "GLPREFMNU_TONEMAP"
-msgstr ""
+msgstr "Modo de mapa de tonos"
 
 msgid "GLPREFMNU_LENS"
-msgstr ""
+msgstr "Efecto de distorsión de lente"
 
 msgid "GLPREFMNU_FXAA"
-msgstr ""
+msgstr "Calidad FXAA"
 
 msgid "GLPREFMNU_DITHER"
-msgstr ""
+msgstr "Salida de tramado"
 
 msgid "GLPREFMNU_PALTONEMAPORDER"
-msgstr ""
+msgstr "Orden de paleta de mapas de tonos"
 
 msgid "GLPREFMNU_PALTONEMAPPOWER"
-msgstr ""
+msgstr "Exponente de paleta de mapas de tonos"
 
 msgid "GLPREFMNU_MULTISAMPLE"
-msgstr ""
+msgstr "Multimuestreo"
 
 msgid "GLPREFMNU_BLOOM"
-msgstr ""
+msgstr "Efecto de bloom"
 
 msgid "GLPREFMNU_SSAO"
-msgstr ""
+msgstr "Calidad de oclusión ambiental"
 
 msgid "GLPREFMNU_SSAO_PORTALS"
-msgstr ""
+msgstr "Portales con OA"
 
 msgid "GLPREFMNU_MENUBLUR"
-msgstr ""
+msgstr "Desenfoque de menú"
 
 msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr ""
+msgstr "Mapa de entorno en espejos"
 
 msgid "GLPREFMNU_RENDERQUALITY"
-msgstr ""
+msgstr "Calidad de renderizado"
 
 msgid "OPTVAL_SPEED"
-msgstr ""
+msgstr "Velocidad"
 
 msgid "OPTVAL_QUALITY"
-msgstr ""
+msgstr "Calidad"
 
 msgid "GLPREFMNU_SECLIGHTMODE"
 msgstr ""
