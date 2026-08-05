@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-08-05 21:01+0000\n"
+"PO-Revision-Date: 2026-08-05 23:01+0000\n"
 "Last-Translator: Gabriel Valderrama <koto41@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/es_MX/>\n"
 "Language: es_MX\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Weblate 2026.8.1.dev0\n"
 
 msgid "PRESSKEY"
-msgstr "Presiona cualquier tecla."
+msgstr "Pulsa una tecla."
 
 msgid "SECRETMESSAGE"
 msgstr "¡Un secreto se ha revelado!"
@@ -2392,46 +2392,46 @@ msgid "TAG_ARMORER"
 msgstr "Armero"
 
 msgid "TAG_BARKEEP"
-msgstr ""
+msgstr "Tabernero"
 
 msgid "TAG_BEGGAR"
-msgstr ""
+msgstr "Pordiosero"
 
 msgid "TAG_MACIL1"
-msgstr ""
+msgstr "Macil"
 
 msgid "TAG_MACIL2"
-msgstr ""
+msgstr "Macil"
 
 msgid "TAG_MEDIC"
-msgstr ""
+msgstr "Médico"
 
 msgid "TAG_ORACLE"
-msgstr ""
+msgstr "Oráculo"
 
 msgid "TAG_PRIEST"
-msgstr ""
+msgstr "Sacerdote"
 
 msgid "TAG_RATBUDDY"
-msgstr ""
+msgstr "Rata"
 
 msgid "TAG_REBEL"
-msgstr ""
+msgstr "Rebelde"
 
 msgid "TAG_TEMPLAR"
-msgstr ""
+msgstr "Templario"
 
 msgid "TAG_WEAPONSMITH"
-msgstr ""
+msgstr "Forjador de Armas"
 
 msgid "TAG_TALISMANRED"
-msgstr ""
+msgstr "Talismán Rojo"
 
 msgid "TAG_TALISMANGREEN"
-msgstr ""
+msgstr "Talismán Verde"
 
 msgid "TAG_TALISMANBLUE"
-msgstr ""
+msgstr "Talismán Azul"
 
 msgid "OB_ACOLYTE"
 msgstr "A %o l@[ao_esp] derribó con entusiasmo un Acólito."
@@ -2524,7 +2524,7 @@ msgid "OB_MPSIGIL"
 msgstr "%o se inclinó ante el poder puro del emblema de %k."
 
 msgid "TXT_STRIFE_EPI"
-msgstr ""
+msgstr "La Búsqueda del Sigilo"
 
 msgid "TXT_FREED_PRISONERS"
 msgstr "¡Liberaste a los prisioneros!"
@@ -2533,7 +2533,7 @@ msgid "TXT_DESTROYED_CONVERTER"
 msgstr "¡Destruiste el convertidor!"
 
 msgid "TXT_COMPLETED_TRAINING"
-msgstr "¡Muy bien! Has completado el área de entrenamiento"
+msgstr "¡Felicidades! Has completado el área de entrenamiento"
 
 msgid "TXT_QUEST_14"
 msgstr "Volaste el cristal"
@@ -2557,646 +2557,691 @@ msgid "TXT_KILLED_LOREMASTER"
 msgstr "¡Mataste al Maestro del Conocimiento!"
 
 msgid "TXT_YOUFOOL"
-msgstr "¡Tont@[ao_esp]! Activaste la alarma."
+msgstr "¡Estúpid@[ao_esp]! Activaste la alarma."
 
 msgid "TXT_YOUREDEAD"
 msgstr "¡Estás muert@[ao_esp]! Activaste la alarma."
 
 msgid "TXT_HAVEENOUGH"
-msgstr ""
+msgstr "¡Se ve que tienes suficiente!"
 
 msgid "TXT_GOAWAY"
-msgstr ""
+msgstr "¡Lárgate!"
 
 msgid "TXT_COMM0"
-msgstr ""
+msgstr "Mensaje entrante…"
 
 msgid "TXT_COMM1"
-msgstr ""
+msgstr "Mensaje entrante de BlackBird…"
 
 msgid "TXT_FINDHELP"
-msgstr ""
+msgstr "Encuentra ayuda"
 
 # As in for %u amount of money.
 msgid "TXT_TRADE"
-msgstr ""
+msgstr "por %u de oro"
 
 msgid "GOTCHEXARMOR"
-msgstr ""
+msgstr "Recogiste la Armadura de Chex®."
 
 msgid "GOTSUPERCHEXARMOR"
-msgstr ""
+msgstr "¡Recogiste la Súperarmadura de Chex®!"
 
 msgid "GOTWATER"
-msgstr ""
+msgstr "Recogiste un vaso con agua."
 
 msgid "GOTREPELLENT"
-msgstr ""
+msgstr "Recogiste repelente de baba."
 
 msgid "GOTBREAKFAST"
-msgstr ""
+msgstr "¡Desayuno Supercargado!"
 
 msgid "GOTCBLUEKEY"
-msgstr ""
+msgstr "Recogiste una llave azul."
 
 msgid "GOTCYELLOWKEY"
-msgstr ""
+msgstr "Recogiste una llave amarilla."
 
 msgid "GOTCREDKEY"
-msgstr ""
+msgstr "Recogiste una llave roja."
 
 msgid "GOTFRUIT"
-msgstr ""
+msgstr "Recogiste un tazón de fruta."
 
 msgid "GOTVEGETABLESNEED"
-msgstr ""
+msgstr "¡Las verduras son REALMENTE buenos para ti!"
 
 msgid "GOTVEGETABLES"
-msgstr ""
+msgstr "Recogiste un tazón de verduras."
 
 msgid "GOTSLIMESUIT"
-msgstr ""
+msgstr "Encontraste un Traje a Prueba de Baba"
 
 msgid "GOTCHEXMAP"
-msgstr ""
+msgstr "Encontraste un Mapa Computarizado"
 
 msgid "GOTZORCHRECHARGE"
-msgstr ""
+msgstr "Recogiste una recarga de mini zorch."
 
 msgid "GOTMINIZORCHPACK"
-msgstr ""
+msgstr "Recogiste un paquete de mini zorch."
 
 msgid "GOTPROPULSORRECHARGE"
-msgstr ""
+msgstr "Recogiste una carga de propulsor de zorch."
 
 msgid "GOTPROPULSORPACK"
-msgstr ""
+msgstr "Recogiste un paquete de propulsor de zorch."
 
 msgid "GOTPHASINGZORCHERRECHARGE"
-msgstr ""
+msgstr "Recogiste una recarga de zorchador de fase"
 
 msgid "GOTPHASINGZORCHERPACK"
-msgstr ""
+msgstr "Recogiste un paquete de zorchador de fase."
 
 msgid "GOTLARGEZORCHERRECHARGE"
-msgstr ""
+msgstr "Recogiste una recarga del gran zorchador."
 
 msgid "GOTLARGEZORCHERPACK"
-msgstr ""
+msgstr "Recogiste un paquete del gran zorchador."
 
 msgid "GOTZORCHPACK"
-msgstr ""
+msgstr "¡Recogiste un Zorchpak!"
 
 msgid "GOTLAZDEVICE"
-msgstr ""
+msgstr "¡Tienes el dispositivo LAZ! ¡Vaya!"
 
 msgid "GOTRAPIDZORCHER"
-msgstr ""
+msgstr "¡Obtuviste el Zorchador Rápido!"
 
 msgid "GOTSUPERBOOTSPORK"
-msgstr ""
+msgstr "¡Obtuviste el Súper Cuchador!"
 
 msgid "GOTZORCHPROPULSOR"
-msgstr ""
+msgstr "¡Obtuviste el Propulsor de Zorch!"
 
 msgid "GOTPHASINGZORCHER"
-msgstr ""
+msgstr "¡Obtuviste el Zorchador de Fase!"
 
 msgid "GOTLARGEZORCHER"
-msgstr ""
+msgstr "¡Obtuviste el Gran Zorchador!"
 
 msgid "GOTSUPERLARGEZORCHER"
-msgstr ""
+msgstr "¡Obtuviste el Mega Zorchador!"
 
 msgid "GOTMINIZORCHER"
-msgstr ""
+msgstr "Recogiste un Mini Zorchador."
 
 msgid "TAG_SPOON"
-msgstr ""
+msgstr "Cuchara"
 
 msgid "TAG_SPORK"
-msgstr ""
+msgstr "Super Cuchador"
 
 msgid "TAG_MINIZORCHER"
-msgstr ""
+msgstr "Mini Zorchador"
 
 msgid "TAG_LARGEZORCHER"
-msgstr ""
+msgstr "Gran Zorchador"
 
 msgid "TAG_SUPERLARGEZORCHER"
-msgstr ""
+msgstr "Super Gran Zorchador"
 
 msgid "TAG_RAPIDZORCHER"
-msgstr ""
+msgstr "Zorchador Rápido"
 
 msgid "TAG_ZORCHPROPULSOR"
-msgstr ""
+msgstr "Propulsor de Zorch"
 
 msgid "TAG_PHASINGZORCHER"
-msgstr ""
+msgstr "Zorchador de Fase"
 
 msgid "TAG_LAZDEVICE"
-msgstr ""
+msgstr "Dispositivo LAZ"
 
 msgid "OB_COMMONUS"
-msgstr ""
+msgstr "%o fue babead@[ao_esp] por un flemoide."
 
 msgid "OB_BIPEDICUS"
-msgstr ""
+msgstr "%o fue babead@[ao_esp] por un bipédico."
 
 msgid "OB_BIPEDICUS2"
-msgstr ""
+msgstr "%o fue babead@[ao_esp]por un bipédico blindado."
 
 msgid "OB_CYCLOPTIS"
-msgstr ""
+msgstr "%o fue babead@[ao_esp] por un cicloptis."
 
 msgid "OB_FLEMBRANE"
-msgstr ""
+msgstr "%o fue derrorad@[ao_esp] por la Flembrana."
 
 msgid "OB_MPSPOON"
-msgstr ""
+msgstr "%o fue cucharead@[ao_esp] por %k."
 
 msgid "OB_MPBOOTSPORK"
-msgstr ""
+msgstr "%o fue profundamente mezclad@[ao_esp] por el cuchador de %k."
 
 msgid "OB_MPZORCH"
-msgstr ""
+msgstr "%o ha sido zorchead@[ao_esp] por %k."
 
 msgid "OB_MPMEGAZORCH"
-msgstr ""
+msgstr "%o fue golpead@[ao_esp] por el mega-zorchador de %k."
 
 msgid "OB_MPRAPIDZORCH"
-msgstr ""
+msgstr "%o ha sido rápidamente zorchead@[ao_esp] por %k."
 
 msgid "OB_MPPROPULSOR"
-msgstr ""
+msgstr "%o ha sido zorchead@[ao_esp] por el propulsor de %k."
 
 msgid "OB_MPP_SPLASH"
-msgstr ""
+msgstr "%o ha sido golpead@[ao_esp] por el propulsor de %k."
 
 msgid "OB_MPPHASEZORCH"
-msgstr ""
+msgstr "%o ha sido zorchead@[ao_esp] por fases por %k."
 
 msgid "OB_MPLAZ_BOOM"
-msgstr ""
+msgstr "%o fue apresad@[ao_esp] por el dispositivo LAZ de %k."
 
 msgctxt "chex"
 msgid "OB_MPBFG_SPLASH"
-msgstr ""
+msgstr "%o fue LAZead@[ao_esp] por %k."
 
 msgid "CHUSTR_E1M1"
-msgstr ""
+msgstr "E1M1: Zona de Aterrizaje"
 
 msgid "CHUSTR_E1M2"
-msgstr ""
+msgstr "E1M2: Complejo de Almacenamiento"
 
 msgid "CHUSTR_E1M3"
-msgstr ""
+msgstr "E1M3: Laboratorio Experimental"
 
 msgid "CHUSTR_E1M4"
-msgstr ""
+msgstr "E1M4: Arboreto"
 
 msgid "CHUSTR_E1M5"
-msgstr ""
+msgstr "E1M5: Cavernas de Bazoik"
 
 msgid "CE1TEXT"
 msgstr ""
+"Misión cumplida.\n"
+"\n"
+"¿Estás preparad@[ao_esp] para la siguiente misión?\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"Presiona la tecla ESC para continuar…"
 
 msgid "CE2TEXT"
-msgstr ""
+msgstr "¡Lo hiciste!"
 
 msgid "CE3TEXT"
-msgstr ""
+msgstr "¡Maravilloso Trabajo!"
 
 msgid "CE4TEXT"
-msgstr ""
+msgstr "Fantástico"
 
 msgid "CLOADNET"
 msgstr ""
+"¡No puedes cargar una partida mientras estás en línea!\n"
+"\n"
+"Pulsa una tecla."
 
 msgctxt "chex"
 msgid "QSPROMPT"
 msgstr ""
+"¿Guardar sobre tu aventura llamada\n"
+"\n"
+"'%s'?\n"
+"\n"
+"Pulsa Y o N."
 
 msgctxt "chex"
 msgid "QLOADNET"
 msgstr ""
+"¡No puedes guardar rápido durante una aventura en línea!\n"
+"\n"
+"Pulsa una tecla."
 
 msgctxt "chex"
 msgid "QLPROMPT"
 msgstr ""
+"¿Quieres cargar la aventura llamada\n"
+"\n"
+"'%s'?\n"
+"\n"
+"Pulsa Y o N."
 
 msgid "CNEWGAME"
 msgstr ""
+"No puedes iniciar una nueva aventura\n"
+"estando en una aventura en línea.\n"
+"\n"
+"Pulsa una tecla."
 
 msgid "CNIGHTMARE"
 msgstr ""
+"Con cuidado, esto será duro.\n"
+"¿Deseas continuar?\n"
+"\n"
+"Pulsa Y o N."
 
 msgid "CSWSTRING"
 msgstr ""
+"Esto es Chex® Quest. Busca\n"
+"\n"
+"niveles futuros en www.chexquest.com.\n"
+"\n"
+"Pulsa una tecla."
 
 msgctxt "chex"
 msgid "NETEND"
 msgstr ""
+"¡No puedes terminar una aventura en línea!\n"
+"\n"
+"Pulsa una tecla."
 
 msgctxt "chex"
 msgid "ENDGAME"
 msgstr ""
+"¿Estás segur@[ao_esp] que quieres terminar la aventura?\n"
+"\n"
+"Pulsa Y o N."
 
 msgctxt "chex"
 msgid "STSTR_DQDON"
-msgstr ""
+msgstr "Modo Invencible: ACTIVADO"
 
 msgctxt "chex"
 msgid "STSTR_DQDOFF"
-msgstr ""
+msgstr "Modo Invencible: DESACTIVADO"
 
 msgctxt "chex"
 msgid "STSTR_FAADDED"
-msgstr ""
+msgstr "Zorch Añadido"
 
 msgctxt "chex"
 msgid "STSTR_KFAADDED"
-msgstr ""
+msgstr "Super Zorch Añadido"
 
 msgctxt "chex"
 msgid "STSTR_CHOPPERS"
-msgstr ""
+msgstr "…Come Chex®!"
 
 msgctxt "chex"
 msgid "AMMO_CLIP"
-msgstr ""
+msgstr "Carga de Mini Zorch"
 
 msgctxt "chex"
 msgid "AMMO_SHELLS"
-msgstr ""
+msgstr "Carga de Gran Zorchador"
 
 msgctxt "chex"
 msgid "AMMO_ROCKETS"
-msgstr ""
+msgstr "Carga de Propulsor"
 
 msgctxt "chex"
 msgid "AMMO_CELLS"
-msgstr ""
+msgstr "Carga de Zorchador de Fase"
 
 msgid "MNU_NEWGAME"
-msgstr ""
+msgstr "Nueva Partida"
 
 msgid "MNU_OPTIONS"
 msgstr "Opciones"
 
 msgid "MNU_GAMEFILES"
-msgstr ""
+msgstr "Archivos de Juego"
 
 msgid "MNU_INFO"
-msgstr ""
+msgstr "Información"
 
 msgid "MNU_QUITGAME"
 msgstr "Terminar Partida"
 
 # This text is extremely space limited!
 msgid "MNU_CHOOSESKILL"
-msgstr ""
+msgstr "Elige la Dificultad:"
 
 msgid "SKILL_BABY"
-msgstr ""
+msgstr "Soy muy joven para morir."
 
 msgid "SKILL_EASY"
-msgstr ""
+msgstr "Oye, no tan duro."
 
 msgid "SKILL_NORMAL"
-msgstr ""
+msgstr "Hazme daño."
 
 msgid "SKILL_HARD"
-msgstr ""
+msgstr "Ultraviolencia."
 
 msgid "SKILL_NIGHTMARE"
-msgstr ""
+msgstr "¡Pesadilla!"
 
 msgid "CSKILL_BABY"
-msgstr ""
+msgstr "Con calma"
 
 msgid "CSKILL_EASY"
-msgstr ""
+msgstr "No tan pegajoso"
 
 msgid "CSKILL_NORMAL"
-msgstr ""
+msgstr "Mocos por doquier"
 
 msgid "CSKILL_HARD"
-msgstr ""
+msgstr "Rezumado Extremo"
 
 msgid "CSKILL_NIGHTMARE"
-msgstr ""
+msgstr "¡Súper Baboso!"
 
 msgid "SSKILL_BABY"
-msgstr ""
+msgstr "Ensayo"
 
 msgid "SSKILL_EASY"
-msgstr ""
+msgstr "Novato"
 
 msgid "SSKILL_NORMAL"
-msgstr ""
+msgstr "Veterano"
 
 msgid "SSKILL_HARD"
-msgstr ""
+msgstr "Élite"
 
 msgid "SSKILL_NIGHTMARE"
-msgstr ""
+msgstr "Baño de sangre"
 
 msgid "MNU_WETNURSE"
-msgstr ""
+msgstr "Necesitaréis una nodriza"
 
 msgid "MNU_YELLOWBELLIES"
-msgstr ""
+msgstr "Somos Timoratos"
 
 msgid "MNU_BRINGEST"
-msgstr ""
+msgstr "Traédnoslos"
 
 msgid "MNU_SMITE"
-msgstr ""
+msgstr "Sois un regicida"
 
 msgid "MNU_BLACKPLAGUE"
-msgstr ""
+msgstr "La peste negra os posee"
 
 msgid "MNU_SQUIRE"
-msgstr ""
+msgstr "Escudero"
 
 msgid "MNU_KNIGHT"
-msgstr ""
+msgstr "Caballero"
 
 msgid "MNU_WARRIOR"
-msgstr ""
+msgstr "Guerrero"
 
 msgid "MNU_BERSERKER"
-msgstr ""
+msgstr "Berserker"
 
 msgid "MNU_TITAN"
-msgstr ""
+msgstr "Titán"
 
 msgid "MNU_ALTARBOY"
-msgstr ""
+msgstr "Monaguillo"
 
 msgid "MNU_ACOLYTE"
-msgstr ""
+msgstr "Acólito"
 
 msgid "MNU_PRIEST"
-msgstr ""
+msgstr "Sacerdote"
 
 msgid "MNU_CARDINAL"
-msgstr ""
+msgstr "Cardenal"
 
 msgid "MNU_POPE"
-msgstr ""
+msgstr "Papa"
 
 msgid "MNU_APPRENTICE"
-msgstr ""
+msgstr "Aprendiz"
 
 msgid "MNU_ENCHANTER"
-msgstr ""
+msgstr "Encantador"
 
 msgid "MNU_SORCERER"
-msgstr ""
+msgstr "Hechicero"
 
 msgid "MNU_WARLOCK"
-msgstr ""
+msgstr "Brujo"
 
 msgid "MNU_ARCHMAGE"
-msgstr ""
+msgstr "Archimago"
 
 msgid "MNU_CHOOSECLASS"
-msgstr ""
+msgstr "Elige Clase:"
 
 msgid "MNU_FIGHTER"
-msgstr ""
+msgstr "Peleador"
 
 msgid "MNU_CLERIC"
-msgstr ""
+msgstr "Clérigo"
 
 msgid "MNU_MAGE"
-msgstr ""
+msgstr "Mago"
 
 msgid "MNU_RANDOM"
-msgstr ""
+msgstr "Al azar"
 
 msgid "MNU_EPISODE"
-msgstr ""
+msgstr "¿Cuál Episodio?"
 
 msgctxt "strife"
 msgid "MNU_EPISODE"
-msgstr ""
+msgstr "Elige Campaña"
 
 msgid "MNU_COTD"
-msgstr ""
+msgstr "Ciudad de los Condenados"
 
 msgid "MNU_HELLSMAW"
-msgstr ""
+msgstr "Fauces del infierno"
 
 msgid "MNU_DOME"
 msgstr "El Domo de D'Sparil"
 
 msgid "MNU_OSSUARY"
-msgstr ""
+msgstr "El Osario"
 
 msgid "MNU_DEMESNE"
-msgstr ""
+msgstr "La Heredad Estancada"
 
 msgid "GMPLYMNU_TEAMPLAY"
-msgstr ""
+msgstr "Partida por equipos"
 
 msgid "GMPLYMNU_TEAMDAMAGE"
-msgstr ""
+msgstr "Escalar de daño del equipo"
 
 msgid "GMPLYMNU_SMARTAUTOAIM"
-msgstr ""
+msgstr "Autoapuntado inteligente"
 
 msgid "GMPLYMNU_FALLINGDAMAGE"
-msgstr ""
+msgstr "Daño por caída"
 
 msgid "GMPLYMNU_DROPWEAPON"
-msgstr ""
+msgstr "Botar arma"
 
 msgid "GMPLYMNU_DOUBLEAMMO"
-msgstr ""
+msgstr "Doble munición"
 
 msgid "GMPLYMNU_INFINITEAMMO"
-msgstr ""
+msgstr "Munición infinita"
 
 msgid "GMPLYMNU_INFINITEINVENTORY"
-msgstr ""
+msgstr "Inventario infinito"
 
 msgid "GMPLYMNU_NOMONSTERS"
-msgstr ""
+msgstr "Sin monstruos"
 
 msgid "GMPLYMNU_NOMONSTERSTOEXIT"
-msgstr ""
+msgstr "Sin monstruos para salir"
 
 msgid "GMPLYMNU_MONSTERSRESPAWN"
-msgstr ""
+msgstr "Reaparecer enemigos"
 
 msgid "GMPLYMNU_NORESPAWN"
-msgstr ""
+msgstr "Los monstruos no reaparecen"
 
 msgid "GMPLYMNU_ITEMSRESPAWN"
-msgstr ""
+msgstr "Reaparecer ítems"
 
 msgid "GMPLYMNU_SUPERRESPAWN"
-msgstr ""
+msgstr "Reaparecer potenciadores grandes"
 
 msgid "GMPLYMNU_FASTMONSTERS"
-msgstr ""
+msgstr "Monstruos rápidos"
 
 msgid "GMPLYMNU_INSTANTREACTION"
-msgstr ""
+msgstr "Reflejos de los monstruos en Pesadilla"
 
 msgid "GMPLYMNU_DEGENERATION"
-msgstr ""
+msgstr "Degeneración"
 
 msgid "GMPLYMNU_NOAUTOAIM"
-msgstr ""
+msgstr "Permitir Autoapuntado"
 
 msgid "GMPLYMNU_ALLOWSUICIDE"
-msgstr ""
+msgstr "Permitir Suicidio"
 
 msgid "GMPLYMNU_ALLOWJUMP"
-msgstr ""
+msgstr "Permitir salto"
 
 msgid "GMPLYMNU_ALLOWCROUCH"
-msgstr ""
+msgstr "Permitir agacharse"
 
 msgid "GMPLYMNU_ALLOWFREELOOK"
-msgstr ""
+msgstr "Permitir vista libre"
 
 msgid "GMPLYMNU_ALLOWFOV"
-msgstr ""
+msgstr "Permitir Campo de Visión"
 
 msgid "GMPLYMNU_BFGFREEAIM"
-msgstr ""
+msgstr "Permitir apuntado de BFG"
 
 msgid "GMPLYMNU_ALLOWAUTOMAP"
-msgstr ""
+msgstr "Permitir automapa"
 
 msgid "GMPLYMNU_AUTOMAPALLIES"
-msgstr ""
+msgstr "Aliados en automapa"
 
 msgid "GMPLYMNU_ALLOWSPYING"
-msgstr ""
+msgstr "Permitir espiar"
 
 msgid "GMPLYMNU_CHASECAM"
-msgstr ""
+msgstr "Truco de cámara de seguimiento"
 
 msgid "GMPLYMNU_DONTCHECKAMMO"
-msgstr ""
+msgstr "Revisar munición para cambiar de arma"
 
 msgid "GMPLYMNU_KILLBOSSSPAWNS"
 msgstr "La muerte del ícono destruye sus lacayos"
 
 msgid "GMPLYMNU_NOCOUNTENDMONSTER"
-msgstr ""
+msgstr "Sector de salida cuenta para % de muertes"
 
 msgid "GMPLYMNU_DEATHMATCH"
-msgstr ""
+msgstr "Config. de Duelo a Muerte"
 
 msgid "GMPLYMNU_WEAPONSSTAY"
-msgstr ""
+msgstr "Se quedan las armas"
 
 msgid "GMPLYMNU_ALLOWPOWERUPS"
-msgstr ""
+msgstr "Permitir potenciadores"
 
 msgid "GMPLYMNU_ALLOWHEALTH"
-msgstr ""
+msgstr "Permitir salud"
 
 msgid "GMPLYMNU_ALLOWARMOR"
-msgstr ""
+msgstr "Permitir armadura"
 
 msgid "GMPLYMNU_SPAWNFARTHEST"
-msgstr ""
+msgstr "Aparecer más lejos"
 
 msgid "GMPLYMNU_SAMEMAP"
-msgstr ""
+msgstr "Mismo mapa"
 
 msgid "GMPLYMNU_FORCERESPAWN"
-msgstr ""
+msgstr "Forzar reaparición"
 
 msgid "GMPLYMNU_ALLOWEXIT"
-msgstr ""
+msgstr "Permitir salida"
 
 msgid "GMPLYMNU_BARRELSRESPAWN"
-msgstr ""
+msgstr "Reaparecer barriles"
 
 msgid "GMPLYMNU_RESPAWNPROTECTION"
-msgstr ""
+msgstr "Reaparecer protección"
 
 msgid "GMPLYMNU_LOSEFRAG"
-msgstr ""
+msgstr "Perder baja al morir"
 
 msgid "GMPLYMNU_KEEPFRAGS"
-msgstr ""
+msgstr "Mantener bajas ganadas"
 
 msgid "GMPLYMNU_NOTEAMSWITCH"
-msgstr ""
+msgstr "Sin cambio de equipos"
 
 msgid "GMPLYMNU_COOPERATIVE"
-msgstr ""
+msgstr "Configuración de Cooperativo"
 
 msgid "GMPLYMNU_MULTIPLAYERWEAPONS"
-msgstr ""
+msgstr "Aparecer armas multijugador"
 
 msgid "GMPLYMNU_LOSEINVENTORY"
-msgstr ""
+msgstr "Perder todo el inventario"
 
 msgid "GMPLYMNU_KEEPKEYS"
-msgstr ""
+msgstr "Mantener llaves"
 
 msgid "GMPLYMNU_KEEPWEAPONS"
-msgstr ""
+msgstr "Mantener armas"
 
 msgid "GMPLYMNU_KEEPARMOR"
-msgstr ""
+msgstr "Mantener armadura"
 
 msgid "GMPLYMNU_KEEPPOWERUPS"
-msgstr ""
+msgstr "Mantener potenciadores"
 
 msgid "GMPLYMNU_KEEPAMMO"
-msgstr ""
+msgstr "Mantener munición"
 
 msgid "GMPLYMNU_LOSEHALFAMMO"
-msgstr ""
+msgstr "Perder la mitad de munición"
 
 msgid "GMPLYMNU_SPAWNWHEREDIED"
-msgstr ""
+msgstr "Aparecer donde moriste"
 
 msgid "GMPLYMNU_ALWAYSSPAWNMULTI"
-msgstr ""
+msgstr "Aparecer objetos de multijugador siempre"
 
 msgid "GMPLYMNU_NOVERTSPREAD"
-msgstr ""
+msgstr "Permitir Propagación de Balas en Vertical"
 
 msgid "GMPLYMNU_NOEXTRAAMMO"
-msgstr ""
+msgstr "Las armas dan munición extra (DAM)"
 
 msgid "OPTMNU_COMPATIBILITY"
-msgstr ""
+msgstr "Opciones de Compatibilidad"
 
 msgid "CMPTMNU_TITLE"
-msgstr ""
+msgstr "Opciones de Compatibilidad"
 
 msgid "CMPTMNU_MODE"
-msgstr ""
+msgstr "Modo de compatibilidad"
 
 msgid "CMPTMNU_ACTORBEHAVIOR"
-msgstr ""
+msgstr "Comportamiento de Actor"
 
 msgid "CMPTMNU_NOBLOCKFRIENDS"
-msgstr ""
+msgstr "Monstruos amistosos no se bloquean"
 
 msgid "CMPTMNU_LIMITPAIN"
-msgstr ""
+msgstr "Limitar las Almas Perdidas de los Elementales del Dolor"
 
 msgid "CMPTMNU_MBFMONSTERMOVE"
-msgstr ""
+msgstr "Movimiento de monstruos afectado por efectos"
 
 msgid "CMPTMNU_CROSSDROPOFF"
-msgstr ""
+msgstr "Los monstruos no pueden cruzar declives"
 
 msgid "CMPTMNU_DROPOFF"
 msgstr "Los monstruos se atoran sobre declives"
