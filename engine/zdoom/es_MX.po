@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-08-05 17:02+0000\n"
+"PO-Revision-Date: 2026-08-05 19:03+0000\n"
 "Last-Translator: Gabriel Valderrama <koto41@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/es_MX/>\n"
 "Language: es_MX\n"
@@ -126,33 +126,35 @@ msgstr "Adelante y vete. A ver si me importa."
 # More info here.
 msgid "QUITMSG8"
 msgstr ""
+"¿Quieres irte?\n"
+"Pues, ¡has perdido un octavo!"
 
 # A “dimensional shambler” is a creature appearing in the works of H. P.
 # Lovecraft.
 msgid "QUITMSG9"
 msgstr ""
 "¡No te vayas ahora, hay un\n"
-"shambler dimensional esperando\n"
+"vagabundo dimensional esperando\n"
 "en la línea de comandos de DOS!"
 
 msgid "QUITMSG10"
 msgstr ""
-"Vete y regresa a tus\n"
+"Lárgate y vuelve a tus\n"
 "aburridos programas."
 
 msgid "QUITMSG11"
 msgstr ""
 "¡Si fuera tu jefe, te retaría a\n"
-"un deathmatch en un minuto!"
+"un duelo a muerte en un minuto!"
 
 msgid "QUITMSG12"
 msgstr ""
-"Mira, amigo. ¡Te vas ahora y\n"
+"Mira, amig@[ao_esp]. ¡Te vas ahora y\n"
 "pierdes el recuento de cadáveres!"
 
 msgid "QUITMSG13"
 msgstr ""
-"Vete. Cuando regreses te\n"
+"Pues vete. Cuando regreses te\n"
 "esperaré con un bate."
 
 msgid "QUITMSG14"
@@ -197,7 +199,7 @@ msgstr ""
 msgid "QUITMSG23"
 msgstr ""
 "¡No te vayas, aún quedan\n"
-"flemoids a la deriva!"
+"flemoides a la deriva!"
 
 msgid "QUITMSG24"
 msgstr ""
@@ -233,10 +235,10 @@ msgid "TXT_DEFAULTPICKUPMSG"
 msgstr "Recogiste un objeto"
 
 msgid "PD_ANY"
-msgstr "Cualquiera llave abrirá esta puerta"
+msgstr "Cualquier llave abrirá esta puerta"
 
 msgid "PD_ANYOBJ"
-msgstr "Cualquiera llave activará este objeto"
+msgstr "Cualquier llave activará este objeto"
 
 msgid "PD_ALL3"
 msgstr "Necesitas las tres llaves para abrir esta puerta"
@@ -260,7 +262,7 @@ msgid "HUSTR_TALKTOSELF1"
 msgstr "Murmuras para ti mismo"
 
 msgid "HUSTR_TALKTOSELF2"
-msgstr "¿Quién es?"
+msgstr "¿Quién está ahí?"
 
 msgid "HUSTR_TALKTOSELF3"
 msgstr "Te asustas"
@@ -293,22 +295,22 @@ msgid "STSTR_DQD2OFF"
 msgstr "Modo Dios Supremo: DESACTIVADO"
 
 msgid "STSTR_KFAADDED"
-msgstr "Munición Alegre Añadida"
+msgstr "Munición Añadida al Máximo"
 
 msgid "STSTR_FAADDED"
 msgstr "Munición (sin llaves) Añadida"
 
 msgid "STSTR_NCON"
-msgstr "Modo No Clipping: ACTIVADO"
+msgstr "Modo sin Sujeción: ACTIVADO"
 
 msgid "STSTR_NCOFF"
-msgstr "Modo No Clipping: DESACTIVADO"
+msgstr "Modo sin Sujeción: DESACTIVADO"
 
 msgid "STSTR_NC2ON"
-msgstr "Modo No Clipping 3D: ACTIVADO"
+msgstr "Modo sin Sujeción 3D: ACTIVADO"
 
 msgid "STSTR_NC2OFF"
-msgstr "Modo No Clipping 3D: DESACTIVADO"
+msgstr "Modo sin Sujeción 3D: DESACTIVADO"
 
 # “inVuln”: Invulnerability sphere
 # “Str”: Berserk
@@ -317,10 +319,10 @@ msgstr "Modo No Clipping 3D: DESACTIVADO"
 # “Allmap”: Computer area map
 # “Lite-amp”: Light-amplification visor
 msgid "STSTR_BEHOLD"
-msgstr "in(V)ulnerable, ber(S)erk, (I)nvisible, (R)adiación, m(A)pa, (L)uz"
+msgstr "in(V)ulnerable, ber(S)erker, (I)nvisible, (R)adiación, m(A)pa, o (L)uz"
 
 msgid "STSTR_BEHOLDX"
-msgstr "Power-up Activado"
+msgstr "Potenciador Activado"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
@@ -361,10 +363,10 @@ msgid "TXT_CHEATSOUNDOFF"
 msgstr "Depuración de Sonido: DESACTIVADO"
 
 msgid "TXT_CHEATIDDQD"
-msgstr "¿Intentando usar trucos? ¡Muere!"
+msgstr "¿Tratando de usar trucos, eh? ¡Pues muere!"
 
 msgid "TXT_CHEATIDKFA"
-msgstr "Tramposo—no te mereces las armas"
+msgstr "Trampos@[ao_esp]—no te mereces las armas"
 
 msgid "TXT_CHEATTICKERON"
 msgstr "Ticker: ACTIVADO"
@@ -382,31 +384,31 @@ msgid "TXT_GOTSTUFF"
 msgstr "¡Tienes las cosas!"
 
 msgid "TXT_FREEZEON"
-msgstr "Modo suspendido: ACTIVADO"
+msgstr "Modo congelado: ACTIVADO"
 
 msgid "TXT_FREEZEOFF"
-msgstr "Modo suspendido: DESACTIVADO"
+msgstr "Modo congelado: DESACTIVADO"
 
 msgid "TXT_STRANGE"
-msgstr "Te sientes raro…"
+msgstr "Te sientes extrañ@[ao_esp]…"
 
 msgid "TXT_STRANGER"
-msgstr "Te sientes aún más raro."
+msgstr "Te sientes aún más extrañ@[ao_esp]."
 
 msgid "TXT_NOTSTRANGE"
-msgstr "Te sientes como tú mismo otra vez."
+msgstr "Te sientes como tú mism@[ao_esp] otra vez."
 
 msgid "TXT_LEADBOOTSON"
-msgstr "Botas de Acero: ACTIVADAS"
+msgstr "Botas de Plomo: ACTIVADAS"
 
 msgid "TXT_LEADBOOTSOFF"
-msgstr "Botas de Acero: DESACTIVADAS"
+msgstr "Botas de Plomo: DESACTIVADAS"
 
 msgid "TXT_LIGHTER"
-msgstr "Te sientes liviano"
+msgstr "Te sientes livian@[ao_esp]"
 
 msgid "TXT_GRAVITY"
-msgstr "La gravedad te arrastra"
+msgstr "La gravedad te hace descender"
 
 msgid "TXT_NOTARGET_ON"
 msgstr "Ningún Objetivo: ACTIVADO"
@@ -475,7 +477,7 @@ msgid "AMSTR_MARKSCLEARED"
 msgstr "Puntos Borrados"
 
 msgid "TXT_FRAGLIMIT"
-msgstr "Límite de Frags alcanzado."
+msgstr "Límite de bajas alcanzado."
 
 msgid "TXT_TIMELIMIT"
 msgstr "Límite de Tiempo alcanzado."
@@ -490,7 +492,7 @@ msgid "SPREE5"
 msgstr "¡%k lleva una racha de asesinatos!"
 
 msgid "SPREE10"
-msgstr "¡%k está alborotado!"
+msgstr "¡%k se ha descontrolado!"
 
 msgid "SPREE15"
 msgstr "¡%k está dominando!"
@@ -499,19 +501,19 @@ msgid "SPREE20"
 msgstr "¡%k es imparable!"
 
 msgid "SPREE25"
-msgstr "¡%k es todo un divino!"
+msgstr "¡%k se cree una deidad!"
 
 msgid "MULTI2"
-msgstr "¡Doble kill!"
+msgstr "¡Doble baja!"
 
 msgid "MULTI3"
-msgstr "¡Multi kill!"
+msgstr "¡Bajas múltiples!"
 
 msgid "MULTI4"
-msgstr "¡Ultra kill!"
+msgstr "¡Ultrabajas!"
 
 msgid "MULTI5"
-msgstr "¡Monster kill!"
+msgstr "¡Bajas monstruosas!"
 
 msgid "SCORE_BONUS"
 msgstr "Extra"
@@ -529,7 +531,7 @@ msgid "SCORE_DELAY"
 msgstr "Retraso"
 
 msgid "SCORE_FRAGS"
-msgstr "Frags"
+msgstr "Bajas"
 
 msgid "SCORE_DEATHS"
 msgstr "Muertes"
@@ -538,7 +540,7 @@ msgid "SCORE_OTHER"
 msgstr "Otro"
 
 msgid "SCORE_MISSED"
-msgstr "Fallado"
+msgstr "Errado"
 
 msgid "SCORE_TOTAL"
 msgstr "Total"
@@ -565,11 +567,11 @@ msgid "WI_FINISHED"
 msgstr "Terminado"
 
 msgid "WI_ENTERING"
-msgstr "Entrando"
+msgstr "Entrando a"
 
 msgctxt "heretic hexen"
 msgid "WI_ENTERING"
-msgstr "Ahora entrando:"
+msgstr "Ahora entrando a:"
 
 msgid "AM_MONSTERS"
 msgstr "Monstruos:"
@@ -620,16 +622,16 @@ msgid "OB_VOODOO"
 msgstr "A %o l@[ao_esp] mató el poder del vudú."
 
 msgid "OB_MPTELEFRAG"
-msgstr "%o sufrió un telefrag por %k."
+msgstr "%o sufrió una telebaja por %k."
 
 msgid "OB_MONTELEFRAG"
-msgstr "%o sufrio un telefrag."
+msgstr "%o sufrio una telebaja."
 
 msgid "OB_DEFAULT"
 msgstr "%o murió."
 
 msgid "OB_MPDEFAULT"
-msgstr "%o fue asesinado por %k."
+msgstr "%o fue asesinad@[ao_esp] por %k."
 
 msgid "OB_FRIENDLY1"
 msgstr "%k acribilló a un compañero."
@@ -651,13 +653,13 @@ msgid "GOTMEGA"
 msgstr "¡Recoges la Mega Armadura!"
 
 msgid "GOTHTHBONUS"
-msgstr "Recoges un vial de salud."
+msgstr "Recoges un extra de salud."
 
 msgid "GOTARMBONUS"
-msgstr "Recoges un bonus de armadura."
+msgstr "Recoges un extra de armadura."
 
 msgid "GOTSTIM"
-msgstr "Recoges un stimpack."
+msgstr "Recoges un estimulante."
 
 msgid "GOTMEDINEED"
 msgstr "¡Recoges un botiquín que REALMENTE necesitabas!"
@@ -669,43 +671,43 @@ msgid "GOTSUPER"
 msgstr "¡Supercarga!"
 
 msgid "GOTBLUECARD"
-msgstr "Recoges una tarjeta azul."
+msgstr "Recoges una tarjeta llave azul."
 
 msgid "GOTYELWCARD"
-msgstr "Recoges una tarjeta amarilla."
+msgstr "Recoges una tarjeta llave amarilla."
 
 msgid "GOTREDCARD"
-msgstr "Recoges una tarjeta roja."
+msgstr "Recoges una tarjeta llave roja."
 
 msgid "GOTBLUESKUL"
-msgstr "Recoges una calavera azul."
+msgstr "Recoges una llave de cráneo azul."
 
 msgid "GOTYELWSKUL"
-msgstr "Recoges una calavera amarilla."
+msgstr "Recoges una llave de cráneo amarilla."
 
 msgid "GOTREDSKUL"
-msgstr "Recoges una calavera roja."
+msgstr "Recoges una llave de cráneo roja."
 
 msgid "GOTINVUL"
 msgstr "¡Invulnerabilidad!"
 
 msgid "GOTBERSERK"
-msgstr "¡Berserk!"
+msgstr "¡Berserker!"
 
 msgid "GOTINVIS"
 msgstr "Invisibilidad Parcial"
 
 msgid "GOTSUIT"
-msgstr "Traje de Protección Radiológica"
+msgstr "Traje de Protección Radioactiva"
 
 msgid "GOTMAP"
-msgstr "Mapa Computarizada del Area"
+msgstr "Mapa Computarizado del Área"
 
 msgid "GOTVISOR"
 msgstr "Visor Amplificador de Luz"
 
 msgid "GOTMSPHERE"
-msgstr "¡Mega Esfera!"
+msgstr "¡Megaesfera!"
 
 msgid "GOTCLIP"
 msgstr "Recoges un cargador."
@@ -720,10 +722,10 @@ msgid "GOTROCKBOX"
 msgstr "Recoges un contenedor de cohetes."
 
 msgid "GOTCELL"
-msgstr "Recoges una celda de energía."
+msgstr "Recoges una célula de energía."
 
 msgid "GOTCELLBOX"
-msgstr "Recoges un paquete de celdas de energía."
+msgstr "Recoges un paquete de células de energía."
 
 msgid "GOTSHELLS"
 msgstr "Recoges 4 cartuchos de escopeta."
@@ -735,19 +737,19 @@ msgid "GOTBACKPACK"
 msgstr "¡Recoges una mochila llena de munición!"
 
 msgid "GOTBFG9000"
-msgstr "¡Encuentras una BFG9000! Oh yeah."
+msgstr "¡Encuentras una BFG9000! Oh sí."
 
 msgid "GOTCHAINGUN"
-msgstr "¡Recoges una ametralladora!"
+msgstr "¡Recoges una ametralladora Gatling!"
 
 msgid "GOTCHAINSAW"
-msgstr "¡Una motosierra! ¡A carnear!"
+msgstr "¡Una motosierra! ¡Ve por algo de carne!"
 
 msgid "GOTLAUNCHER"
 msgstr "¡Obtienes el lanzacohetes!"
 
 msgid "GOTPLASMA"
-msgstr "¡Obtienes el rifle de plasma!"
+msgstr "¡Obtienes el fusil de plasma!"
 
 msgid "GOTSHOTGUN"
 msgstr "¡Obtienes la escopeta!"
@@ -829,11 +831,11 @@ msgstr "Zombi"
 
 # a.k.a. (former human) sergeant
 msgid "CC_SHOTGUN"
-msgstr "El Escopetero"
+msgstr "Tipo de la Escopeta"
 
 # a.k.a. former commando
 msgid "CC_HEAVY"
-msgstr "El Ametrallador"
+msgstr "El Sujeto del Arma Pesada"
 
 msgid "CC_IMP"
 msgstr "Diablillo"
@@ -857,7 +859,7 @@ msgid "CC_ARACH"
 msgstr "Aracnotrón"
 
 msgid "CC_PAIN"
-msgstr "Pain Elemental"
+msgstr "Elemental del Dolor"
 
 msgid "CC_REVEN"
 msgstr "Renacido"
