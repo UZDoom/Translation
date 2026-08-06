@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-08-04 02:01+0000\n"
+"PO-Revision-Date: 2026-08-05 17:02+0000\n"
 "Last-Translator: Gabriel Valderrama <koto41@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/common/es_MX/>\n"
 "Language: es_MX\n"
@@ -1496,28 +1496,28 @@ msgid "REVMNU_SAVE"
 msgstr "Guardar…"
 
 msgid "REVMNU_FILE_NAME"
-msgstr ""
+msgstr "Nombre de archivo"
 
 msgid "REVMNU_ENVIRONMENTS_TO_SAVE"
-msgstr ""
+msgstr "Entornos para guardar"
 
 msgid "DSPLYMNU_VKOPT"
-msgstr ""
+msgstr "Opciones de Vulkan (Experimental)"
 
 msgid "VK_TITLE"
-msgstr ""
+msgstr "Opciones de Vulkan"
 
 msgid "VKMNU_DEVICE"
-msgstr ""
+msgstr "Id. Dispositivo Vulkan"
 
 msgid "VKMNU_HDR"
-msgstr ""
+msgstr "Rango Dinámico Alto"
 
 msgid "VK_WARNING"
-msgstr ""
+msgstr "Precaución: ¡El renderizador Vulkan es áltamente experimental!"
 
 msgid "VK_RESTART"
-msgstr ""
+msgstr "Estas opciones requieren un reinicio para hacer efecto."
 
 msgid "OPTVAL_SCALENX"
 msgstr "ScaleNx"
@@ -1529,341 +1529,341 @@ msgid "OPTVAL_HQNX"
 msgstr "hqNx"
 
 msgid "OPTVAL_HQNXMMX"
-msgstr ""
+msgstr "hqNx MMX"
 
 msgid "OPTVAL_NXBRZ"
 msgstr "xBRZ"
 
 msgid "OPTVAL_OLD_NXBRZ"
-msgstr ""
+msgstr "xBRZ viejo"
 
 msgid "OS_TITLE"
-msgstr ""
+msgstr "Buscar Opciones"
 
 msgid "OS_ANY"
-msgstr ""
+msgstr "Buscar por cualquier término"
 
 msgid "OS_ALL"
-msgstr ""
+msgstr "Buscar por todos los términos"
 
 msgid "OS_NO_RESULTS"
-msgstr ""
+msgstr "No se encontraron resultados."
 
 msgid "OS_LABEL"
-msgstr ""
+msgstr "Buscar:"
 
 msgid "OPTMNU_FULLOPTIONS"
-msgstr ""
+msgstr "Menú de opciones completo"
 
 msgid "OPTMNU_SIMPLEON"
-msgstr ""
+msgstr "Menú de opciones simple"
 
 msgid "OPTMNU_OPENCONFIG"
-msgstr ""
+msgstr "Explorar la config. del juego"
 
 msgid "OPTMNU_OPENSCREENSHOTS"
-msgstr ""
+msgstr "Explorar Pantallazos"
 
 msgid "OPTMNU_OPENSAVES"
-msgstr ""
+msgstr "Explorar Partidas Guardadas"
 
 msgid "MOUSEMNU_SWAPBUTTONS"
-msgstr ""
+msgstr "Alternar botones del ratón"
 
 msgid "OPTVAL_ONLYMODIFIED"
-msgstr ""
+msgstr "Sólo modificados"
 
 msgid "TXT_UNKNOWN"
-msgstr ""
+msgstr "Desconocido"
 
 msgid "TXT_SAVEGAMENEEDS"
-msgstr ""
+msgstr "Esta partida necesita estos archivos"
 
 msgid "GLPREFMNU_CORONAS"
-msgstr ""
+msgstr "Focos de luz"
 
 msgid "PICKER_SELECT"
-msgstr ""
+msgstr "Elige qué archivo de juego ejecutar."
 
 msgid "PICKER_PLAY"
-msgstr ""
+msgstr "Jugar Partida"
 
 msgid "PICKER_EXIT"
-msgstr ""
+msgstr "Salir"
 
 msgid "PICKER_GENERAL"
-msgstr ""
+msgstr "General"
 
 msgid "PICKER_EXTRA"
-msgstr ""
+msgstr "Gráficos Extra"
 
 msgid "PICKER_NOAUTOLOAD"
-msgstr ""
+msgstr "Deshabilitar autocarga"
 
 msgid "PICKER_DONTASK"
-msgstr ""
+msgstr "No me preguntes otra vez"
 
 msgid "PICKER_LIGHTS"
-msgstr ""
+msgstr "Luces"
 
 msgid "PICKER_BRIGHTMAPS"
-msgstr ""
+msgstr "Mapas de brillo"
 
 msgid "PICKER_WIDESCREEN"
-msgstr ""
+msgstr "Pantalla ancha"
 
 msgid "PICKER_ADDPARM"
-msgstr ""
+msgstr "Parámetros Adicionales:"
 
 msgid "PICKER_WELCOME"
-msgstr ""
+msgstr "¡Le damos la bienvenida a %s!"
 
 msgid "PICKER_VERSION"
-msgstr ""
+msgstr "Versión %s"
 
 msgid "PICKER_PREFERBACKEND"
-msgstr ""
+msgstr "API de Renderizado"
 
 msgid "PICKER_TAB_PLAY"
-msgstr ""
+msgstr "Partida"
 
 # Option to enable or disable individual controllers/joysticks when
 # configuring it in the Controller Options menu
 msgid "JOYMNU_JOYENABLE"
-msgstr ""
+msgstr "Habilitar este control"
 
 msgid "CNTRLMNU_OPEN_MAIN"
-msgstr ""
+msgstr "Abrir Menú Principal"
 
 msgid "MODMNU_REPLAYER"
-msgstr ""
+msgstr "Reproductor de módulos"
 
 # This is enabled per-controller, it means to enable "this" controller in the
 # background when GZDoom is not in focus.
 msgid "JOYMNU_JOYENABLEINBACKGROUND"
-msgstr ""
+msgstr "Permitir entrada del control en segundo plano"
 
 # Order to sort the list of saved games in the save and load game menu. This
 # used to only be alphabetical.
 msgid "MISCMNU_SAVEORDER"
-msgstr ""
+msgstr "Orden de las Partidas Guardadas"
 
 msgid "OPTVAL_ALPHABETICAL"
-msgstr ""
+msgstr "Alfabético"
 
 msgid "OPTVAL_LASTSAVEDTIME"
-msgstr ""
+msgstr "Partida más reciente"
 
 msgid "PICKER_PLAYHOST"
-msgstr ""
+msgstr "Anfitrión de la Partida"
 
 msgid "PICKER_PLAYJOIN"
-msgstr ""
+msgstr "Unirse a Partida"
 
 msgid "PICKER_REMPARM"
-msgstr ""
+msgstr "Recordar Parámetros"
 
 # For stuff like id24.
 msgid "PICKER_SUPPORTWADS"
-msgstr ""
+msgstr "Cargar WADs de Soporte"
 
 msgid "PICKER_TAB_MULTI"
-msgstr ""
+msgstr "Multijugador"
 
 msgid "PICKER_LOADSAVE"
-msgstr ""
+msgstr "Cargar Partida Guardada:"
 
 msgid "PICKER_REMSAVE"
-msgstr ""
+msgstr "Recordar Partida Guardada"
 
 # As in, to host a game.
 msgid "PICKER_HOST"
-msgstr ""
+msgstr "Anfitrión"
 
 msgid "PICKER_JOIN"
-msgstr ""
+msgstr "Unirse"
 
 msgid "PICKER_NETRATE"
-msgstr ""
+msgstr "Tasa de Tics de Paquetes:"
 
 # Sends out duplicate copies of packets to help with spotty connections e.g.
 # wifi.
 msgid "PICKER_NETBACKUP"
-msgstr ""
+msgstr "Enviar Paquetes de Respaldo"
 
 msgid "PICKER_GAMEMODE"
-msgstr ""
+msgstr "Modo de Juego:"
 
 msgid "PICKER_COOP"
-msgstr ""
+msgstr "Cooperativo"
 
 msgid "PICKER_DM"
-msgstr ""
+msgstr "Duelo a Muerte"
 
 msgid "PICKER_TDM"
-msgstr ""
+msgstr "Duelo a Muerte por Equipos"
 
 # Which team the player wants to be assigned to.
 msgid "PICKER_TEAM"
-msgstr ""
+msgstr "Equipo #:"
 
 msgid "PICKER_ALTDM"
-msgstr ""
+msgstr "Usar Reglas Alternas de Duelo a Muerte"
 
 msgid "PICKER_PLAYERS"
-msgstr ""
+msgstr "Máximo de Jugadores:"
 
 msgid "PICKER_PORT"
-msgstr ""
+msgstr "Puerto Anfitrión:"
 
 # Max number of players.
 msgid "PICKER_PLAYERHINT"
-msgstr ""
+msgstr "Máximo 64"
 
 # GZDoom's default port.
 msgid "PICKER_PORTHINT"
-msgstr ""
+msgstr "5029 por defecto"
 
 # Team 255 randomizes which team the player gets put on.
 msgid "PICKER_TEAMHINT"
-msgstr ""
+msgstr "255 = Al azar"
 
 msgid "PICKER_IP"
-msgstr ""
+msgstr "IP Anfitrión:"
 
 msgid "PICKER_TDMLABEL"
-msgstr ""
+msgstr "Duelo a Muerte por Equipos:"
 
 # Same context as TXT_SAY.
 msgid "TXT_SAYTEAM"
-msgstr ""
+msgstr "Hablar (Equipo):"
 
 msgid "MISCMNU_DISCORDRPC"
-msgstr ""
+msgstr "Presencia Rica de Discord"
 
 msgid "JOYMNU_TURNSPEED"
-msgstr ""
+msgstr "Velocidad de Giro"
 
 msgid "JOYMNU_LOOKSPEED"
-msgstr ""
+msgstr "Velocidad de Observación"
 
 msgid "JOYMNU_ANALOGSTRAFERUN"
-msgstr ""
+msgstr "Corrida análoga de desplazamiento"
 
 msgid "ACCMNU_TITLE"
 msgstr "Opciones de Accesibilidad"
 
 # Jargon.
 msgid "REVMNU_ENVIRONMENT_SIZE"
-msgstr ""
+msgstr "Tamaño de Entorno"
 
 # Jargon.
 msgid "REVMNU_ENVIRONMENT_DIFFUSION"
-msgstr ""
+msgstr "Difusión de Entorno"
 
 # Jargon.
 msgid "REVMNU_ROOM"
-msgstr ""
+msgstr "Sala"
 
 # Jargon.
 msgid "REVMNU_ROOM_HF"
-msgstr ""
+msgstr "Sala de Alta Frecuencia"
 
 # Jargon.
 msgid "REVMNU_ROOM_LF"
-msgstr ""
+msgstr "Sala de Baja Frecuencia"
 
 # Jargon.
 msgid "REVMNU_DECAY_TIME"
-msgstr ""
+msgstr "Tiempo de Decaimiento"
 
 # Jargon.
 msgid "REVMNU_DECAY_HF_RATIO"
-msgstr ""
+msgstr "Tasa de Decaimiento de Alta Frecuencia"
 
 # Jargon.
 msgid "REVMNU_DECAY_LF_RATIO"
-msgstr ""
+msgstr "Tasa de Decaimiento de Baja Frecuencia"
 
 # Jargon.
 msgid "REVMNU_REFLECTIONS"
-msgstr ""
+msgstr "Reflejos"
 
 # Jargon.
 msgid "REVMNU_REFLECTIONS_DELAY"
-msgstr ""
+msgstr "Retraso de Reflejos"
 
 # Jargon.
 msgid "REVMNU_REFLECTIONS_PAN_X"
-msgstr ""
+msgstr "Paneo de Reflejos en X"
 
 # Jargon.
 msgid "REVMNU_REFLECTIONS_PAN_Y"
-msgstr ""
+msgstr "Paneo de Reflejos en Y"
 
 # Jargon.
 msgid "REVMNU_REFLECTIONS_PAN_Z"
-msgstr ""
+msgstr "Paneo de Reflejos en Z"
 
 # Jargon.
 msgid "REVMNU_REVERB"
-msgstr ""
+msgstr "Reverberación"
 
 # Jargon.
 msgid "REVMNU_REVERB_DELAY"
-msgstr ""
+msgstr "Retraso de Reverberación"
 
 # Jargon.
 msgid "REVMNU_REVERB_PAN_X"
-msgstr ""
+msgstr "Paneo de Reverberación en X"
 
 # Jargon.
 msgid "REVMNU_REVERB_PAN_Y"
-msgstr ""
+msgstr "Paneo de Reverberación en Y"
 
 # Jargon.
 msgid "REVMNU_REVERB_PAN_Z"
-msgstr ""
+msgstr "Paneo de Reverberación en Z"
 
 # Jargon.
 msgid "REVMNU_ECHO_TIME"
-msgstr ""
+msgstr "Tiempo de Eco"
 
 # Jargon.
 msgid "REVMNU_ECHO_DEPTH"
-msgstr ""
+msgstr "Profundidad de Eco"
 
 # Jargon.
 msgid "REVMNU_MODULATION_TIME"
-msgstr ""
+msgstr "Tiempo de Modulación"
 
 # Jargon.
 msgid "REVMNU_MODULATION_DEPTH"
-msgstr ""
+msgstr "Profundidad de Modulación"
 
 # Jargon.
 msgid "REVMNU_AIR_ABSORPTION_HF"
-msgstr ""
+msgstr "Absorción de Aire en Alta Frecuencia"
 
 # Jargon.
 msgid "REVMNU_HF_REFERENCE"
-msgstr ""
+msgstr "Referencia de Alta Frecuencia"
 
 # Jargon.
 msgid "REVMNU_LF_REFERENCE"
-msgstr ""
+msgstr "Referencia de Baja Frecuencia"
 
 # Jargon.
 msgid "REVMNU_ROOM_ROLLOFF_FACTOR"
-msgstr ""
+msgstr "Factor de Desplazamiento de la Sala"
 
 # Jargon.
 msgid "REVMNU_DIFFUSION"
-msgstr ""
+msgstr "Difusión"
 
 # Jargon.
 msgid "REVMNU_DENSITY"
-msgstr ""
+msgstr "Densidad"
 
 msgid "MSGMNU_MESSAGEQUEUE"
 msgstr "Tamaño de la fila de mensajes"
@@ -1873,3 +1873,30 @@ msgstr "Duración de la atenuación del mensaje"
 
 msgid "MSGMNU_STACKIDENTICAL"
 msgstr "Apilar mensajes repetidos"
+
+msgid "NOTES_FAIL"
+msgstr "No se pueden analizar las notas de la versión"
+
+msgid "NOTES_UNKNOWN"
+msgstr "Desconocido"
+
+msgid "NOTES_RELEASED"
+msgstr "%s versión %s, lanzado en %s"
+
+msgid "NOTES_EMPTY"
+msgstr "No hay descripción provista."
+
+msgid "NOTES_DETAILS"
+msgstr "Para más detalles, ver: %s"
+
+msgid "PICKER_SHOWTHIS"
+msgstr "Mostrar esta página después de las actualizaciones"
+
+msgid "PICKER_SHOWNOTES"
+msgstr "Mostrar notas de lanzamiento"
+
+msgid "PICKER_TAB_ABOUT"
+msgstr "Acerca de"
+
+msgid "PICKER_TAB_RELEASE"
+msgstr "Notas de Lanzamiento"
