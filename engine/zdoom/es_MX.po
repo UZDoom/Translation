@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-08-05 23:01+0000\n"
+"PO-Revision-Date: 2026-08-06 02:01+0000\n"
 "Last-Translator: Gabriel Valderrama <koto41@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/es_MX/>\n"
 "Language: es_MX\n"
@@ -3247,106 +3247,106 @@ msgid "CMPTMNU_DROPOFF"
 msgstr "Los monstruos se atoran sobre declives"
 
 msgid "CMPTMNU_INVISIBILITY"
-msgstr ""
+msgstr "Los monstruos ven jugadores invisibles"
 
 msgid "CMPTMNU_MINOTAUR"
-msgstr ""
+msgstr "Sin llamas de minotauro en el agua"
 
 msgid "CMPTMNU_NOTOSSDROPS"
-msgstr ""
+msgstr "Aparecer objetos dejados en el suelo"
 
 msgid "CMPTMNU_DEHACKEDBEHAVIOR"
-msgstr ""
+msgstr "Comportamiento DehackEd"
 
 msgid "CMPTMNU_DEHHEALTH"
-msgstr ""
+msgstr "Configuración de salud DEH como en Doom2.exe"
 
 msgid "CMPTMNU_MUSHROOM"
-msgstr ""
+msgstr "Velocidad original de A_Mushroom en mods con DEH"
 
 msgid "CMPTMNU_MAPACTIONBEHAVIOR"
-msgstr ""
+msgstr "Comportamiento Mapa/Acción"
 
 msgid "CMPTMNU_USEBLOCKING"
-msgstr ""
+msgstr "Todas las líneas especiales pueden bloquear <usar>"
 
 msgid "CMPTMNU_ANYBOSSDEATH"
-msgstr ""
+msgstr "Permitir cualquier muerte de jefe por especial de nivel"
 
 msgid "CMPTMNU_NODOORLIGHT"
-msgstr ""
+msgstr "Desactivar efecto de luz de puerta de BOOM"
 
 msgid "CMPTMNU_LIGHT"
-msgstr ""
+msgstr "Encontrar luces vecinas como en Doom"
 
 msgid "CMPTMNU_SHORTTEX"
-msgstr ""
+msgstr "Encontrar texturas más cortas como en Doom"
 
 msgid "CMPTMNU_STAIRS"
-msgstr ""
+msgstr "Usar construcción defectuosa de escaleras"
 
 msgid "CMPTMNU_FLOORMOVE"
-msgstr ""
+msgstr "Usar comportamiento de mov. del suelo de Doom"
 
 msgid "CMPTMNU_POINTONLINE"
-msgstr ""
+msgstr "Usar algoritmo de punto en línea de Doom"
 
 msgid "CMPTMNU_MULTIEXIT"
-msgstr ""
+msgstr "La salida de nivel puede ser gatillada más de una vez"
 
 msgid "CMPTMNU_PHYSICSBEHAVIOR"
-msgstr ""
+msgstr "Comportamiento de Físicas"
 
 msgid "CMPTMNU_NOPASSOVER"
-msgstr ""
+msgstr "Los actores son infinitamente altos"
 
 msgid "CMPTMNU_BOOMSCROLL"
-msgstr ""
+msgstr "Los scrollers de Boom son aditivos"
 
 msgid "CMPTMNU_BADANGLES"
-msgstr ""
+msgstr "Emular error de mal ángulo"
 
 msgid "CMPTMNU_WALLRUN"
-msgstr ""
+msgstr "Habilitar correr por muros"
 
 msgid "CMPTMNU_RAVENSCROLL"
-msgstr ""
+msgstr "Los scrollers de Raven usan la velocidad original"
 
 msgid "CMPTMNU_TRACE"
-msgstr ""
+msgstr "Sectores autoreferidos no bloquean los disparos"
 
 msgid "CMPTMNU_HITSCAN"
-msgstr ""
+msgstr "Usar código de Doom para revisión de hitscan"
 
 msgid "CMPTMNU_MISSILECLIP"
-msgstr ""
+msgstr "Usar altura de Doom para desplazamiento de misiles"
 
 msgid "CMPTMNU_RENDERINGBEHAVIOR"
-msgstr ""
+msgstr "Comportamiento de renderizado"
 
 msgid "CMPTMNU_POLYOBJ"
-msgstr ""
+msgstr "Dibujar poliobjetos como en Hexen"
 
 msgid "CMPTMNU_MASKEDMIDTEX"
-msgstr ""
+msgstr "Ignorar offsets de eje Y en texturas medias enmascaradas"
 
 msgid "CMPTMNU_SPRITESORT"
-msgstr ""
+msgstr "Invertir ordenado de sprites"
 
 msgid "CMPTMNU_SOUNDBEHAVIOR"
-msgstr ""
+msgstr "Comportamiento de sonido"
 
 msgid "CMPTMNU_SOUNDSLOTS"
-msgstr ""
+msgstr "Estropear sonido para truco de BFG silencioso"
 
 msgid "CMPTMNU_SILENTPICKUP"
-msgstr ""
+msgstr "No dejar a otros oír tus recogidas"
 
 msgid "CMPTMNU_SILENTINSTANTFLOORS"
-msgstr ""
+msgstr "Suelos inst. movibles no son silenciosos"
 
 msgid "CMPTMNU_SECTORSOUNDS"
-msgstr ""
+msgstr "Sonidos de sector usan el centro como fuente"
 
 msgid "CMPTMNU_SOUNDTARGET"
 msgstr ""
