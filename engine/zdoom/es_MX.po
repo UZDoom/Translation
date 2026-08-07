@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-08-07 18:51+0000\n"
+"PO-Revision-Date: 2026-08-07 20:51+0000\n"
 "Last-Translator: Gabriel Valderrama <koto41@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/es_MX/>\n"
 "Language: es_MX\n"
@@ -5336,3 +5336,175 @@ msgstr "Color de la retícula con salud máxima"
 
 msgid "HUDMNU_CROSSHAIRCOLORS"
 msgstr "Colores dinámicos de retícula"
+
+msgid "HUDMNU_CROSSHAIRYOFFSET"
+msgstr "Offset vertical de retícula"
+
+msgid "VALFORMAT_DB"
+msgstr "%s dB"
+
+msgid "VALFORMAT_DB_P_METER"
+msgstr "%s dB/m"
+
+msgid "VALFORMAT_DEGREES"
+msgstr "%s grados"
+
+msgid "VALFORMAT_FPS"
+msgstr "%s fps"
+
+msgid "VALFORMAT_HZ"
+msgstr "%s Hz"
+
+msgid "VALFORMAT_METER"
+msgstr "%s m"
+
+msgid "VALFORMAT_MSECOND"
+msgstr "%s ms"
+
+msgid "VALFORMAT_MULTIPLIER"
+msgstr "%s ×"
+
+msgid "VALFORMAT_PERCENT"
+msgstr "%s %%"
+
+msgid "VALFORMAT_SECOND"
+msgstr "%s s"
+
+msgid "MAPCOLORMNU_SECTORFILLALPHA"
+msgstr "Alfa de Relleno"
+
+msgid "MAPCOLORMNU_SECTORFILLCOLOR"
+msgstr "Color de Relleno"
+
+msgid "ACCMNU_DOUBLECLICK_THRESHOLD"
+msgstr "Umbral de Doble Clic"
+
+msgid "ACCMNU_TOOLTIP_DOUBLECLICK_THRESHOLD"
+msgstr "Tiempo entre presiones de teclas consecutivas para gatillar un evento de doble clic"
+
+msgid "OPTVAL_VTAZDOOM"
+msgstr "Automático (ZDoom de Preferencia)"
+
+msgid "OPTVAL_VTAVANILLA"
+msgstr "Automático (Original de Preferencia)"
+
+msgid "UPDATER_CHECK_FOR_UPDATES"
+msgstr "Revisar Actualizaciones"
+
+msgid "UPDATER_PROMPT_TO_INSTALL"
+msgstr "Solicitar instalación"
+
+msgid "UPDATER_SETTINGS"
+msgstr "Configuración de Actualizador"
+
+msgid "UPDATER_INTERVAL"
+msgstr "Revisar cada:"
+
+msgid "UPDATER_UPDATE_AVAILABLE"
+msgstr "Nueva Actualización Disponible"
+
+msgid "UPDATER_UPDATE_SKIP"
+msgstr "Saltar Actualización"
+
+msgid "UPDATER_TITLE"
+msgstr "Revisor de Actualizaciones"
+
+msgid "UPDATER_DISABLE"
+msgstr "Deshabilitar Revisor de Actualizaciones"
+
+msgid "UPDATER_CHECK_FAILED"
+msgstr "Revisando Actualización Fallida"
+
+msgid "UPDATER_UPDATE_FAILED"
+msgstr "Actualización Fallida"
+
+msgid "UPDATER_YES_PROMPT"
+msgstr "Sí, y solicitar la instalación de actualizaciones"
+
+msgid "UPDATER_DISMISS_UPDATE"
+msgstr "¿Descartar Actualización?"
+
+msgid "UPDATER_ASK_AUTO"
+msgstr ""
+"¿Deseas que se busquen actualizaciones automáticamente?\n"
+"(Esto se puede cambiar más adelante en la pestaña de opciones)"
+
+msgid "UPDATER_ASK_INTERVAL"
+msgstr ""
+"¿Con qué frecuencia deseas comprobar actualizaciones?\n"
+"(Esto se puede cambiar más adelante en la pestaña de opciones)"
+
+msgid "UPDATER_ZIP_FAIL"
+msgstr "Fallo al abrir el archivo zip"
+
+msgid "UPDATER_ZIP_ERROR"
+msgstr "Fallo al extraer el zip: error: '{}' al escribir el archivo '{}'"
+
+msgid "UPDATER_UPDATING"
+msgstr "Actualizando..."
+
+msgid "UPDATER_STARTING"
+msgstr "Iniciando Descarga..."
+
+msgid "UPDATER_SUCCESS"
+msgstr "La actualización se ha realizado correctamente, el lanzador se reiniciará ahora."
+
+msgid "UPDATER_UP_TO_DATE"
+msgstr "¡Estás al día!"
+
+msgid "UPDATER_CANCELLED"
+msgstr "La actualización se ha cancelado"
+
+msgid "UPDATER_INVALID_JSON"
+msgstr "Actualización de JSON inválida"
+
+msgid "UPDATER_NOT_A_DIR"
+msgstr "'{}' no es un directorio"
+
+msgid "OPTVAL_DISABLE"
+msgstr "Deshabilitar"
+
+msgid "OPTVAL_NOTIFY"
+msgstr "Notificar"
+
+msgid "OPTVAL_DAILY"
+msgstr "A diario"
+
+msgid "OPTVAL_WEEKLY"
+msgstr "Semanalmente"
+
+msgid "OPTVAL_MONTHLY"
+msgstr "Mensualmente"
+
+msgid "TXT_DOWNLOADING"
+msgstr "Descargando"
+
+msgid "TXT_EXPERIMENTAL"
+msgstr "Experimental"
+
+msgid "TXT_UPDATE"
+msgstr "Actualizar"
+
+msgid "TXT_UPDATED"
+msgstr "Actualizado"
+
+msgid "TXT_CANCELLED"
+msgstr "Cancelado"
+
+msgid "TXT_BACK"
+msgstr "Atrás"
+
+msgid "TXT_DISMISS"
+msgstr "Descartar"
+
+msgid "TXT_SKIP"
+msgstr "Saltar"
+
+msgid "TXT_CONFIRM"
+msgstr "Confirmar"
+
+msgid "TXT_OK"
+msgstr "OK"
+
+msgid "CMPTMNU_TRANSFERSECRET"
+msgstr "Secreto de las transferencias especiales de cambio de piso de BOOM."
