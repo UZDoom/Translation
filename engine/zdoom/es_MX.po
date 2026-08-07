@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-08-07 16:51+0000\n"
+"PO-Revision-Date: 2026-08-07 18:51+0000\n"
 "Last-Translator: Gabriel Valderrama <koto41@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/es_MX/>\n"
 "Language: es_MX\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2026.8.1.dev0\n"
+"X-Generator: Weblate 2026.9.dev0\n"
 
 msgid "PRESSKEY"
 msgstr "Pulsa una tecla."
@@ -5258,3 +5258,81 @@ msgstr "Banear"
 
 msgid "ERRORMNU_SAVE"
 msgstr "Guardar Reporte"
+
+msgid "ERROR_FATAL"
+msgstr "Error Fatal"
+
+msgid "ERROR_ABORT"
+msgstr "La ejecución no puede continuar."
+
+msgid "FILEPICKER_ANY"
+msgstr "Todos los archivos"
+
+msgid "FILEPICKER_REPORTS"
+msgstr "Archivos Zip de Reporte de Fallos"
+
+msgid "HAPMNU_TITLE"
+msgstr "Opciones de Retroalimentación Háptica"
+
+msgid "CMPTMNU_AUTO"
+msgstr "Autodetectar configuración de compatibilidad"
+
+msgid "DSPLYMNU_POWERUPFADE"
+msgstr "Intensidad de tinte de potenciador"
+
+msgid "PICKER_PLAYERCLASS"
+msgstr "Clase de Jugador"
+
+msgid "OPTVAL_SBSLETTERBOX"
+msgstr "Buzón lado a lado"
+
+msgid "OPTVAL_DIRECTMIX"
+msgstr "Mezcla Directa"
+
+msgid "OPTVAL_SUPERSTEREO"
+msgstr "Súper Estéreo"
+
+msgid "OPENALMNU_MUSICMODE"
+msgstr "Modo de Música"
+
+msgid "OPENALMNU_SUPERSTEREOWIDTH"
+msgstr "Ancho de Súper Estéreo"
+
+msgid "CNTRLMNU_ADJUST_LIGHTS"
+msgstr "Ajuste de Iluminación"
+
+msgid "OPTVAL_SMOOTH"
+msgstr "Fluido"
+
+msgid "TAG_MACIL"
+msgstr "Macil"
+
+msgid "TAG_MAULER"
+msgstr "Torturador"
+
+msgid "TAG_GLAUNCHER"
+msgstr "Lanzagranadas"
+
+msgid "ACTION_OPENWADDIR"
+msgstr "Explorar WADs"
+
+msgid "ACTION_OPENCONFIGDIR"
+msgstr "Explorar Configuraciones"
+
+msgid "OPTMNU_OPENWADS"
+msgstr "Explorar Carpeta de IWAD"
+
+msgid "SNDMNU_NOMIDIOPTIONS"
+msgstr "El dispositivo MIDI no ofrece ninguna opción."
+
+msgid "CMPTMNU_EMULATEMIKOPORTALS"
+msgstr "Emular Mikoportales"
+
+msgid "HUDMNU_CROSSHAIRCOLORFULL"
+msgstr "Color de la retícula con salud llena"
+
+msgid "HUDMNU_CROSSHAIRCOLORMAX"
+msgstr "Color de la retícula con salud máxima"
+
+msgid "HUDMNU_CROSSHAIRCOLORS"
+msgstr "Colores dinámicos de retícula"
