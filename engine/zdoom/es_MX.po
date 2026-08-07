@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-08-06 23:09+0000\n"
+"PO-Revision-Date: 2026-08-07 16:51+0000\n"
 "Last-Translator: Gabriel Valderrama <koto41@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/es_MX/>\n"
 "Language: es_MX\n"
@@ -2485,10 +2485,10 @@ msgid "OB_TEMPLAR"
 msgstr "A %o l@[ao_esp] vaporizó un Templario."
 
 msgid "OB_REAVERHIT"
-msgstr "A %o l@[ao_esp] rebanó un Saqueador."
+msgstr "A %o l@[ao_esp] rebanó un Ratero."
 
 msgid "OB_REAVER"
-msgstr "A %o l@[ao_esp] derribó un Saqueador."
+msgstr "A %o l@[ao_esp] derribó un Ratero."
 
 msgid "OB_MPPUNCHDAGGER"
 msgstr "%o fue apuñalad@[ao_esp] sin querer por %k."
@@ -3763,7 +3763,7 @@ msgid "ALTHUDMNU_MAPTIMECOLOR"
 msgstr "Color del tiempo del mapa"
 
 msgid "ALTHUDMNU_HUBTIMECOLOR"
-msgstr "Color del tiempo del mapa nexo"
+msgstr "Color del tiempo del nexo"
 
 msgid "ALTHUDMNU_TOTALTIMECOLOR"
 msgstr "Color del tiempo total"
@@ -4509,619 +4509,752 @@ msgid "OPTVAL_QUADBUFFERED"
 msgstr "Búfer cuádruple"
 
 msgid "DSPLYMNU_TCOPT"
-msgstr ""
+msgstr "Opciones de TrueColor"
 
 msgid "TCMNU_TITLE"
-msgstr ""
+msgstr "Opciones de TrueColor"
 
 msgid "TCMNU_MINFILTER"
-msgstr ""
+msgstr "Filtro lineal al reducir de tamaño"
 
 msgid "TCMNU_MAGFILTER"
-msgstr ""
+msgstr "Filtro lineal al aumentar de tamaño"
 
 msgid "TCMNU_MIPMAP"
-msgstr ""
+msgstr "Usar texturas con mipmap"
 
 msgid "AUTOMAPMNU_SHOWKEYS_ALWAYS"
-msgstr ""
+msgstr "Mostrar llaves siempre"
 
 msgid "TXT_NO_TEAM_CHANGE"
-msgstr ""
+msgstr "¡El cambio de equipo se ha deshabilitado!"
 
 # %s is the player and gender sensitive
 msgid "TXT_JOINED_TEAM"
-msgstr ""
+msgstr "%s se ha unido al equipo %t"
 
 msgid "TXT_LONER"
-msgstr ""
+msgstr "%s ahora está sol@[ao_esp]."
 
 msgid "TXT_LEFTWITHFRAGS"
-msgstr ""
+msgstr "%s dejó la partida con %d bajas"
 
 msgid "TXT_LEFTTHEGAME"
-msgstr ""
+msgstr "%s dejó la partida"
 
 msgid "TXT_COULDNOTREAD"
-msgstr ""
+msgstr "No se pudo leer la partida guardada '%s'."
 
 msgid "TXT_NOINFOJSON"
-msgstr ""
+msgstr "%s' no es una partida guardada válida: Falta 'info.json'."
 
 msgid "TXT_FAILEDTOREADSG"
-msgstr ""
+msgstr "Fallo al acceder a información de partida guardada en '%s'."
 
 msgid "TXT_INCOMPATIBLESG"
-msgstr ""
+msgstr "La partida guardada '%s' es de una versión incompatible."
 
 msgid "TXT_OTHERENGINESG"
-msgstr ""
+msgstr "La partida guardada '%s' es de otro motor basado en ZDoom:"
 
 msgid "TXT_TOOOLDSG"
-msgstr ""
+msgstr "La partida guardada '%s' es de una versión anterior (%d). La versión más antigua soportada es la %e."
 
 msgid "TXT_TOONEWSG"
-msgstr ""
+msgstr "La partida guardada '%s' es de una versión posterior (%d). La versión más reciente soportada es la %e."
 
 msgid "TXT_NOMAPSG"
-msgstr ""
+msgstr "A la partida guardada '%s' le falta el mapa actual."
 
 msgid "TXT_NOGLOBALSJSON"
-msgstr ""
+msgstr "%s' no es una partida guardada válida: Falta 'globals.json'."
 
 msgid "TXT_SGINFOERR"
-msgstr ""
+msgstr "Fallo al acceder a información de partida guardada en '%s'"
 
 msgid "TXT_SAVEPENDING"
-msgstr ""
+msgstr "Aún hay una partida guardada pendiente."
 
 msgid "TXT_NOTSAVEABLE"
-msgstr ""
+msgstr "No estás en una partida guardable."
 
 msgid "TXT_NOTINLEVEL"
-msgstr ""
+msgstr "No estás en un nivel"
 
 msgid "TXT_SPPLAYERDEAD"
-msgstr ""
+msgstr "El jugador ha muerto en una partida de un solo jugador"
 
 msgid "TXT_SAVEFAILED"
-msgstr ""
+msgstr "Guardado fallido"
 
 msgid "TXT_SCREENSHOTERR"
-msgstr ""
+msgstr "No se pudo crear el pantallazo."
 
 # As in paused by player %s.
 msgid "TXT_BY"
-msgstr ""
+msgstr "Por %s"
 
 msgid "HUDMNU_FLASH"
-msgstr ""
+msgstr "Opciones de Mezclado de Pantalla"
 
 msgid "GLMNU_3DMODE"
-msgstr ""
+msgstr "Modo 3D"
 
 msgid "HUDMNU_CROSSHAIRON"
-msgstr ""
+msgstr "Retícula"
 
 msgid "MSGMNU_SUBTITLES"
-msgstr ""
+msgstr "Subtítulos"
 
 msgid "HUDMNU_FONTOPTIONS"
-msgstr ""
+msgstr "Opciones de Fuente"
 
 msgid "FONTMNU_LOG"
-msgstr ""
+msgstr "Usar fuente estándar para ver los registros"
 
 msgid "FONTMNU_DLG"
-msgstr ""
+msgstr "Usar fuente estándar para diálogos"
 
 msgid "MISCMNU_QUICKEXIT"
-msgstr ""
+msgstr "Salida Rápida"
 
 msgid "DSPLYMNU_CUSTOMINVERTMAP"
-msgstr ""
+msgstr "Mapa Inverso Personalizado"
 
 msgid "DSPLYMNU_CUSTOMINVERTC1"
-msgstr ""
+msgstr "Color Oscuro Inverso Personalizado"
 
 msgid "DSPLYMNU_CUSTOMINVERTC2"
-msgstr ""
+msgstr "Color Claro Inverso Personalizado"
 
 msgid "DSPLYMNU_BOBFIRE"
-msgstr ""
+msgstr "Cantidad de balanceo de arma al disparar"
 
 # HUD->Scaling Options
 msgid "SCALEMNU_SCALECLASSIC"
-msgstr ""
+msgstr "Escala Clásica de Intermedio y Borde de Pantalla"
 
 msgid "SCALEMNU_INTER"
-msgstr ""
+msgstr "Fondo del intermedio"
 
 msgid "SCALEMNU_BORDER"
-msgstr ""
+msgstr "Borde de pantalla"
 
 msgid "SCALEMNU_FACTOR"
-msgstr ""
+msgstr "Factor de escalado"
 
 msgid "SCALEMNU_RATIO"
-msgstr ""
+msgstr "Relación de aspecto"
 
 # sv_alwaystally
 msgid "MISCMNU_ALWAYSTALLY"
-msgstr ""
+msgstr "Mostrar Pantalla de Recuento al Terminar un Nivel"
 
 # this is '==0'
 msgid "OPTVAL_MODDEFINED"
-msgstr ""
+msgstr "Sin definir"
 
 msgid "OPTVAL_NOTHUBS"
-msgstr ""
+msgstr "Siempre, excepto en nexos"
 
 msgid "OPTVAL_WITHHUBS"
-msgstr ""
+msgstr "Siempre, incluso en nexos"
 
 msgid "CNTRLMNU_LAYOUT"
-msgstr ""
+msgstr "Distribución de teclado preferida"
 
 msgid "OPTVAL_CLASSICZ"
-msgstr ""
+msgstr "ZDoom Clásico"
 
 msgid "OPTVAL_MODERN"
-msgstr ""
+msgstr "Moderno (WASD)"
 
 msgid "OPTVAL_MODERNLEFT"
-msgstr ""
+msgstr "Moderno (Zurdo / Teclado Numérico)"
 
 msgid "MISCMNU_SETSLOTSTRICT"
-msgstr ""
+msgstr "KEYCONF Estricto de Armas/Jugadores"
 
 msgid "MISCMNU_WIPERCENT"
-msgstr ""
+msgstr "Usar porcentajes en pantalla de sumario"
 
 msgid "MISCMNU_CLEANSTAT"
-msgstr ""
+msgstr "Escalado clásico de ZDoom para pantalla de sumario"
 
 # Called "citizens" according to Doomwiki
 msgid "TAG_STRIFEZOMBIE"
-msgstr ""
+msgstr "Ciudadano"
 
 msgid "TAG_CEILINGTURRET"
-msgstr ""
+msgstr "Torreta de Techo"
 
 # Names need to match the obituaries!
 msgid "TAG_CRUSADER"
-msgstr ""
+msgstr "Cruzado"
 
 msgid "TAG_INQUISITOR"
-msgstr ""
+msgstr "Inquisidor"
 
 msgid "TAG_PEASANT"
-msgstr ""
+msgstr "Plebeyo"
 
 msgid "TAG_REAVER"
-msgstr ""
+msgstr "Ratero"
 
 msgid "TAG_SENTINEL"
-msgstr ""
+msgstr "Centinela"
 
 msgid "TAG_STALKER"
-msgstr ""
+msgstr "Acechador"
 
 msgid "TAG_BISHOP"
-msgstr ""
+msgstr "El Obispo"
 
 msgid "TAG_ENTITY"
-msgstr ""
+msgstr "El Único Dios"
 
 msgid "TAG_PROGRAMMER"
-msgstr ""
+msgstr "El Programador"
 
 msgid "TAG_ALIENSPECTRE"
-msgstr ""
+msgstr "El Espectro"
 
 msgid "TAG_KNEELINGGUY"
-msgstr ""
+msgstr "Tipo Arrodillado"
 
 msgid "GMPLYMNU_MULTIPLAYERTHINGS"
-msgstr ""
+msgstr "Generar cosas multijugador en cooperativo"
 
 msgid "DSPLYMNU_SPRITESHADOW"
-msgstr ""
+msgstr "Sombras de sprite"
 
 # Will enable sprite shadows for monster and player sprites
 msgid "OPTVAL_SPRSHADALWAYS"
-msgstr ""
+msgstr "Monstruos y jugadores"
 
 # the FOV slider
 msgid "DSPLYMNU_FOV"
-msgstr ""
+msgstr "Campo de visión"
 
 msgid "CMPTMNU_NOMBF21"
-msgstr ""
+msgstr "Deshabilitar características de MBF21"
 
 msgid "ALTHUDMNU_SHOWTIMESTAT"
-msgstr ""
+msgstr "Mostrar 'widget' de tiempo"
 
 msgid "CMPTMNU_VILEGHOSTS"
-msgstr ""
+msgstr "Los monstruos aplastados reviven como fantasmas"
 
 msgid "MISCMNU_FVIEWBOB"
-msgstr ""
+msgstr "Mostrar balanceo al volar"
 
 msgid "OB_DEMON1HIT"
-msgstr ""
+msgstr "%o fue mutilad@[ao_esp] por una Serpiente."
 
 msgid "AUTOMAPMNU_LINEANTIALIASING"
-msgstr ""
+msgstr "Lineas de Antialias"
 
 msgid "GMPLYMNU_NOPLAYERCLIP"
-msgstr ""
+msgstr "Mover y disparar a través de otros jugadores"
 
 msgid "GMPLYMNU_SHAREKEYS"
-msgstr ""
+msgstr "Compartir llaves con todos los jugadores"
 
 msgid "GLPREFMNU_SPRBILLFACECAMERAFORCE"
-msgstr ""
+msgstr "Rechazar la anulación del modo de orientación de la cámara"
 
 msgid "ALTHUDMNU_SWAPHEALTHARMOR"
-msgstr ""
+msgstr "Cambiar salud y armadura"
 
 # hud_oldscale
 msgid "SCALEMNU_HUD_OLDSCALE"
-msgstr ""
+msgstr "Usar escalado clásico del HUD"
 
 # hud_scalefactor
 msgid "SCALEMNU_HUD_SCALEFACTOR"
-msgstr ""
+msgstr "Factor de escalado del HUD"
 
 # Any Actor that only appears in co-op is disabled
 msgid "GMPLYMNU_COOPTHINGS"
-msgstr ""
+msgstr "Generar cosas del modo cooperativo en multijugador"
 
 # Items that only appear in co-op are disabled
 msgid "GMPLYMNU_COOPITEMS"
-msgstr "Los obj. agarrables del modo cooperativo salen en el multijugador"
+msgstr "Generar ítems de recogida del modo cooperativo en multijugador"
 
 # Items are picked up client-side rather than fully taken by the client who
 # picked it up
 msgid "GMPLYMNU_LOCALITEMS"
-msgstr "Los obj. agarrados por otro jugador no desaparecen en el multijugador"
+msgstr "Los jugadores recogen su propia copia de los ítems en multijugador"
 
 # Drops from Actors aren't picked up locally
 msgid "GMPLYMNU_NOLOCALDROP"
-msgstr ""
+msgstr "Deshabilitar la recogida de ítems caídos del lado del cliente"
 
 # Disables autoloading save on death
 msgid "MISCMNU_RESTARTONDEATH"
-msgstr ""
+msgstr "Inicio con pistola al morir"
 
 # Resets inventory on every map
 msgid "GMPLYMNU_PISTOLSTART"
-msgstr ""
+msgstr "Inicio con pistola en cada mapa"
 
 msgid "CMPTMNU_VOODOOZOMBIES"
-msgstr ""
+msgstr "Permitir la creación de jugadores zombi"
 
 msgid "CMPTMNU_FDTELEPORT"
-msgstr ""
+msgstr "Ignorar eje Z del piso al teletransportarse"
 
 # Hardware Sprite Clipping mode that gives the illusion of a sprite being in a
 # different position than it really is, allowing it to be rendered under the
 # floor despite clipping
 msgid "OPTVAL_ANAMORPHIC"
-msgstr ""
+msgstr "Perspectiva Forzada"
 
 msgid "SNDMNU_FOOTSTEPVOLUME"
-msgstr ""
+msgstr "Volumen de Pasos"
 
 msgid "ID24_GOTINCINERATOR"
-msgstr ""
+msgstr "¡Tienes el incinerador!"
 
 # Also known as Heatwave Generator.
 msgid "ID24_GOTCALAMITYBLADE"
-msgstr ""
+msgstr "¡Tienes la hoja de la calamidad! ¡Cómo ardes!"
 
 msgid "ID24_GOTFUELCAN"
-msgstr ""
+msgstr "Recogiste un bidón de combustible."
 
 msgid "ID24_GOTFUELTANK"
-msgstr ""
+msgstr "Recogiste un tanque de combustible."
 
 msgid "TAG_ID24INCINERATOR"
-msgstr ""
+msgstr "Incinerador"
 
 msgid "TAG_ID24CALAMITYBLADE"
-msgstr ""
+msgstr "Hoja de la Calamidad"
 
 msgid "AMMO_ID24FUEL"
-msgstr ""
+msgstr "Bidón de Combustible"
 
 msgid "AMMO_ID24FUELTANK"
-msgstr ""
+msgstr "Tanque de Combustible"
 
 msgid "ID24_CC_GHOUL"
-msgstr ""
+msgstr "Necrófago"
 
 msgid "ID24_CC_BANSHEE"
-msgstr "Banshee"
+msgstr "Llorona"
 
 # Also known as Plasmaguy.
 msgid "ID24_CC_SHOCKTROOPER"
-msgstr ""
+msgstr "Tropa de asalto"
 
 msgid "ID24_CC_MINDWEAVER"
-msgstr ""
+msgstr "Tejementes"
 
 msgid "ID24_CC_VASSAGO"
-msgstr ""
+msgstr "Vasago"
 
 msgid "ID24_CC_TYRANT"
-msgstr ""
+msgstr "Tirano"
 
 msgid "ID24_OB_GHOUL"
-msgstr ""
+msgstr "%o agarró la bola de energía de un necrófago."
 
 msgid "ID24_OB_BANSHEE"
-msgstr ""
+msgstr "%o ha sido exterminad@[ao_esp] por una llorona."
 
 msgid "ID24_OB_SHOCKTROOPER"
-msgstr ""
+msgstr "%o ha sido derretid@[ao_esp] por una tropa de asalto."
 
 msgid "ID24_OB_MINDWEAVER"
-msgstr ""
+msgstr "%o ha sido cortad@[ao_esp] por un tejementes."
 
 msgid "ID24_OB_VASSAGO"
-msgstr ""
+msgstr "%o ha sido quemad@[ao_esp] por un vasago."
 
 msgid "ID24_OB_TYRANT"
-msgstr ""
+msgstr "%o quedó hech@[ao_esp] pedazos por un tirano."
 
 msgid "AUTOMAPMNU_SHOWLEVELNAME"
-msgstr ""
+msgstr "Mostrar nombre del nivel"
 
 # As seen in Options - Customize Controls - Inventory for Heretic, Hexen and
 # Strife
 msgid "CNTRLMNU_INVENTORY_HOTKEYS"
-msgstr ""
+msgstr "Atajos de Teclado para Inventario"
 
 msgid "JOYMNU_HAPTICS"
-msgstr ""
+msgstr "Fuerza de retroalimentación háptica"
 
 msgid "JOYMNU_CURVE"
-msgstr ""
+msgstr "Curva de Respuesta"
 
 msgid "JOYMNU_THRESHOLD"
-msgstr ""
+msgstr "Umbral Digital"
 
 msgid "OPTVAL_LINEAR"
-msgstr ""
+msgstr "Lineal"
 
 msgid "OPTVAL_QUADRATIC"
-msgstr ""
+msgstr "Cuadrático"
 
 # The type of chat messages the player wants to be visible to them.
 msgid "NETMNU_CHATTYPE"
-msgstr ""
+msgstr "Tipo de Chat"
 
 msgid "OPTVAL_DISABLECHAT"
-msgstr ""
+msgstr "Deshabilitado"
 
 msgid "OPTVAL_TEAMONLYCHAT"
-msgstr ""
+msgstr "Solo Compañeros"
 
 msgid "OPTVAL_GLOBALCHAT"
-msgstr ""
+msgstr "Global"
 
 # Disables /me functionality in chat when displaying.
 msgid "NETMNU_NOBOLDCHAT"
-msgstr ""
+msgstr "Deshabilitar Texto en Negrita en Chat"
 
 # Turns off the sound that plays when someone receives a message.
 msgid "NETMNU_NOCHATSND"
-msgstr ""
+msgstr "Deshabilitar Sonido de Chat"
 
 # Tries to make online games less stuttery.
 msgid "NETMNU_BALANCETICS"
-msgstr ""
+msgstr "Estabilizar Conexiones"
 
 msgid "NETMNU_LIMITCONVO"
-msgstr ""
+msgstr "Limitar Conversaciones al Anfitrión"
 
 # Helps stop things like e.g. door open/close spam when playing online.
 msgid "NETMNU_REPEATCOOLDOWN"
-msgstr ""
+msgstr "Enfriamiento en Acciones Repetibles"
 
 msgid "NETMNU_DISABLEPAUSE"
-msgstr ""
+msgstr "Deshabilitar Pausa"
 
 msgid "OPTVAL_HOSTONLY"
-msgstr ""
+msgstr "Solo el Anfitrión"
 
 # Type of vote system to use to bypass intermissions when playing online.
 msgid "NETMNU_READYTYPE"
-msgstr ""
+msgstr "Tipo de Salto de Intermedio"
 
 msgid "OPTVAL_VOTE"
-msgstr ""
+msgstr "Votar"
 
 msgid "OPTVAL_ANYONE"
-msgstr ""
+msgstr "Cualquiera"
 
 # If this percent of players or more are ready, starts a countdown when in
 # Vote intermission skip mode.
 msgid "NETMNU_READYPERCENT"
-msgstr ""
+msgstr "Votar Porcentaje de Salto"
 
 msgid "NETMNU_READYCOUNTDOWN"
-msgstr ""
+msgstr "Cuenta Regresiva de Votos (en Segundos)"
 
 # Forces a cool down between chat messages for all players when playing
 # online.
 msgid "NETMNU_CHATSLOMO"
-msgstr ""
+msgstr "Modo Lento de Chat (en Segundos)"
 
 msgid "OPTMNU_HAPTICS"
-msgstr ""
+msgstr "Opciones hápticas"
 
 # How the engine should handle haptics in old mods
 msgid "HAPMNU_COMPAT"
-msgstr ""
+msgstr "Nivel de compatibilidad de retroalimentación háptica"
 
 msgid "OPTVAL_MATCH"
-msgstr ""
+msgstr "Emparejar"
 
 msgid "OPTVAL_WARN"
-msgstr ""
+msgstr "Advertir"
 
 msgid "HAPMNU_OPTIONS"
-msgstr ""
+msgstr "Personalizar fuentes de retroalimentación háptica"
 
 # Rumble when using ui elements
 msgid "HAPMNU_OPT_MENU"
-msgstr ""
+msgstr "Al usar los menús"
 
 # Rumble when doing things such as pressing buttons and firing weapon
 msgid "HAPMNU_OPT_ACTION"
-msgstr ""
+msgstr "Al tomar acciones"
 
 # Rumble when dying and getting hurt
 msgid "HAPMNU_OPT_DAMAGE"
-msgstr ""
+msgstr "Al recibir daño"
 
 # Rumble from bumping into things, crossing lines, and quakes
 msgid "HAPMNU_OPT_WORLD"
-msgstr ""
+msgstr "Al interactuar con el mundo"
 
 msgid "PAUSE_STRING"
 msgstr "Pausar"
 
 msgid "TAG_BACKPACK"
-msgstr ""
+msgstr "Mochila"
 
 msgid "TAG_ARMORBONUS"
-msgstr ""
+msgstr "Armadura Espiritual"
 
 msgid "TAG_GREENARMOR"
-msgstr ""
+msgstr "Armadura de Seguridad"
 
 msgid "TAG_BLUEARMOR"
-msgstr ""
+msgstr "Armadura de Combate"
 
 msgid "TAG_INVULSPHERE"
-msgstr ""
+msgstr "Artefacto de Invulnerabilidad"
 
 msgid "TAG_SOULSPHERE"
-msgstr ""
+msgstr "Esfera del alma"
 
 msgid "TAG_MEGAPSHERE"
-msgstr ""
+msgstr "Megaesfera"
 
 msgid "TAG_INVISSPHERE"
-msgstr ""
+msgstr "Artefacto de Borrado"
 
 msgid "TAG_RADSUIT"
-msgstr ""
+msgstr "Traje de Radiación"
 
 msgid "TAG_VISOR"
-msgstr ""
+msgstr "Visor de Amplificación de Luz"
 
 msgid "TAG_ALLMAP"
-msgstr ""
+msgstr "Mapa Computarizado"
 
 msgid "TAG_BERSERK"
-msgstr ""
+msgstr "Paquete Berserker"
 
 msgid "TAG_HEALTHBONUS"
-msgstr ""
+msgstr "Poción de Salud"
 
 msgid "TAG_STIMPACK"
-msgstr ""
+msgstr "Paquete Estimulante"
 
 msgid "TAG_MEDIKIT"
-msgstr ""
+msgstr "Botiquín"
 
 msgid "TAG_BLUECARD"
-msgstr ""
+msgstr "Tarjeta Llave Azul"
 
 msgid "TAG_YELLOWCARD"
-msgstr ""
+msgstr "Tarjeta Llave Amarilla"
 
 msgid "TAG_REDCARD"
-msgstr ""
+msgstr "Tarjeta Llave Roja"
 
 msgid "TAG_BLUESKULL"
-msgstr ""
+msgstr "Llave de Cráneo Azul"
 
 msgid "TAG_YELLOWSKULL"
-msgstr ""
+msgstr "Llave de Cráneo Amarilla"
 
 msgid "TAG_REDSKULL"
-msgstr ""
+msgstr "Llave de Cráneo Roja"
 
 msgid "TAG_GLASSOFWATER"
-msgstr ""
+msgstr "Vaso con Agua"
 
 msgid "TAG_BOWLOFFRUIT"
-msgstr ""
+msgstr "Tazón de Fruta"
 
 msgid "TAG_BOWLOFVEGETABLES"
-msgstr ""
+msgstr "Tazón de Verduras"
 
 msgid "TAG_BREAKFAST"
-msgstr ""
+msgstr "Desayuno Supercargado"
 
 msgid "TAG_REPELLENT"
-msgstr ""
+msgstr "Repelente de Baba"
 
 msgid "TAG_CHEXARMOR"
-msgstr ""
+msgstr "Armadura Chex®"
 
 msgid "TAG_SUPERCHEXARMOR"
-msgstr ""
+msgstr "Armadura Super Chex®"
 
 msgid "TAG_CHEXMAP"
-msgstr ""
+msgstr "Mapa del Área Computarizado"
 
 msgid "TAG_SLIMESUIT"
-msgstr ""
+msgstr "Traje Anti-Baba"
 
 msgid "TAG_ZORCHPACK"
-msgstr ""
+msgstr "Paquete de Zorch"
 
 msgid "TAG_CBLUEKEY"
-msgstr ""
+msgstr "Llave Azul"
 
 msgid "TAG_CYELLOWKEY"
-msgstr ""
+msgstr "Llave Amarilla"
 
 msgid "TAG_CREDKEY"
-msgstr ""
+msgstr "Llave Roja"
 
 # Option to make the view weapon sprites be lit exactly as the sector's
 # brightness. Without this option, weapon sprites are generally brighter
 # compared to the sector's brightness
 msgid "GLPREFMNU_WPNPURELIGHT"
-msgstr ""
+msgstr "Usar brillo del sector en sprites del arma"
 
 # Mark the player as ready to advance during the intermission in multiplayer
 # games
 msgid "NET_CONTINUE_MKB"
-msgstr ""
+msgstr "Presionar Espacio o el Botón izquierdo del ratón para prepararse"
 
 msgid "NET_CONTINUE_CONTROLLER"
-msgstr ""
+msgstr "Presionar A para prepararse"
 
 msgid "NET_CONTINUE_JOYSTICK"
-msgstr ""
+msgstr "Presionar Joy 1 para prepararse"
 
 msgid "GMPLYMNU_REMEMBERWEAP"
-msgstr ""
+msgstr "Recordar el arma seleccionada al reaparecer"
 
 msgid "CNTRLMNU_COOPSPYPREV"
-msgstr ""
+msgstr "Espía cooperativo anterior"
 
 msgid "CNTRLMNU_COOPSPYCANCEL"
-msgstr ""
+msgstr "Limpiar espía cooperativo"
 
 msgid "OPTMNU_ACCESSIBILITY"
 msgstr "Opciones de Accesibilidad"
+
+msgid "JOYMNU_ANALOGRUN"
+msgstr "Corrida Análoga"
+
+msgid "ACCMNU_TOOLTIP_LINES"
+msgstr "Líneas de Ayuda"
+
+msgid "ACCMNU_TOOLTIP_SPEED"
+msgstr "Velocidad de Desplazamiento de Ayudas"
+
+msgid "ACCMNU_TOOLTIP_DELAY"
+msgstr "Retraso de Desplazamiento de Ayudas"
+
+msgid "ACCMNU_TOOLTIP_ALPHA"
+msgstr "Alfa de los Fondos de Ayudas"
+
+msgid "ACCMNU_TOOLTIP_CAP"
+msgstr "Limitar Ancho de Ayudas"
+
+msgid "ACCMNU_TOOLTIP_SCALE"
+msgstr "Largo del Texto de Ayudas"
+
+msgid "ACCMNU_TOOLTIP_EXAMPLE"
+msgstr ""
+"Esta es una ayuda de ejemplo.\n"
+"Aquí hay algo de texto suplementario.\n"
+"…\n"
+"Aquí hay una línea de texto muy larga que parece no tener fin sin decir nada interesante, aparentemente solo porque a los desarrolladores les cuesta mucho explicar qué hace una opción."
+
+msgid "ACCMNU_TOOLTIP"
+msgstr "Ayudas"
+
+msgid "ACCMNU_LIGHT_EXTRA"
+msgstr "Iluminación Extra"
+
+msgid "ACCMNU_TOOLTIP_LIGHT_RADIUS"
+msgstr "Controla el radio de luz alrededor del jugador en unidades de mapa. Valores mayores iluminan más la escena."
+
+msgid "ACCMNU_TOOLTIP_LIGHT_EXTRA"
+msgstr "Cantidad de iluminación sectorial que se debe añadir a los niveles de iluminación sectorial existentes, manteniendo el modo de iluminación actual."
+
+msgid "ACCMNU_LIGHT_RADIUS"
+msgstr "Radio de Luz del Jugador"
+
+msgid "ACCMNU_LIGHT"
+msgstr "Iluminación"
+
+msgid "DSPLYMNU_ROCKETEXPSTYLE"
+msgstr "Estilo de Muestra de Explosión"
+
+msgid "OPTVAL_ROCKETEXP_STYLE_ADD"
+msgstr "Aditivo"
+
+msgid "OPTVAL_ROCKETEXP_STYLE_TRANS"
+msgstr "Transparente"
+
+msgid "OPTVAL_LAX"
+msgstr "Relajado"
+
+msgid "OPTVAL_STRICT"
+msgstr "Estricto"
+
+msgid "PICKER_FILELOADING"
+msgstr "Carga de Archivos"
+
+msgid "DSPLYMNU_IMAGEADJUST"
+msgstr "Calibración de Imagen"
+
+msgid "DSPLYMNU_IMAGEADJUST_TOP1"
+msgstr "Desde una distancia de visualización normal, ajusta estos deslizadores."
+
+msgid "DSPLYMNU_IMAGEADJUST_TOP2"
+msgstr "El Escalado/Supermuestreo puede dar como resultado una salida incorrecta."
+
+msgid "DSPLYMNU_IMAGEADJUST_TOP3"
+msgstr "Por favor deshabilítalos antes de ajustar."
+
+msgid "DSPLYMNU_TOOLTIP_GAMMA"
+msgstr "Compensa las limitaciones de tu monitor. Ajusta hasta que los bloques grises verticales desaparezcan. No uses esta función para aumentar el brillo del juego, sino solo para asegurarte de que la imagen esté calibrada para tu configuración."
+
+msgid "DSPLYMNU_BLACKPOINT"
+msgstr "Compensación de punto negro"
+
+msgid "DSPLYMNU_TOOLTIP_BLACKPOINT"
+msgstr "Compensa los monitores que no muestran correctamente los píxeles oscuros. Ajusta hasta que los bloques blancos diagonales desaparezcan. No uses esta función para aumentar el brillo del juego, sino solo para asegurarte de que la imagen esté calibrada para tu configuración."
+
+msgid "DSPLYMNU_TOOLTIP_IMAGEADJUST_RESET"
+msgstr "Reinicia todas las opciones en este menú a la configuración por defecto."
+
+msgid "DSPLYMNU_TOOLTIP_BRIGHTNESS"
+msgstr "Aplica un ajuste lineal de brillo. Ajústalo a tu gusto o para ver en la oscuridad."
+
+msgid "DSPLYMNU_TOOLTIP_CONTRAST"
+msgstr "Ajusta la diferencia percibida entre colores similares. Controla la nitidez o descoloración de las imágenes. Ajústalo a tu gusto."
+
+msgid "DSPLYMNU_TOOLTIP_SATURATION"
+msgstr "Ajusta la intensidad de los colores, haciendo que la imagen se vea más vívida o más tenue. Ajústalo a tu gusto."
+
+msgid "DSPLYMNU_IMAGEADJUST_BOTTOM"
+msgstr "Ajusta hasta que parezca un color gris uniforme."
+
+msgid "DSPLYMNU_BRIGHTNESS"
+msgstr "Brillo"
+
+msgid "DSPLYMNU_GAMMA"
+msgstr "Corrección gamma"
+
+msgid "DSPLYMNU_CONTRAST"
+msgstr "Contraste"
+
+msgid "DSPLYMNU_SATURATION"
+msgstr "Saturación"
+
+msgid "ACTION_COPYTOCLIPBOARD"
+msgstr "Copiar al portapapeles"
+
+msgid "ACTION_RESTART"
+msgstr "Reiniciar"
+
+msgid "ACTION_ABORT"
+msgstr "Abortar"
+
+msgid "ACTION_STARTGAME"
+msgstr "Iniciar Partida"
+
+msgid "ACTION_KICK"
+msgstr "Patear"
+
+msgid "ACTION_BAN"
+msgstr "Banear"
+
+msgid "ERRORMNU_SAVE"
+msgstr "Guardar Reporte"
