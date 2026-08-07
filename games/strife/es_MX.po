@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-08-07 21:51+0000\n"
+"PO-Revision-Date: 2026-08-07 23:51+0000\n"
 "Last-Translator: Gabriel Valderrama <koto41@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/doom-engine-games/strife/es_MX/>\n"
 "Language: es_MX\n"
@@ -82,53 +82,43 @@ msgid "TXT_DLG_SCRIPT02_D46996_WHATA"
 msgstr "¿Qué estás esperando? Tráeme ese cáliz."
 
 msgid "TXT_DLG_SCRIPT02_D48512_HEYIK"
-msgstr ""
-"Sí, ya lo sé, esto parece una estafa, pero nunca le haría eso a una gran máquina de matar. ¿Tienes el cáliz? ¡Genial! Ahora prepárate: oro y gloria, tal y como prometí. Toma esta llave y el gobernador te va a recompensar."
+msgstr "Oye, lo sé, parece una trampa. Jamás le haría eso a una máquina de matar tan formidable. ¿Tienes el objeto? ¡Genial! Ahora prepárate, oro y gloria, tal como te prometí. Toma esta llave y el Gobernador te recompensará."
 
 msgid "TXT_DLG_SCRIPT02_D50028_GETLO"
-msgstr "Ya vete de una vez, que eres pesado."
+msgstr "Piérdete chico, me molestas."
 
 msgid "TXT_DLG_SCRIPT02_D51544_NOSEC"
-msgstr "No hay otra oportunidad. ¡Guardias, mátenlo!"
+msgstr "No hay otra oportunidad. Guardias, mátenlo."
 
 msgid "TXT_DLG_SCRIPT02_D53060_FIRST"
-msgstr ""
-"Primero matan a miles y ahora quieren a todos los campesinos sanos para «pruebas» no especificadas. ¿Cómo espera La Orden que yo pueda seguir manteniendo la paz?... ¿Y tú qué carajo quieres?"
+msgstr "Primero masacran a miles, ahora quieren a todos los plebeyos aptos para realizarles 'pruebas' no especificadas. ¿Cómo pretende la Orden que mantenga la paz? ¿Qué diablos quieres?"
 
 msgid "TXT_DLG_SCRIPT02_D56092_ONEOF"
-msgstr ""
-"Uno de mis secuaces puso en algún lado una toma en la red eléctrica para robar energía. Encuéntrala, destruye su suministro y te voy a dar lo que pides. Tráeme algo como prueba una vez que termines."
+msgstr "Uno de mis secuaces está robando electricidad con una toma en algún lugar. Encuéntrala, corta su suministro y te daré lo que necesitas. Tráeme algo como prueba."
 
 msgid "TXT_DLG_SCRIPT02_D59124_TELLY"
-msgstr ""
-"A ver, te cuento. Hay un sucio mentiroso llamado Derwin que ha estado vendiendo niños a La Orden, y no puedo tolerar ese tipo de perversión: no si no me da mi parte. Derwin trabaja en el almacén. Mátalo, tráeme su oreja y voy a ver qué puedo hacer."
+msgstr "Te diré algo: hay un mentiroso llamado Derwin que ha estado vendiendo niños a la Orden. No toleraré esa depravación. No sin mi parte. Derwin trabaja en el almacén. Mátalo y tráeme su, oreja, y veré qué puedo hacer."
 
 msgid "TXT_DLG_SCRIPT02_D62156_OHIJU"
-msgstr ""
-"Ah, me encantan los recuerdos. Toma, con esto vas a poder entrar a la prisión. Habla con el carcelero Montag. Lo que hagas después de eso no quiero saberlo."
+msgstr "Ah, me encantan los recuerdos. Toma, con esto podrás entrar a la prisión. Habla con el alcaide Montag. No quiero saber qué harás después."
 
 msgid "TXT_DLG_SCRIPT02_D66704_OHIJU"
-msgstr ""
-"Ah, me encantan los recuerdos. Toma, con esto vas a poder entrar a la prisión. Habla con el carcelero Montag. Lo que hagas después de eso no quiero saberlo."
+msgstr "Ah, me encantan los recuerdos. Toma, con esto podrás entrar a la prisión. Habla con el alcaide Montag. No quiero saber qué harás después."
 
-#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D68220_SOYOU"
-msgstr "¿Así que tú eres el tonto que se robó el cáliz? Te voy a capturar como ladrón rebelde, mejorando así mi posición con La Orden. ¿Qué se siente ser un peón involuntario? Una pista: te va a doler. "
+msgstr "¿Así que tú eres el tonto que robó el cáliz? Voy a hacer que te arresten como ladrón rebelde… Con ello, mejoraré mi posición en la Orden. ¿Qué se siente al ser un peón involuntario? Te daré una pista, va a doler."
 
 msgid "TXT_RYES1_SCRIPT02_D68220_TOOBA"
-msgstr ""
-"Qué mal. ¡Lo único que\n"
-"vas a tener es la muerte!"
+msgstr "Qué mal. ¡Lo único que vas a conseguir es la muerte!"
 
 msgid "TXT_DLG_SCRIPT02_D69736_INASM"
-msgstr ""
-"El mundo es un pañuelo y las noticias vuelan. Oí que acabas de quitarte un par de obstáculos de encima. Bien hecho. ¿Te interesaría participar en proyectos más lucrativos?"
+msgstr "El mundo es un pañuelo y las noticias vuelan. Me enteré que acabas de quitarte un par de obstáculos de encima. Buen trabajo ¿Te interesan proyectos más lucrativos?"
 
 msgid "TXT_RPLY0_SCRIPT02_D69736_SUREW"
 msgstr "Claro, ¿por qué no?"
 
 msgid "TXT_DLG_SCRIPT02_D71252_FOOLG"
-msgstr "¡Tonto! Guardias, libérenme de este entrometido peón."
+msgstr "¡Tonto! Guardias, libérenme de este peón entrometido."
 
 msgid "TXT_RPLY0_SCRIPT02_D72768_WILLI"
 msgstr "¿Va a valer la pena el esfuerzo?"
@@ -137,20 +127,17 @@ msgid "TXT_RPLY0_SCRIPT02_D74284_THANK"
 msgstr "Gracias. Lo voy a necesitar."
 
 msgid "TXT_RPLY0_SCRIPT02_D75800_ILLGE"
-msgstr "Lo voy a encontrar."
+msgstr "Lo encontraré."
 
 msgid "TXT_RNO0_SCRIPT02_D77316_LIARG"
-msgstr ""
-"¡Mentiroso!\n"
-"¡Ve por el anillo!"
+msgstr "¡Mentiroso! ¡Ve por el anillo!"
 
 msgid "TXT_DLG_SCRIPT02_D78832_HEREY"
 msgstr ""
 "Toma, te lo ganaste. El traidor que mataste estaba a punto de revelar la ubicación del Frente. Salvaste vidas. ¿Te gustaría ganar más oro y un futuro libre de tiranía?"
 
 msgid "TXT_DLG_SCRIPT02_D83380_APITY"
-msgstr ""
-"Una pena, pero ahora que sabes de mis amigos, no me queda de otra que matarte. ¡Guardias, a sacar la basura!"
+msgstr "Qué lástima, pero ahora que sabes quiénes son mis amigos, debo matarte. ¡Guardias, saquen esta basura!"
 
 msgid "TXT_DLG_SCRIPT02_D84896_FOOLG"
 msgstr "¡Idiota! Guardias, libérenme de este entrometido peón."
@@ -159,29 +146,26 @@ msgid "TXT_DLG_SCRIPT02_D86412_WALKA"
 msgstr "Vete, muchacho. Solo vete."
 
 msgid "TXT_DLG_SCRIPT02_D89444_BLACK"
-msgstr ""
-"Así que Blackbird te dio la clave, ¿eh? Ya apago la alarma, entonces. Macil está bajando las escaleras."
+msgstr "¿Así que Blackbird te dio la clave, eh? Voy a apagar la alarma. Macil está un piso más abajo."
 
 msgid "TXT_DLG_SCRIPT02_D90960_WALKA"
 msgstr "Vete, muchacho. Solo vete."
 
 msgid "TXT_RPLY0_SCRIPT02_D93992_IKNEW"
-msgstr "Sabía que ibas a decir eso."
+msgstr "Sabía que iba a decir eso."
 
 msgid "TXT_DLG_SCRIPT02_D95508_IFYOU"
 msgstr "Si realmente estás tan apurado, no pierdas el tiempo conmigo."
 
 msgid "TXT_DLG_SCRIPT02_D100056_ILLTE"
-msgstr ""
-"Te voy a decir, aunque no sé de quién será la red eléctrica que quieres manipular. Está justo aquí en la planta de aguas residuales."
+msgstr "Te diré dónde está, pero no sé con qué acoplamiento vas a trastear. Está aquí mismo, en la planta de tratamiento de aguas residuales."
 
 msgid "TXT_DLG_SCRIPT02_D101572_THATS"
 msgstr ""
 "Está justo aquí en la planta de aguas residuales, aunque es el acoplamiento del Frente. Quien te haya dicho que era de La Orden te dijo mal."
 
 msgid "TXT_DLG_SCRIPT03_D4548_GOODB"
-msgstr ""
-"Bien. Blackbird va a seguir siendo tu guía; parece que ya le caes bien. Juntos deben descubrir los secretos de La Orden y de sus sirvientes inhumanos. Infíltrense y destrúyanlos."
+msgstr "Bien, Blackbird seguirá siendo tu guía. Parece que le agradas. Juntos deben descubrir los secretos de la Orden y sus sirvientes inhumanos. Infíltrense y destrúyanlos."
 
 msgid "TXT_DLG_SCRIPT03_D7580_TAKET"
 msgstr ""
@@ -1713,3 +1697,153 @@ msgstr "Aquí tienes una ballesta, apunta recto y --zas-- Recuerda, toma la copa
 
 msgid "TXT_RPLY0_SCRIPT02_D45480_COOLI"
 msgstr "Genial. Lo traeré."
+
+msgid "TXT_RPLY0_SCRIPT02_D48512_HEDBE"
+msgstr "Más le vale. ¡Por tu bien!"
+
+msgid "TXT_RPLY1_SCRIPT02_D48512_WHATW"
+msgstr "¡Qué! ¿Dónde está mi dinero?"
+
+msgid "TXT_RPLY0_SCRIPT02_D53060_APRIS"
+msgstr "Un pase de prisión, negociemos."
+
+msgid "TXT_DLG_SCRIPT02_D54576_ILIKE"
+msgstr "Ya me caes bien. Tengo dos tareas que no quiero hacer yo mismo. Una es un desastre, la otra es sangrienta."
+
+msgid "TXT_RPLY0_SCRIPT02_D54576_CALLM"
+msgstr "Llámame limpiador"
+
+msgid "TXT_RPLY1_SCRIPT02_D54576_IMNOT"
+msgstr "No soy aprensivo"
+
+msgid "TXT_RPLY0_SCRIPT02_D56092_WHERE"
+msgstr "¿Dónde encuentro esta toma?"
+
+msgid "TXT_DLG_SCRIPT02_D57608_IFIKN"
+msgstr "Si lo supiera, no sería una tarea pesada, ¿verdad? Usa tus encantos, pero córtale el suministro."
+
+msgid "TXT_RPLY0_SCRIPT02_D59124_HOWDO"
+msgstr "¿Cómo puedo entrar?"
+
+msgid "TXT_DLG_SCRIPT02_D60640_THISK"
+msgstr "Esta llave te permitirá entrar en la central eléctrica. Pensándolo bien, mejor córtale la oreja y luego mátalo. Mucho mejor."
+
+msgid "TXT_DLG_SCRIPT02_D63672_GIVEY"
+msgstr "Te doy una pista. Cuando deje de hablarte, te irás."
+
+msgid "TXT_DLG_SCRIPT02_D65188_DOYOU"
+msgstr "¿Tienes buenas noticias para mí? Soy todo oídos."
+
+msgid "TXT_RPLY0_SCRIPT02_D65188_THEDE"
+msgstr "¡El trabajo está hecho!"
+
+msgid "TXT_RPLY0_SCRIPT02_D66704_FINEB"
+msgstr "Bien por mí."
+
+msgid "TXT_RPLY0_SCRIPT02_D68220_ITSUC"
+msgstr "¡Apesta!"
+
+msgid "TXT_RYES0_SCRIPT02_D68220_FORYO"
+msgstr "Para ti sí."
+
+msgid "TXT_RPLY1_SCRIPT02_D68220_HARRI"
+msgstr "¡Harris me prometió dinero!"
+
+msgid "TXT_RPLY1_SCRIPT02_D69736_NOTHA"
+msgstr "No, gracias."
+
+msgid "TXT_RYES1_SCRIPT02_D69736_THENG"
+msgstr "¡Entonces lárgate!"
+
+msgid "TXT_DLG_SCRIPT02_D72768_GOODS"
+msgstr "Bien. Unos eh, amigos míos necesitan silenciar a alguien. Beldin está retenido por la Orden en su santuario. Hay una entrada poco utilizada junto a un pequeño muelle en el río que no está vigilada. Entra, haz que se calle y tráeme su anillo como prueba."
+
+msgid "TXT_DLG_SCRIPT02_D74284_ILLGU"
+msgstr "Te garantizo 50 de oro y si regresas sin activar todas las alarmas de la ciudad, existe la posibilidad de ganar mucho, mucho más, y aquí tienes una pequeña ayuda que debería darte una ventaja."
+
+msgid "TXT_DLG_SCRIPT02_D75800_GOODR"
+msgstr "Bien. Recuerda, su silencio es oro."
+
+msgid "TXT_DLG_SCRIPT02_D77316_MISSI"
+msgstr "¿Misión cumplida? ¿Tienes el anillo del traidor?"
+
+msgid "TXT_RPLY0_SCRIPT02_D77316_HESDE"
+msgstr "Está muerto, ¿dónde está mi dinero?"
+
+msgid "TXT_RPLY0_SCRIPT02_D78832_TELLM"
+msgstr "Dime más."
+
+msgid "TXT_RPLY1_SCRIPT02_D78832_NOTMY"
+msgstr "No es mi estilo."
+
+msgid "TXT_DLG_SCRIPT02_D80348_IHAVE"
+msgstr "Tengo una relación comercial con el líder del Frente, Macil. Sé que necesita a alguien perspicaz como tú, y paga bien. Acepta esta unidad de comunicaciones recuperada y se te presentarán, digamos, oportunidades."
+
+msgid "TXT_DLG_SCRIPT02_D81864_GETGO"
+msgstr "Vete. Si te quedas aquí, los dos moriremos."
+
+msgid "TXT_DLG_SCRIPT02_D87928_WHATA"
+msgstr "¿Qué haces aquí?"
+
+msgid "TXT_RPLY0_SCRIPT02_D87928_HEYIN"
+msgstr "Oye, ¡necesito oro!"
+
+msgid "TXT_DLG_SCRIPT02_D92476_DOYOU"
+msgstr "¿Tiene usted una cita con el Gobernador? "
+
+msgid "TXT_RPLY0_SCRIPT02_D92476_OFCOU"
+msgstr "¡Por supuesto!"
+
+msgid "TXT_RPLY1_SCRIPT02_D92476_NOAND"
+msgstr "No, ¡y no necesito una!"
+
+msgid "TXT_DLG_SCRIPT02_D93992_SORRY"
+msgstr "¡Lo siento! No quise decir… Por favor, suba."
+
+msgid "TXT_DLG_SCRIPT02_D97024_RELEA"
+msgstr "Suéltenme, dejen en paz a un anciano."
+
+msgid "TXT_DLG_SCRIPT02_D98540_YOUSE"
+msgstr "¿Buscas sabiduría, hijo mío? La orden se ha encargado de que solo hagamos una pregunta, '¿Por qué?'"
+
+msgid "TXT_RPLY0_SCRIPT02_D98540_WHERE"
+msgstr "¿Dónde está el acoplamiento de potencia?"
+
+msgid "TXT_RPLY1_SCRIPT02_D98540_WHERE"
+msgstr "¿Dónde está la red principal de la Orden?"
+
+msgid "TXT_RPLY2_SCRIPT02_D98540_WHERE"
+msgstr "¿Dónde está la toma ilegal?"
+
+msgid "TXT_DLG_SCRIPT02_D103088_IFYOU"
+msgstr "Si dices que es ilegal, no quiero tener nada que ver contigo. Ya tengo suficientes problemas."
+
+msgid "TXT_DLG_SCRIPT02_D104604_RELEA"
+msgstr "Suéltenme, dejen en paz a un anciano."
+
+msgid "TXT_DLG_SCRIPT03_D0_WELCO"
+msgstr "Bienvenidos al último rayo de esperanza. Solo nosotros tenemos la libertad de oponernos a la Orden. Contamos con las mentes científicas más brillantes y muchos efectivos, pero nos falta ese verdadero, eh… solucionador de problemas, ese que nos dará la ventaja que necesitamos. Ayúdanos."
+
+msgid "TXT_RPLY0_SCRIPT03_D0_ALLRI"
+msgstr "De acuerdo, acepto."
+
+msgid "TXT_RPLY1_SCRIPT03_D0_NOTHA"
+msgstr "¡No, gracias!"
+
+msgid "TXT_DLG_SCRIPT03_D1516_YOUMI"
+msgstr "Tal vez deberías reconsiderarlo, dado que estás rodeado de rebeldes furiosos y fuertemente armados."
+
+msgid "TXT_RPLY0_SCRIPT03_D1516_ALLRI"
+msgstr "¡De acuerdo, estoy dentro!"
+
+msgid "TXT_RPLY1_SCRIPT03_D1516_NOTHA"
+msgstr "No, gracias."
+
+msgid "TXT_RPLY1_SCRIPT33_D15160_NOTHA"
+msgstr "No, gracias."
+
+msgid "TXT_DLG_SCRIPT03_D3032_THEND"
+msgstr "Entonces muere en la vergüenza y la deshonra."
+
+msgid "TXT_RPLY0_SCRIPT03_D4548_WHERE"
+msgstr "¿Por dónde empiezo?"
