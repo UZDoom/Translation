@@ -29,11 +29,18 @@ def dump_csv(destination, table):
         csv.writer(file).writerows(table)
 
 
-def remap(s):
+def remap(s, utf):
     """
-    Maps proper chars to chars/sequences that uzdoom can understand.
-    This is temporary, and eventually everything in here will be removed.
+    Prepares string for table
     """
+
+    s = s.rstrip()
+
+    # Maps proper chars to chars/sequences that uzdoom can understand.
+    # This is temporary, and eventually everything in here will be removed.
+
+    if not utf:
+        return s
 
     return s\
         .replace("™", "(TM)")\
@@ -77,7 +84,7 @@ def fill_dict(path):
         entry = {"id": e.msgid}
 
         if e.msgstr:
-            entry["string"] = e.msgstr if has_utf else remap(e.msgstr)
+            entry["string"] = remap(e.msgstr, has_utf)
         if e.tcomment:
             entry["remarks"] = e.tcomment
         if e.msgctxt:
