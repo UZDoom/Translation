@@ -5357,3 +5357,9 @@ msgstr ""
 
 msgid "CMPTMNU_TRANSFERSECRET"
 msgstr ""
+
+msgid "PICKER_THEME"
+msgstr ""
+
+msgid "OPTVAL_LIGHT"
+msgstr ""
