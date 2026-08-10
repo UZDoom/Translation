@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-08-08 21:51+0000\n"
+"PO-Revision-Date: 2026-08-10 18:51+0000\n"
 "Last-Translator: Gabriel Valderrama <koto41@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/doom-engine-games/strife/es_MX/>\n"
 "Language: es_MX\n"
@@ -283,8 +283,7 @@ msgid "TXT_DLG_SCRIPT04_D39416_IDONT"
 msgstr "No quiero sonar alarmista, pero si sigues forzando tanto el cristal de energía, va a fallar, luego se va a romper y ¡pum! …Solo es una idea."
 
 msgid "TXT_DLG_SCRIPT04_D40932_LETME"
-msgstr ""
-"Que quede claro: si esta terminal vuelve a bloquearse, el nivel de refrigerante va a caer y todos vamos a tener que dar la cara ante el Programador... si no morimos antes."
+msgstr "Que quede claro. Si esta terminal se bloquea de nuevo, el nivel de refrigerante bajará y todos tendremos que rendir cuentas ante el Programador. Si sobrevivimos."
 
 msgid "TXT_DLG_SCRIPT04_D43964_THISI"
 msgstr ""
@@ -2038,3 +2037,9 @@ msgstr "Ya era hora de que aparecieras. Ve a hablar con Ketrick en el núcleo. A
 
 msgid "TXT_RPLY0_SCRIPT04_D36384_WHERE"
 msgstr "¿Dónde está el cristal de energía?"
+
+msgid "TXT_DLG_SCRIPT04_D42448_YOUYE"
+msgstr "¡Tú! Sí, tú. No tienes permiso para entrar en esta zona. Dame tu tarjeta de acceso, rápido. ¡Estoy de muy mal humor!"
+
+msgid "TXT_RPLY0_SCRIPT04_D42448_HEREH"
+msgstr "Aquí, aquí está mi tarjeta."
