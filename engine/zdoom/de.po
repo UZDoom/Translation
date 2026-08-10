@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-08-10 07:51+0000\n"
-"Last-Translator: heiko123abc <heiko1234aaa@gmail.com>\n"
+"PO-Revision-Date: 2026-08-10 11:51+0000\n"
+"Last-Translator: Tim Richter <jank21976@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -837,7 +837,7 @@ msgstr "Schütze"
 
 # a.k.a. former commando
 msgid "CC_HEAVY"
-msgstr "Schwerer Waffenträger"
+msgstr "MG-Schütze"
 
 msgid "CC_IMP"
 msgstr "Kobold"
@@ -978,13 +978,13 @@ msgid "OB_STEALTHZOMBIE"
 msgstr "%o dachte, einen Zombie zu sehen."
 
 msgid "OB_UNDEADHIT"
-msgstr "%o wurde von einem Wiederauferstandenen K.O geschlagen."
+msgstr "%o wurde von einem Wiederauferstandenen verprügelt."
 
 msgid "OB_IMPHIT"
 msgstr "%o wurde von einem Kobold zerfetzt."
 
 msgid "OB_CACOHIT"
-msgstr "%o kam dem Cacodämonen zu nahe."
+msgstr "%o kam einem Cacodämonen zu nahe."
 
 msgid "OB_DEMONHIT"
 msgstr "%o wurde von einem Dämonen gebissen."
@@ -1029,7 +1029,7 @@ msgid "OB_BARON"
 msgstr "%o wurde von einem Höllenbaron fertig gemacht."
 
 msgid "OB_KNIGHT"
-msgstr "%o wurde von einem Höllenritter gebraten."
+msgstr "%o wurde von einem Höllenritter gegrillt."
 
 msgid "OB_SPIDER"
 msgstr "%o stand in Ehrfurcht vor dem Spinnendämon."
