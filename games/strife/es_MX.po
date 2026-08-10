@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-08-10 18:51+0000\n"
+"PO-Revision-Date: 2026-08-10 21:51+0000\n"
 "Last-Translator: Gabriel Valderrama <koto41@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/doom-engine-games/strife/es_MX/>\n"
 "Language: es_MX\n"
@@ -290,50 +290,43 @@ msgstr ""
 "¡Esto es basura! Espera aquí... Bah, al carajo. ¡Guardias, maten a este intruso!"
 
 msgid "TXT_DLG_SCRIPT04_D45480_WORKS"
-msgstr ""
-"Trabajar, dormir, ser torturado; qué vida. A ver, ¿eres el sustituto del distraído clavadista de pozos?"
+msgstr "Trabajar, dormir, ser torturado, qué vida. A ver, ¿eres el sustituto del distraído clavadista de pozos?"
 
 msgid "TXT_DLG_SCRIPT04_D46996_YEAHR"
-msgstr "Sí, claro. Bueno, ponte a trabajar."
+msgstr "Sí, claro. Vale, ponte a trabajar."
 
 msgid "TXT_DLG_SCRIPT04_D51544_IFITS"
-msgstr ""
-"Si es trabajo duro lo que buscas, ve a mirar esa pantalla un rato: te vas a morir de aburrimiento."
+msgstr "Si es trabajo duro lo que buscas, ve a mirar esa pantalla un rato, te vas a morir de aburrimiento."
 
 msgid "TXT_DLG_SCRIPT04_D53060_THEAL"
-msgstr ""
-"El todopoderoso Programador tiene tanta paranoia de infiltración que hasta cerró el núcleo de la computadora. ¿Cómo se supone que voy a trabajar así? La única forma es por la vía suicida."
+msgstr "El todopoderoso Programador está tan paranoico con las infiltraciones que ha bloqueado el núcleo de la computadora. ¿Cómo se supone que voy a trabajar así? La única forma es por la vía suicida."
 
 msgid "TXT_DLG_SCRIPT05_D4548_THEOR"
-msgstr ""
-"La ira de La Orden va a caer sobre estos sirvientes hasta que supliquen por su muerte."
+msgstr "La ira de la Orden caerá sobre estos sirvientes hasta que imploren la muerte."
 
 msgid "TXT_DLG_SCRIPT05_D6064_IDONT"
-msgstr ""
-"No me importa que Mourel te haya dado un pase. Esta es mi prisión; mi llave es la única forma de entrar o salir, y no me voy a arriesgar. La Orden no tolera los fallos."
+msgstr "Me da igual si Mourel te dio un pase. Esta es mi prisión. Mi llave es la única entrada y salida, y no voy a correr ningún riesgo. La Orden no tolera errores."
 
 msgid "TXT_RPLY0_SCRIPT05_D10612_FREEM"
-msgstr "¡Libera a mis compañeros o muere!"
+msgstr "¡Libera a mis camaradas o muere!"
 
 msgid "TXT_DLG_SCRIPT05_D12128_KILLM"
-msgstr ""
-"Mátame y no vas a liberar a nadie: poseo la única huella digital que abre las celdas."
+msgstr "Mátame y jamás liberarás a nadie. Poseo la única huella digital que abre las celdas."
 
 msgid "TXT_RPLY0_SCRIPT05_D12128_CANYO"
-msgstr "¿Me das una mano, entonces?"
+msgstr "¿Puedes darme una mano entonces?"
 
 msgid "TXT_DLG_SCRIPT05_D22740_IDGIV"
 msgstr "Daría lo que fuera por una miga de pan. Tengo tanta hambre."
 
 msgid "TXT_DLG_SCRIPT06_D1516_DOMYF"
-msgstr "Cumple mi favor primero o no vas a tener nada de mí."
+msgstr "Cumple mi favor primero o no obtendrás nada de mí."
 
 msgid "TXT_RPLY0_SCRIPT06_D1516_HOWWI"
-msgstr "¿Cómo vas a comprobar si la abrí?"
+msgstr "¿Cómo comprobarás si la abrí?"
 
 msgid "TXT_DLG_SCRIPT06_D3032_BRING"
-msgstr ""
-"Tráeme el uniforme del guardia, así uno de mis «camarratas» va a poder ponérselo para que nadie intente cerrarla de nuevo."
+msgstr "Tráeme de vuelta el uniforme del guardia, así uno de mis 'camarratas' va a poder ponérselo para que nadie intente cerrarla de nuevo."
 
 msgid "TXT_DLG_SCRIPT06_D4548_OPENT"
 msgstr ""
@@ -349,130 +342,101 @@ msgid "TXT_DLG_SCRIPT06_D9096_YOUHA"
 msgstr ""
 "Tienes que ir a otra parte de las cloacas. Para llegar ahí debes entrar al castillo por la puerta de mantenimiento de las cloacas y drenar el tanque de recuperación de agua; al fondo está la entrada oculta a las cloacas y por ahí mismo el control manual de la puerta."
 
-#, fuzzy
 msgid "TXT_DLG_SCRIPT06_D10612_GOODL"
-msgstr ""
-"Buena suerte. Te abrimos varios de nuestros túneles; eso debería facilitarte las cosas.\n"
-"Ah, es de talle M. ¡Perfecto!... Aunque de colores espantosos."
+msgstr "Buena suerte. He abierto varios de nuestros túneles para ti. Eso debería facilitarte la tarea. ¡Ah, talla M, perfecto! …Pero los colores son horribles."
 
 msgid "TXT_DLG_SCRIPT06_D13644_WERAN"
-msgstr "Weran nos va a salvar: nunca nos ha fallado."
+msgstr "Weran nos salvará. nunca nos ha fallado."
 
 msgid "TXT_DLG_SCRIPT06_D16676_LONGL"
 msgstr "¿Que viva el Frente? Pura mierda. A todos nos espera la muerte. "
 
 msgid "TXT_DLG_SCRIPT06_D21224_THISI"
-msgstr ""
-"Esta es mi recompensa por dejar escapar a los presos: vigilar las cloacas. Si llego a encontrar al tipo que los liberó, lo asesino."
+msgstr "Esta es mi recompensa por dejar escapar a los presos mientras vigilaba las alcantarillas. Si alguna vez encuentro al tipo que los liberó, lo mataré."
 
 msgid "TXT_DLG_SCRIPT06_D22740_WEVEG"
-msgstr ""
-"Tenemos a esos mendigos justo donde los queremos: un par de días más así y ya no van a poder más del hambre."
+msgstr "Tenemos a esos pequeños mendigos justo donde los queríamos. Unos días más así, y se morirán de hambre."
 
 msgid "TXT_DLG_SCRIPT07_D0_WHATT"
-msgstr "¿Qué carajo? ¿Quién abrió las puertas? ¡¡¡Activen la alarma!!!"
+msgstr "¿Qué diablos? ¿Quién abrió las puertas? ¡¡¡Activen la alarma!!!"
 
 msgid "TXT_DLG_SCRIPT07_D3032_WHATT"
-msgstr ""
-"¿¡Qué carajo te pasa!? Si el Programador vuelve de su sala de audiencias, estás muerto."
+msgstr "Qué rayos te pasa. Si el Programador vuelve de su sala de audiencias, estás muerto."
 
 msgid "TXT_DLG_SCRIPT07_D7580_ITOLD"
 msgstr "Ya te dije todo lo que sé. Estás perdiendo el tiempo."
 
 msgid "TXT_DLG_SCRIPT08_D0_YOUKI"
-msgstr ""
-"Mataste a todos los guardias. No me hagas nada. Le dije que era una idea estúpida; el verdadero Programador está en el torreón. Toma, esta es la llave."
+msgstr "Mataste a todos los guardias. No me hagas daño. Le dije que era una idea estúpida. El verdadero programador está en la fortaleza. Toma esta llave."
 
 msgid "TXT_DLG_SCRIPT10_D0_GOODY"
-msgstr ""
-"Bien, ya despertaste. Se revelaron un par de secretos terribles en cuanto agarraste el objeto ese que se le cayó al Programador."
+msgstr "Bien, estás consciente de nuevo. Cuando agarraste el objeto que dejó caer el Programador, liberaste algunos secretos terribles."
 
 msgid "TXT_DLG_SCRIPT10_D1516_WEHAV"
-msgstr ""
-"No sabemos de dónde habrá salido esta arma, pero hay que averiguarlo. Ya le quitaste una pieza a La Orden y nos estarían faltando las otras cuatro. Hasta ahí todo lo que sé. Busca al Oráculo y pídele ayuda."
+msgstr "Desconocemos el origen de esta arma, pero debemos averiguarlo. Has arrebatado una a la Orden, pero debemos conseguir las cinco. Mis conocimientos han llegado a su límite. Busca al Oráculo y pídele ayuda."
 
 msgid "TXT_DLG_SCRIPT10_D6064_WHATP"
-msgstr ""
-"¿A qué volviste?, ¿estás herido? No hay tiempo que perder, continúa con la misión: completa el Emblema."
+msgstr "¿Qué te motiva a regresar? ¿Estás herido? No hay tiempo que perder, continúa con la misión. Completa el Sigilo."
 
 msgid "TXT_RPLY0_SCRIPT10_D7580_THEOR"
-msgstr "¡El Oráculo se muere, entonces!"
+msgstr "¡El Oráculo morirá entonces!"
 
 msgid "TXT_DLG_SCRIPT10_D10612_YOUHA"
-msgstr ""
-"Tomaste la decisión correcta. Está claro que el Oráculo está siendo controlado por el mal que está detrás de La Orden. Vuelve ante él y reclama la tercera pieza del Emblema."
+msgstr "Has tomado la decisión correcta. Es evidente que el Oráculo está bajo el control de la fuerza maligna que impulsa la Orden. Regresa y reclama la tercera pieza del Sigilo."
 
 msgid "TXT_DLG_SCRIPT10_D12128_THERE"
-msgstr ""
-"Parece que no hay fin para el horror al que nos enfrentamos. Descubrimos que La Orden no solo mata a nuestra gente, sino que la está transformando en soldados biomecánicos. Encuentra la instalación donde hacen eso y clausúrala permanentemente."
+msgstr "Parece que el horror que enfrentamos no tiene fin. Hemos descubierto que la Orden no está matando a nuestra gente, sino transformándola en soldados biomecánicos. Encuentra la instalación donde se lleva a cabo esto y ciérrala, permanentemente."
 
 msgid "TXT_DLG_SCRIPT10_D13644_ONEOF"
-msgstr ""
-"Uno de nuestros capitanes, Richter, está esperándote en la comuna de las tierras fronterizas. Vio la instalación y sabe como entrar. Detén esta atrocidad ahora."
+msgstr "Uno de nuestros capitanes, Richter, te espera junto a la cascada en la comuna. Él ha visto las instalaciones y puede guiarte al interior. Detén esta atrocidad, ahora."
 
 msgid "TXT_RPLY0_SCRIPT10_D13644_THEYL"
-msgstr "¡Se van a arrepentir!"
+msgstr "¡Pagarán por esto!"
 
-#, fuzzy
 msgid "TXT_DLG_SCRIPT10_D16676_IAMTH"
-msgstr "Soy el Dios Único. ¡Necesito liberar su espíritu para poder abandonar mi cuerpo y unirme a él en vuelo! No tienes ni idea de lo que posees... ni del terror al que te enfrentas. ¡El Dios Único debe ser libre! Y me va a recompensar... ¡Vamos a ser el mismo!"
+msgstr "Yo soy el Dios Único… Necesito que su espíritu sea libre para poder abandonar mi cuerpo, y unirme a él en el vuelo. No tienes idea de lo que posees… Y del terror que enfrentas… El Dios Único debe ser libre… Y él me recompensará… Yo seré uno…"
 
 msgid "TXT_RPLY0_SCRIPT10_D16676_IWILL"
-msgstr "¡Te voy a destruir!"
+msgstr "¡Te destruiré!"
 
 msgid "TXT_DLG_SCRIPT10_D19708_WHATC"
-msgstr ""
-"¿Qué puedo hacer por ti? Feris está descifrando unos archivos bastante complejos, pero va a valer la pena. Ya hay algo de información que puedo aplicar a la próxima versión del implante de aguante."
+msgstr "¿Qué puedo hacer por ti ahora? Feris está descifrando archivos muy complejos, pero valdrá la pena. Ya tengo información que podrá aplicar a la próxima versión del implante de resistencia."
 
 msgid "TXT_RPLY1_SCRIPT10_D19708_WHENW"
 msgstr "¿Cuándo va a estar listo?"
 
 msgid "TXT_RNO1_SCRIPT10_D21224_ILLHA"
-msgstr ""
-"La voy a tener lista\n"
-"en cuanto Feris la termine."
+msgstr "Lo tendré en cuanto Feris lo termine."
 
 msgid "TXT_DLG_SCRIPT10_D22740_HOWSI"
-msgstr ""
-"¿Cómo te va? Hombre, algunas de estas nuevas tecnologías son realmente sorprendentes; deberían ayudar con tu implante. Tengo unas cuantas ideas que voy planeando y las voy a tener listas pronto. ¿Qué puedo hacer por ti?, ¿tal vez curarte?"
+msgstr "¿Qué tal? Vaya, algunas de estas nuevas tecnologías son simplemente increíbles. Esto también debería ayudar con tu implante. Tengo un par de ideas que estoy esbozando y las tendré listas pronto. ¿En qué puedo ayudarte? ¿Tal vez algo de curación?"
 
 msgid "TXT_DLG_SCRIPT10_D24256_BACKA"
-msgstr ""
-"¿De vuelta otra vez?, ¿no te cansas de esto? Tengo buenas noticias: Feris encontró una forma de potenciar la salida de tu implante; me dio las especificaciones y estoy tratando de mezclarlo con tu fisiología. Estoy forzando el crecimiento de algunos tejidos, algo totalmente nuevo, a ver si sirve. ¿Necesitas curarte?"
+msgstr "¿De vuelta otra vez?, ¿no te cansas de esto? Tengo buenas noticias, Feris encontró una forma de potenciar la salida de tu implante. me dio las especificaciones y estoy tratando de mezclarlo con tu fisiología. Estoy estimulando el crecimiento de algunos tejidos, algo totalmente nuevo, a ver si sirve. ¿Necesitas curarte?"
 
 msgid "TXT_RYES1_SCRIPT10_D24256_NOWHE"
-msgstr ""
-"Ahora. Mira qué bien,\n"
-"¡funcionó!"
+msgstr "Ahora. ¡Genial, funcionó!"
 
 msgid "TXT_DLG_SCRIPT10_D25772_WELLI"
-msgstr ""
-"Bueno, vuelvo a las andadas otra vez: sigo trabajando en tus implantes. ¿Sabías que Macil ahora los autorizó para todos? No, ¿eh? Es por lo bien que te ha salido. ¿Algo que pueda hacer por ti?"
+msgstr "Bueno, aquí estoy de nuevo, haciendo de las mías. Sigo trabajando en tus implantes. ¿Sabías que Macil ahora los ha autorizado para todos? ¿No? Es porque te has portado de maravilla. ¿Puedo ayudarte en algo?"
 
 msgid "TXT_RNO1_SCRIPT10_D25772_SORRY"
-msgstr ""
-"Lo siento, pero\n"
-"vas a tener que esperar."
+msgstr "Lo siento, pero tendrás que esperar."
 
 msgid "TXT_DLG_SCRIPT10_D27288_THISI"
-msgstr ""
-"Ya está, Feris ya exprimió todo lo que se podía de los datos que tenemos: esa fue la mejor y última versión del implante. Es un poco triste ver mi mejor creación llegar a su cima. Bueno, al menos el resto del personal me va a mantener ocupado."
+msgstr "Esto es todo, Feris ha logrado extraer hasta la última gota de todos los datos que tenemos. Esta será la mejor y última actualización del implante. Será un poco deprimente ver mi mejor creación alcanzar su máximo potencial. Bueno, al menos el resto de la tripulación me mantendrá ocupado."
 
 msgid "TXT_DLG_SCRIPT10_D28804_ITSTH"
-msgstr ""
-"Es el héroe. ¡Muy bien hecho! ¿Qué puedo ofrecerte? Hay una selección un poco más amplia ahora que tenemos todo el arsenal del castillo. Si necesitas comprar munición, habla con Justin: él se va a ocupar de ti. "
+msgstr "¡Es el héroe! ¡Gran trabajo! ¿Qué necesitas? Ahora tenemos una selección un poco más amplia, ya que contamos con toda la munición del castillo. Si necesitas comprar munición, habla con Justin. Él te atenderá. "
 
 msgid "TXT_RPLY0_SCRIPT10_D30320_IRANO"
 msgstr "Me quedé sin balas."
 
 msgid "TXT_RYES1_SCRIPT10_D30320_HEREI"
-msgstr ""
-"Bien, te voy a mostrar\n"
-"un par de trucos del oficio."
+msgstr "Aquí te mostraré algunos trucos del oficio."
 
 msgid "TXT_DLG_SCRIPT10_D31836_WELLH"
-msgstr ""
-"Bueno, ¿viniste por tutela o por municiones? No creas que ya terminé contigo: aún tengo un par de trucos bajo la manga."
+msgstr "¿Has venido en busca de tutelaje o buscas munición? No creas que he terminado contigo todavía. Aún me quedan algunos ases bajo la manga."
 
 msgid "TXT_DLG_SCRIPT10_D34868_LOOKW"
 msgstr ""
@@ -2043,3 +2007,333 @@ msgstr "¡Tú! Sí, tú. No tienes permiso para entrar en esta zona. Dame tu tar
 
 msgid "TXT_RPLY0_SCRIPT04_D42448_HEREH"
 msgstr "Aquí, aquí está mi tarjeta."
+
+msgid "TXT_RPLY0_SCRIPT04_D45480_YEAHC"
+msgstr "Sí, estoy deseando empezar."
+
+msgid "TXT_RPLY0_SCRIPT04_D46996_WHERE"
+msgstr "¿Dónde está el cristal?"
+
+msgid "TXT_DLG_SCRIPT04_D48512_GOTAL"
+msgstr "Ve a hablar con Ketrick. Sube la pasarela usando los interruptores y luego usa esta identificación para el ascensor."
+
+msgid "TXT_RPLY0_SCRIPT04_D48512_WHERE"
+msgstr "De nuevo, ¿Dónde está el cristal?"
+
+msgid "TXT_DLG_SCRIPT04_D50028_NONEO"
+msgstr "No es asunto tuyo, ve a hablar con Ketrick."
+
+msgid "TXT_RPLY0_SCRIPT04_D50028_OK"
+msgstr "Vale."
+
+msgid "TXT_RPLY0_SCRIPT04_D53060_SUICI"
+msgstr "¿Vía suicida? ¿Qué es eso?"
+
+msgid "TXT_DLG_SCRIPT04_D54576_ITSAS"
+msgstr "Es una forma segura de morir, pero eso no importa ahora. Baja en el ascensor si te apetece."
+
+msgid "TXT_DLG_SCRIPT05_D0_HALTN"
+msgstr "Alto. Nadie puede pasar por aquí sin autorización del Alcaide o del Gobernador."
+
+msgid "TXT_RPLY0_SCRIPT05_D0_HERES"
+msgstr "Aquí está mi pase, déjame entrar."
+
+msgid "TXT_DLG_SCRIPT05_D1516_OKBUT"
+msgstr "OK, pero habla solo con el Alcaide."
+
+msgid "TXT_DLG_SCRIPT05_D3032_DOILO"
+msgstr "¿Acaso parezco el alcaide? Sigue adelante, esta zona está prohibida."
+
+msgid "TXT_RPLY0_SCRIPT05_D6064_GIVEM"
+msgstr "¡Dame la maldita llave!"
+
+msgid "TXT_DLG_SCRIPT05_D7580_OVERM"
+msgstr "¡Sobre mi cadaver!"
+
+msgid "TXT_RPLY0_SCRIPT05_D7580_GREAT"
+msgstr "¡Gran idea!"
+
+msgid "TXT_DLG_SCRIPT05_D9096_SHACK"
+msgstr "Grilletes o cadenas, quiero que te quedes por aquí."
+
+msgid "TXT_DLG_SCRIPT05_D10612_IDONT"
+msgstr "No sé cómo lograste pasar a los guardias y al Alcaide, pero espero que te guste la decoración, porque acabas de mudarte."
+
+msgid "TXT_DLG_SCRIPT05_D13644_MOVEA"
+msgstr "Muévete o únete a tus amigos."
+
+msgid "TXT_DLG_SCRIPT05_D15160_DONTJ"
+msgstr "¡No te quedes ahí parado, sácanos de aquí!"
+
+msgid "TXT_DLG_SCRIPT05_D16676_THESK"
+msgstr "El cielo, quiero ver el cielo."
+
+msgid "TXT_DLG_SCRIPT05_D18192_FIVEF"
+msgstr "Cinco pies por cuatro pies, cinco pies por cuatro pies, cinco pies por cuatro pies."
+
+msgid "TXT_DLG_SCRIPT05_D19708_DONTR"
+msgstr "No me liberen si la Orden sigue al mando. No puedo soportar el terror."
+
+msgid "TXT_DLG_SCRIPT05_D21224_IDONT"
+msgstr "No quiero quejarme, pero ya es hora de que Macil envíe a alguien para sacarnos de aquí."
+
+msgid "TXT_DLG_SCRIPT06_D0_AHASU"
+msgstr "Ah, un habitante de la superficie necesitando un favor. Aquí abajo, uno hace un favor para recibir otro, y necesito que abran la entrada al pueblo, que es nuestro camino hacia la comida. La Orden la tiene sellada y custodiada."
+
+msgid "TXT_RPLY0_SCRIPT06_D0_WHERE"
+msgstr "¿Dónde está el mecanismo de la puerta?"
+
+msgid "TXT_RPLY0_SCRIPT06_D3032_YOUWA"
+msgstr "¿Quieres su uniforme?"
+
+msgid "TXT_RNO0_SCRIPT06_D6064_BRING"
+msgstr "Tráeme el uniforme."
+
+msgid "TXT_DLG_SCRIPT06_D7580_GOODH"
+msgstr "Bien. Aquí tienes algo extra. Mis compañeros lo arrancaron de un Cruzado caído, son las piezas que componen un lanzallamas. Ahora Irale puede fabricarte uno. Te lo pasarás en grande."
+
+msgid "TXT_RPLY0_SCRIPT06_D7580_WHERE"
+msgstr "¿Dónde está el mecanismo de la puerta?"
+
+msgid "TXT_RPLY0_SCRIPT06_D9096_ANYTH"
+msgstr "¿Algo más que puedas hacer?"
+
+msgid "TXT_RPLY0_SCRIPT06_D10612_THANK"
+msgstr "Gracias por tu ayuda."
+
+msgid "TXT_DLG_SCRIPT06_D12128_YOUGI"
+msgstr "Si no me das nada, no recibes nada."
+
+msgid "TXT_DLG_SCRIPT06_D15160_IFYOU"
+msgstr "Si buscas una solución a tu problema, busca a Weran. "
+
+msgid "TXT_DLG_SCRIPT06_D18192_WITHO"
+msgstr "Con nuestro paso a la superficie sellado, ni siquiera podemos alimentarnos."
+
+msgid "TXT_DLG_SCRIPT06_D19708_FOODD"
+msgstr "¿Comida, Tienes comida? Por favor, ayúdanos."
+
+msgid "TXT_DLG_SCRIPT06_D24256_WHATS"
+msgstr "¿Qué hay de tu autorización? No se permite el acceso a personal no autorizado aquí."
+
+msgid "TXT_DLG_SCRIPT07_D1516_THERE"
+msgstr "Hay otra forma de entrar a las alcantarillas, acciona ese interruptor y luego sube y vacía el tanque de recuperación."
+
+msgid "TXT_DLG_SCRIPT07_D4548_HEYYO"
+msgstr "Oye, no tienes permiso para bajar ahí."
+
+msgid "TXT_DLG_SCRIPT07_D6064_PROGR"
+msgstr "¿Programador? ¿Quién te dijo eso? No existe ningún programador. Esa historia se difundió hace siglos. No me digas que el Frente se creyó esa farsa. Qué idiotas."
+
+msgid "TXT_RPLY0_SCRIPT07_D6064_WELLW"
+msgstr "Bueno, ¿Cuál es la verdad entonces?"
+
+msgid "TXT_DLG_SCRIPT07_D9096_FIGHT"
+msgstr "Sigamos luchando, triunfaremos. ¡Este día será nuestro!"
+
+msgid "TXT_DLG_SCRIPT07_D10612_FIGHT"
+msgstr "Sigamos luchando, triunfaremos. ¡Este día será nuestro!"
+
+msgid "TXT_DLG_SCRIPT07_D12128_FIGHT"
+msgstr "Sigamos luchando, triunfaremos. ¡Este día será nuestro!"
+
+msgid "TXT_DLG_SCRIPT07_D13644_FIGHT"
+msgstr "Sigamos luchando, triunfaremos. ¡Este día será nuestro!"
+
+msgid "TXT_DLG_SCRIPT07_D15160_FIGHT"
+msgstr "Sigamos luchando, triunfaremos. ¡Este día será nuestro!"
+
+msgid "TXT_DLG_SCRIPT07_D16676_FIGHT"
+msgstr "Sigamos luchando, triunfaremos. ¡Este día será nuestro!"
+
+msgid "TXT_RPLY0_SCRIPT08_D0_YOURE"
+msgstr "¡Eres el Programador!"
+
+msgid "TXT_DLG_SCRIPT08_D1516_DOILO"
+msgstr "¿Acaso parezco poseedor de un poder absoluto? La Orden nos utiliza a todos. Ahora vete, ya estoy muerto."
+
+msgid "TXT_DLG_SCRIPT08_D3032_POWER"
+msgstr "¡El poder es la clave!"
+
+msgid "TXT_RPLY0_SCRIPT10_D0_WHATK"
+msgstr "Qué clase de secretos. "
+
+msgid "TXT_RPLY0_SCRIPT10_D1516_IMGON"
+msgstr "Necesitaré más suministros."
+
+msgid "TXT_DLG_SCRIPT10_D3032_HERES"
+msgstr "Aquí tienes algo de oro. Ve a visitar al médico y al instructor de armas y luego, ¡muévete!"
+
+msgid "TXT_RPLY0_SCRIPT10_D3032_RIGHT"
+msgstr "¡Bien!"
+
+msgid "TXT_DLG_SCRIPT10_D4548_FIGHT"
+msgstr "Pelea por el Frente y la libertad. Muévete."
+
+msgid "TXT_DLG_SCRIPT10_D15160_FIGHT"
+msgstr "Pelea por el Frente y la libertad. Muévete."
+
+msgid "TXT_RPLY0_SCRIPT10_D6064_THEOR"
+msgstr "¡El Oráculo dice que debes morir!"
+
+msgid "TXT_DLG_SCRIPT10_D7580_IHAVE"
+msgstr "He jurado lealtad a la libertad. Es el Oráculo quien tiene la tercera pieza. Ahí está tu traidor."
+
+msgid "TXT_RPLY1_SCRIPT10_D7580_ITHIN"
+msgstr "¡Creo que eres el traidor!"
+
+msgid "TXT_DLG_SCRIPT10_D9096_SPIRI"
+msgstr "Espíritu del Dios Único véngame y convierte este mundo en polvo."
+
+msgid "TXT_RPLY0_SCRIPT10_D12128_WHERE"
+msgstr "¿Dónde se encuentra ubicado?"
+
+msgid "TXT_DLG_SCRIPT10_D18192_GLADT"
+msgstr "Me alegra ver que lo lograste. ¿Qué necesitas? "
+
+msgid "TXT_RPLY0_SCRIPT10_D18192_HEALM"
+msgstr "Cúrame."
+
+msgid "TXT_RYES0_SCRIPT10_D18192_WELLL"
+msgstr "Bueno, vamos a curarte."
+
+msgid "TXT_RNO0_SCRIPT10_D18192_YOURE"
+msgstr "Estás bien."
+
+msgid "TXT_RPLY1_SCRIPT10_D18192_ANYTH"
+msgstr "¿Alguna novedad?"
+
+msgid "TXT_RYES1_SCRIPT10_D18192_YESIV"
+msgstr "Sí, tengo nuevo hardware para ti."
+
+msgid "TXT_RNO1_SCRIPT10_D18192_NOPEI"
+msgstr "Nop, pero estoy trabajando en ello."
+
+msgid "TXT_RPLY0_SCRIPT10_D19708_HEALM"
+msgstr "Cúrame."
+
+msgid "TXT_RYES0_SCRIPT10_D19708_YOUSH"
+msgstr "Deberías aprender a ser un poco más cuidadoso."
+
+msgid "TXT_RYES1_SCRIPT10_D19708_ITSRE"
+msgstr "Ya está listo. Esto solo tomará un momento."
+
+msgid "TXT_RNO1_SCRIPT10_D19708_SOON"
+msgstr "Pronto."
+
+msgid "TXT_DLG_SCRIPT10_D21224_ITHIN"
+msgstr "Creo que encontré un fallo en el hardware de tu implante. Feris me está ayudando a diseñar una modificación para solucionarlo y aumentar ligeramente la velocidad del hardware. ¿Hay algo en lo que pueda ayudarte?"
+
+msgid "TXT_RPLY0_SCRIPT10_D21224_PATCH"
+msgstr "Cúrame."
+
+msgid "TXT_RYES0_SCRIPT10_D21224_THERE"
+msgstr "Ahí, como nuevo, supongo."
+
+msgid "TXT_RPLY1_SCRIPT10_D21224_RETRO"
+msgstr "¿Remodelación?"
+
+msgid "TXT_RYES1_SCRIPT10_D21224_AHNOW"
+msgstr "Ah, ahora sí que estamos en racha."
+
+msgid "TXT_RPLY0_SCRIPT10_D22740_YESHE"
+msgstr "Sí, cúrame."
+
+msgid "TXT_RYES0_SCRIPT10_D22740_ALLRI"
+msgstr "Muy bien, aquí tienes."
+
+msgid "TXT_RPLY1_SCRIPT10_D22740_HOWAB"
+msgstr "¿Qué tal esa nueva tecnología?"
+
+msgid "TXT_RYES1_SCRIPT10_D22740_LETME"
+msgstr "Avísame cómo funciona esto."
+
+msgid "TXT_RNO1_SCRIPT10_D22740_IMNOT"
+msgstr "Aún no he terminado de diseñarlo."
+
+msgid "TXT_RPLY0_SCRIPT10_D24256_YESHE"
+msgstr "Sí, cúrame."
+
+msgid "TXT_RYES0_SCRIPT10_D24256_DONEN"
+msgstr "Listo, ahora cuídate."
+
+msgid "TXT_RPLY1_SCRIPT10_D24256_WHENW"
+msgstr "¿Cuándo terminarás?"
+
+msgid "TXT_RNO1_SCRIPT10_D24256_IMWAI"
+msgstr "Estoy esperando a que el tejido complete su ciclo de crecimiento."
+
+msgid "TXT_RPLY0_SCRIPT10_D25772_HELPM"
+msgstr "Ayúdame con esto."
+
+msgid "TXT_RYES0_SCRIPT10_D25772_THATS"
+msgstr "Eso es todo lo que puedo hacer."
+
+msgid "TXT_RPLY1_SCRIPT10_D25772_NEWIM"
+msgstr "¿Nuevo implante?"
+
+msgid "TXT_RYES1_SCRIPT10_D25772_YEPMY"
+msgstr "Sí, el mejor que he hecho hasta ahora."
+
+msgid "TXT_RPLY0_SCRIPT10_D27288_COULD"
+msgstr "¿Podrías curarme?"
+
+msgid "TXT_RYES0_SCRIPT10_D27288_THERE"
+msgstr "Listo, ya está todo preparado."
+
+msgid "TXT_RPLY0_SCRIPT10_D28804_IMOUT"
+msgstr "Me he quedado sin balas."
+
+msgid "TXT_RPLY0_SCRIPT34_D12128_IMOUT"
+msgstr "Me he quedado sin balas."
+
+msgid "TXT_RPLY0_SCRIPT34_D13644_IMOUT"
+msgstr "Me he quedado sin balas."
+
+msgid "TXT_RYES0_SCRIPT10_D28804_HERES"
+msgstr "Aquí tienes munición. No la desperdicies."
+
+msgid "TXT_RPLY1_SCRIPT10_D28804_TEACH"
+msgstr "Enséñame."
+
+msgid "TXT_RYES1_SCRIPT10_D28804_NOWAF"
+msgstr "Ahora, algunos consejos sobre las armas grandes."
+
+msgid "TXT_RNO1_SCRIPT10_D28804_YOURE"
+msgstr "Todavía no estás listo."
+
+msgid "TXT_RPLY1_SCRIPT10_D30320_TEACH"
+msgstr "Enséñame."
+
+msgid "TXT_RPLY1_SCRIPT10_D31836_TEACH"
+msgstr "Enséñame."
+
+msgid "TXT_RPLY1_SCRIPT10_D36384_TEACH"
+msgstr "Enséñame."
+
+msgid "TXT_RPLY1_SCRIPT10_D37900_TEACH"
+msgstr "Enséñame."
+
+msgid "TXT_RPLY1_SCRIPT34_D12128_TEACH"
+msgstr "Enséñame."
+
+msgid "TXT_RPLY1_SCRIPT34_D13644_TEACH"
+msgstr "Enséñame."
+
+msgid "TXT_RPLY1_SCRIPT34_D15160_TEACH"
+msgstr "Enséñame."
+
+msgid "TXT_DLG_SCRIPT10_D30320_HOWST"
+msgstr "¿Cómo va la guerra? No importa, si seguimos aquí, debe ir bien. ¿En qué puedo ayudarte?"
+
+msgid "TXT_RYES0_SCRIPT10_D30320_THATS"
+msgstr "Eso debería ayudar."
+
+msgid "TXT_RNO0_SCRIPT10_D30320_YOUVE"
+msgstr "Tienes suficiente munición."
+
+msgid "TXT_RNO1_SCRIPT10_D30320_YOURE"
+msgstr "Aún no estás listo."
+
+msgid "TXT_RPLY0_SCRIPT10_D31836_ITSAM"
+msgstr "Por ahora es munición."
