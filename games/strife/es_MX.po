@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-08-10 21:51+0000\n"
+"PO-Revision-Date: 2026-08-10 23:51+0000\n"
 "Last-Translator: Gabriel Valderrama <koto41@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/doom-engine-games/strife/es_MX/>\n"
 "Language: es_MX\n"
@@ -446,27 +446,22 @@ msgid "TXT_RPLY0_SCRIPT10_D34868_IVERU"
 msgstr "Me quedé sin balas."
 
 msgid "TXT_RYES1_SCRIPT10_D36384_AFEWM"
-msgstr ""
-"Una lección más y\n"
-"vas a saber todo lo que sé."
+msgstr "Unas cuantas lecciones más y sabrás todo lo que puedo enseñarte."
 
 msgid "TXT_DLG_SCRIPT10_D39416_IVETA"
-msgstr ""
-"Ya te enseñé todo lo que puedo y te di todo lo que podrías necesitar, a menos que te hayas quedado sin balas, claro: con eso sí te puedo seguir ayudando."
+msgstr "Te he enseñado todo lo que podía por ahora. Te he dado todo lo que puedas necesitar, a menos que te hayas quedado sin balas. Con eso todavía puedo ayudarte."
 
 msgid "TXT_RPLY0_SCRIPT10_D39416_YESIA"
 msgstr "Acertaste."
 
 msgid "TXT_DLG_SCRIPT10_D40932_CHECK"
-msgstr ""
-"Mira qué novedad: la baliza de teletransporte. Cuando la uses, vamos a rastrear la señal y a mandarte refuerzos. ¿Hay algo que pueda ofrecerte?"
+msgstr "Mira la novedad, la baliza teletransportadora. Cuando la uses, rastrearemos la señal y enviaremos ayuda. ¿Hay algo que pueda ofrecerte?"
 
 msgid "TXT_DLG_SCRIPT10_D43964_BECAR"
 msgstr "Ten cuidado ahí afuera."
 
-#, fuzzy
 msgid "TXT_DLG_SCRIPT11_D1516_ALOTO"
-msgstr "Mucha gente diría que este es un trabajo ingrato e insignificante, pero no, de hecho..."
+msgstr "Mucha gente diría que este es un trabajo ingrato e insignificante. Pero no lo es, de hecho…"
 
 msgid "TXT_RPLY0_SCRIPT11_D3032_OKPAL"
 msgstr "Sí, amigo, como tú digas."
@@ -2337,3 +2332,138 @@ msgstr "Aún no estás listo."
 
 msgid "TXT_RPLY0_SCRIPT10_D31836_ITSAM"
 msgstr "Por ahora es munición."
+
+msgid "TXT_RYES0_SCRIPT10_D31836_HERES"
+msgstr "Aquí tienes munición. No la desperdicies."
+
+msgid "TXT_RNO0_SCRIPT10_D31836_YOUVE"
+msgstr "Tienes suficiente munición."
+
+msgid "TXT_RYES1_SCRIPT10_D31836_TIMEF"
+msgstr "Es hora de las lecciones avanzadas."
+
+msgid "TXT_RNO1_SCRIPT10_D31836_YOURE"
+msgstr "Aún no estás listo."
+
+msgid "TXT_DLG_SCRIPT10_D33352_WELLW"
+msgstr "Bueno, ¿y ahora qué? ¿Nunca descansas? Me alegra que sigas con vida. No me gustaría que mi alumno favorito volviera a casa y viera el mundo desde dentro de una bolsa para cadáveres."
+
+msgid "TXT_RPLY0_SCRIPT10_D33352_INEED"
+msgstr "Necesito más balas."
+
+msgid "TXT_RYES0_SCRIPT10_D33352_THERE"
+msgstr "Ahí tienes, no las desperdicies."
+
+msgid "TXT_RNO0_SCRIPT10_D33352_YOUHA"
+msgstr "Tienes suficientes."
+
+msgid "TXT_RPLY1_SCRIPT10_D33352_WHATC"
+msgstr "¿Qué me puedes enseñar?"
+
+msgid "TXT_RYES1_SCRIPT10_D33352_DONTG"
+msgstr "No te pongas a la defensiva, aún tienes margen de mejora."
+
+msgid "TXT_RNO1_SCRIPT10_D33352_NOTHI"
+msgstr "Nada hasta que estés listo."
+
+msgid "TXT_RYES0_SCRIPT10_D34868_WHATE"
+msgstr "Qué novedad, aquí tienes."
+
+msgid "TXT_RNO0_SCRIPT10_D34868_YOUHA"
+msgstr "Tienes más de lo que puedo darte."
+
+msgid "TXT_RPLY1_SCRIPT10_D34868_TEACH"
+msgstr "Enséñame lo que puedas."
+
+msgid "TXT_RYES1_SCRIPT10_D34868_ALLRI"
+msgstr "Muy bien, aquí tienes algunos consejos."
+
+msgid "TXT_RNO1_SCRIPT10_D34868_NOTRI"
+msgstr "No por ahora."
+
+msgid "TXT_DLG_SCRIPT10_D36384_WHATI"
+msgstr "¿Qué es lo que necesitas? Espero que estés haciendo que la Orden experimente el tipo de dolor que hemos estado sintiendo durante años."
+
+msgid "TXT_RPLY0_SCRIPT10_D36384_SOMEA"
+msgstr "Algo de munición."
+
+msgid "TXT_RYES0_SCRIPT10_D36384_THERE"
+msgstr "Ahí tienes, no las desperdicies."
+
+msgid "TXT_RNO0_SCRIPT10_D36384_YOUVE"
+msgstr "Tienes suficiente munición."
+
+msgid "TXT_RNO1_SCRIPT10_D36384_YOURE"
+msgstr "Aún no estás listo."
+
+msgid "TXT_DLG_SCRIPT10_D37900_ICANT"
+msgstr "No puedo creer que sigamos aquí, tú y yo. Son demasiados los que hemos fallecido desde el principio. ¿Qué puedo hacer por ti, amigo?"
+
+msgid "TXT_RPLY0_SCRIPT10_D37900_IMOUT"
+msgstr "Me quedé sin balas."
+
+msgid "TXT_RYES2_SCRIPT33_D6064_WEARI"
+msgstr "Disfruta tu compra."
+
+msgid "TXT_RYES0_SCRIPT10_D37900_HEREU"
+msgstr "Aquí, úsalas para mantenerte de buen ánimo."
+
+msgid "TXT_RNO0_SCRIPT10_D37900_YOUHA"
+msgstr "Tienes suficiente."
+
+msgid "TXT_RYES1_SCRIPT10_D37900_WELLT"
+msgstr "Bueno, eso es todo, se acabó. No puedo enseñarte más."
+
+msgid "TXT_RNO1_SCRIPT10_D37900_RETUR"
+msgstr "Regresa cuando Macil te diga que es hora."
+
+msgid "TXT_RYES0_SCRIPT10_D39416_HEREY"
+msgstr "Aquí tienes. "
+
+msgid "TXT_RPLY0_SCRIPT10_D40932_BOXOF"
+msgstr "Caja de cohetes"
+
+msgid "TXT_RYES0_SCRIPT10_D40932_THERE"
+msgstr "Ahí tienes."
+
+msgid "TXT_RNO0_SCRIPT10_D40932_YOUCA"
+msgstr "¡No puedes pagarlo!"
+
+msgid "TXT_RPLY1_SCRIPT10_D40932_HEGRE"
+msgstr "Granadas explosivas."
+
+msgid "TXT_RYES1_SCRIPT10_D40932_HEREY"
+msgstr "Aquí tienes."
+
+msgid "TXT_RNO1_SCRIPT10_D40932_COMEB"
+msgstr "Vuelve cuando tengas suficiente dinero."
+
+msgid "TXT_RPLY2_SCRIPT10_D40932_ENERG"
+msgstr "Cápsula de energía"
+
+msgid "TXT_RYES2_SCRIPT10_D40932_HERES"
+msgstr "Aquí tienes tu cápsula de energía"
+
+msgid "TXT_RNO2_SCRIPT10_D40932_YOUDO"
+msgstr "No tienes suficiente para eso."
+
+msgid "TXT_RPLY3_SCRIPT10_D40932_TELEP"
+msgstr "Baliza de teletransporte"
+
+msgid "TXT_RYES3_SCRIPT10_D40932_HELPW"
+msgstr "Ayuda, cuando y donde la necesites."
+
+msgid "TXT_RNO3_SCRIPT10_D40932_SORRY"
+msgstr "Lo siento, no hay caridad."
+
+msgid "TXT_DLG_SCRIPT10_D42448_NOWTH"
+msgstr "Ahora que tenemos el castillo bajo control, debemos extremar las precauciones para mantenerlo. La Orden probablemente se esté preparando para contraatacar."
+
+msgid "TXT_DLG_SCRIPT10_D45480_KEEPU"
+msgstr "¡Sigue con el buen trabajo! No lo habríamos logrado sin ti."
+
+msgid "TXT_DLG_SCRIPT11_D0_IMTHE"
+msgstr "Soy el maestro de las llaves."
+
+msgid "TXT_RPLY0_SCRIPT11_D1516_GIVEM"
+msgstr "¡Dame la llave!"
