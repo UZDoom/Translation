@@ -2,15 +2,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-07-14 05:01+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-08-10 23:42-0400\n"
+"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/sr/>\n"
 "Language: sr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 2026.8.dev0\n"
+"X-Generator: python 3.14.6 polib 1.2.0\n"
 
 msgid "PRESSKEY"
 msgstr "Притисните било који тастер."
@@ -285,37 +285,11 @@ msgstr "Промена музике"
 msgid "STSTR_NOMUS"
 msgstr "Немогући Избор"
 
-msgid "STSTR_DQDON"
-msgstr "Нерањивост: УКЉ"
-
-msgid "STSTR_DQDOFF"
-msgstr "Нерањивост: ИСКЉ"
-
-msgid "STSTR_DQD2ON"
-msgstr "Ултимативна нерањивост: УКЉ"
-
-msgid "STSTR_DQD2OFF"
-msgstr "Ултимативна нерањивост: ИСКЉ"
-
 msgid "STSTR_KFAADDED"
 msgstr "Веома Срећна Муниција Додана"
 
 msgid "STSTR_FAADDED"
 msgstr "Муниција (без кључева) Додана"
-
-msgid "STSTR_NCON"
-msgstr "Пролажење кроз зидове: УКЉ"
-
-msgid "STSTR_NCOFF"
-msgstr "Пролажење кроз зидове: ИСКЉ"
-
-#, fuzzy
-msgid "STSTR_NC2ON"
-msgstr "Секундарни режим пролажења кроз зидове: УКЉ"
-
-#, fuzzy
-msgid "STSTR_NC2OFF"
-msgstr "Секундарни режим пролажења кроз зидове: ИСКЉ"
 
 # “inVuln”: Invulnerability sphere
 # “Str”: Berserk
@@ -337,47 +311,17 @@ msgstr "… Једи Чекс(Р)"
 msgid "STSTR_CLEV"
 msgstr "Мењам ниво…"
 
-msgid "TXT_BUDDHAON"
-msgstr "Буда Мод: УКЉ"
-
-msgid "TXT_BUDDHAOFF"
-msgstr "Буда Мод: ИСКЉ"
-
-msgid "TXT_BUDDHA2ON"
-msgstr "Ултимативни Буда Мод: УКЉ"
-
-msgid "TXT_BUDDHA2OFF"
-msgstr "Ултимативни Буда Мод: ИСКЉ"
-
-msgid "TXT_CHEATPOWERON"
-msgstr "Моћ: УКЉ"
-
-msgid "TXT_CHEATPOWEROFF"
-msgstr "Моћ: ИСКЉ"
-
 msgid "TXT_CHEATHEALTH"
 msgstr "Здравље напуњено"
 
 msgid "TXT_CHEATKEYS"
 msgstr "Сви кључеви"
 
-msgid "TXT_CHEATSOUNDON"
-msgstr "Дебаговање звука: УКЉ"
-
-msgid "TXT_CHEATSOUNDOFF"
-msgstr "Дебаговање звука: ИСКЉ"
-
 msgid "TXT_CHEATIDDQD"
 msgstr "Покушаваш да вараш, ех? Сада умиреш!"
 
 msgid "TXT_CHEATIDKFA"
 msgstr "Варалице—ти не заслужујеш оружје"
-
-msgid "TXT_CHEATTICKERON"
-msgstr "Бројач: УКЉ"
-
-msgid "TXT_CHEATTICKEROFF"
-msgstr "Бројач: ИСКЉ"
 
 msgid "TXT_CHEATARTIFACTS3"
 msgstr "Уреду"
@@ -388,12 +332,6 @@ msgstr "Имаш златке руке, душо"
 msgid "TXT_GOTSTUFF"
 msgstr "Покупили сте ствари!"
 
-msgid "TXT_FREEZEON"
-msgstr "Мод замрзавања: УКЉ"
-
-msgid "TXT_FREEZEOFF"
-msgstr "Мод замрзавања: ИСКЉ"
-
 msgid "TXT_STRANGE"
 msgstr "Осећате се чудно…"
 
@@ -403,35 +341,17 @@ msgstr "Осећате се врло чудно."
 msgid "TXT_NOTSTRANGE"
 msgstr "Поново се осећате као ви."
 
-msgid "TXT_LEADBOOTSON"
-msgstr "Оловне чизме: УКЉ"
-
-msgid "TXT_LEADBOOTSOFF"
-msgstr "Оловне чизме: ИСКЉ"
-
 msgid "TXT_LIGHTER"
 msgstr "Осећате лакоћу"
 
 msgid "TXT_GRAVITY"
 msgstr "Гравитација те оптерећује"
 
-msgid "TXT_NOTARGET_ON"
-msgstr "Нема мете: УКЉ"
-
-msgid "TXT_NOTARGET_OFF"
-msgstr "Нема мете: ИСКЉ"
-
 msgid "TXT_ANUBIS_ON"
 msgstr "„Дрхтите у страху!“"
 
 msgid "TXT_ANUBIS_OFF"
 msgstr "Нема више бауков оклоп"
-
-msgid "TXT_CHASECAM_ON"
-msgstr "Пратећа камера: УКЉ"
-
-msgid "TXT_CHASECAM_OFF"
-msgstr "Пратећа камера: ИСКЉ"
 
 msgid "TXT_BADDIE_KILLED"
 msgstr "Један зликовац убијен"
@@ -456,24 +376,6 @@ msgstr "Шта желите да убијете ван игре?"
 
 msgid "TXT_NOT_FROZEN"
 msgstr "Смрзнути играчи: ИСКЉ"
-
-msgid "AMSTR_FOLLOWOFF"
-msgstr "Праћење: ИСКЉ"
-
-msgid "AMSTR_FOLLOWON"
-msgstr "Праћење: УКЉ"
-
-msgid "AMSTR_GRIDON"
-msgstr "Мрежа: УКЉ"
-
-msgid "AMSTR_GRIDOFF"
-msgstr "Мрежа: ИСКЉ"
-
-msgid "AMSTR_TEXON"
-msgstr "Текстуре: УКЉ"
-
-msgid "AMSTR_TEXOFF"
-msgstr "Текстуре: ИСКЉ"
 
 msgid "AMSTR_MARKEDSPOT"
 msgstr "Означено место"
@@ -2857,14 +2759,6 @@ msgstr ""
 "Притисните Y или N."
 
 msgctxt "chex"
-msgid "STSTR_DQDON"
-msgstr "Неуништив: УКЉ"
-
-msgctxt "chex"
-msgid "STSTR_DQDOFF"
-msgstr "Неуништив: ИСКЉ"
-
-msgctxt "chex"
 msgid "STSTR_FAADDED"
 msgstr "Зорч додат"
 
@@ -5208,3 +5102,59 @@ msgstr "Аутоматски (ванила преферијални)"
 #, fuzzy
 msgid "OPTVAL_VTAZDOOM"
 msgstr "Аутоматски (ЗДум преферијални)"
+
+msgid "STSTR_DQD{ON|OFF}"
+msgstr "Нерањивост: {УКЉ|ИСКЉ}"
+
+msgid "STSTR_DQD2{ON|OFF}"
+msgstr "Ултимативна нерањивост: {УКЉ|ИСКЉ}"
+
+msgid "STSTR_NC{ON|OFF}"
+msgstr "Пролажење кроз зидове: {УКЉ|ИСКЉ}"
+
+#, fuzzy
+msgid "STSTR_NC2{ON|OFF}"
+msgstr "Секундарни режим пролажења кроз зидове: {УКЉ|ИСКЉ}"
+
+msgid "TXT_BUDDHA{ON|OFF}"
+msgstr "Буда Мод: {УКЉ|ИСКЉ}"
+
+msgid "TXT_BUDDHA2{ON|OFF}"
+msgstr "Ултимативни Буда Мод: {УКЉ|ИСКЉ}"
+
+msgid "TXT_CHEATPOWER{ON|OFF}"
+msgstr "Моћ: {УКЉ|ИСКЉ}"
+
+msgid "TXT_CHEATSOUND{ON|OFF}"
+msgstr "Дебаговање звука: {УКЉ|ИСКЉ}"
+
+msgid "TXT_CHEATTICKER{ON|OFF}"
+msgstr "Бројач: {УКЉ|ИСКЉ}"
+
+msgid "TXT_FREEZE{ON|OFF}"
+msgstr "Мод замрзавања: {УКЉ|ИСКЉ}"
+
+msgid "TXT_LEADBOOTS{ON|OFF}"
+msgstr "Оловне чизме: {УКЉ|ИСКЉ}"
+
+msgid "TXT_NOTARGET_{ON|OFF}"
+msgstr "Нема мете: {УКЉ|ИСКЉ}"
+
+msgid "TXT_CHASECAM_{ON|OFF}"
+msgstr "Пратећа камера: {УКЉ|ИСКЉ}"
+
+msgid "AMSTR_FOLLOW{ON|OFF}"
+msgstr "Праћење: {УКЉ|ИСКЉ}"
+
+msgid "AMSTR_GRID{ON|OFF}"
+msgstr "Мрежа: {УКЉ|ИСКЉ}"
+
+msgid "AMSTR_TEX{ON|OFF}"
+msgstr "Текстуре: {УКЉ|ИСКЉ}"
+
+msgctxt "chex"
+msgid "STSTR_DQD{ON|OFF}"
+msgstr "Неуништив: {УКЉ|ИСКЉ}"
+
+msgid "MSG{ON|OFF}"
+msgstr "Поруке: {УКЉ|ИСКЉ}"
