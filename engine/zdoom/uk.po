@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-08-01 21:01+0000\n"
+"PO-Revision-Date: 2026-08-10 20:51+0000\n"
 "Last-Translator: Ron Dallas <Lot_bohdan@ukr.net>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/uk/>\n"
 "Language: uk\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 2026.8.dev0\n"
+"X-Generator: Weblate 2026.9.dev0\n"
 
 msgid "PRESSKEY"
 msgstr "Натисніть будь яку клавішу."
@@ -4430,7 +4430,7 @@ msgid "OPTVAL_BRIGHT"
 msgstr "Яскраво"
 
 msgid "OPTVAL_DARK"
-msgstr "Темно"
+msgstr "Темна"
 
 # This refers to the Doom Legacy port, not a legacy lighting style!
 msgid "OPTVAL_LEGACY"
@@ -5455,7 +5455,7 @@ msgid "UPDATER_SETTINGS"
 msgstr "Налаштування оновлювача"
 
 msgid "UPDATER_PROMPT_TO_INSTALL"
-msgstr "Пропонувати встановлення"
+msgstr "Пропонувати встан."
 
 msgid "UPDATER_INTERVAL"
 msgstr "Перевіряти кожен:"
@@ -5573,3 +5573,9 @@ msgstr "OK"
 #, fuzzy
 msgid "CMPTMNU_TRANSFERSECRET"
 msgstr "Механізм зміни підлоги з передаванням секрету в BOOM"
+
+msgid "PICKER_THEME"
+msgstr "Тема"
+
+msgid "OPTVAL_LIGHT"
+msgstr "Світла"

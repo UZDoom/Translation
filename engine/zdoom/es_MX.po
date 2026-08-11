@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-08-07 20:51+0000\n"
+"PO-Revision-Date: 2026-08-10 17:51+0000\n"
 "Last-Translator: Gabriel Valderrama <koto41@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/es_MX/>\n"
 "Language: es_MX\n"
@@ -5508,3 +5508,9 @@ msgstr "OK"
 
 msgid "CMPTMNU_TRANSFERSECRET"
 msgstr "Secreto de las transferencias especiales de cambio de piso de BOOM."
+
+msgid "PICKER_THEME"
+msgstr "Tema"
+
+msgid "OPTVAL_LIGHT"
+msgstr "Claro"
