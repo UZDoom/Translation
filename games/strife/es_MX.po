@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-08-10 23:51+0000\n"
+"PO-Revision-Date: 2026-08-13 15:51+0000\n"
 "Last-Translator: Gabriel Valderrama <koto41@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/doom-engine-games/strife/es_MX/>\n"
 "Language: es_MX\n"
@@ -471,30 +471,25 @@ msgstr ""
 "¿Viniste a burlarte? Aunque estemos entre rejas, mientras sigamos en pie, ustedes pierden."
 
 msgid "TXT_DLG_SCRIPT12_D1516_IFEEL"
-msgstr ""
-"Siento un fragmento resonar en ti. El segundo se encuentra en el corazón de la torre carmesí y obsidiana: ahí debes combatir con el Obispo que sabe y espera tu llegada; lo vas a encontrar siguiendo su símbolo de poder. Llévale este pase al amo de llaves. Vuelve a mí después de matar a la bestia."
+msgstr "Siento un fragmento resonar en ti. El segundo yace en el corazón de la torre carmesí y obsidiana. Ahí debes combatir al Obispo, que está al tanto y te espera. Lo vas a encontrar siguiendo su símbolo de poder. Lleva esta ficha al maestro de la llave. Vuelve a mí después de haber derrotado a la bestia."
 
 msgid "TXT_DLG_SCRIPT12_D4548_YOURN"
-msgstr ""
-"Tu próximo desafío va a poner a prueba tu espíritu. El tercer fragmento está en manos de tu propio líder; él es igual a aquello que te manda a matar."
+msgstr "Tu próximo desafío pondrá a prueba tu espíritu. El tercer fragmento está en manos de tu propio líder. Él es igual a aquello que te envía a matar."
 
 msgid "TXT_RPLY1_SCRIPT12_D6064_ITSYO"
-msgstr "Eres tú en quien no confío."
+msgstr "Es en ti en quien no confío."
 
 msgid "TXT_DLG_SCRIPT12_D7580_WHATE"
-msgstr ""
-"Cualquiera que sea tu elección tu especie va a perecer bajo la voluntad del Dios Único."
+msgstr "Cualquiera que sea tu elección tu especie perecerá bajo la voluntad del Dios Único."
 
 msgid "TXT_RPLY0_SCRIPT12_D7580_ILLBE"
-msgstr "Voy a volver cuando Macil esté muerto."
+msgstr "Volveré cuando Macil esté muerto."
 
-#, fuzzy
 msgid "TXT_DLG_SCRIPT12_D15160_PITIF"
-msgstr "Despreciable humano, lograste lo que miles no han podido: traes ante mí el poder del Emblema, la voz del Dios Único."
+msgstr "Despreciable humano, lograste lo que miles no han podido… traes ante mí el poder del Sigilo, la voz del Dios Único."
 
 msgid "TXT_DLG_SCRIPT12_D16676_THESI"
-msgstr ""
-"El Emblema va a abrir la puerta y a liberar al espíritu que va a limpiar este planeta y a dejarme vivir eternamente. Voy a despojar este mundo de su energía y a buscar otros que conquistar."
+msgstr "El Sigilo abrirá la puerta y liberará el espíritu que purificará este planeta y me permitirá vivir eternamente. Despojaré a este mundo de sus energías y encontraré nuevos mundos que conquistar."
 
 msgid "TXT_DLG_SCRIPT14_D0_AREYO"
 msgstr ""
@@ -507,8 +502,7 @@ msgid "TXT_RPLY0_SCRIPT14_D1516_THATS"
 msgstr "Correcto, ¡están a salvo!"
 
 msgid "TXT_DLG_SCRIPT15_D1516_NOTHI"
-msgstr ""
-"Nada que reportar aquí; todo está funcionando bien. Si algo sale mal, me voy a asegurar de reportarlo."
+msgstr "Nada que reportar aquí. todo está funcionando bien. Si algo sale mal, me voy a asegurar de reportarlo."
 
 msgid "TXT_DLG_SCRIPT15_D3032_SIRTH"
 msgstr "Señor, hubo un problema antes, pero ya lo solucionamos."
@@ -520,16 +514,13 @@ msgid "TXT_RPLY0_SCRIPT17_D6064_WELLY"
 msgstr "Bueno, sí. Me manda Macil."
 
 msgid "TXT_DLG_SCRIPT17_D10612_OHSUR"
-msgstr ""
-"Ah, seguro que sí. Primero ábrete camino por el complejo de seguridad y usa el teletransportador. Lo segundo puede que sea más de tu agrado: destruye la computadora en la oficina de la administración central. Sin computadora no hay campo de fuerza."
+msgstr "Ah, seguro que sí. Primero ábrete camino por el complejo de seguridad y usa el teletransportador. Lo segundo puede que sea más de tu agrado, destruye la computadora en la oficina de la administración central. Sin computadora no hay campo de fuerza."
 
 msgid "TXT_DLG_SCRIPT17_D12128_THERE"
-msgstr ""
-"Hay una ventaja al destruir la computadora: ahí se guardan los planos de la torre. Suena ideal para gente con las manos largas... ¡Je, je!"
+msgstr "Hay una ventaja al destruir la computadora, ahí se guardan los planos de la torre. Suena ideal para gente con las manos largas… ¡Je, je!"
 
 msgid "TXT_DLG_SCRIPT17_D13644_OHWEL"
-msgstr ""
-"Bueno, se dice que el almacén de por aquí recibió un envío de trituradores, que son unas armas que pulverizan."
+msgstr "Bueno, se rumorea que el almacén de Bailey recibió un cargamento de trituradores, esa es el arma que vaporiza."
 
 msgid "TXT_RPLY0_SCRIPT17_D18192_MEDPA"
 msgstr "Parches médicos"
@@ -2467,3 +2458,174 @@ msgstr "Soy el maestro de las llaves."
 
 msgid "TXT_RPLY0_SCRIPT11_D1516_GIVEM"
 msgstr "¡Dame la llave!"
+
+msgid "TXT_DLG_SCRIPT11_D3032_OKBUT"
+msgstr "Vale, pero recuerda, yo soy el maestro de las llaves."
+
+msgid "TXT_DLG_SCRIPT11_D4548_IMTHE"
+msgstr "Soy el maestro de las llaves."
+
+msgid "TXT_DLG_SCRIPT11_D6064_DIETR"
+msgstr "¡Muere traidor!"
+
+msgid "TXT_DLG_SCRIPT11_D7580_DIETR"
+msgstr "¡Muere traidor!"
+
+msgid "TXT_DLG_SCRIPT11_D10612_LETUS"
+msgstr "¡Déjanos salir de aquí!"
+
+msgid "TXT_DLG_SCRIPT11_D12128_LEAVE"
+msgstr "¡Déjame solo!"
+
+msgid "TXT_DLG_SCRIPT12_D0_WHATI"
+msgstr "¿Qué sabiduría buscas, ser simple?"
+
+msgid "TXT_RPLY0_SCRIPT12_D0_THESI"
+msgstr "El Sigilo del Dios Único."
+
+msgid "TXT_RPLY0_SCRIPT12_D1516_ILLBE"
+msgstr "Volveré."
+
+msgid "TXT_DLG_SCRIPT12_D3032_ALTHO"
+msgstr "Aunque el obispo es formidable, esta misión es sencilla. Vuelve cuando tengas el siguiente fragmento."
+
+msgid "TXT_RPLY0_SCRIPT12_D4548_MACIL"
+msgstr "¿Macil? ¿Un traidor?"
+
+msgid "TXT_DLG_SCRIPT12_D6064_YOURB"
+msgstr "Tu fe ciega le ha permitido avanzar hacia sus objetivos con cada pieza que ganas. Enfréntalo y decide tu destino."
+
+msgid "TXT_RPLY0_SCRIPT12_D6064_ALLRI"
+msgstr "De acuerdo, es Macil."
+
+msgid "TXT_RPLY1_SCRIPT12_D7580_ICANT"
+msgstr "No puedo permitir que eso pase."
+
+msgid "TXT_DLG_SCRIPT12_D9096_THERI"
+msgstr "El río del tiempo avanza sin cesar, mientras tú permaneces inmóvil."
+
+msgid "TXT_DLG_SCRIPT12_D10612_YOUHA"
+msgstr "Te has librado del cáncer, pero tu corazón sigue latiendo. Ahora debes encontrar al cirujano que masacra y controla a tu pueblo, el Maestro del Saber. Detenlo y la siguiente pieza será tuya."
+
+msgid "TXT_RPLY0_SCRIPT12_D10612_WHERE"
+msgstr "¿Dónde lo encuentro?"
+
+msgid "TXT_DLG_SCRIPT12_D12128_USETH"
+msgstr "Usa el teletransportador que hay detrás de la puerta que acabo de abrir para llegar hasta el Maestro del Saber. Cuando muera, usa el mismo dispositivo para volver conmigo."
+
+msgid "TXT_RPLY0_SCRIPT12_D12128_ILLBE"
+msgstr "¡Volveré con su fragmento!"
+
+msgid "TXT_DLG_SCRIPT12_D13644_THERI"
+msgstr "El río del tiempo avanza sin cesar, mientras tú permaneces inmóvil."
+
+msgid "TXT_RPLY0_SCRIPT12_D15160_IDONT"
+msgstr "No entiendo."
+
+msgid "TXT_RPLY0_SCRIPT12_D16676_ICANT"
+msgstr "No puedo permitir que hagas eso."
+
+msgid "TXT_DLG_SCRIPT12_D18192_YOUCA"
+msgstr "Puedes si estás muerto."
+
+msgid "TXT_RYES0_SCRIPT14_D0_YOUME"
+msgstr "¿Lo dices en serio?"
+
+msgid "TXT_DLG_SCRIPT14_D1516_ICANT"
+msgstr "No puedo ayudar a nadie más. No hasta que hagas explotar el transmisor. Eso es lo que hay detrás del campo de fuerza de arriba. Mi trabajo es revisar las cintas transportadoras para asegurarme de que no estén atascadas. ¡Ya no!"
+
+msgid "TXT_DLG_SCRIPT14_D3032_WEREF"
+msgstr "¡Somos libres! ¡Somos libres! ¡Somos libres!"
+
+msgid "TXT_DLG_SCRIPT14_D4548_MUSTM"
+msgstr "¡Debo extraer más mineral!"
+
+msgid "TXT_DLG_SCRIPT14_D6064_WEREF"
+msgstr "¡Somos libres! ¡Somos libres! ¡Somos libres!"
+
+msgid "TXT_DLG_SCRIPT14_D7580_MUSTM"
+msgstr "¡Debo extraer más mineral!"
+
+msgid "TXT_DLG_SCRIPT14_D9096_WEREF"
+msgstr "¡Somos libres! ¡Somos libres! ¡Somos libres!"
+
+msgid "TXT_DLG_SCRIPT14_D10612_MUSTM"
+msgstr "¡Debo extraer más mineral!"
+
+msgid "TXT_DLG_SCRIPT14_D12128_WEREF"
+msgstr "¡Somos libres! ¡Somos libres! ¡Somos libres!"
+
+msgid "TXT_DLG_SCRIPT15_D0_WHATA"
+msgstr "¿Qué estás haciendo aquí?"
+
+msgid "TXT_RPLY0_SCRIPT15_D0_ROUTI"
+msgstr "Inspección de rutina."
+
+msgid "TXT_RYES0_SCRIPT15_D0_ALLRI"
+msgstr "Muy bien, continúa."
+
+msgid "TXT_DLG_SCRIPT17_D0_MOVEA"
+msgstr "Sigue adelante o probarás el metal."
+
+msgid "TXT_DLG_SCRIPT17_D1516_IDCHE"
+msgstr "Revisión de identificación."
+
+msgid "TXT_DLG_SCRIPT17_D3032_STOPW"
+msgstr "Deja de agitar tu identificación delante de mi cara y entra."
+
+msgid "TXT_DLG_SCRIPT17_D4548_NOTHI"
+msgstr "Nada que ver aquí. Sigue adelante."
+
+msgid "TXT_DLG_SCRIPT17_D6064_WHATA"
+msgstr "Qué espécimen tan sano. No necesitas mi ayuda, ¿verdad?"
+
+msgid "TXT_DLG_SCRIPT17_D7580_SHHHH"
+msgstr "Shhhh… Cállate, a menos que quieras que nos maten a los dos. Ahora, ¿qué puedo hacer por ti?"
+
+msgid "TXT_RPLY0_SCRIPT17_D7580_TELLM"
+msgstr "Dime cómo encontrar al obispo."
+
+msgid "TXT_DLG_SCRIPT17_D9096_OHHHI"
+msgstr "Ahhh, sabía que me lo preguntarías. Mira detrás de ti. Esa es la entrada a la ciudadela del obispo. Está protegida por un campo de fuerza que solo se desactiva para los visitantes oficiales, no para ti."
+
+msgid "TXT_RPLY0_SCRIPT17_D9096_IMUST"
+msgstr "Debo matar al obispo."
+
+msgid "TXT_RPLY0_SCRIPT17_D10612_GREAT"
+msgstr "Genial, suena fácil."
+
+msgid "TXT_RPLY0_SCRIPT17_D12128_ANYTH"
+msgstr "¿Algo más?"
+
+msgid "TXT_RPLY0_SCRIPT17_D13644_ISTHA"
+msgstr "¿Eso es todo?"
+
+msgid "TXT_DLG_SCRIPT17_D15160_DONTY"
+msgstr "¿No sabes el significado de la palabra \"lárgate\"?"
+
+msgid "TXT_DLG_SCRIPT17_D16676_TALKT"
+msgstr "Habla primero con Quincy. No tengo permitido ayudar a nadie a menos que él lo autorice."
+
+msgid "TXT_DLG_SCRIPT17_D18192_HOWHO"
+msgstr "¿En qué puedo ayudarle hoy?"
+
+msgid "TXT_RNO0_SCRIPT17_D18192_THATI"
+msgstr "Eso es 15 de oro mi amigo."
+
+msgid "TXT_RYES1_SCRIPT17_D18192_HERES"
+msgstr "Aquí tienes tu kit médico."
+
+msgid "TXT_RNO1_SCRIPT17_D18192_YOURE"
+msgstr "Estás un poco bajo de fondos para eso."
+
+msgid "TXT_RPLY2_SCRIPT17_D18192_FIELD"
+msgstr "Kit quirúrgico de campaña"
+
+msgid "TXT_RYES2_SCRIPT17_D18192_ONEFI"
+msgstr "Un kit quirúrgico de campaña, hecho."
+
+msgid "TXT_RNO2_SCRIPT17_D18192_COMEB"
+msgstr "¡Vuelve cuando tengas dinero!"
+
+msgid "TXT_DLG_SCRIPT18_D0_WHATI"
+msgstr "¿Qué es?"
