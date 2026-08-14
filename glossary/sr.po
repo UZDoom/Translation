@@ -183,9 +183,6 @@ msgstr "МБФ21"
 msgid "Based on"
 msgstr "на"
 
-msgid "lazzed"
-msgstr "ЛАЗ-овао"
-
 msgid "on and on"
 msgstr "траје и траје"
 
