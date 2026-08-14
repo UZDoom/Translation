@@ -40,7 +40,7 @@ def remap(s, utf):
     # Maps proper chars to chars/sequences that uzdoom can understand.
     # This is temporary, and eventually everything in here will be removed.
 
-    if not utf:
+    if utf:
         return s
 
     return s\
