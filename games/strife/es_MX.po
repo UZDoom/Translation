@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-08-13 15:51+0000\n"
+"PO-Revision-Date: 2026-08-14 16:51+0000\n"
 "Last-Translator: Gabriel Valderrama <koto41@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/doom-engine-games/strife/es_MX/>\n"
 "Language: es_MX\n"
@@ -529,53 +529,43 @@ msgid "TXT_RYES0_SCRIPT17_D18192_HERES"
 msgstr "Aquí tienes tus curitas."
 
 msgid "TXT_DLG_SCRIPT18_D1516_THETE"
-msgstr ""
-"Los templarios van a estar aquí pronto para recibir sus nuevos trituradores; si los molestas eres hombre muerto."
+msgstr "Los templarios llegarán pronto a recoger sus nuevos trituradores. Si los molestas eres hombre muerto."
 
 msgid "TXT_DLG_SCRIPT18_D3032_THEYC"
-msgstr ""
-"Llegaron hace poco, para eso toda esta seguridad; tuve la oportunidad de verlos al cerrar el depósito. Se supone que nadie puede entrar o salir hasta que el resto del pelotón venga a pedir sus armas."
+msgstr "Llegaron hace poco. para eso toda esta seguridad. Tuve la oportunidad de verlos cuando cerré. Se supone que nadie puede entrar o salir hasta que el resto del pelotón venga a pedir sus armas."
 
 msgid "TXT_DLG_SCRIPT22_D1516_SOYOU"
-msgstr ""
-"Así que hablaste con Timothy, ya veo. Él y yo hemos trabajado juntos para tratar de descifrar los misterios de La Orden antes de que sea demasiado tarde para todos nosotros. Tal vez puedas ayudarnos; acabo de abrir la puerta al sector de producción."
+msgstr "Así que hablaste con Timothy, ya veo. Él y yo hemos trabajado juntos para intentar desentrañar los misterios de la Orden, antes de que sea demasiado tarde para todos. Quizás puedas ayudarnos. He abierto la puerta al sector de producción."
 
 msgid "TXT_RPLY0_SCRIPT22_D1516_DOYOU"
 msgstr "¿Sabes qué hay adentro?"
 
-#, fuzzy
 msgid "TXT_DLG_SCRIPT22_D4548_NOIFY"
-msgstr "¡No! Si lo encuentras, quédatelo. Puede que te sirva para tratar de librarnos de esta opresión. Te desearía suerte, pero vas a necesitar mucho más que eso si vas ahí..."
+msgstr "¡No! Si lo encuentras, es tuyo. Tal vez puedas usarlo para ayudarnos a liberarnos de la opresión. Te deseo suerte, pero vas a necesitar mucho más que eso si entras ahí…"
 
 msgid "TXT_RPLY0_SCRIPT22_D4548_WHATS"
 msgstr "¿Qué hay de esos misterios que mencionaste?"
 
-#, fuzzy
 msgid "TXT_RPLY0_SCRIPT22_D7580_THANK"
-msgstr "Gracias... Voy a hacer lo que pueda."
+msgstr "Gracias... Haré lo que pueda."
 
 msgid "TXT_RPLY0_SCRIPT23_D4548_MEDPA"
 msgstr "Parches médicos"
 
 msgid "TXT_RYES0_SCRIPT23_D4548_HERES"
-msgstr "Aquí tienes tus curitas."
+msgstr "Aquí tienes tus parches."
 
 msgid "TXT_RNO0_SCRIPT23_D7580_COMEO"
-msgstr ""
-"Vamos, solo cinco míseras\n"
-"monedas de oro."
+msgstr "Vamos, son solo 5 míseras monedas de oro."
 
 msgid "TXT_DLG_SCRIPT23_D15160_THANK"
-msgstr ""
-"Gracias a Dios, llegaste. Para entrar a la fábrica se necesita una llave; la robamos, pero nuestro agente está perdido en la red de catacumbas debajo de la fortaleza de La Orden. Mandé a diez buenos hombres a esos túneles a buscarlo y ninguno volvió. ¡Hay algo ahí abajo!"
+msgstr "Gracias a Deus que has llegado hasta aquí. Para entrar en la fábrica necesitas una llave. La robamos pero nuestro agente está perdido en la red de catacumbas bajo la fortaleza de la Orden. He enviado a diez hombres valientes a buscarlo a esos túneles, y ninguno ha vuelto. ¡Hay algo ahí abajo!"
 
 msgid "TXT_DLG_SCRIPT23_D16676_NOTDE"
-msgstr ""
-"No, definitivamente no. Sea lo que sea, debes pelear contra eso para recuperar la llave; voy a abrir la entrada a las catacumbas. Cuando la tengas, la fábrica está junto a la mina. Apúrate, que cada segundo cuenta."
+msgstr "No, definitivamente no. Sea lo que sea, debes pelear contra eso para recuperar la llave. Abriré la entrada a las catacumbas. Cuando la tengas, la fábrica está junto a la mina. Apúrate, que cada segundo cuenta."
 
 msgid "TXT_DLG_SCRIPT23_D15160_IFYOU"
-msgstr ""
-"Si tan aburrido estás, ve a ver si puedes encontrar el cáliz azul. Mis estudios sobre La Orden sugieren que está oculto en alguna parte del sector de manufactura de la fábrica. Ese artefacto me sería de gran valor, así que tráemelo y te voy a ayudar."
+msgstr "Si tienes tanto tiempo libre, intenta encontrar el cáliz azul. Mis investigaciones sobre la Orden sugieren que lo han escondido en algún lugar del sector de producción de la fábrica. Este artefacto sería de gran valor para mí, así que tráemelo y te ayudaré."
 
 msgid "TXT_DLG_SCRIPT23_D16676_YOUFO"
 msgstr "¡Encontraste el cáliz azul! Bueno, dámelo primero y negociamos."
@@ -584,38 +574,31 @@ msgid "TXT_RPLY1_SCRIPT23_D16676_SCREW"
 msgstr "Al diablo, me lo quedo."
 
 msgid "TXT_DLG_SCRIPT23_D18192_LOCAT"
-msgstr ""
-"Ve a la forja. La información que te di debería permitirte entrar a un sector secreto de la fábrica. Uno de los trabajadores de la forja puede abrir la puerta."
+msgstr "Ve a la fundición. La información que te di debería permitirte entrar a un sector secreto de la fábrica. Uno de los trabajadores de la fundición puede abrir la puerta."
 
 msgid "TXT_DLG_SCRIPT23_D21224_THATB"
-msgstr ""
-"Ese cáliz azul, ¿de dónde lo sacaste? He estado investigando a La Orden y sus conexiones con el pasado lejano, y ese artefacto me serviría. Hagamos un trato: dame el cáliz y te doy algo de información."
+msgstr "¿Cómo conseguiste ese cáliz azul? He estado investigando la Orden y sus vínculos con el pasado remoto, y ese artefacto me sería de gran ayuda. Hagamos un trato. Dame el cáliz y yo te daré información."
 
 msgid "TXT_RPLY1_SCRIPT23_D21224_SCREW"
 msgstr "Al diablo, me lo quedo."
 
 msgid "TXT_DLG_SCRIPT23_D24256_THANK"
-msgstr ""
-"Gracias a Dios, llegaste. Para entrar a la fábrica se necesita una llave; la robamos, pero nuestro agente está perdido en la red de catacumbas debajo de la fortaleza de La Orden. Mandé a diez buenos hombres a esos túneles a buscarlo y ninguno volvió. ¡Hay algo ahí abajo!"
+msgstr "Gracias a Deus que has llegado hasta aquí. Para entrar en la fábrica necesitas una llave. La robamos pero nuestro agente está perdido en la red de catacumbas bajo la fortaleza de la Orden. He enviado a diez hombres valientes a buscarlo a esos túneles, y ninguno ha vuelto. ¡Hay algo ahí abajo!"
 
 msgid "TXT_DLG_SCRIPT23_D25772_NOTDE"
-msgstr ""
-"No, definitivamente no. Sea lo que sea, debes pelear contra eso para recuperar la llave; voy a abrir la entrada a las catacumbas. Cuando la tengas, la fábrica está junto a la mina. Apúrate, que cada segundo cuenta."
+msgstr "No, definitivamente no. Sea lo que sea, debes pelear contra eso para recuperar la llave. Abriré la entrada a las catacumbas. Cuando la tengas, la fábrica está junto a la mina. Apúrate, que cada segundo cuenta."
 
 msgid "TXT_DLG_SCRIPT27_D0_THEMA"
-msgstr ""
-"Al maestro no le gustan las visitas; le gusta que su trabajo permanezca ininterrumpido. Tengo que ir a buscar partes frescas al almacén: una pierna y un brazo, creo que dijo. Ah, bueno, no hay tiempo para hablar. Yo que tú me iría antes de que te encuentre."
+msgstr "Al maestro no le gustan las visitas. Prefiere que su trabajo permanezca intacto. Tengo que ir a buscar piezas nuevas al almacén. Creo que dijo una pierna y un brazo. Bueno, ya no hay tiempo para hablar. Mejor me voy antes de que te encuentre."
 
 msgid "TXT_RYES0_SCRIPT27_D0_BECAU"
-msgstr ""
-"¡Te estoy diciendo que\n"
-"no le gustan las visitas!"
+msgstr "¡A que ya te dije que no le gustan las visitas!"
 
 msgid "TXT_DLG_SCRIPT27_D1516_YOUKN"
-msgstr "¿Sabes? Tienes el talle justo para alguno de los uniformes de acólito."
+msgstr "Sabes, tienes la talla adecuada para uno de los uniformes de acólito."
 
 msgid "TXT_DLG_SCRIPT31_D1516_YOULL"
-msgstr "No vas a encontrar nada si sigues aquí."
+msgstr "Nunca encontrarás nada si te quedas por aquí."
 
 msgid "TXT_DLG_SCRIPT33_D0_BECAR"
 msgstr "Ten cuidado ahí afuera."
@@ -627,7 +610,7 @@ msgid "TXT_DLG_SCRIPT33_D3032_IVEAL"
 msgstr "Ya te dije lo que sé."
 
 msgid "TXT_RNO0_SCRIPT33_D4548_YOURE"
-msgstr "¡No traes dinero!"
+msgstr "¡Andas corto!"
 
 msgid "TXT_RNO1_SCRIPT33_D6064_PERHA"
 msgstr "¿Tal vez en otra ocasión?"
@@ -1524,7 +1507,7 @@ msgid "TXT_RNO1_SCRIPT02_D24256_IWISH"
 msgstr "Me gustaría poder regalarlos, pero cuestan 25 de oro."
 
 msgid "TXT_RPLY2_SCRIPT02_D21224_FIELD"
-msgstr "Kit quirúrgico de campo"
+msgstr "Kit quirúrgico de campaña"
 
 msgid "TXT_RYES2_SCRIPT02_D21224_THERE"
 msgstr "Ahí tiene. Cuídese."
@@ -1545,7 +1528,7 @@ msgid "TXT_RNO0_SCRIPT02_D24256_YOUNE"
 msgstr "Necesita 10 de oro para eso."
 
 msgid "TXT_RPLY2_SCRIPT02_D24256_FIELD"
-msgstr "Kit quirúrgico de campo"
+msgstr "Kit quirúrgico de campaña"
 
 msgid "TXT_RYES2_SCRIPT02_D24256_THERE"
 msgstr "Ahí tiene. Cuídese."
@@ -2629,3 +2612,321 @@ msgstr "¡Vuelve cuando tengas dinero!"
 
 msgid "TXT_DLG_SCRIPT18_D0_WHATI"
 msgstr "¿Qué es?"
+
+msgid "TXT_RPLY0_SCRIPT18_D0_JUSTL"
+msgstr "Solo estoy mirando."
+
+msgid "TXT_RYES0_SCRIPT18_D0_JUSTK"
+msgstr "Pues apártate del camino."
+
+msgid "TXT_RPLY0_SCRIPT18_D1516_MAULE"
+msgstr "¿Trituradores?"
+
+msgid "TXT_RYES0_SCRIPT18_D1516_THETE"
+msgstr "El arma favorita de los Templarios."
+
+msgid "TXT_DLG_SCRIPT19_D0_THISI"
+msgstr "Aquí es donde se obtienen los planos para la administración central."
+
+msgid "TXT_DLG_SCRIPT22_D0_IRUNT"
+msgstr "Yo dirijo este lugar. Mi trabajo consiste en fabricar las piezas necesarias para los diseños de robots del Maestro del Saber. Si no vienes por asuntos oficiales, me temo que no tengo tiempo para hablar."
+
+msgid "TXT_RPLY0_SCRIPT22_D0_IAMON"
+msgstr "Estoy en asuntos oficiales."
+
+msgid "TXT_DLG_SCRIPT22_D3032_ITSAT"
+msgstr "Es una zona ultrasecreta. No solo la Orden está criando una especie de… criatura ahí, sino que he visto con mis propios ojos un extraño artefacto llamado Talismán. Nadie tiene permitido acercarse. Se rumorea que posee un gran poder si se une con otros dos de su especie."
+
+msgid "TXT_RPLY0_SCRIPT22_D3032_ISUPP"
+msgstr "¿Supongo que quieres esta cosa?"
+
+msgid "TXT_DLG_SCRIPT22_D6064_YOUVE"
+msgstr "Seguramente ya has visto las otras ruinas cercanas. Parece que el cometa que se estrelló contra nuestro planeta es en realidad una nave espacial, y aunque parezca increíble, se originó en este mismo mundo hace mucho tiempo."
+
+msgid "TXT_RPLY0_SCRIPT22_D6064_SOTHE"
+msgstr "Entonces los espectros, el Dios Único…"
+
+msgid "TXT_DLG_SCRIPT22_D7580_THEYA"
+msgstr "Son criaturas que antaño gobernaron este mundo y ahora ansían consumir su vida. Los antiguos lograron sellarlas, pero sacrificaron sus vidas en el proceso. Me temo que eso es todo lo que sé."
+
+msgid "TXT_DLG_SCRIPT22_D9096_GODSP"
+msgstr "Date prisa, amigo."
+
+msgid "TXT_DLG_SCRIPT22_D10612_TALKT"
+msgstr "Si tienen alguna pregunta, hablen con el maestro herrero. Yo solo me encargo de poner las etiquetas en las cajas."
+
+msgid "TXT_DLG_SCRIPT23_D0_WHATC"
+msgstr "¿Qué puedo conseguirle, ciudadano?"
+
+msgid "TXT_RPLY0_SCRIPT23_D0_AMMOB"
+msgstr "Caja de munición"
+
+msgid "TXT_RYES0_SCRIPT23_D0_HERES"
+msgstr "Aquí está su munición."
+
+msgid "TXT_RNO0_SCRIPT23_D0_YOUDO"
+msgstr "¡No tiene suficiente para eso!"
+
+msgid "TXT_RPLY1_SCRIPT23_D0_CRATE"
+msgstr "Caja de misiles"
+
+msgid "TXT_RYES1_SCRIPT23_D0_HEREC"
+msgstr "Aquí, ciudadano."
+
+msgid "TXT_RNO1_SCRIPT23_D0_ITS85"
+msgstr "¡Son 85 de oro, ciudadano!"
+
+msgid "TXT_RPLY2_SCRIPT23_D0_HEGRE"
+msgstr "Granadas explosivas"
+
+msgid "TXT_RYES2_SCRIPT23_D0_HEREA"
+msgstr "Aquí están sus granadas."
+
+msgid "TXT_RNO2_SCRIPT23_D0_THEYA"
+msgstr "Son 100 de oro, amigo."
+
+msgid "TXT_RPLY3_SCRIPT23_D0_ENERG"
+msgstr "Cápsula de energía"
+
+msgid "TXT_RYES3_SCRIPT23_D0_HEREY"
+msgstr "Aquí tiene."
+
+msgid "TXT_RNO3_SCRIPT23_D0_THATS"
+msgstr "Son 135 de oro, lo siento."
+
+msgid "TXT_DLG_SCRIPT23_D1516_WHATC"
+msgstr "¿En qué puedo ayudarle?"
+
+msgid "TXT_RYES0_SCRIPT23_D1516_HEREI"
+msgstr "Aquí está, ciudadano."
+
+msgid "TXT_RNO0_SCRIPT23_D1516_THERE"
+msgstr "¡Aquí no se da caridad!"
+
+msgid "TXT_RYES1_SCRIPT23_D1516_ANEXC"
+msgstr "Excelente elección, ciudadano."
+
+msgid "TXT_RNO1_SCRIPT23_D1516_YOUDO"
+msgstr "¡No tiene suficiente para esto!"
+
+msgid "TXT_RYES2_SCRIPT23_D1516_HEREY"
+msgstr "Aquí tiene."
+
+msgid "TXT_RNO2_SCRIPT23_D1516_NOMON"
+msgstr "Sin dinero, no hay traje."
+
+msgid "TXT_RPLY3_SCRIPT23_D1516_SOMET"
+msgstr "¿Algo diferente?"
+
+msgid "TXT_RYES3_SCRIPT23_D1516_GOTHR"
+msgstr "Atraviese la puerta al final del pasillo."
+
+msgid "TXT_RNO3_SCRIPT23_D1516_YOUMU"
+msgstr "Debe pagar si quiere jugar."
+
+msgid "TXT_DLG_SCRIPT23_D3032_WHATC"
+msgstr "¿Qué puedo ofrecerle?"
+
+msgid "TXT_RYES0_SCRIPT23_D3032_HEREI"
+msgstr "Aquí está, ciudadano."
+
+msgid "TXT_RNO0_SCRIPT23_D3032_THERE"
+msgstr "¡Aquí no se da caridad!"
+
+msgid "TXT_RYES1_SCRIPT23_D3032_ANEXC"
+msgstr "Excelente elección, ciudadano."
+
+msgid "TXT_RNO1_SCRIPT23_D3032_YOUDO"
+msgstr "¡No tiene suficiente para esto!"
+
+msgid "TXT_RYES2_SCRIPT23_D3032_HEREY"
+msgstr "Aquí tiene."
+
+msgid "TXT_RNO2_SCRIPT23_D3032_NOMON"
+msgstr "Sin dinero, no hay traje."
+
+msgid "TXT_DLG_SCRIPT23_D4548_HOWCA"
+msgstr "¿En qué puedo ayudarle hoy?"
+
+msgid "TXT_RNO0_SCRIPT23_D4548_THATI"
+msgstr "Eso está a 15 de oro mi amigo."
+
+msgid "TXT_RYES1_SCRIPT23_D4548_HERES"
+msgstr "Aquí está su kit médico."
+
+msgid "TXT_RNO1_SCRIPT23_D4548_YOURA"
+msgstr "Está un poco bajo en fondos para eso."
+
+msgid "TXT_RPLY2_SCRIPT23_D4548_FIELD"
+msgstr "Kit quirúrgico de campaña"
+
+msgid "TXT_RPLY1_SCRIPT33_D7580_FIELD"
+msgstr "Kit quirúrgico de campaña"
+
+msgid "TXT_RYES2_SCRIPT23_D4548_ONEFI"
+msgstr "Un kit quirúrgico de campaña."
+
+msgid "TXT_RNO2_SCRIPT23_D4548_COMEB"
+msgstr "¡Vuelva cuando tenga dinero!"
+
+msgid "TXT_DLG_SCRIPT23_D6064_HELLO"
+msgstr "Hola amigo, ¿Qué puedo conseguirte?"
+
+msgid "TXT_RPLY0_SCRIPT23_D6064_INFOR"
+msgstr "Información"
+
+msgid "TXT_RYES0_SCRIPT23_D6064_IVENE"
+msgstr "Nunca he visto a nadie entrar ni salir de la fábrica, el campo de fuerza siempre está activado."
+
+msgid "TXT_RNO0_SCRIPT23_D6064_NOMON"
+msgstr "Sin dinero, no hay información."
+
+msgid "TXT_DLG_SCRIPT23_D7580_YESWH"
+msgstr "Sí, ¿Qué te gustaría?"
+
+msgid "TXT_RYES0_SCRIPT23_D7580_THEFA"
+msgstr "La fábrica está construida sobre el lugar del impacto del cometa. No creo que sea casualidad."
+
+msgid "TXT_DLG_SCRIPT23_D9096_HELLO"
+msgstr "Hola de nuevo, ¿Qué va a ser?"
+
+msgid "TXT_RYES0_SCRIPT23_D9096_THEFA"
+msgstr "La fábrica cerró cuando la Orden reveló su nuevo horror: el Inquisidor."
+
+msgid "TXT_RNO0_SCRIPT23_D9096_5GOLD"
+msgstr "5 de oro por favor."
+
+msgid "TXT_DLG_SCRIPT23_D10612_THATS"
+msgstr "Eso es todo lo que sé. Hasta a los camareros se les acaban las cosas que decir, lo siento."
+
+msgid "TXT_DLG_SCRIPT23_D12128_HELLO"
+msgstr "Hola."
+
+msgid "TXT_RPLY0_SCRIPT23_D12128_WHATA"
+msgstr "¿Qué estás haciendo?"
+
+msgid "TXT_RYES0_SCRIPT23_D12128_IMDOI"
+msgstr "Estoy haciendo cosas, ¡vete!"
+
+msgid "TXT_DLG_SCRIPT23_D13644_NOWWH"
+msgstr "Ahora bien, ¿en qué puedo ayudarte?"
+
+msgid "TXT_RPLY0_SCRIPT23_D13644_SHADO"
+msgstr "¿Armadura sombría?"
+
+msgid "TXT_RPLY0_SCRIPT23_D22740_SHADO"
+msgstr "¿Armadura sombría?"
+
+msgid "TXT_RYES0_SCRIPT23_D13644_AHHTO"
+msgstr "¡Ah, ser oído, pero no visto!"
+
+msgid "TXT_RNO0_SCRIPT23_D13644_GETOU"
+msgstr "Lárgate de aquí, vuelve cuando tengas dinero."
+
+msgid "TXT_RPLY0_SCRIPT23_D15160_WHATI"
+msgstr "¿Qué es? ¿Humano o…?"
+
+msgid "TXT_RPLY0_SCRIPT23_D16676_SOMET"
+msgstr "¿Algo inhumano, eh?, genial."
+
+msgid "TXT_DLG_SCRIPT23_D18192_YOURE"
+msgstr "¡Estás perdiendo el tiempo y vidas! ¡Muévete!"
+
+msgid "TXT_DLG_SCRIPT23_D10612_CANIB"
+msgstr "¿Puedo ser de más ayuda?"
+
+msgid "TXT_RYES0_SCRIPT23_D10612_LOOKF"
+msgstr "Busca a Timothy. He oído que conoce algunos de los secretos de la Orden."
+
+msgid "TXT_RNO0_SCRIPT23_D10612_JUSTA"
+msgstr "Solo otras 5 de oro."
+
+msgid "TXT_DLG_SCRIPT23_D12128_THATS"
+msgstr "Eso es todo lo que sé. Hasta a los camareros se les acaban las cosas que decir, lo siento."
+
+msgid "TXT_DLG_SCRIPT23_D13644_HELLO"
+msgstr "Hola."
+
+msgid "TXT_RPLY0_SCRIPT23_D13644_WHATA"
+msgstr "¿Qué estás haciendo?"
+
+msgid "TXT_RYES0_SCRIPT23_D13644_IMDOI"
+msgstr "Estoy haciendo cosas, ¡vete!"
+
+msgid "TXT_RPLY0_SCRIPT23_D16676_TAKEI"
+msgstr "Tómalo, de todas formas trae mala suerte."
+
+msgid "TXT_RYES1_SCRIPT23_D16676_THENI"
+msgstr "Entonces no te voy a dar nada. ¡Piérdete!"
+
+msgid "TXT_RPLY0_SCRIPT23_D18192_WHATC"
+msgstr "¿Qué puedo encontrar ahí?"
+
+msgid "TXT_DLG_SCRIPT23_D19708_MYRES"
+msgstr "Mi investigación sugiere que ahí se esconde algún poder oscuro del pasado antiguo. ¡Ten cuidado!"
+
+msgid "TXT_RPLY0_SCRIPT23_D21224_TAKEI"
+msgstr "Tómalo, de todas formas trae mala suerte."
+
+msgid "TXT_RYES1_SCRIPT23_D21224_THENI"
+msgstr "Entonces no te voy a dar nada. ¡Piérdete!"
+
+msgid "TXT_DLG_SCRIPT23_D22740_NOWWH"
+msgstr "Ahora bien, ¿en qué puedo ayudarle?"
+
+msgid "TXT_RYES0_SCRIPT23_D22740_AHHTO"
+msgstr "¡Ah, ser oído, pero no visto!"
+
+msgid "TXT_RNO0_SCRIPT23_D22740_GETOU"
+msgstr "Lárgate de aquí, vuelve cuando tengas dinero."
+
+msgid "TXT_RPLY0_SCRIPT23_D24256_WHATI"
+msgstr "¿Qué es? ¿Humano o…?"
+
+msgid "TXT_RPLY0_SCRIPT23_D25772_SOMET"
+msgstr "¿Algo inhumano, eh?, genial."
+
+msgid "TXT_DLG_SCRIPT23_D27288_YOURE"
+msgstr "¡Estás perdiendo el tiempo y vidas! ¡Muévete!"
+
+msgid "TXT_RPLY0_SCRIPT27_D0_WHYST"
+msgstr "A qué viene eso."
+
+msgid "TXT_DLG_SCRIPT31_D0_OHNOI"
+msgstr "Oh no, no soy el verdadero programador, se está escondiendo. Continúa más allá del área de entrenamiento de guardias, es muy difícil. Si sobrevives, tal vez puedas hablar con él. O matarlo."
+
+msgid "TXT_RPLY0_SCRIPT31_D0_WHOAR"
+msgstr "¿Quién eres?"
+
+msgid "TXT_DLG_SCRIPT32_D0_PISSO"
+msgstr "¡Vete al carajo plebeyo!"
+
+msgid "TXT_DLG_SCRIPT32_D1516_DIELI"
+msgstr "¡Muere hombrecito!"
+
+msgid "TXT_DLG_SCRIPT32_D3032_FINAL"
+msgstr "Por fin puedo salir de esta celda."
+
+msgid "TXT_RPLY0_SCRIPT32_D3032_WHYAR"
+msgstr "¿Por qué estás aquí?"
+
+msgid "TXT_RYES0_SCRIPT32_D3032_IWASF"
+msgstr "Me engañaron."
+
+msgid "TXT_DLG_SCRIPT32_D4548_HARRI"
+msgstr "Harris dijo que yo estaba conspirando para matar al gobernador. Jamás le haría daño a nadie."
+
+msgid "TXT_DLG_SCRIPT33_D1516_SAYFR"
+msgstr "Oye, amigo, te ayudaré si tú me ayudas. Dame 5 de oro y te contaré lo que sé."
+
+msgid "TXT_RPLY0_SCRIPT33_D1516_HERES"
+msgstr "Aquí está el oro."
+
+msgid "TXT_RYES0_SCRIPT33_D1516_IFYOU"
+msgstr "Si golpeas a alguien, no activarás las alarmas."
+
+msgid "TXT_DLG_SCRIPT33_D4548_HELLO"
+msgstr "Hola amigo. ¿Qué puedo ofrecerte?"
+
+msgid "TXT_RYES0_SCRIPT33_D4548_ONEQU"
+msgstr "Ten tus flechas."
