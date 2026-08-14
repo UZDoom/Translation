@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-08-14 16:51+0000\n"
+"PO-Revision-Date: 2026-08-14 18:51+0000\n"
 "Last-Translator: Gabriel Valderrama <koto41@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/doom-engine-games/strife/es_MX/>\n"
 "Language: es_MX\n"
@@ -2930,3 +2930,36 @@ msgstr "Hola amigo. ¿Qué puedo ofrecerte?"
 
 msgid "TXT_RYES0_SCRIPT33_D4548_ONEQU"
 msgstr "Ten tus flechas."
+
+msgid "TXT_RYES1_SCRIPT33_D4548_HERES"
+msgstr "Aquí está tu munición"
+
+msgid "TXT_RNO1_SCRIPT33_D4548_SORRY"
+msgstr "Perdón, sin dinero, no hay balas."
+
+msgid "TXT_RPLY2_SCRIPT33_D4548_50ROU"
+msgstr "Caja de munición"
+
+msgid "TXT_RYES2_SCRIPT33_D4548_HEREY"
+msgstr "Aquí tienes"
+
+msgid "TXT_RNO2_SCRIPT33_D4548_YOUDO"
+msgstr "¡No tienes suficiente oro!"
+
+msgid "TXT_RYES3_SCRIPT33_D4548_THANK"
+msgstr "Gracias, ¿algo más?"
+
+msgid "TXT_RNO3_SCRIPT33_D4548_YOUCA"
+msgstr "No te alcanza, buen día."
+
+msgid "TXT_DLG_SCRIPT33_D6064_WELCO"
+msgstr "Bienvenido. ¿Qué puedo mostrarte?"
+
+msgid "TXT_RYES0_SCRIPT33_D6064_HEREY"
+msgstr "Aquí tienes."
+
+msgid "TXT_RNO0_SCRIPT33_D6064_YOUDO"
+msgstr "No tienes suficiente dinero para eso."
+
+msgid "TXT_RYES1_SCRIPT33_D6064_HEREY"
+msgstr "Aquí tienes."
