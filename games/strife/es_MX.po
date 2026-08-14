@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-08-14 21:51+0000\n"
+"PO-Revision-Date: 2026-08-14 23:51+0000\n"
 "Last-Translator: Gabriel Valderrama <koto41@gmail.com>\n"
 "Language-Team: Spanish (Mexico) <https://hosted.weblate.org/projects/doom-engine-games/strife/es_MX/>\n"
 "Language: es_MX\n"
@@ -784,16 +784,13 @@ msgstr "La puerta junto a la armería se abrirá cuando todos los Cruzados esté
 
 msgctxt "strifeteaser"
 msgid "TXT_ILOG8"
-msgstr ""
-"Mata a tantos de los robots grandes, o sea, a los Cruzados, como puedas. Cuando termines, te guío hasta Macil."
+msgstr "Mata a tantos robots grandes, Cruzados, tanto como puedas. Cuando termines, te guiaré hasta Macil"
 
 msgid "TXT_ILOG13"
-msgstr ""
-"Rompiste el acoplador que le ocultaba nuestra base a La Orden. Dirígete al ayuntamiento y elimina a la tropa de reconocimiento. Luego vuelve con el gobernador y dale el acoplador que rompiste."
+msgstr "¡Idiota! Has cortado la energía de los circuitos de interferencia que usamos para ocultar nuestra base de la Orden. ¡Ve al ayuntamiento y acaba con el equipo de escaneo ahora mismo! Luego, regresa con el Gobernador y entrégale el acoplamiento roto."
 
 msgid "TXT_ILOG14"
-msgstr ""
-"Bueno, ¡«No confíes en nadie» se llama el juego! Ya es hora de conseguir el pase a la prisión: llévale el acoplador roto al gobernador."
+msgstr "Bueno, ¡'No confíes en nadie' se llama el juego! Consigamos ese pase de prisión del Gobernador. Llévale el acoplamiento roto."
 
 msgid "TXT_ILOG25"
 msgstr ""
@@ -3269,3 +3266,34 @@ msgstr "Dirígete al antiguo ayuntamiento. Macil mandó a construir un túnel qu
 
 msgid "TXT_ILOG4"
 msgstr "Atraviesa la puerta de tu izquierda y luego la de tu derecha. El guardia se llama Geoff. Dile que necesitas oro."
+
+msgctxt "strifeteaser"
+msgid "TXT_ILOG9"
+msgstr "Atraviesa la puerta y habla con Macil."
+
+msgid "TXT_ILOG10"
+msgstr "Localiza el interruptor principal y apágalo. Llévale algo al Gobernador como prueba. Encuentra a MacGuffin y habla con él."
+
+msgid "TXT_ILOG11"
+msgstr "Localiza el interruptor principal y apágalo. Llévale algo al Gobernador como prueba. Encuentra a MacGuffin y habla con él. Está cerca de la planta de tratamiento de aguas residuales, en el \"agujero de vagos\", bajando las escaleras."
+
+msgid "TXT_ILOG15"
+msgstr "¡Buena jugada! El Gobernador es un mentiroso. Ese es nuestro acoplamiento de energía. Lo estamos usando para ocultar la base de la Orden. Devuélvele este acoplamiento roto y consigamos ese pase."
+
+msgid "TXT_ILOG18"
+msgstr "Usa la llave del alcaide para entrar en los pabellones de celdas y encontrar la manera de liberar a los prisioneros."
+
+msgid "TXT_ILOG19"
+msgstr "Encuentra la manera de liberar a los prisioneros. Encuentra la manera de abrir el interruptor del escáner manual."
+
+msgid "TXT_ILOG20"
+msgstr "Encuentra la manera de liberar a los prisioneros. Usa la mano del juez para accionar el interruptor del escáner manual."
+
+msgid "TXT_ILOG21"
+msgstr "Bien hecho, amigo. Excelente trabajo liberando a los prisioneros. Sube a uno de los teletransportadores y te llevará de vuelta a la base."
+
+msgid "TXT_ILOG22"
+msgstr "Destruye el cristal de energía que alimenta la red eléctrica que impulsa los escudos de la Orden. Ve a visitar a Worner, un espía que reclutamos en el almacén de la central eléctrica."
+
+msgid "TXT_ILOG24"
+msgstr "Vamos a perdernos. Aún nos espera más diversión."
