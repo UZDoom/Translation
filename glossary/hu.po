@@ -207,12 +207,3 @@ msgstr "Richter"
 
 msgid "Auto"
 msgstr "Automatikus"
-
-msgid ""
-"You can't load a savegame while in a net quest!\n"
-"\n"
-"Press a key."
-msgstr ""
-"Nem tudsz mentést betölteni netes küldetés közben!\n"
-"\n"
-"Nyomj meg egy gombot."
