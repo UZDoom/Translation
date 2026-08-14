@@ -189,6 +189,3 @@ msgstr "траје и траје"
 msgctxt "1"
 msgid "Strife"
 msgstr "Сукоба"
-
-msgid "BOOM's"
-msgstr "Бумом"
