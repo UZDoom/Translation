@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-08-14 01:51+0000\n"
+"PO-Revision-Date: 2026-08-14 15:51+0000\n"
 "Last-Translator: Jimothy McAlloy <asbestos606@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/uzdoom/common/sr/>\n"
 "Language: sr\n"
@@ -51,11 +51,10 @@ msgid "TXT_X_CHEATS"
 msgstr "%s вара"
 
 msgid "TXT_SAY"
-msgstr "Пиши:"
+msgstr "Реци:"
 
 msgid "TXT_QUITENDOOM"
-msgstr ""
-"Притисните било који тастер или кликните било где на екрану да одустанете."
+msgstr "Притисните било који тастер или кликните било где на екрану да изађете."
 
 msgid "NEWSAVE"
 msgstr "<Нова сачувана игра>"
@@ -79,7 +78,7 @@ msgid "MNU_DIFFVERSION"
 msgstr "Другачија верзија"
 
 msgid "MNU_NOFILES"
-msgstr "Нема фајлова"
+msgstr "Нема датотека"
 
 msgid "MNU_DELETESG"
 msgstr "Да ли стварно желите да избришете сачувану игру?"
@@ -103,13 +102,13 @@ msgid "OPTMNU_MOUSE"
 msgstr "Миш"
 
 msgid "OPTMNU_JOYSTICK"
-msgstr "Контролер"
+msgstr "Подешавања контролера"
 
 msgid "OPTMNU_PLAYER"
 msgstr "Подешавање играча"
 
 msgid "OPTMNU_GAMEPLAY"
-msgstr "Гејмплеј"
+msgstr "Подешавања гејмплеја"
 
 msgid "OPTMNU_AUTOMAP"
 msgstr "Аутомапа"
@@ -482,11 +481,11 @@ msgid "JOYMNU_CONFIG"
 msgstr "Подешавања контролере:"
 
 msgid "JOYMNU_DISABLED1"
-msgstr "Омогућите подржавање контролера"
+msgstr "Подржавање контролера мора бити"
 
 # Supposed to be empty in Russian and Serbian.
 msgid "JOYMNU_DISABLED2"
-msgstr "омогућено да открије било шта"
+msgstr ""
 
 msgid "JOYMNU_INVALID"
 msgstr "Невалидан контролер специфиран за мени"
@@ -582,7 +581,7 @@ msgid "TXT_COLOR_GOLD"
 msgstr "Златна"
 
 msgid "TXT_COLOR_BRIGHTGREEN"
-msgstr "Светла зелена"
+msgstr "Светло зелена"
 
 msgid "TXT_COLOR_RUST"
 msgstr "Рђа"
@@ -986,7 +985,7 @@ msgid "OPTVAL_NUKEDOPL3"
 msgstr "Nuked ОПЛ3"
 
 msgid "OPTVAL_LLENUKEDOPL2"
-msgstr "OPL2-LLE (захтеван за покретање)"
+msgstr "ОПЛ2-LLE (захтеван за покретање)"
 
 msgid "OPTVAL_LLENUKEDOPL3"
 msgstr "ОПЛ3-LLE (захтеван за покретање"
@@ -1409,7 +1408,7 @@ msgid "MISCMNU_QUICKSAVECOUNT"
 msgstr "Број брзих чувања у окретању"
 
 msgid "MISCMNU_CLEANMENU"
-msgstr "Скалирање класичног Zdoom менија"
+msgstr "Скалирање класичног ЗДум менија"
 
 msgid "MISCMNU_PAUSEINBACKGROUND"
 msgstr "Паузирајте игру у позадини"
@@ -1743,7 +1742,7 @@ msgid "JOYMNU_LOOKSPEED"
 msgstr "Брзина гледања"
 
 msgid "JOYMNU_ANALOGSTRAFERUN"
-msgstr "Аналогно трчање"
+msgstr "Аналогно трчање у страну"
 
 msgid "NOTES_FAIL"
 msgstr "Немогуће је парсирати белешке о издању"
