@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-08-14 16:36+0000\n"
+"PO-Revision-Date: 2026-08-16 01:51+0000\n"
 "Last-Translator: Jimothy McAlloy <asbestos606@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/sr/>\n"
 "Language: sr\n"
@@ -262,7 +262,7 @@ msgid "HUSTR_TALKTOSELF1"
 msgstr "Промумљате себи"
 
 msgid "HUSTR_TALKTOSELF2"
-msgstr "Ко је то?"
+msgstr "Ко је тамо?"
 
 msgid "HUSTR_TALKTOSELF3"
 msgstr "Плашите самог себе"
