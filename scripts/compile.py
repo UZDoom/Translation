@@ -96,7 +96,7 @@ def fill_dict(path):
             if meta["valid"]:
                 print(f"in: {path}")
             meta["valid"] = False
-            print(f"redefining: {specific_id} as '{entry["string"]}'")
+            print(f"redefining: {specific_id} as '{entry['string']}'")
             return
 
         data[specific_id] = entry
