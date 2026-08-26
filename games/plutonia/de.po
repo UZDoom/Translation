@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-08-24 14:51+0000\n"
+"PO-Revision-Date: 2026-08-26 13:51+0000\n"
 "Last-Translator: Tim Richter <jank21976@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/doom-engine-games/the-plutonia-experiment/de/>\n"
 "Language: de\n"
@@ -34,6 +34,7 @@ msgstr "Level 5: Geisterstadt"
 msgid "PHUSTR_6"
 msgstr "Level 6: Lager des Barons"
 
+#, fuzzy
 msgid "PHUSTR_7"
 msgstr "Level 7: Gehege"
 
@@ -174,5 +175,5 @@ msgstr ""
 msgid "P6TEXT"
 msgstr ""
 "Du hast dich sicher gefragt, was denn nun\n"
-"der schwerste Level ist, nicht wahr?\n"
+"das schwerste Level ist, nicht wahr?\n"
 "Jetzt weißt du es - niemand kommt hier lebend raus."
