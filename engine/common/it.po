@@ -2,15 +2,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-08-10 23:42-0400\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-08-29 03:51+0000\n"
+"Last-Translator: Mattia Alba <mattia.albabb@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/uzdoom/common/it/>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: python 3.14.6 polib 1.2.0\n"
+"X-Generator: Weblate 2026.9.dev0\n"
 
 msgid "PRESSYN"
 msgstr "Premi Y oppure N."
@@ -777,7 +777,7 @@ msgid "ADVSNDMNU_TITLE"
 msgstr "Opzioni avanzate dei suoni"
 
 msgid "ADVSNDMNU_SAMPLERATE"
-msgstr ""
+msgstr "Frequenza di campionamento"
 
 msgid "ADVSNDMNU_HRTF"
 msgstr ""
@@ -816,13 +816,13 @@ msgid "ADVSNDMNU_FLUIDGAIN"
 msgstr ""
 
 msgid "ADVSNDMNU_REVERB"
-msgstr ""
+msgstr "Riverbero"
 
 msgid "ADVSNDMNU_REVERB_LEVEL"
-msgstr ""
+msgstr "Livello riverbero"
 
 msgid "ADVSNDMNU_CHORUS"
-msgstr ""
+msgstr "Ritornello"
 
 msgid "ADVSNDMNU_TIMIDITY"
 msgstr "Timidity++"
@@ -858,7 +858,7 @@ msgid "ADVSNDMNU_VLMODEL"
 msgstr "Modello di volume"
 
 msgid "ADVSNDMNU_CHANALLOC"
-msgstr ""
+msgstr "Metodo di allocazione del canale"
 
 msgid "ADVSNDMNU_AUTOARPEGGIO"
 msgstr ""
@@ -885,7 +885,7 @@ msgid "ADVSNDMNU_ADLCUSTOMBANK"
 msgstr "Usa WOPL bank personalizzato"
 
 msgid "ADVSNDMNU_ADLUSEWADBANK"
-msgstr ""
+msgstr "Usa la banca WAD GENMIDI  come banca personalizzata"
 
 msgid "ADVSNDMNU_OPLBANKFILE"
 msgstr "File WOPL Bank"
@@ -1075,7 +1075,7 @@ msgid "ADLVLMODEL_APOGEE_FIXED"
 msgstr ""
 
 msgid "ADLVLMODEL_AIL"
-msgstr ""
+msgstr "Libreria Interfaccia Audio IBM"
 
 msgid "ADLVLMODEL_HMI"
 msgstr ""
@@ -1879,3 +1879,9 @@ msgstr ""
 # Jargon.
 msgid "REVMNU_DENSITY"
 msgstr "Densità"
+
+msgid "MSGMNU_MESSAGEFADE"
+msgstr "Durata scomparsa animazione"
+
+msgid "OPTVAL_NUKEDOPL3FAST"
+msgstr "Nuked OPL3 Veloce"
