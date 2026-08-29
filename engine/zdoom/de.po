@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-08-24 13:06+0000\n"
+"PO-Revision-Date: 2026-08-29 18:51+0000\n"
 "Last-Translator: Tim Richter <jank21976@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/de/>\n"
 "Language: de\n"
@@ -108,11 +108,11 @@ msgstr ""
 msgid "QUITMSG4"
 msgstr ""
 "Willst du sagen, dass du DOS\n"
-"mehr magst als ich?"
+"mehr magst als mich?"
 
 msgid "QUITMSG5"
 msgstr ""
-"Bitte gehe noch nicht—hinter\n"
+"Bitte gehe noch nicht — hinter\n"
 "der Ecke lauert noch ein Dämon!"
 
 msgid "QUITMSG6"
@@ -659,10 +659,10 @@ msgid "GOTPLASMA"
 msgstr "Plasma-Gewehr genommen!"
 
 msgid "GOTSHOTGUN"
-msgstr "Du hast die Schrotflinte bekommen!"
+msgstr "Schrotflinte genommen!"
 
 msgid "GOTSHOTGUN2"
-msgstr "Du hast die Superschrotflinte bekommen!"
+msgstr "Superschrotflinte genommen!"
 
 msgid "PICKUP_PISTOL_DROPPED"
 msgstr "Pistole genommen."
@@ -742,7 +742,7 @@ msgstr "Schütze"
 
 # a.k.a. former commando
 msgid "CC_HEAVY"
-msgstr "MG-Schütze"
+msgstr "Schwerer Waffenträger"
 
 msgid "CC_IMP"
 msgstr "Kobold"
@@ -1377,7 +1377,7 @@ msgid "TXT_ARTIPUZZBOOK1"
 msgstr "Dämonenkodex"
 
 msgid "TXT_ARTIPUZZBOOK2"
-msgstr "#Liber Oscura"
+msgstr "Liber Oscura"
 
 msgid "TXT_ARTIPUZZSKULL2"
 msgstr "Flammenmaske"
