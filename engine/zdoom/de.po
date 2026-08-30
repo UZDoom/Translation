@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-08-29 18:51+0000\n"
+"PO-Revision-Date: 2026-08-30 16:51+0000\n"
 "Last-Translator: Tim Richter <jank21976@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/de/>\n"
 "Language: de\n"
@@ -95,6 +95,7 @@ msgstr ""
 "Bitte gehe nicht, es gibt noch mehr\n"
 "Dämonen zu erledigen!"
 
+#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
 "Lass es uns beenden—das wird\n"
@@ -110,6 +111,7 @@ msgstr ""
 "Willst du sagen, dass du DOS\n"
 "mehr magst als mich?"
 
+#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
 "Bitte gehe noch nicht — hinter\n"
@@ -172,6 +174,7 @@ msgstr ""
 "Macht beim Massaker eine pause…\n"
 "Was für ein Witzbold!"
 
+#, fuzzy
 msgid "QUITMSG17"
 msgstr ""
 "Aber du bist unsere Hoffnung \n"
