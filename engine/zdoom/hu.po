@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-08-14 22:48+0000\n"
-"Last-Translator: MadRadical <milan.gaal.231@gmail.com>\n"
+"PO-Revision-Date: 2026-08-30 16:51+0000\n"
+"Last-Translator: Tim Richter <jank21976@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/hu/>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
@@ -95,6 +95,7 @@ msgstr ""
 "Kérlek ne lépj le, sok démon\n"
 "vár még arra, hogy felaprítsd!"
 
+#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
 "Tűnjünk innen,\n"
@@ -110,6 +111,7 @@ msgstr ""
 "Azt akarod mondani, hogy\n"
 "a DOS jobb nálam?"
 
+#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
 "Még ne menj—a sarkon\n"
@@ -172,6 +174,7 @@ msgstr ""
 "Carnage interruptus…\n"
 "Micsoda fenyegetés!"
 
+#, fuzzy
 msgid "QUITMSG17"
 msgstr ""
 "Te vagy a remény\n"
