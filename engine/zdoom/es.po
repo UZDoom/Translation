@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-08-29 16:51+0000\n"
-"Last-Translator: wacko <marcodelarosa63@gmail.com>\n"
+"PO-Revision-Date: 2026-08-30 16:51+0000\n"
+"Last-Translator: Tim Richter <jank21976@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -95,6 +95,7 @@ msgstr ""
 "¡No te vayas, que aún quedan\n"
 "demonios para freír!"
 
+#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
 "Aceptémoslo, ¡esto se está\n"
@@ -110,6 +111,7 @@ msgstr ""
 "Estás tratando de decir que el\n"
 "MS-DOS es mejor que yo, ¿eh?"
 
+#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
 "¡No te vayas, que aún hay\n"
@@ -173,6 +175,7 @@ msgstr ""
 "Masacre interruptus…\n"
 "¡Menudo timo!"
 
+#, fuzzy
 msgid "QUITMSG17"
 msgstr ""
 "Pero tú eres la esperanza…\n"
