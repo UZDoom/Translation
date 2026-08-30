@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-08-19 07:56+0000\n"
-"Last-Translator: Yu Ji Wan <z1wan@hanmail.net>\n"
+"PO-Revision-Date: 2026-08-30 16:52+0000\n"
+"Last-Translator: Tim Richter <jank21976@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -97,6 +97,7 @@ msgstr ""
 "부디 나가지 말아줘, 아직 죽여야\n"
 "할 악마들이 남아있단 말이야!"
 
+#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
 "그냥 나가자고—\n"
@@ -112,6 +113,7 @@ msgstr ""
 "나보다 DOS가 훨씬 좋다\n"
 "이 말씀이지, 그런 거지?"
 
+#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
 "나가지 마—저 구석에\n"
@@ -175,6 +177,7 @@ msgstr ""
 "학살중절이라…\n"
 "놀리는구먼!"
 
+#, fuzzy
 msgid "QUITMSG17"
 msgstr ""
 "하지만 넌 희망이야\n"
