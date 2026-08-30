@@ -2,15 +2,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-08-10 23:42-0400\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-08-30 16:51+0000\n"
+"Last-Translator: Tim Richter <jank21976@gmail.com>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/ja/>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: python 3.14.6 polib 1.2.0\n"
+"X-Generator: Weblate 2026.9.dev0\n"
 
 #, fuzzy
 msgid "PRESSKEY"
@@ -97,6 +97,7 @@ msgstr ""
 "離れないでくれ!\n"
 "まだ獲物が残っているんだ!"
 
+#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
 "まだ物足りないだろう?\n"
@@ -112,6 +113,7 @@ msgstr ""
 "貴方はこちらよりも\n"
 "デスクトップの方が好みらしいな?"
 
+#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
 "待ってくれ!まだあそこの角に\n"
@@ -175,6 +177,7 @@ msgstr ""
 "大虐殺は寸止めされた…\n"
 "何という意地悪なやつだ!"
 
+#, fuzzy
 msgid "QUITMSG17"
 msgstr ""
 "それでもお前を信じている\n"
