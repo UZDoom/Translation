@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-08-29 11:52+0000\n"
-"Last-Translator: Lorsoen <fashim99@gmail.com>\n"
+"PO-Revision-Date: 2026-08-30 16:51+0000\n"
+"Last-Translator: Tim Richter <jank21976@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -95,6 +95,7 @@ msgstr ""
 "Ne partez pas, il y a encore\n"
 "des démons a buter !"
 
+#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
 "Fichons le camp, ça dégénère\n"
@@ -110,6 +111,7 @@ msgstr ""
 "Vous essayez de dire que vous aimez DOS\n"
 "mieux que moi, pas vrai ?"
 
+#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
 "Ne partez pas encore ! Il y a\n"
@@ -172,6 +174,7 @@ msgstr ""
 "Carnage interruptus…\n"
 "Tout un programme !"
 
+#, fuzzy
 msgid "QUITMSG17"
 msgstr ""
 "Mais vous êtes l'espoir,\n"
