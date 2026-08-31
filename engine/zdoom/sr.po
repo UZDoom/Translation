@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-08-16 01:51+0000\n"
-"Last-Translator: Jimothy McAlloy <asbestos606@gmail.com>\n"
+"PO-Revision-Date: 2026-08-30 16:52+0000\n"
+"Last-Translator: Tim Richter <jank21976@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/sr/>\n"
 "Language: sr\n"
 "MIME-Version: 1.0\n"
@@ -95,6 +95,7 @@ msgstr ""
 "Молим те, не одлази!\n"
 "Има још демона да се побије!"
 
+#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
 "Хајде, бриши одавде\n"
@@ -110,6 +111,7 @@ msgstr ""
 "Више ти допада DOS\n"
 "него ја, је ли?"
 
+#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
 "Немој да одеш—\n"
@@ -172,6 +174,7 @@ msgstr ""
 "Покољ се прекида…\n"
 "у најзанимљивијем тренутку!"
 
+#, fuzzy
 msgid "QUITMSG17"
 msgstr ""
 "Али на тебе је сва нада\n"

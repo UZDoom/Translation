@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-08-25 08:51+0000\n"
-"Last-Translator: Arif Budiman <arifpedia@gmail.com>\n"
+"PO-Revision-Date: 2026-08-30 16:51+0000\n"
+"Last-Translator: Tim Richter <jank21976@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/id/>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
@@ -95,6 +95,7 @@ msgstr ""
 "Tolong jangan pergi, masih ada\n"
 "setan yang perlu dibakar!"
 
+#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
 "Ayo kabur—ini mulai\n"
@@ -110,6 +111,7 @@ msgstr ""
 "Kamu mau bilang kamu lebih suka DOS\n"
 "daripada aku, kan?"
 
+#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
 "Jangan pergi dulu—ada\n"
@@ -172,6 +174,7 @@ msgstr ""
 "Carnage interruptus…\n"
 "Sungguh menggoda!"
 
+#, fuzzy
 msgid "QUITMSG17"
 msgstr ""
 "Tapi kamu adalah harapan\n"

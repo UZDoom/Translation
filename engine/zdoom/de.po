@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-08-24 13:06+0000\n"
+"PO-Revision-Date: 2026-08-31 12:09+0000\n"
 "Last-Translator: Tim Richter <jank21976@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/de/>\n"
 "Language: de\n"
@@ -95,6 +95,7 @@ msgstr ""
 "Bitte gehe nicht, es gibt noch mehr\n"
 "Dämonen zu erledigen!"
 
+#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
 "Lass es uns beenden—das wird\n"
@@ -108,11 +109,12 @@ msgstr ""
 msgid "QUITMSG4"
 msgstr ""
 "Willst du sagen, dass du DOS\n"
-"mehr magst als ich?"
+"mehr magst als mich?"
 
+#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
-"Bitte gehe noch nicht—hinter\n"
+"Bitte gehe noch nicht — hinter\n"
 "der Ecke lauert noch ein Dämon!"
 
 msgid "QUITMSG6"
@@ -172,6 +174,7 @@ msgstr ""
 "Macht beim Massaker eine pause…\n"
 "Was für ein Witzbold!"
 
+#, fuzzy
 msgid "QUITMSG17"
 msgstr ""
 "Aber du bist unsere Hoffnung \n"
@@ -659,10 +662,10 @@ msgid "GOTPLASMA"
 msgstr "Plasma-Gewehr genommen!"
 
 msgid "GOTSHOTGUN"
-msgstr "Du hast die Schrotflinte bekommen!"
+msgstr "Schrotflinte genommen!"
 
 msgid "GOTSHOTGUN2"
-msgstr "Du hast die Superschrotflinte bekommen!"
+msgstr "Superschrotflinte genommen!"
 
 msgid "PICKUP_PISTOL_DROPPED"
 msgstr "Pistole genommen."
@@ -742,7 +745,7 @@ msgstr "Schütze"
 
 # a.k.a. former commando
 msgid "CC_HEAVY"
-msgstr "MG-Schütze"
+msgstr "Schwerer Waffenträger"
 
 msgid "CC_IMP"
 msgstr "Kobold"
@@ -1377,7 +1380,7 @@ msgid "TXT_ARTIPUZZBOOK1"
 msgstr "Dämonenkodex"
 
 msgid "TXT_ARTIPUZZBOOK2"
-msgstr "#Liber Oscura"
+msgstr "Liber Oscura"
 
 msgid "TXT_ARTIPUZZSKULL2"
 msgstr "Flammenmaske"
@@ -3710,10 +3713,10 @@ msgid "DSPLYMNU_GZDFULLBRIGHT"
 msgstr "Ignoriere Sektorfarbe bei voller Helligkeit"
 
 msgid "DSPLYMNU_SCALEFUZZ"
-msgstr "Skaliere Fuzz-Effekt"
+msgstr "Fuzz-Effekt Skalieren"
 
 msgid "DSPLYMNU_DRAWFUZZ"
-msgstr "Benutze Fuzz-Effekt"
+msgstr "Benutzter Fuzz-Effekt"
 
 msgid "DSPLYMNU_OLDTRANS"
 msgstr "Klasssische Transparenz"
@@ -3905,10 +3908,10 @@ msgid "OPTVAL_SPRITESPARTICLES"
 msgstr "Sprites und Partikel"
 
 msgid "OPTVAL_MELT"
-msgstr "Verlauf"
+msgstr "Schmelzen"
 
 msgid "OPTVAL_BURN"
-msgstr "Einbrennen"
+msgstr "Verbrennen"
 
 msgid "OPTVAL_CROSSFADE"
 msgstr "Überblenden"
@@ -3927,7 +3930,7 @@ msgid "OPTVAL_TRANSLUCENT"
 msgstr "Transparent"
 
 msgid "OPTVAL_FUZZ"
-msgstr "Unschärfe"
+msgstr "Unscharf"
 
 msgid "OPTVAL_SHADOW"
 msgstr "Schatten"
