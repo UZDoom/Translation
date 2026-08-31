@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-08-30 16:52+0000\n"
-"Last-Translator: Tim Richter <jank21976@gmail.com>\n"
+"PO-Revision-Date: 2026-08-31 07:55+0000\n"
+"Last-Translator: Andrei Stepanov <adem4ik@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -95,10 +95,9 @@ msgstr ""
 "Пожалуйста, не уходи,\n"
 "тут ещё полно демонов для поджарки!"
 
-#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
-"Давай покончим с этим—оно превращается\n"
+"Сваливаем — это превращается\n"
 "в кровавую баню!"
 
 msgid "QUITMSG3"
@@ -111,11 +110,10 @@ msgstr ""
 "Ты хочешь сказать, что DOS\n"
 "тебе нравится больше, чем я, а?"
 
-#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
-"Не уходи! За тем углом\n"
-"притаился ещё один монстр!"
+"Не уходи — за тем углом\n"
+"прячется демон!"
 
 msgid "QUITMSG6"
 msgstr ""
@@ -174,11 +172,10 @@ msgstr ""
 "Вот так всегда…\n"
 "На самом интересном месте!"
 
-#, fuzzy
 msgid "QUITMSG17"
 msgstr ""
-"Но на тебя вся надежда\n"
-"—ты мой единственный шанс!"
+"Но ты — моя надежда,\n"
+"мой единственный шанс!!"
 
 msgid "QUITMSG18"
 msgstr "Ещё никто не ушёл от «Чёрного дрозда»."
