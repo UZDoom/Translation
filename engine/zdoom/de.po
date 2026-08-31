@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-08-30 16:51+0000\n"
+"PO-Revision-Date: 2026-08-31 12:09+0000\n"
 "Last-Translator: Tim Richter <jank21976@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/de/>\n"
 "Language: de\n"
@@ -3713,10 +3713,10 @@ msgid "DSPLYMNU_GZDFULLBRIGHT"
 msgstr "Ignoriere Sektorfarbe bei voller Helligkeit"
 
 msgid "DSPLYMNU_SCALEFUZZ"
-msgstr "Skaliere Fuzz-Effekt"
+msgstr "Fuzz-Effekt Skalieren"
 
 msgid "DSPLYMNU_DRAWFUZZ"
-msgstr "Benutze Fuzz-Effekt"
+msgstr "Benutzter Fuzz-Effekt"
 
 msgid "DSPLYMNU_OLDTRANS"
 msgstr "Klasssische Transparenz"
@@ -3908,10 +3908,10 @@ msgid "OPTVAL_SPRITESPARTICLES"
 msgstr "Sprites und Partikel"
 
 msgid "OPTVAL_MELT"
-msgstr "Verlauf"
+msgstr "Schmelzen"
 
 msgid "OPTVAL_BURN"
-msgstr "Einbrennen"
+msgstr "Verbrennen"
 
 msgid "OPTVAL_CROSSFADE"
 msgstr "Überblenden"
@@ -3930,7 +3930,7 @@ msgid "OPTVAL_TRANSLUCENT"
 msgstr "Transparent"
 
 msgid "OPTVAL_FUZZ"
-msgstr "Unschärfe"
+msgstr "Unscharf"
 
 msgid "OPTVAL_SHADOW"
 msgstr "Schatten"
