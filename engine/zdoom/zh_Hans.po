@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-08-30 16:52+0000\n"
-"Last-Translator: Tim Richter <jank21976@gmail.com>\n"
+"PO-Revision-Date: 2026-09-01 05:51+0000\n"
+"Last-Translator: dwing <12104745@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
@@ -95,10 +95,9 @@ msgstr ""
 "别走！还有好多恶魔\n"
 "等着你来干掉！"
 
-#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
-"快撤吧 — 离开\n"
+"快撤吧——离开\n"
 "这场血雨腥风！"
 
 msgid "QUITMSG3"
@@ -111,10 +110,9 @@ msgstr ""
 "你是说比起我，\n"
 "你更喜欢DOS是吗？"
 
-#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
-"先别急着走 — 转角\n"
+"先别急着走——转角\n"
 "那儿还有只恶魔呢！"
 
 msgid "QUITMSG6"
