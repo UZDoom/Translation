@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-05 09:51+0000\n"
+"PO-Revision-Date: 2026-09-05 13:51+0000\n"
 "Last-Translator: Tim Richter <jank21976@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/doom-engine-games/chex-quest/de/>\n"
 "Language: de\n"
@@ -283,7 +283,7 @@ msgid "M_EPI1"
 msgstr "Rettung auf Bazoik"
 
 msgid "M_EPI2"
-msgstr "Terror in Chex Stadt"
+msgstr "Terror in Chex City"
 
 msgid "M_EPI3"
 msgstr "Invasion!"
