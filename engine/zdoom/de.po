@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-08-31 12:09+0000\n"
+"PO-Revision-Date: 2026-09-05 13:51+0000\n"
 "Last-Translator: Tim Richter <jank21976@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/de/>\n"
 "Language: de\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2026.9.dev0\n"
+"X-Generator: Weblate 2026.9.1.dev0\n"
 
 msgid "PRESSKEY"
 msgstr "Drücke eine Taste."
@@ -95,10 +95,9 @@ msgstr ""
 "Bitte gehe nicht, es gibt noch mehr\n"
 "Dämonen zu erledigen!"
 
-#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
-"Lass es uns beenden—das wird\n"
+"Lass es uns durchziehen — das hier wird\n"
 "zu einem Blutbad!"
 
 msgid "QUITMSG3"
@@ -111,7 +110,6 @@ msgstr ""
 "Willst du sagen, dass du DOS\n"
 "mehr magst als mich?"
 
-#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
 "Bitte gehe noch nicht — hinter\n"
@@ -174,11 +172,10 @@ msgstr ""
 "Macht beim Massaker eine pause…\n"
 "Was für ein Witzbold!"
 
-#, fuzzy
 msgid "QUITMSG17"
 msgstr ""
 "Aber du bist unsere Hoffnung \n"
-"—meine einzige Chance!!"
+"— meine einzige Chance!!"
 
 msgid "QUITMSG18"
 msgstr "Niemand lässt Blackbird stehen."
@@ -614,7 +611,7 @@ msgid "GOTMAP"
 msgstr "Computerbereichskarte"
 
 msgid "GOTVISOR"
-msgstr "Lichtverstärkungsgerät"
+msgstr "Nachtsichtgerät"
 
 msgid "GOTMSPHERE"
 msgstr "MegaSphäre!"
@@ -647,7 +644,7 @@ msgid "GOTBACKPACK"
 msgstr "Rucksack mit Munition genommen!"
 
 msgid "GOTBFG9000"
-msgstr "Das BFG9000! Oh, ja."
+msgstr "Die BFG9000! Oh, ja."
 
 msgid "GOTCHAINGUN"
 msgstr "Maschinengewehr genommen!"
@@ -659,7 +656,7 @@ msgid "GOTLAUNCHER"
 msgstr "Raketenwerfer genommen!"
 
 msgid "GOTPLASMA"
-msgstr "Plasma-Gewehr genommen!"
+msgstr "Plasmagewehr genommen!"
 
 msgid "GOTSHOTGUN"
 msgstr "Schrotflinte genommen!"
@@ -680,7 +677,7 @@ msgid "BETA_BONUS3"
 msgstr "Teuflisches Zepter genommen."
 
 msgid "BETA_BONUS4"
-msgstr "Unheilige Bibel genommen."
+msgstr "Satanische Bibel genommen."
 
 msgid "PD_BLUEO"
 msgstr "Du brauchst einen blauen Schlüssel, um dieses Objekt zu aktivieren"
