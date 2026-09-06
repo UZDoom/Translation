@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-06 14:51+0000\n"
+"PO-Revision-Date: 2026-09-06 20:51+0000\n"
 "Last-Translator: Tim Richter <jank21976@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/de/>\n"
 "Language: de\n"
@@ -2561,7 +2561,7 @@ msgid "GOTRAPIDZORCHER"
 msgstr "Du hast den schnellen Zorcher genommen!"
 
 msgid "GOTSUPERBOOTSPORK"
-msgstr "Du hast den Super-Gabelquirl genommen!"
+msgstr "Du hast den Supergöffel genommen!"
 
 msgid "GOTZORCHPROPULSOR"
 msgstr "Du hast den Propellerzorcher genommen!"
@@ -2582,7 +2582,7 @@ msgid "TAG_SPOON"
 msgstr "Löffel"
 
 msgid "TAG_SPORK"
-msgstr "Supergabel"
+msgstr "Supergöffel"
 
 msgid "TAG_MINIZORCHER"
 msgstr "Minizorcher"
@@ -2728,8 +2728,8 @@ msgstr ""
 
 msgid "CNIGHTMARE"
 msgstr ""
-"Achtung, das ist schwer!\n"
-"Willst du das wirklich machen.\n"
+"Achtung, das wird schwer!\n"
+"Willst du wirklich fortfahren?\n"
 "\n"
 "Drücke Y oder N."
 
@@ -3235,8 +3235,9 @@ msgstr "Umgekehrte Spritesortierung"
 msgid "CMPTMNU_SOUNDBEHAVIOR"
 msgstr "Sound-Verhalten"
 
+#, fuzzy
 msgid "CMPTMNU_SOUNDSLOTS"
-msgstr "Amputiere Soundsystem für geräuschloses BFG"
+msgstr "Soundsystem für geräuschlose BFG einschränken"
 
 msgid "CMPTMNU_SILENTPICKUP"
 msgstr "Andere können deine Gegenstandsaufnahmen nicht hören"
