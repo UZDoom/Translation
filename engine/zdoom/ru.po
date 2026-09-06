@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-06 11:52+0000\n"
+"PO-Revision-Date: 2026-09-06 20:52+0000\n"
 "Last-Translator: Tim Richter <jank21976@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/ru/>\n"
 "Language: ru\n"
@@ -3235,6 +3235,7 @@ msgstr "Обратить порядок сортировки спрайтов"
 msgid "CMPTMNU_SOUNDBEHAVIOR"
 msgstr "Поведение звуков"
 
+#, fuzzy
 msgid "CMPTMNU_SOUNDSLOTS"
 msgstr "Ограничить звуки ради трюка бесшумной BFG"
 
