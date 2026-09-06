@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-06 11:52+0000\n"
+"PO-Revision-Date: 2026-09-06 20:52+0000\n"
 "Last-Translator: Tim Richter <jank21976@gmail.com>\n"
 "Language-Team: Bosnian <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/bs/>\n"
 "Language: bs\n"
@@ -3211,6 +3211,7 @@ msgstr "Obrnuto sortiranje spriteova"
 msgid "CMPTMNU_SOUNDBEHAVIOR"
 msgstr "Zvučno ponašanje"
 
+#, fuzzy
 msgid "CMPTMNU_SOUNDSLOTS"
 msgstr "Slijepi zvuk za nijemi trik BFG-a"
 
