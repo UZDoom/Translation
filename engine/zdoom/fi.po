@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-06 11:51+0000\n"
+"PO-Revision-Date: 2026-09-06 20:51+0000\n"
 "Last-Translator: Tim Richter <jank21976@gmail.com>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/fi/>\n"
 "Language: fi\n"
@@ -3248,6 +3248,7 @@ msgstr "Käännä spritelajittelu"
 msgid "CMPTMNU_SOUNDBEHAVIOR"
 msgstr "Äänen käyttäytyminen"
 
+#, fuzzy
 msgid "CMPTMNU_SOUNDSLOTS"
 msgstr "Rampauta äänijärjestelmä hiljaista BFG-temppua varten"
 
