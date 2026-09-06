@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-06 11:52+0000\n"
+"PO-Revision-Date: 2026-09-06 20:52+0000\n"
 "Last-Translator: Tim Richter <jank21976@gmail.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -3242,6 +3242,7 @@ msgstr "反转精灵图排序"
 msgid "CMPTMNU_SOUNDBEHAVIOR"
 msgstr "音效行为"
 
+#, fuzzy
 msgid "CMPTMNU_SOUNDSLOTS"
 msgstr "为BFG的安静技巧而消音"
 
