@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-06 11:52+0000\n"
+"PO-Revision-Date: 2026-09-06 20:52+0000\n"
 "Last-Translator: Tim Richter <jank21976@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/nl/>\n"
 "Language: nl\n"
@@ -3239,6 +3239,7 @@ msgstr "Sprite sorteren omkeren"
 msgid "CMPTMNU_SOUNDBEHAVIOR"
 msgstr "Geluidsgedrag"
 
+#, fuzzy
 msgid "CMPTMNU_SOUNDSLOTS"
 msgstr "Kreupel geluid voor een stille BFG-truc"
 
