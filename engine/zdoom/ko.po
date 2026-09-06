@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-06 11:52+0000\n"
+"PO-Revision-Date: 2026-09-06 20:52+0000\n"
 "Last-Translator: Tim Richter <jank21976@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/ko/>\n"
 "Language: ko\n"
@@ -3246,6 +3246,7 @@ msgstr "구형 스프라이트 겹침 판정 사용"
 msgid "CMPTMNU_SOUNDBEHAVIOR"
 msgstr "효과음 관련 설정"
 
+#, fuzzy
 msgid "CMPTMNU_SOUNDSLOTS"
 msgstr "소음 BFG 효과 허용"
 
