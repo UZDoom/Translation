@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-06 11:52+0000\n"
+"PO-Revision-Date: 2026-09-06 20:52+0000\n"
 "Last-Translator: Tim Richter <jank21976@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/sr/>\n"
 "Language: sr\n"
@@ -3238,6 +3238,7 @@ msgstr "Обрнуто сортирање спрајтова"
 msgid "CMPTMNU_SOUNDBEHAVIOR"
 msgstr "Понашање звука"
 
+#, fuzzy
 msgid "CMPTMNU_SOUNDSLOTS"
 msgstr "Онемогући звук за тихи ВЈП трик"
 
