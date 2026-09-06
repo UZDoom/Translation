@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-06 11:51+0000\n"
+"PO-Revision-Date: 2026-09-06 14:51+0000\n"
 "Last-Translator: Tim Richter <jank21976@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/de/>\n"
 "Language: de\n"
@@ -2492,7 +2492,7 @@ msgid "GOTCHEXARMOR"
 msgstr "Du hast die Chex® Rüstung genommen."
 
 msgid "GOTSUPERCHEXARMOR"
-msgstr "Du hast die Super-Chex®Rüstung genommen!"
+msgstr "Du hast die Super-Chex® Rüstung genommen!"
 
 msgid "GOTWATER"
 msgstr "Du hast ein Glas Wasser genommen."
@@ -2863,7 +2863,7 @@ msgid "MNU_BLACKPLAGUE"
 msgstr "Von der Pest besessen"
 
 msgid "MNU_SQUIRE"
-msgstr "Gutsherr"
+msgstr "Knappe"
 
 msgid "MNU_KNIGHT"
 msgstr "Ritter"
