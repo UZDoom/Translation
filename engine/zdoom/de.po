@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-05 13:51+0000\n"
+"PO-Revision-Date: 2026-09-06 20:51+0000\n"
 "Last-Translator: Tim Richter <jank21976@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/de/>\n"
 "Language: de\n"
@@ -198,13 +198,13 @@ msgstr ""
 
 msgid "QUITMSG23"
 msgstr ""
-"Bitte gehe nicht, es laufen noch mehr\n"
+"Bitte gehe nicht, es laufen immer noch\n"
 "Flemoiden herum!"
 
 msgid "QUITMSG24"
 msgstr ""
-"Gib nicht auf—die Flemoiden\n"
-"gewinnen sonst!"
+"Gib nicht auf — sonst gewinnen\n"
+"die Flemoiden!"
 
 msgid "QUITMSG25"
 msgstr ""
@@ -303,7 +303,7 @@ msgstr "Verbesserung umgeschaltet"
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
 msgid "STSTR_CHOPPERS"
-msgstr "… gar nicht übel - GM"
+msgstr "… nicht schlecht - GM"
 
 msgid "STSTR_CLEV"
 msgstr "Wechsle Level…"
@@ -315,10 +315,10 @@ msgid "TXT_CHEATKEYS"
 msgstr "Alle Schlüssel"
 
 msgid "TXT_CHEATIDDQD"
-msgstr "Versuchst zu betrügen, was? Nun stirbst du!"
+msgstr "Versuchst zu betrügen, was? Jetzt stirbst du!"
 
 msgid "TXT_CHEATIDKFA"
-msgstr "Betrüger—du verdienst keine Waffen"
+msgstr "Betrüger — du verdienst keine Waffen"
 
 msgid "TXT_CHEATARTIFACTS3"
 msgstr "Du hast es"
@@ -2492,7 +2492,7 @@ msgid "GOTCHEXARMOR"
 msgstr "Du hast die Chex® Rüstung genommen."
 
 msgid "GOTSUPERCHEXARMOR"
-msgstr "Du hast die Super-Chex®Rüstung genommen!"
+msgstr "Du hast die Super-Chex® Rüstung genommen!"
 
 msgid "GOTWATER"
 msgstr "Du hast ein Glas Wasser genommen."
@@ -2561,7 +2561,7 @@ msgid "GOTRAPIDZORCHER"
 msgstr "Du hast den schnellen Zorcher genommen!"
 
 msgid "GOTSUPERBOOTSPORK"
-msgstr "Du hast den Super-Gabelquirl genommen!"
+msgstr "Du hast den Supergöffel genommen!"
 
 msgid "GOTZORCHPROPULSOR"
 msgstr "Du hast den Propellerzorcher genommen!"
@@ -2582,7 +2582,7 @@ msgid "TAG_SPOON"
 msgstr "Löffel"
 
 msgid "TAG_SPORK"
-msgstr "Supergabel"
+msgstr "Supergöffel"
 
 msgid "TAG_MINIZORCHER"
 msgstr "Minizorcher"
@@ -2728,8 +2728,8 @@ msgstr ""
 
 msgid "CNIGHTMARE"
 msgstr ""
-"Achtung, das ist schwer!\n"
-"Willst du das wirklich machen.\n"
+"Achtung, das wird schwer!\n"
+"Willst du wirklich fortfahren?\n"
 "\n"
 "Drücke Y oder N."
 
@@ -2863,7 +2863,7 @@ msgid "MNU_BLACKPLAGUE"
 msgstr "Von der Pest besessen"
 
 msgid "MNU_SQUIRE"
-msgstr "Gutsherr"
+msgstr "Knappe"
 
 msgid "MNU_KNIGHT"
 msgstr "Ritter"
@@ -3235,8 +3235,9 @@ msgstr "Umgekehrte Spritesortierung"
 msgid "CMPTMNU_SOUNDBEHAVIOR"
 msgstr "Sound-Verhalten"
 
+#, fuzzy
 msgid "CMPTMNU_SOUNDSLOTS"
-msgstr "Amputiere Soundsystem für geräuschloses BFG"
+msgstr "Soundsystem für geräuschlose BFG einschränken"
 
 msgid "CMPTMNU_SILENTPICKUP"
 msgstr "Andere können deine Gegenstandsaufnahmen nicht hören"
