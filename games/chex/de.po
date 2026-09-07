@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-07 14:51+0000\n"
+"PO-Revision-Date: 2026-09-07 19:51+0000\n"
 "Last-Translator: Tim Richter <jank21976@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/doom-engine-games/chex-quest/de/>\n"
 "Language: de\n"
@@ -125,7 +125,7 @@ msgstr "Bipedicus"
 
 msgctxt "chex"
 msgid "CC_IMP"
-msgstr "Bipedicus mit Panzerung"
+msgstr "Bipedicus mit Rüstung"
 
 msgctxt "chex"
 msgid "CC_DEMON"
