@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-07 19:51+0000\n"
+"PO-Revision-Date: 2026-09-07 21:51+0000\n"
 "Last-Translator: Tim Richter <jank21976@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/de/>\n"
 "Language: de\n"
@@ -568,7 +568,7 @@ msgid "GOTSTIM"
 msgstr "Stimpack genommen."
 
 msgid "GOTMEDINEED"
-msgstr "Medikit genommen, das du WIRKLICH brauchst!"
+msgstr "Medikit genommen, welches du DRINGEND gebraucht hast!"
 
 msgid "GOTMEDIKIT"
 msgstr "Medikit genommen."
@@ -1178,7 +1178,7 @@ msgid "OB_BEAST"
 msgstr "%o wurde von dem Werdrachen verschmort."
 
 msgid "OB_CLINK"
-msgstr "%o wurde von der Säbelklaue zerschlitzt."
+msgstr "%o wurde von der Säbelklaue aufgeschlitzt."
 
 msgid "OB_DSPARIL1"
 msgstr "%o wurde von D'Sparils Schlange verbrüht."
@@ -1322,7 +1322,7 @@ msgid "TXT_KEY_CASTLE"
 msgstr "Burgschlüssel"
 
 msgid "TXT_ARTIINVULNERABILITY2"
-msgstr "Ikone des Verteidigers"
+msgstr "Zeichen des Verteidigers"
 
 msgid "TXT_ARTISUMMON"
 msgstr "Dunkler Diener"
@@ -1592,7 +1592,7 @@ msgid "TAG_ARTIHEALINGRADIUS"
 msgstr "Mystic Ambit Zauberspruch"
 
 msgid "TAG_ARTIDEFENDER"
-msgstr "Ikone des Verteidigers"
+msgstr "Zeichen des Verteidigers"
 
 msgid "TAG_ARTIPORK"
 msgstr "Porkalator"
