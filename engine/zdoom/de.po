@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-06 20:51+0000\n"
+"PO-Revision-Date: 2026-09-07 19:51+0000\n"
 "Last-Translator: Tim Richter <jank21976@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/de/>\n"
 "Language: de\n"
@@ -600,9 +600,8 @@ msgstr "Unverwundbarkeit!"
 msgid "GOTBERSERK"
 msgstr "Berserker!"
 
-#, fuzzy
 msgid "GOTINVIS"
-msgstr "Teilweise Unsichtbarkeit"
+msgstr "Partielle Unsichtbarkeit"
 
 msgid "GOTSUIT"
 msgstr "Kontaminationsschutzanzug"
@@ -3235,9 +3234,8 @@ msgstr "Umgekehrte Spritesortierung"
 msgid "CMPTMNU_SOUNDBEHAVIOR"
 msgstr "Sound-Verhalten"
 
-#, fuzzy
 msgid "CMPTMNU_SOUNDSLOTS"
-msgstr "Soundsystem für geräuschlose BFG einschränken"
+msgstr "Soundsystem für geräuschlosen BFG Trick einschränken"
 
 msgid "CMPTMNU_SILENTPICKUP"
 msgstr "Andere können deine Gegenstandsaufnahmen nicht hören"
