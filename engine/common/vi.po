@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-08 05:57+0000\n"
+"PO-Revision-Date: 2026-09-08 07:51+0000\n"
 "Last-Translator: TBinhfkl <anhthieufame2021@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/uzdoom/common/vi/>\n"
 "Language: vi\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2026.9.1.dev0\n"
+"X-Generator: Weblate 2026.9.1\n"
 
 msgid "PRESSYN"
 msgstr "Ấn Y hoặc N."
@@ -539,130 +539,130 @@ msgid "TXT_COLOR_GRAY"
 msgstr "Màu xám"
 
 msgid "TXT_COLOR_DARKGRAY"
-msgstr ""
+msgstr "Màu xám đậm"
 
 msgid "TXT_COLOR_DARKGREEN"
-msgstr ""
+msgstr "Màu xanh đậm"
 
 msgid "TXT_COLOR_BROWN"
-msgstr ""
+msgstr "Màu nâu"
 
 msgid "TXT_COLOR_DARKBLUE"
-msgstr ""
+msgstr "Màu xanh dương đậm"
 
 msgid "TXT_COLOR_LIGHTRED"
-msgstr ""
+msgstr "Màu đỏ nhạt"
 
 msgid "TXT_COLOR_YELLOW"
-msgstr ""
+msgstr "Màu vàng"
 
 msgid "TXT_COLOR_PURPLE"
-msgstr ""
+msgstr "Màu tím"
 
 msgid "TXT_COLOR_DULLGREEN"
-msgstr ""
+msgstr "Màu ô liu"
 
 msgid "TXT_COLOR_BEIGE"
-msgstr ""
+msgstr "Màu be"
 
 msgid "TXT_COLOR_LIGHTBLUE"
-msgstr ""
+msgstr "Màu xanh nhạt"
 
 msgid "TXT_COLOR_LIGHTGRAY"
-msgstr ""
+msgstr "Màu xám nhạt"
 
 msgid "TXT_COLOR_LIGHTBROWN"
-msgstr ""
+msgstr "Màu nâu nhạt"
 
 msgid "TXT_COLOR_GOLD"
-msgstr ""
+msgstr "Vàng"
 
 msgid "TXT_COLOR_BRIGHTGREEN"
-msgstr ""
+msgstr "Xanh lá cây tươi"
 
 msgid "TXT_COLOR_RUST"
-msgstr ""
+msgstr "Rỉ sét"
 
 msgid "PLYRMNU_NAME"
-msgstr ""
+msgstr "Tên"
 
 msgid "PLYRMNU_TEAM"
-msgstr ""
+msgstr "Đội"
 
 msgid "PLYRMNU_PLAYERCOLOR"
-msgstr ""
+msgstr "Màu sắc"
 
 msgid "PLYRMNU_PLAYERGENDER"
-msgstr ""
+msgstr "Giới tính"
 
 msgid "OPTVAL_MALE"
-msgstr ""
+msgstr "Nam giới"
 
 msgid "OPTVAL_FEMALE"
-msgstr ""
+msgstr "Nữ giới"
 
 msgid "OPTVAL_NEUTRAL"
-msgstr ""
+msgstr "Trung lập"
 
 msgid "OPTVAL_OTHER"
-msgstr ""
+msgstr "Đồ vật"
 
 msgid "GMPLYMNU_TITLE"
-msgstr ""
+msgstr "Tùy chọn lối chơi"
 
 msgid "OPTVAL_ALWAYS"
-msgstr ""
+msgstr "Luôn luôn"
 
 msgid "OPTVAL_NEVER"
-msgstr ""
+msgstr "Không bao giờ"
 
 msgid "PLYRMNU_AUTOAIM"
-msgstr ""
+msgstr "Tự động ngắm"
 
 msgid "PLYRMNU_ALWAYSRUN"
-msgstr ""
+msgstr "Luôn luôn chạy"
 
 msgid "DSPLYMNU_SCREENSIZE"
-msgstr ""
+msgstr "Kích thước màn hình"
 
 msgid "DSPLYMNU_VSYNC"
-msgstr ""
+msgstr "Đồng bộ dọc"
 
 msgid "DSPLYMNU_MODELS"
-msgstr ""
+msgstr "Mô hình"
 
 msgid "MSGMNU_CENTERMESSAGES"
-msgstr ""
+msgstr "Căn giữa tin nhắn"
 
 msgid "MSGMNU_MESSAGEQUEUE"
-msgstr ""
+msgstr "Kích thước hàng đợi tin nhắn"
 
 msgid "MSGMNU_STACKIDENTICAL"
-msgstr ""
+msgstr "Xếp chồng các thông báo lặp lại"
 
 msgid "MSGMNU_PULSEMESSAGES"
-msgstr ""
+msgstr "Màn hình hiển thị thông báo nhấp nháy"
 
 msgid "MNU_COLORPICKER"
-msgstr ""
+msgstr "Chọn màu"
 
 msgid "AUTOMAPMNU_ROTATE"
-msgstr ""
+msgstr "Xoay automap"
 
 msgid "AUTOMAPMNU_FOLLOW"
-msgstr ""
+msgstr "Theo dõi người chơi"
 
 msgid "AUTOMAPMNU_LINEALPHA"
-msgstr ""
+msgstr "Dòng alpha"
 
 msgid "AUTOMAPMNU_LINETHICKNESS"
-msgstr ""
+msgstr "Độ dày đường kẻ"
 
 msgid "MAPCOLORMNU_TITLE"
-msgstr ""
+msgstr "Tùy chỉnh màu sắc bản đồ"
 
 msgid "MAPCOLORMNU_DEFAULTMAPCOLORS"
-msgstr ""
+msgstr "Khôi phục màu sắc tùy chỉnh mặc định"
 
 msgid "OPTVAL_8000HZ"
 msgstr ""
@@ -683,28 +683,28 @@ msgid "OPTVAL_48000HZ"
 msgstr ""
 
 msgid "OPTVAL_64SAMPLES"
-msgstr ""
+msgstr "64 mẫu"
 
 msgid "OPTVAL_128SAMPLES"
-msgstr ""
+msgstr "128 mẫu"
 
 msgid "OPTVAL_256SAMPLES"
-msgstr ""
+msgstr "256 mẫu"
 
 msgid "OPTVAL_512SAMPLES"
-msgstr ""
+msgstr "512 mẫu"
 
 msgid "OPTVAL_1024SAMPLES"
-msgstr ""
+msgstr "1024 mẫu"
 
 msgid "OPTVAL_2048SAMPLES"
-msgstr ""
+msgstr "2048 mẫu"
 
 msgid "OPTVAL_4096SAMPLES"
-msgstr ""
+msgstr "4096 mẫu"
 
 msgid "OPTSTR_AUTO"
-msgstr ""
+msgstr "Tự động"
 
 msgid "OPTSTR_MONO"
 msgstr ""
@@ -719,67 +719,67 @@ msgid "OPTSTR_QUAD"
 msgstr ""
 
 msgid "OPTSTR_SURROUND"
-msgstr ""
+msgstr "5 loa"
 
 msgid "OPTSTR_5POINT1"
-msgstr ""
+msgstr "5.1 loa"
 
 msgid "OPTSTR_7POINT1"
-msgstr ""
+msgstr "7.1 loa"
 
 msgid "OPENALMNU_PLAYBACKDEVICE"
-msgstr ""
+msgstr "Thiết bị phát lại"
 
 msgid "OPENALMNU_ENABLEEFX"
-msgstr ""
+msgstr "Bật EFX"
 
 msgid "OPENALMNU_RESAMPLER"
-msgstr ""
+msgstr "Bộ lấy mẫu lại"
 
 msgid "SNDMNU_SFXVOLUME"
-msgstr ""
+msgstr "Âm lượng"
 
 msgid "SNDMNU_MENUVOLUME"
-msgstr ""
+msgstr "Âm lượng menu"
 
 msgid "SNDMNU_MUSICVOLUME"
-msgstr ""
+msgstr "Âm lượng nhạc"
 
 msgid "SNDMNU_MIDIDEVICE"
-msgstr ""
+msgstr "Thiết bị MIDI"
 
 msgid "SNDMNU_BACKGROUND"
-msgstr ""
+msgstr "Âm thanh nền"
 
 msgid "SNDMNU_UNDERWATERREVERB"
-msgstr ""
+msgstr "Tiếng vang dưới nước"
 
 msgid "SNDMNU_RANDOMIZEPITCHES"
-msgstr ""
+msgstr "Ngẫu nhiên hóa các nốt nhạc"
 
 msgid "SNDMNU_CHANNELS"
-msgstr ""
+msgstr "Kênh âm thanh"
 
 msgid "SNDMNU_OPENAL"
-msgstr ""
+msgstr "Các tùy chọn OpenAL"
 
 msgid "SNDMNU_RESTART"
-msgstr ""
+msgstr "Khởi động lại âm thanh"
 
 msgid "SNDMNU_ADVANCED"
-msgstr ""
+msgstr "Tùy chọn nâng cao"
 
 msgid "SNDMNU_MODREPLAYER"
-msgstr ""
+msgstr "Tùy chọn người chơi lại mô-đun"
 
 msgid "SNDMNU_MIDIPLAYER"
-msgstr ""
+msgstr "Tùy chọn thiết bị MIDI"
 
 msgid "ADVSNDMNU_TITLE"
-msgstr ""
+msgstr "Tùy chọn âm thanh nâng cao"
 
 msgid "ADVSNDMNU_SAMPLERATE"
-msgstr ""
+msgstr "Tốc độ lấy mẫu"
 
 msgid "ADVSNDMNU_HRTF"
 msgstr ""
@@ -788,43 +788,43 @@ msgid "ADVSNDMNU_OPLSYNTHESIS"
 msgstr ""
 
 msgid "ADVSNDMNU_OPLNUMCHIPS"
-msgstr ""
+msgstr "Số lượng chip OPL được mô phỏng"
 
 msgid "ADVSNDMNU_OPLGAIN"
 msgstr ""
 
 msgid "ADVSNDMNU_OPLFULLPAN"
-msgstr ""
+msgstr "Điều chỉnh âm thanh nổi MIDI đầy đủ"
 
 msgid "ADVSNDMNU_OPLCORES"
 msgstr ""
 
 msgid "ADVSNDMNU_MIDIVOICES"
-msgstr ""
+msgstr "Giọng nói MIDI"
 
 msgid "ADVSNDMNU_FLUIDSYNTH"
 msgstr ""
 
 msgid "ADVSNDMNU_GLOBAL"
-msgstr ""
+msgstr "Toàn cầu"
 
 msgid "ADVSNDMNU_FREEVERB"
-msgstr ""
+msgstr "Động từ tự do"
 
 msgid "ADVSNDMNU_GLOBAL_FREEVERB"
-msgstr ""
+msgstr "Động từ tự do toàn cầu"
 
 msgid "ADVSNDMNU_FLUIDGAIN"
 msgstr ""
 
 msgid "ADVSNDMNU_REVERB"
-msgstr ""
+msgstr "Tiếng vang"
 
 msgid "ADVSNDMNU_REVERB_LEVEL"
-msgstr ""
+msgstr "Mức độ tiếng vang"
 
 msgid "ADVSNDMNU_CHORUS"
-msgstr ""
+msgstr "Điệp khúc"
 
 msgid "ADVSNDMNU_TIMIDITY"
 msgstr ""
@@ -839,31 +839,31 @@ msgid "ADVSNDMNU_WILDMIDI"
 msgstr ""
 
 msgid "ADVSNDMNU_SELCONFIG"
-msgstr ""
+msgstr "Chọn cấu hình"
 
 msgid "ADVSNDMNU_ADVRESAMPLING"
-msgstr ""
+msgstr "Lấy mẫu lại nâng cao"
 
 msgid "ADVSNDMNU_OPLBANK"
-msgstr ""
+msgstr "Ngân hàng OPL"
 
 msgid "ADVSNDMNU_RUNPCMRATE"
-msgstr ""
+msgstr "Chạy trình giả lập ở tốc độ PCM"
 
 msgid "ADVSNDMNU_ADLNUMCHIPS"
-msgstr ""
+msgstr "Số lượng chip OPL mô phỏng"
 
 msgid "ADVSNDMNU_ADLGAIN"
 msgstr ""
 
 msgid "ADVSNDMNU_VLMODEL"
-msgstr ""
+msgstr "Mô hình thể tích"
 
 msgid "ADVSNDMNU_CHANALLOC"
-msgstr ""
+msgstr "Phương pháp phân bổ kênh"
 
 msgid "ADVSNDMNU_AUTOARPEGGIO"
-msgstr ""
+msgstr "Hợp âm rải tự động"
 
 msgid "ADVSNDMNU_OPNCORES"
 msgstr ""
@@ -872,88 +872,88 @@ msgid "ADVSNDMNU_GUSEMULATION"
 msgstr ""
 
 msgid "ADVSNDMNU_DMXGUS"
-msgstr ""
+msgstr "Đọc DMXGUS cục u"
 
 msgid "ADVSNDMNU_GUSMEMSIZE"
-msgstr ""
+msgstr "Kích thước bộ nhớ GUS"
 
 msgid "ADVSNDMNU_OPNNUMCHIPS"
-msgstr ""
+msgstr "Số lượng chip OPN mô phỏng"
 
 msgid "ADVSNDMNU_OPNGAIN"
 msgstr ""
 
 msgid "ADVSNDMNU_ADLCUSTOMBANK"
-msgstr ""
+msgstr "Sử dụng ngân hàng WOPL tùy chỉnh"
 
 msgid "ADVSNDMNU_ADLUSEWADBANK"
-msgstr ""
+msgstr "Sử dụng ngân hàng GENMIDI của WAD làm ngân hàng tùy chỉnh"
 
 msgid "ADVSNDMNU_OPLBANKFILE"
-msgstr ""
+msgstr "Tệp tin ngân hàng WOPL"
 
 msgid "ADVSNDMNU_OPNCUSTOMBANK"
-msgstr ""
+msgstr "Sử dụng ngân hàng WOPN tùy chỉnh"
 
 msgid "ADVSNDMNU_OPNBANKFILE"
-msgstr ""
+msgstr "Tệp tin ngân hàng WOPN"
 
 msgid "OPTVAL_ALIASING"
 msgstr ""
 
 msgid "OPTVAL_LINEAR_1"
-msgstr ""
+msgstr "Tuyến tính"
 
 msgid "OPTVAL_LINEAR_2"
-msgstr ""
+msgstr "Tuyến tính"
 
 msgid "OPTVAL_LINEAR_3"
-msgstr ""
+msgstr "Tuyến tính"
 
 msgid "OPTVAL_NEAREST"
-msgstr ""
+msgstr "Gần nhất"
 
 msgid "OPTVAL_PCF_LOW"
-msgstr ""
+msgstr "PCF (Thấp)"
 
 msgid "OPTVAL_PCF_MEDIUM"
-msgstr ""
+msgstr "PCF (Trung bình)"
 
 msgid "OPTVAL_PCF_HIGH"
-msgstr ""
+msgstr "PCF (Cao)"
 
 msgid "OPTVAL_CUBIC"
 msgstr ""
 
 msgid "OPTVAL_BLEP"
-msgstr ""
+msgstr "Bước giới hạn băng thông"
 
 msgid "OPTVAL_LINEARSLOW"
-msgstr ""
+msgstr "Tuyến tính (Chậm hơn)"
 
 msgid "OPTVAL_BLAM"
-msgstr ""
+msgstr "Tuyến tính giới hạn băng tần"
 
 msgid "OPTVAL_CUBICSLOW"
-msgstr ""
+msgstr "Cubic (Chậm hơn)"
 
 msgid "OPTVAL_SINC"
 msgstr ""
 
 msgid "OPTVAL_NOTEONOFFONLY"
-msgstr ""
+msgstr "Lưu ý chỉ bật/tắt"
 
 msgid "OPTVAL_FULLRAMPING"
-msgstr ""
+msgstr "Tăng tốc hoàn toàn"
 
 msgid "MODMNU_MASTERVOLUME"
-msgstr ""
+msgstr "Âm lượng chính"
 
 msgid "MODMNU_QUALITY"
-msgstr ""
+msgstr "Chất lượng"
 
 msgid "MODMNU_VOLUMERAMPING"
-msgstr ""
+msgstr "Tăng âm lượng"
 
 msgid "OPTVAL_LIBXMP"
 msgstr ""
@@ -986,10 +986,10 @@ msgid "OPTVAL_NUKEDOPL3"
 msgstr ""
 
 msgid "OPTVAL_LLENUKEDOPL2"
-msgstr ""
+msgstr "OPL2-LLE (hiệu suất chuyên sâu)"
 
 msgid "OPTVAL_LLENUKEDOPL3"
-msgstr ""
+msgstr "OPL3-LLE (hiệu suất chuyên sâu)"
 
 msgid "OPTVAL_MAMEOPN2"
 msgstr ""
@@ -1010,13 +1010,13 @@ msgid "OPTVAL_NUKEDOPN2YM2612"
 msgstr ""
 
 msgid "OPTVAL_OPN2YM2612LLE"
-msgstr ""
+msgstr "OPN2-LLE (YM2612) (hiệu suất chuyên sâu)"
 
 msgid "OPTVAL_OPN2YM3438LLE"
-msgstr ""
+msgstr "OPN2-LLE (YM3438) (hiệu suất chuyên sâu)"
 
 msgid "OPTVAL_OPN2YMF276LLE"
-msgstr ""
+msgstr "OPN2-LLE (YMF276) (hiệu suất chuyên sâu)"
 
 msgid "OPTVAL_GENSOPN2"
 msgstr ""
@@ -1028,16 +1028,16 @@ msgid "OPTVAL_YMFMOPNA"
 msgstr ""
 
 msgid "ADLVLMODEL_AUTO"
-msgstr ""
+msgstr "Tự động (Sử dụng cài đặt của ngân hàng)"
 
 msgid "OPNVLMODEL_AUTO"
-msgstr ""
+msgstr "Tự động (Sử dụng cài đặt của ngân hàng)"
 
 msgid "ADLVLMODEL_GENERIC"
-msgstr ""
+msgstr "Chung"
 
 msgid "OPNVLMODEL_GENERIC"
-msgstr ""
+msgstr "Chung"
 
 msgid "ADLVLMODEL_NATIVE"
 msgstr ""
@@ -1049,13 +1049,13 @@ msgid "ADLVLMODEL_DMX"
 msgstr ""
 
 msgid "OPNVLMODEL_DMX"
-msgstr ""
+msgstr "Giống như trong DMX"
 
 msgid "ADLVLMODEL_APOGEE"
 msgstr ""
 
 msgid "OPNVLMODEL_APOGEE"
-msgstr ""
+msgstr "Giống như trong Apogee Sound System"
 
 msgid "OPNVLMODEL_WIN9X"
 msgstr ""
@@ -1082,19 +1082,19 @@ msgid "ADLVLMODEL_HMIOLD"
 msgstr ""
 
 msgid "ADLCHANALLOC_AUTO"
-msgstr ""
+msgstr "Tự động"
 
 msgid "ADLCHANALLOC_OFFDELAY"
-msgstr ""
+msgstr "Độ trễ tắt âm thanh được đo"
 
 msgid "ADLCHANALLOC_SAMEINST"
-msgstr ""
+msgstr "Tái sử dụng phiên bản đầu tiên của cùng một nhạc cụ"
 
 msgid "ADLCHANALLOC_ANYREL"
-msgstr ""
+msgstr "Tái sử dụng bất kỳ ghi chú nào được phát hành lần đầu"
 
 msgid "OPTVAL_UNLIMITED"
-msgstr ""
+msgstr "Không giới hạn"
 
 msgid "OPTVAL_256K"
 msgstr ""
@@ -1118,106 +1118,106 @@ msgid "OPTVAL_REINHARD"
 msgstr ""
 
 msgid "OPTVAL_PALETTE"
-msgstr ""
+msgstr "Bảng màu"
 
 msgid "OPTVAL_LOW"
-msgstr ""
+msgstr "Thấp"
 
 msgid "OPTVAL_MEDIUM"
-msgstr ""
+msgstr "Trung bình"
 
 msgid "OPTVAL_HIGH"
-msgstr ""
+msgstr "Cao"
 
 msgid "OPTVAL_EXTREME"
-msgstr ""
+msgstr "Vô cùng"
 
 msgid "OPTVAL_OBVERSEFIRST"
 msgstr ""
 
 msgid "OPTVAL_REVERSEFIRST"
-msgstr ""
+msgstr "Đảo ngược"
 
 msgid "GLMNU_POSTPROCESS"
-msgstr ""
+msgstr "Xử lý hậu kỳ"
 
 msgid "GLPREFMNU_TONEMAP"
-msgstr ""
+msgstr "Chế độ Tonemap"
 
 msgid "GLPREFMNU_LENS"
-msgstr ""
+msgstr "Hiệu ứng méo ống kính"
 
 msgid "GLPREFMNU_FXAA"
-msgstr ""
+msgstr "Chất lượng FXAA"
 
 msgid "GLPREFMNU_DITHER"
-msgstr ""
+msgstr "Dither đầu ra"
 
 msgid "GLPREFMNU_PALTONEMAPORDER"
-msgstr ""
+msgstr "Thứ tự bảng màu Tonemap"
 
 msgid "GLPREFMNU_PALTONEMAPPOWER"
-msgstr ""
+msgstr "Số mũ bảng màu Tonemap"
 
 msgid "GLPREFMNU_MULTISAMPLE"
-msgstr ""
+msgstr "Lấy đa mẫu"
 
 msgid "GLPREFMNU_BLOOM"
-msgstr ""
+msgstr "Bloom hiệu ứng"
 
 msgid "GLPREFMNU_SSAO"
-msgstr ""
+msgstr "Chất lượng che khuất môi trường"
 
 msgid "GLPREFMNU_SSAO_PORTALS"
-msgstr ""
+msgstr "Cổng thông tin có AO"
 
 msgid "GLPREFMNU_MENUBLUR"
 msgstr ""
 
 msgid "GLPREFMNU_ENVIRONMENTMAPMIRROR"
-msgstr ""
+msgstr "Bản đồ môi trường trên gương"
 
 msgid "GLPREFMNU_RENDERQUALITY"
-msgstr ""
+msgstr "Chất lượng kết xuất"
 
 msgid "OPTVAL_SPEED"
-msgstr ""
+msgstr "Tốc độ"
 
 msgid "OPTVAL_QUALITY"
-msgstr ""
+msgstr "Chất lượng"
 
 msgid "GLPREFMNU_SECLIGHTMODE"
-msgstr ""
+msgstr "Chế độ đèn sector"
 
 msgid "GLPREFMNU_FOGMODE"
-msgstr ""
+msgstr "Chế độ sương mù"
 
 msgid "OPTVAL_RADIAL"
 msgstr ""
 
 msgid "OPTVAL_STANDARD"
-msgstr ""
+msgstr "Tiêu chuẩn"
 
 msgid "GLTEXMNU_TEXFILTER"
-msgstr ""
+msgstr "Chế độ bộ lọc kết cấu"
 
 msgid "GLTEXMNU_ANISOTROPIC"
-msgstr ""
+msgstr "Bộ lọc dị hướng"
 
 msgid "OPTVAL_NONENEARESTMIPMAP"
-msgstr ""
+msgstr "Không có (mipmap gần nhất)"
 
 msgid "OPTVAL_NONELINEARMIPMAP"
-msgstr ""
+msgstr "Không có (mipmap tuyến tính)"
 
 msgid "OPTVAL_NONETRILINEAR"
-msgstr ""
+msgstr "Không có (ba tuyến tính)"
 
 msgid "OPTVAL_BILINEAR"
-msgstr ""
+msgstr "Song tuyến"
 
 msgid "OPTVAL_TRILINEAR"
-msgstr ""
+msgstr "Tam tuyến"
 
 msgid "OPTVAL_2X"
 msgstr ""
@@ -1235,79 +1235,79 @@ msgid "OPTVAL_32X"
 msgstr ""
 
 msgid "GLTEXMNU_TITLE"
-msgstr ""
+msgstr "Tùy chọn kết cấu"
 
 msgid "GLTEXMNU_HQRESIZE"
-msgstr ""
+msgstr "Chế độ thay đổi kích thước chất lượng cao"
 
 msgid "GLTEXMNU_HQRESIZEMULT"
-msgstr ""
+msgstr "Hệ số nhân thay đổi kích thước chất lượng cao"
 
 msgid "GLTEXMNU_HQRESIZEWARN"
-msgstr ""
+msgstr "Chế độ này yêu cầu bộ nhớ video nhiều hơn %d lần"
 
 msgid "GLTEXMNU_RESIZETEX"
-msgstr ""
+msgstr "Thay đổi kích thước kết cấu"
 
 msgid "GLTEXMNU_RESIZESPR"
-msgstr ""
+msgstr "Thay đổi kích thước sprite"
 
 msgid "GLTEXMNU_RESIZEFNT"
-msgstr ""
+msgstr "Thay đổi kích thước phông chữ"
 
 msgid "GLTEXMNU_RESIZESKN"
-msgstr ""
+msgstr "Thay đổi kích thước mô hình da"
 
 msgid "GLTEXMNU_PRECACHETEX"
-msgstr ""
+msgstr "Bộ nhớ đệm trước GL textures"
 
 msgid "VIDMNU_TITLE"
-msgstr ""
+msgstr "Chế độ video"
 
 msgid "OPTVAL_LETTERBOX"
 msgstr ""
 
 msgid "OPTVAL_STRETCH"
-msgstr ""
+msgstr "Duỗi"
 
 msgid "VIDMNU_RENDERMODE"
-msgstr ""
+msgstr "Chế độ kết xuất"
 
 msgid "VIDMNU_FULLSCREEN"
-msgstr ""
+msgstr "Toàn màn hình"
 
 msgid "VIDMNU_HIDPI"
-msgstr ""
+msgstr "Retina/HiDPI ủng hộ"
 
 msgid "VIDMNU_FORCEASPECT"
-msgstr ""
+msgstr "Tỷ lệ khung hình lực"
 
 msgid "VIDMNU_CROPASPECT"
-msgstr ""
+msgstr "Kiểu tỷ lệ bắt buộc"
 
 msgid "VIDMNU_SCALEMODE"
-msgstr ""
+msgstr "Thang độ phân giải"
 
 msgid "VIDMNU_SCALEFACTOR"
-msgstr ""
+msgstr "Yếu tố quy mô"
 
 msgid "VIDMNU_USELINEAR"
-msgstr ""
+msgstr "Sử dụng tỷ lệ tuyến tính (Toàn màn hình)"
 
 msgid "VIDMNU_CUSTOMRES"
-msgstr ""
+msgstr "Chia tỷ lệ pixel tùy chỉnh"
 
 msgid "VIDMNU_CUSTOMX"
-msgstr ""
+msgstr "Chiều rộng tùy chỉnh"
 
 msgid "VIDMNU_CUSTOMY"
-msgstr ""
+msgstr "Chiều cao tùy chỉnh"
 
 msgid "VIDMNU_APPLYW"
-msgstr ""
+msgstr "Áp dụng thay đổi (trong cửa sổ)"
 
 msgid "VIDMNU_APPLYFS"
-msgstr ""
+msgstr "Áp dụng thay đổi (Toàn màn hình)"
 
 msgid "VIDMNU_RESPRESET"
 msgstr ""
@@ -1749,3 +1749,6 @@ msgstr ""
 
 msgid "PICKER_TAB_RELEASE"
 msgstr ""
+
+msgid "MSGMNU_MESSAGEFADE"
+msgstr "Thời gian làm mờ tin nhắn"
