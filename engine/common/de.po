@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-08 09:51+0000\n"
+"PO-Revision-Date: 2026-09-08 12:51+0000\n"
 "Last-Translator: Tim Richter <jank21976@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/common/de/>\n"
 "Language: de\n"
@@ -1911,3 +1911,6 @@ msgstr "Jamie O'Connel's FM Synth Treiber"
 
 msgid "ADLVLMODEL_IMF_CREATOR"
 msgstr "IMF Creator"
+
+msgid "OPTVAL_NUKEDCQM"
+msgstr "Nuked CQM (Creatives OPL3 klon)"
