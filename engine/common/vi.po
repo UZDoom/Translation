@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-08 04:51+0000\n"
+"PO-Revision-Date: 2026-09-08 05:57+0000\n"
 "Last-Translator: TBinhfkl <anhthieufame2021@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/uzdoom/common/vi/>\n"
 "Language: vi\n"
@@ -200,343 +200,343 @@ msgid "CNTRLMNU_TOGGLECROUCH"
 msgstr "Bật/Tắt ngồi"
 
 msgid "CNTRLMNU_MOUSELOOK"
-msgstr ""
+msgstr "Chuột nhìn"
 
 msgid "CNTRLMNU_LOOKUP"
-msgstr ""
+msgstr "Nhìn lên"
 
 msgid "CNTRLMNU_LOOKDOWN"
-msgstr ""
+msgstr "Nhìn xuống"
 
 msgid "CNTRLMNU_CENTERVIEW"
-msgstr ""
+msgstr "Góc nhìn chính giữa"
 
 msgid "CNTRLMNU_RUN"
-msgstr ""
+msgstr "Chạy"
 
 msgid "CNTRLMNU_TOGGLERUN"
-msgstr ""
+msgstr "Bật/tắt chạy"
 
 msgid "CNTRLMNU_STRAFE"
-msgstr ""
+msgstr "Di chuyển ngang"
 
 msgid "CNTRLMNU_SCOREBOARD"
-msgstr ""
+msgstr "Hiển thị bảng điểm"
 
 msgid "CNTRLMNU_ACTION"
-msgstr ""
+msgstr "Hoạt động"
 
 msgid "CNTRLMNU_ACTION_TITLE"
-msgstr ""
+msgstr "Tùy chỉnh các điều khiển hành động"
 
 msgid "MNU_MULTIPLAYER"
-msgstr ""
+msgstr "Nhiều người chơi"
 
 msgid "CNTRLMNU_SAY"
-msgstr ""
+msgstr "Nói"
 
 msgid "CNTRLMNU_WEAPONS_TITLE"
-msgstr ""
+msgstr "Tùy chỉnh điều khiển vũ khí"
 
 msgid "CNTRLMNU_INVENTORY_TITLE"
-msgstr ""
+msgstr "Tùy chỉnh kiểm soát hàng tồn kho"
 
 msgid "CNTRLMNU_OTHER_TITLE"
-msgstr ""
+msgstr "Tùy chỉnh các điều khiển khác"
 
 msgid "CNTRLMNU_WEAPONS"
-msgstr ""
+msgstr "Vũ khí"
 
 msgid "CNTRLMNU_NEXTWEAPON"
-msgstr ""
+msgstr "Vũ khí tiếp theo"
 
 msgid "CNTRLMNU_PREVIOUSWEAPON"
-msgstr ""
+msgstr "Vũ khí trước đó"
 
 msgid "CNTRLMNU_SLOT1"
-msgstr ""
+msgstr "Vũ khí 1"
 
 msgid "CNTRLMNU_SLOT2"
-msgstr ""
+msgstr "Vũ khí 2"
 
 msgid "CNTRLMNU_SLOT3"
-msgstr ""
+msgstr "Vũ khí 3"
 
 msgid "CNTRLMNU_SLOT4"
-msgstr ""
+msgstr "Vũ khí 4"
 
 msgid "CNTRLMNU_SLOT5"
-msgstr ""
+msgstr "Vũ khí 5"
 
 msgid "CNTRLMNU_SLOT6"
-msgstr ""
+msgstr "Vũ khí 6"
 
 msgid "CNTRLMNU_SLOT7"
-msgstr ""
+msgstr "Vũ khí 7"
 
 msgid "CNTRLMNU_SLOT8"
-msgstr ""
+msgstr "Vũ khí 8"
 
 msgid "CNTRLMNU_SLOT9"
-msgstr ""
+msgstr "Vũ khí 9"
 
 msgid "CNTRLMNU_SLOT0"
-msgstr ""
+msgstr "Vũ khí 10"
 
 msgid "CNTRLMNU_INVENTORY"
-msgstr ""
+msgstr "Hàng tồn kho"
 
 msgid "CNTRLMNU_USEITEM"
-msgstr ""
+msgstr "Kích hoạt mục"
 
 msgid "CNTRLMNU_USEALLITEMS"
-msgstr ""
+msgstr "Kích hoạt tất cả các mục"
 
 msgid "CNTRLMNU_NEXTITEM"
-msgstr ""
+msgstr "Mục tiếp theo"
 
 msgid "CNTRLMNU_PREVIOUSITEM"
-msgstr ""
+msgstr "Mục trước"
 
 msgid "MAPCNTRLMNU_TITLE"
-msgstr ""
+msgstr "Điều khiển bản đồ"
 
 msgid "MAPCNTRLMNU_CONTROLS"
-msgstr ""
+msgstr "Điều khiển bản đồ"
 
 msgid "MAPCNTRLMNU_PANLEFT"
-msgstr ""
+msgstr "Lia trái"
 
 msgid "MAPCNTRLMNU_PANRIGHT"
-msgstr ""
+msgstr "Lia phải"
 
 msgid "MAPCNTRLMNU_PANUP"
-msgstr ""
+msgstr "Lia lên"
 
 msgid "MAPCNTRLMNU_PANDOWN"
-msgstr ""
+msgstr "Lia xuống"
 
 msgid "MAPCNTRLMNU_ZOOMIN"
-msgstr ""
+msgstr "Phóng to"
 
 msgid "MAPCNTRLMNU_ZOOMOUT"
-msgstr ""
+msgstr "Phóng nhỏ"
 
 msgid "MAPCNTRLMNU_TOGGLEZOOM"
-msgstr ""
+msgstr "Bật/tắt phóng"
 
 msgid "MAPCNTRLMNU_TOGGLEFOLLOW"
-msgstr ""
+msgstr "Bật/tắt theo dõi"
 
 msgid "MAPCNTRLMNU_TOGGLEGRID"
-msgstr ""
+msgstr "Bật/tắt lưới"
 
 msgid "MAPCNTRLMNU_ROTATE"
-msgstr ""
+msgstr "Bật/tắt xoay"
 
 msgid "MAPCNTRLMNU_TOGGLETEXTURE"
-msgstr ""
+msgstr "Bật/tắt kết cấu"
 
 msgid "CNTRLMNU_AUTOMAP"
-msgstr ""
+msgstr "Bật/tắt automap"
 
 msgid "CNTRLMNU_CHASECAM"
 msgstr ""
 
 msgid "CNTRLMNU_SCREENSHOT"
-msgstr ""
+msgstr "Ảnh chụp màn hình"
 
 msgid "CNTRLMNU_PAUSE"
-msgstr ""
+msgstr "Tạm dừng"
 
 msgid "CNTRLMNU_DISPLAY_INC"
-msgstr ""
+msgstr "Tăng kích thước hiển thị"
 
 msgid "CNTRLMNU_DISPLAY_DEC"
-msgstr ""
+msgstr "Giảm kích thước hiển thị"
 
 msgid "CNTRLMNU_OPEN_HELP"
-msgstr ""
+msgstr "Trợ giúp mở"
 
 msgid "CNTRLMNU_OPEN_SAVE"
-msgstr ""
+msgstr "Mở menu Lưu"
 
 msgid "CNTRLMNU_OPEN_LOAD"
-msgstr ""
+msgstr "Mở menu vào"
 
 msgid "CNTRLMNU_OPEN_OPTIONS"
-msgstr ""
+msgstr "Open Options Menu"
 
 msgid "CNTRLMNU_OPEN_DISPLAY"
-msgstr ""
+msgstr "Mở Menu Hiển thị"
 
 msgid "CNTRLMNU_QUICKSAVE"
-msgstr ""
+msgstr "Lưu nhanh"
 
 msgid "CNTRLMNU_QUICKLOAD"
-msgstr ""
+msgstr "Vào nhanh"
 
 msgid "CNTRLMNU_EXIT_TO_MAIN"
-msgstr ""
+msgstr "Thoát về Menu chính"
 
 msgid "CNTRLMNU_TOGGLE_MESSAGES"
-msgstr ""
+msgstr "Thông báo bật/tắt"
 
 msgid "CNTRLMNU_MENU_QUIT"
-msgstr ""
+msgstr "Thoát Game"
 
 msgid "MOUSEMNU_ENABLEMOUSE"
-msgstr ""
+msgstr "Bật chuột"
 
 msgid "MOUSEMNU_MOUSEINMENU"
-msgstr ""
+msgstr "Bật chuột ở menu"
 
 msgid "MOUSEMNU_SHOWBACKBUTTON"
-msgstr ""
+msgstr "Hiển thị nút quay lại"
 
 msgid "MOUSEMNU_CURSOR"
-msgstr ""
+msgstr "Con trỏ"
 
 msgid "MOUSEMNU_SENSITIVITY_X"
-msgstr ""
+msgstr "Độ nhạy ngang"
 
 msgid "MOUSEMNU_SENSITIVITY_Y"
-msgstr ""
+msgstr "Độ nhạy dọc"
 
 msgid "MOUSEMNU_SMOOTHMOUSE"
-msgstr ""
+msgstr "Chuyển động chuột mượt mà"
 
 msgid "MOUSEMNU_TURNSPEED"
-msgstr ""
+msgstr "Tốc độ rẽ"
 
 msgid "MOUSEMNU_MOUSELOOKSPEED"
-msgstr ""
+msgstr "Tốc độ nhìn chuột"
 
 msgid "MOUSEMNU_FORWBACKSPEED"
-msgstr ""
+msgstr "Tốc độ tiến/lùi"
 
 msgid "MOUSEMNU_STRAFESPEED"
-msgstr ""
+msgstr "Tốc độ di chuyển ngang"
 
 msgid "MOUSEMNU_ALWAYSMOUSELOOK"
-msgstr ""
+msgstr "Luôn luôn nhìn bằng chuột"
 
 msgid "MOUSEMNU_INVERTMOUSE"
-msgstr ""
+msgstr "Đảo ngược Chuột Y"
 
 msgid "MOUSEMNU_INVERTMOUSEX"
-msgstr ""
+msgstr "Đảo ngược Chuột X"
 
 msgid "OPTVAL_UPPERLEFT"
-msgstr ""
+msgstr "Phía trên bên trái"
 
 msgid "OPTVAL_UPPERRIGHT"
-msgstr ""
+msgstr "Phía trên bên phải"
 
 msgid "OPTVAL_LOWERLEFT"
-msgstr ""
+msgstr "Phía dưới bên trái"
 
 msgid "OPTVAL_LOWERRIGHT"
-msgstr ""
+msgstr "Phía dưới bên phải"
 
 msgid "OPTVAL_TOUCHSCREENLIKE"
-msgstr ""
+msgstr "Giống màn hình cảm ứng"
 
 msgid "OPTSTR_SIMPLEARROW"
-msgstr ""
+msgstr "Mũi tên đơn giản"
 
 msgid "OPTSTR_SYSTEMCURSOR"
-msgstr ""
+msgstr "Con trỏ hệ thống"
 
 msgid "OPTVAL_DEFAULT"
-msgstr ""
+msgstr "Mặc định"
 
 msgid "JOYMNU_TITLE"
-msgstr ""
+msgstr "Cấu hình bộ điều khiển"
 
 msgid "JOYMNU_OPTIONS"
-msgstr ""
+msgstr "Tùy chọn bộ điều khiển"
 
 msgid "JOYMNU_NOMENU"
-msgstr ""
+msgstr "Đầu vào bộ điều khiển khối trong menu"
 
 msgid "JOYMNU_ENABLE"
-msgstr ""
+msgstr "Bật hỗ trợ tay cầm"
 
 msgid "JOYMNU_DINPUT"
-msgstr ""
+msgstr "Bật bộ điều khiển DirectInput"
 
 msgid "JOYMNU_XINPUT"
-msgstr ""
+msgstr "Bật tay cầm XInput"
 
 msgid "JOYMNU_PS2"
-msgstr ""
+msgstr "Kích hoạt bộ điều hợp PlayStation 2 thô"
 
 msgid "JOYMNU_NOCON"
-msgstr ""
+msgstr "Không phát hiện thấy bộ điều khiển nào"
 
 msgid "JOYMNU_CONFIG"
-msgstr ""
+msgstr "Cấu hình bộ điều khiển:"
 
 msgid "JOYMNU_DISABLED1"
-msgstr ""
+msgstr "Hỗ trợ bộ điều khiển phải được"
 
 msgid "JOYMNU_DISABLED2"
-msgstr ""
+msgstr "kích hoạt để phát hiện bất kỳ"
 
 msgid "JOYMNU_INVALID"
-msgstr ""
+msgstr "Bộ điều khiển được chỉ định cho menu không hợp lệ"
 
 msgid "JOYMNU_OVRSENS"
-msgstr ""
+msgstr "Độ nhạy tổng thể"
 
 msgid "JOYMNU_AXIS"
-msgstr ""
+msgstr "Cấu hình trục"
 
 msgid "JOYMNU_INVERT"
-msgstr ""
+msgstr "Đảo ngược"
 
 msgid "JOYMNU_DEADZONE"
-msgstr ""
+msgstr "Vùng chết"
 
 msgid "JOYMNU_NOAXES"
-msgstr ""
+msgstr "Không có trục cấu hình"
 
 msgid "OPTVAL_NONE"
-msgstr ""
+msgstr "Không có"
 
 msgid "OPTVAL_TURNING"
-msgstr ""
+msgstr "Nhìn sang trái/phải"
 
 msgid "OPTVAL_LOOKINGUPDOWN"
-msgstr ""
+msgstr "Nhìn lên/xuống"
 
 msgid "OPTVAL_MOVINGFORWARD"
-msgstr ""
+msgstr "Tiến lên/Lùi lại"
 
 msgid "OPTVAL_STRAFING"
-msgstr ""
+msgstr "Di chuyển sang trái/phải"
 
 msgid "OPTVAL_MOVINGUPDOWN"
-msgstr ""
+msgstr "Di chuyển lên/xuống"
 
 msgid "OPTVAL_INVERTED"
-msgstr ""
+msgstr "Đảo ngược"
 
 msgid "OPTVAL_NOTINVERTED"
-msgstr ""
+msgstr "Không đảo ngược"
 
 msgid "TXT_COLOR_BLUE"
-msgstr ""
+msgstr "Màu xanh da trời"
 
 msgid "TXT_COLOR_RED"
-msgstr ""
+msgstr "Màu đỏ"
 
 msgid "TXT_COLOR_GREEN"
-msgstr ""
+msgstr "Màu xanh lá"
 
 msgid "TXT_COLOR_GRAY"
-msgstr ""
+msgstr "Màu xám"
 
 msgid "TXT_COLOR_DARKGRAY"
 msgstr ""
