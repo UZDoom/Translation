@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-08 07:51+0000\n"
+"PO-Revision-Date: 2026-09-08 09:51+0000\n"
 "Last-Translator: TBinhfkl <anhthieufame2021@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/uzdoom/common/vi/>\n"
 "Language: vi\n"
@@ -1310,40 +1310,40 @@ msgid "VIDMNU_APPLYFS"
 msgstr "Áp dụng thay đổi (Toàn màn hình)"
 
 msgid "VIDMNU_RESPRESET"
-msgstr ""
+msgstr "Chọn cài đặt trước độ phân giải"
 
 msgid "VIDMNU_RESPRESETTTL"
-msgstr ""
+msgstr "Các thiết lập độ phân giải tùy chỉnh"
 
 msgid "VIDMNU_RESPRESETHEAD"
-msgstr ""
+msgstr "Chế độ độ phân giải cài đặt sẵn"
 
 msgid "VIDMNU_ASPECT43"
-msgstr ""
+msgstr "Tỷ lệ 4:3"
 
 msgid "VIDMNU_ASPECT54"
-msgstr ""
+msgstr "Tỷ lệ 5:4"
 
 msgid "VIDMNU_ASPECT169"
-msgstr ""
+msgstr "Tỷ lệ 16:9"
 
 msgid "VIDMNU_ASPECT1610"
-msgstr ""
+msgstr "Tỷ lệ 16:10"
 
 msgid "VIDMNU_ASPECT219"
-msgstr ""
+msgstr "Tỷ lệ 21:9"
 
 msgid "OPTVAL_NORMAL"
-msgstr ""
+msgstr "Bình thường"
 
 msgid "OPTVAL_LOWEST"
-msgstr ""
+msgstr "Quy mô thấp nhất có thể"
 
 msgid "OPTVAL_CUSTOM"
-msgstr ""
+msgstr "Phong tục"
 
 msgid "VIDMNU_MAXFPS"
-msgstr ""
+msgstr "FPS tối đa"
 
 msgid "OPTVAL_60FPS"
 msgstr ""
@@ -1364,7 +1364,7 @@ msgid "OPTVAL_200FPS"
 msgstr ""
 
 msgid "VIDMNU_PREFERBACKEND"
-msgstr ""
+msgstr "Kết xuất ưu tiên"
 
 msgid "OPTVAL_OPENGL"
 msgstr "OpenGL"
@@ -1376,70 +1376,70 @@ msgid "OPTVAL_OPENGLES"
 msgstr ""
 
 msgid "MISCMNU_MERGEKEYS"
-msgstr ""
+msgstr "Kết hợp phím Alt/Ctrl/Shift trái và phải"
 
 msgid "MISCMNU_WINFULLSCREENTOGGLE"
-msgstr ""
+msgstr "Alt-Enter bật/tắt chế độ toàn màn hình"
 
 msgid "MISCMNU_MACFULLSCREENTOGGLE"
-msgstr ""
+msgstr "Lệnh-F bật/tắt chế độ toàn màn hình"
 
 msgid "MISCMNU_ENABLEAUTOSAVES"
-msgstr ""
+msgstr "Bật tính năng tự động lưu"
 
 msgid "MISCMNU_AUTOSAVECOUNT"
-msgstr ""
+msgstr "Số lần tự động lưu"
 
 msgid "MISCMNU_SAVELOADCONFIRMATION"
-msgstr ""
+msgstr "Xác nhận lưu/vào"
 
 msgid "MISCMNU_NOCHEATS"
-msgstr ""
+msgstr "Vô hiệu hóa ăn gian bàn phím"
 
 msgid "MISCMNU_QUICKSAVEROTATION"
-msgstr ""
+msgstr "Lưu nhanh xoay"
 
 msgid "MISCMNU_QUICKSAVECOUNT"
-msgstr ""
+msgstr "Số lần lưu nhanh trong vòng xoay"
 
 msgid "MISCMNU_CLEANMENU"
-msgstr ""
+msgstr "Tỷ lệ thu phóng menu ZDoom cổ điển"
 
 msgid "MISCMNU_PAUSEINBACKGROUND"
-msgstr ""
+msgstr "Tạm dừng trò chơi ở chế độ nền"
 
 msgid "HUDMNU_CROSSHAIR"
-msgstr ""
+msgstr "Tâm ngắm mặc định"
 
 msgid "HUDMNU_CROSSHAIRCOLOR"
-msgstr ""
+msgstr "Màu tâm ngắm"
 
 msgid "HUDMNU_CROSSHAIRSCALE"
-msgstr ""
+msgstr "Tâm ngắm tỷ lệ"
 
 msgid "OPTVAL_YES_STANDARD"
-msgstr ""
+msgstr "Tiêu chuẩn"
 
 msgid "OPTVAL_YES_ENHANCED"
-msgstr ""
+msgstr "Nâng cao"
 
 msgid "OPTMNU_LANGUAGE"
-msgstr ""
+msgstr "Ngôn ngữ"
 
 msgid "TXT_UNDOCHANGES"
-msgstr ""
+msgstr "Hoàn tác thay đổi"
 
 msgid "REVMNU_SELECT"
-msgstr ""
+msgstr "Chọn môi trường"
 
 msgid "REVMNU_TEST"
-msgstr ""
+msgstr "Môi trường thử nghiệm"
 
 msgid "REVMNU_EDIT"
-msgstr ""
+msgstr "Chỉnh sửa môi trường"
 
 msgid "REVMNU_NEW"
-msgstr ""
+msgstr "Môi trường mới"
 
 msgid "REVMNU_REFLECTIONS_SCALE"
 msgstr ""
