@@ -2,189 +2,202 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-08-10 23:42-0400\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-09-08 04:51+0000\n"
+"Last-Translator: TBinhfkl <anhthieufame2021@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/uzdoom/common/vi/>\n"
 "Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: python 3.14.6 polib 1.2.0\n"
+"X-Generator: Weblate 2026.9.1.dev0\n"
 
 msgid "PRESSYN"
 msgstr "Ấn Y hoặc N."
 
 msgid "TXT_YES"
-msgstr ""
+msgstr "Có"
 
 msgid "TXT_NO"
-msgstr ""
+msgstr "Không"
 
 msgid "SAVEDEAD"
 msgstr ""
+"Bạn không thể lưu lại nếu không chơi!\n"
+"\n"
+"Ấn một phím."
 
 msgid "SAFEMESSAGE"
-msgstr ""
+msgstr "Bạn có thực sự muốn làm điều này không?"
 
 msgid "QSPROMPT"
 msgstr ""
+"Lưu nhanh đè lên trò chơi có tên\n"
+"\n"
+"'%s'?\n"
+"\n"
+"Ấn Y hoặc N."
 
 msgid "QLPROMPT"
 msgstr ""
+"Vào nhanh đè lên trò chơi có tên\n"
+"\n"
+"'%s'?\n"
+"\n"
+"Ấn Y hoặc N."
 
 msgid "TXT_X_CHEATS"
 msgstr ""
 
 msgid "TXT_SAY"
-msgstr ""
+msgstr "Nói:"
 
 msgid "TXT_QUITENDOOM"
-msgstr ""
+msgstr "Ấn phím bất kỳ hoặc nhấp chuột vào bất kỳ đâu trong cửa sổ để thoát."
 
 msgid "NEWSAVE"
-msgstr ""
+msgstr "<Lưu trò chơi mới>"
 
 msgid "GGSAVED"
-msgstr ""
+msgstr "Đã lưu trò chơi."
 
 msgid "SAVECOMMENT_TIME"
-msgstr ""
+msgstr "Thời gian"
 
 msgid "MNU_LOADGAME"
-msgstr ""
+msgstr "Vào Game"
 
 msgid "MNU_SAVEGAME"
-msgstr ""
+msgstr "Lưu Game"
 
 msgid "MNU_NOPICTURE"
-msgstr ""
+msgstr "Không có hình ảnh"
 
 msgid "MNU_DIFFVERSION"
-msgstr ""
+msgstr "Phiên bản khác"
 
 msgid "MNU_NOFILES"
-msgstr ""
+msgstr "Không có tệp nào"
 
 msgid "MNU_DELETESG"
-msgstr ""
+msgstr "Bạn thực sự muốn xóa file lưu game này sao?"
 
 msgid "OPTVAL_OFF"
-msgstr ""
+msgstr "Tắt"
 
 msgid "OPTVAL_ON"
-msgstr ""
+msgstr "Bật"
 
 msgid "OPTVAL_AUTO"
-msgstr ""
+msgstr "Tự động"
 
 msgid "OPTMNU_TITLE"
-msgstr ""
+msgstr "Tùy chọn"
 
 msgid "OPTMNU_CONTROLS"
-msgstr ""
+msgstr "Tùy chỉnh điều khiển"
 
 msgid "OPTMNU_MOUSE"
-msgstr ""
+msgstr "Tùy chọn chuột"
 
 msgid "OPTMNU_JOYSTICK"
-msgstr ""
+msgstr "Tùy chọn bộ điều khiển"
 
 msgid "OPTMNU_PLAYER"
-msgstr ""
+msgstr "Thiết lập người chơi"
 
 msgid "OPTMNU_GAMEPLAY"
-msgstr ""
+msgstr "Tùy chọn lối chơi"
 
 msgid "OPTMNU_AUTOMAP"
-msgstr ""
+msgstr "Tùy chọn Automap"
 
 msgid "OPTMNU_HUD"
-msgstr ""
+msgstr "Tùy chọn HUD"
 
 msgid "OPTMNU_MISCELLANEOUS"
-msgstr ""
+msgstr "Các tùy chọn khác"
 
 msgid "OPTMNU_SOUND"
-msgstr ""
+msgstr "Tùy chọn âm thanh"
 
 msgid "ACCMNU_TITLE"
-msgstr ""
+msgstr "Tùy chọn trợ năng"
 
 msgid "OPTMNU_DISPLAY"
-msgstr ""
+msgstr "Tùy chọn hiển thị"
 
 msgid "OPTMNU_VIDEO"
-msgstr ""
+msgstr "Đặt chế độ video"
 
 msgid "OPTMNU_DEFAULTS"
-msgstr ""
+msgstr "Khôi phục về cài đặt mặc định"
 
 msgid "OPTMNU_RESETTOSAVED"
-msgstr ""
+msgstr "Khôi phục về lần lưu cuối cùng"
 
 msgid "OPTMNU_WRITEINI"
-msgstr ""
+msgstr "Lưu cài đặt hiện tại"
 
 msgid "OPTMNU_CONSOLE"
-msgstr ""
+msgstr "Đi tới bảng điều khiển"
 
 msgid "OPTMNU_NETWORK"
-msgstr ""
+msgstr "Tùy chọn mạng"
 
 msgid "OPTMNU_REVERB"
-msgstr ""
+msgstr "Trình chỉnh sửa môi trường Reverb"
 
 msgid "CNTRLMNU_SWITCHTEXT1"
-msgstr ""
+msgstr "ENTER để thay đổi, BACKSPACE để xóa"
 
 msgid "CNTRLMNU_SWITCHTEXT2"
-msgstr ""
+msgstr "Nhấn phím mới để điều khiển, ESC để hủy."
 
 msgid "CNTRLMNU_CONTROLS"
-msgstr ""
+msgstr "Điều khiển"
 
 msgid "CNTRLMNU_ATTACK"
-msgstr ""
+msgstr "Bắn"
 
 msgid "CNTRLMNU_ALTATTACK"
-msgstr ""
+msgstr "Thứ cấp bắn"
 
 msgid "CNTRLMNU_RELOAD"
-msgstr ""
+msgstr "Vũ khí nạp đạn"
 
 msgid "CNTRLMNU_USE"
-msgstr ""
+msgstr "Sử dụng / Mở"
 
 msgid "CNTRLMNU_FORWARD"
-msgstr ""
+msgstr "Di chuyển phía trước"
 
 msgid "CNTRLMNU_BACK"
-msgstr ""
+msgstr "Di chuyển lùi lại"
 
 msgid "CNTRLMNU_MOVELEFT"
-msgstr ""
+msgstr "Di chuyển sang trái"
 
 msgid "CNTRLMNU_MOVERIGHT"
-msgstr ""
+msgstr "Di chuyển sang phải"
 
 msgid "CNTRLMNU_TURNLEFT"
-msgstr ""
+msgstr "Rẽ trái"
 
 msgid "CNTRLMNU_TURNRIGHT"
-msgstr ""
+msgstr "Rẽ phải"
 
 msgid "CNTRLMNU_TURN180"
-msgstr ""
+msgstr "Xoay Nhanh"
 
 msgid "CNTRLMNU_JUMP"
-msgstr ""
+msgstr "Nhảy"
 
 msgid "CNTRLMNU_CROUCH"
-msgstr ""
+msgstr "Ngồi"
 
 msgid "CNTRLMNU_TOGGLECROUCH"
-msgstr ""
+msgstr "Bật/Tắt ngồi"
 
 msgid "CNTRLMNU_MOUSELOOK"
 msgstr ""
