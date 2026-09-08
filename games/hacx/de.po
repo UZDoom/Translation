@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-04 14:51+0000\n"
+"PO-Revision-Date: 2026-09-08 08:51+0000\n"
 "Last-Translator: Tim Richter <jank21976@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/doom-engine-games/hacx-filter/de/>\n"
 "Language: de\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2026.9\n"
+"X-Generator: Weblate 2026.9.1\n"
 
 msgctxt "doom hacx.hacx1"
 msgid "QUITMSG1"
@@ -199,7 +199,7 @@ msgid "OB_MPUZI"
 msgstr "%o wurde von %k im Gangsta-Stil perforiert."
 
 msgid "OB_MPZOOKA"
-msgstr "%o nahm %ks Photonenbombe."
+msgstr "%o fraß %ks Photonenbombe."
 
 msgid "OB_MPZ_SPLASH"
 msgstr "%o wurde von %k zu einem Haufen Photonen verarbeitet."
@@ -246,7 +246,7 @@ msgid "GOTTAZER"
 msgstr "Tazer genommen!"
 
 msgid "GOTCRYOGUN"
-msgstr "Cryowaffe genommen! GEFRIER!"
+msgstr "Cryowaffe genommen! Cool!"
 
 msgid "GOTROUNDS"
 msgstr "Munition genommen!"
@@ -258,7 +258,6 @@ msgstr "Munitionskiste genommen!"
 msgid "GOTTORPEDO"
 msgstr "Torpedo genommen!"
 
-#, fuzzy
 msgid "GOTTORPEDOS"
 msgstr "Torpedokiste genommen!"
 
@@ -450,7 +449,7 @@ msgid "TXT_HACXMAP07"
 msgstr "Die große Mauer"
 
 msgid "TXT_HACXMAP08"
-msgstr "Lustgarten"
+msgstr "Garten der Verwöhnung"
 
 msgid "TXT_HACXMAP09"
 msgstr "Versteckte Festung"
@@ -461,6 +460,7 @@ msgstr "Anarchistentraum"
 msgid "TXT_HACXMAP11"
 msgstr "Notus Uns!"
 
+#, fuzzy
 msgid "TXT_HACXMAP12"
 msgstr "Gothischer Handschuh"
 
@@ -491,10 +491,9 @@ msgstr "Eindringlingsalarm!"
 msgid "TXT_HACXMAP31"
 msgstr "Trocknungsraum"
 
-#, fuzzy
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_CLEV"
-msgstr "Nächster Halt...\n"
+msgstr "Nächster Halt…"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
@@ -586,7 +585,7 @@ msgstr ""
 msgctxt "doom hacx.hacx1"
 msgid "QLPROMPT"
 msgstr ""
-"Möchtest du den Datenstand schnellladen namens\n"
+"Möchtest du den Schnellspielstand benannt haben\n"
 "\n"
 "'%s'?\n"
 "\n"
