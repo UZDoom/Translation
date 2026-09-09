@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-08 09:51+0000\n"
+"PO-Revision-Date: 2026-09-09 03:51+0000\n"
 "Last-Translator: TBinhfkl <anhthieufame2021@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/uzdoom/common/vi/>\n"
 "Language: vi\n"
@@ -1442,34 +1442,34 @@ msgid "REVMNU_NEW"
 msgstr "Môi trường mới"
 
 msgid "REVMNU_REFLECTIONS_SCALE"
-msgstr ""
+msgstr "Thang đo Suy ngẫm"
 
 msgid "REVMNU_REFLECTIONS_DELAY_SCALE"
-msgstr ""
+msgstr "Thang đo Độ trễ Phản xạ"
 
 msgid "REVMNU_DECAY_TIME_SCALE"
-msgstr ""
+msgstr "Thang thời gian phân rã"
 
 msgid "REVMNU_DECAY_HF_LIMIT"
-msgstr ""
+msgstr "Giới hạn HF của sự phân rã"
 
 msgid "REVMNU_REVERB_SCALE"
-msgstr ""
+msgstr "Thang đo độ vang"
 
 msgid "REVMNU_REVERB_DELAY_SCALE"
-msgstr ""
+msgstr "Thang đo Reverb Delay"
 
 msgid "REVMNU_ECHO_TIME_SCALE"
-msgstr ""
+msgstr "Thang thời gian tiếng vang"
 
 msgid "REVMNU_MODULATION_TIME_SCALE"
-msgstr ""
+msgstr "Thang thời gian điều biến"
 
 msgid "REVMNU_BASED_ON"
-msgstr ""
+msgstr "Dựa trên"
 
 msgid "REVMNU_NAME"
-msgstr ""
+msgstr "Tên"
 
 msgid "REVMNU_ID_1"
 msgstr ""
@@ -1478,34 +1478,34 @@ msgid "REVMNU_ID_2"
 msgstr ""
 
 msgid "REVMNU_CREATE"
-msgstr ""
+msgstr "Tạo"
 
 msgid "REVMNU_SAVE"
-msgstr ""
+msgstr "Lưu…"
 
 msgid "REVMNU_FILE_NAME"
-msgstr ""
+msgstr "Tên tệp"
 
 msgid "REVMNU_ENVIRONMENTS_TO_SAVE"
-msgstr ""
+msgstr "Môi trường để lưu"
 
 msgid "DSPLYMNU_VKOPT"
-msgstr ""
+msgstr "Vulkan Tùy chọn (Thử nghiệm)"
 
 msgid "VK_TITLE"
-msgstr ""
+msgstr "Vulkan Tùy chọn"
 
 msgid "VKMNU_DEVICE"
-msgstr ""
+msgstr "Vulkan Thiết bị ID"
 
 msgid "VKMNU_HDR"
-msgstr ""
+msgstr "Dải động cao"
 
 msgid "VK_WARNING"
-msgstr ""
+msgstr "Cảnh báo: Trình kết xuất Vulkan vẫn đang trong giai đoạn thử nghiệm!"
 
 msgid "VK_RESTART"
-msgstr ""
+msgstr "Các tùy chọn này sẽ yêu cầu khởi động lại để có hiệu lực."
 
 msgid "OPTVAL_SCALENX"
 msgstr ""
@@ -1526,229 +1526,301 @@ msgid "OPTVAL_OLD_NXBRZ"
 msgstr ""
 
 msgid "OS_TITLE"
-msgstr ""
+msgstr "Tìm kiếm tùy chọn"
 
 msgid "OS_ANY"
-msgstr ""
+msgstr "Tìm kiếm bất kỳ thuật ngữ nào"
 
 msgid "OS_ALL"
-msgstr ""
+msgstr "Tìm kiếm tất cả các thuật ngữ"
 
 msgid "OS_NO_RESULTS"
-msgstr ""
+msgstr "Không tìm thấy kết quả nào."
 
 msgid "OS_LABEL"
-msgstr ""
+msgstr "Tìm kiếm:"
 
 msgid "OPTMNU_FULLOPTIONS"
-msgstr ""
+msgstr "Menu tùy chọn đầy đủ"
 
 msgid "OPTMNU_SIMPLEON"
-msgstr ""
+msgstr "Menu tùy chọn đơn giản"
 
 msgid "OPTMNU_OPENCONFIG"
-msgstr ""
+msgstr "Duyệt cấu hình trò chơi"
 
 msgid "OPTMNU_OPENSCREENSHOTS"
-msgstr ""
+msgstr "Duyệt ảnh chụp màn hình"
 
 msgid "OPTMNU_OPENSAVES"
-msgstr ""
+msgstr "Duyệt các trò chơi đã lưu"
 
 msgid "MOUSEMNU_SWAPBUTTONS"
-msgstr ""
+msgstr "Hoán đổi nút chuột"
 
 msgid "OPTVAL_ONLYMODIFIED"
-msgstr ""
+msgstr "Chỉ sửa đổi"
 
 msgid "TXT_UNKNOWN"
-msgstr ""
+msgstr "Không xác định"
 
 msgid "TXT_SAVEGAMENEEDS"
-msgstr ""
+msgstr "Tệp lưu trò chơi này cần các tệp sau"
 
 msgid "GLPREFMNU_CORONAS"
 msgstr ""
 
 msgid "PICKER_SELECT"
-msgstr ""
+msgstr "Chọn tệp trò chơi để chạy."
 
 msgid "PICKER_PLAY"
-msgstr ""
+msgstr "Bắt đầu game"
 
 msgid "PICKER_EXIT"
-msgstr ""
+msgstr "Thoát"
 
 msgid "PICKER_GENERAL"
-msgstr ""
+msgstr "Chung"
 
 msgid "PICKER_EXTRA"
-msgstr ""
+msgstr "Đồ họa bổ sung"
 
 msgid "PICKER_NOAUTOLOAD"
-msgstr ""
+msgstr "Vô hiệu hóa tự động vào"
 
 msgid "PICKER_DONTASK"
-msgstr ""
+msgstr "Đừng hỏi tôi lần nữa"
 
 msgid "PICKER_LIGHTS"
-msgstr ""
+msgstr "Sáng"
 
 msgid "PICKER_BRIGHTMAPS"
-msgstr ""
+msgstr "Bản đồ sáng"
 
 msgid "PICKER_WIDESCREEN"
-msgstr ""
+msgstr "Màn hình rộng"
 
 msgid "PICKER_ADDPARM"
-msgstr ""
+msgstr "Các tham số bổ sung:"
 
 msgid "PICKER_WELCOME"
-msgstr ""
+msgstr "Chào mừng đến với %s!"
 
 msgid "PICKER_VERSION"
-msgstr ""
+msgstr "Phiên bản %s"
 
 msgid "PICKER_PREFERBACKEND"
-msgstr ""
+msgstr "API kết xuất"
 
 msgid "PICKER_TAB_PLAY"
-msgstr ""
+msgstr "Trò chơi"
 
 msgid "JOYMNU_JOYENABLE"
-msgstr ""
+msgstr "Bật bộ điều khiển này"
 
 msgid "CNTRLMNU_OPEN_MAIN"
-msgstr ""
+msgstr "Mở menu chính"
 
 msgid "MODMNU_REPLAYER"
-msgstr ""
+msgstr "Module người chơi lại"
 
 msgid "JOYMNU_JOYENABLEINBACKGROUND"
-msgstr ""
+msgstr "Cho phép đầu vào của bộ điều khiển nền"
 
 msgid "MISCMNU_SAVEORDER"
-msgstr ""
+msgstr "Thứ tự sắp xếp lưu trò chơi"
 
 msgid "OPTVAL_ALPHABETICAL"
 msgstr ""
 
 msgid "OPTVAL_LASTSAVEDTIME"
-msgstr ""
+msgstr "Thời gian lưu lần cuối"
 
 msgid "PICKER_PLAYHOST"
-msgstr ""
+msgstr "Trò chơi máy chủ"
 
 msgid "PICKER_PLAYJOIN"
-msgstr ""
+msgstr "Tham gia trò chơi"
 
 msgid "PICKER_REMPARM"
-msgstr ""
+msgstr "Ghi nhớ tham số"
 
 msgid "PICKER_SUPPORTWADS"
-msgstr ""
+msgstr "Hỗ trợ vào WADs"
 
 msgid "PICKER_TAB_MULTI"
-msgstr ""
+msgstr "Nhiều người chơi"
 
 msgid "PICKER_LOADSAVE"
-msgstr ""
+msgstr "Vào tệp lưu:"
 
 msgid "PICKER_REMSAVE"
-msgstr ""
+msgstr "Ghi nhớ tệp đã lưu"
 
 msgid "PICKER_HOST"
-msgstr ""
+msgstr "Máy chủ"
 
 msgid "PICKER_JOIN"
-msgstr ""
+msgstr "Tham gia"
 
 msgid "PICKER_NETRATE"
-msgstr ""
+msgstr "Gói Ticrate:"
 
 msgid "PICKER_NETBACKUP"
-msgstr ""
+msgstr "Gửi các gói tin dự phòng"
 
 msgid "PICKER_GAMEMODE"
-msgstr ""
+msgstr "Chế độ chơi:"
 
 msgid "PICKER_COOP"
 msgstr ""
 
 msgid "PICKER_DM"
-msgstr ""
+msgstr "Tử chiến"
 
 msgid "PICKER_TDM"
-msgstr ""
+msgstr "Đấu Đội Tử Chiến"
 
 msgid "PICKER_TEAM"
-msgstr ""
+msgstr "Đội #:"
 
 msgid "PICKER_ALTDM"
-msgstr ""
+msgstr "Sử dụng luật Deathmatch thay thế"
 
 msgid "PICKER_PLAYERS"
-msgstr ""
+msgstr "Người chơi tối đa:"
 
 msgid "PICKER_PORT"
-msgstr ""
+msgstr "Cổng máy chủ:"
 
 msgid "PICKER_PLAYERHINT"
-msgstr ""
+msgstr "Tối đa 64"
 
 msgid "PICKER_PORTHINT"
-msgstr ""
+msgstr "Mặc định 5029"
 
 msgid "PICKER_TEAMHINT"
-msgstr ""
+msgstr "255 = Ngẫu nhiên"
 
 msgid "PICKER_IP"
-msgstr ""
+msgstr "IP máy chủ:"
 
 msgid "PICKER_TDMLABEL"
-msgstr ""
+msgstr "Đấu Đội:"
 
 msgid "TXT_SAYTEAM"
-msgstr ""
+msgstr "Nói (Đội):"
 
 msgid "MISCMNU_DISCORDRPC"
-msgstr ""
+msgstr "Sự hiện diện phong phú Discord"
 
 msgid "JOYMNU_TURNSPEED"
-msgstr ""
+msgstr "Tốc độ quay"
 
 msgid "JOYMNU_LOOKSPEED"
-msgstr ""
+msgstr "Tốc độ nhìn"
 
 msgid "JOYMNU_ANALOGSTRAFERUN"
-msgstr ""
+msgstr "Chạy né tránh tương tự"
 
 msgid "NOTES_FAIL"
-msgstr ""
+msgstr "Không thể phân tích ghi chú phát hành"
 
 msgid "NOTES_UNKNOWN"
-msgstr ""
+msgstr "Không xác định"
 
 msgid "NOTES_RELEASED"
-msgstr ""
+msgstr "%s phiên bản %s, phát hành ngày %s"
 
 msgid "NOTES_EMPTY"
-msgstr ""
+msgstr "Không có mô tả được cung cấp."
 
 msgid "NOTES_DETAILS"
-msgstr ""
+msgstr "Để biết thêm chi tiết, xem: %s"
 
 msgid "PICKER_SHOWTHIS"
-msgstr ""
+msgstr "Hiển thị trang này sau khi cập nhật"
 
 msgid "PICKER_SHOWNOTES"
-msgstr ""
+msgstr "Hiển thị ghi chú phát hành"
 
 msgid "PICKER_TAB_ABOUT"
-msgstr ""
+msgstr "Về"
 
 msgid "PICKER_TAB_RELEASE"
-msgstr ""
+msgstr "Ghi chú phát hành"
 
 msgid "MSGMNU_MESSAGEFADE"
 msgstr "Thời gian làm mờ tin nhắn"
+
+msgid "REVMNU_ENVIRONMENT_SIZE"
+msgstr "Kích thước môi trường"
+
+msgid "REVMNU_ENVIRONMENT_DIFFUSION"
+msgstr "Khuếch tán môi trường"
+
+msgid "REVMNU_ROOM"
+msgstr "Phòng"
+
+msgid "REVMNU_ROOM_HF"
+msgstr "Phòng HF"
+
+msgid "REVMNU_ROOM_LF"
+msgstr "Phòng LF"
+
+msgid "REVMNU_DECAY_TIME"
+msgstr "Thời gian phân rã"
+
+msgid "REVMNU_DECAY_HF_RATIO"
+msgstr "Tỷ lệ HF suy giảm"
+
+msgid "REVMNU_DECAY_LF_RATIO"
+msgstr "Tỷ lệ LF suy giảm"
+
+msgid "REVMNU_REFLECTIONS"
+msgstr "Những suy ngẫm"
+
+msgid "REVMNU_REFLECTIONS_DELAY"
+msgstr "Độ trễ phản xạ"
+
+msgid "REVMNU_REFLECTIONS_PAN_X"
+msgstr "Suy ngẫm Pan X"
+
+msgid "REVMNU_REFLECTIONS_PAN_Y"
+msgstr "Suy ngẫm Pan Y"
+
+msgid "REVMNU_REFLECTIONS_PAN_Z"
+msgstr "Suy ngẫm Pan Z"
+
+msgid "REVMNU_REVERB"
+msgstr "Âm vang"
+
+msgid "REVMNU_ECHO_TIME"
+msgstr "Tiếng vang thời gian"
+
+msgid "REVMNU_ECHO_DEPTH"
+msgstr "Độ sâu tiếng vang"
+
+msgid "REVMNU_MODULATION_TIME"
+msgstr "Thời gian điều chế"
+
+msgid "REVMNU_MODULATION_DEPTH"
+msgstr "Độ sâu điều biến"
+
+msgid "REVMNU_AIR_ABSORPTION_HF"
+msgstr "Hấp thụ không khí HF"
+
+msgid "REVMNU_HF_REFERENCE"
+msgstr "Tham chiếu HF"
+
+msgid "REVMNU_LF_REFERENCE"
+msgstr "Tham chiếu LF"
+
+msgid "REVMNU_ROOM_ROLLOFF_FACTOR"
+msgstr "Hệ số rolloff suy giảm phòng"
+
+msgid "REVMNU_DIFFUSION"
+msgstr "Khuếch tán"
+
+msgid "REVMNU_DENSITY"
+msgstr "Density"
