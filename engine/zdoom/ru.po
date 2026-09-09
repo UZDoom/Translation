@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-06 20:52+0000\n"
-"Last-Translator: Tim Richter <jank21976@gmail.com>\n"
+"PO-Revision-Date: 2026-09-07 06:51+0000\n"
+"Last-Translator: Andrei Stepanov <adem4ik@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -201,7 +201,6 @@ msgstr ""
 "Не выходи сейчас! Здесь есть\n"
 "ещё много флемоидов!"
 
-#, fuzzy
 msgid "QUITMSG24"
 msgstr ""
 "Не сдавайся — не то флемоиды\n"
@@ -319,9 +318,8 @@ msgstr "Все ключи"
 msgid "TXT_CHEATIDDQD"
 msgstr "Жульничаешь, э? Так умри!"
 
-#, fuzzy
 msgid "TXT_CHEATIDKFA"
-msgstr "Жулик—ты не заслуживаешь оружия"
+msgstr "Жулик — ты не заслуживаешь оружия"
 
 msgid "TXT_CHEATARTIFACTS3"
 msgstr "Вы получили это"
@@ -3235,9 +3233,8 @@ msgstr "Обратить порядок сортировки спрайтов"
 msgid "CMPTMNU_SOUNDBEHAVIOR"
 msgstr "Поведение звуков"
 
-#, fuzzy
 msgid "CMPTMNU_SOUNDSLOTS"
-msgstr "Ограничить звуки ради трюка бесшумной BFG"
+msgstr "Ограничить звуковые возможности для бесшумного трюка с BFG"
 
 msgid "CMPTMNU_SILENTPICKUP"
 msgstr "Запрещать другим слышать звук подбора предметов"

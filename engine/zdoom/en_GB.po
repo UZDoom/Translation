@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-06 20:51+0000\n"
+"PO-Revision-Date: 2026-09-08 09:51+0000\n"
 "Last-Translator: Tim Richter <jank21976@gmail.com>\n"
 "Language-Team: English (United Kingdom) <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/en_GB/>\n"
 "Language: en_GB\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2026.9.1.dev0\n"
+"X-Generator: Weblate 2026.9.1\n"
 
 msgid "PRESSKEY"
 msgstr "Press a key."
@@ -95,10 +95,9 @@ msgstr ""
 "Please don't leave, there's more\n"
 "demons to toast!"
 
-#, fuzzy
 msgid "QUITMSG2"
 msgstr ""
-"Let's beat it—this is turning\n"
+"Let's beat it — this is turning\n"
 "into a bloodbath!"
 
 msgid "QUITMSG3"
@@ -111,10 +110,9 @@ msgstr ""
 "You're trying to say you like DOS\n"
 "better than me, right?"
 
-#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
-"Don't leave yet—there's a\n"
+"Don't leave yet — there's a\n"
 "demon around that corner!"
 
 msgid "QUITMSG6"
@@ -174,11 +172,10 @@ msgstr ""
 "Carnage interruptus…\n"
 "What a tease!"
 
-#, fuzzy
 msgid "QUITMSG17"
 msgstr ""
 "But you're the hope\n"
-"—my only chance!!"
+"— my only chance!!"
 
 msgid "QUITMSG18"
 msgstr "Nobody walks out on Blackbird."
@@ -204,10 +201,9 @@ msgstr ""
 "Don't quit now, there are still\n"
 "flemoids on the loose!"
 
-#, fuzzy
 msgid "QUITMSG24"
 msgstr ""
-"Don't give up—the flemoids will\n"
+"Don't give up — the flemoids will\n"
 "get the upper hand!"
 
 msgid "QUITMSG25"
@@ -321,9 +317,8 @@ msgstr "All keys"
 msgid "TXT_CHEATIDDQD"
 msgstr "Trying to cheat, eh? Now you die!"
 
-#, fuzzy
 msgid "TXT_CHEATIDKFA"
-msgstr "Cheater—you don't deserve weapons"
+msgstr "Cheater — you don't deserve weapons"
 
 msgid "TXT_CHEATARTIFACTS3"
 msgstr "You've got it"
@@ -2689,10 +2684,9 @@ msgstr "Wonderful Job!"
 msgid "CE4TEXT"
 msgstr "Fantastic"
 
-#, fuzzy
 msgid "CLOADNET"
 msgstr ""
-"You can't do load while in a net quest!\n"
+"You can't load a savegame while in a net quest!\n"
 "\n"
 "Press a key."
 
@@ -3237,9 +3231,8 @@ msgstr "Invert sprite sorting"
 msgid "CMPTMNU_SOUNDBEHAVIOR"
 msgstr "Sound Behaviour"
 
-#, fuzzy
 msgid "CMPTMNU_SOUNDSLOTS"
-msgstr "Cripple sound for silent BFG trick"
+msgstr "Limit sound capabilities for silent BFG trick"
 
 msgid "CMPTMNU_SILENTPICKUP"
 msgstr "Don't let others hear your pickups"
@@ -5372,3 +5365,39 @@ msgstr "Invincible Mode: {ON|OFF}"
 
 msgid "MSG{ON|OFF}"
 msgstr "Messages: {ON|OFF}"
+
+msgid "UPDATER_CHECK_FOR_UPDATES"
+msgstr "Check for Updates"
+
+msgid "UPDATER_PROMPT_TO_INSTALL"
+msgstr "Prompt to install"
+
+msgid "UPDATER_SETTINGS"
+msgstr "Updater Settings"
+
+msgid "UPDATER_INTERVAL"
+msgstr "Check every:"
+
+msgid "UPDATER_UPDATE_AVAILABLE"
+msgstr "New Update Available"
+
+msgid "UPDATER_UPDATE_SKIP"
+msgstr "Skip Update"
+
+msgid "UPDATER_TITLE"
+msgstr "Update Checker"
+
+msgid "UPDATER_DISABLE"
+msgstr "Disable Update Checker"
+
+msgid "UPDATER_CHECK_FAILED"
+msgstr "Checking for Update Failed"
+
+msgid "UPDATER_UPDATE_FAILED"
+msgstr "Update Failed"
+
+msgid "UPDATER_YES_PROMPT"
+msgstr "Yes, and prompt to install updates"
+
+msgid "UPDATER_DISMISS_UPDATE"
+msgstr "Dismiss Update?"
