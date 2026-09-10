@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-09 03:51+0000\n"
+"PO-Revision-Date: 2026-09-10 04:51+0000\n"
 "Last-Translator: TBinhfkl <anhthieufame2021@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/uzdoom/common/vi/>\n"
 "Language: vi\n"
@@ -16,7 +16,7 @@ msgid "PRESSYN"
 msgstr "Ấn Y hoặc N."
 
 msgid "TXT_YES"
-msgstr "Có"
+msgstr "Yes"
 
 msgid "TXT_NO"
 msgstr "Không"
