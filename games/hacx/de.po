@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-10 11:51+0000\n"
+"PO-Revision-Date: 2026-09-10 18:51+0000\n"
 "Last-Translator: Tim Richter <jank21976@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/doom-engine-games/hacx-filter/de/>\n"
 "Language: de\n"
@@ -227,7 +227,7 @@ msgid "OB_DEFAULT"
 msgstr "%o hörte spontan auf zu existieren."
 
 msgid "GOTNUKER"
-msgstr "Ein NUKER! Erstick daran!"
+msgstr "Ein NUKER! Erstickt daran!"
 
 msgid "GOTUZI"
 msgstr "UZI genommen!"
@@ -330,7 +330,7 @@ msgid "GOTKEVLARVEST"
 msgstr "Kevlarweste genommen!"
 
 msgid "GOTSKEVLARVEST"
-msgstr "Super-Kevlarweste genommen!"
+msgstr "Super Kevlarweste genommen!"
 
 msgid "GOTMICROKIT"
 msgstr "MicroKit genommen!"
@@ -445,7 +445,7 @@ msgid "TXT_HACXMAP07"
 msgstr "Die große Mauer"
 
 msgid "TXT_HACXMAP08"
-msgstr "Garten der Verwöhnung"
+msgstr "Garten des Entzückens"
 
 msgid "TXT_HACXMAP09"
 msgstr "Versteckte Festung"
@@ -454,7 +454,7 @@ msgid "TXT_HACXMAP10"
 msgstr "Anarchistentraum"
 
 msgid "TXT_HACXMAP11"
-msgstr "Notus Uns!"
+msgstr "Notus Us!"
 
 msgid "TXT_HACXMAP12"
 msgstr "Gothischer Spießrutenlauf"
@@ -602,7 +602,7 @@ msgid "CC_DMAN"
 msgstr "D-Mann"
 
 msgid "CC_PHAGE"
-msgstr "Bakteriophage"
+msgstr "Phage"
 
 msgid "CC_MONSTRUCT"
 msgstr "Monstrukt"
@@ -625,7 +625,7 @@ msgstr "Dan Evanger"
 
 msgctxt "doom hacx.hacx1"
 msgid "SKILL_BABY"
-msgstr "Bitte schieß nicht!"
+msgstr "Bitte nicht schießen!"
 
 msgctxt "doom hacx.hacx1"
 msgid "SKILL_EASY"
