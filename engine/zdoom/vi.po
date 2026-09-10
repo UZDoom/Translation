@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-09 07:51+0000\n"
+"PO-Revision-Date: 2026-09-10 04:51+0000\n"
 "Last-Translator: TBinhfkl <anhthieufame2021@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/vi/>\n"
 "Language: vi\n"
@@ -374,25 +374,25 @@ msgid "TXT_TIMELIMIT"
 msgstr ""
 
 msgid "SPREEKILLSELF"
-msgstr ""
+msgstr "%o trông có vẻ ổn cho đến khi %g tự kết liễu đời mình!"
 
 msgid "SPREEOVER"
-msgstr ""
+msgstr "Cuộc tàn sát của %o đã bị %k chấm dứt"
 
 msgid "SPREE5"
-msgstr ""
+msgstr "%k đang có chuỗi hạ gục liên tiếp!"
 
 msgid "SPREE10"
-msgstr ""
+msgstr "%k đang nổi cơn thịnh nộ!"
 
 msgid "SPREE15"
-msgstr ""
+msgstr "%k đang thống trị!"
 
 msgid "SPREE20"
-msgstr ""
+msgstr "%k không thể ngăn cản!"
 
 msgid "SPREE25"
-msgstr ""
+msgstr "%k thật thần thánh!"
 
 msgid "MULTI2"
 msgstr ""
@@ -407,16 +407,16 @@ msgid "MULTI5"
 msgstr ""
 
 msgid "SCORE_BONUS"
-msgstr ""
+msgstr "Tiền thưởng"
 
 msgid "SCORE_COLOR"
-msgstr ""
+msgstr "Màu sắc"
 
 msgid "SCORE_SECRET"
-msgstr ""
+msgstr "Bí mật"
 
 msgid "SCORE_NAME"
-msgstr ""
+msgstr "Tên"
 
 msgid "SCORE_DELAY"
 msgstr ""
@@ -428,155 +428,155 @@ msgid "SCORE_DEATHS"
 msgstr ""
 
 msgid "SCORE_OTHER"
-msgstr ""
+msgstr "Khác"
 
 msgid "SCORE_MISSED"
 msgstr ""
 
 msgid "SCORE_TOTAL"
-msgstr ""
+msgstr "Tổng cộng"
 
 msgid "SCORE_LVLTIME"
-msgstr ""
+msgstr "Thời gian cấp độ"
 
 msgid "TXT_IMKILLS"
 msgstr ""
 
 msgid "TXT_IMITEMS"
-msgstr ""
+msgstr "Vật phẩm"
 
 msgid "TXT_IMSECRETS"
-msgstr ""
+msgstr "Những bí mật"
 
 msgid "TXT_IMTIME"
-msgstr ""
+msgstr "Thời gian"
 
 msgid "TXT_IMPAR"
 msgstr ""
 
 msgid "WI_FINISHED"
-msgstr ""
+msgstr "Hoàn thành"
 
 msgid "WI_ENTERING"
-msgstr ""
+msgstr "Đang vào"
 
 msgctxt "heretic hexen"
 msgid "WI_ENTERING"
-msgstr ""
+msgstr "Bắt đầu bước vào:"
 
 msgid "AM_MONSTERS"
-msgstr ""
+msgstr "Quái vật:"
 
 msgid "AM_SECRETS"
-msgstr ""
+msgstr "Những bí mật:"
 
 msgid "AM_ITEMS"
-msgstr ""
+msgstr "Vật phẩm:"
 
 msgid "OB_SUICIDE"
-msgstr ""
+msgstr "%o vụ tự tử."
 
 msgid "OB_FALLING"
-msgstr ""
+msgstr "%o đã giảm quá sâu."
 
 msgid "OB_CRUSH"
-msgstr ""
+msgstr "%o đã bị ép bẹp."
 
 msgid "OB_EXIT"
-msgstr ""
+msgstr "%o đã cố gắng rời đi."
 
 msgid "OB_WATER"
-msgstr ""
+msgstr "%o không biết bơi."
 
 msgid "OB_SLIME"
-msgstr ""
+msgstr "%o đã đột biến."
 
 msgid "OB_LAVA"
-msgstr ""
+msgstr "%o đã tan chảy."
 
 msgid "OB_BARREL"
-msgstr ""
+msgstr "%o đã nổ tung."
 
 msgid "OB_SPLASH"
-msgstr ""
+msgstr "%o đã đứng sai chỗ."
 
 msgid "OB_R_SPLASH"
-msgstr ""
+msgstr "Lẽ ra %o nên lùi lại."
 
 msgid "OB_ROCKET"
-msgstr ""
+msgstr "Lẽ ra %o nên lùi lại."
 
 msgid "OB_KILLEDSELF"
-msgstr ""
+msgstr "%o đã tự sát."
 
 msgid "OB_VOODOO"
-msgstr ""
+msgstr "%o đã bị giết bởi sức mạnh của tà thuật voodoo."
 
 msgid "OB_MPTELEFRAG"
-msgstr ""
+msgstr "%o đã bị %k tiêu diệt bằng cách dịch chuyển đè lên người."
 
 msgid "OB_MONTELEFRAG"
-msgstr ""
+msgstr "%o đã bị dịch chuyển tức thời."
 
 msgid "OB_DEFAULT"
-msgstr ""
+msgstr "%o đã qua đời."
 
 msgid "OB_MPDEFAULT"
-msgstr ""
+msgstr "%o đã bị %k giết."
 
 msgid "OB_FRIENDLY1"
-msgstr ""
+msgstr "%k càn quét một đồng đội."
 
 msgid "OB_FRIENDLY2"
-msgstr ""
+msgstr "Có vẻ như %k cần đeo kính."
 
 msgid "OB_FRIENDLY3"
-msgstr ""
+msgstr "%k ghi điểm hạ gục cho đội đối phương."
 
 msgid "OB_FRIENDLY4"
-msgstr ""
+msgstr "%k lại mất thêm một người bạn nữa."
 
 msgid "GOTARMOR"
-msgstr ""
+msgstr "Đã lấy được bộ giáp."
 
 msgid "GOTMEGA"
-msgstr ""
+msgstr "Đã lấy được MegaArmor!"
 
 msgid "GOTHTHBONUS"
-msgstr ""
+msgstr "Đã lấy được thưởng máu."
 
 msgid "GOTARMBONUS"
-msgstr ""
+msgstr "Đã lấy được một thưởng giáp."
 
 msgid "GOTSTIM"
-msgstr ""
+msgstr "Đã lấy được một stimpack."
 
 msgid "GOTMEDINEED"
-msgstr ""
+msgstr "Đã lấy được một bộ cứu thương mà bạn THỰC SỰ cần!"
 
 msgid "GOTMEDIKIT"
-msgstr ""
+msgstr "Đã lấy được một bộ cứu thương."
 
 msgid "GOTSUPER"
 msgstr ""
 
 msgid "GOTBLUECARD"
-msgstr ""
+msgstr "Đã lấy được thẻ từ màu xanh dương."
 
 msgid "GOTYELWCARD"
-msgstr ""
+msgstr "Đã lấy được thẻ từ màu vàng."
 
 msgid "GOTREDCARD"
-msgstr ""
+msgstr "Đã lấy được thẻ từ màu đỏ."
 
 msgid "GOTBLUESKUL"
-msgstr ""
+msgstr "Đã lấy được một chiếc đầu lâu màu xanh dương."
 
 msgid "GOTYELWSKUL"
-msgstr ""
+msgstr "Đã lấy được một chiếc đầu lâu màu vàng."
 
 msgid "GOTREDSKUL"
-msgstr ""
+msgstr "Đã lấy được một chiếc đầu lâu màu đỏ."
 
 msgid "GOTINVUL"
 msgstr ""
@@ -585,40 +585,40 @@ msgid "GOTBERSERK"
 msgstr ""
 
 msgid "GOTINVIS"
-msgstr ""
+msgstr "Tàng hình một phần"
 
 msgid "GOTSUIT"
-msgstr ""
+msgstr "Bộ đồ che chắn bức xạ"
 
 msgid "GOTMAP"
-msgstr ""
+msgstr "Bản đồ khu vực máy tính"
 
 msgid "GOTVISOR"
-msgstr ""
+msgstr "Kính khuếch đại ánh sáng"
 
 msgid "GOTMSPHERE"
 msgstr ""
 
 msgid "GOTCLIP"
-msgstr ""
+msgstr "Đã lấy được một clip."
 
 msgid "GOTCLIPBOX"
-msgstr ""
+msgstr "Đã lấy được một hộp đạn."
 
 msgid "GOTROCKET"
-msgstr ""
+msgstr "Đã lấy được một hỏa tiễn."
 
 msgid "GOTROCKBOX"
-msgstr ""
+msgstr "Đã lấy được một hộp hỏa tiễn."
 
 msgid "GOTCELL"
-msgstr ""
+msgstr "Đã lấy được một tế bào năng lượng."
 
 msgid "GOTCELLBOX"
-msgstr ""
+msgstr "Đã lấy được một đóng gói tế bào năng lượng."
 
 msgid "GOTSHELLS"
-msgstr ""
+msgstr "Đã lấy được 4 viên đạn shotgun."
 
 msgid "GOTSHELLBOX"
 msgstr ""
