@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-12 19:51+0000\n"
+"PO-Revision-Date: 2026-09-12 21:51+0000\n"
 "Last-Translator: Skyler Shirra <skyler.shirra@gmail.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/eo/>\n"
 "Language: eo\n"
@@ -5426,12 +5426,12 @@ msgstr "Ĉu ignori ĝisdatigon?"
 msgid "UPDATER_ASK_AUTO"
 msgstr ""
 "Ĉu vi ŝatus aŭtomate kontroli por trovi ĝisdatigojn?\n"
-"(Ĉi tiu elekto povas esti ŝangita poste en la langeto de agordoj)"
+"(ĉi tiu elekto povas esti ŝangita poste en la langeto de agordoj)"
 
 msgid "UPDATER_ASK_INTERVAL"
 msgstr ""
 "Kiom ofte vi ŝatus kontroli por trovi ĝisdatigojn?\n"
-"(Ĉi tiu elekto povas esti ŝangita poste en la langeto de agordoj)"
+"(ĉi tiu elekto povas esti ŝangita poste en la langeto de agordoj)"
 
 msgid "UPDATER_ZIP_FAIL"
 msgstr "Malsukcesis malfermi ZIP-dosieron"
@@ -5453,3 +5453,33 @@ msgstr "Ĝisdate!"
 
 msgid "UPDATER_CANCELLED"
 msgstr "Ĝisdatigo estis nuligita"
+
+msgid "UPDATER_INVALID_JSON"
+msgstr "Nevalida ĝisdatiga JSON-dosiero"
+
+msgid "CNTRLMNU_ADJUST_LIGHTS"
+msgstr "Ĝustigo de lumigo"
+
+msgid "OPTVAL_DIRECTMIX"
+msgstr "Senpera mikso"
+
+msgid "OPTVAL_SUPERSTEREO"
+msgstr "Super-stereofonia"
+
+msgid "OPENALMNU_MUSICMODE"
+msgstr "Musika reĝimo"
+
+msgid "OPENALMNU_SUPERSTEREOWIDTH"
+msgstr "Larĝeco de super-stereofonio"
+
+msgid "HUDMNU_CROSSHAIRCOLORFULL"
+msgstr "Retetokoloro ĉe plena sano"
+
+msgid "HUDMNU_CROSSHAIRCOLORMAX"
+msgstr "Retetokoloro ĉe maksimuma sano"
+
+msgid "HUDMNU_CROSSHAIRCOLORS"
+msgstr "Dinamikaj retetokoloroj"
+
+msgid "HUDMNU_CROSSHAIRYOFFSET"
+msgstr "Vertikala deŝovo de reteto"
