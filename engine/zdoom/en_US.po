@@ -4470,8 +4470,24 @@ msgid "AUTOMAPMNU_SHOWTHINGSPRITES"
 msgstr "Show things as sprites"
 
 #, fuzzy
-msgid "AUTOMAPMNU_SHOWSEENTHINGS"
-msgstr "Show things when seen"
+msgid "AUTOMAPMNU_SHOWSEENITEMS"
+msgstr "Show items"
+
+#, fuzzy
+msgid "AUTOMAPMNU_SHOWSEENMONSTERS"
+msgstr "Show monsters"
+
+#, fuzzy
+msgid "AUTOMAPMNU_SHOWSEENCORPSES"
+msgstr "Show corpses"
+
+#, fuzzy
+msgid "AUTOMAPMNU_SHOWSEENFRIENDLIES"
+msgstr "Show friendly characters"
+
+#, fuzzy
+msgid "AUTOMAPMNU_SHOWSEENDECORATIONS"
+msgstr "Show decorations"
 
 #, fuzzy
 msgid "AUTOMAPMNU_PTOVERLAY"
