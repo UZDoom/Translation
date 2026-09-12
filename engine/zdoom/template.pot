@@ -3432,6 +3432,9 @@ msgstr ""
 msgid "AUTOMAPMNU_SHOWMAPLABEL"
 msgstr ""
 
+msgid "AUTOMAPMNU_MATCHSTATUSBAR"
+msgstr ""
+
 msgid "AUTOMAPMNU_DRAWMAPBACK"
 msgstr ""
 
