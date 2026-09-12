@@ -4454,6 +4454,10 @@ msgid "AUTOMAPMNU_SHOWMAPLABEL"
 msgstr "Show map label"
 
 #, fuzzy
+msgid "AUTOMAPMNU_MATCHSTATUSBAR"
+msgstr "Match HUD Statusbar"
+
+#, fuzzy
 msgid "AUTOMAPMNU_DRAWMAPBACK"
 msgstr "Draw map background"
 

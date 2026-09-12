@@ -3528,6 +3528,9 @@ msgstr "Show secrets on map"
 msgid "AUTOMAPMNU_SHOWMAPLABEL"
 msgstr "Show map label"
 
+msgid "AUTOMAPMNU_MATCHSTATUSBAR"
+msgstr "Match HUD Statusbar"
+
 msgid "AUTOMAPMNU_DRAWMAPBACK"
 msgstr "Draw map background"
 
