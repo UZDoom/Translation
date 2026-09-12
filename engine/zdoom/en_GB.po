@@ -3540,8 +3540,20 @@ msgstr "Show trigger lines"
 msgid "AUTOMAPMNU_SHOWTHINGSPRITES"
 msgstr "Show things as sprites"
 
-msgid "AUTOMAPMNU_SHOWSEENTHINGS"
-msgstr "Show things when seen"
+msgid "AUTOMAPMNU_SHOWSEENITEMS"
+msgstr "Show items"
+
+msgid "AUTOMAPMNU_SHOWSEENMONSTERS"
+msgstr "Show monsters"
+
+msgid "AUTOMAPMNU_SHOWSEENCORPSES"
+msgstr "Show corpses"
+
+msgid "AUTOMAPMNU_SHOWSEENFRIENDLIES"
+msgstr "Show friendly characters"
+
+msgid "AUTOMAPMNU_SHOWSEENDECORATIONS"
+msgstr "Show decorations"
 
 msgid "AUTOMAPMNU_PTOVERLAY"
 msgstr "Overlay portals"
