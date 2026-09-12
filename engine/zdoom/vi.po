@@ -2,15 +2,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-10 04:51+0000\n"
-"Last-Translator: TBinhfkl <anhthieufame2021@gmail.com>\n"
+"PO-Revision-Date: 2026-09-12 17:30+0000\n"
+"Last-Translator: Automatic translation add-on <noreply-addon-autotranslate@weblate.org>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/vi/>\n"
 "Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2026.9.1\n"
+"X-Generator: Weblate 2026.10.dev0\n"
 
 msgid "PRESSKEY"
 msgstr "Nhấn một phím."
@@ -2713,7 +2713,7 @@ msgid "MNU_NEWGAME"
 msgstr ""
 
 msgid "MNU_OPTIONS"
-msgstr ""
+msgstr "Tùy chọn"
 
 msgid "MNU_GAMEFILES"
 msgstr ""
@@ -2722,7 +2722,7 @@ msgid "MNU_INFO"
 msgstr ""
 
 msgid "MNU_QUITGAME"
-msgstr ""
+msgstr "Thoát Game"
 
 msgid "MNU_CHOOSESKILL"
 msgstr ""
@@ -3194,13 +3194,13 @@ msgid "CMPTMNU_EXPLODE2"
 msgstr ""
 
 msgid "PLYRMNU_RED"
-msgstr ""
+msgstr "Màu đỏ"
 
 msgid "PLYRMNU_GREEN"
-msgstr ""
+msgstr "Màu xanh lá"
 
 msgid "PLYRMNU_BLUE"
-msgstr ""
+msgstr "Màu xanh da trời"
 
 msgid "PLYRMNU_PLAYERCLASS"
 msgstr ""
@@ -3725,7 +3725,7 @@ msgid "SCALEMNU_ADAPT"
 msgstr ""
 
 msgid "HUDMNU_TITLE"
-msgstr ""
+msgstr "Tùy chọn HUD"
 
 msgid "HUDMNU_ALTHUD"
 msgstr ""
@@ -3791,7 +3791,7 @@ msgid "MISCMNU_INTERSCROLL"
 msgstr ""
 
 msgid "NETMNU_TITLE"
-msgstr ""
+msgstr "Tùy chọn mạng"
 
 msgid "NETMNU_LOCALOPTIONS"
 msgstr ""
@@ -3857,7 +3857,7 @@ msgid "OPTVAL_ITEMS"
 msgstr ""
 
 msgid "OPTVAL_WEAPONS"
-msgstr ""
+msgstr "Vũ khí"
 
 msgid "OPTVAL_BOTH"
 msgstr ""
@@ -4688,7 +4688,7 @@ msgid "JOYMNU_THRESHOLD"
 msgstr ""
 
 msgid "OPTVAL_LINEAR"
-msgstr ""
+msgstr "Tuyến tính"
 
 msgid "OPTVAL_QUADRATIC"
 msgstr ""
@@ -4703,7 +4703,7 @@ msgid "OPTVAL_TEAMONLYCHAT"
 msgstr ""
 
 msgid "OPTVAL_GLOBALCHAT"
-msgstr ""
+msgstr "Toàn cầu"
 
 msgid "NETMNU_NOBOLDCHAT"
 msgstr ""
@@ -4772,7 +4772,7 @@ msgid "HAPMNU_OPT_WORLD"
 msgstr ""
 
 msgid "PAUSE_STRING"
-msgstr ""
+msgstr "Tạm dừng"
 
 msgid "TAG_BACKPACK"
 msgstr ""
@@ -4898,7 +4898,7 @@ msgid "CNTRLMNU_COOPSPYCANCEL"
 msgstr ""
 
 msgid "OPTMNU_ACCESSIBILITY"
-msgstr ""
+msgstr "Tùy chọn trợ năng"
 
 msgid "JOYMNU_ANALOGRUN"
 msgstr ""
