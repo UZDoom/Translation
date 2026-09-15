@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-15 14:51+0000\n"
+"PO-Revision-Date: 2026-09-15 17:51+0000\n"
 "Last-Translator: Tim Richter <raymond_fry@users.noreply.hosted.weblate.org>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/doom-engine-games/hacx-filter/de/>\n"
 "Language: de\n"
@@ -285,7 +285,7 @@ msgid "GOTENKBLIND"
 msgstr "Du bist EnK-blind!"
 
 msgid "GOTRUBBERBOOTS"
-msgstr "Lava Beständige Gummistiefel!"
+msgstr "Lavabeständige Gummistiefel!"
 
 msgid "GOTSIARRAY"
 msgstr "SI-Feld Karte!"
