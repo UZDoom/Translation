@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-15 03:51+0000\n"
-"Last-Translator: dwing <12104745@qq.com>\n"
+"PO-Revision-Date: 2026-09-15 10:51+0000\n"
+"Last-Translator: OldCactusCN <huchenyi_2019@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
@@ -3640,25 +3640,25 @@ msgid "ALTHUDMNU_AMMORED"
 msgstr "弹药少于此百分比时显示红色"
 
 msgid "ALTHUDMNU_AMMOYELLOW"
-msgstr "弹药在百分之多少以下时显示成黄色"
+msgstr "弹药少于此百分比时显示黄色"
 
 msgid "ALTHUDMNU_HEALTHRED"
-msgstr "生命在多少以下时显示成红色"
+msgstr "生命少于此数时显示红色"
 
 msgid "ALTHUDMNU_HEALTHYELLOW"
-msgstr "生命在多少以下时显示成黄色"
+msgstr "生命少于此数时显示红色"
 
 msgid "ALTHUDMNU_HEALTHGREEN"
-msgstr "生命在多少以下时显示成绿色"
+msgstr "生命少于此数时显示绿色"
 
 msgid "ALTHUDMNU_ARMORRED"
-msgstr "护甲在多少以下时显示成红色"
+msgstr "护甲少于此数时显示红色"
 
 msgid "ALTHUDMNU_ARMORYELLOW"
-msgstr "护甲在多少以下时显示成黄色"
+msgstr "护甲少于此数时显示黄色"
 
 msgid "ALTHUDMNU_ARMORGREEN"
-msgstr "护甲在多少以下时显示成绿色"
+msgstr "护甲少于此数时显示绿色"
 
 msgid "ALTHUDMNU_AUTOMAPHUD"
 msgstr "可替换式地图HUD"
