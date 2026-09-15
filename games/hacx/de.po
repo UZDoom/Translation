@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-11 18:51+0000\n"
-"Last-Translator: Tim Richter <jank21976@gmail.com>\n"
+"PO-Revision-Date: 2026-09-15 14:51+0000\n"
+"Last-Translator: Tim Richter <raymond_fry@users.noreply.hosted.weblate.org>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/doom-engine-games/hacx-filter/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -153,7 +153,7 @@ msgid "OB_MANIACHIT"
 msgstr "%o starb auf eine unvorstellbare Art und Weise."
 
 msgid "OB_TERMIN"
-msgstr "%o wurde von einem Femme-Fatale Freak gebraten."
+msgstr "%o wurde von einem Femme-Fatale Freak gegrillt."
 
 # This text is not gender neutral, obviously...
 msgid "OB_TERMINHIT"
@@ -527,7 +527,7 @@ msgstr "Dreh Die Lautstärke Hoch\n"
 
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_KFAADDED"
-msgstr "Initiiere Twitch'n Kill-Modus"
+msgstr "Initiiere Twitch'n Kill Modus"
 
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_FAADDED"
