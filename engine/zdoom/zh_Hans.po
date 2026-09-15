@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-13 14:51+0000\n"
-"Last-Translator: dwing <12104745@qq.com>\n"
+"PO-Revision-Date: 2026-09-15 03:51+0000\n"
+"Last-Translator: OldCactusCN <huchenyi_2019@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
@@ -3399,7 +3399,7 @@ msgid "MAPCOLORMNU_XHAIRCOLOR"
 msgstr "中心点"
 
 msgid "MAPCOLORMNU_NOTSEENCOLOR"
-msgstr "没见过的墙"
+msgstr "未探索的墙"
 
 msgid "MAPCOLORMNU_LOCKEDCOLOR"
 msgstr "上锁的门"
@@ -3636,7 +3636,7 @@ msgid "ALTHUDMNU_AMMOORDER"
 msgstr "弹药显示顺序"
 
 msgid "ALTHUDMNU_AMMORED"
-msgstr "弹药在百分之多少以下时显示成红色"
+msgstr "弹药少于此百分比时显示红色"
 
 msgid "ALTHUDMNU_AMMOYELLOW"
 msgstr "弹药在百分之多少以下时显示成黄色"
