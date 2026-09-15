@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-14 13:51+0000\n"
+"PO-Revision-Date: 2026-09-15 05:51+0000\n"
 "Last-Translator: TBinhfkl <anhthieufame2021@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/vi/>\n"
 "Language: vi\n"
@@ -621,100 +621,100 @@ msgid "GOTSHELLS"
 msgstr "Đã lấy được 4 viên đạn shotgun."
 
 msgid "GOTSHELLBOX"
-msgstr ""
+msgstr "Đã lấy được một hộp đạn shotgun."
 
 msgid "GOTBACKPACK"
-msgstr ""
+msgstr "Đã lấy được một chiếc ba lô đầy đạn!"
 
 msgid "GOTBFG9000"
-msgstr ""
+msgstr "Bạn đã nhận được BFG9000! Ồ, đúng vậy."
 
 msgid "GOTCHAINGUN"
-msgstr ""
+msgstr "Bạn đã nhận được chaingun!"
 
 msgid "GOTCHAINSAW"
-msgstr ""
+msgstr "Một chainsaw! Tìm ít thịt đi!"
 
 msgid "GOTLAUNCHER"
-msgstr ""
+msgstr "Bạn đã nhận được rocket launcher!"
 
 msgid "GOTPLASMA"
-msgstr ""
+msgstr "Bạn đã nhận được plasma gun!"
 
 msgid "GOTSHOTGUN"
-msgstr ""
+msgstr "Bạn đã nhận được shotgun!"
 
 msgid "GOTSHOTGUN2"
-msgstr ""
+msgstr "Bạn đã nhận được super shotgun!"
 
 msgid "PICKUP_PISTOL_DROPPED"
-msgstr ""
+msgstr "Đã lấy được một pistol."
 
 msgid "BETA_BONUS1"
-msgstr ""
+msgstr "Đã lấy được một demonic dagger."
 
 msgid "BETA_BONUS2"
-msgstr ""
+msgstr "Đã lấy được một skullchest."
 
 msgid "BETA_BONUS3"
-msgstr ""
+msgstr "Đã lấy được một evil sceptre."
 
 msgid "BETA_BONUS4"
-msgstr ""
+msgstr "Đã lấy được một kinh thánh bất thánh."
 
 msgid "PD_BLUEO"
-msgstr ""
+msgstr "Bạn cần một chiếc chìa khóa màu xanh để kích hoạt vật thể này"
 
 msgid "PD_REDO"
-msgstr ""
+msgstr "Bạn cần một chiếc chìa khóa màu đỏ để kích hoạt vật thể này"
 
 msgid "PD_YELLOWO"
-msgstr ""
+msgstr "Bạn cần một chiếc chìa khóa màu vàng để kích hoạt vật thể này"
 
 msgid "PD_BLUEK"
-msgstr ""
+msgstr "Bạn cần một chiếc chìa khóa màu xanh để mở cánh cửa này"
 
 msgid "PD_REDK"
-msgstr ""
+msgstr "Bạn cần một chiếc chìa khóa màu đỏ để mở cánh cửa này"
 
 msgid "PD_YELLOWK"
-msgstr ""
+msgstr "Bạn cần một chiếc chìa khóa màu vàng để mở cánh cửa này"
 
 msgid "PD_BLUECO"
-msgstr ""
+msgstr "Bạn cần một thẻ màu xanh để kích hoạt vật thể này"
 
 msgid "PD_REDCO"
-msgstr ""
+msgstr "Bạn cần một thẻ màu đỏ để kích hoạt vật thể này"
 
 msgid "PD_YELLOWCO"
-msgstr ""
+msgstr "Bạn cần một thẻ màu vàng để kích hoạt vật thể này"
 
 msgid "PD_BLUESO"
-msgstr ""
+msgstr "Bạn cần một chiếc đầu lâu màu xanh để kích hoạt vật thể này"
 
 msgid "PD_REDSO"
-msgstr ""
+msgstr "Bạn cần một chiếc đầu lâu màu đỏ để kích hoạt vật thể này"
 
 msgid "PD_YELLOWSO"
-msgstr ""
+msgstr "Bạn cần một chiếc đầu lâu màu vàng để kích hoạt vật thể này"
 
 msgid "PD_BLUEC"
-msgstr ""
+msgstr "Bạn cần một chiếc thẻ màu xanh để mở cánh cửa này"
 
 msgid "PD_REDC"
-msgstr ""
+msgstr "Bạn cần một chiếc thẻ màu đỏ để mở cánh cửa này"
 
 msgid "PD_YELLOWC"
-msgstr ""
+msgstr "Bạn cần một chiếc thẻ màu vàng để mở cánh cửa này"
 
 msgid "PD_BLUES"
-msgstr ""
+msgstr "Bạn cần một chiếc đầu lâu màu xanh để mở cánh cửa này"
 
 msgid "PD_REDS"
-msgstr ""
+msgstr "Bạn cần một chiếc đầu lâu màu đỏ để mở cánh cửa này"
 
 msgid "PD_YELLOWS"
-msgstr ""
+msgstr "Bạn cần một chiếc đầu lâu màu vàng để mở cánh cửa này"
 
 msgid "CC_ZOMBIE"
 msgstr ""
@@ -816,10 +816,10 @@ msgid "TAG_BFG9000"
 msgstr ""
 
 msgid "AMMO_CLIP"
-msgstr ""
+msgstr "Đạn"
 
 msgid "AMMO_SHELLS"
-msgstr ""
+msgstr "Đạn shotgun"
 
 msgid "AMMO_ROCKETS"
 msgstr ""
