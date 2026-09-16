@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-13 00:51+0000\n"
-"Last-Translator: Никита Скатьков <nikita.ska4oK@gmail.com>\n"
+"PO-Revision-Date: 2026-09-16 04:51+0000\n"
+"Last-Translator: Andrei Stepanov <adem4ik@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -5495,3 +5495,21 @@ msgstr "Сообщения: {ВКЛ|ОТКЛ}"
 
 msgid "AUTOMAPMNU_MATCHSTATUSBAR"
 msgstr "Соответствовать HUD с Состоянием строки"
+
+msgid "AUTOMAPMNU_SHOWSEENITEMS"
+msgstr "Показывать предметы"
+
+msgid "AUTOMAPMNU_SHOWSEENMONSTERS"
+msgstr "Показывать монстров"
+
+msgid "AUTOMAPMNU_SHOWSEENCORPSES"
+msgstr "Показывать трупы"
+
+msgid "AUTOMAPMNU_SHOWSEENFRIENDLIES"
+msgstr "Показывать дружественных персонажей"
+
+msgid "AUTOMAPMNU_SHOWSEENDECORATIONS"
+msgstr "Показывать декорации"
+
+msgid "OPTVAL_MONSTERS"
+msgstr "Монстры"
