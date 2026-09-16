@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-12 17:30+0000\n"
-"Last-Translator: Automatic translation add-on <noreply-addon-autotranslate@weblate.org>\n"
+"PO-Revision-Date: 2026-09-15 07:51+0000\n"
+"Last-Translator: TBinhfkl <anhthieufame2021@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/vi/>\n"
 "Language: vi\n"
 "MIME-Version: 1.0\n"
@@ -621,100 +621,100 @@ msgid "GOTSHELLS"
 msgstr "Đã lấy được 4 viên đạn shotgun."
 
 msgid "GOTSHELLBOX"
-msgstr ""
+msgstr "Đã lấy được một hộp đạn shotgun."
 
 msgid "GOTBACKPACK"
-msgstr ""
+msgstr "Đã lấy được một chiếc ba lô đầy đạn!"
 
 msgid "GOTBFG9000"
-msgstr ""
+msgstr "Bạn đã nhận được BFG9000! Ồ, đúng vậy."
 
 msgid "GOTCHAINGUN"
-msgstr ""
+msgstr "Bạn đã nhận được chaingun!"
 
 msgid "GOTCHAINSAW"
-msgstr ""
+msgstr "Một chainsaw! Tìm ít thịt đi!"
 
 msgid "GOTLAUNCHER"
-msgstr ""
+msgstr "Bạn đã nhận được rocket launcher!"
 
 msgid "GOTPLASMA"
-msgstr ""
+msgstr "Bạn đã nhận được plasma gun!"
 
 msgid "GOTSHOTGUN"
-msgstr ""
+msgstr "Bạn đã nhận được shotgun!"
 
 msgid "GOTSHOTGUN2"
-msgstr ""
+msgstr "Bạn đã nhận được super shotgun!"
 
 msgid "PICKUP_PISTOL_DROPPED"
-msgstr ""
+msgstr "Đã lấy được một pistol."
 
 msgid "BETA_BONUS1"
-msgstr ""
+msgstr "Đã lấy được một demonic dagger."
 
 msgid "BETA_BONUS2"
-msgstr ""
+msgstr "Đã lấy được một skullchest."
 
 msgid "BETA_BONUS3"
-msgstr ""
+msgstr "Đã lấy được một evil sceptre."
 
 msgid "BETA_BONUS4"
-msgstr ""
+msgstr "Đã lấy được một kinh thánh bất thánh."
 
 msgid "PD_BLUEO"
-msgstr ""
+msgstr "Bạn cần một chiếc chìa khóa màu xanh để kích hoạt vật thể này"
 
 msgid "PD_REDO"
-msgstr ""
+msgstr "Bạn cần một chiếc chìa khóa màu đỏ để kích hoạt vật thể này"
 
 msgid "PD_YELLOWO"
-msgstr ""
+msgstr "Bạn cần một chiếc chìa khóa màu vàng để kích hoạt vật thể này"
 
 msgid "PD_BLUEK"
-msgstr ""
+msgstr "Bạn cần một chiếc chìa khóa màu xanh để mở cánh cửa này"
 
 msgid "PD_REDK"
-msgstr ""
+msgstr "Bạn cần một chiếc chìa khóa màu đỏ để mở cánh cửa này"
 
 msgid "PD_YELLOWK"
-msgstr ""
+msgstr "Bạn cần một chiếc chìa khóa màu vàng để mở cánh cửa này"
 
 msgid "PD_BLUECO"
-msgstr ""
+msgstr "Bạn cần một thẻ màu xanh để kích hoạt vật thể này"
 
 msgid "PD_REDCO"
-msgstr ""
+msgstr "Bạn cần một thẻ màu đỏ để kích hoạt vật thể này"
 
 msgid "PD_YELLOWCO"
-msgstr ""
+msgstr "Bạn cần một thẻ màu vàng để kích hoạt vật thể này"
 
 msgid "PD_BLUESO"
-msgstr ""
+msgstr "Bạn cần một chiếc đầu lâu màu xanh để kích hoạt vật thể này"
 
 msgid "PD_REDSO"
-msgstr ""
+msgstr "Bạn cần một chiếc đầu lâu màu đỏ để kích hoạt vật thể này"
 
 msgid "PD_YELLOWSO"
-msgstr ""
+msgstr "Bạn cần một chiếc đầu lâu màu vàng để kích hoạt vật thể này"
 
 msgid "PD_BLUEC"
-msgstr ""
+msgstr "Bạn cần một chiếc thẻ màu xanh để mở cánh cửa này"
 
 msgid "PD_REDC"
-msgstr ""
+msgstr "Bạn cần một chiếc thẻ màu đỏ để mở cánh cửa này"
 
 msgid "PD_YELLOWC"
-msgstr ""
+msgstr "Bạn cần một chiếc thẻ màu vàng để mở cánh cửa này"
 
 msgid "PD_BLUES"
-msgstr ""
+msgstr "Bạn cần một chiếc đầu lâu màu xanh để mở cánh cửa này"
 
 msgid "PD_REDS"
-msgstr ""
+msgstr "Bạn cần một chiếc đầu lâu màu đỏ để mở cánh cửa này"
 
 msgid "PD_YELLOWS"
-msgstr ""
+msgstr "Bạn cần một chiếc đầu lâu màu vàng để mở cánh cửa này"
 
 msgid "CC_ZOMBIE"
 msgstr ""
@@ -816,10 +816,10 @@ msgid "TAG_BFG9000"
 msgstr ""
 
 msgid "AMMO_CLIP"
-msgstr ""
+msgstr "Đạn"
 
 msgid "AMMO_SHELLS"
-msgstr ""
+msgstr "Đạn shotgun"
 
 msgid "AMMO_ROCKETS"
 msgstr ""
@@ -828,220 +828,220 @@ msgid "AMMO_CELLS"
 msgstr ""
 
 msgid "OB_STEALTHBABY"
-msgstr ""
+msgstr "%o nghĩ %g đã nhìn thấy một arachnotron."
 
 msgid "OB_STEALTHVILE"
-msgstr ""
+msgstr "%o nghĩ %g đã nhìn thấy một archvile."
 
 msgid "OB_STEALTHBARON"
-msgstr ""
+msgstr "%o nghĩ %g đã nhìn thấy một Baron of Hell."
 
 msgid "OB_STEALTHCACO"
-msgstr ""
+msgstr "%o nghĩ %g đã nhìn thấy một cacodemon."
 
 msgid "OB_STEALTHCHAINGUY"
-msgstr ""
+msgstr "%o nghĩ %g đã nhìn thấy một chaingunner."
 
 msgid "OB_STEALTHDEMON"
-msgstr ""
+msgstr "%o nghĩ %g đã nhìn thấy một demon."
 
 msgid "OB_STEALTHKNIGHT"
-msgstr ""
+msgstr "%o nghĩ %g đã nhìn thấy một Hell Knight."
 
 msgid "OB_STEALTHIMP"
-msgstr ""
+msgstr "%o nghĩ %g đã nhìn thấy một imp."
 
 msgid "OB_STEALTHFATSO"
-msgstr ""
+msgstr "%o nghĩ %g đã nhìn thấy một mancubus."
 
 msgid "OB_STEALTHUNDEAD"
-msgstr ""
+msgstr "%o nghĩ %g đã nhìn thấy một revenant."
 
 msgid "OB_STEALTHSHOTGUNGUY"
-msgstr ""
+msgstr "%o nghĩ %g đã nhìn thấy một sergeant."
 
 msgid "OB_STEALTHZOMBIE"
-msgstr ""
+msgstr "%o nghĩ %g đã nhìn thấy một zombieman."
 
 msgid "OB_UNDEADHIT"
-msgstr ""
+msgstr "%o bị một người đấm revenant."
 
 msgid "OB_IMPHIT"
-msgstr ""
+msgstr "%o đã bị cắt bởi một imp."
 
 msgid "OB_CACOHIT"
-msgstr ""
+msgstr "%o đã đến quá gần một cacodemon."
 
 msgid "OB_DEMONHIT"
-msgstr ""
+msgstr "%o bị một con cắn demon."
 
 msgid "OB_SPECTREHIT"
-msgstr ""
+msgstr "%o đã bị một con vật ăn thịt spectre."
 
 msgid "OB_BARONHIT"
-msgstr ""
+msgstr "%o bị xé toạc bởi một Baron of Hell."
 
 msgid "OB_KNIGHTHIT"
-msgstr ""
+msgstr "%o đã bị phá hủy bởi một Hell Knight."
 
 msgid "OB_ZOMBIE"
-msgstr ""
+msgstr "%o đã bị giết bởi một zombieman."
 
 msgid "OB_SHOTGUY"
-msgstr ""
+msgstr "%o bị bắn bởi một sergeant."
 
 msgid "OB_VILE"
-msgstr ""
+msgstr "%o đã bị thiêu hủy bởi một archvile."
 
 msgid "OB_UNDEAD"
-msgstr ""
+msgstr "%o không thể trốn tránh một revenant's fireball."
 
 msgid "OB_FATSO"
-msgstr ""
+msgstr "%o đã bị đè bẹp bởi một mancubus."
 
 msgid "OB_CHAINGUY"
-msgstr ""
+msgstr "%o bị thủng bởi một chaingunner."
 
 msgid "OB_SKULL"
-msgstr ""
+msgstr "%o đã bị một lost soul."
 
 msgid "OB_IMP"
-msgstr ""
+msgstr "%o bị bỏng bởi một imp."
 
 msgid "OB_CACO"
-msgstr ""
+msgstr "%o đã bị mê hoặc bởi một cacodemon."
 
 msgid "OB_BARON"
-msgstr ""
+msgstr "%o bị bầm tím bởi một Baron of Hell."
 
 msgid "OB_KNIGHT"
-msgstr ""
+msgstr "%o bị trải rộng bởi một Hell Knight."
 
 msgid "OB_SPIDER"
-msgstr ""
+msgstr "%o đứng sững sờ trước spider demon."
 
 msgid "OB_BABY"
-msgstr ""
+msgstr "%o để cho một arachnotron nhận được %h."
 
 msgid "OB_CYBORG"
-msgstr ""
+msgstr "%o bị bắn tung tóe bởi một cyberdemon."
 
 msgid "OB_WOLFSS"
-msgstr ""
+msgstr "%o gặp một Nazi."
 
 msgid "OB_DOG"
-msgstr ""
+msgstr "%o bị chó tấn công."
 
 msgid "OB_MPFIST"
-msgstr ""
+msgstr "%o đã nhai %k's fist."
 
 msgid "OB_MPCHAINSAW"
-msgstr ""
+msgstr "%o đã bị %k cán qua chainsaw."
 
 msgid "OB_MPPISTOL"
-msgstr ""
+msgstr "%o cảm thấy thích thú với %k's pea shooter."
 
 msgid "OB_MPSHOTGUN"
-msgstr ""
+msgstr "%o đã nhai %k's boomstick."
 
 msgid "OB_MPSSHOTGUN"
-msgstr ""
+msgstr "%o bị bắn tung tóe bởi %k's super shotgun."
 
 msgid "OB_MPCHAINGUN"
-msgstr ""
+msgstr "%o đã bị %k's cán chết chaingun."
 
 msgid "OB_MPROCKET"
-msgstr ""
+msgstr "%o cưỡi %k's rocket."
 
 msgid "OB_MPR_SPLASH"
-msgstr ""
+msgstr "%o suýt nữa đã tránh được %k's rocket."
 
 msgid "OB_MPPLASMARIFLE"
-msgstr ""
+msgstr "%o đã tan chảy bởi %k's plasma gun."
 
 msgid "OB_MPBFG_BOOM"
-msgstr ""
+msgstr "%o bị chia tách bởi %k's BFG."
 
 msgid "OB_MPBFG_SPLASH"
-msgstr ""
+msgstr "%o không thể trốn tránh %k's BFG."
 
 msgid "OB_RAILGUN"
-msgstr ""
+msgstr "%o đã bị %k chỉ trích."
 
 msgid "OB_MPBFG_MBF"
-msgstr ""
+msgstr "%o đã bị đốt cháy bởi %k's BFG."
 
 msgid "TXT_GOTBLUEKEY"
-msgstr ""
+msgstr "Chìa khóa xanh"
 
 msgid "TXT_GOTYELLOWKEY"
-msgstr ""
+msgstr "Chìa khóa màu vàng"
 
 msgid "TXT_GOTGREENKEY"
-msgstr ""
+msgstr "Chìa khóa xanh lá"
 
 msgid "TXT_ARTIHEALTH"
 msgstr ""
 
 msgid "TXT_ARTIFLY"
-msgstr ""
+msgstr "Đôi cánh thịnh nộ"
 
 msgid "TXT_ARTIINVULNERABILITY"
-msgstr ""
+msgstr "Chiếc nhẫn bất khả chiến bại"
 
 msgid "TXT_ARTITOMEOFPOWER"
-msgstr ""
+msgstr "Sách Sức Mạnh"
 
 msgid "TXT_ARTIINVISIBILITY"
 msgstr ""
 
 msgid "TXT_ARTIEGG"
-msgstr ""
+msgstr "Trứng biến đổi"
 
 msgid "TXT_ARTISUPERHEALTH"
-msgstr ""
+msgstr "Bình thần bí"
 
 msgid "TXT_ARTITORCH"
-msgstr ""
+msgstr "Ngọn đuốc"
 
 msgid "TXT_ARTIFIREBOMB"
-msgstr ""
+msgstr "Quả bom hẹn giờ của thời cổ đại"
 
 msgid "TXT_ARTITELEPORT"
-msgstr ""
+msgstr "Thiết bị hỗn loạn"
 
 msgid "TXT_ITEMHEALTH"
-msgstr ""
+msgstr "Lọ pha lê"
 
 msgid "TXT_ITEMBAGOFHOLDING"
-msgstr ""
+msgstr "Túi chứa đồ"
 
 msgid "TXT_ITEMSHIELD1"
-msgstr ""
+msgstr "Lá chắn bạc"
 
 msgid "TXT_ITEMSHIELD2"
-msgstr ""
+msgstr "Khiên ma thuật"
 
 msgid "TXT_ITEMSUPERMAP"
-msgstr ""
+msgstr "Cuộn bản đồ"
 
 msgid "TXT_AMMOGOLDWAND1"
-msgstr ""
+msgstr "Gậy pha lê"
 
 msgid "TXT_AMMOGOLDWAND2"
-msgstr ""
+msgstr "Tinh thể Geode"
 
 msgid "TXT_AMMOMACE1"
 msgstr ""
 
 msgid "TXT_AMMOMACE2"
-msgstr ""
+msgstr "Đống Mace Spheres"
 
 msgid "TXT_AMMOCROSSBOW1"
-msgstr ""
+msgstr "Mũi tên hư ảo"
 
 msgid "TXT_AMMOCROSSBOW2"
-msgstr ""
+msgstr "Túi đựng tên của mũi tên hư ảo"
 
 msgid "TXT_AMMOBLASTER1"
 msgstr ""
