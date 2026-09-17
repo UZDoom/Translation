@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-15 10:51+0000\n"
-"Last-Translator: OldCactusCN <huchenyi_2019@qq.com>\n"
+"PO-Revision-Date: 2026-09-17 03:51+0000\n"
+"Last-Translator: dwing <12104745@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
@@ -5488,3 +5488,21 @@ msgstr "消息：{开|关}"
 
 msgid "AUTOMAPMNU_MATCHSTATUSBAR"
 msgstr "匹配HUD的状态栏"
+
+msgid "AUTOMAPMNU_SHOWSEENITEMS"
+msgstr "显示物品"
+
+msgid "AUTOMAPMNU_SHOWSEENMONSTERS"
+msgstr "显示怪物"
+
+msgid "AUTOMAPMNU_SHOWSEENCORPSES"
+msgstr "显示尸体"
+
+msgid "AUTOMAPMNU_SHOWSEENFRIENDLIES"
+msgstr "显示友好人物"
+
+msgid "AUTOMAPMNU_SHOWSEENDECORATIONS"
+msgstr "显示装饰物"
+
+msgid "OPTVAL_MONSTERS"
+msgstr "怪物"
