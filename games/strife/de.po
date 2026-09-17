@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-17 11:51+0000\n"
+"PO-Revision-Date: 2026-09-17 14:52+0000\n"
 "Last-Translator: Tim Richter <raymond_fry@users.noreply.hosted.weblate.org>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/doom-engine-games/strife/de/>\n"
 "Language: de\n"
@@ -667,6 +667,7 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT02_D66704_FINEB"
 msgstr "Ist mir recht."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D68220_SOYOU"
 msgstr "So, du bist also der Narr der den Kelch gestohlen hat? Ich werde dich als Dieb der Rebellen verhaften lassen und dadurch meine Position im Orden verbessern... Vielleicht fragst du dich wie es sich anfühlt eine ahnungslose Schachfigur zu sein? Ich geb' dir einen Tipp: Es wird wehtun."
 
@@ -2816,6 +2817,7 @@ msgstr "Worauf wartest du? Der Gouverneur wird dich belohnen."
 msgid "TXT_DLG_SCRIPT33_D25772_DIETR"
 msgstr "Stirb, Verräter! "
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT33_D27288_SOYOU"
 msgstr "So, du bist also der Narr der den Kelch gestohlen hat? Ich werde dich als Dieb der Rebellen verhaften lassen und dadurch meine Position im Orden verbessern. Wie fühlt es sich an als ahnungslose Schachfigur?"
 
