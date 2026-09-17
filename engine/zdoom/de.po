@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-11 15:51+0000\n"
-"Last-Translator: Tim Richter <jank21976@gmail.com>\n"
+"PO-Revision-Date: 2026-09-17 11:51+0000\n"
+"Last-Translator: Tim Richter <raymond_fry@users.noreply.hosted.weblate.org>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -5499,3 +5499,27 @@ msgstr "Unbesiegbarer Modus: {AN|AUS}"
 
 msgid "MSG{ON|OFF}"
 msgstr "Meldungen: {AN|AUS}"
+
+msgid "AUTOMAPMNU_SHOWSEENFRIENDLIES"
+msgstr "Freundliche Charaktere anzeigen"
+
+msgid "AUTOMAPMNU_SHOWSEENITEMS"
+msgstr "Gegenstände anzeigen"
+
+msgid "AUTOMAPMNU_SHOWSEENMONSTERS"
+msgstr "Monster anzeigen"
+
+msgid "AUTOMAPMNU_SHOWSEENCORPSES"
+msgstr "Leichen anzeigen"
+
+msgid "AUTOMAPMNU_SHOWSEENDECORATIONS"
+msgstr "Dekoration anzeigen"
+
+msgid "AUTOMAPMNU_MATCHSTATUSBAR"
+msgstr "Der HUD Statusleiste angleichen"
+
+msgid "OPTVAL_MONSTERS"
+msgstr "Monster"
+
+msgid "CMPTMNU_TRANSFERSECRET"
+msgstr "BOOMs Transfer geheimnisse."
