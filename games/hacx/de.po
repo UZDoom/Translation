@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-15 17:51+0000\n"
+"PO-Revision-Date: 2026-09-18 15:51+0000\n"
 "Last-Translator: Tim Richter <raymond_fry@users.noreply.hosted.weblate.org>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/doom-engine-games/hacx-filter/de/>\n"
 "Language: de\n"
@@ -445,7 +445,7 @@ msgid "TXT_HACXMAP07"
 msgstr "Die große Mauer"
 
 msgid "TXT_HACXMAP08"
-msgstr "Garten des Entzückens"
+msgstr "Garten der Freuden"
 
 msgid "TXT_HACXMAP09"
 msgstr "Versteckte Festung"
@@ -492,10 +492,9 @@ msgstr "Nächster Halt…"
 
 # Printed when entering the idchoppers cheat, which gives the player a
 # chainsaw
-#, fuzzy
 msgctxt "doom hacx.hacx1"
 msgid "STSTR_CHOPPERS"
-msgstr "...ich brate deinen Arsch!"
+msgstr "...ich grill deinen Arsch!"
 
 # Hacx's content here was totally useless so it got removed. However, this
 # string has to be defined and minimally altered so that the Dehacked
