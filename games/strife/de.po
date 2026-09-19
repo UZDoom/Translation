@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-17 14:52+0000\n"
+"PO-Revision-Date: 2026-09-19 22:51+0000\n"
 "Last-Translator: Tim Richter <raymond_fry@users.noreply.hosted.weblate.org>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/doom-engine-games/strife/de/>\n"
 "Language: de\n"
@@ -3831,7 +3831,6 @@ msgstr ""
 msgid "TXT_SUB_MAP03_3"
 msgstr "Der Verfall ist so weit fortgeschritten, dass die meisten Truppen, denen wir begegnen mehr Maschine als Mensch sind, aber wir glauben, dass ihr kollektives Bewusstsein von einer Quelle kontrolliert wird..."
 
-#, fuzzy
 msgid "TXT_SUB_MAP03_4"
 msgstr "...der Programmierer: Entwickler der KI, die Ministranten kontrolliert. Vernichte den Programmierer, und wir könnten die Truppen des Ordens mit einem einzigen Schlag lahmlegen. Aber sieh dich vor. Wir haben Meldungen, dass er Angreifer vaporisieren kann."
 
@@ -4445,9 +4444,8 @@ msgid "TXT_BBSUB_SCRIPT10_D12128_THERE"
 msgstr ""
 "Biomechanisch? Das erklärt ihren anscheinend endlosen Nachschub an Truppen. Und ihre miese Gesinnung.\n"
 
-#, fuzzy
 msgid "TXT_BBSUB_SCRIPT10_D16676_IAMTH"
-msgstr "Der Typ ist doch krank. Mach ihn alle!"
+msgstr "Der Typ ist doch krank... Mach ihn alle!"
 
 msgid "TXT_BBSUB_SCRIPT12_D12128_USETH"
 msgstr ""
