@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-15 17:51+0000\n"
+"PO-Revision-Date: 2026-09-19 22:51+0000\n"
 "Last-Translator: Tim Richter <raymond_fry@users.noreply.hosted.weblate.org>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/doom-engine-games/strife/de/>\n"
 "Language: de\n"
@@ -667,6 +667,7 @@ msgstr ""
 msgid "TXT_RPLY0_SCRIPT02_D66704_FINEB"
 msgstr "Ist mir recht."
 
+#, fuzzy
 msgid "TXT_DLG_SCRIPT02_D68220_SOYOU"
 msgstr "So, du bist also der Narr der den Kelch gestohlen hat? Ich werde dich als Dieb der Rebellen verhaften lassen und dadurch meine Position im Orden verbessern... Vielleicht fragst du dich wie es sich anfühlt eine ahnungslose Schachfigur zu sein? Ich geb' dir einen Tipp: Es wird wehtun."
 
@@ -831,7 +832,6 @@ msgstr "Danke"
 msgid "TXT_DLG_SCRIPT02_D104604_RELEA"
 msgstr "Bitte lass einen alten Mann in Ruhe."
 
-#, fuzzy
 msgid "TXT_DLG_SCRIPT03_D0_WELCO"
 msgstr "Wilkommen beim letzten Hoffnungsschimmer. Nur wir haben noch den freien Willen, um gegen den Orden zu arbeiten. Wir haben die besten Wissenschaftler und viele fähige Kämpfer aber was uns fehlt ist ein spezieller... äh... Problemlöser, der uns den nötigen Vorteil verschafft. Bitte hilf uns."
 
@@ -2442,9 +2442,8 @@ msgid "TXT_DLG_SCRIPT23_D15160_THANK"
 msgstr ""
 "Deus sei dank bist du hier. Um die Fabrik zu betreten, brauchst du einen Schlüssel. Wir haben ihn gestohlen, aber unser Agent ist in den Irrwegen der Katakomben unter Festung des Ordens verschwunden. Ich habe zehn gute Männer da hinunter geschickt um ihn zu finden, aber niemand ist zurückgekehrt. Irgendetwas ist da unten!"
 
-#, fuzzy
 msgid "TXT_RPLY0_SCRIPT23_D15160_WHATI"
-msgstr "Was ist es? Mensch oder...?"
+msgstr "Was ist es? Ein Mensch oder...?"
 
 msgid "TXT_DLG_SCRIPT23_D16676_NOTDE"
 msgstr ""
@@ -2539,9 +2538,8 @@ msgid "TXT_DLG_SCRIPT23_D24256_THANK"
 msgstr ""
 "Deus sei dank bist du hier. Um die Fabrik zu betreten, brauchst du einen Schlüssel. Wir haben ihn gestohlen, aber unser Agent ist in den Irrwegen der Katakomben unter Festung des Ordens verschwunden. Ich habe zehn gute Männer da hinunter geschickt um ihn zu finden, aber niemand ist zurückgekehrt. Irgendetwas ist da unten!"
 
-#, fuzzy
 msgid "TXT_RPLY0_SCRIPT23_D24256_WHATI"
-msgstr "Was ist es? Mensch oder...?"
+msgstr "Was ist es? Ein Mensch oder...?"
 
 msgid "TXT_DLG_SCRIPT23_D25772_NOTDE"
 msgstr ""
@@ -2821,7 +2819,7 @@ msgstr "Stirb, Verräter! "
 
 #, fuzzy
 msgid "TXT_DLG_SCRIPT33_D27288_SOYOU"
-msgstr "So, du bist also der Narr der den Kelch gestohlen hat? Ich werde dich als Dieb der Rebellen verhaften lassen und dadurch meine Position im Orden verbessern. Wie fühlt es sich an als ahnungslose Schachfigur? "
+msgstr "So, du bist also der Narr der den Kelch gestohlen hat? Ich werde dich als Dieb der Rebellen verhaften lassen und dadurch meine Position im Orden verbessern. Wie fühlt es sich an als ahnungslose Schachfigur?"
 
 msgid "TXT_RPLY0_SCRIPT33_D27288_ITSUC"
 msgstr "Scheiße!"
@@ -3833,7 +3831,6 @@ msgstr ""
 msgid "TXT_SUB_MAP03_3"
 msgstr "Der Verfall ist so weit fortgeschritten, dass die meisten Truppen, denen wir begegnen mehr Maschine als Mensch sind, aber wir glauben, dass ihr kollektives Bewusstsein von einer Quelle kontrolliert wird..."
 
-#, fuzzy
 msgid "TXT_SUB_MAP03_4"
 msgstr "...der Programmierer: Entwickler der KI, die Ministranten kontrolliert. Vernichte den Programmierer, und wir könnten die Truppen des Ordens mit einem einzigen Schlag lahmlegen. Aber sieh dich vor. Wir haben Meldungen, dass er Angreifer vaporisieren kann."
 
@@ -4268,9 +4265,8 @@ msgstr "Du hast genug gesehen. Mach ihn kalt, Macil!"
 msgid "TXT_SUB_LOG202"
 msgstr "Nächstes Mal hörst du auf mich."
 
-#, fuzzy
 msgid "TXT_SUB_LOG203"
-msgstr "Ugh, diese postapokalyptischen Preise..."
+msgstr "Diese postapokalyptischen Preise…"
 
 msgid "TXT_SUB_LOG204"
 msgstr "Nimm das große, Er wird dich nicht stoppen."
@@ -4448,9 +4444,8 @@ msgid "TXT_BBSUB_SCRIPT10_D12128_THERE"
 msgstr ""
 "Biomechanisch? Das erklärt ihren anscheinend endlosen Nachschub an Truppen. Und ihre miese Gesinnung.\n"
 
-#, fuzzy
 msgid "TXT_BBSUB_SCRIPT10_D16676_IAMTH"
-msgstr "Der Typ ist doch krank. Mach ihn alle!"
+msgstr "Der Typ ist doch krank... Mach ihn alle!"
 
 msgid "TXT_BBSUB_SCRIPT12_D12128_USETH"
 msgstr ""
