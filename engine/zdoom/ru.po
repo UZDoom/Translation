@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-16 04:51+0000\n"
-"Last-Translator: Andrei Stepanov <adem4ik@gmail.com>\n"
+"PO-Revision-Date: 2026-09-21 01:15+0000\n"
+"Last-Translator: Никита Скатьков <nikita.ska4oK@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -5416,13 +5416,13 @@ msgid "VALFORMAT_SECOND"
 msgstr "%s с"
 
 msgid "MAPCOLORMNU_SECTORFILLALPHA"
-msgstr "Альфа-канал заливки"
+msgstr "Заполнить альфа-канал"
 
 msgid "MAPCOLORMNU_SECTORFILLCOLOR"
-msgstr "Цвет заливки"
+msgstr "Заполнить цвет"
 
 msgid "ACCMNU_DOUBLECLICK_THRESHOLD"
-msgstr "Порог двойного щелчка"
+msgstr "Порог двойного клика"
 
 msgid "ACCMNU_TOOLTIP_DOUBLECLICK_THRESHOLD"
 msgstr ""
