@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-12 17:30+0000\n"
-"Last-Translator: Automatic translation add-on <noreply-addon-autotranslate@weblate.org>\n"
+"PO-Revision-Date: 2026-09-17 18:51+0000\n"
+"Last-Translator: Mohammad Ajam <mohammad.wael.s.ajam@gmail.com>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/uzdoom/common/ar/>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
@@ -452,10 +452,10 @@ msgid "OPTVAL_DEFAULT"
 msgstr "الافتراضي"
 
 msgid "JOYMNU_TITLE"
-msgstr ""
+msgstr "عدّل وحدة التحكم"
 
 msgid "JOYMNU_OPTIONS"
-msgstr ""
+msgstr "إعدادات وحدة التحكم"
 
 msgid "JOYMNU_NOMENU"
 msgstr ""

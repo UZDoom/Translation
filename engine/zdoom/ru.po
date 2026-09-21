@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-13 00:51+0000\n"
+"PO-Revision-Date: 2026-09-21 01:15+0000\n"
 "Last-Translator: Никита Скатьков <nikita.ska4oK@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/ru/>\n"
 "Language: ru\n"
@@ -5416,13 +5416,13 @@ msgid "VALFORMAT_SECOND"
 msgstr "%s с"
 
 msgid "MAPCOLORMNU_SECTORFILLALPHA"
-msgstr "Альфа-канал заливки"
+msgstr "Заполнить альфа-канал"
 
 msgid "MAPCOLORMNU_SECTORFILLCOLOR"
-msgstr "Цвет заливки"
+msgstr "Заполнить цвет"
 
 msgid "ACCMNU_DOUBLECLICK_THRESHOLD"
-msgstr "Порог двойного щелчка"
+msgstr "Порог двойного клика"
 
 msgid "ACCMNU_TOOLTIP_DOUBLECLICK_THRESHOLD"
 msgstr ""
@@ -5495,3 +5495,21 @@ msgstr "Сообщения: {ВКЛ|ОТКЛ}"
 
 msgid "AUTOMAPMNU_MATCHSTATUSBAR"
 msgstr "Соответствовать HUD с Состоянием строки"
+
+msgid "AUTOMAPMNU_SHOWSEENITEMS"
+msgstr "Показывать предметы"
+
+msgid "AUTOMAPMNU_SHOWSEENMONSTERS"
+msgstr "Показывать монстров"
+
+msgid "AUTOMAPMNU_SHOWSEENCORPSES"
+msgstr "Показывать трупы"
+
+msgid "AUTOMAPMNU_SHOWSEENFRIENDLIES"
+msgstr "Показывать дружественных персонажей"
+
+msgid "AUTOMAPMNU_SHOWSEENDECORATIONS"
+msgstr "Показывать декорации"
+
+msgid "OPTVAL_MONSTERS"
+msgstr "Монстры"
