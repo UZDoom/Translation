@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-26 14:51+0000\n"
+"PO-Revision-Date: 2026-09-26 16:51+0000\n"
 "Last-Translator: Teemu Piippo <teemu.s.piippo@gmail.com>\n"
 "Language-Team: Latin <https://hosted.weblate.org/projects/uzdoom/common/la/>\n"
 "Language: la\n"
@@ -50,7 +50,7 @@ msgid "TXT_X_CHEATS"
 msgstr "%s defraudat"
 
 msgid "TXT_SAY"
-msgstr "Dic:"
+msgstr "Dīc:"
 
 msgid "TXT_QUITENDOOM"
 msgstr "Preme quamlibet clavem vel deprime usquam in fenestra relicto."
@@ -65,13 +65,13 @@ msgid "SAVECOMMENT_TIME"
 msgstr "Tempus"
 
 msgid "MNU_LOADGAME"
-msgstr "Ludum Onus"
+msgstr "Onerā lūdum"
 
 msgid "MNU_SAVEGAME"
-msgstr "Serva Ludum"
+msgstr "Servā lūdum"
 
 msgid "MNU_NOPICTURE"
-msgstr "Non Picture"
+msgstr "Nūlla pictūra"
 
 msgid "MNU_DIFFVERSION"
 msgstr "Versio Diversa"
@@ -116,7 +116,7 @@ msgid "OPTMNU_HUD"
 msgstr "Optiones HUD"
 
 msgid "OPTMNU_MISCELLANEOUS"
-msgstr "Optiones variae"
+msgstr "Optiōnēs miscellāneae"
 
 msgid "OPTMNU_SOUND"
 msgstr "Optiōnēs sonōrum"
@@ -140,7 +140,7 @@ msgid "OPTMNU_WRITEINI"
 msgstr "Serva occasus current"
 
 msgid "OPTMNU_CONSOLE"
-msgstr "Ite ad consolandum"
+msgstr "Ī līneam mandātōrum"
 
 msgid "OPTMNU_NETWORK"
 msgstr "Optiones retis"
