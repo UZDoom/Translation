@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-26 16:51+0000\n"
+"PO-Revision-Date: 2026-09-26 18:51+0000\n"
 "Last-Translator: Teemu Piippo <teemu.s.piippo@gmail.com>\n"
 "Language-Team: Latin <https://hosted.weblate.org/projects/uzdoom/common/la/>\n"
 "Language: la\n"
@@ -77,7 +77,7 @@ msgid "MNU_DIFFVERSION"
 msgstr "Versio Diversa"
 
 msgid "MNU_NOFILES"
-msgstr "Nūllī fasciculi"
+msgstr "Nūllī fasciculī"
 
 msgid "MNU_DELETESG"
 msgstr "Visne vere ludum servatum delere?"
@@ -209,7 +209,7 @@ msgid "CNTRLMNU_LOOKDOWN"
 msgstr "Respice deorsum"
 
 msgid "CNTRLMNU_CENTERVIEW"
-msgstr "Visum centra"
+msgstr "Vīse ad centrum"
 
 msgid "CNTRLMNU_RUN"
 msgstr "Curre"
@@ -248,55 +248,55 @@ msgid "CNTRLMNU_WEAPONS"
 msgstr "Arma"
 
 msgid "CNTRLMNU_NEXTWEAPON"
-msgstr "Arma proxima"
+msgstr "Tēlum posterius"
 
 msgid "CNTRLMNU_PREVIOUSWEAPON"
-msgstr "Arma priora"
+msgstr "Tēlum prius"
 
 msgid "CNTRLMNU_SLOT1"
-msgstr "Telum 1"
+msgstr "Tēlum I"
 
 msgid "CNTRLMNU_SLOT2"
-msgstr "Telum 2"
+msgstr "Tēlum II"
 
 msgid "CNTRLMNU_SLOT3"
-msgstr "Telum 3"
+msgstr "Tēlum III"
 
 msgid "CNTRLMNU_SLOT4"
-msgstr "Telum 4"
+msgstr "Tēlum IV"
 
 msgid "CNTRLMNU_SLOT5"
-msgstr "Telum 5"
+msgstr "Tēlum V"
 
 msgid "CNTRLMNU_SLOT6"
-msgstr "Telum VI"
+msgstr "Tēlum VI"
 
 msgid "CNTRLMNU_SLOT7"
-msgstr "Telum 7"
+msgstr "Tēlum VII"
 
 msgid "CNTRLMNU_SLOT8"
-msgstr "Telum 8"
+msgstr "Tēlum VIII"
 
 msgid "CNTRLMNU_SLOT9"
-msgstr "Telum 9"
+msgstr "Tēlum IX"
 
 msgid "CNTRLMNU_SLOT0"
-msgstr "Telum 10"
+msgstr "Tēlum X"
 
 msgid "CNTRLMNU_INVENTORY"
-msgstr "Inventarium"
+msgstr "Inventārium"
 
 msgid "CNTRLMNU_USEITEM"
-msgstr "Item activate"
+msgstr "Ūtere rē"
 
 msgid "CNTRLMNU_USEALLITEMS"
-msgstr "Eu omnia items"
+msgstr "Ūtere rēbus omnibus"
 
 msgid "CNTRLMNU_NEXTITEM"
-msgstr "Res proxima"
+msgstr "Rēs posterior"
 
 msgid "CNTRLMNU_PREVIOUSITEM"
-msgstr "Res prior"
+msgstr "Rēs prior"
 
 msgid "MAPCNTRLMNU_TITLE"
 msgstr "Imperia tabulae"
@@ -323,22 +323,22 @@ msgid "MAPCNTRLMNU_ZOOMOUT"
 msgstr "Remove"
 
 msgid "MAPCNTRLMNU_TOGGLEZOOM"
-msgstr "Magnificationem alterna"
+msgstr "Alternā magnificatiōnem"
 
 msgid "MAPCNTRLMNU_TOGGLEFOLLOW"
-msgstr "Toggle sequitur"
+msgstr "Alternā sequentem"
 
 msgid "MAPCNTRLMNU_TOGGLEGRID"
-msgstr "Toggle malesuada euismod"
+msgstr "Alternā cancellōs"
 
 msgid "MAPCNTRLMNU_ROTATE"
-msgstr "Rotationem alterna"
+msgstr "Alternā rotātiōnem"
 
 msgid "MAPCNTRLMNU_TOGGLETEXTURE"
-msgstr "Toggle textura"
+msgstr "Alternā textūrās"
 
 msgid "CNTRLMNU_AUTOMAP"
-msgstr "Automappam alterna"
+msgstr "Alternā autochartam"
 
 msgid "CNTRLMNU_CHASECAM"
 msgstr "Camera sequens"
@@ -443,7 +443,7 @@ msgid "OPTVAL_TOUCHSCREENLIKE"
 msgstr "Ut tegumentum tactilis"
 
 msgid "OPTSTR_SIMPLEARROW"
-msgstr "Simple sagitta"
+msgstr "Sagitta simplex"
 
 msgid "OPTSTR_SYSTEMCURSOR"
 msgstr "Systema cursorium"
@@ -563,7 +563,7 @@ msgid "TXT_COLOR_DULLGREEN"
 msgstr "Olivaceus"
 
 msgid "TXT_COLOR_BEIGE"
-msgstr "Beige"
+msgstr "Cēreus"
 
 msgid "TXT_COLOR_LIGHTBLUE"
 msgstr "Caeruleus clarus"
@@ -647,19 +647,19 @@ msgid "MNU_COLORPICKER"
 msgstr "Colorem elige"
 
 msgid "AUTOMAPMNU_ROTATE"
-msgstr "Automappam rota"
+msgstr "Rotā autochartam"
 
 msgid "AUTOMAPMNU_FOLLOW"
-msgstr "Sequere ludio"
+msgstr "Sequere lūsōrem"
 
 msgid "AUTOMAPMNU_LINEALPHA"
-msgstr "Linea alpha"
+msgstr "Alpha līneārum"
 
 msgid "AUTOMAPMNU_LINETHICKNESS"
-msgstr "Linea crassitudine"
+msgstr "Crassitūdō līneārum"
 
 msgid "MAPCOLORMNU_TITLE"
-msgstr "Customize Map Colorum"
+msgstr "Adaptā colōrum chartae"
 
 msgid "MAPCOLORMNU_DEFAULTMAPCOLORS"
 msgstr "Colores proprios praedefinitos restitue"
@@ -758,7 +758,7 @@ msgid "SNDMNU_RANDOMIZEPITCHES"
 msgstr "Randomize vocum"
 
 msgid "SNDMNU_CHANNELS"
-msgstr "Integer cursus"
+msgstr "Canālēs sonōrum"
 
 msgid "SNDMNU_OPENAL"
 msgstr "OpenAL optiones"
