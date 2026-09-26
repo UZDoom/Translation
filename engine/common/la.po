@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-26 18:51+0000\n"
+"PO-Revision-Date: 2026-09-26 20:51+0000\n"
 "Last-Translator: Teemu Piippo <teemu.s.piippo@gmail.com>\n"
 "Language-Team: Latin <https://hosted.weblate.org/projects/uzdoom/common/la/>\n"
 "Language: la\n"
@@ -110,7 +110,7 @@ msgid "OPTMNU_GAMEPLAY"
 msgstr "Optiones lusionis"
 
 msgid "OPTMNU_AUTOMAP"
-msgstr "Optiones tabulae automaticae"
+msgstr "Optiōnēs autochartae"
 
 msgid "OPTMNU_HUD"
 msgstr "Optiones HUD"
