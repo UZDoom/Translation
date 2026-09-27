@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-23 15:51+0000\n"
-"Last-Translator: Tapwave <kolb.rodrigue@gmail.com>\n"
+"PO-Revision-Date: 2026-09-27 14:51+0000\n"
+"Last-Translator: Tim Richter <raymond_fry@users.noreply.hosted.weblate.org>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -5439,6 +5439,7 @@ msgstr "Confirmer"
 msgid "TXT_OK"
 msgstr "OK"
 
+#, fuzzy
 msgid "CMPTMNU_TRANSFERSECRET"
 msgstr "Le spécial de changement de sol de BOOM transfère les secrets."
 
