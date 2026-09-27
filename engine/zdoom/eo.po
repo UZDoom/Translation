@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-12 21:51+0000\n"
-"Last-Translator: Skyler Shirra <skyler.shirra@gmail.com>\n"
+"PO-Revision-Date: 2026-09-27 14:51+0000\n"
+"Last-Translator: Tim Richter <raymond_fry@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/eo/>\n"
 "Language: eo\n"
 "MIME-Version: 1.0\n"
@@ -5366,6 +5366,7 @@ msgstr "Sciigi"
 msgid "OPTVAL_DISABLE"
 msgstr "Malvalidigi"
 
+#, fuzzy
 msgid "CMPTMNU_TRANSFERSECRET"
 msgstr "La specialaĵo de BOOM pri ŝanĝado de plankoj transmetas sekreton."
 
