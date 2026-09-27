@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-22 17:51+0000\n"
+"PO-Revision-Date: 2026-09-27 14:51+0000\n"
 "Last-Translator: Tim Richter <raymond_fry@users.noreply.hosted.weblate.org>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/de/>\n"
 "Language: de\n"
@@ -2965,7 +2965,7 @@ msgid "GMPLYMNU_INFINITEAMMO"
 msgstr "Unendlich Munition"
 
 msgid "GMPLYMNU_INFINITEINVENTORY"
-msgstr "Unendliche Gegenstände"
+msgstr "Unendlich Gegenstände"
 
 msgid "GMPLYMNU_NOMONSTERS"
 msgstr "Keine Monster"
@@ -2977,7 +2977,7 @@ msgid "GMPLYMNU_MONSTERSRESPAWN"
 msgstr "Monster kehren zurück"
 
 msgid "GMPLYMNU_NORESPAWN"
-msgstr "Kein Zurückkehren"
+msgstr "Monster erscheinen nicht wieder"
 
 msgid "GMPLYMNU_ITEMSRESPAWN"
 msgstr "Gegenstände erscheinen wieder"
@@ -2992,7 +2992,7 @@ msgid "GMPLYMNU_INSTANTREACTION"
 msgstr "Alptraum Monsterreflexe"
 
 msgid "GMPLYMNU_DEGENERATION"
-msgstr "Entartung"
+msgstr "Degeneration"
 
 msgid "GMPLYMNU_NOAUTOAIM"
 msgstr "Zielautomatik zulassen"
@@ -3031,7 +3031,7 @@ msgid "GMPLYMNU_DONTCHECKAMMO"
 msgstr "Munition beim Waffenwechsel prüfen"
 
 msgid "GMPLYMNU_KILLBOSSSPAWNS"
-msgstr "Icons Tod tötet seine Lakaien"
+msgstr "Tod des Zeichens der Sünde tötet seine Lakaien"
 
 msgid "GMPLYMNU_NOCOUNTENDMONSTER"
 msgstr "Monster in Level-Beenden-Sektor zählen"
@@ -3064,7 +3064,7 @@ msgid "GMPLYMNU_ALLOWEXIT"
 msgstr "Verlassen erlauben"
 
 msgid "GMPLYMNU_BARRELSRESPAWN"
-msgstr "Fässer kehren zurück"
+msgstr "Fässer erscheinen wieder"
 
 msgid "GMPLYMNU_RESPAWNPROTECTION"
 msgstr "Respawn-Schutz"
@@ -3172,7 +3172,7 @@ msgid "CMPTMNU_ANYBOSSDEATH"
 msgstr "Jeder Boss-Tod zählt für Spezialaktionen"
 
 msgid "CMPTMNU_NODOORLIGHT"
-msgstr "BOOM-Türlichteffekt deaktivieren"
+msgstr "BOOM Türlichteffekt deaktivieren"
 
 msgid "CMPTMNU_LIGHT"
 msgstr "Finde benachbartes Licht wie in Doom"
@@ -3208,13 +3208,13 @@ msgid "CMPTMNU_WALLRUN"
 msgstr "Ermögliche Wandrennen"
 
 msgid "CMPTMNU_RAVENSCROLL"
-msgstr "Raven-Scroller benutzen originale Geschwindigkeit"
+msgstr "Raven Scroller benutzen originale Geschwindigkeit"
 
 msgid "CMPTMNU_TRACE"
 msgstr "Selbstreferenzierende Sektoren blockieren keine Schüsse"
 
 msgid "CMPTMNU_HITSCAN"
-msgstr "Benutze Original-Doom-Code für Hitscan-Checks"
+msgstr "Benutze Ursprünglichen Doom Code für Hitscan Checks"
 
 msgid "CMPTMNU_MISSILECLIP"
 msgstr "Benutze Doom-Größen für Kollisionen mit Projektilen"
@@ -3232,7 +3232,7 @@ msgid "CMPTMNU_SPRITESORT"
 msgstr "Umgekehrte Spritesortierung"
 
 msgid "CMPTMNU_SOUNDBEHAVIOR"
-msgstr "Sound-Verhalten"
+msgstr "Soundverhalten"
 
 msgid "CMPTMNU_SOUNDSLOTS"
 msgstr "Soundsystem für geräuschlosen BFG Trick einschränken"
@@ -3259,7 +3259,7 @@ msgid "CMPTMNU_CHECKSWITCHRANGE"
 msgstr "Erlaube fehlerhaftes CheckSwitchRange Verhalten"
 
 msgid "CMPTMNU_RAILINGHACK"
-msgstr "Fehlerhafte Strife-Geländer"
+msgstr "Fehlerhafte Strife Geländer"
 
 msgid "CMPTMNU_EXPLODE1"
 msgstr "Keine vertikale Bewegung durch Explosionen"
@@ -3439,7 +3439,7 @@ msgid "MAPCOLORMNU_COUNTITEMCOLOR"
 msgstr "Zähle Gegenstände"
 
 msgid "MAPCOLORMNU_OVERLAY"
-msgstr "Overlay-Modus"
+msgstr "Overlay Modus"
 
 msgid "MAPCOLORMNU_OVCHEATMODE"
 msgstr "Overlay-Cheatmodus"
@@ -3583,7 +3583,7 @@ msgid "SCRBRDMNU_OTHERPLAYERCOLOR"
 msgstr "Andere Spielerfarbe"
 
 msgid "SCRBRDMNU_DEATHMATCH"
-msgstr "Deathmatch-Optionen"
+msgstr "Deathmatch Optionen"
 
 msgid "SCRBRDMNU_TEAMDEATHMATCH"
 msgstr "Team-Deathmatch-Optionen"
@@ -3619,7 +3619,7 @@ msgid "ALTHUDMNU_SHOWTIME"
 msgstr "Zeit anzeigen"
 
 msgid "ALTHUDMNU_TIMECOLOR"
-msgstr "Zeit-Farbe"
+msgstr "Zeit Farbe"
 
 msgid "ALTHUDMNU_SHOWLAG"
 msgstr "Netzwerklatenz anzeigen"
@@ -3658,10 +3658,10 @@ msgid "ALTHUDMNU_TITLECOLOR"
 msgstr "Farbe für Levelnamen"
 
 msgid "ALTHUDMNU_MAPTIMECOLOR"
-msgstr "Farbe für Level-Zeit"
+msgstr "Farbe für Levelzeit"
 
 msgid "ALTHUDMNU_HUBTIMECOLOR"
-msgstr "Farbe für Hub-Zeit"
+msgstr "Farbe für Hubzeit"
 
 msgid "ALTHUDMNU_TOTALTIMECOLOR"
 msgstr "Farbe für Gesamtzeit"
@@ -3673,10 +3673,10 @@ msgid "ALTHUDMNU_COORDINATEMODE"
 msgstr "Koordinatenmodus"
 
 msgid "ALTHUDMNU_STATSNAMECOLOR"
-msgstr "Farbe für Statistik-Namen"
+msgstr "Farbe für Statistik (Namen)"
 
 msgid "ALTHUDMNU_STATSCOLOR"
-msgstr "Farbe für Statistik-Nummern"
+msgstr "Farbe für Statistik (Zahlen)"
 
 msgid "DSPLYMNU_CAPFPS"
 msgstr "Renderinterpolation"
@@ -3712,7 +3712,7 @@ msgid "DSPLYMNU_SCALEFUZZ"
 msgstr "Fuzz-Effekt Skalieren"
 
 msgid "DSPLYMNU_DRAWFUZZ"
-msgstr "Benutzter Fuzz-Effekt"
+msgstr "Benutzter Fuzz Effekt"
 
 msgid "DSPLYMNU_OLDTRANS"
 msgstr "Klasssische Transparenz"
@@ -3724,7 +3724,7 @@ msgid "DSPLYMNU_ROCKETTRAILS"
 msgstr "Raketenschweife"
 
 msgid "DSPLYMNU_BLOODTYPE"
-msgstr "Blut-Typ"
+msgstr "Blut Typ"
 
 msgid "DSPLYMNU_PUFFTYPE"
 msgstr "Pistolenrauch-Typ"
@@ -5522,4 +5522,4 @@ msgid "OPTVAL_MONSTERS"
 msgstr "Monster"
 
 msgid "CMPTMNU_TRANSFERSECRET"
-msgstr "BOOMs Transfer geheimnisse."
+msgstr "BOOMs Transfer geheimnisse"
