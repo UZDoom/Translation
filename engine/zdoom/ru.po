@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-21 01:15+0000\n"
-"Last-Translator: Никита Скатьков <nikita.ska4oK@gmail.com>\n"
+"PO-Revision-Date: 2026-09-27 14:51+0000\n"
+"Last-Translator: Tim Richter <raymond_fry@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -5429,6 +5429,7 @@ msgstr ""
 "Интервал между последовательными нажатиями клавиш для срабатывания события "
 "двойного щелчка"
 
+#, fuzzy
 msgid "CMPTMNU_TRANSFERSECRET"
 msgstr "Особый эффект BOOM при изменении пола передаёт секрет."
 
