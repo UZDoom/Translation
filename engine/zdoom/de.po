@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-27 14:51+0000\n"
+"PO-Revision-Date: 2026-09-27 17:51+0000\n"
 "Last-Translator: Tim Richter <raymond_fry@users.noreply.hosted.weblate.org>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/de/>\n"
 "Language: de\n"
@@ -3214,7 +3214,7 @@ msgid "CMPTMNU_TRACE"
 msgstr "Selbstreferenzierende Sektoren blockieren keine Schüsse"
 
 msgid "CMPTMNU_HITSCAN"
-msgstr "Benutze Ursprünglichen Doom Code für Hitscan Checks"
+msgstr "Ursprünglichen Doom Code für Hitscan Checks benutzen"
 
 msgid "CMPTMNU_MISSILECLIP"
 msgstr "Benutze Doom-Größen für Kollisionen mit Projektilen"
@@ -3724,10 +3724,10 @@ msgid "DSPLYMNU_ROCKETTRAILS"
 msgstr "Raketenschweife"
 
 msgid "DSPLYMNU_BLOODTYPE"
-msgstr "Blut Typ"
+msgstr "Blut"
 
 msgid "DSPLYMNU_PUFFTYPE"
-msgstr "Pistolenrauch-Typ"
+msgstr "Pistolenrauch"
 
 msgid "DSPLYMNU_MAXPARTICLES"
 msgstr "Anzahl Partikel"
@@ -3736,7 +3736,7 @@ msgid "DSPLYMNU_MAXDECALS"
 msgstr "Anzahl Trefferspuren"
 
 msgid "DSPLYMNU_PLAYERSPRITES"
-msgstr "Zeige Spieler-Sprites"
+msgstr "Spieler Sprites Anzeigen"
 
 msgid "DSPLYMNU_DEATHCAM"
 msgstr "Todeskamera"
@@ -3781,7 +3781,7 @@ msgid "SCALEMNU_STATBAR"
 msgstr "Statusleiste"
 
 msgid "SCALEMNU_HUD"
-msgstr "Vollbild-HUD"
+msgstr "Vollbild HUD"
 
 msgid "SCALEMNU_ALTHUD"
 msgstr "Alternatives HUD"
@@ -3841,7 +3841,7 @@ msgid "HUDMNU_SCALEOPT"
 msgstr "Skalierungsoptionen"
 
 msgid "MISCMNU_QUERYIWAD"
-msgstr "Zeige IWAD-Auswahl"
+msgstr "IWAD Auswahl anzeigen"
 
 msgid "MISCMNU_ALLCHEATS"
 msgstr "Ermögliche Cheats aus allen Spielen"
@@ -4220,7 +4220,7 @@ msgid "OPTSTR_SPLINE"
 msgstr "Spline"
 
 msgid "DSPLYMNU_GLOPT"
-msgstr "Hardwarerenderer"
+msgstr "Hardware Renderer"
 
 msgid "DSPLYMNU_SWOPT"
 msgstr "Software Renderer"
@@ -4229,7 +4229,7 @@ msgid "GLMNU_TITLE"
 msgstr "Hardware-Renderer Optionen"
 
 msgid "GLMNU_DYNLIGHT"
-msgstr "Dynamisches-Licht-Optionen"
+msgstr "Optionen für Dynamisches Licht"
 
 msgid "GLTEXMNU_SORTDRAWLIST"
 msgstr "Renderlisten nach Textur sortieren"
@@ -4870,7 +4870,7 @@ msgid "NETMNU_CHATSLOMO"
 msgstr "Chat-Verlangsamungsmodus (Sekunden)"
 
 msgid "OPTMNU_HAPTICS"
-msgstr "Haptik-Optionen"
+msgstr "Haptikeinstellungen"
 
 # How the engine should handle haptics in old mods
 msgid "HAPMNU_COMPAT"
