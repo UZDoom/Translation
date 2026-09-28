@@ -2,15 +2,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-08-10 23:42-0400\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-09-26 20:51+0000\n"
+"Last-Translator: Teemu Piippo <teemu.s.piippo@gmail.com>\n"
 "Language-Team: Latin <https://hosted.weblate.org/projects/uzdoom/common/la/>\n"
 "Language: la\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: python 3.14.6 polib 1.2.0\n"
+"X-Generator: Weblate 2026.10.dev0\n"
 
 msgid "PRESSYN"
 msgstr "Preme Y vel N."
@@ -50,7 +50,7 @@ msgid "TXT_X_CHEATS"
 msgstr "%s defraudat"
 
 msgid "TXT_SAY"
-msgstr "Dic:"
+msgstr "Dīc:"
 
 msgid "TXT_QUITENDOOM"
 msgstr "Preme quamlibet clavem vel deprime usquam in fenestra relicto."
@@ -59,25 +59,25 @@ msgid "NEWSAVE"
 msgstr "<Novus Ludus Servatus>"
 
 msgid "GGSAVED"
-msgstr "Ludus servavit."
+msgstr "Lūdus servātus est."
 
 msgid "SAVECOMMENT_TIME"
 msgstr "Tempus"
 
 msgid "MNU_LOADGAME"
-msgstr "Ludum Onus"
+msgstr "Onerā lūdum"
 
 msgid "MNU_SAVEGAME"
-msgstr "Serva Ludum"
+msgstr "Servā lūdum"
 
 msgid "MNU_NOPICTURE"
-msgstr "Non Picture"
+msgstr "Nūlla pictūra"
 
 msgid "MNU_DIFFVERSION"
 msgstr "Versio Diversa"
 
 msgid "MNU_NOFILES"
-msgstr "Nulli fasciculi"
+msgstr "Nūllī fasciculī"
 
 msgid "MNU_DELETESG"
 msgstr "Visne vere ludum servatum delere?"
@@ -92,13 +92,13 @@ msgid "OPTVAL_AUTO"
 msgstr "Automatice"
 
 msgid "OPTMNU_TITLE"
-msgstr "Optiones"
+msgstr "Optiōnēs"
 
 msgid "OPTMNU_CONTROLS"
 msgstr "Imperia configura"
 
 msgid "OPTMNU_MOUSE"
-msgstr "Optiones muris"
+msgstr "Optiōnēs mūris"
 
 msgid "OPTMNU_JOYSTICK"
 msgstr "Optiones moderaculi"
@@ -110,16 +110,16 @@ msgid "OPTMNU_GAMEPLAY"
 msgstr "Optiones lusionis"
 
 msgid "OPTMNU_AUTOMAP"
-msgstr "Optiones tabulae automaticae"
+msgstr "Optiōnēs autochartae"
 
 msgid "OPTMNU_HUD"
 msgstr "Optiones HUD"
 
 msgid "OPTMNU_MISCELLANEOUS"
-msgstr "Optiones variae"
+msgstr "Optiōnēs miscellāneae"
 
 msgid "OPTMNU_SOUND"
-msgstr "Optiones sonorum"
+msgstr "Optiōnēs sonōrum"
 
 msgid "ACCMNU_TITLE"
 msgstr "Optiones accessibilitatis"
@@ -140,7 +140,7 @@ msgid "OPTMNU_WRITEINI"
 msgstr "Serva occasus current"
 
 msgid "OPTMNU_CONSOLE"
-msgstr "Ite ad consolandum"
+msgstr "Ī līneam mandātōrum"
 
 msgid "OPTMNU_NETWORK"
 msgstr "Optiones retis"
@@ -149,7 +149,7 @@ msgid "OPTMNU_REVERB"
 msgstr "Editor ambitus reverberationis"
 
 msgid "CNTRLMNU_SWITCHTEXT1"
-msgstr "MODO VENIAT, BACKSPACE ut purgare"
+msgstr "ENTER ut mūtētur, BACKSPACE ut pūrgētur"
 
 msgid "CNTRLMNU_SWITCHTEXT2"
 msgstr "Preme novam clavem pro imperio; ESC ad remittendum"
@@ -158,19 +158,19 @@ msgid "CNTRLMNU_CONTROLS"
 msgstr "Imperia"
 
 msgid "CNTRLMNU_ATTACK"
-msgstr "Ignis"
+msgstr "Sclopētā"
 
 msgid "CNTRLMNU_ALTATTACK"
-msgstr "Ignis secundarius"
+msgstr "Sclopētā aliter"
 
 msgid "CNTRLMNU_RELOAD"
-msgstr "Arma reonera"
+msgstr "Reonerā arma"
 
 msgid "CNTRLMNU_USE"
-msgstr "Usus / Open"
+msgstr "Ūtere / Aperī"
 
 msgid "CNTRLMNU_FORWARD"
-msgstr "Progredere"
+msgstr "Prōgredere"
 
 msgid "CNTRLMNU_BACK"
 msgstr "Regredere"
@@ -209,7 +209,7 @@ msgid "CNTRLMNU_LOOKDOWN"
 msgstr "Respice deorsum"
 
 msgid "CNTRLMNU_CENTERVIEW"
-msgstr "Visum centra"
+msgstr "Vīse ad centrum"
 
 msgid "CNTRLMNU_RUN"
 msgstr "Curre"
@@ -248,55 +248,55 @@ msgid "CNTRLMNU_WEAPONS"
 msgstr "Arma"
 
 msgid "CNTRLMNU_NEXTWEAPON"
-msgstr "Arma proxima"
+msgstr "Tēlum posterius"
 
 msgid "CNTRLMNU_PREVIOUSWEAPON"
-msgstr "Arma priora"
+msgstr "Tēlum prius"
 
 msgid "CNTRLMNU_SLOT1"
-msgstr "Telum 1"
+msgstr "Tēlum I"
 
 msgid "CNTRLMNU_SLOT2"
-msgstr "Telum 2"
+msgstr "Tēlum II"
 
 msgid "CNTRLMNU_SLOT3"
-msgstr "Telum 3"
+msgstr "Tēlum III"
 
 msgid "CNTRLMNU_SLOT4"
-msgstr "Telum 4"
+msgstr "Tēlum IV"
 
 msgid "CNTRLMNU_SLOT5"
-msgstr "Telum 5"
+msgstr "Tēlum V"
 
 msgid "CNTRLMNU_SLOT6"
-msgstr "Telum VI"
+msgstr "Tēlum VI"
 
 msgid "CNTRLMNU_SLOT7"
-msgstr "Telum 7"
+msgstr "Tēlum VII"
 
 msgid "CNTRLMNU_SLOT8"
-msgstr "Telum 8"
+msgstr "Tēlum VIII"
 
 msgid "CNTRLMNU_SLOT9"
-msgstr "Telum 9"
+msgstr "Tēlum IX"
 
 msgid "CNTRLMNU_SLOT0"
-msgstr "Telum 10"
+msgstr "Tēlum X"
 
 msgid "CNTRLMNU_INVENTORY"
-msgstr "Inventarium"
+msgstr "Inventārium"
 
 msgid "CNTRLMNU_USEITEM"
-msgstr "Item activate"
+msgstr "Ūtere rē"
 
 msgid "CNTRLMNU_USEALLITEMS"
-msgstr "Eu omnia items"
+msgstr "Ūtere rēbus omnibus"
 
 msgid "CNTRLMNU_NEXTITEM"
-msgstr "Res proxima"
+msgstr "Rēs posterior"
 
 msgid "CNTRLMNU_PREVIOUSITEM"
-msgstr "Res prior"
+msgstr "Rēs prior"
 
 msgid "MAPCNTRLMNU_TITLE"
 msgstr "Imperia tabulae"
@@ -323,22 +323,22 @@ msgid "MAPCNTRLMNU_ZOOMOUT"
 msgstr "Remove"
 
 msgid "MAPCNTRLMNU_TOGGLEZOOM"
-msgstr "Magnificationem alterna"
+msgstr "Alternā magnificatiōnem"
 
 msgid "MAPCNTRLMNU_TOGGLEFOLLOW"
-msgstr "Toggle sequitur"
+msgstr "Alternā sequentem"
 
 msgid "MAPCNTRLMNU_TOGGLEGRID"
-msgstr "Toggle malesuada euismod"
+msgstr "Alternā cancellōs"
 
 msgid "MAPCNTRLMNU_ROTATE"
-msgstr "Rotationem alterna"
+msgstr "Alternā rotātiōnem"
 
 msgid "MAPCNTRLMNU_TOGGLETEXTURE"
-msgstr "Toggle textura"
+msgstr "Alternā textūrās"
 
 msgid "CNTRLMNU_AUTOMAP"
-msgstr "Automappam alterna"
+msgstr "Alternā autochartam"
 
 msgid "CNTRLMNU_CHASECAM"
 msgstr "Camera sequens"
@@ -443,7 +443,7 @@ msgid "OPTVAL_TOUCHSCREENLIKE"
 msgstr "Ut tegumentum tactilis"
 
 msgid "OPTSTR_SIMPLEARROW"
-msgstr "Simple sagitta"
+msgstr "Sagitta simplex"
 
 msgid "OPTSTR_SYSTEMCURSOR"
 msgstr "Systema cursorium"
@@ -563,7 +563,7 @@ msgid "TXT_COLOR_DULLGREEN"
 msgstr "Olivaceus"
 
 msgid "TXT_COLOR_BEIGE"
-msgstr "Beige"
+msgstr "Cēreus"
 
 msgid "TXT_COLOR_LIGHTBLUE"
 msgstr "Caeruleus clarus"
@@ -647,19 +647,19 @@ msgid "MNU_COLORPICKER"
 msgstr "Colorem elige"
 
 msgid "AUTOMAPMNU_ROTATE"
-msgstr "Automappam rota"
+msgstr "Rotā autochartam"
 
 msgid "AUTOMAPMNU_FOLLOW"
-msgstr "Sequere ludio"
+msgstr "Sequere lūsōrem"
 
 msgid "AUTOMAPMNU_LINEALPHA"
-msgstr "Linea alpha"
+msgstr "Alpha līneārum"
 
 msgid "AUTOMAPMNU_LINETHICKNESS"
-msgstr "Linea crassitudine"
+msgstr "Crassitūdō līneārum"
 
 msgid "MAPCOLORMNU_TITLE"
-msgstr "Customize Map Colorum"
+msgstr "Adaptā colōrum chartae"
 
 msgid "MAPCOLORMNU_DEFAULTMAPCOLORS"
 msgstr "Colores proprios praedefinitos restitue"
@@ -758,7 +758,7 @@ msgid "SNDMNU_RANDOMIZEPITCHES"
 msgstr "Randomize vocum"
 
 msgid "SNDMNU_CHANNELS"
-msgstr "Integer cursus"
+msgstr "Canālēs sonōrum"
 
 msgid "SNDMNU_OPENAL"
 msgstr "OpenAL optiones"

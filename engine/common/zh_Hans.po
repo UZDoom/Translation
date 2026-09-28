@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-08-28 02:51+0000\n"
+"PO-Revision-Date: 2026-09-28 03:51+0000\n"
 "Last-Translator: dwing <12104745@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/projects/uzdoom/common/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2026.9.dev0\n"
+"X-Generator: Weblate 2026.10.dev0\n"
 
 msgid "PRESSYN"
 msgstr "按Y键确认，按N键取消。"
@@ -1912,3 +1912,9 @@ msgstr "Nuked OPL3快速版"
 
 msgid "ADLVLMODEL_IMF_CREATOR"
 msgstr "IMF生成器"
+
+msgid "MNU_SAVEOLDVERSION"
+msgstr "旧引擎的版本"
+
+msgid "MNU_SAVEMISSINGWADS"
+msgstr "缺失内容"
