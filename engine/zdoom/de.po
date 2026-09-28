@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-27 17:51+0000\n"
+"PO-Revision-Date: 2026-09-28 19:51+0000\n"
 "Last-Translator: Tim Richter <raymond_fry@users.noreply.hosted.weblate.org>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/de/>\n"
 "Language: de\n"
@@ -3709,10 +3709,10 @@ msgid "DSPLYMNU_GZDFULLBRIGHT"
 msgstr "Ignoriere Sektorfarbe bei voller Helligkeit"
 
 msgid "DSPLYMNU_SCALEFUZZ"
-msgstr "Fuzz-Effekt Skalieren"
+msgstr "Unschärfeeffekt Skalieren"
 
 msgid "DSPLYMNU_DRAWFUZZ"
-msgstr "Benutzter Fuzz Effekt"
+msgstr "Benutzter Unschärfeeffekt"
 
 msgid "DSPLYMNU_OLDTRANS"
 msgstr "Klasssische Transparenz"
@@ -4274,7 +4274,7 @@ msgid "GLPREFMNU_SPRBLEND"
 msgstr "Glätte Spritekanten"
 
 msgid "GLPREFMNU_FUZZSTYLE"
-msgstr "Fuzz Stil"
+msgstr "Unschärfe Stil"
 
 msgid "GLPREFMNU_SPRBILLBOARD"
 msgstr "Spriteausrichtung"
