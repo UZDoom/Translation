@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-27 14:51+0000\n"
-"Last-Translator: Tim Richter <raymond_fry@users.noreply.hosted.weblate.org>\n"
+"PO-Revision-Date: 2026-09-28 03:51+0000\n"
+"Last-Translator: dwing <12104745@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
@@ -5421,9 +5421,8 @@ msgstr "无视"
 msgid "UPDATER_UP_TO_DATE"
 msgstr "已是最新！"
 
-#, fuzzy
 msgid "CMPTMNU_TRANSFERSECRET"
-msgstr "BOOM的地板更换方式以转移秘密属性。"
+msgstr "BOOM的地板更换方式以转移秘密属性"
 
 msgid "PICKER_THEME"
 msgstr "主题"
