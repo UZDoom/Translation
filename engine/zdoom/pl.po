@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-10-06 09:51+0000\n"
+"PO-Revision-Date: 2026-10-06 18:51+0000\n"
 "Last-Translator: Tim Richter <raymond_fry@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/pl/>\n"
 "Language: pl\n"
@@ -5435,3 +5435,47 @@ msgstr "Jasne"
 
 msgid "UPDATER_PROMPT_TO_INSTALL"
 msgstr "Prompt do instalowania"
+
+msgid "ACCMNU_TOOLTIP_EXAMPLE"
+msgstr ""
+"To jest przykładowa etykietka.\n"
+"Tutaj się znajduję dodatkowy tekst.\n"
+"…\n"
+"Tutaj jest bardzo długi ciąg tekstu który przedłuża się nie mając konkretnego zdania do powiedzenia, ponoć tak się naciąga tylko dlatego że deweloperom trudno było wytłumaczyć co ta opcja tak na prawdę robi."
+
+msgid "ACCMNU_TOOLTIP_LIGHT_RADIUS"
+msgstr "Kontroluje zasięg światła wokół gracza w jednostce mapy. Większe wartości rozjaśniają scenę."
+
+msgid "ACCMNU_TOOLTIP_LIGHT_EXTRA"
+msgstr "Ilość oświetlenia sektoru które ma być nakładane nad poziomami oświetlenia sektoru które już istnieją, jednocześnie zachowując istniejący tryb oświetlenia."
+
+msgid "DSPLYMNU_IMAGEADJUST_TOP1"
+msgstr "Z normalnego dystansu widzenia, dostosuj te suwaki."
+
+msgid "FILEPICKER_REPORTS"
+msgstr "Pliki Zip Raportu Zawieszenia"
+
+msgid "HUDMNU_CROSSHAIRYOFFSET"
+msgstr "Pionowy offset celownika"
+
+msgid "UPDATER_ASK_AUTO"
+msgstr ""
+"Czy chcesz automatycznie otrzymywać aktualizacje?\n"
+"(można to zmienić w oknie ustawień)"
+
+msgid "UPDATER_ASK_INTERVAL"
+msgstr ""
+"Jak często chcesz sprawdzić dostępność aktualizacji?\n"
+"(można to zmienić później w ustawieniach)"
+
+msgid "UPDATER_STARTING"
+msgstr "Rozpoczynanie Pobrania..."
+
+msgid "TXT_DOWNLOADING"
+msgstr "Pobieranie"
+
+msgid "TXT_BACK"
+msgstr "Wstecz"
+
+msgid "VALFORMAT_FPS"
+msgstr "%s kl/s"
