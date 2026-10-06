@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-10-06 09:51+0000\n"
+"PO-Revision-Date: 2026-10-06 18:51+0000\n"
 "Last-Translator: Tim Richter <raymond_fry@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/common/pl/>\n"
 "Language: pl\n"
@@ -1922,3 +1922,9 @@ msgstr "Twórca IMF"
 
 msgid "ADLVLMODEL_OCONNEL"
 msgstr "Sterownik FM Synth Jamie O'Connel'a"
+
+msgid "MNU_SAVEOLDVERSION"
+msgstr "Stara wersja silnika"
+
+msgid "MNU_SAVEMISSINGWADS"
+msgstr "Brak zawartości"
