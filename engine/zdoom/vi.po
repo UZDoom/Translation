@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-15 07:51+0000\n"
+"PO-Revision-Date: 2026-10-09 06:51+0000\n"
 "Last-Translator: TBinhfkl <anhthieufame2021@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/vi/>\n"
 "Language: vi\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2026.10.dev0\n"
+"X-Generator: Weblate 2026.10.1.dev0\n"
 
 msgid "PRESSKEY"
 msgstr "Nhấn một phím."
@@ -1083,16 +1083,16 @@ msgid "TXT_WPNGAUNTLETS"
 msgstr ""
 
 msgid "TXT_NEEDBLUEKEY"
-msgstr ""
+msgstr "Bạn cần một chiếc chìa khóa màu xanh để mở cánh cửa này"
 
 msgid "TXT_NEEDGREENKEY"
-msgstr ""
+msgstr "Bạn cần một chiếc chìa khóa màu xanh lá để mở cánh cửa này"
 
 msgid "TXT_NEEDYELLOWKEY"
-msgstr ""
+msgstr "Bạn cần một chiếc chìa khóa màu vàng để mở cánh cửa này"
 
 msgid "FN_CHICKEN"
-msgstr ""
+msgstr "Con gà"
 
 msgid "FN_BEAST"
 msgstr ""
@@ -1107,10 +1107,10 @@ msgid "FN_HERETICIMP"
 msgstr ""
 
 msgid "FN_IRONLICH"
-msgstr ""
+msgstr "Trớ trêu thay"
 
 msgid "FN_BONEKNIGHT"
-msgstr ""
+msgstr "Chiến binh xác sống"
 
 msgid "FN_MINOTAUR"
 msgstr ""
@@ -1146,160 +1146,160 @@ msgid "AMMO_PHOENIXROD"
 msgstr ""
 
 msgid "TAG_STAFF"
-msgstr ""
+msgstr "Nhân viên"
 
 msgid "TAG_GOLDWAND"
 msgstr ""
 
 msgid "OB_CHICKEN"
-msgstr ""
+msgstr "%o đã bị mổ đến chết."
 
 msgid "OB_BEAST"
-msgstr ""
+msgstr "%o bị cháy xém bởi một weredragon."
 
 msgid "OB_CLINK"
-msgstr ""
+msgstr "%o đã bị cắt bởi một sabreclaw."
 
 msgid "OB_DSPARIL1"
-msgstr ""
+msgstr "%o bị bỏng bởi D'Sparil's con rắn."
 
 msgid "OB_DSPARIL1HIT"
-msgstr ""
+msgstr "%o đã bị nhai nát bởi D'Sparil's con rắn."
 
 msgid "OB_DSPARIL2"
-msgstr ""
+msgstr "%o không phải là đối thủ của D'Sparil."
 
 msgid "OB_DSPARIL2HIT"
-msgstr ""
+msgstr "%o đã bị đánh gục bởi D'Sparil."
 
 msgid "OB_HERETICIMP"
-msgstr ""
+msgstr "%o bị sẹo bởi một gargoyle."
 
 msgid "OB_HERETICIMPHIT"
-msgstr ""
+msgstr "%o đã bị hack bởi một gargoyle."
 
 msgid "OB_IRONLICH"
-msgstr ""
+msgstr "%o đã bị tàn phá bởi một ironlich."
 
 msgid "OB_IRONLICHHIT"
-msgstr ""
+msgstr "Tôi đã có cơ hội tiếp xúc gần gũi với một ironlich."
 
 msgid "OB_BONEKNIGHT"
-msgstr ""
+msgstr "%o đã bị sa thải bởi một undead warrior."
 
 msgid "OB_BONEKNIGHTHIT"
-msgstr ""
+msgstr "%o đã bị giết bởi một undead warrior."
 
 msgid "OB_MINOTAUR"
-msgstr ""
+msgstr "%o đã bị thổi bay thành tro bụi bởi một Maulotaur."
 
 msgid "OB_MINOTAURHIT"
-msgstr ""
+msgstr "%o đã được nghiền thành bột bởi một Maulotaur."
 
 msgid "OB_MUMMY"
-msgstr ""
+msgstr "%o đã bị đập vỡ bởi một golem."
 
 msgid "OB_MUMMYLEADER"
-msgstr ""
+msgstr "%o đã bị tiếng hét đến chết bởi một nitrogolem."
 
 msgid "OB_SNAKE"
-msgstr ""
+msgstr "%o đã bị hoảng sợ bởi một ophidian."
 
 msgid "OB_WIZARD"
-msgstr ""
+msgstr "%o đã bị nguyền rủa bởi một wizard."
 
 msgid "OB_WIZARDHIT"
-msgstr ""
+msgstr "%o được sờ nắn bởi một wizard."
 
 msgid "OB_MPSTAFF"
-msgstr ""
+msgstr "%o đã được %k phụ trách."
 
 msgid "OB_MPGAUNTLETS"
-msgstr ""
+msgstr "%o bị giật bởi... của %k gauntlets."
 
 msgid "OB_MPGOLDWAND"
-msgstr ""
+msgstr "%o vẫy tay chào tạm biệt %k's elven wand."
 
 msgid "OB_MPCROSSBOW"
-msgstr ""
+msgstr "%o bị %k ghim ethereal crossbow."
 
 msgid "OB_MPBLASTER"
-msgstr ""
+msgstr "%o đã bị %k's mắng té tát dragon claw."
 
 msgid "OB_MPSKULLROD"
-msgstr ""
+msgstr "%o bị %k's gửi xuống Úc hellstaff."
 
 msgid "OB_MPPHOENIXROD"
-msgstr ""
+msgstr "%o đã bị thiêu thành tro bởi %k phoenix rod."
 
 msgid "OB_MPMACE"
-msgstr ""
+msgstr "%o đã bị %k từ chối firemace."
 
 msgid "OB_MPPSTAFF"
-msgstr ""
+msgstr "%o bị %k vỗ tay charged staff."
 
 msgid "OB_MPPGAUNTLETS"
-msgstr ""
+msgstr "%o đã bị %k vắt kiệt gauntlets."
 
 msgid "OB_MPPGOLDWAND"
-msgstr ""
+msgstr "%o đã bị %k tấn công elven wand."
 
 msgid "OB_MPPCROSSBOW"
-msgstr ""
+msgstr "%o đã bị %k lừa gạt ethereal crossbow."
 
 msgid "OB_MPPBLASTER"
-msgstr ""
+msgstr "%o đã bị xé xác bởi %k's dragon claw."
 
 msgid "OB_MPPSKULLROD"
-msgstr ""
+msgstr "%k trút Hellstaff lên %o."
 
 msgid "OB_MPPPHOENIXROD"
-msgstr ""
+msgstr "%o đã bị %k đốt cháy phoenix staff."
 
 msgid "OB_MPPMACE"
-msgstr ""
+msgstr "%o bị %k's đè bẹp giant mace sphere."
 
 msgid "TXT_MANA_1"
-msgstr ""
+msgstr "Mana Xanh"
 
 msgid "TXT_MANA_2"
-msgstr ""
+msgstr "Mana Xanh lá"
 
 msgid "TXT_MANA_BOTH"
-msgstr ""
+msgstr "Mana Kết hợp"
 
 msgid "TXT_KEY_STEEL"
-msgstr ""
+msgstr "Chìa khóa thép"
 
 msgid "TXT_KEY_CAVE"
-msgstr ""
+msgstr "Chìa khóa hang động"
 
 msgid "TXT_KEY_AXE"
-msgstr ""
+msgstr "Chìa khóa rìu"
 
 msgid "TXT_KEY_FIRE"
-msgstr ""
+msgstr "Chìa khóa ngọn lửa"
 
 msgid "TXT_KEY_EMERALD"
-msgstr ""
+msgstr "Chìa khóa Ngọc lục bảo"
 
 msgid "TXT_KEY_DUNGEON"
-msgstr ""
+msgstr "Chìa khóa Hầm ngục"
 
 msgid "TXT_KEY_SILVER"
-msgstr ""
+msgstr "Chìa khóa Bạc"
 
 msgid "TXT_KEY_RUSTED"
-msgstr ""
+msgstr "Chìa khóa gỉ sét"
 
 msgid "TXT_KEY_HORN"
-msgstr ""
+msgstr "Chìa khóa còi"
 
 msgid "TXT_KEY_SWAMP"
-msgstr ""
+msgstr "Chìa khóa Đầm lầy"
 
 msgid "TXT_KEY_CASTLE"
-msgstr ""
+msgstr "Chìa khóa lâu đài"
 
 msgid "TXT_ARTIINVULNERABILITY2"
 msgstr ""
