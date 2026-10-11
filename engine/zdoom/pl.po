@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-10-06 18:51+0000\n"
+"PO-Revision-Date: 2026-10-11 09:51+0000\n"
 "Last-Translator: Tim Richter <raymond_fry@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/pl/>\n"
 "Language: pl\n"
@@ -1520,16 +1520,16 @@ msgid "FN_DRAGON"
 msgstr "Wiwerna Śmierci"
 
 msgid "FN_KORAX"
-msgstr ""
+msgstr "Korax"
 
 msgid "FN_FBOSS"
-msgstr ""
+msgstr "Zedek"
 
 msgid "FN_MBOSS"
-msgstr ""
+msgstr "Menelkir"
 
 msgid "FN_CBOSS"
-msgstr ""
+msgstr "Traductus"
 
 msgid "FN_HERESIARCH"
 msgstr "Herezjarcha"
@@ -2312,10 +2312,10 @@ msgid "TAG_BEGGAR"
 msgstr "Żebrak"
 
 msgid "TAG_MACIL1"
-msgstr ""
+msgstr "Macil"
 
 msgid "TAG_MACIL2"
-msgstr ""
+msgstr "Macil"
 
 msgid "TAG_MEDIC"
 msgstr "Medyk"
@@ -5479,3 +5479,6 @@ msgstr "Wstecz"
 
 msgid "VALFORMAT_FPS"
 msgstr "%s kl/s"
+
+msgid "TAG_MACIL"
+msgstr "Macil"
