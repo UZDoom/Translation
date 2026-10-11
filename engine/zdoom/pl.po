@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-10-11 09:51+0000\n"
+"PO-Revision-Date: 2026-10-11 11:51+0000\n"
 "Last-Translator: Tim Richter <raymond_fry@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/pl/>\n"
 "Language: pl\n"
@@ -472,7 +472,6 @@ msgstr "Sekrety"
 msgid "TXT_IMTIME"
 msgstr "Czas"
 
-#, fuzzy
 msgid "TXT_IMPAR"
 msgstr "Par"
 
@@ -4251,9 +4250,8 @@ msgstr "Sortowanie list renderowania wdług tekstur"
 msgid "GLLIGHTMNU_TITLE"
 msgstr "Dynamiczne Oświetlenie"
 
-#, fuzzy
 msgid "GLLIGHTMNU_LIGHTSENABLED"
-msgstr "Dynamiczne Oświetlenie (Sprzętowe)"
+msgstr "Dynamiczne Oświetlenie"
 
 msgid "GLLIGHTMNU_LIGHTSPRITES"
 msgstr "Światło ma wpływ na sprite'y"
