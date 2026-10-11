@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-10-11 11:51+0000\n"
+"PO-Revision-Date: 2026-10-11 13:51+0000\n"
 "Last-Translator: Tim Richter <raymond_fry@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/pl/>\n"
 "Language: pl\n"
@@ -323,9 +323,8 @@ msgstr "Wszystkie klucze"
 msgid "TXT_CHEATIDDQD"
 msgstr "Próbujesz oszukiwać, co? Teraz giń!"
 
-#, fuzzy
 msgid "TXT_CHEATIDKFA"
-msgstr "Oszust—nie zasługujesz na broń"
+msgstr "Oszust — nie zasługujesz na broń"
 
 msgid "TXT_CHEATARTIFACTS3"
 msgstr "Udało ci się"
