@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-10-06 18:51+0000\n"
+"PO-Revision-Date: 2026-10-11 11:51+0000\n"
 "Last-Translator: Tim Richter <raymond_fry@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/common/pl/>\n"
 "Language: pl\n"
@@ -508,9 +508,8 @@ msgstr "Brak osi do skonfigurowania"
 msgid "OPTVAL_NONE"
 msgstr "Żadne"
 
-#, fuzzy
 msgid "OPTVAL_TURNING"
-msgstr "Obracanie się"
+msgstr "Patrzenie w lewo/prawo"
 
 msgid "OPTVAL_LOOKINGUPDOWN"
 msgstr "Patrzenie w górę/w dół"
@@ -770,9 +769,8 @@ msgstr "Zaawansowane Opcje"
 msgid "SNDMNU_MODREPLAYER"
 msgstr "Opcje Modułu Odtwarzacza"
 
-#, fuzzy
 msgid "SNDMNU_MIDIPLAYER"
-msgstr "Opcje Odtwarzacza MIDI"
+msgstr "Opcje urządzenia MIDI"
 
 msgid "ADVSNDMNU_TITLE"
 msgstr "Zaawansowane Opcje Dźwięku"
@@ -1144,7 +1142,6 @@ msgstr "Awers"
 msgid "OPTVAL_REVERSEFIRST"
 msgstr "Rewers"
 
-#, fuzzy
 msgid "GLMNU_POSTPROCESS"
 msgstr "Przetwarzanie końcowe"
 
@@ -1765,9 +1762,8 @@ msgstr "Pokaż listę zmian"
 msgid "PICKER_TAB_RELEASE"
 msgstr "Lista Zmian"
 
-#, fuzzy
 msgid "NOTES_RELEASED"
-msgstr "Wydane"
+msgstr "%s wersja %s, wydana %s"
 
 msgid "PICKER_SHOWTHIS"
 msgstr "Pokaż tę stronę po aktualizacji"
