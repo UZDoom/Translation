@@ -2,15 +2,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-08-10 23:42-0400\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-10-12 19:51+0000\n"
+"Last-Translator: ButterflyOfFire <boffire@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Kabyle <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/kab/>\n"
 "Language: kab\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: python 3.14.6 polib 1.2.0\n"
+"X-Generator: Weblate 2026.11.dev0\n"
 
 msgid "PRESSKEY"
 msgstr ""
@@ -49,7 +49,7 @@ msgid "ENDGAME"
 msgstr ""
 
 msgid "RAVENQUITMSG"
-msgstr ""
+msgstr "D tidet tebɣiḍ ad teffɣeḍ?"
 
 msgctxt "heretic"
 msgid "SWSTRING"
@@ -60,6 +60,8 @@ msgstr ""
 
 msgid "QUITMSG1"
 msgstr ""
+"Ttxil-k, ur ttṛuḥu ara, aṭas n ccwaṭen\n"
+"i d-yeqqimen aten-nneɣ!"
 
 msgid "QUITMSG2"
 msgstr ""
@@ -149,7 +151,7 @@ msgid "TXT_DEFAULTPICKUPMSG"
 msgstr ""
 
 msgid "PD_ANY"
-msgstr ""
+msgstr "Akken tebɣu tili tsarut, ad teldi tawwurt-a"
 
 msgid "PD_ANYOBJ"
 msgstr ""
@@ -329,7 +331,7 @@ msgid "SCORE_BONUS"
 msgstr ""
 
 msgid "SCORE_COLOR"
-msgstr ""
+msgstr "Ini"
 
 msgid "SCORE_SECRET"
 msgstr ""
@@ -362,7 +364,7 @@ msgid "TXT_IMKILLS"
 msgstr ""
 
 msgid "TXT_IMITEMS"
-msgstr ""
+msgstr "Tiɣawsiwin"
 
 msgid "TXT_IMSECRETS"
 msgstr ""
@@ -1011,7 +1013,7 @@ msgid "TXT_NEEDYELLOWKEY"
 msgstr ""
 
 msgid "FN_CHICKEN"
-msgstr ""
+msgstr "Tayaẓiḍt"
 
 msgid "FN_BEAST"
 msgstr ""
@@ -3788,7 +3790,7 @@ msgid "OPTVAL_STRIFE"
 msgstr ""
 
 msgid "OPTVAL_PLAYER"
-msgstr ""
+msgstr "Amyurar"
 
 msgid "OPTVAL_MAP"
 msgstr ""
@@ -3827,7 +3829,7 @@ msgid "OPTVAL_SYSTEMSECONDS"
 msgstr ""
 
 msgid "OPTVAL_SYSTEM"
-msgstr ""
+msgstr "Anagraw"
 
 msgid "OPTVAL_NETGAMESONLY"
 msgstr ""
@@ -3842,7 +3844,7 @@ msgid "OPTVAL_SCRIPTSONLY"
 msgstr ""
 
 msgid "OPTVAL_ALL"
-msgstr ""
+msgstr "Akk"
 
 msgid "OPTVAL_ONLYLASTONE"
 msgstr ""
@@ -4931,10 +4933,10 @@ msgid "ACTION_COPYTOCLIPBOARD"
 msgstr ""
 
 msgid "ACTION_RESTART"
-msgstr ""
+msgstr "Ales asekker"
 
 msgid "ACTION_ABORT"
-msgstr ""
+msgstr "Sefsex"
 
 msgid "ACTION_STARTGAME"
 msgstr ""
