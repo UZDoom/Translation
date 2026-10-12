@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-10-11 13:51+0000\n"
+"PO-Revision-Date: 2026-10-12 19:51+0000\n"
 "Last-Translator: Tim Richter <raymond_fry@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/pl/>\n"
 "Language: pl\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 2026.10.1.dev0\n"
+"X-Generator: Weblate 2026.11.dev0\n"
 
 msgid "PRESSKEY"
 msgstr "Wciśnij dowolny klawisz."
@@ -111,10 +111,9 @@ msgstr ""
 "Chcesz powiedzieć, że wolisz\n"
 "ode mnie DOS-a, co?"
 
-#, fuzzy
 msgid "QUITMSG5"
 msgstr ""
-"Nie wychodź jeszcze—za tamtym\n"
+"Nie wychodź jeszcze — za tamtym\n"
 "rogiem czai się demon!"
 
 msgid "QUITMSG6"
@@ -4706,9 +4705,8 @@ msgid "GMPLYMNU_NOLOCALDROP"
 msgstr "Wyłącz współdzielenie wypadających przedmiotów"
 
 # Disables autoloading save on death
-#, fuzzy
 msgid "MISCMNU_RESTARTONDEATH"
-msgstr "Restartuj poziom po śmierci"
+msgstr "Restartuj z Pistoletem po śmierci"
 
 # Resets inventory on every map
 #, fuzzy
@@ -5159,9 +5157,8 @@ msgstr ""
 msgid "ERRORMNU_SAVE"
 msgstr "Zapisz Raport"
 
-#, fuzzy
 msgid "OPTVAL_SMOOTH"
-msgstr "Gładki"
+msgstr "Gładkie"
 
 #, fuzzy
 msgid "TAG_MAULER"
@@ -5479,3 +5476,9 @@ msgstr "%s kl/s"
 
 msgid "TAG_MACIL"
 msgstr "Macil"
+
+msgid "VALFORMAT_MULTIPLIER"
+msgstr "%s ×"
+
+msgid "VALFORMAT_PERCENT"
+msgstr "%s %%"
