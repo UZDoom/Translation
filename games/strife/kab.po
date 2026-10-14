@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-01-23 19:05+0000\n"
+"PO-Revision-Date: 2026-10-14 23:51+0000\n"
 "Last-Translator: ButterflyOfFire <boffire@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Kabyle <https://hosted.weblate.org/projects/doom-engine-games/strife/kab/>\n"
 "Language: kab\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.16-dev\n"
+"X-Generator: Weblate 2026.11.dev0\n"
 
 msgid "TXT_STRIFE_MAP01"
 msgstr ""
@@ -351,10 +351,10 @@ msgid "TXT_RNO0_SCRIPT02_D16676_NOYOU"
 msgstr ""
 
 msgid "TXT_RYES1_SCRIPT02_D15160_THANK"
-msgstr ""
+msgstr "Tanemmirt. Dacu nniḍen?"
 
 msgid "TXT_RNO1_SCRIPT02_D15160_YOUCA"
-msgstr ""
+msgstr "Ur tesɛiḍ ara aṭas n isuṛdiyen. Ass-ik d ameggaz."
 
 msgid "TXT_DLG_SCRIPT02_D16676_WHATC"
 msgstr ""
@@ -376,7 +376,7 @@ msgstr ""
 
 # MAP02: Armory.
 msgid "TXT_DLG_SCRIPT02_D18192_WELCO"
-msgstr ""
+msgstr "Ansuf yis-k. D acu i zemreɣ ad ak-d-ssekneɣ?"
 
 msgid "TXT_RPLY0_SCRIPT02_D18192_ENVIR"
 msgstr ""
@@ -385,7 +385,7 @@ msgid "TXT_RYES0_SCRIPT02_D18192_WELLH"
 msgstr ""
 
 msgid "TXT_RNO0_SCRIPT02_D18192_IMSOR"
-msgstr ""
+msgstr "Ssuref-iyi, maca ur tesɛiḍ ara aṭas n yedrimen i waya."
 
 msgid "TXT_RPLY1_SCRIPT02_D18192_LEATH"
 msgstr ""
@@ -607,7 +607,7 @@ msgid "TXT_RPLY0_SCRIPT02_D48512_HEDBE"
 msgstr ""
 
 msgid "TXT_RPLY1_SCRIPT02_D48512_WHATW"
-msgstr ""
+msgstr "Dacu! Anida-ten yedrimen-iw?"
 
 msgid "TXT_DLG_SCRIPT02_D50028_GETLO"
 msgstr ""
@@ -626,7 +626,7 @@ msgid "TXT_DLG_SCRIPT02_D54576_ILIKE"
 msgstr ""
 
 msgid "TXT_RPLY0_SCRIPT02_D54576_CALLM"
-msgstr ""
+msgstr "Ssawal-iyi win yessizdigen"
 
 msgid "TXT_RPLY1_SCRIPT02_D54576_IMNOT"
 msgstr ""
@@ -867,7 +867,7 @@ msgid "TXT_DLG_SCRIPT03_D4548_GOODB"
 msgstr ""
 
 msgid "TXT_RPLY0_SCRIPT03_D4548_WHERE"
-msgstr ""
+msgstr "Seg wansi ara bduɣ?"
 
 # (Prison mission)
 msgid "TXT_DLG_SCRIPT03_D6064_FRANK"
@@ -890,7 +890,7 @@ msgid "TXT_DLG_SCRIPT03_D10612_THEPR"
 msgstr ""
 
 msgid "TXT_RPLY0_SCRIPT03_D10612_IWILL"
-msgstr ""
+msgstr "Ad t-xedmeɣ. Dacu nniḍen?"
 
 msgid "TXT_DLG_SCRIPT03_D12128_ASING"
 msgstr ""
@@ -1124,10 +1124,10 @@ msgid "TXT_DLG_SCRIPT04_D6064_GOON"
 msgstr ""
 
 msgid "TXT_RPLY0_SCRIPT04_D6064_DOYOU"
-msgstr ""
+msgstr "Teẓriḍ anda-t?"
 
 msgid "TXT_DLG_SCRIPT04_D7580_IDONT"
-msgstr ""
+msgstr "Ur ẓriɣ anda-t. Ttɛassaɣ kan tadimt-a n uxemmuj-a n ṭṭubbat."
 
 msgid "TXT_DLG_SCRIPT04_D9096_YOUAR"
 msgstr ""
@@ -1155,7 +1155,7 @@ msgid "TXT_DLG_SCRIPT04_D18192_OHDAM"
 msgstr ""
 
 msgid "TXT_RPLY0_SCRIPT04_D18192_ALLRI"
-msgstr ""
+msgstr "Yerbeḥ, ad k-ǧǧeɣ ad tṛuḥeḍ."
 
 msgid "TXT_RPLY1_SCRIPT04_D18192_SORRY"
 msgstr ""
@@ -1361,7 +1361,7 @@ msgid "TXT_DLG_SCRIPT06_D1516_DOMYF"
 msgstr ""
 
 msgid "TXT_RPLY0_SCRIPT06_D1516_HOWWI"
-msgstr ""
+msgstr "Amek ara ẓreɣ dakken teldi?"
 
 msgid "TXT_DLG_SCRIPT06_D3032_BRING"
 msgstr ""
@@ -1541,7 +1541,7 @@ msgid "TXT_DLG_SCRIPT10_D12128_THERE"
 msgstr ""
 
 msgid "TXT_RPLY0_SCRIPT10_D12128_WHERE"
-msgstr ""
+msgstr "Anda i d-tezga?"
 
 msgid "TXT_DLG_SCRIPT10_D13644_ONEOF"
 msgstr ""
