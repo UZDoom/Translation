@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-10-12 19:51+0000\n"
+"PO-Revision-Date: 2026-10-14 23:51+0000\n"
 "Last-Translator: ButterflyOfFire <boffire@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Kabyle <https://hosted.weblate.org/projects/uzdoom/common/kab/>\n"
 "Language: kab\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Weblate 2026.11.dev0\n"
 
 msgid "PRESSYN"
-msgstr ""
+msgstr "Sit ɣef Y naɣ N."
 
 msgid "TXT_YES"
 msgstr "Ih"
@@ -40,10 +40,10 @@ msgid "TXT_SAY"
 msgstr "Ini-d:"
 
 msgid "TXT_QUITENDOOM"
-msgstr ""
+msgstr "Tekki ɣef kra n tqeffalt neɣ sit ɣef kra n umkan deg usfaylu akken ad teffɣeḍ."
 
 msgid "NEWSAVE"
-msgstr ""
+msgstr "<Afaylu Amaynut n Usekles>"
 
 msgid "GGSAVED"
 msgstr ""
@@ -64,7 +64,7 @@ msgid "MNU_DIFFVERSION"
 msgstr ""
 
 msgid "MNU_NOFILES"
-msgstr ""
+msgstr "Ulac ifuyla"
 
 msgid "MNU_DELETESG"
 msgstr ""
@@ -76,10 +76,10 @@ msgid "OPTVAL_ON"
 msgstr "D urmid"
 
 msgid "OPTVAL_AUTO"
-msgstr ""
+msgstr "Awurman"
 
 msgid "OPTMNU_TITLE"
-msgstr ""
+msgstr "Tixtiṛiyin"
 
 msgid "OPTMNU_CONTROLS"
 msgstr ""
@@ -91,13 +91,13 @@ msgid "OPTMNU_JOYSTICK"
 msgstr ""
 
 msgid "OPTMNU_PLAYER"
-msgstr ""
+msgstr "Tawila n umyurar"
 
 msgid "OPTMNU_GAMEPLAY"
 msgstr ""
 
 msgid "OPTMNU_AUTOMAP"
-msgstr ""
+msgstr "Tawila n tkarḍa"
 
 msgid "OPTMNU_HUD"
 msgstr ""
@@ -154,13 +154,13 @@ msgid "CNTRLMNU_RELOAD"
 msgstr ""
 
 msgid "CNTRLMNU_USE"
-msgstr ""
+msgstr "Seqdec / Ldi"
 
 msgid "CNTRLMNU_FORWARD"
-msgstr ""
+msgstr "Tikli ar sdat"
 
 msgid "CNTRLMNU_BACK"
-msgstr ""
+msgstr "Tikli timendeffirt"
 
 msgid "CNTRLMNU_MOVELEFT"
 msgstr ""
@@ -178,10 +178,10 @@ msgid "CNTRLMNU_TURN180"
 msgstr ""
 
 msgid "CNTRLMNU_JUMP"
-msgstr ""
+msgstr "Aǧelleb"
 
 msgid "CNTRLMNU_CROUCH"
-msgstr ""
+msgstr "Knu"
 
 msgid "CNTRLMNU_TOGGLECROUCH"
 msgstr ""
@@ -220,7 +220,7 @@ msgid "MNU_MULTIPLAYER"
 msgstr ""
 
 msgid "CNTRLMNU_SAY"
-msgstr ""
+msgstr "Mmeslay"
 
 msgid "CNTRLMNU_WEAPONS_TITLE"
 msgstr ""
@@ -331,7 +331,7 @@ msgid "CNTRLMNU_CHASECAM"
 msgstr ""
 
 msgid "CNTRLMNU_SCREENSHOT"
-msgstr ""
+msgstr "Tuṭṭfa n ugdil"
 
 msgid "CNTRLMNU_PAUSE"
 msgstr ""
@@ -343,7 +343,7 @@ msgid "CNTRLMNU_DISPLAY_DEC"
 msgstr ""
 
 msgid "CNTRLMNU_OPEN_HELP"
-msgstr ""
+msgstr "Ldi Tallalt"
 
 msgid "CNTRLMNU_OPEN_SAVE"
 msgstr ""
@@ -358,7 +358,7 @@ msgid "CNTRLMNU_OPEN_DISPLAY"
 msgstr ""
 
 msgid "CNTRLMNU_QUICKSAVE"
-msgstr ""
+msgstr "Asekles arurad"
 
 msgid "CNTRLMNU_QUICKLOAD"
 msgstr ""
@@ -370,7 +370,7 @@ msgid "CNTRLMNU_TOGGLE_MESSAGES"
 msgstr ""
 
 msgid "CNTRLMNU_MENU_QUIT"
-msgstr ""
+msgstr "Tuffɣa seg wurar"
 
 msgid "MOUSEMNU_ENABLEMOUSE"
 msgstr ""
@@ -382,7 +382,7 @@ msgid "MOUSEMNU_SHOWBACKBUTTON"
 msgstr ""
 
 msgid "MOUSEMNU_CURSOR"
-msgstr ""
+msgstr "Taḥnaccaḍṭ"
 
 msgid "MOUSEMNU_SENSITIVITY_X"
 msgstr ""
