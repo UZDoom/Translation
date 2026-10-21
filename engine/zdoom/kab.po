@@ -2,18 +2,18 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-08-10 23:42-0400\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
+"PO-Revision-Date: 2026-10-14 21:51+0000\n"
+"Last-Translator: ButterflyOfFire <boffire@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Kabyle <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/kab/>\n"
 "Language: kab\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: python 3.14.6 polib 1.2.0\n"
+"X-Generator: Weblate 2026.11.dev0\n"
 
 msgid "PRESSKEY"
-msgstr ""
+msgstr "Tekki ɣef tqeffalt."
 
 msgid "SECRETMESSAGE"
 msgstr ""
@@ -49,7 +49,7 @@ msgid "ENDGAME"
 msgstr ""
 
 msgid "RAVENQUITMSG"
-msgstr ""
+msgstr "D tidet tebɣiḍ ad teffɣeḍ?"
 
 msgctxt "heretic"
 msgid "SWSTRING"
@@ -60,24 +60,32 @@ msgstr ""
 
 msgid "QUITMSG1"
 msgstr ""
+"Ttxil-k, ur ttṛuḥu ara, aṭas n ccwaṭen\n"
+"i d-yeqqimen ad aten-nneɣ!"
 
 msgid "QUITMSG2"
 msgstr ""
 
 msgid "QUITMSG3"
 msgstr ""
+"Lemmer lliɣ d kečč, ur ttṛuḥuɣ ara.\n"
+"DOS d lmerta."
 
 msgid "QUITMSG4"
 msgstr ""
+"Tebɣiḍ ad d-tiniḍ d akken DOS\n"
+"yif-iyi, anaɣ?"
 
 msgid "QUITMSG5"
 msgstr ""
 
 msgid "QUITMSG6"
 msgstr ""
+"Teẓriḍ, tikkelt i d-iteddun ara d-tkecmeḍ\n"
+"ɣer da ad k-sserɣeɣ."
 
 msgid "QUITMSG7"
-msgstr ""
+msgstr "Aha, ddu, ffeɣ. Ur iyi-tewqiɛ ara deg-k."
 
 msgid "QUITMSG8"
 msgstr ""
@@ -149,7 +157,7 @@ msgid "TXT_DEFAULTPICKUPMSG"
 msgstr ""
 
 msgid "PD_ANY"
-msgstr ""
+msgstr "Akken tebɣu tili tsarut, ad teldi tawwurt-a"
 
 msgid "PD_ANYOBJ"
 msgstr ""
@@ -173,7 +181,7 @@ msgid "HUSTR_MSGU"
 msgstr ""
 
 msgid "HUSTR_TALKTOSELF1"
-msgstr ""
+msgstr "Tesmermugeḍ iman-ik"
 
 msgid "HUSTR_TALKTOSELF2"
 msgstr ""
@@ -218,7 +226,7 @@ msgid "TXT_CHEATHEALTH"
 msgstr ""
 
 msgid "TXT_CHEATKEYS"
-msgstr ""
+msgstr "Akk tisura"
 
 msgid "TXT_CHEATIDDQD"
 msgstr ""
@@ -329,13 +337,13 @@ msgid "SCORE_BONUS"
 msgstr ""
 
 msgid "SCORE_COLOR"
-msgstr ""
+msgstr "Ini"
 
 msgid "SCORE_SECRET"
 msgstr ""
 
 msgid "SCORE_NAME"
-msgstr ""
+msgstr "Isem"
 
 msgid "SCORE_DELAY"
 msgstr ""
@@ -353,7 +361,7 @@ msgid "SCORE_MISSED"
 msgstr ""
 
 msgid "SCORE_TOTAL"
-msgstr ""
+msgstr "Aɣrud"
 
 msgid "SCORE_LVLTIME"
 msgstr ""
@@ -362,13 +370,13 @@ msgid "TXT_IMKILLS"
 msgstr ""
 
 msgid "TXT_IMITEMS"
-msgstr ""
+msgstr "Tiɣawsiwin"
 
 msgid "TXT_IMSECRETS"
 msgstr ""
 
 msgid "TXT_IMTIME"
-msgstr ""
+msgstr "Akud"
 
 msgid "TXT_IMPAR"
 msgstr ""
@@ -405,7 +413,7 @@ msgid "OB_EXIT"
 msgstr ""
 
 msgid "OB_WATER"
-msgstr ""
+msgstr "%o ur yessin ara ad iɛumm."
 
 msgid "OB_SLIME"
 msgstr ""
@@ -597,7 +605,7 @@ msgid "PD_REDK"
 msgstr ""
 
 msgid "PD_YELLOWK"
-msgstr ""
+msgstr "Tuḥwaǧeḍ tasarut tawraɣt akken ad tizmireḍ ad teldiḍ tawwurt-a"
 
 msgid "PD_BLUECO"
 msgstr ""
@@ -648,7 +656,7 @@ msgid "CC_IMP"
 msgstr ""
 
 msgid "CC_DEMON"
-msgstr ""
+msgstr "Ajenniw"
 
 msgid "CC_LOST"
 msgstr ""
@@ -702,10 +710,10 @@ msgid "FN_CYBER"
 msgstr ""
 
 msgid "FN_WOLFSS"
-msgstr ""
+msgstr "Anazi"
 
 msgid "FN_DOG"
-msgstr ""
+msgstr "Aqjun"
 
 msgid "TAG_FIST"
 msgstr ""
@@ -714,7 +722,7 @@ msgid "TAG_CHAINSAW"
 msgstr ""
 
 msgid "TAG_PISTOL"
-msgstr ""
+msgstr "Taḥeṛṛast"
 
 msgid "TAG_SHOTGUN"
 msgstr ""
@@ -732,7 +740,7 @@ msgid "TAG_PLASMARIFLE"
 msgstr ""
 
 msgid "TAG_BFG9000"
-msgstr ""
+msgstr "BFG 9000"
 
 msgid "AMMO_CLIP"
 msgstr ""
@@ -846,10 +854,10 @@ msgid "OB_CYBORG"
 msgstr ""
 
 msgid "OB_WOLFSS"
-msgstr ""
+msgstr "%o yemlal d yiwen n yinaziyen."
 
 msgid "OB_DOG"
-msgstr ""
+msgstr "%o ikerrec-it weqjun."
 
 msgid "OB_MPFIST"
 msgstr ""
@@ -891,13 +899,13 @@ msgid "OB_MPBFG_MBF"
 msgstr ""
 
 msgid "TXT_GOTBLUEKEY"
-msgstr ""
+msgstr "Tasarut Tazegzawt"
 
 msgid "TXT_GOTYELLOWKEY"
-msgstr ""
+msgstr "Tasarut Tawraɣt"
 
 msgid "TXT_GOTGREENKEY"
-msgstr ""
+msgstr "Tasarut Tadalt"
 
 msgid "TXT_ARTIHEALTH"
 msgstr ""
@@ -984,7 +992,7 @@ msgid "TXT_WPNGOLDWAND"
 msgstr ""
 
 msgid "TXT_WPNMACE"
-msgstr ""
+msgstr "Aḥeǧǧaǧu n tmes"
 
 msgid "TXT_WPNCROSSBOW"
 msgstr ""
@@ -1011,7 +1019,7 @@ msgid "TXT_NEEDYELLOWKEY"
 msgstr ""
 
 msgid "FN_CHICKEN"
-msgstr ""
+msgstr "Tayaẓiḍt"
 
 msgid "FN_BEAST"
 msgstr ""
@@ -1065,7 +1073,7 @@ msgid "AMMO_PHOENIXROD"
 msgstr ""
 
 msgid "TAG_STAFF"
-msgstr ""
+msgstr "Aɛekkaz"
 
 msgid "TAG_GOLDWAND"
 msgstr ""
@@ -2148,7 +2156,7 @@ msgid "TAG_CATACOMBKEY"
 msgstr ""
 
 msgid "TAG_SECURITYKEY"
-msgstr ""
+msgstr "Tasarut n tɣellist"
 
 msgid "TAG_COREKEY"
 msgstr ""
@@ -2349,7 +2357,7 @@ msgid "TXT_KILLED_ORACLE"
 msgstr ""
 
 msgid "TXT_KILLED_MACIL"
-msgstr ""
+msgstr "Tenɣiḍ Masil!"
 
 msgid "TXT_KILLED_LOREMASTER"
 msgstr ""
@@ -2566,7 +2574,7 @@ msgid "CE3TEXT"
 msgstr ""
 
 msgid "CE4TEXT"
-msgstr ""
+msgstr "D afelleq"
 
 msgid "CLOADNET"
 msgstr ""
@@ -2629,19 +2637,19 @@ msgid "AMMO_CELLS"
 msgstr ""
 
 msgid "MNU_NEWGAME"
-msgstr ""
+msgstr "Urar amaynut"
 
 msgid "MNU_OPTIONS"
-msgstr ""
+msgstr "Tixtiṛiyin"
 
 msgid "MNU_GAMEFILES"
-msgstr ""
+msgstr "Ifuyla n wurar"
 
 msgid "MNU_INFO"
-msgstr ""
+msgstr "Talɣut"
 
 msgid "MNU_QUITGAME"
-msgstr ""
+msgstr "Ffeɣ seg wurar"
 
 msgid "MNU_CHOOSESKILL"
 msgstr ""
@@ -2662,7 +2670,7 @@ msgid "SKILL_NIGHTMARE"
 msgstr ""
 
 msgid "CSKILL_BABY"
-msgstr ""
+msgstr "S ttawil"
 
 msgid "CSKILL_EASY"
 msgstr ""
@@ -2764,10 +2772,10 @@ msgid "MNU_MAGE"
 msgstr ""
 
 msgid "MNU_RANDOM"
-msgstr ""
+msgstr "Agacuran"
 
 msgid "MNU_EPISODE"
-msgstr ""
+msgstr "Anta nnuba?"
 
 msgctxt "strife"
 msgid "MNU_EPISODE"
@@ -2906,7 +2914,7 @@ msgid "GMPLYMNU_FORCERESPAWN"
 msgstr ""
 
 msgid "GMPLYMNU_ALLOWEXIT"
-msgstr ""
+msgstr "Sireg tuffɣa"
 
 msgid "GMPLYMNU_BARRELSRESPAWN"
 msgstr ""
@@ -3113,19 +3121,19 @@ msgid "CMPTMNU_EXPLODE2"
 msgstr ""
 
 msgid "PLYRMNU_RED"
-msgstr ""
+msgstr "Azeggaɣ"
 
 msgid "PLYRMNU_GREEN"
-msgstr ""
+msgstr "Adal"
 
 msgid "PLYRMNU_BLUE"
-msgstr ""
+msgstr "Azegzaw"
 
 msgid "PLYRMNU_PLAYERCLASS"
 msgstr ""
 
 msgid "PLYRMNU_PLAYERSKIN"
-msgstr ""
+msgstr "Aglim"
 
 msgid "PLYRMNU_SWITCHONPICKUP"
 msgstr ""
@@ -3185,7 +3193,7 @@ msgid "CNTRLMNU_DROPWEAPON"
 msgstr ""
 
 msgid "CNTRLMNU_OTHER"
-msgstr ""
+msgstr "Ayen nniḍen"
 
 msgid "CNTRLMNU_COOPSPY"
 msgstr ""
@@ -3215,7 +3223,7 @@ msgid "MAPCOLORMNU_BACKCOLOR"
 msgstr ""
 
 msgid "MAPCOLORMNU_YOURCOLOR"
-msgstr ""
+msgstr "Kečč"
 
 msgid "MAPCOLORMNU_WALLCOLOR"
 msgstr ""
@@ -3266,7 +3274,7 @@ msgid "MAPCOLORMNU_SECRETWALLCOLOR"
 msgstr ""
 
 msgid "MAPCOLORMNU_THINGCOLOR"
-msgstr ""
+msgstr "Imyuraren"
 
 msgid "MAPCOLORMNU_MONSTERCOLOR"
 msgstr ""
@@ -3275,7 +3283,7 @@ msgid "MAPCOLORMNU_NONCOUNTINGMONSTERCOLOR"
 msgstr ""
 
 msgid "MAPCOLORMNU_FRIENDCOLOR"
-msgstr ""
+msgstr "Imdukkal"
 
 msgid "MAPCOLORMNU_ITEMCOLOR"
 msgstr ""
@@ -3293,7 +3301,7 @@ msgid "MAPCOLORMNU_PORTAL"
 msgstr ""
 
 msgid "MSGMNU_TITLE"
-msgstr ""
+msgstr "Iznan"
 
 msgid "MSGMNU_SHOWMESSAGES"
 msgstr ""
@@ -3617,10 +3625,10 @@ msgid "SCALEMNU_OVERRIDE"
 msgstr ""
 
 msgid "SCALEMNU_MESSAGES"
-msgstr ""
+msgstr "Iznan"
 
 msgid "SCALEMNU_CONSOLE"
-msgstr ""
+msgstr "Tadiwent"
 
 msgid "SCALEMNU_STATBAR"
 msgstr ""
@@ -3710,7 +3718,7 @@ msgid "MISCMNU_INTERSCROLL"
 msgstr ""
 
 msgid "NETMNU_TITLE"
-msgstr ""
+msgstr "Tixiṛiyin n uzeṭṭa"
 
 msgid "NETMNU_LOCALOPTIONS"
 msgstr ""
@@ -3788,10 +3796,10 @@ msgid "OPTVAL_STRIFE"
 msgstr ""
 
 msgid "OPTVAL_PLAYER"
-msgstr ""
+msgstr "Amyurar"
 
 msgid "OPTVAL_MAP"
-msgstr ""
+msgstr "Takarḍa"
 
 msgid "OPTVAL_CURRENTWEAPON"
 msgstr ""
@@ -3809,7 +3817,7 @@ msgid "OPTVAL_LEVELSECONDS"
 msgstr ""
 
 msgid "OPTVAL_LEVEL"
-msgstr ""
+msgstr "Aswir"
 
 msgid "OPTVAL_HUBSECONDS"
 msgstr ""
@@ -3827,7 +3835,7 @@ msgid "OPTVAL_SYSTEMSECONDS"
 msgstr ""
 
 msgid "OPTVAL_SYSTEM"
-msgstr ""
+msgstr "Anagraw"
 
 msgid "OPTVAL_NETGAMESONLY"
 msgstr ""
@@ -3842,7 +3850,7 @@ msgid "OPTVAL_SCRIPTSONLY"
 msgstr ""
 
 msgid "OPTVAL_ALL"
-msgstr ""
+msgstr "Akk"
 
 msgid "OPTVAL_ONLYLASTONE"
 msgstr ""
@@ -3902,7 +3910,7 @@ msgid "OPTVAL_ONLYMONSTERS"
 msgstr ""
 
 msgid "OPTVAL_HEXEN"
-msgstr ""
+msgstr "Hexen"
 
 msgid "OPTVAL_OLD"
 msgstr ""
@@ -4175,7 +4183,7 @@ msgid "OPTVAL_LEGACY"
 msgstr ""
 
 msgid "OPTVAL_SOFTWARE"
-msgstr ""
+msgstr "Aseɣẓan"
 
 msgid "OPTVAL_YAXIS"
 msgstr ""
@@ -4352,7 +4360,7 @@ msgid "FONTMNU_DLG"
 msgstr ""
 
 msgid "MISCMNU_QUICKEXIT"
-msgstr ""
+msgstr "Tuffɣa taruradt"
 
 msgid "DSPLYMNU_CUSTOMINVERTMAP"
 msgstr ""
@@ -4931,10 +4939,10 @@ msgid "ACTION_COPYTOCLIPBOARD"
 msgstr ""
 
 msgid "ACTION_RESTART"
-msgstr ""
+msgstr "Ales asekker"
 
 msgid "ACTION_ABORT"
-msgstr ""
+msgstr "Sefsex"
 
 msgid "ACTION_STARTGAME"
 msgstr ""
@@ -5056,3 +5064,12 @@ msgstr ""
 
 msgid "MSG{ON|OFF}"
 msgstr ""
+
+msgid "TXT_CONFIRM"
+msgstr "Serggeg"
+
+msgid "PICKER_THEME"
+msgstr "Asentel"
+
+msgid "OPTVAL_LIGHT"
+msgstr "Aceɛlal"

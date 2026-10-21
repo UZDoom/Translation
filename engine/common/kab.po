@@ -2,24 +2,24 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-08-10 23:42-0400\n"
-"Last-Translator: Marcus Minhorst <marcus.minhorst@gmail.com>\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-10-21 09:53+0000\n"
+"Last-Translator: Automatic translation add-on <noreply-addon-autotranslate@weblate.org>\n"
+"Language-Team: Kabyle <https://hosted.weblate.org/projects/uzdoom/common/kab/>\n"
 "Language: kab\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: python 3.14.6 polib 1.2.0\n"
+"X-Generator: Weblate 2026.11.dev0\n"
 
 msgid "PRESSYN"
-msgstr ""
+msgstr "Sit ɣef Y naɣ N."
 
 msgid "TXT_YES"
-msgstr ""
+msgstr "Ih"
 
 msgid "TXT_NO"
-msgstr ""
+msgstr "Uhu"
 
 msgid "SAVEDEAD"
 msgstr ""
@@ -37,25 +37,25 @@ msgid "TXT_X_CHEATS"
 msgstr ""
 
 msgid "TXT_SAY"
-msgstr ""
+msgstr "Ini-d:"
 
 msgid "TXT_QUITENDOOM"
-msgstr ""
+msgstr "Tekki ɣef kra n tqeffalt neɣ sit ɣef kra n umkan deg usfaylu akken ad teffɣeḍ."
 
 msgid "NEWSAVE"
-msgstr ""
+msgstr "<Afaylu Amaynut n Usekles>"
 
 msgid "GGSAVED"
 msgstr ""
 
 msgid "SAVECOMMENT_TIME"
-msgstr ""
+msgstr "Akud"
 
 msgid "MNU_LOADGAME"
-msgstr ""
+msgstr "Sali-d nnuba n wurar"
 
 msgid "MNU_SAVEGAME"
-msgstr ""
+msgstr "Sekles nnuba n wurar"
 
 msgid "MNU_NOPICTURE"
 msgstr ""
@@ -64,22 +64,22 @@ msgid "MNU_DIFFVERSION"
 msgstr ""
 
 msgid "MNU_NOFILES"
-msgstr ""
+msgstr "Ulac ifuyla"
 
 msgid "MNU_DELETESG"
 msgstr ""
 
 msgid "OPTVAL_OFF"
-msgstr ""
+msgstr "Ur irmid ara"
 
 msgid "OPTVAL_ON"
-msgstr ""
+msgstr "D urmid"
 
 msgid "OPTVAL_AUTO"
-msgstr ""
+msgstr "Awurman"
 
 msgid "OPTMNU_TITLE"
-msgstr ""
+msgstr "Tixtiṛiyin"
 
 msgid "OPTMNU_CONTROLS"
 msgstr ""
@@ -91,13 +91,13 @@ msgid "OPTMNU_JOYSTICK"
 msgstr ""
 
 msgid "OPTMNU_PLAYER"
-msgstr ""
+msgstr "Tawila n umyurar"
 
 msgid "OPTMNU_GAMEPLAY"
 msgstr ""
 
 msgid "OPTMNU_AUTOMAP"
-msgstr ""
+msgstr "Tawila n tkarḍa"
 
 msgid "OPTMNU_HUD"
 msgstr ""
@@ -130,7 +130,7 @@ msgid "OPTMNU_CONSOLE"
 msgstr ""
 
 msgid "OPTMNU_NETWORK"
-msgstr ""
+msgstr "Tixiṛiyin n uzeṭṭa"
 
 msgid "OPTMNU_REVERB"
 msgstr ""
@@ -145,7 +145,7 @@ msgid "CNTRLMNU_CONTROLS"
 msgstr ""
 
 msgid "CNTRLMNU_ATTACK"
-msgstr ""
+msgstr "Ewwet"
 
 msgid "CNTRLMNU_ALTATTACK"
 msgstr ""
@@ -154,13 +154,13 @@ msgid "CNTRLMNU_RELOAD"
 msgstr ""
 
 msgid "CNTRLMNU_USE"
-msgstr ""
+msgstr "Seqdec / Ldi"
 
 msgid "CNTRLMNU_FORWARD"
-msgstr ""
+msgstr "Tikli ar sdat"
 
 msgid "CNTRLMNU_BACK"
-msgstr ""
+msgstr "Tikli timendeffirt"
 
 msgid "CNTRLMNU_MOVELEFT"
 msgstr ""
@@ -178,10 +178,10 @@ msgid "CNTRLMNU_TURN180"
 msgstr ""
 
 msgid "CNTRLMNU_JUMP"
-msgstr ""
+msgstr "Aǧelleb"
 
 msgid "CNTRLMNU_CROUCH"
-msgstr ""
+msgstr "Knu"
 
 msgid "CNTRLMNU_TOGGLECROUCH"
 msgstr ""
@@ -199,7 +199,7 @@ msgid "CNTRLMNU_CENTERVIEW"
 msgstr ""
 
 msgid "CNTRLMNU_RUN"
-msgstr ""
+msgstr "Tazzla"
 
 msgid "CNTRLMNU_TOGGLERUN"
 msgstr ""
@@ -211,7 +211,7 @@ msgid "CNTRLMNU_SCOREBOARD"
 msgstr ""
 
 msgid "CNTRLMNU_ACTION"
-msgstr ""
+msgstr "Tigawt"
 
 msgid "CNTRLMNU_ACTION_TITLE"
 msgstr ""
@@ -220,7 +220,7 @@ msgid "MNU_MULTIPLAYER"
 msgstr ""
 
 msgid "CNTRLMNU_SAY"
-msgstr ""
+msgstr "Mmeslay"
 
 msgid "CNTRLMNU_WEAPONS_TITLE"
 msgstr ""
@@ -331,7 +331,7 @@ msgid "CNTRLMNU_CHASECAM"
 msgstr ""
 
 msgid "CNTRLMNU_SCREENSHOT"
-msgstr ""
+msgstr "Tuṭṭfa n ugdil"
 
 msgid "CNTRLMNU_PAUSE"
 msgstr ""
@@ -343,7 +343,7 @@ msgid "CNTRLMNU_DISPLAY_DEC"
 msgstr ""
 
 msgid "CNTRLMNU_OPEN_HELP"
-msgstr ""
+msgstr "Ldi Tallalt"
 
 msgid "CNTRLMNU_OPEN_SAVE"
 msgstr ""
@@ -358,7 +358,7 @@ msgid "CNTRLMNU_OPEN_DISPLAY"
 msgstr ""
 
 msgid "CNTRLMNU_QUICKSAVE"
-msgstr ""
+msgstr "Asekles arurad"
 
 msgid "CNTRLMNU_QUICKLOAD"
 msgstr ""
@@ -370,7 +370,7 @@ msgid "CNTRLMNU_TOGGLE_MESSAGES"
 msgstr ""
 
 msgid "CNTRLMNU_MENU_QUIT"
-msgstr ""
+msgstr "Tuffɣa seg wurar"
 
 msgid "MOUSEMNU_ENABLEMOUSE"
 msgstr ""
@@ -382,7 +382,7 @@ msgid "MOUSEMNU_SHOWBACKBUTTON"
 msgstr ""
 
 msgid "MOUSEMNU_CURSOR"
-msgstr ""
+msgstr "Taḥnaccaḍṭ"
 
 msgid "MOUSEMNU_SENSITIVITY_X"
 msgstr ""
@@ -436,7 +436,7 @@ msgid "OPTSTR_SYSTEMCURSOR"
 msgstr ""
 
 msgid "OPTVAL_DEFAULT"
-msgstr ""
+msgstr "Amezwer"
 
 msgid "JOYMNU_TITLE"
 msgstr ""
@@ -514,16 +514,16 @@ msgid "OPTVAL_NOTINVERTED"
 msgstr ""
 
 msgid "TXT_COLOR_BLUE"
-msgstr ""
+msgstr "Azegzaw"
 
 msgid "TXT_COLOR_RED"
-msgstr ""
+msgstr "Azeggaɣ"
 
 msgid "TXT_COLOR_GREEN"
-msgstr ""
+msgstr "Adal"
 
 msgid "TXT_COLOR_GRAY"
-msgstr ""
+msgstr "Aɣiɣdan"
 
 msgid "TXT_COLOR_DARKGRAY"
 msgstr ""
@@ -532,7 +532,7 @@ msgid "TXT_COLOR_DARKGREEN"
 msgstr ""
 
 msgid "TXT_COLOR_BROWN"
-msgstr ""
+msgstr "Aqehwi"
 
 msgid "TXT_COLOR_DARKBLUE"
 msgstr ""
@@ -541,13 +541,13 @@ msgid "TXT_COLOR_LIGHTRED"
 msgstr ""
 
 msgid "TXT_COLOR_YELLOW"
-msgstr ""
+msgstr "Awṛaɣ"
 
 msgid "TXT_COLOR_PURPLE"
-msgstr ""
+msgstr "Arẓaẓ"
 
 msgid "TXT_COLOR_DULLGREEN"
-msgstr ""
+msgstr "Am uzemmur"
 
 msgid "TXT_COLOR_BEIGE"
 msgstr ""
@@ -571,13 +571,13 @@ msgid "TXT_COLOR_RUST"
 msgstr ""
 
 msgid "PLYRMNU_NAME"
-msgstr ""
+msgstr "Isem"
 
 msgid "PLYRMNU_TEAM"
-msgstr ""
+msgstr "Tarbaɛt"
 
 msgid "PLYRMNU_PLAYERCOLOR"
-msgstr ""
+msgstr "Ini"
 
 msgid "PLYRMNU_PLAYERGENDER"
 msgstr ""
@@ -1207,19 +1207,19 @@ msgid "OPTVAL_TRILINEAR"
 msgstr ""
 
 msgid "OPTVAL_2X"
-msgstr ""
+msgstr "2×"
 
 msgid "OPTVAL_4X"
-msgstr ""
+msgstr "4×"
 
 msgid "OPTVAL_8X"
-msgstr ""
+msgstr "8×"
 
 msgid "OPTVAL_16X"
-msgstr ""
+msgstr "16×"
 
 msgid "OPTVAL_32X"
-msgstr ""
+msgstr "32×"
 
 msgid "GLTEXMNU_TITLE"
 msgstr ""
@@ -1327,7 +1327,7 @@ msgid "OPTVAL_LOWEST"
 msgstr ""
 
 msgid "OPTVAL_CUSTOM"
-msgstr ""
+msgstr "Udmawan"
 
 msgid "VIDMNU_MAXFPS"
 msgstr ""
@@ -1354,10 +1354,10 @@ msgid "VIDMNU_PREFERBACKEND"
 msgstr ""
 
 msgid "OPTVAL_OPENGL"
-msgstr ""
+msgstr "OpenGL"
 
 msgid "OPTVAL_VULKAN"
-msgstr ""
+msgstr "Vulkan"
 
 msgid "OPTVAL_OPENGLES"
 msgstr ""
@@ -1405,13 +1405,13 @@ msgid "HUDMNU_CROSSHAIRSCALE"
 msgstr ""
 
 msgid "OPTVAL_YES_STANDARD"
-msgstr ""
+msgstr "Alugan"
 
 msgid "OPTVAL_YES_ENHANCED"
 msgstr ""
 
 msgid "OPTMNU_LANGUAGE"
-msgstr ""
+msgstr "Tutlayt"
 
 msgid "TXT_UNDOCHANGES"
 msgstr ""
@@ -1456,7 +1456,7 @@ msgid "REVMNU_BASED_ON"
 msgstr ""
 
 msgid "REVMNU_NAME"
-msgstr ""
+msgstr "Isem"
 
 msgid "REVMNU_ID_1"
 msgstr ""
@@ -1465,10 +1465,10 @@ msgid "REVMNU_ID_2"
 msgstr ""
 
 msgid "REVMNU_CREATE"
-msgstr ""
+msgstr "Snulfu-d"
 
 msgid "REVMNU_SAVE"
-msgstr ""
+msgstr "Sekles…"
 
 msgid "REVMNU_FILE_NAME"
 msgstr ""
@@ -1495,19 +1495,19 @@ msgid "VK_RESTART"
 msgstr ""
 
 msgid "OPTVAL_SCALENX"
-msgstr ""
+msgstr "ScaleNx"
 
 msgid "OPTVAL_NORMALNX"
-msgstr ""
+msgstr "NormalNx"
 
 msgid "OPTVAL_HQNX"
-msgstr ""
+msgstr "hqNx"
 
 msgid "OPTVAL_HQNXMMX"
 msgstr ""
 
 msgid "OPTVAL_NXBRZ"
-msgstr ""
+msgstr "xBRZ"
 
 msgid "OPTVAL_OLD_NXBRZ"
 msgstr ""
@@ -1525,7 +1525,7 @@ msgid "OS_NO_RESULTS"
 msgstr ""
 
 msgid "OS_LABEL"
-msgstr ""
+msgstr "Nadi:"
 
 msgid "OPTMNU_FULLOPTIONS"
 msgstr ""
@@ -1549,7 +1549,7 @@ msgid "OPTVAL_ONLYMODIFIED"
 msgstr ""
 
 msgid "TXT_UNKNOWN"
-msgstr ""
+msgstr "D arussin"
 
 msgid "TXT_SAVEGAMENEEDS"
 msgstr ""
@@ -1564,10 +1564,10 @@ msgid "PICKER_PLAY"
 msgstr ""
 
 msgid "PICKER_EXIT"
-msgstr ""
+msgstr "Ffeɣ"
 
 msgid "PICKER_GENERAL"
-msgstr ""
+msgstr "Amatu"
 
 msgid "PICKER_EXTRA"
 msgstr ""
@@ -1600,7 +1600,7 @@ msgid "PICKER_PREFERBACKEND"
 msgstr ""
 
 msgid "PICKER_TAB_PLAY"
-msgstr ""
+msgstr "Urar"
 
 msgid "JOYMNU_JOYENABLE"
 msgstr ""
@@ -1618,7 +1618,7 @@ msgid "MISCMNU_SAVEORDER"
 msgstr ""
 
 msgid "OPTVAL_ALPHABETICAL"
-msgstr ""
+msgstr "S ugemmay"
 
 msgid "OPTVAL_LASTSAVEDTIME"
 msgstr ""
@@ -1732,7 +1732,7 @@ msgid "PICKER_SHOWNOTES"
 msgstr ""
 
 msgid "PICKER_TAB_ABOUT"
-msgstr ""
+msgstr "Ɣef"
 
 msgid "PICKER_TAB_RELEASE"
 msgstr ""
