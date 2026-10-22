@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-10-12 19:51+0000\n"
-"Last-Translator: ButterflyOfFire <boffire@users.noreply.hosted.weblate.org>\n"
+"PO-Revision-Date: 2026-10-22 09:51+0000\n"
+"Last-Translator: Automatic translation add-on <noreply-addon-autotranslate@weblate.org>\n"
 "Language-Team: Kabyle <https://hosted.weblate.org/projects/uzdoom/glossary/kab/>\n"
 "Language: kab\n"
 "MIME-Version: 1.0\n"
@@ -109,28 +109,28 @@ msgid "Hejl-Dawson"
 msgstr ""
 
 msgid "OpenGL"
-msgstr ""
+msgstr "OpenGL"
 
 msgid "Vulkan"
-msgstr ""
+msgstr "Vulkan"
 
 msgid "OpenGL ES"
 msgstr ""
 
 msgid "ScaleNx"
-msgstr ""
+msgstr "ScaleNx"
 
 msgid "ZDoom"
 msgstr ""
 
 msgid "NormalNx"
-msgstr ""
+msgstr "NormalNx"
 
 msgid "hqNx"
-msgstr ""
+msgstr "hqNx"
 
 msgid "xBRZ"
-msgstr ""
+msgstr "xBRZ"
 
 msgid "Doom"
 msgstr ""
@@ -142,7 +142,7 @@ msgid "Strife"
 msgstr ""
 
 msgid "Hexen"
-msgstr ""
+msgstr "Hexen"
 
 msgid "Heretic"
 msgstr ""
