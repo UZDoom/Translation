@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-10-14 23:51+0000\n"
+"PO-Revision-Date: 2026-10-23 22:51+0000\n"
 "Last-Translator: ButterflyOfFire <boffire@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Kabyle <https://hosted.weblate.org/projects/doom-engine-games/strife/kab/>\n"
 "Language: kab\n"
@@ -1074,7 +1074,7 @@ msgid "TXT_RPLY0_SCRIPT03_D37900_YESIA"
 msgstr ""
 
 msgid "TXT_RYES0_SCRIPT03_D37900_HEREY"
-msgstr ""
+msgstr "Ha-t-an."
 
 # MAP03: Upstairs.
 msgid "TXT_DLG_SCRIPT03_D39416_DONTG"
@@ -1625,7 +1625,7 @@ msgid "TXT_DLG_SCRIPT10_D22740_HOWSI"
 msgstr ""
 
 msgid "TXT_RPLY0_SCRIPT10_D22740_YESHE"
-msgstr ""
+msgstr "Ih, sseḥlu-yi"
 
 msgid "TXT_RYES0_SCRIPT10_D22740_ALLRI"
 msgstr ""
@@ -2729,7 +2729,7 @@ msgid "TXT_RPLY1_SCRIPT33_D7580_FIELD"
 msgstr ""
 
 msgid "TXT_RYES1_SCRIPT33_D7580_THANK"
-msgstr ""
+msgstr "Tanemmirt-ik."
 
 msgid "TXT_RNO1_SCRIPT33_D7580_IWISH"
 msgstr ""
@@ -3701,7 +3701,7 @@ msgid "TXT_SPEAKER_FRONT_SOLDIER"
 msgstr ""
 
 msgid "TXT_SPEAKER_PROGRAMMER"
-msgstr ""
+msgstr "Aneflay"
 
 msgid "TXT_SPEAKER_MEDIC"
 msgstr ""
