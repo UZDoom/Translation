@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-11-02 19:46+0000\n"
+"PO-Revision-Date: 2026-11-02 21:51+0000\n"
 "Last-Translator: ButterflyOfFire <boffire@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Kabyle <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/kab/>\n"
 "Language: kab\n"
@@ -2655,7 +2655,7 @@ msgid "AMMO_CELLS"
 msgstr ""
 
 msgid "MNU_NEWGAME"
-msgstr "Nnuba n wurar tamaynut"
+msgstr "Urar amaynut"
 
 msgid "MNU_OPTIONS"
 msgstr "Tixtiṛiyin"
@@ -5091,3 +5091,12 @@ msgstr "Asentel"
 
 msgid "OPTVAL_LIGHT"
 msgstr "Aceɛlal"
+
+msgid "OPTMNU_OPENWADS"
+msgstr "Snirem akaram n IWAD"
+
+msgid "ACTION_OPENWADDIR"
+msgstr "Snirem WADs"
+
+msgid "ACTION_OPENCONFIGDIR"
+msgstr "Snirem tawiliwin"
