@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-11-02 19:46+0000\n"
+"PO-Revision-Date: 2026-11-02 21:51+0000\n"
 "Last-Translator: ButterflyOfFire <boffire@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Kabyle <https://hosted.weblate.org/projects/uzdoom/common/kab/>\n"
 "Language: kab\n"
@@ -46,7 +46,7 @@ msgid "NEWSAVE"
 msgstr "<Afaylu Amaynut n Usekles>"
 
 msgid "GGSAVED"
-msgstr ""
+msgstr "Nnuba n wurar tettwasekles."
 
 msgid "SAVECOMMENT_TIME"
 msgstr "Akud"
@@ -55,10 +55,10 @@ msgid "MNU_LOADGAME"
 msgstr "Sali-d nnuba n wurar"
 
 msgid "MNU_SAVEGAME"
-msgstr "Sekles nnuba n wurar"
+msgstr "Sekles urar"
 
 msgid "MNU_NOPICTURE"
-msgstr ""
+msgstr "Ulac tugna"
 
 msgid "MNU_DIFFVERSION"
 msgstr ""
@@ -361,7 +361,7 @@ msgid "CNTRLMNU_QUICKSAVE"
 msgstr "Asekles arurad"
 
 msgid "CNTRLMNU_QUICKLOAD"
-msgstr ""
+msgstr "Aɛebbi arurad"
 
 msgid "CNTRLMNU_EXIT_TO_MAIN"
 msgstr ""
@@ -1378,7 +1378,7 @@ msgid "MISCMNU_AUTOSAVECOUNT"
 msgstr ""
 
 msgid "MISCMNU_SAVELOADCONFIRMATION"
-msgstr ""
+msgstr "Asentem n usali/asekles"
 
 msgid "MISCMNU_NOCHEATS"
 msgstr ""
@@ -1534,13 +1534,13 @@ msgid "OPTMNU_SIMPLEON"
 msgstr ""
 
 msgid "OPTMNU_OPENCONFIG"
-msgstr ""
+msgstr "Snirem tawila n wurar"
 
 msgid "OPTMNU_OPENSCREENSHOTS"
-msgstr ""
+msgstr "Snirem tuṭṭfiwin n ugdil"
 
 msgid "OPTMNU_OPENSAVES"
-msgstr ""
+msgstr "Snirem ikalasen"
 
 msgid "MOUSEMNU_SWAPBUTTONS"
 msgstr ""
