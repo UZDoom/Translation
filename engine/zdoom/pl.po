@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-10-12 19:51+0000\n"
+"PO-Revision-Date: 2026-11-07 12:51+0000\n"
 "Last-Translator: Tim Richter <raymond_fry@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/uzdoom/zdoom-engine-strings/pl/>\n"
 "Language: pl\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 2026.11.dev0\n"
+"X-Generator: Weblate 2026.11.2.dev0\n"
 
 msgid "PRESSKEY"
 msgstr "Wciśnij dowolny klawisz."
@@ -326,7 +326,7 @@ msgid "TXT_CHEATIDKFA"
 msgstr "Oszust — nie zasługujesz na broń"
 
 msgid "TXT_CHEATARTIFACTS3"
-msgstr "Udało ci się"
+msgstr "Mówisz masz"
 
 msgid "TXT_MIDASTOUCH"
 msgstr "Zdobył@[irreg_3_pl] dotyk Midasa, skarbie"
@@ -871,7 +871,7 @@ msgid "OB_STEALTHKNIGHT"
 msgstr "%o kątem oka zauważył@[ao_pl] Rycerza Piekła."
 
 msgid "OB_STEALTHIMP"
-msgstr "%o kątem oka zauważył@[ao_pl] diablika."
+msgstr "%o kątem oka zauważył@[ao_pl] licho."
 
 msgid "OB_STEALTHFATSO"
 msgstr "%o kątem oka zauważył@[ao_pl] antropokuba."
@@ -889,7 +889,7 @@ msgid "OB_UNDEADHIT"
 msgstr "%o został@[ao_pl] uderzon@[adj_pl] przez zjawę."
 
 msgid "OB_IMPHIT"
-msgstr "%o został@[ao_pl] rozcięt@[adj_pl] przez diablika."
+msgstr "%o został@[ao_pl] rozcięt@[adj_pl] przez licho."
 
 msgid "OB_CACOHIT"
 msgstr "%o pod@[irreg_1_pl] zbyt blisko do kakodemona."
@@ -929,7 +929,7 @@ msgid "OB_SKULL"
 msgstr "%o został@[ao_pl] przestraszon@[adj_pl] przez zaginioną duszę."
 
 msgid "OB_IMP"
-msgstr "%o został@[ao_pl] spalon@[adj_pl] przez diablika."
+msgstr "%o został@[ao_pl] spalon@[adj_pl] przez licho."
 
 msgid "OB_CACO"
 msgstr "%o został@[ao_pl] porażon@[adj_pl] przez kakodemona."
@@ -1004,7 +1004,7 @@ msgid "TXT_GOTGREENKEY"
 msgstr "Zielony klucz"
 
 msgid "TXT_ARTIHEALTH"
-msgstr "Kwarcowa Butelka"
+msgstr "Kwarcowy flakon"
 
 msgid "TXT_ARTIFLY"
 msgstr "Skrzydła Gniewu"
@@ -1286,16 +1286,16 @@ msgstr ""
 "%o został@[ao_pl] zmiażdżon@[adj_pl] przez ogromną kulę z buzdygana %k."
 
 msgid "TXT_MANA_1"
-msgstr "Niebieska Mana"
+msgstr "Mana niebieska"
 
 msgid "TXT_MANA_2"
-msgstr "Zielona Mana"
+msgstr "Mana zielona"
 
 msgid "TXT_MANA_BOTH"
 msgstr "Mana zespolona"
 
 msgid "TXT_KEY_STEEL"
-msgstr "Stalowy Klucz"
+msgstr "Klucz stalowy"
 
 msgid "TXT_KEY_CAVE"
 msgstr "Klucz jaskiniowy"
@@ -1313,7 +1313,7 @@ msgid "TXT_KEY_DUNGEON"
 msgstr "Klucz do Lochu"
 
 msgid "TXT_KEY_SILVER"
-msgstr "Srebrny Klucz"
+msgstr "Klucz srebrny"
 
 msgid "TXT_KEY_RUSTED"
 msgstr "Zardzewiały Klucz"
@@ -1322,7 +1322,7 @@ msgid "TXT_KEY_HORN"
 msgstr "Rogowy Klucz"
 
 msgid "TXT_KEY_SWAMP"
-msgstr "Bagienny Klucz"
+msgstr "Klucz bagienny"
 
 msgid "TXT_KEY_CASTLE"
 msgstr "Klucz do Zamku"
@@ -1334,7 +1334,7 @@ msgid "TXT_ARTISUMMON"
 msgstr "Mroczny Sługa"
 
 msgid "TXT_ARTIEGG2"
-msgstr "Schabowator"
+msgstr "Zeschabiacz"
 
 msgid "TXT_ARTIPOISONBAG"
 msgstr "Flaszka"
@@ -1424,7 +1424,7 @@ msgid "TXT_WEAPON_F4"
 msgstr "Złożony Uciszacz"
 
 msgid "TXT_WEAPON_C2"
-msgstr "Laska Węży"
+msgstr "Wężowa laska"
 
 msgid "TXT_WEAPON_C3"
 msgstr "Burza Ognia"
@@ -1556,7 +1556,7 @@ msgid "TAG_FWEAPAXE"
 msgstr "Topór Timona"
 
 msgid "TAG_FWEAPHAMMER"
-msgstr "Młot Odkupienia"
+msgstr "Młot pomsty"
 
 msgid "TAG_FWEAPQUIETUS"
 msgstr "Uciszacz"
@@ -1634,7 +1634,7 @@ msgid "TAG_ARTIPUZZGEMBLUE2"
 msgstr "Szafirowa Planeta (2)"
 
 msgid "TAG_ARTIPUZZBOOK1"
-msgstr "Demoniczny Kodeks"
+msgstr "Daemon Codex"
 
 msgid "TAG_ARTIPUZZBOOK2"
 msgstr "Liber Oscura"
@@ -1706,7 +1706,7 @@ msgid "OB_DRAGON"
 msgstr "%o został@[ao_pl] spalon@[adj_pl] przez Wiwernę Śmierci."
 
 msgid "OB_KORAX"
-msgstr "%o został@[ao_pl] zmiecion@[adj_pl] z pokładu przez Koraxa."
+msgstr "%o został@[ao_pl] zmiecion@[adj_pl] z planszy przez Koraksa."
 
 msgid "OB_FBOSS"
 msgstr "%o został@[ao_pl] zgładzon@[adj_pl] przez Zedeka."
