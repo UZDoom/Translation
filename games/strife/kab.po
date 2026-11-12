@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-10-14 23:51+0000\n"
+"PO-Revision-Date: 2026-11-02 19:51+0000\n"
 "Last-Translator: ButterflyOfFire <boffire@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Kabyle <https://hosted.weblate.org/projects/doom-engine-games/strife/kab/>\n"
 "Language: kab\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2026.11.dev0\n"
+"X-Generator: Weblate 2026.11.1.dev0\n"
 
 msgid "TXT_STRIFE_MAP01"
 msgstr ""
@@ -558,7 +558,7 @@ msgstr ""
 
 # MAP02: Gray guards.
 msgid "TXT_DLG_SCRIPT02_D34868_WEREG"
-msgstr ""
+msgstr "Ad ak-nenɣ! "
 
 # MAP02: Green guard.
 msgid "TXT_DLG_SCRIPT02_D36384_WHOIN"
@@ -1074,7 +1074,7 @@ msgid "TXT_RPLY0_SCRIPT03_D37900_YESIA"
 msgstr ""
 
 msgid "TXT_RYES0_SCRIPT03_D37900_HEREY"
-msgstr ""
+msgstr "Ha-t-an."
 
 # MAP03: Upstairs.
 msgid "TXT_DLG_SCRIPT03_D39416_DONTG"
@@ -1526,7 +1526,7 @@ msgid "TXT_RPLY0_SCRIPT10_D7580_THEOR"
 msgstr ""
 
 msgid "TXT_RPLY1_SCRIPT10_D7580_ITHIN"
-msgstr ""
+msgstr "Cukkeɣ d kečč i d axeddaɛ!"
 
 # MAP10: Macil → You chose to kill Macil
 msgid "TXT_DLG_SCRIPT10_D9096_SPIRI"
@@ -1586,7 +1586,7 @@ msgid "TXT_DLG_SCRIPT10_D19708_WHATC"
 msgstr ""
 
 msgid "TXT_RPLY0_SCRIPT10_D19708_HEALM"
-msgstr ""
+msgstr "Sseḥlu-yi."
 
 msgid "TXT_RYES0_SCRIPT10_D19708_YOUSH"
 msgstr ""
@@ -1625,7 +1625,7 @@ msgid "TXT_DLG_SCRIPT10_D22740_HOWSI"
 msgstr ""
 
 msgid "TXT_RPLY0_SCRIPT10_D22740_YESHE"
-msgstr ""
+msgstr "Ih, sseḥlu-yi"
 
 msgid "TXT_RYES0_SCRIPT10_D22740_ALLRI"
 msgstr ""
@@ -1910,7 +1910,7 @@ msgid "TXT_DLG_SCRIPT11_D1516_ALOTO"
 msgstr ""
 
 msgid "TXT_RPLY0_SCRIPT11_D1516_GIVEM"
-msgstr ""
+msgstr "Efk-iyi-d tasarut-nni!"
 
 msgid "TXT_DLG_SCRIPT11_D3032_OKBUT"
 msgstr ""
@@ -2729,7 +2729,7 @@ msgid "TXT_RPLY1_SCRIPT33_D7580_FIELD"
 msgstr ""
 
 msgid "TXT_RYES1_SCRIPT33_D7580_THANK"
-msgstr ""
+msgstr "Tanemmirt-ik."
 
 msgid "TXT_RNO1_SCRIPT33_D7580_IWISH"
 msgstr ""
@@ -3701,7 +3701,7 @@ msgid "TXT_SPEAKER_FRONT_SOLDIER"
 msgstr ""
 
 msgid "TXT_SPEAKER_PROGRAMMER"
-msgstr ""
+msgstr "Aneflay"
 
 msgid "TXT_SPEAKER_MEDIC"
 msgstr ""

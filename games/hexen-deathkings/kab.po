@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"PO-Revision-Date: 2026-09-21 15:51+0000\n"
+"PO-Revision-Date: 2026-11-02 19:51+0000\n"
 "Last-Translator: ButterflyOfFire <boffire@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Kabyle <https://hosted.weblate.org/projects/doom-engine-games/hexen-deathkings/kab/>\n"
 "Language: kab\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2026.10.dev0\n"
+"X-Generator: Weblate 2026.11.1.dev0\n"
 
 msgid "TXT_HEXDD_MAP41"
 msgstr ""
@@ -388,7 +388,7 @@ msgstr ""
 
 # script texts
 msgid "TXT_ACS_MAP56_2_PREPA"
-msgstr ""
+msgstr "Heyyi iman-ik ad temmteḍ"
 
 # script texts
 msgid "TXT_ACS_MAP59_1_YOUHA"
