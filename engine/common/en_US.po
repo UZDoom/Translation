@@ -838,6 +838,15 @@ msgstr "Module replayer options"
 msgid "SNDMNU_MIDIPLAYER"
 msgstr "MIDI device options"
 
+msgid "SNDMNU_EXSNDTRK"
+msgstr "Extra soundtrack"
+
+msgid "OPTVAL_SOUNDTRACK_ORIGINAL"
+msgstr "Original"
+
+msgid "OPTVAL_SOUNDTRACK_REMIXED"
+msgstr "Remixed"
+
 msgid "ADVSNDMNU_TITLE"
 msgstr "Advanced Sound Options"
 
