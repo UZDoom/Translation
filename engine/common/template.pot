@@ -780,6 +780,15 @@ msgstr ""
 msgid "SNDMNU_MIDIPLAYER"
 msgstr ""
 
+msgid "SNDMNU_EXSNDTRK"
+msgstr ""
+
+msgid "OPTVAL_SOUNDTRACK_ORIGINAL"
+msgstr ""
+
+msgid "OPTVAL_SOUNDTRACK_REMIXED"
+msgstr ""
+
 msgid "ADVSNDMNU_TITLE"
 msgstr ""
 
