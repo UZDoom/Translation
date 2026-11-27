@@ -5308,7 +5308,7 @@ msgstr ""
 msgid "CMPTMNU_BOOMSCROLLSTRICT"
 msgstr ""
 
-msgid "CMPTMNU_NOSOULBOUNCE"
+msgid "CMPTMNU_NOSOULCEILBOUNCE"
 msgstr ""
 
 msgid "PICKER_THEME"

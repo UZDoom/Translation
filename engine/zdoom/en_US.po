@@ -6872,7 +6872,7 @@ msgstr "Special lines block <use> without PassUse"
 msgid "CMPTMNU_BOOMSCROLLSTRICT"
 msgstr "Use strict Boom scroller physics"
 
-msgid "CMPTMNU_NOSOULBOUNCE"
+msgid "CMPTMNU_NOSOULCEILBOUNCE"
 msgstr "Lost Souls don't bounce off ceilings"
 
 msgid "PICKER_THEME"
