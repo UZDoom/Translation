@@ -5047,6 +5047,24 @@ msgstr ""
 msgid "CMPTMNU_AUTO"
 msgstr ""
 
+msgid "CMPTMNU_IGNOREWAD"
+msgstr ""
+
+msgid "CMPTMNU_MAP_YES"
+msgstr ""
+
+msgid "CMPTMNU_MAP_NO"
+msgstr ""
+
+msgid "CMPTMNU_AUTO_YES"
+msgstr ""
+
+msgid "CMPTMNU_MAP_YES_IGN"
+msgstr ""
+
+msgid "CMPTMNU_MAP_NO_IGN"
+msgstr ""
+
 msgid "DSPLYMNU_POWERUPFADE"
 msgstr ""
 
@@ -5273,6 +5291,24 @@ msgid "TXT_OK"
 msgstr ""
 
 msgid "CMPTMNU_TRANSFERSECRET"
+msgstr ""
+
+msgid "CMPTMNU_HITSCANSWITCHES"
+msgstr ""
+
+msgid "CMPTMNU_MONSTERPROJLINES"
+msgstr ""
+
+msgid "CMPTMNU_INFINITEMELEE"
+msgstr ""
+
+msgid "CMPTMNU_BOOMUSEBLOCKING"
+msgstr ""
+
+msgid "CMPTMNU_BOOMSCROLLSTRICT"
+msgstr ""
+
+msgid "CMPTMNU_NOSOULBOUNCE"
 msgstr ""
 
 msgid "PICKER_THEME"
