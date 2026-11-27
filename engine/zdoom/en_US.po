@@ -6593,6 +6593,24 @@ msgstr "Haptic Feedback Options"
 msgid "CMPTMNU_AUTO"
 msgstr "Auto-detect compatibility settings"
 
+msgid "CMPTMNU_IGNOREWAD"
+msgstr "Ignore WAD compatibility settings"
+
+msgid "CMPTMNU_MAP_YES"
+msgstr "(WAD: Yes)"
+
+msgid "CMPTMNU_MAP_NO"
+msgstr "(WAD: No)"
+
+msgid "CMPTMNU_AUTO_YES"
+msgstr "(Auto: Yes)"
+
+msgid "CMPTMNU_MAP_YES_IGN"
+msgstr "(WAD: Yes, ignored)"
+
+msgid "CMPTMNU_MAP_NO_IGN"
+msgstr "(WAD: No, ignored)"
+
 #, fuzzy
 msgid "DSPLYMNU_POWERUPFADE"
 msgstr "Powerup tint intensity"
@@ -6838,6 +6856,24 @@ msgstr "OK"
 
 msgid "CMPTMNU_TRANSFERSECRET"
 msgstr "BOOM's floor changing special transfers secret"
+
+msgid "CMPTMNU_HITSCANSWITCHES"
+msgstr "Only hitscans trigger shootable switches"
+
+msgid "CMPTMNU_MONSTERPROJLINES"
+msgstr "Doom II's monster projectiles trigger lines"
+
+msgid "CMPTMNU_INFINITEMELEE"
+msgstr "Infinite vertical melee range"
+
+msgid "CMPTMNU_BOOMUSEBLOCKING"
+msgstr "Special lines block <use> without PassUse"
+
+msgid "CMPTMNU_BOOMSCROLLSTRICT"
+msgstr "Use strict Boom scroller physics"
+
+msgid "CMPTMNU_NOSOULBOUNCE"
+msgstr "Lost Souls don't bounce off ceilings"
 
 msgid "PICKER_THEME"
 msgstr "Theme"
